@@ -1,0 +1,182 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "document",
+"id": "comer-luna-agency-letters-2025",
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025"
+},
+"claimTier": 2,
+"id": "e-a8928fb239",
+"label": "Co-author",
+"note": "Requesting a briefing on all UAP-related records in the recipients' possession.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"claimTier": 2,
+"id": "e-13fe300760",
+"label": "Caucus member; later chairs the Task Force",
+"note": "Described in February 2025 as 'a member of the bipartisan UAP Caucus' when named to chair the Task Force.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "comer-luna-agency-letters-2025",
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-c9f2bcbb07",
+"label": "Addressed to Director Ratcliffe",
+"note": "Ratcliffe had said as DNI that UAP exhibit technologies the United States does not have.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "comer-luna-agency-letters-2025",
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025"
+},
+"b": {
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio"
+},
+"claimTier": 2,
+"id": "e-69dbccaa02",
+"label": "Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence",
+"note": "Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+"b": {
+"cls": "document",
+"id": "comer-luna-agency-letters-2025",
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025"
+},
+"claimTier": 2,
+"id": "e-327d208b21",
+"label": "Co-author of the Task Force's opening records demand to State, Defense and CIA",
+"note": "Sent on establishment of the Task Force in February 2025.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 2,
+"id": "e-517e9a235b",
+"label": "Created the Task Force and named Luna to chair it",
+"note": "Comer announced the establishment of the Task Force on 11 February 2025.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-62bc16be1a",
+"label": "ICIG found Grusch's urgent-concern complaint credible and urgent, triggering notification of the intelligence committees",
+"note": "This finding is the legal predicate for the entire House inquiry, and it routed to the intelligence committees rather than to Oversight.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 2,
+"id": "e-9b201e2ba4",
+"label": "Chairman Comer created the Task Force and gave it the UAP declassification remit",
+"note": "Comer announced the Task Force on 11 February 2025 and named Luna chairwoman; its roster is printed in the 9 Sept 2025 hearing record.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thehill-com-06154bdf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "document",
+"id": "comer-luna-agency-letters-2025",
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025"
+},
+{
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+{
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+}
+],
+"node": null,
+"title": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+]
+}

@@ -1,0 +1,73 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-444ce25ab3",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/",
+"text": "DIA briefing: 'Performance by Bigelow Aerospace Advanced Space Studies (BAASS) has been excellent and they are in full compliance with aerospace contract HHM402-08-C-0072: extensive monthly status reports received; 12 project management plans received and executed; 26 detailed research reports (twice minimum requirement) received by 30 June 2009. Reviews of reports have been overwhelmingly positive.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-aa2bf72488",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/",
+"text": "Same briefing: 'Recommend that DIA should go forward with option year 1 with BAASS, subject to available funding. $12 million for the continuation of this contract by DIA/DI has been submitted in the FY10 defense budget; funding likely to be approved.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+"claimTier": 1,
+"id": "e-f690fa7e3c",
+"label": "",
+"note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-563dee43",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+}
+],
+"node": null,
+"title": "DIA briefing 'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)' (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-444ce25ab3",
+"c-aa2bf72488"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/"
+]
+}

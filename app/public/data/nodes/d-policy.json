@@ -8,20 +8,32 @@
 {
 "id": "c-886c81d39a",
 "source": "DoDD 5205.07",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoD Directive 5205.07 sets special access programme policy, categories and approval authority.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-981ffd902e",
 "source": "Avi Loeb, Medium, 1 July 2026",
+"sources": [],
 "text": "Avi Loeb published his own account of agreeing to lead a UAP Science Advisory Council for the US government, dated 1 July 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b399524bb1",
 "source": "Disclosure Foundation announcement",
+"sources": [],
 "text": "The Disclosure Foundation announced on 14 June 2026 that advisory board member Avi Loeb had been asked to assemble and lead a UAP Science Advisory Council of twelve scientists to support US government agencies with scientific analysis.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "domain",

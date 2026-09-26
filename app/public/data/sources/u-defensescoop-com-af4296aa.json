@@ -1,0 +1,328 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-877ed75e05",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-34e03e4558",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "PURSUE stands for Presidential Unsealing and Reporting System for UAP Encounters, per DefenseScoop reporting of 14 May 2026.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-554ed7306e",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "Christopher Mellon, former deputy assistant secretary of defense for intelligence: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8c82b472af",
+"locator": null,
+"node": "ryan-graves",
+"nodeLabel": "Ryan Graves",
+"sourceText": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-6e1c145ba1",
+"locator": null,
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "'The ambiguity of the video content in particular is concerning as no metadata was included.'",
+"tier": 2
+}
+],
+"date": "2026-05-14",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "alejandro-rojas",
+"label": "Alejandro Rojas"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-4e5792c74f",
+"label": "Catalogued the missing fields in the case summaries",
+"note": "Rojas identified absent coordinates, sensor parameters and altitude data as the specific omissions that block independent kinematic analysis.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-762b4fcde6",
+"label": "'Data alone is not disclosure'",
+"note": "Mellon's judgement six days after Release 01 became the framing for the entire research community's response.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-b36551417c",
+"label": "'Data alone is not disclosure' - the framing the House adopted",
+"note": "Mellon conceded the scale of the retained holdings is itself a revelation while rejecting the sufficiency of context-free files.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "enigma-labs",
+"label": "Enigma Labs"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-e537f24a5c",
+"label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
+"note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-63726b55c3",
+"label": "The data-scarcity claim survives the release only because the parameters were stripped",
+"note": "PURSUE falsified the claim that the imagery does not exist while preserving the claim that the data are insufficient, by publishing video without coordinates, sensor parameters or altitude.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+"claimTier": 1,
+"id": "e-3bda08c4ab",
+"label": "First tranche, 8 May 2026",
+"note": "160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, at least 100 carrying redactions.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 2,
+"id": "e-c05f0f0dc2",
+"label": "Executive-controlled release running in parallel to, and in tension with, the committee's compelled-production track",
+"note": "The House caucus response has been to keep issuing letters on the premise that a curated release cannot substitute for compelled production.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-673eed19d8",
+"label": "Assessment language reappears despite the no-comment posture",
+"note": "Release 04 material was characterised as consistent with balloons or sensor artefacts and as not clear evidence of unknown aircraft, reverting to the AARO idiom the release programme had disclaimed.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-3abcbd6b60",
+"label": "operational critique of the release format",
+"note": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-c96292e7fb",
+"label": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
+"note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-33aa609aa1",
+"label": "Said the absence of metadata made it impossible to conclude any object was truly anomalous",
+"note": "A 2024 House witness assessing the 2026 executive release.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-59de4c450c",
+"label": "Identified the missing metadata as the disqualifying defect",
+"note": "Gallaudet welcomed the first open admission that UAP files had been shielded and said the absence of metadata made it impossible to conclude any object was truly anomalous.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"claimTier": 2,
+"id": "e-d85ecad08d",
+"label": "Gallaudet named to the council as its oceanographer",
+"note": "A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-af4296aa",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "person",
+"id": "alejandro-rojas",
+"label": "Alejandro Rojas"
+},
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+{
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+{
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+{
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+}
+],
+"node": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"topics": [],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+]
+}

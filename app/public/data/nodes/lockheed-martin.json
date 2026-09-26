@@ -7,32 +7,54 @@
 {
 "id": "c-7589d37704",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [],
 "text": "Lockheed Martin is the largest single recipient of Department of Defense prime contract obligations; USAspending recipient records for Lockheed Martin entities total in the hundreds of billions of dollars since FY2008.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b6d6789c8c",
 "source": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ac64874b83",
 "source": "George Knapp, sworn testimony, 9 September 2025",
+"sources": [],
 "text": "Asked to name corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-43863cbfea",
 "source": "CHRG-118hhrg57440, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Elizondo confirmed on the record that the reported Lockheed Martin - Bigelow Aerospace transfer 'was blocked,' and that a memorandum from the Secretary of the Air Force required to complete it never issued.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ae7352ec1d",
 "source": "AARO, Historical Record Report Volume I, March 2024",
+"sources": [],
 "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

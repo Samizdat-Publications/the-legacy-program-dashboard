@@ -1,0 +1,214 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+"b": {
+"cls": "person",
+"id": "robert-low",
+"label": "Robert J. Low"
+},
+"claimTier": 2,
+"id": "e-e5faf782b0",
+"label": "Condon fired the investigators who surfaced Low's memo",
+"note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 1,
+"id": "e-232e3258de",
+"label": "Condon directed the study and wrote its conclusions personally",
+"note": "Condon authored the summary, conclusions and recommendations placed at the front of the report — the only section most readers and reporters ever saw.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "gerald-ford",
+"label": "Gerald R. Ford"
+},
+"b": {
+"cls": "event",
+"id": "hearing-1966-04-05",
+"label": "House Armed Services Committee UFO Hearing"
+},
+"claimTier": 2,
+"id": "e-15a76806cb",
+"label": "Ford forced the first congressional hearing on the subject",
+"note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-1966-04-05",
+"label": "House Armed Services Committee UFO Hearing"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 1,
+"id": "e-ddf66cd1bc",
+"label": "Congressional pressure produced a contracted study, not oversight",
+"note": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+"b": {
+"cls": "event",
+"id": "hearing-1966-04-05",
+"label": "House Armed Services Committee UFO Hearing"
+},
+"claimTier": 2,
+"id": "e-a2e93082a2",
+"label": "The swamp gas episode triggered the 1966 hearing",
+"note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald"
+},
+"b": {
+"cls": "document",
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"claimTier": 2,
+"id": "e-54a7c495e6",
+"label": "McDonald was the conduit that put the memo into public circulation",
+"note": "McDonald received the memo from project staff and it reached John Fuller, who published it in Look in May 1968 as 'Flying Saucer Fiasco'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 1,
+"id": "e-2b3bc4cf0f",
+"label": "The memo states the intent to present differently to public and scientists",
+"note": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 3,
+"id": "e-780a0151a2",
+"label": "Both official studies buried an unexplained residue under dismissive conclusions",
+"note": "SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-low",
+"label": "Robert J. Low"
+},
+"b": {
+"cls": "document",
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"claimTier": 1,
+"id": "e-29cedfe4df",
+"label": "Low wrote the memo two months before the contract was signed",
+"note": "Written 9 August 1966 to University of Colorado administrators, before the 6 October 1966 project formation — the design predates the data.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-files-ncas-org-e5f381eb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "files.ncas.org",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+},
+{
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+{
+"cls": "person",
+"id": "gerald-ford",
+"label": "Gerald R. Ford"
+},
+{
+"cls": "domain",
+"id": "d-history",
+"label": "Historiography"
+},
+{
+"cls": "event",
+"id": "hearing-1966-04-05",
+"label": "House Armed Services Committee UFO Hearing"
+},
+{
+"cls": "document",
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+{
+"cls": "person",
+"id": "robert-low",
+"label": "Robert J. Low"
+},
+{
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+}
+],
+"node": null,
+"title": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://files.ncas.org/condon/"
+]
+}

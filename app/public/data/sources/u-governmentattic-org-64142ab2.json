@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-5cbeb54c42",
+"locator": null,
+"node": "grill-flame",
+"nodeLabel": "GRILL FLAME",
+"sourceText": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+"text": "The programme's origin and its transfer are both dated in INSCOM's own history. The FY 1981 Annual Historical Review records that 'Project GRILL FLAME originated as a specially controlled and compartmented activity under the direct supervision of the ACSI, DA, and in coordination with other DOD agencies concerned with related activity. ACSI orally tasked HQ INSCOM to evaluate Project GRILL FLAME in October 1978', and that 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The section is partly withheld under 5 U.S.C. 552(b)(1) and (b)(3) and its source note names 'IA(HQ) Form 32, Formalization of Project GRILL FLAME (10 Sep 81) (S/NOFORN)'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-19bbd719b9",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+"text": "GRILL FLAME's transfer to INSCOM has a date and an office. The INSCOM Annual Historical Review for FY 1981 records: 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The same review's unit appendix for 30 September 1981 lists the US Army Operational Group and does not list any Intelligence Support Activity.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-governmentattic-org-64142ab2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "governmentattic.org",
+"listedOn": [
+{
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, INSCOM History Office, released 11 September 2018 after mandatory declassification review",
+"topics": [
+{
+"claims": [
+"c-5cbeb54c42",
+"c-19bbd719b9"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "document",
+"urls": [
+"https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+]
+}

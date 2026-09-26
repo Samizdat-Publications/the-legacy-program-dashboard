@@ -1,0 +1,157 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ccff45cfe6",
+"locator": null,
+"node": "jack-reed",
+"nodeLabel": "John F. Reed",
+"sourceText": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"text": "Reed was Chairman of the Senate Armed Services Committee in the 118th Congress.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-be95f060f4",
+"locator": null,
+"node": "patty-murray",
+"nodeLabel": "Patty Murray",
+"sourceText": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"text": "Murray was Chairman of the Senate Appropriations Committee in the 118th Congress.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1e439d98a1",
+"locator": null,
+"node": "roger-wicker",
+"nodeLabel": "Roger F. Wicker",
+"sourceText": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"text": "Wicker was Ranking Member of the Senate Armed Services Committee in the 118th Congress, opposite Chairman Jack Reed.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2c03da0115",
+"locator": null,
+"node": "susan-collins",
+"nodeLabel": "Susan M. Collins",
+"sourceText": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"text": "In the 118th Congress Collins was the ranking minority member of the Senate Appropriations Committee and also the ranking minority member of its Defense Subcommittee, which was chaired by Jon Tester.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-fc709cd228",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"text": "2023 holders (118th Congress), Senate: SASC Chairman Jack Reed, Ranking Member Roger F. Wicker; SAC Chairman Patty Murray, Ranking Member Susan M. Collins; SAC Defense Subcommittee Chairman Jon Tester, Ranking Member Susan M. Collins.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 3,
+"id": "e-d808083e35",
+"label": "allegations of a programme withheld from the statutory notification channel",
+"note": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-ffb1c0ae15",
+"label": "seat 2 of 12 - Ranking Member, Senate Armed Services",
+"note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-collins",
+"label": "Susan M. Collins"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-7c1a543371",
+"label": "seat 3 of 12 - Chair, Senate Appropriations",
+"note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-govinfo-gov-9630a066",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+{
+"cls": "person",
+"id": "patty-murray",
+"label": "Patty Murray"
+},
+{
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+{
+"cls": "person",
+"id": "susan-collins",
+"label": "Susan M. Collins"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"topics": [
+{
+"claims": [
+"c-2c03da0115",
+"c-fc709cd228"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+]
+}

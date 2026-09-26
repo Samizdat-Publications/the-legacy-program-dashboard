@@ -7,44 +7,75 @@
 {
 "id": "c-55c24fcbd3",
 "source": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ufohastings-com-c80b0c86",
+"locator": null,
+"title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+}
+],
 "text": "The roster with ranks, units and periods, from Hastings's own page: Dwynne Arneson, Lt Col, 28th Air Division, Malmstrom AFB, 1967; Bruce Fenstermacher, Capt, missile combat crew commander, F. E. Warren AFB, 1974 to 1977; Charles Halt, Lt Col and later Col, RAF Bentwaters and Woodbridge and later Kunsan AB; Robert Jamison, Capt, ICBM combat targeting team, Malmstrom AFB, January 1965 to October 1967; Patrick McDonough, geodetic surveyor, F. E. Warren AFB, 1962 to 1966; Jerry Nelson, deputy missile crew commander, 579th Strategic Missile Squadron, Walker AFB, Roswell; and Robert Salas, Capt, Malmstrom AFB. The page names McDonough, Salas, Jamison, Arneson, Fenstermacher and Halt as having executed affidavits.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-84fa7fc062",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "A DATA-INTEGRITY FLAG ON THAT ROSTER, RECORDED RATHER THAN QUIETLY CORRECTED. The fetch of Hastings's page by this session rendered Salas's line as a 1969 incident. Every other source opened, including this board's own robert-salas node, gives March 1967. This session could not confirm whether the string '1969' is actually on the page or is a summarisation artefact. DO NOT CARRY 1969 ANYWHERE. The discrepancy is recorded as unresolved.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-fb6088351b",
 "source": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-ufohastings-com-c80b0c86",
+"locator": null,
+"title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+},
+{
+"id": "u-ufohastings-com-2cec562c",
+"locator": null,
+"title": "UFOs & Nukes, 'About', Robert Hastings's own biographical page. Opened 19 September 2026"
+}
+],
 "text": "The witness count Hastings gives on this page differs from the one on his own biographical page. Here: 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' There: 'To date, Hastings has interviewed more than 150 military veterans.' Both pages were opened on the same day.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f2611fe519",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "SECTION 2a PROVENANCE FOR THE PANEL AS A WHOLE. Of the seven veterans, one, Charles Halt, had already written the operative document himself in 1981 as a serving deputy base commander, and one, Robert Salas, had approached a newspaper himself in 1996. For the other five this event is their first appearance in the public record. Neither page opened by this board states how Hastings located any of them.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-deaa295d00",
 "source": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
+"sources": [],
 "text": "Seven US Air Force veterans discussed UFO incursions at nuclear weapons sites at the National Press Club on 27 September 2010; CNN streamed the event live and carried coverage.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2c45f86e94",
 "source": "CNN report on the press conference, 27 September 2010",
+"sources": [],
 "text": "Hastings said at the podium: 'Regarding the missile shut-down incidents, my opinion, their opinion, is that whoever are aboard this craft are sending a signal to both Washington and Moscow, among others, that we are playing with fire.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4384238fed",
 "source": "ufohastings.com, 'Witness Affidavits' section",
+"sources": [],
 "text": "Signed affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson are published in facsimile in the UFOs & Nukes document archive.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "event",

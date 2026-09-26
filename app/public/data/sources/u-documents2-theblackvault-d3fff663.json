@@ -1,0 +1,140 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-12d3cba98d",
+"locator": null,
+"node": "paul-czysz",
+"nodeLabel": "Paul A. Czysz",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"text": "The released cover page of the Space Access DIRD redacts the author name under FOIA exemption (b)(6) and reads only \"Author: [redacted].\" The attribution to Czysz rests on the DIA list, not on the document.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cfcd1c2b3d",
+"locator": null,
+"node": "dird-space-access-where-we-ve-been",
+"nodeLabel": "Space Access: Where We've Been and Where We Could Go",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"text": "Contents are conventional hypersonics and launch engineering: propulsion perspective, hypersonic configuration concepts, thermodynamics and materials, rocket propulsion, launch options, atmospheric variations, and appendices on transatmospheric vehicle operational costs and landing ellipses for hypersonic gliders. No anomalous-physics content.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d4c7dda74b",
+"locator": null,
+"node": "dird-space-access-where-we-ve-been",
+"nodeLabel": "Space Access: Where We've Been and Where We Could Go",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"text": "The released cover page reads \"March 2010 / ICOD: 1 December 2009 / DIA-08-1001-006,\" series \"Acquisition Threat Support,\" full title \"Space Access: Where We've Been ... and Where We Could Go.\"",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d9a77af951",
+"locator": null,
+"node": "dird-space-access-where-we-ve-been",
+"nodeLabel": "Space Access: Where We've Been and Where We Could Go",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"text": "Inside cover administrative note: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\" The author line reads \"Author: [redacted (b)(6)].\"",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+},
+"claimTier": 1,
+"id": "e-b8d7d680d4",
+"label": "FY2009 AAWSAP deliverable",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+},
+"claimTier": 1,
+"id": "e-353e15ee6a",
+"label": "published by DIA as DIA-08-1001-006, Acquisition Threat Support series",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-czysz",
+"label": "Paul A. Czysz"
+},
+"b": {
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+},
+"claimTier": 1,
+"id": "e-a4d473a7b9",
+"label": "author of record on the DIA list",
+"note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+},
+"claimTier": 1,
+"id": "e-cd07471ac9",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 1 December 2009 on the cover. 57 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-d3fff663",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "paul-czysz",
+"label": "Paul A. Czysz"
+},
+{
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+}
+],
+"node": null,
+"title": "Defense Intelligence Reference Document, \"Space Access: Where We've Been ... and Where We Could Go\" (The Black Vault FOIA release)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+]
+}

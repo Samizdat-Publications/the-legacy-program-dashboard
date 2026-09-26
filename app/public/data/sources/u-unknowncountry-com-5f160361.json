@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "document",
+"id": "grusch-v-chapman",
+"label": "David C. Grusch v. Michael Chapman et al."
+},
+"claimTier": 1,
+"id": "e-f1eb7e870e",
+"label": "Plaintiff; suit dismissed with prejudice 6 August 2025",
+"note": "Filed 15 July 2024 in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee. Dismissed with prejudice on 6 August 2025 on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records. The outcome establishes that no legal shield protected the whistleblower's most sensitive records.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-unknowncountry-com-5f160361",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "unknowncountry.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "grusch-v-chapman",
+"label": "David C. Grusch v. Michael Chapman et al."
+}
+],
+"node": null,
+"title": "Unknown Country - Grusch's Privacy Lawsuit has been Dismissed",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://unknowncountry.com/headline-news/gruschs-privacy-lawsuit-has-been-dismissed-what-does-this-say-about-protections-for-future-uap-whistleblowers/"
+]
+}

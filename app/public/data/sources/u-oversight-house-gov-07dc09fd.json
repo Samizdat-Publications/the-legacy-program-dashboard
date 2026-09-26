@@ -1,0 +1,115 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 2,
+"id": "e-81ce0d2560",
+"label": "'The most error-ridden and unsatisfactory government report I can recall reading'",
+"note": "Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and SSCI staff director, attacked the AARO report's quality at the September 2025 Task Force hearing - an oversight professional's judgment on the rebuttal's workmanship rather than on the phenomenon.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pogo",
+"label": "Project On Government Oversight"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 1,
+"id": "e-a50886e01d",
+"label": "POGO recommendations delivered to Luna's task force",
+"note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-7778e19162",
+"label": "Held the UAP transparency and whistleblower protection hearing",
+"note": "The hearing where the Crane reprisal letter entered the record and where Knapp and Mace put ongoing retaliation against Grusch into the official transcript.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-731b16e397",
+"label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+"note": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-07dc09fd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+{
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+}
+],
+"node": null,
+"title": "House Oversight Committee release: Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency",
+"https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+]
+}

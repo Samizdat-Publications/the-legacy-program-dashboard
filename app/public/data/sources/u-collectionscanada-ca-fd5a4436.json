@@ -1,0 +1,48 @@
+{
+"archived": [
+"https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1401-e.html"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+},
+"b": {
+"cls": "institution",
+"id": "lac-ufo-collection",
+"label": "Library and Archives Canada - UFO records collection"
+},
+"claimTier": 1,
+"id": "e-63e8053c9f",
+"label": "Project Magnet records held at LAC",
+"note": "LAC cites the Project Magnet and Second Story files as RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-collectionscanada-ca-fd5a4436",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "collectionscanada.ca",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-ottawa",
+"label": "Ottawa, Ontario, Canada"
+},
+{
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+}
+],
+"node": null,
+"title": "Library and Archives Canada - Project Magnet report page",
+"topics": [],
+"type": "web page",
+"urls": []
+}

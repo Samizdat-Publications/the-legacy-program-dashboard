@@ -84,62 +84,100 @@
 {
 "id": "c-1d267ac2fe",
 "source": "Garry Nolan, quoted in The Debrief, 5 June 2023",
+"sources": [],
 "text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-15d2e950a8",
 "source": "House Oversight witness biography, 26 July 2023",
+"sources": [],
 "text": "Grusch's House Oversight biography lists him as Chief Operating Officer of The Sol Foundation from May 2023, the organization Nolan co-founded.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-397d63b6a9",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"sources": [],
 "text": "Nolan is senior author of 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128 (2022) 100788, with Jacques F. Vallee, Sizun Jiang and Larry G. Lemke.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-bf51579601",
 "source": "The Sol Foundation Science and Policy Briefings No. 3, April 2026, summarising the Nolan/Vallee paper",
+"sources": [],
 "text": "The Council Bluffs analysis found no anomalous isotopic values but incomplete mixing of the constituent metals, indicating an industrial process of unknown origin, and ruled out meteorite, satellite/spacecraft, aircraft-debris, molten-metal-dumping and thermite explanations.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-87216993fd",
 "source": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
+"sources": [],
 "text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f6da2bc26a",
 "source": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
+"sources": [],
 "text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-bbd1fdef49",
 "source": "Inference from Nolan's own framing of the approach; the corporation has never been named by him or by any document",
+"sources": [],
 "text": "The 'aerospace corporation' Nolan will not name is a prime with a legacy materials role; the approach came through a government element that could not run the analysis in a federal laboratory without creating a record. That is the reason a Stanford pathology laboratory was used.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-f37d3e73cc",
 "source": "https://www.thesolfoundation.org/",
+"sources": [
+{
+"id": "u-thesolfoundation-org-2c2a9147",
+"locator": null,
+"title": "The Sol Foundation"
+}
+],
 "text": "Executive Director of the Board of the Sol Foundation, which he co-founded with Peter Skafish.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7392a2a789",
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"sources": [
+{
+"id": "u-thesolfoundation-org-1955652b",
+"locator": null,
+"title": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'"
+}
+],
 "text": "Named to the UAP Science Advisory Council alongside co-founder Peter Skafish in June 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2c5d74b65c",
 "source": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"sources": [
+{
+"id": "u-thesolfoundation-org-0e6cf6ba",
+"locator": null,
+"title": "The Sol Foundation, Science and Policy Briefing No. 3 (Marik von Rennenkampff, April 2026)"
+}
+],
 "text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

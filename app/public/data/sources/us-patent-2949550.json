@@ -1,0 +1,134 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-c7fb7016e2",
+"locator": null,
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "US Patents 2,949,550 and 3,187,206, complete texts, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf and https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , both opened 2026-09-19",
+"text": "THE CAPACITOR-STACK READING, MEASURED AGAINST THE SAME STANDARD. The board already records that the account attributes the claimed lift effect to a Brown patent 'filed back in the late 1950s/early 1960s' and that neither candidate patent claims anti-gravity. Both patents have now been opened and word-counted: across all six pages of US 2,949,550 and all six pages of US 3,187,206, the word 'gravity' appears 0 times, anti-gravity 0, levitation 0, electrogravitics 0. US 3,187,206 opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields.' IT IS THE ACCOUNT THAT REINTERPRETS ELECTROKINETIC THRUST AS LEVITATION, and the patents do not support the reinterpretation.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-01385c5532",
+"locator": null,
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12, read against the board's existing claims on thomas-townsend-brown for US 3,187,206 and US 2,949,550",
+"text": "The account attributes the claimed lift effect to Thomas Townsend Brown. The 2001 testimony describes an experiment by 'Mark Stambough' that floated a plate capacitor at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown. Brown and another individual by the name of Dr. Biefield had done this, so this effect became known as the Biefield-Brown effect.' The direction of motion is given as toward the positively charged plate. The board's own record of both candidate patents is that NEITHER claims anti-gravity: US 3,187,206, filed 9 May 1958, opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields', and US 2,949,550, filed 3 July 1957, claims 'Thrust producing apparatus' operating by impressing high voltage between a body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium'. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-f6cd6a6416",
+"locator": "and US 3,187,206 against the board's existing claims on arv-fluxliner, opened 2026-09-19",
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "Reasoning over the opened texts of US 3,322,374, US 2,949,550 and US 3,187,206 against the board's existing claims on arv-fluxliner, opened 2026-09-19",
+"text": "Stated inference, and it is the strand's classification of this cluster. The ARV account and the TR-3B account make the same move in two different directions: the ARV account takes a real document that claims one thing and reads it as claiming another, and the King citation takes a real document that mentions neither scalar physics nor gravity and offers it as proof of both. Neither is a dispute about evidence. Both are citations that have never been placed beside the documents they name.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-1a687f4dcd",
+"locator": "'Electrokinetic Apparatus', complete 6-page text, , opened 2026-09-19",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 2,949,550, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19",
+"text": "US 2,949,550 bibliographic facts as printed on the patent: '2,949,550 / Patented Aug. 16, 1960 / ELECTROKINETIC APPARATUS / Thomas Townsend Brown, Umatilla, Fla., assignor to Whitehall-Rand, Inc., Washington, D.C., a corporation of Delaware / Filed July 3, 1957, Ser. No. 669,830 / 12 Claims. (Cl. 310-5)'. A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS: what it claims is 'Thrust producing apparatus' operating by impressing high voltage between an electroconductive body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium surrounding said electrodes'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1a687f4dcd",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 2,949,550, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19",
+"text": "US 2,949,550 bibliographic facts as printed on the patent: '2,949,550 / Patented Aug. 16, 1960 / ELECTROKINETIC APPARATUS / Thomas Townsend Brown, Umatilla, Fla., assignor to Whitehall-Rand, Inc., Washington, D.C., a corporation of Delaware / Filed July 3, 1957, Ser. No. 669,830 / 12 Claims. (Cl. 310-5)'. A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS: what it claims is 'Thrust producing apparatus' operating by impressing high voltage between an electroconductive body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium surrounding said electrodes'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-80e9762616",
+"locator": "'Electrokinetic Apparatus', complete 6-page text, , opened 2026-09-19",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 2,949,550, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19",
+"text": "US 2,949,550 dates the disclosure five years earlier than the board previously recorded: 'This invention was disclosed and described in my application Serial No. 293,465, filed June 13, 1952, which application has become abandoned. However, reference may be made to this application for the purpose of completing the disclosure set forth below.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-80e9762616",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 2,949,550, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19",
+"text": "US 2,949,550 dates the disclosure five years earlier than the board previously recorded: 'This invention was disclosed and described in my application Serial No. 293,465, filed June 13, 1952, which application has become abandoned. However, reference may be made to this application for the purpose of completing the disclosure set forth below.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9548b7fe56",
+"locator": "first claim",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 2,949,550, first claim",
+"text": "US Patent 2,949,550, 'Electrokinetic Apparatus', filed 3 July 1957 and granted 16 August 1960, claims 'Thrust producing apparatus' operating by impressing high voltage between a body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "us-patent-2949550",
+"identifiers": [
+"US Patent 2,949,550"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "US Patent 2,949,550",
+"topics": [
+{
+"claims": [
+"c-1a687f4dcd",
+"c-1a687f4dcd",
+"c-80e9762616",
+"c-80e9762616"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+},
+{
+"claims": [
+"c-c7fb7016e2",
+"c-01385c5532",
+"c-f6cd6a6416"
+],
+"id": "arv-fluxliner",
+"title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+}
+],
+"type": "document",
+"urls": [
+"https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf",
+"https://patents.google.com/patent/US2949550A/en"
+]
+}

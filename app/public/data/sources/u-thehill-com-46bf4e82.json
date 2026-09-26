@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"claimTier": 1,
+"id": "e-30c7b9de6c",
+"label": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
+"note": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-hill",
+"label": "The Hill"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-04e011f37a",
+"label": "Continuing coverage of Grusch and congressional UAP transparency push",
+"note": "The Hill has carried repeated reporting on Grusch's claims and on lawmakers' efforts to get him into a classified setting, including 'Congress continues to seek answers on UFOs' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-thehill-com-46bf4e82",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+}
+],
+"node": null,
+"title": "The Hill: Congress continues to seek answers on UFOs (Grusch hired as Burlison senior adviser)",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/"
+]
+}

@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-d2096f9588",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "Physical Review C 69, 021601(R), 2 February 2004; and Emile Kinley-Gauthier, 'The Strange Case of Bob Lazar', Skeptic, 23 April 2026, https://www.skeptic.com/article/the-strange-case-of-bob-lazar/ , opened 2026-09-18",
+"text": "THE COLLISION, STATED WITHOUT OVERSTATEMENT AND WITHOUT SOFTENING. Nothing about moscovium is stable, machinable, storable or available in gram quantities: it is produced one atom at a time at cross sections of about one picobarn and its decay chains run to completion within seconds. That is a direct contradiction of the claim's central requirement. It is NOT a refutation of the existence of element 115, which was never in dispute and was predicted long before 1989. Skeptic magazine's April 2026 treatment states the position correctly: IUPAC recognition 'does not validate Lazar's specific claims about a stable isotope or gravity propulsion'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-skeptic-com-8305ac84",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Skeptic",
+"listedOn": [
+{
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+}
+],
+"node": null,
+"title": "Emile Kinley-Gauthier, 'The Strange Case of Bob Lazar', Skeptic",
+"topics": [
+{
+"claims": [
+"c-d2096f9588"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-d2096f9588"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+}
+],
+"type": "article",
+"urls": [
+"https://www.skeptic.com/article/the-strange-case-of-bob-lazar/"
+]
+}

@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9ee12d89ea",
+"locator": null,
+"node": "sidney-souers",
+"nodeLabel": "Rear Adm. Sidney W. Souers",
+"sourceText": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, Document 137, 2 February 1946, https://history.state.gov/historicaldocuments/frus1945-50Intel/d137",
+"text": "He held the post and signed in it within two weeks: the memorandum of 2 February 1946 proposing the tentative organisation of the Central Intelligence Group is captioned 'Memorandum From the Director of Central Intelligence (Souers) to the National Intelligence Authority' and carries the typed signature 'Sidney W. Souers'. Its source note is NARA RG 59, Bureau of Intelligence and Research, Lot 58 D 776.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-604aaaa21a",
+"label": "First Director of Central Intelligence, 22 January to 10 June 1946",
+"note": "He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-history-state-gov-7f0641f3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+}
+],
+"node": null,
+"title": "FRUS 1945-50 Intel, Docs. 71 and 137, and List of Persons",
+"topics": [
+{
+"claims": [
+"c-9ee12d89ea"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1945-50Intel/d137"
+]
+}

@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-4f9a5b694f",
+"locator": null,
+"node": "loring-1975",
+"nodeLabel": "Loring AFB penetrations, 27 to 31 October 1975",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
+"text": "SSgt Danny K. Lewis of the 42nd Security Police Squadron first sighted the object at about 1945 on 27 October 1975 while on duty at the munitions storage area; Sgt Clifton W. Blakeslee and SSgt William J. Long saw a similar craft the following night; SSgt James P. Sampley of the 2192nd Communications Squadron tracked it on tower radar; and Sgt Grover K. Eggleston tracked it for forty minutes before it vanished from the screen.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-995bfbadff",
+"locator": null,
+"node": "l-loring",
+"nodeLabel": "Loring AFB, Maine",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
+"text": "Named Loring witnesses are in the contemporaneous record rather than in any interview programme: SSgt Danny K. Lewis, Sgt Clifton W. Blakeslee, SSgt William J. Long, SSgt Michael D. Scott, TSgt David E. Mott and Capt. Richard R. Fuhs of the 42nd Security Police Squadron; SSgt James P. Sampley and Sgt Grover K. Eggleston of the 2192nd Communications Squadron; Sgt Steven Eichner and Sgt R. Jones of a B-52 crew; and Col. Richard E. Chapman, Commander of the 42nd Bomb Wing, who implemented a Security Option 3 alert.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-nicap-org-fb4b519b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "event",
+"id": "loring-1975",
+"label": "Loring AFB penetrations, 27 to 31 October 1975"
+},
+{
+"cls": "location",
+"id": "l-loring",
+"label": "Loring AFB, Maine"
+}
+],
+"node": null,
+"title": "NICAP, 'Loring AFB Intrusions', sourced to Fawcett and Greenwood, 'Clear Intent', pp. 16-26. Opened 19 September 2026",
+"topics": [
+{
+"claims": [
+"c-4f9a5b694f",
+"c-995bfbadff"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+}
+],
+"type": "web page",
+"urls": [
+"http://www.nicap.org/articles/CI-Loring.htm"
+]
+}

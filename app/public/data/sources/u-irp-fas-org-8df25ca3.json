@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-745fe1147f",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159, both releases compared, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf and https://irp.fas.org/offdocs/nsdd/nsdd-159.htm",
+"text": "TWO DIFFERENT RELEASES CIRCULATE AND THEY ARE NOT THE SAME DOCUMENT. The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and was partially declassified on 5 June 1987 under EO 12356. The Reagan Library copy is the fuller release, stamped 'Authority Leary to Weinstein ltr 4/20/05 / BY RW NARA DATE 1/30/12'. Anyone citing NSDD 159 should say which one they read.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+},
+"b": {
+"cls": "legislation",
+"id": "eo-12356",
+"label": "Executive Order 12356 - National Security Information (2 April 1982)"
+},
+"claimTier": 1,
+"id": "e-e578f975a1",
+"label": "Its first partial release was made under this order",
+"note": "The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and partially declassified on 5 June 1987 under the provisions of EO 12356. The order that removed the public-interest test is the order under which the directive was first, partially, let out.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-irp-fas-org-8df25ca3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+}
+],
+"node": null,
+"title": "NSDD 159 FAS extract, declassification stamp",
+"topics": [
+{
+"claims": [
+"c-745fe1147f"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "web page",
+"urls": [
+"https://irp.fas.org/offdocs/nsdd/nsdd-159.htm"
+]
+}

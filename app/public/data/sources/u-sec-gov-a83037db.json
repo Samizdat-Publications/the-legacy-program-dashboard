@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-9546611c6e",
+"locator": null,
+"node": "trw-inc",
+"nodeLabel": "TRW Inc.",
+"sourceText": "Northrop Grumman Corporation, Form 8-K, earliest event 11 December 2002, Item 2, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm",
+"text": "The Northrop Grumman merger closed on a stated date: 'Pursuant to the merger agreement, on December 11, 2002, Richmond Acquisition Corp. was merged with and into TRW, with TRW surviving the merger as a wholly-owned subsidiary of Northrop Grumman.' The exchange ratio was 0.5357 Northrop shares per TRW share.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+},
+"b": {
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+},
+"claimTier": 1,
+"id": "e-e21cd21c0e",
+"label": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
+"note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+},
+"b": {
+"cls": "document",
+"id": "gerb-northrop-trw-investigation",
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+},
+"claimTier": 2,
+"id": "e-bec9bfa851",
+"label": "The subject of the 20 March 2026 corporate-breakaway argument",
+"note": "The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-sec-gov-a83037db",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+}
+],
+"node": null,
+"title": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002",
+"topics": [
+{
+"claims": [
+"c-9546611c6e"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm"
+]
+}

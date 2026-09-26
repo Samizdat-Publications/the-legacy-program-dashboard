@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 2,
+"id": "e-fe0b4583e4",
+"label": "met members in May 2026 and, per Luna, apologised for prior AARO leadership's conduct",
+"note": "Luna, who had spent over a year demanding the office be shut down, publicly backed Kosloski afterward and said the prior office had been 'intentionally set up to block, stonewall, and suppress information.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 3,
+"id": "e-86089ba6c3",
+"label": "successor whose reported apology to Congress concerns his predecessor's conduct",
+"note": "If Luna's account is accurate, a sitting AARO director conceded to members of Congress that the office's founding leadership behaved improperly toward Congress and witnesses - the nearest thing to an institutional admission in the record.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-ufonews-co-2a6ca927",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufonews.co",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "UFONews - Luna Backs AARO Director After Year Of Attacks",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.ufonews.co/post/luna-backs-aaro-director-after-year-of-attacks"
+]
+}

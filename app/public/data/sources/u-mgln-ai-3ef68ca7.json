@@ -1,0 +1,103 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-705372c2d3",
+"locator": null,
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:39:03, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:39:03, Michels said Condon 'wrote the McMahon Secrecy Act of 1946, which is the precursor to the Atomic Energy Act of 1954'. The authorship attribution is the speaker's own and is offered without a citation. Neither the McMahon Act nor an authorship claim about it is on this board.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-17f3e8306d",
+"locator": null,
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:33:16, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:33:16, Michels said that David Grusch identifies the people who set up the secrecy protocols for UFOs as Robert J. Oppenheimer and Sarbacher, and that the two are 'responsible for the 1954 Atomic Energy Commission which overlaid nuclear secrecy on top of UFO secrecy'. The claim is Michels relaying Grusch, it concerns 1954 rather than the period the 1983 letter covers, and no document is cited for it on air.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8a608d7cdf",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:24:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"text": "In the same episode at 0:24:12 Michels named Brown's Santa Monica operation of the 1950s as 'guidance technologies' and placed Bill Lear's office across the street from it. Neither the operation's name nor the Santa Monica location appears in the board's record of Brown.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-cf8879449c",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:27:32, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"text": "On American Alchemy with Jesse Michels, 19 October 2024, Michels said at 0:27:32 that the British aerospace journalist Bill Gunston, writing in Air International magazine in 2000, stated he was very sure Brown's work made it into the B-2 stealth bomber, and that Gunston added he had no wish to reside in the Tower of London. This is the named, dated source for the B-2 attribution the board otherwise carries without an author.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-3ef68ca7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+{
+"cls": "person",
+"id": "robert-sarbacher",
+"label": "Robert I. Sarbacher"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-17f3e8306d"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+},
+{
+"claims": [
+"c-cf8879449c"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+},
+{
+"claims": [
+"c-705372c2d3"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+]
+}

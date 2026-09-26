@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-040a7e5e0b",
+"label": "authored the statutory mandate and reporting regime AARO operates under",
+"note": "Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-04-19",
+"label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'"
+},
+"claimTier": 1,
+"id": "e-89405ee526",
+"label": "sole DoD witness; testified AARO held 650+ cases",
+"note": "The only open Senate hearing on AARO under its first director, published as S.Hrg. 118-648.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-3c344e9d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+{
+"cls": "event",
+"id": "hearing-2023-04-19",
+"label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'"
+}
+],
+"node": null,
+"title": "Congress.gov - S.Hrg. 118-648",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/event/118th-congress/senate-event/LC74346/text"
+]
+}

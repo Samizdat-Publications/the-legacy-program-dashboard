@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 3,
+"id": "e-cf61c445f9",
+"label": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
+"note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "jason-providakes",
+"label": "Jason Providakes"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-c333c1f34b",
+"label": "President and CEO through the entire modern disclosure sequence, 2017-2024",
+"note": "His tenure spans the December 2017 AATIP revelation, the UAP Task Force, the 2021 ODNI assessment, AARO's creation, and the Grusch testimony - the period Burlison's request covers.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "mark-peters",
+"label": "Mark Todd Peters"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-a4de721608",
+"label": "President and CEO from 3 September 2024",
+"note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-mitre-org-fc3fd165",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "person",
+"id": "jason-providakes",
+"label": "Jason Providakes"
+},
+{
+"cls": "person",
+"id": "mark-peters",
+"label": "Mark Todd Peters"
+}
+],
+"node": null,
+"title": "MITRE news release",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/news-insights/news-release/mark-peters-named-new-mitre-president-and-ceo"
+]
+}

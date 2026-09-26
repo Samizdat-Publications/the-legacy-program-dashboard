@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-6f95ce7b6e",
+"locator": "106 Stat. 3443",
+"node": "d-records",
+"nodeLabel": "Records & Archives",
+"sourceText": "P.L. 102-526, 106 Stat. 3443",
+"text": "The President John F. Kennedy Assassination Records Collection Act of 1992 is the statutory template: a presumption of immediate disclosure, a defined collection at NARA, and an independent Review Board empowered to override agency withholding.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "pl-102-526",
+"identifiers": [
+"Public Law 102-526"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "Public Law 102-526",
+"topics": [
+{
+"claims": [
+"c-6f95ce7b6e"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "statute",
+"urls": []
+}

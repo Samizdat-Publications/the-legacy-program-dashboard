@@ -1,0 +1,140 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-1560e620c1",
+"locator": "secs. 1 and 20",
+"node": "eo-10501",
+"nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"sourceText": "EO 10501 secs. 1 and 20, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "Signed 'DWIGHT D. EISENHOWER / THE WHITE HOUSE / November 5, 1953', effective 15 December 1953 under section 20.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8ab1c2ba39",
+"locator": "sec. 1",
+"node": "eo-10501",
+"nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"sourceText": "EO 10501 sec. 1, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "Section 1 fixes exactly three categories, Top Secret, Secret and Confidential, and bars any other designation for defense information 'except as expressly provided by statute.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-c323945390",
+"locator": "sec. 2 and attached memorandum",
+"node": "eo-10501",
+"nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"sourceText": "EO 10501 sec. 2 and attached memorandum, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "IT TOOK CLASSIFICATION AUTHORITY AWAY, WHICH IS THE OPPOSITE OF THE DIRECTION THE SYSTEM LATER TRAVELLED. Section 2, 'Limitation of Authority to Classify', provides that for agencies with no direct national-defense responsibility 'there shall be no authority for original classification of information or material under this order', and limits agencies with partial responsibility to the agency head without delegation. The attached memorandum names 28 agencies stripped of the authority, including the Federal Trade Commission, the Securities and Exchange Commission and the Veterans Administration, and 17 more limited to the agency head alone.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e19778c6ee",
+"locator": "sec. 19",
+"node": "eo-10501",
+"nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"sourceText": "EO 10501 sec. 19, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "Section 19: 'Executive Order No. 10290 of September 24, 1951 is revoked as of the effective date of this order.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f9be6c632c",
+"locator": "sec. 13",
+"node": "eo-10501",
+"nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"sourceText": "EO 10501 sec. 13, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "THE JOIN TO THE NUCLEAR REGIME. Section 13 expressly leaves Atomic Energy Act Restricted Data outside the order's reach. The executive classification system and the statutory Restricted Data system are two systems, and the executive one says so.",
+"tier": 1
+}
+],
+"date": "1953-11-05",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "eo-10501",
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+},
+"b": {
+"cls": "legislation",
+"id": "atomic-energy-act-1954",
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
+},
+"claimTier": 1,
+"id": "e-8728c3e910",
+"label": "Excludes Restricted Data from the executive classification system",
+"note": "Section 13 leaves Atomic Energy Act Restricted Data outside the order's reach. This is the seam between the two regimes: one body of information in United States law is classified by statute and not by executive order, and the executive order says so itself. Note the order predates the 1954 Act by ten months and the exclusion runs to the Atomic Energy Act as it then stood.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "eo-10501",
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+},
+"b": {
+"cls": "domain",
+"id": "d-secrecy",
+"label": "Secrecy Law & Classification"
+},
+"claimTier": 1,
+"id": "e-16b4c774e4",
+"label": "Fixes the three categories and takes classification authority away from 28 agencies",
+"note": "Section 1 bars any designation other than Top Secret, Secret and Confidential 'except as expressly provided by statute'. Section 2 provides that agencies without direct national-defense responsibility have no original classification authority at all, and the attached memorandum names 28 of them.",
+"type": "programmatic"
+}
+],
+"era": "0",
+"id": "eo-10501",
+"identifiers": [
+"Executive Order 10501"
+],
+"interestedParty": false,
+"issuer": "The President",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "eo-10501",
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+},
+{
+"cls": "legislation",
+"id": "eo-11652",
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "eo-10501",
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+},
+"title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"topics": [
+{
+"claims": [
+"c-1560e620c1",
+"c-8ab1c2ba39",
+"c-c323945390",
+"c-e19778c6ee",
+"c-f9be6c632c"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-8ab1c2ba39",
+"c-f9be6c632c"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "statute",
+"urls": []
+}

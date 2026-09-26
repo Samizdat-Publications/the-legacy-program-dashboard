@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-9c8074b4fd",
+"label": "produced the four-volume report",
+"note": "Project Condign's output is 'Unidentified Aerial Phenomena in the UK Air Defence Region'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+"b": {
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+},
+"claimTier": 1,
+"id": "e-6eca0372da",
+"label": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
+"note": "Project Condign Volume 3, Chapter 4 ('UAP Work in Other Countries'), para 1, verified against the released MoD OCR text: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign's own, and differs from the board's node label. Para 4 adds that under Azhazha 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic', and that claimed imagery of 'peculiar spheres, humanoid figures' has, 'if the imagery exists ... never been published'. This edge closes a gap that was already implicit in the board's own data: the vladimir-azhazha node has carried instId 'soyuzufotsentr' and affiliations ['soyuzufotsentr'] all along, with no edge written.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-archive-org-008c71dd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "institution",
+"id": "uk-di55",
+"label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence"
+},
+{
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+{
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+{
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+{
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+}
+],
+"node": null,
+"title": "Project Condign - Volumes 1-3 (Internet Archive)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/condign-vol-2-1-258"
+]
+}

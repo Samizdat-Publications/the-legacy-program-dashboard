@@ -1,0 +1,144 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-edba736b9b",
+"locator": null,
+"node": "dird-aerospace-applications-of-programmable-matter",
+"nodeLabel": "Aerospace Applications of Programmable Matter",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+"text": "Cover page reads: \"14 December 2009 / ICOD: 1 December 2009 / DIA-08-0911-016\", series \"Acquisition Threat Support\". This is the earliest publication date and the lowest DIA document number of the eight documents in this batch.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter"
+},
+"claimTier": 1,
+"id": "e-77afd68763",
+"label": "deliverable under AAWSAP",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 1,
+"id": "e-2820fe4a56",
+"label": "subject domain: exotic and reconfigurable materials",
+"note": "The document surveys programmable material whose effective atoms can be changed on demand to summon or dismiss material properties at will. It sits in the same AAWSAP materials line as the metamaterials, metallic glasses and metallic spintronics DIRDs.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter"
+},
+"claimTier": 1,
+"id": "e-481df679bd",
+"label": "published and holds; DIA-08-0911-016",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter"
+},
+"claimTier": 1,
+"id": "e-08d14f0b29",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-0911-016. Publication date 14 December 2009 on the cover. 21 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "wil-mccarthy",
+"label": "Wil McCarthy"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-82d970d211",
+"label": "commissioned subject-matter author",
+"note": "Credited with one of the 38 AAWSAP deliverables, 'Aerospace Applications of Programmable Matter' (14 December 2009, DIA-08-0911-016), contracted through The Programmable Matter Corporation. The released text names AAWSAP. Tier 2 because the 'Author' field is redacted under FOIA exemption (b)(6) and the attribution comes from DIA's separate list.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "wil-mccarthy",
+"label": "Wil McCarthy"
+},
+"b": {
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter"
+},
+"claimTier": 1,
+"id": "e-76647474e8",
+"label": "authored",
+"note": "DIA list item 23 names \"Dr W McCarthy, Programmable Matter Corporation\". Released PDF redacts the author under (b)(6).",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-03dcbaa8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter"
+},
+{
+"cls": "person",
+"id": "wil-mccarthy",
+"label": "Wil McCarthy"
+}
+],
+"node": null,
+"title": "documents2.theblackvault.com",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
+]
+}

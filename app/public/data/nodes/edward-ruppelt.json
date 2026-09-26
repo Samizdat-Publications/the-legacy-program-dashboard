@@ -50,26 +50,40 @@
 {
 "id": "c-6d8b74d97e",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"sources": [],
 "text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6a161fb2f7",
 "source": "Condon Report, Section V Chapter 2",
+"sources": [],
 "text": "The Condon Report, produced under USAF contract, independently records that the Estimate was prepared, rejected by Vandenberg and destroyed.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6dfd6d4bec",
 "source": "USAF Project Blue Book records, NARA RG 341; Condon Report Sec. V Ch. 2",
+"sources": [
+{
+"id": "nara-rg-341",
+"locator": null,
+"title": "NARA Record Group 341"
+}
+],
 "text": "Ruppelt directed Blue Book from March 1952 through August 1953, the period covering the Washington flap and the Robertson Panel.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c004dd1cb4",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 2nd edition, 1960",
+"sources": [],
 "text": "Ruppelt added sceptical chapters to the 1960 edition of his book, reversing tone shortly before his death.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

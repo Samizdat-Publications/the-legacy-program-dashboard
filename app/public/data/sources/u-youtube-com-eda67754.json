@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"claimTier": 2,
+"id": "e-4f414f3c23",
+"label": "Michels ran a three-episode Borland sequence, August 2026",
+"note": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"claimTier": 2,
+"id": "e-bc1244598a",
+"label": "Borland spoke at the 2025 Sol Foundation Symposium",
+"note": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-eda67754",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+}
+],
+"node": null,
+"title": "American Alchemy - 'A Top Government Official Told Me Aliens Run Everything!' - Dylan Borland",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=K4gYHs84BIc"
+]
+}

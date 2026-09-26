@@ -1,0 +1,32 @@
+{
+"archived": [
+"https://web.archive.org/web/20260522165334/https://www.dodig.mil/reports.html/Article/4499300/statement-of-brett-a-mansfield-deputy-inspector-general-department-of-war-for-t/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dodig-mil-093ba800",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DoD Inspector General",
+"listedOn": [
+{
+"cls": "person",
+"id": "brett-mansfield",
+"label": "Brett A. Mansfield"
+},
+{
+"cls": "event",
+"id": "dow-financial-mgmt-hearing-2026",
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)"
+}
+],
+"node": null,
+"title": "DoD OIG page for the Mansfield statement",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dodig.mil/reports.html/Article/4499300/statement-of-brett-a-mansfield-deputy-inspector-general-department-of-war-for-t/"
+]
+}

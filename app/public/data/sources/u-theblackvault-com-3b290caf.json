@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "elizondo-resignation-letter-1",
+"label": "Elizondo Resignation Letter #1, 3 October 2017"
+},
+"b": {
+"cls": "person",
+"id": "john-garrity",
+"label": "John Garrity"
+},
+"claimTier": 2,
+"id": "e-69d298fb63",
+"label": "Submitted to his supervising official, hand-delivered",
+"note": "Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels; The Black Vault identifies the recipient as John Garrity.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-3b290caf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "elizondo-resignation-letter-1",
+"label": "Elizondo Resignation Letter #1, 3 October 2017"
+},
+{
+"cls": "person",
+"id": "john-garrity",
+"label": "John Garrity"
+}
+],
+"node": null,
+"title": "The Black Vault — Mr. Luis Elizondo Submits Resignation Letter #1",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/timeline-post/mr-luis-elizondo-submits-resignation-letter-1/"
+]
+}

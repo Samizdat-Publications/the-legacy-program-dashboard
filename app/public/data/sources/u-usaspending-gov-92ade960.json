@@ -1,0 +1,312 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "booz-allen",
+"label": "Booz Allen Hamilton"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 3,
+"id": "e-236a5189be",
+"label": "Security-support primes administer the compartmentation the statute is supposed to make visible",
+"note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "booz-allen",
+"label": "Booz Allen Hamilton"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-88aa441c78",
+"label": "The access architecture that denied Grusch his read-ons is largely contractor-built and contractor-maintained",
+"note": "Grusch was tasked to inventory the SAPs and CAPs relevant to the Task Force's congressional mandate and was refused. The billet lists, access rosters and classification guides that execute such refusals are administered in substantial part by security-support primes. No committee has requested those rosters.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-46bc16c648",
+"label": "The IR&D restriction applies directly to covered prime contractors",
+"note": "DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).",
+"type": "funding"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"b": {
+"cls": "institution",
+"id": "leidos",
+"label": "Leidos Holdings, Inc."
+},
+"claimTier": 1,
+"id": "e-b5692c7540",
+"label": "The records collection reaches government-funded contractor-held records",
+"note": "Sec. 1841 defines the collection as record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence - a formulation that reaches services primes holding classified records under contract. No accounting of contractor holdings has been made.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-7990ea3bad",
+"label": "AAWSAP contract performed from Las Vegas",
+"note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-99ac06bc11",
+"label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+"note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "leidos",
+"label": "Leidos Holdings, Inc."
+},
+"b": {
+"cls": "institution",
+"id": "saic",
+"label": "Science Applications International Corporation"
+},
+"claimTier": 1,
+"id": "e-f023d40279",
+"label": "Leidos is the government services business spun out of SAIC in 2013",
+"note": "The split moved the classified services portfolio, and whatever records attach to it, into a separate corporate entity.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-6860468a09",
+"label": "the prime where classified contract line items and sworn allegation meet",
+"note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 1,
+"id": "e-a9e2b1ee93",
+"label": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
+"note": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "radiance-technologies",
+"label": "Radiance Technologies, Inc."
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 3,
+"id": "e-151882c234",
+"label": "Radiance is a mid-tier technical prime in the space where compartmented analytical tasks are placed",
+"note": "Reasoning: roughly $2.6 billion in prime obligations since FY2008 across intelligence, sensors and advanced concepts. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but no primary personnel record has been located and none is asserted.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "raytheon",
+"label": "Raytheon (RTX Corporation)"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 2,
+"id": "e-da84ac3400",
+"label": "sensor-side prime - the contractor-generated data category nobody is asking for",
+"note": "Raytheon builds the AN/APG-79 and ATFLIR families through which the military detects and images the objects at issue, which makes it the corporate custodian of a withheld category of contractor-generated sensor data distinct from the custody allegation. Graded Tier 2: no source places Raytheon in any UAP-specific contract vehicle, and the edge rests on documented prime-contractor role plus hearing-record discussion of sensor data.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "saic",
+"label": "Science Applications International Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-1ad6aab388",
+"label": "SAIC held the government's remote viewing research line after it left SRI",
+"note": "A documented instance of a deniable government research program in an anomalous subject moving wholesale into corporate custody, terminated after an external assessment.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "institution",
+"id": "general-atomics",
+"label": "General Atomics"
+},
+"claimTier": 3,
+"id": "e-cc83b60f31",
+"label": "Securities disclosure is why the TTSA arrangement is visible and a privately held prime's would not be",
+"note": "TTSA's Reg A reporting obligations forced the CRADA into the public record. A privately held prime such as General Atomics has no equivalent obligation, which is the structural reason the documented case is a small company rather than a large one.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-usaspending-gov-92ade960",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "USAspending.gov",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aerojet-rocketdyne",
+"label": "Aerojet Rocketdyne"
+},
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "institution",
+"id": "booz-allen",
+"label": "Booz Allen Hamilton"
+},
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "institution",
+"id": "general-atomics",
+"label": "General Atomics"
+},
+{
+"cls": "institution",
+"id": "leidos",
+"label": "Leidos Holdings, Inc."
+},
+{
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+{
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+},
+{
+"cls": "institution",
+"id": "radiance-technologies",
+"label": "Radiance Technologies, Inc."
+},
+{
+"cls": "institution",
+"id": "raytheon",
+"label": "Raytheon (RTX Corporation)"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+{
+"cls": "institution",
+"id": "saic",
+"label": "Science Applications International Corporation"
+},
+{
+"cls": "institution",
+"id": "boeing",
+"label": "The Boeing Company"
+}
+],
+"node": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.usaspending.gov/search"
+]
+}

@@ -7,32 +7,54 @@
 {
 "id": "c-8ca1eeb6a8",
 "source": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
+"sources": [
+{
+"id": "bills-119hr5060ih",
+"locator": null,
+"title": "BILLS-119hr5060ih"
+}
+],
 "text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ea62b8981e",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eb7a442dc9",
 "source": "MeriTalk, 8 September 2025",
+"sources": [],
 "text": "Establishes whistleblower protections for federal employees who disclose government-funded research into materials linked to UAP.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-69b007ddee",
 "source": "Congress.gov, H.R. 5060 and H.R. 10111",
+"sources": [],
 "text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-372c9c571c",
 "source": "DefenseScoop, 3 September 2025",
+"sources": [],
 "text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "legislation",

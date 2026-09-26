@@ -7,110 +7,240 @@
 {
 "id": "c-2226a2a1be",
 "source": "Court record as reported by J. P. Cahn, True magazine, 1952 and 1956",
+"sources": [],
 "text": "Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 over 'doodlebug' devices they claimed were based on recovered alien technology.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f0d9eb7b5e",
 "source": "Scully, 'Behind the Flying Saucers' (1950)",
+"sources": [],
 "text": "Scully's account, published in Variety in 1949 and in 'Behind the Flying Saucers' in 1950, placed the crash in March 1948 in Hart Canyon twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5646b9edaa",
 "source": "FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault",
+"sources": [],
 "text": "A one-page memorandum of 22 March 1950 by Guy Hottel, special agent in charge of the FBI's Washington Field Office, relays a third-party account of three circular craft recovered in New Mexico, approximately 50 feet in diameter, each containing three humanoid bodies three feet tall in metallic cloth, attributing the recovery to interference from a high-powered radar installation, and closing 'No further evaluation was attempted.' The FBI has described it as a second- or third-hand claim it never investigated.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-bef1709c4f",
 "source": "Comparison of the 1950 Scully descriptions with later Roswell-era testimony",
+"sources": [],
 "text": "Aztec is best treated as the domain's contamination event rather than as a case: a fraud that supplied specific physical details - craft dimensions, body height and weight, heat-proof material - which then reappeared in later first-hand testimony about entirely different sites. Reasoning: the details predate the accounts that repeat them and have a documented fraudulent origin.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-41c5cda83e",
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-1e6dfe38",
+"locator": null,
+"title": "citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)"
+}
+],
 "text": "The story 'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e525a37b15",
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-1e6dfe38",
+"locator": null,
+"title": "citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)"
+}
+],
 "text": "Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and 'the military had taken the craft for secret research'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-60f630e1bb",
 "source": "Denver Public Library Special Collections and Archives, Chris Root, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "Newton, 'initially known only as the mysterious “Mr. X”', 'notoriously gave a lecture to a host of science students at Denver University on March 8, 1950', claiming he had seen two saucers held by the government, one crashed near Aztec and one near Durango, Colorado.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cc44026d90",
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "Newton claimed the beings were 'probably from Venus', 'between 38 and 42 inches tall', wore cloth 'that could not be torn', and that their magnetic propulsion allowed travel 'at twice the speed of light'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dc3085bb11",
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "Leonard GeBauer, 'a Phoenix electronics merchant', is identified as 'likely “Dr. Gee,” the “magnetologist” featured prominently in Scully's book'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5c10ac927e",
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "Newton and GeBauer 'were charged with swindling Herman A. Flader to the tune of $50,000'; the device sold was the 'magnetic doodlebug', pitched as based on or reconstructed from alien technology. Denver optometrist Dr. Alfred D. Kleyhauer lost a further $15,000.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8f1f3928dd",
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "'The Doodlebugs were determined to be constructed of surplus military radio parts. Far from the professed $800,000 price tag, the estimated cost for each useless device was roughly $3.50.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6a8ce5f56a",
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "'The “mystery metal,” which he claimed was indestructible, was identified as nothing but ordinary aluminum, with no unusual properties.' The sample was supplied to J. P. Cahn of the San Francisco Chronicle.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fd7620a566",
 "source": "J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf and https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf",
+"sources": [
+{
+"id": "u-physics-smu-edu-e302c78f",
+"locator": null,
+"title": "J. P. Cahn, True magazine, September 1952 - live scan, retrieved 25 Aug 2026"
+},
+{
+"id": "u-physics-smu-edu-92eb326f",
+"locator": null,
+"title": "J. P. Cahn, True magazine, August 1956 - live scan, retrieved 25 Aug 2026"
+}
+],
 "text": "The exposure was published by J. P. Cahn as 'The Flying Saucers and the Mysterious Little Men', True, September 1952, with a follow-up, 'Flying Saucer Swindlers', True, August 1956, presenting further victims.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2ed9038cfb",
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "'The pair were convicted of fraud in 1953, as well as facing federal charges for transporting their ill-gotten gains across state lines.' A 1955 newspaper article shows Newton on probation, unpaid on his fines, and out of state in violation of its terms.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-473aefc7d2",
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"sources": [
+{
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"locator": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'"
+}
+],
 "text": "'On April 30, 1969, Newton pled guilty to further fraud charges relating to the “salting” of the Buckhorn Mine in Silver City, New Mexico.' He died in 1972.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3711069efb",
 "source": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo",
+"sources": [
+{
+"id": "u-fbi-gov-cd6eb03e",
+"locator": null,
+"title": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo"
+}
+],
 "text": "The FBI's own position on the 22 March 1950 Guy Hottel memo, the most-viewed document in its Vault: it 'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated. Some people believe the memo repeats a hoax that was circulating at that time, but the Bureau's files have no information to verify that theory.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-28668eb7e1",
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)",
+"sources": [
+{
+"id": "u-en-wikipedia-org-1e6dfe38",
+"locator": null,
+"title": "citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)"
+}
+],
 "text": "In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at 'Hangar 18' at Wright-Patterson AFB, 'prompting official denials from the Air Force'; in later years 'many accounts, allegedly first-hand, of the Roswell crash contained the Aztec crash story'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-969e454d3e",
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax and https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ",
+"sources": [
+{
+"id": "u-en-wikipedia-org-1e6dfe38",
+"locator": null,
+"title": "citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)"
+},
+{
+"id": "u-books-google-com-3ae486f2",
+"locator": null,
+"title": "https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ"
+}
+],
 "text": "'The incident gave birth to the Aztec UFO Symposium, which was run by the Aztec, New Mexico, library as a fundraiser from 1997 until 2011.' Revisionist defences were published by Scott Ramsey, Suzanne Ramsey and Frank Thayer as 'The Aztec Incident: Recovery at Hart Canyon' and 'The Aztec UFO Incident'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "event",

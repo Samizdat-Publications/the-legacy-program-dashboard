@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8927fee77e",
+"locator": null,
+"node": "peter-merlin",
+"nodeLabel": "Peter W. Merlin",
+"sourceText": "Peter W. Merlin biography, Dreamland Resort, https://www.dreamlandresort.com/team/peter.html , opened 2026-09-18",
+"text": "His biography records a Bachelor of Science degree in Aeronautical Studies from Embry-Riddle Aeronautical University in Daytona Beach, Florida; that he 'has been researching the history of Area 51 since 1984'; that he co-founded the X-Hunters Aerospace Archeology Team; and authorship or co-authorship of Mach 3+: NASA/USAF YF-12 Flight Research 1969-1979 (NASA, 2001), The Smell of Kerosene: A Test Pilot's Odyssey (NASA, 2003), From Archangel to Senior Crown: Design and Development of the Blackbird (AIAA, 2008), X-Plane Crashes (Specialty Press, 2008), Unlimited Horizons: Design and Development of the U-2 (NASA, 2015), Images of America: Nevada Test Site (Arcadia, 2016), Images of America: Tonopah Test Range (Arcadia, 2021) and DREAMLAND: The Secret History of Area 51 (Schiffer, 2023).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dreamlandresort-com-1fa62bfc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "dreamlandresort.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+}
+],
+"node": null,
+"title": "Peter W. Merlin, 'Historian and Aerospace Archeologist', biography page on Dreamland Resort",
+"topics": [
+{
+"claims": [
+"c-8927fee77e"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+},
+{
+"claims": [
+"c-8927fee77e"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dreamlandresort.com/team/peter.html"
+]
+}

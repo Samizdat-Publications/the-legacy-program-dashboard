@@ -1,0 +1,143 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f37d3e73cc",
+"locator": null,
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"sourceText": "https://www.thesolfoundation.org/",
+"text": "Executive Director of the Board of the Sol Foundation, which he co-founded with Peter Skafish.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-0d49bc6b59",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "https://www.thesolfoundation.org/",
+"text": "Sol Foundation leadership: Garry Nolan (Executive Director of the Board), Peter Skafish (Executive Director), Jennifer Preston (COO), Matt Mason (CMO), Christian Peters (Associate Director of Research), Kirk McConnell (Senior Legislative Affairs Officer), Aneil Mallavarapu (independent board member).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+"claimTier": 3,
+"id": "e-1710267de7",
+"label": "competing materials programme",
+"note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-3dcb60b4ee",
+"label": "Co-founder and Executive Director of the Board",
+"note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "marik-von-rennenkampff",
+"label": "Marik von Rennenkampff"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-46d3e4fa55",
+"label": "delivers the monthly Sol Briefing; authors Sol policy briefings",
+"note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-a42c1b3a90",
+"label": "Co-founder, Executive Director and Secretary of the Board",
+"note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 1,
+"id": "e-15f84f692e",
+"label": "Sol leadership named to the ODNI/FBI council, 22 June 2026",
+"note": "Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thesolfoundation-org-2c2a9147",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+}
+],
+"node": null,
+"title": "The Sol Foundation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/",
+"https://www.thesolfoundation.org/"
+]
+}

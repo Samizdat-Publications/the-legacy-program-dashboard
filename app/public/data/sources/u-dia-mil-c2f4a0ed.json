@@ -1,0 +1,177 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-163072ede2",
+"locator": null,
+"node": "dird-cognitive-limits-on-simultaneous-control-of",
+"nodeLabel": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3b6522523c",
+"locator": null,
+"node": "dird-cognitive-limits-on-simultaneous-control-of",
+"nodeLabel": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
+"text": "Defense Intelligence Reference Document titled \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft\", series \"Defense Futures\", published 2010-12-15 with an Intelligence Cut-Off Date (ICOD) of 2010-09-08, DIA document number DIA-08-1101-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e2db781cbe",
+"locator": null,
+"node": "dird-cognitive-limits-on-simultaneous-control-of",
+"nodeLabel": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e95a24790b",
+"locator": null,
+"node": "dird-cognitive-limits-on-simultaneous-control-of",
+"nodeLabel": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
+"text": "Released PDF is 31 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"claimTier": 1,
+"id": "e-d5916966be",
+"label": "commissioned under AAWSAP; latest document number in the released set",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"b": {
+"cls": "domain",
+"id": "d-bio",
+"label": "Biology & Non-Human Biologics"
+},
+"claimTier": 1,
+"id": "e-b183a8aa59",
+"label": "subject domain: cognitive load limits on multi-vehicle control",
+"note": "The commissioned question is how many unmanned vehicles a single human operator can control simultaneously - the human-factors constraint that would bound any swarming or multi-object control architecture. It forms a set with Genik's other two deliverables on limb-free control of external devices and on organic-molecule automation.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"b": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"claimTier": 1,
+"id": "e-4397e53108",
+"label": "authored by Richard J. Genik II",
+"note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-5d1a72c334",
+"label": "author's institution at time of writing",
+"note": "Genik was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine. Wayne State supplied four of the 38 DIRDs across two authors - Genik's three plus Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International's six.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"claimTier": 1,
+"id": "e-f138dd67c0",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 15 December 2010 on the cover. 31 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"claimTier": 1,
+"id": "e-fb292aace8",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-c2f4a0ed",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+}
+],
+"node": null,
+"title": "DIA FOIA Electronic Reading Room entry for this reference document",
+"topics": [
+{
+"claims": [
+"c-3b6522523c"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/"
+]
+}

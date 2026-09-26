@@ -1,0 +1,130 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-d7a9480a2f",
+"locator": null,
+"node": "902d-mi-group",
+"nodeLabel": "902d Military Intelligence Group, USAINSCOM",
+"sourceText": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "The CENTER LANE project office sat inside the group: the 4 April 1984 memorandum is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-70cd480907",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "The CENTER LANE project office was the Security Support Detachment, not the Systems Exploitation Detachment. The memorandum submitting the CENTER LANE FY86 to FY90 General Defense Intelligence Program initiative is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager. The same office symbol heads the July 1984 information paper on the project's cancellation.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-926c6c1202",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "Talking paper, INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt ; Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "The Army staff started the work and paid for the first contract in 1978, and INSCOM dates its own entry to 1977. A talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year'. The 1984 GDIP memorandum states: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d71ba63641",
+"locator": null,
+"node": "inscom",
+"nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+"sourceText": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "INSCOM dates its own psychoenergetics work from 1977: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "902d-mi-group",
+"label": "902d Military Intelligence Group, USAINSCOM"
+},
+"b": {
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+},
+"claimTier": 1,
+"id": "e-7bc0fbde72",
+"label": "Subordinate group of USAINSCOM at Fort George G. Meade",
+"note": "The group's own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+},
+"b": {
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+"claimTier": 1,
+"id": "e-291eb35747",
+"label": "GRILL FLAME was INSCOM's entry into the field in 1977",
+"note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "cia-rdp96-00788r001600450002-5",
+"identifiers": [
+"CIA-RDP96-00788R001600450002-5"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "902d-mi-group",
+"label": "902d Military Intelligence Group, USAINSCOM"
+},
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+{
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+}
+],
+"node": null,
+"title": "CIA-RDP96-00788R001600450002-5",
+"topics": [
+{
+"claims": [
+"c-d7a9480a2f",
+"c-70cd480907",
+"c-d71ba63641"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+},
+{
+"claims": [
+"c-d71ba63641"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+]
+}

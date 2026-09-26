@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-f0a242043d",
+"label": "Research partnership from August 2018",
+"note": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-vice-com-ff73f029",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+{
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+}
+],
+"node": null,
+"title": "Vice — Tom DeLonge's UFO Organization Has a $37.4 Million Deficit",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/"
+]
+}

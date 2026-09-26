@@ -7,26 +7,40 @@
 {
 "id": "c-7af2f880bd",
 "source": "DIA memo U-10-2552CE-IM-ATL, circa December 2010",
+"sources": [],
 "text": "DIA reported AATIP reports 'were of limited value to DIA' but 'could be of merit to other organizations' and that 'the project could be transitioned to another agency or component better suited'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5f9a42cc0a",
 "source": "DIA memo U-10-2552CE-IM-ATL",
+"sources": [],
 "text": "The memorandum is addressed to the Under Secretary of Defense for Acquisition, Technology and Logistics and uses only the AATIP designation.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fb4881957e",
 "source": "DIA FOIA-00255-2022 release",
+"sources": [
+{
+"id": "foia-dia-00255-2022",
+"locator": "release",
+"title": "DIA FOIA-00255-2022"
+}
+],
 "text": "A four-page version was released under FOIA-00255-2022 bearing the date 1 December 2010.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-12f323a3a9",
 "source": "Inference from the memo read against DoD's June 2019 statements",
+"sources": [],
 "text": "A DIA proposal to transition AATIP out of DIA in December 2010 is consistent with, and materially corroborates, Elizondo's account that the effort continued in OUSD(I) after DIA's contracted work wound down — while DoD's denial addresses only whether he was 'assigned' to it.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

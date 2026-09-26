@@ -1,0 +1,35 @@
+{
+"archived": [
+"https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dia-mil-8346d84c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "document",
+"id": "dia-sap-denial-memo-2009",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+},
+{
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+}
+],
+"node": null,
+"title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)",
+"topics": [],
+"type": "web page",
+"urls": []
+}

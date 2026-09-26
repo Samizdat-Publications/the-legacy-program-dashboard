@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b810ea7a32",
+"locator": null,
+"node": "sergey-macheret",
+"nodeLabel": "Sergey O. Macheret",
+"sourceText": "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award",
+"text": "Joined Purdue University in 2014 as professor of aeronautics and astronautics; AIAA Fellow; recipient of the 2022 AIAA Plasmadynamics and Lasers Award.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sergey-macheret",
+"label": "Sergey O. Macheret"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 2,
+"id": "e-836be66076",
+"label": "senior staff engineer, Lockheed Martin Aeronautics (Skunk Works)",
+"note": "Macheret held a senior staff engineer post at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014, working on advanced aerospace plasma applications, before joining Purdue University as professor of aeronautics and astronautics in 2014. Lockheed Martin is the affiliation DIA recorded for him on the congressional list.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-digitwin2024-polytechnic-d3bff64a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "digitwin2024.polytechnic.purdue.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "sergey-macheret",
+"label": "Sergey O. Macheret"
+}
+],
+"node": null,
+"title": "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award"
+]
+}

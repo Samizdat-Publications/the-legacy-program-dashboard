@@ -78,44 +78,64 @@
 {
 "id": "c-9a10ecb99d",
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 1:16:06 and 1:18:41, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"sources": [
+{
+"id": "u-mgln-ai-a8e0916c",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100, 000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 25 October 2025, at 1:16:06 and 1:18:41, Michels said in narration that on 11 July 1961 Vallee, then working on the Paris Observatory's satellite tracking programme, and colleagues observed an object in retrograde orbit, and that his superior at the observatory, named as Paul Mueller, confiscated the tape the next morning and destroyed it. The narration also quotes Vallee from an unspecified later interview saying other observatories made the same observation and that American tracking stations photographed it and could not identify it either. No book, interview or archive is cited on air for either element.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b65b1471d1",
 "source": "NIDS institutional record; contemporaneous press coverage of NIDS' scientific board",
+"sources": [],
 "text": "Vallee served on the advisory board of Bigelow's National Institute for Discovery Science from its 1995 founding.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-41f6b4c601",
 "source": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
+"sources": [],
 "text": "Vallee documented, from the late 1970s onward, that identifiable human actors were injecting fabricated material into UFO cases - the phenomenon later confirmed in the Bennewitz affair.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8eac8bc16b",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"sources": [],
 "text": "Vallee is second author of the Progress in Aerospace Sciences 128 (2022) 100788 instrumental analysis of the Council Bluffs material.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8b2d2f7b04",
 "source": "Sol Foundation Policy Briefing No. 3, April 2026, citing contemporaneous newspaper records",
+"sources": [],
 "text": "The Council Bluffs event of 17 December 1977 was witnessed by five independent groups, photographed by police, and described contemporaneously by the assistant fire chief as a four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; press reporting appeared in the Daily Nonpareil on 18 December 1977 and the Des Moines Register on 26 January 1978.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-92b826a92f",
 "source": "Biographical record; reported consistently and not disputed",
+"sources": [],
 "text": "Vallee served as a consultant to Robert Bigelow's National Institute for Discovery Science and sat on the Bigelow Aerospace scientific advisory board.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-691e28af59",
 "source": "Inference from the sample provenances cited in the published literature",
+"sources": [],
 "text": "Vallee's collection is the only continuous non-governmental chain of custody for alleged UAP materials spanning 1957 to the present, which is why the peer-reviewed literature is built on civil-provenance samples rather than government-held ones. The government-held material has never entered a published custody chain.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

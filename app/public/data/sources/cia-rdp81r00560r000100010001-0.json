@@ -1,0 +1,216 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-03eda31a33",
+"locator": null,
+"node": "donald-keyhoe",
+"nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"sourceText": "First Air Force letter of 20 September 1957, reproduced in The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "He held the post by September 1957 on a government correspondent's own address line. A letter on the letterhead 'Hq Sq Sec, First Air Force, Mitchel Air Force Base, NY', dated 20 September 1957, is addressed to 'Mr. Donald E. Keyhoe, Director NICAP, 1536 Connecticut Ave, N. W., Washington 6, D. C.' and transmits a quoted Air Force report of eight round objects sighted at Fort Devens, Massachusetts on 17 September 1957.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4a7f9eca1a",
+"locator": null,
+"node": "donald-keyhoe",
+"nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"sourceText": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "The volume states the Hillenkoetter connection as a personal one: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years.' It gives Keyhoe's own background as 'a graduate of the U. S. Naval Academy (class of 1920) and former Marine Corps aircraft and balloon pilot' and says his acquaintance with serving and retired officers is why several of its military cases could be detailed.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4e1bf03c4a",
+"locator": null,
+"node": "donald-keyhoe",
+"nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"sourceText": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "NICAP's own 1964 volume names him as its head on the masthead: 'MAJ. DONALD E. KEYHOE, USMC (RET.), DIRECTOR', printed under the organisation's name and its 1536 Connecticut Avenue NW address, above the Board of Governors list.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8de5bc33b6",
+"locator": null,
+"node": "nicap",
+"nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"sourceText": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., section 'NICAP and its Policies', in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b08d43c896",
+"locator": null,
+"node": "nicap",
+"nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"sourceText": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "The volume was addressed to Congress and says so: 'Copies of this report have been sent to all Members of Congress.' Its board in 1964 also included 'Mr. Dewey Fournet, Jr., former Major USAFR ... Former Air Force Headquarters Monitor of AF Project Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Dayton project and Pentagon.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b3d0260a90",
+"locator": null,
+"node": "nicap",
+"nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"sourceText": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "A former Director of Central Intelligence sat on its board and joined its campaign for hearings. The 1964 volume: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years,' and 'In 1961, Adm. Hillenkoetter joined with a majority of the NICAP Board in urging a Congressional investigation of the UFO problem.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"claimTier": 1,
+"id": "e-fc8da4c4f7",
+"label": "CIA held and filed NICAP's 1964 volume in its own records",
+"note": "The copy of The UFO Evidence read for this record is the Agency's, released as CIA-RDP81R00560R000100010001-0 and marked 'Approved For Release 2001/04/02'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"b": {
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"claimTier": 1,
+"id": "e-555c7dcf04",
+"label": "Director, by September 1957 and still in post May 1964",
+"note": "An Air Force headquarters letter of 20 September 1957 addresses him as Director NICAP at 1536 Connecticut Avenue NW, and the organisation's May 1964 volume carries him on its masthead as director. No opened record gives an end date.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"b": {
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+},
+"claimTier": 1,
+"id": "e-1f838db3ba",
+"label": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
+"note": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-b15d55bc2b",
+"label": "Blue Book's former headquarters monitor sat on the NICAP board",
+"note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-906d0196fe",
+"label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+"note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+},
+"b": {
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"claimTier": 1,
+"id": "e-29149e99a3",
+"label": "Served five years on the Board of Governors",
+"note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "cia-rdp81r00560r000100010001-0",
+"identifiers": [
+"CIA-RDP81R00560R000100010001-0"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+{
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+}
+],
+"node": null,
+"title": "CIA-RDP81R00560R000100010001-0",
+"topics": [
+{
+"claims": [
+"c-03eda31a33",
+"c-4a7f9eca1a",
+"c-4e1bf03c4a",
+"c-8de5bc33b6",
+"c-b08d43c896",
+"c-b3d0260a90"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-b08d43c896"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+]
+}

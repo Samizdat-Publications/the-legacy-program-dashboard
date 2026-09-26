@@ -10,26 +10,63 @@
 {
 "id": "c-7ffc5950cc",
 "source": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html and 'Engineering Change Proposal 1221', http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-timhebert2-blogspot-com-3fff5289",
+"locator": null,
+"title": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026"
+},
+{
+"id": "u-timhebert-blogspot-com-520a488d",
+"locator": null,
+"title": "Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026"
+}
+],
 "text": "Tim Hebert states he served as a Minuteman missile crew member with the 490th Strategic Missile Squadron at Malmstrom AFB from 1981 to 1985 and in the Wing Codes Division at Grand Forks AFB from 1985 to 1988, and later worked as a programme manager assigned to Air Force Systems Command handling engineering change proposals.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4b1990b373",
 "source": "Tim Hebert, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-timhebert2-blogspot-com-3fff5289",
+"locator": null,
+"title": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026"
+}
+],
 "text": "His argument is that the 341st SMW unit history goes into detail on the launch crew's debriefing while never mentioning the maintenance teams at the launch facilities whose presence the UFO account requires, and that the engineering investigation centred on an electromagnetic-pulse-like noise pulse originating within the launch control centre rather than externally.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e71bfe943d",
 "source": "341st SMW history, Jul-Sep 1967, pp 52-53, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-documents-theblackvault--8e6b0d44",
+"locator": null,
+"title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+}
+],
 "text": "His ECP 1221 claim was verified independently against the primary document by this board. The 341st SMW history states that Boeing submitted ECPs numbered 1221, 1141-1 and 1141-2 for the modification of EMP for Force Mod, that ECP 1221 modifies the interconnecting box by adding a sub-assembly containing zener diodes and isolation components, and cites it as 'Engineering Change Proposal, ECP No. 1221, submitted by Boeing Company, Ex 35'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-24a97e3718",
 "source": "NICAP, 'Wurtsmith and Others', citing Cahill's Research Record of Events of 17 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026"
+}
+],
 "text": "The counterexample to his strongest move is inside this same cluster. SSgt Paul J. Cahill, historian of the 379th Bombardment Wing, wrote in a Research Record of Events dated 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.' A wing history's silence about an event other Air Force paper records is a documented occurrence, which limits how much weight an argument from silence can carry.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+},
+"b": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"claimTier": 1,
+"id": "e-c6eb1a14f2",
+"label": "Immaculate Constellation document hosted on Mace's House site",
+"note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-mace-house-gov-ab351921",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mace.house.gov",
+"listedOn": [],
+"node": null,
+"title": "https://mace.house.gov/immaculateconstellation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mace.house.gov/immaculateconstellation"
+]
+}

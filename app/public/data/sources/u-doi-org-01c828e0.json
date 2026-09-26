@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-01c828e0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+},
+{
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+}
+],
+"node": null,
+"title": "Hancock, Porritt & Grosvenor, SCU (Zenodo)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.5281/zenodo.7758498"
+]
+}

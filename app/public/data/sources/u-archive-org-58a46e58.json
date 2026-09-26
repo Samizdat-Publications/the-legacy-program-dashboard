@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-58a46e58",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "Project Winterhaven, Townsend Brown Foundation (private upload, no institutional custody)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/projectwinterhaven"
+]
+}

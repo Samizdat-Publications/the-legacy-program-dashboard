@@ -1,0 +1,211 @@
+{
+"archived": [
+"https://web.archive.org/web/20260609160749/https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+],
+"claims": [],
+"date": "2022-07-20",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aoimsg",
+"label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-e1e19047c5",
+"label": "superseded and disestablished by AARO",
+"note": "The 15 July 2022 memorandum disestablished AOIMSG eight months after its creation and replaced it with AARO.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"claimTier": 1,
+"id": "e-5ceeee48f0",
+"label": "originally placed under USD(I&S)",
+"note": "The establishment memorandum directed USD(I&S) to establish the office and placed AARO in that chain until summer 2023.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-704d3319c7",
+"label": "statutory basis for standing up AARO",
+"note": "The Deputy Secretary of Defense approved amendments to the AOIMSG direction 'to meet the DoD requirements in section 1683 of the NDAA for FY 2022', establishing AARO 'to carry out the duties that were to be fulfilled by the AOIMSG'. The memorandum also renames the AOIMEXEC as the AARO Executive Council and makes AARO 'the authoritative office of the Unidentified Aerial Phenomena (UAP) and UAP-related activities for the DoD'.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-ead6245166",
+"label": "office required to be established in coordination with the DNI",
+"note": "The FY2022 NDAA 'was enacted with a provision that requires the Secretary of Defense to establish an office, in coordination with the Director of National Intelligence (DNI), with responsibilities that include those that were to be assigned to the AOIMSG'; the Deputy Secretary acted 'following coordination with the DNI', and copied the memorandum to the Director of National Intelligence. The coordination requirement is statutory, not discretionary.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 1,
+"id": "e-7fc24b3d81",
+"label": "directed disestablishment of the UAPTF",
+"note": "'Consistent with section 1683 of the NDAA for FY 2022, I also direct the Secretary of the Navy to disestablish the Unidentified Aerial Phenomena Task Force (UAPTF) no later than the date the AARO is established, and to support the orderly transition of the UAPTF, including the transfer of any data, analysis, or other relevant material, to the AARO.' The statute did not abolish the task force directly; it required an office whose establishment the Deputy Secretary made the trigger for disestablishment.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "kathleen-hicks",
+"label": "Kathleen H. Hicks"
+},
+"b": {
+"cls": "program",
+"id": "aoimsg",
+"label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)"
+},
+"claimTier": 1,
+"id": "e-df4d3ab483",
+"label": "directed establishment of AOIMSG, 23 November 2021",
+"note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kathleen-hicks",
+"label": "Kathleen H. Hicks"
+},
+"b": {
+"cls": "document",
+"id": "aaro-establishment-memo-2022",
+"label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+},
+"claimTier": 1,
+"id": "e-95e59014ef",
+"label": "signatory of the AARO establishment memorandum",
+"note": "Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-establishment-memo-2022",
+"label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-a7852bfaa7",
+"label": "the charter that created AARO",
+"note": "The memorandum establishes AARO as the Department's authoritative UAP office covering space, airborne, submerged and transmedium anomalous objects.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-establishment-memo-2022",
+"label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 1,
+"id": "e-717558b5d3",
+"label": "ordered the UAPTF disestablished and its data and materials transferred to AARO",
+"note": "This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records.",
+"type": "custody"
+}
+],
+"era": "3",
+"id": "u-media-defense-gov-70181f27",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "program",
+"id": "aoimsg",
+"label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+{
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+{
+"cls": "person",
+"id": "kathleen-hicks",
+"label": "Kathleen H. Hicks"
+},
+{
+"cls": "document",
+"id": "aaro-establishment-memo-2022",
+"label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+{
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+}
+],
+"node": null,
+"title": "DoD - Establishment of the All-domain Anomaly Resolution Office (memo)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+]
+}

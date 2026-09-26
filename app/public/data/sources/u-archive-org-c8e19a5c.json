@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2d1730ad9e",
+"locator": null,
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"sourceText": "archive.org items phildenveraugust and philexpo, https://archive.org/details/phildenveraugust , opened 2026-09-19",
+"text": "Two further dated artefacts of the 1995 lecture series exist as archive.org items and bound it: a Denver, Colorado lecture dated 14 August 1995 and a Preparedness Expo talk dated 1 September 1995. Neither carries captions and neither was watched.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-c8e19a5c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "phil-schneider",
+"label": "Philip Schneider"
+}
+],
+"node": null,
+"title": "archive.org item 'Phil Schneider - ET's, UFO's and NWO', dated 14 August 1995, Denver, Colorado",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/phildenveraugust"
+]
+}

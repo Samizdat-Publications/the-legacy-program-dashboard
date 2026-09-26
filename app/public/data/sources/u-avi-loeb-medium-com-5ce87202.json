@@ -1,0 +1,128 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b3f139de1c",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
+"text": "Avi Loeb's first Medium post on the UAP Science Advisory Council carries article:published_time 2026-06-13T16:20:50Z. His second post, 'More Details on the UAP Science Advisory Council', carries a byline of 16 June 2026; the 29 June 2026 date that has circulated is that post's republish timestamp, not its publication date.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-128c545f8c",
+"label": "Chair, appointed June 2026",
+"note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-1f65569ae2",
+"label": "Named for instrumentation and data collection",
+"note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-cloete",
+"label": "Richard Cloete"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-9240195937",
+"label": "Named for data analysis and AI tools",
+"note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-ae2c9f517d",
+"label": "Council established following the PURSUE releases",
+"note": "Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-avi-loeb-medium-com-5ce87202",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "avi-loeb.medium.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+{
+"cls": "person",
+"id": "richard-cloete",
+"label": "Richard Cloete"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium",
+"topics": [
+{
+"claims": [
+"c-b3f139de1c"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
+"type": "article",
+"urls": [
+"https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+]
+}

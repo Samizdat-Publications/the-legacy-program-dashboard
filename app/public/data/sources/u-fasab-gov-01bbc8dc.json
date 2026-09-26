@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e1c06e24ca",
+"locator": null,
+"node": "terry-patton",
+"nodeLabel": "Terry K. Patton",
+"sourceText": "https://fasab.gov/about-fasab/board-members/",
+"text": "Terry K. Patton, professor emeritus at Midwestern State University, has chaired FASAB since April 2026; the Board also comprises R. Scott Bell, Eric S. Berman, Robert Dacey, Diane L. Dudley, Billy Morehead and David A. Vaudt.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "terry-patton",
+"label": "Terry K. Patton"
+},
+"b": {
+"cls": "institution",
+"id": "fasab",
+"label": "Federal Accounting Standards Advisory Board (FASAB)"
+},
+"claimTier": 1,
+"id": "e-a2bd4aa2a7",
+"label": "Chairs the Board that owns SFFAS 56 since April 2026",
+"note": "FASAB's board members page identifies Terry K. Patton as Chair since April 2026. Attested by FASAB.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-fasab-gov-01bbc8dc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "fasab.gov",
+"listedOn": [
+{
+"cls": "person",
+"id": "terry-patton",
+"label": "Terry K. Patton"
+}
+],
+"node": null,
+"title": "FASAB Board members",
+"topics": [
+{
+"claims": [
+"c-e1c06e24ca"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "web page",
+"urls": [
+"https://fasab.gov/about-fasab/board-members/"
+]
+}

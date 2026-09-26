@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1e07b735df",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf",
+"text": "Item 342UAP00024, catalogued only as 'I Once Saw A Flying Saucer - Project Blue Book, April 18, 1966', is a piece titled 'I Once Saw a Flying Saucer' by Ira C. Eaker. The catalog record does not name him. It opens on the 5 April 1966 appearance of Secretary of the Air Force Harold Brown and Chief of Staff General J.P. McConnell before the House Armed Services Committee, and states that in eighteen years more than 10,000 UFO sightings had been investigated with 663 listed as unexplained.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-catalog-archives-gov-2ac38306",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "catalog.archives.gov",
+"topics": [],
+"type": "document",
+"urls": [
+"https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf"
+]
+}

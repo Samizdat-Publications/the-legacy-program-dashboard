@@ -87,104 +87,156 @@
 {
 "id": "c-d424a46df7",
 "source": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:00:49, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
+"sources": [
+{
+"id": "u-mgln-ai-6e5b97d7",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs' (episode audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:00:49, Michels said Gough was one of the primary sources of the Wall Street Journal article on Pentagon disinformation and UFO mythology, and alleged that her own LinkedIn profile 'along with independent sources' confirms a lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense, her self-professed skills including strategic communication and psychological operations. The allegation rests on the speaker's reading of a profile page. No employment record was opened in this pass and nothing in the board's files corroborates it.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-138447a3b5",
 "source": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
+"sources": [],
 "text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-1b8513352d",
 "source": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing",
+"sources": [],
 "text": "The Department stated it has no record of a programme called Immaculate Constellation.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3eb5999126",
 "source": "Inference from Gough's February 2026 figures set against the FY2024 and FY2025 report conclusions",
+"sources": [],
 "text": "A holding in which roughly half the reports are unanalysed for want of data is a holding that cannot support the department's own repeated negative finding, since the negative finding is drawn only from the analysed half.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-2653cd6ac6",
 "source": "Susan Gough to The Black Vault, 13 June 2019",
+"sources": [],
 "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8a31c176d2",
 "source": "Textual analysis of the 13 June 2019 statement",
+"sources": [],
 "text": "Gough's statement is a limited denial that concedes the program's existence, its DIA administration and Elizondo's contact with it, and contests only the word 'led' — a construction consistent with protecting an org-chart technicality rather than refuting the substance.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-128d118902",
 "source": "Susan Gough to John Greenewald, The Black Vault, 13 June 2019",
+"sources": [],
 "text": "On 13 June 2019 stated: 'I can confirm that the memo you're referring to is authentic... It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-af41014f9e",
 "source": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
+"sources": [],
 "text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a3ee21ee62",
 "source": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
+"sources": [],
 "text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-cf14db0855",
 "source": "OSD FOIA 21-F-0938 email release",
+"sources": [
+{
+"id": "foia-21-f-0938",
+"locator": "email release",
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+}
+],
 "text": "Received Elizondo's 3 June 2020 letter stating 'The truth, as everyone involved in the program knows, is that I ran the program,' and noting she had corrected the AATIP/UAP statement but never corrected the statement about his involvement.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-41b23ce7a4",
 "source": "Inference from the June 2019, December 2019 and May 2021 statements read in sequence",
+"sources": [],
 "text": "The three-step sequence — flat denial that AATIP touched UAP, then partial concession that it did, with the denial of Elizondo's role held constant throughout — is the signature of a position maintained for reasons other than the facts. The variable that never moved is the one that would validate a named insider.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-45971da324",
 "source": "Susan Gough, DoD spokesperson, 7 June 2023",
+"sources": [],
 "text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8265d45876",
 "source": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
+"sources": [],
 "text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d11e8a2953",
 "source": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023",
+"sources": [],
 "text": "Named in the unclassified version of Grusch's reprisal complaint among officials in the chain by which his identity and complaint were handled.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0abcdb22ce",
 "source": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
+"sources": [],
 "text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-918c394a1a",
 "source": "OSD/WHS FOIA release 21-F-0938, Elizondo emails",
+"sources": [
+{
+"id": "foia-21-f-0938",
+"locator": "Elizondo emails",
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+}
+],
 "text": "Elizondo's October 2017 resignation correspondence was addressed to Gough and released through the Washington Headquarters Services FOIA reading room (21-F-0938).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-981516bc3f",
 "source": "Wall Street Journal, 6 June 2025, as summarised in secondary coverage and the Yankee Blue record",
+"sources": [],
 "text": "Gough confirmed on the Department's behalf that findings on the fake Air Force alien-technology programme would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

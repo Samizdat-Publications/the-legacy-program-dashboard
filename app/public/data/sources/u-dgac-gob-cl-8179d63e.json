@@ -1,0 +1,106 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1dbd682eeb",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+"text": "Caseload as of September 2021: 'ha recepcionado un total de 1675 casos'; 'El año 2020 llegaron 362 casos, superando en casi un 300% las cifras que se venían registrando en años anteriores'; 300 further reports to September 2021; supported by 'una Base de Datos Digital creada el año 2018'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-59c7c36044",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+"text": "The creating resolution was 'firmada por el Director General de Aeronáutica Civil, General de Aviación, Gonzalo Miranda', and sited the committee at the Escuela Técnica Aeronáutica in Quinta Normal, Santiago; on 14 October 1997 ETA director Enzo Di Nocera 'estableció la organización y las bases de su funcionamiento' and named its members.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8a41259222",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+"text": "On its 24th anniversary the DGAC described CEFAA as 'uno de los organismos públicos más antiguos del continente' and stated that, 'Comparable a un organismo gubernamental europeo -guardando las proporciones en cuanto a recursos humanos y presupuestarios- el CEFAA lidera un modelo de transparencia respecto a sus investigaciones.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9c292e789a",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/ and https://sefaa.dgac.gob.cl/quienes-somos/",
+"text": "Publication practice: 'Desde el año 2020, se publican en el sitio www.cefaa.gob.cl los casos investigados y resueltos. Esos informes están a disposición del público trimestralmente y entregan una completa descripción de los fenómenos reportados y la conclusión a la que se llegó.' Resolved-case indexes remain published by year from 2018 through 2026.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a74401b45b",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+"text": "Directorship chronology per DGAC: Di Nocera to 1998; Ricardo Bermúdez 1998 to February 2002; Hernán Henríquez Cobaise from March 2002 to 31 March 2008, during which period 'el CEFAA entró en una etapa de latencia'; reactivated by Resolución N° 02/0/01937 of 15 December 2009 under Director General José Huepe Pérez, operating from 1 January 2010 under the Secretaría General; Bermúdez again from 2009 to 2016; then Hugo Camus Palacios.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-f9d2786974",
+"label": "created and housed by the DGAC",
+"note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-dgac-gob-cl-8179d63e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DGAC Chile",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+}
+],
+"node": null,
+"title": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+"topics": [
+{
+"claims": [
+"c-1dbd682eeb",
+"c-59c7c36044",
+"c-8a41259222",
+"c-9c292e789a",
+"c-a74401b45b"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+]
+}

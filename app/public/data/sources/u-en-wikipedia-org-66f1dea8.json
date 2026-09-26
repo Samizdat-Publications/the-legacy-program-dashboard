@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-66f1dea8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom"
+}
+],
+"node": null,
+"title": "Wikipedia - United Kingdom",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/United_Kingdom"
+]
+}

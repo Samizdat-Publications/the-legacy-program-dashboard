@@ -1,0 +1,121 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2449a963e8",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 credits Mark McCandlish as 'Self - Guest', the only listed cast member. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-62c4827382",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 showed a user rating of 8.3 out of 10 from 34 ratings as opened on 18 September 2026. IMDb is user-maintained, the rating is a user aggregate, and the film itself was not opened.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-696ab2bf4d",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 gives an estimated budget of $5,000. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-a4c6556883",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 credits James Allen as both director and writer. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-ea6917bb9e",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 gives the title 'Zero Point: The Story of Mark McCandlish and the Flux Liner', the year 2013, a runtime of 1h 32m and the genre Documentary. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-fcaf0b9ca4",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 gives a US release date of 2 June 2013. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "zero-point-documentary",
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner"
+},
+"b": {
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"claimTier": 2,
+"id": "e-9c7f8f9791",
+"label": "A feature documentary carrying the claim to a later audience",
+"note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "zero-point-documentary",
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner"
+},
+"b": {
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+},
+"claimTier": 1,
+"id": "e-509f666d13",
+"label": "The film is about him and names him in its title",
+"note": "The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-imdb-com-d4cd3c88",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "imdb.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "zero-point-documentary",
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner"
+}
+],
+"node": null,
+"title": "IMDb tt6111304, user-maintained listing",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.imdb.com/title/tt6111304/"
+]
+}

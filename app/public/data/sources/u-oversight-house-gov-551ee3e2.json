@@ -1,0 +1,59 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a3c06daca9",
+"locator": null,
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"sourceText": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/",
+"text": "The task force held 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project' on 30 June 2026 at 10:00am.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "hearing-2026-06-30",
+"label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 1,
+"id": "e-b2a0cf8710",
+"label": "The Task Force's 2026 hearing addressed MKULTRA, not UAP",
+"note": "Witnesses were Stephen Kinzer, Tom O'Neill and minority witness Dr. Elizabeth Ginexi. No UAP witness appeared.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-551ee3e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2026-06-30",
+"label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026"
+},
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+}
+],
+"node": null,
+"title": "House Oversight hearing page - MKULTRA",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/"
+]
+}

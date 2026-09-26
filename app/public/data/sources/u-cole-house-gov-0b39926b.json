@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-97aca44f42",
+"locator": null,
+"node": "tom-cole",
+"nodeLabel": "Tom Cole",
+"sourceText": "https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee",
+"text": "Cole was selected for the chairmanship by the House Republican Steering Committee before the full Conference ratified him.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 1,
+"id": "e-2d84da5d4e",
+"label": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
+"note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-cole-house-gov-0b39926b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cole.house.gov",
+"listedOn": [
+{
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+}
+],
+"node": null,
+"title": "cole.house.gov",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee"
+]
+}

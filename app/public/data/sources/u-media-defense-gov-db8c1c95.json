@@ -1,0 +1,76 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-96004f74f0",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "The report contains ZERO occurrences of the name 'Wilson' and zero of 'Davis' across all 63 pages including endnotes 1-200. It names no private individuals, referring instead to 'Person 1' and 'the named former CIA official'. It disposes of the reverse-engineering allegations without ever engaging the Wilson-Davis memorandum, a document that sits in a congressional hearing file.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-161940a99e",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
+"tier": 2
+}
+],
+"date": "2024-03-08",
+"edges": [],
+"era": "3",
+"id": "u-media-defense-gov-db8c1c95",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
+"node": null,
+"title": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"topics": [
+{
+"claims": [
+"c-96004f74f0",
+"c-161940a99e"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+},
+{
+"claims": [
+"c-96004f74f0"
+],
+"id": "aaro-historical-record",
+"title": "AARO's historical record reports and their critics"
+},
+{
+"claims": [
+"c-161940a99e"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-161940a99e"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
+"type": "document",
+"urls": [
+"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+]
+}

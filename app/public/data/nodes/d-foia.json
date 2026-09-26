@@ -8,26 +8,40 @@
 {
 "id": "c-da01ac4f5c",
 "source": "CAUS v. NSA, D.C. Circuit (CourtListener); cert. denied 8 March 1982",
+"sources": [],
 "text": "In Citizens Against UFO Secrecy v. National Security Agency the D.C. Circuit upheld NSA's withholding of UFO-related records; certiorari was denied in 1982.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-159c13ba74",
 "source": "The Black Vault, UFOs: The National Security Agency (NSA) Collection",
+"sources": [],
 "text": "NSA's released UFO document collection, including the Yeates affidavit and associated litigation records, is publicly archived.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-47aea4a8c4",
 "source": "DIA FOIA release FOIA-00349-2018",
+"sources": [
+{
+"id": "foia-dia-00349-2018",
+"locator": null,
+"title": "DIA FOIA-00349-2018"
+}
+],
 "text": "The DIA released the AAWSAP contract file under FOIA case FOIA-00349-2018, producing the statement of work, contract modifications and the Defense Intelligence Reference Documents.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c356e51f8b",
 "source": "Inference from FOIA's agency-records requirement and FAR 35.017",
+"sources": [],
 "text": "Records held by contractors and FFRDCs are outside FOIA's definition of agency records, so transferring material into contractor custody removes it from the statute without any change in classification. Reasoning: FOIA reaches agency records; FAR 35.017 FFRDC records are held by the operating contractor.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "domain",

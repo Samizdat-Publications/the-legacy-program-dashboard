@@ -7,38 +7,96 @@
 {
 "id": "c-0fc284dd13",
 "source": "Atomic Energy Act of 1954, 68 Stat. 919, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"sources": [
+{
+"id": "stat-68-919",
+"locator": null,
+"title": "68 Stat. 919"
+}
+],
 "text": "The Statutes at Large header reads 'Public Law 703 / CHAPTER 1073 / August 30, 1954 / [H. R. 9757]', at 68 Stat. 919. Its long title is 'To amend the Atomic Energy Act of 1946, as amended, and for other purposes', so the 1954 Act is a complete restatement of the 1946 Act rather than a repeal of it.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-db551423e5",
 "source": "42 U.S.C. 2014(y), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-42-2014",
+"locator": "y",
+"title": "42 U.S.C. 2014"
+},
+{
+"id": "usc-42-2014",
+"locator": null,
+"title": "42 U.S.C. 2014"
+}
+],
 "text": "The definition, codified at 42 U.S.C. 2014(y) and enacted as section 11 r.: 'The term Restricted Data means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.' The 1954 enrolled text is identical except that the cross-reference reads 'pursuant to section 142'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bc5e33cbb0",
 "source": "Atomic Energy Act of 1954 secs. 11 r. and 141-145 against Atomic Energy Act of 1946 sec. 10, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf and https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"sources": [
+{
+"id": "stat-68-919",
+"locator": null,
+"title": "68 Stat. 919"
+},
+{
+"id": "stat-60-755",
+"locator": null,
+"title": "60 Stat. 755"
+}
+],
 "text": "WHAT CHANGED FROM 1946, FROM THE TWO TEXTS SIDE BY SIDE. The 1946 Act defined 'restricted data' only 'as used in this section', at section 10; the 1954 Act makes 'Restricted Data' a capitalised, Act-wide definition in the definitions chapter. 1954 ADDS the word 'design'. 'Fissionable material' and 'production of power' become 'special nuclear material' and 'production of energy'. And the 1946 carve-out was open-ended Commission discretion, where 1954 ties removal to a formal declassification procedure at section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bdd1fcc776",
 "source": "Atomic Energy Act of 1946 sec. 10(b)(1), 60 Stat. 755, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"sources": [
+{
+"id": "stat-60-755",
+"locator": null,
+"title": "60 Stat. 755"
+}
+],
 "text": "The 1946 definition it replaced, at section 10(b)(1), covered 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c0b4e07a76",
 "source": "Atomic Energy Act of 1954, term search over the enacted text, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"sources": [
+{
+"id": "stat-68-919",
+"locator": null,
+"title": "68 Stat. 919"
+}
+],
 "text": "THE PHRASE 'BORN CLASSIFIED' APPEARS NOWHERE IN THE ACT. A text search returns zero occurrences, and there is no express automatic-classification clause. The doctrine is an inference from the breadth of the section 11 r. definition taken together with the criminal provisions at sections 224 to 227, and it should be written as the inference it is rather than as statutory language.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-597232f3af",
 "source": "68 Stat. 919, absence of a signature line; nrc.gov NUREG-0980 returned 403",
+"sources": [
+{
+"id": "stat-68-919",
+"locator": "absence of a signature line",
+"title": "68 Stat. 919"
+}
+],
 "text": "No signature was read. The Statutes at Large page image carries no signature line, and the Nuclear Regulatory Commission's published compilation of the Act returned HTTP 403 to this environment.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

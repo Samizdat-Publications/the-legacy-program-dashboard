@@ -1,0 +1,39 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "compass-rose-legal-group",
+"label": "Compass Rose Legal Group"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-d6236a07f3",
+"label": "Senior partner was ODNI's Intelligence Community Inspector General",
+"note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "chrg-112shrg72745",
+"identifiers": [
+"CHRG-112shrg72745"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "CHRG-112shrg72745",
+"topics": [],
+"type": "hearing record",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm"
+]
+}

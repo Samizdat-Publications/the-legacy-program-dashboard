@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mitre-org-a8c08ca9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+}
+],
+"node": null,
+"title": "MITRE - FFRDCs: A Primer",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/news-insights/publication/ffrdcs-primer"
+]
+}

@@ -1,0 +1,118 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2be2d0b573",
+"locator": null,
+"node": "tal-levesque",
+"nodeLabel": "Tal Levesque (Jason Bishop III)",
+"sourceText": "Norio Hayakawa, 23 April 2021, https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/ , opened 2026-09-19",
+"text": "Levesque wrote under the name Jason Bishop III, and had maintained across a multi-year correspondence with Gorightly that Castello was a real person and the Dulce material authentic, before the November 2015 message.",
+"tier": 2
+}
+],
+"date": "2021-04-23",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "saucers-spooks-and-kooks-2021",
+"label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-208c75416e",
+"label": "The publication that obtained and printed the confession",
+"note": "A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "saucers-spooks-and-kooks-2021",
+"label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)"
+},
+"b": {
+"cls": "person",
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+"claimTier": 2,
+"id": "e-716c382b71",
+"label": "Obtained Levesque's confession across a multi-year correspondence",
+"note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+"b": {
+"cls": "person",
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+},
+"claimTier": 2,
+"id": "e-aa2d49cc00",
+"label": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
+"note": "The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2.",
+"type": "denial"
+}
+],
+"era": "3",
+"id": "u-noriohayakawa-wordpress--efa7030b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "noriohayakawa.wordpress.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "saucers-spooks-and-kooks-2021",
+"label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)"
+},
+{
+"cls": "person",
+"id": "norio-hayakawa",
+"label": "Norio Hayakawa"
+},
+{
+"cls": "person",
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+{
+"cls": "person",
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+}
+],
+"node": null,
+"title": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+"topics": [
+{
+"claims": [
+"c-2be2d0b573"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-2be2d0b573"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "article",
+"urls": [
+"https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+]
+}

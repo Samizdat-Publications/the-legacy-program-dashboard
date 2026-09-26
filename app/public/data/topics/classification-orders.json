@@ -26,6 +26,13 @@
     "text": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
     "url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-documents-theblackvault--58e7a052",
+     "locator": null,
+     "title": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07"
+    }
+   ],
    "text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
    "tier": 1
   },
@@ -39,6 +46,13 @@
     "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "pl-118-31",
+     "locator": null,
+     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+    }
+   ],
    "text": "Pub. L. 118-31, div. G, sec. 7606(c), verbatim: 'Agency Review of Special Access Programs.--Not later than 1 year after the date of the enactment of this Act, each head of an agency who is authorized to establish a special access program by Executive Order 13526 (50 U.S.C. 3161 note; relating to classified national security information), or successor order, shall-- (1) review the number of personnel of the agency eligible for access to such special access programs; and (2) submit to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, a report on how the agency head will ensure that the number of such personnel is limited to the minimum required.' Text at 137 Stat. 1099.",
    "tier": 1
   },
@@ -52,6 +66,18 @@
     "text": "EO 12065 sec. 6-203, https://irp.fas.org/offdocs/eo/eo-12065.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12065",
+     "locator": "sec. 6-203",
+     "title": "Executive Order 12065 - National Security Information (28 June 1978)"
+    },
+    {
+     "id": "u-irp-fas-org-4e52e07e",
+     "locator": null,
+     "title": "EO 12065 sec. 3-303"
+    }
+   ],
    "text": "It is EO 12065, and not EO 12356, that revoked EO 11652: section 6-203 does so. The chain runs 10501 to 11652 to 12065 to 12356, and skipping 12065 is the most common way to get it wrong.",
    "tier": 1
   },
@@ -65,6 +91,18 @@
     "text": "EO 10501 secs. 1 and 20, https://irp.fas.org/offdocs/eo10501.htm",
     "url": "https://irp.fas.org/offdocs/eo10501.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-10501",
+     "locator": "secs. 1 and 20",
+     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+    },
+    {
+     "id": "u-irp-fas-org-0f23d75e",
+     "locator": null,
+     "title": "EO 10501 sec. 13"
+    }
+   ],
    "text": "Signed 'DWIGHT D. EISENHOWER / THE WHITE HOUSE / November 5, 1953', effective 15 December 1953 under section 20.",
    "tier": 1
   },
@@ -78,6 +116,7 @@
     "text": "National Archives, Information Security Oversight Office",
     "url": null
    },
+   "sourceRefs": [],
    "text": "ISOO publishes an Annual Report to the President with statistics and analysis on Classified National Security Information and Controlled Unclassified Information; the FY2024 report is published.",
    "tier": 1
   },
@@ -91,6 +130,13 @@
     "text": "Executive Order 13526, sec. 4.3(b)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "eo-13526",
+     "locator": "sec. 4.3(b",
+     "title": "Executive Order 13526 - Classified National Security Information"
+    }
+   ],
    "text": "E.O. 13526 sec. 4.3(b) requires that special access programs be subject to the oversight program established under section 5.4(d) and that the Director of ISOO be afforded access to these programs, 'consistent with the policies and procedures directed by the President'.",
    "tier": 1
   },
@@ -104,6 +150,18 @@
     "text": "DoD Directive 5210.42, 25 May 1993, sections A and B, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5210-42",
+     "locator": "25 May 1993, sections A and B, DTIC AD-A271698",
+     "title": "DoDD 5210.42"
+    },
+    {
+     "id": "u-archive-org-75d25e3c",
+     "locator": null,
+     "title": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698"
+    }
+   ],
    "text": "Scope and purpose: the directive applies to 'DoD military and civilian personnel and contractor employees assigned to PRP positions or in training leading to assignment to PRP positions', and exists to 'ensure the highest possible standards of individual reliability in personnel performing duties associated with nuclear weapons and critical components.'",
    "tier": 1
   },
@@ -117,6 +175,7 @@
     "text": "IC Authorized Classification and Control Markings Register and Manual v5.1, title page",
     "url": null
    },
+   "sourceRefs": [],
    "text": "CAPCO publishes the Intelligence Community Authorized Classification and Control Markings Register and Manual from Washington, DC 20511, with the contact address DNI-SSD-CAPCO@dni.ic.gov.",
    "tier": 1
   },
@@ -130,6 +189,13 @@
     "text": "NSDD 159, Security Procedures para. 1, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
     "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-reaganlibrary-gov-3882acfe",
+     "locator": null,
+     "title": "NSDD 159, Security Procedures paras. 1 and 2, Reagan Library scan"
+    }
+   ],
    "text": "THE COMPARTMENT IS ORDERED IN TERMS. The Security Procedures section directs the Assistant to the President for National Security Affairs to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action.' The compartment is over the POLICY, not only over the operations.",
    "tier": 1
   },
@@ -143,6 +209,18 @@
     "text": "EO 11652 sec. 5(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-11652",
+     "locator": "sec. 5(A",
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "u-irp-fas-org-a806118d",
+     "locator": null,
+     "title": "EO 11652 sec. 14"
+    }
+   ],
    "text": "Section 5(A) creates the General Declassification Schedule. Top Secret downgrades to Secret after 2 full calendar years, to Confidential after 4, and is declassified after 10. Secret downgrades to Confidential after 2 and is declassified after 8. Confidential is declassified after 6.",
    "tier": 1
   },
@@ -156,6 +234,13 @@
     "text": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "Sec. 4.3(a) verbatim: 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program. For special access programs pertaining to intelligence sources, methods, and activities (but not including military operational, strategic, and tactical programs), this function shall be exercised by the Director of National Intelligence. These officials shall keep the number of these programs at an absolute minimum, and shall establish them only when the program is required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient to protect the information from unauthorized disclosure.'",
    "tier": 1
   },
@@ -169,6 +254,13 @@
     "text": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-9f5ec4a0",
+     "locator": null,
+     "title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+    }
+   ],
    "text": "IC UNACKNOWLEDGED PROGRAMS. Policy D.3, verbatim: 'unacknowledged CAPs may be established only where knowledge of the existence of a program would reveal aspects of its protected information, and when there is no other means to protect information about programs at the collateral classification level, or when required by statute. Unacknowledged CAPs may be established only with the approval of the DNI or PDDNI.'",
    "tier": 1
   },
@@ -182,6 +274,13 @@
     "text": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-9f5ec4a0",
+     "locator": null,
+     "title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+    }
+   ],
    "text": "ICD 906 D.9 names 'The Director of the ODNI Controlled Access Program Central Office (CAPCO)' as 'the accountable official responsible for the implementation of this policy and for issuing IC Standards (ICS), consistent with ICPG 101.2.'",
    "tier": 1
   },
@@ -195,6 +294,23 @@
     "text": "Inference from the composition of 10 U.S.C. 119(e), DoDD 5205.07 and the read-in practice described in CHRG-119hhrg61718",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-119",
+     "locator": "e), DoDD 5205.07 and the read-in practice described in CHRG-119hhrg61718",
+     "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    },
+    {
+     "id": "dodd-5205-07",
+     "locator": "and the read-in practice described in CHRG-119hhrg61718",
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    },
+    {
+     "id": "chrg-119hhrg61718",
+     "locator": null,
+     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+    }
+   ],
    "text": "The combination of the 10 U.S.C. 119 waiver, the DoDD 5205.07 notification requirement and the HASC/HAC-D read-in gate produces a lawful architecture in which a program can be concealed from 527 of 535 members of Congress indefinitely. Reasoning: each element is individually lawful and the composition has never been tested against a UAP-specific demand.",
    "tier": 3
   },
@@ -208,6 +324,7 @@
     "text": "CAPCO Register and Manual v5.1, title page",
     "url": null
    },
+   "sourceRefs": [],
    "text": "CAPCO Register v5.1 title page: 'Intelligence Community Authorized Classification and Control Markings Register and Manual, Volume 5, Edition 1 (Version 5.1) (Effective: 30 December 2011), Administrative Update, 30 March 2012, Controlled Access Program Coordination Office (CAPCO), Washington, DC 20511.'",
    "tier": 1
   },
@@ -221,6 +338,13 @@
     "text": "John Greenewald, 'Space Force Says Documents on \"Fastwalkers\" and \"Slowwalkers\" All \"Exempt from Disclosure\"', The Black Vault, 22 December 2023, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
     "url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-e8d5f9c3",
+     "locator": null,
+     "title": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault"
+    }
+   ],
    "text": "The Black Vault reports that the US Space Force, responding on 19 December 2023 to a July 2023 request for all procedures and manuals referencing 'Fastwalkers' and 'Slowwalkers', withheld the material in full under FOIA Exemption 1 and section 1.1(a) of Executive Order 13526. The response letter itself was not opened for this record.",
    "tier": 2
   },
@@ -234,6 +358,13 @@
     "text": "Text of E.O. 13526 sec. 4.3(b)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "eo-13526",
+     "locator": "sec. 4.3(b",
+     "title": "Executive Order 13526 - Classified National Security Information"
+    }
+   ],
    "text": "The qualifier 'consistent with the policies and procedures directed by the President' in section 4.3(b) makes ISOO's access to any given SAP defeasible by presidential direction, so ISOO cannot warrant that it has seen the full SAP inventory. Reasoning: the access right is expressly conditioned rather than absolute.",
    "tier": 3
   },
@@ -247,6 +378,18 @@
     "text": "EO 12065 sec. 3-303, https://irp.fas.org/offdocs/eo/eo-12065.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12065",
+     "locator": "sec. 3-303",
+     "title": "Executive Order 12065 - National Security Information (28 June 1978)"
+    },
+    {
+     "id": "u-irp-fas-org-4e52e07e",
+     "locator": null,
+     "title": "EO 12065 sec. 3-303"
+    }
+   ],
    "text": "THE BALANCING TEST, IN THE ORDER'S OWN WORDS. Section 3-303 required an official to 'determine whether the public interest in disclosure outweighs the damage to national security'. No classification order since has carried it.",
    "tier": 1
   },
@@ -260,6 +403,13 @@
     "text": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-119",
+     "locator": null,
+     "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    }
+   ],
    "text": "WAIVER / 'WAIVED SAP' MECHANISM. 10 U.S.C. 119(e)(1): 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.' (e)(2): 'If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.'",
    "tier": 1
   },
@@ -273,6 +423,13 @@
     "text": "Inference from ISOO's NISP responsibilities under EO 13526",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "eo-13526",
+     "locator": null,
+     "title": "Executive Order 13526 - Classified National Security Information"
+    }
+   ],
    "text": "ISOO's oversight of the National Industrial Security Program is the only government-wide mechanism that could detect a contractor-held program without a government sponsor of record, and it has never been directed at the UAP question. Reasoning: NISP covers classified work at cleared facilities regardless of which agency sponsors it.",
    "tier": 3
   },
@@ -286,6 +443,18 @@
     "text": "EO 12356 sec. 6.2(d), and a 404 at https://irp.fas.org/offdocs/eo/eo-12356.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-12356.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12356",
+     "locator": "sec. 6.2(d), and a 404 at",
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    },
+    {
+     "id": "u-irp-fas-org-42fc8d63",
+     "locator": null,
+     "title": "EO 12356 sec. 6.2(d), and a 404 at"
+    }
+   ],
    "text": "IT DID NOT REVOKE EO 11652, and the claim that it did is wrong. EO 12065 had already revoked 11652 in 1978. Also note that the Federation of American Scientists URL usually given for this order, irp.fas.org/offdocs/eo/eo-12356.htm, returns HTTP 404 and does not exist.",
    "tier": 1
   },
@@ -299,6 +468,18 @@
     "text": "EO 11652 sec. 14, https://irp.fas.org/offdocs/eo/eo-11652.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-11652",
+     "locator": "sec. 14",
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "u-irp-fas-org-a806118d",
+     "locator": null,
+     "title": "EO 11652 sec. 14"
+    }
+   ],
    "text": "Section 14, headed 'Revocation of Executive Order No. 10501', SUPERSEDES rather than revokes: it supersedes EO 10501 as amended by EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382, as of the effective date. The heading and the operative verb do not match, which matters to anyone tracing the chain.",
    "tier": 1
   },
@@ -312,6 +493,7 @@
     "text": "CAPCO Register and Manual v5.1, Special Access Program Markings",
     "url": null
    },
+   "sourceRefs": [],
    "text": "CAPCO Register v5.1: 'The first value in the SAP category is the SAP category indicator either \"SPECIAL ACCESS REQUIRED-\" or \"SAR-\" (the authorized abbreviation) ... Following the SAP category indicator shall be the SAP program indicator which is the program's nickname or authorized digraph or trigraph.'",
    "tier": 1
   },
@@ -325,6 +507,13 @@
     "text": "Invention Secrecy Statistics, FAS Project on Government Secrecy, https://sgp.fas.org/othergov/invention/stats.html",
     "url": "https://sgp.fas.org/othergov/invention/stats.html"
    },
+   "sourceRefs": [
+    {
+     "id": "u-sgp-fas-org-6f4a3a71",
+     "locator": null,
+     "title": "Invention Secrecy Statistics, FAS Project on Government Secrecy"
+    }
+   ],
    "text": "The order count is published annually and is rising. The Federation of American Scientists' table, sourced to the Patent and Trademark Office, records secrecy orders in effect at fiscal year end of 5,976 (FY21), 6,057 (FY22), 6,155 (FY23), 6,471 (FY24) and 6,543 (FY25), with 356 new orders imposed in FY24 against 102 in FY25.",
    "tier": 1
   },
@@ -338,6 +527,13 @@
     "text": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
     "url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-documents-theblackvault--58e7a052",
+     "locator": null,
+     "title": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07"
+    }
+   ],
    "text": "The same letter refuses to search a second command's holdings on structural grounds: 'Additionally, NORAD is exempt from FOIA requests as a bi-national organization; therefore no search was conducted for responsive NORAD documents.'",
    "tier": 1
   },
@@ -351,6 +547,13 @@
     "text": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "Sec. 1.7(a) verbatim: 'In no case shall information be classified, continue to be maintained as classified, or fail to be declassified in order to: (1) conceal violations of law, inefficiency, or administrative error; (2) prevent embarrassment to a person, organization, or agency; (3) restrain competition; or (4) prevent or delay the release of information that does not require protection in the interest of the national security.' Sec. 1.7(b): 'Basic scientific research information not clearly related to the national security shall not be classified.'",
    "tier": 1
   },
@@ -364,6 +567,18 @@
     "text": "EO 12356 sec. 1.1(c), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
     "url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12356",
+     "locator": "sec. 1.1(c",
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    },
+    {
+     "id": "eo-12356",
+     "locator": null,
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    }
+   ],
    "text": "Section 1.1(c) resolves doubt toward secrecy: where there is reasonable doubt about the level, the information is to be safeguarded at the higher level.",
    "tier": 1
   },
@@ -377,6 +592,28 @@
     "text": "EO 12356 full text term searches, against EO 12065 sec. 3-303, https://www.archives.gov/federal-register/codification/executive-order/12356.html and https://irp.fas.org/offdocs/eo/eo-12065.htm",
     "url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12356",
+     "locator": "full text term searches, against EO 12065 sec. 3-303, and",
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    },
+    {
+     "id": "eo-12065",
+     "locator": "sec. 3-303, and",
+     "title": "Executive Order 12065 - National Security Information (28 June 1978)"
+    },
+    {
+     "id": "eo-12356",
+     "locator": null,
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    },
+    {
+     "id": "u-irp-fas-org-4e52e07e",
+     "locator": null,
+     "title": "EO 12065 sec. 3-303"
+    }
+   ],
    "text": "THE PUBLIC-INTEREST TEST IS GONE, AND THIS WAS CHECKED FROM BOTH SIDES. The phrase 'public interest' occurs zero times in EO 12356, as does any form of 'balanc'. Its predecessor EO 12065 had required at section 3-303 that an official 'determine whether the public interest in disclosure outweighs the damage to national security'. The obligation to weigh disclosure against harm was removed in 1982 and has not returned.",
    "tier": 1
   },
@@ -390,6 +627,13 @@
     "text": "ICD 906 section D.9.c read with E.O. 13526 section 4.3(b)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "eo-13526",
+     "locator": "section 4.3(b",
+     "title": "Executive Order 13526 - Classified National Security Information"
+    }
+   ],
    "text": "An ISOO request about an IC controlled access program is routed, by directive, through the office that administers the registry of those programs - so ISOO's independent oversight of IC CAPs is mediated by the entity it would be overseeing. Reasoning: ICD 906 D.9.c places ISOO requests inside CAPCO's coordination function.",
    "tier": 3
   },
@@ -403,6 +647,18 @@
     "text": "EO 11652 sec. 7(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-11652",
+     "locator": "sec. 7(A",
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "u-irp-fas-org-a806118d",
+     "locator": null,
+     "title": "EO 11652 sec. 14"
+    }
+   ],
    "text": "Section 7(A) lodges monitoring in the National Security Council and establishes an Interagency Classification Review Committee of representatives of State, Defense, Justice, the Atomic Energy Commission, CIA and the NSC Staff, chaired by a presidential designee. Under 7(A)(2) it receives and acts on complaints 'from persons within or without the government.'",
    "tier": 1
   },
@@ -416,6 +672,18 @@
     "text": "EO 11652 sec. 1(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-11652",
+     "locator": "sec. 1(A",
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "u-irp-fas-org-a806118d",
+     "locator": null,
+     "title": "EO 11652 sec. 14"
+    }
+   ],
    "text": "Section 1(A), on Top Secret: 'This classification shall be used with the utmost restraint.'",
    "tier": 1
   },
@@ -429,6 +697,18 @@
     "text": "EO 12036 sec. 3-401, https://irp.fas.org/offdocs/eo/eo-12036.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12036",
+     "locator": "sec. 3-401",
+     "title": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)"
+    },
+    {
+     "id": "u-irp-fas-org-9c3dd77e",
+     "locator": null,
+     "title": "EO 12036 sec. 3-401"
+    }
+   ],
    "text": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed', and expressly states that this is 'not... a condition precedent'. Being told is not a prerequisite to acting.",
    "tier": 1
   },
@@ -442,6 +722,13 @@
     "text": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-9f5ec4a0",
+     "locator": null,
+     "title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+    }
+   ],
    "text": "THE DISCOVERABILITY EXEMPTION. Policy D.5: 'Intelligence and intelligence-related information within all CAPs shall be discoverable or exempted from discovery consistent with the processes outlined in ICD 501 ... Any exemption from this requirement shall be approved only by the DNI or PDDNI, and reviewed and validated at least annually.' E.1.b lets the DNI or PDDNI 'Establish unacknowledged CAPs and/or approve non-discoverability of CAPs if a compelling case can be made that any agreed upon approach to discoverability would reveal a capability, a decision, or a fragile source, and the information contained in the compartment is so narrowly tailored, it is unlikely to be of use to officers who do not already have access to the compartment.' A CAP can thus be made invisible to the IC's own internal information-discovery system.",
    "tier": 1
   },
@@ -455,6 +742,18 @@
     "text": "EO 12036 full text, term searches returning zero, https://irp.fas.org/offdocs/eo/eo-12036.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12036",
+     "locator": "full text, term searches returning zero",
+     "title": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)"
+    },
+    {
+     "id": "u-irp-fas-org-9c3dd77e",
+     "locator": null,
+     "title": "EO 12036 sec. 3-401"
+    }
+   ],
    "text": "DO NOT CITE THIS ORDER FOR COMPARTMENTATION. The words 'compartment', 'special access' and 'need-to-know' appear zero times in the text. The nearest provision is section 4-106, which only says implementing documents will sometimes be classified.",
    "tier": 1
   },
@@ -468,6 +767,13 @@
     "text": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "Sec. 4.3(b)(4)-(5) verbatim: 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order. ... Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.' Note the National Security Advisor briefing is on request only, not automatic.",
    "tier": 1
   },
@@ -481,6 +787,13 @@
     "text": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-9f5ec4a0",
+     "locator": null,
+     "title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+    }
+   ],
    "text": "JURISDICTIONAL FENCE. Applicability C.3, verbatim: 'This Directive does not apply to special access programs established pursuant to EO 13526, Section 4.3, or any successor document by the Secretaries of State, Defense, Energy, or Homeland Security or by the Attorney General, or their principal deputies. Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.' C.2 adds that the DNI 'may establish CAPs pertaining to intelligence sources, methods, and activities but does not have authority to establish military operational, strategic, or tactical programs.'",
    "tier": 1
   },
@@ -494,6 +807,18 @@
     "text": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-35-181",
+     "locator": "Office of the Law Revision Counsel",
+     "title": "35 U.S.C. 181"
+    },
+    {
+     "id": "usc-35-181",
+     "locator": null,
+     "title": "35 U.S.C. 181"
+    }
+   ],
    "text": "An order is indefinite by renewal, and wartime orders outlast the war. Section 181: 'An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year', renewable annually on an affirmative determination that 'the national interest continues so to require'; an order in effect during a time when the United States is at war 'shall remain in effect for the duration of hostilities and one year following cessation of hostilities.'",
    "tier": 1
   },
@@ -507,6 +832,23 @@
     "text": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-13526",
+     "locator": "sec. 4.3(a), 75 FR 707",
+     "title": "Executive Order 13526 - Classified National Security Information"
+    },
+    {
+     "id": "fr-75-707",
+     "locator": null,
+     "title": "75 FR 707"
+    },
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "Sec. 4.3(a) permits establishment only where 'required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient', and directs that these officials 'shall keep the number of these programs at an absolute minimum'.",
    "tier": 1
   },
@@ -520,6 +862,13 @@
     "text": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "Sec. 4.3(c) verbatim, in its entirety: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.' The executive order expressly subordinates itself to the statutory SAP oversight scheme, including the section 119(e) waiver.",
    "tier": 1
   },
@@ -533,6 +882,7 @@
     "text": "American Alchemy, episode with Mario Woods, 02;41 to 03;36 and 59;33 to 1:00;25; and the Michael Shermer episode of 9 July 2026, 0:13:03",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Speakers on the American Alchemy corpus describe PRP as a reason nuclear-site personnel did not report what they saw, and attach a figure of 167 to it. The 167 is Robert Hastings's count of nuclear-base witnesses, not a count of PRP personnel; no opened record supports either the figure or the reporting claim, and the directive contains no provision about reporting aerial phenomena.",
    "tier": 2
   },
@@ -546,6 +896,18 @@
     "text": "Inference from the structure of 10 U.S.C. 119 and DoDD 5205.07",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-119",
+     "locator": "and DoDD 5205.07",
+     "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    },
+    {
+     "id": "dodd-5205-07",
+     "locator": null,
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "The allegation of a concealed legacy recovery program is, in legal terms, an allegation about a single line of the United States Code: that 10 U.S.C. 119(e) has been used to reduce congressional knowledge of a materials exploitation activity to eight members, or that the activity was never entered into the SAP system at all. Reasoning: those are the only two possibilities the statutory scheme allows.",
    "tier": 3
   },
@@ -559,6 +921,18 @@
     "text": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
     "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "cia-rdp83-01042r000800010003-1",
+     "locator": "National Security Archive John Marks Collection Box 9",
+     "title": "CIA-RDP83-01042R000800010003-1"
+    },
+    {
+     "id": "u-nsarchive-gwu-edu-dd1fa94c",
+     "locator": null,
+     "title": "Chief, Inspection and Security Staff to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950 (CIA-RDP83-01042R000800010003-1)"
+    }
+   ],
    "text": "The founding proposal names its own irregularity: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.'",
    "tier": 1
   },
@@ -572,6 +946,18 @@
     "text": "EO 10501 sec. 1, https://irp.fas.org/offdocs/eo10501.htm",
     "url": "https://irp.fas.org/offdocs/eo10501.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-10501",
+     "locator": "sec. 1",
+     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+    },
+    {
+     "id": "u-irp-fas-org-0f23d75e",
+     "locator": null,
+     "title": "EO 10501 sec. 13"
+    }
+   ],
    "text": "Section 1 fixes exactly three categories, Top Secret, Secret and Confidential, and bars any other designation for defense information 'except as expressly provided by statute.'",
    "tier": 1
   },
@@ -585,6 +971,18 @@
     "text": "EO 11652 sec. 5(E), https://irp.fas.org/offdocs/eo/eo-11652.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-11652",
+     "locator": "sec. 5(E",
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "u-irp-fas-org-a806118d",
+     "locator": null,
+     "title": "EO 11652 sec. 14"
+    }
+   ],
    "text": "Section 5(E)(1) is a thirty-year rule: material classified after the effective date is automatically declassified at 30 full calendar years unless the head of the originating Department personally determines in writing that continued protection is essential. Section 5(E)(2) puts pre-existing material over 30 years old under systematic review by the Archivist of the United States.",
    "tier": 1
   },
@@ -598,6 +996,7 @@
     "text": "Avi Loeb, Medium, 1 July 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Avi Loeb published his own account of agreeing to lead a UAP Science Advisory Council for the US government, dated 1 July 2026.",
    "tier": 2
   },
@@ -611,6 +1010,13 @@
     "text": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "Sec. 1.7(a)(1) and 1.7(b) are the two provisions a whistleblower alleging an illegally concealed recovery program would invoke: (a)(1) makes classification to conceal a violation of law impermissible on its face, and (b) makes classification of basic scientific research not clearly related to national security impermissible. Neither carries an enforcement mechanism inside the order; the only remedy channel is the sec. 5.3 ISCAP / agency appeal process or the intelligence-community whistleblower statutes. Reasoning stated from the text.",
    "tier": 3
   },
@@ -624,6 +1030,13 @@
     "text": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-9f5ec4a0",
+     "locator": null,
+     "title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+    }
+   ],
    "text": "CAPCO duties per ICD 906 E.4: serve as central point of contact for all CAP requirements; 'Maintain the CAP Registry, a list of all control systems, including all compartments and sub-compartments'; 'Deconflict all IC CAPs or all other programs'; issue IC Standards; coordinate CAP-related engagements including congressional briefings, ISOO requests, and the NSC; and ensure at least one records official is cleared to all CAPs.",
    "tier": 1
   },
@@ -637,6 +1050,13 @@
     "text": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "THE ISOO ACCESS CAP. Sec. 4.3(b)(3) verbatim: 'Special access programs shall be subject to the oversight program established under section 5.4(d) of this order. In addition, the Director of the Information Security Oversight Office shall be afforded access to these programs, in accordance with the security requirements of each program, in order to perform the functions assigned to the Information Security Oversight Office under this order. An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The executive-branch oversight body for the entire classification system can lawfully be reduced to a single individual for the most sensitive SAPs.",
    "tier": 1
   },
@@ -650,6 +1070,13 @@
     "text": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-9f5ec4a0",
+     "locator": null,
+     "title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+    }
+   ],
    "text": "A single ODNI office holds an authoritative, complete list of every IC compartment and sub-compartment codename, including unacknowledged ones, and is charged with deconflicting them against 'all other programs' -- which necessarily means CAPCO has visibility across the DoD/IC boundary. That register, not any congressional document, is the closest thing to a master index of the classified compartment space. Reasoning stated from D.9.b.",
    "tier": 3
   },
@@ -663,6 +1090,18 @@
     "text": "EO 11652 signature block and sec. 15, and the NARA disposition table, https://www.archives.gov/federal-register/executive-orders/1972.html",
     "url": "https://www.archives.gov/federal-register/executive-orders/1972.html"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-11652",
+     "locator": "signature block and sec. 15, and the NARA disposition table",
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "eo-11652",
+     "locator": null,
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    }
+   ],
    "text": "Signed by Richard Nixon on 8 March 1972, published at 37 FR 5209 on 10 March 1972, effective 1 June 1972 under section 15.",
    "tier": 1
   },
@@ -676,6 +1115,18 @@
     "text": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5210-42",
+     "locator": "25 May 1993, enclosure 4, DTIC AD-A271698",
+     "title": "DoDD 5210.42"
+    },
+    {
+     "id": "u-archive-org-75d25e3c",
+     "locator": null,
+     "title": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698"
+    }
+   ],
    "text": "The medical file is open to the chain without consent: 'medical records may be disclosed to reviewing and certifying officials for this purpose without either a request from, or the consent of, the individuals to whom those records pertain', and the health record is 'marked to reflect assignment of an individual to a PRP position'.",
    "tier": 1
   },
@@ -689,6 +1140,7 @@
     "text": "ICD 906, section D.9.c",
     "url": null
    },
+   "sourceRefs": [],
    "text": "ICD 906 section D.9.c makes CAPCO 'responsible for the coordination of CAP-related engagements, to include, but not limited to, congressional briefings, requests from the Information Security Oversight Office, and the National Security Council.'",
    "tier": 1
   },
@@ -702,6 +1154,18 @@
     "text": "EO 12036 secs. 1-302 and 4-212, https://irp.fas.org/offdocs/eo/eo-12036.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12036",
+     "locator": "secs. 1-302 and 4-212",
+     "title": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)"
+    },
+    {
+     "id": "u-irp-fas-org-9c3dd77e",
+     "locator": null,
+     "title": "EO 12036 sec. 3-401"
+    }
+   ],
    "text": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity as an activity conducted abroad in support of foreign policy objectives where the role of the United States Government 'is not apparent or acknowledged publicly.'",
    "tier": 1
   },
@@ -715,6 +1179,23 @@
     "text": "Reading of 10 U.S.C. 119(e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together; all three texts read from primary sources on 22 August 2026",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-119",
+     "locator": "e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together",
+     "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    },
+    {
+     "id": "eo-13526",
+     "locator": "sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together",
+     "title": "Executive Order 13526 - Classified National Security Information"
+    },
+    {
+     "id": "cfr-32-117",
+     "locator": "6(b)(3) together",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "Three separate instruments each narrow oversight of the same object, and none of them depends on the others. 10 U.S.C. 119(e) reduces the congressional readership of a waived SAP to twelve members. EO 13526 sec. 4.3(b)(3) can reduce ISOO's access to one person. 32 CFR 117.6(b)(3) relieves the Director, DCSA of NISP industrial-security oversight entirely on a carve-out. Congressional, executive and industrial-security oversight are narrowed by three different authorities, so closing any one of them would leave the other two intact.",
    "tier": 3
   },
@@ -728,6 +1209,18 @@
     "text": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-35-181",
+     "locator": "Office of the Law Revision Counsel",
+     "title": "35 U.S.C. 181"
+    },
+    {
+     "id": "usc-35-181",
+     "locator": null,
+     "title": "35 U.S.C. 181"
+    }
+   ],
    "text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
    "tier": 1
   },
@@ -741,6 +1234,7 @@
     "text": "Disclosure Foundation announcement",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Disclosure Foundation announced on 14 June 2026 that advisory board member Avi Loeb had been asked to assemble and lead a UAP Science Advisory Council of twelve scientists to support US government agencies with scientific analysis.",
    "tier": 2
   },
@@ -754,6 +1248,28 @@
     "text": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; and DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-119",
+     "locator": "'Special access programs: congressional oversight' (text in effect on 20 August 2026",
+     "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    },
+    {
+     "id": "usc-10-119",
+     "locator": null,
+     "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    },
+    {
+     "id": "dodi-5205-11",
+     "locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    },
+    {
+     "id": "dodi-5205-11",
+     "locator": null,
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "THE STATUTORY GROUP AND THE DEPARTMENT'S GROUP ARE NOT THE SAME, AND THE DEPARTMENT'S IS WIDER. The statute, 10 U.S.C. 119(e)(2), names only 'the chairman and ranking minority member of each of the defense committees' - twelve seats across six committee entities, and no staff. DoD Instruction 5205.11, paragraph 7.2.a.(3), states verbatim: 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' The Department therefore adds two staff categories the statute does not name, and extends the group to the two intelligence committees, which Section 119(g) does not include. Whether that is a lawful gloss or an administrative expansion is a live question the board can put on the record.",
    "tier": 1
   },
@@ -767,6 +1283,18 @@
     "text": "50 U.S.C. 3021(b)(1), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-50-3021",
+     "locator": "b)(1",
+     "title": "50 U.S.C. 3021"
+    },
+    {
+     "id": "usc-50-3021",
+     "locator": null,
+     "title": "50 U.S.C. 3021"
+    }
+   ],
    "text": "The statutory purpose has not changed since 1947. 50 U.S.C. 3021(b)(1) still states the Council's function as being 'to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security'.",
    "tier": 1
   },
@@ -780,6 +1308,13 @@
     "text": "10 U.S.C. 119",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-119",
+     "locator": null,
+     "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    }
+   ],
    "text": "Where the Secretary of Defense waives SAP reporting, the statute requires the information and the justification to be provided 'jointly to the chairman and ranking minority member of each of the defense committees' rather than to the full committees.",
    "tier": 1
   },
@@ -793,6 +1328,7 @@
     "text": "CAPCO Register and Manual v5.1, change log",
     "url": null
    },
+   "sourceRefs": [],
    "text": "CAPCO Register v5.1 change log records that the edition 'Moved the Special Access Required (SAR) marking from the Non-Intelligence Community Dissemination Control Markings category to a new category called Special Access Program Markings.'",
    "tier": 1
   },
@@ -806,6 +1342,13 @@
     "text": "Atomic Energy Act of 1954, term search over the enacted text, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
     "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "stat-68-919",
+     "locator": null,
+     "title": "68 Stat. 919"
+    }
+   ],
    "text": "THE PHRASE 'BORN CLASSIFIED' APPEARS NOWHERE IN THE ACT. A text search returns zero occurrences, and there is no express automatic-classification clause. The doctrine is an inference from the breadth of the section 11 r. definition taken together with the criminal provisions at sections 224 to 227, and it should be written as the inference it is rather than as statutory language.",
    "tier": 1
   },
@@ -819,6 +1362,18 @@
     "text": "EO 10501 sec. 2 and attached memorandum, https://irp.fas.org/offdocs/eo10501.htm",
     "url": "https://irp.fas.org/offdocs/eo10501.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-10501",
+     "locator": "sec. 2 and attached memorandum",
+     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+    },
+    {
+     "id": "u-irp-fas-org-0f23d75e",
+     "locator": null,
+     "title": "EO 10501 sec. 13"
+    }
+   ],
    "text": "IT TOOK CLASSIFICATION AUTHORITY AWAY, WHICH IS THE OPPOSITE OF THE DIRECTION THE SYSTEM LATER TRAVELLED. Section 2, 'Limitation of Authority to Classify', provides that for agencies with no direct national-defense responsibility 'there shall be no authority for original classification of information or material under this order', and limits agencies with partial responsibility to the agency head without delegation. The attached memorandum names 28 agencies stripped of the authority, including the Federal Trade Commission, the Securities and Exchange Commission and the Veterans Administration, and 17 more limited to the agency head alone.",
    "tier": 1
   },
@@ -832,6 +1387,18 @@
     "text": "EO 12356 secs. 1.6(c) and 1.6(d), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
     "url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12356",
+     "locator": "secs. 1.6(c) and 1.6(d",
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    },
+    {
+     "id": "eo-12356",
+     "locator": null,
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    }
+   ],
    "text": "RECLASSIFICATION AFTER DISCLOSURE IS EXPRESSLY AUTHORISED. Section 1.6(c) permits officials to 'reclassify information previously declassified and disclosed if it is determined in writing' that it requires protection and 'may reasonably be recovered'. Section 1.6(d) permits classification or reclassification AFTER an agency has received a request under the Freedom of Information Act, the Privacy Act or the mandatory review provisions, on a document-by-document basis.",
    "tier": 1
   },
@@ -845,6 +1412,18 @@
     "text": "EO 12356 sec. 6.2(d) and source line, https://www.archives.gov/federal-register/codification/executive-order/12356.html",
     "url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-12356",
+     "locator": "sec. 6.2(d) and source line",
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    },
+    {
+     "id": "eo-12356",
+     "locator": null,
+     "title": "Executive Order 12356 - National Security Information (2 April 1982)"
+    }
+   ],
    "text": "Published at 47 FR 14874 and 15557, 3 CFR 1982 Comp. p. 166, dated 2 April 1982, effective 1 August 1982. Section 6.2(d): 'Executive Order No. 12065 of June 28, 1978, as amended, is revoked as of the effective date of this Order.'",
    "tier": 1
   },
@@ -858,6 +1437,13 @@
     "text": "50 U.S.C. 3510 (Cornell LII)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "usc-50-3510",
+     "locator": "Cornell LII",
+     "title": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+    }
+   ],
    "text": "50 U.S.C. 3510 permits certain intelligence expenditures to be accounted for solely on the certificate of the agency head, with that certificate deemed a sufficient voucher.",
    "tier": 1
   },
@@ -871,6 +1457,18 @@
     "text": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5210-42",
+     "locator": "25 May 1993, enclosure 4, DTIC AD-A271698",
+     "title": "DoDD 5210.42"
+    },
+    {
+     "id": "u-archive-org-75d25e3c",
+     "locator": null,
+     "title": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698"
+    }
+   ],
    "text": "Disqualification reaches demeanour, not only conduct. Under 'Poor Attitude or Lack of Motivation' the directive lists 'aberrant attitude (arrogance, inflexibility, or suspiciousness), behavior (impulsiveness, destructiveness, or suicide threats), or mood (unusual happiness, sadness, or agitation).'",
    "tier": 1
   },
@@ -884,6 +1482,18 @@
     "text": "EO 10501 sec. 19, https://irp.fas.org/offdocs/eo10501.htm",
     "url": "https://irp.fas.org/offdocs/eo10501.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-10501",
+     "locator": "sec. 19",
+     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+    },
+    {
+     "id": "u-irp-fas-org-0f23d75e",
+     "locator": null,
+     "title": "EO 10501 sec. 13"
+    }
+   ],
    "text": "Section 19: 'Executive Order No. 10290 of September 24, 1951 is revoked as of the effective date of this order.'",
    "tier": 1
   },
@@ -897,6 +1507,13 @@
     "text": "Executive Order 13526, sec. 4.3(a)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "eo-13526",
+     "locator": "sec. 4.3(a",
+     "title": "Executive Order 13526 - Classified National Security Information"
+    }
+   ],
    "text": "E.O. 13526 sec. 4.3(a) provides that for programs pertaining to intelligence activities, including special activities, or intelligence sources or methods, this function shall be exercised by the Director of National Intelligence.",
    "tier": 1
   },
@@ -910,6 +1527,7 @@
     "text": "CAPCO Register and Manual v5.1, title page",
     "url": null
    },
+   "sourceRefs": [],
    "text": "CAPCO Register v5.1 title page: 'Certain security markings were removed due to classified content. These markings have been compiled in separate classified addenda.'",
    "tier": 1
   },
@@ -923,6 +1541,13 @@
     "text": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "u-govinfo-gov-75eb6bb8",
+     "locator": null,
+     "title": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707"
+    }
+   ],
    "text": "Sec. 4.3(b)(1)-(2) verbatim: 'Special access programs shall be limited to programs in which the number of persons who ordinarily will have access will be reasonably small and commensurate with the objective of providing enhanced protection for the information involved. ... Each agency head shall establish and maintain a system of accounting for special access programs consistent with directives issued pursuant to this order.'",
    "tier": 1
   },
@@ -936,6 +1561,18 @@
     "text": "attempted https://www.federalregister.gov/executive-order/10501, which redirected to https://unblock.federalregister.gov/",
     "url": "https://www.federalregister.gov/executive-order/10501,"
    },
+   "sourceRefs": [
+    {
+     "id": "u-federalregister-gov-c48e9f59",
+     "locator": null,
+     "title": "attempted , which redirected to"
+    },
+    {
+     "id": "u-unblock-federalregister--a2ea93da",
+     "locator": null,
+     "title": "attempted , which redirected to"
+    }
+   ],
    "text": "The Federal Register citation usually given for this order, 18 FR 7049, was NOT verified. federalregister.gov redirects this environment to a bot-block page, and the text read was a transcription hosted elsewhere.",
    "tier": 3
   },
@@ -949,6 +1586,13 @@
     "text": "NSDD 159, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
     "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-reaganlibrary-gov-3882acfe",
+     "locator": null,
+     "title": "NSDD 159, Security Procedures paras. 1 and 2, Reagan Library scan"
+    }
+   ],
    "text": "THE PAPER TRAIL IS DELIBERATELY SINGULAR. The NSC Senior Director for Intelligence Programs holds the only record copies of approved Findings and Memoranda of Notification: 'No other copies of approved Findings or MONs are authorized.' The same officer is tasked to administer the special access security compartment protecting covert action policies.",
    "tier": 1
   },
@@ -962,6 +1606,18 @@
     "text": "EO 11652 full text, absence of any such statement, https://irp.fas.org/offdocs/eo/eo-11652.htm",
     "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-11652",
+     "locator": "full text, absence of any such statement",
+     "title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "u-irp-fas-org-a806118d",
+     "locator": null,
+     "title": "EO 11652 sec. 14"
+    }
+   ],
    "text": "The common description of this order as the first major overhaul of classification since 1953 is a historians' framing and is not a claim the order makes. It is consistent with section 14, which supersedes EO 10501 and six amending orders, but the text does not say it.",
    "tier": 3
   },
@@ -975,6 +1631,18 @@
     "text": "EO 10501 sec. 13, https://irp.fas.org/offdocs/eo10501.htm",
     "url": "https://irp.fas.org/offdocs/eo10501.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "eo-10501",
+     "locator": "sec. 13",
+     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+    },
+    {
+     "id": "u-irp-fas-org-0f23d75e",
+     "locator": null,
+     "title": "EO 10501 sec. 13"
+    }
+   ],
    "text": "THE JOIN TO THE NUCLEAR REGIME. Section 13 expressly leaves Atomic Energy Act Restricted Data outside the order's reach. The executive classification system and the statutory Restricted Data system are two systems, and the executive one says so.",
    "tier": 1
   },
@@ -988,6 +1656,7 @@
     "text": "ICD 906, section D.9.b",
     "url": null
    },
+   "sourceRefs": [],
    "text": "ICD 906 section D.9.b requires ODNI CAPCO to 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments' and to 'manage all compartment and sub compartment names, codenames, and any other pertinent information.'",
    "tier": 1
   },
@@ -1001,6 +1670,7 @@
     "text": "National Archives, Information Security Oversight Office",
     "url": null
    },
+   "sourceRefs": [],
    "text": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', with authority from Executive Order 13526 and Executive Order 13556.",
    "tier": 1
   },

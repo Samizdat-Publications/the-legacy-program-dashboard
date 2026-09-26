@@ -1,0 +1,111 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-cb0d7857b7",
+"locator": null,
+"node": "wurtsmith-1975",
+"nodeLabel": "Wurtsmith AFB incursion, 30 October 1975",
+"sourceText": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"text": "Capt. Myron Taylor's Memo for the Record of 18 January 1979 to SSgt Cahill gives the KC-135 crew's account and names the crew. Taylor: 'We followed the lights north out over Lake Huron and then the UFO swung south still over the lake toward the Saginaw Bay area of Michigan.' He records flashing lights similar to strobes flashing irregularly, two objects, and a separation speed estimated at about 1,000 knots.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-be06e0fd25",
+"locator": null,
+"node": "l-wurtsmith",
+"nodeLabel": "Wurtsmith AFB, Michigan",
+"sourceText": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"text": "The NORAD Senior Director's Log entry for 31 October 1975 reads: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.' A NORAD Command Director's Log entry timed 31 Oct 75/0445Z reports the incident at 0355Z.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-f91d854ede",
+"locator": null,
+"node": "l-wurtsmith",
+"nodeLabel": "Wurtsmith AFB, Michigan",
+"sourceText": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"text": "Named ground witnesses at Wurtsmith are in the contemporaneous record: Airman Martin E. Tackabury at the Capehart housing area gate, Airman Michael J. Myers of Police Unit Seven at the motor pool, Sergeant Robert J. Anderson at the motor pool, Airman Roger Skipper at the main gate and Sergeant James A. Miller of the weapons storage area security police. Col. Boardman is named as wing commander.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "wurtsmith-1975",
+"label": "Wurtsmith AFB incursion, 30 October 1975"
+},
+"b": {
+"cls": "location",
+"id": "l-wurtsmith",
+"label": "Wurtsmith AFB, Michigan"
+},
+"claimTier": 1,
+"id": "e-5ff4a63b97",
+"label": "The incursion was over this installation's weapons storage area",
+"note": "The NORAD Senior Director's Log names Wurtsmith AFB weapons storage area.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-wurtsmith",
+"label": "Wurtsmith AFB, Michigan"
+},
+"b": {
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+},
+"claimTier": 1,
+"id": "e-d53660a213",
+"label": "SAC installation; 379th Bombardment Wing",
+"note": "The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian's 1979 file is the wing's own record of the omission.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-ed3c79f2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "document",
+"id": "doc-wurtsmith-historian-1979",
+"label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979"
+},
+{
+"cls": "event",
+"id": "wurtsmith-1975",
+"label": "Wurtsmith AFB incursion, 30 October 1975"
+},
+{
+"cls": "location",
+"id": "l-wurtsmith",
+"label": "Wurtsmith AFB, Michigan"
+}
+],
+"node": null,
+"title": "NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director's Log entry 31 Oct 75/0445Z. Opened 19 September 2026",
+"topics": [
+{
+"claims": [
+"c-cb0d7857b7",
+"c-be06e0fd25",
+"c-f91d854ede"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.nicap.org/babylon/751030_wurtsmith.htm"
+]
+}

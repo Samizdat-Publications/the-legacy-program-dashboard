@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-42d039be0a",
+"locator": null,
+"node": "atomic-energy-act-1946",
+"nodeLabel": "Atomic Energy Act of 1946 (McMahon Act)",
+"sourceText": "Membership, Publications, and Other Pertinent Information of the Joint Committee on Atomic Energy, Joint Committee Print, February 1962, GPO 80013, section II, https://www.govinfo.gov/content/pkg/CPRT-87JPRT80013/pdf/CPRT-87JPRT80013.pdf",
+"text": "Where McMahon actually is in the record: the 1962 Joint Committee print lists under 'MEMBERSHIP OF THE JOINT COMMITTEE, 1945-61' the 'SENATE SPECIAL COMMITTEE ON ATOMIC ENERGY, Seventy-ninth Congress (1945-46), BRIEN McMAHON, Connecticut, Chairman', and then the 'JOINT COMMITTEE ON ATOMIC ENERGY, Seventy-ninth Congress (1946), BRIEN McMAHON, Connecticut, Chairman'. None of the federal documents opened for this node calls the Act the McMahon Act.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-govinfo-gov-ce2b77f3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)"
+}
+],
+"node": null,
+"title": "Membership, Publications, and Other Pertinent Information of the Joint Committee on Atomic Energy, Joint Committee Print, February 1962 (GPO 80013)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CPRT-87JPRT80013/pdf/CPRT-87JPRT80013.pdf"
+]
+}

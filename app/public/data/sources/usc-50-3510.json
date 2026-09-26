@@ -1,0 +1,157 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-756dce4048",
+"locator": null,
+"node": "usc-50-3510",
+"nodeLabel": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/3510",
+"text": "50 U.S.C. 3510(b): 'The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-eb94c3d87e",
+"locator": null,
+"node": "usc-50-3510",
+"nodeLabel": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/3510",
+"text": "The provision originates as section 8 of the Central Intelligence Agency Act of 1949, enacted 20 June 1949.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-08dc49061d",
+"locator": null,
+"node": "d-funding",
+"nodeLabel": "Funding Channels",
+"sourceText": "50 U.S.C. 3510",
+"text": "50 U.S.C. 3510 permits certain expenditures to be accounted for solely on the certificate of the agency head.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-ccba33b899",
+"locator": "Cornell LII",
+"node": "d-secrecy",
+"nodeLabel": "Secrecy Law & Classification",
+"sourceText": "50 U.S.C. 3510 (Cornell LII)",
+"text": "50 U.S.C. 3510 permits certain intelligence expenditures to be accounted for solely on the certificate of the agency head, with that certificate deemed a sufficient voucher.",
+"tier": 1
+}
+],
+"date": "1949-06-20",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3510",
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+},
+"b": {
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+"claimTier": 1,
+"id": "e-4cbed8e7aa",
+"label": "Unvouchered CIA spending sits inside the NIP and outside all expenditure law",
+"note": "50 U.S.C. 3510(b) permits Agency sums to be expended without regard to laws and regulations governing expenditure of government funds, accounted for solely on the Director's certificate. The CIA is funded within the National Intelligence Program. Attested by the statute.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3510",
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+},
+"b": {
+"cls": "legislation",
+"id": "sec-8009-sap-notice",
+"label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program"
+},
+"claimTier": 3,
+"id": "e-76f1f79b21",
+"label": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
+"note": "Section 8009 binds only funds appropriated by the annual Defense Appropriations Act; unvouchered Agency spending under 50 U.S.C. 3510 is neither DoD appropriated funds nor subject to normal expenditure law. Reasoned inference from the two texts; no document asserts this has occurred.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-697f9226c1",
+"label": "Vehicle and appropriation",
+"note": "The contract vehicle is the visible end of the money; the appropriation and transfer authorities are the invisible end.",
+"type": "funding"
+}
+],
+"era": "0",
+"id": "usc-50-3510",
+"identifiers": [
+"50 U.S.C. 3510"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-3510",
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+{
+"cls": "domain",
+"id": "d-secrecy",
+"label": "Secrecy Law & Classification"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "usc-50-3510",
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+},
+"title": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"topics": [
+{
+"claims": [
+"c-756dce4048",
+"c-eb94c3d87e"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-ccba33b899"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-08dc49061d"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.law.cornell.edu/uscode/text/50/3510"
+]
+}

@@ -1,0 +1,128 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-0ee5ad44a4",
+"locator": null,
+"node": "manned-orbiting-laboratory",
+"nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"sourceText": "Spies in Space, NRO CSNR, May 2019, chapter 4, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "The scale of the clearance at termination: 'On 10 June 1969, 13,187 contractor personnel were cleared on MOL and faced reassignment.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-4632847fe2",
+"locator": null,
+"node": "manned-orbiting-laboratory",
+"nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"sourceText": "Spies in Space, NRO CSNR, May 2019, introduction and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "Seventeen officers were trained and none flew: 'Between 1965 and 1969, quietly and without fanfare, 17 non-NASA individuals were astronaut-trained in order to meet the reconnaissance needs of the United States.' The camera is dated and designated: 'In 1969, the Dorian camera system was designated KH-10 within the Talent-Keyhole community.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-57c422baf7",
+"locator": null,
+"node": "manned-orbiting-laboratory",
+"nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"sourceText": "Spies in Space, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "The declassification is dated and quantified in the NRO's own words: on 22 October 2015 the CSNR held a panel at the National Museum of the United States Air Force 'on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program. There were over 850 documents with some 22,000 pages and 280 photographs.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-e70e3a86a7",
+"locator": null,
+"node": "manned-orbiting-laboratory",
+"nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"sourceText": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO Center for the Study of National Reconnaissance, May 2019, foreword and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "The cover and the mission are described by the agency itself. The NRO's volume says MOL was 'open \"white\" world, but maintained a highly-classified \"black\" mission', with the reconnaissance mission 'codenamed Dorian in the BYEMAN security system', and its foreword calls Dorian 'a deeply classified program managed by the then darkly hidden agency of the Intelligence Community, the National Reconnaissance Office'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 1,
+"id": "e-a93fbccb81",
+"label": "The NRO ran the DORIAN payload inside the Air Force programme",
+"note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload"
+},
+"b": {
+"cls": "domain",
+"id": "d-secrecy-architecture",
+"label": "Secrecy Architecture"
+},
+"claimTier": 2,
+"id": "e-7797230b88",
+"label": "A worked example of compartmentation: one workforce, two programmes",
+"note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-79bbe50f32",
+"label": "MOL was the Air Force's public programme",
+"note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-govinfo-gov-10c79b88",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload"
+}
+],
+"node": null,
+"title": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+"topics": [
+{
+"claims": [
+"c-0ee5ad44a4",
+"c-57c422baf7",
+"c-e70e3a86a7"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+]
+}

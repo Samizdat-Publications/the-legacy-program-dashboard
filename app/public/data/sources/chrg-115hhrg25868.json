@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ae855abe06",
+"locator": null,
+"node": "betty-sapp",
+"nodeLabel": "Betty J. Sapp",
+"sourceText": "H.A.S.C. No. 115-46, House Armed Services Committee hearing print, FY2018 NDAA and oversight of previously authorized programs, https://www.govinfo.gov/content/pkg/CHRG-115hhrg25868/html/CHRG-115hhrg25868.htm",
+"text": "She appeared before the House Armed Services Subcommittee on Strategic Forces in that office, the print carrying the heading 'STATEMENT OF BETTY SAPP, DIRECTOR, NATIONAL RECONNAISSANCE OFFICE' and her description of the NRO as 'responsible for developing, acquiring, launching, and operating the Nation's overhead intelligence, surveillance, and reconnaissance architecture'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "chrg-115hhrg25868",
+"identifiers": [
+"CHRG-115hhrg25868"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "betty-sapp",
+"label": "Betty J. Sapp"
+}
+],
+"node": null,
+"title": "CHRG-115hhrg25868",
+"topics": [],
+"type": "hearing record",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CHRG-115hhrg25868/html/CHRG-115hhrg25868.htm"
+]
+}

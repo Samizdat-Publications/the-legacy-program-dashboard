@@ -1,0 +1,223 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-11c5bad699",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, which holds documented UAP equity, transferred nothing.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-c964d38d63",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"claimTier": 1,
+"id": "e-5dcddccee4",
+"label": "Collection created by sections 1841-1843 of the FY2024 NDAA",
+"note": "The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "institution",
+"id": "isoo",
+"label": "Information Security Oversight Office"
+},
+"claimTier": 1,
+"id": "e-0a3d589db7",
+"label": "Both are components of the National Archives",
+"note": "NARA hosts both the statutory UAP collection and the Information Security Oversight Office, the body responsible to the President for the classification system.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate"
+},
+"claimTier": 1,
+"id": "e-1e22bff68a",
+"label": "Created by sections 1841-1843 of Public Law 118-31",
+"note": "The collection is the surviving remnant of the Schumer-Rounds UAP Disclosure Act after the review board and eminent domain provisions were removed in conference.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-50911e2989",
+"label": "Named 2021 UAP contributor that produced nothing for the statutory collection",
+"note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-53f0e08ad1",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-5b22bb965d",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-2269b0b17b",
+"label": "ODNI transferred UAP records into the statutory collection",
+"note": "NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-7c109610d6",
+"label": "DOE produced nothing for the first statutory UAP records transfer",
+"note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-a23dba8b3a",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-archives-gov-d348fbea",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+{
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+{
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate"
+}
+],
+"node": null,
+"title": "National Archives press release nr25-07",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.archives.gov/press/press-releases/2025/nr25-07"
+]
+}

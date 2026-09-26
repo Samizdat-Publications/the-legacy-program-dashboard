@@ -10,20 +10,44 @@
 {
 "id": "c-4931c0173f",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Positron Aerospace Propulsion', affiliation Positronics Research.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d2c956fad1",
 "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"sources": [
+{
+"id": "u-theblackvault-com-16bfe4ef",
+"locator": null,
+"title": "theblackvault.com"
+}
+],
 "text": "Ph.D. Yale 1961; assistant professor under Luis Alvarez at Berkeley 1961-66; Associate Laboratory Director for High Energy Physics at Argonne 1978; Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State from 1983; Professor Emeritus 2000; founded Positronics Research LLC in 2001.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-955c5a41f6",
 "source": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
+"sources": [
+{
+"id": "u-niac-usra-edu-55d956bb",
+"locator": null,
+"title": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf"
+}
+],
 "text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

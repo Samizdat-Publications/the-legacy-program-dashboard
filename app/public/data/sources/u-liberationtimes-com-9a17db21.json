@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-fy2024-sec1104",
+"label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-ec4b2ecec8",
+"label": "SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity",
+"note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-liberationtimes-com-9a17db21",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aerojet-rocketdyne",
+"label": "Aerojet Rocketdyne"
+},
+{
+"cls": "person",
+"id": "christopher-sharp",
+"label": "Christopher Sharp"
+},
+{
+"cls": "domain",
+"id": "d-legal",
+"label": "Legal Doctrine & Liability"
+},
+{
+"cls": "legislation",
+"id": "iaa-fy2024-sec1104",
+"label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)"
+}
+],
+"node": null,
+"title": "Christopher Sharp, 'Senate Intelligence Committee Proposes Amnesty to Defense Contractors for Disclosure of Non-Earth Origin or Exotic Materials, ' Liberation Times",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.liberationtimes.com/home/senate-intelligence-committee-proposes-amnesty-to-defense-contractors-for-disclosure-of-non-earth-origin-or-exotic-materials-in-approved-ufo-language"
+]
+}

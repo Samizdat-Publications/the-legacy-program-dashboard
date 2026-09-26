@@ -1,0 +1,328 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-383058bb27",
+"locator": "September 1997",
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "Office of the Assistant Secretary of Defense FOIA release, case 97-F-1677, September 1997",
+"text": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB, Montana, in November 1975, and show that they could not be intercepted by multiple F-106 fighters.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0dd14c1676",
+"locator": null,
+"node": "charles-halt",
+"nodeLabel": "Charles I. Halt",
+"sourceText": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677",
+"text": "Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8032806a9c",
+"locator": null,
+"node": "halt-memo",
+"nodeLabel": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"sourceText": "Halt memorandum, 13 Jan 81, released under DoD FOIA case 97-F-1677",
+"text": "The memo's closing sentence reads: 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' It is signed CHARLES I. HALT, Lt Col, USAF, Deputy Base Commander.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-9476ef4048",
+"locator": "September 1997",
+"node": "l-malmstrom",
+"nodeLabel": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"sourceText": "OASD FOIA release, case 97-F-1677, September 1997",
+"text": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB in November 1975 and record that they could not be intercepted by multiple F-106 fighters.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-6592635ded",
+"locator": "via The Black Vault",
+"node": "d-nuc",
+"nodeLabel": "Nuclear Weapons Complex Nexus",
+"sourceText": "DoD FOIA 97-F-1677, via The Black Vault",
+"text": "DoD FOIA case 97-F-1677 released records on unidentified flying objects over Malmstrom AFB in November 1975.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-7ff96d159f",
+"label": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights",
+"note": "A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)"
+},
+"claimTier": 2,
+"id": "e-07db791118",
+"label": "1975 NORAD and command-post message traffic circulated by CUFON",
+"note": "CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"claimTier": 1,
+"id": "e-2501ad2c53",
+"label": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
+"note": "The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 1,
+"id": "e-ec622db182",
+"label": "Malmstrom AFB and its Minuteman fields were among the installations overflown",
+"note": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-5feec0f487",
+"label": "Occurred six years after the Air Force closed Blue Book on a no-threat finding",
+"note": "The USAF fact sheet states Blue Book was terminated on 17 December 1969 on the conclusion that no UFO had ever indicated a threat to national security. The 1975 records document unidentified objects over nuclear weapons installations.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-halt",
+"label": "Charles I. Halt"
+},
+"b": {
+"cls": "document",
+"id": "halt-memo",
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+},
+"claimTier": 1,
+"id": "e-632e51494a",
+"label": "Halt authored and signed the 'Unexplained Lights' memorandum",
+"note": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-halt",
+"label": "Charles I. Halt"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-a17e777efa",
+"label": "Halt personally led the 28 December 1980 forest patrol",
+"note": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "halt-memo",
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+},
+"b": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"claimTier": 1,
+"id": "e-46c23b6f8b",
+"label": "Released to The Black Vault under DoD FOIA case 97-F-1677",
+"note": "The Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office released the memo in September 1997 under case 97-F-1677.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "halt-memo",
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-a59a07bb03",
+"label": "The memo is the primary official record of the incident",
+"note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-c5b666ce91",
+"label": "AARO's 2024 historical review does not mention Rendlesham",
+"note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"b": {
+"cls": "location",
+"id": "l-raf-woodbridge",
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England"
+},
+"claimTier": 1,
+"id": "e-b3eb8c7b08",
+"label": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
+"note": "RAF Woodbridge and RAF Bentwaters were operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "foia-97-f-1677",
+"identifiers": [
+"FOIA case 97-F-1677"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "person",
+"id": "charles-halt",
+"label": "Charles I. Halt"
+},
+{
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)"
+},
+{
+"cls": "document",
+"id": "halt-memo",
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+},
+{
+"cls": "person",
+"id": "jim-penniston",
+"label": "James W. Penniston"
+},
+{
+"cls": "person",
+"id": "john-burroughs",
+"label": "John Burroughs"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+{
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+{
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+},
+{
+"cls": "location",
+"id": "l-raf-woodbridge",
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England"
+},
+{
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+}
+],
+"node": null,
+"title": "FOIA case 97-F-1677",
+"topics": [
+{
+"claims": [
+"c-0dd14c1676",
+"c-8032806a9c"
+],
+"id": "rendlesham-1980",
+"title": "Rendlesham Forest, December 1980"
+}
+],
+"type": "document",
+"urls": []
+}

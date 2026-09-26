@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 2,
+"id": "e-9fb485141e",
+"label": "Named as a target of his records investigation",
+"note": "Burlison: 'my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.' No letter to RAND has been made public.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"claimTier": 2,
+"id": "e-fe5b13f2bd",
+"label": "Named as a target of his records investigation",
+"note": "Aerospace holds the technical judgement on national security space sensing; no letter to Aerospace has been made public as of 12 August 2026.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+"b": {
+"cls": "document",
+"id": "af-atic-film-0352",
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')"
+},
+"claimTier": 2,
+"id": "e-04ec404a1a",
+"label": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
+"note": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-cybernews-com-86980468",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cybernews.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "af-atic-film-0352",
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')"
+},
+{
+"cls": "person",
+"id": "jason-matheny",
+"label": "Jason Matheny"
+},
+{
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+}
+],
+"node": null,
+"title": "Cybernews",
+"topics": [],
+"type": "article",
+"urls": [
+"https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+]
+}

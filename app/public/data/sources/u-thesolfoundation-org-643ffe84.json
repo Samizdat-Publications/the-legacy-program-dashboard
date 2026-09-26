@@ -1,0 +1,175 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-a8c100cbf3",
+"label": "Senior Legislative Affairs Officer after 37 years on SASC",
+"note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "marik-von-rennenkampff",
+"label": "Marik von Rennenkampff"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-46d3e4fa55",
+"label": "delivers the monthly Sol Briefing; authors Sol policy briefings",
+"note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-a42c1b3a90",
+"label": "Co-founder, Executive Director and Secretary of the Board",
+"note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "person",
+"id": "karl-nell",
+"label": "Karl E. Nell"
+},
+"claimTier": 1,
+"id": "e-fbe842e2a5",
+"label": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
+"note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "document",
+"id": "sol-briefing-3-2026",
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+},
+"claimTier": 1,
+"id": "e-6ec18da82f",
+"label": "publisher of Science and Policy Briefing No. 3",
+"note": "The briefing is issued in The Sol Foundation Science and Policy Briefings series (No. 3, April 2026, published online 30 April 2026) and carries the foundation's imprint and cofounders Garry Nolan and Peter Skafish on the colophon.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"claimTier": 1,
+"id": "e-44522fc0cf",
+"label": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
+"note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations"
+},
+"claimTier": 1,
+"id": "e-f020b9a3cd",
+"label": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
+"note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-thesolfoundation-org-643ffe84",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "beatriz-villarroel",
+"label": "Beatriz Villarroel"
+},
+{
+"cls": "document",
+"id": "paper-villarroel-bruehl-2025",
+"label": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports"
+},
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+{
+"cls": "document",
+"id": "sol-briefing-3-2026",
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+{
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations"
+}
+],
+"node": null,
+"title": "The Sol Foundation - White Papers and Policy Briefings index",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/white-papers/"
+]
+}

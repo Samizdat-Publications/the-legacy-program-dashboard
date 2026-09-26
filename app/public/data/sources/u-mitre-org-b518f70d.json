@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-bedford-ma",
+"label": "Bedford, Massachusetts"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-646d41c731",
+"label": "MITRE founding site and original headquarters",
+"note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-ff40ec3b5c",
+"label": "MITRE McLean headquarters campus",
+"note": "MITRE names McLean, Virginia as one of its two principal locations, with four buildings on Colshire Drive. McLean is where the defence and intelligence FFRDC work sits: the NSF master list registers the National Security Engineering Center, the Center for Advanced Aviation System Development, the Center for Enterprise Modernization and HSSEDI at McLean.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-mitre-org-b518f70d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [],
+"node": null,
+"title": "MITRE, Locations (202 Burlington Road, Bedford, MA 01730-1420)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/locations"
+]
+}

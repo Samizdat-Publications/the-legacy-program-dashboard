@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-avi-loeb-medium-com-57606675",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "avi-loeb.medium.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "domain",
+"id": "d-astro",
+"label": "Astronomy & Astrophysics"
+},
+{
+"cls": "domain",
+"id": "d-policy",
+"label": "Executive Policy & Directives"
+}
+],
+"node": null,
+"title": "Avi Loeb - Why I Agreed to Lead the UAP Science Advisory Council for the U.S. Government",
+"topics": [],
+"type": "article",
+"urls": [
+"https://avi-loeb.medium.com/why-i-agreed-to-lead-the-uap-science-advisory-council-for-the-u-s-government-dde90610dfa2"
+]
+}

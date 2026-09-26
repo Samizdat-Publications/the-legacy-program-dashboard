@@ -7,32 +7,42 @@
 {
 "id": "c-ad0409fbae",
 "source": "NSF NCSES Master Government List of FFRDCs, FY2026",
+"sources": [],
 "text": "IDA operates three FFRDCs: the Systems and Analyses Center (DoD, USD A&S; renamed 11 June 2013), the Center for Communications and Computing (DoD, NSA/CSS), and the Science and Technology Policy Institute (NSF).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ca3e7abc39",
 "source": "IDA leadership page",
+"sources": [],
 "text": "IDA's president is Adm. Charles A. Richard, USN (Ret.), who commanded US Strategic Command from 2019 to 2022; its leadership includes former NSA Technical Director Christopher Green and Maj. Gen. James R. Marrs, USAF (Ret.), former National Intelligence Manager for Aviation.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-49a837196c",
 "source": "USAspending.gov federal award records",
+"sources": [],
 "text": "IDA FFRDC work is awarded sole-source; USAspending records include an award described as 'award of a contract on a sole source basis to the Institute for Defense Analyses (IDA), a federally funded research and development center'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-92ae54ea4d",
 "source": "Published JASON histories and archival correspondence records covering IDA 1961-1973",
+"sources": [],
 "text": "IDA administered the JASON advisory group from 1960 until 1973.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3bbf7cbfad",
 "source": "NewsNation, 15 May 2026",
+"sources": [],
 "text": "IDA is named among the FFRDCs implicated in public reporting on the congressional UAP contractor inquiry.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-319897c09f",
+"locator": null,
+"node": "dird-high-frequency-gravitational-wave-communications",
+"nodeLabel": "High-Frequency Gravitational Wave Communications",
+"sourceText": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+"text": "The JASON review is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8cef4aab39",
+"locator": null,
+"node": "robert-baker",
+"nodeLabel": "Robert M. L. Baker, Jr.",
+"sourceText": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+"text": "DIA published Baker's HFGW DIRD on 6 April 2010, after the 2008 JASON finding - the JASON report is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"b": {
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+},
+"claimTier": 1,
+"id": "e-b9aec3769b",
+"label": "JASON found the underlying physics wrong two years before DIA published the DIRD",
+"note": "In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-irp-fas-org-254ae6d3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+{
+"cls": "person",
+"id": "robert-baker",
+"label": "Robert M. L. Baker, Jr."
+}
+],
+"node": null,
+"title": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+"topics": [
+{
+"claims": [
+"c-8cef4aab39"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "document",
+"urls": [
+"https://irp.fas.org/agency/dod/jason/gravwaves.pdf"
+]
+}

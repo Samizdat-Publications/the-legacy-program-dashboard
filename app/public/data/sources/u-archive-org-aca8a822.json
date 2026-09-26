@@ -1,0 +1,258 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-7586b21c6b",
+"locator": null,
+"node": "talbert-gravity-series-1955",
+"nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"sourceText": "All three articles read in full: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert2ny/talbert2ny_djvu.txt, https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"text": "Thomas Townsend Brown is named in none of the three articles, and neither Winterhaven nor any Navy or Air Force electrogravitics contract appears in them.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b9dae10855",
+"locator": null,
+"node": "talbert-gravity-series-1955",
+"nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"sourceText": "Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"text": "The series reports the Chapel Hill institute at its founding, under an earlier name: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e5d9777a75",
+"locator": null,
+"node": "talbert-gravity-series-1955",
+"nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"sourceText": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, p. 1 and continuation p. 36. Page image at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"text": "The series lists the firms: 'Aircraft industry firms now participating or actively interested in gravity include the Glenn L. Martin Co. of Baltimore ... Convair of San Diego ... Bell Aircraft of Buffalo ... and Sikorsky Division of United Aircraft', and adds 'Lear, Inc., of Santa Monica ... Clarke Electronics, of Palm Springs, Calif., and the Sperry Gyroscope Division of Sperry-Rand Corp., of Great Neck, L. I.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e635597430",
+"locator": null,
+"node": "talbert-gravity-series-1955",
+"nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"sourceText": "Talbert, New York Herald Tribune, 20 November 1955 (caption and continuation p. 36) and 22 November 1955 (continuation p. 10). https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"text": "George S. Trimble jr. is identified as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and is quoted: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c7b6314f22",
+"locator": null,
+"node": "bell-aircraft-corporation",
+"nodeLabel": "Bell Aircraft Corporation",
+"sourceText": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"text": "The Herald Tribune series of November 1955 lists 'Bell Aircraft of Buffalo, builders of the first piloted airplane to fly faster than sound and a current jet vertical take-off and landing airplane' among the aircraft industry firms 'now participating or actively interested in gravity'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-36517f6c5d",
+"locator": null,
+"node": "george-trimble",
+"nodeLabel": "George S. Trimble",
+"sourceText": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955 caption and continuation p. 36 and 22 November 1955 continuation p. 10, page images at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"text": "In November 1955 he was a vice-president of Martin, not its chief executive, and the atom-bomb comparison he made was about time and not about money. Ansel Talbert's Herald Tribune series identifies him as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and quotes him: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-94213abcc9",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"text": "The press knew the Institute under a different name at its founding. Talbert's Herald Tribune series of 20 November 1955 reports: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+},
+"b": {
+"cls": "institution",
+"id": "general-dynamics",
+"label": "General Dynamics Corporation"
+},
+"claimTier": 2,
+"id": "e-790a739625",
+"label": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
+"note": "The series names Convair of San Diego among the aircraft industry firms participating or actively interested in gravity, and photographs a Convair division senior research engineer conducting a gravity-control experiment. Tier 2 because the articles name Convair and not General Dynamics, and the identification of the two in November 1955 is not something the document states.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+},
+"b": {
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+"claimTier": 1,
+"id": "e-6a9fe39af6",
+"label": "Quoted by name as Martin's vice-president in charge of advanced design planning",
+"note": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+},
+"b": {
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+},
+"claimTier": 1,
+"id": "e-9c01aefec0",
+"label": "Records the UNC gravity institute approved with Gray's approval, he having by then retired as president",
+"note": "The series records that the UNC gravity institute was approved with Gray's approval and that he had by then retired as president of the university.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+},
+"b": {
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+"claimTier": 1,
+"id": "e-c5ab5baeae",
+"label": "Reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics",
+"note": "The series reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics, names Bahnson as fundraiser and records the directorship offered to Bryce S. DeWitt.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+},
+"b": {
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+},
+"claimTier": 1,
+"id": "e-85c028b1f6",
+"label": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
+"note": "The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+},
+"b": {
+"cls": "institution",
+"id": "sperry-rand",
+"label": "Sperry Rand Corporation"
+},
+"claimTier": 1,
+"id": "e-16faf59c72",
+"label": "Names the Sperry Gyroscope Division of Sperry-Rand among the firms on the gravity problem",
+"note": "The series names the Sperry Gyroscope Division of Sperry-Rand Corp. among the firms with scientists investigating the gravity problem, which is a documented attachment for a node the 30 August pass left deliberately unattached.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "bell-aircraft-corporation",
+"label": "Bell Aircraft Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-01c453d3c5",
+"label": "Photographed with three named Air Force test pilots during the Bell X-2 programme",
+"note": "The 22 November 1955 article photographs Lawrence D. Bell with three named Air Force test pilots during the Bell X-2 programme.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-archive-org-aca8a822",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+},
+{
+"cls": "institution",
+"id": "bell-aircraft-corporation",
+"label": "Bell Aircraft Corporation"
+},
+{
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+{
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+}
+],
+"node": null,
+"title": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image",
+"topics": [
+{
+"claims": [
+"c-7586b21c6b",
+"c-b9dae10855",
+"c-e5d9777a75",
+"c-e635597430",
+"c-36517f6c5d",
+"c-94213abcc9"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+},
+{
+"claims": [
+"c-c7b6314f22"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-b9dae10855"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+]
+}

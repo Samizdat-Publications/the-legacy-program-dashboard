@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "beatriz-villarroel",
+"label": "Beatriz Villarroel"
+},
+"b": {
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations"
+},
+"claimTier": 1,
+"id": "e-fae7ad3ff1",
+"label": "Principal investigator",
+"note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-doi-org-ddc21730",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "beatriz-villarroel",
+"label": "Beatriz Villarroel"
+},
+{
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations"
+}
+],
+"node": null,
+"title": "Villarroel, Marcy, Geier et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1038/s41598-021-92162-7"
+]
+}

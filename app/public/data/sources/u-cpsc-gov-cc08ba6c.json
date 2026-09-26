@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e8380ad484",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "U.S. Consumer Product Safety Commission, Release 07-249, 20 July 2007, https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components , opened 2026-09-18",
+"text": "THE STANDARD FRAMING OF THE FEDERAL MATTER IS WRONG AND THE PRIMARY RELEASE CORRECTS IT. It is widely repeated, including in Vice's 2019 reporting, that 'in 2006, Lazar pleaded guilty to violating the Federal Hazardous Substances Act'. The U.S. Consumer Product Safety Commission's own release of 20 July 2007 says something materially different: the COMPANY pled guilty, to three criminal counts, and the sentence was reported in 2007. 'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation', after United Nuclear 'pled guilty to three criminal counts' before U.S. Chief Magistrate Lorenzo F. Garcia of the District of New Mexico. Robert Lazar and accountant Joy White appear in the separate civil consent decree, which permanently limited future sales of fireworks-related chemicals, prohibited sales of fuses, tubes and end caps, and required destruction of remaining inventory.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-cpsc-gov-cc08ba6c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cpsc.gov",
+"listedOn": [
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+}
+],
+"node": null,
+"title": "U.S. Consumer Product Safety Commission, Release 07-249",
+"topics": [
+{
+"claims": [
+"c-e8380ad484"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components"
+]
+}

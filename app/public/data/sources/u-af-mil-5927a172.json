@@ -1,0 +1,84 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-47b9bd6576",
+"locator": null,
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"sourceText": "USAF official biography, Maj. Gen. William N. McCasland https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/",
+"text": "The Air Force's own biography gives McCasland's assignment for June 2009 to May 2011 as 'Director, Special Programs, Office of the Under Secretary of Defense for Acquisition, Technology and Logistics, the Pentagon, Washington, D.C.', and for June 2007 to June 2009 as 'Director, Space Acquisition, Office of the Under Secretary of the Air Force'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8300964eaa",
+"locator": null,
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"sourceText": "USAF biography https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/ compared against DIA INFO MEMO U-09-2660, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"text": "That Special Programs directorate is OUSD(AT&L), NOT OUSD(I). DIA's INFO MEMO U-09-2660 of 13 November 2009 declining the AAWSAP special access program request was addressed to 'DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE'. The two offices are distinct and McCasland held the AT&L one; nothing here places him in the AAWSAP decision.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b660b636f9",
+"locator": null,
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"sourceText": "USAF official biography https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/",
+"text": "The biography opens: 'Maj. Gen. William N. McCasland is the Commander, Air Force Research Laboratory, Wright-Patterson Air Force Base, Ohio. He is responsible for managing the Air Force's $2.2 billion science and technology program as well as additional customer funded research and development of $2.2 billion.' It also records his command of the Phillips Research Site at Kirtland AFB, 2001-2004.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-af-mil-5927a172",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Air Force",
+"listedOn": [
+{
+"cls": "person",
+"id": "william-mccasland",
+"label": "William Neil McCasland"
+}
+],
+"node": null,
+"title": "U.S. Air Force official biography, Major General William N. McCasland (current as of April 2013)",
+"topics": [
+{
+"claims": [
+"c-47b9bd6576",
+"c-8300964eaa",
+"c-b660b636f9"
+],
+"id": "missing-scientists",
+"title": "Deaths and disappearances: the scientists probe"
+},
+{
+"claims": [
+"c-47b9bd6576",
+"c-8300964eaa",
+"c-b660b636f9"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-47b9bd6576",
+"c-8300964eaa",
+"c-b660b636f9"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/"
+]
+}

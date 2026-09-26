@@ -1,0 +1,41 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-d9fe8e3474",
+"locator": null,
+"node": "aawsap-contract",
+"nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/",
+"text": "DIA's own 16 December 2008 status briefing is headed 'Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072' and describes the contract focus as 'Advanced (unconventional) aerospace weapon' technologies.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dia-mil-039f21e4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+}
+],
+"node": null,
+"title": "DIA briefing 'Advanced Aerospace Weapon System Applications Contract Status', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/"
+]
+}

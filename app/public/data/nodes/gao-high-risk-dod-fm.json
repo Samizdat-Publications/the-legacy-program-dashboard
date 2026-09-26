@@ -7,14 +7,30 @@
 {
 "id": "c-2ce64ab317",
 "source": "https://www.gao.gov/high-risk-list",
+"sources": [
+{
+"id": "gao-25-107743",
+"locator": null,
+"title": "GAO-25-107743"
+}
+],
 "text": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained; other DoD entries are Weapon Systems Acquisition (regressed), Approach to Business Transformation, Business Systems Modernization and Contract Management.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7d1cb93db1",
 "source": "https://www.gao.gov/high-risk-list",
+"sources": [
+{
+"id": "gao-25-107743",
+"locator": null,
+"title": "GAO-25-107743"
+}
+],
 "text": "GAO reports that overall High-Risk List efforts have generated nearly $759 billion in savings.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "program",

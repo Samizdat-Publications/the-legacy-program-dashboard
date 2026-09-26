@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-2dc09b6bdd",
+"label": "Council announced 17 June 2026, between Releases 03 and 04",
+"note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-avi-loeb-medium-com-6bbb0df0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "avi-loeb.medium.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "Avi Loeb - More Details on the UAP Science Advisory Council",
+"topics": [],
+"type": "article",
+"urls": [
+"https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c"
+]
+}

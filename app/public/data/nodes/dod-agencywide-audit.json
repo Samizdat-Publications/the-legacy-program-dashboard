@@ -7,44 +7,100 @@
 {
 "id": "c-2d4897578a",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-media-defense-gov-99da587b",
+"locator": null,
+"title": "DOWIG-2026-081"
+}
+],
 "text": "The Department received a disclaimer of opinion on its agency-wide financial statements for eight consecutive years through FY2025.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-0f2ae724e8",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-99da587b",
+"locator": null,
+"title": "DOWIG-2026-081"
+}
+],
 "text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dd07057120",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-99da587b",
+"locator": null,
+"title": "DOWIG-2026-081"
+}
+],
 "text": "One of the ten accounting material weaknesses is titled 'Unsupported Accounting Adjustments'; the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f371367f17",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-media-defense-gov-99da587b",
+"locator": null,
+"title": "DOWIG-2026-081"
+}
+],
 "text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-5a29dfd873",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-media-defense-gov-99da587b",
+"locator": null,
+"title": "DOWIG-2026-081"
+}
+],
 "text": "Fund Balance with Treasury, an estimated $1 trillion in spending accounts, is a standing material weakness.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e18a5af635",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-media-defense-gov-99da587b",
+"locator": null,
+"title": "DOWIG-2026-081"
+}
+],
 "text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ec6146b8e7",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-99da587b",
+"locator": null,
+"title": "DOWIG-2026-081"
+}
+],
 "text": "A standing 'Universe of Transactions' material weakness is the accounting equivalent of an unindexed archive: it means no auditor and no oversight committee can prove a negative about DoD spending, because the population against which a search would run is not known to exist in complete form. Reasoning: the material weakness is defined by the auditors as inability to establish the complete transaction set; any assertion that no funds flowed to an undisclosed activity would require exactly that set.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "program",

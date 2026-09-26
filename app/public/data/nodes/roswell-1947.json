@@ -7,68 +7,114 @@
 {
 "id": "c-7a2e987b14",
 "source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"sources": [],
 "text": "On 8 July 1947 RAAF announced that the intelligence office of the 509th Bomb Group had gained possession of a disc 'through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5147f84461",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"sources": [],
 "text": "The announcement was retracted the same day at Fort Worth by Brig. Gen. Roger Ramey, with Col. Thomas DuBose and weather officer Irving Newton identifying the material as a weather balloon with a radar reflector.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7433ae8d0e",
 "source": "GAO/NSIAD-95-187, p.5; USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.5",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The Air Force's 1994 report concluded the most likely source of the recovered wreckage was a Project MOGUL balloon train.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-77144e7434",
 "source": "National Archives, Air Force UFO records page",
+"sources": [],
 "text": "NARA has been unable to locate any documentation among the Project Blue Book records discussing the 1947 Roswell incident.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5f9daae5fb",
 "source": "GAO/NSIAD-95-187, p.3",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.3",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The base's outgoing message traffic (Oct 1946 - Dec 1949) and administrative records (Mar 1945 - Dec 1949) were destroyed with no recorded disposition authority.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-250c786148",
 "source": "RAAF press release issued by 1st Lt. Walter Haut, 8 July 1947",
+"sources": [],
 "text": "'The many rumors regarding the flying disc became a reality yesterday when the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-93d840a83c",
 "source": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
+"sources": [],
 "text": "Brig. Gen. Roger M. Ramey retracted the statement the same day at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5024401247",
 "source": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994)",
+"sources": [],
 "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon explanation was a cover story.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-672b5c42db",
 "source": "USAF, 'The Roswell Report: Case Closed', 24 June 1997",
+"sources": [],
 "text": "'The Roswell Report: Case Closed' (24 June 1997) attributed accounts of recovered bodies to anthropomorphic parachute test dummies.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e8afb62e30",
 "source": "GAO/NSIAD-95-187, July 1995",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "July 1995",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO/NSIAD-95-187 found that RAAF outgoing messages from October 1946 through December 1949 had been destroyed, with no disposition authority located.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-21350236bf",
 "source": "Inference from the 1994 USAF report and GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The durable claim from Roswell is that the government has admitted to fabricating a public account of a materiel recovery, and the relevant unit records were destroyed without traceable authority. Reasoning: the two official findings, taken together, establish concealment independent of the physical identification of the debris.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "event",

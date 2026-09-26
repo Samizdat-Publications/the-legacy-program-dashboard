@@ -7,20 +7,26 @@
 {
 "id": "c-1671cff26a",
 "source": "DD Form 1910 released under FOIA, published by Blue Blurry Lines, 17 August 2019",
+"sources": [],
 "text": "Submitted by Luis D. Elizondo, Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved 24 August 2017, covering three .mpg files: GoFast, Gimbal and FLIR.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-31277f4a05",
 "source": "DD Form 1910, FOIA release",
+"sources": [],
 "text": "States the purpose as 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ebead5afee",
 "source": "Blue Blurry Lines, 17 August 2019",
+"sources": [],
 "text": "The version originally published by George Knapp had Elizondo's name and DoD title redacted; the unredacted FOIA copy identifies him.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "document",

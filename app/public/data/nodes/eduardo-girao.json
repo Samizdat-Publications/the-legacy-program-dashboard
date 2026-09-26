@@ -23,26 +23,46 @@
 {
 "id": "c-095b75c37e",
 "source": "Senado Federal, perfil do Senador Eduardo Girão https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+"sources": [
+{
+"id": "u-www25-senado-leg-br-5bc8e2f7",
+"locator": null,
+"title": "Senado Federal, perfil do Senador Eduardo Girão (CE)"
+}
+],
 "text": "The Senado Federal's own profile gives his civil name as 'Luis Eduardo Grangeiro Girão', born 25/09/1972 in Fortaleza, Ceará, serving the period 2019-2027 for Ceará.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f1835f0f6f",
 "source": "Senado Federal, perfil do Senador Eduardo Girão, checked 25 August 2026 https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+"sources": [
+{
+"id": "u-www25-senado-leg-br-5bc8e2f7",
+"locator": null,
+"title": "Senado Federal, perfil do Senador Eduardo Girão (CE)"
+}
+],
 "text": "As of the date this was checked the Senate lists him as 'Fora de Exercício' - on leave with a substitute convened, his seat held by first substitute Sargento Reginauro. Any present-tense claim on this board about him acting as a sitting senator should be read against that.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4e0ed2ecda",
 "source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"sources": [],
 "text": "'Brazilian Senator Eduardo Girão, who represents the coastal state of Ceará and led a Brazilian Senate hearing on UAP in 2022, came to Washington to meet with members of Congress and attend the press event. Acting as a private citizen and not representing the Brazilian Senate, Girão spoke from the podium.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3bd5a85d03",
 "source": "The Debrief, 30 January 2026",
+"sources": [],
 "text": "Burlison asked Girão: 'Are there videos that you think you might be able to get access to, any other material evidence?' Girão replied: 'I'm going to try.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

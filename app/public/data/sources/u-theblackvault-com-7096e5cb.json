@@ -1,0 +1,173 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 2,
+"id": "e-9d2c3d8098",
+"label": "Green was CIA's monitor for the SRI psychoenergetics work",
+"note": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+"b": {
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE"
+},
+"claimTier": 1,
+"id": "e-bb8dce4fed",
+"label": "CENTER LANE succeeded GRILL FLAME after the codename was compromised",
+"note": "Codeword churn on compromise is standard practice; the effort was continuous across the renaming.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 1,
+"id": "e-12505ae981",
+"label": "Puthoff founded and led the SRI psychoenergetics programme",
+"note": "CIA's Office of Technical Service funded the work from 1972; it was later sponsored by Army INSCOM and DIA under successive codenames.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"b": {
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+"claimTier": 1,
+"id": "e-b891ab203e",
+"label": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
+"note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "sun-streak",
+"label": "SUN STREAK"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-832f8bc50a",
+"label": "DIA sponsored the remote-viewing effort 1986-1995",
+"note": "DIA's prior experience running an unacknowledged programme in a ridiculed domain is the institutional precedent for its 2008 AAWSAP contract.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "sun-streak",
+"label": "SUN STREAK"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 1,
+"id": "e-d616860509",
+"label": "SUN STREAK became STARGATE, terminated 1995",
+"note": "CIA compiled and released roughly 12,000 pages of the programme record in 1995 after the American Institutes for Research evaluation.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-7096e5cb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+{
+"cls": "person",
+"id": "john-b-alexander",
+"label": "John B. Alexander"
+},
+{
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+{
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+{
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+{
+"cls": "program",
+"id": "sun-streak",
+"label": "SUN STREAK"
+}
+],
+"node": null,
+"title": "The Stargate Collection - CIA Program on Remote Viewing",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+]
+}

@@ -1,0 +1,173 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)"
+},
+"claimTier": 2,
+"id": "e-07db791118",
+"label": "1975 NORAD and command-post message traffic circulated by CUFON",
+"note": "CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+"b": {
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+"claimTier": 1,
+"id": "e-0c229c96b4",
+"label": "CAUS was the plaintiff in Civil Action No. 80-1562",
+"note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eugene-yeates",
+"label": "Eugene F. Yeates"
+},
+"b": {
+"cls": "document",
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+},
+"claimTier": 1,
+"id": "e-2a56b4bfcf",
+"label": "Yeates executed the affidavit as NSA Chief of Policy",
+"note": "The affidavit was submitted for in camera review only; the plaintiffs never saw it and the judge ruled for NSA on its basis.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "document",
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+},
+"claimTier": 1,
+"id": "e-99f80b90ec",
+"label": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
+"note": "NSA had released the COMINT records with most pages carrying only a few visible words, redacted in white-out; an MDR was required to obtain more.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-gersten",
+"label": "Peter A. Gersten"
+},
+"b": {
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+"claimTier": 2,
+"id": "e-886b22f9b6",
+"label": "Gersten directed CAUS and brought its FOIA litigation",
+"note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+},
+"b": {
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+"claimTier": 1,
+"id": "e-17f1e70b62",
+"label": "The affidavit is the instrument by which withholding was sustained",
+"note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-434b4049",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+{
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+{
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)"
+},
+{
+"cls": "person",
+"id": "eugene-yeates",
+"label": "Eugene F. Yeates"
+},
+{
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+{
+"cls": "person",
+"id": "peter-gersten",
+"label": "Peter A. Gersten"
+},
+{
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+{
+"cls": "document",
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+}
+],
+"node": null,
+"title": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+]
+}

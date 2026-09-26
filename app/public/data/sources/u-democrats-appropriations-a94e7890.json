@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-92f7a0008e",
+"locator": null,
+"node": "betty-mccollum",
+"nodeLabel": "Betty McCollum",
+"sourceText": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
+"text": "Betty McCollum (D-MN) is listed as Ranking Member of the Defense Subcommittee of the House Appropriations Committee for the 119th Congress.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-01be33dd65",
+"locator": null,
+"node": "ken-calvert",
+"nodeLabel": "Ken Calvert",
+"sourceText": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
+"text": "Ken Calvert (R-CA) is listed as Chair of the Defense Subcommittee of the House Appropriations Committee for the 119th Congress.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "betty-mccollum",
+"label": "Betty McCollum"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-8ad0120fc7",
+"label": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
+"note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ken-calvert",
+"label": "Ken Calvert"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-f0ff699d82",
+"label": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
+"note": "In the group in 2020 as ranking member and from 2023 as chair.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-democrats-appropriations-a94e7890",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Appropriations Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "betty-mccollum",
+"label": "Betty McCollum"
+},
+{
+"cls": "person",
+"id": "ken-calvert",
+"label": "Ken Calvert"
+},
+{
+"cls": "person",
+"id": "rosa-delauro",
+"label": "Rosa L. DeLauro"
+}
+],
+"node": null,
+"title": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress"
+]
+}

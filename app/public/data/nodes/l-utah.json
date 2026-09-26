@@ -7,14 +7,18 @@
 {
 "id": "c-ce71b31803",
 "source": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Skinwalker Ranch lies in Uintah County, Utah, southeast of Ballard, bordering the Uintah and Ouray Indian Reservation; UFO reports from the Uintah Basin were publicised beginning in the 1970s.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3e12cf9226",
 "source": "Inference from the Lacatski/Bigelow/Reid chain as recorded in the Skinwalker Ranch article and Knapp's 2025 testimony",
+"sources": [],
 "text": "The largest modern US government UAP field investigation targeted a site selected from a regional folk reporting record rather than from defence sensor data. Reasoning: the documented chain runs from Kelleher and Knapp's 2005 book to Lacatski's visit to the AAWSAP appropriation, not from a military incident file.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

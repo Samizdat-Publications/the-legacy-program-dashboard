@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-8ccf2a5d5f",
+"locator": null,
+"node": "cia-overhead-reconnaissance-history-1992",
+"nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"sourceText": "Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+"text": "The Preface names the record sets the authors used: 'the records of the Director of Central Intelligence, the Office of Special Activities in the Directorate of Science and Technology, and the Intelligence Community Staff, along with documents from the Eisenhower Presidential Library in Abilene, Kansas, and additional interviews.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-abf888e608",
+"locator": null,
+"node": "cia-overhead-reconnaissance-history-1992",
+"nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"sourceText": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, CIA History Staff, 1992, Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+"text": "The study states its own span: 'The Agency's manned overhead reconnaissance program lasted 20 years. It began with President Eisenhower's authorization of the U-2 project in late 1954 and ended with the transfer of the remaining Agency U-2s to the Air Force in 1974.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b8879ff68e",
+"locator": null,
+"node": "cia-overhead-reconnaissance-history-1992",
+"nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"sourceText": "Foreword by J. Kenneth McDonald, CIA History Staff, 1992. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+"text": "Its Foreword records a records-recovery claim of the Agency's own: the study 'is the only history of this program based upon both full access to CIA records and extensive classified interviews of its participants', and 'The authors have found records that were nearly irretrievably lost'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-nsarchive2-gwu-edu-dd6eccb1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Security Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+}
+],
+"node": null,
+"title": "Preface.",
+"topics": [
+{
+"claims": [
+"c-8ccf2a5d5f",
+"c-abf888e608",
+"c-b8879ff68e"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "document",
+"urls": [
+"https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf"
+]
+}

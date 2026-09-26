@@ -1,0 +1,40 @@
+{
+"archived": [],
+"claims": [],
+"date": "2023-07-27",
+"edges": [],
+"era": "3",
+"id": "u-npr-org-45cf98bd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NPR",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-bio",
+"label": "Biology & Non-Human Biologics"
+},
+{
+"cls": "domain",
+"id": "d-legacy",
+"label": "Legacy Program"
+},
+{
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+{
+"cls": "domain",
+"id": "d-reverse-engineering",
+"label": "Reverse Engineering"
+}
+],
+"node": null,
+"title": "NPR - U.S. recovered non-human biologics from UFO crash sites, former intel official says",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps"
+]
+}

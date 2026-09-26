@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+},
+"claimTier": 2,
+"id": "e-6fc321689f",
+"label": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
+"note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"b": {
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+},
+"claimTier": 2,
+"id": "e-15ffdc8295",
+"label": "February announcement produced the June pressure campaign",
+"note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"b": {
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+},
+"claimTier": 2,
+"id": "e-5f6270e39f",
+"label": "Hosted the press conference",
+"note": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-lamag-com-e6a0248a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "lamag.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+}
+],
+"node": null,
+"title": "Los Angeles Magazine",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+]
+}

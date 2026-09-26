@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "frank-scully",
+"label": "Frank Scully"
+},
+"b": {
+"cls": "document",
+"id": "behind-the-flying-saucers",
+"label": "Behind the Flying Saucers (Scully, 1950)"
+},
+"claimTier": 2,
+"id": "e-6495b00c3d",
+"label": "Wrote the first crashed-saucer book",
+"note": "Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-dff7fa2c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "document",
+"id": "behind-the-flying-saucers",
+"label": "Behind the Flying Saucers (Scully, 1950)"
+},
+{
+"cls": "person",
+"id": "frank-scully",
+"label": "Frank Scully"
+}
+],
+"node": null,
+"title": "Frank Scully - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Frank_Scully"
+]
+}

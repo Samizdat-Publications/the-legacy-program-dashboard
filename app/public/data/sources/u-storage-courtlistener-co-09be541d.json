@@ -1,0 +1,126 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "grant-cameron",
+"label": "Grant Cameron"
+},
+"b": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"claimTier": 3,
+"id": "e-9876520bd4",
+"label": "Two FOIA-first approaches to the same concealment question",
+"note": "Cameron requests presidential and agency paper and publishes null returns; Kean litigated a null return to a judicial finding of inadequate search. Reasoning: both treat the absence of records as the evidentiary object rather than as an obstacle.",
+"type": "research"
+},
+{
+"a": {
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+"b": {
+"cls": "event",
+"id": "kecksburg-1965",
+"label": "Kecksburg incident, 9 December 1965"
+},
+"claimTier": 1,
+"id": "e-3ef2e1d29b",
+"label": "The litigation was about the Kecksburg records specifically",
+"note": "The underlying FOIA request of 31 January 2003 sought records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+"b": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"claimTier": 1,
+"id": "e-52dfa0c314",
+"label": "Project Moon Dust records were an express object of the FOIA request",
+"note": "Moon Dust - the programme for recovery of foreign space and aerospace debris - is named in the request as reproduced in the court's Background section.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+"claimTier": 1,
+"id": "e-e1a409137f",
+"label": "Plaintiff who forced a court-supervised NASA records search",
+"note": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "person",
+"id": "stan-gordon",
+"label": "Stan Gordon"
+},
+"claimTier": 3,
+"id": "e-df70881355",
+"label": "Gordon's witness pool underwrote the evidentiary premise of the suit",
+"note": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-storage-courtlistener-co-09be541d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CourtListener",
+"listedOn": [
+{
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+{
+"cls": "event",
+"id": "kecksburg-1965",
+"label": "Kecksburg incident, 9 December 1965"
+},
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+{
+"cls": "person",
+"id": "stan-gordon",
+"label": "Stan Gordon"
+}
+],
+"node": null,
+"title": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"topics": [],
+"type": "document",
+"urls": [
+"https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+]
+}

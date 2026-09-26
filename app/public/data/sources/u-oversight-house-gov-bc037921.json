@@ -1,0 +1,270 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 1,
+"id": "e-eac6f1a89c",
+"label": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
+"note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-fe75903dcf",
+"label": "Created in direct response to the reporting failure the encounters exposed",
+"note": "Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "gallaudet-2015-email",
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 2,
+"id": "e-10bbb7aa64",
+"label": "Command-level reaction to the encounter series",
+"note": "The message describes exactly the problem Graves's squadron reported - repeated near-midairs with unidentified objects in working airspace - and was withdrawn within 24 hours.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"b": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"claimTier": 1,
+"id": "e-5b1955a7b7",
+"label": "Official confirmation of the stigma ASA exists to route around",
+"note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"claimTier": 1,
+"id": "e-9a1df969f1",
+"label": "Founder and Executive Director",
+"note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-05b39f1c37",
+"label": "sworn witness",
+"note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-c0db198809",
+"label": "VFA-11 aircrew during the 2014-2015 encounter series",
+"note": "Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "vfa-11",
+"label": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-733d049823",
+"label": "Squadron at the centre of the Atlantic encounter series",
+"note": "Graves names VFA-11 and Warning Area W-72 in sworn testimony as the locus of the encounters and the near-midair.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"b": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"claimTier": 2,
+"id": "e-7ae543f5a2",
+"label": "Flag-officer corroboration of the safety-reporting failure ASA was built around",
+"note": "Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"claimTier": 1,
+"id": "e-e30228e583",
+"label": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+"note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-419c09f2bd",
+"label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-w72",
+"label": "Warning Area W-72, off Virginia Beach"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-b895eee1fb",
+"label": "Site of the near-midair that anchors the safety case",
+"note": "Restricted training airspace ten miles east of Virginia Beach where two F/A-18Fs 100 feet apart took evasive action around a stationary cube-in-sphere object.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-bc037921",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+{
+"cls": "domain",
+"id": "d-disclosure",
+"label": "Disclosure Movement"
+},
+{
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+{
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+{
+"cls": "institution",
+"id": "vfa-11",
+"label": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)"
+},
+{
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+{
+"cls": "location",
+"id": "l-w72",
+"label": "Warning Area W-72, off Virginia Beach"
+},
+{
+"cls": "domain",
+"id": "d-witness",
+"label": "Witness Chain"
+}
+],
+"node": null,
+"title": "House Oversight - Graves written testimony (PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+]
+}

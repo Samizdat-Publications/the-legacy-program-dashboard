@@ -1,0 +1,96 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-1ead60130d",
+"locator": null,
+"node": "five-observables",
+"nodeLabel": "The five observables (UAP performance taxonomy)",
+"sourceText": "Written Testimony of Luis Elizondo, House Committee on Oversight and Accountability, 13 November 2024, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+"text": "Elizondo does not state the five observables in his sworn written testimony. His written statement to the House Committee on Oversight and Accountability for the hearing 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024, contains none of the words 'observable', 'acceleration', 'trans-medium', 'lift', 'hypersonic', 'signature', 'cloak' or 'AATIP'. The full text was retrieved from oversight.house.gov and is transcribed at research/testimony/elizondo-house-oversight-2024-11-13.txt. This is a searchable negative on the most likely government-record source for the set, and it is why the taxonomy stays at Tier 2 attributed to him rather than moving to the congressional record.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-e2f34eae92",
+"label": "sworn witness",
+"note": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"id": "e-9e5a9fc5f4",
+"label": "Direct correspondence, 5 June 2019 and 3 June 2020: 'I ran the program'",
+"note": "Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-8763a93c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "document",
+"id": "five-observables",
+"label": "The five observables (UAP performance taxonomy)"
+}
+],
+"node": null,
+"title": "Luis Elizondo, written testimony, House Oversight",
+"topics": [
+{
+"claims": [
+"c-1ead60130d"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-1ead60130d"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+]
+}

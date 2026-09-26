@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ac3ea99c33",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "American Alchemy with Jesse Michels, 'CIA Historian: Aliens Control Our Government (ft. Peter Levenda)', 22 November 2025, 3:56:16 to 3:58:57, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1108723055.mp3?updated=1763834387",
+"text": "On American Alchemy with Jesse Michels, 22 November 2025, at 3:56:16 to 3:58:57, Peter Levenda said he spent a full day in a conference room in Austin, arranged by Tom DeLonge, with Chris Mellon, Harold Puthoff and Jacques Vallee. He said that when the group asked about a specific matter concerning Skinwalker Ranch, the equipment used there and the data collected, all three fell silent, and that Puthoff then said 'we need a skiff for this one' and would not say why. Levenda gives the account in the first person as a participant and says he took contemporaneous notes.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-ae321f4d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'CIA Historian: Aliens Control Our Government (ft. Peter Levenda)' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-ac3ea99c33"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1108723055.mp3?updated=1763834387"
+]
+}

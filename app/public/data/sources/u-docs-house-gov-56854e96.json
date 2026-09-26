@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-34e28a9688",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+"text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-docs-house-gov-56854e96",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. House of Representatives",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+}
+],
+"node": null,
+"title": "all opened 2026-09-18",
+"topics": [
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "web page",
+"urls": [
+"https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722"
+]
+}

@@ -1,0 +1,104 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"b": {
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+},
+"claimTier": 1,
+"id": "e-ea81b5b055",
+"label": "Site of the December 2023 incursions",
+"note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"b": {
+"cls": "event",
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"claimTier": 1,
+"id": "e-6828c41d6e",
+"label": "Twelve months apart; the second wave was publicly resolved, the first never was",
+"note": "Langley produced no attribution and no public explanation; New Jersey produced a four-agency statement attributing 5,000 reports to hobbyists and misidentifications on the basis of about 100 leads.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"b": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"claimTier": 2,
+"id": "e-ac66f4821c",
+"label": "Centrepiece of Guillot's 90-day counter-UAS assessment",
+"note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+},
+"b": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"claimTier": 1,
+"id": "e-183aba30de",
+"label": "site of the December 2023 incursions",
+"note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-twz-com-26809248",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot"
+},
+{
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+{
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+}
+],
+"node": null,
+"title": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+]
+}

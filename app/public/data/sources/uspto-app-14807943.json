@@ -1,0 +1,59 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d1e72c24e5",
+"locator": "and 15/141,270, compared, read 28 August 2026",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO file wrappers for applications 14/807,943 and 15/141,270, compared, read 28 August 2026",
+"text": "The two applications were treated very differently by the Office, and the comparison is the strongest thing this cluster now has. The electromagnetic field generator, filed 24 July 2015, drew one non-final rejection and was allowed by Thomas M. Dougherty in Art Unit 2837 because 'the prior art fails to show' the claimed generator, with enablement never raised. The craft, filed nine months later on 28 April 2016 and expressly incorporating that generator by reference, was rejected twice by Philip J. Bonzell in Art Units 3644 and 3642 as not enabled and impossible, and reached allowance only after a Notice of Appeal and an Appeal Brief. The same physics, the same inventor and the same office of counsel produced opposite results depending on whether the claim was to the component or to the craft.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3cb3c54669",
+"locator": "Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner",
+"node": "pais-patent-emfg",
+"nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+"sourceText": "USPTO file wrapper, application 14/807,943, Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner Thomas M. Dougherty; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt",
+"text": "The reason given for allowance is novelty over the prior art and nothing else: 'The following is an examiner's statement of reasons for allowance: the prior art fails to show a high energy electromagnetic field generator, comprising: a shell, the shell having embedded polycrystalline ferroelectric ceramic material, the material being polarized such that the ceramic material exhibits strong Piezoelectric Effect properties thus inducing high frequency vibrations'. Claims 1-12 were allowed. The only change made was an examiner's amendment deleting one line of claim 11 'to correct a typographical error'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f4a35f3be2",
+"locator": "Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner",
+"node": "pais-patent-emfg",
+"nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+"sourceText": "USPTO file wrapper, application 14/807,943, Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner Thomas M. Dougherty; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt",
+"text": "The Notice of Allowance and Fee(s) Due was mailed on 10 October 2018 to the Department of the Navy, entity status 'UNDISCOUNTED', total fee due $1,000, payable by 10 January 2019. USPTO records the issue fee as received and verified on 10 October 2018, the day the notice was mailed, and the patent granted on 20 November 2018.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "uspto-app-14807943",
+"identifiers": [
+"US application 14/807,943"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [],
+"node": null,
+"title": "US application 14/807,943",
+"topics": [
+{
+"claims": [
+"c-d1e72c24e5",
+"c-3cb3c54669"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "document",
+"urls": []
+}

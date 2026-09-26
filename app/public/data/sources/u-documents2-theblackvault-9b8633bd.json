@@ -1,0 +1,109 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+"b": {
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+},
+"claimTier": 1,
+"id": "e-82220cdaac",
+"label": "Anomalous phenomena inside a defence contract",
+"note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"b": {
+"cls": "domain",
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+},
+"claimTier": 1,
+"id": "e-e51342ce2c",
+"label": "Field physics is the propulsion answer",
+"note": "DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem.",
+"type": "research"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+},
+"b": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"claimTier": 1,
+"id": "e-fdd5e298e1",
+"label": "Tasking reveals expectation",
+"note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+"b": {
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+"claimTier": 2,
+"id": "e-77bd94a8fa",
+"label": "Same investigators, later contract",
+"note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-9b8633bd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+{
+"cls": "document",
+"id": "aawsap-solicitation",
+"label": "DIA Solicitation HHM402-08-R-0211"
+},
+{
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+{
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+}
+],
+"node": null,
+"title": "AAWSAP Statement of Work",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+]
+}

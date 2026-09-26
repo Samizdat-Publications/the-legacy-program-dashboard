@@ -10,26 +10,58 @@
 {
 "id": "c-a1732d6c7c",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" The government's own list names Obousy, not Davis, as the author.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8736178075",
 "source": "http://earthtech.org/pubs/davis/",
+"sources": [
+{
+"id": "u-earthtech-org-00a4fe99",
+"locator": null,
+"title": "EarthTech International, publications list for Eric W. Davis (DIRD citations)"
+}
+],
 "text": "EarthTech International's published citation list for Eric Davis gives the same paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is a co-authored paper with Obousy first named.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-728a48265f",
 "source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--6202caf1",
+"locator": null,
+"title": "ufos-scientificresearch.blogspot.com"
+}
+],
 "text": "Obousy appears on the Icarus Interstellar team alongside Eric Davis and Friedwardt Winterberg, both of whom are also DIA-listed DIRD authors.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ae4e5ff598",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-8d9d8dc2",
+"locator": null,
+"title": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)"
+}
+],
 "text": "The released cover page reads \"2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001,\" Acquisition Threat Support series, with the author line redacted under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

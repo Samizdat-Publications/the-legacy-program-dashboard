@@ -1,0 +1,197 @@
+{
+"archived": [
+"https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-a2379cd6ec",
+"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
+"node": "dodi-3204-01",
+"nodeLabel": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"sourceText": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"text": "IR&D costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable'; reporting is required only of major contractors allocating over $11 million in IR&D and B&P costs, via project summaries reviewed for cost allowability.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-424998f180",
+"locator": "IR&D structure",
+"node": "robert-m-wood",
+"nodeLabel": "Dr. Robert M. Wood",
+"sourceText": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
+"text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-99dd57fc9c",
+"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
+"node": "mcdonnell-douglas",
+"nodeLabel": "McDonnell Douglas Corporation",
+"sourceText": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"text": "Corporate independent research and development is recoverable as an indirect expense on covered DoD contracts under DoD Instruction 3204.01, with project reporting required only of contractors allocating more than $11 million in IR&D and bid-and-proposal costs.",
+"tier": 1
+}
+],
+"date": "2014",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "document",
+"id": "dodi-3204-01",
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
+},
+"claimTier": 2,
+"id": "e-91f862baf1",
+"label": "Grusch named contractor IR&D under oath as the funding channel for concealed UAP work",
+"note": "Asked whether corporations overcharge government with the excess flowing to programs, Grusch answered 'Correct, through something called IR&D,' adding that 'IR&D is literally internal to the contractors... they do whatever they want.'",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-3204-01",
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+"claimTier": 1,
+"id": "e-0e54c58a32",
+"label": "Congress legislated directly against the IR&D mechanism, citing the instruction by number and change date",
+"note": "Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-m-wood",
+"label": "Dr. Robert M. Wood"
+},
+"b": {
+"cls": "institution",
+"id": "mcdonnell-douglas",
+"label": "McDonnell Douglas Corporation"
+},
+"claimTier": 2,
+"id": "e-26b335c0ff",
+"label": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
+"note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-46bc16c648",
+"label": "The IR&D restriction applies directly to covered prime contractors",
+"note": "DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).",
+"type": "funding"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-3702e0d376",
+"label": "",
+"note": "The section acts on the mechanism without touching it. Sec. 1687(a) conditions obligation of funds on the Secretary reporting the activity to the defense and intelligence committees and congressional leadership; it does not repeal or amend 10 U.S.C. 119(e). The waiver stays lawful and the money stops instead.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mcdonnell-douglas",
+"label": "McDonnell Douglas Corporation"
+},
+"b": {
+"cls": "document",
+"id": "dodi-3204-01",
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
+},
+"claimTier": 3,
+"id": "e-9e18b58924",
+"label": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
+"note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
+"type": "funding"
+}
+],
+"era": "2",
+"id": "dodi-3204-01",
+"identifiers": [
+"DoDI 3204.01"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "dodi-3204-01",
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
+},
+{
+"cls": "person",
+"id": "robert-m-wood",
+"label": "Dr. Robert M. Wood"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+{
+"cls": "institution",
+"id": "mcdonnell-douglas",
+"label": "McDonnell Douglas Corporation"
+}
+],
+"node": {
+"cls": "document",
+"id": "dodi-3204-01",
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
+},
+"title": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"topics": [
+{
+"claims": [
+"c-a2379cd6ec"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-424998f180"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+]
+}

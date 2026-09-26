@@ -7,26 +7,45 @@
 {
 "id": "c-b4bf6fa85d",
 "source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 1:08:45",
+"sources": [],
 "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 1:08:45, Michels said that a Freedom of Information Act request was sent to the National Nuclear Security Administration for all records that 'mention or relate to' Starfish Prime together with UFO, AP, UAV, AAV or any acronym used by the Atomic Energy Commission at the time for unidentified flying objects, and that the NNSA reply of June 2022 reads 'it was determined that an additional review of your case by the subject matter expert with jurisdiction regarding responsive records was required'. The response letter itself was not opened from this environment and no case number is given on air.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a0ae82d3e1",
 "source": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 ; IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , both opened 2026-09-18",
+"sources": [
+{
+"id": "u-journals-aps-org-a752716a",
+"locator": null,
+"title": "Oganessian et al., Physical Review C 69, 021601(R)"
+},
+{
+"id": "u-iupac-org-e23dbbe9",
+"locator": null,
+"title": "IUPAC, discovery and assignment of elements 113, 115, 117 and 118"
+}
+],
 "text": "Element 115 was synthesised by a collaboration including Lawrence Livermore National Laboratory, a laboratory in the NNSA complex, working with the Joint Institute for Nuclear Research at Dubna, and reported in Physical Review C 69, 021601(R) on 2 February 2004. IUPAC assigned discovery priority to the Dubna-Livermore-Oak Ridge collaborations on 30 December 2015, on the basis of work starting in 2010 and confirmed in 2012 and 2013, and the name moscovium was approved on 28 November 2016. NOTHING ABOUT THE SYNTHESISED ELEMENT IS STABLE, MACHINABLE OR STORABLE: the isotopes are 287 and 288, produced one atom at a time at cross sections of roughly one and three picobarn. This claim is recorded here because Bob Lazar's element-115 account is regularly presented as having been vindicated by these events, and the record of the complex's own laboratories is what shows that it was not.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-82d7da5773",
 "source": "NNSA, About NNSA",
+"sources": [],
 "text": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', 'Established by Congress in 2000'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ed3f31ada0",
 "source": "Inference from the structure of DOE/NNSA site operation and Restricted Data authority",
+"sources": [],
 "text": "The NNSA complex is the most plausible custodial architecture for concealed material because it combines contractor operation, an independent clearance and classification regime, armed protective forces and a legitimate cover mission that explains every observable security feature. Reasoning: it satisfies all custody requirements without requiring any DoD SAP entry.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

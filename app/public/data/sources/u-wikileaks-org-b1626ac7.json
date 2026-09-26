@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-c90e800494",
+"locator": null,
+"node": "podesta-delonge-mccasland-email-2016",
+"nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"sourceText": "WikiLeaks, The Podesta Emails, email ids 51979 and 9501, https://wikileaks.org/podesta-emails/emailid/51979 ; https://wikileaks.org/podesta-emails/emailid/9501",
+"text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and neilmcc79@gmail.com, who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to t.delonge@me.com, mfisher@hillaryclinton.com, rob.f.weiss@lmco.com and carey.mjd@gmail.com. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-wikileaks-org-b1626ac7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "WikiLeaks",
+"listedOn": [
+{
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+}
+],
+"node": null,
+"title": "WikiLeaks, The Podesta Emails, email id 9501, same thread",
+"topics": [
+{
+"claims": [
+"c-c90e800494"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-c90e800494"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "web page",
+"urls": [
+"https://wikileaks.org/podesta-emails/emailid/9501"
+]
+}

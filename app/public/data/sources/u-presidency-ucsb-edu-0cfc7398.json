@@ -1,0 +1,69 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-063c937c15",
+"locator": null,
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Gerald R. Ford, Statement on Signing the Bill Providing for the Relief of the Survivors of Dr. Frank R. Olson, 12 October 1976, https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson",
+"text": "President Ford signed the bill on 12 October 1976 and stated the administration's own position on the amount: 'Legislation to appropriate $1,250,000 to compensate the wife and three children of Dr. Olson for his death was supported by this administration. However, the Congress approved a measure calling for the payment of a total of $750,000 to these survivors.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "gerald-ford",
+"label": "Gerald R. Ford"
+},
+"b": {
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+},
+"claimTier": 1,
+"id": "e-b66096a57c",
+"label": "Signed Private Law 94-126, 12 October 1976",
+"note": "Ford signed S. 3035 paying the widow and three children $187,500 each in full settlement, and said his administration had supported $1,250,000 and would support further relief legislation.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-presidency-ucsb-edu-0cfc7398",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "presidency.ucsb.edu",
+"listedOn": [
+{
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+}
+],
+"node": null,
+"title": "Statement on Signing the Bill Providing for the Relief of the Survivors of Dr. Frank R. Olson, 12 October 1976",
+"topics": [
+{
+"claims": [
+"c-063c937c15"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-063c937c15"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson"
+]
+}

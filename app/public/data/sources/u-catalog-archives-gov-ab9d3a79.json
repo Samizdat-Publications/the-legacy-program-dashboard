@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-07d1ca7f67",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf",
+"text": "Item 342UAP00013, catalogued as '78th Fighter Wing, December, 1964', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-catalog-archives-gov-ab9d3a79",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "catalog.archives.gov",
+"topics": [],
+"type": "document",
+"urls": [
+"https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf"
+]
+}

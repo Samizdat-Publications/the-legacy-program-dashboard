@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-8ca1eeb6a8",
+"locator": null,
+"node": "hr-5060-uap-whistleblower-protection-act",
+"nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sourceText": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
+"text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "bills-119hr5060ih",
+"identifiers": [
+"BILLS-119hr5060ih"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+{
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+}
+],
+"node": null,
+"title": "BILLS-119hr5060ih",
+"topics": [
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+},
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+},
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/BILLS-119hr5060ih/html/BILLS-119hr5060ih.htm"
+]
+}

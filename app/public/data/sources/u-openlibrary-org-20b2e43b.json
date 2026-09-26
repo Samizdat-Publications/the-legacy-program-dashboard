@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2a71db3503",
+"locator": null,
+"node": "alien-rapture-1998",
+"nodeLabel": "Alien Rapture: The Chosen, Galde Press, 1998",
+"sourceText": "Open Library work record OL1803180W, https://openlibrary.org/works/OL1803180W.json , opened 2026-09-18",
+"text": "Open Library independently records the same work as Galde Press, 1998, 275 pages, ISBN 1880090503 and 9781880090503, with subjects 'Alien abduction' and 'Fiction', and LC classification PS3556.O779 A79 1998.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-openlibrary-org-20b2e43b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "openlibrary.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "alien-rapture-1998",
+"label": "Alien Rapture: The Chosen, Galde Press, 1998"
+}
+],
+"node": null,
+"title": "Open Library work record OL1803180W for Alien rapture",
+"topics": [
+{
+"claims": [
+"c-2a71db3503"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "book",
+"urls": [
+"https://openlibrary.org/works/OL1803180W.json"
+]
+}

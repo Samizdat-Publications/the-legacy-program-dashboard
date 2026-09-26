@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-1cbd75eefa",
+"locator": null,
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm (table of contents, Title XI) ; compared against Senate Select Committee on Intelligence, 'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf)",
+"text": "RENUMBERING AND ATTRITION BETWEEN COMMITTEE AND FLOOR. In S. 2103 as reported by the Senate Select Committee on Intelligence on 22 June 2023, Title XI--Other Matters contained four sections: 'Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office.'; 'Sec. 1102. Modifications to notification on the provision of defense sensitive [support]'; 'Sec. 1103. Modification of congressional oversight of special access programs.'; and 'Sec. 1104. Funding limitations relating to unidentified anomalous phenomena.' The engrossed Division M carries only the first and the last of these, renumbered 1101 and 1102. Two provisions were therefore dropped between committee and the Senate-passed text, and one of the two dropped provisions was a direct amendment to the congressional oversight regime for special access programs. That is a soft joint the board did not previously have: the same intelligence committee that wrote the UAP funding limitation also wrote a special access program oversight amendment alongside it, and only the funding limitation survived to the floor text.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-6310698d4f",
+"locator": null,
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "Senate Select Committee on Intelligence, 'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service https://www.govinfo.gov/link/crec/169/s/3628 which resolves to https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf (HTML twin: https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm)",
+"text": "The section number and the shape of Title XI in the engrossed division are now confirmed against TWO independent primary copies rather than one. Both the Senate Intelligence Committee's posting of the engrossed text and the Congressional Record print of SA 1053 carry the identical Title XI table of contents, and Title XI--Other Matters of Division M contains exactly two sections and no others: 'Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office.' and 'Sec. 1102. Funding limitations relating to unidentified anomalous phenomena.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-intelligence-senate-gov-a9abcde7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Select Committee on Intelligence",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "iaa-fy2024-sec-1102",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+}
+],
+"node": null,
+"title": "Senate Select Committee on Intelligence, 'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023', 9 August 2023 - (posted PDF:",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf"
+]
+}

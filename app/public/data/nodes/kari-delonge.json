@@ -28,20 +28,26 @@
 {
 "id": "c-ed4bdd543e",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"sources": [],
 "text": "Listed in TTSA's Form 1-K as Chief Content Officer, age 35, with $100,000 FY2017 cash compensation and options on 5,000,000 shares at $0.003 valued at approximately $18.96 million.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-497905e107",
 "source": "CRADA document released by the U.S. Army CCDC, reported by Joseph Trevithick and Brett Tingley, The War Zone, 18 October 2019",
+"sources": [],
 "text": "Signed the TTSA-Army CRADA on 10 October 2019 as TTSA's corporate signatory, opposite GVSC Director Jeffery Langhout.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0cd90af078",
 "source": "Keith Kloor, The Intercept, 1 June 2019",
+"sources": [],
 "text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

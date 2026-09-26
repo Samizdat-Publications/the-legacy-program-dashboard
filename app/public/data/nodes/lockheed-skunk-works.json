@@ -7,20 +7,26 @@
 {
 "id": "c-efbbf52f14",
 "source": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics",
+"sources": [],
 "text": "Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the RQ-170 Sentinel and the DarkStar; AARO cites these programs as sources of UAP misidentification.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-be278e3122",
 "source": "Ben R. Rich and Leo Janos, 'Skunk Works' (1994)",
+"sources": [],
 "text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a4d61b0f4a",
 "source": "Board inference from the documented RQ-170 and F-117 concealment records",
+"sources": [],
 "text": "An organisation with demonstrated capability to fly unacknowledged hardware for years is the natural custodian for material whose existence the government intends to deny. Reasoning: capability and precedent, not a document tying Skunk Works to recovered material.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

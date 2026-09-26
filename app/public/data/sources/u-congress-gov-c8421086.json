@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"claimTier": 1,
+"id": "e-e30228e583",
+"label": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+"note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-419c09f2bd",
+"label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-c8421086",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf"
+]
+}

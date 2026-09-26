@@ -1,0 +1,131 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 2,
+"id": "e-f551689f7b",
+"label": "ADAM is the predicate for the Army agreement",
+"note": "The CRADA lists mechanical/structural metamaterials and electromagnetic metamaterial waveguides — the exact subject matter ADAM claimed to hold.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffery-langhout",
+"label": "Jeffery Langhout"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-54788b2efd",
+"label": "Signed for the United States Army, 10 October 2019",
+"note": "The federal signature block is what makes the agreement citable as a government act.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kari-delonge",
+"label": "Kari DeLonge"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-168e63c2b9",
+"label": "Signed for To The Stars Academy, 10 October 2019",
+"note": "The corporate signatory on a materials-science agreement with an Army laboratory was TTSA's Chief Content Officer — the entertainment company was the legal spine.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-b6aa2b00c2",
+"label": "Named as TTSA's principal investigator on the Army agreement",
+"note": "Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-092d740a3c",
+"label": "Executed CRADA with the U.S. Army, 10 October 2019, term to 30 September 2023",
+"note": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-twz-com-520c17a7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "person",
+"id": "jeffery-langhout",
+"label": "Jeffery Langhout"
+},
+{
+"cls": "person",
+"id": "kari-delonge",
+"label": "Kari DeLonge"
+},
+{
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+{
+"cls": "institution",
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+}
+],
+"node": null,
+"title": "The War Zone",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+]
+}

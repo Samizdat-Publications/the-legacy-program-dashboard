@@ -1,0 +1,239 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-0e87b01a63",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA Info Memo U-10-2552 to USD(AT&L): 'The Advanced Aerospace Threat Identification Program was first sponsored in the Fiscal Year (FY) 2008 Defense Supplemental Appropriation Act by Senators Reid and Inouye with a $10 million add. The purpose of this congressional add was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years and to build an infrastructure to house a center of expertise on advanced aerospace technologies.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-53194e6884",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "Same memo: 'The FY 2010 Defense Appropriations Act included a $12 million add for the project. Twelve additional reports were produced and delivered.' Total across FY08 supplemental ($10M) and FY10 ($12M) = $22M.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-86ea0b00f6",
+"locator": null,
+"node": "bigelow-aerospace",
+"nodeLabel": "Bigelow Aerospace",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA Info Memo U-10-2552: 'DIA awarded a contract to the Bigelow Aerospace Advanced Space Studies LLC (BAASS), the only bid, headquartered in North Las Vegas, Nevada.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e8156d4357",
+"locator": null,
+"node": "dia-sap-denial-memo-2009",
+"nodeLabel": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA Info Memo U-10-2552 records the outcome of the follow-on meeting: 'In November, 2009, Deputy Secretary of Defense Lynn and I met with Senator Reid to discuss this program. At that time, we determined the reports were of limited value to DIA. However, I did suggest they could be of merit to other organizations and, that upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-18770fca54",
+"locator": null,
+"node": "dia-sap-denial-memo-2009",
+"nodeLabel": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "The explicit suggestion that 'the project could be transitioned to another agency or component better suited to oversee the project' is the documented hinge between AAWSAP's DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-33a736cdb7",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA singled this report out as its showcase deliverable: Info Memo U-10-2552 to USD(AT&L) states 'One of the 26 reports, titled Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering was published in March, 2010. It is included as enclosure 2 and is provided as an example of the reports.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e712955c7c",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA records him as co-sponsor with Senator Daniel Inouye (D-HI) of the language in the July 2008 Supplemental Appropriation bill directing DIA to investigate foreign advanced aerospace weapon threats 'from the present out to 40 years in the future' — a $10 million add.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-91256df644",
+"label": "",
+"note": "BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-00dc3b6ebb",
+"label": "26 FY2009 + 12 FY2010 technical reports",
+"note": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+"claimTier": 1,
+"id": "e-784bec93a2",
+"label": "BAASS LLC, North Las Vegas NV",
+"note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-52d1ba0184",
+"label": "co-sponsored FY2008 supplemental $10M add with Sen. Inouye",
+"note": "",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-ce3242b6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "document",
+"id": "dia-sap-denial-memo-2009",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+}
+],
+"node": null,
+"title": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-0e87b01a63",
+"c-53194e6884",
+"c-e712955c7c"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-0e87b01a63",
+"c-53194e6884",
+"c-e712955c7c"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-0e87b01a63",
+"c-53194e6884"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-33a736cdb7"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+]
+}

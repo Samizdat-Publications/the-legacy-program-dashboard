@@ -1,0 +1,41 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7bb0ebc6ca",
+"locator": null,
+"node": "bruce-towe",
+"nodeLabel": "Bruce C. Towe",
+"sourceText": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/",
+"text": "Towe's documented academic home is Arizona State University's School of Biological and Health Systems Engineering, where he researches neurostimulation, implantable microelectronics and bioelectronics - not the University of Arizona as recorded on the DIA list.",
+"tier": 2
+}
+],
+"date": "2019-08",
+"edges": [],
+"era": "3",
+"id": "u-sbhse-engineering-asu-ed-35095dc8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "sbhse.engineering.asu.edu",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+{
+"cls": "person",
+"id": "bruce-towe",
+"label": "Bruce C. Towe"
+}
+],
+"node": null,
+"title": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sbhse.engineering.asu.edu/2019/08/bruce-towe/"
+]
+}

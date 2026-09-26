@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-453fb3f1b8",
+"locator": null,
+"node": "detlev-bronk",
+"nodeLabel": "Detlev W. Bronk",
+"sourceText": "Thirty-Eighth Annual Report of the National Advisory Committee for Aeronautics, 1952, NASA Technical Reports Server 19930092104, https://ntrs.nasa.gov/api/citations/19930092104/downloads/19930092104.pdf",
+"text": "He was already a member two years earlier under his previous office: the Thirty-Eighth Annual Report for 1952 lists him in the Committee membership as President of Johns Hopkins University. The scan's OCR degrades his surname on that page, so the line is reported rather than quoted.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-ntrs-nasa-gov-22ce36c8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "person",
+"id": "detlev-bronk",
+"label": "Detlev W. Bronk"
+}
+],
+"node": null,
+"title": "Thirty-Eighth Annual Report of the National Advisory Committee for Aeronautics, 1952",
+"topics": [],
+"type": "document",
+"urls": [
+"https://ntrs.nasa.gov/api/citations/19930092104/downloads/19930092104.pdf"
+]
+}

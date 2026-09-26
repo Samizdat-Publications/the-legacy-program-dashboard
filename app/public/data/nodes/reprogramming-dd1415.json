@@ -7,26 +7,58 @@
 {
 "id": "c-a323500aee",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-comptroller-war-gov-bb81067b",
+"locator": null,
+"title": "DoD Financial Management Regulation, Volume 3, Chapter 6"
+}
+],
 "text": "DoD FMR Volume 3 Chapter 6, 'Reprogramming of DoD Appropriated Funds' (September 2015), establishes Prior Approval Reprogramming (DD 1415-1), Letter Notification (DD 1415-2), Internal Reprogramming (DD 1415-3) and Below-Threshold Reprogramming.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ca55043d94",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-comptroller-war-gov-bb81067b",
+"locator": null,
+"title": "DoD Financial Management Regulation, Volume 3, Chapter 6"
+}
+],
 "text": "Below-Threshold Reprogramming permits components to realign funds within prescribed cumulative annual limits without approval or notification.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-50956baf86",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-comptroller-war-gov-bb81067b",
+"locator": null,
+"title": "DoD Financial Management Regulation, Volume 3, Chapter 6"
+}
+],
 "text": "Congressional approval thresholds: Military Personnel $10 million; Operation and Maintenance $15 million; Procurement $20 million or 20 percent of programme base, whichever is less; RDT&E $10 million or 20 percent of programme base, whichever is less.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d106a433e1",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-comptroller-war-gov-bb81067b",
+"locator": null,
+"title": "DoD Financial Management Regulation, Volume 3, Chapter 6"
+}
+],
 "text": "Internal Reprogramming on DD Form 1415-3 is processed entirely within the Department as an audit-trail action, with no congressional action required.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

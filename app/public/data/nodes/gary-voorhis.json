@@ -29,14 +29,18 @@
 {
 "id": "c-439e6bb5ba",
 "source": "Gary Voorhis, public documentary and broadcast interviews from 2018; no primary record located as of Aug 2026",
+"sources": [],
 "text": "Data recording media covering the Princeton's tracking of the objects were collected or ordered wiped by unidentified personnel in the days after 14 Nov 2004. Reasoning: the account is independently given by two Princeton crewmen in different billets, and the Navy has never produced Princeton sensor data for the date despite the incident being formally documented in its own range fouler reporting - an absence consistent with, though not proof of, removal.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-09d15d27fa",
 "source": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023, reported by The War Zone",
+"sources": [],
 "text": "The 14 Nov 2004 incident is formally documented in Navy range fouler reporting released via FOIA in January 2023, which records that reporting terminated at 3rd Fleet with no process to share it.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

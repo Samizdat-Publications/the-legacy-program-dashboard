@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-8197",
+"label": "H.R. 8197 (119th Congress) - bill to abolish AARO"
+},
+"claimTier": 2,
+"id": "e-36b97f517a",
+"label": "recommended AARO's complete defunding to the DOGE subcommittee in March 2026, weeks before the bill",
+"note": "Luna's defunding recommendation and Burchett's abolition bill are the same judgement expressed through appropriations and authorisation respectively.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"claimTier": 1,
+"id": "e-8040878d4d",
+"label": "1 April 2026 letter demanding AARO's UAP video holdings",
+"note": "Luna wrote to the Secretary of War for video files held by AARO after September 2025 witnesses told the Task Force AARO held additional records; the PURSUE releases followed within five weeks.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 3,
+"id": "e-86089ba6c3",
+"label": "successor whose reported apology to Congress concerns his predecessor's conduct",
+"note": "If Luna's account is accurate, a sitting AARO director conceded to members of Congress that the office's founding leadership behaved improperly toward Congress and witnesses - the nearest thing to an institutional admission in the record.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-sentinel-news-org-8f9fd425",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "sentinel-news.org",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-8197",
+"label": "H.R. 8197 (119th Congress) - bill to abolish AARO"
+}
+],
+"node": null,
+"title": "Sentinel News - The AARO Saga",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sentinel-news.org/p/the-aaro-saga"
+]
+}

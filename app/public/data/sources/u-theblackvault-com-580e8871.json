@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "elizondo-dodig-complaint-2021",
+"label": "Elizondo complaint to the DoD Inspector General, May 2021"
+},
+"b": {
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+"claimTier": 2,
+"id": "e-5ea9ac2007",
+"label": "Named respondent",
+"note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "elizondo-dodig-complaint-2021",
+"label": "Elizondo complaint to the DoD Inspector General, May 2021"
+},
+"b": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 2,
+"id": "e-30674442cf",
+"label": "Named respondent",
+"note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "elizondo-dodig-complaint-2021",
+"label": "Elizondo complaint to the DoD Inspector General, May 2021"
+},
+"claimTier": 2,
+"id": "e-c5e7fce667",
+"label": "Filed May 2021 naming Reid, Gough and Tipton",
+"note": "Alleged 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats'. No public adjudication has been released.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-580e8871",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "elizondo-dodig-complaint-2021",
+"label": "Elizondo complaint to the DoD Inspector General, May 2021"
+},
+{
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton"
+}
+],
+"node": null,
+"title": "The Black Vault — Elizondo DoD IG complaint archive",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+]
+}

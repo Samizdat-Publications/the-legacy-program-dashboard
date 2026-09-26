@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-3711069efb",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo",
+"text": "The FBI's own position on the 22 March 1950 Guy Hottel memo, the most-viewed document in its Vault: it 'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated. Some people believe the memo repeats a hoax that was circulating at that time, but the Bureau's files have no information to verify that theory.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-79d192179c",
+"label": "Air Force denials of Hangar 18 bodies",
+"note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-fbi-gov-cd6eb03e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "fbi.gov",
+"listedOn": [
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+}
+],
+"node": null,
+"title": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo",
+"topics": [
+{
+"claims": [
+"c-3711069efb"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo"
+]
+}

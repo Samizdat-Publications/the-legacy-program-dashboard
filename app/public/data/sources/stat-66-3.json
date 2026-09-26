@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-f1d3089285",
+"locator": "Statutes at Large volume 66, govinfo",
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "66 Stat. 3, Statutes at Large volume 66, govinfo, https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+"text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f1d3089285",
+"locator": null,
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "66 Stat. 3, Statutes at Large volume 66, govinfo, https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+"text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+"b": {
+"cls": "domain",
+"id": "d-secrecy",
+"label": "Secrecy Law & Classification"
+},
+"claimTier": 1,
+"id": "e-1a85be9443",
+"label": "One of the three statutory layers of the secrecy architecture",
+"note": "The domain description already names this Act as one of the three statutory layers of the secrecy architecture and the board carried no node for it.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "stat-66-3",
+"identifiers": [
+"66 Stat. 3"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
+"node": null,
+"title": "66 Stat. 3",
+"topics": [
+{
+"claims": [
+"c-f1d3089285",
+"c-f1d3089285"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf"
+]
+}

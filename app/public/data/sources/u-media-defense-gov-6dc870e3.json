@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": "2010-10-27",
+"edges": [],
+"era": "2",
+"id": "u-media-defense-gov-6dc870e3",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+{
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+{
+"cls": "location",
+"id": "l-roswell",
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County"
+}
+],
+"node": null,
+"title": "USAF - The Roswell Report: Case Closed (PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://media.defense.gov/2010/Oct/27/2001330256/-1/-1/0/AFD-101027-030.pdf"
+]
+}

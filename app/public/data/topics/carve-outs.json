@@ -19,6 +19,13 @@
     "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": null,
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "A programmed phase-out of DCSA oversight across the DoD SAP enterprise by July 2029 converts the carve-out from an exception requiring SecDef/DepSecDef signature into the default state. If accurate, after that date no independent DoD agency holds a routine inspection right at SAP contractor facilities, and the record of which facilities host which programs stops accumulating in DCSA's system. Reasoning stated from 1.2.i.",
    "tier": 3
   },
@@ -32,6 +39,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "GAO explains the term: special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', and 'In 1983, we estimated that there probably were several thousand such contracts.'",
    "tier": 1
   },
@@ -45,6 +59,13 @@
     "text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": null,
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "THE CARVE-OUT'S OPERATIONAL CONTENT. DoDM 5205.07 Vol 1, Enclosure 2, para 2 (Director, DSS): 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations in accordance with this volume, Reference (f), and the government contracting activity's completed DD Form 254 ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.' A carve-out removes all three functions at once: physical inspection, IT accreditation, and CI information sharing.",
    "tier": 1
   },
@@ -58,6 +79,13 @@
     "text": "GAO-04-332",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-04-332",
+     "locator": null,
+     "title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+    }
+   ],
    "text": "GAO-04-332 found 'DSS has not always followed required procedures when contractors have reported security violations and possible compromises of classified information.'",
    "tier": 1
   },
@@ -71,6 +99,13 @@
     "text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": null,
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "Vol 1, Enclosure 4, para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' There is an explicit, standing policy channel for patents arising inside special access programs, delegated to each cognizant-authority SAP central office.",
    "tier": 1
   },
@@ -84,6 +119,13 @@
     "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "pl-118-159",
+     "locator": null,
+     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+    }
+   ],
    "text": "Congress in December 2024 wrote an express statutory prohibition on moving a capability out of an IC controlled access program and into a DoD-style special access program without notice. That prohibition only makes sense as a response to a believed or feared practice; the statute is itself evidence that the CAP-to-SAP transfer route was live enough to legislate against. The two exceptions -- 'urgent counterintelligence issue' and 'organizational restructuring' -- are self-certified by the same official making the transfer and are exactly the two rationales a program seeking to move would assert. Reasoning stated from the text of 3091a(b)(2).",
    "tier": 3
   },
@@ -97,6 +139,13 @@
     "text": "32 CFR 117.23(d)(1)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": "23(d)(1",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "32 CFR 117.23(d)(1): 'DoD SAP contracts. Contractors will implement the security requirements for SAPs codified in SAP-related policy, when established by contract. These documents include, but are not limited to, statutes, E.O.s, CSA directives, instructions, manuals, regulations, standards, memorandums, and other SAP security related policy documents.'",
    "tier": 1
   },
@@ -110,6 +159,13 @@
     "text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": null,
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "One office holds: single-point congressional liaison, custody of the record of what was told to Congress, access-approval authority for all SAPs, and the coordination point for White House, NSC, judicial and political-appointee access to waived programs. Every external route into a waived DoD SAP -- legislative, executive and judicial -- transits the same desk, which reports to the Deputy Secretary of Defense and to no one outside the Department. Reasoning stated from DoDD 5205.07 (2010) paras 4.c, 4.e and Enclosure 3 Notes 2-4.",
    "tier": 3
   },
@@ -123,6 +179,13 @@
     "text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": null,
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "Because the FCL function survives a carve-out (DoDM V1 Encl 2 para 2.b) while inspection does not, DCSA's facility clearance database remains the one government-wide index that lists a carved-out SAP contractor location as a cleared facility, even when no inspector may enter it. That makes FCL records a discovery surface that the carve-out does not close. Reasoning stated.",
    "tier": 3
   },
@@ -136,6 +199,13 @@
     "text": "DoDI 5205.11, Appendix 3 to Enclosure 6, Figure 4",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Appendix 3 to Enclosure 6, Figure 4",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 Appendix 3 to Enclosure 6, sample action memo to the Deputy Secretary of Defense: 'The Defense Security Service will be carved out from its normal industrial security oversight responsibilities.'",
    "tier": 1
   },
@@ -149,6 +219,18 @@
     "text": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Enclosure 2",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    },
+    {
+     "id": "dodd-5205-07",
+     "locator": "2010) paras 4.c and 4.e",
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
    "tier": 3
   },
@@ -162,6 +244,13 @@
     "text": "DoD Directive 5205.07, 12 September 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": "12 September 2024",
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and the OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval.",
    "tier": 1
   },
@@ -175,6 +264,13 @@
     "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "pl-118-159",
+     "locator": null,
+     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+    }
+   ],
    "text": "THE CAP-TO-SAP LAUNDERING BAR. Sec. 6603 adds 50 U.S.C. 3091a(b)(2)(A), verbatim: 'Except as provided in subparagraph (B), a head of an element of the intelligence community may not transfer a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in section 1152(g) of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 3348(g))), or to anything else outside the controlled access program, until the head submits to the appropriate congressional committees and congressional leadership notice of the intent of the head to make such transfer.' Text at 138 STAT. 2507-2508.",
    "tier": 1
   },
@@ -188,6 +284,13 @@
     "text": "DoDI 5205.11, Enclosure 7, para 1.a",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Enclosure 7, para 1.a",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 Enclosure 7 requires each SAP record file to include 'Written approval by SecDef or DepSecDef of carve-out status when DSS is relieved of industrial security oversight responsibilities' and 'The identification of SAP facilities (or identification of the SAPCO-approved database that contains the information) that have been carved-out based upon this authority.'",
    "tier": 1
   },
@@ -201,6 +304,13 @@
     "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": null,
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "DoDD 5205.07 (2024) restates it: the Director, DoD SAPCO, 'under the authority, direction, and control of the Deputy Secretary of Defense, will be a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise,' serves as proponent for SAP policy, as Executive Secretary of the SAPOC and SRG, as Chair of the SSWG, and as 'primary point of contact for congressional matters', and 'Maintains records of DoD SAP information provided to Congress.'",
    "tier": 1
   },
@@ -214,6 +324,13 @@
     "text": "DoDM 5205.07 Volume 1, Enclosure 2 para 2.c and Glossary definition of PSO",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 2 para 2.c and Glossary definition of PSO",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "After a carve-out, the only recurring security inspection of the contractor facility is conducted by the Program Security Officer, who is 'appointed in writing by the appropriate Director CA SAPCO or designee' and exercises responsibilities 'on behalf of the SAPCO' - that is, by the program inspecting itself. Reasoning: DoDM 5205.07-V1 removes the DSS/DCSA inspection and its glossary defines the PSO's appointment chain as internal to the SAP structure.",
    "tier": 3
   },
@@ -227,6 +344,18 @@
     "text": "GAO accession 130581, 24 July 1986, describing GAO/GGD-83-43 -- the earlier report was not read",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "24 July 1986, describing GAO/GGD-83-43 -- the earlier report was not read",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    },
+    {
+     "id": "gao-ggd-83-43",
+     "locator": "the earlier report was not read",
+     "title": "GAO/GGD-83-43"
+    }
+   ],
    "text": "GAO/GGD-83-43 of 18 February 1983, 'Further Improvements Needed in Department of Defense Oversight of Special Access (Carve-Out) Contracts', recommended change and DoD refused. The 1986 testimony gives DoD's stated reasons, including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary.' The 1983 report itself was not opened in this pass.",
    "tier": 2
   },
@@ -240,6 +369,13 @@
     "text": "CHRG-118hhrg57440, 13 November 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg57440",
+     "locator": "13 November 2024",
+     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+    }
+   ],
    "text": "Elizondo confirmed on the record that the reported Lockheed Martin - Bigelow Aerospace transfer 'was blocked,' and that a memorandum from the Secretary of the Air Force required to complete it never issued.",
    "tier": 2
   },
@@ -253,6 +389,13 @@
     "text": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
     "url": "https://sgp.fas.org/othergov/sapoc.html"
    },
+   "sourceRefs": [
+    {
+     "id": "u-sgp-fas-org-4c896d71",
+     "locator": null,
+     "title": "SAPOC Information Bulletin, November 1994"
+    }
+   ],
    "text": "The committee was established on 5 January 1994, sixteen years before the directive this node cites. A Deputy Secretary of Defense information bulletin of November 1994 states: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
    "tier": 2
   },
@@ -266,6 +409,18 @@
     "text": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
     "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    },
+    {
+     "id": "cfr-32-117",
+     "locator": null,
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "The regulation ties the carve-out to DoDD 5205.07, 'DoD SAP Policy', by name and by URL, so the codified rule and the DoD directive are a matched pair rather than parallel authorities.",
    "tier": 1
   },
@@ -279,6 +434,13 @@
     "text": "DoDI 5205.11, Enclosure 3, para 3",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Enclosure 3, para 3",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 Enclosure 3 para 3: 'The SRG is the principal working-level body executing the governance process and performing oversight and management of DoD SAPs. Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
    "tier": 1
   },
@@ -292,6 +454,13 @@
     "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": null,
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "NEGATIVE FINDING WITH CONSEQUENCE. A full-text pass of the 12 September 2024 directive found no occurrence of the terms 'carve-out', 'waived', 'unacknowledged', 'notification', or '10 U.S.C. 119'. The 2024 reissuance moved every operative concealment mechanism out of the public-release Directive and into the companion Instruction, DoDI 5205.11 — which remains public but is the document one must know to ask for.",
    "tier": 1
   },
@@ -305,6 +474,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "Lockheed reported 1,460 discrepancies: 'The current inventory of all 53 document control substations has been completed, and Lockheed has reported 1,460 discrepancies.' The inventory 'consists of about 40,000 secret and top-secret items.'",
    "tier": 1
   },
@@ -318,6 +494,13 @@
     "text": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": null,
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "32 CFR 117 is the current operative implementation of E.O. 12829: the NISPOM was converted from DoD 5220.22-M into a binding federal rule at 32 CFR Part 117. 32 CFR 117.6(b) is where the DoD SAP carve-out from that program is written down.",
    "tier": 1
   },
@@ -331,6 +514,13 @@
     "text": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.b",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 2, para 2.b",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "DoDM 5205.07-V1 Enclosure 2 para 2.b: the Director, DSS 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.'",
    "tier": 1
   },
@@ -344,6 +534,13 @@
     "text": "32 CFR 117.23(d)(1)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": "23(d)(1",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "Because 117.23(d)(1) exports the substantive SAP security requirements into contract documents, the actual rules governing a contractor holding SAP material are not published anywhere in the Code of Federal Regulations and are not obtainable without the contract. Reasoning: the regulation defers to unspecified 'SAP security related policy documents' established by contract.",
    "tier": 3
   },
@@ -357,6 +554,23 @@
     "text": "DoDD 5205.07 (2010) Glossary; DoDM 5205.07-V1 Enclosure 2 para 2.c; 32 CFR 117.6(b)(3)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": "2010) Glossary",
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    },
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 2 para 2.c",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    },
+    {
+     "id": "cfr-32-117",
+     "locator": "6(b)(3",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "The carve-out is approvable only by the Secretary of Defense or the Deputy Secretary of Defense - no delegation to a service secretary, component head or SAPCO director is provided for in DoDD 5205.07 (2010), DoDI 5205.11 or DoDM 5205.07 Volume 1.",
    "tier": 1
   },
@@ -370,6 +584,13 @@
     "text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": null,
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "DoDM 5205.07 Vol 1 glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
    "tier": 1
   },
@@ -383,6 +604,13 @@
     "text": "https://www.gao.gov/products/gao-04-332",
     "url": "https://www.gao.gov/products/gao-04-332"
    },
+   "sourceRefs": [
+    {
+     "id": "gao-04-332",
+     "locator": null,
+     "title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+    }
+   ],
    "text": "Scope figure: DSS 'monitors whether 11,000-plus contractor facilities' security programs meet NISP requirements.' GAO found DSS could not demonstrate that its oversight reduced the risk of compromise and issued seven recommendations, including establishing results-oriented performance goals, identifying information needed to detect systemic vulnerabilities, regular trend analysis, time-based criteria for compromise determinations and notifications, and accountability mechanisms for identifying the government customer.",
    "tier": 1
   },
@@ -396,6 +624,13 @@
     "text": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-50-3091a",
+     "locator": null,
+     "title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+    }
+   ],
    "text": "NO WAIVER. 50 U.S.C. 3091a contains no subsection permitting the DNI or an IC element head to waive, defer, or narrow the briefing, notification, or reporting duties, and no reduction of the audience to chairs and ranking members. This is the structural opposite of 10 U.S.C. 119(e).",
    "tier": 1
   },
@@ -409,6 +644,13 @@
     "text": "https://www.gao.gov/products/gao-04-332",
     "url": "https://www.gao.gov/products/gao-04-332"
    },
+   "sourceRefs": [
+    {
+     "id": "gao-04-332",
+     "locator": null,
+     "title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+    }
+   ],
    "text": "Exact title and number: GAO-04-332, 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information', dated March 3, 2004. GAO states the study was conducted 'In response to a Senate report accompanying the National Defense Authorization Act for Fiscal Year 2004.'",
    "tier": 1
   },
@@ -422,6 +664,13 @@
     "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": null,
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "CONTRACTOR SPEECH RESTRICTION. The directive states that no DoD contractor entity 'will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval.' The Director, DoD SAPCO is designated the primary point of contact for congressional SAP matters and 'Maintains records of DoD SAP information provided to Congress.'",
    "tier": 1
   },
@@ -435,6 +684,13 @@
     "text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": null,
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "WHISTLEBLOWING IS ROUTED BACK INSIDE. Vol 1, Enclosure 4, para 3: 'Government and industry FWAC SAP reporting involving SAP information will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information. b. The PSO will provide the telephone number for the current FWAC hotline for reporting SAP information. FWAC reporting information will be conspicuously posted in the SAP workspace. c. Employees do not need management approval before making reports.' Fraud, waste, abuse and corruption inside a SAP may not be reported through the ordinary DoD IG hotline; it must go through a SAP-channel hotline whose number is issued by the program's own security officer.",
    "tier": 1
   },
@@ -448,6 +704,13 @@
     "text": "GAO/NSIAD-86-191, B-223830, 7 August 1986, signed Frank C. Conahan",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-86-191",
+     "locator": "B-223830, 7 August 1986, signed Frank C. Conahan",
+     "title": "GAO/NSIAD-86-191"
+    }
+   ],
    "text": "GAO told the Secretary of Defense that the Lockheed document-accountability failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed' -- establishing that DIS inspected Lockheed's non-special-access work while excluded from the special access contract at the same company.",
    "tier": 1
   },
@@ -461,6 +724,13 @@
     "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": null,
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 (12 Sep 2024) glossary defines it: 'carve out: A provision approved by the Secretary of Defense or Deputy Secretary of Defense that relieves DCSA of its National Industrial Security Program obligation.'",
    "tier": 1
   },
@@ -474,6 +744,13 @@
     "text": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.c",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 2, para 2.c",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "A carved-out contractor SAP is the smallest documented configuration in U.S. law in which classified material can be physically held by a private company with no inspection by any official outside the program, no external accreditation of the computers holding the program's data, and no independent counterintelligence reporting line. Reasoning: enumeration of the three functions expressly suspended by DoDM 5205.07-V1 Enclosure 2 para 2.c.",
    "tier": 3
   },
@@ -487,6 +764,13 @@
     "text": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": null,
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "The carve-out is therefore not a classification device but an INSPECTION device: it removes the one federal agency that would otherwise physically visit, inspect, and record a cleared contractor facility performing the classified work. Nothing else in Part 117 substitutes an alternative external inspector; oversight reverts inside the SAP's own chain.",
    "tier": 1
   },
@@ -500,6 +784,18 @@
     "text": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
     "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    },
+    {
+     "id": "cfr-32-117",
+     "locator": null,
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "The carve-out's authority runs to exactly two officials. 32 CFR 117.6(b)(3) conditions it on approval by 'the Secretary of Defense or the Deputy Secretary of Defense', and on no one else.",
    "tier": 1
   },
@@ -513,6 +809,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "GAO states the exclusion as a standing policy decision: 'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
    "tier": 1
   },
@@ -526,6 +829,7 @@
     "text": "AARO Historical Record Report Volume I, p. 34",
     "url": null
    },
+   "sourceRefs": [],
    "text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
    "tier": 1
   },
@@ -539,6 +843,13 @@
     "text": "DoDM 5205.07 Volume 1, Enclosure 10, para 5",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 10, para 5",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "DoDM 5205.07-V1 Enclosure 10 provides that 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
    "tier": 1
   },
@@ -552,6 +863,13 @@
     "text": "DoDI 5205.11, Appendix 1 to Enclosure 6, Figure 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Appendix 1 to Enclosure 6, Figure 2",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 Enclosure 6 PSAP timeline: 'NLT P+180 - DepSecDef decision. Congressional notification or PSAP termination as appropriate. NLT P+210 - End of 30-day period without Congressional decision.'",
    "tier": 1
   },
@@ -565,6 +883,13 @@
     "text": "32 CFR 117.6(b)(3)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": "6(b)(3",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "32 CFR 117.6(b)(3): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, \"DoD SAP Policy\".'",
    "tier": 1
   },
@@ -578,6 +903,13 @@
     "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": null,
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "MAJOR CHANGE, 2024. DoDI 5205.11 para 1.2.i.: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.' The 2024 policy therefore schedules a blanket, enterprise-wide withdrawal of DCSA from DoD SAP industrial security by July 2029, rather than a case-by-case carve-out.",
    "tier": 1
   },
@@ -591,6 +923,13 @@
     "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "pl-118-159",
+     "locator": null,
+     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+    }
+   ],
    "text": "THE TWO EXITS. Sec. 6603 adds subparagraph (B), verbatim: 'Exception.--The head of an element of the intelligence community may make a transfer described in subparagraph (A) without prior congressional notification if the head determines that doing so-- (i) is required to mitigate an urgent counterintelligence issue; or (ii) is necessary to maintain access in the event of an organizational restructuring.' Neither exception carries a deadline for after-the-fact notice, a reporting requirement, or a time limit.",
    "tier": 1
   },
@@ -604,6 +943,13 @@
     "text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": null,
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "Recovered in full from Internet Archive captures of esd.whs.mil: the 18 Jun 2015 / Change 1 (12 Feb 2018) text at web.archive.org/web/20191018064106/, and the Change 2 (effective 30 Sep 2020) text at web.archive.org/web/20201018165753/ under the filename 520507_vol01.pdf. Both are 49-page unclassified PDFs cleared for public release. The 520507_vol1.pdf and 520507_vol01.pdf paths now return 404 on the live esd.whs.mil site.",
    "tier": 1
   },
@@ -617,6 +963,13 @@
     "text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": null,
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "THE CARVE-OUT REQUEST PATH. Enclosure 2, para 7: 'A CA may seek DepSecDef approval to relieve the Defense Security Service (DSS) of its SAP security oversight role and use DoD Component procedures instead for oversight, security review, and SAP automated information system (IS) accreditation for designated SAPs. DoD Component-designated procedures shall, at a minimum, meet the standards and frequency authorized by DoD 5220.22-M.' The requesting party is the cognizant authority for the program itself -- i.e. the program asks to be relieved of its own external inspector, and the Deputy Secretary decides.",
    "tier": 1
   },
@@ -630,6 +983,13 @@
     "text": "DoD Directive 5205.07, 12 September 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": "12 September 2024",
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "DoDD 5205.07 (12 September 2024) establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general officer, flag officer or SES member reporting directly to DEPSECDEF.",
    "tier": 1
   },
@@ -643,6 +1003,13 @@
     "text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": null,
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "DoDM 5205.07 Vol 1, Enclosure 2, para 2.b (then DSS, now DCSA): 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.' Facility clearance issuance is NOT carved out -- only inspection, IS authorization and CI cross-sharing are. A carved-out SAP contractor site still has a DCSA-issued FCL and therefore still exists in DCSA's facility records.",
    "tier": 1
   },
@@ -656,6 +1023,13 @@
     "text": "DoDD 5205.07 (2024), Director DoD SAPCO responsibilities",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": "2024), Director DoD SAPCO responsibilities",
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "DoDD 5205.07 (2024) makes the Director, DoD SAPCO Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary of Defense.",
    "tier": 1
   },
@@ -669,6 +1043,13 @@
     "text": "DoDI 5205.11, Enclosure 2, para 2.k",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Enclosure 2, para 2.k",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions', which means a list of carved-out facilities exists as an agency record.",
    "tier": 1
   },
@@ -682,6 +1063,13 @@
     "text": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": null,
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "32 CFR 117.6(b): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services', and 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD' -- followed immediately by the carve-out sentence relieving the Director of that function for DoD SAPs on SecDef/DepSecDef approval.",
    "tier": 1
   },
@@ -695,6 +1083,13 @@
     "text": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.c",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 2, para 2.c",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "DoDM 5205.07-V1 Enclosure 2 para 2.c: 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.'",
    "tier": 1
   },
@@ -708,6 +1103,7 @@
     "text": "George Knapp, sworn testimony, 9 September 2025",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Asked to name corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do.'",
    "tier": 2
   },
@@ -721,6 +1117,7 @@
     "text": "AARO, Historical Record Report Volume I, March 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
    "tier": 1
   },
@@ -734,6 +1131,13 @@
     "text": "DoDI 5205.11, Appendix 1 to Enclosure 6",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Appendix 1 to Enclosure 6",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 PSAP timeline: 'NLT P+14 - SSWG reviews PSAP - Programmatic deconfliction - Validation - Written recommendation.'",
    "tier": 1
   },
@@ -747,6 +1151,13 @@
     "text": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-119hhrg61718",
+     "locator": "9 September 2025",
+     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+    }
+   ],
    "text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
    "tier": 2
   },
@@ -760,6 +1171,13 @@
     "text": "DoDM 5205.07 Volume 1, Enclosure 4, para 3.a",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 4, para 3.a",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "DoDM 5205.07-V1 requires that fraud, waste, abuse and corruption reporting involving SAP information 'be accomplished through SAP channels' and that 'Collateral FWAC reporting channels must not be used for SAP information.'",
    "tier": 1
   },
@@ -773,6 +1191,13 @@
     "text": "GAO-04-332, footnote 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-04-332",
+     "locator": "footnote 2",
+     "title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+    }
+   ],
    "text": "GAO-04-332 footnote 2: 'As agreed with committee staff, our review was limited to DSS's oversight of contractor facilities' protection of Confidential, Secret, and Top Secret information as defined in Executive Order no. 12958, as amended, and did not include DSS's oversight of special access programs at contractor facilities.'",
    "tier": 1
   },
@@ -786,6 +1211,13 @@
     "text": "32 CFR 117.3(b)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": "3(b",
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "32 CFR 117.3(b): 'SAP means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information. A SAP can be created or continued only as authorized by a senior agency official delegated such authority pursuant to E.O. 13526.'",
    "tier": 1
   },
@@ -799,6 +1231,13 @@
     "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": null,
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "WHAT MAKES A PROGRAM WAIVED, in DoD's own words. Para 1.2.f.: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' The waiver therefore attaches only to programs that are ALREADY unacknowledged; waived is a subset of unacknowledged, not a parallel category.",
    "tier": 1
   },
@@ -812,6 +1251,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "The unaccounted-for total is 11, not 17 or 46: 'Lockheed's reported results --which we have not yet had the opportunity to verify-- are that 224 documents were later accounted for, and 11 were unresolved ... Lockheed says 7 of the 11 unresolved documents were inadvertently destroyed and it could not locate the other 4.' The 46 destroyed and the 17 transferred out of the company are dispositions within the 224 accounted for.",
    "tier": 1
   },
@@ -825,6 +1271,13 @@
     "text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": null,
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "GLOSSARY, verbatim: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program obligation to perform industrial security oversight functions for a DoD SAP.' And 'acquisition SAP. A SAP established to protect sensitive research, development, testing and evaluation, modification, and procurement activities.'",
    "tier": 1
   },
@@ -838,6 +1291,13 @@
     "text": "https://www.gao.gov/products/gao-04-332",
     "url": "https://www.gao.gov/products/gao-04-332"
    },
+   "sourceRefs": [
+    {
+     "id": "gao-04-332",
+     "locator": null,
+     "title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+    }
+   ],
    "text": "GAO-04-332 audited the very oversight function that the carve-out provision switches off. Its finding that DSS could not assure adequate oversight of the 11,000+ facilities it DID inspect is a floor, not a ceiling, for facilities where a SecDef/DepSecDef carve-out had removed DSS entirely -- those sites are outside the population GAO could even sample. Reasoning stated. GAO's own SAP access is separately gated by DoDI 5205.11 para 7.2.g.",
    "tier": 3
   },
@@ -851,6 +1311,13 @@
     "text": "Inference from AARO Historical Record Report Volume I, p. 34 read against DoDD 5205.07 responsibilities",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodd-5205-07",
+     "locator": "responsibilities",
+     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
    "text": "AARO's assurance of 'full access to all pertinent sensitive USG programs' is unfalsifiable as written, because the determination of which programs are 'pertinent' was made by the same SAPCO enterprise that would be the custodian of any concealed program. Reasoning: the reviewer's scope was set by the reviewed.",
    "tier": 3
   },
@@ -864,6 +1331,13 @@
     "text": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
    },
+   "sourceRefs": [
+    {
+     "id": "cfr-32-117",
+     "locator": null,
+     "title": "32 CFR Part 117 - NISPOM Rule"
+    }
+   ],
    "text": "32 CFR 117.6(b) cites, as the controlling authority for the carve-out, the pre-2024 version of DoDD 5205.07 at the URL https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf?ver=2020-02-04-142942-827 — i.e. the 1 July 2010 directive as amended. The regulation has not been updated to cite the 12 September 2024 reissuance.",
    "tier": 1
   },
@@ -877,6 +1351,13 @@
     "text": "DoDM 5205.07 Volume 1, Enclosure 4 para 3",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodm-5205-07-v1",
+     "locator": "Enclosure 4 para 3",
+     "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+    }
+   ],
    "text": "The FWAC rule is the structural reason an insider allegation about a SAP cannot travel through ordinary DoD hotline channels: the manual directs it back into the same compartment it concerns. Reasoning: SAP-channel-only reporting routes the complaint to officials inside the program.",
    "tier": 3
   },
@@ -890,6 +1371,13 @@
     "text": "DoDI 5205.11, Enclosure 6, para 5.a(8)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Enclosure 6, para 5.a(8",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 Enclosure 6 lists 'Proposals to relieve DSS of NISP security oversight responsibilities (carve-out) when required' among the actions that must be coordinated through the DoD SAPCO to the Deputy Secretary of Defense for decision.",
    "tier": 1
   },
@@ -903,6 +1391,13 @@
     "text": "DoDI 5205.11, Appendix 3 to Enclosure 6, Figure 4",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "dodi-5205-11",
+     "locator": "Appendix 3 to Enclosure 6, Figure 4",
+     "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    }
+   ],
    "text": "DoDI 5205.11 sample action memo recommendation: 'That you approve GTE as an unacknowledged SAP and authorize carve-out status and the mandatory administration of CI polygraphs, and that you sign the notification letters to Congress (TAB C) identifying GREEN TREE as a new SAP.'",
    "tier": 1
   },
@@ -916,6 +1411,13 @@
     "text": "GAO-04-332 footnote 2; search of the govinfo GAOREPORTS collection, 12 August 2026",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-04-332",
+     "locator": "footnote 2",
+     "title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+    }
+   ],
    "text": "The only published GAO audit of DoD's industrial security oversight of contractors carved special access programs out of its own scope by agreement with the requesting committee - meaning no public audit exists of the inspection regime for contractor SAPs, carved out or not. Reasoning: GAO-04-332 footnote 2 states the exclusion, and no later GAO product in the govinfo GAOREPORTS collection covers contractor SAP oversight.",
    "tier": 3
   },
@@ -929,6 +1431,13 @@
     "text": "https://www.law.cornell.edu/uscode/text/50/3161",
     "url": "https://www.law.cornell.edu/uscode/text/50/3161"
    },
+   "sourceRefs": [
+    {
+     "id": "u-law-cornell-edu-02f8e31f",
+     "locator": null,
+     "title": "Executive Order 12829, National Industrial Security Program, 6 Jan 1993, 58 FR 3479 — reproduced in the notes to 50 U.S.C. 3161 (Cornell LII)"
+    }
+   ],
    "text": "Citation and date, verbatim from the notes to 50 U.S.C. 3161: 'Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479.' Section 101: 'There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees.'",
    "tier": 1
   },
@@ -942,6 +1451,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "The testimony closes: 'In summary, it appears inconsistent to us to establish a special access program because of security considerations and then afford it less document protection than normal classified programs.'",
    "tier": 1
   },
@@ -955,6 +1471,13 @@
     "text": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
     "url": "https://sgp.fas.org/library/jsc/chap2.html"
    },
+   "sourceRefs": [
+    {
+     "id": "u-sgp-fas-org-ab6aec41",
+     "locator": null,
+     "title": "Joint Security Commission, Redefining Security, chapter 2, Classification Management"
+    }
+   ],
    "text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
    "tier": 1
   },

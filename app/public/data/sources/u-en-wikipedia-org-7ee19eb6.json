@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "shag-harbour-1967",
+"label": "Shag Harbour incident, 4 October 1967"
+},
+"b": {
+"cls": "event",
+"id": "kecksburg-1965",
+"label": "Kecksburg incident, 9 December 1965"
+},
+"claimTier": 2,
+"id": "e-53e74e405a",
+"label": "Two documented official responses to undocumented objects, twenty-two months apart",
+"note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-7ee19eb6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "event",
+"id": "shag-harbour-1967",
+"label": "Shag Harbour incident, 4 October 1967"
+}
+],
+"node": null,
+"title": "Shag Harbour UFO incident - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
+]
+}

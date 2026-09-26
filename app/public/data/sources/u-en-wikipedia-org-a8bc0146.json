@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "travis-taylor",
+"label": "Travis S. Taylor"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 3,
+"id": "e-f6e9c83206",
+"label": "Led instrumented field investigation at Skinwalker Ranch while serving as UAPTF chief scientist",
+"note": "The same person applied near-identical sensing methodology inside the classified task force and on a television production at the property NIDS and BAASS had studied, with no public account of any relationship between the two efforts.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "travis-taylor",
+"label": "Travis S. Taylor"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 2,
+"id": "e-88db3d4838",
+"label": "Chief scientist of the UAP Task Force",
+"note": "Reported by Science magazine in June 2022. No government organisation chart naming him in the post has been released.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-a8bc0146",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "travis-taylor",
+"label": "Travis S. Taylor"
+}
+],
+"node": null,
+"title": "Wikipedia: Travis S. Taylor",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Travis_S._Taylor"
+]
+}

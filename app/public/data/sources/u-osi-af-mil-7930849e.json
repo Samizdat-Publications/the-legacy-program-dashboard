@@ -1,0 +1,50 @@
+{
+"archived": [
+"https://web.archive.org/web/20231209143734/https://www.osi.af.mil/About-Us/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-529e6b0262",
+"label": "Air Force felony investigative and counterintelligence field agency",
+"note": "AFOSI is the Air Force's independent investigative agency with units 'located at most Air Force bases worldwide', covering espionage, terrorism and counterintelligence.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-osi-af-mil-7930849e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Air Force",
+"listedOn": [
+{
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+{
+"cls": "domain",
+"id": "d-counterintel",
+"label": "Counterintelligence"
+}
+],
+"node": null,
+"title": "AFOSI - About Us",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.osi.af.mil/About-Us/"
+]
+}

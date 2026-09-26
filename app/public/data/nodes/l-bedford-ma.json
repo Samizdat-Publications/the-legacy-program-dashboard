@@ -7,8 +7,10 @@
 {
 "id": "c-c8990aac82",
 "source": "MITRE corporate materials and news releases",
+"sources": [],
 "text": "MITRE maintains dual headquarters in Bedford, Massachusetts and McLean, Virginia.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "location",

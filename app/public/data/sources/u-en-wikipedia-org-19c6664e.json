@@ -1,0 +1,167 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 3,
+"id": "e-37bfc04454",
+"label": "Both are demonstrations of decades-long concealment ending in bulk declassification",
+"note": "Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 2,
+"id": "e-09d4874e30",
+"label": "Puthoff was principal investigator and project director",
+"note": "Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 1,
+"id": "e-d0c3d3a987",
+"label": "Ran the SRI International half of the government's psychoenergetics effort",
+"note": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 2,
+"id": "e-826de2e94e",
+"label": "Clapper led the programme in the 1990s before becoming DNI",
+"note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 2,
+"id": "e-b2047540f4",
+"label": "Targ co-founded the SRI remote viewing research",
+"note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
+"type": "research"
+},
+{
+"a": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"b": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"claimTier": 3,
+"id": "e-46476d5d37",
+"label": "Green ran the CIA analytic side of the anomalous-phenomena portfolio",
+"note": "Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-e1ee756725",
+"label": "DIA held the programme from 1985 as SUN STREAK and STAR GATE",
+"note": "The effort moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was consolidated as STAR GATE in 1991.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 2,
+"id": "e-fb455270a6",
+"label": "SRI held the science half of the remote viewing effort from 1972",
+"note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-19c6664e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-sri",
+"label": "SRI International, Menlo Park, California"
+},
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "Wikipedia - Stargate Project (U.S. Army unit)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+]
+}

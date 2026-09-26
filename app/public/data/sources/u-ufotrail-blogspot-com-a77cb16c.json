@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [],
+"date": "2022-03",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 1,
+"id": "e-17a82ee80b",
+"label": "funded field investigation of the Utah site",
+"note": "AARO confirms the investigation; DIA says it cannot locate the resulting 'Utah Ranch Investigation: August 2009-February 2010' report.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"claimTier": 2,
+"id": "e-e508b3d69c",
+"label": "withheld the contract for eleven years",
+"note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"claimTier": 1,
+"id": "e-30863a5c46",
+"label": "no records located for the documents the book describes",
+"note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"type": "denial"
+}
+],
+"era": "3",
+"id": "u-ufotrail-blogspot-com-a77cb16c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufotrail.blogspot.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "baass-ten-month-report",
+"label": "BAASS Ten Month Report (2009)"
+},
+{
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "The UFO Trail",
+"topics": [],
+"type": "article",
+"urls": [
+"https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+]
+}

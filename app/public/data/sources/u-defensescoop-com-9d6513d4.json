@@ -1,0 +1,317 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2f80fa9bc2",
+"locator": null,
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3b19ba2ca8",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen in October 2024; the object appeared impacted but not destroyed.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-9b150c1f96",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Nuccetelli described 2003-2005 incursions near Vandenberg AFB during NRO launches, objects 'like flying buildings' that 'pulsed and moved in strange ways,' each 'witnessed by multiple personnel, documented, investigated and reported up the chain.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-e95ff1d79b",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Rep. Eric Burlison unveiled video for the first time depicting a US military MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9227fd28a3",
+"locator": null,
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Described multiple alleged UAP incursions at Vandenberg AFB in 2003-2005 during National Reconnaissance Office launches, objects 'like flying buildings' that 'pulsed and moved in strange ways.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-cb671da69a",
+"locator": null,
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f8e494224c",
+"locator": null,
+"node": "joe-spielberger",
+"nodeLabel": "Joe Spielberger",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Called for strengthened disclosure channels and whistleblower protections for UAP witnesses.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-98572ef451",
+"locator": null,
+"node": "mq9-yemen-hellfire-video-2024",
+"nodeLabel": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
+"sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Rep. Burlison unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
+"tier": 2
+}
+],
+"date": "2025-09-09",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+"claimTier": 3,
+"id": "e-d04be1fac9",
+"label": "AARO's only unresolved maritime case parallels the transmedium account an active-duty sailor gave Congress instead of AARO",
+"note": "Wiggins described a multi-radar transmedium contact from USS Jackson to a House task force in September 2025; AARO's FY2025 report carries one unresolved maritime event and does not indicate whether the USS Jackson account is in its holdings.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-4c4f9bed66",
+"label": "sworn witness",
+"note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-aeedb1f378",
+"label": "sworn witness",
+"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 2,
+"id": "e-4c38f9f904",
+"label": "Unveiled the alleged Hellfire-versus-orb footage",
+"note": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 2,
+"id": "e-a414af0719",
+"label": "presented unreleased footage of a drone Hellfire engagement with an orb off Yemen, October 2024",
+"note": "A sitting member introducing military engagement footage that AARO had not published is a direct measure of the office's disclosure posture.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "event",
+"id": "mq9-yemen-hellfire-video-2024",
+"label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)"
+},
+"claimTier": 2,
+"id": "e-8d96634d77",
+"label": "first public showing",
+"note": "Burlison played the MQ-9 Hellfire-versus-orb video at the 9 September 2025 hearing; the Department has not confirmed its provenance.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-250dd141f8",
+"label": "Witnesses testified AARO holds unreleased UAP video",
+"note": "The testimony that AARO possesses additional video records is the specific factual basis for Luna's April 2026 letter and, through it, for the video composition of the PURSUE tranches.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-e399ff9ed0",
+"label": "sworn witness",
+"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "mq9-yemen-hellfire-video-2024",
+"label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)"
+},
+"b": {
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"claimTier": 3,
+"id": "e-5f87e46c8a",
+"label": "two documented US weapons engagements of unidentified objects",
+"note": "Yemen October 2024 (MQ-9, Hellfire) and the Gulf of Oman September 2021 (AC-130J, cannon fire, objects reportedly reacting) establish a pattern of engagement absent from every AARO annual report.",
+"type": "research"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-9d6513d4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+{
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+{
+"cls": "person",
+"id": "joe-spielberger",
+"label": "Joe Spielberger"
+},
+{
+"cls": "event",
+"id": "mq9-yemen-hellfire-video-2024",
+"label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)"
+}
+],
+"node": null,
+"title": "DefenseScoop: Military whistleblowers share new evidence of alleged UAP at transparency hearing",
+"topics": [
+{
+"claims": [
+"c-98572ef451"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+},
+{
+"claims": [
+"c-9b150c1f96"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+},
+{
+"claims": [
+"c-9227fd28a3"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+]
+}

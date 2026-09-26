@@ -7,32 +7,72 @@
 {
 "id": "c-89f93fe8f3",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": null,
+"title": "Public Law 119-75"
+}
+],
 "text": "Section 8006(a), DoD Appropriations Act 2026: the tables in the classified annex accompanying the Act are 'hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3baa1c7e77",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 4001(d), NDAA FY2026: 'Applicability to Classified Annex.--This section applies to any classified annex that accompanies this Act', where section 4001(a) authorises obligation and expenditure of any dollar amount specified in a funding table.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d4cd688150",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": null,
+"title": "Public Law 119-75"
+}
+],
 "text": "Section 8059, DoD Appropriations Act 2026, directs a continuing classified quarterly report to the Appropriations Defense subcommittees 'on certain matters as directed in the classified annex accompanying this Act.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-47106ac947",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 5 of the NDAA FY2026 gives the joint explanatory statement printed in the Congressional Record on or about 10 December 2025 the same effect as a conference committee joint explanatory statement.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-99c39116d0",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": null,
+"title": "Public Law 119-75"
+}
+],
 "text": "The classified annex is the single mechanism by which an activity can be simultaneously funded by law and absent from every public document, because the statutory text incorporates it by reference without reproducing it. Reasoning: section 8006(a) equates the annex tables to statutory text; no publication requirement attaches to the annex; therefore an appropriation with full legal force exists that has no public expression at any level of detail.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

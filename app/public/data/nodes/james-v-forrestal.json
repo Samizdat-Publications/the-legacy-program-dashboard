@@ -10,32 +10,76 @@
 {
 "id": "c-dd8c9bc261",
 "source": "National Security Act of 1947, Chapter 343, approved 26 July 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-495",
+"locator": "sec. 202(a",
+"title": "61 Stat. 495"
+},
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "61 Stat. 495"
+}
+],
 "text": "The office he held first was created by statute, and its holder must be a civilian: 'There shall be a Secretary of Defense, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate: Provided, That a person who has within ten years been on active duty as a commissioned officer in a Regular component of the armed services shall not be eligible for appointment as Secretary of Defense.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bb974d22b7",
 "source": "National Security Act of 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-495",
+"locator": "sec. 202(a",
+"title": "61 Stat. 495"
+},
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "61 Stat. 495"
+}
+],
 "text": "The same section makes the office the President's principal national-security assistant, with duties to 'Establish general policies and programs for the National Military Establishment and for all of the departments and agencies therein' and to 'Exercise general direction, authority, and control over such departments and agencies'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-45f992c5de",
 "source": "Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"sources": [
+{
+"id": "u-history-state-gov-9fe3c324",
+"locator": null,
+"title": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons"
+}
+],
 "text": "His tenure is dated to the day in the Department of State's own editorial apparatus: 'Forrestal, James V., Secretary of the Navy until September 1947; Secretary of Defense, September 17, 1947-March 28, 1949.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c26feaec5b",
 "source": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 20, 3 January 2025, 0:12:27; National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+"sources": [
+{
+"id": "stat-61-495",
+"locator": "sec. 202(a",
+"title": "61 Stat. 495"
+}
+],
 "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 20, 3 January 2025, at 0:12:27, Ramsay read aloud from John Lear's 1987 statement that 'several committed suicide, the most prominent of which was General James V. Forestall who jumped to his death from a 16th story hospital window. General Forestall's medical records are sealed to this day.' The document's rank is wrong: the statute creating the office he held requires a civilian appointee and bars any commissioned officer on active duty within the previous ten years.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-41b4d3461b",
 "source": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025, 1:26:37",
+"sources": [],
 "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 32, 4 April 2025, at 1:26:37, Jesse Michels said, prefacing it with 'I don't know if this is right', that Forrestal was hearing 'a description of like mutilated, like human and alien bodies together' from 'the head of the Air Force' and 'was checked into this, you know, Navy hospital in Bethesda, Maryland ... very soon after'. He names no document and no date, and nothing supporting it was opened.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

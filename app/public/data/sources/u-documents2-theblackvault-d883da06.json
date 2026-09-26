@@ -1,0 +1,88 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-2a32edef24",
+"locator": null,
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Report to the President by the Commission on CIA Activities within the United States, June 1975, chapter 16, pp. 227-228, https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf",
+"text": "The Rockefeller Commission's June 1975 report disclosed the death without naming him: 'on one occasion during the early phases of this program (in 1953), LSD was administered to an employee of the Department of the Army without his knowledge ... Several days later, he jumped from a tenth floor window of his room and died as a result.' Its footnote to that passage reads: 'There are indications in the few remaining Agency records that this individual may have had a history of emotional instability.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-2ea2864dec",
+"locator": null,
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Report to the President by the Commission on CIA Activities within the United States, June 1975, p. 227, https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf",
+"text": "The same report records the ruling that produced death benefits and the discipline that followed: 'The General Counsel ruled that the death resulted from \"circumstances arising out of an experiment undertaken in the course of his official duties for the United States Government,\" thus ensuring his survivors of receiving certain death benefits. Reprimands were issued by the Director of Central Intelligence to two CIA employees responsible for the incident.' The 2012 complaint states the opposite on the second point, that the internal investigation issued no formal reprimands.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+},
+"b": {
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+"claimTier": 1,
+"id": "e-933a57c3d3",
+"label": "The Rockefeller Commission anonymised him and footnoted his stability",
+"note": "The published report calls him only an employee of the Department of the Army and attaches a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-d883da06",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+}
+],
+"node": null,
+"title": "Rockefeller Commission report, June 1975, p. 227",
+"topics": [
+{
+"claims": [
+"c-2a32edef24",
+"c-2ea2864dec"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-2a32edef24",
+"c-2ea2864dec"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-2a32edef24"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
+]
+}

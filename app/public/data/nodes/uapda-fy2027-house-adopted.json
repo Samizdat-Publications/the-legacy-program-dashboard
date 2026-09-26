@@ -7,56 +7,98 @@
 {
 "id": "c-25173f6b32",
 "source": "NewsTalk KZRG, 23 July 2026",
+"sources": [],
 "text": "The House adopted the amendment on 23 July 2026 as part of the FY2027 NDAA; it awaits Senate consideration.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-932dfc7ce8",
 "source": "NewsTalk KZRG, 23 July 2026",
+"sources": [],
 "text": "The amendment requires agencies to identify, preserve and transfer covered UAP records to a permanent National Archives collection under a statutory timeline.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b64c2d1b36",
 "source": "NewsTalk KZRG, 23 July 2026",
+"sources": [],
 "text": "It creates a UAP Records Review Board with Senate-confirmed members and subpoena authority over records and testimony, and extends disclosure requirements to government contractors holding covered records.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d79aad21c0",
 "source": "Inference from the amendment's contractor provision against the September 2025 House Oversight finding on UAP spending outside FOIA reach and Volume I's reliance on voluntary corporate denials",
+"sources": [],
 "text": "The contractor-reach provision is the single most consequential clause in the 2026 record, because every custody allegation on this board concerns material alleged to sit with private entities beyond FOIA and beyond AARO's demonstrated willingness to inspect.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-7b195c0a7b",
 "source": "Internal: reconciliation of uapda-fy2027-house-adopted and burlison-uapda-fy2027-ndaa-amendment on collapse, 22 August 2026",
+"sources": [],
 "text": "The two nodes carried for this amendment before the 22 August 2026 collapse disagreed on its adoption date: one gave 'Adopted by the House 23 July 2026', the other 'Adopted by the House 22-23 July 2026'. The range is retained as the wider and safer statement; the disagreement is recorded rather than resolved silently.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4d7e7dee71",
 "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"sources": [
+{
+"id": "u-burlison-house-gov-5a951086",
+"locator": null,
+"title": "Burlison, House Adopts UAP Disclosure Framework"
+}
+],
 "text": "The House adopted the Burlison amendment on 22 July 2026 as an amendment to the FY2027 NDAA, establishing a permanent UAP Records Collection at the National Archives, an independent Senate-confirmed UAP Records Review Board with subpoena authority, statutory agency transfer timelines, and disclosure requirements extending to covered government contractors.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-814037e0a2",
 "source": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/",
+"sources": [
+{
+"id": "u-newstalkkzrg-com-4fd1da4b",
+"locator": null,
+"title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure"
+}
+],
 "text": "This was the first year Burlison's UAP disclosure amendment advanced to a House floor vote; a similar proposal failed to advance in the previous year's defence bill cycle. The measure now goes to the Senate.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-cb0e3d354d",
 "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"sources": [
+{
+"id": "u-burlison-house-gov-5a951086",
+"locator": null,
+"title": "Burlison, House Adopts UAP Disclosure Framework"
+}
+],
 "text": "Burlison's release states the amendment supports President Trump's Presidential Unsealing and Reporting System for UAP Encounters (PURSUE).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-99fa778dbb",
 "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"sources": [
+{
+"id": "u-burlison-house-gov-5a951086",
+"locator": null,
+"title": "Burlison, House Adopts UAP Disclosure Framework"
+}
+],
 "text": "Burlison: 'The government belongs to the American people. For too long, UAP records have remained scattered across agencies and outside meaningful oversight...'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "legislation",

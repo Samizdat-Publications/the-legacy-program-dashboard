@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-1133b1c4bd",
+"label": "executive agent for AAWSAP",
+"note": "DIA's Defense Warning Office housed the program office and its Virginia Contracting Activity issued the solicitation and award.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 2,
+"id": "e-5cc5316eb0",
+"label": "Wayne State clinician authored the AAWSAP human-effects reference document",
+"note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-da7a6916",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+}
+],
+"node": null,
+"title": "The Black Vault — AAWSAP Documentation archive",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/"
+]
+}

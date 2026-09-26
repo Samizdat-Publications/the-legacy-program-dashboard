@@ -7,14 +7,29 @@
 {
 "id": "c-7458d0c721",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [],
 "text": "USAspending records approximately $135 billion in prime contract obligations to Leidos-named recipient entities since FY2008.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2c69bb8229",
 "source": "Public Law 118-31, Sec. 1841 (44 U.S.C. 2107 note)",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1841 (44 U.S.C. 2107 note",
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+},
+{
+"id": "usc-44-2107",
+"locator": "note",
+"title": "44 U.S.C. 2107"
+}
+],
 "text": "The UAP Records Collection established by NDAA FY2024 Sec. 1841 consists of record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

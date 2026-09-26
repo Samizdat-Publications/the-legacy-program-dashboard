@@ -1,0 +1,141 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-287447c8d8",
+"locator": null,
+"node": "eo-11652",
+"nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sourceText": "EO 11652 sec. 5(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 5(A) creates the General Declassification Schedule. Top Secret downgrades to Secret after 2 full calendar years, to Confidential after 4, and is declassified after 10. Secret downgrades to Confidential after 2 and is declassified after 8. Confidential is declassified after 6.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-4258ba182e",
+"locator": null,
+"node": "eo-11652",
+"nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sourceText": "EO 11652 sec. 14, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 14, headed 'Revocation of Executive Order No. 10501', SUPERSEDES rather than revokes: it supersedes EO 10501 as amended by EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382, as of the effective date. The heading and the operative verb do not match, which matters to anyone tracing the chain.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-6699966445",
+"locator": null,
+"node": "eo-11652",
+"nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sourceText": "EO 11652 sec. 7(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 7(A) lodges monitoring in the National Security Council and establishes an Interagency Classification Review Committee of representatives of State, Defense, Justice, the Atomic Energy Commission, CIA and the NSC Staff, chaired by a presidential designee. Under 7(A)(2) it receives and acts on complaints 'from persons within or without the government.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-6ab9bfb8f7",
+"locator": null,
+"node": "eo-11652",
+"nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sourceText": "EO 11652 sec. 1(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 1(A), on Top Secret: 'This classification shall be used with the utmost restraint.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8af24c15fd",
+"locator": null,
+"node": "eo-11652",
+"nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sourceText": "EO 11652 sec. 5(E), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 5(E)(1) is a thirty-year rule: material classified after the effective date is automatically declassified at 30 full calendar years unless the head of the originating Department personally determines in writing that continued protection is essential. Section 5(E)(2) puts pre-existing material over 30 years old under systematic review by the Archivist of the United States.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f844ee821b",
+"locator": null,
+"node": "eo-11652",
+"nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sourceText": "EO 11652 full text, absence of any such statement, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "The common description of this order as the first major overhaul of classification since 1953 is a historians' framing and is not a claim the order makes. It is consistent with section 14, which supersedes EO 10501 and six amending orders, but the text does not say it.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "eo-11652",
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+"b": {
+"cls": "legislation",
+"id": "eo-10501",
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+},
+"claimTier": 1,
+"id": "e-554fd9e636",
+"label": "Supersedes the 1953 order and its six amendments",
+"note": "Section 14 is headed 'Revocation of Executive Order No. 10501' but operatively SUPERSEDES it, together with EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382. NARA's disposition table records the relationship as 'Revokes: EO 10501'; the order's own verb is supersedes.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "eo-11652",
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+"b": {
+"cls": "institution",
+"id": "national-security-council",
+"label": "National Security Council"
+},
+"claimTier": 1,
+"id": "e-d4fa337aaf",
+"label": "Lodges classification oversight in the Council",
+"note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-irp-fas-org-a806118d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "eo-11652",
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+}
+],
+"node": null,
+"title": "EO 11652 sec. 14",
+"topics": [
+{
+"claims": [
+"c-287447c8d8",
+"c-4258ba182e",
+"c-6699966445",
+"c-6ab9bfb8f7",
+"c-8af24c15fd",
+"c-f844ee821b"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-6699966445"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "web page",
+"urls": [
+"https://irp.fas.org/offdocs/eo/eo-11652.htm"
+]
+}

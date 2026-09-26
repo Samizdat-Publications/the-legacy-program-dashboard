@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-1631bb4c74",
+"locator": null,
+"node": "deep-submergence-systems-project",
+"nodeLabel": "Deep Submergence Systems Project (DSSP)",
+"sourceText": "The Ocean Engineering Program of the U.S. Navy, September 1967, DTIC AD-665974, https://archive.org/details/DTIC_AD0665974",
+"text": "Two real recoveries frame the programme in the Navy's own telling: the loss of USS Thresher in 1963, whose hull was located in 8,500 ft of water after the casualty 'focused national attention on Navy capabilities underwater', and the 1966 loss of an unarmed nuclear weapon off the Mediterranean coast, located on the sea floor by ALVIN and recovered by the unmanned vehicle CURV.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-c78fcc5791",
+"locator": null,
+"node": "deep-submergence-systems-project",
+"nodeLabel": "Deep Submergence Systems Project (DSSP)",
+"sourceText": "The Ocean Engineering Program of the U.S. Navy: Accomplishments and Prospects, Office of the Oceanographer of the Navy, September 1967, DTIC AD-665974, https://archive.org/details/DTIC_AD0665974",
+"text": "The Navy's own 1967 account gives the launch year and the organisational home: 'The Deep Submergence Systems Project (DSSP) was established as a separate Project within the Naval Material Command. The DSSP was launched in 1964 to develop and deliver to the fleet new underwater capabilities: a new rescue system, a large object salvage system, diver tools, the techniques of saturated diving for extended operations on the continental shelf, and new submersible vehicles capable of searching the ocean floors.' The same report describes a planned Deep Submergence Search Vehicle 'whose mission is ultimately to conduct sea floor search to a depth of 20,000 ft, providing coverage of 98 percent of the worlds oceans.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "dtic-ad0665974",
+"identifiers": [
+"DTIC AD0665974"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "program",
+"id": "deep-submergence-systems-project",
+"label": "Deep Submergence Systems Project (DSSP)"
+}
+],
+"node": null,
+"title": "DTIC AD0665974",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_AD0665974"
+]
+}

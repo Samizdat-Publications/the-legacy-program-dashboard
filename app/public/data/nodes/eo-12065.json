@@ -7,14 +7,40 @@
 {
 "id": "c-3a00eb08a9",
 "source": "EO 12065 sec. 3-303, https://irp.fas.org/offdocs/eo/eo-12065.htm",
+"sources": [
+{
+"id": "eo-12065",
+"locator": "sec. 3-303",
+"title": "Executive Order 12065 - National Security Information (28 June 1978)"
+},
+{
+"id": "u-irp-fas-org-4e52e07e",
+"locator": null,
+"title": "EO 12065 sec. 3-303"
+}
+],
 "text": "THE BALANCING TEST, IN THE ORDER'S OWN WORDS. Section 3-303 required an official to 'determine whether the public interest in disclosure outweighs the damage to national security'. No classification order since has carried it.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-14cf092585",
 "source": "EO 12065 sec. 6-203, https://irp.fas.org/offdocs/eo/eo-12065.htm",
+"sources": [
+{
+"id": "eo-12065",
+"locator": "sec. 6-203",
+"title": "Executive Order 12065 - National Security Information (28 June 1978)"
+},
+{
+"id": "u-irp-fas-org-4e52e07e",
+"locator": null,
+"title": "EO 12065 sec. 3-303"
+}
+],
 "text": "It is EO 12065, and not EO 12356, that revoked EO 11652: section 6-203 does so. The chain runs 10501 to 11652 to 12065 to 12356, and skipping 12065 is the most common way to get it wrong.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

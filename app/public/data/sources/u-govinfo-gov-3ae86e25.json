@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-724fa763e7",
+"locator": null,
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"sourceText": "Congressional Record, Senate, 8 May 1972, pp. 16126-16127, bound edition, https://www.govinfo.gov/content/pkg/GPO-CRECB-1972-pt13/pdf/GPO-CRECB-1972-pt13-3.pdf",
+"text": "The Senate confirmed him on 8 May 1972: the clerk 'read the nomination of Harald Bernard Malmgren, of the District of Columbia, to be a Deputy Special Representative for Trade Negotiations, with the rank of Ambassador', and the presiding officer stated 'Without objection, the nomination is considered and confirmed.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-govinfo-gov-3ae86e25",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+}
+],
+"node": null,
+"title": "Congressional Record, Senate, 8 May 1972, pp. 16126-16127 (bound edition, 1972 part 13)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GPO-CRECB-1972-pt13/pdf/GPO-CRECB-1972-pt13-3.pdf"
+]
+}

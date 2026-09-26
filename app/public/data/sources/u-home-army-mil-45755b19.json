@@ -1,0 +1,27 @@
+{
+"archived": [
+"https://web.archive.org/web/20260714170223/https://home.army.mil/meade/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-home-army-mil-45755b19",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Army",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-ft-meade",
+"label": "Fort George G. Meade, Maryland"
+}
+],
+"node": null,
+"title": "U.S. Army Fort Meade",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://home.army.mil/meade/"
+]
+}

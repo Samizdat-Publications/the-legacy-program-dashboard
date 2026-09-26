@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "harvard-cfa",
+"label": "Harvard-Smithsonian Center for Astrophysics"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 1,
+"id": "e-c115077a81",
+"label": "Host institution of the Galileo Project",
+"note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-galileo-hsites-harvard-e-5680d7fc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "galileo.hsites.harvard.edu",
+"listedOn": [],
+"node": null,
+"title": "https://galileo.hsites.harvard.edu/about",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://galileo.hsites.harvard.edu/about"
+]
+}

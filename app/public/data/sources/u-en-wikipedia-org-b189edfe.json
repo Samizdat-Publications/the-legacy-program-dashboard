@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-45abd002eb",
+"locator": null,
+"node": "wil-mccarthy",
+"nodeLabel": "Wil McCarthy",
+"sourceText": "https://en.wikipedia.org/wiki/Hacking_Matter",
+"text": "McCarthy popularised programmable matter under the coined name \"wellstone\" in his science fiction and in the non-fiction book Hacking Matter, before being commissioned to survey the field for DIA.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-b189edfe",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "wil-mccarthy",
+"label": "Wil McCarthy"
+}
+],
+"node": null,
+"title": "https://en.wikipedia.org/wiki/Hacking_Matter",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Hacking_Matter"
+]
+}

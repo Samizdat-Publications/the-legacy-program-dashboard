@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-1fc8f0ad",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "amir-siraj",
+"label": "Amir Siraj"
+}
+],
+"node": null,
+"title": "Siraj & Loeb, 'Localizing the First Interstellar Meteor with Seismometer Data', Signals",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.3390/signals4040035"
+]
+}

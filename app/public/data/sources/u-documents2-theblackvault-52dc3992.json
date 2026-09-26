@@ -1,0 +1,120 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-cc8cba5e7b",
+"locator": null,
+"node": "george-miley",
+"nodeLabel": "George H. Miley",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+"text": "The released DIRD bears document number DIA-08-1003-006, publication date 10 March 2010 and Intelligence Cut-Off Date 1 December 2009, in the 'Acquisition Threat Support' series; the author block is redacted under FOIA exemption (b)(5).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-aa425f9002",
+"locator": null,
+"node": "dird-inertial-electrostatic-confinement-fusion",
+"nodeLabel": "Inertial Electrostatic Confinement Fusion",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+"text": "The released cover page carries the date 10 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-006; the author field is redacted under (b)(5).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"claimTier": 1,
+"id": "e-60e682ebe3",
+"label": "commissioned under AAWSAP as a compact energy source study",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"b": {
+"cls": "person",
+"id": "george-miley",
+"label": "George H. Miley"
+},
+"claimTier": 1,
+"id": "e-5bc069a345",
+"label": "authored by George H. Miley, University of Illinois",
+"note": "Entry 1 on both the KLAS list of July 2018 and the DIA letter of 9 January 2018: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.' The released PDF's author block is redacted under (b)(5). Miley is co-author of the Springer monograph on IEC fusion, making him a documented subject-matter authority rather than a fringe recruit.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"b": {
+"cls": "domain",
+"id": "d-plasma",
+"label": "Plasma Physics & Atmospheric Electricity"
+},
+"claimTier": 1,
+"id": "e-5174a7ba01",
+"label": "subject domain: compact non-tokamak fusion power",
+"note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"claimTier": 1,
+"id": "e-7b3421c718",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 March 2010 on the cover. 73 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-52dc3992",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-miley",
+"label": "George H. Miley"
+},
+{
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+}
+],
+"node": null,
+"title": "Released DIRD, 'Inertial Electrostatic Confinement Fusion' — FOIA copy, cover page read 22 August 2026",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf"
+]
+}

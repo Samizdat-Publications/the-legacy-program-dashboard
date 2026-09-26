@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "ousdi-atl-memo-2010",
+"label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)"
+},
+"claimTier": 1,
+"id": "e-b20bd03bc8",
+"label": "proposes transitioning AATIP out of DIA",
+"note": "DIA tells USD(AT&L) the reports were of limited value to DIA but could merit other organisations and the project could move to a better-suited component.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "ousdi-atl-memo-2010",
+"label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 3,
+"id": "e-e3cc49bc6d",
+"label": "documents the handoff Elizondo describes",
+"note": "DIA proposed a transition in December 2010; Elizondo says he picked up the residual effort in OUSD(I) at that time. No charter has ever been released either way.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-b09f2cfc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "document",
+"id": "ousdi-atl-memo-2010",
+"label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+}
+],
+"node": null,
+"title": "DIA memo U-10-2552CE-IM-ATL",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+]
+}

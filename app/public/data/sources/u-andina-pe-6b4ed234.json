@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "peru-uap-office",
+"label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+},
+"b": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"claimTier": 2,
+"id": "e-5207280985",
+"label": "COMPARISON: a military-hosted office against a civil-aviation-hosted one, in the same region",
+"note": "COMPARISON EDGE — no joint work is claimed. Andina names Chile among the regional peers DIFAA's reopening brought Peru level with, and reports Peru's stated posture on cooperation as reserved: it considered itself able to analyse the phenomena independently and would appeal to exchange with neighbours only exceptionally, to compare data. Structurally the two are opposites: DIFAA sits inside the Fuerza Aérea del Perú under DINAE, while CEFAA/SEFAA sits inside Chile's civil aviation authority, the DGAC, and frames the subject as an aviation-safety matter. Tier 2 — the structural contrast is analytic, the Peruvian facts are Andina-sourced and the Chilean facts sit on the cefaa and dgac-chile nodes.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "peru-uap-office",
+"label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+},
+"b": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"claimTier": 1,
+"id": "e-16b621f8a6",
+"label": "COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil",
+"note": "COMPARISON EDGE — no institutional contact between the FAP and the FAB is claimed. Peru's state news agency Andina, reporting the reopening on 18 October 2013, closes: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office's identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years 'a causa de problemas administrativos'. The reopening was announced at an FAP-hosted 'Encuentro sobre Fenómenos Aéreos Anómalos' addressing the Nazca Lines question.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "peru-uap-office",
+"label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 2,
+"id": "e-a1e62ba125",
+"label": "COMPARISON: the military-host model against the space-agency-host model",
+"note": "COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: 'a country has an office' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA's founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-andina-pe-6b4ed234",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "andina.pe",
+"listedOn": [
+{
+"cls": "institution",
+"id": "peru-uap-office",
+"label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+}
+],
+"node": null,
+"title": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx"
+]
+}

@@ -7,8 +7,16 @@
 {
 "id": "c-78fdc92ae0",
 "source": "Congress.gov H.R. 1187 (119th); GPO BILLS-119hr1187ih",
+"sources": [
+{
+"id": "bills-119hr1187ih",
+"locator": null,
+"title": "BILLS-119hr1187ih"
+}
+],
 "text": "Introduced 11 February 2025 by Rep. Tim Burchett; cosponsors Jared Moskowitz and Anna Paulina Luna; referred to the House Committee on Oversight and Government Reform.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

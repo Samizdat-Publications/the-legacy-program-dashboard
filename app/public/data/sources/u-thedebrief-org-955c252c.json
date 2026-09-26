@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
+},
+"claimTier": 2,
+"id": "e-7f00597322",
+"label": "Publicly called the removal of the Review Board an outrage",
+"note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-955c252c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+}
+],
+"node": null,
+"title": "The Debrief — A Dramatic Dilution",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/"
+]
+}

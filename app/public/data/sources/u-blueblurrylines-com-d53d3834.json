@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": "2021-05",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-1b9efc13df",
+"label": "same appropriation, two designations",
+"note": "Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-dbad302a21",
+"label": "21 May 2021 partial reversal: contract 'allowed for research... including reports of UAPs'",
+"note": "Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-blueblurrylines-com-d53d3834",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "blueblurrylines.com",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "Blue Blurry Lines — The Pentagon's Updated Statement: AATIP Studied UAPs",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+]
+}

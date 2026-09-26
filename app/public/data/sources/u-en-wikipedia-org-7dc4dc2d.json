@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-7dc4dc2d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "barney-barnett",
+"label": "Grady L. 'Barney' Barnett"
+},
+{
+"cls": "event",
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+{
+"cls": "location",
+"id": "l-san-agustin",
+"label": "Plains of San Agustin, New Mexico"
+}
+],
+"node": null,
+"title": "Plains of San Agustin - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Plains_of_San_Agustin"
+]
+}

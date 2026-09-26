@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-d64818faab",
+"label": "Carried and explained the Immaculate Constellation report",
+"note": "NewsNation ran explainer and news coverage of the alleged unacknowledged special access program named in the whistleblower brief that Michael Shellenberger delivered to Congress in autumn 2024.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-newsnationnow-com-34878f26",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "https://www.newsnationnow.com/space/ufo/what-is-immaculate-constellation/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/ufo/what-is-immaculate-constellation/"
+]
+}

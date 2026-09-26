@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "howard-mccoy",
+"label": "Howard M. McCoy"
+},
+"b": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"claimTier": 2,
+"id": "e-2ac7244aad",
+"label": "McCoy ran AMC/T-2 intelligence, the exploitation node",
+"note": "As Chief of Intelligence at Air Materiel Command, McCoy headed the organisation that received and exploited recovered foreign materiel and that hosted Project SIGN. Any 1947 recovery would have been processed here.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "howard-mccoy",
+"label": "Howard M. McCoy"
+},
+"b": {
+"cls": "document",
+"id": "twining-memo",
+"label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+},
+"claimTier": 3,
+"id": "e-1d71fcfbf3",
+"label": "McCoy's shop produced the analysis Twining signed",
+"note": "The AMC intelligence organisation under McCoy did the staff work behind the 23 September 1947 assessment; McCoy signed related AMC correspondence to the Chief of Staff two months later.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-2f211b82",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "person",
+"id": "howard-mccoy",
+"label": "Howard M. McCoy"
+}
+],
+"node": null,
+"title": "AMC letter to Chief of Staff, 24 November 1947 (scan)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.nicap.org/docs/471124_McCoy_to_Chief_of_Staff.pdf"
+]
+}

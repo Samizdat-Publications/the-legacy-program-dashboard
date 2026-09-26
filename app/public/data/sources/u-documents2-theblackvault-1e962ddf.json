@@ -1,0 +1,193 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-159e4b2f06",
+"locator": null,
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "Its finding on the concept the popular literature most often reaches for, verbatim: 'A well-publicized Ajax concept of MHD energy bypass has been shown to be meaningless below at least Mach 12. In contrast, a new \"reverse energy bypass\" with Virtual Cowl is potentially practical for air-breathing hypersonic vehicles.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6a17635865",
+"locator": null,
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "ITS OWN SUMMARY, VERBATIM, and it is a document about hypersonic aerodynamics and nothing else: 'The paper reviews novel propulsion concepts utilizing plasmas (ionized gases) and magnetohydrodynamics (MHD). These concepts are shown to be attractive due to their potential to achieve propulsion and aerodynamic performance far beyond current conventional technologies. However, significant difficulties impede the development and application of these technologies; these include weight, complexity, higher power, and the need for complex and energy-consuming artificial ionization in \"cold\" air (at Mach <12).'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-721ad46235",
+"locator": null,
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "THE ZERO-COUNTS over the whole released 33-page PDF, taken 19 September 2026: UFO 0, unidentified 0, anti-gravity 0, antigravity 0, scalar 0, zero point 0, levitation 0. The word 'gravity' occurs once. Its chapter structure is concept overview, aeronautical applications, space applications, and summary and predictions, with figures on arcjet thrusters, gridded ion thrusters, Hall thrusters, scramjet inlet control by e-beam ionization, the Ajax vehicle concept, the virtual cowl and reentry drag reduction.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f0f9714334",
+"locator": null,
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+"text": "Cover page reads: '21 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-006 / Defense Intelligence Reference Document / Defense Futures / MHD Air Breathing Propulsion and Power for Aerospace Applications'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6f71241c93",
+"locator": null,
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"sourceText": "Reasoning over the released text of DIA-08-1011-006 against the opened text of US 3,322,374, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "Stated inference, and it is the strand's comparison. The board already records that this DIRD is attributed on the DIA list supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin'. A government agency paid a Lockheed Martin plasma physicist to survey magnetohydrodynamic propulsion under the same programme the lore invokes, and what he delivered concerns scramjet inlets, virtual cowls and reentry drag reduction. NOTHING JOINS THIS DOCUMENT TO US 3,322,374 and the edge between them records a similarity of subject only.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"claimTier": 1,
+"id": "e-dc9cc3b549",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-c7e57363d4",
+"label": "author's employer at time of writing (Skunk Works)",
+"note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"b": {
+"cls": "person",
+"id": "sergey-macheret",
+"label": "Sergey O. Macheret"
+},
+"claimTier": 1,
+"id": "e-3072445046",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"claimTier": 1,
+"id": "e-06a2247f75",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 21 November 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"b": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"claimTier": 3,
+"id": "e-e818fd4c1b",
+"label": "Same mechanism, two documents, forty-three years apart, neither exotic",
+"note": "STATED INFERENCE OF SIMILARITY AND NOTHING MORE. Nothing joins these two documents to each other: the DIRD does not cite the patent and the patent predates it by forty-three years. The edge exists so the strand's comparison is visible, and its note must be read before the line is: a private 1964 filing and a 2010 Lockheed Martin survey describe the same physics and neither contains the word antigravity.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "yamato-1",
+"label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)"
+},
+"b": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"claimTier": 3,
+"id": "e-93873f5cbd",
+"label": "The built vessel and the government survey describe the same physics",
+"note": "STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-1e962ddf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+{
+"cls": "person",
+"id": "sergey-macheret",
+"label": "Sergey O. Macheret"
+}
+],
+"node": null,
+"title": "Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released",
+"topics": [
+{
+"claims": [
+"c-159e4b2f06",
+"c-6a17635865"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+]
+}

@@ -1,0 +1,161 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-04e1b13cce",
+"locator": null,
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"sourceText": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"text": "The committee's membership in November 1994: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-7b93973ea5",
+"locator": null,
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"sourceText": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"text": "The annual review and the decision authority date from this change, not from the 2010 directive: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-801ce6aaeb",
+"locator": null,
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"sourceText": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
+"text": "The change and its date: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-4ae369480c",
+"locator": null,
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
+"text": "The committee was established on 5 January 1994, sixteen years before the directive this node cites. A Deputy Secretary of Defense information bulletin of November 1994 states: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-f7425cf07c",
+"locator": null,
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"text": "The 1994 membership was five principals and an executive secretary, not the roughly eighteen of the later instruction: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.' The node's argument about a large in-house validating body describes the later era, not this one.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-fad2398de8",
+"locator": null,
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"text": "The annual review and validation function this node attributes to the 2010 directive is in the 1994 bulletin: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 2,
+"id": "e-c0814acf71",
+"label": "The SAPCO staffed the committee from the start",
+"note": "The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO 'serves as the primary point of contact with Congress, the National Security Council, and other government agencies'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+"b": {
+"cls": "document",
+"id": "dodd-5205-07-2024",
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+},
+"claimTier": 2,
+"id": "e-f7e46d3eb7",
+"label": "The later directive re-established a body of the same name",
+"note": "The 1994 bulletin and the 1994 commission report both describe a SAPOC chaired by the Deputy Secretary of Defense with an annual validation function, which is the function the later directive and instruction assign.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+"b": {
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+"claimTier": 2,
+"id": "e-e24604d954",
+"label": "The committee the board dates to 2010 was running from January 1994",
+"note": "The November 1994 bulletin has the SAPOC chaired by the Deputy Secretary of Defense, reviewing and validating every SAP annually, sixteen years before the DoD Directive 5205.07 issuance the sapoc node cites as its establishment.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-sgp-fas-org-4c896d71",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+{
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+}
+],
+"node": null,
+"title": "SAPOC Information Bulletin, November 1994",
+"topics": [
+{
+"claims": [
+"c-04e1b13cce",
+"c-801ce6aaeb",
+"c-4ae369480c",
+"c-f7425cf07c"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+},
+{
+"claims": [
+"c-4ae369480c"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+}
+],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/othergov/sapoc.html"
+]
+}

@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-06a6b43e7f",
+"label": "Chile's civil-aviation UAP unit used as a model and proposed partner",
+"note": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-sefaa-dgac-gob-cl-c3fb0279",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DGAC Chile",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+}
+],
+"node": null,
+"title": "SEFAA - homepage",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sefaa.dgac.gob.cl/"
+]
+}

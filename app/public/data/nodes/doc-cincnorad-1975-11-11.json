@@ -7,20 +7,49 @@
 {
 "id": "c-68c6586b51",
 "source": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas', quoting the CINCNORAD message of 11 November 1975, http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-358db93b",
+"locator": null,
+"title": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026"
+}
+],
 "text": "The message's opening, as excerpted: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4342b3e42c",
 "source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026"
+}
+],
 "text": "The message also records a Malmstrom report the 24th NORAD Region log corroborates in kind: 'Malmstrom Montana report an object which sounded like a jet aircraft. FAA advised there were no jet aircraft in the vicinity.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-48c408e3da",
 "source": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Wurtsmith.htm , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-358db93b",
+"locator": null,
+"title": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026"
+},
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026"
+}
+],
 "text": "A NORAD press release of 13 November 1975 from Sudbury, Ontario records that two F-106 aircraft of the Air National Guard's 171st Fighter Interceptor Squadron at Selfridge ANGB, Michigan were scrambled in connection with the Falconbridge reports. Lt Col Brian Wooding, Control Centre Director at North Bay, and Capt. Gordon Hilchie, Director of Public Affairs for the 22nd NORAD Region, are named.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

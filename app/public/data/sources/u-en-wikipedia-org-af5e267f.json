@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 1,
+"id": "e-d880ef5a6a",
+"label": "Chaired the NASA UAP Independent Study Team",
+"note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-d57bd1b10a",
+"label": "Ran concurrently with, and separately from, AARO",
+"note": "Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 3,
+"id": "e-74432a42eb",
+"label": "Concluded data was insufficient - having been given only the unclassified record",
+"note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-af5e267f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+{
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+}
+],
+"node": null,
+"title": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+]
+}

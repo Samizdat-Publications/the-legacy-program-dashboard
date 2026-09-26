@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-armed-services-senate-go-417451b7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+{
+"cls": "event",
+"id": "hearing-2024-11-19",
+"label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office"
+}
+],
+"node": null,
+"title": "Senate Armed Services - hearing page (19 Nov 2024)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office"
+]
+}

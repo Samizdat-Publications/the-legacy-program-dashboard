@@ -7,56 +7,128 @@
 {
 "id": "c-20ca3b1390",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
+"sources": [
+{
+"id": "u-dia-mil-708e22c0",
+"locator": null,
+"title": "DIA FOIA Electronic Reading Room entry for this reference document"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Biosensors and BioMEMS: A Survey of the Present Field\", series \"Acquisition Threat Support\", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-020. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ce36d336ff",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
+"sources": [
+{
+"id": "u-dia-mil-708e22c0",
+"locator": null,
+"title": "DIA FOIA Electronic Reading Room entry for this reference document"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-129e751994",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
+"sources": [
+{
+"id": "u-dia-mil-708e22c0",
+"locator": null,
+"title": "DIA FOIA Electronic Reading Room entry for this reference document"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dc9489269f",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
+"sources": [
+{
+"id": "u-dia-mil-708e22c0",
+"locator": null,
+"title": "DIA FOIA Electronic Reading Room entry for this reference document"
+}
+],
 "text": "Released PDF is 45 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2c6cc7be72",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "Entry 6 on the DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0f57a62be6",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-9de7cf31",
+"locator": null,
+"title": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026"
+}
+],
 "text": "The released cover page carries the date 31 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-020; the author field is redacted under FOIA exemption (b)(5) and 'Prepared by' is redacted under 10 U.S.C. 424.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a3e27369e2",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-9de7cf31",
+"locator": null,
+"title": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026"
+}
+],
 "text": "The administrative note states the product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d24c394267",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-9de7cf31",
+"locator": null,
+"title": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026"
+}
+],
 "text": "Contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and therapeutic neurostimulation - the human-effects and human-interface leg of the AAWSAP survey.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0a181f8c75",
 "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-uap-blog-com-643b7f92",
+"locator": null,
+"title": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+}
+],
 "text": "The document was released as item 20 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022 in response to John Greenewald's 31 January 2018 request; DIA located 37 documents totalling 1,473 pages.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

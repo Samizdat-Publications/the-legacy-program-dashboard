@@ -10,14 +10,30 @@
 {
 "id": "c-97db05782b",
 "source": "https://www.appropriations.senate.gov/about/members",
+"sources": [
+{
+"id": "u-appropriations-senate-go-a2eabc59",
+"locator": null,
+"title": "https://www.appropriations.senate.gov/about/members"
+}
+],
 "text": "Patty Murray (D-WA) is listed as Vice Chair of the Senate Appropriations Committee on the committee's official members page, which is the ranking minority position on that committee.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-be95f060f4",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"sources": [
+{
+"id": "u-govinfo-gov-9630a066",
+"locator": null,
+"title": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+}
+],
 "text": "Murray was Chairman of the Senate Appropriations Committee in the 118th Congress.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

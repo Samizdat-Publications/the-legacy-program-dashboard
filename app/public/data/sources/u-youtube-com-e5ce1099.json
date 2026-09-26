@@ -1,0 +1,116 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "document",
+"id": "gerb-northrop-trw-investigation",
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+},
+"claimTier": 2,
+"id": "e-2049fb4b16",
+"label": "Gerb authored the Northrop/TRW breakaway analysis",
+"note": "Published 20 March 2026, following a Vol.1 Northrop investigation in 2025.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-northrop-trw-investigation",
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-9b167c0230",
+"label": "Built on Grusch's statements about Clapper and O'Sullivan",
+"note": "Gerb extrapolates from Grusch's remarks on Megyn Kelly and from Grusch's statement that James Clapper and Stephanie O'Sullivan managed the crash retrieval issue at ODNI.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-northrop-trw-investigation",
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+},
+"b": {
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+},
+"claimTier": 2,
+"id": "e-9b535997a6",
+"label": "Alleges IRAD self-funding of a breakaway programme after 9/11",
+"note": "The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-northrop-trw-investigation",
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+},
+"b": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"claimTier": 2,
+"id": "e-c7dcb21198",
+"label": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
+"note": "O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"claimTier": 3,
+"id": "e-cb955e3042",
+"label": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
+"note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-e5ce1099",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+{
+"cls": "document",
+"id": "gerb-northrop-trw-investigation",
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+}
+],
+"node": null,
+"title": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+]
+}

@@ -1,0 +1,119 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-d057980e1c",
+"locator": null,
+"node": "aaro-2025-workshop-white-paper",
+"nodeLabel": "AARO 2025 UAP workshop white paper (February 2026)",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"text": "The PURSUE releases beginning 8 May 2026 implement none of the workshop's three recommendations, which is evidence that the release programme was not designed on AARO's technical advice. Reasoning: the releases carry no metadata schema, many PDFs were password-protected against OCR, and no narrative context accompanies the files.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-345af1cac3",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"text": "Many PDFs in the Department's release were password-protected, preventing OCR; The Black Vault removed the restrictions and processed the files into a usable, searchable format.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b0a41babe0",
+"locator": null,
+"node": "blackvault-pursue-archive",
+"nodeLabel": "The Black Vault searchable PURSUE files archive",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"text": "Many PDFs in the Department of War release were password-protected, preventing OCR processing and rendering documents poorly searchable or entirely unsearchable; The Black Vault removed the restrictions and processed the files into a usable format.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-dd847383ea",
+"locator": null,
+"node": "blackvault-pursue-archive",
+"nodeLabel": "The Black Vault searchable PURSUE files archive",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"text": "The Black Vault archive includes searchable PDFs, videos, images, OCR-generated text, transcripts and video subtitles, agency categorisation and related-record linking, with a 2.0GB bulk download.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-2025-workshop-white-paper",
+"label": "AARO 2025 UAP workshop white paper (February 2026)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-e34fc1c2ae",
+"label": "recommendations the release programme did not adopt",
+"note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "blackvault-pursue-archive",
+"label": "The Black Vault searchable PURSUE files archive"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-cb85fb5d52",
+"label": "supplies the index the releasing authority did not",
+"note": "Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-6caad905",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-2025-workshop-white-paper",
+"label": "AARO 2025 UAP workshop white paper (February 2026)"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "institution",
+"id": "blackvault-pursue-archive",
+"label": "The Black Vault searchable PURSUE files archive"
+}
+],
+"node": null,
+"title": "The Black Vault searchable PURSUE archive",
+"topics": [
+{
+"claims": [
+"c-b0a41babe0"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+]
+}

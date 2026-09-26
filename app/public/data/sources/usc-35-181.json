@@ -1,0 +1,161 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-16d9fd7beb",
+"locator": "Office of the Law Revision Counsel",
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"text": "The current codification descends from that Act by way of a second one. The Historical and Revision Notes to 35 U.S.C. 181 read: 'Based on Title 35, U.S.C., 1946 ed., 151 (Feb. 1, 1952, ch. 4, 1, 66 Stat. 3, 4).' The section's source credit is 'July 19, 1952, ch. 950, 66 Stat. 805'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-16d9fd7beb",
+"locator": null,
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"text": "The current codification descends from that Act by way of a second one. The Historical and Revision Notes to 35 U.S.C. 181 read: 'Based on Title 35, U.S.C., 1946 ed., 151 (Feb. 1, 1952, ch. 4, 1, 66 Stat. 3, 4).' The section's source credit is 'July 19, 1952, ch. 950, 66 Stat. 805'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-7f0e66ba39",
+"locator": "Office of the Law Revision Counsel",
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"text": "An order is indefinite by renewal, and wartime orders outlast the war. Section 181: 'An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year', renewable annually on an affirmative determination that 'the national interest continues so to require'; an order in effect during a time when the United States is at war 'shall remain in effect for the duration of hostilities and one year following cessation of hostilities.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-7f0e66ba39",
+"locator": null,
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"text": "An order is indefinite by renewal, and wartime orders outlast the war. Section 181: 'An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year', renewable annually on an affirmative determination that 'the national interest continues so to require'; an order in effect during a time when the United States is at war 'shall remain in effect for the duration of hostilities and one year following cessation of hostilities.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-b315ec417b",
+"locator": "Office of the Law Revision Counsel",
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-b315ec417b",
+"locator": null,
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-3510",
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+},
+"claimTier": 2,
+"id": "e-11e122d142",
+"label": "Paired instruments, one hiding an invention and the other an expenditure",
+"note": "Two statutory instruments of the same architecture, one hiding an invention and the other hiding an expenditure; the pairing is the board's argument, not either statute's text.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+"b": {
+"cls": "domain",
+"id": "d-secrecy",
+"label": "Secrecy Law & Classification"
+},
+"claimTier": 1,
+"id": "e-1a85be9443",
+"label": "One of the three statutory layers of the secrecy architecture",
+"note": "The domain description already names this Act as one of the three statutory layers of the secrecy architecture and the board carried no node for it.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+"b": {
+"cls": "document",
+"id": "pais-patent-imrd",
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+},
+"claimTier": 2,
+"id": "e-d9e17c4b73",
+"label": "The control case for the patents tab: a propulsion patent that did issue",
+"note": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "usc-35-181",
+"identifiers": [
+"35 U.S.C. 181"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
+"node": null,
+"title": "35 U.S.C. 181",
+"topics": [
+{
+"claims": [
+"c-7f0e66ba39",
+"c-7f0e66ba39",
+"c-b315ec417b",
+"c-b315ec417b"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-7f0e66ba39",
+"c-7f0e66ba39",
+"c-b315ec417b",
+"c-b315ec417b"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+]
+}

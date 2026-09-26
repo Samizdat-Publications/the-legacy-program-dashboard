@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 1,
+"id": "e-0e78639067",
+"label": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record",
+"note": "Volume I page 30 states AARO found no UAP-related NDAs. The Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme. The two statements cannot both stand as written.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 2,
+"id": "e-0ffc253900",
+"label": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II",
+"note": "Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"claimTier": 2,
+"id": "e-07f16f3c1b",
+"label": "the Department committed to publishing the Yankee Blue findings in Volume II",
+"note": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the findings would appear in Volume II, then scheduled for late 2025. As of August 2026 Volume II has not been published.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-b58ad8dd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+{
+"cls": "person",
+"id": "avril-haines",
+"label": "Avril D. Haines"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
+"node": null,
+"title": "Wikipedia - Yankee Blue",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Yankee_Blue"
+]
+}

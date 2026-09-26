@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-036da5e1cf",
+"locator": null,
+"node": "podesta-delonge-mccasland-email-2016",
+"nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"sourceText": "WikiLeaks, The Podesta Emails, corpus search, https://wikileaks.org/podesta-emails/?q=prometheus and https://wikileaks.org/podesta-emails/?q=moulton",
+"text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to podesta@LAW.GEORGETOWN.EDU, and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from t.delonge@me.com and none of them is among either set.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-62cc24a3b8",
+"locator": null,
+"node": "podesta-delonge-mccasland-email-2016",
+"nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"sourceText": "Batch 18 file 01, 0:29:08-0:30:00, research/leads/area52-corpus-18.md; checked against https://wikileaks.org/podesta-emails/?q=prometheus",
+"text": "On Debriefed, episode 82, 3 April 2026, Michael Phillip said the Prometheus and Greek mythology framing reached him through 'the conversations between Podesta and McCaslin and dalong and then by way of dalong lavenda' in the WikiLeaks release, while stating in the same passage that 'I don't know verbatim what he actually said. I'm sort of regurgitating this from talking to lavenda.' The release contains the correspondence he names and does not contain the content he attributes to it.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-wikileaks-org-a448b150",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "WikiLeaks",
+"listedOn": [
+{
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+}
+],
+"node": null,
+"title": "WikiLeaks, The Podesta Emails, corpus search, and",
+"topics": [
+{
+"claims": [
+"c-036da5e1cf",
+"c-62cc24a3b8"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-036da5e1cf",
+"c-62cc24a3b8"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "web page",
+"urls": [
+"https://wikileaks.org/podesta-emails/?q=prometheus"
+]
+}

@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-0ee40815",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+},
+{
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+}
+],
+"node": null,
+"title": "Wikipedia - Michael Shellenberger",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Michael_Shellenberger"
+]
+}

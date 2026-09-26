@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-cambridge",
+"label": "Cambridge, Massachusetts"
+},
+"b": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"claimTier": 1,
+"id": "e-fbe50159d6",
+"label": "Loeb's Harvard base; launched the project from here",
+"note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-cambridge",
+"label": "Cambridge, Massachusetts"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 2,
+"id": "e-7b948d063a",
+"label": "first Galileo Observatory, Harvard College Observatory roof",
+"note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "harvard-cfa",
+"label": "Harvard-Smithsonian Center for Astrophysics"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 1,
+"id": "e-c115077a81",
+"label": "Host institution of the Galileo Project",
+"note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-arxiv-org-cc6be3ee",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "arXiv",
+"listedOn": [],
+"node": null,
+"title": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://arxiv.org/abs/2209.02479"
+]
+}

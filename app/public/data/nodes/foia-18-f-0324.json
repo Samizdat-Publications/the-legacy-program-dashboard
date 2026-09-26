@@ -7,8 +7,16 @@
 {
 "id": "c-68cd07baa9",
 "source": "DoD FOIA final response letter for case 18-F-0324",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": null,
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "Requested 17 December 2017; final response issued 17 August 2022 by Stephanie L. Carr, Chief, Freedom of Information Division, DoD, releasing eight responsive pages with (b)(6) redactions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

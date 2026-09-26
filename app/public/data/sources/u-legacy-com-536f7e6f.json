@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-36c00191a9",
+"locator": null,
+"node": "paul-czysz",
+"nodeLabel": "Paul A. Czysz",
+"sourceText": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027",
+"text": "Czysz died in 2013, before the public disclosure of AATIP in December 2017 and before the bulk FOIA release of the DIRDs in March 2022. He gave no public account of the AAWSAP tasking.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-legacy-com-536f7e6f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "legacy.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "paul-czysz",
+"label": "Paul A. Czysz"
+}
+],
+"node": null,
+"title": "Paul Czysz obituary, St. Louis Post-Dispatch",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027"
+]
+}

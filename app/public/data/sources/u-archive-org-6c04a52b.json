@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"b": {
+"cls": "person",
+"id": "don-schmitt",
+"label": "Donald R. Schmitt"
+},
+"claimTier": 1,
+"id": "e-c3b4efeb70",
+"label": "Co-authors of the two Roswell books, later estranged",
+"note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-archive-org-6c04a52b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+}
+],
+"node": null,
+"title": "The truth about the UFO crash at Roswell (1994)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/truthaboutufocra0000rand"
+]
+}

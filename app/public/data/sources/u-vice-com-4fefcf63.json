@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 2,
+"id": "e-a858e2c144",
+"label": "Samples routed to laboratories founded by Puthoff",
+"note": "TTSA partnered with Puthoff-founded laboratories to study the ADAM materials; Puthoff had already tested the same Howe samples privately, reporting in a 2012 letter that no anomalous outcome had been obtained.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 2,
+"id": "e-c3bf086871",
+"label": "Custody chain: anonymous source to Art Bell, to Linda Moulton Howe, to Carnegie DTM (1996), to Puthoff, to TTSA (2019), to the US Army",
+"note": "Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and by Puthoff on several later occasions before TTSA bought them for $35,000 in 2019.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 3,
+"id": "e-bb87a8970e",
+"label": "Private, non-FOIA-able laboratory sitting between a government programme and a public company",
+"note": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-vice-com-4fefcf63",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+}
+],
+"node": null,
+"title": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.vice.com/en/article/ufo-researcher-explains-why-she-sold-exotic-metal-to-tom-delonge/"
+]
+}

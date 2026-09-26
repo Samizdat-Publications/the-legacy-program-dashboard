@@ -1,0 +1,344 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6bbac82e3f",
+"locator": null,
+"node": "dird-concepts-for-extracting-energy-from-the",
+"nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+"sourceText": "https://earthtech.org/pubs/davis/",
+"text": "Davis and Harold Puthoff had published the same argument in the open literature the previous year as 'Chapter 18: On Extracting Energy from the Quantum Vacuum' in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f1cb03a37a",
+"locator": null,
+"node": "dird-concepts-for-extracting-energy-from-the",
+"nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+"sourceText": "https://earthtech.org/pubs/davis/",
+"text": "EarthTech International's own publication list for Eric W. Davis independently confirms the attribution and the document number: 'Davis, E. W. (2010), \"Concepts for Extracting Energy From the Quantum Vacuum,\" Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-007, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f6fee14ebf",
+"locator": null,
+"node": "marc-millis",
+"nodeLabel": "Marc G. Millis",
+"sourceText": "https://earthtech.org/pubs/davis/",
+"text": "Millis is co-editor with Eric W. Davis of 'Frontiers of Propulsion Science', AIAA Progress in Astronautics & Aeronautics Vol. 227 (2009), a documented pre-DIRD collaboration with the AAWSAP subcontractor.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8736178075",
+"locator": null,
+"node": "richard-obousy",
+"nodeLabel": "Richard K. Obousy",
+"sourceText": "http://earthtech.org/pubs/davis/",
+"text": "EarthTech International's published citation list for Eric Davis gives the same paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is a co-authored paper with Obousy first named.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5dac3fa4c5",
+"locator": null,
+"node": "robert-baker",
+"nodeLabel": "Robert M. L. Baker, Jr.",
+"sourceText": "https://earthtech.org/pubs/davis/",
+"text": "Baker co-authored a 2005 STAIF conference paper on HFGW radiation patterns and aerospace applications with Eric W. Davis and R. C. Woods, establishing a pre-existing working link to the AAWSAP subcontractor who commissioned the DIRDs.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-39e0ed35e5",
+"locator": null,
+"node": "dird-traversable-wormholes-stargates-and-negative-energy",
+"nodeLabel": "Traversable Wormholes, Stargates, and Negative Energy",
+"sourceText": "http://earthtech.org/pubs/davis/",
+"text": "EarthTech International's own citation list records the paper as \"Davis, E. W. (2010), 'Traversable Wormholes, Stargates, and Negative Energy,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-004, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\"",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4989ae3f82",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "http://earthtech.org/pubs/davis/",
+"text": "EarthTech International's citation list gives the paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is co-authored, with Obousy first named, which reconciles the DIA list with the popular attribution.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+"claimTier": 1,
+"id": "e-48ca43b399",
+"label": "commissioned under AAWSAP, published in the 'Defense Futures' series",
+"note": "The cover carries DIA-08-1011-002, 1 November 2010, ICOD 8 July 2010, under the 'Defense Futures' banner. The administrative note confirms the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program. The shift from 'Acquisition Threat Support' to 'Defense Futures' across the later 2010 deliverables marks a change in the DIA office of record, from the Acquisition Support Division (DWO-3) to the Technology Warning Division (DWO-4) of the Defense Warning Office.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"claimTier": 1,
+"id": "e-6ad5eeda0b",
+"label": "commissioned under AAWSAP; Acquisition Support Division (DWO-3), Defense Warning Office",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+"claimTier": 1,
+"id": "e-1781538e20",
+"label": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-d061673a2d",
+"label": "produced at EarthTech International, Austin",
+"note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 1,
+"id": "e-5f64f65cea",
+"label": "authored by Eric W. Davis",
+"note": "Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"claimTier": 1,
+"id": "e-4ae4877705",
+"label": "subject domain: zero-point/vacuum energy extraction",
+"note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+"claimTier": 1,
+"id": "e-99f5ac459a",
+"label": "published by DIA as DIA-08-1004-004, Acquisition Threat Support series",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-840ee24c8d",
+"label": "published by DIA as DIA-08-1004-001, Acquisition Threat Support series",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+"claimTier": 1,
+"id": "e-222dfff74c",
+"label": "author of record on the DIA list and on EarthTech's own citation list",
+"note": "DIA list item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" Unlike the warp-drive paper, the popular attribution to Davis is confirmed by the government list here. EarthTech's own bibliography carries the same citation with the document number DIA-08-1004-004.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-63714edf5d",
+"label": "co-author per EarthTech International's own citation",
+"note": "EarthTech International's publications page cites the paper as \"Obousy, R. K. and Davis, E. W. (2010).\" Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-856311815c",
+"label": "author of record on the DIA list; lead author",
+"note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-fe46c80cec",
+"label": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
+"note": "EarthTech International lists six DIRDs by Eric Davis on its publications page, with DIA document numbers and the issuing division named as the Acquisition Support Division (DWO-3) or Technology Warning Division (DWO-4) of the Defense Warning Office. A contractor publishing its DIA reference-document numbers on an open website is itself part of how the DIRD series became documentable.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-earthtech-org-00a4fe99",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "earthtech.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+{
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+{
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+{
+"cls": "person",
+"id": "robert-baker",
+"label": "Robert M. L. Baker, Jr."
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+}
+],
+"node": null,
+"title": "EarthTech International, publications list for Eric W. Davis (DIRD citations)",
+"topics": [
+{
+"claims": [
+"c-6bbac82e3f",
+"c-f6fee14ebf",
+"c-4989ae3f82"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+},
+{
+"claims": [
+"c-4989ae3f82"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "web page",
+"urls": [
+"http://earthtech.org/pubs/davis/",
+"https://earthtech.org/pubs/davis/"
+]
+}

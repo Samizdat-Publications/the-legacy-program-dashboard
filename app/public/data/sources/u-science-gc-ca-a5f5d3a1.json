@@ -1,0 +1,40 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-science-gc-ca-a5f5d3a1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Government of Canada",
+"listedOn": [
+{
+"cls": "person",
+"id": "mona-nemer",
+"label": "Dr Mona Nemer"
+},
+{
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+{
+"cls": "location",
+"id": "l-ottawa",
+"label": "Ottawa, Ontario, Canada"
+},
+{
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+}
+],
+"node": null,
+"title": "Sky Canada Project landing page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project"
+]
+}

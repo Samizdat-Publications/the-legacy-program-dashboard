@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-76194a656d",
+"label": "Deputy Administrator running day-to-day contract execution",
+"note": "Kelleher carried the NIDS field methodology into the federally funded effort and directed the biological-effects line.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-5a9e7460ae",
+"label": "led both the NIDS and BAASS science teams on the ranch",
+"note": "Sixteen years of continuous field presence across a private and then a federally funded program.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-868e2afc4f",
+"label": "personnel, methodology and site inherited wholesale",
+"note": "Kelleher, Davis, Green and the Utah ranch operation all pass from Bigelow's private institute into the DIA-funded contractor.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-7690ed28",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+{
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+}
+],
+"node": null,
+"title": "The Debrief",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma/"
+]
+}

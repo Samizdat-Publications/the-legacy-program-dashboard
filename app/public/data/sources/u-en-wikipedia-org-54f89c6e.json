@@ -1,0 +1,126 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-6323f13b38",
+"label": "The AAWSAP appropriation followed the Lacatski visit to the ranch",
+"note": "Reid and Sen. Ted Stevens secured roughly $22 million in Defense appropriations after Bigelow relayed Lacatski's ranch experience. BAASS, headquartered in Las Vegas, won the contract.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-6fa87d8fea",
+"label": "Lacatski's visit is the documented link from the ranch to DIA",
+"note": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-83150b3c84",
+"label": "NIDS ran the field investigation at the ranch under Bigelow",
+"note": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents while conceding they could not obtain publishable evidence.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 1,
+"id": "e-c1faaa03ae",
+"label": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+"note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"b": {
+"cls": "location",
+"id": "l-utah",
+"label": "Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-eb4efc2c30",
+"label": "The ranch sits inside the Uintah Basin reporting region",
+"note": "The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, inside a region with a folk reporting record dating to the 1970s.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-54f89c6e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+{
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+{
+"cls": "location",
+"id": "l-utah",
+"label": "Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "Wikipedia - Skinwalker Ranch",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+]
+}

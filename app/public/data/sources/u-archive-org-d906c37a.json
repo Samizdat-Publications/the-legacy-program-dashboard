@@ -1,0 +1,73 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-98c9a36e72",
+"locator": null,
+"node": "nicap",
+"nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"sourceText": "FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 3, https://archive.org/details/NICAP",
+"text": "The FBI kept a file on it, numbered 100-35992, and recorded the organisation's self-description as given by its secretary: 'This information was furnished to a Special Agent of our Washington Field Office in May, 1961, by Mr. Richard H. Hall, Secretary of the organization.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ac48e7c619",
+"locator": null,
+"node": "nicap",
+"nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"sourceText": "Jim G. Lucas, 'Project Skylight: New Group Setting Sights on Saucers', The Washington Daily News, 23 October 1956, in FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 1, https://archive.org/details/NICAP",
+"text": "Thomas Townsend Brown ran the organisation at its formation. A Washington Daily News report of Tuesday 23 October 1956, filed in the FBI's NICAP file: 'The brass plate at 1536 Connecticut-av nw reads \"National Investigations Committee on Aerial Phenomena.\" Inside they refer to it as Project Skylight. T. Townsend Brown of Leesburg, Va., who runs it, identified himself as executive vice chairman pro tempore. He formerly was a consulting physicist for the Clevite-Brush Electronics Co. of Cleveland, O.' The same report says the committee 'is just now forming. On Nov. 1 it meets to elect a nine-man board of governors.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+},
+"b": {
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"claimTier": 1,
+"id": "e-a5bf34a329",
+"label": "Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore",
+"note": "A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-archive-org-d906c37a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+}
+],
+"node": null,
+"title": "FBI file 100-35992, part 1, Washington Daily News clipping, 23 October 1956",
+"topics": [
+{
+"claims": [
+"c-98c9a36e72",
+"c-ac48e7c619"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/NICAP"
+]
+}

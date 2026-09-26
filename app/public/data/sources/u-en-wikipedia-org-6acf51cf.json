@@ -1,0 +1,170 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 2,
+"id": "e-62a26e2553",
+"label": "ADAM materials became the subject of a five-year Army CRADA",
+"note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 2,
+"id": "e-a858e2c144",
+"label": "Samples routed to laboratories founded by Puthoff",
+"note": "TTSA partnered with Puthoff-founded laboratories to study the ADAM materials; Puthoff had already tested the same Howe samples privately, reporting in a 2012 letter that no anomalous outcome had been obtained.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 3,
+"id": "e-b8c126f90f",
+"label": "The chain goes dark inside a federal research agreement",
+"note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 3,
+"id": "e-bb87a8970e",
+"label": "Private, non-FOIA-able laboratory sitting between a government programme and a public company",
+"note": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-0fa64ffe4b",
+"label": "Co-founder, VP Science and Technology, director",
+"note": "Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice"
+},
+"b": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"claimTier": 2,
+"id": "e-78425ef1c5",
+"label": "Public technical voice: material 'not from any known existing military or commercial application'",
+"note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 2,
+"id": "e-bb550eb995",
+"label": "Recruitment of a serving OUSD(I) official into a private disclosure vehicle",
+"note": "DeLonge courted serving and retired officials from 2015-2017; the launch roster of 11 October 2017 is the product. The recruitment overlapped Elizondo's final year in government.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-6acf51cf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice"
+},
+{
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+}
+],
+"node": null,
+"title": "Wikipedia: To The Stars Inc.",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/To_the_Stars_(company)"
+]
+}

@@ -1,0 +1,153 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-0b0965df2d",
+"locator": null,
+"node": "bluegill-triple-prime",
+"nodeLabel": "Bluegill Triple Prime",
+"sourceText": "DNA 6040F, Air Force aircraft participation in DOMINIC, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "KETTLE is a DOMINIC aircraft call sign, not a film. The aircraft participation table lists '3 / KC-135 / Kettle / Photographic aircraft' alongside Cognac, Kibosh, Cordova, Caboodle, Abusive, Lambkin, Baxter/Byron, Hewstone and White Spot. The strings 'RC-135' and 'Cobra' do not appear anywhere in the report.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-557a399928",
+"locator": null,
+"node": "bluegill-triple-prime",
+"nodeLabel": "Bluegill Triple Prime",
+"sourceText": "DNA 6040F, narrative for BLUEGILL Triple Prime, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The force present: 'The Air Force arrayed 22 aircraft for the detonation', with WB-50 and U-2 weather aircraft, Navy P2Vs for surveillance and pod recovery and Marine helicopters, and nine Navy ships positioned to gather scientific data.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-a6def4807c",
+"locator": null,
+"node": "bluegill-triple-prime",
+"nodeLabel": "Bluegill Triple Prime",
+"sourceText": "DNA 6040F, Operation DOMINIC I--1962, full-text search of the report, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The report contains nothing of what is attached to this shot. It carries no reference to any unidentified object, unknown craft, anomalous observation, recovery or debris associated with the detonation; its only uses of 'unidentified' are an unidentified number of dosimetry analyses and one unidentified event in a fallout discussion. 'Gise' appears zero times in it, and so does Malmgren's name.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-aae492fa63",
+"locator": null,
+"node": "bluegill-triple-prime",
+"nodeLabel": "Bluegill Triple Prime",
+"sourceText": "DNA 6040F, Table 1, DOMINIC detonations, 1962, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "Its place in the test series, from the report's own summary table: '25 Oct / BLUE GILL / FISHBOWL shot, submegaton, tens of kilometers over Johnston Island', sourced there to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Department of Energy, Nevada Operations Office, January 1980.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-ffc673eb3e",
+"locator": null,
+"node": "bluegill-triple-prime",
+"nodeLabel": "Bluegill Triple Prime",
+"sourceText": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency, 1 February 1983, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The shot and its date: 'BLUEGILL Triple Prime (25 October 1962, 2359). The fourth attempt to launch the BLUEGILL device using a Thor missile was successful.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-801b50c037",
+"locator": null,
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"sourceText": "Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/ ; checked against DNA 6040F, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The Bluegill claim is single-source and posthumous. The same biography says he 'oversaw many missile tests in these roles, including the controversial Blue Gill Triple Prime test which prompted both President Kennedy and Vice President Lyndon Johnson to urgently visit Los Alamos and the Sandia Labs in December 1962'. His name appears zero times in DNA 6040F, the Defense Nuclear Agency's own report on that test series.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime"
+},
+"b": {
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+"claimTier": 1,
+"id": "e-2ff0ba4817",
+"label": "A dated, documented high-altitude nuclear test",
+"note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-fa544d6e43",
+"label": "Air Force flew the shot and its 22-aircraft array",
+"note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-4edc5f5a7f",
+"label": "The detonation list is a Department of Energy publication",
+"note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-archive-org-7f1f1aa6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime"
+},
+{
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+}
+],
+"node": null,
+"title": "DNA 6040F, Operation DOMINIC I--1962",
+"topics": [
+{
+"claims": [
+"c-a6def4807c",
+"c-ffc673eb3e",
+"c-801b50c037"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+]
+}

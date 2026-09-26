@@ -1,0 +1,67 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-04a427edb1",
+"locator": null,
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf",
+"text": "Written testimony filed with the House Oversight Task Force, 9 September 2025.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-aeedb1f378",
+"label": "sworn witness",
+"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-29c7030d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+}
+],
+"node": null,
+"title": "Dylan Borland, written testimony, House Oversight Task Force",
+"topics": [
+{
+"claims": [
+"c-04a427edb1"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf"
+]
+}

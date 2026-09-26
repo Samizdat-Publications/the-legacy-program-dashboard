@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-wayne-edu-23663560",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "wayne.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+}
+],
+"node": null,
+"title": "Wayne State University - About (official)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://wayne.edu/about"
+]
+}

@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "philip-corso",
+"label": "Philip J. Corso"
+},
+"b": {
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+"claimTier": 1,
+"id": "e-637132b95a",
+"label": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
+"note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-f0eebc18",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "philip-corso",
+"label": "Philip J. Corso"
+}
+],
+"node": null,
+"title": "DA Form 66, Officer's Qualification Record, Philip J. Corso",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.theblackvault.com/documents/ufos/corso/corso.pdf"
+]
+}

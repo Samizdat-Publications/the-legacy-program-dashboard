@@ -7,26 +7,34 @@
 {
 "id": "c-f1f518b95b",
 "source": "Joint federal statement, 17 December 2024, reported by The Debrief",
+"sources": [],
 "text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c735d9016b",
 "source": "Joint federal statement, 17 December 2024",
+"sources": [],
 "text": "The FBI received over 5,000 drone reports; officials analysed roughly 100 specific leads and attributed them to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-39116673f4",
 "source": "The Debrief, 17 December 2024",
+"sources": [],
 "text": "The assessment acknowledged limited recent sightings over military facilities in restricted airspace, contradicting earlier White House statements denying such incidents.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6366929b43",
 "source": "The Debrief, 17 December 2024",
+"sources": [],
 "text": "Wright-Patterson Air Force Base closed its airspace for nearly four hours on 14-15 December 2024 due to unauthorized drone activity.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "event",

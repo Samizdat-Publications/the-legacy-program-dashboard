@@ -1,0 +1,64 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-29950584ae",
+"locator": null,
+"node": "stony-brook-university",
+"nodeLabel": "Stony Brook University",
+"sourceText": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
+"text": "Brookhaven National Laboratory states that 'Brookhaven Lab is managed for the Office of Science by Brookhaven Science Associates, a partnership between Stony Brook University and Battelle, and six core universities: Columbia, Cornell, Harvard, Massachusetts Institute of Technology, Princeton, and Yale.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c2c6a44585",
+"locator": null,
+"node": "stony-brook-university",
+"nodeLabel": "Stony Brook University",
+"sourceText": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
+"text": "The same site states that 'BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "stony-brook-university",
+"label": "Stony Brook University"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-15011914de",
+"label": "The two named partners in Brookhaven Science Associates LLC",
+"note": "Stony Brook and Battelle are the two named partners in Brookhaven Science Associates LLC, which holds the DOE management-and-operating contract for Brookhaven National Laboratory.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-bnl-gov-da02cc82",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "bnl.gov",
+"listedOn": [
+{
+"cls": "institution",
+"id": "stony-brook-university",
+"label": "Stony Brook University"
+}
+],
+"node": null,
+"title": "Brookhaven National Laboratory, About Brookhaven",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.bnl.gov/about/"
+]
+}

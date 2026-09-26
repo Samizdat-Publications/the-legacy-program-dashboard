@@ -24,6 +24,7 @@
     "text": "AARO SASC open hearing case slides, 19 November 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "No official assessment of FLIR1 has been published by AARO, unlike GO FAST, Aguadilla and Mt Etna. Reasoning: AARO's 19 Nov 2024 SASC case slides cover the latter three and not FLIR1; absence from a public case-slide deck is not proof no assessment exists, but it is the state of the public record.",
    "tier": 3
   },
@@ -37,6 +38,7 @@
     "text": "Navy range fouler report on the 14 Nov 2004 incident, released 13 January 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
    "tier": 1
   },
@@ -50,6 +52,7 @@
     "text": "Navy FOIA release reported by The War Zone, 14 January 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "72 range fouler reports covering 2004-2021, previously Secret//FVEY, were released through the Navy FOIA reading room on 13 January 2023.",
    "tier": 1
   },
@@ -63,6 +66,7 @@
     "text": "DoD statement on the release of historical Navy videos, 27 April 2020",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Department of Defense released FLIR1 with the two January 2015 videos on 27 April 2020, stating that 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
    "tier": 1
   },
@@ -76,6 +80,7 @@
     "text": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023, reported by The War Zone",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The 14 Nov 2004 incident is formally documented in Navy range fouler reporting released via FOIA in January 2023, which records that reporting terminated at 3rd Fleet with no process to share it.",
    "tier": 1
   },
@@ -89,6 +94,7 @@
     "text": "Alex Dietrich, CBS 60 Minutes, 16 May 2021",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'I never wanted to be on national TV, no offense.'",
    "tier": 2
   },
@@ -102,6 +108,13 @@
     "text": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
     "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-533abfd2",
+     "locator": null,
+     "title": "ODNI - Preliminary Assessment: Unidentified Aerial Phenomena"
+    }
+   ],
    "text": "The report names stigma as a collection obstacle: 'Sociocultural stigmas and sensor limitations remain obstacles to collecting data on UAP.'",
    "tier": 1
   },
@@ -115,6 +128,13 @@
     "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+    }
+   ],
    "text": "Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath.",
    "tier": 1
   },
@@ -128,6 +148,7 @@
     "text": "DoD statement on the release of historical Navy videos, 27 April 2020",
     "url": null
    },
+   "sourceRefs": [],
    "text": "DoD authorized release of three unclassified Navy videos filmed November 2004 and January 2015, previously circulated after unauthorized disclosures in 2007 and 2017; 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
    "tier": 1
   },
@@ -141,6 +162,13 @@
     "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+    }
+   ],
    "text": "In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account.",
    "tier": 1
   },
@@ -154,6 +182,7 @@
     "text": "The Debrief, 9 May 2022",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Boatswain's Mate of the Watch says he was ordered by a senior officer to 'rip it out' of the logbook; another witness was instructed not to write the sighting down; Gokey says he saw an officer order subordinates to remove pages from the deck logbook.",
    "tier": 2
   },
@@ -167,6 +196,7 @@
     "text": "Gary Voorhis, public documentary and broadcast interviews from 2018; no primary record located as of Aug 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Data recording media covering the Princeton's tracking of the objects were collected or ordered wiped by unidentified personnel in the days after 14 Nov 2004. Reasoning: the account is independently given by two Princeton crewmen in different billets, and the Navy has never produced Princeton sensor data for the date despite the incident being formally documented in its own range fouler reporting - an absence consistent with, though not proof of, removal.",
    "tier": 3
   },
@@ -180,6 +210,7 @@
     "text": "David Fravor, written statement to House Oversight, 26 July 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
    "tier": 1
   },
@@ -193,6 +224,13 @@
     "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+    }
+   ],
    "text": "Under oath he gave the reason the aircrew were airborne at all: 'We were at a work up with all the battle groups. So, we integrate the ships with the carrier, the airwing with the carrier, and we start working. So, we were doing an air to air defense to hone not only our skills but those of the USS Princeton when they had been tracking them for 2 weeks. The problem was that there was never manned aircraft airborne when they were tracking them and this was the first day and, unfortunately, we were the ones airborne and went and saw it.'",
    "tier": 1
   },
@@ -206,6 +244,7 @@
     "text": "US Navy range fouler report, released 12 January 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
    "tier": 1
   },
@@ -219,6 +258,7 @@
     "text": "Public interviews by USS Princeton crew, 2018-2019; no primary record located as of Aug 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Multiple USS Princeton enlisted crewmen independently describe unidentified personnel removing recorded material within days of 14 Nov 2004. Reasoning: convergence of several separately given accounts from different divisions is evidentiary weight short of proof; it is graded as inference because no record has been produced.",
    "tier": 3
   },
@@ -232,6 +272,7 @@
     "text": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Navy range fouler documentation names the F/A-18 aircrew including Commander David Fravor and Lt. Cmdr. Alex Dietrich, describing the object as 'solid white, smooth, with no edges ... approximately 46 feet in length.'",
    "tier": 1
   },
@@ -245,6 +286,7 @@
     "text": "US Navy range fouler report on the 14 Nov 2004 incident, released to the Navy FOIA reading room 12 January 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'Solid white, smooth, with no edges. It was uniformly colored with no nacelles, pylons, or wings. It was approximately 46 feet in length.'",
    "tier": 1
   },
@@ -258,6 +300,7 @@
     "text": "David Fravor, CBS 60 Minutes, 16 May 2021",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'It was aware we were there' and 'It just disappears. Like, gone.'",
    "tier": 2
   },
@@ -271,6 +314,7 @@
     "text": "Inference from the text of the 27 April 2020 DoD release",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The 2020 release is best read as damage control rather than disclosure: the Department confirmed authenticity, which it could no longer avoid, while declining to characterise the objects, and it released only footage already in public circulation. Reasoning: the release statement's own wording confines the purpose to correcting misconceptions about the existing circulating footage.",
    "tier": 3
   },
@@ -284,6 +328,13 @@
     "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+    }
+   ],
    "text": "Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.'",
    "tier": 1
   },
@@ -297,6 +348,7 @@
     "text": "DoD release, 27 April 2020",
     "url": null
    },
+   "sourceRefs": [],
    "text": "On 27 April 2020 the Department of Defense authorised the release of three unclassified Navy videos - one taken in November 2004 and two in January 2015 - stating it was releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos'.",
    "tier": 1
   },
@@ -310,6 +362,7 @@
     "text": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The encounter occurred '15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast'; a self-luminous tic-tac object emerged from the ocean and joined three similar objects.",
    "tier": 2
   },
@@ -323,6 +376,7 @@
     "text": "DoD statement, 27 April 2020",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The videos were made available through the Naval Air Systems Command FOIA reading room.",
    "tier": 1
   },
@@ -336,6 +390,7 @@
     "text": "Navy range fouler reports released via the Navy FOIA reading room, 13 January 2023, reported by The War Zone",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Navy range fouler documentation on the 14 Nov 2004 incident names the F/A-18 aircrew as including Commander David Fravor and Lt. Cmdr. Alex Dietrich.",
    "tier": 1
   },
@@ -349,6 +404,7 @@
     "text": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.'",
    "tier": 1
   },
@@ -362,6 +418,13 @@
     "text": "Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm , 2024-11-13",
     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg57440",
+     "locator": null,
+     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+    }
+   ],
    "text": "In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world.",
    "tier": 1
   },
@@ -375,6 +438,7 @@
     "text": "David Fravor, written statement to House Oversight, 26 July 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'They had been observing these objects on their Aegis combat system for the previous 2 weeks,' descending from above 80,000 ft rapidly down to 20,000 ft.",
    "tier": 2
   },
@@ -388,6 +452,7 @@
     "text": "Inference from AARO's published product set",
     "url": null
    },
+   "sourceRefs": [],
    "text": "AARO has published parallax and sensor-artefact rebuttals for GO FAST, Aguadilla and Mount Etna but has never published an assessment of FLIR1. Reasoning: review of AARO's published case products and information papers through August 2026.",
    "tier": 3
   },
@@ -401,6 +466,7 @@
     "text": "Navy range fouler report released 13 January 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The 14 November 2004 intercept occurred approximately 30 miles off Baja California's coast in the Pacific.",
    "tier": 1
   },
@@ -414,6 +480,7 @@
     "text": "Widely reported; primary/archival URL not verified as of Aug 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Underwood was the weapons systems officer who acquired the object on ATFLIR and produced the FLIR1 tape. Reasoning: consistently reported across national outlets since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
    "tier": 3
   },
@@ -427,6 +494,7 @@
     "text": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Dietrich 'was mocked by her colleagues' and the incident 'went years without any investigation.'",
    "tier": 2
   },
@@ -440,6 +508,13 @@
     "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+    }
+   ],
    "text": "Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.'",
    "tier": 1
   },
@@ -453,6 +528,13 @@
     "text": "https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/ , 2021-05-16",
     "url": "https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-cbsnews-com-1e787f0a",
+     "locator": null,
+     "title": "CBS News, 60 Minutes, Bill Whitaker, 'Navy pilots describe encounters with UFOs'"
+    }
+   ],
    "text": "CBS News, 60 Minutes, correspondent Bill Whitaker, published 16 May 2021, states that Dietrich, a former F/A-18F pilot, 'has never before spoken publicly about what she saw that day'. The same report quotes her: 'It was unidentified. And that's why it was so unsettling to us. Because we weren't expecting it. We couldn't classify it'; 'No predictable movement, no predictable trajectory'; and 'I felt the vulnerability of not having anything to defend ourselves. And then I felt confused when it disappeared.' This dates the start of her public record to 16 May 2021 on the network's own assertion.",
    "tier": 1
   },
@@ -466,6 +548,13 @@
     "text": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": "CONTENTS",
+     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+    }
+   ],
    "text": "Witness of record at the 26 July 2023 House Oversight hearing: 'Commander David Fravor (Ret.), Former Commanding Officer, United States Navy'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282.",
    "tier": 1
   },
@@ -479,6 +568,7 @@
     "text": "The War Zone analysis of the release, 14 January 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent of the released reports are from 2021.",
    "tier": 1
   },
@@ -492,6 +582,7 @@
     "text": "Public interviews by Kevin Day, Gary Voorhis and Jason Turner, 2018-2019; no primary record located",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Recording media covering the Princeton's tracks were removed or ordered wiped by unidentified personnel within roughly 48 hours of 14 November 2004. Reasoning: three Princeton crewmen in different billets - Day, Voorhis and Turner - have given consistent independent public accounts since 2018, and the Navy has never produced Princeton sensor data for the date; but no primary record naming the personnel or the authority has been located as of August 2026.",
    "tier": 3
   },
@@ -505,6 +596,7 @@
     "text": "Kevin Day, public documentary and broadcast interviews, 2018-2019; no primary record located as of Aug 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Recording media documenting the Princeton radar tracks were removed by personnel who did not identify themselves within roughly 48 hours of the intercept. Reasoning: the account is consistent across Day's public interviews and with Gary Voorhis's independent account of being ordered to reformat/hand over data, and it is compatible with - not contradicted by - Fravor's statement that no tapes were taken from his aircrew, since the two men describe collection aimed at different platforms. It remains inference until a visit log, message, or FOIA release names the personnel.",
    "tier": 3
   },
@@ -518,6 +610,7 @@
     "text": "David Fravor, written statement to House Oversight, 26 July 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
    "tier": 2
   },
@@ -531,6 +624,13 @@
     "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+    }
+   ],
    "text": "The testimony was sworn, and the printed record carries the mechanism. Chairman Grothman: 'Pursuant to Committee Rule 9(g), the witnesses will please stand and raise their right hands. Do you solemnly swear to tell the truth, the whole truth, and nothing but the truth, so help you God? [Witnesses are sworn.] Mr. Grothman. Let the record show that all the witnesses answered in the affirmative.'",
    "tier": 1
   },

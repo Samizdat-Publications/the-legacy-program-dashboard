@@ -1,0 +1,126 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot"
+},
+"b": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"claimTier": 2,
+"id": "e-510cee0e6a",
+"label": "Public non-attribution finding by the homeland air defence commander",
+"note": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot"
+},
+"b": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"claimTier": 2,
+"id": "e-cf1225c914",
+"label": "Commander, NORAD and USNORTHCOM from February 2024",
+"note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"b": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"claimTier": 2,
+"id": "e-ac66f4821c",
+"label": "Centrepiece of Guillot's 90-day counter-UAS assessment",
+"note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+},
+"b": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"claimTier": 1,
+"id": "e-183aba30de",
+"label": "site of the December 2023 incursions",
+"note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-b2e9a34b93",
+"label": "DoD installation; NORAD/USNORTHCOM response",
+"note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-twz-com-0976e8e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot"
+},
+{
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+{
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+},
+{
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+}
+],
+"node": null,
+"title": "The War Zone - NORAD commander on the Langley incursions",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+]
+}

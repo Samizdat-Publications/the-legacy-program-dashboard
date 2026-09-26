@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "uss-reagan-2004",
+"label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-abc842e73c",
+"label": "Federal records destroyed at the point of creation",
+"note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "uss-reagan-2004",
+"label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 2,
+"id": "e-a750f13b93",
+"label": "Same year, opposite ocean, same record-destruction behaviour",
+"note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-212bcd5f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "event",
+"id": "uss-reagan-2004",
+"label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)"
+}
+],
+"node": null,
+"title": "The Debrief - Navy witnesses describe 2004 encounter aboard USS Ronald Reagan",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/incident-aboard-the-uss-ronald-reagan-navy-witnesses-describe-2004-encounter-with-uap/"
+]
+}

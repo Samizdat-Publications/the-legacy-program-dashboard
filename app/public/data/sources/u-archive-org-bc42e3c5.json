@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-bc42e3c5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+}
+],
+"node": null,
+"title": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/RoscoeH.Hillenkoetter"
+]
+}

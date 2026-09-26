@@ -7,14 +7,18 @@
 {
 "id": "c-829b68b98c",
 "source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021",
+"sources": [],
 "text": "The ODNI preliminary assessment of 25 June 2021 recorded 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' as a reporting-stigma problem.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b1b58732ec",
 "source": "Inference from the project's public rationale and the AARO/DIA non-release record",
+"sources": [],
 "text": "The Galileo Project exists because every high-quality UAP dataset is held by agencies that will not release it; independent collection is the only route to data that cannot be classified retroactively. Reasoning: stated project rationale and the documented non-release of AARO and DIA holdings.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

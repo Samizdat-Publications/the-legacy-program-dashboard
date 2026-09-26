@@ -1,0 +1,121 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "uk-fs-working-party",
+"label": "Flying Saucer Working Party (UK)"
+},
+"b": {
+"cls": "institution",
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"claimTier": 2,
+"id": "e-4aa285b57a",
+"label": "first British body on the question, 1950-1951",
+"note": "The Flying Saucer Working Party precedes the UFO desk and reached the same self-terminating conclusion Condign would reach fifty years later.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "gary-anthony-uk",
+"label": "Gary Anthony"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 2,
+"id": "e-12606bd281",
+"label": "co-requester of the Condign FOI",
+"note": "Named with Clarke as co-requester in the report's release history and in contemporaneous BBC and Guardian coverage.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-london",
+"label": "London, United Kingdom"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-4aaf7db27c",
+"label": "produced at Whitehall, released via TNA at Kew",
+"note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-3c29c971a1",
+"label": "Condign report held at MoD Main Building",
+"note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-dde6788a41",
+"label": "UK-commissioned study of its own air defence region",
+"note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-48f2f79e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-clarke-uk",
+"label": "Dr David Clarke"
+},
+{
+"cls": "program",
+"id": "uk-fs-working-party",
+"label": "Flying Saucer Working Party (UK)"
+},
+{
+"cls": "person",
+"id": "gary-anthony-uk",
+"label": "Gary Anthony"
+}
+],
+"node": null,
+"title": "Project Condign - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Project_Condign"
+]
+}

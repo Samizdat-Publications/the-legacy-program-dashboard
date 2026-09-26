@@ -8,20 +8,26 @@
 {
 "id": "c-2d505af5b9",
 "source": "wayne.edu/about",
+"sources": [],
 "text": "Wayne State University was founded in 1868 out of the Detroit Medical College, is located at 42 W. Warren Ave, Detroit, Michigan, and comprises thirteen schools and colleges, including the School of Medicine, serving over 24,000 students.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5e922dea24",
 "source": "Released DIRD, DIA/AAWSAP deliverable set",
+"sources": [],
 "text": "The AAWSAP Defense Intelligence Reference Document on clinical/medical acute and subacute field effects on human dermal and neurological tissues, authored by Christopher Green, exists as a released government contract deliverable.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4461873a55",
 "source": "Inference",
+"sources": [],
 "text": "Wayne State's board relevance is entirely derivative of Green's post-CIA appointment there: it is the civilian medical-school affiliation under which the intelligence community's biological-effects analyst continued to examine claimed encounter injuries. Reasoning: from Green's documented career path and authorship, not from any institutional contract with Wayne State.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

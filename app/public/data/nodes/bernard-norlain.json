@@ -25,26 +25,46 @@
 {
 "id": "c-276fce5cf3",
 "source": "Assemblée nationale, compte rendu n° 40, 9 April 2014 https://www.assemblee-nationale.fr/14/cr-cdef/13-14/c1314040.asp",
+"sources": [
+{
+"id": "u-assemblee-nationale-fr-6dd9cd31",
+"locator": null,
+"title": "Assemblée nationale, Commission de la défense nationale et des forces armées, compte rendu n° 40, audition du général (2S) Bernard Norlain, 9 avril 2014"
+}
+],
 "text": "The French National Assembly's Defence Committee record of 9 April 2014 states Norlain's career on the record, in the chair's own words: 'vous avez été pilote de chasse, puis commandant de la force aérienne tactique de 1992 à 1994 ; vous avez également été chef du cabinet militaire du Premier ministre, de 1986 à 1989, et avez achevé votre carrière militaire en qualité de directeur de l'Institut des hautes études de défense nationale (IHEDN).' The board's description of him as the former director of IHEDN is therefore a parliamentary record, not an inference.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a0acd50ace",
 "source": "Assemblée nationale, compte rendu n° 40, 9 April 2014 https://www.assemblee-nationale.fr/14/cr-cdef/13-14/c1314040.asp",
+"sources": [
+{
+"id": "u-assemblee-nationale-fr-6dd9cd31",
+"locator": null,
+"title": "Assemblée nationale, Commission de la défense nationale et des forces armées, compte rendu n° 40, audition du général (2S) Bernard Norlain, 9 avril 2014"
+}
+],
 "text": "He was heard by the committee on nuclear deterrence as 'président d'honneur de la Revue Défense nationale'. The same record notes he co-signed a 2009 Le Monde article favouring global nuclear disarmament with former ministers Alain Juppé, Alain Richard and Michel Rocard, and is a member of Global Zero.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7e630bff46",
 "source": "COMETA report, preface by General Bernard Norlain, 1999",
+"sources": [],
 "text": "Norlain, preface: 'I express the wish that the recommendations of COMETA, which are inspired by good sense, will be examined and implemented by the authorities of our country.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7b72553d05",
 "source": "COMETA report, Norlain preface, 1999",
+"sources": [],
 "text": "Norlain records that the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

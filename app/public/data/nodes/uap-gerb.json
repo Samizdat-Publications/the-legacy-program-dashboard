@@ -86,110 +86,168 @@
 {
 "id": "c-8cf2251854",
 "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"sources": [
+{
+"id": "u-ntrs-nasa-gov-0e22d499",
+"locator": null,
+"title": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972"
+},
+{
+"id": "u-ntrs-nasa-gov-af7d0d38",
+"locator": null,
+"title": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969"
+},
+{
+"id": "us-patent-3174851",
+"locator": null,
+"title": "US Patent 3,174,851"
+}
+],
 "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f10e060269",
 "source": "UAP Gerb, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', YouTube, 7 August 2026 (published description and chapter list) — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "The MITRE investigation was published on 7 August 2026 and states that MITRE operates six FFRDCs and fifteen MITRE Labs and has served as a long-term strategic partner in the US Government's most national-security-sensitive national programs.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0dc9c0c4a1",
 "source": "UAP Gerb, 7 August 2026, video description",
+"sources": [],
 "text": "Alleges an additional hidden impetus for MITRE's 1958 founding: the construction of a trusted long-term partner answerable only to its DoD customer to spearhead technology reverse engineering and exploitation from recovered UFOs.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a4df724d67",
 "source": "UAP Gerb, 7 August 2026, video description",
+"sources": [],
 "text": "Alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies deemed exploitable from late-1940s recoveries, central to the MITRE portfolio since 1958; and the tracking and possible collection tasking against a very large unidentified submerged object with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e3bb5a2667",
 "source": "UAP Gerb, 7 August 2026, video description",
+"sources": [],
 "text": "Alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7502895671",
 "source": "Cross-reference of the Gerb thesis against FAR 35.017 as summarised in CRS report R44629",
+"sources": [
+{
+"id": "crs-r44629",
+"locator": null,
+"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+}
+],
 "text": "The structural claim - that FFRDCs arbitrate what UFO programme information is shared with defence contractors - is consistent with FAR 35.017, which grants FFRDCs access to government and supplier data beyond that available in a normal contractual relationship. Reasoning: the regulation creates exactly the informational chokepoint Gerb describes, independent of whether his specific allegations are true.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-5dc4eabd2c",
 "source": "UAP Gerb, video description, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', published 7 August 2026",
+"sources": [],
 "text": "FFRDCs are 'the missing link' in USG-led, defense-contractor-supported legacy programs: they allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5a0d8fa58d",
 "source": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
+"sources": [],
 "text": "MITRE's role spans two Navy-spearheaded legacy programs: (1) reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to MITRE's portfolio since its 1958 inception; and (2) tracking and monitoring of an enormous USO - a 'tic tac factory' - with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-32d13b52f3",
 "source": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
+"sources": [],
 "text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9d7202b128",
 "source": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, published 1 May 2026",
+"sources": [],
 "text": "A centralized UFO recovery and exploitation effort was founded in 1947 and its security apparatus was taken from the Manhattan Project and the Atomic Energy Commission - compartmentalization, organizational architecture, physical security, classification/information control, and political shield.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4bea1dda1f",
 "source": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"sources": [],
 "text": "Presidents Truman and Eisenhower vested custody of recovered disks within Atomic Energy Commission national laboratories, established the control group under the National Security Council and its 5412 Committee, and safeguarded the programs with statutory authority under the Atomic Energy Act of 1954. Vannevar Bush and General George C. Marshall are named as architects, with the Alsos Missions and T-Force as the template for crash-retrieval teams.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a6398be599",
 "source": "UAP Gerb, video description, 'Special Access Required' Vol.2, published 19 June 2026",
+"sources": [],
 "text": "In 1994 the Special Access Program enterprise was restructured to gatekeep USG access and vest permanent control of the UFO portfolio in a quasi-industry and government control group; the portfolio now exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know (MNTK) access and completely waived reporting and budgetary requirements.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-57ba3bcfaa",
 "source": "UAP Gerb, video description, 'National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers', published 13 December 2025",
+"sources": [],
 "text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017; the NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range; gatekeepers are identifiable through USD(A&S) and DDNI(AT&F), the offices controlling NRO acquisitions.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5a1dad12f3",
 "source": "UAP Gerb, video description, 'Northrop Grumman & TRW' Vol.2, published 20 March 2026",
+"sources": [],
 "text": "Northrop Grumman may have used IRAD (Independent Research and Development) funds at the onset of the War on Terror to self-fund its own UFO retrieval and exploitation programs, unaccountable to its original government handler - a 'breakaway' in the early 2000s.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-67fdd8e2d1",
 "source": "UAP Gerb, video description, 'The Hidden Wing - US Air Force UFO Reverse Engineering Programs', published 30 January 2026",
+"sources": [],
 "text": "Current USAF legacy involvement sits in SAF/AQ (with SAF/AQX, SAF/AQL Special Programs, SAF/AQR), SAF/AA, AF/TE and AFOSI; SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure likely constitute the Air Force SES-2 gatekeeper Christopher Mellon has referred to; AFOSI/PJ (Office of Special Projects) and its former director Terry Phillips, now Northrop Grumman VP for Security, are central.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3f1aca2f5d",
 "source": "UAP Gerb, video description, 'UFOs in the Private Sector - Battelle Memorial Institute', published 18 February 2024, citing Project Stork progress reports and Special Report No. 14",
+"sources": [],
 "text": "Battelle studied UAP material - likely a shape-memory metallic alloy from the 1947 Roswell site, now referred to as nitinol - and participated with the USAF in building a machine index of UFO reports and in quelling public interest.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-533544ad2e",
 "source": "UAP Gerb interviewed by Ross Coulthart, NewsNation 'Reality Check', premiered 4 August 2026",
+"sources": [],
 "text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-99b2ca880f",
 "source": "Citation list published in the video description, 18 February 2024",
+"sources": [],
 "text": "Gerb's Battelle investigation cites verifiable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC research and development reports at the UNT digital library, and the Defense.gov transcript of the Moultrie roundtable.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

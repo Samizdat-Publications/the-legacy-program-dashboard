@@ -8,26 +8,34 @@
 {
 "id": "c-c1cd2658cc",
 "source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health and cybersecurity, and describes itself as providing long-term strategic partnership and stability to government sponsors.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ae2ef33171",
 "source": "UAP Gerb, MITRE investigation, 7 August 2026",
+"sources": [],
 "text": "FFRDCs allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and arbitrate what defense contractors are told about UFO programs.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a9f451e724",
 "source": "NewsNation Reality Check chapter summary, 4 August 2026 (17:00)",
+"sources": [],
 "text": "Ross Coulthart devoted a dedicated segment of his 4 August 2026 Reality Check episode to 'FFRDCs, U-Arcs, and GOCOs' as the vehicle of the legacy program.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ce95192bff",
 "source": "Inference from the documented FFRDC charter model; no primary record establishes such use.",
+"sources": [],
 "text": "The FFRDC model's prohibition on competing with industry, combined with single-sponsor loyalty and permanent institutional memory, would make it the optimal container for a programme intended to outlive every administration that oversees it.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "domain",

@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-04-19",
+"label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'"
+},
+"claimTier": 1,
+"id": "e-b5bd699648",
+"label": "chaired the hearing",
+"note": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-armed-services-senate-go-0e55eef4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+{
+"cls": "event",
+"id": "hearing-2023-04-19",
+"label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'"
+}
+],
+"node": null,
+"title": "Senate Armed Services hearing page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office"
+]
+}

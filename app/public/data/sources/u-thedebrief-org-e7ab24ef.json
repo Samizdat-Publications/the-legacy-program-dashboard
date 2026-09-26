@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "barksdale-2026-incursions",
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+},
+"b": {
+"cls": "location",
+"id": "l-barksdale",
+"label": "Barksdale Air Force Base, Louisiana"
+},
+"claimTier": 1,
+"id": "e-f269ae85ea",
+"label": "Site of the March 2026 incursion waves and FPCON Charlie alert",
+"note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-e7ab24ef",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "event",
+"id": "barksdale-2026-incursions",
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+},
+{
+"cls": "location",
+"id": "l-barksdale",
+"label": "Barksdale Air Force Base, Louisiana"
+}
+],
+"node": null,
+"title": "The Debrief - Barksdale AFB mystery drone incident",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/u-s-officials-investigating-mystery-drone-incident-over-barksdale-air-force-base-that-prompted-security-alert/"
+]
+}

@@ -18,14 +18,30 @@
 {
 "id": "c-e1c06e24ca",
 "source": "https://fasab.gov/about-fasab/board-members/",
+"sources": [
+{
+"id": "u-fasab-gov-01bbc8dc",
+"locator": null,
+"title": "FASAB Board members"
+}
+],
 "text": "Terry K. Patton, professor emeritus at Midwestern State University, has chaired FASAB since April 2026; the Board also comprises R. Scott Bell, Eric S. Berman, Robert Dacey, Diane L. Dudley, Billy Morehead and David A. Vaudt.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-81310e3356",
 "source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"sources": [
+{
+"id": "u-files-fasab-gov-751c8d62",
+"locator": null,
+"title": "SFFAS 56"
+}
+],
 "text": "SFFAS 56 paragraph 8(c) permits entities to apply Board Interpretations that allow other modifications to information required by other standards.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

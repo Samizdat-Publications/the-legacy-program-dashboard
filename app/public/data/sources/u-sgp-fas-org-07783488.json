@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-sgp-fas-org-07783488",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
+"node": null,
+"title": "Invention Secrecy, FAS Project on Government Secrecy",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/othergov/invention/index.html"
+]
+}

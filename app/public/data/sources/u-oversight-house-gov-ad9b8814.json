@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "document",
+"id": "luna-hegseth-video-letter-2026",
+"label": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026"
+},
+"claimTier": 1,
+"id": "e-df1020db74",
+"label": "Author of the 1 April 2026 demand for AARO's unreleased UAP video files",
+"note": "Predicated on whistleblower information given to the Task Force that AARO holds additional video records.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"claimTier": 1,
+"id": "e-8040878d4d",
+"label": "1 April 2026 letter demanding AARO's UAP video holdings",
+"note": "Luna wrote to the Secretary of War for video files held by AARO after September 2025 witnesses told the Task Force AARO held additional records; the PURSUE releases followed within five weeks.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "luna-hegseth-video-letter-2026",
+"label": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-f37c869dcb",
+"label": "Targets video records the Task Force was told AARO holds",
+"note": "The Department did not produce by the deadline.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 2,
+"id": "e-922194d802",
+"label": "Missed the Task Force deadline for AARO UAP video files, prompting a subpoena threat",
+"note": "Luna wrote Hegseth on 1 April 2026; the Department did not produce; she publicly raised a subpoena in mid-April 2026.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-ad9b8814",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "document",
+"id": "luna-hegseth-video-letter-2026",
+"label": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026"
+}
+],
+"node": null,
+"title": "House Oversight Committee release: Luna Continues Transparency Investigation into UAPs",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps",
+"https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps/"
+]
+}

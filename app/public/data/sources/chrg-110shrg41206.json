@@ -1,0 +1,67 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c594ec0573",
+"locator": null,
+"node": "donald-kerr",
+"nodeLabel": "Donald M. Kerr",
+"sourceText": "S. Hrg. 110-452, 1 August 2007 https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm",
+"text": "The same hearing records that 'Don began his government career at the Los Alamos National Lab in 1966 and worked his way up through the Lab and the Department of Energy, eventually becoming Director of Los Alamos'. The national-laboratory to black-space progression the board describes is therefore the Senate's own account of him, not an inference.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d35e96fa5d",
+"locator": null,
+"node": "donald-kerr",
+"nodeLabel": "Donald M. Kerr",
+"sourceText": "S. Hrg. 110-452, 1 August 2007 https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm",
+"text": "Kerr's career is recited on the record at his own confirmation hearing before the Senate Select Committee on Intelligence on 1 August 2007: 'Deputy Assistant Secretary for Defense Programs at the Department of Energy. Federal Bureau of Investigation's Assistant Director in Charge, Laboratory Division. Deputy Director for Science and Technology at the Central Intelligence Agency. Director of the National Reconnaissance Office, where he currently serves.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-17b7d797a1",
+"locator": null,
+"node": "donald-kerr",
+"nodeLabel": "Donald M. Kerr",
+"sourceText": "S. Hrg. 110-452, 1 August 2007, member statement https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm",
+"text": "A committee member characterised the agency Kerr then led as 'the National Reconnaissance Office, which unfortunately is one of the more troubled and poorly performing agencies within the intelligence community.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "chrg-110shrg41206",
+"identifiers": [
+"CHRG-110shrg41206"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr"
+}
+],
+"node": null,
+"title": "CHRG-110shrg41206",
+"topics": [
+{
+"claims": [
+"c-c594ec0573",
+"c-d35e96fa5d"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "hearing record",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm"
+]
+}

@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-675dbe8e3c",
+"locator": null,
+"node": "john-callahan",
+"nodeLabel": "John Callahan",
+"sourceText": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html , opened 2026-09-19",
+"text": "The one document ever produced for the claimed title is an OMB Form 171, Personal Qualifications Statement, showing 'Division Mgr. Investigations/Evaluations', employer 'FAA ATS-1 Washington Headquarters', dates 'Oct. 1986 to present', with an accompanying resume line 'Jul 85 to Oct 86 Branch Manager Quality Control Branch and Accident/Incident Analysis Branch'. Dean states these were originals provided by Callahan himself in 2015 correspondence. THE DATES ARE CONSISTENT WITH THE 17 NOVEMBER 1986 INCIDENT FALLING INSIDE HIS TENURE AND THEY RECONCILE DEAN'S NEGATIVE FINDING WITH CALLAHAN'S ACCOUNT, BUT A FORM SUPPLIED BY ITS SUBJECT IS NOT AN AGENCY RELEASE AND IS GRADED TIER 2 FOR THAT REASON.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e82a2b5f90",
+"locator": null,
+"node": "john-callahan",
+"nodeLabel": "John Callahan",
+"sourceText": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html , opened 2026-09-19",
+"text": "STATED INFERENCE. The evidentiary shape of this node is unusual for this cluster and should not be flattened: the case is Tier 1 on agency records, the man's office is Tier 2 on a self-supplied form, and the two must never be cited as though they were the same grade of evidence.",
+"tier": 3
+}
+],
+"date": "2015-10",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+},
+"b": {
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+"claimTier": 2,
+"id": "e-799c409440",
+"label": "FAA Washington headquarters management post, mid-1980s; title disputed",
+"note": "Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+},
+"b": {
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+"claimTier": 2,
+"id": "e-71c30c8403",
+"label": "Claimed role in the FAA's handling of the case",
+"note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
+"type": "investigative"
+}
+],
+"era": "2",
+"id": "u-theufochronicles-com-90341a23",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "theufochronicles.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+}
+],
+"node": null,
+"title": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles",
+"topics": [
+{
+"claims": [
+"c-675dbe8e3c",
+"c-e82a2b5f90"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+}
+],
+"type": "article",
+"urls": [
+"https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html"
+]
+}

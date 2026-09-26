@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3f546b2497",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017 - https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b ; Metabunk, 'Explained: Chilean Navy \"UFO\" video - Aerodynamic Contrails, Flight IB6830' - https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/",
+"text": "Photo and video analysts in France, including François Louange, were brought into the Chilean Navy investigation through GEIPAN; GEIPAN's analysts proposed a medium-haul aircraft venting cabin wastewater as the explanation, which CEFAA rejected. Independent analysts subsequently matched the footage to scheduled flights LA330 and IB6830.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-d21852811d",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "Newsweek, 'Chilean Navy Can't Identify Mysterious Aircraft Caught on Video' - https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786 ; Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017 - https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b",
+"text": "The Chilean Navy case: an Airbus Cougar AS-532 helicopter with an infrared camera recorded roughly ten minutes of footage of an unidentified object off the coast west of Santiago on 11 November 2014; CEFAA released the footage with an official report in January 2017. Director Ricardo Bermúdez summarised the finding as 'We do not know what it was, but we do know what it was not.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"b": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"claimTier": 2,
+"id": "e-2373a72f32",
+"label": "French analysts worked the Chilean Navy FLIR case",
+"note": "Photo and video analysts in France, including François Louange, were brought into CEFAA's investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN's analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-huffpost-com-bd0d109f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "huffpost.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+}
+],
+"node": null,
+"title": "Newsweek, 'Chilean Navy Can't Identify Mysterious Aircraft Caught on Video'; Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017",
+"topics": [
+{
+"claims": [
+"c-3f546b2497",
+"c-d21852811d"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+},
+{
+"claims": [
+"c-3f546b2497"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "article",
+"urls": [
+"https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b"
+]
+}

@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-8a24c5c271",
+"locator": null,
+"node": "arvp-fluxliner-project",
+"nodeLabel": "ARVP (arvp.co.uk), the Flux Liner project site",
+"sourceText": "https://www.arvp.co.uk/tech/ , read 2026-09-18",
+"text": "The site's own stated theory of how the craft works is not McCandlish's and is not sourced to him. Its TECH page lists 'Magnetohydrodynamics', 'Quasicrystals', 'Einstein-Rosen bridge theory', 'The Hutchinson effect' and 'Levels of consciousness' among 'Our current lines of thinking', and leans on Bob Greenyer of the Martin Fleischmann Memorial Project, a Lockheed Martin matterwave patent, Thomas Bearden and Malcolm Bendall. A reader who takes the site as a source on the 1990 account is reading two different things bound together.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-arvp-co-uk-3350b804",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "arvp.co.uk",
+"listedOn": [
+{
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site"
+}
+],
+"node": null,
+"title": "arvp.co.uk, TECH page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.arvp.co.uk/tech/"
+]
+}

@@ -1,0 +1,345 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-78d3626945",
+"locator": null,
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceText": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+"text": "Grusch testified under oath on 26 July 2023 before the House Oversight subcommittee at the hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', with Ryan Graves and David Fravor.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-09073d7b15",
+"label": "sworn witness",
+"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 2,
+"id": "e-c89c2333b3",
+"label": "NRO representative to the UAP Task Force, 2019-2021",
+"note": "Grusch held the National Reconnaissance Office's billet to the Task Force and testified that its Director tasked him to inventory relevant special access programmes.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-513670d490",
+"label": "sworn witness",
+"note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-27ab4f3f8b",
+"label": "Same hearing paired the aviator record with the recovery-program allegations",
+"note": "The committee deliberately seated two aviator witnesses beside a whistleblower alleging a concealed retrieval program, framing the observational record as the visible surface of a hidden effort.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 2,
+"id": "e-35bb1148b7",
+"label": "The crash-retrieval allegation moved from second-hand to affirmative between the two hearings",
+"note": "Grusch testified in 2023 to being informed of a retrieval programme; in 2024 Elizondo answered Mace's direct question with 'Yes'.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-35acc27ac3",
+"label": "UAPTF Director tasked Grusch to identify all relevant SAPs",
+"note": "Grusch testified under oath that the UAP Task Force Director gave him this tasking and that the read-ons were then refused. Stratton is the publicly identified holder of that post.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 1,
+"id": "e-050a4c1808",
+"label": "NRO seconded a representative to the UAP Task Force",
+"note": "David Grusch's official House Oversight witness title was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"claimTier": 1,
+"id": "e-9a1df969f1",
+"label": "Founder and Executive Director",
+"note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-05b39f1c37",
+"label": "sworn witness",
+"note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "hoc-subcommittee-national-security",
+"label": "Subcommittee on National Security, the Border, and Foreign Affairs"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-80867b2f19",
+"label": "Held the 26 July 2023 hearing",
+"note": "Serial No. 118-53, 2154 Rayburn.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-91b9a55111",
+"label": "Sworn testimony before the committee, 26 July 2023",
+"note": "Grusch testified with Ryan Graves and David Fravor at 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'. Attested by the committee's own hearing page.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-1129541b03",
+"label": "Fravor testified to the 2004 encounter under oath in 2023",
+"note": "Fravor's written statement placed on the record that the incident was never investigated, no crew were questioned and no tapes were taken.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-560cc814c8",
+"label": "All three modern UAP hearings were held on Capitol Hill",
+"note": "2154 Rayburn on 26 July 2023 and 13 November 2024; HVC-210 on 9 September 2025.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-e0a0e77f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+{
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+{
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+{
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+{
+"cls": "institution",
+"id": "hoc-subcommittee-national-security",
+"label": "Subcommittee on National Security, the Border, and Foreign Affairs"
+},
+{
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+{
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+{
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+{
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+{
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+}
+],
+"node": null,
+"title": "House Oversight - hearing page, 26 July 2023",
+"topics": [
+{
+"claims": [
+"c-78d3626945"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-78d3626945"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-78d3626945"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+]
+}

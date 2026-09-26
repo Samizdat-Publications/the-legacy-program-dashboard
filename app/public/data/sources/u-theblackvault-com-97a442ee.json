@@ -1,0 +1,186 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-b6a501c0bf",
+"locator": null,
+"node": "aaro-fy2025-annual-report",
+"nodeLabel": "AARO FY2025 Consolidated Annual Report on UAP",
+"sourceText": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/",
+"text": "AARO rejects claims that the US Government possesses recovered UAP material while stating it is developing procedures for handling such material should it ever come into USG possession.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b79483efce",
+"locator": null,
+"node": "aaro-fy2025-annual-report",
+"nodeLabel": "AARO FY2025 Consolidated Annual Report on UAP",
+"sourceText": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/",
+"text": "262 submissions through the secure reporting mechanism; 255 assessed out of scope; 7 identified for follow-up. Nine cases warrant additional intelligence or scientific analysis. Forty-four space-domain reports attributed to satellite flares via 3D modelling.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fa74e59e30",
+"locator": null,
+"node": "aaro-fy2025-annual-report",
+"nodeLabel": "AARO FY2025 Consolidated Annual Report on UAP",
+"sourceText": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/",
+"text": "Fifty UAS notifications near nuclear infrastructure in FY2025, up from eighteen in FY2024.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "institution",
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
+"claimTier": 1,
+"id": "e-d11af2add4",
+"label": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
+"note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-50d39fcad4",
+"label": "The 2026 official denial is maintained without any inspection of contractor holdings",
+"note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-e27b3d0c2c",
+"label": "statutory analysis trails executive publication",
+"note": "The FY2025 report appeared months late and after three PURSUE tranches, so the Department's analytic product followed rather than accompanied its own releases.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-87fd0bb7b4",
+"label": "Third annual report, 21 July 2026, months late",
+"note": "The report also notes cases near sensitive installations with 'performance characteristics exceed the known state-of-the-art' while adding 'No technical data accompanied these reports.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-6b127e1755",
+"label": "Luna's 2026 records demand ran in parallel with the delayed annual report",
+"note": "She wrote to the Secretary of War on 31 March 2026 demanding more than 46 UAP videos by 14 April; the deadline passed with an offer of a future briefing, and the FY2025 report appeared in July.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-78ceff23b1",
+"label": "Established publicly that the FY2025 report was released months late",
+"note": "The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-ef2688dd48",
+"label": "Kosloski's office again rejected the recovered-material claims in July 2026",
+"note": "The FY2025 report denies possession of recovered UAP material while stating AARO is developing procedures for handling such material should any ever come into US government possession.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-97a442ee",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "The Black Vault, 'AARO Releases FY2025 UAP Report Months After Statutory Deadline, Citing 319 New Cases and Expanded Satellite Analysis'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+]
+}

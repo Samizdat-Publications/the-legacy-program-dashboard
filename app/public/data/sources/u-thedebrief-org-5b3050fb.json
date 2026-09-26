@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "micah-hanks",
+"label": "Micah Hanks"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 1,
+"id": "e-9aa73b0143",
+"label": "Hanks published the first general-readership account, 17 October 2024",
+"note": "The Debrief's 17 October 2024 piece framed the programme as an open question - 'UAP Bombshell or Disinformation?' - and predates the congressional submission by four weeks.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-aaba882894",
+"label": "Brought the alleged USAP into the congressional record",
+"note": "On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"claimTier": 2,
+"id": "e-b0c6a16ee1",
+"label": "Former AARO director denied the programme's existence",
+"note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-5b3050fb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+{
+"cls": "person",
+"id": "micah-hanks",
+"label": "Micah Hanks"
+},
+{
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+},
+{
+"cls": "institution",
+"id": "the-debrief",
+"label": "The Debrief"
+}
+],
+"node": null,
+"title": "The Debrief - Immaculate Constellation: UAP Bombshell or Disinformation?",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+]
+}

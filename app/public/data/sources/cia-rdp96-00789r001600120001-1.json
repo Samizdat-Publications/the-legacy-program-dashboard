@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-f22ebfdcb3",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1",
+"text": "The release withholds the unit's people, so no claim that a named member appears in it can be checked from the collection itself. Session forms print labelled fields for Remote Viewer, Interviewer and Observer and leave all three blank, and narrative memoranda substitute CIA release codes (SG1A, SG1B, SG1I, SG1J, SGFOIA3) for personal names.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "cia-rdp96-00789r001600120001-1",
+"identifiers": [
+"CIA-RDP96-00789R001600120001-1"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "CIA-RDP96-00789R001600120001-1",
+"topics": [
+{
+"claims": [
+"c-f22ebfdcb3"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1"
+]
+}

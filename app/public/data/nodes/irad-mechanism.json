@@ -7,20 +7,44 @@
 {
 "id": "c-b25a8692aa",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+}
+],
 "text": "DoD Instruction 3204.01, dated 20 August 2014 incorporating change 2 dated 9 July 2020, establishes Department policy for oversight of independent research and development.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-067b35bd70",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+}
+],
 "text": "Congress prohibited IR&D funding relating to UAP from being allowable as an indirect expense absent disclosure to the appropriate congressional committees and leadership, in both NDAA FY2024 Sec. 1687(b) and IAA FY2024 Sec. 7343(c).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2521b44fb4",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+}
+],
 "text": "IR&D is the mechanism that best fits the alleged fact pattern of government-funded, contractor-held, contractor-directed work on recovered material outside congressional programme visibility, because it combines government payment, contractor direction, contractor retention of results, and absence of a named appropriation line. Reasoning: each element of the alleged pattern maps onto a structural feature of IR&D cost allowability; no other standard federal funding instrument does so.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "program",

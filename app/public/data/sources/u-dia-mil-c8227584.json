@@ -1,0 +1,112 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-a8f93a1a77",
+"locator": null,
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+"text": "DIA Read Ahead for the 19 Nov 2009 meeting states the DIA position: 'the content of the deliverables from the Advanced Aerospace Weapon System Application Program contract, referred to by Senator Reid as the AATIP, for FY09 and those expected in FY10, do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-46e2032646",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+"text": "Met DIA leadership on the program at least four documented times: 13 Nov 2008 (with the DIA Director), 5 Jan 2009, mid-May 2009, and 19 Nov 2009 at Senate Visitor Center SVC-217 with the Deputy Secretary of Defense present.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-65051b26a6",
+"locator": null,
+"node": "reid-dia-meetings-2008-2009",
+"nodeLabel": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+"text": "19 November 2009: DIA Read Ahead for 'DIA visit with Senator Harry Reid', 19 Nov 09, 1645, 'Capitol, Senate Visitor Center, SVC-217', attendees including DEPSECDEF. Purpose: to address Reid's SAP request and 'the quality and value of the products produced thus far under the current contract'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"b": {
+"cls": "document",
+"id": "dia-sap-denial-memo-2009",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+},
+"claimTier": 1,
+"id": "e-48f3c92670",
+"label": "",
+"note": "The request and the refusal. Reid's 24 June 2009 letter asked for a restricted SAP; DIA Info Memo U-09-2660 of 13 November 2009 is the answer - 'DIA cannot find adequate justification to establish' it. DIA Info Memo U-10-2552 then records that Deputy Secretary Lynn and the Director met Senator Reid in November 2009 to discuss it. A documented request, a documented denial, and a documented meeting between them.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-c8227584",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "document",
+"id": "dia-sap-denial-memo-2009",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+}
+],
+"node": null,
+"title": "DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-46e2032646",
+"c-65051b26a6"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-a8f93a1a77"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-46e2032646"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/"
+]
+}

@@ -24,20 +24,38 @@
 {
 "id": "c-82082c8689",
 "source": "war.gov About page, retrieved 12 August 2026",
+"sources": [],
 "text": "The Department lists Steve Feinberg as Deputy Secretary of Defense under Secretary Pete Hegseth.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-dfe70c4bd0",
 "source": "DoD Directive 5205.07, 12 September 2024",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": "12 September 2024",
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoDD 5205.07 places DoD SAPCO under the authority, direction and control of the Deputy Secretary of Defense, with the SAPCO Director reporting directly to that office.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a5920c18f1",
 "source": "Inference from DoDD 5205.07",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "The Deputy Secretary of Defense is the lowest-ranking official who can answer, from position alone, whether any waived unacknowledged SAP relates to UAP. Reasoning: DoDD 5205.07 gives the office unmediated visibility of the full SAP portfolio.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

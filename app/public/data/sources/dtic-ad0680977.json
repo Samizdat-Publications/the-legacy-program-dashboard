@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8e4ff8472b",
+"locator": null,
+"node": "james-mcdonald",
+"nodeLabel": "James E. McDonald",
+"sourceText": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977",
+"text": "McDonald is indexed in the Condon Report at pages 927 and 928, and separately for his part in Case 50 (657-662), Case 52 (683-684, 690, 692), his views on future research (1269), the northeast power outage (167) and the extraterrestrial hypothesis (34). He is the most heavily indexed outside critic in the study that was meant to close the question.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9d7615df7e",
+"locator": null,
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"sourceText": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977",
+"text": "The Condon Report's index carries the entry 'Low, Robert J., 915-917', with subheadings 'appointed to Colorado project, viii' and 'quoted on Fuller article, 915' — the report itself indexes the controversy over Low's role.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "dtic-ad0680977",
+"identifiers": [
+"DTIC AD0680977"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald"
+},
+{
+"cls": "person",
+"id": "robert-low",
+"label": "Robert J. Low"
+}
+],
+"node": null,
+"title": "DTIC AD0680977",
+"topics": [
+{
+"claims": [
+"c-8e4ff8472b",
+"c-9d7615df7e"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_AD0680977"
+]
+}

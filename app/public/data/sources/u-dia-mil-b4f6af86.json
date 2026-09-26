@@ -1,0 +1,204 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-093c5b51d8",
+"locator": null,
+"node": "dird-advanced-space-propulsion-based-on-vacuum",
+"nodeLabel": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"text": "Released PDF is 17 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4573ad1d36",
+"locator": null,
+"node": "dird-advanced-space-propulsion-based-on-vacuum",
+"nodeLabel": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4fa877bffa",
+"locator": null,
+"node": "dird-advanced-space-propulsion-based-on-vacuum",
+"nodeLabel": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"text": "Defense Intelligence Reference Document titled \"Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering\", series \"Acquisition Threat Support\", published 2010-03-29 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-015. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-95bde387aa",
+"locator": null,
+"node": "dird-advanced-space-propulsion-based-on-vacuum",
+"nodeLabel": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b271acf4fc",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"text": "DIRD DIA-08-1003-015, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 29 March 2010, ICOD 1 December 2009, 17 pages, exists in the DIA FOIA release with the author line withheld under (b)(6).",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ec66ff30c4",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"text": "Attribution of this DIRD to Harold E. Puthoff is not established by the DIA release, which redacts the author under (b)(6). It rests on Puthoff's own substantially identical published paper and on his public statements. Needs a primary record with the name attached — wave 4.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+"claimTier": 1,
+"id": "e-4fd6c5c031",
+"label": "deliverable under AAWSAP",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-643823572b",
+"label": "authored at EarthTech International",
+"note": "The DIA list gives Puthoff's affiliation of record for this deliverable as EarthTech International, the Austin institute he founded and directs.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 1,
+"id": "e-316261287b",
+"label": "authored",
+"note": "Authorship, corroborated internally rather than only by the DIA list. References 3, 16 and 19 of the paper are Puthoff's own prior work, and DIA singled the report out as its showcase deliverable in Info Memo U-10-2552 to USD(AT&L).",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+"claimTier": 1,
+"id": "e-b3d1c303ac",
+"label": "published and holds; DIA-08-1003-015",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+"claimTier": 1,
+"id": "e-200ddce729",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+"claimTier": 1,
+"id": "e-39411ae074",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 29 March 2010 on the cover. 18 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-b4f6af86",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+}
+],
+"node": null,
+"title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)",
+"topics": [
+{
+"claims": [
+"c-4573ad1d36",
+"c-95bde387aa",
+"c-ec66ff30c4"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+]
+}

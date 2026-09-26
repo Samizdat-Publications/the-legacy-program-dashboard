@@ -1,0 +1,69 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e69301fcde",
+"locator": null,
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"sourceText": "Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/ , opened 2026-09-18",
+"text": "His conclusion on the credentials: 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' His investigation records that 'Standard inquiries have been made by George Knapp and Stanton Friedman and turned up nothing'; that Glenn Campbell in 1993 found no Lazar 'in any MIT student directory between 1978 and 1990'; and that Natalie Gilmore of Caltech Graduate Studies stated that Caltech 'does not currently have, nor has it ever had any sort of graduate degree in electronics or electronic technology'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 2,
+"id": "e-54e41e21e3",
+"label": "The most detailed documentary examination of the account, 1990s and 2018",
+"note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-otherhand-org-8d41f5af",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+}
+],
+"node": null,
+"title": "Tom Mahood, 'Lazar Flaws - Education'",
+"topics": [
+{
+"claims": [
+"c-e69301fcde"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-e69301fcde"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/"
+]
+}

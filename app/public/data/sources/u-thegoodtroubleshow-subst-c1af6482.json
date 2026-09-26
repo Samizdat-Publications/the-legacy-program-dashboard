@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 2,
+"id": "e-a3a26163d8",
+"label": "publicly attacked her oversight as 'playhouse politics' and the hearings as 'reality TV'",
+"note": "Reported September 2025; Luna's office responded that Kirkpatrick was 'a known documented liar' who 'blocked the release of information' and 'tried to discredit witnesses.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 2,
+"id": "e-796a110be8",
+"label": "post-government employment at the DOE lab that supported AARO and later held the UAP material sample",
+"note": "Kirkpatrick became CTO for Defense and Intelligence Programs at ORNL, operated by UT-Battelle, immediately after leaving AARO. The post-employment question under 18 U.S.C. 207 has been raised publicly and never adjudicated.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-thegoodtroubleshow-subst-c1af6482",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "thegoodtroubleshow.substack.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "The Good Trouble Show - Ex-Pentagon Chief, Now at DOE's Oak Ridge, Attacks Rep. Luna",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thegoodtroubleshow.substack.com/p/ufo-cover-up-ex-pentagon-chief-now"
+]
+}

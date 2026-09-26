@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a6624ac578",
+"locator": null,
+"node": "john-mchugh",
+"nodeLabel": "John M. McHugh",
+"sourceText": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+"text": "A House Armed Services Committee statement dated 2 June 2009 describes McHugh as 'House Armed Services Committee Ranking Member John M. McHugh (R-NY)' and states that 'Congressman McHugh took the reins as Ranking Member of the House Armed Services Committee in January.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 2,
+"id": "e-eb791960aa",
+"label": "Representative, New York 23rd district, until 21 September 2009",
+"note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-69044cbc2f",
+"label": "Ranking Member, House Armed Services Committee",
+"note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-democrats-armedservices--9d481ded",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+}
+],
+"node": null,
+"title": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+"topics": [
+{
+"claims": [
+"c-a6624ac578"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army"
+]
+}

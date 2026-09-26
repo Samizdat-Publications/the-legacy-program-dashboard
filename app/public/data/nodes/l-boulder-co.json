@@ -7,26 +7,34 @@
 {
 "id": "c-37dc9a0dea",
 "source": "Wikipedia, Condon Committee, citing the project record — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "The Air Force contract with the University of Colorado was announced in October 1966 with initial funding of $313,000, eventually exceeding $500,000; Edward Condon directed and Robert J. Low coordinated.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-81d21fa2fa",
 "source": "Robert J. Low memorandum, 9 August 1966, University of Colorado project files — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "Low's memorandum of 9 August 1966 stated the study would be 'conducted almost entirely by non-believers' and would present 'the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer'; it became public in July 1967 when James E. McDonald found it in project files.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b63a148024",
 "source": "Condon Report; USAF Blue Book closure records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "The 1,485-page report was delivered to the Air Force in November 1968 and released in January 1969; the Air Force terminated Project Blue Book on 17 December 1969 in response.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5270686a9c",
 "source": "Inference from the Low memorandum, the Condon Report and the 1969 Bolender memorandum",
+"sources": [],
 "text": "Boulder is the template for procurement of a scientific conclusion: the contracting agency obtained an academic verdict whose framing is documented in the contractor's own internal memorandum, then used it to close its public reporting channel while, per the Bolender memo, national-security-relevant reports had never used that channel. Reasoning: the Low memo, the report's conclusion and the Bolender memo read together.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

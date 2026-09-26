@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-3e3459e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+}
+],
+"node": null,
+"title": "Internet Archive - Full text of Project Blue Book Special Report #14",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt"
+]
+}

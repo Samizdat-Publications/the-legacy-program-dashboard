@@ -8,8 +8,16 @@
 {
 "id": "c-dea528a11a",
 "source": "Contemporaneous press record; GAO/NSIAD-95-187 background",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "background",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth on 8 July 1947, where it was publicly identified as a weather balloon.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "location",

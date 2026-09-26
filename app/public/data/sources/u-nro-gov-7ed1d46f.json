@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 1,
+"id": "e-eacf29aa11",
+"label": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+"note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-nro-gov-7ed1d46f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Reconnaissance Office",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+{
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+}
+],
+"node": null,
+"title": "National Reconnaissance Office - About NRO",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nro.gov/About-NRO/"
+]
+}

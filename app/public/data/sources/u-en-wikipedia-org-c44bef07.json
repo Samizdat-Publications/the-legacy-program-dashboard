@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 2,
+"id": "e-9afe7e1ba9",
+"label": "co-authored a paper with Kirkpatrick while Kirkpatrick was AARO director",
+"note": "Recorded because the chair of the 2026 external review body previously published jointly with the first AARO director.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 2,
+"id": "e-796a110be8",
+"label": "post-government employment at the DOE lab that supported AARO and later held the UAP material sample",
+"note": "Kirkpatrick became CTO for Defense and Intelligence Programs at ORNL, operated by UT-Battelle, immediately after leaving AARO. The post-employment question under 18 U.S.C. 207 has been raised publicly and never adjudicated.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-c44bef07",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "Wikipedia - Sean M. Kirkpatrick",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick"
+]
+}

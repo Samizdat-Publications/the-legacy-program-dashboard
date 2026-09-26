@@ -1,0 +1,40 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-ff935d64",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+{
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9058812583.mp3?updated=1752174755"
+]
+}

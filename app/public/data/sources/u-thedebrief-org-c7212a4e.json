@@ -1,0 +1,143 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-464837384a",
+"label": "author of the notes at the centre of the custody claim",
+"note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
+"b": {
+"cls": "person",
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"claimTier": 3,
+"id": "e-dd096990f4",
+"label": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
+"note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-39f56dc200",
+"label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
+"note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-e484c14b06",
+"label": "The 2002 notes and the 2023 sworn testimony describe the same access-denial mechanism",
+"note": "Both describe an appropriately cleared official being refused a read-on by programme security officers and contractor gatekeepers on need-to-know grounds. Twenty-one years apart, two officials describe the same wall.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"b": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"claimTier": 3,
+"id": "e-1ec3a56650",
+"label": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
+"note": "EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-cc5305178c",
+"label": "Wilson denies the meeting and the substance attributed to him",
+"note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-c7212a4e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
+{
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+{
+"cls": "person",
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+}
+],
+"node": null,
+"title": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/summer-of-the-saucers/"
+]
+}

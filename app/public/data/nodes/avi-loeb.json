@@ -96,68 +96,108 @@
 {
 "id": "c-197e4a06f1",
 "source": "Research Notes of the AAS, DOI 10.3847/2515-5172/ad2370",
+"sources": [],
 "text": "Loeb is lead author of 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS, 31 January 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5eda019de8",
 "source": "Chemical Geology DOI 10.1016/j.chemgeo.2025.122628; Geophysical Journal International, March 2024",
+"sources": [],
 "text": "The IM1 spherule composition claims were contested in the peer-reviewed literature by Rudraswami, Singh & Pandey in Chemical Geology (March 2025) and by Fernando et al. in Geophysical Journal International (March 2024) on the seismic localisation.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d38ae88349",
 "source": "Skeptics Society announcement, 15 June 2026; Avi Loeb, Medium, 29 June 2026; Associated Press, 30 June 2026",
+"sources": [],
 "text": "Loeb was named chair of a UAP Science Advisory Council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other intelligence community members, announced 15 June 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fa78c1b67b",
 "source": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
+"sources": [],
 "text": "Loeb wrote that 'over the past week, I was tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2ff37710bb",
 "source": "Associated Press, 30 June 2026, as summarised in the public record",
+"sources": [],
 "text": "The council has no budget and no access to classified material.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-22cbcc68d2",
 "source": "Inference from the council's stated terms - unclassified data only, no budget - stated in the reporting",
+"sources": [],
 "text": "A council chartered by the White House and four agencies, staffed by outside scientists, and denied both money and classified access is a containment structure, not an investigative one: it produces the appearance of scientific oversight while guaranteeing the advisers cannot reach the material the question turns on.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-4e8d82d087",
 "source": "DefenseScoop, 17 June 2026; Loeb's own published account, June-July 2026",
+"sources": [],
 "text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW representation.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4b7cd5a20e",
 "source": "Avi Loeb, Medium essays, June-July 2026",
+"sources": [],
 "text": "Loeb states the council's charge is to resolve the nature of UAP by scientific evidence and that it advises rather than reports to the office holding the data.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b4d6c752f0",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"sources": [
+{
+"id": "u-defensescoop-com-50fc68fe",
+"locator": null,
+"title": "DefenseScoop, UAP Science Advisory Council"
+}
+],
 "text": "'The goal of the council is to advise the U.S. government on how to resolve the nature of UAP.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-af5a4f05e7",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"sources": [
+{
+"id": "u-defensescoop-com-50fc68fe",
+"locator": null,
+"title": "DefenseScoop, UAP Science Advisory Council"
+}
+],
 "text": "'Since UAPs are physical objects that interact with humans, the council includes members with expertise in physical sciences as well as psychology and biology.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8e419391d3",
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"sources": [
+{
+"id": "u-thesolfoundation-org-1955652b",
+"locator": null,
+"title": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'"
+}
+],
 "text": "All data shared with the council will be unclassified.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

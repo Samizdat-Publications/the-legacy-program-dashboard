@@ -1,0 +1,309 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-95040181d1",
+"locator": null,
+"node": "mq9-yemen-hellfire-video-2024",
+"nodeLabel": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
+"sourceText": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Taken with DOW-UAP-PR051 (MQ-9 weapons-quality lock, Jordan-Syria border) and the Gulf of Oman AC-130J set with DOW-UAP-D101, the record now contains multiple US weapons employments or weapons-grade engagements against unidentified objects that were not destroyed, none of which is characterised as an engagement in any AARO annual report. Reasoning: the three events are separately sourced and the FY2023-FY2025 annual reports contain no engagement category.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-9b0aa41588",
+"locator": null,
+"node": "pursue-r05-identifiers",
+"nodeLabel": "PURSUE Release 05 file identifiers (7 August 2026)",
+"sourceText": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Release 05 comprises 41 files: 16 videos, 22 documents, 3 images, no audio.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c5a08a40b0",
+"locator": null,
+"node": "pursue-r05-identifiers",
+"nodeLabel": "PURSUE Release 05 file identifiers (7 August 2026)",
+"sourceText": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Identified files include DOW-UAP-PR122 (Gulf of Oman, 8 Sept 2021), DOW-UAP-D101 (Gulf of Oman intelligence report), DOW-UAP-PR134 (Middle East orb, 1 Jan 2025), DOW-UAP-D098 (1953 analysis of the Montana/Utah cases), FBI-UAP-D031 (Colorado Springs triangle, Oct 2023), FBI-UAP-D025 (Bagram triangle, June 2002), DOS-UAP-D002 (Brazil diplomatic cable, Nov 1963) and EOP-UAP-D001 (Brazil incident report, Nov 1963).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-df66a203d2",
+"locator": null,
+"node": "pursue-r05-identifiers",
+"nodeLabel": "PURSUE Release 05 file identifiers (7 August 2026)",
+"sourceText": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Sean Parnell, Assistant to the Secretary of War for Public Affairs: the material 'continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-3cb375a394",
+"locator": null,
+"node": "pursue-r05-identifiers",
+"nodeLabel": "PURSUE Release 05 file identifiers (7 August 2026)",
+"sourceText": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "The prefix EOP-UAP-D001 establishes the Executive Office of the President as an originating authority in the UAP records universe. Reasoning: the corpus uses originator prefixes (DOW, ODNI, FBI, DOS) and EOP is the standard abbreviation for the Executive Office of the President.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "navy-pic-1953-film-analysis",
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 3,
+"id": "e-814761da21",
+"label": "Contradicts the panel's 1953 disposition of the same films",
+"note": "The Navy's own analysts assessed the Great Falls and Tremonton objects as intelligently controlled and not known technology in the same year the Robertson Panel recommended stripping the subject of special status.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"id": "e-2d3693a5d0",
+"label": "A 2021 gunship engagement absent from the reporting periods that cover it",
+"note": "The 8 September 2021 incident falls inside the FY2023 and FY2024 reporting windows and appears in neither, which is either omission or evidence it sat outside AARO's case system.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "mq9-yemen-hellfire-video-2024",
+"label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)"
+},
+"b": {
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"claimTier": 3,
+"id": "e-5f87e46c8a",
+"label": "two documented US weapons engagements of unidentified objects",
+"note": "Yemen October 2024 (MQ-9, Hellfire) and the Gulf of Oman September 2021 (AC-130J, cannon fire, objects reportedly reacting) establish a pattern of engagement absent from every AARO annual report.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"claimTier": 1,
+"id": "e-73efa12ec4",
+"label": "Fifth tranche, 7 August 2026",
+"note": "41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 case.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"b": {
+"cls": "document",
+"id": "navy-pic-1953-film-analysis",
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+},
+"claimTier": 2,
+"id": "e-452dd70252",
+"label": "Released the 1953 Navy photo-interpretation finding",
+"note": "The Navy Photographic Interpretation Center's assessment that the Tremonton objects were self-luminous and intelligently controlled surfaced publicly for the first time in this tranche.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"b": {
+"cls": "document",
+"id": "cia-readingroom-ufo",
+"label": "CIA FOIA Reading Room - UFO collection"
+},
+"claimTier": 2,
+"id": "e-4ea7aca143",
+"label": "Released the 1963 Brazil sphere report",
+"note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"b": {
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"claimTier": 2,
+"id": "e-2cf2601aea",
+"label": "Released the AC-130J gunship videos and DOW-UAP-D101",
+"note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "pursue-r05-identifiers",
+"label": "PURSUE Release 05 file identifiers (7 August 2026)"
+},
+"b": {
+"cls": "document",
+"id": "navy-pic-1953-film-analysis",
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+},
+"claimTier": 1,
+"id": "e-053e6d6bd3",
+"label": "published as DOW-UAP-D098",
+"note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "pursue-r05-identifiers",
+"label": "PURSUE Release 05 file identifiers (7 August 2026)"
+},
+"b": {
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"claimTier": 1,
+"id": "e-0d7d12e17d",
+"label": "published the engagement record",
+"note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "pursue-r05-identifiers",
+"label": "PURSUE Release 05 file identifiers (7 August 2026)"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"claimTier": 1,
+"id": "e-7b8076bb00",
+"label": "file-level inventory",
+"note": "41 files - 16 videos, 22 documents, 3 images - with identifiers spanning DOW, FBI, DOS and EOP originators.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-earthsky-org-2122ed83",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "earthsky.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "navy-pic-1953-film-analysis",
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+},
+{
+"cls": "document",
+"id": "cia-readingroom-ufo",
+"label": "CIA FOIA Reading Room - UFO collection"
+},
+{
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+{
+"cls": "event",
+"id": "mq9-yemen-hellfire-video-2024",
+"label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)"
+},
+{
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+{
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+{
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+{
+"cls": "document",
+"id": "pursue-r05-identifiers",
+"label": "PURSUE Release 05 file identifiers (7 August 2026)"
+}
+],
+"node": null,
+"title": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"topics": [
+{
+"claims": [
+"c-95040181d1",
+"c-9b0aa41588",
+"c-c5a08a40b0"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+},
+{
+"claims": [
+"c-9b0aa41588",
+"c-c5a08a40b0",
+"c-df66a203d2"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-9b0aa41588",
+"c-c5a08a40b0"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+}
+],
+"type": "article",
+"urls": [
+"https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+]
+}

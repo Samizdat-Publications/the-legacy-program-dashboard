@@ -31,26 +31,40 @@
 {
 "id": "c-f81473e94d",
 "source": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+"sources": [
+{
+"id": "dtic-ada326147",
+"locator": null,
+"title": "DTIC ADA326147"
+}
+],
 "text": "The USAF's 'Case Closed' prints James Ragsdale's interview as Appendix C at page 215, and records that the transcript 'was provided by Kevin Randle, the coauthor of the Truth About the UFO Crash at Roswell (Avon Books, 1994), in which direct quotes from this transcript appear.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f3ac43f5c9",
 "source": "The Roswell Report: Case Closed (1997), Appendix C",
+"sources": [],
 "text": "Ragsdale's interview transcript is reproduced at Appendix C, page 215, of the US Air Force's 1997 report 'The Roswell Report: Case Closed'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5cbc2d7368",
 "source": "The Roswell Report: Case Closed (1997), Section 1.4, note 13",
+"sources": [],
 "text": "Ragsdale is quoted in the Air Force report describing the objects at the alleged site as 'They were using dummies in those damned things.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-68224804c3",
 "source": "Comparison of Ragsdale statements with the two Randle-Schmitt scenarios",
+"sources": [],
 "text": "Ragsdale's shifting site description is a marker of researcher feedback rather than of memory decay, because the shifts moved toward whichever site the investigating authors were then advancing. Reasoning: chronology of his statements against the 1991 and 1994 Randle-Schmitt scenarios.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

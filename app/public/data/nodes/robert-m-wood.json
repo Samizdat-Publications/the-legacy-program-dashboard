@@ -46,32 +46,48 @@
 {
 "id": "c-4792e91435",
 "source": "majesticdocuments.com site structure and copyright notice, retrieved 12 August 2026",
+"sources": [],
 "text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, and organises its holdings by date band with a published 'Authenticity Ratings' scheme, alongside sections for FOIA, NARA, Truman Library and British Public Record Office material.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b3735068f1",
 "source": "Wood's own account, given in lectures and in the Majestic Documents materials",
+"sources": [],
 "text": "Wood managed advanced research at McDonnell Douglas for 43 years and directed a company study of field-propulsion effects related to UFO reports.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e912a1091d",
 "source": "Comparison of published treatments of the MJ-12 corpus",
+"sources": [],
 "text": "The Wood forensic protocol is the correct methodological answer to the MJ-12 problem even where its conclusions are wrong, because it makes the documents falsifiable. Reasoning: every other treatment of the corpus - Friedman's defence, Klass's attack, the FBI's one-word 'BOGUS' annotation - asserts a verdict without publishing a repeatable test.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4ff20e480e",
 "source": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
+"sources": [],
 "text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-424998f180",
 "source": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
+"sources": [
+{
+"id": "dodi-3204-01",
+"locator": "IR&D structure",
+"title": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
+}
+],
 "text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

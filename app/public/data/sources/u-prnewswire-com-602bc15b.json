@@ -1,0 +1,109 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-d5de2eedab",
+"label": "National Security Affairs Advisor / advisory board (2017-2020)",
+"note": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "elizondo-resignation-letter-1",
+"label": "Elizondo Resignation Letter #1, 3 October 2017"
+},
+"b": {
+"cls": "event",
+"id": "ttsa-launch-2017",
+"label": "To The Stars Academy public launch, 11 October 2017"
+},
+"claimTier": 3,
+"id": "e-7dc72d0a13",
+"label": "Seven days from resignation effective date to corporate launch",
+"note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 2,
+"id": "e-bb550eb995",
+"label": "Recruitment of a serving OUSD(I) official into a private disclosure vehicle",
+"note": "DeLonge courted serving and retired officials from 2015-2017; the launch roster of 11 October 2017 is the product. The recruitment overlapped Elizondo's final year in government.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "event",
+"id": "ttsa-launch-2017",
+"label": "To The Stars Academy public launch, 11 October 2017"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-4fa01d6807",
+"label": "Public launch and Regulation A+ offering, 11 October 2017",
+"note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-prnewswire-com-602bc15b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "prnewswire.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+},
+{
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+{
+"cls": "event",
+"id": "ttsa-launch-2017",
+"label": "To The Stars Academy public launch, 11 October 2017"
+}
+],
+"node": null,
+"title": "PR Newswire — TTSA launch",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+]
+}

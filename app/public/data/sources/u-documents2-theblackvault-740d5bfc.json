@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-a2d15697ff",
+"label": "records three concurrent names for one program",
+"note": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+"b": {
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"claimTier": 1,
+"id": "e-490318928a",
+"label": "decision packet presented 17 November 2009",
+"note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"b": {
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+"claimTier": 1,
+"id": "e-d4c5520ff0",
+"label": "USD(I) recommends against establishing a SAP",
+"note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-740d5bfc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+{
+"cls": "person",
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+{
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+}
+],
+"node": null,
+"title": "Final packet presented to Deputy Secretary of Defense",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+]
+}

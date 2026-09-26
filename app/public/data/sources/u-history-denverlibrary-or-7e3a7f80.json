@@ -1,0 +1,139 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-2ed9038cfb",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "'The pair were convicted of fraud in 1953, as well as facing federal charges for transporting their ill-gotten gains across state lines.' A 1955 newspaper article shows Newton on probation, unpaid on his fines, and out of state in violation of its terms.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-473aefc7d2",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "'On April 30, 1969, Newton pled guilty to further fraud charges relating to the “salting” of the Buckhorn Mine in Silver City, New Mexico.' He died in 1972.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-5c10ac927e",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "Newton and GeBauer 'were charged with swindling Herman A. Flader to the tune of $50,000'; the device sold was the 'magnetic doodlebug', pitched as based on or reconstructed from alien technology. Denver optometrist Dr. Alfred D. Kleyhauer lost a further $15,000.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-60f630e1bb",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, Chris Root, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "Newton, 'initially known only as the mysterious “Mr. X”', 'notoriously gave a lecture to a host of science students at Denver University on March 8, 1950', claiming he had seen two saucers held by the government, one crashed near Aztec and one near Durango, Colorado.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-6a8ce5f56a",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "'The “mystery metal,” which he claimed was indestructible, was identified as nothing but ordinary aluminum, with no unusual properties.' The sample was supplied to J. P. Cahn of the San Francisco Chronicle.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-8f1f3928dd",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "'The Doodlebugs were determined to be constructed of surplus military radio parts. Far from the professed $800,000 price tag, the estimated cost for each useless device was roughly $3.50.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-cc44026d90",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "Newton claimed the beings were 'probably from Venus', 'between 38 and 42 inches tall', wore cloth 'that could not be torn', and that their magnetic propulsion allowed travel 'at twice the speed of light'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-dc3085bb11",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+"text": "Leonard GeBauer, 'a Phoenix electronics merchant', is identified as 'likely “Dr. Gee,” the “magnetologist” featured prominently in Scully's book'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "location",
+"id": "l-aztec",
+"label": "Aztec, New Mexico"
+},
+"claimTier": 2,
+"id": "e-f4b689bd5b",
+"label": "alleged crash site",
+"note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-history-denverlibrary-or-7e3a7f80",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "history.denverlibrary.org",
+"listedOn": [
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+}
+],
+"node": null,
+"title": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'",
+"topics": [
+{
+"claims": [
+"c-2ed9038cfb",
+"c-473aefc7d2",
+"c-5c10ac927e",
+"c-60f630e1bb",
+"c-6a8ce5f56a",
+"c-8f1f3928dd",
+"c-cc44026d90",
+"c-dc3085bb11"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+]
+}

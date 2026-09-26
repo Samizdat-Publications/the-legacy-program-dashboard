@@ -1,0 +1,111 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"claimTier": 2,
+"id": "e-da5de362aa",
+"label": "Friedman's February 1978 interview reopened Roswell",
+"note": "Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"claimTier": 2,
+"id": "e-2ee2bc759c",
+"label": "Unresolved dispute over MJ-12 authenticity",
+"note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"claimTier": 2,
+"id": "e-3efb6ca3ff",
+"label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
+"note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "institution",
+"id": "mufon",
+"label": "Mutual UFO Network (MUFON)"
+},
+"claimTier": 2,
+"id": "e-1d0d6f81d0",
+"label": "Made the AFOSI disinformation admission from the MUFON platform",
+"note": "Moore chose the 1989 MUFON symposium in Las Vegas to state that he had cooperated with Air Force Office of Special Investigations personnel and passed disinformation to Paul Bennewitz.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"claimTier": 2,
+"id": "e-9d050e82b0",
+"label": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
+"note": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-600fe62e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+}
+],
+"node": null,
+"title": "Stanton T. Friedman - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+]
+}

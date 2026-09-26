@@ -1,0 +1,127 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b9b2fe7cf7",
+"locator": null,
+"node": "fas",
+"nodeLabel": "Federation of American Scientists",
+"sourceText": "https://fas.org/expert/steven-aftergood/",
+"text": "Steven Aftergood joined FAS in 1989 and directed its Project on Government Secrecy from 1991 to 2021.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3d3d806670",
+"locator": null,
+"node": "steven-aftergood",
+"nodeLabel": "Steven Aftergood",
+"sourceText": "https://fas.org/expert/steven-aftergood/",
+"text": "Aftergood was plaintiff in a 1997 FOIA suit against the CIA that resulted in declassification and release of the total US intelligence budget for the first time in fifty years, $26.6 billion for FY1997.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fcff5ea5fc",
+"locator": null,
+"node": "steven-aftergood",
+"nodeLabel": "Steven Aftergood",
+"sourceText": "https://fas.org/expert/steven-aftergood/",
+"text": "Aftergood won a 2006 FOIA suit against the National Reconnaissance Office securing release of unclassified budget records.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "fas",
+"label": "Federation of American Scientists"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 1,
+"id": "e-425505c7ad",
+"label": "2006 FOIA suit forced release of unclassified NRO budget records",
+"note": "Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "steven-aftergood",
+"label": "Steven Aftergood"
+},
+"b": {
+"cls": "institution",
+"id": "fas",
+"label": "Federation of American Scientists"
+},
+"claimTier": 1,
+"id": "e-65ab0e5681",
+"label": "Directed the Project on Government Secrecy 1991-2021",
+"note": "Aftergood joined FAS in 1989 and directed the Project on Government Secrecy from 1991 to 2021. Attested by the FAS expert page.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "steven-aftergood",
+"label": "Steven Aftergood"
+},
+"b": {
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026"
+},
+"claimTier": 1,
+"id": "e-104d58da85",
+"label": "Created the first segment of the record by litigation",
+"note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-fas-org-816e63fb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "institution",
+"id": "fas",
+"label": "Federation of American Scientists"
+},
+{
+"cls": "person",
+"id": "steven-aftergood",
+"label": "Steven Aftergood"
+},
+{
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026"
+}
+],
+"node": null,
+"title": "FAS, Steven Aftergood",
+"topics": [
+{
+"claims": [
+"c-3d3d806670",
+"c-fcff5ea5fc"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+}
+],
+"type": "web page",
+"urls": [
+"https://fas.org/expert/steven-aftergood/"
+]
+}

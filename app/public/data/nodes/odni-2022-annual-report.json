@@ -7,26 +7,58 @@
 {
 "id": "c-e85460a687",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+"sources": [
+{
+"id": "u-dni-gov-74a7d418",
+"locator": null,
+"title": "ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov)"
+}
+],
 "text": "Title page: 'OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE / 2022 Annual Report on Unidentified Aerial Phenomena'. 12 pages, UNCLASSIFIED, PDF CreationDate 10 January 2023 17:54 UTC.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-09cc04f37e",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+"sources": [
+{
+"id": "u-dni-gov-74a7d418",
+"locator": null,
+"title": "ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov)"
+}
+],
 "text": "Caseload growth, stated verbatim: 'In addition to the 144 UAP reports covered during the 17 years of UAP reporting included in the Office of the Director of National Intelligence (ODNI) preliminary assessment, there have been 247 new reports and another 119 that were either since discovered or reported after the preliminary assessment's time period. This totals 510 UAP reports as of 30 August 2022. Additional information is provided in the classified version of this report.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-891a021cbe",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+"sources": [
+{
+"id": "u-dni-gov-74a7d418",
+"locator": null,
+"title": "ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov)"
+}
+],
 "text": "On AARO's creation, under the heading 'Establishment of the All-Domain Anomaly Resolution Office (AARO)': 'The Deputy Secretary of Defense directed the USD(I&S) to establish an office with sufficient scope, authorities, responsibilities, and capabilities to continue the UAPTF efforts and meet the expanded criteria. AARO was established as the UAPTF's successor entity on 20 July 2022. Per its mandate, AARO has the authority to coordinate UAP efforts beyond DoD and is authorized to develop processes and procedures to synchronize and standardize collection...'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-80fd4de799",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+"sources": [
+{
+"id": "u-dni-gov-74a7d418",
+"locator": null,
+"title": "ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov)"
+}
+],
 "text": "The 2022 report explicitly withholds detail to a classified annex - 'Additional information is provided in the classified version of this report' - establishing that a classified companion exists for the annual-report series from 2022 onward.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

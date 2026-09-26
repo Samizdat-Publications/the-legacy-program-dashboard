@@ -7,26 +7,58 @@
 {
 "id": "c-ab7c304103",
 "source": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"sources": [
+{
+"id": "u-history-state-gov-1665a551",
+"locator": null,
+"title": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204"
+}
+],
 "text": "The entire operative content is two sentences: 'Henceforth, the Special Group 5412 will be known as the 303 Committee.' and 'This change in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c7b437b634",
 "source": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"sources": [
+{
+"id": "u-history-state-gov-1665a551",
+"locator": null,
+"title": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204"
+}
+],
 "text": "It is dated Washington, 2 June 1964, is signed by McGeorge Bundy and NOT by the President, and is addressed to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence. Top Secret. Source note: National Archives, RG 59, S/S-NSC Files: Lot 70 D 265.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-029df03dbc",
 "source": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"sources": [
+{
+"id": "u-history-state-gov-1665a551",
+"locator": null,
+"title": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204"
+}
+],
 "text": "IT CONTAINS NO SECRECY POLICY OF ANY KIND. There are no classification rules, no declassification rules and no subject-matter directives in the document. Where NSAM 303 is cited as governing or establishing secrecy policy, the citation is wrong on the face of the primary text, and the authority being described belongs to NSC 5412/2 of 28 December 1955.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fa4d45efa7",
 "source": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"sources": [
+{
+"id": "u-history-state-gov-1665a551",
+"locator": null,
+"title": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204"
+}
+],
 "text": "No connection of any kind between NSAM 303 and unidentified aerial phenomena appears in the document, and a search of the text found none.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

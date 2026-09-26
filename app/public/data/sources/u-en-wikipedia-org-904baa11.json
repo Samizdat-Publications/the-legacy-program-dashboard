@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ea0c7bf7ab",
+"locator": null,
+"node": "wil-mccarthy",
+"nodeLabel": "Wil McCarthy",
+"sourceText": "https://en.wikipedia.org/wiki/Wil_McCarthy — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "McCarthy is a former Lockheed Martin space launch systems flight controller, former engineering manager at Omnitech Robotics, former CTO of Galileo Shipyards, and president of The Programmable Matter Corporation in Lakewood, Colorado.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-904baa11",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "wil-mccarthy",
+"label": "Wil McCarthy"
+}
+],
+"node": null,
+"title": "https://en.wikipedia.org/wiki/Wil_McCarthy",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Wil_McCarthy"
+]
+}

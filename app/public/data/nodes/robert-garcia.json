@@ -43,26 +43,40 @@
 {
 "id": "c-4b3e807010",
 "source": "CHRG-118hhrg53022, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "26 July 2023",
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "Ranking Member of the subcommittee that held the 26 July 2023 hearing; opened it by crediting Burchett's leadership and framing UAP as a national-security and institutional-trust question.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3898ee5201",
 "source": "H.R. 6967 (118th Congress), as introduced, GPO",
+"sources": [],
 "text": "Sponsor of H.R. 6967, the Safe Airspace for Americans Act, introduced 11 January 2024, to create an FAA-to-AARO civilian UAP reporting channel with legal safeguards.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3a426771c4",
 "source": "The Hill, 12 January 2024",
+"sources": [],
 "text": "After the 12 January 2024 ICIG briefing: it is reasonable to contend that 'everyone that was in the room received probably new information.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6c05829ad9",
 "source": "House Oversight hearing transcript, 26 July 2023",
+"sources": [],
 "text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

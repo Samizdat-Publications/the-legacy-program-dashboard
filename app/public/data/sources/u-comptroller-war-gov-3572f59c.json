@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-c27d92ff11",
+"label": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
+"note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"b": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"claimTier": 1,
+"id": "e-d9faad99ea",
+"label": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
+"note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-comptroller-war-gov-3572f59c",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [],
+"node": null,
+"title": "DoD Financial Management Regulation, Volume 2B, Chapter 16, 'Intelligence Programs/Activities'",
+"topics": [],
+"type": "document",
+"urls": [
+"https://comptroller.war.gov/Portals/45/documents/fmr/current/02b/02b_16.pdf"
+]
+}

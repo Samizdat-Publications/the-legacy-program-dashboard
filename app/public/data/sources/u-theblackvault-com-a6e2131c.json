@@ -1,0 +1,97 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+"claimTier": 1,
+"id": "e-cf46504728",
+"label": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
+"note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 1,
+"id": "e-9083dc537b",
+"label": "Targ was co-principal investigator at SRI 1972-1982",
+"note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"b": {
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+"claimTier": 1,
+"id": "e-b891ab203e",
+"label": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
+"note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-a6e2131c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+{
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+{
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+}
+],
+"node": null,
+"title": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+]
+}

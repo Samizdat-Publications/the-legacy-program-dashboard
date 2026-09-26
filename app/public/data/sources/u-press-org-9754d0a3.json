@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-dcfe639f52",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "https://www.press.org/events/ufouap-disclosure-press-conference , opened 2026-09-18",
+"text": "The National Press Club's own events listing carries 'UFO/UAP Disclosure Press Conference', 12 June 2023, 2:00 PM, in the Club's Ballroom, with the disclaimer 'This event is not sponsored or endorsed by The National Press Club'. Steven Greer is the only named presenter and Michael Herrera is not named on the listing. This matters because that event is widely given as the venue of his first public statement; the venue's own record neither confirms nor denies his presence, it simply does not name him.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-press-org-9754d0a3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "press.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+}
+],
+"node": null,
+"title": "National Press Club events listing, UFO/UAP Disclosure Press Conference, 12 June 2023",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.press.org/events/ufouap-disclosure-press-conference"
+]
+}

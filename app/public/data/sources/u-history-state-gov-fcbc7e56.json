@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-548fd95cff",
+"locator": null,
+"node": "nsc-5412",
+"nodeLabel": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"sourceText": "NSC 5412 full text, and FRUS 1964-1968 vol. XII editorial note on covert action, https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement",
+"text": "NSC 5412 DOES NOT CREATE THE 5412 COMMITTEE, and the widely repeated claim that it does is not supported by the document. No Special Group and no committee of that name appears anywhere in the text. The State Department's own editorial note attributes the Special Group to NSC 5412/2 of 28 December 1955, and says the body became known as the 'NSC 5412/2 Special Group'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-history-state-gov-fcbc7e56",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "document",
+"id": "nsc-5412",
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)"
+}
+],
+"node": null,
+"title": "NSC 5412 full text, and FRUS 1964-1968 vol. XII editorial note on covert action",
+"topics": [
+{
+"claims": [
+"c-548fd95cff"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement"
+]
+}

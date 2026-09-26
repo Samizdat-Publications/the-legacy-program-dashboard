@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f04b259989",
+"locator": null,
+"node": "thad-cochran",
+"nodeLabel": "Thad Cochran",
+"sourceText": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm",
+"text": "The Senate Appropriations Subcommittee on Defense hearing volume for Department of Defense Appropriations for Fiscal Year 2010 (111th Congress, hearings from 18 March 2009) contains a witness statement addressed 'Chairman Inouye, Ranking Member Cochran,' confirming Cochran as the subcommittee's ranking minority member in 2009.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-b6511bfbb5",
+"label": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
+"note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "chrg-111shrg48290",
+"identifiers": [
+"CHRG-111shrg48290"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+}
+],
+"node": null,
+"title": "CHRG-111shrg48290",
+"topics": [],
+"type": "hearing record",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm"
+]
+}

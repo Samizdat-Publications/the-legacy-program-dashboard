@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-db551423e5",
+"locator": "y",
+"node": "atomic-energy-act-1954",
+"nodeLabel": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"sourceText": "42 U.S.C. 2014(y), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim",
+"text": "The definition, codified at 42 U.S.C. 2014(y) and enacted as section 11 r.: 'The term Restricted Data means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.' The 1954 enrolled text is identical except that the cross-reference reads 'pursuant to section 142'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-db551423e5",
+"locator": null,
+"node": "atomic-energy-act-1954",
+"nodeLabel": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"sourceText": "42 U.S.C. 2014(y), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim",
+"text": "The definition, codified at 42 U.S.C. 2014(y) and enacted as section 11 r.: 'The term Restricted Data means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.' The 1954 enrolled text is identical except that the cross-reference reads 'pursuant to section 142'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "atomic-energy-act-1954",
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
+},
+"b": {
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+"claimTier": 1,
+"id": "e-f57dd7ab57",
+"label": "The statutory definition of Restricted Data",
+"note": "42 U.S.C. 2014(y), enacted as section 11 r.: all data concerning design, manufacture or utilization of atomic weapons, the production of special nuclear material, or the use of special nuclear material in the production of energy, less whatever has been declassified under the statutory procedure.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "usc-42-2014",
+"identifiers": [
+"42 U.S.C. 2014"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1954",
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
+}
+],
+"node": null,
+"title": "42 U.S.C. 2014",
+"topics": [],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim"
+]
+}

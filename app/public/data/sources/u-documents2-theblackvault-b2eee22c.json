@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-documents2-theblackvault-b2eee22c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+}
+],
+"node": null,
+"title": "AAWSAP contract FY10 modification",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/Contract_FY10.pdf"
+]
+}

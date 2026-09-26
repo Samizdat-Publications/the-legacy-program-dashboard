@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-7586b21c6b",
+"locator": null,
+"node": "talbert-gravity-series-1955",
+"nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"sourceText": "All three articles read in full: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert2ny/talbert2ny_djvu.txt, https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"text": "Thomas Townsend Brown is named in none of the three articles, and neither Winterhaven nor any Navy or Air Force electrogravitics contract appears in them.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-71e645a8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "talbert-gravity-series-1955",
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+}
+],
+"node": null,
+"title": "All three articles read in full:",
+"topics": [
+{
+"claims": [
+"c-7586b21c6b"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/talbert2ny/talbert2ny_djvu.txt"
+]
+}

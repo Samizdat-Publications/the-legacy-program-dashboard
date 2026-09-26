@@ -1,0 +1,153 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+"b": {
+"cls": "person",
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"claimTier": 2,
+"id": "e-cc1325dd5d",
+"label": "Named-source account of what Turner demanded in conference",
+"note": "Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"b": {
+"cls": "document",
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain"
+},
+"claimTier": 2,
+"id": "e-d5f895867e",
+"label": "Named as demanding removal of the eminent domain provision",
+"note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"b": {
+"cls": "program",
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"claimTier": 2,
+"id": "e-233b7b64d2",
+"label": "Named as demanding removal of the Board's subpoena power",
+"note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 2,
+"id": "e-503008c1dd",
+"label": "Named as co-leading the effort to eliminate or alter the Act",
+"note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 2,
+"id": "e-0654ef6c80",
+"label": "Named as supporting the effort against the Act",
+"note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-5c8a363f4e",
+"label": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+"note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-9bf119e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+{
+"cls": "institution",
+"id": "house-armed-services",
+"label": "House Armed Services Committee"
+},
+{
+"cls": "institution",
+"id": "house-intelligence",
+"label": "House Permanent Select Committee on Intelligence"
+},
+{
+"cls": "person",
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+{
+"cls": "person",
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+{
+"cls": "person",
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+}
+],
+"node": null,
+"title": "The Debrief — pushback from lawmakers",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+]
+}

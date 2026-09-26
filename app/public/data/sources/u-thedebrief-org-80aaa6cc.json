@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-5fc193f608",
+"label": "directed the production of the official history",
+"note": "The Volume I historical review was drafted under Kirkpatrick's directorship of AARO and released in early 2024 after his departure; he has publicly identified himself with its findings.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-80aaa6cc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "The Debrief, 'Pentagon UAP Report Says No Evidence U.S. Has Collected Exotic Technology, Kept Programs Hidden from Congress'",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/pentagon-uap-report-says-no-evidence-u-s-has-collected-exotic-technology-kept-programs-hidden-from-congress/"
+]
+}

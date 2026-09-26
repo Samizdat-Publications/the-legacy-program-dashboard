@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-dd739bd1b8",
+"label": "AARO uncovered the fake programme through internal review under Kirkpatrick",
+"note": "Per the Wall Street Journal, AARO discovered the practice during Kirkpatrick's tenure; the Office of the Secretary of Defense then issued a spring 2023 memorandum ordering it stopped.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-san-com-0ab9ab44",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "san.com",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
+"node": null,
+"title": "Straight Arrow News - Pentagon spread UFO disinformation to protect classified projects",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/"
+]
+}

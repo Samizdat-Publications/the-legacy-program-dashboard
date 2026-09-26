@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+"b": {
+"cls": "event",
+"id": "council-bluffs-1977",
+"label": "Council Bluffs, Iowa molten metal fall, 17 December 1977"
+},
+"claimTier": 1,
+"id": "e-a3efb2b48b",
+"label": "Subject of the analysis: the 17 December 1977 molten mass",
+"note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-thehistoricalsociety-org-9f8ce229",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "thehistoricalsociety.org",
+"listedOn": [
+{
+"cls": "event",
+"id": "council-bluffs-1977",
+"label": "Council Bluffs, Iowa molten metal fall, 17 December 1977"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+}
+],
+"node": null,
+"title": "Richard Warner, 'Close Encounter at Big Lake Park', Historical Society of Pottawattamie County",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.thehistoricalsociety.org/h/ufo.html"
+]
+}

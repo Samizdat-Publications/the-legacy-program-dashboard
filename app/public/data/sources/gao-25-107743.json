@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-2ce64ab317",
+"locator": null,
+"node": "gao-high-risk-dod-fm",
+"nodeLabel": "GAO High-Risk List: DOD Financial Management",
+"sourceText": "https://www.gao.gov/high-risk-list",
+"text": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained; other DoD entries are Weapon Systems Acquisition (regressed), Approach to Business Transformation, Business Systems Modernization and Contract Management.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-7d1cb93db1",
+"locator": null,
+"node": "gao-high-risk-dod-fm",
+"nodeLabel": "GAO High-Risk List: DOD Financial Management",
+"sourceText": "https://www.gao.gov/high-risk-list",
+"text": "GAO reports that overall High-Risk List efforts have generated nearly $759 billion in savings.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "gao-high-risk-dod-fm",
+"label": "GAO High-Risk List: DOD Financial Management"
+},
+"b": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"claimTier": 1,
+"id": "e-9cff98ba41",
+"label": "Thirty years of Comptroller General certification that the books cannot produce reliable information",
+"note": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained, alongside four other DoD entries. Attested by GAO's own list.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "gao",
+"label": "Government Accountability Office"
+},
+"b": {
+"cls": "program",
+"id": "gao-high-risk-dod-fm",
+"label": "GAO High-Risk List: DOD Financial Management"
+},
+"claimTier": 1,
+"id": "e-ca07346f6e",
+"label": "GAO maintains the High-Risk List",
+"note": "The High-Risk List is a GAO product, updated at the start of each Congress. Attested by GAO.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "gao-25-107743",
+"identifiers": [
+"GAO-25-107743"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "gao-high-risk-dod-fm",
+"label": "GAO High-Risk List: DOD Financial Management"
+}
+],
+"node": null,
+"title": "GAO-25-107743",
+"topics": [
+{
+"claims": [
+"c-2ce64ab317"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "report",
+"urls": [
+"https://www.gao.gov/high-risk-list"
+]
+}

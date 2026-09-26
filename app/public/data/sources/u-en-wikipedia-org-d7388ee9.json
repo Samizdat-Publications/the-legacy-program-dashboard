@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"b": {
+"cls": "location",
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+},
+"claimTier": 2,
+"id": "e-e941910834",
+"label": "The Low memo shows the conclusion was framed before the study began",
+"note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"b": {
+"cls": "location",
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+},
+"claimTier": 2,
+"id": "e-a215a872a7",
+"label": "The Condon Committee was hosted by the University of Colorado at Boulder",
+"note": "The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon as director and Robert Low as coordinator.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 2,
+"id": "e-0f1080df9a",
+"label": "The Condon report was the stated basis for terminating Blue Book",
+"note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-d7388ee9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+}
+],
+"node": null,
+"title": "Wikipedia - Condon Committee",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Condon_Committee"
+]
+}

@@ -7,92 +7,164 @@
 {
 "id": "c-0425885755",
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-media-defense-gov-2a0d77a1",
+"locator": null,
+"title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov"
+}
+],
 "text": "HRR Volume I, page 6: 'AARO will publish Volume II in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired by AARO after the date of the publication of Volume I.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-0ec7e9e9b9",
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-2a0d77a1",
+"locator": null,
+"title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov"
+}
+],
 "text": "HRR Volume I, page 45 (concluding section): 'This report represents Volume I of AARO's HR2. Volume II will be published in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23) and will provide additional analysis on information not yet secured and analyzed, interviews not yet conducted, and additional avenues of investigation not yet completed by the date of the publication of Volume I.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-519cf45c62",
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-2a0d77a1",
+"locator": null,
+"title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov"
+}
+],
 "text": "HRR Volume I, page 11: 'Volume II will include any findings resulting from interviews and research' conducted after Volume I's cutoff; page 30 states AARO will address remaining 'allegations in Volume II'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4494a4212c",
 "source": "https://www.aaro.mil/Congressional-Press-Products/",
+"sources": [
+{
+"id": "u-aaro-mil-045672bc",
+"locator": null,
+"title": "AARO - Congressional/Press Products index"
+}
+],
 "text": "As of 12 August 2026 AARO's own Congressional/Press Products index lists no Historical Record Report Volume II; the most recent congressional product listed is the FY2025 Consolidated Annual Report (posted 20 July 2026).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e9b2ec3856",
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-23bbe4d5",
+"locator": null,
+"title": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)"
+}
+],
 "text": "Full-text search of the FY2024 and FY2025 Consolidated Annual Reports finds no announcement of Volume II. The FY2024 report's only Historical Record Report reference is retrospective: 'In March 2024, AARO released its unclassified Historical Record Report Volume I to the public via its website, and AARO's Director briefed congressional oversight committees and the media to explain the report's findings at the appropriate levels of classification.' (FY24 report, p. 14)",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d57b3499ed",
 "source": "https://www.aaro.mil/Congressional-Press-Products/",
+"sources": [
+{
+"id": "u-aaro-mil-045672bc",
+"locator": null,
+"title": "AARO - Congressional/Press Products index"
+}
+],
 "text": "Volume II is more than two years overdue against the Volume I commitment and remains unpublished. Reasoning: Volume I (Mar 2024) tied Volume II to the Sec. 6802 FY23 NDAA date; no Volume II appears on AARO's index or in either subsequent annual report as of Aug 2026.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-d6e3b7336b",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
+"sources": [
+{
+"id": "pl-117-263",
+"locator": null,
+"title": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803"
+}
+],
 "text": "The deadline AARO invokes is fixed by Sec. 6802(j)(1)(A) of Pub. L. 117-263: 'Not later than 540 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023...'. Enactment was 23 December 2022, placing the statutory deadline at 15 June 2024. Volume II has not been published as of 12 August 2026 - roughly 26 months past that date.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3e4e602bdf",
 "source": "AARO Historical Record Report Volume I, scope statement",
+"sources": [],
 "text": "Volume I states that Volume II will cover interviews and research conducted between 1 November 2023 and 15 April 2024 plus additional unresolved allegations.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e27ac80551",
 "source": "Kosloski media roundtable on the FY2024 report, 14 November 2024",
+"sources": [],
 "text": "Kosloski said in November 2024 that AARO would release Volume II within months.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-dc6656ecad",
 "source": "aaro.mil Congressional/Press Products and war.gov/UFO, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [],
 "text": "No Volume II appears in AARO's Congressional/Press Products index or on the war.gov/UFO release index as of 12 August 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d11a459f54",
 "source": "Inference from the PURSUE release cadence against the Volume II delay",
+"sources": [],
 "text": "That five tranches of raw imagery could be cleared and published in three months while a promised narrative volume has been withheld for over two years indicates the classification bottleneck is analytic conclusions rather than source-and-method exposure.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-22712ed626",
 "source": "AARO Historical Record Report Volume I, scope statement",
+"sources": [],
 "text": "Volume I states that Volume II will cover interviews and research conducted between 1 November 2023 and 15 April 2024 plus additional unresolved allegations from Volume I.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-416d77d07d",
 "source": "Pentagon press remarks, August 2024, as recorded by Douglas Dean Johnson",
+"sources": [],
 "text": "In August 2024 Pentagon spokesman Maj. Gen. Pat Ryder said officials continued the review but had nothing to announce on timing.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9851a9518d",
 "source": "Wall Street Journal, 6 June 2025",
+"sources": [],
 "text": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the Yankee Blue findings would be included in Volume II, then scheduled for late 2025.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a947aca482",
 "source": "war.gov/UFO release index and AARO publication listings, accessed August 2026",
+"sources": [],
 "text": "As of 12 August 2026 no Volume II appears in AARO's or the Department of War's published release index.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "document",

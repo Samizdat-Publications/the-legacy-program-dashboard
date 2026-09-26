@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-sec-gov-bc001e10",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "sperry-rand",
+"label": "Sperry Rand Corporation"
+}
+],
+"node": null,
+"title": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/746838/0000746838-94-000005.txt"
+]
+}

@@ -1,0 +1,126 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-f5202bc8bd",
+"label": "Life Sciences Division, Office of Scientific Intelligence",
+"note": "Green was the agency analyst to whom biological anomalies were routed, including oversight of the SRI remote-viewing work, before writing the AAWSAP injury study two decades later.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+"claimTier": 1,
+"id": "e-72d320eaff",
+"label": "Author of the AAWSAP human-injury reference document",
+"note": "Green, a physician-neuroscientist and former CIA life-sciences analyst, wrote the study of injuries attributed to proximity to anomalous craft; released publicly by Popular Mechanics on 14 February 2020.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-b57e1d1a93",
+"label": "Deputy administrator of BAASS, the AAWSAP performer",
+"note": "Kelleher ran the operational science side of the contract that produced the DIRD series, having previously managed NIDS field investigations for the same principal, Robert Bigelow.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 2,
+"id": "e-f2aaaa8e50",
+"label": "Kelleher's 2005 book led Lacatski to Bigelow and thence to the AAWSAP contract",
+"note": "DIA official James Lacatski read 'Hunt for the Skinwalker' by Kelleher and George Knapp, contacted Bigelow, visited the ranch, and relayed the experience to Sen. Harry Reid; the two later co-authored 'Skinwalkers at the Pentagon' (2021).",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"claimTier": 2,
+"id": "e-17c5625eed",
+"label": "Continuous employment across NIDS and BAASS under the same principal",
+"note": "Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-popularmechanics-com-2df7656a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Popular Mechanics",
+"listedOn": [
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+{
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+}
+],
+"node": null,
+"title": "Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/"
+]
+}

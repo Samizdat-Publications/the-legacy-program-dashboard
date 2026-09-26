@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 1,
+"id": "e-428894ad19",
+"label": "the member bloc that forces briefings and carries amendments outside committee jurisdiction",
+"note": "Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-burchett-house-gov-a1551450",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "burchett.house.gov",
+"listedOn": [],
+"node": null,
+"title": "Rep. Tim Burchett, 'Rep. Burchett Launches UAP Caucus, Leads Letter to Intelligence Community Inspector General'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector"
+]
+}

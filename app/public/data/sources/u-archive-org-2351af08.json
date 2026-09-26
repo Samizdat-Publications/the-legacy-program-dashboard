@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-2351af08",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-sarbacher",
+"label": "Robert I. Sarbacher"
+}
+],
+"node": null,
+"title": "Hyper and Ultrahigh Frequency Engineering, Sarbacher and Edson, John Wiley & Sons 1943",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/dli.ernet.14512"
+]
+}

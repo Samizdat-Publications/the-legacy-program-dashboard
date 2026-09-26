@@ -1,0 +1,172 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3000f48fe7",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Richard J. Genik II, Ph.D., was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine, and was one of fifteen experts selected by the US Army to advise on two decades of neuroscience research funding.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-268e9b2720",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Richard J. Genik II is director of the Emergent Technology Research Division and research assistant professor in the Department of Psychiatry and Behavioral Neurosciences at Wayne State University, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-389dff4129",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Wayne State's title for Genik is director, not executive director: 'Richard J. Genik II, Ph.D., director of the Emergent Technology Research Division and assistant professor of the Department of Psychiatry and Behavioral Neurosciences for the Wayne State University School of Medicine'. Green held the executive directorship and had left it by April 2009; Genik is director by July 2009. The two titles are different and sequential, not competing.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7012614e3a",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Director of the Emergent Technology Research Division and assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine; selected as one of fifteen experts advising the U.S. Army on two decades of neuroscience research investment.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7e8d4f5e56",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "The Army study Genik was selected for was requested by Tom Killion, deputy assistant secretary for Research and Technology and chief scientist for the U.S. Army, of the National Research Council. Genik chaired the technology group of the 20-month study and was one of four committee members on the briefing team, presenting at the Pentagon, the Board of Army Science and Technology, the Army Research Lab, the Army Research Institute, Medical Research and Material Command, Training and Doctrine Command, and the Office of Acquisition, Logistics and Technology. He was the only member of the briefing team to present at all three official briefings.",
+"tier": 2
+}
+],
+"date": "2009-07-13",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"b": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"claimTier": 1,
+"id": "e-4397e53108",
+"label": "authored by Richard J. Genik II",
+"note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-5d1a72c334",
+"label": "author's institution at time of writing",
+"note": "Genik was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine. Wayne State supplied four of the 38 DIRDs across two authors - Genik's three plus Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International's six.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-dc62594a14",
+"label": "author's institutional affiliation at time of writing",
+"note": "Wayne State University is the affiliation recorded against this title on the DIA congressional list. Wayne State appears more than once on the list: it is also the affiliation given for Kit Green's human-tissue field-effects deliverable, so both the human-effects and human-interface strands of the AAWSAP deliverable set run through the same medical school.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-7f5998fc07",
+"label": "director, Emergent Technology Research Division; assistant professor of psychiatry and behavioral neurosciences",
+"note": "Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-0ac4b924d5",
+"label": "author's affiliation of record",
+"note": "Wayne State is the DIA-listed affiliation for four DIRDs: Genik's three human-factors papers and Kit Green's \"Field Effects on Biological Tissues.\" That makes it the single most productive institution in the DIRD set after EarthTech International, and the locus of the programme's human-effects line of inquiry.",
+"type": "institutional"
+}
+],
+"era": "2",
+"id": "u-today-wayne-edu-3a063b54",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "today.wayne.edu",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+{
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+{
+"cls": "document",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+}
+],
+"node": null,
+"title": "Wayne State University School of Medicine news profile, \"Richard Genik, Ph.D.\"",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+]
+}

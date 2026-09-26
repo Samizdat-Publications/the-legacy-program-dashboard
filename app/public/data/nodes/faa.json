@@ -7,56 +7,127 @@
 {
 "id": "c-63622b7928",
 "source": "National Archives, 'Record Group 615: Unidentified Anomalous Phenomena Records Collection', https://www.archives.gov/research/topics/uaps/rg-615",
+"sources": [
+{
+"id": "nara-rg-615",
+"locator": "Unidentified Anomalous Phenomena Records Collection'",
+"title": "NARA Record Group 615"
+},
+{
+"id": "u-archives-gov-84d9f25c",
+"locator": null,
+"title": "National Archives, Record Group 615"
+}
+],
 "text": "NARA's Record Group 615 page, last reviewed 28 August 2026, lists the Federal Aviation Administration first among eight contributing agencies, at National Archives Identifier 493468575.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4830c6b335",
 "source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"sources": [
+{
+"id": "u-catalog-archives-gov-6004c76a",
+"locator": null,
+"title": "National Archives Catalog metadata export, NAID 493468575"
+}
+],
 "text": "The FAA series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accession numbers TR-0615-2025-0006 and TR-0615-2025-0008, has an extent of '575 portable document files (pdf)', an inclusive start date of 1 October 2023 and a coverage end date of 26 October 2024, and is held by the National Archives at College Park, Electronic Records.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-79178e95cd",
 "source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"sources": [
+{
+"id": "u-catalog-archives-gov-6004c76a",
+"locator": null,
+"title": "National Archives Catalog metadata export, NAID 493468575"
+}
+],
 "text": "The series carries access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)', and a use restriction of 'Unrestricted'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a4cb4794fa",
 "source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"sources": [
+{
+"id": "u-catalog-archives-gov-6004c76a",
+"locator": null,
+"title": "National Archives Catalog metadata export, NAID 493468575"
+}
+],
 "text": "The catalog's creator authority for the series is 'Department of Transportation. Federal Aviation Administration. (04/01/1967 - )', National Archives Identifier 10480916, with an establish date of 1 April 1967.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f997965b17",
 "source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"sources": [
+{
+"id": "u-catalog-archives-gov-6004c76a",
+"locator": null,
+"title": "National Archives Catalog metadata export, NAID 493468575"
+}
+],
 "text": "The series' finding aid note records that 'The agency provided a metadata list of all files in this series', with the source given as the Federal Aviation Administration.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0260a79e45",
 "source": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3', 22 May 2026, 0:09:40, transcript in dist/transcripts/md/",
+"sources": [],
 "text": "On DEBRIEFED with Chris Ramsay, 22 May 2026, at 0:09:40, host Chris Ramsay, attributing the account to the Puerto Rican researcher Jorge Martin, said that the FAA confirmed the deployment of multiple F-14s 'for testing' near Cabo Rojo at the time of a December 1988 mass sighting, and that the Americans later denied it. No record opened here bears on that claim.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a79d75ad02",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-cdn-centerforinquiry-org-97e272f4",
+"locator": null,
+"title": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'"
+}
+],
 "text": "Its Alaskan Region issued a press release on 5 March 1987 on the Japan Air Lines 1628 incident, stating that agency experts at the Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concluding 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-401c8183a5",
 "source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-d4772d11",
+"locator": null,
+"title": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr."
+}
+],
 "text": "In a letter of 27 June 2001 responding to a FOIA request it stated: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were subsequently located at the National Archives in Record Group 237, archival identifier 733667.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7a48858a2d",
 "source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-a88020df",
+"locator": null,
+"title": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'"
+}
+],
 "text": "The surviving file records the agency's own process in dated documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, and transcripts of interviews with the three JAL crew members on 2, 5 and 15 January 1987.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

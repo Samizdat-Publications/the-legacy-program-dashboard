@@ -10,26 +10,52 @@
 {
 "id": "c-dadb934d39",
 "source": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ufohastings-com-c80b0c86",
+"locator": null,
+"title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+}
+],
 "text": "Robert Jamison was a US Air Force 1st Lieutenant commanding an ICBM Combat Targeting Team at Malmstrom AFB, Montana, from January 1965 to October 1967, then a missile targeting instructor at Chanute AFB, Illinois, and separated from active duty as a Captain in July 1972. He executed an affidavit and appeared at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-406805c7d0",
 "source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ufohastings-com-30d064f4",
+"locator": null,
+"title": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026"
+}
+],
 "text": "Robert Hastings dates the Oscar Flight incident to 24 March 1967, eight days after Echo Flight, and gives Capt. Jamison's information as the basis for that date. The separation of the two events rests on this recollection.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-227a9a2459",
 "source": "Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-documents-theblackvault--8e6b0d44",
+"locator": null,
+"title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+}
+],
 "text": "Nothing in the 88 released pages of the 341st Strategic Missile Wing histories corroborates a second March 1967 shutdown. A full-text search of the release returns zero occurrences of 'Oscar', zero of 'O Flight', zero of '24 Mar' and zero of '25 Mar'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e7ba424793",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "SECTION 2a PROVENANCE. No dated public statement by Robert Jamison about these events, made before Robert Hastings contacted him, was identified by the pass of 19 September 2026. He first appears in the public record at the 2010 National Press Club event, with an affidavit executed for that event.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

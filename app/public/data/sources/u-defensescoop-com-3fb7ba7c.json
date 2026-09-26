@@ -1,0 +1,256 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4f5e2969ad",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-60df48e812",
+"locator": null,
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"sourceText": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "Hegseth's reference to 'that executive order' is unmatched by any published order; the contemporaneous instrument is a Truth Social post. Either the Secretary characterised a social-media post as an executive order, or an unpublished order exists. Reasoning: no UAP declassification executive order appears in the Federal Register or on whitehouse.gov as of 12 August 2026.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-1a356a5c1f",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "Trump directed Hegseth and other departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-a64deafb9c",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "Sean Parnell: 'The department looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-bfe3d5c8ae",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-839c22e236",
+"locator": null,
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files.",
+"tier": 2
+}
+],
+"date": "2026-02-20",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 2,
+"id": "e-ef8b0a977d",
+"label": "Issued the direction that created PURSUE",
+"note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "hegseth-uap-statements-2026",
+"label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 3,
+"id": "e-2795b20cb0",
+"label": "characterises a social-media post as an executive order",
+"note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 2,
+"id": "e-dfd399cc1a",
+"label": "Named implementer; called it 'that executive order'",
+"note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-cff8e5d26c",
+"label": "The directive is the stated basis of the release programme",
+"note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 2,
+"id": "e-c05f0f0dc2",
+"label": "Executive-controlled release running in parallel to, and in tension with, the committee's compelled-production track",
+"note": "The House caucus response has been to keep issuing letters on the premise that a curated release cannot substitute for compelled production.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-parnell",
+"label": "Sean Parnell"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 2,
+"id": "e-16626a610a",
+"label": "First departmental acknowledgement of the directive",
+"note": "Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive', framing PURSUE as interagency implementation rather than an AARO or congressional product.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-59de4c450c",
+"label": "Identified the missing metadata as the disqualifying defect",
+"note": "Gallaudet welcomed the first open admission that UAP files had been shielded and said the absence of metadata made it impossible to conclude any object was truly anomalous.",
+"type": "investigative"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-3fb7ba7c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+{
+"cls": "event",
+"id": "hegseth-uap-statements-2026",
+"label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
+},
+{
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+{
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+{
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+{
+"cls": "person",
+"id": "sean-parnell",
+"label": "Sean Parnell"
+},
+{
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+}
+],
+"node": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"topics": [
+{
+"claims": [
+"c-1a356a5c1f"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-60df48e812"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+]
+}

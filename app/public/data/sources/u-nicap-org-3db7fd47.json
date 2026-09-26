@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"b": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"claimTier": 2,
+"id": "e-db9a42211f",
+"label": "Bolender names JANAP 146 as the channel Blue Book was not",
+"note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-bd9b6d6043",
+"label": "JANAP created a parallel reporting channel outside Blue Book",
+"note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-3db7fd47",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "person",
+"id": "carroll-bolender",
+"label": "Carroll H. Bolender"
+},
+{
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+}
+],
+"node": null,
+"title": "JANAP 146(C), 10 March 1954",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nicap.org/janp146c.htm"
+]
+}

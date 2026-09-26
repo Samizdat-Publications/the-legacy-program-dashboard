@@ -8,20 +8,26 @@
 {
 "id": "c-f63540a234",
 "source": "FBI Records: The Vault - 'Majestic 12'",
+"sources": [],
 "text": "The FBI maintains a public file on the Majestic 12 documents in its Vault reading room.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f553ff4141",
 "source": "Klass, Skeptical Inquirer",
+"sources": [],
 "text": "Philip J. Klass published a forensic critique identifying document anomalies in Skeptical Inquirer in 1988.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3b5de598e8",
 "source": "The Majestic Documents (Wood & Wood)",
+"sources": [],
 "text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "domain",

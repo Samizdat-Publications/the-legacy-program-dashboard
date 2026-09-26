@@ -1,0 +1,314 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-e60d7689e0",
+"locator": "B-230522, 24 May 1988, Results in Brief and Recommendations",
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"sourceText": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-e60d7689e0",
+"locator": null,
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"sourceText": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-73526a3692",
+"locator": "transmittal letter",
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-73526a3692",
+"locator": null,
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-835365fdc4",
+"locator": "Results in Brief",
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-835365fdc4",
+"locator": null,
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-925b4c639c",
+"locator": "Recommendations section",
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-925b4c639c",
+"locator": null,
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cb297fc745",
+"locator": "Results in Brief",
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "Creation authority is held by four people: 'Only the three service secretaries and Deputy Under Secretary of Defense for Policy are authorized to establish special access programs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cb297fc745",
+"locator": null,
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "Creation authority is held by four people: 'Only the three service secretaries and Deputy Under Secretary of Defense for Policy are authorized to establish special access programs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cee85d9b58",
+"locator": "B-230522, 24 May 1988, transmittal letter",
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cee85d9b58",
+"locator": null,
+"node": "gao-nsiad-88-152",
+"nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceText": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4713d47251",
+"locator": "B-230522, 24 May 1988, Results in Brief and Recommendations",
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4713d47251",
+"locator": null,
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
+}
+],
+"date": "1988-05-24",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+"b": {
+"cls": "domain",
+"id": "d-oversight",
+"label": "Congressional Oversight"
+},
+"claimTier": 1,
+"id": "e-908017f10d",
+"label": "Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees",
+"note": "Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+"b": {
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+"claimTier": 1,
+"id": "e-97bccd3bf3",
+"label": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
+"note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+"b": {
+"cls": "document",
+"id": "gao-130581",
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+},
+"claimTier": 1,
+"id": "e-446dd9e83c",
+"label": "The same GAO division two years after the Lockheed document-control testimony",
+"note": "The same GAO division, two years after the Lockheed document-control testimony the board already holds, reporting on the establishment criteria rather than on document accountability.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+"b": {
+"cls": "institution",
+"id": "gao",
+"label": "Government Accountability Office"
+},
+"claimTier": 1,
+"id": "e-1cafa00599",
+"label": "GAO's own report, signed out of the National Security and International Affairs Division under B-230522",
+"note": "The report is GAO's own, signed out of the National Security and International Affairs Division under B-230522.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+"b": {
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+"claimTier": 1,
+"id": "e-6410cc9d84",
+"label": "Records that no OSD office held a list of all special access programmes in 1988",
+"note": "The report records that no OSD office held a list of all special access programmes in 1988, which is the condition the SAPOC was later created to fix.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+"b": {
+"cls": "domain",
+"id": "d-sap",
+"label": "Special Access Programs"
+},
+"claimTier": 1,
+"id": "e-df64c24d34",
+"label": "A primary statement of how special access programmes are established and by whom",
+"note": "The report is a primary statement of how special access programmes are established and by whom.",
+"type": "programmatic"
+}
+],
+"era": "1",
+"id": "gao-nsiad-88-152",
+"identifiers": [
+"GAO/NSIAD-88-152"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+{
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+{
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+}
+],
+"node": {
+"cls": "document",
+"id": "gao-nsiad-88-152",
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"topics": [
+{
+"claims": [
+"c-73526a3692",
+"c-73526a3692",
+"c-835365fdc4",
+"c-835365fdc4",
+"c-925b4c639c",
+"c-925b4c639c",
+"c-cb297fc745",
+"c-cb297fc745",
+"c-cee85d9b58",
+"c-cee85d9b58"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+},
+{
+"claims": [
+"c-73526a3692",
+"c-73526a3692",
+"c-835365fdc4",
+"c-835365fdc4",
+"c-cee85d9b58",
+"c-cee85d9b58"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "report",
+"urls": [
+"https://www.gao.gov/assets/nsiad-88-152.pdf"
+]
+}

@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-a932fee29a",
+"locator": "title page and table of contents",
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, title page and table of contents https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+"text": "The 1995 evaluation that closed the programme is titled 'AN EVALUATION OF REMOTE VIEWING: RESEARCH AND APPLICATIONS', was prepared by the American Institutes for Research and is dated September 29, 1995; it is released as CIA-RDP96-00791R000200180006-4. Its authors are Michael D. Mumford, Andrew M. Rose and David A. Goslin. Jessica Utts and Ray Hyman are the two expert reviewers rather than authors: Chapter Three carries 'Review 1 (Dr. Jessica Utts)', 'Review 2 (Ray Hyman)' and 'The Reply (Dr. Jessica Utts)'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-a932fee29a",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, title page and table of contents https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+"text": "The 1995 evaluation that closed the programme is titled 'AN EVALUATION OF REMOTE VIEWING: RESEARCH AND APPLICATIONS', was prepared by the American Institutes for Research and is dated September 29, 1995; it is released as CIA-RDP96-00791R000200180006-4. Its authors are Michael D. Mumford, Andrew M. Rose and David A. Goslin. Jessica Utts and Ray Hyman are the two expert reviewers rather than authors: Chapter Three carries 'Review 1 (Dr. Jessica Utts)', 'Review 2 (Ray Hyman)' and 'The Reply (Dr. Jessica Utts)'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-ef777bce21",
+"locator": "Executive Summary pages E-4 to E-5",
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, Executive Summary pages E-4 to E-5 https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+"text": "The report's Executive Summary states: 'Most importantly, the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence.' It adds that in no case had the information provided ever been used to guide intelligence operations, and concludes that 'continued use of remote viewing in intelligence gathering operations is not warranted.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-ef777bce21",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, Executive Summary pages E-4 to E-5 https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+"text": "The report's Executive Summary states: 'Most importantly, the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence.' It adds that in no case had the information provided ever been used to guide intelligence operations, and concludes that 'continued use of remote viewing in intelligence gathering operations is not warranted.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "cia-rdp96-00791r000200180006-4",
+"identifiers": [
+"CIA-RDP96-00791R000200180006-4"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "CIA-RDP96-00791R000200180006-4",
+"topics": [
+{
+"claims": [
+"c-a932fee29a",
+"c-a932fee29a",
+"c-ef777bce21",
+"c-ef777bce21"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt"
+]
+}

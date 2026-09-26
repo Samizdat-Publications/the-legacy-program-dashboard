@@ -1,0 +1,150 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-3dd2209354",
+"locator": null,
+"node": "hearing-2022-05-17",
+"nodeLabel": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"sourceText": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "The transcript's own caption block reads: 'UNIDENTIFIED AERIAL PHENOMENA / Tuesday, May 17, 2022 / U.S. House of Representatives, / Permanent Select Committee on Intelligence, / Subcommittee on Counterterrorism, Counterintelligence, / and Counterproliferation, / Washington, D.C.' It records that 'The subcommittee met, pursuant to call, at 9:00 a.m., in Room HVC-210, Capitol Visitor Center, the Hon. Andre Carson [chairman of the subcommittee] presiding', with Representatives Carson, Schiff, Welch, Himes, Krishnamoorthi, Wenstrup, Crawford, Gallagher, Mullin and LaHood present.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-5d53ff6cb0",
+"locator": null,
+"node": "hearing-2022-05-17",
+"nodeLabel": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"sourceText": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "Carson stated the hearing's premise on the record: 'More than 50 years ago, the U.S. Government ended Project Blue Book... In 2017, we learned for the first time that the Department of Defense had quietly restarted a similar organization, tracking what we now call unidentified aerial phenomena, or UAPs. Last year Congress rewrote the charter for that organization, now called the Airborne Object Identification and Management Synchronization Group, or AOIMSG for short. Today we will bring that organization out of the shadows.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-6aaafaff13",
+"locator": null,
+"node": "hearing-2022-05-17",
+"nodeLabel": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"sourceText": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "Carson put the organisational status question to the witnesses on the record: 'First, we need you to update us on the status of AOIMSG. The legislation creating it was passed in December. The deadline for implementation is fast approaching, but the group does not even have a named director.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-380dafc2ef",
+"locator": null,
+"node": "ronald-moultrie",
+"nodeLabel": "Ronald S. Moultrie",
+"sourceText": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "Chairman Andre Carson addressed the two witnesses by name and title in his opening remarks at the 17 May 2022 hearing: 'Under Secretary Moultrie, Mr. Bray, thank you for coming today.' Moultrie appeared as Under Secretary of Defense for Intelligence and Security.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6cf177f7b8",
+"locator": null,
+"node": "scott-bray",
+"nodeLabel": "Scott W. Bray",
+"sourceText": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "Chairman Andre Carson addressed the two witnesses by name and title in his opening remarks at the 17 May 2022 hearing: 'Under Secretary Moultrie, Mr. Bray, thank you for coming today.' Bray appeared as Deputy Director of Naval Intelligence.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "hearing-2022-05-17",
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-0021bc25c5",
+"label": "The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from",
+"note": "Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "ronald-moultrie",
+"label": "Ronald S. Moultrie"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2022-05-17",
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'"
+},
+"claimTier": 1,
+"id": "e-6cbf8a2d12",
+"label": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
+"note": "A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "scott-bray",
+"label": "Scott W. Bray"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2022-05-17",
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'"
+},
+"claimTier": 1,
+"id": "e-de0bc59df7",
+"label": "Witness of record, appearing as Deputy Director of Naval Intelligence",
+"note": "A genuine witness appearance in an official capacity.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-d6bb7d5d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2022-05-17",
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'"
+},
+{
+"cls": "person",
+"id": "ronald-moultrie",
+"label": "Ronald S. Moultrie"
+},
+{
+"cls": "person",
+"id": "scott-bray",
+"label": "Scott W. Bray"
+}
+],
+"node": null,
+"title": "HHRG-117-IG05-Transcript-20220517",
+"topics": [
+{
+"claims": [
+"c-3dd2209354",
+"c-5d53ff6cb0",
+"c-6aaafaff13",
+"c-380dafc2ef",
+"c-6cf177f7b8"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+}
+],
+"type": "transcript",
+"urls": [
+"https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+]
+}

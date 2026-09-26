@@ -171,122 +171,197 @@
 {
 "id": "c-ac3ea99c33",
 "source": "American Alchemy with Jesse Michels, 'CIA Historian: Aliens Control Our Government (ft. Peter Levenda)', 22 November 2025, 3:56:16 to 3:58:57, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1108723055.mp3?updated=1763834387",
+"sources": [
+{
+"id": "u-mgln-ai-ae321f4d",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'CIA Historian: Aliens Control Our Government (ft. Peter Levenda)' (episode audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 22 November 2025, at 3:56:16 to 3:58:57, Peter Levenda said he spent a full day in a conference room in Austin, arranged by Tom DeLonge, with Chris Mellon, Harold Puthoff and Jacques Vallee. He said that when the group asked about a specific matter concerning Skinwalker Ranch, the equipment used there and the data collected, all three fell silent, and that Puthoff then said 'we need a skiff for this one' and would not say why. Levenda gives the account in the first person as a participant and says he took contemporaneous notes.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b271acf4fc",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"sources": [
+{
+"id": "u-dia-mil-b4f6af86",
+"locator": null,
+"title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)"
+}
+],
 "text": "DIRD DIA-08-1003-015, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 29 March 2010, ICOD 1 December 2009, 17 pages, exists in the DIA FOIA release with the author line withheld under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-33a736cdb7",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"sources": [
+{
+"id": "u-dia-mil-ce3242b6",
+"locator": null,
+"title": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)"
+}
+],
 "text": "DIA singled this report out as its showcase deliverable: Info Memo U-10-2552 to USD(AT&L) states 'One of the 26 reports, titled Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering was published in March, 2010. It is included as enclosure 2 and is provided as an example of the reports.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ec66ff30c4",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"sources": [
+{
+"id": "u-dia-mil-b4f6af86",
+"locator": null,
+"title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)"
+}
+],
 "text": "Attribution of this DIRD to Harold E. Puthoff is not established by the DIA release, which redacts the author under (b)(6). It rests on Puthoff's own substantially identical published paper and on his public statements. Needs a primary record with the name attached — wave 4.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-5c7fed8ae7",
 "source": "DIA letter to Senate Armed Services Committee listing 38 AATIP products, 9 January 2018, item 5",
+"sources": [],
 "text": "Puthoff authored the AAWSAP Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' for EarthTech International.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-bc54bc9477",
 "source": "DIA FOIA release via The Black Vault, DIRD_15",
+"sources": [],
 "text": "The DIRD was released in full by DIA and is publicly downloadable.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b76a491244",
 "source": "The War Zone analysis of the DIA list, 18 January 2019",
+"sources": [],
 "text": "EarthTech International produced six of the 38 DIRDs between Puthoff and Eric Davis, more than any other single organisation.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b6b9fa8a50",
 "source": "Inference from the SRI, NIDS and AAWSAP funding records",
+"sources": [],
 "text": "Puthoff's continuous federal funding from SRI in 1972 through AAWSAP in 2010 indicates a durable government requirement for exactly the class of physics the official position says has no basis — the reasoning being that agencies do not fund the same investigator for four decades across three programs by accident.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-6854f0cd5c",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"sources": [],
 "text": "Listed in TTSA's Form 1-K as Vice President Science and Technology, age 81, a director, and President and CEO of EarthTech International since 1985 with a 1967 Stanford PhD.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ea294e0360",
 "source": "The Black Vault, reporting on the re-released Reid memorandum, 13 June 2019",
+"sources": [],
 "text": "His name appears in the 24 July 2009 Harry Reid memorandum to Deputy Secretary of Defense William Lynn III requesting Special Access Program status for AATIP; the name was originally redacted and later released.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ab736b05e1",
 "source": "TTSA Regulation A offering materials, SEC EDGAR exhibit, July 2020",
+"sources": [],
 "text": "TTSA's ADAM Research Project was conducted in partnership with EarthTech International of Austin, Texas.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-96d754436b",
 "source": "Nature 251, 602-607 (1974)",
+"sources": [],
 "text": "Puthoff and Targ published remote-viewing results in Nature (vol. 251, pp. 602-607) on 18 October 1974.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4440f67730",
 "source": "CIA STARGATE declassified collection",
+"sources": [],
 "text": "Puthoff and Targ's November 1978 SRI paper 'Standard Remote Viewing Protocol (Local Targets)' is part of the declassified CIA STARGATE corpus.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-26be797620",
 "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021",
+"sources": [],
 "text": "Puthoff was among the consultants Bigelow hired for the National Institute for Discovery Science in 1995, his prior work dating back to the CIA's Stargate programme.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fc7769b7e6",
 "source": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "us-patent-10144532",
+"locator": "'Craft using an inertial mass reduction device', printed front page and specification, , opened 2026-09-19",
+"title": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+},
+{
+"id": "us-patent-10144532",
+"locator": null,
+"title": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+}
+],
 "text": "A GRANTED US NAVY PATENT CITES HIM BY NAME ON ITS PRINTED FRONT PAGE. The 'Other Publications' list of US 10,144,532, 'Craft using an inertial mass reduction device', assigned to the Secretary of the Navy, includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. This is a documentary join between the Navy filing and Puthoff, printed on the patent, and it is better evidence of the connection than any later statement about the same relationship.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-65befd03e5",
 "source": "DIA letter to Steven Aftergood, Federation of American Scientists, 16 January 2019; DIA FOIA reading room AATIP index",
+"sources": [],
 "text": "Puthoff authored the DIA reference document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', one of 38 products produced under the DIA Defense Warning Office's AAWSA programme and listed by DIA to FAS on 16 January 2019.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c32ff9901c",
 "source": "Cover and preface, 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', Christopher Green, M.D., Ph.D.",
+"sources": [],
 "text": "The Institute for Advanced Studies at Austin - Puthoff's institute - appears as the producing imprint on the cover of Christopher Green's AAWSAP medical DIRD, and that document's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' for analysis of 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-05d925f30f",
 "source": "EarthTech International, About page",
+"sources": [],
 "text": "EarthTech International Inc., Austin, was founded by Puthoff in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin (est. 1985).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-26858e905a",
 "source": "Letter from Puthoff reported by M.J. Banias, Vice, 14 November 2019",
+"sources": [],
 "text": "Puthoff wrote in 2012 that testing of the Linda Moulton Howe metal samples had not proved alien origin nor produced any 'interesting/anomalous outcome', but that one further test requiring unavailable equipment remained.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-75a3fb2b37",
 "source": "Inference from the DIRD covers, the FAS-released AAWSAP list, and the TTSA/ADAM reporting; not established by a single primary document",
+"sources": [],
 "text": "Puthoff functions as the standing private-sector custodian of choice for the US government's anomalous-materials problem: the same laboratory that received the 2007 ET-emissions proposal, produced AAWSAP propulsion papers, and later held the TTSA ADAM samples. No public record shows any other private laboratory occupying that position across all three periods.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

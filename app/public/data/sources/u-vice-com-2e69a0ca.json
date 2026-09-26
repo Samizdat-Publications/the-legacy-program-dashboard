@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+"claimTier": 2,
+"id": "e-21a4a99511",
+"label": "Received the three files in the Pentagon parking lot and passed them to the NYT",
+"note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 2,
+"id": "e-3e330b3250",
+"label": "Supplied the videos published with the story",
+"note": "Mellon says he provided the files to the Times; the Times separately stated the Department of Defense was its on-the-record source for them.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 3,
+"id": "e-2a15189942",
+"label": "Congressional advocacy channel from 2018 that fed the Task Force and AARO",
+"note": "Mellon's March 2018 Washington Post op-ed and his subsequent Hill work are the bridge between the TTSA period and the formal government structures. The causal link is reasoned from sequence and his documented access, not from a single primary record.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-vice-com-2e69a0ca",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+{
+"cls": "location",
+"id": "l-pentagon",
+"label": "The Pentagon, Arlington, Virginia"
+}
+],
+"node": null,
+"title": "Vice — Ex Intel Official Says He Was the Source of the Pentagon's UFO Videos",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+]
+}

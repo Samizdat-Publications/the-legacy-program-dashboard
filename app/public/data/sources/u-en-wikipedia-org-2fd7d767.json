@@ -1,0 +1,182 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-area51",
+"label": "Area 51 (Homey Airport / Groom Lake operating location)"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-26ae039899",
+"label": "Area 51 is the named facility on the Groom Lake shore",
+"note": "The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-edwards-afb",
+"label": "Edwards Air Force Base, California"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-2f40ed25b5",
+"label": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"claimTier": 2,
+"id": "e-31fd9bb691",
+"label": "Knapp broadcast the Lazar interviews from KLAS-TV Las Vegas in 1989",
+"note": "The May 1989 KLAS-TV interviews created the public reverse-engineering narrative attached to Area 51 and S-4.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"claimTier": 3,
+"id": "e-527fcc3297",
+"label": "The Groom and Tonopah workforce commutes from Las Vegas",
+"note": "The unmarked JANET fleet operates from a dedicated terminal at the Las Vegas airport. Reasoning: publicly observable daily operations; no primary personnel or contract record has been obtained.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-nellis",
+"label": "Nellis Air Force Base and the Nevada Test and Training Range"
+},
+"claimTier": 2,
+"id": "e-9a1f216d19",
+"label": "Groom Lake was administratively carried as part of the Nellis complex",
+"note": "Until the 1995 presidential determination, the official position was that Groom Lake was simply another part of the Nellis Air Force Base complex.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 3,
+"id": "e-37bfc04454",
+"label": "Both are demonstrations of decades-long concealment ending in bulk declassification",
+"note": "Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-tonopah",
+"label": "Tonopah Test Range, Nevada"
+},
+"claimTier": 2,
+"id": "e-0b359abe9c",
+"label": "Programmes matured from Groom Lake to operational basing at Tonopah",
+"note": "HAVE IDEA moved to Tonopah in May 1973; the 4450th Tactical Group moved from Groom Lake to Tonopah beginning 17 May 1982 to operate the F-117A.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-8221f48e9f",
+"label": "Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards",
+"note": "The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-2fd7d767",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-area51",
+"label": "Area 51 (Homey Airport / Groom Lake operating location)"
+},
+{
+"cls": "location",
+"id": "l-edwards-afb",
+"label": "Edwards Air Force Base, California"
+},
+{
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+{
+"cls": "location",
+"id": "l-nellis",
+"label": "Nellis Air Force Base and the Nevada Test and Training Range"
+},
+{
+"cls": "location",
+"id": "l-tonopah",
+"label": "Tonopah Test Range, Nevada"
+}
+],
+"node": null,
+"title": "Wikipedia - Area 51",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Area_51"
+]
+}

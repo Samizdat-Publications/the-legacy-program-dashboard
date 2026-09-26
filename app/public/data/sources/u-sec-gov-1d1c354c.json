@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7e061bd18e",
+"locator": null,
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "SEC Form 4, EDGAR accession 0001082875-03-000004, filed 14 April 2003, https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm",
+"text": "The directorship is independently on file as a Section 16 insider report: SEC Form 4 for INMAN, BOBBY R, statement for 10 April 2003, issuer Science Applications International Corporation, with the 'Director' box checked and 'Form filed by One Reporting Person'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+},
+"b": {
+"cls": "institution",
+"id": "saic",
+"label": "Science Applications International Corporation"
+},
+"claimTier": 1,
+"id": "e-19c8d53c8b",
+"label": "Director of SAIC since 1982 and a paid part-time employee since 1990",
+"note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-sec-gov-1d1c354c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+}
+],
+"node": null,
+"title": "SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003",
+"topics": [
+{
+"claims": [
+"c-7e061bd18e"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm"
+]
+}

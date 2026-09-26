@@ -7,32 +7,42 @@
 {
 "id": "c-5ac243ca28",
 "source": "DHS, About DHS, retrieved 12 August 2026",
+"sources": [],
 "text": "DHS was 'established in 2002, combining 22 different federal departments and agencies into a unified, integrated Cabinet agency' and employs 'more than 260,000 employees'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-1777ff44ba",
 "source": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"sources": [],
 "text": "In 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a Prospective Special Access Program; approximately six months later the DHS Deputy Secretary disapproved and terminated it. KONA BLUE was 'never approved or formally established'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4d02194aff",
 "source": "AARO Historical Record Report Volume I, pp. 34-35",
+"sources": [],
 "text": "AARO states that interviewees claimed KONA BLUE 'was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics', and that after DIA cancelled AAWSAP/AATIP in 2012 'its supporters proposed to DHS that they create and fund a new version'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-89704028c3",
 "source": "AARO Historical Record Report Volume I, p. 34",
+"sources": [],
 "text": "AARO states it partnered with 'the Special Access Program Control Offices for the DoD, IC, and DHS' to review programs identified in interviews by name or description.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9b11b503ac",
 "source": "Inference from AARO/DHS, 'History and Origin of KONA BLUE'",
+"sources": [],
 "text": "The KONA BLUE record establishes that a US department was formally asked, at Under Secretary level and with the support of two sitting senators, to create a compartment for the exploitation of recovered non-human material. Whether the material existed is a separate question from whether the request was made; the request is documented. Reasoning: the AARO/DHS paper is itself the government's admission of the request.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

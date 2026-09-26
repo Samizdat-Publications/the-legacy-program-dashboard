@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-newsweek-com-95b1fef8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Newsweek",
+"listedOn": [
+{
+"cls": "person",
+"id": "lincoln-lapaz",
+"label": "Lincoln LaPaz"
+},
+{
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+{
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+}
+],
+"node": null,
+"title": "Newsweek - UFO Files Reveal 1949 Los Alamos 'Green Fireball' Mystery",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsweek.com/ufo-files-1949-los-alamos-green-fireball-mystery-declassified-department-of-war-12181696"
+]
+}

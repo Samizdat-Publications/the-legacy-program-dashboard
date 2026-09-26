@@ -7,14 +7,30 @@
 {
 "id": "c-52c4155470",
 "source": "Open Library bibliographic record, https://openlibrary.org/books/OL7950835M/Project_Beta , opened 2026-09-19",
+"sources": [
+{
+"id": "u-openlibrary-org-5a0f0f66",
+"locator": null,
+"title": "Open Library bibliographic record for Greg Bishop, 'Project Beta', Paraview Pocket Books, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877"
+}
+],
 "text": "Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth, Greg Bishop, Paraview Pocket Books, 8 February 2005, ISBN 9780743470926 and 0743470923, 288 pages, LCCN 2005297375, OCLC 57678877.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-480eb6b113",
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"sources": [
+{
+"id": "u-trenchantedges-com-ddf9c47c",
+"locator": null,
+"title": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'"
+}
+],
 "text": "The book is a participant account at one remove and should never be the sole source for a claim about William Moore's conduct: Stephen Fisher, relying on it almost exclusively, states that Bishop had an undisclosed friendship with Moore.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

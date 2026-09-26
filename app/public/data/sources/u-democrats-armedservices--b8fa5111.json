@@ -1,0 +1,111 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4dfdeefd68",
+"locator": null,
+"node": "buck-mckeon",
+"nodeLabel": "Howard P. \"Buck\" McKeon",
+"sourceText": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"text": "A House Armed Services Committee statement dated 16 June 2009 records that 'the House Republican Conference selected Congressman Howard P. \"Buck\" McKeon (R-CA) to serve as the Ranking Member of the House Armed Services Committee' and congratulates him 'on his election as the Ranking Member.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-73a2f2ad8f",
+"locator": null,
+"node": "john-mchugh",
+"nodeLabel": "John M. McHugh",
+"sourceText": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"text": "McHugh had left the ranking seat by 16 June 2009, when Chairman Skelton issued a statement congratulating Buck McKeon on his election as the committee's Ranking Member.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "buck-mckeon",
+"label": "Howard P. \"Buck\" McKeon"
+},
+"b": {
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"claimTier": 1,
+"id": "e-b3d5fb0f1d",
+"label": "House Armed Services leadership, 2009-2015",
+"note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "buck-mckeon",
+"label": "Howard P. \"Buck\" McKeon"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-623e2bf31b",
+"label": "Ranking Member then Chairman, House Armed Services Committee",
+"note": "Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-69044cbc2f",
+"label": "Ranking Member, House Armed Services Committee",
+"note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-democrats-armedservices--b8fa5111",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "buck-mckeon",
+"label": "Howard P. \"Buck\" McKeon"
+},
+{
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+}
+],
+"node": null,
+"title": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"topics": [
+{
+"claims": [
+"c-73a2f2ad8f"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+]
+}

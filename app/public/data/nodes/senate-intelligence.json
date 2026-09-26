@@ -7,20 +7,48 @@
 {
 "id": "c-ba40400603",
 "source": "P.L. 117-263; S. 2226 as engrossed Division M; P.L. 118-31; P.L. 118-159, GPO",
+"sources": [
+{
+"id": "pl-117-263",
+"locator": null,
+"title": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803"
+},
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+},
+{
+"id": "pl-118-159",
+"locator": "GPO",
+"title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+}
+],
 "text": "The Intelligence Authorization Act for FY2023 (Secs. 6802, 6803), FY2024 (Sec. 1102 Senate / Sec. 7343 enacted) and FY2025 (Secs. 6801, 6802) all carried UAP provisions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ea5169808c",
 "source": "Full-text search of P.L. 119-60 Division F, GPO",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": "Division F, GPO",
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "The Intelligence Authorization Act for FY2026, Division F of P.L. 119-60, contains no UAP provisions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-03ca73a221",
 "source": "Congressional Record, 13 July 2023 (SA 666 and SA 797), GPO",
+"sources": [],
 "text": "SSCI Chairman Warner authored the contractor turn-in and Vice Chairman Rubio cosponsored the eminent domain amendment, both filed 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

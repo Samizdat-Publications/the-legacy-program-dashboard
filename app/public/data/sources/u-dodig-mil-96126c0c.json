@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-22e0862b11",
+"locator": null,
+"node": "dod-oig",
+"nodeLabel": "Department of Defense Office of Inspector General",
+"sourceText": "https://www.dodig.mil/About/Leadership/",
+"text": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-74e7b3de54",
+"locator": null,
+"node": "platte-moring",
+"nodeLabel": "Platte B. Moring III",
+"sourceText": "https://www.dodig.mil/About/Leadership/",
+"text": "Platte B. Moring III is identified on the Department of War Office of Inspector General leadership page as Inspector General.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "platte-moring",
+"label": "Platte B. Moring III"
+},
+"b": {
+"cls": "institution",
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+"claimTier": 1,
+"id": "e-53bd559b22",
+"label": "Serving Inspector General",
+"note": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War. Attested by the office's own site.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-dodig-mil-96126c0c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DoD Inspector General",
+"listedOn": [
+{
+"cls": "institution",
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+{
+"cls": "person",
+"id": "platte-moring",
+"label": "Platte B. Moring III"
+}
+],
+"node": null,
+"title": "DoW OIG leadership",
+"topics": [
+{
+"claims": [
+"c-74e7b3de54"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dodig.mil/About/Leadership/"
+]
+}

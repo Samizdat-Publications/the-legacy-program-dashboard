@@ -1,0 +1,336 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-7ed647dbeb",
+"locator": "sections 3.3, 3.5 and 1.8",
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "DoDM 5205.07-V1 Enclosure 5 read against E.O. 13526 sections 3.3, 3.5 and 1.8",
+"text": "Because HVSACO is expressly not a classification, material bearing it is outside the E.O. 13526 declassification system - it cannot be the subject of a mandatory declassification review, an automatic declassification at 25 years, or a classification challenge. Reasoning: those remedies operate only on classified national security information.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-c643eb19fb",
+"locator": "and the Atomic Energy Act",
+"node": "eop",
+"nodeLabel": "Executive Office of the President",
+"sourceText": "Inference from the distinct legal bases of EO 13526 and the Atomic Energy Act",
+"text": "Presidential declassification authority under Executive Order 13526 does not reach Restricted Data created under the Atomic Energy Act, so a 2026 UAP declassification directive cannot compel release of any material held under DOE nuclear classification authority. Reasoning: the two systems have separate statutory and executive foundations.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-1833de5ff1",
+"locator": "sec. 4.3(b",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "Executive Order 13526, sec. 4.3(b)",
+"text": "E.O. 13526 sec. 4.3(b) requires that special access programs be subject to the oversight program established under section 5.4(d) and that the Director of ISOO be afforded access to these programs, 'consistent with the policies and procedures directed by the President'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-836aa302fe",
+"locator": "sec. 4.3(a), 75 FR 707",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(a) permits establishment only where 'required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient', and directs that these officials 'shall keep the number of these programs at an absolute minimum'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-a79a3b50d4",
+"locator": "sec. 4.3",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "Executive Order 13526, sec. 4.3",
+"text": "E.O. 13526 sec. 4.3 requires agency heads to keep the number of special access programs at an absolute minimum and to review each program annually to determine whether it continues to meet the criteria for creation.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-bae3a8a1c5",
+"locator": "sec. 4.3(a",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "Executive Order 13526, sec. 4.3(a)",
+"text": "E.O. 13526 sec. 4.3(a): 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-bb69175471",
+"locator": "sec. 4.3(a), 75 FR 707",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "EO 13526 sec. 4.3(a): 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.' For programmes pertaining to intelligence sources and methods, but not military operational, strategic and tactical programmes, the function is the DNI's.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e10d06a134",
+"locator": "sec. 4.3(b)(4)-(5), 75 FR 707",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(b)(4)-(5), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(4) requires that 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order', and (b)(5) that 'Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e48bcaff7d",
+"locator": "sec. 4.3(a",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "Executive Order 13526, sec. 4.3(a)",
+"text": "E.O. 13526 sec. 4.3(a) provides that for programs pertaining to intelligence activities, including special activities, or intelligence sources or methods, this function shall be exercised by the Director of National Intelligence.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-eeb5db9b0f",
+"locator": "sec. 4.3(b)(3), 75 FR 707",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(b)(3), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "THE EXECUTIVE-SIDE NARROWING. Sec. 4.3(b)(3): 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The oversight body's access to an extraordinarily sensitive SAP can therefore be reduced to a single person, at the agency head's discretion.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-391f1f2153",
+"locator": "sec. 4.3(b",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "Text of E.O. 13526 sec. 4.3(b)",
+"text": "The qualifier 'consistent with the policies and procedures directed by the President' in section 4.3(b) makes ISOO's access to any given SAP defeasible by presidential direction, so ISOO cannot warrant that it has seen the full SAP inventory. Reasoning: the access right is expressly conditioned rather than absolute.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-b209b81bf2",
+"locator": "sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together",
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "Reading of 10 U.S.C. 119(e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together; all three texts read from primary sources on 22 August 2026",
+"text": "Three separate instruments each narrow oversight of the same object, and none of them depends on the others. 10 U.S.C. 119(e) reduces the congressional readership of a waived SAP to twelve members. EO 13526 sec. 4.3(b)(3) can reduce ISOO's access to one person. 32 CFR 117.6(b)(3) relieves the Director, DCSA of NISP industrial-security oversight entirely on a carve-out. Congressional, executive and industrial-security oversight are narrowed by three different authorities, so closing any one of them would leave the other two intact.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-3fa8125ccf",
+"locator": null,
+"node": "isoo",
+"nodeLabel": "Information Security Oversight Office",
+"sourceText": "Inference from ISOO's NISP responsibilities under EO 13526",
+"text": "ISOO's oversight of the National Industrial Security Program is the only government-wide mechanism that could detect a contractor-held program without a government sponsor of record, and it has never been directed at the UAP question. Reasoning: NISP covers classified work at cleared facilities regardless of which agency sponsors it.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-64ee83d1c6",
+"locator": "section 4.3(b",
+"node": "odni-capco",
+"nodeLabel": "ODNI Controlled Access Program Coordination Office (CAPCO)",
+"sourceText": "ICD 906 section D.9.c read with E.O. 13526 section 4.3(b)",
+"text": "An ISOO request about an IC controlled access program is routed, by directive, through the office that administers the registry of those programs - so ISOO's independent oversight of IC CAPs is mediated by the entity it would be overseeing. Reasoning: ICD 906 D.9.c places ISOO requests inside CAPCO's coordination function.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-4a465f26ab",
+"locator": null,
+"node": "doe",
+"nodeLabel": "United States Department of Energy",
+"sourceText": "Inference from the statutory basis of Restricted Data versus the executive basis of EO 13526",
+"text": "Any material-exploitation activity placed under DOE Restricted Data authority would be structurally immune to a presidential UAP declassification directive issued under Executive Order 13526, and would not appear in a DoD SAP list at all. Reasoning: the two classification systems are legally distinct, and a 2026 directive addressed to national security information does not reach born-classified atomic energy information.",
+"tier": 3
+}
+],
+"date": "2009-12-29",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)"
+},
+"b": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"claimTier": 1,
+"id": "e-6822c0b550",
+"label": "The category this Act invented is the one the executive order cannot reach",
+"note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 1,
+"id": "e-00963cff71",
+"label": "creates what the statute must report",
+"note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 1,
+"id": "e-27f41186c1",
+"label": "Creates the programs the statute then reports on",
+"note": "E.O. 13526 sec. 4.3 is the source of authority to create a SAP; 10 U.S.C. 119 only prescribes what must be told to Congress afterwards.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"b": {
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+"claimTier": 1,
+"id": "e-7ef6286d69",
+"label": "All SAP categories descend from a single executive order provision",
+"note": "Section 4.3(a) names the six officials who may create a SAP; the DoD taxonomy of acknowledged, unacknowledged and waived operates entirely below that grant.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"b": {
+"cls": "institution",
+"id": "isoo",
+"label": "Information Security Oversight Office"
+},
+"claimTier": 1,
+"id": "e-3225c79470",
+"label": "ISOO access to SAPs is granted and simultaneously conditioned",
+"note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "icd-906",
+"label": "ICD 906 - Controlled Access Programs (ODNI)"
+},
+"b": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"claimTier": 1,
+"id": "e-c109071d21",
+"label": "ICD 906 is the DNI's exercise of the section 4.3 SAP authority",
+"note": "ICD 906 section B.1 establishes oversight of IC special access programs 'pursuant to EO 13526, Section 4.3', which assigns intelligence SAPs to the DNI.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "isoo",
+"label": "Information Security Oversight Office"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-02efd63e7a",
+"label": "The only external body with a claim of access, and the claim is conditional",
+"note": "E.O. 13526 sec. 4.3(b) affords the ISOO Director access to SAPs 'consistent with the policies and procedures directed by the President'.",
+"type": "investigative"
+}
+],
+"era": "2",
+"id": "eo-13526",
+"identifiers": [
+"Executive Order 13526"
+],
+"interestedParty": false,
+"issuer": "The President",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)"
+},
+{
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"title": "Executive Order 13526 - Classified National Security Information",
+"topics": [
+{
+"claims": [
+"c-1833de5ff1",
+"c-836aa302fe",
+"c-e48bcaff7d",
+"c-391f1f2153",
+"c-b209b81bf2",
+"c-3fa8125ccf",
+"c-64ee83d1c6"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-4a465f26ab"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-7ed647dbeb"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "regulation",
+"urls": [
+"https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf"
+]
+}

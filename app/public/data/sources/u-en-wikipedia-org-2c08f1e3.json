@@ -1,0 +1,143 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 2,
+"id": "e-94231c0ee5",
+"label": "Marcel was the 509th intelligence officer who recovered the debris",
+"note": "Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 2,
+"id": "e-a11965ecd2",
+"label": "Mogul is the Air Force's 1994 identification of the debris",
+"note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "roger-ramey",
+"label": "Roger M. Ramey"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 2,
+"id": "e-7fe8c98d47",
+"label": "Ramey retracted the RAAF statement the same day at Fort Worth",
+"note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"b": {
+"cls": "location",
+"id": "l-roswell",
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County"
+},
+"claimTier": 2,
+"id": "e-539720397e",
+"label": "The 1947 recovery was executed by Roswell Army Air Field",
+"note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force's own reports.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-roswell",
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County"
+},
+"b": {
+"cls": "location",
+"id": "l-white-sands",
+"label": "White Sands Missile Range, New Mexico"
+},
+"claimTier": 3,
+"id": "e-3700b6a81e",
+"label": "Roswell sits inside the 1947 New Mexico nuclear and rocketry complex",
+"note": "The Foster Ranch debris field, White Sands Proving Ground, the Alamogordo Mogul launch site, Los Alamos, Sandia and Kirtland all lie within a few hundred miles. Reasoning: geographic proximity is the reason a materiel recovery there fell inside multiple classified security envelopes at once.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-haut",
+"label": "Walter Haut"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 2,
+"id": "e-7426f97fd8",
+"label": "Haut issued the 8 July 1947 'flying disc' press release",
+"note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence office had gained possession of a disc.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-2c08f1e3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "jesse-marcel-jr",
+"label": "Dr. Jesse A. Marcel Jr."
+},
+{
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+{
+"cls": "location",
+"id": "l-roswell",
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County"
+},
+{
+"cls": "document",
+"id": "roswell-report-1995",
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+}
+],
+"node": null,
+"title": "Wikipedia - Roswell incident",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Roswell_incident"
+]
+}

@@ -1,0 +1,41 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ea46211279",
+"locator": null,
+"node": "claudio-maccone",
+"nodeLabel": "Claudio Maccone",
+"sourceText": "https://www.seti.org/news/claudio-maccone/",
+"text": "Maccone was appointed Director for Scientific Space Exploration by the International Academy of Astronautics in 2010 and chaired the IAA SETI Permanent Committee from 2012; he died in 2025.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-seti-org-6e151b7f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "seti.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+{
+"cls": "person",
+"id": "claudio-maccone",
+"label": "Claudio Maccone"
+}
+],
+"node": null,
+"title": "https://www.seti.org/news/claudio-maccone/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.seti.org/news/claudio-maccone/"
+]
+}

@@ -1,0 +1,46 @@
+{
+"archived": [
+"https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf"
+],
+"claims": [
+{
+"cls": "event",
+"id": "c-fd7620a566",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf and https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf",
+"text": "The exposure was published by J. P. Cahn as 'The Flying Saucers and the Mysterious Little Men', True, September 1952, with a follow-up, 'Flying Saucer Swindlers', True, August 1956, presenting further victims.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-physics-smu-edu-92eb326f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "physics.smu.edu",
+"listedOn": [
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+}
+],
+"node": null,
+"title": "J. P. Cahn, True magazine, August 1956 - live scan, retrieved 25 Aug 2026",
+"topics": [
+{
+"claims": [
+"c-fd7620a566"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "document",
+"urls": [
+"http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf"
+]
+}

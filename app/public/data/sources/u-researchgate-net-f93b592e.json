@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2ef2b5df8c",
+"locator": null,
+"node": "paul-czysz",
+"nodeLabel": "Paul A. Czysz",
+"sourceText": "https://www.researchgate.net/profile/Paul-Czysz",
+"text": "Czysz was Professor Emeritus of Aerospace Engineering at Saint Louis University, former chief scientist on the National Aerospace Plane project, and president of HyperTech Concepts LLC; he was named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-researchgate-net-f93b592e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "researchgate.net",
+"listedOn": [
+{
+"cls": "person",
+"id": "paul-czysz",
+"label": "Paul A. Czysz"
+}
+],
+"node": null,
+"title": "Paul Czysz research profile, Saint Louis University, Department of Aerospace and Mechanical Engineering",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.researchgate.net/profile/Paul-Czysz"
+]
+}

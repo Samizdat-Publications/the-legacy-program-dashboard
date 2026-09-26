@@ -7,44 +7,70 @@
 {
 "id": "c-18e8f83d44",
 "source": "National Security Archive Electronic Briefing Book 443, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "u-nsarchive-gwu-edu-8b908003",
+"locator": null,
+"title": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, on the declassified CIA U-2 and OXCART history"
+}
+],
 "text": "The facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443 by Jeffrey T. Richelson on 29 October 2013. This is a statement about Groom Lake. It is NOT a statement about Papoose Lake, and the board's s-4-papoose-lake node exists partly to keep the two from being blurred.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-21a5c3bcb5",
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"sources": [
+{
+"id": "u-archive-org-c155e3cf",
+"locator": null,
+"title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE"
+}
+],
 "text": "Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-861074b262",
 "source": "CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at Area 51, in response to a 2005 FOIA request filed by Jeffrey T. Richelson of the National Security Archive.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c51537b8a9",
 "source": "Presidential determination on the Groom Lake exemption; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location near Groom Lake, Nevada from environmental disclosure laws; the determination is reissued annually.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a88dff69a1",
 "source": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998); Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Groom Lake; Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat; District Judge Philip Pro rejected the government's state secrets claim before the suits were dismissed for lack of evidence.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3f931779da",
 "source": "CIA OXCART history; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7d681b98d7",
 "source": "Inference from the CIA 2013 release and its stated FOIA provenance",
+"sources": [],
 "text": "Groom Lake is the empirical benchmark for how long the United States can hold a physical installation off the public record: fifty-eight years from establishment in 1955 to specific acknowledgement in 2013, and the acknowledgement was forced by a FOIA request, not volunteered. Reasoning: dates are documented; the 2013 release is explicitly a FOIA response.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

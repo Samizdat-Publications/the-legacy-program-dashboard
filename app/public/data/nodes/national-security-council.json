@@ -7,26 +7,78 @@
 {
 "id": "c-bb725f8168",
 "source": "50 U.S.C. 3021(b)(1), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-50-3021",
+"locator": "b)(1",
+"title": "50 U.S.C. 3021"
+},
+{
+"id": "usc-50-3021",
+"locator": null,
+"title": "50 U.S.C. 3021"
+}
+],
 "text": "The statutory purpose has not changed since 1947. 50 U.S.C. 3021(b)(1) still states the Council's function as being 'to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8b001b1ade",
 "source": "50 U.S.C. 3021 source credit, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-50-3021",
+"locator": "source credit",
+"title": "50 U.S.C. 3021"
+},
+{
+"id": "usc-50-3021",
+"locator": null,
+"title": "50 U.S.C. 3021"
+}
+],
 "text": "The source credit on the codified section traces the Council to 'July 26, 1947, ch. 343, title I, Sec. 101, 61 Stat. 496', with the first amendment at 'Aug. 10, 1949, ch. 412, Sec. 3, 63 Stat. 579'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-403be7a42e",
 "source": "50 U.S.C. 3021(a) and (c)(2), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-50-3021",
+"locator": "a) and (c)(2",
+"title": "50 U.S.C. 3021"
+},
+{
+"id": "usc-50-3021",
+"locator": null,
+"title": "50 U.S.C. 3021"
+}
+],
 "text": "THE DIRECTOR OF CENTRAL INTELLIGENCE WAS NEVER A STATUTORY MEMBER, AND THE INTELLIGENCE CHIEF STILL IS NOT. The 1947 membership was the President, the Secretaries of State and Defense, the Secretaries of the Army, Navy and Air Force, and the Chairman of the National Security Resources Board. Today subsection (c)(2) makes the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff attendees the President MAY designate, not members. A body that approves covert action has never been required by statute to seat the person running intelligence.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3618e1040b",
 "source": "50 U.S.C. 3021(e)(3), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-50-3021",
+"locator": "e)(3",
+"title": "50 U.S.C. 3021"
+},
+{
+"id": "usc-50-3021",
+"locator": null,
+"title": "50 U.S.C. 3021"
+}
+],
 "text": "Subsection (e)(3) caps the Council's professional staff at 200.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

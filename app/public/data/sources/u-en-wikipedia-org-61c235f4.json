@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 3,
+"id": "e-4832d0ecc1",
+"label": "The Bennewitz method and the alleged YANKEE BLUE practice are the same technique at different scale",
+"note": "Doty's documented AFOSI activity - feeding fabricated alien-technology material to a target to protect classified programmes - is the same technique Yankee Blue applied internally to cleared personnel. The inference is about method, not about Doty's involvement in Yankee Blue.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-61c235f4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [],
+"node": null,
+"title": "Wikipedia - Kirtland AFB UFO sighting",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting"
+]
+}

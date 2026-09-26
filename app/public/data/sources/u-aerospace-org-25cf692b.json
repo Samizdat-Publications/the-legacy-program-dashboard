@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 1,
+"id": "e-d20cdb2f9e",
+"label": "Operates the only FFRDC dedicated exclusively to the space enterprise",
+"note": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-aerospace-org-25cf692b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "aerospace.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "Aerospace Corporation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://aerospace.org/dedicated-space-enterprise"
+]
+}

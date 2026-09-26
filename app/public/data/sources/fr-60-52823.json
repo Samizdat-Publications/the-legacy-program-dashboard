@@ -1,0 +1,101 @@
+{
+"archived": [],
+"claims": [],
+"date": "1995-10-10",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-1a7f2e9c17",
+"label": "contracting at a site whose existence was itself classified",
+"note": "EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-911d534477",
+"label": "EG&G provided the classified site services and personnel transport for the Groom Lake operating location",
+"note": "The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+},
+"b": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"claimTier": 1,
+"id": "e-e87b058131",
+"label": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
+"note": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 1,
+"id": "e-2852919e5b",
+"label": "Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure",
+"note": "Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure.",
+"type": "institutional"
+}
+],
+"era": "1",
+"id": "fr-60-52823",
+"identifiers": [
+"60 FR 52823"
+],
+"interestedParty": false,
+"issuer": "Federal Register",
+"listedOn": [
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "document",
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+}
+],
+"node": null,
+"title": "60 FR 52823",
+"topics": [],
+"type": "regulation",
+"urls": [
+"https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
+]
+}

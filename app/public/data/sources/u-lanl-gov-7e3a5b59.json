@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-09b44547d7",
+"locator": null,
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "Los Alamos National Laboratory, 'The Los Alamos Primer', National Security Science https://www.lanl.gov/media/publications/national-security-science/0723-the-los-alamos-primer",
+"text": "Los Alamos National Laboratory's own account of the Los Alamos Primer states: 'Physicist Edward Condon transcribed the lectures and compiled the notes into the first official Los Alamos technical report, or LA-1.' The lectures were Robert Serber's, given in April 1943, and LA-1 was declassified in 1965. Three American Alchemy episodes describe Condon as having written the Primer; the laboratory's account gives him the transcribing and compiling role and gives the lectures to Serber.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-lanl-gov-7e3a5b59",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Los Alamos National Laboratory",
+"listedOn": [
+{
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+}
+],
+"node": null,
+"title": "Los Alamos National Laboratory, 'The Los Alamos Primer', National Security Science",
+"topics": [
+{
+"claims": [
+"c-09b44547d7"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.lanl.gov/media/publications/national-security-science/0723-the-los-alamos-primer"
+]
+}

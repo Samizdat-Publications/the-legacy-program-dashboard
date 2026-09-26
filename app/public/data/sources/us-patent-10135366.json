@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-fb7370e586",
+"locator": "US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+"text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
+"tier": 2
+}
+],
+"date": "2015-07-24",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+"b": {
+"cls": "document",
+"id": "pais-patent-emfg",
+"label": "US Patent 10,135,366 - Electromagnetic field generator"
+},
+"claimTier": 2,
+"id": "e-d916bdbc20",
+"label": "Named inventor",
+"note": "Application 14/807943, assigned to the Secretary of the Navy.",
+"type": "programmatic"
+}
+],
+"era": "2",
+"id": "us-patent-10135366",
+"identifiers": [
+"US Patent 10,135,366"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+{
+"cls": "document",
+"id": "pais-patent-emfg",
+"label": "US Patent 10,135,366 - Electromagnetic field generator"
+}
+],
+"node": {
+"cls": "document",
+"id": "pais-patent-emfg",
+"label": "US Patent 10,135,366 - Electromagnetic field generator"
+},
+"title": "US Patent 10,135,366 - Electromagnetic field generator",
+"topics": [
+{
+"claims": [
+"c-fb7370e586"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "document",
+"urls": []
+}

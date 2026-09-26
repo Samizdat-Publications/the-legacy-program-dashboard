@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-edition-open-sources-org-86d3e487",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "edition-open-sources.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+{
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+{
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+}
+],
+"node": null,
+"title": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference (WADC Technical Report 57-216)",
+"topics": [],
+"type": "book",
+"urls": [
+"https://edition-open-sources.org/sources/5/"
+]
+}

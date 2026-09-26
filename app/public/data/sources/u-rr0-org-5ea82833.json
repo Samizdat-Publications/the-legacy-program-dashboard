@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+"claimTier": 1,
+"id": "e-2f1d027c6b",
+"label": "Republishes the NORAD log; the documentary half of his output checks out",
+"note": "THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-rr0-org-5ea82833",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "rr0.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+{
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+}
+],
+"node": null,
+"title": "rr0.org mirror of Robert Hastings's Malmstrom 1975 material, independently rendering the 24th NORAD Region Senior Director's Log. Opened 19 September 2026",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Malmstrom_1975/index.html"
+]
+}

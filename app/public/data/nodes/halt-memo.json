@@ -7,14 +7,24 @@
 {
 "id": "c-8032806a9c",
 "source": "Halt memorandum, 13 Jan 81, released under DoD FOIA case 97-F-1677",
+"sources": [
+{
+"id": "foia-97-f-1677",
+"locator": null,
+"title": "FOIA case 97-F-1677"
+}
+],
 "text": "The memo's closing sentence reads: 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' It is signed CHARLES I. HALT, Lt Col, USAF, Deputy Base Commander.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-acd2a49f9c",
 "source": "Halt memorandum, 13 Jan 81, paragraph 1",
+"sources": [],
 "text": "The memo describes the object as 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high' and states 'It illuminated the entire forest with a white light.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "document",

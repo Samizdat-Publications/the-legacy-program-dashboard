@@ -7,56 +7,128 @@
 {
 "id": "c-c2bf14b7b4",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Verbatim: '(e)(1) The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis. (2) If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e73bb4bb2c",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "The waiver authority is vested in the Secretary of Defense personally and is conditioned only on the Secretary's own determination of adverse national security effect; the statute prescribes no finding of fact, no time limit, no periodic re-justification, and no congressional ability to disapprove.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6f62165ad8",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Subsection (e) was in the section as originally enacted by Pub. L. 100-180 sec. 1132(a)(1) (4 Dec 1987) and has never been amended: the 2001, 1999, 1996 and 1990 amendment notes in the GPO text touch only subsecs. (a)(1), (c), (f) and (g). The waiver language of 1987 is the language in force today.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-aaa2b3e0bd",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Because (e)(1) reaches only 'any requirement ... that certain information be included in a report,' a plain reading is that the Secretary may strip content out of the reports but may not skip the (f) 30-day pre-initiation notification of the program's existence. A program whose existence was never notified to the defense committees at all would therefore not be a lawfully 'waived' SAP under section 119 but an unreported one. Reasoning stated from the text of (e)(1) and (f).",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-098c9b13f2",
 "source": "10 U.S.C. 119(e)(1)",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "e)(1",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119(e)(1): 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-94724985aa",
 "source": "10 U.S.C. 119(e)(2)",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "e)(2",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119(e)(2): the Secretary 'shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e18d3c7d9f",
 "source": "Text of 10 U.S.C. 119(e)(1) compared with 119(f)",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "e)(1) compared with 119(f",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "The waiver authority extends only to subsections (a), (b) and (c); the 30-day pre-initiation notice requirement of subsection (f) is not waivable on the face of the statute.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f7dbb595fb",
 "source": "Full text of 10 U.S.C. 119(e)",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "e",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Section 119(e) imposes no requirement to maintain, publish or report a register of waivers exercised.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ca3aee4493",
 "source": "10 U.S.C. 119(e)(2) read with 119(g)",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "e)(2) read with 119(g",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Read literally, 119(g) names six bodies - Senate Armed Services, Senate Appropriations, the Defense Subcommittee of Senate Appropriations, and the three House counterparts - so 'the chairman and ranking minority member of each of the defense committees' is up to twelve members, not eight. The conventional 'Gang of Eight' framing for defense waived programs counts only the four parent committees. Reasoning: statutory text versus practice convention.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

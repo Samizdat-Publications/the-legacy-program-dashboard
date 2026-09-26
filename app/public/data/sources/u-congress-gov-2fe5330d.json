@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"b": {
+"cls": "institution",
+"id": "senate-armed-services",
+"label": "Senate Armed Services Committee"
+},
+"claimTier": 1,
+"id": "e-d122cf1fbf",
+"label": "Disposed of with seventeen amendments and no open process",
+"note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"claimTier": 1,
+"id": "e-daa0a085a2",
+"label": "Chaired SASC for the FY2026 authorization",
+"note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-2fe5330d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+{
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+}
+],
+"node": null,
+"title": "Congress.gov — S. 1071",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/bill/119th-congress/senate-bill/1071"
+]
+}

@@ -208,152 +208,250 @@
 {
 "id": "c-c2e7045ad9",
 "source": "CHRG-118hhrg57440 CONTENTS and INDEX OF DOCUMENTS",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "CONTENTS and INDEX OF DOCUMENTS",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Luis Elizondo, Author, and Former Department of Defense Official'. Questions for the Record were submitted to him by Rep. Burlison and printed in CHRG-118hhrg57440.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-11cf6d842a",
 "source": "DIA memo U-10-2552CE-IM-ATL, released via The Black Vault",
+"sources": [],
 "text": "A DIA information memorandum to the Under Secretary of Defense for Acquisition, Technology and Logistics uses the name 'Advanced Aerospace Threat and Identification Program', reports the deliverables were of limited value to DIA, and proposes the project 'could be transitioned to another agency or component better suited'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c7c86ef93e",
 "source": "Christopher Sherwood, Pentagon spokesperson, 1 June 2019",
+"sources": [],
 "text": "DoD's public position is that 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f38a8a8dcb",
 "source": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
+"sources": [],
 "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-611eb79ba5",
 "source": "Elizondo statements to the New York Times, 16 December 2017, and subsequently",
+"sources": [],
 "text": "Elizondo states he ran AATIP out of OUSD(I) from approximately 2010 until his resignation in October 2017.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fd8f432074",
 "source": "Inference from the precise phrasing 'no assigned responsibilities' set against the DIA transfer memo",
+"sources": [],
 "text": "DoD's denial is constructed around the word 'assigned' — a term of art that would be technically true of duties performed collaterally or under a different program designation, which is exactly the arrangement the 2010 transition memo contemplates.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-0fcad99b04",
 "source": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": "final response 17 August 2022",
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "His title at resignation was 'Director, National Programs Special Management Staff' within OUSD(I), and his resignation was effective 4 October 2017.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-073d29b678",
 "source": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019",
+"sources": [],
 "text": "He personally submitted the DD Form 1910 on 9 August 2017 requesting clearance of the GoFast, Gimbal and FLIR video files; it was approved 24 August 2017. The stated purpose was 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3238c01deb",
 "source": "OSD FOIA release 21-F-0938, DoD FOIA Reading Room, Public Affairs",
+"sources": [
+{
+"id": "foia-21-f-0938",
+"locator": "DoD FOIA Reading Room, Public Affairs",
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+}
+],
 "text": "He wrote to Pentagon spokesperson Susan Gough on 3 June 2020: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e8fdd26e9b",
 "source": "Keith Kloor, 'UFOs Won't Go Away', Issues in Science and Technology, Spring 2019",
+"sources": [],
 "text": "His 2016 annual performance evaluation rated him 'exemplary'; his supervisor wrote that it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security,' and credited him with identifying and neutralising six insider threats.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fcc543fc47",
 "source": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+"sources": [],
 "text": "Testified under oath on 13 November 2024 that the U.S. government has conducted secret UAP crash retrieval programs and that they were designed to identify and reverse engineer craft of non-human origin, answering 'Yes' to both.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-236f55b68c",
 "source": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+"sources": [],
 "text": "Testified that Imminent went through DOPSR, 'which took a year for it to be reviewed, and what is in the book is what I was told I am allowed to talk about.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a403077ff3",
 "source": "The Black Vault document archive of Elizondo's DoD IG complaint and associated FOIA releases",
+"sources": [],
 "text": "Filed a DoD Inspector General complaint in May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats' by named senior officials.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b01307984d",
 "source": "Inference from the DD-1910 dates, resignation letter dates, and Mellon's on-record account in The Phenomenon (2020)",
+"sources": [],
 "text": "The August 2017 DD-1910 and the October 2017 resignation were a single coordinated exit sequence: clear the imagery first, leave second, surface the story through journalists third. The 46-day gap between approval and resignation, and the fact that Christopher Mellon received the same three files by hand in the Pentagon parking lot, supports sequencing rather than coincidence.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-a1a97b371b",
 "source": "Sworn testimony, House Oversight hearing Unidentified Anomalous Phenomena: Exposing the Truth, 13 November 2024",
+"sources": [],
 "text": "'Absolutely, sir. I had the privilege and honor of working with him myself several years ago at U.S. Space Force.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c5dc568f2e",
 "source": "Sworn testimony, House Oversight, 13 November 2024",
+"sources": [],
 "text": "Asked whether he agreed with Grusch that the US has run a multi-decade UAP crash, retrieval and reverse engineering program: 'Yes, sir.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0bc442fda9",
 "source": "Luis Elizondo, sworn testimony, House Oversight Committee, 13 November 2024",
+"sources": [],
 "text": "'There was an aerospace contract company that requested to divest itself of the material... that was collected in the 1950s. Unfortunately, that did not actually occur.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-93c68cda9e",
 "source": "CHRG-118hhrg57440, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "On the reported Lockheed Martin - Bigelow Aerospace transfer blocked by CIA: 'What I can say is that it was blocked... I was part of some conversations later on with some of those contract personnel where they had told all of us that is accurate. What we required was a memo from the Secretary of the Air Force in order to make that complete, and that never occurred.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-91b6e963c3",
 "source": "CHRG-118hhrg57440, exchange with Rep. Nancy Mace, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "exchange with Rep. Nancy Mace, 13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Asked whether material is distributed to contractors by domain expertise: 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-760a39cac1",
 "source": "Christopher Sharp, Liberation Times, 13 January 2026, citing Elizondo's written testimony to Congress",
+"sources": [],
 "text": "Elizondo alleged in written congressional testimony that NAS Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to move material by air and by river.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d1dfc5a6d3",
 "source": "OSD/WHS FOIA reading room, 21-F-0938",
+"sources": [
+{
+"id": "foia-21-f-0938",
+"locator": null,
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+}
+],
 "text": "Elizondo's 2017 resignation correspondence was addressed to OSD Public Affairs' Susan Gough and was released by the Department under FOIA case 21-F-0938.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2308ae3439",
 "source": "House Committee on Oversight and Accountability hearing record, 13 November 2024",
+"sources": [],
 "text": "Elizondo testified as a named witness before the House Oversight Subcommittees on Cybersecurity/IT and National Security on 13 November 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5f4ef78c47",
 "source": "Sean Kirkpatrick, Scientific American, 19 January 2024",
+"sources": [],
 "text": "Kirkpatrick publicly attributed the modern crash-retrieval narrative to AATIP and Robert Bigelow's circle, an argument that targets Elizondo's account without engaging it as testimony.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4ce7c4da4b",
 "source": "https://en.wikipedia.org/wiki/Luis_Elizondo",
+"sources": [
+{
+"id": "u-en-wikipedia-org-b2454470",
+"locator": null,
+"title": "Wikipedia, Luis Elizondo"
+}
+],
 "text": "At a May 2025 UAP Disclosure Fund hearing Elizondo presented an image he described as a disc-shaped object 600-1,000 feet in diameter; analysts including Mick West identified it as an irrigation circle.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c53b393407",
 "source": "https://en.wikipedia.org/wiki/Luis_Elizondo",
+"sources": [
+{
+"id": "u-en-wikipedia-org-b2454470",
+"locator": null,
+"title": "Wikipedia, Luis Elizondo"
+}
+],
 "text": "His second memoir, 'Reckoning: The Unspoken Truth about UFOs and the Urgency of Now', is scheduled for publication by HarperCollins' Mudlark imprint in August 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

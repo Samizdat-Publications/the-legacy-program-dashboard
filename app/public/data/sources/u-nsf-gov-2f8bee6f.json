@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-nsf-gov-2f8bee6f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Science Foundation",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+{
+"cls": "domain",
+"id": "d-astro",
+"label": "Astronomy & Astrophysics"
+},
+{
+"cls": "domain",
+"id": "d-bio",
+"label": "Biology & Non-Human Biologics"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+{
+"cls": "domain",
+"id": "d-ic",
+"label": "Intelligence Community"
+},
+{
+"cls": "domain",
+"id": "d-international",
+"label": "International & Allied Programs"
+},
+{
+"cls": "domain",
+"id": "d-medical",
+"label": "Medical & Injury Effects"
+},
+{
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+{
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+{
+"cls": "domain",
+"id": "d-research",
+"label": "Scientific Research"
+},
+{
+"cls": "domain",
+"id": "d-witness",
+"label": "Witness Chain"
+}
+],
+"node": null,
+"title": "NSF master government list of FFRDCs",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nsf.gov/statistics/ffrdclist/"
+]
+}

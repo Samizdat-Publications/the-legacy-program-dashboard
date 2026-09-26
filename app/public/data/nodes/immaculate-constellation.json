@@ -7,62 +7,100 @@
 {
 "id": "c-46bc64290f",
 "source": "US GPO, CHRG-118hhrg57440, Index of Documents",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "Index of Documents",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a56bf12ef8",
 "source": "Rep. Nancy Mace, House Oversight hearing, 13 November 2024 (CHRG-118hhrg57440)",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": null,
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "'Committee staff asked me to go ahead, and I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b90e760547",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"sources": [],
 "text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms' and 'includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2477ebc37d",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"sources": [],
 "text": "'One involved orbs surrounding and forcing an F-22 out of its patrol area. In another incident, the crew of a Navy aircraft carrier watched a small orange/red sphere rapidly descend from a high altitude of 100 to 200 yards directly above the flight deck.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-05bc19eaae",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"sources": [],
 "text": "The report describes 'a roughly 13-minute long, high-definition, full-color video of a white orb UAP coming out of the ocean approximately 20 miles off the coast of Kuwait ... joined by another orb that briefly comes into the frame from the left.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-cdf39434fd",
 "source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024",
+"sources": [],
 "text": "The source told Public the USAP is 'a strategic intelligence program'; a source subsequently told Shellenberger the programme 'is controlled by the White House and executed and administrated by the DOD to avoid compliance with Title 10.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5ef2e8f60b",
 "source": "CHRG-118hhrg57440, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Asked by Higgins whether he knew the author, Shellenberger replied 'I do'; asked whether his sources sat inside the Defense Department he said 'I will not say ... I protect my sources.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-9d3c590324",
 "source": "DoD statements as reported in secondary coverage; wave 1 board record",
+"sources": [],
 "text": "The Department of Defense states it has no record of such a programme; spokesperson Sue Gough has said the Department has 'no record', and former AARO director Sean Kirkpatrick has denied its existence.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f37ab2399a",
 "source": "Inference from the AARO product set and the PURSUE release indexes",
+"sources": [],
 "text": "No AARO annual report, statement for the record or PURSUE tranche has addressed a programme name sitting in the Congressional Record, twenty-one months after it was entered. Reasoning: review of the FY2024 and FY2025 annual reports and the war.gov PURSUE release indexes through 7 August 2026.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-c9dc78761b",
 "source": "Inference from the wording of the Department's response and AARO's September 2025 declassification information paper",
+"sources": [],
 "text": "A 'no record' response is a records assertion, not a denial that the programme exists, and is the standard formulation used where an office lacks read-on to an unacknowledged compartment. Reasoning: the Department has not stated that the programme does not exist, and AARO's own September 2025 declassification information paper concedes it cannot review material originated by other offices.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",

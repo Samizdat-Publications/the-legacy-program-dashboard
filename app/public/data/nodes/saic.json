@@ -7,20 +7,26 @@
 {
 "id": "c-837053a72d",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [],
 "text": "USAspending records approximately $52 billion in prime contract obligations to Science Applications International Corporation entities since FY2008.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e7a7bc1d9e",
 "source": "Documented history of the government remote viewing effort; SAIC held the research contract in the 1991-1995 period",
+"sources": [],
 "text": "The US government's remote viewing research program moved from SRI International to SAIC in 1991 and ran there until it was terminated following an external assessment in 1995.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e9255a74b8",
 "source": "Board inference",
+"sources": [],
 "text": "SAIC demonstrates the mechanism by which a deniable government research line is transferred to corporate custody without changing its nature. Reasoning: the remote viewing precedent is documented; no evidence connects SAIC to material custody.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

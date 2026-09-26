@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-cad42aabc7",
+"locator": null,
+"node": "hr-6967-safe-airspace-for-americans-act",
+"nodeLabel": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"sourceText": "Congress.gov H.R. 6967 (118th); GPO BILLS-118hr6967ih; The Hill, 12 January 2024",
+"text": "Introduced 11 January 2024 by Rep. Robert Garcia; co-led with Rep. Glenn Grothman.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "bills-118hr6967ih",
+"identifiers": [
+"BILLS-118hr6967ih"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "glenn-grothman",
+"label": "Glenn S. Grothman"
+},
+{
+"cls": "legislation",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+},
+{
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+}
+],
+"node": null,
+"title": "BILLS-118hr6967ih",
+"topics": [
+{
+"claims": [
+"c-cad42aabc7"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-cad42aabc7"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/BILLS-118hr6967ih/html/BILLS-118hr6967ih.htm"
+]
+}

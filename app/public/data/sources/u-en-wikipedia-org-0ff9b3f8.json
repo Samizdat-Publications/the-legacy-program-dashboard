@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-0ff9b3f8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-stockholm",
+"label": "Stockholm, Sweden"
+}
+],
+"node": null,
+"title": "Wikipedia - Stockholm",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Stockholm"
+]
+}

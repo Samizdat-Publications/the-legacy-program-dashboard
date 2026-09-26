@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": "2020-04",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-f709769690",
+"label": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
+"note": "Basterfield and Cecotti's reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in 'Skinwalkers at the Pentagon' includes the BAASS March 2009 monthly report 'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler', the August 2009 monthly report 'Relations with South American organizations', and a July 2009 report 'Project Colares/Brazil, Outreach to South America'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said 'They wanted artifacts from UFOs, such as metamaterials'; Fortaleza researcher Helio Loyola said 'Here in Brazil they didn't do any research. They took and photographed what the ufologists saw and documented.' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.",
+"type": "research"
+}
+],
+"era": "3",
+"id": "u-ufos-scientificresearch--091231ee",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufos-scientificresearch.blogspot.com",
+"listedOn": [],
+"node": null,
+"title": "Keith Basterfield and Marc Cecotti, 'Further insights into BAASS in Brazil', 17 April 2020",
+"topics": [],
+"type": "article",
+"urls": [
+"https://ufos-scientificresearch.blogspot.com/2020/04/further-insights-into-baass-in-brazil.html"
+]
+}

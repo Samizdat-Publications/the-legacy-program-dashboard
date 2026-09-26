@@ -1,0 +1,174 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-1dddff25e1",
+"locator": null,
+"node": "dird-negative-mass-propulsion",
+"nodeLabel": "Negative Mass Propulsion",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-74bf43ae26",
+"locator": null,
+"node": "dird-negative-mass-propulsion",
+"nodeLabel": "Negative Mass Propulsion",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
+"text": "Defense Intelligence Reference Document titled \"Negative Mass Propulsion\", series \"Defense Futures\", published 2011-01-03 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1101-023. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7c406def44",
+"locator": null,
+"node": "dird-negative-mass-propulsion",
+"nodeLabel": "Negative Mass Propulsion",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
+"text": "Administrative note: 'This product is one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.' Held in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8ba824cd82",
+"locator": null,
+"node": "dird-negative-mass-propulsion",
+"nodeLabel": "Negative Mass Propulsion",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"claimTier": 1,
+"id": "e-b15ff09651",
+"label": "produced under the AAWSA/AAWSAP contract, FY 2010",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"claimTier": 1,
+"id": "e-04caf7a51e",
+"label": "published, numbered and released by DIA as DIA-08-1101-023",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-39bd6c3aa8",
+"label": "commissioned via the BAASS prime contract",
+"note": "Bigelow Aerospace Advanced Space Studies held the DIA contract under which the DIRDs were produced and subcontracted the individual authors; the DIA cover letter to SASC describes the list as 'all products produced under the AATIP contract'. Tier 2 rather than tier 1 because the contractor name is redacted under (b)(3):10 USC 424 on the DIRD cover page itself, so the subcontracting chain for this specific paper is inferred from the programme structure rather than read off the document.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"b": {
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+},
+"claimTier": 1,
+"id": "e-48dcafb07e",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Negative Mass Propulsion' to 'Dr F Winterberg, Univ of Nevada-Reno'. Winterberg is also credited on the same list with 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and published related negative-mass propulsion work in the Journal of the British Interplanetary Society in 2011.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"claimTier": 1,
+"id": "e-9598d345c0",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"claimTier": 1,
+"id": "e-e7f0907cd8",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1101-023. Publication date 03 January 2011 on the cover. 44 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-6908762c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+},
+{
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+}
+],
+"node": null,
+"title": "DIA FOIA Reading Room — Negative Mass Propulsion (PDF)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/"
+]
+}

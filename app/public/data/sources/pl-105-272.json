@@ -1,0 +1,39 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-27a0d725a6",
+"label": "CIA headquarters at Langley, within McLean",
+"note": "Congress fixed this in statute. Public Law 105-272 sec. 309 provides that 'the headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the George Bush Center for Intelligence'. Langley is a neighbourhood of McLean in Fairfax County, and is a different place from Langley Air Force Base at Hampton, Virginia.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "pl-105-272",
+"identifiers": [
+"Public Law 105-272"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "Public Law 105-272",
+"topics": [],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/PLAW-105publ272/html/PLAW-105publ272.htm"
+]
+}

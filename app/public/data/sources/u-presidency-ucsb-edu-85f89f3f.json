@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c2dbcb6933",
+"locator": null,
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"sourceText": "'Remarks at the High School Football Stadium, Los Alamos, New Mexico', 7 December 1962, Public Papers of the Presidents, https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico",
+"text": "The December 1962 visit is real, whatever caused it. Kennedy spoke at Los Alamos on 7 December 1962 with the Vice President present, opening 'Dr. Bradbury, Mr. Vice President, Senator Anderson, Congressman Montoya, Congressman Morris'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+},
+"b": {
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+"claimTier": 3,
+"id": "e-725c11436a",
+"label": "Named as the cause of the December 1962 presidential visit",
+"note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-presidency-ucsb-edu-85f89f3f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "presidency.ucsb.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+}
+],
+"node": null,
+"title": "Pippa Malmgren biography; Public Papers of the Presidents, 7 December 1962",
+"topics": [
+{
+"claims": [
+"c-c2dbcb6933"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico"
+]
+}

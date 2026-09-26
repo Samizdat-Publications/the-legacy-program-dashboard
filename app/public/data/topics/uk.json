@@ -32,6 +32,7 @@
     "text": "Inference from the released page image, Volume 3 Chapter 4 para 12",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The denial of any US/Canada intelligence exchange 'of any sort' is immediately followed by four redacted lines, which is structurally odd: a true and complete negative requires no withheld continuation. Reasoning: redaction under a defence exemption is applied to withheld substance, not to the absence of substance.",
    "tier": 3
   },
@@ -45,6 +46,7 @@
     "text": "Project Condign, Volume 1, Chapter 4 'Potential Related Military Technology', para 1",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Study terms of reference explicitly included examining 'whether the phenomenon could be replicated and whether or not any other nation was attempting to exploit the same or derivatives of the phenomena', reported at Volume 3.",
    "tier": 1
   },
@@ -58,6 +60,7 @@
     "text": "Inference from the Condign Volume 3 para 12 text and the location and personnel of the December 1980 events",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Rendlesham record is an unavoidable counter-example to Condign's denial of any UK-US collaboration on the topic, because the incident occurred at a US-operated base in the UK Air Defence Region and generated documents held on both sides. Reasoning: the physical facts of the case require at minimum that the two governments held overlapping records, whatever the DI55 staff's own access was.",
    "tier": 3
   },
@@ -71,6 +74,7 @@
     "text": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The British UFO programme 'lacked its own formal, catchy name, unlike its equivalent in the United States, Project Blue Book ... because the UK government wanted to play down the true extent of its own interest in investigating UFO sightings'.",
    "tier": 2
   },
@@ -84,6 +88,7 @@
     "text": "The National Archives UFO files page, June 2013",
     "url": null
    },
+   "sourceRefs": [],
    "text": "June 2013 final tranche file list: DEFE 24/2448/1 through DEFE 24/2465/1 and DEFE 24/2623/1 through DEFE 24/2629/1.",
    "tier": 1
   },
@@ -97,6 +102,7 @@
     "text": "The National Archives, UFO files release page, June 2013",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The final tranche of released files covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and documents 'the reasons behind the closure of the UFO desk, the handling of the largest number of UFO sighting reports received in 30 years and the disclosure campaign for the truth, which was sparked by the closure of the UFO Desk'.",
    "tier": 1
   },
@@ -110,6 +116,7 @@
     "text": "Project Condign, Volume 3, Chapter 4, para 1",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Volume 3, Chapter 4, para 1: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
    "tier": 1
   },
@@ -123,6 +130,7 @@
     "text": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The report is a three-volume report, not four. The preface to Volume 3 states 'This is the third volume of a three-part report'. The commonly cited fourth part is the separately released standalone Executive Summary.",
    "tier": 1
   },
@@ -136,6 +144,7 @@
     "text": "Project Condign, Volume 3, Chapter 4, para 8",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Volume 3, Chapter 4, para 8 quotes Sokolov on Soviet aircraft incidents: 'We had 40 cases where pilots encountered UFOs. Initially they were commanded to chase, then shoot. When our pilots would engage the UFO it would speed-up, our aircraft would give chase, lose control and crash. That happened 3 times and twice the pilots died. After that the pilots were told to observe and change course and get out.'",
    "tier": 1
   },
@@ -149,6 +158,7 @@
     "text": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
    "tier": 2
   },
@@ -162,6 +172,7 @@
     "text": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Study Recommendations, para 15",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Key Recommendation: 'It should no longer be a requirement for DI55 to monitor UAP reports as they do not demonstrably provide information useful to Defence Intelligence.'",
    "tier": 1
   },
@@ -175,6 +186,7 @@
     "text": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Findings para 3",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Finding para 3: 'As a result of the studies and considering all the available information, no evidence either of intelligent control of the objects, alleged inspections of UK strategic assets or any hostility or threat has been found. Although there are some allied topics of potential military interest there are no findings in the category of direct interest to defence intelligence.'",
    "tier": 1
   },
@@ -188,6 +200,7 @@
     "text": "James Randerson, The Guardian, 25 September 2006, cited in Wikipedia 'Project Condign'",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Clarke's assessment was that the release shed no new light on the phenomenon but did show the DIS had conducted a far larger investigation than previously revealed.",
    "tier": 2
   },
@@ -201,6 +214,13 @@
     "text": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, section 'UFOs reported over Belgium - 1989-1990', https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
     "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-cdn-nationalarchives-gov-7c68fd57",
+     "locator": null,
+     "title": "TNA Highlights Guide, August 2009 tranche"
+    }
+   ],
    "text": "The National Archives' guide to the MoD UFO files opened on 17 August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others.'",
    "tier": 1
   },
@@ -214,6 +234,7 @@
     "text": "The National Archives, UFO files page, June 2013",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The final released tranche covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and its stated highlights include 'the reasons behind the closure of the UFO desk' and 'the handling of the largest number of UFO sighting reports received in 30 years'.",
    "tier": 1
   },
@@ -227,6 +248,7 @@
     "text": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Volume 3 Chapter 4 paragraph 1 records the Soviet centre's name as SOYUZUFOSENTR, not Soyuzufotsentr: 'an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.'",
    "tier": 1
   },
@@ -240,6 +262,7 @@
     "text": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Subsidiary Recommendations",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Subsidiary recommendation: 'it is recommended that there be no further requirement for maintaining the database.'",
    "tier": 1
   },
@@ -253,6 +276,7 @@
     "text": "UK National Archives DEFE 24/2090/1, FOI review file",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The FOI review file DEFE 24/2090/1 shows a still-redacted reference to a 'CIA desk officer' at Volume 3, Chapter 4, page 3, paragraph 12.",
    "tier": 2
   },
@@ -266,6 +290,7 @@
     "text": "Project Condign, Volume 3, Chapter 4, para 4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Condign Volume 3, Chapter 4, para 4: 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic. Unexplained imagery has reportedly been obtained including \"peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.\"'",
    "tier": 2
   },
@@ -279,6 +304,7 @@
     "text": "Project Condign, Volume 3, Chapter 4, para 4",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Condign on Azhazha's claimed imagery: 'Unexplained imagery has reportedly been obtained including peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.'",
    "tier": 1
   },
@@ -292,6 +318,7 @@
     "text": "Wikipedia, 'Project Condign', citing BBC News 7 May 2006 and The Guardian 25 September 2006",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Condign report 'was released into the public domain on 15 May 2006 after a September 2005 Freedom of Information Act request by UFO researchers David Clarke ... and Gary Anthony, a former BUFORA astronomical consultant'.",
    "tier": 2
   },
@@ -305,6 +332,7 @@
     "text": "Project Condign, Volume 3, Chapter 4, para 12 (released MoD copy, OCR)",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Volume 3, Chapter 4, para 12: 'USA & CANADA. The USA's widely publicised activities were described and contrasted with the UK effort at the beginning of Volume 1 of this report. There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs.' - followed by approximately four lines of redaction.",
    "tier": 1
   },
@@ -318,6 +346,13 @@
     "text": "The National Archives Discovery catalogue, search API, https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=UFO%20reports",
     "url": "https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=UFO%20reports"
    },
+   "sourceRefs": [
+    {
+     "id": "u-discovery-nationalarchiv-9bdf180b",
+     "locator": null,
+     "title": "The National Archives Discovery catalogue, search API"
+    }
+   ],
    "text": "The closure is the series norm rather than a singling out: DEFE 24/1938 and DEFE 24/1952 open in 2072 under code 82, DEFE 24/1939 in 2075 under code 84, and DEFE 24/1953 and DEFE 24/1954 in 2077 under code 84.",
    "tier": 1
   },
@@ -331,6 +366,7 @@
     "text": "AREA52 - DEBRIEFED, batch 14 file 03, 0:50:36-1:00:04, per research/leads/area52-corpus-14.md",
     "url": null
    },
+   "sourceRefs": [],
    "text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), archival interview footage of an investigator addressed on camera as 'Nick', identified in the lead map as Nick Pope, describes interviewing an unnamed RAF airman witness to the Cosford events. No opened record names him in connection with the case.",
    "tier": 2
   },
@@ -344,6 +380,7 @@
     "text": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Volume 3 is titled 'Miscellaneous Related Studies'. 'Potential for Exploitation of UAP-Associated Effects' is the title of its Chapter 3, and Chapter 4 is 'UAP Work in Other Countries'. These have been conflated with the volume title.",
    "tier": 1
   },
@@ -357,6 +394,13 @@
     "text": "The National Archives Discovery catalogue record for DEFE 24/1940/1, https://discovery.nationalarchives.gov.uk/API/records/v1/details/C10130124",
     "url": "https://discovery.nationalarchives.gov.uk/API/records/v1/details/C10130124"
    },
+   "sourceRefs": [
+    {
+     "id": "u-discovery-nationalarchiv-0a9cd93f",
+     "locator": null,
+     "title": "The National Archives Discovery catalogue record, DEFE 24/1940/1, digital copy with redactions"
+    }
+   ],
    "text": "A redacted digital copy of the file has been open since 2008. DEFE 24/1940/1, 'Digital copy of DEFE 24/1940: UFO reports; with redactions', 1 August 1990 to 31 January 1991, is closure status open, flagged digitised, with a record opening date of 20 October 2008.",
    "tier": 1
   },
@@ -370,6 +414,7 @@
     "text": "Inference from Condign Executive Summary paras 3-16 as released",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The report is simultaneously an explanation and a closure instrument: its plasma hypothesis supplies a non-threatening account of the residual cases while its key recommendation ends DI55's monitoring requirement and its database - the analytical capability - and paragraph 16 frames public release as protective of the Ministry's position. Reasoning: the recommendation list moves from explanation directly to termination and to managed disclosure, with the only paragraphs about military application redacted.",
    "tier": 3
   },
@@ -383,6 +428,7 @@
     "text": "Condign Executive Summary, para 16",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'The Way Ahead' paragraph 16 states that the knowledge gained 'may be of value in any wider policy decision on the way ahead ... it would also protect the DIS involvement which has, unfortunately, become public knowledge'.",
    "tier": 1
   },
@@ -396,6 +442,7 @@
     "text": "Project Condign, Volume 2 Working Paper No. 9 title; Volume 3 header, released MoD copy",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Project Condign's product was issued as 'DIS Scientific & Technical Memorandum 55/2/00'.",
    "tier": 1
   },
@@ -409,6 +456,7 @@
     "text": "SHURA search results for 'UFO'",
     "url": null
    },
+   "sourceRefs": [],
    "text": "SHURA also holds Andrew Robinson (2025), 'The Calvine Mystery - The Photographic Analysis of a 35-Year-Old Enigma', presented at the Calvine UFO Mystery 35th Anniversary Research Symposium, Perth & Kinross, 2 August 2025.",
    "tier": 1
   },
@@ -422,6 +470,13 @@
     "text": "The National Archives Discovery catalogue record for DEFE 24/1940, https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085",
     "url": "https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085"
    },
+   "sourceRefs": [
+    {
+     "id": "u-discovery-nationalarchiv-85ceaa78",
+     "locator": null,
+     "title": "The National Archives Discovery catalogue records for DEFE 24/1940 and DEFE 24/1940/1"
+    }
+   ],
    "text": "The Ministry of Defence UFO reports file covering the Calvine period is closed for another fifty years. DEFE 24/1940, 'UFO reports', 1 August 1990 to 31 January 1991, former reference D/Sec(AS)12/2 Part J, is held at Kew as a Public Record with closure code 84 under the closure criterion 'Personal information where the applicant is a 3rd party', a Freedom of Information Act exemption signed 7 June 2023, and a record opening date of 1 January 2076.",
    "tier": 1
   },
@@ -435,6 +490,7 @@
     "text": "Condign Executive Summary, Subsidiary Recommendations and Findings para 5",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Flight-safety subsidiary recommendation: 'No attempt should be made to out-manoeuvre a UAP during interception' and at higher altitudes 'pilots should be advised not to manoeuvre, other than to place the object astern, if possible' - advice given 'Following the Russian experiences'.",
    "tier": 1
   },
@@ -448,6 +504,7 @@
     "text": "Ministry of Defence release note accompanying the Condign report, reproduced with the Internet Archive copy",
     "url": null
    },
+   "sourceRefs": [],
    "text": "MoD statement of origin and terms of reference: the study followed a 1996 policy review and was to determine the potential value of UAP reports to Defence Intelligence, to ascertain evidence of threat, 'and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
    "tier": 1
   },
@@ -461,6 +518,13 @@
     "text": "The National Archives Discovery catalogue records for DEFE 24/2086 and DEFE 24/2086/1, https://discovery.nationalarchives.gov.uk/API/search/records (search query 'DEFE 24 2086')",
     "url": "https://discovery.nationalarchives.gov.uk/API/search/records"
    },
+   "sourceRefs": [
+    {
+     "id": "u-discovery-nationalarchiv-a217898c",
+     "locator": null,
+     "title": "TNA Discovery catalogue, DEFE 24/2086 and DEFE 24/2086/1"
+    }
+   ],
    "text": "What is open is a redacted surrogate, not the file. DEFE 24/2086 carries closure status D with a record opening date of 01/01/2078; the open item is DEFE 24/2086/1, 'Digital copy of DEFE 24/2086: UFO reports sightings, 30/31 March 1993; with redactions', opened 17/08/2009.",
    "tier": 1
   },
@@ -474,6 +538,13 @@
     "text": "The National Archives, 'Highlights Guide' to the August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
     "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-cdn-nationalarchives-gov-7c68fd57",
+     "locator": null,
+     "title": "TNA Highlights Guide, August 2009 tranche"
+    }
+   ],
    "text": "The same guide records the internal alarm and the explanation together: the radar replay 'found nothing unusual had been detected', the Assistant Chief of the Air Staff 'Sir Anthony Bagnall, was briefed that there was evidence a UFO had evaded UK defences', and then 'It soon emerged that the majority of sightings were caused by the Russian rocket that launched the Cosmos 2238 satellite, re-entering the earths atmosphere.'",
    "tier": 1
   },
@@ -487,6 +558,7 @@
     "text": "SHURA search results for 'UFO'",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The university's institutional repository SHURA holds David Clarke's deposited outputs including 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' (2018), 'UFO Files at The National Archives' (2018), 'The UFO files: the inside story of real-life sightings' (National Archives, 2009; Bloomsbury, 2012), 'How UFOs conquered the World' (2015), and the Clarke/Fuller/Shough report on aerial phenomena observed near the Channel Islands, UK, 23 April 2007.",
    "tier": 1
   },
@@ -500,6 +572,7 @@
     "text": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Elizabeth Weiss announced on 6 April 2026: 'My heart is breaking. Nick passed away this afternoon at our home.'",
    "tier": 2
   },
@@ -513,6 +586,7 @@
     "text": "Condign Executive Summary, Subsidiary Recommendations",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Public-release recommendation: 'It is suggested that the findings of this report could be used to provide the public with a balanced view of UAP reports and MoD involvement. It is recommended that this report be made available in a suitable form for public release.'",
    "tier": 1
   },
@@ -526,6 +600,7 @@
     "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 34, 18 April 2025, 1:25:17 and 1:26:06",
     "url": null
    },
+   "sourceRefs": [],
    "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 34, 18 April 2025, at 1:25:17, Nick Pope said of the Calvine photographs: 'we had access to Jarrick, which was the joint air reconnaissance and intelligence center ... They looked at all this and they said, yeah, it's real. It's whatever it is. It's 75 feet across. It's a solid, structured craft, but we have no idea what it is.' At 1:26:06 he called it 'an official intelligence community analysis'. No JARIC assessment of these photographs has been opened, and the Ministry of Defence file covering the period is closed until 2076.",
    "tier": 2
   },
@@ -539,6 +614,7 @@
     "text": "Inference from Condign Executive Summary para 15 and the TNA description of the closure files",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The closure is the delayed execution of Condign's key recommendation rather than an independent 2009 judgement. Reasoning: Condign's key recommendation in 2000 was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed that database was wound up in 2009 on the same stated ground of no defence value.",
    "tier": 3
   },
@@ -552,6 +628,7 @@
     "text": "UK MoD / National Archives release record",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The UK Ministry of Defence closed its UFO desk in December 2009 and released its UFO file series to the National Archives.",
    "tier": 1
   },
@@ -565,6 +642,7 @@
     "text": "Wikipedia navigation template 'Studies and timeline', Project Condign article — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Flying Saucer Working Party (1950) appears in the standard chronology of official investigations alongside Project Sign (1948), Project Grudge (1949), Project Magnet (1950-1962) and Project Second Storey (1952-1954).",
    "tier": 2
   },
@@ -578,6 +656,13 @@
     "text": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
     "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-cdn-nationalarchives-gov-7c68fd57",
+     "locator": null,
+     "title": "TNA Highlights Guide, August 2009 tranche"
+    }
+   ],
    "text": "The National Archives' release guide describes the file: 'The file DEFE 24/2086 covers sightings of bright lights seen across central England in the early hours by police officers and military witnesses (including a police patrol at RAF Cosford, near Wolverhampton). The file includes more than 30 sightings during a six-hour period.'",
    "tier": 1
   },
@@ -591,6 +676,7 @@
     "text": "Condign Executive Summary, Findings para 4",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Finding para 4: 'although unidentified objects regularly appear in the UKADR there is no hostile threat from them to our aircraft, they do not belong to another nation and there is no evidence of extra-terrestrial activity apart from the very high probability, in some cases, of their connection with meteors.'",
    "tier": 1
   },
@@ -604,6 +690,7 @@
     "text": "Condign Executive Summary, Findings para 7, released MoD page image",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Finding para 7, 'Related Military Applications', is entirely redacted in the released copy under exemption s.26.",
    "tier": 1
   },
@@ -617,6 +704,7 @@
     "text": "Project Condign, Volume 3, Chapter 3, para 8",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Volume 3 Chapter 3 is titled 'Potential for Exploitation of UAP-Associated Effects' and its 'Potential Applications' paragraph 8 states 'the radar detection aspects have shown that there are three possible related potential applications' - the applications themselves being redacted under exemption s.26 (defence).",
    "tier": 1
   },
@@ -630,6 +718,7 @@
     "text": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A secondary analysis records SOYUZUFOTSENTR as established in 1990 as the first official Soviet public UFO organisation, with cosmonaut Pavel Popovich as president and Azhazha as director. Condign names only Azhazha; the Popovich presidency is not corroborated by the Condign text and rests on the secondary source alone.",
    "tier": 2
   },

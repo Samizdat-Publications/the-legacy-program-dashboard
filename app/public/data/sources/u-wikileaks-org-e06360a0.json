@@ -1,0 +1,141 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2dc8e333e0",
+"locator": null,
+"node": "bob-fish",
+"nodeLabel": "Bob Fish",
+"sourceText": "WikiLeaks, The Podesta Emails, email id 30433, https://wikileaks.org/podesta-emails/emailid/30433",
+"text": "In the same email Fish qualifies the claim: 'While I was never fully briefed into the DSP operation directly, I was introduced to them as the US prepared for Operation Desert Shield and Desert Storm', and the Fastwalker detection he relays is a remark made to him at lunch by a member of that group.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d01d74d7e7",
+"locator": null,
+"node": "bob-fish",
+"nodeLabel": "Bob Fish",
+"sourceText": "WikiLeaks, The Podesta Emails, email id 30433, 'Fwd: Leslie Kean book - DSP program', https://wikileaks.org/podesta-emails/emailid/30433",
+"text": "In an email forwarded by Podesta to Leslie Kean on 6 March 2015 under the subject 'Leslie Kean book - DSP program', Bob Fish wrote: 'One of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+},
+"b": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"claimTier": 1,
+"id": "e-5b4f4b72a7",
+"label": "Named DSP as a programme collecting hard data on unidentified flying objects",
+"note": "Fish's DSP claim is the source of the popular equation of DSP with UFO tracking, and the same email undercuts it by saying he was never fully briefed into the programme.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+},
+"b": {
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+},
+"claimTier": 1,
+"id": "e-153ea784dc",
+"label": "A second named correspondent inside the same release, read with raw headers",
+"note": "Same release and same instrument: a second named correspondent inside the Podesta Emails, read with raw headers.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+},
+"b": {
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+"claimTier": 1,
+"id": "e-3e6bc6c54c",
+"label": "Wrote to Podesta over three days in March 2015 offering programme names",
+"note": "Fish wrote to Podesta directly over three days in March 2015 offering programme names; Podesta replied once and forwarded one email onward.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+},
+"b": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"claimTier": 1,
+"id": "e-5470a9e8e4",
+"label": "Podesta forwarded his DSP email to Kean on 6 March 2015",
+"note": "Podesta forwarded Fish's DSP email to Kean on 6 March 2015 with the single word 'FYI', and Fish says he had emailed Kean ten days earlier without reply.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-5096f41ee1",
+"label": "Relayed a claim that Blue Book continued after 1970 with only its public layer removed",
+"note": "Fish's email of 6 March 2015 relays a claim that Project Blue Book was not disbanded in 1970 and that only the outer layer of the onion, the public information layer, was stripped away. The edge records that he put this to Podesta; it does not assert the claim. Typed investigative rather than the draft's denial: nobody denies anything in the document, and denial styling would say otherwise.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-wikileaks-org-e06360a0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "WikiLeaks",
+"listedOn": [
+{
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+}
+],
+"node": null,
+"title": "WikiLeaks, The Podesta Emails, email id 30433",
+"topics": [
+{
+"claims": [
+"c-2dc8e333e0",
+"c-d01d74d7e7"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "web page",
+"urls": [
+"https://wikileaks.org/podesta-emails/emailid/30433"
+]
+}

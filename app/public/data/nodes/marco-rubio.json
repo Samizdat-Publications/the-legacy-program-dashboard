@@ -35,26 +35,40 @@
 {
 "id": "c-cb09567854",
 "source": "CREC-2023-07-13-pt1-PgS2953",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "Congressional Record, 2023-07-13, page S2953"
+}
+],
 "text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-33b6627c27",
 "source": "Congress.gov cosponsor record, S.Amdt. 797, 118th Congress",
+"sources": [],
 "text": "Rubio is recorded as an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2ed971ea68",
 "source": "Rubio on Fox Business, Mornings with Maria, 24 March 2021, reported by Micah Hanks, The Debrief",
+"sources": [],
 "text": "'It isn't ours. It isn't anything that's registered to the FAA, and in many cases exhibits attributes of things we've never seen.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ebec1c01c7",
 "source": "Joint statement, 16-senator AARO funding letter, 16 February 2023",
+"sources": [],
 "text": "Rubio and Gillibrand jointly argued AARO 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency to the American people and reducing the stigma around this issue.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

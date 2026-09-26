@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1eb798c34b",
+"locator": null,
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"sourceText": "Andrew Johnson, checktheevidence.com, 13 January 2015, https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/ , opened 2026-09-18",
+"text": "Andrew Johnson reports that a FOIA return obtained by David Hilton and posted on 25 September 2014 lists Lackland AFB (1967), Keesler AFB and Cannon AFB (1968), 'F-15 Manual Test Station Shift Chief, 57th Component Repair Squadron, Nellis Air Force Base, Nevada, from June 1976 to 16 July 1979', the Kadena assignment, and decorations including the Vietnam Service Medal and Republic of Vietnam Gallantry Cross with Palm Device. The FOIA return itself was not opened by this research.",
+"tier": 2
+}
+],
+"date": "2015-01-13",
+"edges": [],
+"era": "2",
+"id": "u-checktheevidence-com-9bfe913c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "checktheevidence.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "checktheevidence",
+"label": "Check The Evidence (checktheevidence.com), Andrew Johnson"
+},
+{
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+}
+],
+"node": null,
+"title": "Andrew Johnson, 'Edgar Fouche - Documents Released In FOIA Show The Same Type Of Record As He Provided Himself'",
+"topics": [
+{
+"claims": [
+"c-1eb798c34b"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/"
+]
+}

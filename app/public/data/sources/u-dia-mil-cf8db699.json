@@ -1,0 +1,142 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-0868873435",
+"locator": null,
+"node": "dird-positron-aerospace-propulsion",
+"nodeLabel": "Positron Aerospace Propulsion",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6e9a580b29",
+"locator": null,
+"node": "dird-positron-aerospace-propulsion",
+"nodeLabel": "Positron Aerospace Propulsion",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
+"text": "Defense Intelligence Reference Document titled \"Positron Aerospace Propulsion\", series \"Acquisition Threat Support\", published 2010-03-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-933600ef22",
+"locator": null,
+"node": "dird-positron-aerospace-propulsion",
+"nodeLabel": "Positron Aerospace Propulsion",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"claimTier": 1,
+"id": "e-25965a16be",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-79c40869ac",
+"label": "commissioned via the BAASS prime contract",
+"note": "Positronics Research LLC was an outside small business with no standing DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract itself has not been released.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"b": {
+"cls": "person",
+"id": "gerald-smith",
+"label": "Gerald A. Smith"
+},
+"claimTier": 1,
+"id": "e-792c277271",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Positron Aerospace Propulsion' to 'Dr Gerald Smith, Positronics Research'. Smith is a Yale physics Ph.D., former Penn State physics department head, and developer of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap for NASA Marshall; the DIRD subject matter tracks his own NASA Institute for Advanced Concepts study on positron-propelled vehicles.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"claimTier": 1,
+"id": "e-4a89c0012b",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"claimTier": 1,
+"id": "e-5be8be6827",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 March 2010 on the cover. 36 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-cf8db699",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+}
+],
+"node": null,
+"title": "DIA FOIA Reading Room — Positron Aerospace Propulsion (PDF)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/"
+]
+}

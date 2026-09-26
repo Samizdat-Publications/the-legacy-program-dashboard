@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-761c6386d7",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Dean Rickles and Cecile M. DeWitt, Edition Open Sources, Sources 5, 2011, https://edition-open-sources.org/sources/5/index.html",
+"text": "The 1957 Chapel Hill conference was the Institute's inaugural event: 'In January 1957, a group of physicists from several countries met at the University of North Carolina to discuss the role of gravitation in physics ... The Chapel Hill conference also marked the establishment of the Institute of Field Physics, directed by Bryce and Cecile DeWitt. The conference was the inaugural conference of this institute.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-edition-open-sources-org-3ba57102",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "edition-open-sources.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+}
+],
+"node": null,
+"title": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, Edition Open Sources, Sources 5, ISBN 978-3-945561-29-4",
+"topics": [
+{
+"claims": [
+"c-761c6386d7"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "book",
+"urls": [
+"https://edition-open-sources.org/sources/5/index.html"
+]
+}

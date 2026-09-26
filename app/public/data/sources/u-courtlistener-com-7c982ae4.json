@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-courtlistener-com-7c982ae4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CourtListener",
+"listedOn": [
+{
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+{
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+{
+"cls": "person",
+"id": "eugene-yeates",
+"label": "Eugene F. Yeates"
+},
+{
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+{
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+}
+],
+"node": null,
+"title": "Citizens Against UFO Secrecy v. National Security Agency, Supreme Court of the United States (cert. denied) (CourtListener)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.courtlistener.com/opinion/9037778/citizens-against-ufo-secrecy-v-national-security-agency/"
+]
+}

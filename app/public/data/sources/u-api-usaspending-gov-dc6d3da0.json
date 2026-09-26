@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-20384d689d",
+"locator": null,
+"node": "mdang-flare-statement-1997",
+"nodeLabel": "Maryland Air National Guard flare statement, 26 July 1997",
+"sourceText": "USAspending.gov API v2, /autocomplete/recipient/ and /search/spending_by_award/, queried 3 September 2026, https://api.usaspending.gov/api/v2/search/spending_by_award/",
+"text": "The alternative explanation offered on the Danny Jones podcast has no federal award record behind it. The USAspending recipient index returns zero matches for 'JP AEROSPACE' while returning eight for 'LOCKHEED MARTIN', and award searches for that recipient and for the keyword, across contracts, indefinite-delivery vehicles and grants from 1 October 1990 to 1 September 2026, return no results.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8e5e22a1b0",
+"locator": null,
+"node": "stony-brook-university",
+"nodeLabel": "Stony Brook University",
+"sourceText": "USAspending.gov award search, recipient Brookhaven Science Associates, https://api.usaspending.gov/api/v2/search/spending_by_award/",
+"text": "The predecessor contract DEAC0298CH10886, described as 'OPERATION OF BROOKHAVEN NATIONAL LABORATORY', ran 15 October 1999 to 4 January 2015 with recorded obligations of $7,896,665,930.11 to the same recipient.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-bbd99fbe0d",
+"locator": null,
+"node": "stony-brook-university",
+"nodeLabel": "Stony Brook University",
+"sourceText": "USAspending.gov award search, recipient Brookhaven Science Associates, https://api.usaspending.gov/api/v2/search/spending_by_award/",
+"text": "Brookhaven Science Associates LLC holds Department of Energy contract DESC0012704, described on USAspending as the management-and-operating contract for BNL, running 5 January 2015 to 4 January 2030 with recorded obligations of $8,629,200,535.17.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "stony-brook-university",
+"label": "Stony Brook University"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-68bfd6351e",
+"label": "DOE is the contracting agency for both Brookhaven management-and-operating contracts",
+"note": "The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-api-usaspending-gov-dc6d3da0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "USAspending.gov",
+"listedOn": [
+{
+"cls": "document",
+"id": "mdang-flare-statement-1997",
+"label": "Maryland Air National Guard flare statement, 26 July 1997"
+},
+{
+"cls": "institution",
+"id": "stony-brook-university",
+"label": "Stony Brook University"
+}
+],
+"node": null,
+"title": "USAspending.gov API v2 award and recipient search",
+"topics": [
+{
+"claims": [
+"c-20384d689d"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+}
+],
+"type": "web page",
+"urls": [
+"https://api.usaspending.gov/api/v2/search/spending_by_award/"
+]
+}

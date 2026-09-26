@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "george-schulgen",
+"label": "George F. Schulgen"
+},
+"b": {
+"cls": "document",
+"id": "schulgen-memo",
+"label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+},
+"claimTier": 1,
+"id": "e-f1ca115ef0",
+"label": "Schulgen signed the flying saucer collection requirement",
+"note": "As Chief of the Air Intelligence Requirements Division he signed 'Intelligence Requirements on Flying Saucer Type Aircraft' on 28 October 1947, distributed 30 October.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "schulgen-memo",
+"label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+},
+"b": {
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"claimTier": 2,
+"id": "e-0aa5d57e05",
+"label": "Collection requirement fed the project that began weeks later",
+"note": "The 30 October 1947 collection tasking and the 30 December 1947 direction of Project SIGN are two steps of a single sequence initiated by the Twining memo.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "twining-memo",
+"label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+},
+"b": {
+"cls": "person",
+"id": "george-schulgen",
+"label": "George F. Schulgen"
+},
+"claimTier": 1,
+"id": "e-35e75ed88f",
+"label": "Addressed to Schulgen at Air Force intelligence requirements",
+"note": "Schulgen was the named addressee. Five weeks later he issued the worldwide collection memorandum, making the causal chain from assessment to collection tasking explicit in the documentary record.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-8d35d803",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-schulgen",
+"label": "George F. Schulgen"
+},
+{
+"cls": "document",
+"id": "schulgen-memo",
+"label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+}
+],
+"node": null,
+"title": "Schulgen collection memorandum",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nicap.org/schulgen.htm"
+]
+}

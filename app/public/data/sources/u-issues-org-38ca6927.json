@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 3,
+"id": "e-2a15189942",
+"label": "Congressional advocacy channel from 2018 that fed the Task Force and AARO",
+"note": "Mellon's March 2018 Washington Post op-ed and his subsequent Hill work are the bridge between the TTSA period and the formal government structures. The causal link is reasoned from sequence and his documented access, not from a single primary record.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "keith-kloor",
+"label": "Keith Kloor"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-0816307ced",
+"label": "Obtained both the Pentagon denial and the 'exemplary' evaluation language",
+"note": "Kloor's two 2019 pieces cut in opposite directions, which is why both are load-bearing.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-issues-org-38ca6927",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "issues.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "keith-kloor",
+"label": "Keith Kloor"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+}
+],
+"node": null,
+"title": "Issues in Science and Technology",
+"topics": [],
+"type": "document",
+"urls": [
+"https://issues.org/wp-content/uploads/2019/04/Kloor-UFOs-Wont-Go-Away-SP19-ISSUES-49-56.pdf"
+]
+}

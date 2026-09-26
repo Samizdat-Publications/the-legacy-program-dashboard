@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+"b": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"claimTier": 2,
+"id": "e-2b45f6aabf",
+"label": "Rockefeller financed and directed the 1993-1996 disclosure initiative",
+"note": "Rockefeller Family & Associates funded the effort, its briefing document and its distribution to officials and heads of state.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-clinton-presidentiallibr-8ee21fb8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Clinton Presidential Library",
+"listedOn": [
+{
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+{
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+}
+],
+"node": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0546-F, 'Laurance Rockefeller' (photographs, JY Ranch visit 21 Aug 1995)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://clinton.presidentiallibraries.us/items/show/36326"
+]
+}

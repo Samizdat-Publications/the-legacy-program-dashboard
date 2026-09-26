@@ -7,32 +7,72 @@
 {
 "id": "c-a1c5213d38",
 "source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ntrs-nasa-gov-ecee97c1",
+"locator": null,
+"title": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages"
+}
+],
 "text": "THE CONCLUSION, verbatim in the passage that matters: 'A simple model was developed of ions drifting from one electrode to the other under electrostatic forces, and imparting momentum to air as they underwent multiple collisions. This model was found to be consistent with all of our observations. It predicted the magnitude of the force (thrust) that was measured. It also predicted how the direction of the thrust changed when the location of the ground wire changed. Furthermore, it also predicted that the direction of the thrust was independent of the polarity of the applied voltage... In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-363ecab128",
 "source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ntrs-nasa-gov-ecee97c1",
+"locator": null,
+"title": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages"
+}
+],
 "text": "THE VACUUM RESULT, which is what answers the question US 3,187,206 raises in its own text about behaviour in a vacuum. The report quotes Robert Talley's Air Force-contract measurement directly: 'Talley wrote, \"Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes...\" Talley concluded (page 91 of his report), \"If such a force still exists and lies below the threshold of measurements in this program, then the force may be too small to be attractive for many, if not most, space propulsion applications.\"' The report adds of Talley's work: 'His report is the only written report we have found from the last half-century that describes a measurement of a force while in a vacuum chamber.' THE TALLEY REPORT ITSELF WAS NOT OPENED BY THIS SESSION.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eb94409edc",
 "source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ntrs-nasa-gov-ecee97c1",
+"locator": null,
+"title": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages"
+}
+],
 "text": "The report's own reference list opens with the three Brown documents by number: '1 Brown, T.T., US Patent 2,949,550, \"Electrokinetic Apparatus,\" 1960. 2 Brown, T.T., US Patent 3,187,206, \"Electrokinetic Apparatus,\" 1965. 3 Brown, T.T., GB Patent 300,311, \"A Method of and an Apparatus or Machine for Producing Force or Motion,\" 1928.' NASA cites exactly the three Brown documents this board carries and concludes that what they describe is ions pushing on air.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e0cb650d6a",
 "source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ntrs-nasa-gov-ecee97c1",
+"locator": null,
+"title": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages"
+}
+],
 "text": "The report's own framing of the question, from its introduction: 'While it is generally accepted that such an asymmetrical capacitor produces a thrust, there is not a similar agreement on the mechanism responsible for the force produced. The purpose of this paper is to provide new test results and an analysis of those results to resolve this question.' It also records that 'This effect is called the Biefeld-Brown Effect; it was discovered while T. T. Brown was in graduate school, working under his advisor, Dr. Paul Alfred Biefeld.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-52f57f85fb",
 "source": "Thomas B. Bahder and Chris Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of the Army Research Laboratory report, submitted 31 October 2002, revised 12 March 2003, https://arxiv.org/abs/physics/0211001 , opened 2026-09-19; report number and NTIS order number as printed in reference 8 of NASA/CR-2004-213312",
+"sources": [
+{
+"id": "u-arxiv-org-f113a696",
+"locator": null,
+"title": "Bahder and Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of ARL-TR-3005"
+}
+],
 "text": "THE DISSENT, RECORDED SO THE BOARD DOES NOT OVERSTATE THE RECORD. The Army Research Laboratory's own study of the same effect, by Thomas B. Bahder and Chris Fazi, concluded from its calculations that 'ionic wind is at least three orders of magnitude too small to explain the magnitude of the observed force on the capacitor'. That rejects BALLISTIC ionic wind and prefers ionic drift, which is the mechanism NASA then modelled, so the two findings are not in flat contradiction and NEITHER INVOKES NEW PHYSICS. Tier 2 because the published report, ARL-TR-3005 / NTIS ADA416740, was NOT opened: apps.dtic.mil returned HTTP 403 and what was read was the authors' arXiv preprint.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

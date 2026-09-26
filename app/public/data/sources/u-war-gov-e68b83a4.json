@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5fa734778e",
+"locator": null,
+"node": "sean-parnell",
+"nodeLabel": "Sean Parnell",
+"sourceText": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
+"text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-war-gov-e68b83a4",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "sean-parnell",
+"label": "Sean Parnell"
+}
+],
+"node": null,
+"title": "Department of War release, 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’', 18 March 2026",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/"
+]
+}

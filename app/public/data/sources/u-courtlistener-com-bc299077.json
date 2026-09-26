@@ -1,0 +1,202 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+"b": {
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+"claimTier": 1,
+"id": "e-0c229c96b4",
+"label": "CAUS was the plaintiff in Civil Action No. 80-1562",
+"note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eugene-yeates",
+"label": "Eugene F. Yeates"
+},
+"b": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"id": "e-6704b4f2de",
+"label": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
+"note": "The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"b": {
+"cls": "domain",
+"id": "d-litigation",
+"label": "Litigation"
+},
+"claimTier": 1,
+"id": "e-7d789ec947",
+"label": "Appeal exhausted, suit filed",
+"note": "CAUS v. NSA is the canonical progression from FOIA request to appellate litigation, and the point at which the courts sustained withholding on a classified affidavit.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-litigation",
+"label": "Litigation"
+},
+"b": {
+"cls": "domain",
+"id": "d-legal",
+"label": "Legal Doctrine & Liability"
+},
+"claimTier": 2,
+"id": "e-f874ce84b8",
+"label": "Courtroom outcomes set the witness's risk calculus",
+"note": "The dismissal in Cash v. United States and the withholding sustained in CAUS v. NSA together define the practical ceiling on judicial remedies in this field.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"b": {
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+"claimTier": 1,
+"id": "e-cb1caae1f2",
+"label": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
+"note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+"b": {
+"cls": "location",
+"id": "l-ft-meade",
+"label": "Fort George G. Meade, Maryland"
+},
+"claimTier": 1,
+"id": "e-209823571b",
+"label": "NSA holdings and the FOIA wall",
+"note": "The records at issue in CAUS v. NSA are held at Fort Meade, and AARO's current director came from the NSA research organisation based there.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+"b": {
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"claimTier": 1,
+"id": "e-11512eb21e",
+"label": "Exemption 3 and the Glomar posture",
+"note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+},
+"b": {
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+"claimTier": 1,
+"id": "e-17f1e70b62",
+"label": "The affidavit is the instrument by which withholding was sustained",
+"note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-courtlistener-com-bc299077",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CourtListener",
+"listedOn": [
+{
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+{
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+{
+"cls": "person",
+"id": "eugene-yeates",
+"label": "Eugene F. Yeates"
+},
+{
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+{
+"cls": "domain",
+"id": "d-litigation",
+"label": "Litigation"
+},
+{
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+{
+"cls": "person",
+"id": "peter-gersten",
+"label": "Peter A. Gersten"
+},
+{
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+{
+"cls": "document",
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+}
+],
+"node": null,
+"title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+]
+}

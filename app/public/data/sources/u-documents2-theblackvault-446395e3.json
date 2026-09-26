@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 1,
+"id": "e-cec370253b",
+"label": "in-person refusal of the SAP request",
+"note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-446395e3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+}
+],
+"node": null,
+"title": "DIA talking paper — Senator Reid meeting, November 2009",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/DR_Reid_Mtg_Nov09.pdf"
+]
+}

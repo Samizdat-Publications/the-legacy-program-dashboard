@@ -7,14 +7,24 @@
 {
 "id": "c-b370486746",
 "source": "AARO Historical Record Report Volume I, p. 34",
+"sources": [],
 "text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS', identifying three distinct SAP control office enterprises.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-89e3241afd",
 "source": "Inference from the scope of 10 U.S.C. 119 read against AARO's three-enterprise description",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "read against AARO's three-enterprise description",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "A program carried in the IC control-office enterprise would not appear in the 10 U.S.C. 119 report to the defense committees, which means a member relying on the DoD SAP list cannot rule out its existence. Reasoning: 10 U.S.C. 119 by its terms governs Department of Defense special access programs and reports to the defense committees.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

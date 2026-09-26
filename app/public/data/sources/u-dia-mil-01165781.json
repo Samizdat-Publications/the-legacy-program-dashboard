@@ -1,0 +1,182 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f2d171bc14",
+"locator": null,
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+"text": "Companion DIRD DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 2 April 2010, ICOD 1 December 2009, is also in the release, likewise with the author withheld.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-02f1c5867b",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bba2e08984",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+"text": "Defense Intelligence Reference Document titled \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\", series \"Acquisition Threat Support\", published 2010-04-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e46897e62c",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-87a2bb0359",
+"label": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-840ee24c8d",
+"label": "published by DIA as DIA-08-1004-001, Acquisition Threat Support series",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-63714edf5d",
+"label": "co-author per EarthTech International's own citation",
+"note": "EarthTech International's publications page cites the paper as \"Obousy, R. K. and Davis, E. W. (2010).\" Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-856311815c",
+"label": "author of record on the DIA list; lead author",
+"note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-9018c60bfe",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-b3b685de73",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 April 2010 on the cover. 34 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-01165781",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+}
+],
+"node": null,
+"title": "DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)",
+"topics": [
+{
+"claims": [
+"c-bba2e08984"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+]
+}

@@ -1,0 +1,108 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3a9659e67b",
+"locator": "Office of Law Revision Counsel",
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"text": "10 U.S.C. 176 provides that 'There is in the Department of Defense an Institute to be known as the Armed Forces Institute of Pathology', a joint entity of the three military departments subject to the authority, direction and control of the Secretary of Defense, added by Pub. L. 94-361, title VIII, section 811(b), 14 July 1976, 90 Stat. 933.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-3a9659e67b",
+"locator": null,
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"text": "10 U.S.C. 176 provides that 'There is in the Department of Defense an Institute to be known as the Armed Forces Institute of Pathology', a joint entity of the three military departments subject to the authority, direction and control of the Secretary of Defense, added by Pub. L. 94-361, title VIII, section 811(b), 14 July 1976, 90 Stat. 933.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8630afeb8d",
+"locator": null,
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "Statutory note 'Establishment of Joint Pathology Center' to 10 U.S.C. 176, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"text": "Pub. L. 110-181, division A, title VII, section 722, 28 January 2008, 122 Stat. 199, provides that 'The President shall establish and maintain a Joint Pathology Center that shall function as the reference center in pathology for the Federal Government', established in the Department of Defense consistent with the 2005 BRAC recommendations, and providing for maintenance and continued modernization of the Tissue Repository.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a811583841",
+"locator": "Office of Law Revision Counsel",
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"text": "The Office of Law Revision Counsel serves 10 U.S.C. 176 with the statement 'Text contains those laws in effect on September 1, 2026', so the section creating the Institute remains in force after the Institute itself was disestablished.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a811583841",
+"locator": null,
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"text": "The Office of Law Revision Counsel serves 10 U.S.C. 176 with the statement 'Text contains those laws in effect on September 1, 2026', so the section creating the Institute remains in force after the Institute itself was disestablished.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "armed-forces-institute-of-pathology",
+"label": "Armed Forces Institute of Pathology"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-c32089064e",
+"label": "Placed in the Department of Defense by 10 U.S.C. 176 as a joint entity of the three military departments",
+"note": "10 U.S.C. 176 places the Institute in the Department of Defense as a joint entity of the three military departments under the Secretary's authority, direction and control.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "usc-10-176",
+"identifiers": [
+"10 U.S.C. 176"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "institution",
+"id": "armed-forces-institute-of-pathology",
+"label": "Armed Forces Institute of Pathology"
+}
+],
+"node": null,
+"title": "10 U.S.C. 176",
+"topics": [
+{
+"claims": [
+"c-3a9659e67b",
+"c-3a9659e67b",
+"c-8630afeb8d",
+"c-a811583841",
+"c-a811583841"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim"
+]
+}

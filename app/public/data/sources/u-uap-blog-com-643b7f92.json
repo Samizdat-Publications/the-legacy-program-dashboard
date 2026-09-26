@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-0a181f8c75",
+"locator": null,
+"node": "dird-biosensors-and-biomems-a-survey-of",
+"nodeLabel": "Biosensors and BioMEMS: A Survey of the Present Field",
+"sourceText": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The document was released as item 20 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022 in response to John Greenewald's 31 January 2018 request; DIA located 37 documents totalling 1,473 pages.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-2aa76c137b",
+"locator": null,
+"node": "dird-cognitive-limits-on-simultaneous-control-of",
+"nodeLabel": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"sourceText": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The document was released as item 34 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-8a9380d7f4",
+"locator": null,
+"node": "dird-inertial-electrostatic-confinement-fusion",
+"nodeLabel": "Inertial Electrostatic Confinement Fusion",
+"sourceText": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "At 72 pages it is the longest single document in DIA's 37-document, 1,473-page FOIA release of 25 March 2022.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"claimTier": 1,
+"id": "e-60e682ebe3",
+"label": "commissioned under AAWSAP as a compact energy source study",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-uap-blog-com-643b7f92",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "uap-blog.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+{
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+{
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+{
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+{
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+{
+"cls": "document",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"label": "Invisibility Cloaking: Theory and Experiments"
+}
+],
+"node": null,
+"title": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf",
+"topics": [],
+"type": "article",
+"urls": [
+"https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+]
+}

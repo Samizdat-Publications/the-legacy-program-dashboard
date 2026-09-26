@@ -1,0 +1,149 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-7eda53c07e",
+"locator": null,
+"node": "klas-lazar-broadcasts-1989",
+"nodeLabel": "The KLAS-TV Lazar broadcasts, 1989",
+"sourceText": "Wikipedia article on George Knapp, opened only to read its underlying citation to a Simon and Schuster author profile, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist) , opened 2026-09-18",
+"text": "Knapp's 1990 UFO reporting is said to have won a United Press International 'Individual Achievement by a Journalist' award. The underlying citation is a Simon and Schuster author profile which this board did not open, and the claim is carried at Tier 3 accordingly. The contemporaneous Review-Journal reference to an 'award winning series' in June 1990 is consistent with it but does not name the award.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-25b225dd20",
+"label": "Knapp is credited with the Reid-Bigelow introduction",
+"note": "Recorded separately because the Reid end of the introduction is what converted private interest into federal appropriation.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell"
+},
+"claimTier": 2,
+"id": "e-638cde1132",
+"label": "Co-hosts the Weaponized podcast",
+"note": "Pairs Knapp's four decades of sourcing with Corbell's leak pipeline.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-873bd6f8b8",
+"label": "Worked with Bigelow's NIDS alongside Colm Kelleher",
+"note": "Knapp's NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"claimTier": 2,
+"id": "e-60716033da",
+"label": "Knapp introduced Harry Reid to Robert Bigelow",
+"note": "The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell"
+},
+"b": {
+"cls": "program",
+"id": "weaponized-podcast",
+"label": "Weaponized (Knapp & Corbell)"
+},
+"claimTier": 2,
+"id": "e-1f8c08fa28",
+"label": "Co-host",
+"note": "The primary channel through which leaked Navy imagery has entered the public record.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-490189dc86",
+"label": "four decades of the record produced from a single local affiliate",
+"note": "KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-dd18f1c6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+{
+"cls": "program",
+"id": "weaponized-podcast",
+"label": "Weaponized (Knapp & Corbell)"
+}
+],
+"node": null,
+"title": "Wikipedia - George Knapp",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+]
+}

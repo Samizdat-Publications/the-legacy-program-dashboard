@@ -7,20 +7,26 @@
 {
 "id": "c-bf514e1682",
 "source": "The New York Times, 16 December 2017; DEMOTED from Tier 1 (the same assertion is Tier 2 on nyt-2017-12-16); needs primary replacement",
+"sources": [],
 "text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017, by Helene Cooper, Ralph Blumenthal and Leslie Kean.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-656acfa733",
 "source": "The Debrief, 5 June 2023",
+"sources": [],
 "text": "Blumenthal and Kean published David Grusch's allegations in The Debrief on 5 June 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7d59436442",
 "source": "Inference from the chronology of official actions after 16 December 2017",
+"sources": [],
 "text": "The 2017 story changed the subject's institutional status without changing its evidentiary content; every subsequent official step is downstream of that editorial decision. Reasoning: the story disclosed a programme and two videos, not new physical evidence, yet the Navy designation, DoD release, Task Force, ODNI assessment and hearings all follow it in sequence.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

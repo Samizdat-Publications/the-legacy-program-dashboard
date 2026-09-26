@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b8f7d3ce9d",
+"locator": null,
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"sourceText": "Find a Grave memorial 146890828, created by Charles H Proctor III 23 May 2015, https://www.findagrave.com/memorial/146890828/phil-schneider , opened 2026-09-19",
+"text": "His memorial record gives birth 23 April 1947 at Bethesda, Montgomery County, Maryland and death 11 January 1996 in Clackamas County, Oregon, cremated with ashes given to family or friend. Tier 2: a Find a Grave memorial is better than nothing and is not a certificate.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-findagrave-com-d2a6e3e1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "findagrave.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "phil-schneider",
+"label": "Philip Schneider"
+}
+],
+"node": null,
+"title": "Find a Grave memorial 146890828, Phil Schneider, created by Charles H Proctor III 23 May 2015",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.findagrave.com/memorial/146890828/phil-schneider"
+]
+}

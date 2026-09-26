@@ -1,0 +1,101 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-0c91cd9471",
+"locator": "60 Stat. 780, sec. 7",
+"node": "office-of-naval-research",
+"nodeLabel": "Office of Naval Research",
+"sourceText": "Public Law 79-588, 60 Stat. 780, sec. 7, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
+"text": "Section 7 authorises the Secretary of the Navy to transfer research and development functions from the bureaus to ONR together with personnel, buildings, facilities and other property, 'including without limitation the Special Devices Division and the Naval Research Laboratory.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a053159f23",
+"locator": "ch. 727, H.R. 5911, 60 Stat. 779, sec. 1, approved 1 August 1946",
+"node": "office-of-naval-research",
+"nodeLabel": "Office of Naval Research",
+"sourceText": "An Act to establish an Office of Naval Research in the Department of the Navy, Public Law 79-588, ch. 727, H.R. 5911, 60 Stat. 779, sec. 1, approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
+"text": "The Act creates the office inside the Secretary's own office: 'there is hereby created and established in the Office of the Secretary of the Navy an Office of Naval Research', charged with the encouragement, promotion, planning, initiation and coordination of naval research, and with the supervision, administration and control of Navy activities relating to patents, inventions, trade-marks, copyrights and royalty payments.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ea832e66f6",
+"locator": "60 Stat. 779-780, secs. 5(b) and 6",
+"node": "office-of-naval-research",
+"nodeLabel": "Office of Naval Research",
+"sourceText": "Public Law 79-588, 60 Stat. 779-780, secs. 5(b) and 6, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
+"text": "The Act exempts ONR research contracting from ordinary law. Section 6 permits contracts for research 'without performance or other bonds' and without regard to five named sections of the Revised Statutes, and advance and progress payments without regard to another, while expressly barring cost-plus-a-percentage-of-cost contracting. Section 5(b) keeps obligated research appropriations available for expenditure for four years after the fiscal year for which they were appropriated.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f181d246d1",
+"locator": "60 Stat. 779, sec. 2",
+"node": "office-of-naval-research",
+"nodeLabel": "Office of Naval Research",
+"sourceText": "Public Law 79-588, 60 Stat. 779, sec. 2, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
+"text": "Its head is a presidential appointee confirmed by the Senate. Section 2 provides for a Chief of Naval Research 'appointed by the President, by and with the advice and consent of the Senate, for a term of not to exceed three years, from among officers not below the grade of commander on the active list of the Navy.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "office-of-naval-research",
+"label": "Office of Naval Research"
+},
+"b": {
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)"
+},
+"claimTier": 1,
+"id": "e-35135fea70",
+"label": "Approved the same day as the Atomic Energy Act of 1946",
+"note": "Both statutes are in Statutes at Large volume 60 and both carry the approval date 1 August 1946: the Atomic Energy Act at page 755 and the Office of Naval Research Act at page 779. The triage row that proposed this node dated ONR two days later; the page itself says otherwise.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "office-of-naval-research",
+"label": "Office of Naval Research"
+},
+"b": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"claimTier": 1,
+"id": "e-791ff4ab67",
+"label": "Created inside the Office of the Secretary of the Navy, 1 August 1946",
+"note": "Section 1 places ONR in the Office of the Secretary of the Navy and provides that its orders are to be considered as emanating from the Secretary and to have full force and effect as such.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "pl-79-588",
+"identifiers": [
+"Public Law 79-588"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "institution",
+"id": "office-of-naval-research",
+"label": "Office of Naval Research"
+}
+],
+"node": null,
+"title": "Public Law 79-588",
+"topics": [],
+"type": "statute",
+"urls": []
+}

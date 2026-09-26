@@ -1,0 +1,111 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-7ccd9e56bf",
+"label": "ATIC and its successors were and are headquartered at Wright-Patterson",
+"note": "The Air Technical Intelligence Center, formed in 1951 from Air Materiel Command's T-2 intelligence organisation at Wright Field, became the Foreign Technology Division in 1961 and NASIC in 1993, which remains at the base. Attested by USAF unit histories.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-3fc20213e5",
+"label": "The Bolender memo closed the base's public reporting channel while conceding another existed",
+"note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base's own reporting architecture.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "nathan-twining",
+"label": "Nathan F. Twining"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-2a781ab781",
+"label": "Twining wrote the 1947 AMC assessment from this command",
+"note": "Lt. Gen. Nathan Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command, headquartered at Wright Field.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nasic",
+"label": "National Air and Space Intelligence Center"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-10be0ce5ef",
+"label": "NASIC is the current tenant institution at Wright-Patterson",
+"note": "The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir to ATIC/FTD's foreign materiel exploitation mission.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-e10ff53f09",
+"label": "Blue Book was hosted at Wright-Patterson from 1952 to 1969",
+"note": "Project Blue Book, like SIGN and GRUDGE before it, was hosted at this base under ATIC. Of 12,618 sightings studied, 701 remained unexplained at closure. Attested by USAF fact sheets.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-dff9356c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+}
+],
+"node": null,
+"title": "Wikipedia - Wright-Patterson Air Force Base",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+]
+}

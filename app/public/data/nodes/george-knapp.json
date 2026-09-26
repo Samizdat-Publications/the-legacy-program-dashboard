@@ -105,104 +105,180 @@
 {
 "id": "c-67ffb4cf08",
 "source": "CHRG-119hhrg61718 CONTENTS",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "CONTENTS",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-712914ce1a",
 "source": "CHRG-119hhrg61718, testimony of George Knapp",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "testimony of George Knapp",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Testimony, 9 September 2025, on where UAP funding sits: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c298b95aa9",
 "source": "KLAS 8 News Now, 'I-Team: Documents prove secret UFO study based in Nevada', December 2017",
+"sources": [],
 "text": "Knapp's KLAS I-Team published AAWSAP contract documentation establishing the DIA-funded study was executed in Las Vegas.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e874579553",
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021)",
+"sources": [],
 "text": "Lacatski read 'Hunt for the Skinwalker' by Knapp and Kelleher before approaching Bigelow in 2007, making the book a proximate cause of the contract.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d8c66b2aa4",
 "source": "Harry Reid interview with George Knapp, KLAS/Mystery Wire, 2021",
+"sources": [],
 "text": "Reid told Knapp on camera that the $22 million was not enough and that not studying the subject would be malpractice.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f1a5446073",
 "source": "George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"sources": [],
 "text": "'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a700b08582",
 "source": "Index of documents, House Oversight hearing Serial No. 118-53",
+"sources": [],
 "text": "A statement for the record by George Knapp was submitted by Rep. Burchett to the 26 July 2023 House Oversight hearing.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4b84cf75ed",
 "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-33645bae",
+"locator": null,
+"title": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood"
+}
+],
 "text": "CONTEMPORANEOUS CONFIRMATION OF THE 1989 REPORTING. A Las Vegas Review-Journal report of 19 June 1990, page 8B, by Warren Bates, records that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This is the only contemporaneous documentary confirmation opened by this session that the 1989 Lazar broadcasts happened at all.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b02b5d2fcb",
 "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-cd6a0979",
+"locator": null,
+"title": "Tom Mahood, 'The Robert Lazar Timeline'"
+}
+],
 "text": "Tom Mahood's timeline records that Knapp began interviewing Lazar in March 1989, that the silhouetted interviews under the pseudonym 'Dennis' aired in May 1989, that KLAS-TV identified and interviewed him publicly on 10 November 1989, and that Lazar appeared on Knapp's KLAS programme 'On The Record' on 9 December 1989. No 1989-dated artefact was opened by this session and these dates are carried at Tier 3.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-98d714c923",
 "source": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-letterboxd-com-18474e51",
+"locator": null,
+"title": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers"
+}
+],
 "text": "He appears in and is credited on Jeremy Corbell's 2018 documentary Bob Lazar: Area 51 and Flying Saucers, alongside Lazar himself and Joy White.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9c63489c6a",
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Knapp has been credited with introducing Senator Harry Reid to Robert Bigelow because of their shared interest in unidentified aerial phenomena.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-46b35af5ce",
 "source": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Knapp worked with Robert Bigelow's National Institute of Discovery Science alongside NIDS deputy administrator Colm Kelleher and publicised Skinwalker Ranch.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-033803a8f1",
 "source": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Knapp co-hosts the Weaponized podcast with Jeremy Corbell.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5b50718005",
 "source": "George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"sources": [],
 "text": "'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-da031b7d10",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2404414528",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-6b202c77d5",
 "source": "George Knapp, quoted by Christopher Sharp, Liberation Times, 28 February 2023; repeated in sworn testimony 9 September 2025",
+"sources": [],
 "text": "Alfred O'Donnell, first general manager of EG&G in Nevada, told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

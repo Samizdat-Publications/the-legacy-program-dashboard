@@ -1,0 +1,59 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-69e28378c4",
+"locator": null,
+"node": "lazar-clark-county-1990",
+"nodeLabel": "Clark County, Nevada felony pandering file, 1990 and 1996",
+"sourceText": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/ , opened 2026-09-18",
+"text": "The 1996 proceedings. Douglas Dean Johnson, who obtained the file, establishes that Lazar received a three-year suspended sentence with probation which he completed; that in 1996 he petitioned to withdraw the guilty plea citing post-traumatic stress, hidden federal records and inadequate legal representation; that the District Attorney urged the court to deny the petition, arguing 'that Lazar's new claims were irrelevant to his admitted and documented criminal activity'; and that the judge denied it. Lazar remains a convicted felon.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9586014705",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/ , opened 2026-09-18",
+"text": "Douglas Dean Johnson, who obtained the court file, establishes that Lazar received a three-year suspended sentence with probation which he completed; that in 1996 he petitioned to withdraw the guilty plea citing post-traumatic stress, hidden federal records and inadequate representation; that the District Attorney opposed on the ground that 'Lazar's new claims were irrelevant to his admitted and documented criminal activity'; and that the judge denied the petition, so the conviction stands.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-douglasjohnson-ghost-io-6c590d13",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "douglasjohnson.ghost.io",
+"listedOn": [
+{
+"cls": "document",
+"id": "lazar-clark-county-1990",
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+}
+],
+"node": null,
+"title": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents'",
+"topics": [
+{
+"claims": [
+"c-69e28378c4"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+}
+],
+"type": "article",
+"urls": [
+"https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/"
+]
+}

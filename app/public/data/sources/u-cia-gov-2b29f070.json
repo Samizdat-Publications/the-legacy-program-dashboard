@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-cia-gov-2b29f070",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "richard-m-bissell-jr",
+"label": "Richard M. Bissell Jr."
+}
+],
+"node": null,
+"title": "Same monograph, CIA Center for the Study of Intelligence copy (no text layer)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.cia.gov/resources/csi/static/CIA-and-U2-Program.pdf"
+]
+}

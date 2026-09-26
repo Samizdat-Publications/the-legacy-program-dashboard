@@ -7,20 +7,26 @@
 {
 "id": "c-7a838ec7f2",
 "source": "war.gov/UFO, accessed 12 August 2026",
+"sources": [],
 "text": "Each PURSUE release is published at war.gov/UFO as a paired document bundle and video bundle, with video served from a CloudFront distribution.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-86970f1cca",
 "source": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [],
 "text": "AARO's homepage links to PURSUE at war.gov/UFO rather than hosting the material itself.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-193a71b022",
 "source": "Inference from the portal's structure compared with AARO's EFOIA reading room and standard FOIA processing practice",
+"sources": [],
 "text": "Publishing outside the FOIA reading room means the redactions in the PURSUE files carry no exemption citations and no administrative appeal path, so no redaction in the corpus can be challenged by any existing mechanism.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

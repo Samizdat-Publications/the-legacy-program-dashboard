@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-01b64993f7",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes.fr/en/projects/geipan",
+"text": "Key milestones per CNES: '2008: GEIPAN website created and UAP archives transferred to it; 2005: GEIPAN replaces SEPRA; 1988: GEPAN replaced by SEPRA, the permanent unit at CNES responsible for routine monitoring of orbital debris and risk objects; 1977: Inception of GEPAN'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-15e1a52cb3",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes.fr/en/projects/geipan",
+"text": "CNES lists GEIPAN's inception as 1977, its location as CNES Toulouse, its lifetime as 'Indefinite' and its status as 'In operation', with partners Gendarmerie, Police, Air and Space Force, CNRS and Meteo France; 'Currently headed by Frédéric Courtade since January 2024, GEIPAN is overseen by COPEIPAN, a steering committee'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"b": {
+"cls": "location",
+"id": "l-france",
+"label": "France"
+},
+"claimTier": 1,
+"id": "e-fd1c239a20",
+"label": "French national UAP office, CNES Toulouse",
+"note": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "peru-uap-office",
+"label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 2,
+"id": "e-a1e62ba125",
+"label": "COMPARISON: the military-host model against the space-agency-host model",
+"note": "COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: 'a country has an office' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA's founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-cnes-fr-0d395c2c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CNES",
+"listedOn": [
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+}
+],
+"node": null,
+"title": "CNES, GEIPAN project page",
+"topics": [
+{
+"claims": [
+"c-01b64993f7",
+"c-15e1a52cb3"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "web page",
+"urls": [
+"https://cnes.fr/en/projects/geipan",
+"https://www.cnes.fr/en/projects/geipan"
+]
+}

@@ -1,0 +1,192 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"claimTier": 2,
+"id": "e-2269b797a0",
+"label": "Chair and member of the same 2026 advisory council",
+"note": "The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-128c545f8c",
+"label": "Chair, appointed June 2026",
+"note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-2dc09b6bdd",
+"label": "Council announced 17 June 2026, between Releases 03 and 04",
+"note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-875e305d82",
+"label": "Named as the council's molecular biologist",
+"note": "The scientist who published the first peer-reviewed UAP materials analysis is seated on a body with no access to the government's own materials.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-1f65569ae2",
+"label": "Named for instrumentation and data collection",
+"note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-9676c01851",
+"label": "Named as the council's cultural anthropologist",
+"note": "Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 1,
+"id": "e-15f84f692e",
+"label": "Sol leadership named to the ODNI/FBI council, 22 June 2026",
+"note": "Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"claimTier": 2,
+"id": "e-d85ecad08d",
+"label": "Gallaudet named to the council as its oceanographer",
+"note": "A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-skeptic-com-56c3800b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Skeptic",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "person",
+"id": "jacob-haqq-misra",
+"label": "Jacob Haqq-Misra"
+},
+{
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+{
+"cls": "person",
+"id": "richard-cloete",
+"label": "Richard Cloete"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+]
+}

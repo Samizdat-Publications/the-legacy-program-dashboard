@@ -7,26 +7,34 @@
 {
 "id": "c-01e7396e2b",
 "source": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"sources": [],
 "text": "From 1947 to 1969 a total of 12,618 sightings were reported to Project BLUE BOOK, of which 701 remain 'Unidentified'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9fd7e805b6",
 "source": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"sources": [],
 "text": "On 17 December 1969 the Secretary of the Air Force announced the termination of Project BLUE BOOK, relying on the University of Colorado report 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-77ecbf43b2",
 "source": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"sources": [],
 "text": "The Project BLUE BOOK records were permanently transferred to the National Archives and are held as 94 rolls of 35mm microfilm, T-1206.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a0ebc8bcc0",
 "source": "Inference from the scope of the Condon Report and the survival of FTD/AFOSI reporting channels",
+"sources": [],
 "text": "The termination of BLUE BOOK in December 1969 did not end Air Force UFO collection; it ended the public-facing collection channel while leaving the Foreign Technology Division and AFOSI channels intact. Reasoning: the Condon Report addressed only the scientific merit of public sighting investigation, and no document terminating classified collection has ever been produced.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

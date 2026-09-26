@@ -8,20 +8,38 @@
 {
 "id": "c-f21afc60ce",
 "source": "DoD Directive 5205.07",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoD Directive 5205.07 establishes acknowledged, unacknowledged and waived SAP categories and the associated reporting regimes.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-697d44d584",
 "source": "DIA release, OUSDI Info Memo on AATIP (Review of Special Access Program Request), via The Black Vault",
+"sources": [],
 "text": "An OUSD(I) information memorandum records a review of a special access program request relating to the Advanced Aerospace Threat Identification Program, dated November 2009.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5495cfc5d3",
 "source": "10 U.S.C. Sec. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119(e) permits waiver of SAP notification requirements, reducing reporting to the chairmen and ranking members of the defence committees.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",

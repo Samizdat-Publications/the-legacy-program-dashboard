@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-theblackvault-com-be29231a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents"
+},
+{
+"cls": "domain",
+"id": "d-mj12",
+"label": "Majestic-12 Corpus"
+},
+{
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+}
+],
+"node": null,
+"title": "John Greenewald Jr., 'FBI File: Majestic-12', The Black Vault",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/majestic-12/"
+]
+}

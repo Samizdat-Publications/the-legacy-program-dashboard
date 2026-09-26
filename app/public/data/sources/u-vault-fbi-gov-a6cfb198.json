@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-79d192179c",
+"label": "Air Force denials of Hangar 18 bodies",
+"note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "hottel-memo",
+"label": "Guy Hottel memorandum, 22 March 1950"
+},
+"b": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"claimTier": 3,
+"id": "e-8bfa7f8480",
+"label": "The Hottel memo predates and partly parallels the Aztec narrative",
+"note": "Hottel's memo of 22 March 1950 describes three fifty-foot discs with three-foot occupants two months before Scully's book described one ninety-nine-foot disc with sixteen. The narratives are related but not identical, so the memo is better read as evidence that the recovery rumour was already in official circulation than as independent confirmation of Aztec.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-vault-fbi-gov-a6cfb198",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FBI",
+"listedOn": [
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+{
+"cls": "document",
+"id": "hottel-memo",
+"label": "Guy Hottel memorandum, 22 March 1950"
+}
+],
+"node": null,
+"title": "FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://vault.fbi.gov/"
+]
+}

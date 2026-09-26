@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-dcdd37c1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-chem",
+"label": "Chemistry & Isotopics"
+},
+{
+"cls": "event",
+"id": "im1-pacific-expedition-2023",
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023"
+}
+],
+"node": null,
+"title": "Hyung, Cherston, Jacobsen & Loeb, Chemical Geology",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1016/j.chemgeo.2025.122627"
+]
+}

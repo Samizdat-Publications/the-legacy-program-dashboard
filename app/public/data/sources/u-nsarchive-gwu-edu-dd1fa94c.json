@@ -1,0 +1,107 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-69aee13227",
+"locator": null,
+"node": "project-bluebird",
+"nodeLabel": "Project BLUEBIRD",
+"sourceText": "Project Bluebird, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "Its purpose, in the document: 'The purpose of this project is to provide for the immediate establishment of interrogation teams for the operational support of OSO and OPC activities. The teams will utilize the polygraph, drugs, and hypnotism to attain the greatest results in interrogation techniques.' A team is a doctor-psychiatrist, a polygraph-hypnotist and a technician, and the doctors' Washington office is to 'serve as a cover for training, experimentation, and indoctrination purposes in the use of drugs and hypnotism'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-8a9f50409a",
+"locator": null,
+"node": "project-bluebird",
+"nodeLabel": "Project BLUEBIRD",
+"sourceText": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The founding proposal names its own irregularity: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-daf55a2bc2",
+"locator": null,
+"node": "project-bluebird",
+"nodeLabel": "Project BLUEBIRD",
+"sourceText": "Project Bluebird, Attachment A, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The one-year budget in the attachment totals $65,515.00: $40,800 personnel, $1,025 supplies, $3,190 equipment, $18,000 transportation and $2,500 rent, itemised down to a Keeler polygraph machine and its spare part kit.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fda70a865b",
+"locator": null,
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The founding proposal for Project BLUEBIRD went to him as Director of Central Intelligence. The memorandum of 5 April 1950 from the Chief of the CIA's Inspection and Security Staff is addressed to the Director of Central Intelligence and says on its face: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.' It asks him for approval and for an allocation of $65,515.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+"b": {
+"cls": "domain",
+"id": "d-secrecy",
+"label": "Secrecy Law & Classification"
+},
+"claimTier": 1,
+"id": "e-4fcf8b3146",
+"label": "Compartment created by bypassing the review committee, in writing",
+"note": "The proposal states on its face that it goes directly to the Director rather than through the Projects Review Committee because of the project's sensitivity, and asks that knowledge be held to the absolute minimum number of persons.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-nsarchive-gwu-edu-dd1fa94c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Security Archive",
+"listedOn": [
+{
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+{
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+}
+],
+"node": null,
+"title": "Chief, Inspection and Security Staff to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950 (CIA-RDP83-01042R000800010003-1)",
+"topics": [
+{
+"claims": [
+"c-69aee13227",
+"c-8a9f50409a",
+"c-daf55a2bc2",
+"c-fda70a865b"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-8a9f50409a"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "document",
+"urls": [
+"https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+]
+}

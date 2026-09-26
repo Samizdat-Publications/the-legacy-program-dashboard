@@ -7,20 +7,44 @@
 {
 "id": "c-680997bc65",
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"sources": [
+{
+"id": "u-defensescoop-com-c2176d6a",
+"locator": null,
+"title": "DefenseScoop, alien .gov domains"
+}
+],
 "text": "alien.gov and aliens.gov were registered by the White House on the evening of 17 March 2026; neither was connected to an active website as of 18 March 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-1aaf5bc83f",
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"sources": [
+{
+"id": "u-defensescoop-com-c2176d6a",
+"locator": null,
+"title": "DefenseScoop, alien .gov domains"
+}
+],
 "text": "White House spokeswoman Anna Kelly's comment on the registrations: 'Stay tuned!' with an alien emoji. CISA's Chris Butera: 'CISA does not generally review or audit how government organizations use their registered domains.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-12cb451ebd",
 "source": "https://www.war.gov/UFO/",
+"sources": [
+{
+"id": "u-war-gov-1c6a1d62",
+"locator": null,
+"title": "Department of War - PURSUE portal (war.gov/UFO)"
+}
+],
 "text": "The registered domains were not used for the release programme, which launched on war.gov/UFO on 8 May 2026. Reasoning: the war.gov portal is the sole publication surface for all five tranches and alien.gov/aliens.gov remain unconnected.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

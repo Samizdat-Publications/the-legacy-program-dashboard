@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-a746b02a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+{
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+{
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966"
+},
+{
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+{
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+{
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+}
+],
+"node": null,
+"title": "24th NORAD Region Senior Directors Log, %201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016"
+]
+}

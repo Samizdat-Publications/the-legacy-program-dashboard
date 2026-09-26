@@ -1,0 +1,69 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-4e87b1af0e",
+"locator": null,
+"node": "dird-detection-and-high-resolution-tracking-of",
+"nodeLabel": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+"sourceText": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+"text": "George Knapp obtained and released this DIRD in mid-2019, making it the fifth AAWSAP deliverable in the public domain, nearly three years before DIA's bulk FOIA release of 25 March 2022.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-94a94e2b23",
+"locator": null,
+"node": "william-culbreth",
+"nodeLabel": "William Culbreth",
+"sourceText": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+"text": "George Knapp released the hypersonic tracking DIRD and published an interview with Culbreth in mid-2019, making it the fifth DIRD to reach the public before the March 2022 bulk FOIA release.",
+"tier": 1
+}
+],
+"date": "2019-08-01",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+"b": {
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth"
+},
+"claimTier": 1,
+"id": "e-58671c0c8b",
+"label": "authored by William Culbreth, UNLV",
+"note": "The DIA list of 9 January 2018 records 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities, Dr W Culbreth, Univ of Nevada-Las Vegas.' The released PDF's author block is redacted under (b)(6). Culbreth also wrote 'Aneutronic Fusion Propulsion II'. He is among the few DIRD authors to have discussed the work publicly, in a 2019 interview with George Knapp.",
+"type": "research"
+}
+],
+"era": "3",
+"id": "u-silvarecord-com-19c12f98",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "silvarecord.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+{
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth"
+}
+],
+"node": null,
+"title": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/"
+]
+}

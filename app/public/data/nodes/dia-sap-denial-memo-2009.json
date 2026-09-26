@@ -7,44 +7,82 @@
 {
 "id": "c-674a16c5d8",
 "source": "DIA memo U-09-2660CE-IM, 13 November 2009",
+"sources": [],
 "text": "DIA found 'insufficient grounds to classify this open program' and that no report contained information 'sufficiently sensitive and vulnerable to require extra protection'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2c07541261",
 "source": "DIA memo U-09-2660CE-IM",
+"sources": [],
 "text": "DIA stated the information is 'not owned by, produced by or for, or under control of the U.S. government' and that DIA is 'prohibited from classifying basic scientific research' absent a national security nexus.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d2e4fa3a75",
 "source": "Inference from the memo's stated scope compared with the BAASS Ten Month Report contents",
+"sources": [],
 "text": "The memo evaluates only the written deliverables and does not address the field investigation, database, ranch operations or human-effects work the same contract paid for — a scoping choice that produces a denial that is technically accurate and substantively incomplete.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-04ca9bad0b",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"sources": [
+{
+"id": "u-dia-mil-5d0ebf39",
+"locator": null,
+"title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)"
+}
+],
 "text": "Memo header: 'DEFENSE INTELLIGENCE AGENCY, WASHINGTON, D.C. 20340-5100 — INFO MEMO, U-09-2660, NOV 13 2009. FOR: DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE. SUBJECT: (U) Review of Special Access Program Request.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7863c087ce",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"sources": [
+{
+"id": "u-dia-mil-5d0ebf39",
+"locator": null,
+"title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)"
+}
+],
 "text": "Finding: 'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e8156d4357",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"sources": [
+{
+"id": "u-dia-mil-ce3242b6",
+"locator": null,
+"title": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)"
+}
+],
 "text": "DIA Info Memo U-10-2552 records the outcome of the follow-on meeting: 'In November, 2009, Deputy Secretary of Defense Lynn and I met with Senator Reid to discuss this program. At that time, we determined the reports were of limited value to DIA. However, I did suggest they could be of merit to other organizations and, that upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-18770fca54",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"sources": [
+{
+"id": "u-dia-mil-ce3242b6",
+"locator": null,
+"title": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)"
+}
+],
 "text": "The explicit suggestion that 'the project could be transitioned to another agency or component better suited to oversee the project' is the documented hinge between AAWSAP's DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

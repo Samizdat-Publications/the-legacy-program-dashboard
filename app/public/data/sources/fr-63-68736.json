@@ -1,0 +1,105 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-8f8c15501f",
+"locator": "14 December 1998, system HDTRA 020 and summary",
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 020 and summary, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "The same notice records a second historical collection, HDTRA 020, Human Radiation Research Review, held at the Radiation Experiments Command Center in the Special Weapons Technology Directorate, containing information abstracted from historical records and covering 'human radiation experimentation conducted from 1944 to the present'. It reached DTRA on 1 October 1998 by transfer of the OSD system DUSDA 05.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8f8c15501f",
+"locator": null,
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 020 and summary, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "The same notice records a second historical collection, HDTRA 020, Human Radiation Research Review, held at the Radiation Experiments Command Center in the Special Weapons Technology Directorate, containing information abstracted from historical records and covering 'human radiation experimentation conducted from 1944 to the present'. It reached DTRA on 1 October 1998 by transfer of the OSD system DUSDA 05.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d541b6c87e",
+"locator": "14 December 1998, system HDTRA 010",
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 010, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "DTRA's own published inventory of records systems describes what it holds from the test era. HDTRA 010, Nuclear Test Participants, covers participants of the US nuclear testing programs and the occupation forces at Hiroshima and Nagasaki from 6 August 1945, holding 'dates and extent of test participation, exposure data, unit of assignment, medical data, and documentation relative to administrative claims or civil litigation', under authority including the Atomic Energy Act of 1954 and a tasking memorandum from the Office of the Secretary of Defense to the Director, Defense Nuclear Agency dated 28 January 1978.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d541b6c87e",
+"locator": null,
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 010, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "DTRA's own published inventory of records systems describes what it holds from the test era. HDTRA 010, Nuclear Test Participants, covers participants of the US nuclear testing programs and the occupation forces at Hiroshima and Nagasaki from 6 August 1945, holding 'dates and extent of test participation, exposure data, unit of assignment, medical data, and documentation relative to administrative claims or civil litigation', under authority including the Atomic Energy Act of 1954 and a tasking memorandum from the Office of the Secretary of Defense to the Director, Defense Nuclear Agency dated 28 January 1978.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-956b7eef41",
+"locator": null,
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Batch 17 file 03, 0:43;33-0:44;22, research/leads/area52-corpus-17.md; checked against RG 374, https://www.archives.gov/research/guide-fed-records/groups/374.html and 63 FR 68736, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb, relaying Dylan Borland's testimony, said that 'old Atomic Energy Commission records held within' DTRA concluded that some UFOs were of non-human origin. No title, number or date was given. Nothing opened for this node supports it: the AEC's own records are in a separate National Archives record group, and DTRA's published inventory of what it holds from that era is nuclear test participation, exposure and human radiation experimentation records.",
+"tier": 2
+}
+],
+"date": "1998-12-14",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dtra",
+"label": "Defense Threat Reduction Agency"
+},
+"b": {
+"cls": "institution",
+"id": "atomic-energy-commission",
+"label": "Atomic Energy Commission"
+},
+"claimTier": 1,
+"id": "e-6a07853157",
+"label": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
+"note": "DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326.",
+"type": "custody"
+}
+],
+"era": "1",
+"id": "fr-63-68736",
+"identifiers": [
+"63 FR 68736"
+],
+"interestedParty": false,
+"issuer": "Federal Register",
+"listedOn": [
+{
+"cls": "institution",
+"id": "dtra",
+"label": "Defense Threat Reduction Agency"
+}
+],
+"node": null,
+"title": "63 FR 68736",
+"topics": [
+{
+"claims": [
+"c-d541b6c87e",
+"c-d541b6c87e"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "regulation",
+"urls": [
+"https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records"
+]
+}

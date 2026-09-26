@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "wesley-watters",
+"label": "Wesley A. Watters"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 1,
+"id": "e-11784bfcd2",
+"label": "Research coordinator and co-editor of the JAI instrumentation special issue",
+"note": "The special issue is the artefact that established a peer-reviewed instrumentation literature in this field rather than a claims literature.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-doi-org-64f43b1f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+}
+],
+"node": null,
+"title": "Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1142/S2251171723400032"
+]
+}

@@ -7,20 +7,26 @@
 {
 "id": "c-eeb3f713b0",
 "source": "Wikipedia, White Sands Missile Range, citing Army range histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "White Sands Proving Ground was established 9 July 1945; the Trinity test occurred 16 July 1945 near its northern boundary; 67 of 100 captured V-2 rockets were fired here 1946-1951 and 35 Operation Paperclip scientists were working at the proving ground by 1946.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-45f14695cf",
 "source": "Los Alamos National Laboratory historical account of the 16 February 1949 conference — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "A conference on the green fireballs was held at Los Alamos on 16 February 1949 with Edward Teller among the attendees; Los Alamos National Laboratory's own account records that the fireballs were ultimately dismissed as a national security threat.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e7ed006e37",
 "source": "Inference from the Project Twinkle final report and the WSPG/Land-Air observation record",
+"sources": [],
 "text": "The earliest instrumented UAP observations in the American record were made by professional optical tracking crews inside the nuclear-weapons and rocketry complex, and the official response - Project Twinkle - was small, underfunded and terminated. Reasoning: the timing and staffing of Twinkle relative to the volume of range reporting.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

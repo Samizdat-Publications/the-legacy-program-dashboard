@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-d226638d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "person",
+"id": "jake-barber",
+"label": "Jake Barber"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account (ft. Logan Paul and Ammar Kandil)' (audio)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9340057376.mp3?updated=1751590405"
+]
+}

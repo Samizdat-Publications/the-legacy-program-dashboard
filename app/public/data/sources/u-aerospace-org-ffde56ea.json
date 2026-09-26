@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-aerospace-org-ffde56ea",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "aerospace.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "The Aerospace Corporation - Value of Aerospace FFRDC",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://aerospace.org/article/value-aerospace-ffrdc"
+]
+}

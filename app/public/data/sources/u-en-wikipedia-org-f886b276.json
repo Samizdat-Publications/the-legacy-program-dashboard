@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-f886b276",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-michigan-state",
+"label": "Michigan State University, East Lansing, Michigan"
+}
+],
+"node": null,
+"title": "Wikipedia - Michigan State University",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Michigan_State_University"
+]
+}

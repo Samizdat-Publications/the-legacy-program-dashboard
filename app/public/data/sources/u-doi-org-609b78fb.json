@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+},
+"b": {
+"cls": "domain",
+"id": "d-intel",
+"label": "Intelligence Tradecraft & Analysis"
+},
+"claimTier": 1,
+"id": "e-d12809f825",
+"label": "Indications analysis on the atomic complex",
+"note": "Hancock, Porritt and Grosvenor applied formal intelligence indications methodology to UAP reporting against the US atomic warfare complex.",
+"type": "research"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+},
+"b": {
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+"claimTier": 3,
+"id": "e-64eb3dfb37",
+"label": "Phenomenon and the security regime around it",
+"note": "The sites where the correlation is strongest are governed by the Restricted Data regime rather than by DoD classification, which routes any resulting analysis outside the SAP framework.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-doi-org-609b78fb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-intel",
+"label": "Intelligence Tradecraft & Analysis"
+},
+{
+"cls": "institution",
+"id": "limina-journal",
+"label": "Limina - The Journal of UAP Studies"
+},
+{
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+}
+],
+"node": null,
+"title": "Grosvenor, Hancock & Porritt, Limina",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.59661/001c.131854"
+]
+}

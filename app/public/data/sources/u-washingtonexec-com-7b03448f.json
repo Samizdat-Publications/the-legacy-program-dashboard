@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": "2018-11",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr"
+},
+"b": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"claimTier": 2,
+"id": "e-09d5295695",
+"label": "Directed Los Alamos before the NRO and ODNI",
+"note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-48f682bb07",
+"label": "Chairman of MITRE's Board of Trustees from November 2018",
+"note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-washingtonexec-com-7b03448f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "washingtonexec.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr"
+}
+],
+"node": null,
+"title": "WashingtonExec",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/"
+]
+}

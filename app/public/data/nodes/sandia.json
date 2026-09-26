@@ -7,44 +7,64 @@
 {
 "id": "c-bf366ff395",
 "source": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"sources": [],
 "text": "Three staff members of Sandia National Laboratories were among the five outside reviewers of the FY09 AAWSAP technical reports.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-64211fc542",
 "source": "Inference from the timing of the review memo relative to the SAP decision chain",
+"sources": [],
 "text": "Sandia's involvement as reviewer rather than author indicates DIA sought institutional cover for the technical credibility of an unconventional portfolio it expected to have to defend — which it did, five weeks later, to the Deputy Secretary of Defense.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-cbbe61eee1",
 "source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"sources": [
+{
+"id": "crs-r44629",
+"locator": "funding table",
+"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+}
+],
 "text": "Sandia National Laboratories is a DOE FFRDC administered by National Technology & Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately $4,584.0 million in FY2024 - the largest FFRDC funding figure in the United States.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5b7eceaede",
 "source": "AFOSI documents released under FOIA and archived by NICAP",
+"sources": [],
 "text": "AFOSI Complaint Form dated 9 September 1980, filed by Special Agent Richard C. Doty (District File No. 8017D93-0/29), records the 8 August 1980 observation by SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier of 1608 SPS of a bright light making stop-and-go manoeuvres near the Manzano restricted test range, which landed in Coyote Canyon and departed vertically at high speed.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5d9afd99ad",
 "source": "AFOSI documents released under FOIA and archived by NICAP",
+"sources": [],
 "text": "The same AFOSI file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with his radio malfunctioning during the encounter.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-657a7a193f",
 "source": "Greg Bishop, Project Beta; Doty's own subsequent public statements, including his 2014 acknowledgements reported by HuffPost",
+"sources": [],
 "text": "AFOSI Special Agent Richard Doty was the conduit for fabricated documents supplied to Albuquerque physicist Paul Bennewitz, whose company Thunder Scientific operated adjacent to Kirtland AFB, in an operation that culminated in Bennewitz's psychiatric collapse.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0015d05fb4",
 "source": "Reading of the AFOSI complaint form as archived by NICAP",
+"sources": [],
 "text": "The 1980 Kirtland incident file is the clearest documented convergence of a contractor-operated national laboratory, an Air Force counterintelligence office and a nuclear weapons storage site in a single anomalous-object case. Reasoning: the AFOSI complaint form names all three in one document; no claim is made that Sandia investigated the object.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

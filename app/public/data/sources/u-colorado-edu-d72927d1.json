@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4c1b55f22b",
+"locator": null,
+"node": "alex-dietrich",
+"nodeLabel": "Alex Dietrich",
+"sourceText": "https://www.colorado.edu/emp/people/alex-dietrich , opened 2026-09-18",
+"text": "The University of Colorado Boulder publishes her as a Lecturer in its Lockheed Martin Engineering Management Program, previously an adjunct instructor in the Engineering Leadership Program (2022) and Scholar in Residence to the Engineering Management Program (2023). The same page gives her career as a 20-year Naval career as an F/A-18F strike fighter pilot, with combat deployments supporting Operation Iraqi Freedom and Operation Enduring Freedom, a final yearlong assignment as an infrastructure reconstruction engineer in Ghazni, Afghanistan, and a Bronze Star and Air Combat Medal. Prior teaching posts: Naval Science instructor across a Washington DC consortium of Georgetown, George Washington, Howard and Catholic universities, and Military Professor at the US Naval Academy, Department of Leadership, Ethics and Law. Education: BS Civil Engineering, George Washington University; Defense Language Institute certification in Dari; MBA, GW School of Business. This is an employer's published biography of its own lecturer, not a service record.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-colorado-edu-d72927d1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "colorado.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+}
+],
+"node": null,
+"title": "University of Colorado Boulder, Engineering Management Program, staff page for Alex Dietrich",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.colorado.edu/emp/people/alex-dietrich"
+]
+}

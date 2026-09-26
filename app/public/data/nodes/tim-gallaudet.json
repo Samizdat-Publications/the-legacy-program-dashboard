@@ -68,62 +68,112 @@
 {
 "id": "c-1f8c5e956c",
 "source": "CHRG-118hhrg57440 CONTENTS",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "CONTENTS",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Dr. Tim Gallaudet, Rear Admiral, U.S. Navy (RET.), Chief Executive Officer, Ocean STL Consulting, LLC'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-096e4c4621",
 "source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"sources": [],
 "text": "In January 2015 the operations officer of Fleet Forces Command emailed all subordinate commanders under the subject 'URGENT SAFETY OF FLIGHT ISSUE,' attaching the GO FAST video and writing 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fb0a5cff34",
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"sources": [],
 "text": "The email disappeared from his account and other recipients' accounts the next day without explanation.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7cb83e65ca",
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"sources": [],
 "text": "He concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5a1f5cb869",
 "source": "Tim Gallaudet to DefenseScoop, 14 May 2026",
+"sources": [],
 "text": "'The fact that this was the first time that an administration openly admitted that UAP files have been shielded from the public was promising. However, the ambiguity of the video content in particular is concerning as no metadata was included.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-60a3c7c85d",
 "source": "DefenseScoop, 14 May 2026",
+"sources": [],
 "text": "Gallaudet said the absence of metadata made it impossible to conclude that any released object was truly anomalous.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f1e306194b",
 "source": "CHRG-118hhrg57440",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": null,
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Gallaudet testified as a witness at the 13 November 2024 House Oversight hearing printed as Serial No. 118-135.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6e1c145ba1",
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "'The ambiguity of the video content in particular is concerning as no metadata was included.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-839c22e236",
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8f44d878c7",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"sources": [
+{
+"id": "u-defensescoop-com-50fc68fe",
+"locator": null,
+"title": "DefenseScoop, UAP Science Advisory Council"
+}
+],
 "text": "Named a member of the UAP Science Advisory Council announced 17 June 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -1,0 +1,81 @@
+{
+"archived": [
+"https://web.archive.org/web/20260707082244/https://www.aaro.mil/About/Leaders/"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-33c2d87a12",
+"locator": null,
+"node": "aaro-2026-posture",
+"nodeLabel": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
+"sourceText": "https://www.aaro.mil/About/Leaders/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Dr. Jon T. Kosloski is Director of AARO; his background is technical and leadership positions within the Research Directorate of the National Security Agency, with a Johns Hopkins PhD in electrical engineering focused on quantum optics devices for receiving weak phase-encoded signals.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b876ca9781",
+"locator": null,
+"node": "aaro-2026-posture",
+"nodeLabel": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
+"sourceText": "https://www.aaro.mil/About/Leaders/",
+"text": "AARO's Leaders page names only the Director; no deputy director, chief scientist or historian is publicly identified as of 12 August 2026. Reasoning: direct inspection of aaro.mil/About/Leaders/.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-c36884a6b2",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "https://www.aaro.mil/About/Leaders/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Director of AARO; previously held technical and leadership positions within the Research Directorate of the National Security Agency; PhD in electrical engineering from Johns Hopkins on quantum optics devices for receiving weak phase-encoded signals.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "institution",
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
+"claimTier": 1,
+"id": "e-6d09f96322",
+"label": "directs",
+"note": "Kosloski has led AARO since 26 August 2024; the Leaders page names no other official.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-aaro-mil-a1ea4ef7",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "AARO Leaders page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.aaro.mil/About/Leaders/"
+]
+}

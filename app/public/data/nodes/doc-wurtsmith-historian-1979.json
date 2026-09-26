@@ -7,20 +7,38 @@
 {
 "id": "c-188c7c8548",
 "source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026"
+}
+],
 "text": "SSgt Paul J. Cahill, Research Record of Events, 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-01ea9e8c5d",
 "source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026"
+}
+],
 "text": "Capt. Myron Taylor, Memo for the Record to SSgt Cahill, 18 January 1979, gives the KC-135 crew's account of 30 October 1975 and names Major Frederick Pappas as aircraft commander, Capt. K. E. May as co-pilot, Capt. Rick Meier as navigator, Capt. Randy Higginbotham as instructor pilot, Sergeant Steve Smith, and himself as instructor navigator.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-343e4daca2",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "THE STANDING CAUTION THIS DOCUMENT CREATES. Because a wing historian is on record finding no reference in his own wing history to an event other Air Force paper records, an argument from a unit history's silence is weaker on this board than it looks. That applies to the sceptical reading of the 341st SMW Echo Flight material as much as to anything else.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

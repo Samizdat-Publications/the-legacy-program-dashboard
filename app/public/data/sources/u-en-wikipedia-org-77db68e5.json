@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-edwards-afb",
+"label": "Edwards Air Force Base, California"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-2f40ed25b5",
+"label": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-77db68e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-edwards-afb",
+"label": "Edwards Air Force Base, California"
+}
+],
+"node": null,
+"title": "Wikipedia - Edwards Air Force Base",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
+]
+}

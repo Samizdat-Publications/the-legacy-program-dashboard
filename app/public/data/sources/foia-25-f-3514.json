@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9cec763ec3",
+"locator": "September 2025",
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "OSD FOIA final response, case 25-F-3514, September 2025",
+"text": "In September 2025 OSD responded in FOIA case 25-F-3514 that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged Yankee Blue cessation memo.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-38c323c2bb",
+"locator": "September 2025",
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "OSD FOIA response, case 25-F-3514, September 2025",
+"text": "OSD's final response in FOIA case 25-F-3514 (September 2025) stated that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged spring 2023 cessation memo.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "foia-25-f-3514",
+"identifiers": [
+"FOIA case 25-F-3514"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [],
+"node": null,
+"title": "FOIA case 25-F-3514",
+"topics": [
+{
+"claims": [
+"c-38c323c2bb"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-9cec763ec3"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-38c323c2bb"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
+"type": "document",
+"urls": []
+}

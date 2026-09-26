@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-abd054148a",
+"locator": null,
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"sourceText": "archive.org item for Mirage Men (2013), https://archive.org/details/mirage-men-2013 , opened 2026-09-19",
+"text": "The 2013 documentary Mirage Men, directed by John Lundberg with Roland Denning and Kypros Kyprianou, based on Mark Pilkington's 2010 book and premiered at Sheffield Doc/Fest on 13 June 2013, is built on the admission and centres on Doty's dealings with Bennewitz and Linda Moulton Howe. The production company is named Perception Management Productions. The film was NOT watched by this session and nothing he says in it is quoted here.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-3f55dad0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+}
+],
+"node": null,
+"title": "archive.org item for 'Mirage Men' (2013), dirs John Lundberg, Roland Denning, Kypros Kyprianou, premiered Sheffield Doc/Fest 13 June 2013",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/mirage-men-2013"
+]
+}

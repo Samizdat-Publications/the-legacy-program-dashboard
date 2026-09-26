@@ -1,0 +1,152 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-529d85dc84",
+"locator": null,
+"node": "dird-detection-and-high-resolution-tracking-of",
+"nodeLabel": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"text": "Released PDF is 46 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8166c221b5",
+"locator": null,
+"node": "dird-detection-and-high-resolution-tracking-of",
+"nodeLabel": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bd542c1ceb",
+"locator": null,
+"node": "dird-detection-and-high-resolution-tracking-of",
+"nodeLabel": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e258ab5e11",
+"locator": null,
+"node": "dird-detection-and-high-resolution-tracking-of",
+"nodeLabel": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"text": "Defense Intelligence Reference Document titled \"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\", series \"Defense Futures\", published 2010-11-20 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1012-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+"claimTier": 1,
+"id": "e-2e1ec628d0",
+"label": "commissioned under AAWSAP; 'Defense Futures' series",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+"b": {
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+"claimTier": 1,
+"id": "e-3fd8bb96b7",
+"label": "subject domain: sensing and tracking at hypersonic velocity",
+"note": "The sensor-side counterpart to Leonhardt's cloaking DIRD: one asks how an object could be made undetectable, the other how an object moving at hypersonic velocity could nevertheless be tracked at high resolution. Together they bracket the observability problem that any UAP sensor programme has to solve.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+"b": {
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth"
+},
+"claimTier": 1,
+"id": "e-58671c0c8b",
+"label": "authored by William Culbreth, UNLV",
+"note": "The DIA list of 9 January 2018 records 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities, Dr W Culbreth, Univ of Nevada-Las Vegas.' The released PDF's author block is redacted under (b)(6). Culbreth also wrote 'Aneutronic Fusion Propulsion II'. He is among the few DIRD authors to have discussed the work publicly, in a 2019 interview with George Knapp.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+"claimTier": 1,
+"id": "e-8d01f3936f",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+"claimTier": 1,
+"id": "e-dc49e27093",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1012-001. Publication date 20 November 2010 on the cover. 47 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-c91ef7f5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+}
+],
+"node": null,
+"title": "DIA FOIA Electronic Reading Room entry for this reference document",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/"
+]
+}

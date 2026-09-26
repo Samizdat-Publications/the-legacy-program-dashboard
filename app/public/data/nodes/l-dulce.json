@@ -7,26 +7,52 @@
 {
 "id": "c-75fff9fa76",
 "source": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"sources": [
+{
+"id": "u-energy-gov-ba299532",
+"locator": null,
+"title": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full"
+}
+],
 "text": "The Gasbuggy site is in northwestern New Mexico in Rio Arriba County, approximately 55 miles east of Farmington and 12 miles southwest of Dulce, in the Carson National Forest, and consists of one section of land totalling 640 acres. Long-term stewardship is held by the DOE Office of Legacy Management.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c420810731",
 "source": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-santafenewmexican-com-9bb1f6e2",
+"locator": null,
+"title": "Tom Sharpe, The Santa Fe New Mexican, 'Book claims government behind cattle mutilations'"
+}
+],
 "text": "Gabe Valdez was a New Mexico State Police officer stationed in Dulce in 1976, when he began the livestock-mutilation investigations that made him the central official figure in the region's caseload.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-0e56e92074",
 "source": "Daniel J. Chacon, The Santa Fe New Mexican, 7 May 2016, https://www.santafenewmexican.com/life/features/move-over-roswell-dulce-is-home-to-true-ufo-believers/article_3164df9a-9813-5add-9b16-5e3a90c0340e.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-santafenewmexican-com-0e347108",
+"locator": null,
+"title": "Daniel J. Chacon, The Santa Fe New Mexican, 'Move over, Roswell. Dulce is home to true UFO believers'"
+}
+],
 "text": "THE ONLY JICARILLA APACHE NATION OFFICIAL WHOSE WORDS WERE OPENED. Legislative Council President Ty Vicenti, quoted in a May 2016 newspaper feature, issues a tourism welcome inviting visitors to 'talk to the many tribal members who have first hand contact with UFO sightings and stories'. He is NOT quoted asserting or denying the existence of a base, and no position of the Nation was established.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-5603a5265b",
 "source": "Inference from the DOE Office of Legacy Management Gasbuggy fact sheet, opened 2026-09-19",
+"sources": [],
 "text": "STATED INFERENCE. A contaminated Plowshare site held under federal stewardship for more than forty years, adjacent to a sovereign nation's reservation, is a legacy-custody problem in its own right whatever the rumour attached to the mesa happens to be. Reasoning: this is a domain-to-domain inference about the character of the site and is graded accordingly.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

@@ -8,20 +8,26 @@
 {
 "id": "c-1c7d88b524",
 "source": "izmiran.ru (official)",
+"sources": [],
 "text": "IZMIRAN is the N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation of the Russian Academy of Sciences, founded in 1939, with research programmes in ionospheric physics, magnetism, solar-terrestrial physics and space weather prediction, and a St Petersburg branch.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0509612bed",
 "source": "Stonehill & Mantle, 'Setka'; recorded elsewhere on this board under yury-platov",
+"sources": [],
 "text": "Yury Viktorovich Platov, an IZMIRAN physicist, is identified in the published secondary literature on the Soviet programme as chief executive of SETKA-AN, the Academy of Sciences component of the 1978-1990 USSR anomalous-phenomena programme, and as co-author of its official history.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a155ab315f",
 "source": "Inference",
+"sources": [],
 "text": "The Soviet decision to run the scientific half of its anomalous-phenomena programme inside a named academy institute rather than an unacknowledged compartment is why an institutional address survives at all on the Russian side. Reasoning: comparison with the US case, where the equivalent work is only traceable through litigation and leak.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

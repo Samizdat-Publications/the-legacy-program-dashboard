@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-3d98521a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "amir-siraj",
+"label": "Amir Siraj"
+}
+],
+"node": null,
+"title": "Siraj & Loeb, 'A Meteor of Apparent Interstellar Origin in the CNEOS Fireball Catalog', The Astrophysical Journal",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.3847/1538-4357/ac8eac"
+]
+}

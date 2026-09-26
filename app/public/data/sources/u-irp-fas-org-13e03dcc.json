@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-irp-fas-org-13e03dcc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "institution",
+"id": "stic-usib",
+"label": "Scientific and Technical Intelligence Committee (USIB)"
+}
+],
+"node": null,
+"title": "FAS list of Director of Central Intelligence Directives, listing DCID 3/5P Scientific and Technical Intelligence Committee",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://irp.fas.org/offdocs/dcid.htm"
+]
+}

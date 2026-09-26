@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 2,
+"id": "e-c4be72707d",
+"label": "Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB",
+"note": "Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, contacted Kirtland on 24 October 1980 and briefed base officials on 10 November 1980. Attested by his own correspondence and contemporary press.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 2,
+"id": "e-fce341e7ef",
+"label": "Doty's AFOSI detachment ran the Bennewitz deception from Kirtland",
+"note": "Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 2,
+"id": "e-6a1fe3f35c",
+"label": "Sandia National Laboratories is adjacent to Kirtland AFB",
+"note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-7f12f29aca",
+"label": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
+"note": "Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty's parallel statements have since been partly retracted by him. Any claim about Moore's conduct sourced to Bishop's Project Beta carries the participant-account caveat.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-ee09daef",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-albuquerque",
+"label": "Albuquerque, New Mexico"
+},
+{
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+}
+],
+"node": null,
+"title": "Wikipedia - Paul Bennewitz",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Paul_Bennewitz"
+]
+}

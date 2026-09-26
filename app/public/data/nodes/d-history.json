@@ -8,20 +8,26 @@
 {
 "id": "c-d0bb364d87",
 "source": "AARO Historical Record Report Volume I",
+"sources": [],
 "text": "AARO's Volume I report reconstructs USG UAP investigatory programmes since 1945 and assesses interviewee claims of hidden programmes in Sections IV through VII.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b71d752140",
 "source": "Condon Report, University of Colorado",
+"sources": [],
 "text": "The Condon Report, 'Scientific Study of Unidentified Flying Objects', was published in November 1968 and led directly to the termination of Project Blue Book.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5aebd6dd9a",
 "source": "Robertson Panel report, declassified text",
+"sources": [],
 "text": "The Robertson Panel report of January 1953 is a primary document in the official corpus and was itself declassified only in redacted stages.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "domain",

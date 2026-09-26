@@ -19,6 +19,7 @@
     "text": "CUFON transcription of the Pentacle Memorandum",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The memorandum proposes controlled experiments with observation posts in high-report areas and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.'",
    "tier": 1
   },
@@ -32,6 +33,7 @@
     "text": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
    "tier": 2
   },
@@ -45,6 +47,7 @@
     "text": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
    "tier": 2
   },
@@ -58,6 +61,7 @@
     "text": "AARO/ORNL Synopsis, July 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
    "tier": 1
   },
@@ -71,6 +75,13 @@
     "text": "US Patent 3,174,851. https://patents.google.com/patent/US3174851A/en",
     "url": "https://patents.google.com/patent/US3174851A/en"
    },
+   "sourceRefs": [
+    {
+     "id": "us-patent-3174851",
+     "locator": null,
+     "title": "US Patent 3,174,851"
+    }
+   ],
    "text": "US Patent 3,174,851, 'Nickel-base alloys', by William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, was filed on 1 December 1961 and granted on 23 March 1965.",
    "tier": 1
   },
@@ -84,6 +95,13 @@
     "text": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969, Foreword p. iii and p. 2. https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
     "url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-ntrs-nasa-gov-af7d0d38",
+     "locator": null,
+     "title": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969"
+    }
+   ],
    "text": "Battelle's documented role in the alloy is late and contractual. NASA CR-1433 of September 1969 records that the nitinol was 'supplied by Mr. William J. Buehler of the Magnetism and Metallurgy Division of the U.S. Naval Ordnance Laboratory (NOL), Silver Spring, Maryland', and that 'As subcontractor to GAC, Battelle Memorial Institute (BMI), Columbus, Ohio, processed the basic Nitinol rod'. The same report calls the NOL work 'the recent discovery'.",
    "tier": 1
   },
@@ -97,6 +115,7 @@
     "text": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)', published 13 March 2025, at 1:34:53",
     "url": null
    },
+   "sourceRefs": [],
    "text": "On American Alchemy with Jesse Michels, 13 March 2025, at 1:34:53, John Brandenburg said that 'there was a contract between Los Alamos and Battelle Memorial Institute in 1949 and it was around nitinol', that the work was 'declassified by Battelle in the 60s', and asked why Los Alamos had a contract with Battelle in 1949. The board's node dates the corresponding nickel-titanium work to 1948-49 under Wright-Patterson sponsorship. The two accounts name different sponsors for the same alloy in the same period, and no contract record was opened for either.",
    "tier": 2
   },
@@ -110,6 +129,7 @@
     "text": "CUFON transcription and provenance record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addressed to Miles E. Goll at Wright-Patterson Air Force Base, Ohio, under Project Stork.",
    "tier": 2
   },
@@ -123,6 +143,7 @@
     "text": "Project Stork status reports, Third Status Report, 7 July 1952, and the redaction pattern across the set",
     "url": null
    },
+   "sourceRefs": [],
    "text": "In most released copies the contractor's name is crossed out and supplied by a handwritten annotation reading '{Battelle}'. The Third Status Report of 7 July 1952 is the only one where it is typed rather than struck out: 'by BATTELLE MEMORIAL INSTITUTE'. That single untouched line is how the attribution survives at all.",
    "tier": 1
   },
@@ -136,6 +157,7 @@
     "text": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md",
     "url": null
    },
+   "sourceRefs": [],
    "text": "On the Danny Jones Podcast, episode 181, 16 April 2023, at 1:15:27, Jeremy Rys credited the first nitinol discovery to the Naval Ordnance Laboratory and dated it 1954. The laboratory is corroborated by the federal record; the date is not. No opened document places any NOL nitinol work before 1961.",
    "tier": 2
   },
@@ -149,6 +171,7 @@
     "text": "UAP Gerb, Battelle investigation description, 18 February 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
    "tier": 2
   },
@@ -162,6 +185,7 @@
     "text": "Project Stork status reports, First (25 April 1952) and Fifth (10 September 1952), transcribed from NARA holdings",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The contract is identified: from the Fifth Status Report onward the heading reads 'on CONTRACT AF-19741, PPS-100'. The First Status Report of 25 April 1952 'describes progress on Project Stork PPS-100, from its inception on March 31, 1952 through April 25, 1952'.",
    "tier": 1
   },
@@ -175,6 +199,7 @@
     "text": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994)",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon explanation was a cover story.",
    "tier": 1
   },
@@ -188,6 +213,7 @@
     "text": "Inference from MITRE biography and NSF Master Government List of FFRDCs",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Battelle-to-MITRE chief-executive transfer is not incidental: it demonstrates that the same small pool of laboratory-management executives circulates between the institutions that have historically held Air Force UFO analysis contracts (Battelle) and the institution now under congressional interrogation for legacy-program records (MITRE). Reasoning: both organisations are contractor-operators of federally funded research entities drawing on the same executive labour market, and the Directors' Council Peters chaired formally coordinates that market.",
    "tier": 3
   },
@@ -201,6 +227,7 @@
     "text": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
    "tier": 1
   },
@@ -214,6 +241,7 @@
     "text": "Project Blue Book Special Report No. 14, statistical results",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Approximately 4,000 reports were collected; the final statistical study covered 2,199 objects, of which 434 (19.7 per cent) were evaluated as 'Unknown'.",
    "tier": 1
   },
@@ -227,6 +255,7 @@
     "text": "Vallee correspondence quoted by CUFON",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Vallee holds that the Robertson Panel of 14-16 January 1953 was not briefed on the Pentacle proposals and that another group had already decided what could and could not be discussed.",
    "tier": 2
   },
@@ -240,6 +269,7 @@
     "text": "AARO, Historical Record Report Volume I, March 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'Project BEAR was an informal name given by Capt Ruppelt... to a contract he created with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.' Battelle 'released a report under the cover of ATIC to maintain its anonymity. Completed in late 1954, the report was titled Special Report No. 14.'",
    "tier": 1
   },
@@ -253,6 +283,7 @@
     "text": "Project Blue Book Special Report No. 14, title page",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Special Report No. 14 was issued by the Air Technical Intelligence Center on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
    "tier": 1
   },
@@ -266,6 +297,13 @@
     "text": "GAO/NSIAD-95-187, p.5; USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-95-187",
+     "locator": "p.5",
+     "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+    }
+   ],
    "text": "The Air Force's 1994 report concluded the most likely source of the recovered wreckage was a Project MOGUL balloon train.",
    "tier": 1
   },
@@ -279,6 +317,7 @@
     "text": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
    "tier": 2
   },
@@ -292,6 +331,7 @@
     "text": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Vallee holds that the Robertson Panel, which met 14-16 January 1953, was not briefed on the Pentacle proposals, and that a separate group had already determined the boundaries of what the panel could discuss.",
    "tier": 2
   },
@@ -305,6 +345,7 @@
     "text": "AARO UAP Records/Information Papers page, aaro.mil",
     "url": null
    },
+   "sourceRefs": [],
    "text": "AARO states: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
    "tier": 1
   },
@@ -318,6 +359,7 @@
     "text": "MITRE news release, 27 June 2024; MITRE leadership biography page",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Peters became MITRE's 10th president and CEO effective 3 September 2024, having come directly from the post of executive vice president for laboratory management and operations at Battelle Memorial Institute.",
    "tier": 1
   },
@@ -331,6 +373,23 @@
     "text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
     "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-ntrs-nasa-gov-0e22d499",
+     "locator": null,
+     "title": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972"
+    },
+    {
+     "id": "u-ntrs-nasa-gov-af7d0d38",
+     "locator": null,
+     "title": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969"
+    },
+    {
+     "id": "us-patent-3174851",
+     "locator": null,
+     "title": "US Patent 3,174,851"
+    }
+   ],
    "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
    "tier": 1
   },
@@ -344,6 +403,7 @@
     "text": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
    "tier": 1
   },
@@ -357,6 +417,7 @@
     "text": "Battelle corporate materials; NSF NCSES FFRDC master list administrator entries",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Battelle Memorial Institute is headquartered in Columbus, Ohio and was founded in 1929.",
    "tier": 1
   },
@@ -370,6 +431,13 @@
     "text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972, Chapter 1, p. 1. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
     "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-ntrs-nasa-gov-0e22d499",
+     "locator": null,
+     "title": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972"
+    }
+   ],
    "text": "NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.'",
    "tier": 1
   },
@@ -383,6 +451,7 @@
     "text": "Synthesis of Special Report No. 14, AARO's ORNL contracting statement, and MITRE's 2024 CEO announcement",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Battelle's presence at both the 1952-55 analysis of Air Force UFO data and the 2022-24 analysis of AARO's material specimen, plus its supply of MITRE's chief executive, indicates institutional continuity in the custody of anomalous-material analysis across seven decades. Reasoning: the connections are individually documented; the continuity claim is the inference drawn from them.",
    "tier": 3
   },
@@ -396,6 +465,7 @@
     "text": "Sarasota Herald-Tribune, 'Memory-metal files are missing', 21 May 2009; Bragalia's published research at UFO Explorations",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Researchers including Anthony Bragalia have alleged that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 - the research lineage of nitinol shape-memory metal - are missing from both Air Force and Battelle archives.",
    "tier": 2
   },
@@ -409,6 +479,7 @@
     "text": "USAspending.gov federal award records; NSF NCSES Master Government List of FFRDCs",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Battelle Memorial Institute holds the DOE management-and-operating contract for Pacific Northwest National Laboratory (DEAC0576RL01830), recorded on USAspending with obligations exceeding $30 billion across the life of the contract from 1978.",
    "tier": 1
   },
@@ -422,6 +493,7 @@
     "text": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:59:04, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:00:44",
     "url": null
    },
+   "sourceRefs": [],
    "text": "On American Alchemy with Jesse Michels, 5 July 2025 at 0:59:04 and again on 12 July 2025 at 1:00:44, Michels said that after Jacques Vallee found the Pentacle memo in the Blue Book files the memo could not be raised around the Robertson Panel: 'apparently you weren't allowed to mention the pentacle' and 'you were not supposed to bring this memo up'. Both tellings are the same speaker, neither cites a document for the instruction, and both describe Vallee putting it to J. Allen Hynek, who on Michels's account played dumb. The board carries the memo and Howard C. Cross's authorship but not this alleged instruction.",
    "tier": 2
   },
@@ -435,6 +507,7 @@
     "text": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "AARO contracted Oak Ridge National Laboratory, operated by UT-Battelle, in 2022 to conduct materials testing on the magnesium alloy specimen alleged to be from a 1947 crash.",
    "tier": 1
   },
@@ -448,6 +521,7 @@
     "text": "Project Stork, First Status Report, 25 April 1952",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The First Status Report lists the contract requirements: '1. Provide a panel of consultants, 2. Assist in improving interrogation forms, 3. Analyze existing sighting reports, 4. Subscribe to a clipping service, as directed, and 5. Apprise the Sponsor monthly of all work done on PPS-100.'",
    "tier": 1
   },
@@ -461,6 +535,7 @@
     "text": "Project Stork status reports, transcribed from NARA holdings, with the transcriber's scope note",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Seven status reports are publicly available, totalling 107 pages, dated 25 April, 6 June, 7 July, 11 August, 10 September, 10 October and 10 November 1952. All are addressed 'to AIR TECHNICAL INTELLIGENCE CENTER, WRIGHT-PATTERSON AIR FORCE BASE'. The set is known to be incomplete: the holding archive's own scope note records that 'these (107) pages are not the total paper generated by Project Stork. Internal references to other documents exist in this text, including further Status Reports. None of these is in the custody of the NARA.'",
    "tier": 1
   },
@@ -474,6 +549,7 @@
     "text": "UAP Gerb, Battelle investigation description, 18 February 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Battelle studied UAP material, likely a shape-memory metallic alloy found at the 1947 Roswell crash site and now referred to as nitinol, as documented by Jacques Vallee with a supporting paper trail.",
    "tier": 2
   },
@@ -487,6 +563,13 @@
     "text": "NASA SP-5110, references 12 and 74, and Acknowledgments, p. iv. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
     "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-ntrs-nasa-gov-0e22d499",
+     "locator": null,
+     "title": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972"
+    }
+   ],
    "text": "The earliest Naval Ordnance Laboratory nitinol report cited anywhere in SP-5110's reference list is NOLTR 61-75 (AD 266607), Buehler and Wiley, 'The Properties of TiNi and Associated Phases', U.S. Naval Ordnance Laboratory, 3 August 1961. The report's own acknowledgments state that 'All the information in the report covers the period from 1955 to March 31, 1970.'",
    "tier": 1
   },
@@ -500,6 +583,7 @@
     "text": "Citation list published in the video description, 18 February 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the UNT digital library, and the Defense.gov Moultrie roundtable transcript.",
    "tier": 1
   },

@@ -1,0 +1,83 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-d8ff4aff83",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
+"text": "The historical practice of the notification was oral. The Moynihan Commission recorded in 1997 that for waived programs 'the chairperson, ranking member, and, on occasion, other members and staff of relevant Congressional committees are notified only orally of the existence of these programs.' If that practice persisted, then the 119(e)(2) delivery of 'the information ... and the justification for the waiver' generates no artefact that can later be produced, subpoenaed, archived or discovered - which is the single most consequential fact on this node.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-023551515a",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf ; Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
+"text": "WHAT SHOULD EXIST IF THE WAIVER WERE BEING USED, AND WHY NONE OF IT IS PUBLIC. Four artefacts are implied by the statute and the DoD instruction: (i) the underlying 119(a), (b) or (c) report itself, which is classified and, for (a) and (b), no longer statutorily required after 31 December 2021; (ii) the Secretary's case-by-case determination that inclusion would adversely affect national security, which 119(e)(1) requires to be made but does not require to be recorded in any publicly indexed form; (iii) the withheld information plus a written justification delivered jointly to twelve named members, which by the Moynihan Commission's account has historically been delivered orally; and (iv) the SAPOC annual review record of whether each waived program should retain that status, which is internal to the Department. None of the four is a public document class. There is no statutory requirement anywhere in Section 119 to report the NUMBER of waivers exercised, the fact that any waiver was exercised, or an aggregate count, to anyone outside those twelve seats. The absence of a public instance is therefore fully explained by the design of the mechanism and is NOT evidence of concealment beyond what the statute itself authorises.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-267f7f10ba",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
+"text": "HISTORICAL CORROBORATION FROM A CONGRESSIONALLY CHARTERED COMMISSION. The Report of the Commission on Protecting and Reducing Government Secrecy (1997), Chapter II, states verbatim: 'Among black programs, further distinction is made for \"waived\" programs, considered to be so sensitive that they are exempt from standard reporting requirements to the Congress. The chairperson, ranking member, and, on occasion, other members and staff of relevant Congressional committees are notified only orally of the existence of these programs.' The same passage gives the surrounding population: 'There are approximately 150 DoD-approved SAPs (the exact number is classified and others have been created but not yet formally approved), down from 200 in the late 1980s, and roughly 300 SCI compartments, compared with an estimated 800 in the late 1980s.' The Commission gives no number for the waived subset. The phrase 'notified only orally' is the operationally important one: it describes a practice under which the 119(e)(2) delivery leaves no paper.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-sgp-fas-org-17dee5f9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+{
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+}
+],
+"node": null,
+"title": "Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists",
+"topics": [
+{
+"claims": [
+"c-267f7f10ba"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+},
+{
+"claims": [
+"c-d8ff4aff83"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-d8ff4aff83"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/library/moynihan/chap2.html"
+]
+}

@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d9d0bfeb7d",
+"locator": null,
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"sourceText": "https://www.altpropulsion.com/gravity-control-experiments/",
+"text": "Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-ca79a374f0",
+"locator": null,
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"sourceText": "https://www.altpropulsion.com/gravity-control-experiments/",
+"text": "The paper reviews the rotating-superconductor gravity-modification claims associated with Evgeny Podkletnov and the work of Ning Li. Hathaway had personally run a Podkletnov replication between 1996 and 2003 and obtained null results, so DIA commissioned the review from a researcher with a documented record of failing to reproduce the effect.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-altpropulsion-com-fa7136c9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "altpropulsion.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+{
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+}
+],
+"node": null,
+"title": "\"George Hathaway's Gravity Control Experiments, \" Alternative Propulsion Engineering Conference",
+"topics": [
+{
+"claims": [
+"c-d9d0bfeb7d",
+"c-ca79a374f0"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.altpropulsion.com/gravity-control-experiments/"
+]
+}

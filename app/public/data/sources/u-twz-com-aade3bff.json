@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-2c9ae2b1aa",
+"label": "Within the November 2004 to March 2021 window the assessment covers",
+"note": "The ODNI preliminary assessment covers 144 reports from USG sources spanning November 2004 to March 2021, the window containing both the Nimitz and the 2019 swarm events.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California"
+},
+"b": {
+"cls": "location",
+"id": "l-socal-oparea",
+"label": "Southern California Operating Areas (W-291 and Baja approaches)"
+},
+"claimTier": 1,
+"id": "e-4877ec3762",
+"label": "Multi-night unattributed swarms against destroyers in the SoCal operating areas",
+"note": "Deck logs from USS Kidd, Rafael Peralta, Russell and John Finn, obtained under FOIA and cross-checked against AIS tracking, document the July 2019 events.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 3,
+"id": "e-05da4920f2",
+"label": "Fed the reporting stream that became the UAPTF caseload",
+"note": "The July 2019 events were investigated by the Navy, Coast Guard and FBI and reached the Chief of Naval Operations in the period immediately preceding the Task Force's establishment; the linkage is reasoned from timing and subject matter, not from a released tasking document.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-99b6e49833",
+"label": "Same operating areas, fifteen years apart, same failure to attribute",
+"note": "Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-twz-com-aade3bff",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California"
+},
+{
+"cls": "location",
+"id": "l-socal-oparea",
+"label": "Southern California Operating Areas (W-291 and Baja approaches)"
+}
+],
+"node": null,
+"title": "The War Zone - destroyers swarmed off California",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights"
+]
+}

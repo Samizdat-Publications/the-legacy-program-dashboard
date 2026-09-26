@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-dd12b9decd",
+"locator": "16 August 1994, govinfo",
+"node": "defense-support-program",
+"nodeLabel": "Defense Support Program (DSP) missile early warning satellites",
+"sourceText": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "gao-nsiad-94-253",
+"identifiers": [
+"GAO/NSIAD-94-253"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+}
+],
+"node": null,
+"title": "GAO/NSIAD-94-253",
+"topics": [],
+"type": "report",
+"urls": []
+}

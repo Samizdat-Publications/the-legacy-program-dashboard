@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": "2026-05-11",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "japan-uap-2026",
+"label": "Japan's review of the 2026 US UAP file releases"
+},
+"b": {
+"cls": "event",
+"id": "ev-argentina-bariloche-1995",
+"label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995"
+},
+"claimTier": 2,
+"id": "e-3918674d0d",
+"label": "both are allied-state responses to the same May 2026 US release",
+"note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
+"type": "temporal"
+}
+],
+"era": "3",
+"id": "u-japantimes-co-jp-675e75e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "japantimes.co.jp",
+"listedOn": [
+{
+"cls": "event",
+"id": "japan-uap-2026",
+"label": "Japan's review of the 2026 US UAP file releases"
+}
+],
+"node": null,
+"title": "The Japan Times",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.japantimes.co.jp/news/2026/05/11/japan/pentagon-ufo-files-japan/"
+]
+}

@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-cc79445865",
+"locator": null,
+"node": "trw-inc",
+"nodeLabel": "TRW Inc.",
+"sourceText": "Northrop Grumman press release, 11 December 2002, filed as Form 425 on 12 December 2002, https://www.sec.gov/Archives/edgar/data/100030/000089843002004462/d425.htm",
+"text": "The defence businesses were renamed at once: 'TRW Systems will be renamed Northrop Grumman Mission Systems, with about 15,000 employees and headquartered in Reston, Va. TRW Space & Electronics will be renamed Northrop Grumman Space Technology, which has more than 8,600 employees, based in Redondo Beach, Calif.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-sec-gov-b4d7b7a1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+}
+],
+"node": null,
+"title": "Northrop Grumman press release of 11 December 2002, filed as Form 425",
+"topics": [
+{
+"claims": [
+"c-cc79445865"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/100030/000089843002004462/d425.htm"
+]
+}

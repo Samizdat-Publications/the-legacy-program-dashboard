@@ -7,14 +7,18 @@
 {
 "id": "c-c4f2fc4077",
 "source": "Wikipedia, 'Institute 22', citing Timothy Good, Need to Know: UFOs, the Military, and Intelligence (Pegasus Books, 2007), p.351",
+"sources": [],
 "text": "'The Institute 22 organization was created in 1978, by the Academy of Sciences and the Ministry of Defense in the Soviet Union ... Institute 22 have investigated around 3000 UFO reports. About 5-10% of all cases remained unexplained when the organization dissolved.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6aea6e7c71",
 "source": "Inference from the overlap between Good (2007) and Stonehill & Mantle",
+"sources": [],
 "text": "'Institute 22' and 'SETKA' most likely denote the same 1978-1991 apparatus under different naming conventions. Reasoning: identical founding year, identical joint Academy of Sciences / Ministry of Defence sponsorship, identical dissolution with the USSR, and no independent Russian-language institutional record distinguishing them has been located.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

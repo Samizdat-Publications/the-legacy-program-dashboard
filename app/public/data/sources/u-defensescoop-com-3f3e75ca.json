@@ -1,0 +1,67 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-be08971abd",
+"locator": null,
+"node": "threei-atlas-2025",
+"nodeLabel": "3I/ATLAS interstellar object and the US government response (November 2025)",
+"sourceText": "https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/",
+"text": "On 4 November 2025 the US government was fielding questions about the interstellar object 3I/ATLAS amid a government shutdown.",
+"tier": 2
+}
+],
+"date": "2025-11-04",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "threei-atlas-2025",
+"label": "3I/ATLAS interstellar object and the US government response (November 2025)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 3,
+"id": "e-3a0c540cef",
+"label": "the gap the council was formed across",
+"note": "An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.",
+"type": "temporal"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-3f3e75ca",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "event",
+"id": "threei-atlas-2025",
+"label": "3I/ATLAS interstellar object and the US government response (November 2025)"
+},
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+}
+],
+"node": null,
+"title": "DefenseScoop, 3I/ATLAS",
+"topics": [
+{
+"claims": [
+"c-be08971abd"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/"
+]
+}

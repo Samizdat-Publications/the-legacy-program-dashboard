@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9770dcb809",
+"locator": null,
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"sourceText": "comptroller.war.gov leadership page and https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/, both read 22 August 2026, against the Key Officials list of 7 July 2026",
+"text": "Two Department pages disagree on who holds the office. The Department of War comptroller site's leadership page names Jules W. Hurst III as Under Secretary of War (Comptroller)/CFO, while war.gov's own biography of Powers opens 'The Honorable Michael Powers currently serves as the Acting Under Secretary of War (Comptroller) and Chief Financial Officer (CFO).' The Historical Office list dates the handover to 20 May 2026, which makes the comptroller site's leadership page the stale one.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-war-gov-2d5a9be3",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "michael-powers-comptroller",
+"label": "Michael Powers"
+}
+],
+"node": null,
+"title": "Department of War, official biography of Michael T. Powers",
+"topics": [
+{
+"claims": [
+"c-9770dcb809"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/"
+]
+}

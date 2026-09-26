@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-5be026875b",
+"label": "The flap occurred during Ruppelt's tenure and drove the record volume",
+"note": "Blue Book case documentation for the 19 July 1952 Washington radar events survives; 1952 produced the largest single-year report volume of the program's history.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-84f49eef40",
+"label": "Arnold's case entered the official file series from the outset",
+"note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 1,
+"id": "e-5f7f5d2b52",
+"label": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
+"note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-3b05dbcb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+{
+"cls": "person",
+"id": "howard-mccoy",
+"label": "Howard M. McCoy"
+},
+{
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold"
+}
+],
+"node": null,
+"title": "NICAP document archive index",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nicap.org/docs/"
+]
+}

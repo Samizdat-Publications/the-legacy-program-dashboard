@@ -8,20 +8,26 @@
 {
 "id": "c-3c9c879242",
 "source": "NASA UAP Independent Study Team Report",
+"sources": [],
 "text": "The NASA UAP Independent Study Team report (September 2023), chaired by David Spergel, found that UAP analysis is hampered by poor sensor calibration and missing metadata, and recommended NASA act to reduce reporting stigma.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fbf0b53baf",
 "source": "Journal of Astronomical Instrumentation, doi:10.1142/S2251171723400081",
+"sources": [],
 "text": "Cloete and colleagues published 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)' in the Journal of Astronomical Instrumentation in 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d6a09d3cb5",
 "source": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+"sources": [],
 "text": "The ODNI Preliminary Assessment on Unidentified Aerial Phenomena, 25 June 2021, stated that limited and inconsistent data were the principal obstacle to characterisation.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "domain",

@@ -1,0 +1,439 @@
+{
+"archived": [
+"https://web.archive.org/web/20231020222328/http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"claimTier": 1,
+"id": "e-4dc9193a60",
+"label": "",
+"note": "The transfer obligation is what links them. Portaria no. 551/GC3 of 9 August 2010, Art. 3, requires CENDOC to send originals to the Arquivo Nacional 'periodicamente', which is why the fund has no terminal year. The operative text is transcribed in a federal court judgment, and the DOU publication is attested by citation in a Chamber of Deputies information requirement.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-63d1d7b5ec",
+"label": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
+"note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 1,
+"id": "e-87e660f2d4",
+"label": "The UFO fund is held in Brasília and its reference code says so",
+"note": "The Arquivo Nacional's own notice identifies the holding as 'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional's Brasília unit. RQS 193/2022 states the transfer route directly: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "custody"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil"
+},
+"b": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 2,
+"id": "e-ae7eaf4ee8",
+"label": "The minister's press conference was given from the capital",
+"note": "Moreira Lima convened the 23 May 1986 press conference as Minister of Aeronautics with the pilots and controllers present. Tier 2 on the location specifically: the sourcing confirms the press conference, the minister and the date, and the ministry sat in Brasília, but no source obtained in this pass names the room.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil"
+},
+"b": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"claimTier": 1,
+"id": "e-87f4a12fcf",
+"label": "The Senado Federal sits in Brasília",
+"note": "RQS 193/2022 also records the 2005 visit by ufologists to CINDACTA and COMDABRA 'em Brasília' to inspect the documents — the capital is where both the archive and the legislature that pressed on it are located. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil"
+},
+"b": {
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil"
+},
+"claimTier": 1,
+"id": "e-e0da3a94fc",
+"label": "Brasília is the federal capital of Brazil",
+"note": "Structural containment edge. Both nodes stood at degree 0. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil"
+},
+"b": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"claimTier": 1,
+"id": "e-a61a3386ee",
+"label": "The Força Aérea Brasileira is the air arm of the Brazilian state",
+"note": "Basic containment edge; the FAB is the institution that makes Brazil the board's counter-example. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-3a69cf08ed",
+"label": "The 1986 engagement ranged across four Brazilian states",
+"note": "São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-0d6a5d9d9a",
+"label": "Commanded the air defence organisation whose engagement he then wrote up",
+"note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+},
+"b": {
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+},
+"claimTier": 1,
+"id": "e-8e3b848bf7",
+"label": "signed the CONFIDENCIAL Air Defence Command report",
+"note": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"b": {
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+},
+"claimTier": 2,
+"id": "e-8268e44c49",
+"label": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
+"note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-82ce487530",
+"label": "COMPARISON: AARO's Foreign Partner Engagement section names no Latin American partner at all",
+"note": "COMPARISON EDGE, and a sourced negative. Section V.A of AARO's FY2025 Consolidated Annual Report is two sentences in full: 'During the reporting period, AARO continued to engage with international partners to exchange information and best practices for UAP reporting, analysis, and response. AARO's deputy director presented a mission briefing to the Defense Geospatial Intelligence conference in London, United Kingdom.' No foreign office, no foreign air force and no foreign archive is named anywhere in the document except that one London conference. Brazil, the FAB and the Arquivo Nacional — the largest declassified military UAP holding in the Americas — do not appear. The task asked what the section actually names: it names one conference in London and nothing else.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+},
+"claimTier": 1,
+"id": "e-63d5904132",
+"label": "Pessoa Cavalcanti signed for the FAB's own Air Defence Command",
+"note": "José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 1,
+"id": "e-aa8f9075a2",
+"label": "Moreira Lima was Minister of Aeronautics, the FAB's own political head",
+"note": "Octávio Júlio Moreira Lima held the Ministério da Aeronáutica, the ministry of which the Força Aérea Brasileira was the service arm, at the time of the 19 May 1986 engagement and of the 23 May 1986 press conference at which he produced the intercept pilots and the controllers and said the armed forces had no technical explanation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+"claimTier": 1,
+"id": "e-6fce8aa41d",
+"label": "Hollanda was a serving FAB officer, not a civilian investigator",
+"note": "Uyrangê Hollanda commanded Operação Prato as a captain of the Brazilian Air Force and retired as a lieutenant colonel. Pratt's file: 'In 1997, long after he had retired as a lieutenant colonel, Hollanda decided he was no longer obligated to remain silent about Operação Prato and publicly discussed Operação Prato.' The institutional tie matters because his later account contradicts the service's official negative finding — the contradiction is internal to the FAB, not between the FAB and outsiders.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-97b79b87ed",
+"label": "The Air Force scrambled the interceptors on the Night of the UFOs",
+"note": "The 19 May 1986 engagement was executed by the FAB: fighters launched from Santa Cruz and Anápolis against radar plots held by the CINDACTA network. RQS 193/2022 describes it in the Senate's own words as the night 'quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato'. The event node previously connected only to the minister and to the report, not to the service that flew the sorties. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"claimTier": 1,
+"id": "e-560d363cb9",
+"label": "The Brazilian Air Force mounted Operação Prato as its own field operation",
+"note": "Operação Prato was run by the Força Aérea Brasileira out of the Belém air base in Pará, with the SNI, after mayors in the Colares area formally asked for help. The Brazilian Senate's own Requerimento 193/2022 lists it among the official Aeronáutica UAP programmes: 'Desde 1954, o Governo Brasileiro, por meio de sua Aeronáutica, já criou vários programas oficiais de pesquisas dos OVNIs, como em 1977, quando ocorreu a chamada Operação Prato'. Bob Pratt's file records that the operation was staffed by 'Captain Uyrangê Hollanda and six sergeants' and was shut down after four months by Brigadier Protázio Lopes de Oliveira, the base commander in Belém. This is the base institutional fact the whole Brazilian cluster hangs from and it was previously unwired. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 2,
+"id": "e-6808fbde97",
+"label": "COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial",
+"note": "COMPARISON EDGE — no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes — one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "peru-uap-office",
+"label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+},
+"b": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"claimTier": 1,
+"id": "e-16b621f8a6",
+"label": "COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil",
+"note": "COMPARISON EDGE — no institutional contact between the FAP and the FAB is claimed. Peru's state news agency Andina, reporting the reopening on 18 October 2013, closes: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office's identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years 'a causa de problemas administrativos'. The reopening was announced at an FAP-hosted 'Encuentro sobre Fenómenos Aéreos Anómalos' addressing the Nazca Lines question.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-b9d6006587",
+"label": "the official record of the night",
+"note": "Its Considerações Finais record solid radar-and-visual objects that outran supersonic interceptors and 'reflect in a certain manner intelligence'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 1,
+"id": "e-b0373f3372",
+"label": "The Senate's own 2022 instrument counts and cites the archive",
+"note": "RQS 193/2022 recites the transfer route from 2007 onward, 'somando-se hoje mais de 20 mil páginas de arquivos liberados', names Brigadeiro Junichi Saito's August 2010 decree in the Diário Oficial da União directing that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional, and gives the archive's own search behaviour: 'quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' A national legislature citing archival reference codes in a legislative instrument is the specific thing the US board has no equivalent of. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"claimTier": 1,
+"id": "e-b41085299c",
+"label": "The Senate instrument treats the Aeronáutica's record as the national record",
+"note": "RQS 193/2022 credits Brazil as the first state to admit officially that the objects exist — the 1954 Escola Superior de Guerra meeting at which then-Captain João Adil de Oliveira spoke — lists SIOANI (1969, IV COMAR), Operação Prato (1977) and the 1986 night as official Aeronáutica programmes, and notes that the Aeronáutica 'sempre foi discreta quanto a estes e a outros fatos, mas nunca os negou quando inquirida'. It also records that the Army and Navy did not transfer their holdings — a named, sourced gap in the Brazilian openness story rather than a clean win. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-6f55dbfaed",
+"label": "The 1986 night is named in the Senate instrument that produced the 2022 special session",
+"note": "RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-imagem-sian-an-gov-br-299bf0f1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Arquivo Nacional (Brasil)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+{
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+},
+{
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+{
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+{
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
+"node": null,
+"title": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+]
+}

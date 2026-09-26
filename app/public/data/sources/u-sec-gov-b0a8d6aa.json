@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4db32218ef",
+"locator": null,
+"node": "e-systems-inc",
+"nodeLabel": "E-Systems, Inc.",
+"sourceText": "E Systems Inc Form 10-K, accession 0000912057-95-001713, filed 27 March 1995, https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt",
+"text": "E-Systems' Form 10-K for fiscal 1994 states that 'The Company was incorporated in Delaware in 1964' and, in its environmental disclosures, refers to 'the Company and its predecessor corporation, LTV'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c67f58fa52",
+"locator": null,
+"node": "e-systems-inc",
+"nodeLabel": "E-Systems, Inc.",
+"sourceText": "E Systems Inc Form 10-K, accession 0000912057-95-001713, filed 27 March 1995, https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt",
+"text": "The Form 10-K business description states that reconnaissance and surveillance systems and command, control and communications systems 'represented approximately 75% of the Company's sales in 1994', and that the company also designed and manufactured intelligence collection and processing systems.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-sec-gov-b0a8d6aa",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "e-systems-inc",
+"label": "E-Systems, Inc."
+}
+],
+"node": null,
+"title": "E Systems Inc Form 10-K for fiscal 1994, accession 0000912057-95-001713",
+"topics": [
+{
+"claims": [
+"c-c67f58fa52"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt"
+]
+}

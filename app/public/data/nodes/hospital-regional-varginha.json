@@ -8,26 +8,34 @@
 {
 "id": "c-1ec66d6ba5",
 "source": "Ministério da Saúde CNES open data, establishment 2761041",
+"sources": [],
 "text": "CNES record 2761041 registers the HOSPITAL REGIONAL DO SUL DE MINAS at Rua Rui Barbosa 158, Centro, Varginha, MG, CEP 37002-140, under municipal administrative sphere, with continuous 24-hour attendance and SUS outpatient service.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c3541cb5e1",
 "source": "Ministério da Saúde CNES open data, município 317070",
+"sources": [],
 "text": "Other hospitals registered in Varginha in the same national register include Hospital Bom Pastor (CNES 2761092, Fundação Hospitalar do Município de Varginha) and Hospital Unimed Varginha (CNES 2761319).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-441832e00a",
 "source": "Inference from the CNES register",
+"sources": [],
 "text": "The identification of the 'Hospital Regional de Varginha' of the 1996 case narrative with the registered Hospital Regional do Sul de Minas is a reasoned match on name, city and the fact that it is the only regional hospital in the municipal register. Reasoning: no contemporaneous 1996 hospital document was obtained to confirm the identification.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-bb782130f6",
 "source": "Research status",
+"sources": [],
 "text": "No hospital admission, transfer or incident record from January 1996 was located in this pass; the custody sequence at this facility remains testimony-based and is a wave-4 target for Brazilian archival and municipal records requests.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+},
+"b": {
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+"claimTier": 2,
+"id": "e-d4c4360eaf",
+"label": "Former UAP Task Force director appears on record",
+"note": "Stratton, former director of the government's UAP Task Force, is named in the film's promotional materials as a participant.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+},
+"b": {
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio"
+},
+"claimTier": 2,
+"id": "e-e254b97466",
+"label": "Rubio appears on record in the documentary",
+"note": "A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-31513595",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "dan-farah",
+"label": "Dan Farah"
+},
+{
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+}
+],
+"node": null,
+"title": "The Age of Disclosure - teaser",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=AZo-Q-FXoXM"
+]
+}

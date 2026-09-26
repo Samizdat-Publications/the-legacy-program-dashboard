@@ -1,0 +1,113 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-53a79bf488",
+"locator": null,
+"node": "chris-coons",
+"nodeLabel": "Christopher A. Coons",
+"sourceText": "https://www.appropriations.senate.gov/subcommittees/defense",
+"text": "Christopher A. Coons (D-DE) is listed as Ranking Member of the Defense Subcommittee of the Senate Appropriations Committee on the subcommittee's official page.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6264360caf",
+"locator": null,
+"node": "chris-coons",
+"nodeLabel": "Christopher A. Coons",
+"sourceText": "https://www.appropriations.senate.gov/subcommittees/defense",
+"text": "The published jurisdiction of the Senate Appropriations Defense Subcommittee includes the Central Intelligence Agency, the Defense Intelligence Agency, the National Reconnaissance Office, the National Security Agency and the National Geospatial and Intelligence Agency alongside the military departments.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c1cd790dac",
+"locator": null,
+"node": "mitch-mcconnell",
+"nodeLabel": "Mitch McConnell",
+"sourceText": "https://www.appropriations.senate.gov/subcommittees/defense",
+"text": "Mitch McConnell (R-KY) is listed as Chair of the Defense Subcommittee of the Senate Appropriations Committee on the subcommittee's official page.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "chris-coons",
+"label": "Christopher A. Coons"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-9f7a8da114",
+"label": "seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee",
+"note": "As ranking member of the Defense Subcommittee of Senate Appropriations he holds one of the twelve seats. 10 U.S.C. 119(g) names that subcommittee separately from the full Appropriations Committee, which is precisely why the count is twelve and not eight. The subcommittee's published jurisdiction includes the CIA, DIA and NSA.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-5c8a363f4e",
+"label": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+"note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 2,
+"id": "e-b589cbbc34",
+"label": "four of the twelve seats are appropriations leadership",
+"note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-appropriations-senate-go-1b72df64",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Appropriations Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "chris-coons",
+"label": "Christopher A. Coons"
+},
+{
+"cls": "person",
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+}
+],
+"node": null,
+"title": "appropriations.senate.gov",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.appropriations.senate.gov/subcommittees/defense"
+]
+}

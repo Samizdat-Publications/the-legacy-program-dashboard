@@ -1,0 +1,200 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-fdb7c32269",
+"locator": "k",
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "P.L. 117-81; P.L. 117-263; AARO FY2024 and FY2025 annual reports cite 50 U.S.C. 3373(k)",
+"text": "AARO's statutory authority and annual reporting requirement are codified at 50 U.S.C. 3373, enacted through the FY2022 and FY2023 NDAAs.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4c4f79c707",
+"locator": "note",
+"node": "dodi-3204-01",
+"nodeLabel": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"sourceText": "Public Law 118-31, Sec. 1687(b) (50 U.S.C. 3373 note)",
+"text": "NDAA FY2024 Sec. 1687(b) cites DoDI 3204.01 by number and change date and makes UAP-related IR&D unallowable as an indirect expense unless the material and information is made available to the appropriate congressional committees and congressional leadership.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-bb86239bac",
+"locator": "source credits Pub. L. 117-263",
+"node": "ndaa-fy2023",
+"nodeLabel": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
+"sourceText": "50 U.S.C. 3373, source credits Pub. L. 117-263",
+"text": "The Act's UAP provisions amended 50 U.S.C. 3373 to require the Secretary of Defense, in coordination with the DNI, to establish the All-domain Anomaly Resolution Office within 120 days of 23 December 2022.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-c32add7baf",
+"locator": "source credit lines",
+"node": "ndaa-fy2023",
+"nodeLabel": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
+"sourceText": "50 U.S.C. 3373 source credit lines",
+"text": "Section 3373 was first enacted by Pub. L. 117-81 (27 Dec 2021) and subsequently amended by Pub. L. 117-263 (23 Dec 2022), Pub. L. 118-31 (22 Dec 2023) and Pub. L. 119-60 (18 Dec 2025) - four successive defence bills reworking the same section.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d602748e4b",
+"locator": "n)(7)-(8)), 136 Stat. 3593",
+"node": "ndaa-fy2023",
+"nodeLabel": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
+"sourceText": "PL 117-263 Div. F sec. 6802(a) (new 50 U.S.C. 3373(n)(7)-(8)), 136 Stat. 3593",
+"text": "Statutory definition inserted by sec. 6802, new 50 U.S.C. 3373(n)(8): \"unidentified anomalous phenomena\" means '(A) airborne objects that are not immediately identifiable; (B) transmedium objects or devices; and (C) submerged objects or devices that are not immediately identifiable and that display behavior or performance characteristics suggesting that the objects or devices may be related to the objects described in subparagraph (A).' Sec. 3373(n)(7): 'transmedium objects or devices' means objects or devices that are '(A) observed to transition between space and the atmosphere, or between the atmosphere and bodies of water; and (B) not immediately identifiable.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ddbf8fc109",
+"locator": null,
+"node": "ndaa-fy2023",
+"nodeLabel": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
+"sourceText": "50 U.S.C. 3373",
+"text": "Statutory duties imposed on the office include standardising UAP collection, reporting and analysis across Defense and the intelligence community; evaluating links to foreign governments or non-state actors; coordinating with FAA, NASA and DHS; conducting field investigations; delivering classified and unclassified reports to Congress; and compiling a historical record of US Government involvement with UAP covering 1 January 1945 onward.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f4e0e81e62",
+"locator": "b)), 136 Stat. 3587",
+"node": "ndaa-fy2023",
+"nodeLabel": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
+"sourceText": "PL 117-263 Div. F sec. 6802(a) (new 50 U.S.C. 3373(b)), 136 Stat. 3587",
+"text": "AARO reporting chain fixed by statute, sec. 1683(b)(3) as amended: the Director of AARO 'shall report directly to the Deputy Secretary of Defense and the Principal Deputy Director of National Intelligence', and reports 'to the Under Secretary of Defense for Intelligence and Security on all administrative matters' and 'to the Deputy Secretary of Defense and the Principal Deputy Director of National Intelligence on all operational and security matters'. The Director is appointed by SecDef in consultation with the DNI; the Deputy Director is appointed by the DNI in coordination with SecDef.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-9275bbe5cf",
+"locator": null,
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
+"text": "The turn-in mandate did not survive conference. Enacted Sec. 7343 of Division G, P.L. 118-31 contains only (a) definitions, (b) a funding limitation and (c) an IR&D limitation. The phrases 'non-earth origin', 'exotic', 'in their possession' and the 60-day deadline appear nowhere in the enacted text.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ea8b1226de",
+"locator": "statutory notes (text in effect on 20 August 2026",
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "Office of the Law Revision Counsel, 50 U.S.C. 3373, statutory notes (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
+"text": "THE ONLY PART OF THE ENACTED FAMILY THAT COULD BE READ VERBATIM CONTAINS NONE OF THE THREE DISPUTED ELEMENTS. The Office of the Law Revision Counsel sets out subsections (b) and (c) of Pub. L. 118-31, div. A, title XVI, Sec. 1687 as a statutory note under 50 U.S.C. 3373, under the heading 'Limitation Regarding Independent Research and Development'. The full text of subsection (b) as set out reads: 'Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.' Subsection (c) then defines 'appropriate congressional committees' as the congressional defense committees plus the two intelligence committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and House minority leader. There is no 60-day deadline, no 180-day deadline, no 'non-earth origin or exotic' language, and no reference to AARO anywhere in the enacted text that OLRC chose to print. The sentence also carries a drafting error that survived into law - 'is made available the appropriate congressional committees', with the preposition 'to' missing - which is itself evidence that this is the enacted text and not a paraphrase. NOTE THE LIMIT OF THIS FINDING: it establishes what is in Sec. 1687(b)-(c), not what is in Sec. 7343, whose body was not retrieved. OLRC set out only subsections (b) and (c) of Sec. 1687 and set out no part of Sec. 7343 as a note anywhere the board has checked.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ea8b1226de",
+"locator": null,
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "Office of the Law Revision Counsel, 50 U.S.C. 3373, statutory notes (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
+"text": "THE ONLY PART OF THE ENACTED FAMILY THAT COULD BE READ VERBATIM CONTAINS NONE OF THE THREE DISPUTED ELEMENTS. The Office of the Law Revision Counsel sets out subsections (b) and (c) of Pub. L. 118-31, div. A, title XVI, Sec. 1687 as a statutory note under 50 U.S.C. 3373, under the heading 'Limitation Regarding Independent Research and Development'. The full text of subsection (b) as set out reads: 'Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.' Subsection (c) then defines 'appropriate congressional committees' as the congressional defense committees plus the two intelligence committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and House minority leader. There is no 60-day deadline, no 180-day deadline, no 'non-earth origin or exotic' language, and no reference to AARO anywhere in the enacted text that OLRC chose to print. The sentence also carries a drafting error that survived into law - 'is made available the appropriate congressional committees', with the preposition 'to' missing - which is itself evidence that this is the enacted text and not a paraphrase. NOTE THE LIMIT OF THIS FINDING: it establishes what is in Sec. 1687(b)-(c), not what is in Sec. 7343, whose body was not retrieved. OLRC set out only subsections (b) and (c) of Sec. 1687 and set out no part of Sec. 7343 as a note anywhere the board has checked.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ee994c7b88",
+"locator": null,
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
+"text": "Enacted Sec. 7343(b) reads: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4b3461f034",
+"locator": "k",
+"node": "kirsten-gillibrand",
+"nodeLabel": "Kirsten E. Gillibrand",
+"sourceText": "Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)",
+"text": "AARO's legal authority and reporting obligations derive from the FY2022 NDAA (P.L. 117-81, 27 December 2021) and the FY2023 NDAA (P.L. 117-263, 23 December 2022), codified at 50 U.S.C. 3373.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2023",
+"label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-e7099a3f96",
+"label": "codified AARO in statute with a public reporting mandate",
+"note": "The James M. Inhofe NDAA for FY2023, signed 23 December 2022, gave AARO statutory authority and the annual reporting requirement now at 50 U.S.C. 3373(k).",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "usc-50-3373",
+"identifiers": [
+"50 U.S.C. 3373"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "ndaa-fy2023",
+"label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO"
+},
+{
+"cls": "legislation",
+"id": "iaa-fy2024-sec-1102",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+}
+],
+"node": null,
+"title": "50 U.S.C. 3373",
+"topics": [
+{
+"claims": [
+"c-fdb7c32269"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-9275bbe5cf"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-4c4f79c707"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-9275bbe5cf"
+],
+"id": "uap-statutes",
+"title": "UAP law in the NDAAs and IAAs, 2021-2026"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+]
+}

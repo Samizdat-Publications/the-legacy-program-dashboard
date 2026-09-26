@@ -1,0 +1,81 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-2f52d0a11e",
+"locator": "Military Space Operations, 2 June 2003, govinfo",
+"node": "defense-support-program",
+"nodeLabel": "Defense Support Program (DSP) missile early warning satellites",
+"sourceText": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"text": "GAO's description of the system and its dates: DSP is 'a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches', the programme commenced in 1967, the first operational satellite was deployed in 1971, the most recent launch was August 2001, and it 'provides near real-time detection information in support of DOD's integrated tactical warning and attack assessment (ITW/AA) mission'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dd12b9decd",
+"locator": "Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo",
+"node": "defense-support-program",
+"nodeLabel": "Defense Support Program (DSP) missile early warning satellites",
+"sourceText": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"b": {
+"cls": "document",
+"id": "afit-townsend-2008",
+"label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+},
+"claimTier": 2,
+"id": "e-3e833b73c5",
+"label": "The thesis points at DSP without naming it",
+"note": "The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-75db3f4fbc",
+"label": "Flown by the Air Force before the constellation passed to the Space Force",
+"note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "gao-03-825r",
+"identifiers": [
+"GAO-03-825R"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+}
+],
+"node": null,
+"title": "GAO-03-825R",
+"topics": [],
+"type": "report",
+"urls": []
+}

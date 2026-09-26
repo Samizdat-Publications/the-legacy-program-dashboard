@@ -10,44 +10,100 @@
 {
 "id": "c-b5d6d0ff37",
 "source": "NASA/TM-2004-213082, title page and abstract, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ntrs-nasa-gov-a7417e6b",
+"locator": null,
+"title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+}
+],
 "text": "HE RAN NASA'S OWN ASSESSMENT OF EXOTIC PROPULSION, WHICH IS AN EARLIER AND STRONGER INSTITUTIONAL FACT THAN THE AAWSAP DIRD AUTHORSHIP THE BOARD ALREADY CARRIES FOR HIM. NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and summarises the Breakthrough Propulsion Physics Project, which 'NASA supported... from 1996 through 2002'. He therefore comes to the DIA's 2010 'Cockpits in the Era of Breakthrough Flight' with six years of having managed the federal government's only public, funded assessment of the same class of claims.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4382857e9f",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ntrs-nasa-gov-a7417e6b",
+"locator": null,
+"title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+}
+],
 "text": "He is the author of the single document that adjudicates three of the propulsion mechanisms this board tracks: Biefeld-Brown and its variants, Alcubierre-style metric engineering, and high frequency gravitational waves. His conclusion on the first, in his own text: these devices 'are not viable candidates for breakthrough physics propulsion'. On the second: they are 'extremely unlikely to be engineered'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a08b49faf3",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "The DIA letter of 9 January 2018 lists 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-28683f757a",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-708ea31d",
+"locator": null,
+"title": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026"
+}
+],
 "text": "The released DIRD bears document number DIA-08-1011-002, publication date 1 November 2010 and Intelligence Cut-Off Date 8 July 2010, in the 'Defense Futures' series.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f6fee14ebf",
 "source": "https://earthtech.org/pubs/davis/",
+"sources": [
+{
+"id": "u-earthtech-org-00a4fe99",
+"locator": null,
+"title": "EarthTech International, publications list for Eric W. Davis (DIRD citations)"
+}
+],
 "text": "Millis is co-editor with Eric W. Davis of 'Frontiers of Propulsion Science', AIAA Progress in Astronautics & Aeronautics Vol. 227 (2009), a documented pre-DIRD collaboration with the AAWSAP subcontractor.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5c26b51292",
 "source": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"sources": [
+{
+"id": "u-jbis-org-uk-ccdee381",
+"locator": null,
+"title": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+}
+],
 "text": "Millis published an open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion', in the Journal of the British Interplanetary Society in 2013.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a4d470fbdf",
 "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"sources": [
+{
+"id": "u-twz-com-37fb1a48",
+"locator": null,
+"title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded"
+}
+],
 "text": "The DIA list records the author as 'Dr G Millis'; the identification with Marc G. Millis of the Tau Zero Foundation rests on the Tau Zero affiliation, the JBIS open-source counterpart published as 'M G Millis', and The War Zone's identification of Marc Millis as an AATIP author.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

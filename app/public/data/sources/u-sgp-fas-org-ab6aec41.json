@@ -1,0 +1,96 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-de2a76adb0",
+"locator": null,
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"sourceText": "Joint Security Commission, 'Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+"text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-fa44e79b33",
+"locator": null,
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"sourceText": "Joint Security Commission, 'Redefining Security', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+"text": "The same chapter records the scale and the carve-outs the board's oversight view argues from: 'Some of the most sensitive DoD programs are \"waived\" or \"carved out\" from certain oversight and administrative requirements. There are over one hundred DoD SAPs, with many having numerous compartments and subcompartments', and each SAP manager 'is free to establish the security rules that will apply to his or her particular program.' On congressional reporting the Commission concluded it saw 'no need to modify existing reporting procedures'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f8c74e7a41",
+"locator": null,
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+"text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-2f60ed6ae3",
+"label": "Waived and carved-out programmes named in a chartered commission's report",
+"note": "The Joint Security Commission's chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-sgp-fas-org-ab6aec41",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+},
+{
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+}
+],
+"node": null,
+"title": "Joint Security Commission, Redefining Security, chapter 2, Classification Management",
+"topics": [
+{
+"claims": [
+"c-de2a76adb0",
+"c-fa44e79b33",
+"c-f8c74e7a41"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+},
+{
+"claims": [
+"c-f8c74e7a41"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+}
+],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/library/jsc/chap2.html"
+]
+}

@@ -7,20 +7,26 @@
 {
 "id": "c-b68da772df",
 "source": "The War Zone, 30 October 2024",
+"sources": [],
 "text": "The NORAD commander publicly addressed the December 2023 unidentified incursions over Langley AFB in October 2024.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-1a9b0a82bb",
 "source": "US Air Force / Langley AFB statement to The War Zone, 15 March 2024",
+"sources": [],
 "text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-80b8f4ec61",
 "source": "The War Zone, 9 October 2024",
+"sources": [],
 "text": "Protective netting to shield F-22s was under consideration by October 2024.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "location",

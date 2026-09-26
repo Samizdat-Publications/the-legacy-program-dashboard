@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-052ced78a2",
+"locator": null,
+"node": "allen-w-dulles",
+"nodeLabel": "Allen W. Dulles",
+"sourceText": "Executive Registry notes filed with CIA-RDP80B01676R001000160044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7",
+"text": "Each of the three letters is a rewrite of an earlier version that was withdrawn. A note to the Executive Registry filed with two of them reads: 'Please note that the attached letter ... was not sent out, but was rewritten as of 13 March 1953 (copy attached).' The letters themselves carry the stamp 'REWRITTEN 13 March 1953'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "cia-rdp80b01676r001000160045-7",
+"identifiers": [
+"CIA-RDP80B01676R001000160045-7"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+}
+],
+"node": null,
+"title": "CIA-RDP80B01676R001000160045-7",
+"topics": [
+{
+"claims": [
+"c-052ced78a2"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-052ced78a2"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7"
+]
+}

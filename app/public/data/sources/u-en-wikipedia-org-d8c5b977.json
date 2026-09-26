@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "location",
+"id": "l-paris",
+"label": "Paris, France"
+},
+"claimTier": 3,
+"id": "e-e810053047",
+"label": "IHEDN origin; delivered to the Prime Minister",
+"note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-d8c5b977",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [],
+"node": null,
+"title": "citing Robert Roussel, 'Ovnis 1947-2017. Le choix du déni', L'Harmattan, 2018, p. 214",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/COMETA_report citing Robert Roussel, 'Ovnis 1947-2017. Le choix du déni', L'Harmattan, 2018, p. 214"
+]
+}

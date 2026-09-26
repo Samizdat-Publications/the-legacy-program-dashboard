@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-navy-mil-392452d0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Navy",
+"listedOn": [
+{
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+}
+],
+"node": null,
+"title": "US Navy - About (official navy.mil)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.navy.mil/About/"
+]
+}

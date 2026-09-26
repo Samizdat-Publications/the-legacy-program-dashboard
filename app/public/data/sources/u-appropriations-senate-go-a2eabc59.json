@@ -1,0 +1,86 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-97db05782b",
+"locator": null,
+"node": "patty-murray",
+"nodeLabel": "Patty Murray",
+"sourceText": "https://www.appropriations.senate.gov/about/members",
+"text": "Patty Murray (D-WA) is listed as Vice Chair of the Senate Appropriations Committee on the committee's official members page, which is the ranking minority position on that committee.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d1620f1d1e",
+"locator": null,
+"node": "susan-collins",
+"nodeLabel": "Susan M. Collins",
+"sourceText": "https://www.appropriations.senate.gov/about/members",
+"text": "Susan Collins (R-ME) is listed as Chair of the Senate Appropriations Committee on the committee's official members page.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "patty-murray",
+"label": "Patty Murray"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-d8c412038c",
+"label": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
+"note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-collins",
+"label": "Susan M. Collins"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-7c1a543371",
+"label": "seat 3 of 12 - Chair, Senate Appropriations",
+"note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-appropriations-senate-go-a2eabc59",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Appropriations Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "patty-murray",
+"label": "Patty Murray"
+},
+{
+"cls": "person",
+"id": "susan-collins",
+"label": "Susan M. Collins"
+}
+],
+"node": null,
+"title": "https://www.appropriations.senate.gov/about/members",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.appropriations.senate.gov/about/members"
+]
+}

@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-753a4ecaa6",
+"label": "the largest operator of the one acquisition form built to be non-competitive by design",
+"note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-mitre-org-bbba01f7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "program",
+"id": "mitre-hssedi",
+"label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)"
+},
+{
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+}
+],
+"node": null,
+"title": "MITRE - R&D Centers",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/our-impact/rd-centers"
+]
+}

@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-8424-uap-transparency-act",
+"label": "H.R. 8424 - UAP Transparency Act (118th Congress)"
+},
+"claimTier": 1,
+"id": "e-66fdbfec24",
+"label": "Sponsor of the 118th Congress predecessor",
+"note": "Died in referral; refiled as H.R. 1187.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-9e8da7cb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-8424-uap-transparency-act",
+"label": "H.R. 8424 - UAP Transparency Act (118th Congress)"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "Congress.gov, H.R. 8424 — UAP Transparency Act (118th Congress)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/bill/118th-congress/house-bill/8424"
+]
+}

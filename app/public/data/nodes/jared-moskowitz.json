@@ -59,44 +59,82 @@
 {
 "id": "c-9abfe2a2b1",
 "source": "Rep. Jared Moskowitz, Task Force hearing, 9 September 2025 (GPO CHRG-119hhrg61718; The Hill, 9 Sept 2025)",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "'I don't really know what is true, I don't know, on this subject, but I do know when we're being lied to and we are definitely being lied to, there's just no doubt about that.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8c9c789d32",
 "source": "CHRG-118hhrg53022, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "26 July 2023",
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "Asked Grusch on the record: 'Do you think U.S. corporations are overcharging for certain tech they are selling to the U.S. Government and that additional money is going to programs?'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-460d9bf649",
 "source": "CHRG-118hhrg57440, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Established on the record that Elizondo signed a US Government document, in a SCIF, in the presence of a security officer, restricting him from discussing crash retrieval.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-74f272c367",
 "source": "Rep. Moskowitz, December 2023, quoted by The Hill, 12 January 2024",
+"sources": [],
 "text": "'The problem is when we ask those questions, rather than being provided information that would prove it false, they stonewall the information, and that is what piques the interest.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-04502b6ae8",
 "source": "CHRG-118hhrg53022, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "26 July 2023",
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "'It is not something that is just going on in this Administration. It is something that has spanned many administrations.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-fb0d11d5a6",
 "source": "House Oversight hearing transcript, 26 July 2023",
+"sources": [],
 "text": "Elicited: funding by 'misappropriation of funds and self-fund,' and 'Correct, through something called IR&D' on contractor overcharging.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-540089b00e",
 "source": "Moskowitz, Capitol press conference, 9 June 2026, reported by Fox News",
+"sources": [],
 "text": "'There's trillions of dollars missing at the Pentagon. Where does that money go?'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

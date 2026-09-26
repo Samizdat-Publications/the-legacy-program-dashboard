@@ -7,86 +7,166 @@
 {
 "id": "c-383058bb27",
 "source": "Office of the Assistant Secretary of Defense FOIA release, case 97-F-1677, September 1997",
+"sources": [
+{
+"id": "foia-97-f-1677",
+"locator": "September 1997",
+"title": "FOIA case 97-F-1677"
+}
+],
 "text": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB, Montana, in November 1975, and show that they could not be intercepted by multiple F-106 fighters.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-28dbee21f7",
 "source": "USAF Fact Sheet on UFOs and Project BLUE BOOK, Wright-Patterson AFB, January 1985, reproduced by the National Archives",
+"sources": [],
 "text": "The 1975 incursions occurred six years after the Air Force announced, on 17 December 1969, the termination of Project Blue Book on the stated conclusion that 'no UFO reported, investigated, and evaluated by the Air Force has ever given any indication of threat to our national security.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-08b5053d25",
 "source": "NORAD and SAC command-post records obtained under FOIA and published by researchers from the late 1970s onward",
+"sources": [],
 "text": "The incursions extended across Loring AFB (Maine), Wurtsmith AFB (Michigan), Malmstrom AFB (Montana) and Minot AFB (North Dakota) between 27 October and mid-November 1975, and were recorded in NORAD and command-post message traffic.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a352fc2a1b",
 "source": "NMCC Memorandum for Record, 29 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-93d7f00d",
+"locator": null,
+"title": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026"
+}
+],
 "text": "The command-level paper is stronger than the node currently says. The National Military Command Center's Memorandum for Record of 29 October 1975, subject 'AFB Penetration', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, was distributed to CJCS in five copies, DJS in three, J-30 through J-38, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, the DIA representative for the National Military Intelligence Center, the NSA representative and the CIA representative.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1a932833b1",
 "source": "NMCC DDO update as of 292200 EST Oct 75, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-93d7f00d",
+"locator": null,
+"title": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026"
+}
+],
 "text": "The episode reached the Army Staff and the State Department. The DDO update of 292200 EST records that the Chief of Staff of the Air Force operations division requested the Army National Guard helicopter under conditions of tracking and identification only, no apprehension and no border crossing; that the request was with the Department of the Army Director of Operations, DCSOPS; that a military aide to the Special Assistant to the Secretary and Deputy Secretary of Defense had been advised; and that the State Department Canadian Desk Officer had been kept informed.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-10c8827be2",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026"
+}
+],
 "text": "The Air Force Intelligence Service logged it to DIA. An Alert Officer's Log entry of 31 October 1975 reads: 'Contacted DIA OPS center and informed them of unidentified flight activity over two SAC bases near Canadian border.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-80ba35e142",
 "source": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , against the CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-archive-org-8805ff8f",
+"locator": null,
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026"
+},
+{
+"id": "u-nicap-org-358db93b",
+"locator": null,
+"title": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026"
+}
+],
 "text": "A NAMING DISCREPANCY INSIDE NORAD'S OWN RECORDS, UNRESOLVED. The 24th NORAD Region Senior Director's Log for 10 November 1975 records the sighting at 'Minot Air Force Station' and says the object 'passed over the radar station'. The CINCNORAD four-part message of 11 November 1975 instead lists 'Minot AFB, ND'. Minot Air Force Station is a radar site and is not the 91st Strategic Missile Wing's missile field. Nothing opened by this board resolves which installation the sequence means, and this board does not choose one.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1d03e14580",
 "source": "NMCC Memorandum for Record and DDO updates, http://www.nicap.org/reports/751027loring_1-6.htm , against the 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-93d7f00d",
+"locator": null,
+"title": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026"
+},
+{
+"id": "u-archive-org-8805ff8f",
+"locator": null,
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026"
+}
+],
 "text": "THE LORING TRAFFIC NEVER SAYS UFO. Its vocabulary is 'unidentified helicopter', 'intruder' and 'AFB Penetration' throughout. The NORAD logs do say UFO, repeatedly, in their own voice. The distinction belongs in the node, because the strength of the Loring material is that it is a nuclear security record rather than a UFO record.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-48ecbd64a8",
 "source": "24th NORAD Region Senior Directors Log as released, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"sources": [
+{
+"id": "u-archive-org-8805ff8f",
+"locator": null,
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026"
+}
+],
 "text": "The 24th NORAD Region log pages carry stamps 450, 451 and 452 and a control number 000974 over the release line of Terrence C. James, Colonel, USAF, Director of Administration, which establishes that the released 1975 material is an extract from a paginated compilation of at least 452 pages, most of which this board has never seen.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-979fa2345b",
 "source": "NORAD document, 11 November 1975, released under FOIA to CAUS and reproduced in 'Clear Intent'",
+"sources": [],
 "text": "A NORAD document dated 11 November 1975 states that in October and early November 1975 reliable military personnel at Loring AFB Maine, Wurtsmith AFB Michigan, Malmstrom AFB Montana, Minot AFB North Dakota and CFS Falconbridge Ontario had visually sighted suspicious objects.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5b3ffcd1c4",
 "source": "Loring AFB teletype, October 1975, released under FOIA",
+"sources": [],
 "text": "A Loring AFB teletype states that an unidentified object 'demonstrated a clear intent in the weapons storage area'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f969636124",
 "source": "National Military Command Center Memorandum for the Record, 8 November 1975",
+"sources": [],
 "text": "The NMCC Memorandum for the Record of 8 November 1975, subject 'Unidentified Sightings', records seven height-finder radar cuts at Malmstrom at 0253 EST between 9,500 and 15,500 feet, simultaneous ground observation of lights and jet noise, FAA cross-tell showing no jet aircraft within 100 NM, and two F-106s scrambled at 0254 EST and airborne at 0257 EST; at 0344 EST the objects could not be intercepted.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-131d11e52d",
 "source": "24th NORAD Region Senior Director's log, 7 November 1975",
+"sources": [],
 "text": "The 24th NORAD Region Senior Director's log for 7 November 1975 logs reports from missile sites M-1, L-3, LIMA and L-6 at 1035Z, the Harlow LCF at 1203Z, site K-1 at 1319Z and site L-1 at 1327Z, with surveillance unable to detect any track.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9b30fbdcd1",
 "source": "Fawcett and Greenwood, 'Clear Intent' (1984), ch. 1, quoting the FOIA correspondence",
+"sources": [],
 "text": "CAUS filed a FOIA request on 26 December 1977 for case files from Loring (27, 28, 31 October 1975), Wurtsmith (30 October 1975) and Malmstrom (7 and 8 November 1975); a reply of 6 February 1978 from the Office of the Assistant Secretary of Defense identified twenty-four documents held by the Office of the Joint Chiefs of Staff, fifteen of which were initially resisted before Assistant Secretary of Defense Thomas Ross determined they should be released.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "event",

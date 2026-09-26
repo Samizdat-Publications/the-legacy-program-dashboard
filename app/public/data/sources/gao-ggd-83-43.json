@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-42b4326452",
+"locator": "the earlier report was not read",
+"node": "defense-investigative-service",
+"nodeLabel": "Defense Investigative Service",
+"sourceText": "GAO accession 130581, 24 July 1986, describing GAO/GGD-83-43 -- the earlier report was not read",
+"text": "GAO/GGD-83-43 of 18 February 1983, 'Further Improvements Needed in Department of Defense Oversight of Special Access (Carve-Out) Contracts', recommended change and DoD refused. The 1986 testimony gives DoD's stated reasons, including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary.' The 1983 report itself was not opened in this pass.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "gao-ggd-83-43",
+"identifiers": [
+"GAO/GGD-83-43"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [],
+"node": null,
+"title": "GAO/GGD-83-43",
+"topics": [
+{
+"claims": [
+"c-42b4326452"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+}
+],
+"type": "report",
+"urls": []
+}

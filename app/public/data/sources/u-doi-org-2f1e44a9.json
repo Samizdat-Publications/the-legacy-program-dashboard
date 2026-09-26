@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sarah-little",
+"label": "Sarah Little"
+},
+"b": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"claimTier": 1,
+"id": "e-b56c0beebf",
+"label": "SCU board member and co-author of the 2023 characteristics study",
+"note": "Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "sarah-little",
+"label": "Sarah Little"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 1,
+"id": "e-0f90f618dc",
+"label": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
+"note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-doi-org-2f1e44a9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "sarah-little",
+"label": "Sarah Little"
+},
+{
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+}
+],
+"node": null,
+"title": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.5194/gi-14-335-2025"
+]
+}

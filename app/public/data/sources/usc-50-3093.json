@@ -1,0 +1,357 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-219a4b7267",
+"locator": "c)(3",
+"node": "usc-50-3093",
+"nodeLabel": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceText": "50 U.S.C. 3093(c)(3)",
+"text": "50 U.S.C. 3093(c)(3) permits a finding not to be reported in advance at all, requiring only that the President thereafter 'fully inform the congressional intelligence committees in a timely fashion' with 'a statement of the reasons for not giving prior notice'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-34b61fa45b",
+"locator": null,
+"node": "usc-50-3093",
+"nodeLabel": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
+"text": "Subsection (c)(3) permits a finding not to be reported in advance at all in extraordinary circumstances, requiring only that the President thereafter report 'in a timely fashion' with 'a statement of the reasons for not giving prior notice.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8a606a2db2",
+"locator": null,
+"node": "usc-50-3093",
+"nodeLabel": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
+"text": "Section 503 of the National Security Act of 1947. Subsection (c)(2) permits the President, on a determination that 'it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States,' to report a covert action finding only to the chairmen and ranking minority members of the intelligence committees, the Speaker and minority leader of the House, and the majority and minority leaders of the Senate -- the actual statutory Gang of Eight.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-a12fee7238",
+"locator": "c)(5)(B",
+"node": "usc-50-3093",
+"nodeLabel": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceText": "50 U.S.C. 3093(c)(5)(B)",
+"text": "50 U.S.C. 3093(c)(5)(B) requires that within 180 days of a statement of reasons for limited access the President ensure that all members of the intelligence committees get access, or submit a further statement of reasons.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ab5b73bd10",
+"locator": "d)(2",
+"node": "usc-50-3093",
+"nodeLabel": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceText": "50 U.S.C. 3093(d)(2)",
+"text": "50 U.S.C. 3093(d)(2) lists among the factors making an undertaking significant whether it 'requires an expansion of existing authorities, including authorities relating to research, development, or operations' and whether it 'results in the expenditure of significant funds or other resources'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-c5ec263666",
+"locator": "c)(2",
+"node": "usc-50-3093",
+"nodeLabel": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceText": "50 U.S.C. 3093(c)(2)",
+"text": "50 U.S.C. 3093(c)(2) permits a covert action finding to be reported to 'the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-3ad0ef71bc",
+"locator": "c) read against 10 U.S.C. 119(f",
+"node": "usc-50-3093",
+"nodeLabel": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceText": "50 U.S.C. 3093(c) read against 10 U.S.C. 119(f)",
+"text": "An activity characterised as covert action is reportable to no defense committee at all, and under 3093(c)(3) need not be reported to anyone in advance - making it the only regime weaker on prior notice than a waived DoD special access program. Reasoning: 3093 runs solely to the intelligence committees or the Gang of Eight, and (c)(3) removes even that.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-b340267dbb",
+"locator": null,
+"node": "icd-906",
+"nodeLabel": "ICD 906 - Controlled Access Programs (ODNI)",
+"sourceText": "ICD 906 section C.3 read with 50 U.S.C. 3093",
+"text": "ICD 906 section C.3 identifies a third population of special access programs - those 'under the purview of the National Security Council, such as covert action' - which are governed neither by 10 U.S.C. 119 nor by ICD 906, and whose reporting runs instead through 50 U.S.C. 3093. Reasoning: the directive expressly disclaims them and the covert action statute is the only remaining regime.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-190acd0a2a",
+"locator": null,
+"node": "gang-of-eight",
+"nodeLabel": "The Gang of Eight and the limited-notification convention",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm ; quoted words are 10 U.S.C. 119(e)(2) — https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "The Gang of Eight is a creature of 50 U.S.C. 3093(c)(2) governing COVERT ACTION findings, not special access programs. The parallel narrowing for DoD SAPs is a different provision with a different membership: 10 U.S.C. 119(e)(2) sends waived-SAP information to 'the chairman and ranking minority member of each of the defense committees' -- the six units defined in 119(g), not the intelligence committees and not congressional leadership.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4778246204",
+"locator": "c)(5)(B",
+"node": "gang-of-eight",
+"nodeLabel": "The Gang of Eight and the limited-notification convention",
+"sourceText": "50 U.S.C. 3093(c)(5)(B)",
+"text": "50 U.S.C. 3093(c)(5)(B) requires that not later than 180 days after a statement of reasons for limited access, the President ensure either that all members of the intelligence committees are provided access to the finding or notification, or that a further statement of reasons is submitted to the Gang of Eight.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-63499727b0",
+"locator": "c)(2",
+"node": "gang-of-eight",
+"nodeLabel": "The Gang of Eight and the limited-notification convention",
+"sourceText": "50 U.S.C. 3093(c)(2)",
+"text": "50 U.S.C. 3093(c)(2): 'If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a787c1cc99",
+"locator": "c)(3",
+"node": "gang-of-eight",
+"nodeLabel": "The Gang of Eight and the limited-notification convention",
+"sourceText": "50 U.S.C. 3093(c)(3)",
+"text": "50 U.S.C. 3093(c)(3) permits a finding not to be reported under paragraph (1) or (2) at all, requiring only that the President thereafter 'fully inform the congressional intelligence committees in a timely fashion' with 'a statement of the reasons for not giving prior notice.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d937d3bfad",
+"locator": "c)(5)(B) compared with 10 U.S.C. 119(e",
+"node": "gang-of-eight",
+"nodeLabel": "The Gang of Eight and the limited-notification convention",
+"sourceText": "50 U.S.C. 3093(c)(5)(B) compared with 10 U.S.C. 119(e)",
+"text": "The covert action regime contains a mandatory 180-day review of continued limited access; the DoD waived-SAP regime contains no equivalent, so a waived DoD program can remain restricted to a handful of members indefinitely with no statutory event ever forcing reconsideration. Reasoning: 50 U.S.C. 3093(c)(5)(B) has no counterpart in 10 U.S.C. 119(e).",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-1162622c56",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+"text": "The Gang of Eight under 50 U.S.C. 3093(c)(2) consists of 'the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.' It governs covert action findings, not DoD special access programs.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-49fbc27ded",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+"text": "50 U.S.C. 3093(g)(1)-(2) requires that all members of the intelligence committee be told a limited notification occurred and be given a general description of it. Section 119 imposes no equivalent duty, so non-leadership members of the defense committees are never informed that a waiver has been exercised.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-52aaa3ef28",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+"text": "50 U.S.C. 3093(c)(5)(B) forces re-justification or widened access within 180 days of a limited covert-action notification. 10 U.S.C. 119(e) contains no sunset and no re-justification requirement, so a SAP reporting waiver is permanent as to that report.",
+"tier": 1
+}
+],
+"date": "1991-08-14",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3091",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-3093",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+},
+"claimTier": 1,
+"id": "e-fd4f2ad12e",
+"label": "The general 'fully and currently informed' duty and its covert action exception",
+"note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3093",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+},
+"b": {
+"cls": "document",
+"id": "icd-906",
+"label": "ICD 906 - Controlled Access Programs (ODNI)"
+},
+"claimTier": 1,
+"id": "e-4185e51175",
+"label": "Covert action is expressly outside the IC controlled access program regime",
+"note": "ICD 906 section C.3: 'Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.'",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-4355eb219d",
+"label": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+"note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-5c8a363f4e",
+"label": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+"note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "gang-of-eight",
+"label": "The Gang of Eight and the limited-notification convention"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119e",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)"
+},
+"claimTier": 1,
+"id": "e-a7c0d8745e",
+"label": "The waived-SAP notification convention mirrors, but is weaker than, the covert action rule",
+"note": "119(e)(2) reaches chairs and ranking members of the defense committees with no 180-day widening requirement; 50 U.S.C. 3093(c)(5)(B) requires reconsideration of limited access within 180 days.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "gang-of-eight",
+"label": "The Gang of Eight and the limited-notification convention"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-3093",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+},
+"claimTier": 1,
+"id": "e-fb31068dde",
+"label": "The statutory Gang of Eight is a covert action construct, not a SAP construct",
+"note": "50 U.S.C. 3093(c)(2) names the four committee leaders and four chamber leaders to whom a finding may be limited; no SAP statute uses that group.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"b": {
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"claimTier": 1,
+"id": "e-fbdfe5892f",
+"label": "the narrow aperture through which Congress sees waived DoD SAPs",
+"note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
+"type": "institutional"
+}
+],
+"era": "1",
+"id": "usc-50-3093",
+"identifiers": [
+"50 U.S.C. 3093"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-3091",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)"
+},
+{
+"cls": "legislation",
+"id": "usc-50-3093",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+},
+{
+"cls": "domain",
+"id": "four-regime-map",
+"label": "The four SAP reporting regimes and the seams between them"
+},
+{
+"cls": "institution",
+"id": "gang-of-eight",
+"label": "The Gang of Eight and the limited-notification convention"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "usc-50-3093",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+},
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"topics": [
+{
+"claims": [
+"c-34b61fa45b",
+"c-8a606a2db2",
+"c-a12fee7238",
+"c-190acd0a2a",
+"c-4778246204",
+"c-63499727b0",
+"c-49fbc27ded",
+"c-52aaa3ef28"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+},
+{
+"claims": [
+"c-190acd0a2a",
+"c-4778246204",
+"c-d937d3bfad"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+"https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm"
+]
+}

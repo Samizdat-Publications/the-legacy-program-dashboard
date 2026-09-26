@@ -7,116 +7,232 @@
 {
 "id": "c-bb1dbc6a36",
 "source": "PLAW-119publ60 table of contents and secs. 1671-1673",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": "table of contents and secs. 1671-1673",
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Public Law 119-60 (FY2026 NDAA, approved 18 December 2025), Div. A, Title XVI, secs. 1671-1673, 139 Stat. 1201-1203: sec. 1671 'Briefings on intercepts of unidentified anomalous phenomena by North American Aerospace Defense Command and United States Northern Command'; sec. 1672 'Elimination of duplicative reporting requirements relating to unidentified anomalous phenomena'; sec. 1673 'Accounting of security classification guides relating to unidentified anomalous phenomena'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ae62fbcdd5",
 "source": "PLAW-119publ60 sec. 1671(b)",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": "sec. 1671(b",
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Sec. 1671(b) requires the first post-enactment briefing to cover NORAD/USNORTHCOM UAP intercepts 'not previously provided that occurred during the period beginning on January 1, 2004'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-522daebaca",
 "source": "PLAW-119publ60 sec. 1672",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": "sec. 1672",
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Sec. 1672(a) repeals 50 U.S.C. 3373a (sec. 413 of the IAA for FY2022); sec. 1672(b) rewrites 50 U.S.C. 3373(f)(1)(A) and adds the new qualifier 'in a manner that protects intelligence sources and methods' to the immediate-data-availability mandate.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-772583fa78",
 "source": "PLAW-119publ60 sec. 1673(a)",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": "sec. 1673(a",
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Sec. 1673(a) requires the Director of AARO within 180 days to account for 'security classification guides that apply to information used for reports and investigations of unidentified anomalous phenomena' and permits a 'consolidated security classification matrix for programs relating to unidentified anomalous phenomena'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4b9514f954",
 "source": "DefenseScoop, 10 December 2025",
+"sources": [],
 "text": "The FY2026 NDAA requires AARO to brief lawmakers on UAP intercepts by NORAD and U.S. Northern Command dating back to 2004, including 'the number, location, and nature' of intercepts and 'data collected or analyzed during such intercepts.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a8eb90db00",
 "source": "DefenseScoop, 10 December 2025",
+"sources": [],
 "text": "AARO must account for 'UAP-related security classification guides' used in reports and investigations, addressing overclassification and improper restrictions on releasing imagery or data.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7a8d86cc1d",
 "source": "DefenseScoop, 10 December 2025",
+"sources": [],
 "text": "Disclosure Foundation executive director Jordan Flowers called the provisions 'a meaningful, if incremental, step toward transparency and oversight,' noting two mirror recommendations championed by Christopher Mellon.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b183342e46",
 "source": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The conferenced FY2026 NDAA requires the AARO Director to brief Congress on operations since 2004 involving UAP intercepts by NORAD and US Northern Command, including the 'number, location, and nature' of intercepts and 'procedures and protocols followed during those operations, including any data collected or analyzed during such intercepts.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-6159d8065a",
 "source": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "A second provision requires AARO to account for UAP-related security classification guides affecting 'reports and investigations of such phenomena'; a third eliminates duplicative reporting requirements and streamlines agency data-sharing with AARO.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-810e80b7c3",
 "source": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The provisions reflect recommendations from Christopher Mellon and the Disclosure Foundation.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-a3af507a59",
 "source": "DefenseScoop, 10 December 2025, on the FY2026 NDAA UAP provisions",
+"sources": [],
 "text": "The FY2026 NDAA requires AARO to brief Congress on UAP intercepts by NORAD and USNORTHCOM since 2004, including number, location, nature, procedures, protocols and data collected.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5cd6875836",
 "source": "DefenseScoop, 10 December 2025",
+"sources": [],
 "text": "The FY2026 NDAA requires AARO to account for the UAP-related security classification guides used in its reports and investigations.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d7fe4abe31",
 "source": "DefenseScoop, 10 December 2025",
+"sources": [],
 "text": "The FY2026 NDAA streamlines federal agency data sharing with the Pentagon for AARO investigations and eliminates duplicative reporting requirements.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-44a4c7c822",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "The NDAA FY2026 (P.L. 119-60) was approved 18 December 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4d8186f1ee",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 1672 repeals section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373a) and amends 50 U.S.C. 3373(f)(1)(A) to require IC elements and DoD components with UAP data to make it available to AARO immediately.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-26c2d51048",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 1673 directs the AARO Director, not later than 180 days after enactment, to make an accounting of security classification guides applying to UAP reports and investigations, and permits a consolidated security classification matrix.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3e9cc27430",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 1671 requires briefings on intercepts of UAP by North American Aerospace Defense Command and United States Northern Command.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c87147d656",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Neither the FY2025 NDAA (P.L. 118-159) nor the FY2026 NDAA (P.L. 119-60) re-enacted the section 1687(a) prohibition on funding unreported UAP special access activity; a full-text search of both Acts returns no instance of the phrase 'restricted access limitation'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7651f631f1",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+}
+],
 "text": "Section 6802 of the FY2025 NDAA sunsets the audit and reporting requirements relating to the UAP Historical Record Report, tying them to 90 and 180 days after delivery of the final volume.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

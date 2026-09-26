@@ -1,0 +1,177 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-40f516d96e",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://sefaa.dgac.gob.cl/historia/",
+"text": "Predecessor body: from 1968 Aviation Colonel Sergio Bravo Flores, director of the Oficina Meteorológica de Chile, led the Comisión Chilena para Estudios de Fenómenos Espaciales No Identificados, formed with support of the Sociedad Científica de Chile. On 9 July 1968 he circulated 43 aeronautical installations requesting reports; the commission ran to 1975 and some of its dozen or so reports were sent to the University of Colorado, 'en donde la una comisión de académicos (bautizada posteriormente como Comisión Condon) realizaba un detallado estudio'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d848e79053",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://sefaa.dgac.gob.cl/historia/",
+"text": "The creation was prompted by 'una serie de avistamientos reportados en la ciudad de Arica en los últimos días de marzo y primeros de abril de 1997' together with 'el interés manifestado por el ex Comandante en Jefe de la Fuerza Aérea de Chile, General del Aire Ramón Vega Hidalgo'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-f9d2786974",
+"label": "created and housed by the DGAC",
+"note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "location",
+"id": "l-santiago",
+"label": "Santiago, Chile"
+},
+"claimTier": 1,
+"id": "e-f3382952ba",
+"label": "sited in Santiago since 1997",
+"note": "Chile's DGAC dates CEFAA's establishment to 3 October 1997 and traces the reporting lineage back to 1968 at the old Oficina Meteorologica de Chile in the Complejo Aeronautico Quinta Normal, Avenida Diego Portales 3450, Santiago. After the 2021 reorganisation the successor body SEFAA sits at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "domain",
+"id": "intl-uap-office-model",
+"label": "The three-office model: GEIPAN, SEFAA, AARO"
+},
+"claimTier": 1,
+"id": "e-3589f8391f",
+"label": "the civil-aviation implementation of the same model",
+"note": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "sergio-bravo-flores",
+"label": "Coronel de Aviación Sergio Bravo Flores"
+},
+"b": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-7a09bbad2d",
+"label": "1968-1975 commission is CEFAA's institutional ancestor",
+"note": "SEFAA's history places the origin of official Chilean UAP reporting with Bravo Flores at the Meteorological Office in 1968.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "sergio-bravo-flores",
+"label": "Coronel de Aviación Sergio Bravo Flores"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 1,
+"id": "e-6e5e7d1b97",
+"label": "forwarded Chilean reports to the University of Colorado study",
+"note": "SEFAA records that part of the dozen reports gathered were sent to the University of Colorado, where the commission later known as the Condon Committee was working.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "ricardo-bermudez",
+"label": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza"
+},
+"b": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-bbf495697e",
+"label": "directed CEFAA 1997-2016",
+"note": "SEFAA's own official history records his simultaneous appointment to the Escuela Técnica Aeronáutica and the CEFAA directorship.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-sefaa-dgac-gob-cl-9e74d04c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DGAC Chile",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+{
+"cls": "event",
+"id": "ev-chile-navy-flir-2014",
+"label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)"
+},
+{
+"cls": "person",
+"id": "sergio-bravo-flores",
+"label": "Coronel de Aviación Sergio Bravo Flores"
+},
+{
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+{
+"cls": "person",
+"id": "ricardo-bermudez",
+"label": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza"
+}
+],
+"node": null,
+"title": "SEFAA - Historia",
+"topics": [
+{
+"claims": [
+"c-d848e79053"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+}
+],
+"type": "web page",
+"urls": [
+"https://sefaa.dgac.gob.cl/historia/"
+]
+}

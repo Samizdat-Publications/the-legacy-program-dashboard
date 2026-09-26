@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "marik-von-rennenkampff",
+"label": "Marik von Rennenkampff"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-2d71d57b5b",
+"label": "Obama-administration DoD appointee",
+"note": "His Sol Foundation biography states he 'served as appointee in the US Department of Defense during the Obama administration and later worked in the US State Department.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thehill-com-1d4fa4e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "person",
+"id": "marik-von-rennenkampff",
+"label": "Marik von Rennenkampff"
+}
+],
+"node": null,
+"title": "The Hill - 'Shocking UFO allegations make the case for the Disclosure Act'",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/opinion/technology/4962650-shocking-ufo-allegations-make-the-case-for-the-disclosure-act/"
+]
+}

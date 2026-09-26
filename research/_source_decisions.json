@@ -1,0 +1,23 @@
+{
+ "_about": "Reviewed decisions the source registry applies (tools/build_source_registry.py). `strings`: a claim source string, verbatim, read as naming a registry source (`to`, with a locator), a new source named only by the string (`new`), or `unresolved`. A decision that merges two different strings into one source (`to`, or `new` with `merge`) is applied only with `review.verdict` accept. `nodeUrls`: a document or legislation node's own URLs that are the document itself (reviewed). `tierAdjudications`: Tier 1 claims whose every source is an interested party, with why Tier 1 stands.",
+ "nodeUrls": {},
+ "strings": {},
+ "tierAdjudications": {
+  "c-1786f3dd2c": {
+   "by": "phase 8 session, 26 Sep 2026",
+   "why": "Reports what the released AARO memorandum concludes, quoting it: a record of the office's own statement, which the interested-party rule leaves at Tier 1."
+  },
+  "c-19b75f5fb6": {
+   "by": "phase 8 session, 26 Sep 2026",
+   "why": "Reports what an ODNI memorandum released under FOIA 24-F-0266 affirmed: a record of what the document says."
+  },
+  "c-58b4ffae67": {
+   "by": "phase 8 session, 26 Sep 2026",
+   "why": "Reports the contacts AARO itself logged in the released record: the office's own account of its own actions, recorded as such."
+  },
+  "c-d229031ce2": {
+   "by": "phase 8 session, 26 Sep 2026",
+   "why": "Reports the content of a DoD memorandum released under FOIA 24-F-0266: a record of what the document says."
+  }
+ }
+}

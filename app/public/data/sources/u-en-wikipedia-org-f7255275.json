@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"b": {
+"cls": "location",
+"id": "l-colorado-springs",
+"label": "Colorado Springs, Colorado"
+},
+"claimTier": 2,
+"id": "e-c8f65d8771",
+"label": "The only provenance story ever attached to the report points at Schriever",
+"note": "A self-identified whistleblower said in 2025 he located the material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed the claimant had mistaken wargame documents for UFO revelations. Schriever Space Force Base is at Colorado Springs.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-f7255275",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-colorado-springs",
+"label": "Colorado Springs, Colorado"
+},
+{
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+{
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+{
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+}
+],
+"node": null,
+"title": "Wikipedia - Immaculate Constellation (redirect to Schriever wargame)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Immaculate_Constellation"
+]
+}

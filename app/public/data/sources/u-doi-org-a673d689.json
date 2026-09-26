@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-a673d689",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "stephen-bruehl",
+"label": "Stephen Bruehl"
+}
+],
+"node": null,
+"title": "Bruehl, 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-', SCU (Zenodo)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.5281/zenodo.16650011"
+]
+}

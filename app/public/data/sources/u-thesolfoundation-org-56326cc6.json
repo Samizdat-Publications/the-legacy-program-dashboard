@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-db95472184",
+"label": "Spoke at the inaugural Stanford conference, November 2023",
+"note": "Kean was a named speaker at the 17-18 November 2023 inaugural conference, linking the journalistic and institutional wings.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thesolfoundation-org-56326cc6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+}
+],
+"node": null,
+"title": "The Sol Foundation - Inaugural Conference",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/"
+]
+}

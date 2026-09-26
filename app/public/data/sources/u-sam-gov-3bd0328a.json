@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-sam-gov-3bd0328a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "sam.gov",
+"listedOn": [
+{
+"cls": "program",
+"id": "mitre-caasd",
+"label": "Center for Advanced Aviation System Development (CAASD)"
+},
+{
+"cls": "legislation",
+"id": "far-35-017",
+"label": "FAR 35.017 - Federally Funded Research and Development Centers"
+}
+],
+"node": null,
+"title": "SAM.gov - Notice of intent to award a sole source contract (CAASD)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sam.gov/opp/3a6675cb0ef1482aaea64dbdb6eaf2f8/view"
+]
+}

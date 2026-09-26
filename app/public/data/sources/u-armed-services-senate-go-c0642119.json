@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-armed-services-senate-go-c0642119",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+{
+"cls": "event",
+"id": "hearing-2023-04-19",
+"label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'"
+}
+],
+"node": null,
+"title": "Senate Armed Services - Kirkpatrick statement",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.armed-services.senate.gov/download/kirkpatrick-statement"
+]
+}

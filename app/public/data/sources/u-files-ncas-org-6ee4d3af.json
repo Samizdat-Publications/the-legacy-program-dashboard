@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-953af1ec7d",
+"locator": null,
+"node": "foreign-technology-division",
+"nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+"sourceText": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, printed as Appendix A of the Condon Report, https://files.ncas.org/condon/text/appndx-a.htm",
+"text": "The USAF Scientific Advisory Board's ad hoc committee of March 1966 identified FTD as 'the AFSC Foreign Technology Division, which is the cognizant Air Force agency that collates information on UFO sightings and monitors investigations of individual cases', and recommended that it 'should continue to exercise its presently assigned responsibilities concerning UFOs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d6ae9dea74",
+"locator": null,
+"node": "foreign-technology-division",
+"nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+"sourceText": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, Condon Report Appendix A, https://files.ncas.org/condon/text/appndx-a.htm",
+"text": "The same 1966 committee recorded the resources behind the whole Air Force UFO programme as 'only one officer, a sergeant, and secretary'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-files-ncas-org-6ee4d3af",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "files.ncas.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+}
+],
+"node": null,
+"title": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966 (Condon Report Appendix A)",
+"topics": [
+{
+"claims": [
+"c-953af1ec7d",
+"c-d6ae9dea74"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+},
+{
+"claims": [
+"c-d6ae9dea74"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "web page",
+"urls": [
+"https://files.ncas.org/condon/text/appndx-a.htm"
+]
+}

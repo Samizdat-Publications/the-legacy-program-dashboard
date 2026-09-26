@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-525222d5b2",
+"locator": null,
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"sourceText": "Find a Grave memorial 3930946, originally created by the US Veterans Affairs Office, https://www.findagrave.com/memorial/3930946/oscar-schneider , opened 2026-09-19",
+"text": "HIS FATHER IS THE ONLY DOCUMENTED PART. Captain Otto Oscar Schneider, US Navy, born 22 January 1906 in San Francisco, died 13 May 1993 in Portland, Oregon, buried at Willamette National Cemetery, Section X Site 2284, headstone inscribed 'OSCAR SCHNEIDER / CAPT US NAVY'. The memorial was originally created by the US Veterans Affairs Office. The biography on the same page, including the U-boat command, Naval Intelligence, Operation Crossroads and the Philadelphia Experiment, is contributor prose and is not asserted.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-findagrave-com-700406e1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "findagrave.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "phil-schneider",
+"label": "Philip Schneider"
+}
+],
+"node": null,
+"title": "Find a Grave memorial 3930946, Capt Otto Oscar Schneider, Willamette National Cemetery, memorial originally created by the US Veterans Affairs Office",
+"topics": [
+{
+"claims": [
+"c-525222d5b2"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.findagrave.com/memorial/3930946/oscar-schneider"
+]
+}

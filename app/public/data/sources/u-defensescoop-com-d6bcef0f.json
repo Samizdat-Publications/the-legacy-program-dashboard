@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [],
+"date": "2024-08-26",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-0031c6245c",
+"label": "Director of AARO from August 2024",
+"note": "Kosloski was named AARO's full-time director in August 2024 and testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on 19 November 2024.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-d6bcef0f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-ft-meade",
+"label": "Fort George G. Meade, Maryland"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+{
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+}
+],
+"node": null,
+"title": "DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub",
+"topics": [],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2024/08/26/leader-pentagon-uap-investigation-hub-jon-kosloski/"
+]
+}

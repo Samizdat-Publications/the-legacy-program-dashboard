@@ -7,20 +7,26 @@
 {
 "id": "c-ae0197b839",
 "source": "Wikipedia, SRI International — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "SRI International was founded in 1946 by Stanford University trustees in Menlo Park, California, separated formally from Stanford in 1970, and took its current name in 1977.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0b2b9ce229",
 "source": "Wikipedia, SRI International; CIA STAR GATE records in the CREST archive — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "In 1972 Harold Puthoff and Russell Targ began CIA-sponsored research into psychic phenomena at SRI, coining the term 'remote viewing'; the work continued with intelligence community funding until they left SRI in the mid-1980s.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-12ee32c24b",
 "source": "Inference from the SRI funding record and Puthoff's documented affiliations",
+"sources": [],
 "text": "SRI is the cleanest precedent for government funding of anomalous-phenomena research through contractors while publicly denying interest, and Puthoff's contract history is the continuous thread from that work to the 2019 Army/TTSA CRADA. Reasoning: documented SRI funding chain plus Puthoff's documented later roles at EarthTech, AAWSAP and TTSA.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

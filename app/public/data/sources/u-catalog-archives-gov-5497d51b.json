@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-14aa7f58d8",
+"locator": null,
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"sourceText": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00907058_A_Survey_of_Exobiology.pdf",
+"text": "Item 342UAP00025 of the Air Force RG 615 transfer is RAND Memorandum RM-3178-PR, 'A Survey of Exobiology' by Paul G. Seybold, March 1963, marked UNCLASSIFIED and 'PREPARED FOR: UNITED STATES AIR FORCE PROJECT RAND', bearing an Aerospace Studies Institute Archives Branch return stamp for Maxwell AFB, Alabama.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-catalog-archives-gov-5497d51b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+}
+],
+"node": null,
+"title": "catalog.archives.gov",
+"topics": [],
+"type": "document",
+"urls": [
+"https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00907058_A_Survey_of_Exobiology.pdf"
+]
+}

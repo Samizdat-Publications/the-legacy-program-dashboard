@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4b574a5d5b",
+"locator": null,
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"sourceText": "YouTube listing for video wF07QMm6joE, https://www.youtube.com/watch?v=wF07QMm6joE , opened 18 September 2026, published 2024-10-21",
+"text": "UAP Gerb devotes a full episode to the account. The YouTube listing for video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', was published on 21 October 2024 and runs 01:09:12. Its description opens 'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+},
+"b": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"claimTier": 2,
+"id": "e-8453a93ccb",
+"label": "Subject of a 1:09:12 UAP Gerb episode published 21 October 2024",
+"note": "Video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', published 21 October 2024, runtime 01:09:12. Gerb is the investigator who brings this account to the board's corpus and who located the 1990 notes. Several assertions attributed to him in the corpus files are recorded on these nodes as unverified rather than as claims.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-a8b30627",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+}
+],
+"node": null,
+"title": "YouTube listing for video wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', UAP Gerb",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=wF07QMm6joE"
+]
+}

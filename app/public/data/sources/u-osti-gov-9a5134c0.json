@@ -1,0 +1,101 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-39340618f9",
+"locator": null,
+"node": "yamato-1",
+"nodeLabel": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+"sourceText": "OSTI bibliographic record and abstract for Sasakawa, Takezawa, Sugawara and Kyotani, 'The superconducting MHD-propelled ship YAMATO-1', Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, Orlando FL, 27 June to 1 July 1994, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
+"text": "THE CONTROL CASE, in the principals' own words: 'In 1985 the Ship & Ocean Foundation (SOF) created a committee under the chairmanship of Mr. Yohei Sasakawa, Former President of the Ship & Ocean Foundation, and began researches into superconducting magnetohydrodynamic (MHD) ship propulsion. In 1989 SOF set to construction of a experimental ship on the basis of theoretical and experimental researches pursued until then. The experimental ship named YAMATO-1 became the world's first superconducting MHD-propelled ship on her trial runs in June 1992. This paper describes the outline of the YAMATO-1 and sea trial test results.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-4ec6656af8",
+"locator": null,
+"node": "yamato-1",
+"nodeLabel": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+"sourceText": "OSTI bibliographic record and abstract for Sasakawa, Takezawa, Sugawara and Kyotani, 'The superconducting MHD-propelled ship YAMATO-1', Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, Orlando FL, 27 June to 1 July 1994, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
+"text": "The record is a conference paper by the project's own principals: Sasakawa, Takezawa, Sugawara and Kyotani, in the Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, from the conference held in Orlando, Florida from 27 June to 1 July 1994, with the OSTI record dated April 1995.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-227b7ce895",
+"locator": null,
+"node": "yamato-1",
+"nodeLabel": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+"sourceText": "Reasoning over the OSTI abstract for the YAMATO-1 paper against the opened text of US 3,322,374, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
+"text": "Stated inference, and it is short. The propulsion mechanism US 3,322,374 claims is magnetohydrodynamic, and magnetohydrodynamic propulsion was demonstrated at sea by a civil foundation in June 1992, in public, under a named chairman, with the results reported at an international conference. THE INFERENCE IS THAT THE MECHANISM DOES NOT REQUIRE A SECRET TO EXIST and nothing more. It is not an argument about what was or was not recovered, and no edge from this node asserts one.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "yamato-1",
+"label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)"
+},
+"b": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"claimTier": 3,
+"id": "e-93873f5cbd",
+"label": "The built vessel and the government survey describe the same physics",
+"note": "STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "yamato-1",
+"label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)"
+},
+"b": {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"claimTier": 3,
+"id": "e-08b7e5fa8d",
+"label": "The same mechanism, independently built and taken to sea in June 1992",
+"note": "STATED INFERENCE. NO DOCUMENT JOINS THESE TWO and neither cites the other. The edge records that the propulsion mechanism US 3,322,374 claims was demonstrated at sea by a civil maritime foundation in public in 1992, which is the strand's control case: the mechanism does not require a secret to exist.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-osti-gov-9a5134c0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of Energy",
+"listedOn": [
+{
+"cls": "program",
+"id": "yamato-1",
+"label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)"
+}
+],
+"node": null,
+"title": "OSTI record and abstract for the YAMATO-1 paper",
+"topics": [
+{
+"claims": [
+"c-39340618f9",
+"c-4ec6656af8",
+"c-227b7ce895"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.osti.gov/biblio/135352"
+]
+}

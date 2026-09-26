@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-620bfc4cf6",
+"locator": null,
+"node": "bob-fish",
+"nodeLabel": "Bob Fish",
+"sourceText": "WikiLeaks, The Podesta Emails, corpus search for 'Bob Fish', https://wikileaks.org/podesta-emails/?q=%22Bob+Fish%22",
+"text": "The exchange runs to six emails between 5 and 7 March 2015, ids 54211, 47433, 36957, 31721, 30433 and 18724, and no speed figure and no date in the 1980s appears in any of the three opened in full.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-wikileaks-org-61857e62",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "WikiLeaks",
+"listedOn": [
+{
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+}
+],
+"node": null,
+"title": "WikiLeaks, The Podesta Emails, corpus search for 'Bob Fish'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://wikileaks.org/podesta-emails/?q=%22Bob+Fish%22"
+]
+}

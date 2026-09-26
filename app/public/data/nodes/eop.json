@@ -7,26 +7,46 @@
 {
 "id": "c-90e6111736",
 "source": "Executive Order 14347, 5 September 2025",
+"sources": [
+{
+"id": "eo-14347",
+"locator": "5 September 2025",
+"title": "Executive Order 14347"
+}
+],
 "text": "Executive Order 14347, signed 5 September 2025, authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on the legislative actions needed to make the change permanent.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7d992fa5e6",
 "source": "Department of War release, 8 May 2026, and the war.gov/UFO portal",
+"sources": [],
 "text": "The Department of War published UAP files through the PURSUE portal at war.gov/UFO, with the first release announced on 8 May 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6696878fb1",
 "source": "Contemporary reporting of the February 2026 presidential directive",
+"sources": [],
 "text": "In February 2026 the President directed the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c643eb19fb",
 "source": "Inference from the distinct legal bases of EO 13526 and the Atomic Energy Act",
+"sources": [
+{
+"id": "eo-13526",
+"locator": "and the Atomic Energy Act",
+"title": "Executive Order 13526 - Classified National Security Information"
+}
+],
 "text": "Presidential declassification authority under Executive Order 13526 does not reach Restricted Data created under the Atomic Energy Act, so a 2026 UAP declassification directive cannot compel release of any material held under DOE nuclear classification authority. Reasoning: the two systems have separate statutory and executive foundations.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

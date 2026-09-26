@@ -49,26 +49,46 @@
 {
 "id": "c-42f8b94df7",
 "source": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-sacha-christie-infomania-04fdcfe0",
+"locator": null,
+"title": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog"
+}
+],
 "text": "REPORTED ONLY, AND GRADED TIER 3 FOR THAT REASON. He is reported as stating that Larry Warren 'was not there', and as denying that Warren was present during Halt's own extended time in Rendlesham Forest on the night of 28 to 29 December 1980. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. A primary would move it to Tier 2.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-0dd14c1676",
 "source": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677",
+"sources": [
+{
+"id": "foia-97-f-1677",
+"locator": null,
+"title": "FOIA case 97-F-1677"
+}
+],
 "text": "Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9cdec16550",
 "source": "Halt memorandum, 13 Jan 81, paragraph 2",
+"sources": [],
 "text": "Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7ef14aaff6",
 "source": "Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020",
+"sources": [],
 "text": "Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

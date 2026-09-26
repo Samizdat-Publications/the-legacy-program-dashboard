@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "program",
+"id": "off-world-technologies-division",
+"label": "Off-World Technologies Division"
+},
+"claimTier": 2,
+"id": "e-a4e1cc5b45",
+"label": "Gerb documented the first-hand witness account",
+"note": "Published 17 July 2024 based on witness 'RA', a US Army Green Beret describing an underground division near Crane, Indiana holding two non-human artifacts, 2013-2015.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "off-world-technologies-division",
+"label": "Off-World Technologies Division"
+},
+"b": {
+"cls": "institution",
+"id": "saic",
+"label": "Science Applications International Corporation"
+},
+"claimTier": 2,
+"id": "e-eaf0c80fd8",
+"label": "Alleged SAIC and Sandia connections to the division",
+"note": "Gerb links the alleged division to SAIC and Sandia National Laboratories; the escorting weapons instructor is described as a private contractor employee.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-42ef7641",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+{
+"cls": "program",
+"id": "off-world-technologies-division",
+"label": "Off-World Technologies Division"
+}
+],
+"node": null,
+"title": "UAP Gerb - 'Off-World Technologies Division'",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=QJ215I85d5M"
+]
+}

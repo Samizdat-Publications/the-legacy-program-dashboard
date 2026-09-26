@@ -25,26 +25,40 @@
 {
 "id": "c-62cd1eb3ea",
 "source": "CREC-2023-07-13-pt1-PgS2953",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "Congressional Record, 2023-07-13, page S2953"
+}
+],
 "text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f2165b7214",
 "source": "Congress.gov cosponsor record, S.Amdt. 797",
+"sources": [],
 "text": "Heinrich is an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-16f1be028d",
 "source": "S. 2226 as engrossed, Sec. 9002(a)(4), GPO",
+"sources": [],
 "text": "The UAPDA findings blame non-disclosure in part on exemptions under the Atomic Energy Act of 1954 and an 'over-broad interpretation of transclassified foreign nuclear information.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3847354588",
 "source": "S. 2226 as engrossed, Sec. 9003(23)(F), GPO",
+"sources": [],
 "text": "The bill's definition of a UAP record expressly reaches the Department of Energy and its progenitors, the Manhattan Project and the Atomic Energy Commission.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

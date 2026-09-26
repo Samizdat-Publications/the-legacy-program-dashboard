@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-fea5c38fa2",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "National Security Act of 1947 sec. 102(a), 61 Stat. 497, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "Section 102(a): 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The Agency is created UNDER the Council, not beside it.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-fdc6a7ab1c",
+"label": "Section 102(a) creates the Agency, under the Council",
+"note": "'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The preposition is the point: the Agency sits under the Council.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "stat-61-497",
+"identifiers": [
+"61 Stat. 497"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "61 Stat. 497",
+"topics": [
+{
+"claims": [
+"c-fea5c38fa2"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "statute",
+"urls": []
+}

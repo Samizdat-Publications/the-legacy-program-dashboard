@@ -10,32 +10,66 @@
 {
 "id": "c-015776367a",
 "source": "Official Register of the United States 1957, US Civil Service Commission, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-1ec94179",
+"locator": null,
+"title": "Official Register of the United States 1957, US Civil Service Commission"
+}
+],
 "text": "The Official Register of the United States 1957 lists 'Lawrence P. Gise' as 'Assistant Director' of the UNITED STATES ATOMIC ENERGY COMMISSION, DIVISION OF MILITARY APPLICATION, legal residence Va 10th, salary 14,190, at printed page 629. The volume states it lists persons in administrative and supervisory positions 'as of May 1, 1957'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-da9901aac6",
 "source": "Official Register of the United States 1959, US Civil Service Commission, p.134, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-7ddc3248",
+"locator": null,
+"title": "Official Register of the United States 1959, US Civil Service Commission"
+}
+],
 "text": "The Official Register of the United States 1959 lists 'Lawrence P. Gise' as 'Assistant Director, Administration' of the ADVANCED RESEARCH PROJECTS AGENCY under DEPARTMENT OF DEFENSE, legal residence Va 10th, salary 17,500, at printed page 134, under a footnote reading 'Station is Washington, D.C. unless otherwise indicated.' The volume lists positions 'as of May 1, 1959'. The same page lists Roy W. Johnson as Director and William H. Godel as Director, Policy and Planning Division.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-85b48772b3",
 "source": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency, references 152 and 153, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-3828be26",
+"locator": null,
+"title": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency"
+}
+],
 "text": "DNA 6005F, the Defense Nuclear Agency's Nuclear Test Personnel Review volume on Operation PLUMBBOB, cites at reference 153 'Gise, L.P., Ass't Director, DMA. [Memo to: R.F. Hertford, Manager, ALOO, Subject: USAF-AEC Agreement on Use of Lookout Mountain Lab at (29-2)-383, w/encl.] Washington, DC: Atomic Energy Commission, DMA. 04/30/57. 29 pages. AT292383.' Reference 152 cites a further Gise memorandum for the Test Manager, subject 'AEC Unofficial Observers', dated 08/27/57.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3e9e9eb46c",
 "source": "DNA 6005F, PLUMBBOB SERIES 1957, references 153 and 202, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-3828be26",
+"locator": null,
+"title": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency"
+}
+],
 "text": "The same reference list names the Manager of the Albuquerque Operations Office in 1957 as Hertford, at reference 202, 'Hertford, K., Manager, Albuquerque Operations'. Gise's own 1957 memorandum is addressed to that office from AEC headquarters, not written from it.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-09857a96bd",
 "source": "michels-corpus-06.md file 04 at 1:16:46; michels-corpus-09.md file 03 at 1:12:28 to 1:15:54; michels-corpus-10.md file 4 at 0:52:53; michels-corpus-15.md file 02 at 0:31:03",
+"sources": [],
 "text": "Four guests across five Michels lead maps describe Gise as head of the AEC's Albuquerque Operations Office and as the man who handed anomalous material from the 1962 Bluegill Triple Prime test to Harald Malmgren. No document number is cited by any speaker for any part of the chain, and no record opened for this node is dated later than 1959.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

@@ -8,62 +8,142 @@
 {
 "id": "c-a7cc1515a8",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": null,
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 (2024) glossary: 'acknowledged SAP: A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details are classified.' 'unacknowledged SAP: A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged.' 'waived SAP: A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-89ee624945",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoDD 5205.07 (2010) glossary is more explicit on the nesting: 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.' And: 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-127bc39a52",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": null,
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 para 1.2.f makes the nesting operative: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' Waived is a strict subset of unacknowledged; there is no such thing as a waived acknowledged SAP.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fa8f5f4f53",
 "source": "DoDI 5205.11, Glossary Part II",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Glossary Part II",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Glossary: 'acknowledged SAP. A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details (technologies, materials, techniques, etc.,) are classified as specified in the applicable SCG.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4d4cce859c",
 "source": "DoDI 5205.11, Glossary Part II",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Glossary Part II",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Glossary: 'unacknowledged SAP. A SAP having enhanced security measures ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-31436fb01c",
 "source": "DoDI 5205.11, Glossary Part II",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Glossary Part II",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Glossary: 'waived SAP. A SAP for which the SecDef has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-52425bf3f8",
 "source": "DoDD 5205.07 (2010), Glossary Part II",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": "2010), Glossary Part II",
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoDD 5205.07 (2010) Glossary: 'operations and support SAP. A SAP established primarily to protect the planning for, execution of, and support to especially sensitive military operations. An operations and support SAP may protect organizations, property, operational concepts, plans, or activities.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9d9f50eb15",
 "source": "DoDD 5205.07 (2010), Glossary Part II",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": "2010), Glossary Part II",
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoDD 5205.07 (2010) Glossary: 'acquisition SAP. A SAP established to protect sensitive research, development, testing and evaluation, modification, and procurement activities.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8c9bd67fdf",
 "source": "DoDI 5205.11, Glossary Part II",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Glossary Part II",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Glossary: 'umbrella. A SAP may also be referred to as an \"umbrella\" if the SAP has subordinate elements, referred as compartments, sub-compartments, or projects.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fc48a35ede",
 "source": "DoDD 5205.07 (2010) category definitions applied to the alleged activity",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": "2010) category definitions applied to the alleged activity",
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "A legacy material-recovery and exploitation effort would map onto the taxonomy as a waived unacknowledged operations and support SAP (recovery and custody of property) with a subordinate acquisition SAP compartment (exploitation and engineering), under a single umbrella. Reasoning: the DoD definitions of operations and support SAP - expressly covering 'property' - and acquisition SAP together describe recovery-plus-reverse-engineering with no strain.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "domain",

@@ -1,0 +1,50 @@
+{
+"archived": [
+"https://web.archive.org/web/20260508180209/https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-68acec5606",
+"label": "AARO points the public to NARA and asserts it is transferring records",
+"note": "AARO's UAP Records page links first to the National Archives collection, and the Department states AARO has made progress transferring records in accordance with federal law.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-war-gov-bfe64d4e",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+{
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+}
+],
+"node": null,
+"title": "Department of War - This Week in DOW: Honoring Heroes, Patrolling Oceans, Uncovering Truth, Out There",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/"
+]
+}

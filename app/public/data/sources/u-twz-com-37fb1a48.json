@@ -1,0 +1,407 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-cd0e60dbe0",
+"locator": null,
+"node": "dird-high-frequency-gravitational-wave-communications",
+"nodeLabel": "High-Frequency Gravitational Wave Communications",
+"sourceText": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "In 2008 the JASON advisory group reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA nevertheless published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-81a1677e25",
+"locator": null,
+"node": "dird-invisibility-cloaking-theory-and-experiments",
+"nodeLabel": "Invisibility Cloaking: Theory and Experiments",
+"sourceText": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "The War Zone's audit of the DIRD list, which characterised several deliverables as junk science, treated this one as legitimate, noting Leonhardt 'has been publishing papers on that topic since 2006' and that his research 'is grounded in real science'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a4d470fbdf",
+"locator": null,
+"node": "marc-millis",
+"nodeLabel": "Marc G. Millis",
+"sourceText": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "The DIA list records the author as 'Dr G Millis'; the identification with Marc G. Millis of the Tau Zero Foundation rests on the Tau Zero affiliation, the JBIS open-source counterpart published as 'M G Millis', and The War Zone's identification of Marc Millis as an AATIP author.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-491186a95e",
+"locator": null,
+"node": "robert-baker",
+"nodeLabel": "Robert M. L. Baker, Jr.",
+"sourceText": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "A 2008 JASON advisory group review of HFGW work Baker had done for the Office of the Director of National Intelligence concluded, as quoted by The War Zone: 'The proposed applications of the science of HFGW are fundamentally wrong' and 'No foreign threat in HFGW is credible.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-22359698e6",
+"locator": null,
+"node": "ulf-leonhardt",
+"nodeLabel": "Ulf Leonhardt",
+"sourceText": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "The War Zone's audit of the DIRD list, which called several deliverables junk science, identified Leonhardt as a genuine expert whose work 'is grounded in real science to do with quantum physics and the behavior of light.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"claimTier": 1,
+"id": "e-0619bfdf67",
+"label": "DIA money spent on HFGW after JASON's rejection",
+"note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+"claimTier": 1,
+"id": "e-d6318be746",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+"b": {
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+"claimTier": 1,
+"id": "e-7c47cf14a4",
+"label": "authored by Marc G. Millis, Tau Zero Foundation",
+"note": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-d061673a2d",
+"label": "produced at EarthTech International, Austin",
+"note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"claimTier": 1,
+"id": "e-49bda181b1",
+"label": "published, numbered and released by DIA as DIA-08-0912-005",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-4050352af2",
+"label": "the subcontract path - how work reached the government without a prime relationship",
+"note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-fdcf00a5b7",
+"label": "largest single DIRD producer - six of 38",
+"note": "A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-464837384a",
+"label": "author of the notes at the centre of the custody claim",
+"note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"b": {
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+},
+"claimTier": 1,
+"id": "e-b9aec3769b",
+"label": "JASON found the underlying physics wrong two years before DIA published the DIRD",
+"note": "In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"b": {
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+"claimTier": 1,
+"id": "e-8303c3ddc9",
+"label": "subject domain: gravitational-wave communications and surveillance",
+"note": "Baker's open-source 2010 counterpart claims theoretical aerospace, military and civilian applications in 'communications, surveillance, remote initiation of nuclear events and propulsion, including moving space objects and missiles in flight and frustrating anti-missile and anti-satellite systems.' The breadth of that claim is precisely what JASON's 'no foreign threat in HFGW is credible' was rejecting.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"label": "Invisibility Cloaking: Theory and Experiments"
+},
+"b": {
+"cls": "person",
+"id": "ulf-leonhardt",
+"label": "Ulf Leonhardt"
+},
+"claimTier": 1,
+"id": "e-56fc4e85e9",
+"label": "authored by Ulf Leonhardt, University of St Andrews",
+"note": "The DIA list of 9 January 2018 records 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' The released PDF's author block is redacted under (b)(6). Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by the ICOD of 1 December 2009, one of the small number of internationally recognised authorities in the field. George Knapp released a copy of the DIRD in February 2019.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-laser-lightcraft-nanosatellites",
+"label": "Laser Lightcraft Nanosatellites"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-58d62150c2",
+"label": "author's institutional affiliation at time of writing",
+"note": "EarthTech International of Austin, Texas is the affiliation recorded against this title on the DIA congressional list. EarthTech is the single largest institutional source on the list; Puthoff and Davis between them are primary authors on six of the 38 products.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-8c07f96e43",
+"label": "commissioned via the BAASS prime contract",
+"note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-c7e57363d4",
+"label": "author's employer at time of writing (Skunk Works)",
+"note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-39bd6c3aa8",
+"label": "commissioned via the BAASS prime contract",
+"note": "Bigelow Aerospace Advanced Space Studies held the DIA contract under which the DIRDs were produced and subcontracted the individual authors; the DIA cover letter to SASC describes the list as 'all products produced under the AATIP contract'. Tier 2 rather than tier 1 because the contractor name is redacted under (b)(3):10 USC 424 on the DIRD cover page itself, so the subcontracting chain for this specific paper is inferred from the programme structure rather than read off the document.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-79c40869ac",
+"label": "commissioned via the BAASS prime contract",
+"note": "Positronics Research LLC was an outside small business with no standing DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract itself has not been released.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-twz-com-37fb1a48",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "person",
+"id": "brian-jenkins-dia",
+"label": "Brian L. Jenkins"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "person",
+"id": "george-miley",
+"label": "George H. Miley"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+{
+"cls": "document",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"label": "Invisibility Cloaking: Theory and Experiments"
+},
+{
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+{
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+{
+"cls": "person",
+"id": "robert-baker",
+"label": "Robert M. L. Baker, Jr."
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+{
+"cls": "person",
+"id": "ulf-leonhardt",
+"label": "Ulf Leonhardt"
+}
+],
+"node": null,
+"title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded",
+"topics": [
+{
+"claims": [
+"c-cd0e60dbe0"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "article",
+"urls": [
+"https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+]
+}

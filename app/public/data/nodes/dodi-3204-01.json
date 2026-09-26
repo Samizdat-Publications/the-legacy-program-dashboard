@@ -7,14 +7,35 @@
 {
 "id": "c-a2379cd6ec",
 "source": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"sources": [
+{
+"id": "dodi-3204-01",
+"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
+"title": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
+}
+],
 "text": "IR&D costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable'; reporting is required only of major contractors allocating over $11 million in IR&D and B&P costs, via project summaries reviewed for cost allowability.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4c4f79c707",
 "source": "Public Law 118-31, Sec. 1687(b) (50 U.S.C. 3373 note)",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1687(b) (50 U.S.C. 3373 note",
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+},
+{
+"id": "usc-50-3373",
+"locator": "note",
+"title": "50 U.S.C. 3373"
+}
+],
 "text": "NDAA FY2024 Sec. 1687(b) cites DoDI 3204.01 by number and change date and makes UAP-related IR&D unallowable as an indirect expense unless the material and information is made available to the appropriate congressional committees and congressional leadership.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

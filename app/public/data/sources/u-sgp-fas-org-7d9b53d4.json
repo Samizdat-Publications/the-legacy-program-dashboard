@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "509th-bomb-group",
+"label": "509th Bomb Group"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 1,
+"id": "e-48accb7292",
+"label": "509th intelligence office took possession of the Roswell debris",
+"note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"b": {
+"cls": "institution",
+"id": "509th-bomb-group",
+"label": "509th Bomb Group"
+},
+"claimTier": 1,
+"id": "e-8f83587840",
+"label": "Congressionally requested GAO search of 509th and RAAF records",
+"note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-sgp-fas-org-7d9b53d4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [],
+"node": null,
+"title": "GAO/NSIAD-95-187, report to the Honorable Steven H. Schiff, House of Representatives, July 28, 1995",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/othergov/roswell.html"
+]
+}

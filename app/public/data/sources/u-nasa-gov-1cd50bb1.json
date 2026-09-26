@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-727646145a",
+"locator": null,
+"node": "manned-orbiting-laboratory",
+"nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"sourceText": "John Uri, '55 Years Ago: Manned Orbiting Laboratory Cancellation', NASA, 11 June 2024, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
+"text": "NASA's history office dates the programme's public and classified halves: announced by Defense Secretary Robert S. McNamara in December 1963, formally approved by President Johnson in August 1965, 17 pilots selected in three groups on 12 November 1965, 17 June 1966 and 30 June 1967, flown on the Titan-IIIM from Vandenberg into polar orbit, cancelled 10 June 1969, and 'not declassified by the NRO until October 2015'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-b984258a9e",
+"label": "After cancellation the younger MOL astronauts transferred to NASA",
+"note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload"
+},
+"b": {
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+},
+"claimTier": 1,
+"id": "e-cfa47aec3b",
+"label": "Polar launches were to fly from Vandenberg on the Titan-IIIM",
+"note": "Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-nasa-gov-1cd50bb1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload"
+}
+],
+"node": null,
+"title": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/"
+]
+}

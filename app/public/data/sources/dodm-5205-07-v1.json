@@ -1,0 +1,705 @@
+{
+"archived": [
+"https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"https://web.archive.org/web/20201018165753/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol01.pdf"
+],
+"claims": [
+{
+"cls": "program",
+"id": "c-55381ea35b",
+"locator": "Enclosure 2 para 2.c",
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "DoDD 5205.07 (2010) Glossary; DoDM 5205.07-V1 Enclosure 2 para 2.c; 32 CFR 117.6(b)(3)",
+"text": "The carve-out is approvable only by the Secretary of Defense or the Deputy Secretary of Defense - no delegation to a service secretary, component head or SAPCO director is provided for in DoDD 5205.07 (2010), DoDI 5205.11 or DoDM 5205.07 Volume 1.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-3ec3c87861",
+"locator": "Enclosure 2 para 2.c and Glossary definition of PSO",
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 2 para 2.c and Glossary definition of PSO",
+"text": "After a carve-out, the only recurring security inspection of the contractor facility is conducted by the Program Security Officer, who is 'appointed in writing by the appropriate Director CA SAPCO or designee' and exercises responsibilities 'on behalf of the SAPCO' - that is, by the program inspecting itself. Reasoning: DoDM 5205.07-V1 removes the DSS/DCSA inspection and its glossary defines the PSO's appointment chain as internal to the SAP structure.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-7971508fd2",
+"locator": "Enclosure 2, para 2.c",
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.c",
+"text": "A carved-out contractor SAP is the smallest documented configuration in U.S. law in which classified material can be physically held by a private company with no inspection by any official outside the program, no external accreditation of the computers holding the program's data, and no independent counterintelligence reporting line. Reasoning: enumeration of the three functions expressly suspended by DoDM 5205.07-V1 Enclosure 2 para 2.c.",
+"tier": 3
+},
+{
+"cls": "domain",
+"id": "c-1b4d83fb74",
+"locator": null,
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "THE UNCLASSIFIED WITHHOLDING. DoDM 5205.07 Vol 1, Enclosure 5, para 1 lists when HVSACO is applied, including '(4) To protect information that does not warrant classification under Executive Order 13526' and '(5) When using a SAP nickname for an unacknowledged SAP.' HVSACO is therefore a control expressly designed to hold inside SAP channels material that does NOT meet the standard for classification. Para 1.c requires that on a public release request the originator review the material and either remove the HVSACO marking or 'Inform the requestor of the decision not to release the information, citing an appropriate authority.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-289bd1ae28",
+"locator": null,
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1, Enclosure 5, para 1.a: 'The purposes of HVSACO are: (1) To preclude the disclosure of general program-related information outside established acknowledged and unacknowledged SAP channels. (2) To minimize OPSEC indicators. (3) To facilitate communication of information within SAPs.' Para 1.b: 'Dissemination of information warranting HVSACO protection will be limited to persons briefed into a SAP and retained within SAP approved channels.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-9f59e76cf6",
+"locator": "Enclosure 5",
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 5",
+"text": "DoDM 5205.07-V1 Enclosure 5: HVSACO is applied '(5) When using a SAP nickname for an unacknowledged SAP', and 'HVSACO is not a classification.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-a740926311",
+"locator": "Enclosure 5, para 1.a",
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 5, para 1.a",
+"text": "DoDM 5205.07-V1 Enclosure 5 lists among the purposes of HVSACO 'To preclude the disclosure of general program-related information outside established acknowledged and unacknowledged SAP channels' and 'To minimize OPSEC indicators.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-b48dfe7806",
+"locator": null,
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1 visitor-control rules: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.' The manual's operative text presumes the existence of physical sites whose government affiliation is not disclosed.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-bf2eaeb464",
+"locator": "Enclosure 4",
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 4",
+"text": "DoDM 5205.07-V1 Enclosure 4 para 4.c: 'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-f888a88b72",
+"locator": "Enclosure 10",
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 10",
+"text": "DoDM 5205.07-V1 Enclosure 10 para 5: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-7ed647dbeb",
+"locator": "Enclosure 5 read against E.O. 13526 sections 3.3, 3.5 and 1.8",
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "DoDM 5205.07-V1 Enclosure 5 read against E.O. 13526 sections 3.3, 3.5 and 1.8",
+"text": "Because HVSACO is expressly not a classification, material bearing it is outside the E.O. 13526 declassification system - it cannot be the subject of a mandatory declassification review, an automatic declassification at 25 years, or a classification challenge. Reasoning: those remedies operate only on classified national security information.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-5454fd4cc4",
+"locator": "Enclosure 2, para 2.b",
+"node": "dcsa-nisp",
+"nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.b",
+"text": "DoDM 5205.07-V1 Enclosure 2 para 2.b: the Director, DSS 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a242fa3046",
+"locator": null,
+"node": "dcsa-nisp",
+"nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1, Enclosure 2, para 2.b (then DSS, now DCSA): 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.' Facility clearance issuance is NOT carved out -- only inspection, IS authorization and CI cross-sharing are. A carved-out SAP contractor site still has a DCSA-issued FCL and therefore still exists in DCSA's facility records.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-21005a5a12",
+"locator": null,
+"node": "dcsa-nisp",
+"nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Because the FCL function survives a carve-out (DoDM V1 Encl 2 para 2.b) while inspection does not, DCSA's facility clearance database remains the one government-wide index that lists a carved-out SAP contractor location as a cleared facility, even when no inspector may enter it. That makes FCL records a discovery surface that the carve-out does not close. Reasoning stated.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-1315e4a328",
+"locator": "Enclosure 2, para 3.b",
+"node": "dod-sapco",
+"nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 2, para 3.b",
+"text": "DoDM 5205.07-V1 Enclosure 2 para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-60e79a3d32",
+"locator": null,
+"node": "dod-sapco",
+"nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1, Enclosure 2, para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-02333c5cba",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1 physical-security/visitor rules acknowledge the existence of undisclosed sites in operative text: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-076248f4b8",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1 states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out and conducted jointly to the greatest extent possible' -- confirming that when a SAP IS carved out, the only remaining inspection is the program's own self-inspection plus SAPCO-internal compliance inspection.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0c0175893c",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "THE CARVE-OUT'S OPERATIONAL CONTENT. DoDM 5205.07 Vol 1, Enclosure 2, para 2 (Director, DSS): 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations in accordance with this volume, Reference (f), and the government contracting activity's completed DD Form 254 ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.' A carve-out removes all three functions at once: physical inspection, IT accreditation, and CI information sharing.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-10c2e45e5c",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1, Enclosure 4, para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' There is an explicit, standing policy channel for patents arising inside special access programs, delegated to each cognizant-authority SAP central office.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-28716c7f5b",
+"locator": "para 2",
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "DoDM 5205.07 Volume 1, para 2",
+"text": "DoDM 5205.07 Volume 1 applies to all DoD Components, to 'All DoD Component contractors and consultants who require access to DoD SAPs pursuant to the terms and conditions of the contract or agreement', and to non-DoD USG entities requiring access under an MOA.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-599d697d59",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1 glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7291bcb527",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "WHISTLEBLOWING IS ROUTED BACK INSIDE. Vol 1, Enclosure 4, para 3: 'Government and industry FWAC SAP reporting involving SAP information will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information. b. The PSO will provide the telephone number for the current FWAC hotline for reporting SAP information. FWAC reporting information will be conspicuously posted in the SAP workspace. c. Employees do not need management approval before making reports.' Fraud, waste, abuse and corruption inside a SAP may not be reported through the ordinary DoD IG hotline; it must go through a SAP-channel hotline whose number is issued by the program's own security officer.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9fc8f1925b",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1, Enclosure 4, para 8 (Arms Control and Treaties): 'DoD SAPs will be protected against unnecessary or inadvertent exposure during USG participation in authorized verification activities, confidence-building measures, and overflights.' Para 9 (Litigation and Public Proceedings): 'Threatened or actual litigation, administrative investigations or inquiries, or public proceedings at the international, federal, State, tribal, or local levels that may involve a SAP will be reported to CA SAPCO.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a1efad4b48",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Volume 1: 'MANUAL NUMBER 5205.07, Volume 1, June 18, 2015, Incorporating Change 1, Effective February 12, 2018, USD(I). SUBJECT: DoD Special Access Program (SAP) Security Manual: General Procedures.' A later Change 2 is effective 30 September 2020 under USD(I&S). Vol 1 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c06e3cfc6a",
+"locator": "para 1.a(2",
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "DoDM 5205.07 Volume 1, para 1.a(2)",
+"text": "DoDM 5205.07 Volume 1 states that it 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d56d08517a",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1, Enclosure 4, para 4: 'The CUA documents areas of authorities and responsibilities between cognizant security offices (CSOs) when they share the same SAPF. ... The first CSO in an area, unless otherwise agreed upon, will be considered the host CSO responsible for all security oversight.' And, critically: 'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP.' Multiple SAPs -- including carved-out ones -- can lawfully co-occupy one accredited facility under a written host/tenant agreement.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5076d68d5b",
+"locator": null,
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Purpose para 1.b.(1): the volume 'Assigns responsibilities, implements policy established in DoD Instruction (DoDI) 5205.11, and describes the general procedures for the administration of DoD SAP security,' and (2) 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.' The 'NISPOM Supplement Overprint' -- the historic classified-annex mechanism for SAP industrial security -- was folded into this public manual in 2015.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8f96b4e208",
+"locator": "Enclosure 10, para 5",
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 10, para 5",
+"text": "DoDM 5205.07-V1 Enclosure 10 provides that 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-99cfd53598",
+"locator": "Glossary Part II",
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "DoDM 5205.07 Volume 1, Glossary Part II",
+"text": "DoDM 5205.07-V1 Glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9c03ae0e10",
+"locator": null,
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Recovered in full from Internet Archive captures of esd.whs.mil: the 18 Jun 2015 / Change 1 (12 Feb 2018) text at web.archive.org/web/20191018064106/, and the Change 2 (effective 30 Sep 2020) text at web.archive.org/web/20201018165753/ under the filename 520507_vol01.pdf. Both are 49-page unclassified PDFs cleared for public release. The 520507_vol1.pdf and 520507_vol01.pdf paths now return 404 on the live esd.whs.mil site.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-aa306966f4",
+"locator": "Enclosure 2, para 2.c",
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.c",
+"text": "DoDM 5205.07-V1 Enclosure 2 para 2.c: 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ae32fb4077",
+"locator": "Enclosure 4 para 4.c and Enclosure 2 para 5.c",
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 4 para 4.c and Enclosure 2 para 5.c",
+"text": "DoDM 5205.07-V1 Enclosure 4 provides that for co-utilization agreements 'the responsible organization will be identified for executing security cognizance with a carved-out SAP', and requires DoD components to coordinate with the DSS CI Directorate for threat cross-sharing 'when the SAP is carved out of DSS oversight'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bc374d6360",
+"locator": "Enclosure 4, para 3.a",
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 4, para 3.a",
+"text": "DoDM 5205.07-V1 requires that fraud, waste, abuse and corruption reporting involving SAP information 'be accomplished through SAP channels' and that 'Collateral FWAC reporting channels must not be used for SAP information.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d26ad8ffe8",
+"locator": null,
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Enclosure 2, para 3 assigns the Director, DoD SAPCO -- 'Under the authority, direction, and control of the Deputy Secretary of Defense' -- the roles of 'DoD designated proponent for developing and implementing policies and procedures for DoD SAP execution, management, and administration' and 'DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fe2d6d3411",
+"locator": "Enclosure 5, para 1",
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 5, para 1",
+"text": "DoDM 5205.07-V1 Enclosure 5 provides that HVSACO marking is used, among other cases, '(5) When using a SAP nickname for an unacknowledged SAP', and that 'HVSACO is not a classification'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dd08634ced",
+"locator": "Enclosure 4 para 3",
+"node": "dodm-5205-07-v1",
+"nodeLabel": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceText": "DoDM 5205.07 Volume 1, Enclosure 4 para 3",
+"text": "The FWAC rule is the structural reason an insider allegation about a SAP cannot travel through ordinary DoD hotline channels: the manual directs it back into the same compartment it concerns. Reasoning: SAP-channel-only reporting routes the complaint to officials inside the program.",
+"tier": 3
+}
+],
+"date": "2015-06-18",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+"claimTier": 1,
+"id": "e-2952deb718",
+"label": "Switches off the only external inspector of a contractor SAP facility",
+"note": "DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-21d563e8c0",
+"label": "Defined verbatim in the SAP Security Manual glossary",
+"note": "'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-b00c154646",
+"label": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
+"note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"claimTier": 3,
+"id": "e-2647e0a23b",
+"label": "Contractor custody without government inspection is the carve-out configuration",
+"note": "Grusch has alleged material held at defence contractors; the carve-out is the documented mechanism by which a contractor SAP facility ceases to receive DCSA inspection, IS accreditation and CI cross-sharing.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-46abea4830",
+"label": "SAP fraud and abuse complaints must not use collateral reporting channels",
+"note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 1,
+"id": "e-0ac0889b58",
+"label": "Single point of congressional liaison for every DoD special access program",
+"note": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval. The office being overseen is notified before the overseer is briefed.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"claimTier": 1,
+"id": "e-d027b6cf6f",
+"label": "defines and operates the carve-out",
+"note": "The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+"claimTier": 1,
+"id": "e-b88105dae1",
+"label": "relieves it of oversight",
+"note": "The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-45d3c17efb",
+"label": "assigns it the patent and inspection roles",
+"note": "Volume 1 Enclosure 4 para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' Volume 1 also routes inspections through the SAPCOs jointly with DSS where a programme is not carved out. Both are verbatim from this node's recorded quotations, and the patents provision is the one that matters most to this board: it is an explicit channel for intellectual property arising inside a special access programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "document",
+"id": "dodd-5205-07-2010",
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+},
+"claimTier": 1,
+"id": "e-6ba903bc02",
+"label": "",
+"note": "The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "document",
+"id": "dodd-5205-07-2010",
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+},
+"claimTier": 1,
+"id": "e-9209e3bbed",
+"label": "manual implements policy established in DoDD 5205.07",
+"note": "",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-9639bb02ab",
+"label": "Volume 1 is the general procedures volume of the four-volume manual",
+"note": "DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"b": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"claimTier": 1,
+"id": "e-fb25dff7e3",
+"label": "The manual implements the instruction's policy",
+"note": "DoDM 5205.07 Volume 1 para 1.a(1) states that it 'implements policy established in DoD Instruction (DoDI) 5205.11'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+"claimTier": 3,
+"id": "e-04241abab9",
+"label": "HVSACO and nickname practice describe the paperwork environment Elizondo has described",
+"note": "Elizondo's account of AATIP-era handling turns on material moving in special access channels; DoDM 5205.07-V1 documents HVSACO as the caveat used for unacknowledged SAP nicknames and expressly not a classification.",
+"type": "witness-chain"
+}
+],
+"era": "2",
+"id": "dodm-5205-07-v1",
+"identifiers": [
+"DoDM 5205.07, Volume 1"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+{
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+{
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+{
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+{
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+{
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
+"node": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"topics": [
+{
+"claims": [
+"c-55381ea35b",
+"c-3ec3c87861",
+"c-7971508fd2",
+"c-5454fd4cc4",
+"c-a242fa3046",
+"c-21005a5a12",
+"c-0c0175893c",
+"c-10c2e45e5c",
+"c-599d697d59",
+"c-7291bcb527",
+"c-8f96b4e208",
+"c-9c03ae0e10",
+"c-aa306966f4",
+"c-bc374d6360",
+"c-dd08634ced"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-1b4d83fb74",
+"c-289bd1ae28",
+"c-9f59e76cf6",
+"c-a740926311",
+"c-bf2eaeb464",
+"c-f888a88b72",
+"c-7ed647dbeb",
+"c-a1efad4b48",
+"c-5076d68d5b",
+"c-9c03ae0e10"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "regulation",
+"urls": []
+}

@@ -7,8 +7,16 @@
 {
 "id": "c-564e725434",
 "source": "Congress.gov H.R. 10111 (118th); GPO BILLS-118hr10111ih",
+"sources": [
+{
+"id": "bills-118hr10111ih",
+"locator": null,
+"title": "BILLS-118hr10111ih"
+}
+],
 "text": "Introduced 12 November 2024 by Rep. Tim Burchett; cosponsors Nancy Mace, Anna Paulina Luna and Eric Burlison; referred to Oversight and Accountability and additionally to Intelligence (Permanent Select) and Armed Services.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

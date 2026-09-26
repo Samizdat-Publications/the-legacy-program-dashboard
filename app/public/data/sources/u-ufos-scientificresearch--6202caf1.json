@@ -1,0 +1,133 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-728a48265f",
+"locator": null,
+"node": "richard-obousy",
+"nodeLabel": "Richard K. Obousy",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"text": "Obousy appears on the Icarus Interstellar team alongside Eric Davis and Friedwardt Winterberg, both of whom are also DIA-listed DIRD authors.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-6ab00b8a0c",
+"locator": null,
+"node": "dird-traversable-wormholes-stargates-and-negative-energy",
+"nodeLabel": "Traversable Wormholes, Stargates, and Negative Energy",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"text": "This is one of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017, before any FOIA release. Davis confirmed by email to the researcher Isaac Koi that the circulating copies were his documents.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-15b334c53a",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"text": "One of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the researcher Isaac Koi that the circulating copy was genuine.",
+"tier": 2
+}
+],
+"date": "2018-06",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+"claimTier": 1,
+"id": "e-1781538e20",
+"label": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-87a2bb0359",
+"label": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-0bd57a7667",
+"label": "author's affiliation of record; one of three Lockheed Martin DIRDs",
+"note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-ufos-scientificresearch--6202caf1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufos-scientificresearch.blogspot.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+}
+],
+"node": null,
+"title": "ufos-scientificresearch.blogspot.com",
+"topics": [
+{
+"claims": [
+"c-15b334c53a"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+},
+{
+"claims": [
+"c-15b334c53a"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "article",
+"urls": [
+"https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+]
+}

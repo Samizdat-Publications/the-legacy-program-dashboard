@@ -1,0 +1,111 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 1,
+"id": "e-b0373f3372",
+"label": "The Senate's own 2022 instrument counts and cites the archive",
+"note": "RQS 193/2022 recites the transfer route from 2007 onward, 'somando-se hoje mais de 20 mil páginas de arquivos liberados', names Brigadeiro Junichi Saito's August 2010 decree in the Diário Oficial da União directing that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional, and gives the archive's own search behaviour: 'quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' A national legislature citing archival reference codes in a legislative instrument is the specific thing the US board has no equivalent of. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"claimTier": 1,
+"id": "e-b41085299c",
+"label": "The Senate instrument treats the Aeronáutica's record as the national record",
+"note": "RQS 193/2022 credits Brazil as the first state to admit officially that the objects exist — the 1954 Escola Superior de Guerra meeting at which then-Captain João Adil de Oliveira spoke — lists SIOANI (1969, IV COMAR), Operação Prato (1977) and the 1986 night as official Aeronáutica programmes, and notes that the Aeronáutica 'sempre foi discreta quanto a estes e a outros fatos, mas nunca os negou quando inquirida'. It also records that the Army and Navy did not transfer their holdings — a named, sourced gap in the Brazilian openness story rather than a clean win. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha"
+},
+"claimTier": 2,
+"id": "e-35edaff45d",
+"label": "Girao backed Varginha hospital witnesses in Washington",
+"note": "Sen. Eduardo Girao, who presided over the 2022 Brazilian Senate UAP session, travelled to Washington for the 20 January 2026 National Press Club event and praised the Varginha witnesses, and discussed a joint Brazil-US evidence effort with Rep. Eric Burlison. The Debrief is explicit that Girao acted as a private citizen and was not officially representing the Brazilian Senate, so this is a personal rather than institutional linkage.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-6f55dbfaed",
+"label": "The 1986 night is named in the Senate instrument that produced the 2022 special session",
+"note": "RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-fd5d180b3a",
+"label": "2022 Senate special session justified by the 2021 US UAP report",
+"note": "Requerimento RQS 193/2022 (Sen. Eduardo Girao and seven co-signers) requested the Brazilian Senate special session on ufology, and its justification expressly cites the 2021 'Pentagon' UAP report covering 144 sightings of which only one was explained, plus FY2022 NDAA UAP research funding. The report described is the June 2021 Preliminary Assessment authored by the UAP Task Force and released by ODNI. The session was held in the Senate plenary on 24 June 2022 and ended with ufologists handing Girao the 'Carta de Brasilia' urging a permanent joint civil-military commission.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-legis-senado-leg-br-34fb4c4d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senado Federal (Brasil)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+}
+],
+"node": null,
+"title": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+]
+}

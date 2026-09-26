@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-564e725434",
+"locator": null,
+"node": "hr-10111-uap-whistleblower-protection-act",
+"nodeLabel": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+"sourceText": "Congress.gov H.R. 10111 (118th); GPO BILLS-118hr10111ih",
+"text": "Introduced 12 November 2024 by Rep. Tim Burchett; cosponsors Nancy Mace, Anna Paulina Luna and Eric Burlison; referred to Oversight and Accountability and additionally to Intelligence (Permanent Select) and Armed Services.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "bills-118hr10111ih",
+"identifiers": [
+"BILLS-118hr10111ih"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-10111-uap-whistleblower-protection-act",
+"label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+}
+],
+"node": null,
+"title": "BILLS-118hr10111ih",
+"topics": [
+{
+"claims": [
+"c-564e725434"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-564e725434"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/BILLS-118hr10111ih/html/BILLS-118hr10111ih.htm"
+]
+}

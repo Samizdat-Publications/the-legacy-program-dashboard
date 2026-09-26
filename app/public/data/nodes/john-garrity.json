@@ -18,8 +18,16 @@
 {
 "id": "c-561fad2cb0",
 "source": "The Black Vault, OSD/JS FOIA case 18-F-0324 timeline entry",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": "timeline entry",
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "Identified as the supervisor to whom Elizondo's 3 October 2017 resignation letter was addressed; Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered directly to DoD rather than submitted through standard channels.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

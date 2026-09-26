@@ -1,0 +1,125 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2942f34735",
+"locator": null,
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"sourceText": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
+"text": "The former agent most associated with the Kirtland file has publicly denied the account of harm usually attributed to the operation. Answering George Knapp on camera, Doty said of the story that he drove Bennewitz mad: 'none of it's true every every aspect of that is false'. The board should carry this alongside, and not instead of, the admissions already recorded on this node.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-6678982a88",
+"locator": null,
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"sourceText": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case...Part 4', YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
+"text": "THE DENIAL SIDE, IN HIS OWN VOICE, WHICH THE BOARD HAS NOT CARRIED. Answering George Knapp on camera, Doty rejects the harm narrative outright. From the auto-generated captions, wording approximate: 'yes that was the story that I brainwashed him I fed chemicals I mean I've heard it all we shot beams in his head I mean I've heard everything and none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself he was a brilliant but troubled person'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b1d862ec75",
+"locator": null,
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"sourceText": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
+"text": "IN THE SAME CLIP HE GIVES BENNEWITZ'S MATERIAL AN EXTRATERRESTRIAL MEANING. Wording approximate, from the same auto-captions: 'he tapped into something national security programs that he shouldn't have had access to...he was collecting frequencies that were up any high gigahertz that we didn't have at that time period in the 1980s so it had to come from it an ET source'. And on custody: 'I wish I knew it went to headquarters...and from that point on I would guess dia has a repository someplace and it went there'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-fa3ef7731d",
+"label": "Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied",
+"note": "A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-2290621189",
+"label": "Two-sided: the reported admission, and his own recorded denial of harm",
+"note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-0ffdcbde",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+{
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+}
+],
+"node": null,
+"title": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
+"topics": [
+{
+"claims": [
+"c-6678982a88",
+"c-b1d862ec75"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-2942f34735",
+"c-6678982a88"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-2942f34735"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=9TLfM5VKX3M"
+]
+}

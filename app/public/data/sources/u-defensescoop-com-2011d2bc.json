@@ -1,0 +1,106 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-d1b17bd7a0",
+"locator": null,
+"node": "aaro-jwics-case-management-2025",
+"nodeLabel": "AARO JWICS case management system (sources sought, May 2025)",
+"sourceText": "https://defensescoop.com/2025/05/21/ufo-uap-pentagon-aaro-exploring-new-options-track-manage-reports/",
+"text": "It was AARO's first official market research solicitation; the system is to track data, interactions and other records related to UAP investigations and to support a public UAP reporting mechanism AARO plans to launch.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-11774b70bd",
+"locator": null,
+"node": "aaro-jwics-case-management-2025",
+"nodeLabel": "AARO JWICS case management system (sources sought, May 2025)",
+"sourceText": "https://defensescoop.com/2025/05/21/ufo-uap-pentagon-aaro-exploring-new-options-track-manage-reports/",
+"text": "Hosting the consolidated UAP case record on JWICS places it at the Top Secret/SCI level by default regardless of the classification of individual cases, which is a structural obstacle to release that no declassification directive in 2026 addresses. Reasoning: JWICS is the TS/SCI network; a database resident on it inherits that handling.",
+"tier": 3
+}
+],
+"date": "2025-05-21",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aaro-jwics-case-management-2025",
+"label": "AARO JWICS case management system (sources sought, May 2025)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
+"claimTier": 1,
+"id": "e-4e88156cdd",
+"label": "first purpose-built case system, solicited May 2025",
+"note": "A Sources Sought Notice for a JWICS-hosted case management system establishes that AARO had no purpose-built case system three years after standing up.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "aaro-jwics-case-management-2025",
+"label": "AARO JWICS case management system (sources sought, May 2025)"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-b602caf245",
+"label": "a TS/SCI-resident case corpus against a statutory public collection",
+"note": "Hosting the consolidated UAP case record on JWICS places it at Top Secret/SCI by default, which is a structural obstacle to transfer that neither the FY2024 NDAA nor the 2026 directives address.",
+"type": "research"
+},
+{
+"a": {
+"cls": "event",
+"id": "virginia-coast-uap-2026",
+"label": "Navy UAP event off the Virginia coast (reported July 2026)"
+},
+"b": {
+"cls": "program",
+"id": "aaro-jwics-case-management-2025",
+"label": "AARO JWICS case management system (sources sought, May 2025)"
+},
+"claimTier": 3,
+"id": "e-e1e8a83868",
+"label": "a mass event against a case system still being procured",
+"note": "Roughly 100 objects and two uncrewed surface systems reported by Navy assets, in an office whose purpose-built case management system was still at the sources-sought stage in mid-2025.",
+"type": "research"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-2011d2bc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "program",
+"id": "aaro-jwics-case-management-2025",
+"label": "AARO JWICS case management system (sources sought, May 2025)"
+}
+],
+"node": null,
+"title": "DefenseScoop, AARO case management system",
+"topics": [
+{
+"claims": [
+"c-d1b17bd7a0"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2025/05/21/ufo-uap-pentagon-aaro-exploring-new-options-track-manage-reports/"
+]
+}

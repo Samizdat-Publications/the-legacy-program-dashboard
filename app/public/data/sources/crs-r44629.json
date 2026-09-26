@@ -1,0 +1,325 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7502895671",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "Cross-reference of the Gerb thesis against FAR 35.017 as summarised in CRS report R44629",
+"text": "The structural claim - that FFRDCs arbitrate what UFO programme information is shared with defence contractors - is consistent with FAR 35.017, which grants FFRDCs access to government and supplier data beyond that available in a normal contractual relationship. Reasoning: the regulation creates exactly the informational chokepoint Gerb describes, independent of whether his specific allegations are true.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-70954ac851",
+"locator": "summarising FAR 35.017",
+"node": "far-35-017",
+"nodeLabel": "FAR 35.017 - Federally Funded Research and Development Centers",
+"sourceText": "CRS Report R44629 summarising FAR 35.017",
+"text": "FAR 35.017 permits initial FFRDC contracts of up to five years, renewable in similar increments, expressly to provide stability and continuity and to allow the FFRDC to attract high-quality personnel.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-883ef79918",
+"locator": "funding table",
+"node": "llnl",
+"nodeLabel": "Lawrence Livermore National Laboratory",
+"sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "LLNL is a DOE FFRDC administered by Lawrence Livermore National Security, LLC since 1 October 2007 and was funded at approximately $2,188.8 million in FY2024.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-aef5f581d4",
+"locator": null,
+"node": "lanl",
+"nodeLabel": "Los Alamos National Laboratory",
+"sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629",
+"text": "LANL is administered by Triad National Security, LLC (new administrator 9 June 2018) and received approximately $3,918.3 million in FY2024.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d8bd8ca515",
+"locator": "funding table",
+"node": "mit-lincoln-laboratory",
+"nodeLabel": "MIT Lincoln Laboratory",
+"sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "Lincoln Laboratory is an MIT-administered FFRDC sponsored by DoD USD(R&E), with the sponsor change recorded on 25 April 2011, funded at approximately $1,360.6 million in FY2024.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-6ba3b4f2bf",
+"locator": "funding table",
+"node": "mitre-nsec",
+"nodeLabel": "National Security Engineering Center (NSEC)",
+"sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "NSEC's primary location was reassigned to McLean, Virginia in 2025 and it received approximately $1,431.7 million in FY2024.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-196584e386",
+"locator": null,
+"node": "oak-ridge-national-laboratory",
+"nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"sourceText": "NSF NCSES Master Government List of FFRDCs; USAspending.gov; CRS Report R44629",
+"text": "UT-Battelle, LLC has administered Oak Ridge National Laboratory since 1 April 2000 under DOE contract DEAC0500OR22725, with recorded obligations of approximately $42.3 billion and a period of performance running to 2030; ORNL was funded at approximately $2,091.2 million in FY2024.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-cbbe61eee1",
+"locator": "funding table",
+"node": "sandia",
+"nodeLabel": "Sandia National Laboratories",
+"sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "Sandia National Laboratories is a DOE FFRDC administered by National Technology & Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately $4,584.0 million in FY2024 - the largest FFRDC funding figure in the United States.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d573e85216",
+"locator": "funding table",
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"sourceText": "CRS Report R44629 funding table; USAspending.gov award records",
+"text": "The Aerospace FFRDC was funded at approximately $1,309.8 million in FY2024; its principal Space Force contract FA880219C0001 is recorded on USAspending at approximately $8.67 billion for 2018-2028.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-6bbbeeef89",
+"locator": "'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
+"node": "d-ffrdc",
+"nodeLabel": "The FFRDC Seam",
+"sourceText": "CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
+"text": "FAR 35.017 grants FFRDCs access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-6c9e87a52d",
+"locator": "updated 15 May 2026",
+"node": "d-ffrdc",
+"nodeLabel": "The FFRDC Seam",
+"sourceText": "CRS Report R44629, updated 15 May 2026",
+"text": "As of February 2026, 41 FFRDCs were sponsored or co-sponsored by 12 federal agencies.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-f3f806fd76",
+"locator": "summarising FAR 35.017",
+"node": "d-ffrdc",
+"nodeLabel": "The FFRDC Seam",
+"sourceText": "CRS Report R44629, summarising FAR 35.017",
+"text": "FFRDCs must operate in the public interest with objectivity and independence, be free from organisational conflicts of interest, fully disclose their activities to their sponsoring agency, and may not use their special access to compete with the private sector for federal R&D contracts.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8bdc41be6b",
+"locator": "FFRDC funding table",
+"node": "mitre-corporation",
+"nodeLabel": "The MITRE Corporation",
+"sourceText": "CRS Report R44629 FFRDC funding table",
+"text": "MITRE's National Security Engineering Center received approximately $1,431.7 million in FY2024 funding.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-609d946451",
+"locator": "'s summary of FAR 35.017",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"sourceText": "Cross-reference against CRS R44629's summary of FAR 35.017",
+"text": "Its central structural claim - that FFRDCs arbitrate what UFO programme information reaches defence contractors - is independently supported by FAR 35.017's grant of access to both government and supplier data beyond a normal contractual relationship. Reasoning: the regulation creates the chokepoint regardless of whether the specific allegations hold.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "edward-teller",
+"label": "Edward Teller"
+},
+"b": {
+"cls": "institution",
+"id": "llnl",
+"label": "Lawrence Livermore National Laboratory"
+},
+"claimTier": 1,
+"id": "e-c7cf595ca0",
+"label": "Co-founder and director of the Livermore laboratory",
+"note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "llnl",
+"label": "Lawrence Livermore National Laboratory"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-459335c3bd",
+"label": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
+"note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 1,
+"id": "e-d20cdb2f9e",
+"label": "Operates the only FFRDC dedicated exclusively to the space enterprise",
+"note": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"b": {
+"cls": "legislation",
+"id": "far-35-017",
+"label": "FAR 35.017 - Federally Funded Research and Development Centers"
+},
+"claimTier": 1,
+"id": "e-fb07405e7c",
+"label": "FAR 35.017 is the regulation that creates the seam",
+"note": "The subpart grants FFRDCs access to government and supplier data beyond a normal contractual relationship while requiring disclosure only to the sponsoring agency.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-0dfc20af7d",
+"label": "the FFRDC seam is a species of contracting mechanics, not a separate subject",
+"note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-753a4ecaa6",
+"label": "the largest operator of the one acquisition form built to be non-competitive by design",
+"note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 3,
+"id": "e-6832526c0c",
+"label": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
+"note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "crs-r44629",
+"identifiers": [
+"CRS R44629"
+],
+"interestedParty": false,
+"issuer": "Congressional Research Service",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "far-35-017",
+"label": "FAR 35.017 - Federally Funded Research and Development Centers"
+},
+{
+"cls": "institution",
+"id": "jhuapl",
+"label": "Johns Hopkins University Applied Physics Laboratory"
+},
+{
+"cls": "institution",
+"id": "llnl",
+"label": "Lawrence Livermore National Laboratory"
+},
+{
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+}
+],
+"node": null,
+"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress",
+"topics": [
+{
+"claims": [
+"c-70954ac851",
+"c-d8bd8ca515",
+"c-d573e85216",
+"c-6bbbeeef89",
+"c-6c9e87a52d",
+"c-f3f806fd76",
+"c-8bdc41be6b"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+},
+{
+"claims": [
+"c-196584e386"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
+"type": "report",
+"urls": [
+"https://www.congress.gov/crs-product/R44629",
+"https://www.everycrsreport.com/reports/R44629.html"
+]
+}

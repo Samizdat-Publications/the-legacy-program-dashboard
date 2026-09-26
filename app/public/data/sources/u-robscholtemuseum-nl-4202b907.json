@@ -1,0 +1,213 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-791a9f28a3",
+"locator": null,
+"node": "linda-moulton-howe",
+"nodeLabel": "Linda Moulton Howe",
+"sourceText": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
+"text": "INDEPENDENT 1989 CORROBORATION THAT SHE WAS TELLING THE KIRTLAND STORY BY THEN, FROM A THIRD PARTY AND NOT FROM HER. Milton William Cooper writes in his paper dated 23 May 1989: 'she confided to me that Sgt. Richard Doty of the Counterintelligence Division of the Air Force Office of Special Investigations had taken her into the Intelligence office at Kirtland Air Force Base in New Mexico and showed her the exact same documents that I had seen.' This corroborates the telling and nothing about the documents.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-093e8903c2",
+"locator": null,
+"node": "bill-cooper",
+"nodeLabel": "Milton William Cooper",
+"sourceText": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, 49pp, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and searched 2026-09-19",
+"text": "THE ZERO COUNT. The string 'Dulce' appears zero times in the forty-nine pages of Cooper's 'The Secret Government', dated 23 May 1989 and updated 21 November 1990. The document's text was extracted in full and searched. What it names instead is the frame: 'These alien bases would be constructed under Indian reservations in the Four Corners area of Utah, Colorado, New Mexico and Arizona, and one would be constructed in an area known as Dreamland.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-26c9c9edac",
+"locator": null,
+"node": "bill-cooper",
+"nodeLabel": "Milton William Cooper",
+"sourceText": "Milton William Cooper, 'The Secret Government', https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , opened 2026-09-19",
+"text": "The paper states its own delivery: 'It was first delivered at the MUFON Symposium on July 2,1989, in Las Vegas, Nevada.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7eab4f9dd5",
+"locator": null,
+"node": "bill-cooper",
+"nodeLabel": "Milton William Cooper",
+"sourceText": "Milton William Cooper, 'The Secret Government', 49pp, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
+"text": "COOPER GRADES HIS OWN DOCUMENT, AND THE BOARD SHOULD USE HIS GRADE. In the same paper: 'Most of this knowledge comes directly from, or is a result of my own research into the TOP SECRET/MAJIC material which I saw and read between the years 1970 and 1973 as a member of the Intelligence Briefing Team of the Commander in Chief of the Pacific Fleet. Since some of this information was derived from sources that I cannot divulge for obvious reasons, and from published sources which I cannot vouch for, this chapter must be termed a hypothesis.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f34f3635a2",
+"locator": null,
+"node": "bill-cooper",
+"nodeLabel": "Milton William Cooper",
+"sourceText": "Milton William Cooper, 'The Secret Government', https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , opened 2026-09-19",
+"text": "INDEPENDENT 1989 CORROBORATION OF THE HOWE EPISODE, FROM A THIRD PARTY. Cooper writes in the same paper: 'she confided to me that Sgt. Richard Doty of the Counterintelligence Division of the Air Force Office of Special Investigations had taken her into the Intelligence office at Kirtland Air Force Base in New Mexico and showed her the exact same documents that I had seen.' This establishes that Howe was telling the story by 1989. It establishes nothing about the contents or authenticity of any document.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-408d2dbf8a",
+"locator": null,
+"node": "cooper-secret-government-1989",
+"nodeLabel": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
+"sourceText": "Milton William Cooper, 'The Secret Government', https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , read in full 2026-09-19",
+"text": "The frame it does carry, verbatim: 'It was agreed that bases would be constructed underground for the use of the alien nation and that two bases would be constructed for the joint use of the alien nation and the United States Government...These alien bases would be constructed under Indian reservations in the Four Corners area of Utah, Colorado, New Mexico and Arizona, and one would be constructed in an area known as Dreamland.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6251106032",
+"locator": null,
+"node": "cooper-secret-government-1989",
+"nodeLabel": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
+"sourceText": "Milton William Cooper, 'The Secret Government', https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , read in full 2026-09-19",
+"text": "The document grades itself: 'this chapter must be termed a hypothesis', after Cooper states his sources include material he cannot divulge and 'published sources which I cannot vouch for'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e73bbd9ea2",
+"locator": null,
+"node": "cooper-secret-government-1989",
+"nodeLabel": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
+"sourceText": "Milton William Cooper, 'The Secret Government', https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and searched 2026-09-19",
+"text": "THE COUNT. The string 'Dulce' appears zero times in the forty-nine pages. The text was extracted in full and searched. A count is checkable; an adjective is not.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-eeb3ba8f61",
+"locator": null,
+"node": "project-aquarius",
+"nodeLabel": "Project AQUARIUS (alleged)",
+"sourceText": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
+"text": "INDEPENDENT 1989 CORROBORATION OF THE HOWE EPISODE FROM A THIRD PARTY. Milton William Cooper's paper dated 23 May 1989 records: 'she confided to me that Sgt. Richard Doty of the Counterintelligence Division of the Air Force Office of Special Investigations had taken her into the Intelligence office at Kirtland Air Force Base in New Mexico and showed her the exact same documents that I had seen.' This corroborates that Howe was telling the story by 1989 and corroborates nothing about the documents' contents or authenticity.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bill-cooper",
+"label": "Milton William Cooper"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 3,
+"id": "e-652d74a0e0",
+"label": "FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times",
+"note": "Cooper carried the frame of alien bases built under Indian reservations in the Four Corners area to a mass audience from 1989. The string 'Dulce' occurs zero times in the forty-nine pages, which were extracted and searched in full. Tier 3 because attaching his frame to this specific site is inference and not text, and an edge worded any more strongly would contradict its own source.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bill-cooper",
+"label": "Milton William Cooper"
+},
+"b": {
+"cls": "document",
+"id": "cooper-secret-government-1989",
+"label": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990"
+},
+"claimTier": 1,
+"id": "e-a06863a945",
+"label": "Author of 'The Secret Government', 23 May 1989, updated 21 November 1990",
+"note": "Authorship, typed research by rule. The document is dated on its own first page and states its own delivery at the MUFON symposium of 2 July 1989.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-ea9f7c422a",
+"label": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
+"note": "Cooper's 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-robscholtemuseum-nl-4202b907",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "robscholtemuseum.nl",
+"listedOn": [
+{
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+{
+"cls": "person",
+"id": "linda-moulton-howe",
+"label": "Linda Moulton Howe"
+},
+{
+"cls": "person",
+"id": "bill-cooper",
+"label": "Milton William Cooper"
+},
+{
+"cls": "document",
+"id": "cooper-secret-government-1989",
+"label": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990"
+},
+{
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+}
+],
+"node": null,
+"title": "Milton William Cooper, 'The Secret Government', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full",
+"topics": [
+{
+"claims": [
+"c-093e8903c2",
+"c-26c9c9edac",
+"c-7eab4f9dd5",
+"c-408d2dbf8a",
+"c-6251106032",
+"c-e73bbd9ea2"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-791a9f28a3"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "document",
+"urls": [
+"https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf"
+]
+}

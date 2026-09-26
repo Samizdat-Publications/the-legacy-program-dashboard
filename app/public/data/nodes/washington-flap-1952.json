@@ -7,26 +7,40 @@
 {
 "id": "c-56af594031",
 "source": "CIA Office of Scientific Intelligence memoranda, September-October 1952",
+"sources": [],
 "text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-38a57c6bd4",
 "source": "Chadwell memorandum to the Director of Central Intelligence, 'Flying Saucers', 11 September 1952",
+"sources": [],
 "text": "Chadwell wrote to the DCI that 'the flying saucer situation contains two elements of danger which... have national security implications', identifying psychological warfare potential and air defence vulnerability.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-31488bca3d",
 "source": "CIA Office of Scientific Intelligence memoranda, 1952; Haines, CIA Studies in Intelligence 1997",
+"sources": [],
 "text": "CIA officials proposed a study group to analyse and systematise the factors and recommended MIT's Project Lincoln or Caltech as venues, leading to the January 1953 Robertson Panel.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c747574d4d",
 "source": "Project Blue Book case files, NARA RG 341; NICAP document archive files 1952_07_19_US_DC_Radar_968_970.pdf and 1952_07_19_US_DC_radar_965_966.pdf",
+"sources": [
+{
+"id": "nara-rg-341",
+"locator": null,
+"title": "NARA Record Group 341"
+}
+],
 "text": "Blue Book case documentation for the 19 July 1952 Washington radar events survives in the declassified record.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "event",

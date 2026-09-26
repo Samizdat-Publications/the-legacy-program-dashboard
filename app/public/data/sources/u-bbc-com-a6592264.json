@@ -1,0 +1,170 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"claimTier": 1,
+"id": "e-4dc9193a60",
+"label": "",
+"note": "The transfer obligation is what links them. Portaria no. 551/GC3 of 9 August 2010, Art. 3, requires CENDOC to send originals to the Arquivo Nacional 'periodicamente', which is why the fund has no terminal year. The operative text is transcribed in a federal court judgment, and the DOU publication is attested by citation in a Chamber of Deputies information requirement.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil"
+},
+"b": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 2,
+"id": "e-ae7eaf4ee8",
+"label": "The minister's press conference was given from the capital",
+"note": "Moreira Lima convened the 23 May 1986 press conference as Minister of Aeronautics with the pilots and controllers present. Tier 2 on the location specifically: the sourcing confirms the press conference, the minister and the date, and the ministry sat in Brasília, but no source obtained in this pass names the room.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 2,
+"id": "e-e6ce9f04c9",
+"label": "held the 23 May 1986 press conference stating the Air Force had no explanation",
+"note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"b": {
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+},
+"claimTier": 2,
+"id": "e-8268e44c49",
+"label": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
+"note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 2,
+"id": "e-d498250a6e",
+"label": "transferred its entire UAP holding and disclaimed competence",
+"note": "The Air Force told BBC Brasil that all available material has gone to the Arquivo Nacional and that it has no specialists able to investigate or opine on the phenomena.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 1,
+"id": "e-aa8f9075a2",
+"label": "Moreira Lima was Minister of Aeronautics, the FAB's own political head",
+"note": "Octávio Júlio Moreira Lima held the Ministério da Aeronáutica, the ministry of which the Força Aérea Brasileira was the service arm, at the time of the 19 May 1986 engagement and of the 23 May 1986 press conference at which he produced the intercept pilots and the controllers and said the armed forces had no technical explanation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 2,
+"id": "e-51f0be32a0",
+"label": "declassified into the National Archives on 25 September 2009",
+"note": "Released 23 years after the minister promised a dossier in 30 days.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-bbc-com-a6592264",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "BBC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+{
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+},
+{
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+{
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+{
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+{
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
+"node": null,
+"title": "BBC Brasil",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.bbc.com/portuguese/brasil-59953278"
+]
+}

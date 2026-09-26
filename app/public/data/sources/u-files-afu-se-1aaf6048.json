@@ -1,0 +1,102 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "betty-cash",
+"label": "Betty Cash"
+},
+"b": {
+"cls": "event",
+"id": "cash-v-united-states",
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
+},
+"claimTier": 1,
+"id": "e-ee2256ce2d",
+"label": "Lead named plaintiff",
+"note": "Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, No. H-84-348, S.D. Tex., Houston Division, dismissed 21 August 1986 by Judge Ross N. Sterling.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "cash-v-united-states",
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
+},
+"b": {
+"cls": "person",
+"id": "betty-cash",
+"label": "Betty Cash"
+},
+"claimTier": 1,
+"id": "e-2a34e96ccd",
+"label": "The United States denied ownership of the object and the aircraft",
+"note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+"b": {
+"cls": "event",
+"id": "cash-v-united-states",
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
+},
+"claimTier": 1,
+"id": "e-ad17c45c36",
+"label": "The domain's only two federal dockets, twenty years apart",
+"note": "Cash (1984-1986) sought damages and was dismissed on the pleadings and summary judgment; Kean (2003-2009) sought records and obtained a finding of inadequate search plus a supervised re-search. The record case succeeded where the injury case did not.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-files-afu-se-1aaf6048",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "files.afu.se",
+"listedOn": [
+{
+"cls": "person",
+"id": "betty-cash",
+"label": "Betty Cash"
+},
+{
+"cls": "event",
+"id": "cash-v-united-states",
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
+},
+{
+"cls": "location",
+"id": "l-huffman-tx",
+"label": "Huffman / Dayton, Texas"
+},
+{
+"cls": "person",
+"id": "john-schuessler",
+"label": "John F. Schuessler"
+},
+{
+"cls": "domain",
+"id": "d-litigation",
+"label": "Litigation"
+},
+{
+"cls": "domain",
+"id": "d-medical",
+"label": "Medical & Injury Effects"
+}
+],
+"node": null,
+"title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
+"topics": [],
+"type": "document",
+"urls": [
+"https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+]
+}

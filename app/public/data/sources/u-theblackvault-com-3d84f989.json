@@ -1,0 +1,95 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3b0c4690e1",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', releases of 55, 130 and 130 pages, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18",
+"text": "A negative FOIA result worth carrying: The Black Vault, which pursued FBI records on United Nuclear from November 2018 and received three releases totalling 315 pages, states that 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', and comments that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ec2444a1aa",
+"locator": null,
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"sourceText": "The Black Vault document archive and case files, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ and https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"text": "It is the custody point for three separate parts of the Lazar record: the FBI FOIA releases on United Nuclear Scientific Supplies, pursued from November 2018 and delivered in three releases of 55, 130 and 130 pages; the Laingsburg, Michigan police report on the 19 July 2017 search, obtained by Tim McMillan under a local open-records request; and Stanton Friedman's own 1997 article on Lazar, in the Stanton Friedman Collection.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ee41ef3e9d",
+"locator": null,
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"sourceText": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18",
+"text": "A negative FOIA result it records and flags: 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', with the site's own observation that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 1,
+"id": "e-249be19a29",
+"label": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
+"note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-3d84f989",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+{
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+}
+],
+"node": null,
+"title": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear'",
+"topics": [
+{
+"claims": [
+"c-ec2444a1aa",
+"c-ee41ef3e9d"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-3b0c4690e1"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/"
+]
+}

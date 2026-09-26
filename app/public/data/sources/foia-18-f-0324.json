@@ -1,0 +1,450 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-8cb31106c6",
+"locator": "final response 17 August 2022",
+"node": "elizondo-resignation-letter-1",
+"nodeLabel": "Elizondo Resignation Letter #1, 3 October 2017",
+"sourceText": "OSD/JS FOIA 18-F-0324, final response 17 August 2022",
+"text": "Reads in part: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4aa992e258",
+"locator": null,
+"node": "elizondo-resignation-letter-2",
+"nodeLabel": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+"sourceText": "OSD/JS FOIA 18-F-0324",
+"text": "Contains the passage: 'Despite overwhelming evidence at both the unclassified and classified levels, certain individuals in the Department remain staunchly opposed to further research on what could be tactical threats.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5df4646487",
+"locator": null,
+"node": "elizondo-resignation-letter-2",
+"nodeLabel": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+"sourceText": "OSD/JS FOIA 18-F-0324",
+"text": "Contains: 'The Department must take seriously the many accounts by the Navy and other services of unusual aerial systems interfering with military weapon platforms and displaying beyond next generation capabilities.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-61960ca93c",
+"locator": null,
+"node": "garry-reid",
+"nodeLabel": "Garry P. Reid",
+"sourceText": "OSD/JS FOIA 18-F-0324",
+"text": "His memorandum answered six questions from the Secretary of Defense's office covering the abruptness of the resignation, the 'uncertain provenance' of the second resignation letter, Elizondo's claim of secretly working for the Secretary, video handling, and the TTSA press conference.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-704becfaad",
+"locator": "released 17 August 2022",
+"node": "garry-reid",
+"nodeLabel": "Garry P. Reid",
+"sourceText": "OSD/JS FOIA 18-F-0324, released 17 August 2022",
+"text": "Wrote memoranda in December 2017 asserting Elizondo served as an action officer from 2008 to 2017 with no documented AATIP responsibilities, that AATIP terminated in 2012, and that Elizondo 'aggrandized his role'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0b3d56decc",
+"locator": null,
+"node": "garry-reid-memo-2017",
+"nodeLabel": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+"sourceText": "OSD/JS FOIA 18-F-0324",
+"text": "Answers six questions from the Secretary of Defense's office, including one on the 'uncertain provenance' of Elizondo's second resignation letter.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6f6a03a0e0",
+"locator": null,
+"node": "garry-reid-memo-2017",
+"nodeLabel": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+"sourceText": "OSD/JS FOIA 18-F-0324",
+"text": "States that Elizondo 'aggrandized his role' and that 'to the best of [Reid's] knowledge, [Elizondo] had no job responsibilities related to the AATIP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d065f90598",
+"locator": "as analysed by The Black Vault",
+"node": "garry-reid-memo-2017",
+"nodeLabel": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+"sourceText": "OSD/JS FOIA 18-F-0324, as analysed by The Black Vault",
+"text": "Records that Elizondo sought assistance in August 2017 to get the videos declassified, that AFOSI examined possible mishandling of classified material, and that AFOSI concluded the videos were unclassified.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8b841c62f8",
+"locator": null,
+"node": "james-mattis",
+"nodeLabel": "James N. Mattis",
+"sourceText": "OSD/JS FOIA 18-F-0324",
+"text": "Garry Reid's memorandum responding to six questions about Elizondo was directed to the Secretary of Defense in late December 2017.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-561fad2cb0",
+"locator": "timeline entry",
+"node": "john-garrity",
+"nodeLabel": "John Garrity",
+"sourceText": "The Black Vault, OSD/JS FOIA case 18-F-0324 timeline entry",
+"text": "Identified as the supervisor to whom Elizondo's 3 October 2017 resignation letter was addressed; Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered directly to DoD rather than submitted through standard channels.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-71708680e4",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "DoD FOIA final response letter, 18-F-0324",
+"text": "FOIA case 18-F-0324 was requested on 17 December 2017 and received its final response on 17 August 2022 from Stephanie L. Carr, Chief of the DoD Freedom of Information Division, releasing eight responsive pages with (b)(6) redactions.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0fcad99b04",
+"locator": "final response 17 August 2022",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)",
+"text": "His title at resignation was 'Director, National Programs Special Management Staff' within OUSD(I), and his resignation was effective 4 October 2017.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-0c96e4918d",
+"locator": null,
+"node": "ousdi",
+"nodeLabel": "Office of the Under Secretary of Defense for Intelligence",
+"sourceText": "Elizondo resignation letter, OSD/JS FOIA 18-F-0324",
+"text": "Elizondo's title within OUSD(I) at resignation was Director, National Programs Special Management Staff, effective date of resignation 4 October 2017.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-68cd07baa9",
+"locator": null,
+"node": "foia-18-f-0324",
+"nodeLabel": "OSD/JS FOIA Case 18-F-0324",
+"sourceText": "DoD FOIA final response letter for case 18-F-0324",
+"text": "Requested 17 December 2017; final response issued 17 August 2022 by Stephanie L. Carr, Chief, Freedom of Information Division, DoD, releasing eight responsive pages with (b)(6) redactions.",
+"tier": 1
+}
+],
+"date": "2017",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "elizondo-resignation-letter-1",
+"label": "Elizondo Resignation Letter #1, 3 October 2017"
+},
+"b": {
+"cls": "event",
+"id": "ttsa-launch-2017",
+"label": "To The Stars Academy public launch, 11 October 2017"
+},
+"claimTier": 3,
+"id": "e-7dc72d0a13",
+"label": "Seven days from resignation effective date to corporate launch",
+"note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "elizondo-resignation-letter-2",
+"label": "Elizondo Resignation Memorandum for Record, 4 October 2017"
+},
+"b": {
+"cls": "person",
+"id": "james-mattis",
+"label": "James N. Mattis"
+},
+"claimTier": 2,
+"id": "e-d5edd9b01d",
+"label": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
+"note": "The letter asks the Secretary to 'ask the hard questions'. Garry Reid's memo later questioned its 'uncertain provenance' — while the letter itself sits in the Department's own FOIA release.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "garry-reid",
+"label": "Garry P. Reid"
+},
+"b": {
+"cls": "document",
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+},
+"claimTier": 1,
+"id": "e-81fcba39b6",
+"label": "Author of both December 2017 memoranda",
+"note": "Reid wrote the memorandum for record and the memorandum for the Secretary asserting Elizondo 'aggrandized his role'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-f32d2ac604",
+"label": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'",
+"note": "The first written denial of Elizondo's program role, produced inside OUSD(I) within a week of the NYT story and routed to the Secretary of Defense. Every later public denial restates it.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-mattis",
+"label": "James N. Mattis"
+},
+"b": {
+"cls": "person",
+"id": "garry-reid",
+"label": "Garry P. Reid"
+},
+"claimTier": 1,
+"id": "e-0b688dc499",
+"label": "Secretary's office put six questions to Reid about Elizondo, Dec 2017",
+"note": "Rather than engaging Elizondo, the Secretary's office tasked the Director for Defense Intelligence to explain him. Reid's answer is the origin of the Department's counter-narrative.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-94a53da296",
+"label": "one private FOIA operation supplies the documentary base the rest of the substrate runs on",
+"note": "Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "document",
+"id": "foia-18-f-0324",
+"label": "OSD/JS FOIA Case 18-F-0324"
+},
+"claimTier": 1,
+"id": "e-0db20c6da4",
+"label": "Requested 17 Dec 2017; final response 17 Aug 2022",
+"note": "Four years and eight months to release eight pages describing an employee's resignation, during which the Department repeatedly characterised that employee in public.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "elizondo-resignation-letter-1",
+"label": "Elizondo Resignation Letter #1, 3 October 2017"
+},
+"claimTier": 1,
+"id": "e-113c095695",
+"label": "Author, 3 October 2017",
+"note": "Establishes his exact title and departure date in his own words on Departmental paper.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "elizondo-resignation-letter-2",
+"label": "Elizondo Resignation Memorandum for Record, 4 October 2017"
+},
+"claimTier": 1,
+"id": "e-c3334edce8",
+"label": "Author, 4 October 2017; hand-delivered to the Secretary's office",
+"note": "The protest letter naming Departmental opposition to further UAP research as his reason for leaving.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"claimTier": 1,
+"id": "e-b46b67f432",
+"label": "served in OUSD(I) through October 2017",
+"note": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"b": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"claimTier": 1,
+"id": "e-d9faad99ea",
+"label": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
+"note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "foia-18-f-0324",
+"identifiers": [
+"FOIA case 18-F-0324"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "elizondo-resignation-letter-1",
+"label": "Elizondo Resignation Letter #1, 3 October 2017"
+},
+{
+"cls": "document",
+"id": "elizondo-resignation-letter-2",
+"label": "Elizondo Resignation Memorandum for Record, 4 October 2017"
+},
+{
+"cls": "person",
+"id": "garry-reid",
+"label": "Garry P. Reid"
+},
+{
+"cls": "document",
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+},
+{
+"cls": "person",
+"id": "james-mattis",
+"label": "James N. Mattis"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+{
+"cls": "document",
+"id": "foia-18-f-0324",
+"label": "OSD/JS FOIA Case 18-F-0324"
+}
+],
+"node": {
+"cls": "document",
+"id": "foia-18-f-0324",
+"label": "OSD/JS FOIA Case 18-F-0324"
+},
+"title": "OSD/JS FOIA Case 18-F-0324",
+"topics": [
+{
+"claims": [
+"c-8cb31106c6",
+"c-4aa992e258",
+"c-5df4646487",
+"c-61960ca93c",
+"c-704becfaad",
+"c-0b3d56decc",
+"c-6f6a03a0e0",
+"c-d065f90598",
+"c-0fcad99b04"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-71708680e4",
+"c-68cd07baa9"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-0fcad99b04"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-0fcad99b04"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-0c96e4918d"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+},
+{
+"claims": [
+"c-0fcad99b04"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+}
+],
+"type": "document",
+"urls": []
+}

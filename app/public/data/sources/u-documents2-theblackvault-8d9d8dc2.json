@@ -1,0 +1,201 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ae4e5ff598",
+"locator": null,
+"node": "richard-obousy",
+"nodeLabel": "Richard K. Obousy",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+"text": "The released cover page reads \"2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001,\" Acquisition Threat Support series, with the author line redacted under (b)(6).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-190742f607",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+"text": "ITS OWN SUMMARY, VERBATIM, and what it claims is a possibility and not a result: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions is a tantalizing possibility, and one that is most certainly worthy of deeper investigation. Control of this higher dimensional space may be a source of technological control over the dark energy density and could ultimately play a role in the development of exotic propulsion technologies; specifically, a warp drive. Of course, this may not be actualized until many years in the future...' Its closing sentence: '...if we may make predictions based on the innovative history of scientific pioneers of the past, then it seems entirely possible that the creative minds of the future may indeed find ways to accomplish what, to us, may seem like magic.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3e2436b459",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+"text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. At 0.01c: -3.03 x 10^46 J and -1.00 x 10^38 J. At 0.5c: -7.59 x 10^49 J and -2.50 x 10^41 J. AT LIGHT SPEED: -3.03 x 10^50 J and -1.00 x 10^42 J. At twice light speed: -1.21 x 10^51 J and -4.00 x 10^42 J. The document states that on its model 'energy requirements are reduced immensely when compared to the calculations of Lobo and Visser' and that 'All calculations are order-of-magnitude'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6981a4c126",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+"text": "The released cover page reads \"2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001.\" The author line is redacted under (b)(6).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-eb40bd84a5",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+"text": "Its reference 1 is the source document of the entire idea, printed as: 'Alcubierre, M., \"The warp drive: hyper-fast travel within general relativity.\" Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77.' Its introduction states that 'a 1994 paper by Miguel Alcubierre placed the idea on a more solid theoretical footing'. THE DOCUMENT CLAIMS NO EXPERIMENT, NO APPARATUS AND NO OBSERVATION, and a DIA cover page and document number do not change that.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-87a2bb0359",
+"label": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "alcubierre-1994",
+"label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-b84393e85b",
+"label": "Reference 1 of the DIRD, and the source of the idea it builds on",
+"note": "The DIRD prints the citation as 'Alcubierre, M., \"The warp drive: hyper-fast travel within general relativity.\" Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77' and states in its introduction that the 1994 paper 'placed the idea on a more solid theoretical footing'.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-840ee24c8d",
+"label": "published by DIA as DIA-08-1004-001, Acquisition Threat Support series",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-63714edf5d",
+"label": "co-author per EarthTech International's own citation",
+"note": "EarthTech International's publications page cites the paper as \"Obousy, R. K. and Davis, E. W. (2010).\" Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-856311815c",
+"label": "author of record on the DIA list; lead author",
+"note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-b3b685de73",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 April 2010 on the cover. 34 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-8d9d8dc2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+}
+],
+"node": null,
+"title": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)",
+"topics": [
+{
+"claims": [
+"c-190742f607",
+"c-3e2436b459"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+},
+{
+"claims": [
+"c-190742f607",
+"c-3e2436b459"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+]
+}

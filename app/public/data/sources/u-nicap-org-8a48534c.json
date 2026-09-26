@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"claimTier": 2,
+"id": "e-5091e6585a",
+"label": "Battelle performed the statistical analysis under contract",
+"note": "Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"claimTier": 1,
+"id": "e-5c6dff3fc3",
+"label": "ATIC issued Special Report No. 14",
+"note": "Issued 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79 — the largest statistical study of UFO reports the US government ever produced.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-c46cc80ccf",
+"label": "19.7 per cent of analysed objects were unknowns, rising with report quality",
+"note": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 3,
+"id": "e-780a0151a2",
+"label": "Both official studies buried an unexplained residue under dismissive conclusions",
+"note": "SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-8a48534c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+{
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+}
+],
+"node": null,
+"title": "Project Blue Book Special Report No. 14",
+"topics": [],
+"type": "document",
+"urls": [
+"http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+]
+}

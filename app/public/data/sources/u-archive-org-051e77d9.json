@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d8cd385ceb",
+"locator": null,
+"node": "donald-keyhoe",
+"nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"sourceText": "CIA memorandum for record, 'Comments on Letters Dealing with Unidentified Flying Objects', CIA reading room document 0005516043, reading-room date 4 April 1958, https://archive.org/details/cia-readingroom-document-0005516043",
+"text": "The CIA recorded a standing rule for handling him. A memorandum for record on 'Comments on Letters Dealing with Unidentified Flying Objects' notes that the Air Force was 'most insistent' on answering his letters itself, that 'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information', and concludes: 'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO's.' The scan's OCR is imperfect and renders his surname inconsistently; the quoted sentences were legible.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-11e74ee7a1",
+"label": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
+"note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-aa396ff8f5",
+"label": "The Air Force insisted on being the single channel for his inquiries",
+"note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-archive-org-051e77d9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+}
+],
+"node": null,
+"title": "CIA reading room document 0005516043",
+"topics": [
+{
+"claims": [
+"c-d8cd385ceb"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-0005516043"
+]
+}

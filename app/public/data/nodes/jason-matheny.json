@@ -36,20 +36,26 @@
 {
 "id": "c-dcbabdfe26",
 "source": "RAND Corporation profile page",
+"sources": [],
 "text": "Matheny is president and CEO of RAND; his prior posts include Director of IARPA and Deputy Assistant to the President for Technology and National Security with the Office of Science and Technology Policy.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5762899738",
 "source": "RAND publication pages for DRU-1571 and RRA2475-1",
+"sources": [],
 "text": "RAND published George Kocher's 'UFOs: What To Do?' as draft DRU-1571 in November 1968, and cited it again in its own 2023 report RRA2475-1 on public UAP reports.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-15906049c1",
 "source": "Rep. Eric Burlison, quoted by Cybernews, 25 June 2026, and NewsNation, 15 May 2026",
+"sources": [],
 "text": "Burlison has stated that his investigation is 'following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

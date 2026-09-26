@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c829e7fe13",
+"locator": null,
+"node": "mark-skidmore",
+"nodeLabel": "Mark Skidmore",
+"sourceText": "https://mark-skidmore.com/about/",
+"text": "Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-1a1251d11c",
+"locator": null,
+"node": "michigan-state",
+"nodeLabel": "Michigan State University",
+"sourceText": "https://mark-skidmore.com/about/",
+"text": "Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mark-skidmore",
+"label": "Mark Skidmore"
+},
+"b": {
+"cls": "institution",
+"id": "michigan-state",
+"label": "Michigan State University"
+},
+"claimTier": 2,
+"id": "e-d43ad879f6",
+"label": "Morris Chair in State and Local Government Finance and Policy",
+"note": "Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-mark-skidmore-com-01334d95",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mark-skidmore.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "mark-skidmore",
+"label": "Mark Skidmore"
+},
+{
+"cls": "institution",
+"id": "michigan-state",
+"label": "Michigan State University"
+}
+],
+"node": null,
+"title": "Mark Skidmore, About",
+"topics": [
+{
+"claims": [
+"c-c829e7fe13",
+"c-1a1251d11c"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "web page",
+"urls": [
+"https://mark-skidmore.com/about/"
+]
+}

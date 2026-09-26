@@ -1,0 +1,145 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-10f54f333d",
+"locator": null,
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf",
+"text": "Written testimony filed with the House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-e399ff9ed0",
+"label": "sworn witness",
+"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+"b": {
+"cls": "event",
+"id": "vandenberg-2003",
+"label": "Vandenberg AFB Incidents (2003-2005)"
+},
+"claimTier": 2,
+"id": "e-b4ba0b2fe1",
+"label": "Military police witness and report recipient at Vandenberg, 2003-2005",
+"note": "Nuccetelli testified to reports of a glowing red square over two missile defense sites on 14 October 2003 and a triangular craft over the main base in 2005.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+"b": {
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+},
+"claimTier": 2,
+"id": "e-cb416a4308",
+"label": "Nuccetelli served in security forces at Vandenberg 2003-2005",
+"note": "His sworn written testimony of 9 September 2025 describes the 14 October 2003 red square over two missile defense sites, a rectangular craft larger than a football field, a threatened witness, and a 2005 triangular craft.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "vandenberg-2003",
+"label": "Vandenberg AFB Incidents (2003-2005)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-60e8d11db2",
+"label": "Nuccetelli says the Air Force records are now held by AARO and the FBI",
+"note": "'Official Air Force records documenting it are now held by AARO and the FBI.' A specific, FOIA-targetable custody claim that neither agency has confirmed or denied.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-a60aa183a2",
+"label": "The Vandenberg incidents entered the congressional record in September 2025",
+"note": "Nuccetelli named AARO and the FBI as custodians of the official Air Force records for specific dated incidents at a named installation - a checkable custody claim Congress has not pursued to production.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-8ae9b6cf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+{
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+{
+"cls": "event",
+"id": "vandenberg-2003",
+"label": "Vandenberg AFB Incidents (2003-2005)"
+},
+{
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+}
+],
+"node": null,
+"title": "House Oversight - Nuccetelli written testimony (PDF)",
+"topics": [
+{
+"claims": [
+"c-10f54f333d"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf"
+]
+}

@@ -1,0 +1,55 @@
+{
+"archived": [
+"https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-michigan-state",
+"label": "Michigan State University, East Lansing, Michigan"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-e46d9ab69e",
+"label": "site of the DoD unsupported-adjustment study",
+"note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-dodig-mil-3947710f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DoD Inspector General",
+"listedOn": [
+{
+"cls": "document",
+"id": "dodig-2016-113",
+"label": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+{
+"cls": "location",
+"id": "l-michigan-state",
+"label": "Michigan State University, East Lansing, Michigan"
+}
+],
+"node": null,
+"title": "DoD OIG report DODIG-2016-113",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/"
+]
+}

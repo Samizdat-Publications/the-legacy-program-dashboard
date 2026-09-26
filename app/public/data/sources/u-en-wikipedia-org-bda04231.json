@@ -1,0 +1,113 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c2a07dc2ad",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Appointed 26 August 2024, succeeding acting director Timothy A. Phillips (December 2023 - 26 August 2024).",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d0b0920dcc",
+"locator": null,
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Kirkpatrick directed AARO from 20 July 2022 to 1 December 2023 and joined Oak Ridge National Laboratory in December 2023 as chief technology officer for defense and intelligence programs.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "institution",
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
+"claimTier": 1,
+"id": "e-6d09f96322",
+"label": "directs",
+"note": "Kosloski has led AARO since 26 August 2024; the Leaders page names no other official.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+"claimTier": 3,
+"id": "e-fe0196fcd3",
+"label": "former director at the laboratory that tests the specimens",
+"note": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 2,
+"id": "e-0f5ca30c0b",
+"label": "chief technology officer for defense and intelligence programs",
+"note": "The first AARO director joined Oak Ridge National Laboratory in December 2023 - the laboratory that performed both of AARO's published specimen analyses.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-bda04231",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "program",
+"id": "aoimsg",
+"label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "Wikipedia, All-domain Anomaly Resolution Office",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+]
+}

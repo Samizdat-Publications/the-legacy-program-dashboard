@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f7c62a579a",
+"locator": null,
+"node": "donald-keyhoe",
+"nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"sourceText": "CIA reading room document 0000015416, 'Inquiry by Major Donald E. Keyhoe (deleted)', reading-room date 4 January 1959, https://archive.org/details/cia-readingroom-document-0000015416",
+"text": "He put the question to the Director of Central Intelligence directly. An internal CIA memorandum of January 1959 quotes his memorandum of 13 March 1958 to the DCI asking whether CIA representatives had told UFO witnesses not to make their sightings public, and on what authority. The scan is partly illegible and no wording is quoted from it here.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-73414cf5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+}
+],
+"node": null,
+"title": "CIA reading room document 0000015416, Inquiry by Major Donald E. Keyhoe",
+"topics": [
+{
+"claims": [
+"c-f7c62a579a"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-0000015416"
+]
+}

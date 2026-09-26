@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 1,
+"id": "e-ec7ca4f118",
+"label": "Published the whistleblower brief naming the program",
+"note": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-public-news-c5fbf744",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "public.news",
+"listedOn": [],
+"node": null,
+"title": "https://www.public.news/p/pentagon-is-illegally-hiding-secret",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.public.news/p/pentagon-is-illegally-hiding-secret"
+]
+}

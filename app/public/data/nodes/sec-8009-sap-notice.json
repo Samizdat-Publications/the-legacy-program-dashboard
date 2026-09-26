@@ -7,14 +7,30 @@
 {
 "id": "c-c19ad93b66",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": null,
+"title": "Public Law 119-75"
+}
+],
 "text": "Section 8009, DoD Appropriations Act 2026: 'Funds appropriated by this Act may not be used to initiate, or materially modify the scope of, a special access program without prior notification 30 calendar days in advance to the congressional defense committees.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a2973c63d3",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": null,
+"title": "Public Law 119-75"
+}
+],
 "text": "Section 8009 binds only funds appropriated by that Act, so it does not reach an activity financed through contractor independent research and development reimbursement, through unvouchered CIA funds under 50 U.S.C. 3510, or through prior-year balances. Reasoning: the prohibition is drafted as a limitation on the use of that Act's appropriations, not as a general prohibition on unnotified SAPs.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

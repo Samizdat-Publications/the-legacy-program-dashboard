@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-d71cffea",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "wesley-watters",
+"label": "Wesley A. Watters"
+}
+],
+"node": null,
+"title": "Cloete, Watters, Little, Loeb & Lux, 'Preface: Instrumentation and Software for the Detection and Characterization of Unidentified Aerospace Phenomena', Journal of Astronomical Instrumentation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1142/S2251171723020014"
+]
+}

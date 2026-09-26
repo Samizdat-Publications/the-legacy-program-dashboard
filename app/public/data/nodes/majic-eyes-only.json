@@ -7,14 +7,18 @@
 {
 "id": "c-b4c8092bde",
 "source": "Ryan S. Wood, 'Majic Eyes Only' (2005)",
+"sources": [],
 "text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-395eb87a30",
 "source": "Inference from the book's stated method and citation base",
+"sources": [],
 "text": "The catalogue's credibility weightings should not be treated as a metric because the weighting function is not reproducible by a third party, and its source trail substantially recirculates Stringfield's anonymous informants and the Majestic Documents corpus. Reasoning: an index inherits the provenance of what it indexes.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

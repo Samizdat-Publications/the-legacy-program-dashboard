@@ -1,0 +1,124 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 2,
+"id": "e-9d2c3d8098",
+"label": "Green was CIA's monitor for the SRI psychoenergetics work",
+"note": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+"claimTier": 1,
+"id": "e-cf46504728",
+"label": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
+"note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 1,
+"id": "e-12505ae981",
+"label": "Puthoff founded and led the SRI psychoenergetics programme",
+"note": "CIA's Office of Technical Service funded the work from 1972; it was later sponsored by Army INSCOM and DIA under successive codenames.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 1,
+"id": "e-9083dc537b",
+"label": "Targ was co-principal investigator at SRI 1972-1982",
+"note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-nature-com-38629c62",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Nature",
+"listedOn": [
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "domain",
+"id": "d-consciousness",
+"label": "Consciousness & Observer Effects"
+},
+{
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+{
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ"
+},
+{
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+}
+],
+"node": null,
+"title": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nature.com/articles/251602a0"
+]
+}

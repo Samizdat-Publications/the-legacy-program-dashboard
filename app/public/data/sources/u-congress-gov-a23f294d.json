@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-072010735c",
+"label": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
+"note": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"claimTier": 1,
+"id": "e-88d8177da1",
+"label": "Sponsor of the reintroduced bill",
+"note": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-a23f294d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "Congress.gov - H.R.5060",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+]
+}

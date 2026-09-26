@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-gillibrand-senate-gov-5bfc82d8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Senate",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+{
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio"
+}
+],
+"node": null,
+"title": "Gillibrand & Rubio lead 16 senators on AARO funding",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/"
+]
+}

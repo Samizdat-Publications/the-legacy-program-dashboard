@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+},
+"claimTier": 1,
+"id": "e-ae8b3ba82c",
+"label": "Battelle held the Air Force contract designated Project Stork",
+"note": "Under Stork, Battelle performed the statistical analysis of Project Blue Book's case files that became Special Report No. 14.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 3,
+"id": "e-cf61c445f9",
+"label": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
+"note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-f88983c0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+{
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+{
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+}
+],
+"node": null,
+"title": "The Black Vault - Project Blue Book Special Report #14, May 5, 1955",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/"
+]
+}

@@ -1,0 +1,85 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+},
+"b": {
+"cls": "program",
+"id": "sepra",
+"label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+},
+"claimTier": 2,
+"id": "e-de9cd7c8cd",
+"label": "renamed SEPRA in 1988",
+"note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "sepra",
+"label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 2,
+"id": "e-dd7bf56fd3",
+"label": "renamed GEIPAN in 2005",
+"note": "Jacques Patenet succeeded Velasco under the GEIPAN name.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-46121987",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cnes",
+"label": "Centre National d'Études Spatiales (CNES)"
+},
+{
+"cls": "person",
+"id": "claude-poher",
+"label": "Dr Claude Poher"
+},
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+{
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+},
+{
+"cls": "person",
+"id": "jj-velasco",
+"label": "Jean-Jacques Velasco"
+},
+{
+"cls": "program",
+"id": "sepra",
+"label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+}
+],
+"node": null,
+"title": "GEIPAN - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/GEIPAN"
+]
+}

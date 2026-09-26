@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "af-atic-film-0352",
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')"
+},
+"b": {
+"cls": "program",
+"id": "beacon-hill-study",
+"label": "Project Beacon Hill"
+},
+"claimTier": 3,
+"id": "e-25c09fade4",
+"label": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
+"note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
+"claimTier": 1,
+"id": "e-de331ad177",
+"label": "Author of the 22 May 2026 production request to MITRE",
+"note": "Burlison, a member of the House Oversight Task Force on the Declassification of Federal Secrets, issued the first congressional records demand ever addressed to an FFRDC operator on UAP.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "program",
+"id": "beacon-hill-study",
+"label": "Project Beacon Hill"
+},
+"b": {
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+"claimTier": 2,
+"id": "e-06aa97393e",
+"label": "Beacon Hill was convened in the MIT/Lincoln Laboratory complex for the Air Force",
+"note": "The study shaped US overhead reconnaissance and its records sit in institutional rather than federal custody.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-58a94cc465",
+"label": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
+"note": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-burlison-house-gov-aca15fd4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "program",
+"id": "beacon-hill-study",
+"label": "Project Beacon Hill"
+},
+{
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+}
+],
+"node": null,
+"title": "Burlison press release",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+]
+}

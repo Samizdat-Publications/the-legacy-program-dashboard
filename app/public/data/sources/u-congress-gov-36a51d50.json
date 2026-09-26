@@ -1,0 +1,521 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-9c868f4cb4",
+"label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished",
+"note": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "alexandria-ocasio-cortez",
+"label": "Alexandria Ocasio-Cortez"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-c3ec2b43b3",
+"label": "Established that contractors have no UAP reporting duty and IR&D escapes notification",
+"note": "AOC pushed past the phenomenon to the notification architecture, establishing that SAP and CAP equities flow through Periodic Program Review while contractor IR&D is internal and unreported - the legal shape of an invisible program.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-3acc8df57b",
+"label": "Established the April 2022 Kirkpatrick conversation and the DOPSR clearance on the record",
+"note": "Luna's questioning put two facts in the transcript that AARO's later messaging has to work around: that Grusch briefed Kirkpatrick in a classified setting before Kirkpatrick led AARO, and that DoD cleared his public statements in advance.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"claimTier": 1,
+"id": "e-a10c1da52c",
+"label": "Co-witness, 26 July 2023 hearing panel",
+"note": "Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"claimTier": 1,
+"id": "e-bbc013b4fe",
+"label": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
+"note": "Grusch testified he 'became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general.' The Debrief dates the filing 25 May 2022 and identifies counsel.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-09073d7b15",
+"label": "sworn witness",
+"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-0bc7743774",
+"label": "GS-15 Senior GEOINT Capabilities Requirements Officer; agency co-lead for UAP analysis",
+"note": "From November 2021 to April 2023 Grusch was a GS-15 at NGA and, in his sworn words, 'my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well as reporting to the UAP Task Force and eventually, once it was established, the All-Domain Anomaly Resolution Office.' He also testified that reviewing overhead collection of such events was one of his primary NGA tasks.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"claimTier": 1,
+"id": "e-40b1d3b3a8",
+"label": "Co-witness, 26 July 2023 hearing panel",
+"note": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 1,
+"id": "e-696b6689cb",
+"label": "Classified conversation April 2022, before Kirkpatrick took over AARO",
+"note": "Grusch swore: 'Him and I had a classified conversation in April 2022 before he took over AARO in July 2022 and I provided him some concerns I had.' Kirkpatrick has never publicly denied the meeting, and no AARO line of inquiry visibly followed from it.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "boeing",
+"label": "The Boeing Company"
+},
+"claimTier": 3,
+"id": "e-06746fc4a7",
+"label": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
+"note": "Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 1,
+"id": "e-c49d93a157",
+"label": "NRO representative to the UAP Task Force, 2019-2021",
+"note": "Grusch swore he was a member of the UAP Task Force from 2019 to 2021 in his Air Force NRO reservist capacity; his published biography and The Debrief both record the same billet. This is the seat from which he was tasked to inventory SAPs and CAPs.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 3,
+"id": "e-88fa685315",
+"label": "Corroborating NASIC officer sits at the installation at the center of the legacy custody claims",
+"note": "Grusch testified he knows the exact locations of held material and provided them to the Inspector General; the one corroborator whose duty station is public serves at NASIC, Wright-Patterson. Reasoning: the geography is suggestive and no document places Grusch's locations at Wright-Patterson.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "glenn-grothman",
+"label": "Glenn S. Grothman"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-8ffb2d99eb",
+"label": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
+"note": "Grothman's question about what information Grusch believed was hidden produced the only program-category language in the unclassified record.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-769d9ca402",
+"label": "Fourteen months from urgent-concern determination to public testimony",
+"note": "The ICIG found the complaint credible and urgent in July 2022; Grusch testified publicly in July 2023 only after leaving government and clearing his statements through DOPSR. The intervening year is the period the reprisal complaint covers.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-84c61e5c3d",
+"label": "Irreconcilable executive-branch findings on the same allegations",
+"note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+"b": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"claimTier": 1,
+"id": "e-83b775741d",
+"label": "Determined the complaint credible and urgent, July 2022",
+"note": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-557ee69215",
+"label": "Asked whether contractor overcharging funds the concealed programs",
+"note": "Moskowitz's questioning produced the only sworn statement on how an unacknowledged program is paid for: misappropriation plus contractor internal research and development money that carries no congressional notification duty.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-d5e9c28c92",
+"label": "UAP Task Force Director tasked Grusch to identify all SAPs and CAPs (2019)",
+"note": "Grusch swore that in 2019 'the UAP Task Force Director asked me to identify all special access programs and controlled access programs... we needed to satisfy our congressionally mandated mission.' Stratton is the individual publicly identified as directing that effort in that period. Grusch has never made the identification himself, so this is a reasoned inference, not a documented one.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-f7d32f769c",
+"label": "Elicited the nonhuman biologics answer and the offer of a witness list",
+"note": "Mace drew the biologics testimony and Grusch's offer of 'a specific cooperative and hostile witness list of specific individuals' to be provided after the hearing. The list has never surfaced publicly.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-4166ab222b",
+"label": "NDA waiver regime addresses the exact obstacle Grusch's witnesses faced",
+"note": "Grusch swore in 2023 that witnesses would come forward only behind closed doors and with assurances that breaking NDAs would not be prosecuted. The July 2026 directive waives UAP-related NDAs for disclosures to cleared AARO or PURSUE officials. Reasoning: the directive's mechanism maps directly onto the barrier Grusch described under oath, though no document ties the two.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-7272153b37",
+"label": "Elicited the 40-witnesses-over-4-years answer and the protected disclosure chain",
+"note": "Garcia's questioning established that Grusch had the firsthand-knowledge individuals file their own protected disclosures with the Inspector General - the fact that makes the witness chain more than hearsay.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-ac32669243",
+"label": "First television interview; origin of the biologics and dead pilots statements",
+"note": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "debrief-2023-06-05",
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-16a9578337",
+"label": "Publication to sworn testimony in fifty-one days",
+"note": "The Debrief published 5 June 2023; the House Oversight subcommittee took sworn testimony 26 July 2023. The speed is itself a data point about congressional appetite in that window.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+},
+"b": {
+"cls": "institution",
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+"claimTier": 1,
+"id": "e-35fcaff806",
+"label": "Inspector General of the Intelligence Community, 2021-present",
+"note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-992a359d62",
+"label": "Elicited the harm, injury and murder answers; recorded the SCIF denial",
+"note": "Burchett drew Grusch's 'Yes, personally' on knowledge of people harmed in the concealment effort and his careful non-answer on murder, then stated on the record that members had been denied SCIF access.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-36a51d50",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "alexandria-ocasio-cortez",
+"label": "Alexandria Ocasio-Cortez"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "person",
+"id": "glenn-grothman",
+"label": "Glenn S. Grothman"
+},
+{
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+{
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+{
+"cls": "institution",
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+{
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+{
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+{
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+{
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "House Oversight hearing transcript, Serial No. 118-53",
+"topics": [],
+"type": "transcript",
+"urls": [
+"https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+]
+}

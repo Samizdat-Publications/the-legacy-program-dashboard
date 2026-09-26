@@ -7,62 +7,142 @@
 {
 "id": "c-9c03ae0e10",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": null,
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "Recovered in full from Internet Archive captures of esd.whs.mil: the 18 Jun 2015 / Change 1 (12 Feb 2018) text at web.archive.org/web/20191018064106/, and the Change 2 (effective 30 Sep 2020) text at web.archive.org/web/20201018165753/ under the filename 520507_vol01.pdf. Both are 49-page unclassified PDFs cleared for public release. The 520507_vol1.pdf and 520507_vol01.pdf paths now return 404 on the live esd.whs.mil site.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5076d68d5b",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": null,
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "Purpose para 1.b.(1): the volume 'Assigns responsibilities, implements policy established in DoD Instruction (DoDI) 5205.11, and describes the general procedures for the administration of DoD SAP security,' and (2) 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.' The 'NISPOM Supplement Overprint' -- the historic classified-annex mechanism for SAP industrial security -- was folded into this public manual in 2015.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d26ad8ffe8",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": null,
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "Enclosure 2, para 3 assigns the Director, DoD SAPCO -- 'Under the authority, direction, and control of the Deputy Secretary of Defense' -- the roles of 'DoD designated proponent for developing and implementing policies and procedures for DoD SAP execution, management, and administration' and 'DoD single point of Congressional liaison concerning SAPs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-99cfd53598",
 "source": "DoDM 5205.07 Volume 1, Glossary Part II",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Glossary Part II",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07-V1 Glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-aa306966f4",
 "source": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.c",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Enclosure 2, para 2.c",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07-V1 Enclosure 2 para 2.c: 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fe2d6d3411",
 "source": "DoDM 5205.07 Volume 1, Enclosure 5, para 1",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Enclosure 5, para 1",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07-V1 Enclosure 5 provides that HVSACO marking is used, among other cases, '(5) When using a SAP nickname for an unacknowledged SAP', and that 'HVSACO is not a classification'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8f96b4e208",
 "source": "DoDM 5205.07 Volume 1, Enclosure 10, para 5",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Enclosure 10, para 5",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07-V1 Enclosure 10 provides that 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ae32fb4077",
 "source": "DoDM 5205.07 Volume 1, Enclosure 4 para 4.c and Enclosure 2 para 5.c",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Enclosure 4 para 4.c and Enclosure 2 para 5.c",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07-V1 Enclosure 4 provides that for co-utilization agreements 'the responsible organization will be identified for executing security cognizance with a carved-out SAP', and requires DoD components to coordinate with the DSS CI Directorate for threat cross-sharing 'when the SAP is carved out of DSS oversight'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bc374d6360",
 "source": "DoDM 5205.07 Volume 1, Enclosure 4, para 3.a",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Enclosure 4, para 3.a",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07-V1 requires that fraud, waste, abuse and corruption reporting involving SAP information 'be accomplished through SAP channels' and that 'Collateral FWAC reporting channels must not be used for SAP information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dd08634ced",
 "source": "DoDM 5205.07 Volume 1, Enclosure 4 para 3",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Enclosure 4 para 3",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "The FWAC rule is the structural reason an insider allegation about a SAP cannot travel through ordinary DoD hotline channels: the manual directs it back into the same compartment it concerns. Reasoning: SAP-channel-only reporting routes the complaint to officials inside the program.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

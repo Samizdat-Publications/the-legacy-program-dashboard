@@ -7,26 +7,34 @@
 {
 "id": "c-fa16018246",
 "source": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"sources": [],
 "text": "'All of the reviews were positive, some exceptionally so' and 'the quality hoped for in the reports was achieved'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5d550f3593",
 "source": "DIA memo U-429-09-DWO-IM",
+"sources": [],
 "text": "Thirteen reviews were conducted on the 26 FY09 reports: eight by other report authors and five by outside reviewers, three of whom were Sandia National Laboratories staff.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-278488f816",
 "source": "DIA memo U-429-09-DWO-IM",
+"sources": [],
 "text": "The AAWSAP program manager personally reviewed all papers and concurred with the reviewers' assessments.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-11cd5f5659",
 "source": "Inference from comparing the 2009 memo with AARO Historical Record Report Volume 1, p.24",
+"sources": [],
 "text": "DIA's contemporaneous positive quality finding directly contradicts the retrospective 'lack of merit' framing used in 2024, indicating the merit judgement was applied after the fact for institutional reasons rather than derived from the reviews.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

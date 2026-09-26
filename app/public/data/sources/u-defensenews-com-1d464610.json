@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": "2019-04-11",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-5602b65df4",
+"label": "NNSA rescued and now sponsors JASON after DoD declined renewal",
+"note": "On 25-26 April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE for JASON management and logistics support, two weeks after OUSD(R&E) confirmed it was ending the contract.",
+"type": "funding"
+}
+],
+"era": "3",
+"id": "u-defensenews-com-1d464610",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "defensenews.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+}
+],
+"node": null,
+"title": "Defense News, 11 April 2019",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.defensenews.com/pentagon/2019/04/11/pentagon-confirms-it-is-ending-the-jason-advisory-contract-but-groups-work-may-continue/"
+]
+}

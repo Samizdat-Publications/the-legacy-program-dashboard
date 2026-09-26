@@ -1,0 +1,62 @@
+{
+"archived": [
+"https://web.archive.org/web/20260523011837id_/https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "odni-2022-annual-report",
+"label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2023-annual-report",
+"label": "AARO FY2023 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-3f2c70f02f",
+"label": "",
+"note": "The reporting line passes here. The 2022 report is ODNI's, and it records AARO's establishment under its own heading; from FY2023 the consolidated annual report is AARO's product. Same statutory obligation, different office holding the pen.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"b": {
+"cls": "document",
+"id": "odni-2022-annual-report",
+"label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena"
+},
+"claimTier": 1,
+"id": "e-4ed619d218",
+"label": "",
+"note": "The 2022 report extends the 2021 baseline rather than replacing it: it reports new cases 'in addition to the 144 UAP reports covered during the 17 years of UAP reporting included in' the preliminary assessment. The 144-incident figure is the anchor both documents are measured against.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-odni-gov-0e3c93be",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [
+{
+"cls": "document",
+"id": "odni-2022-annual-report",
+"label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena"
+}
+],
+"node": null,
+"title": "the ODNI 2022 Annual Report PDF (now served from odni.gov)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf"
+]
+}

@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-23aaa1b22b",
+"locator": null,
+"node": "corbell-lazar-2018",
+"nodeLabel": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"sourceText": "Tim McMillan, Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18",
+"text": "It is the route by which the 19 July 2017 search of United Nuclear Scientific entered the UFO literature. Tim McMillan's 2019 reporting, which established that the search was an agency assist to a homicide investigation into a thallium death, describes the motivation for the records request as the discussion of the raid in this documentary.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b3f97f0063",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Tim McMillan, 'Bob Lazar Says the FBI Raided Him to Seize Area 51's Alien Fuel. The Truth Is Weirder', Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18",
+"text": "The underlying homicide is the death of Janel Sturzl, 31, of thallium toxicity on 22 December 2015 in Houghton, Michigan. Lazar is not recorded as a suspect. Michigan State Police reporting quoted by McMillan reads: 'efforts will be made to contact/interview Bob Lazar (United Nuclear) in person regarding any Thallium sales.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tim-mcmillan",
+"label": "Tim McMillan"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 1,
+"id": "e-19e3d8e4ad",
+"label": "Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation",
+"note": "The documentary correction to the claim that the July 2017 search was about recovering element 115.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-vice-com-e899dd02",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [
+{
+"cls": "document",
+"id": "corbell-lazar-2018",
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+{
+"cls": "person",
+"id": "tim-mcmillan",
+"label": "Tim McMillan"
+}
+],
+"node": null,
+"title": "Tim McMillan, Vice",
+"topics": [
+{
+"claims": [
+"c-23aaa1b22b",
+"c-b3f97f0063"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-23aaa1b22b"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "article",
+"urls": [
+"https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/"
+]
+}

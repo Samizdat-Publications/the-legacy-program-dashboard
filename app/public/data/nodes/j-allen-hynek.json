@@ -46,26 +46,40 @@
 {
 "id": "c-1f4d870941",
 "source": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+"sources": [],
 "text": "Hynek testified before the House Committee on Science and Astronautics at its UFO symposium on 29 July 1968, alongside James E. McDonald, Carl Sagan, Robert L. Hall, James A. Harder and Robert M. L. Baker Jr.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-28c623b312",
 "source": "Hynek, statements from the late 1960s and 'The UFO Experience: A Scientific Inquiry' (1972)",
+"sources": [],
 "text": "Hynek stated that Blue Book had become 'a public relations exercise' with 'little or no research undertaken using the scientific method.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2c3d8cc9a8",
 "source": "Hynek's own account in 'The UFO Experience' (1972) and contemporaneous press coverage",
+"sources": [],
 "text": "Hynek's March 1966 swamp gas explanation was offered as provisional and for only some cases, but was reported as a blanket dismissal; he later expressed regret.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9dda1a6777",
 "source": "Project Blue Book administrative records, NARA RG 341; Condon Report Sec. V Ch. 2",
+"sources": [
+{
+"id": "nara-rg-341",
+"locator": null,
+"title": "NARA Record Group 341"
+}
+],
 "text": "Hynek served as scientific consultant across Project SIGN (1947-1949), Project GRUDGE (1949-1951) and Project Blue Book (1952-1969).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

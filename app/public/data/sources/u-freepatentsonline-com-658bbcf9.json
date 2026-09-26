@@ -1,0 +1,67 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-14af0beb73",
+"locator": null,
+"node": "pais-app-fusion",
+"nodeLabel": "US Application 2019/0295733 - Plasma Compression Fusion Device",
+"sourceText": "https://www.freepatentsonline.com/20190295733.html",
+"text": "US Patent Application 2019/0295733, 'Plasma Compression Fusion Device', application 15/928703, filed 22 March 2018, published 26 September 2019, assignee the United States as represented by the Secretary of the Navy.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+"b": {
+"cls": "document",
+"id": "pais-app-fusion",
+"label": "US Application 2019/0295733 - Plasma Compression Fusion Device"
+},
+"claimTier": 2,
+"id": "e-0ab79628e4",
+"label": "Named inventor",
+"note": "Application 15/928703, assigned to the Secretary of the Navy.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-freepatentsonline-com-658bbcf9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FreePatentsOnline",
+"listedOn": [
+{
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+{
+"cls": "document",
+"id": "pais-app-fusion",
+"label": "US Application 2019/0295733 - Plasma Compression Fusion Device"
+}
+],
+"node": null,
+"title": "US Application 2019/0295733",
+"topics": [
+{
+"claims": [
+"c-14af0beb73"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.freepatentsonline.com/20190295733.html"
+]
+}

@@ -10,20 +10,44 @@
 {
 "id": "c-31ef9123dd",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "The 9 January 2018 DIA list credits item 23, \"Aerospace Applications of Programmable Matter\", to \"Dr W McCarthy, Programmable Matter Corporation\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ea0c7bf7ab",
 "source": "https://en.wikipedia.org/wiki/Wil_McCarthy — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-904baa11",
+"locator": null,
+"title": "https://en.wikipedia.org/wiki/Wil_McCarthy"
+}
+],
 "text": "McCarthy is a former Lockheed Martin space launch systems flight controller, former engineering manager at Omnitech Robotics, former CTO of Galileo Shipyards, and president of The Programmable Matter Corporation in Lakewood, Colorado.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-45abd002eb",
 "source": "https://en.wikipedia.org/wiki/Hacking_Matter",
+"sources": [
+{
+"id": "u-en-wikipedia-org-b189edfe",
+"locator": null,
+"title": "https://en.wikipedia.org/wiki/Hacking_Matter"
+}
+],
 "text": "McCarthy popularised programmable matter under the coined name \"wellstone\" in his science fiction and in the non-fiction book Hacking Matter, before being commissioned to survey the field for DIA.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -31,14 +31,18 @@
 {
 "id": "c-cfa9c202a0",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"sources": [],
 "text": "Listed in TTSA's Form 1-K as Vice President Operations, age 65, and one of three directors; described as retired from the CIA after 25 years in the Directorate of Operations.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7b63a9e6ce",
 "source": "The Sol Foundation official biography",
+"sources": [],
 "text": "Held Senior Intelligence Service status, served as Chief of Operations to the National Clandestine Service and chief of a key operational unit, and received the Agency's Career Intelligence Medal.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

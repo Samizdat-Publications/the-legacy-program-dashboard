@@ -1,0 +1,30 @@
+{
+"archived": [
+"https://web.archive.org/web/20260428015146/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dia-mil-b1d80a00",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+}
+],
+"node": null,
+"title": "DIRD DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions'",
+"topics": [],
+"type": "web page",
+"urls": []
+}

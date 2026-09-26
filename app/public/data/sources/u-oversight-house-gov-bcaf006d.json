@@ -1,0 +1,211 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "gallaudet-2015-email",
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-f4cc5a6307",
+"label": "Gallaudet's inference points at an unacknowledged SAP; Shellenberger named one",
+"note": "Gallaudet concluded the recalled information 'must have been classified within a special access program managed by an intelligence agency'; at the same hearing Shellenberger described an alleged parent USAP consolidating UAP imagery collection.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 1,
+"id": "e-bb045bde78",
+"label": "The congressional-record instantiation of the alleged parent USAP",
+"note": "Shellenberger described the program in the document as 'a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-ef53895526",
+"label": "the case that proves the substrate: leak, newsletter, congressional record, no newsroom",
+"note": "An alleged unacknowledged special access program entered the public record in October 2024 through an independent journalist and the Congressional Record on 13 November 2024, via written testimony and the House Oversight hearing transcript. Whatever the underlying report is worth, the path it travelled is the clearest single demonstration of how disclosure is now produced and distributed.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-ea347fcdd0",
+"label": "DoD spokesperson Sue Gough: no record of any SAP by that name",
+"note": "'The DOD has no record, present or historical, of any type of SAP called IMMACULATE CONSTELLATION.' Recorded as a denial artefact: a categorical statement about records, issued by a press office, about a program alleged to be unacknowledged.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-0c01b94255",
+"label": "sworn witness; delivered the Immaculate Constellation document",
+"note": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+},
+"b": {
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"claimTier": 1,
+"id": "e-68bb67dde6",
+"label": "Delivered the document to Congress on the morning of the hearing and testified to its contents",
+"note": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-aaba882894",
+"label": "Brought the alleged USAP into the congressional record",
+"note": "On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-f0b5e7c8ba",
+"label": "The alleged programme is said to have been created in response to this story",
+"note": "Shellenberger's whistleblower alleges DoD created Immaculate Constellation in 2017 after the New York Times published on AATIP. The claim is attributed, not documented.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-c664022655",
+"label": "Founder Shellenberger testified as a hearing witness",
+"note": "The transcript lists 'Mr. Michael Shellenberger, Founder of Public' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens 'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees' - a joint sitting of two subcommittees.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-e29588334e",
+"label": "a newsletter, not a newsroom, carried a named alleged programme into the congressional record",
+"note": "Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-bcaf006d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+{
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+{
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger"
+}
+],
+"node": null,
+"title": "Michael Shellenberger, written testimony, House Oversight",
+"topics": [],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+]
+}

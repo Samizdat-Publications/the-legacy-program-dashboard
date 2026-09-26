@@ -106,80 +106,148 @@
 {
 "id": "c-c6c924d1b0",
 "source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-a88020df",
+"locator": null,
+"title": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'"
+}
+],
 "text": "He located the federal file on Japan Air Lines flight 1628 at the National Archives after being told twice by the FAA that it had been or would be destroyed. In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!' The file is in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against an initial FAA estimate of 107.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4443600953",
 "source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-d4772d11",
+"locator": null,
+"title": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr."
+}
+],
 "text": "He publishes the FAA's letter of 27 June 2001 responding to his request: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A follow-up request in 2009 was answered with the statement that the records had been destroyed.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d2105fbf3e",
 "source": "The Black Vault case file, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-9521d30d",
+"locator": null,
+"title": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'"
+}
+],
 "text": "Greenewald published a case file on 1 April 2016 stating 'There is no evidence that I have found, that shows that Thomas Costello even exists', and demonstrating that the photograph circulated as Castello's leaked evidence is a frame from the 2000 film The 6th Day: it 'is, in fact, a verifiable hoax'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-71708680e4",
 "source": "DoD FOIA final response letter, 18-F-0324",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": null,
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "FOIA case 18-F-0324 was requested on 17 December 2017 and received its final response on 17 August 2022 from Stephanie L. Carr, Chief of the DoD Freedom of Information Division, releasing eight responsive pages with (b)(6) redactions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-85fa8e6aa9",
 "source": "The Black Vault document archive",
+"sources": [],
 "text": "Obtained and published the DD Form 1910 for the GoFast, Gimbal and FLIR files, the Tipton messaging emails, the Elizondo-Gough correspondence, and the TTSA CRADA-related FOIA denials.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-45c8946570",
 "source": "The Black Vault document archive, provenance statements on both releases",
+"sources": [],
 "text": "The Halt memo and the November 1975 Malmstrom AFB UFO records were released to The Black Vault by the Office of the Assistant Secretary of Defense in September 1997 under FOIA case 97-F-1677.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9cec763ec3",
 "source": "OSD FOIA final response, case 25-F-3514, September 2025",
+"sources": [
+{
+"id": "foia-25-f-3514",
+"locator": "September 2025",
+"title": "FOIA case 25-F-3514"
+}
+],
 "text": "In September 2025 OSD responded in FOIA case 25-F-3514 that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged Yankee Blue cessation memo.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-83c29b1bf8",
 "source": "AFOSI FOIA response, case 2025-06002-F, 2025",
+"sources": [],
 "text": "In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-faa203fbc1",
 "source": "Susan Gough, Department of War, emailed statement, 1 Oct 2025",
+"sources": [],
 "text": "On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-32d43f0e76",
 "source": "The Black Vault document archive entry, 21 July 2026",
+"sources": [],
 "text": "The Black Vault hosts the working public copy of the AARO FY2025 Consolidated Annual Report and documented its release months past the statutory cadence.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5c9782ba2d",
 "source": "documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"sources": [],
 "text": "The Black Vault hosts the mirror of the AARO Historical Record Report Volume I relied on across published UAP research.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9cd38dd538",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"sources": [
+{
+"id": "u-theblackvault-com-49569d6f",
+"locator": null,
+"title": "The Black Vault, DoW OIG FOIA release"
+}
+],
 "text": "Requester of record in Department of War OIG FOIA case DODIG-2021-000806, whose fourth interim release of five pages was published 16 June 2026 with approximately 245 pages still pending.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-345af1cac3",
 "source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"sources": [
+{
+"id": "u-theblackvault-com-6caad905",
+"locator": null,
+"title": "The Black Vault searchable PURSUE archive"
+}
+],
 "text": "Many PDFs in the Department's release were password-protected, preventing OCR; The Black Vault removed the restrictions and processed the files into a usable, searchable format.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -10,20 +10,44 @@
 {
 "id": "c-4dfdeefd68",
 "source": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"sources": [
+{
+"id": "u-democrats-armedservices--b8fa5111",
+"locator": null,
+"title": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+}
+],
 "text": "A House Armed Services Committee statement dated 16 June 2009 records that 'the House Republican Conference selected Congressman Howard P. \"Buck\" McKeon (R-CA) to serve as the Ranking Member of the House Armed Services Committee' and congratulates him 'on his election as the Ranking Member.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a63f712402",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
+"sources": [
+{
+"id": "u-govinfo-gov-61058131",
+"locator": null,
+"title": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm"
+}
+],
 "text": "The December 2009 Congressional Directory records Howard P. 'Buck' McKeon as the senior Republican on the House Armed Services Committee, consistent with a June 2009 succession.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-167678f3b4",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "The chairman and ranking minority member of the House Armed Services Committee are among the twelve offices entitled under 10 U.S.C. 119(e)(2) to receive information withheld from a section 119 report and the Secretary of Defense's justification for the waiver.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

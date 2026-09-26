@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-cc947e22b4",
+"locator": null,
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"sourceText": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523",
+"text": "On the same show on 27 January 2025 at 3:07:08 Michels said he had overstated the case and that Hastings emailed him a correction: 'it was only like 12 to 15. I don't remember the exact number. But radar operators, the rest were ICBM security personnel'. In the same passage he gives the overall total as 170. The correction concerns the composition of the witness population, not only its size.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-3857ea0f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff) (episode audio)",
+"topics": [
+{
+"claims": [
+"c-cc947e22b4"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-cc947e22b4"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523"
+]
+}

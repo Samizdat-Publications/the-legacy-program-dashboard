@@ -1,0 +1,149 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-66318aedc0",
+"locator": null,
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/",
+"text": "He wrote that he found no evidence of extraterrestrial visitors and characterised coverup allegations as stemming from legitimate US programmes or misrepresentations promoted by 'a small group of interconnected believers' engaged in 'circular reporting.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 2,
+"id": "e-d05ecbb9a2",
+"label": "Op-ed advanced the report's analytic frame seven weeks early",
+"note": "Kirkpatrick's 19 January 2024 circular-reporting framing appears as the analytic spine of the 8 March 2024 report - the departing director publishing the conclusion before the agency published the study.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 2,
+"id": "e-5860adb43a",
+"label": "attributes the crash-retrieval narrative to AATIP and the Bigelow circle",
+"note": "Kirkpatrick names AATIP and Robert Bigelow as the origin of what he calls circular reporting, an attack that lands on Elizondo without engaging his account as testimony.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"claimTier": 2,
+"id": "e-720785c4d3",
+"label": "names Bigelow as the seeding influence behind the modern belief system",
+"note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 3,
+"id": "e-75a2d6412f",
+"label": "the 'circular reporting from a small group' thesis, seventeen months before the Air Force was identified as the seeding group",
+"note": "Kirkpatrick's mechanism was correct in form and wrong in agent: belief was seeded and repeated from a small source, but the documented source is a US Air Force indoctrination practice, not a civilian believer network. Whether AARO knew this when the op-ed ran is unresolved, given that AARO discovered Yankee Blue during his tenure.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"claimTier": 2,
+"id": "e-aae62bb24d",
+"label": "Bylined attribution of the allegations to circular reporting and unsupported belief",
+"note": "Published 19 January 2024 under Kirkpatrick's own name, seven weeks before AARO's Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency's conclusions in the press.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"claimTier": 1,
+"id": "e-f15528c536",
+"label": "authored the op-ed attacking the whistleblowers seven weeks after leaving office",
+"note": "Published 19 January 2024, between his 1 December 2023 departure and the 8 March 2024 release of the report he had written.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-scientificamerican-com-54ac2f0e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Scientific American",
+"listedOn": [
+{
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "Scientific American op-ed",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/"
+]
+}

@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-3e8eb6d13a",
+"label": "Broke Grusch's first on-camera whistleblower interview",
+"note": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation's senior special investigations correspondent.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+"b": {
+"cls": "institution",
+"id": "skywatcher",
+"label": "Skywatcher"
+},
+"claimTier": 2,
+"id": "e-d434732cb5",
+"label": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+"note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-ac32669243",
+"label": "First television interview; origin of the biologics and dead pilots statements",
+"note": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-8e5af1cc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+}
+],
+"node": null,
+"title": "Wikipedia - Ross Coulthart",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Ross_Coulthart"
+]
+}

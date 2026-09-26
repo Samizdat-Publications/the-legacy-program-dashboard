@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-theblackvault-com-a3e67f0b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-la",
+"label": "Los Angeles and Burbank, California"
+}
+],
+"node": null,
+"title": "The Black Vault",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/"
+]
+}

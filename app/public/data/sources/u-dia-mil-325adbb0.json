@@ -1,0 +1,278 @@
+{
+"archived": [
+"https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-8e181b6b60",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+"text": "The DIA FOIA Electronic Reading Room posts 37 files whose names begin 'Defense_Intelligence_Reference_Document_'. 32 of those have been retrieved and their cover pages transcribed; DIA document numbers, publication dates and Intelligence Cut-Off Dates are recorded on the individual document nodes.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bad34a500d",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+"text": "DIA document numbers follow the pattern DIA-08-YYMM-NNN, where 08 ties to the FY2008 program start and YYMM is the production month — e.g. DIA-08-0911-016 (Nov 2009), DIA-08-1003-015 (Mar 2010), DIA-08-1102-007 (Feb 2011 batch). The numbering is sparse in the released set, which indicates the released DIRDs are not the complete numbered series.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e229dc3867",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+"text": "Confirmed unreachable in this pass: 5 of the 37 DIRD filenames listed by DIA have no resolvable FileId URL — Biomaterials; Materials_For_Advanced_Aerospace_Platforms; Metallic_Glasses_For_Aerospace_Applications; Metallic_Spintronics; Metamaterials_For_Aerospace_Applications. The complete Wayback CDX index for dia.mil FOIA reading-room FileId URLs (3,536 unique FileIds) contains no snapshot of them, and the live page does not expose FileIds to a text fetcher.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 1,
+"id": "e-316261287b",
+"label": "authored",
+"note": "Authorship, corroborated internally rather than only by the DIA list. References 3, 16 and 19 of the paper are Puthoff's own prior work, and DIA singled the report out as its showcase deliverable in Info Memo U-10-2552 to USD(AT&L).",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 2,
+"id": "e-5cc5316eb0",
+"label": "Wayne State clinician authored the AAWSAP human-effects reference document",
+"note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-325adbb0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "document",
+"id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+"label": "Advanced Nuclear Propulsion for Manned Deep Space Missions"
+},
+{
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+{
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter"
+},
+{
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+{
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+},
+{
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion-2",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)"
+},
+{
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+{
+"cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications"
+},
+{
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+{
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+{
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+{
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+{
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+{
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+{
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+{
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+{
+"cls": "document",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"label": "Invisibility Cloaking: Theory and Experiments"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+{
+"cls": "document",
+"id": "dird-laser-lightcraft-nanosatellites",
+"label": "Laser Lightcraft Nanosatellites"
+},
+{
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+{
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+{
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+{
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+{
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+{
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+{
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+{
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+},
+{
+"cls": "document",
+"id": "dird-state-of-the-art-and-evolution",
+"label": "State of the Art and Evolution of High-Energy Laser Weapons"
+},
+{
+"cls": "document",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+{
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+{
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+{
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+}
+],
+"node": null,
+"title": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"topics": [
+{
+"claims": [
+"c-8e181b6b60",
+"c-bad34a500d",
+"c-e229dc3867"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "archive index",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+]
+}

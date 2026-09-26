@@ -10,26 +10,58 @@
 {
 "id": "c-3d8ba5074a",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists DIRD item 4 as \"Space Access, Dr P Czysz, HyperTech.\"",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2ef2b5df8c",
 "source": "https://www.researchgate.net/profile/Paul-Czysz",
+"sources": [
+{
+"id": "u-researchgate-net-f93b592e",
+"locator": null,
+"title": "Paul Czysz research profile, Saint Louis University, Department of Aerospace and Mechanical Engineering"
+}
+],
 "text": "Czysz was Professor Emeritus of Aerospace Engineering at Saint Louis University, former chief scientist on the National Aerospace Plane project, and president of HyperTech Concepts LLC; he was named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-36c00191a9",
 "source": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027",
+"sources": [
+{
+"id": "u-legacy-com-536f7e6f",
+"locator": null,
+"title": "Paul Czysz obituary, St. Louis Post-Dispatch"
+}
+],
 "text": "Czysz died in 2013, before the public disclosure of AATIP in December 2017 and before the bulk FOIA release of the DIRDs in March 2022. He gave no public account of the AAWSAP tasking.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-12d3cba98d",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-d3fff663",
+"locator": null,
+"title": "Defense Intelligence Reference Document, \"Space Access: Where We've Been ... and Where We Could Go\" (The Black Vault FOIA release)"
+}
+],
 "text": "The released cover page of the Space Access DIRD redacts the author name under FOIA exemption (b)(6) and reads only \"Author: [redacted].\" The attribution to Czysz rests on the DIA list, not on the document.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

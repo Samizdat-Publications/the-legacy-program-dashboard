@@ -1,0 +1,84 @@
+{
+"archived": [
+"https://web.archive.org/web/20260723072235/https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+"b": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"claimTier": 1,
+"id": "e-ebdd78b62d",
+"label": "Signed EO 14347 and issued the 2026 UAP release directives",
+"note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"b": {
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+},
+"claimTier": 2,
+"id": "e-5953c48d83",
+"label": "Presidential direction produced the PURSUE release portal",
+"note": "Following the February 2026 presidential directive to identify and release UAP files, the Department of War established the PURSUE portal at war.gov/UFO and published its first tranche on 8 May 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "event",
+"id": "dow-uap-file-release-2026",
+"label": "Department of War release of UAP files"
+},
+"claimTier": 2,
+"id": "e-0640577000",
+"label": "Author of the statute publicly states the obligation is unmet",
+"note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-war-gov-3dcc788c",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "event",
+"id": "dow-uap-file-release-2026",
+"label": "Department of War release of UAP files"
+},
+{
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+}
+],
+"node": null,
+"title": "Department of War releases UAP files",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+]
+}

@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-dac271563e",
+"locator": null,
+"node": "john-albertine",
+"nodeLabel": "J. Albertine",
+"sourceText": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full",
+"text": "John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's in applied physics from Johns Hopkins; he was a senior staff physicist at the Johns Hopkins Applied Physics Laboratory Space Division and from 1976 to 1997 worked in the US Navy High Energy Laser Program Office, consulting afterwards for OSD, the Air Force, ONR and the Navy HEL programme office.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-spiedigitallibrary-org-9f609c57",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "spiedigitallibrary.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "john-albertine",
+"label": "J. Albertine"
+}
+],
+"node": null,
+"title": "John R. Albertine, \"Special Section Guest Editorial: High-Energy Laser Systems and Components, \" Optical Engineering 52(2), 021001 (biographical note)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full"
+]
+}

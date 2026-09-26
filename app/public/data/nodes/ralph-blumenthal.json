@@ -36,14 +36,18 @@
 {
 "id": "c-e213371b5e",
 "source": "The Debrief byline, 5 June 2023 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "Co-author of the 5 June 2023 Debrief article on Grusch's allegations.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-73aa1c8a81",
 "source": "Wikipedia, 'Ralph Blumenthal', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Blumenthal was a New York Times staff reporter from 1964 to 2009 and co-authored both the 2017 AATIP story and the 2023 Grusch story.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

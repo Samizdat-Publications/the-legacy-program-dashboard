@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-5fc88867",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+{
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+{
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+}
+],
+"node": null,
+"title": "Wikipedia: Kevin Knuth",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Kevin_Knuth"
+]
+}

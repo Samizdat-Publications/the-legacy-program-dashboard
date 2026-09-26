@@ -7,20 +7,32 @@
 {
 "id": "c-df81142afb",
 "source": "P.L. 118-31, Sec. 1841(e)(2), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1841(e)(2), GPO",
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+}
+],
 "text": "Sec. 1841(e)(2) gives HPSCI, with House Oversight and Accountability and House Armed Services, continuing legislative oversight jurisdiction over the UAP Records Collection.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-060d205ddf",
 "source": "S. 2226 as engrossed, Sec. 9007(b)(3)(A), GPO",
+"sources": [],
 "text": "The Senate's Review Board nomination process at Sec. 9007(b)(3)(A) routes recommendations through congressional leadership, the Secretary of Defense, the National Academy of Sciences, nonprofit UAP research organisations and the American Historical Association — not through the intelligence committees.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-90b41e8028",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
+"sources": [],
 "text": "HPSCI Chairman Turner is named as leading the effort to eliminate or significantly alter the UAP Disclosure Act.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

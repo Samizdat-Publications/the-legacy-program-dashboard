@@ -1,0 +1,136 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "edward-teller",
+"label": "Edward Teller"
+},
+"b": {
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+"claimTier": 1,
+"id": "e-a774f56a07",
+"label": "Attended the 16 February 1949 conference",
+"note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "lincoln-lapaz",
+"label": "Lincoln LaPaz"
+},
+"b": {
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+"claimTier": 2,
+"id": "e-99e10f0db9",
+"label": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
+"note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+"b": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"claimTier": 1,
+"id": "e-f62c16bd70",
+"label": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
+"note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+"claimTier": 1,
+"id": "e-73424ce707",
+"label": "AEC laboratories convened the February 1949 green fireball conference",
+"note": "The green fireball events centred on the Los Alamos and Sandia complexes and produced a conference and the subsequent Project TWINKLE instrumented observation effort. Attested by the FBI and Air Force file material released through the 2026 PURSUE tranches.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"claimTier": 1,
+"id": "e-62e89f2da2",
+"label": "DOE/NNSA management and operating contract; Los Alamos",
+"note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-lanl-gov-b738e76f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Los Alamos National Laboratory",
+"listedOn": [
+{
+"cls": "person",
+"id": "edward-teller",
+"label": "Edward Teller"
+},
+{
+"cls": "person",
+"id": "lincoln-lapaz",
+"label": "Lincoln LaPaz"
+},
+{
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+{
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+{
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+{
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+}
+],
+"node": null,
+"title": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+]
+}

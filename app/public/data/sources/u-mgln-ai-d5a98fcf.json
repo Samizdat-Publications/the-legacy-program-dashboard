@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4c1982cdb8",
+"locator": null,
+"node": "oni",
+"nodeLabel": "Office of Naval Intelligence",
+"sourceText": "American Alchemy with Jesse Michels, 'The Man That Hacked NASA and Found UFOs [Interview w/ Gary McKinnon]', 1 March 2026, 0:56:22 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6287765066.mp3?updated=1772392329",
+"text": "On American Alchemy with Jesse Michels, 1 March 2026, Gary McKinnon said that on his arrest 'all my data was taken to O&I, Office of Naval Intelligence', that ONI still holds his hard drives, and that he has tried to recover them for years and been told it is an ongoing investigation (0:56:22).",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-d5a98fcf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'The Man That Hacked NASA and Found UFOs [Interview w/ Gary McKinnon]', episode audio",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6287765066.mp3?updated=1772392329"
+]
+}

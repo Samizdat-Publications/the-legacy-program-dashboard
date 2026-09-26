@@ -7,62 +7,88 @@
 {
 "id": "c-d456a6795c",
 "source": "MITRE's own SAGE history site (sage.mitre.org)",
+"sources": [],
 "text": "MITRE was incorporated as a nonprofit organization on 21 July 1958, with Robert Everett as first technical director and 485 other Lincoln Laboratory employees transferring in; it continued as lead systems engineer for SAGE.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6043a34447",
 "source": "MITRE R&D Centers page; NSF NCSES Master Government List of FFRDCs, FY2026",
+"sources": [],
 "text": "MITRE operates six FFRDCs: NSEC (DoD/USD(R&E)), CAASD (DOT/FAA), Center for Enterprise Modernization (Treasury/IRS with VA, SSA, Commerce), HSSEDI (DHS S&T, created 5 March 2009), the Health FFRDC (HHS), and the National Cybersecurity Center of Excellence (Commerce/NIST, created 19 September 2014).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8bdc41be6b",
 "source": "CRS Report R44629 FFRDC funding table",
+"sources": [
+{
+"id": "crs-r44629",
+"locator": "FFRDC funding table",
+"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+}
+],
 "text": "MITRE's National Security Engineering Center received approximately $1,431.7 million in FY2024 funding.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7454cc53c9",
 "source": "USAspending.gov federal award records",
+"sources": [],
 "text": "MITRE's NSEC work is executed through Army-administered task orders under IDIQ W56KGU18D0004, including task orders W56KGU20F0009, W56KGU21F0008, W56KGU22F0017, W56KGU23F0006 and W56KGU24F0010, the last valued at approximately $752 million.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7cff0417a2",
 "source": "USAspending.gov federal award records",
+"sources": [],
 "text": "MITRE's CAASD FFRDC has been executed under FAA contracts DTFAWA10C00080 (approximately $1.70 billion) and 693KA822C00001 (approximately $761 million).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-44eb0ea603",
 "source": "Burlison press release 26 May 2026; DefenseScoop 27 May 2026; MeriTalk 29 May 2026",
+"sources": [],
 "text": "On 22 May 2026 Rep. Eric Burlison sent MITRE a 10-page letter with more than 40 production requests covering UAP records back to 1930, including legacy crash-retrieval and reverse-engineering programmes, Special and Controlled Access Programs, sensor data, materials analysis and classification guides.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-48fc20e323",
 "source": "DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "A MITRE spokesperson said that insiders were reviewing its archives and that 'if any relevant material is found, we will coordinate with the federal agencies responsible for the work.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-97ad553905",
 "source": "UAP Gerb, YouTube, 7 August 2026",
+"sources": [],
 "text": "The 7 August 2026 UAP Gerb investigation alleges MITRE has held a central role since 1958 in a Navy-spearheaded programme to reverse engineer and mature non-human technologies recovered in the late 1940s, and processes all-source data on a very large unidentified submerged object in the Atlantic.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f5e536f4d3",
 "source": "Christopher Sharp, Liberation Times, 13 January 2026",
+"sources": [],
 "text": "Contractors associated with NAVAIR programs at Patuxent River have included Lockheed Martin and the MITRE Corporation, in the context of reporting that an exotic vehicle has been stored at the base for decades.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-1d86f477c0",
 "source": "Board inference from FFRDC statutory and regulatory structure",
+"sources": [],
 "text": "The FFRDC form grants privileged long-term access to classified government holdings while barring manufacturing and competition, producing an entity with deep knowledge and no commercial exposure. Reasoning: this is the definitional structure of an FFRDC, not an allegation about MITRE.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

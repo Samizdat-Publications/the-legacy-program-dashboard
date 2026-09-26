@@ -1,0 +1,392 @@
+{
+"archived": [
+"https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"https://web.archive.org/web/20260811010946id_/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-8b2b7fe763",
+"label": "Sixteen years of silence is the stigma the assessment describes",
+"note": "Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-9ad0ad2bc2",
+"label": "",
+"note": "AARO inherited the reporting line this assessment opened. The June 2021 preliminary assessment predates AARO and was built from UAP Task Force holdings; the ODNI 2022 annual report then carries a section headed 'Establishment of the All-Domain Anomaly Resolution Office (AARO)' recording that the Deputy Secretary directed USD(I&S) to stand it up. The institutional relation is succession, not authorship.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-60f300dc7d",
+"label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"note": "ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-b717ae9058",
+"label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"note": "ODNI's 25 June 2021 assessment names DIA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-2c9ae2b1aa",
+"label": "Within the November 2004 to March 2021 window the assessment covers",
+"note": "The ODNI preliminary assessment covers 144 reports from USG sources spanning November 2004 to March 2021, the window containing both the Nimitz and the 2019 swarm events.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-2fa947f072",
+"label": "Both diagnose the same evidentiary deficit",
+"note": "ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-50911e2989",
+"label": "Named 2021 UAP contributor that produced nothing for the statutory collection",
+"note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-c32756b9bd",
+"label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"note": "ODNI's 25 June 2021 assessment names NGA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-192fe6fada",
+"label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"note": "ODNI's 25 June 2021 assessment names NRO among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-41ac157fba",
+"label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"note": "ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"b": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"claimTier": 1,
+"id": "e-5b1955a7b7",
+"label": "Official confirmation of the stigma ASA exists to route around",
+"note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"b": {
+"cls": "document",
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
+"claimTier": 1,
+"id": "e-1c66e5b56e",
+"label": "18 of 144 incidents showed unusual movement patterns; sensors not designed to identify UAP",
+"note": "'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics,' and military sensors 'are not generally suited for identifying UAP.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-c73193d0cb",
+"label": "Assessment window opens with the Nimitz encounter",
+"note": "The assessment's date range begins November 2004 - the month of the Nimitz intercept - and it resolved only one of 144 reports with high confidence.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-1582c71733",
+"label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"note": "ODNI's 25 June 2021 assessment names Navy/ONI among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-3aca902dec",
+"label": "Named contributor to the 2021 ODNI Preliminary Assessment",
+"note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-8b3e6d7553",
+"label": "",
+"note": "The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"b": {
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+"claimTier": 1,
+"id": "e-e733340a1e",
+"label": "sited in the Department of the Navy with ONI involvement",
+"note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate"
+},
+"b": {
+"cls": "institution",
+"id": "senate-intelligence",
+"label": "Senate Select Committee on Intelligence"
+},
+"claimTier": 1,
+"id": "e-316903ec94",
+"label": "Committee of jurisdiction for intelligence community programs",
+"note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 1,
+"id": "e-eacf29aa11",
+"label": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+"note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-archive-dni-gov-ed78eb68",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [
+{
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+{
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+{
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+{
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+{
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+{
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+{
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+}
+],
+"node": null,
+"title": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+]
+}

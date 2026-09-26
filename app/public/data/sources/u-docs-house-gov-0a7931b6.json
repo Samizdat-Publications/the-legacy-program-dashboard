@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-0bc7743774",
+"label": "GS-15 Senior GEOINT Capabilities Requirements Officer; agency co-lead for UAP analysis",
+"note": "From November 2021 to April 2023 Grusch was a GS-15 at NGA and, in his sworn words, 'my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well as reporting to the UAP Task Force and eventually, once it was established, the All-Domain Anomaly Resolution Office.' He also testified that reviewing overhead collection of such events was one of his primary NGA tasks.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 1,
+"id": "e-615b0dacce",
+"label": "Senior Intelligence Officer, NRO, 2016-2021; Director's briefing staff",
+"note": "Grusch's published House Oversight biography places him at the National Reconnaissance Office from April 2016 to November 2021, serving on the NRO Operations Center Director's briefing staff including coordination of the President's Daily Brief. This is the access baseline for everything that follows.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-a1cf984e60",
+"label": "Chief Operating Officer from May 2023",
+"note": "Listed as his current position in the biography the House Oversight Committee published on the day of his testimony.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-6ffc267146",
+"label": "Sol Foundation co-founder; Grusch served as chief operating officer",
+"note": "Grusch's House Oversight biography lists him as COO of The Sol Foundation from May 2023 - the academic-adjacent institution co-founded by Nolan that became his landing place immediately on leaving government.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-docs-house-gov-0a7931b6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. House of Representatives",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+}
+],
+"node": null,
+"title": "House Oversight witness biography",
+"topics": [],
+"type": "document",
+"urls": [
+"https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+]
+}

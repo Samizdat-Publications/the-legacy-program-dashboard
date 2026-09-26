@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "person",
+"id": "jake-barber",
+"label": "Jake Barber"
+},
+"claimTier": 2,
+"id": "e-ad78872750",
+"label": "Michels published Barber's crash-retrieval account",
+"note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-3ecc3908",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "jake-barber",
+"label": "Jake Barber"
+},
+{
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+{
+"cls": "domain",
+"id": "d-recovery",
+"label": "Retrieval & Recovery Operations"
+},
+{
+"cls": "institution",
+"id": "skywatcher",
+"label": "Skywatcher"
+}
+],
+"node": null,
+"title": "American Alchemy - Jake Barber interview",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=dnnpyNuPdXs"
+]
+}

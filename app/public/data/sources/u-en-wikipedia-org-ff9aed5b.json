@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-ff9aed5b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-san-diego",
+"label": "San Diego, California"
+}
+],
+"node": null,
+"title": "Wikipedia - San Diego, California",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/San_Diego"
+]
+}

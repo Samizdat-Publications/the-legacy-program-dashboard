@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "marik-von-rennenkampff",
+"label": "Marik von Rennenkampff"
+},
+"b": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 1,
+"id": "e-30eb06f403",
+"label": "checked and rejected Kirkpatrick's balloon explanation",
+"note": "After Kirkpatrick attributed tic-tac-shaped sightings to a Florida company's escaped helium balloons, von Rennenkampff wrote in The Hill: 'After calling the company, I found Kirkpatrick's statement to be implausible.' The Debrief quotes the op-ed and identifies him as a former State Department Bureau of International Security and Nonproliferation analyst.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-9ef993e7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/"
+]
+}

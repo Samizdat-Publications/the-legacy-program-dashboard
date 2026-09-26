@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-30c7342144",
+"label": "Pentagon spokesperson could not confirm the existence of the memo",
+"note": "Susan Gough, 1 October 2025: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"claimTier": 1,
+"id": "e-79738ec3c6",
+"label": "Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim",
+"note": "OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-01028cbd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
+"node": null,
+"title": "John Greenewald Jr., 'Pentagon Reopens Search for Alleged \"Yankee Blue\" Memo After Initial Denial', The Black Vault",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+]
+}

@@ -51,7 +51,14 @@ export interface BoardIndex {
 }
 
 export interface Source { name?: string; url?: string | null; date?: string | null; }
-export interface Claim { id?: string; tier: number; text: string; source?: string | Source | null; }
+/* phase 8: a claim's registry sources (research/_sources.json), each linking to
+   #/s/<id>; `unresolved` says why a claim has none. The original source string
+   stays in `source` either way. */
+export interface SourceRef { id: string; title: string; locator?: string | null; }
+export interface Claim {
+  id?: string; tier: number; text: string; source?: string | Source | null;
+  sources?: SourceRef[]; unresolved?: string | null;
+}
 
 export interface Connection {
   id: string; label: string; cls: string; tier: string | null; l0: boolean;
@@ -204,7 +211,33 @@ export interface ClaimRow {
   id?: string;
   node: string; label: string; cls: string; cluster: string | null; tier: number;
   text: string; source: { text: string; url: string | null; domain?: string | null };
+  sources?: SourceRef[]; unresolved?: string | null;
   denied: boolean; open: boolean;
+}
+
+/* ---- the Library (redesign phase 8) ------------------------------------------ */
+
+export interface LibraryRow {
+  id: string; type: string; title: string; issuer: string | null; date: string | null;
+  era: string; interestedParty: boolean; identifiers: string[];
+  claims: number; edges: number; listedOn: number; node: string | null;
+  urls: number; archived: number;
+}
+export interface LibraryFile {
+  generated: string; count: number; sources: LibraryRow[];
+  claims: { total: number; resolved: number };
+}
+export interface NodeRef { id: string; label: string; cls: string | null; }
+export interface SourceRecord {
+  id: string; type: string; title: string; issuer: string | null; date: string | null;
+  era: string; interestedParty: boolean; identifiers: string[];
+  urls: string[]; archived: string[]; node: NodeRef | null;
+  claims: { id: string; node: string; nodeLabel: string; cls: string; tier: number;
+    text: string; sourceText: string; locator: string | null }[];
+  topics: { id: string; title: string; claims: string[] }[];
+  edges: { id: string; a: NodeRef; b: NodeRef; type: string; label: string;
+    claimTier: number | null; note: string }[];
+  listedOn: NodeRef[];
 }
 
 /* ---- topics (redesign phase 5 data, read by the pages from phase 6) --------- */
@@ -237,6 +270,7 @@ export interface TopicCite {
   id: string; kind: 'claim' | 'edge' | null; tier: number; text: string;
   node?: string; nodeLabel?: string;
   source?: { text: string; url: string | null; domain?: string | null };
+  sourceRefs?: SourceRef[];
   label?: string; type?: string;
   endpoints?: { id: string; label: string }[];
   sources?: Source[];
@@ -280,6 +314,8 @@ export const loadMap = () => get<MapFile>('map.json');
 export const loadAnalyst = () => get<AnalystFile>('analyst.json');
 export const loadNode = (id: string) => get<NodeRecord>('nodes/' + id + '.json');
 export const loadClaims = () => get<ClaimRow[]>('claims.json');
+export const loadLibrary = () => get<LibraryFile>('sources.json');
+export const loadSource = (id: string) => get<SourceRecord>('sources/' + id + '.json');
 /* The five below are read only by the analyst's tools today. They go through the
    same cache as everything else, so a reader who has already opened the timeline
    does not fetch it twice when the analyst asks about it. */

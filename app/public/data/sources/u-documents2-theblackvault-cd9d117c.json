@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+},
+"b": {
+"cls": "domain",
+"id": "d-sap",
+"label": "Special Access Programs"
+},
+"claimTier": 1,
+"id": "e-c5ca7cb71e",
+"label": "Conversion from visible to invisible",
+"note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-cd9d117c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dia-sap-denial-memo-2009",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+},
+{
+"cls": "domain",
+"id": "d-ic",
+"label": "Intelligence Community"
+},
+{
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+},
+{
+"cls": "domain",
+"id": "d-sap",
+"label": "Special Access Programs"
+}
+],
+"node": null,
+"title": "DIA - OUSDI Info Memo on AATIP (Review of Special Access Program Request)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf"
+]
+}

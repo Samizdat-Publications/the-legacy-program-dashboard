@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+},
+"claimTier": 2,
+"id": "e-6fc321689f",
+"label": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
+"note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-26600377fe",
+"label": "Accuses DIA of obstructing congressional oversight by withholding documents",
+"note": "Made at the 9 June 2026 Capitol press conference. DIA is the agency that housed AAWSAP and the historical thread most directly implicated in the legacy record; the allegation is specific to document production, not to phenomenon.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"b": {
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+},
+"claimTier": 2,
+"id": "e-5f6270e39f",
+"label": "Hosted the press conference",
+"note": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-foxnews-com-a65ecfba",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fox News",
+"listedOn": [
+{
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+}
+],
+"node": null,
+"title": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+]
+}

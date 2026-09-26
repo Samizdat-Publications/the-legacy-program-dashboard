@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-36c6a0aa73",
+"locator": null,
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"sourceText": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program - Dawn of the Secret Program' - https://www.ufoinfo.com/news/setka.shtml",
+"text": "Secondary accounts state that the SETKA designations were changed to 'Galaktika' (MO and AN) in 1981 and to 'Gorizont' (MO and AN) in 1986.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-ufoinfo-com-6b840ae2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufoinfo.com",
+"listedOn": [
+{
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+}
+],
+"node": null,
+"title": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program - Dawn of the Secret Program'",
+"topics": [
+{
+"claims": [
+"c-36c6a0aa73"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.ufoinfo.com/news/setka.shtml"
+]
+}

@@ -1,0 +1,249 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-31d173dad0",
+"locator": null,
+"node": "fasab",
+"nodeLabel": "Federal Accounting Standards Advisory Board (FASAB)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "FASAB issued SFFAS 56 'Classified Activities' on 4 October 2018.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-df0e6696c2",
+"locator": null,
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "The Department of Defense identified the need for the standard that became SFFAS 56 in August 2016.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-045c16c70c",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "Paragraph 9 also permits 'Omitting required disclosures, RSI, or RSSI that would otherwise reveal classified information.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-08697ebeac",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "Paragraph 12 requires entities to disclose that modifications are permitted by the standards but expressly prohibits disclosure of whether the entity applied the Statement.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-17da8ec825",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "SFFAS 56 'Classified Activities' was issued 4 October 2018, effective for periods beginning after 30 September 2018.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6f35bae9e1",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "Paragraph 8(b) permits a component reporting entity to be excluded from one reporting entity and consolidated into another.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-db40f5aab8",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "Paragraph 9 defines a permitted modification as 'Presenting amounts associated with one financial statement line item in another financial statement line item but not presenting narrative explaining the modification.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e519791a79",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "The Department of Defense identified the need for the standard in August 2016, citing conflict between GAAP and classification obligations under Executive Order 13526.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f0d15f92e9",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "Paragraph 13 requires the government-wide report to state that 'modifications may have been made to certain presentations' without identifying which Interpretations were applied.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-48563592e1",
+"locator": null,
+"node": "sffas-56",
+"nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "SFFAS 56 does not create the capability to conceal spending - appropriation-level and program-element-level concealment long predate it - but it removes the last accounting-standards obstacle to a published financial statement that is knowingly and deliberately misleading as to the location of money, and it does so with no external tripwire, because paragraph 12 forbids the entity from saying it used the standard. Reasoning: the prohibition on disclosing application is the operative feature; a permission to modify that had to be disclosed would be detectable, and this one is not.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-81310e3356",
+"locator": null,
+"node": "terry-patton",
+"nodeLabel": "Terry K. Patton",
+"sourceText": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "SFFAS 56 paragraph 8(c) permits entities to apply Board Interpretations that allow other modifications to information required by other standards.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+},
+"b": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"claimTier": 1,
+"id": "e-6cb045b811",
+"label": "Authorises modification of the same public financial reports the audit examines",
+"note": "SFFAS 56 became effective for periods beginning after 30 September 2018 - the first period after the Department's first full-scope audit - and permits amounts to be presented in a different line item without narrative explanation. Attested by the Statement and by the FY2018 Agency Financial Report.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+},
+"b": {
+"cls": "institution",
+"id": "fasab",
+"label": "Federal Accounting Standards Advisory Board (FASAB)"
+},
+"claimTier": 1,
+"id": "e-0e13dd4af3",
+"label": "Issued by FASAB on 4 October 2018",
+"note": "The standard is a FASAB pronouncement, effective for periods beginning after 30 September 2018. Attested by the Statement itself.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 3,
+"id": "e-cc04e375ba",
+"label": "Accounting-side and appropriations-side concealment of the same activity",
+"note": "The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+},
+"claimTier": 1,
+"id": "e-3313b072bf",
+"label": "DoD identified the need for the standard in August 2016",
+"note": "The Statement records that the Department of Defense identified the need in August 2016, citing conflict between GAAP and classification obligations under Executive Order 13526. Attested by SFFAS 56's own basis for conclusions.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-files-fasab-gov-751c8d62",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FASAB",
+"listedOn": [
+{
+"cls": "institution",
+"id": "fasab",
+"label": "Federal Accounting Standards Advisory Board (FASAB)"
+},
+{
+"cls": "person",
+"id": "michael-powers-comptroller",
+"label": "Michael Powers"
+},
+{
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+},
+{
+"cls": "person",
+"id": "terry-patton",
+"label": "Terry K. Patton"
+}
+],
+"node": null,
+"title": "SFFAS 56",
+"topics": [
+{
+"claims": [
+"c-31d173dad0",
+"c-045c16c70c",
+"c-08697ebeac",
+"c-17da8ec825",
+"c-6f35bae9e1",
+"c-db40f5aab8",
+"c-e519791a79",
+"c-f0d15f92e9",
+"c-48563592e1",
+"c-81310e3356"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+},
+{
+"claims": [
+"c-045c16c70c",
+"c-08697ebeac",
+"c-17da8ec825",
+"c-db40f5aab8",
+"c-e519791a79",
+"c-48563592e1"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+}
+],
+"type": "document",
+"urls": [
+"https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+]
+}

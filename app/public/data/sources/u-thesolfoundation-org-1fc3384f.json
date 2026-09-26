@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jim-semivan",
+"label": "James 'Jim' Semivan"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-7637de0fa4",
+"label": "Continuity from TTSA into the successor policy institution",
+"note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thesolfoundation-org-1fc3384f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "jim-semivan",
+"label": "James 'Jim' Semivan"
+}
+],
+"node": null,
+"title": "The Sol Foundation — Jim Semivan",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/people/jim-semivan/"
+]
+}

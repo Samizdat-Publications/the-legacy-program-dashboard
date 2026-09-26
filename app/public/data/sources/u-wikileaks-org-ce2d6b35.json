@@ -1,0 +1,69 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2af1f09cbf",
+"locator": null,
+"node": "podesta-delonge-mccasland-email-2016",
+"nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"sourceText": "WikiLeaks, The Podesta Emails, email id 15486, https://wikileaks.org/podesta-emails/emailid/15486",
+"text": "DeLonge names the Lockheed leg himself. On 22 February 2016, under the subject 'Advisors', he wrote to Podesta: 'Mr. Weiss from Lockheed SkunkWorks just emailed me asking if there were any updates. I am not expecting much, but if there is anything I can tell him and the General, however small, I would like to respectfully pass it along.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+"claimTier": 1,
+"id": "e-09a73a6e36",
+"label": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
+"note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-wikileaks-org-ce2d6b35",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "WikiLeaks",
+"listedOn": [
+{
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+}
+],
+"node": null,
+"title": "WikiLeaks, The Podesta Emails, email ids 51979 and 15486",
+"topics": [
+{
+"claims": [
+"c-2af1f09cbf"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-2af1f09cbf"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "web page",
+"urls": [
+"https://wikileaks.org/podesta-emails/emailid/15486"
+]
+}

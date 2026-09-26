@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+"claimTier": 2,
+"id": "e-62e6d90d87",
+"label": "Interviewed across multiple NewsNation 'Reality Check' episodes, June-August 2026",
+"note": "Coulthart carried the Gerb material into mainstream broadcast, including discussion of Immaculate Constellation and of Aerospace Corporation and MITRE in connection with the 2026 UAP Governance Board.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-70825040cc",
+"label": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
+"note": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-newsnationnow-com-a58ed7ee",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "NewsNation Reality Check",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.newsnationnow.com/podcasts-newsnation/reality-check/"
+]
+}

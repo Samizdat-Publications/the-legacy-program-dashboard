@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mitre-org-01e7c22c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "person",
+"id": "dana-keoki-jackson",
+"label": "Dana (Keoki) Jackson"
+},
+{
+"cls": "program",
+"id": "mitre-nsec",
+"label": "National Security Engineering Center (NSEC)"
+}
+],
+"node": null,
+"title": "MITRE - National Security Engineering Center",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/our-impact/rd-centers/national-security-engineering-center"
+]
+}

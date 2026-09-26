@@ -1,0 +1,478 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-5be026875b",
+"label": "The flap occurred during Ruppelt's tenure and drove the record volume",
+"note": "Blue Book case documentation for the 19 July 1952 Washington radar events survives; 1952 produced the largest single-year report volume of the program's history.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-5feec0f487",
+"label": "Occurred six years after the Air Force closed Blue Book on a no-threat finding",
+"note": "The USAF fact sheet states Blue Book was terminated on 17 December 1969 on the conclusion that no UFO had ever indicated a threat to national security. The 1975 records document unidentified objects over nuclear weapons installations.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "afrl",
+"label": "Air Force Research Laboratory"
+},
+"b": {
+"cls": "institution",
+"id": "nasic",
+"label": "National Air and Space Intelligence Center"
+},
+"claimTier": 2,
+"id": "e-d1e2d616b4",
+"label": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
+"note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "afrl",
+"label": "Air Force Research Laboratory"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 2,
+"id": "e-9a105ef1f4",
+"label": "Single Air Force science and technology laboratory, Wright-Patterson AFB",
+"note": "AFRL consolidated the Wright, Phillips, Rome and Armstrong laboratories and AFOSR at Wright-Patterson - the installation named in every retrieval account since 1947.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-ea29bbf6b0",
+"label": "ATIC and every legacy UFO project were located at Wright-Patterson",
+"note": "SIGN, GRUDGE and Blue Book were all headquartered at Wright-Patterson AFB, the site of the Air Force's foreign materiel exploitation organisation and its successors.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-7d403df934",
+"label": "No records series has ever been identified for the JANAP channel",
+"note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-0454c9715c",
+"label": "Ruppelt was Blue Book's first director",
+"note": "Ruppelt directed the project from March 1952 to August 1953, covering the Washington flap and the Robertson Panel, and later published the only insider account of the period.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-87ecd564c3",
+"label": "Hynek was scientific consultant across SIGN, GRUDGE and Blue Book",
+"note": "Twenty-one continuous years as the Air Force's own astronomer on the problem — longer than any other participant in the legacy system.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-84f49eef40",
+"label": "Arnold's case entered the official file series from the outset",
+"note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "linda-moulton-howe",
+"label": "Linda Moulton Howe"
+},
+"b": {
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+"claimTier": 2,
+"id": "e-cf2ae4991f",
+"label": "Howe is the only named witness to the AQUARIUS paper's text",
+"note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-c75770f416",
+"label": "NARA holds the Blue Book series and is digitising legacy UFO records",
+"note": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 3,
+"id": "e-c7960e1eab",
+"label": "Recovered material routed to Air Force technical intelligence at Wright-Patterson",
+"note": "Foreign Technology Division at Wright-Patterson was the designated technical exploitation centre; the Air Force felt it necessary in its January 1985 public fact sheet to deny that extraterrestrial equipment had ever been there.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+"b": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"claimTier": 3,
+"id": "e-2e31afa36a",
+"label": "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within 20 months",
+"note": "The AQUARIUS paper was shown at Kirtland in April 1983; the MJ-12 film arrived postmarked Albuquerque in December 1984. Both channels ran through people in contact with AFOSI.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-grudge",
+"label": "Project GRUDGE"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-4cb9a68112",
+"label": "GRUDGE renamed Blue Book under Ruppelt in March 1952",
+"note": "Ruppelt was placed in charge of the reconstituted GRUDGE in late 1951 and the project was renamed Project Blue Book in March 1952.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"b": {
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+},
+"claimTier": 3,
+"id": "e-fc53f72232",
+"label": "BLUE FLY provided the quick-reaction airlift for MOON DUST recoveries",
+"note": "The two codewords appear together in Air Force intelligence correspondence; MOON DUST was the collection authority and BLUE FLY the transport and custody leg.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 3,
+"id": "e-acd43d41ac",
+"label": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
+"note": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "person",
+"id": "linda-moulton-howe",
+"label": "Linda Moulton Howe"
+},
+"claimTier": 2,
+"id": "e-da75d605db",
+"label": "Doty showed Howe a purported classified briefing paper at Kirtland, April 1983",
+"note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-89e7ceeecd",
+"label": "Project BLUE BOOK records are held at the National Archives",
+"note": "94 rolls of 35mm microfilm, T-1206, permanently transferred to NARA - the Air Force is the one agency whose UFO records were fully accessioned, and they stop in 1969.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-2cbf64c664",
+"label": "BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm",
+"note": "The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-8c95e3352e",
+"label": "Air Force ran the public UFO investigation 1952-1969",
+"note": "12,618 sightings were reported to BLUE BOOK, of which 701 remain 'Unidentified'. The Secretary of the Air Force announced termination on 17 December 1969.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 1,
+"id": "e-f828ae2243",
+"label": "Air Force funded the University of Colorado study used to close BLUE BOOK",
+"note": "The termination decision rested on 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-archives-gov-fcf00d64",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+{
+"cls": "institution",
+"id": "afrl",
+"label": "Air Force Research Laboratory"
+},
+{
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+{
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+{
+"cls": "institution",
+"id": "gao",
+"label": "Government Accountability Office"
+},
+{
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+{
+"cls": "person",
+"id": "jaime-shandera",
+"label": "Jaime H. Shandera"
+},
+{
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold"
+},
+{
+"cls": "person",
+"id": "linda-moulton-howe",
+"label": "Linda Moulton Howe"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+{
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+{
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+},
+{
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+{
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+{
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+{
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+{
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+{
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+}
+],
+"node": null,
+"title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.archives.gov/research/military/air-force/ufos"
+]
+}

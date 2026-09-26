@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-sarbacher",
+"label": "Robert I. Sarbacher"
+},
+"b": {
+"cls": "person",
+"id": "wilbert-smith",
+"label": "Wilbert Brockhouse Smith"
+},
+"claimTier": 2,
+"id": "e-d10a801bc9",
+"label": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
+"note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-ia802909-us-archive-org-c14bf2be",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-sarbacher",
+"label": "Robert I. Sarbacher"
+}
+],
+"node": null,
+"title": "Sarbacher to Steinman, 29 November 1983, signed facsimile",
+"topics": [],
+"type": "document",
+"urls": [
+"https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf"
+]
+}

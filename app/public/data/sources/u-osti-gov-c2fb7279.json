@@ -1,0 +1,104 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "bechtel-nevada",
+"label": "Bechtel Nevada Corporation"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 3,
+"id": "e-bfb79d4a7a",
+"label": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
+"note": "Atomic Energy Act Restricted Data authorities are a separate statutory classification scheme; material held under them by a DOE management and operating contractor is not reachable by the Sec. 119 reporting obligations Congress relies on. No document places UAP material under DOE authority.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "bechtel-nevada",
+"label": "Bechtel Nevada Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 1,
+"id": "e-939a1c4be9",
+"label": "Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006",
+"note": "DOE technical reports list Bechtel Nevada as research organisation of record through 2006, succeeded by National Security Technologies, LLC.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 2,
+"id": "e-d307be49cb",
+"label": "EG&G was the classified services contractor for the Nevada complex in the testing era",
+"note": "Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 1,
+"id": "e-a9e2b1ee93",
+"label": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
+"note": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-osti-gov-c2fb7279",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of Energy",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bechtel-nevada",
+"label": "Bechtel Nevada Corporation"
+},
+{
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+{
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+}
+],
+"node": null,
+"title": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.osti.gov/biblio/892135"
+]
+}

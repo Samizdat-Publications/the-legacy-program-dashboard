@@ -1,0 +1,110 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a9a0ccd5f7",
+"locator": null,
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"sourceText": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
+"text": "Kevin Randle records Salas revising the number of missiles involved in conversation, quoting Salas saying 'Split the difference and I said eight' and noting that Salas later claimed all ten, and records a discrepancy between Salas, who gives all, and Col. Frederick Meiwald, who gives four or five.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e7dbb378ad",
+"locator": null,
+"node": "frederick-meiwald",
+"nodeLabel": "Col. Frederick Meiwald",
+"sourceText": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
+"text": "Kevin Randle records a discrepancy of substance between the two men rather than a disagreement about whether anything happened: Salas placing all ten missiles off alert and Meiwald four or five. Randle nonetheless assesses Meiwald as having confirmed what Salas said.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-8820c504e1",
+"locator": null,
+"node": "malmstrom-oscar-flight-1967",
+"nodeLabel": "Malmstrom Oscar Flight claim, 24 March 1967",
+"sourceText": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , all opened 2026-09-19",
+"text": "Col. Frederick Meiwald wrote to Salas about the incident on 1 October 1996. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD and two incompatible characterisations of it are in circulation, one supporting and one contradicting Salas. Kevin Randle separately records Salas giving all ten missiles and Meiwald four or five.",
+"tier": 2
+}
+],
+"date": "2013-05",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"claimTier": 2,
+"id": "e-d563b7af04",
+"label": "The originating claimant of the Oscar Flight account",
+"note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "frederick-meiwald",
+"label": "Col. Frederick Meiwald"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"claimTier": 2,
+"id": "e-fd44161381",
+"label": "Salas's crew commander; the 1 October 1996 letter",
+"note": "HE WAS FOUND BY THE CLAIMANT IN SUMMER 1996 AND HIS LETTER IS PUBLISHED BY THE CLAIMANT. NO PRE-CONTACT STATEMENT EXISTS. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD AND TWO INCOMPATIBLE CHARACTERISATIONS OF IT ARE IN CIRCULATION.",
+"type": "witness-chain"
+}
+],
+"era": "2",
+"id": "u-kevinrandle-blogspot-com-f5c6740b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "kevinrandle.blogspot.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+{
+"cls": "person",
+"id": "frederick-meiwald",
+"label": "Col. Frederick Meiwald"
+},
+{
+"cls": "event",
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+}
+],
+"node": null,
+"title": "Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026",
+"topics": [
+{
+"claims": [
+"c-a9a0ccd5f7",
+"c-e7dbb378ad"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+}
+],
+"type": "article",
+"urls": [
+"http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+]
+}

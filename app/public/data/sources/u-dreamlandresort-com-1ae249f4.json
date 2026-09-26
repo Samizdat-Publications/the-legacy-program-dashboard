@@ -1,0 +1,146 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ab45823be8",
+"locator": null,
+"node": "gene-huff",
+"nodeLabel": "Gene Huff",
+"sourceText": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"text": "His own self-description, in his synopsis posted to alt.conspiracy.area51 on 12 March 1995: 'I was working as a real estate appraiser in Las Vegas, and still am for that matter.' He and Lazar met in 1985 and 'by 1988 we had become friends and began to socialize together'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-042e7b8443",
+"locator": null,
+"node": "gene-huff",
+"nodeLabel": "Gene Huff",
+"sourceText": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"text": "The $958.11 figure that circulates as the amount on Lazar's W-2 originates with him, as a recollection rather than a document: 'The check was for $958.11', and he states that he later verified 'Bob's W-2 reflected the money actually received'. The form itself was not opened by this session.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c4eb6ed1f4",
+"locator": null,
+"node": "gene-huff",
+"nodeLabel": "Gene Huff",
+"sourceText": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"text": "HIS FIRST-HAND CLAIM IS ABOUT LIGHTS, NOT ABOUT A FACILITY. He places three desert viewings on 22 March, 29 March and 5 April 1989, the last of which ended when guards discovered the group and the Lincoln County Sheriff detained them. He makes no claim to have entered or seen any installation.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-3fd09f3aab",
+"locator": null,
+"node": "kirk-mayer",
+"nodeLabel": "Kirk-Mayer, Inc.",
+"sourceText": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"text": "Gene Huff, writing in Lazar's defence rather than against him, records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both Los Alamos National Laboratory and Kirk-Mayer subsequently said they held no employment records for him.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f8c7d4e85c",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Gene Huff, synopsis posted to alt.conspiracy.area51, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"text": "Gene Huff records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both the laboratory and Kirk-Mayer later said they held no employment records for him.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "gene-huff",
+"label": "Gene Huff"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-f5e1399143",
+"label": "Witness to the 1989 desert lights, not to the claimed facility",
+"note": "THE LABEL MUST STAY PRECISE. Huff's first-hand claim is about lights seen from Tikaboo Valley on three Wednesdays in 1989, on 22 March, 29 March and 5 April, the last ending in the group's detention by the Lincoln County Sheriff. He never claims to have been inside anything.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+"claimTier": 2,
+"id": "e-6b80bf3a68",
+"label": "The contractor he actually worked for at Los Alamos in 1982",
+"note": "Supported from three directions that do not share a source: the directory page's own scope statement, the 1996 taped colleague interview, and Gene Huff writing in Lazar's defence.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-dreamlandresort-com-1ae249f4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "dreamlandresort.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "gene-huff",
+"label": "Gene Huff"
+},
+{
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+}
+],
+"node": null,
+"title": "Gene Huff, synopsis posted to alt.conspiracy.area51",
+"topics": [
+{
+"claims": [
+"c-ab45823be8",
+"c-042e7b8443",
+"c-c4eb6ed1f4",
+"c-f8c7d4e85c"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-3fd09f3aab"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-3fd09f3aab"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dreamlandresort.com/area51/lazar/synopsis.htm"
+]
+}

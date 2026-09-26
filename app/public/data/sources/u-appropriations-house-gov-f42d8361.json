@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-881e94cb9a",
+"locator": null,
+"node": "tom-cole",
+"nodeLabel": "Tom Cole",
+"sourceText": "https://appropriations.house.gov/about/chairman-tom-cole",
+"text": "The House Appropriations Committee's official site lists 'Chairman Tom Cole' in its About navigation.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-appropriations-house-gov-f42d8361",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Appropriations Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+}
+],
+"node": null,
+"title": "https://appropriations.house.gov/about/chairman-tom-cole",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://appropriations.house.gov/about/chairman-tom-cole"
+]
+}

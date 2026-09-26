@@ -1,0 +1,62 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-238e863171",
+"locator": null,
+"node": "jason-sands",
+"nodeLabel": "Jason Sands",
+"sourceText": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands , 2024-05-13",
+"text": "Brian Dunning, writing on 13 May 2024, gives an independent account of the same service: Air Force from 1985 to 2007, working in aircraft structural maintenance and then as an Electronic System Security Assessment specialist, retiring as a Master Sergeant, in a role involving 'collecting, analyzing, and processing Department of Defense telecommunications' and identifying 'critical information potentially compromised'. A named writer's dated account, not a personnel record.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9ee51f8d27",
+"locator": null,
+"node": "jason-sands",
+"nodeLabel": "Jason Sands",
+"sourceText": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands , 2024-05-13",
+"text": "The disputing material, from the same named critic on the same date. Brian Dunning itemises Sands's claims as including that the Wilson-Davis memo is genuine, which Dunning calls an 'obviously hoaxed' document; that alien spacecraft use electromagnetic propulsion; that aliens cooperated in reverse-engineering programmes; that a 'blue alien species' exists with whom humans can communicate telepathically; that non-physical aliens assist intelligence programmes; and that underground bases house aliens and that time travel and remote viewing are real. Dunning further states that Sands initially claimed involvement with the Navy's UAP Task Force and later contradicted himself, and that Sands has not run into any trouble violating DoD confidentiality protocols.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-briandunning-substack-co-4da286e6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "briandunning.substack.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "jason-sands",
+"label": "Jason Sands"
+}
+],
+"node": null,
+"title": "Brian Dunning, 'New UFO Whistleblower Jason Sands', a named critic's dated account and the source of both the service detail and the disputing material",
+"topics": [
+{
+"claims": [
+"c-238e863171",
+"c-9ee51f8d27"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-9ee51f8d27"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+}
+],
+"type": "article",
+"urls": [
+"https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands"
+]
+}

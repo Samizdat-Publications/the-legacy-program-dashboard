@@ -7,20 +7,32 @@
 {
 "id": "c-8d8130857a",
 "source": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+"sources": [
+{
+"id": "u-navair-navy-mil-181dec85",
+"locator": null,
+"title": "NAVAIR FOIA release 2021-003244, PAX 205 briefing"
+}
+],
 "text": "The document is a six-page Navy briefing headed 'INERTIAL MASS REDUCTION DEVICE, Navy Case PAX 205', released by NAVAIR under FOIA case 2021-003244.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-883ff48610",
 "source": "NAVAIR FOIA release 2021-003244, slide 4",
+"sources": [],
 "text": "Its 'Description of Invention' slide asserts that 'It is possible to reduce the inertial mass and hence the gravitational mass, of a system/object in motion, by an abrupt perturbation of the non-linear background of local Spacetime', with the mechanism attributed to negative pressure in a polarized local vacuum energy state achieved by coupling accelerated high frequency vibration with accelerated high frequency axial spin of an electrically charged object.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6353a6c817",
 "source": "NAVAIR FOIA release 2021-003244, slide 5",
+"sources": [],
 "text": "The briefing answers 'Is there the potential for commercial use' with 'YES', citing the design of energy generation machinery with power output levels much higher than those currently achievable by conventional means.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "document",

@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-static-foxnews-com-6215c9d8",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Fox News",
+"listedOn": [
+{
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+}
+],
+"node": null,
+"title": "AARO DHS Kona Blue (mirror)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://static.foxnews.com/foxnews.com/content/uploads/2024/06/AARO_DHS_Kona_Blue.pdf"
+]
+}

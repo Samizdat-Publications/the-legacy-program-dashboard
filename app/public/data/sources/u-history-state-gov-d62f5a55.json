@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-adb547b90a",
+"locator": null,
+"node": "detlev-bronk",
+"nodeLabel": "Detlev W. Bronk",
+"sourceText": "Foreign Relations of the United States, 1961-1963, Volume XXV, List of Persons, https://history.state.gov/historicaldocuments/frus1961-63v25/persons",
+"text": "The Department of State's own list of persons gives the office and its dates: 'Bronk, Detlev W., President of the National Academy of Sciences, 1950-1962.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "detlev-bronk",
+"label": "Detlev W. Bronk"
+},
+"b": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"claimTier": 3,
+"id": "e-ca88b7c301",
+"label": "Named as a panel member inside the disputed document",
+"note": "Bronk is named as an MJ-12 member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED and again by the host in a separate episode. No record opened for this node connects him to the subject; his offices are the reason he is on the board.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-history-state-gov-d62f5a55",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "detlev-bronk",
+"label": "Detlev W. Bronk"
+}
+],
+"node": null,
+"title": "FRUS 1961-1963, Volume XXV, List of Persons",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1961-63v25/persons"
+]
+}

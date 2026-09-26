@@ -1,0 +1,40 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-357528c7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "domain",
+"id": "d-astro",
+"label": "Astronomy & Astrophysics"
+},
+{
+"cls": "domain",
+"id": "d-chem",
+"label": "Chemistry & Isotopics"
+},
+{
+"cls": "event",
+"id": "im1-pacific-expedition-2023",
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023"
+}
+],
+"node": null,
+"title": "Loeb, Jacobsen, Tagle et al., Chemical Geology",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1016/j.chemgeo.2024.122415"
+]
+}

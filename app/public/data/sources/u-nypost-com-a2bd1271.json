@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": "2017-01-09",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "event",
+"id": "ev-chile-navy-flir-2014",
+"label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)"
+},
+"claimTier": 2,
+"id": "e-2802d88f97",
+"label": "analysed the Navy FLIR case for two years then released it",
+"note": "The Chilean office published the raw sensor product without an explanation, three years before the US DoD authorised release of the Navy videos.",
+"type": "investigative"
+}
+],
+"era": "3",
+"id": "u-nypost-com-a2bd1271",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nypost.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "ev-chile-navy-flir-2014",
+"label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)"
+},
+{
+"cls": "location",
+"id": "l-santiago",
+"label": "Santiago, Chile"
+}
+],
+"node": null,
+"title": "New York Post",
+"topics": [],
+"type": "article",
+"urls": [
+"https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/"
+]
+}

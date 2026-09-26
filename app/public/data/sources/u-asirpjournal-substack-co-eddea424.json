@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 3,
+"id": "e-9ca895cd06",
+"label": "INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure",
+"note": "READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled 'ran the parallel public ufology centre after censorship lifted'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-asirpjournal-substack-co-eddea424",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "asirpjournal.substack.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+}
+],
+"node": null,
+"title": "Gene Sticco, 'Knapp's \"Russian UFO files\" are mostly old news, even in 1993 Russia', Blackgrove's Field Notes",
+"topics": [],
+"type": "article",
+"urls": [
+"https://asirpjournal.substack.com/p/knapps-russian-ufo-files-are-mostly"
+]
+}

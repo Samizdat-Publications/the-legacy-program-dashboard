@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2026-06-30",
+"label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026"
+},
+"claimTier": 3,
+"id": "e-5a9f3a9fc1",
+"label": "No UAP hearing was held in the eleven months between them",
+"note": "The period covers the February 2026 release directive, five PURSUE tranches, the late FY2025 annual report, the NDA waiver and the Burlison amendment - all executive or floor action without contemporaneous testimony. Reasoning: House Oversight published hearing index.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-347f30ea",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2026-06-30",
+"label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026"
+}
+],
+"node": null,
+"title": "House Oversight Committee hearings index",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/hearing"
+]
+}

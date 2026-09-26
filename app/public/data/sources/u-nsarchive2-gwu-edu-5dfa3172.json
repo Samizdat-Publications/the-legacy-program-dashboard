@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "usaf-1127th-field-activities-group",
+"label": "1127th USAF Field Activities Group"
+},
+"b": {
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+},
+"claimTier": 1,
+"id": "e-36df826e59",
+"label": "ran BLUE FLY under the same Foreign Materiel Program",
+"note": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "usaf-1127th-field-activities-group",
+"label": "1127th USAF Field Activities Group"
+},
+"b": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"claimTier": 1,
+"id": "e-db1b89092b",
+"label": "ran MOON DUST under its Foreign Materiel Program",
+"note": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "usaf-1127th-field-activities-group",
+"label": "1127th USAF Field Activities Group"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-75be159ffe",
+"label": "airlifted recovered foreign materiel to Wright-Patterson",
+"note": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-nsarchive2-gwu-edu-5dfa3172",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Security Archive",
+"listedOn": [
+{
+"cls": "institution",
+"id": "usaf-1127th-field-activities-group",
+"label": "1127th USAF Field Activities Group"
+},
+{
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+}
+],
+"node": null,
+"title": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+"topics": [],
+"type": "document",
+"urls": [
+"https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+]
+}

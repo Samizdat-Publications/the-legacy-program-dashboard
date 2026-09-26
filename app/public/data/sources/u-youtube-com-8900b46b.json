@@ -1,0 +1,129 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-040ce1a32e",
+"locator": null,
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:52:03 to 0:52:59 (machine transcript, checked against the audio timestamps)",
+"text": "In the same conversation, asked how Admiral Thomas Wilson reacted when they met, Davis said: 'I can't confirm or deny that we met, for the security reasons.' He said the document 'was released from Mitchell's estate', that Edgar Mitchell had received a copy 'as a courtesy from who generated it', and that it 'was supposed to be destroyed' a year afterwards. Authorship confirmed; the meeting neither confirmed nor denied by its author.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8d6448fa78",
+"locator": null,
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:53:04 to 0:53:25 (machine transcript of the podcast audio, checked against the audio timestamps)",
+"text": "On 8 March 2026, asked by Jesse Michels on the record whether he had confirmed writing the Wilson-Davis notes, Davis said: 'I can confirm. Seeking legal counsel. They're real. They're legit. They're 100% accurate.' He added that the circulated document is 'the typewritten version' and that 'there's a handwritten version, but that's all I can say about it.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-3e6f3025d8",
+"label": "Episode establishes the AAWSAP clearance chain for Davis",
+"note": "Davis's AAWSAP clearances and DIA deputisation are the credential on which the episode's authority rests.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 2,
+"id": "e-aaa4f73048",
+"label": "Michels put Eric Davis on record with Eric Weinstein, 8 March 2026",
+"note": "A four-hour session covering the Wilson-Davis memo (37:56), the count of crashes (48:00), crash retrieval program structure (2:28:43) and the legacy program (2:35:09); 766,314 views.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 2,
+"id": "e-699f3b9751",
+"label": "Episode framing cites Lacatski's AAWSAP deputisation of Davis",
+"note": "The episode description states Davis held security clearances through AAWSAP and was formally deputised by DIA under program manager James Lacatski, 'who himself claims he has stepped inside a UFO and breached the hull.'",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-79745e7910",
+"label": "Dedicated chapter on the Wilson-Davis memo with Davis present",
+"note": "Chapter at 37:56 of the 8 March 2026 episode, with the memo's named author-participant in the room - the closest to a primary-source interrogation of that document yet conducted in public.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-8900b46b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+}
+],
+"node": null,
+"title": "American Alchemy - Weinstein/Davis episode",
+"topics": [
+{
+"claims": [
+"c-040ce1a32e",
+"c-8d6448fa78"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+}
+],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=xnxasfyHtfo"
+]
+}

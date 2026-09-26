@@ -1,0 +1,251 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"b": {
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+"claimTier": 1,
+"id": "e-47c9ca26b9",
+"label": "CIA history confirms the 1952 flap drove Agency intervention",
+"note": "Haines records the escalation from the summer 1952 sightings through Chadwell's memoranda to the January 1953 panel.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-40cf2836c3",
+"label": "CIA states the Air Force made misleading and deceptive public statements",
+"note": "Haines writes that reconnaissance-programme secrecy 'led the Air Force to make misleading and deceptive statements to the public' — an agency of the US government confirming official deception on this subject.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+"b": {
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"claimTier": 1,
+"id": "e-4a9ea0a978",
+"label": "Black aircraft generated real cover stories",
+"note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"claimTier": 1,
+"id": "e-182fef211a",
+"label": "CIA published its own institutional history of its UFO role in 1997",
+"note": "Gerald K. Haines, the Agency's historian, published an eighteen-page account in Studies in Intelligence acknowledging the OSI effort, the Robertson Panel and the later U-2/OXCART attribution.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-05f5b852b7",
+"label": "CIA convened and sponsored the panel, and concealed that sponsorship",
+"note": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-3710978124",
+"label": "CIA convened and staffed the January 1953 scientific advisory panel",
+"note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-b71d955bc1",
+"label": "Assistant Director for Scientific Intelligence who drove the CIA's 1952-53 UFO effort",
+"note": "Chadwell's OSI memoranda are the internal record of CIA's decision to treat the subject as a security and public-opinion problem.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-a04a01d84a",
+"label": "Chadwell assembled the panel with Robertson",
+"note": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"b": {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"claimTier": 1,
+"id": "e-e549bdc7f9",
+"label": "CIA's official history documents the panel's debunking and concealment",
+"note": "Haines records the mass media and Disney recommendations and states plainly that CIA sponsorship of the panel was forbidden from being mentioned.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"b": {
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+"claimTier": 1,
+"id": "e-00b8f13277",
+"label": "Denial is the public face of concealment",
+"note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-cia-gov-92c935e1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+{
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+{
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+{
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+{
+"cls": "person",
+"id": "frederick-durant",
+"label": "Frederick C. Durant III"
+},
+{
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell"
+},
+{
+"cls": "domain",
+"id": "d-history",
+"label": "Historiography"
+},
+{
+"cls": "person",
+"id": "howard-p-robertson",
+"label": "Howard P. Robertson"
+},
+{
+"cls": "domain",
+"id": "d-ic",
+"label": "Intelligence Community"
+},
+{
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+{
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+{
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+}
+],
+"node": null,
+"title": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+]
+}

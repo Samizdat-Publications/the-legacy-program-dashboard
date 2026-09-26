@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-41decbd64f",
+"locator": null,
+"node": "friedwardt-winterberg",
+"nodeLabel": "Friedwardt Winterberg",
+"sourceText": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community",
+"text": "Winterberg is a research professor at the University of Nevada, Reno who received his PhD under Werner Heisenberg at the Max Planck Institute, Goettingen, and whose nuclear rocket propulsion work was recognised with the 1979 Hermann Oberth Gold Medal.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-unr-edu-e8a1d76f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "unr.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+}
+],
+"node": null,
+"title": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community"
+]
+}

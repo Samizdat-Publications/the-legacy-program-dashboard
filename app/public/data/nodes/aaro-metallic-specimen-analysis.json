@@ -7,38 +7,50 @@
 {
 "id": "c-5868af5613",
 "source": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
+"sources": [],
 "text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0c3f9958a1",
 "source": "AARO summary and Historical Record Report Volume I",
+"sources": [],
 "text": "AARO contracted ORNL in 2022 to conduct materials testing on the specimen after acquiring it, with stakeholder permission, from a private UAP organisation and the US Army.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-21cce3f392",
 "source": "AARO/ORNL Synopsis, July 2024",
+"sources": [],
 "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fa6a413d70",
 "source": "AARO UAP Records/Information Papers page",
+"sources": [],
 "text": "The report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, produced under a 2022 AARO contract with Oak Ridge National Laboratory.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-75c22fe63f",
 "source": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
+"sources": [],
 "text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f03a2ef640",
 "source": "Gizmodo, 11 July 2024, quoting the published synopsis",
+"sources": [],
 "text": "Neither AARO nor ORNL could verify the specimen's historical origin.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "document",

@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-6701b2bd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "beatriz-villarroel",
+"label": "Beatriz Villarroel"
+},
+{
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations"
+}
+],
+"node": null,
+"title": "Villarroel et al., 'The Vanishing and Appearing Sources during a Century of Observations Project. I.', The Astronomical Journal",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.3847/1538-3881/ab570f"
+]
+}

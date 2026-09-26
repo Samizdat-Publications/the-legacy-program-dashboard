@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-pogo-org-1e970cf2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "pogo.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "pogo",
+"label": "Project On Government Oversight"
+}
+],
+"node": null,
+"title": "Project On Government Oversight - About (official)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.pogo.org/about"
+]
+}

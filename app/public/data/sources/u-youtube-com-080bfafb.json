@@ -1,0 +1,116 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"b": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"claimTier": 3,
+"id": "e-5a40d1833c",
+"label": "the named model this domain is arguing about, and the reason to keep it graded Tier 3",
+"note": "UAP Gerb's onion model of an indefinitely layered secrecy architecture, set out across two investigations published 1 May and 19 June 2026, is the most fully articulated structural hypothesis in circulation and is what the independent-media substrate has organised itself around. It is sourced only to those two videos and has no independent documentary corroboration, which is exactly why it belongs in this domain at Tier 3 rather than being excluded from it.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"b": {
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+},
+"claimTier": 2,
+"id": "e-0c01371afd",
+"label": "The 1994 SAP restructuring vested control in a quasi-industry group",
+"note": "Gerb argues the 1994 restructuring of the SAP enterprise permanently vested the portfolio in a quasi-government and industry control group - the point at which the FFRDC and contractor layer becomes the locus of control rather than the government.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 2,
+"id": "e-93cf33cac5",
+"label": "Alleges custody of recovered disks vested in AEC national laboratories",
+"note": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"claimTier": 2,
+"id": "e-ebe4cad463",
+"label": "The episode's thesis is the Manhattan Project 2.0 architecture",
+"note": "The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"claimTier": 2,
+"id": "e-afd271ba21",
+"label": "Gerb constructed and named the Manhattan Project 2.0 model",
+"note": "Set out across two investigations, 1 May and 19 June 2026, covering the 1947 founding, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, the 1980s fracture, the 1994 SAP restructuring and modern Non-Covert Action Programs.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-080bfafb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+}
+],
+"node": null,
+"title": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=jR-h5p2bd-A"
+]
+}

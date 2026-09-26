@@ -1,0 +1,30 @@
+{
+"archived": [
+"https://web.archive.org/web/20260509235856/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dia-mil-5c2e3592",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+}
+],
+"node": null,
+"title": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
+"topics": [],
+"type": "web page",
+"urls": []
+}

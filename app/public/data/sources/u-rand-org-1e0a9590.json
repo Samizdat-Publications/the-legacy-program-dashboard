@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-santa-monica",
+"label": "Santa Monica, California"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 1,
+"id": "e-ff6acd3a6b",
+"label": "RAND headquarters since its 1948 formation",
+"note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-rand-org-1e0a9590",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "RAND",
+"listedOn": [],
+"node": null,
+"title": "https://www.rand.org/about.html",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.rand.org/about.html"
+]
+}

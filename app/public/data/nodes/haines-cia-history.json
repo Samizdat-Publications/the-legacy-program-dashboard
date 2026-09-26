@@ -7,68 +7,102 @@
 {
 "id": "c-e2e5a4d707",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+"sources": [
+{
+"id": "u-nicap-org-fbc67b25",
+"locator": null,
+"title": "Haines article, mirrored full text"
+}
+],
 "text": "The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-decd947291",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+"sources": [
+{
+"id": "u-nicap-org-fbc67b25",
+"locator": null,
+"title": "Haines article, mirrored full text"
+}
+],
 "text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-52b1c4c345",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA)",
+"sources": [],
 "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8f395c3411",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+"sources": [],
 "text": "'Air Force BLUE BOOK investigators aware of the secret U-2 flights tried to explain away such sightings by linking them to natural phenomena such as ice crystals and temperature inversions... They were careful, however, not to reveal the true cause of the sighting to the public.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8c2a9eb082",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+"sources": [],
 "text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights (namely the U-2) over the United States.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-66c16c22d5",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+"sources": [],
 "text": "CIA's Deputy Assistant Director of OSI, Philip Strong, refused to declassify the Robertson Panel report and 'the Agency prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-77087802ba",
 "source": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
+"sources": [],
 "text": "'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-20612fa9e1",
 "source": "Haines, Studies in Intelligence, 1997",
+"sources": [],
 "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-de9afdb635",
 "source": "Haines, Studies in Intelligence, 1997",
+"sources": [],
 "text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-373f57c225",
 "source": "Haines, Studies in Intelligence, 1997",
+"sources": [],
 "text": "The Robertson Panel suggested 'using the mass media, advertising, business clubs, schools, and even the Disney corporation to get the message across'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-20c3529e46",
 "source": "Inference from the stated date range 'late 1950s through the 1960s' against the 1947-1969 Blue Book corpus",
+"sources": [],
 "text": "The U-2/OXCART claim accounts for at most half of the reports by CIA's own framing, and cannot apply to the 1947-1954 period at all, so it does not address the unexplained residue it is customarily used to dismiss.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

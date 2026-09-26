@@ -7,14 +7,18 @@
 {
 "id": "c-f2069a8318",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [],
 "text": "USAspending records prime contract obligations to Raytheon Company entities exceeding $100 billion since FY2008, including sensor test assessment and anomaly resolution task orders.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-56daa907d4",
 "source": "Board inference from Raytheon's documented sensor contracts",
+"sources": [],
 "text": "Raytheon holds the sensor data and calibration records underlying the military UAP imagery Congress has repeatedly failed to obtain. Reasoning: it is the manufacturer of the relevant systems and data rights typically follow the contract, but no specific withheld dataset has been identified in a public record.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

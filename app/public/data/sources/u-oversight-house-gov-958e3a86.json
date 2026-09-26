@@ -1,0 +1,133 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-b686095509",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/",
+"text": "Knapp testified that 'Documents paint a much different picture than what the public, the press, and Congress have been told,' and alleged UAP materials have been moved to private contractors, complicating oversight and FOIA access.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-60f84097b9",
+"label": "Luna chaired the hearing at which the contractor allegation acquired names",
+"note": "Luna chaired the Task Force on the Declassification of Federal Secrets hearing at which four witnesses testified on UAP transparency and whistleblower retaliation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-6216782e12",
+"label": "sworn witness",
+"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 3,
+"id": "e-40aedb30b4",
+"label": "acts on the hearing's fourth finding",
+"note": "The September 2025 Oversight wrap-up recorded that UAP materials had been moved to private contractors, complicating oversight and FOIA access; the MITRE demand is the first instrument aimed at that finding.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-958e3a86",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+{
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+{
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+{
+"cls": "event",
+"id": "vandenberg-2003",
+"label": "Vandenberg AFB Incidents (2003-2005)"
+}
+],
+"node": null,
+"title": "House Oversight - hearing wrap up",
+"topics": [
+{
+"claims": [
+"c-b686095509"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+},
+{
+"claims": [
+"c-b686095509"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/"
+]
+}

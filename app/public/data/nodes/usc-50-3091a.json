@@ -7,104 +7,255 @@
 {
 "id": "c-fe3c25d754",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "Source credit, verbatim: '(July 26, 1947, ch. 343, title V, Sec. 501A, as added Pub. L. 117-103, div. X, title V, Sec. 504, Mar. 15, 2022, 136 Stat. 986.)' -- i.e. enacted in the Intelligence Authorization Act for FY2022 carried in the Consolidated Appropriations Act, 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eea7a7db22",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "(a)(1) verbatim: 'Not less frequently than semiannually or upon request by one of the appropriate congressional committees or a member of congressional leadership, the Director of National Intelligence shall provide to such committees and congressional leadership a briefing on each controlled access program in effect.' There is no exception for unacknowledged CAPs.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7652e1402e",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "(b) verbatim: 'A head of an element of the intelligence community may not establish a controlled access program, or a compartment or subcompartment therein, until the head notifies the appropriate congressional committees and congressional leadership of such controlled access program, compartment, or subcompartment, as the case may be.' The notification duty reaches down to the sub-compartment level.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-99ce3760d7",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "(c)(2)(A)-(B): each annual report must include 'A list of all compartments and subcompartments of controlled access programs active as of the date of the report' and 'A list of all compartments and subcompartments of controlled access programs terminated during the period covered by the report.' (c)(2)(C) requires the DNI additionally to certify that the creation, validation or substantial modification of every existing and proposed CAP 'are substantiated and justified', with the rationale, an identified control officer, and a statement of protection requirements for each.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-64e902eed3",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "NO WAIVER. 50 U.S.C. 3091a contains no subsection permitting the DNI or an IC element head to waive, defer, or narrow the briefing, notification, or reporting duties, and no reduction of the audience to chairs and ranking members. This is the structural opposite of 10 U.S.C. 119(e).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ffcf896d50",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "(d)(1)-(2) define 'appropriate congressional committees' as the congressional intelligence committees plus both Appropriations Committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and minority leader of the House -- i.e. a statutory Gang-of-Eight-shaped audience that is a floor, not a ceiling.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2d6410bfbb",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "(d)(3) verbatim: \"The term 'controlled access program' means a program created or managed pursuant to Intelligence Community Directive 906, or successor directive.\" The GPO 'References in Text' note states: 'Intelligence Community Directive 906, referred to in subsec. (d)(3), is located at https://www.dni.gov/files/documents/ICD/ICD906.pdf.' Congress incorporated an executive-branch directive by reference and pointed at a URL, so the statutory scope of 'controlled access program' moves whenever ODNI reissues ICD 906.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ff9e4466ad",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "Because 3091a(d)(3) defines its own subject matter by reference to ICD 906, and ICD 906 section C.3 expressly excludes DoD, State, Energy, DHS, DOJ and NSC covert-action programs, the strongest CAP oversight statute on the books cannot reach a program held on the DoD side of the line. Moving a program from IC cognizance to DoD cognizance moves it from a no-waiver statute to a waiver statute. Reasoning stated from 3091a(d)(3) and ICD 906 C.3.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-9c66c21c98",
 "source": "50 U.S.C. 3091a, OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "OLRC prelim text, read 22 August 2026",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+},
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "The section requires an annual report containing 'a list of all compartments and subcompartments of controlled access programs active as of the date of the report' and 'a list of all compartments and subcompartments of controlled access programs terminated during the period'. A complete compartment inventory is therefore owed to Congress by statute, whatever is or is not delivered.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6a9a131d67",
 "source": "50 U.S.C. 3091a, OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "OLRC prelim text, read 22 August 2026",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+},
+{
+"id": "usc-50-3091a",
+"locator": null,
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "Its obligations run to 'a head of an element of the intelligence community' and to the Director of National Intelligence, who briefs 'the appropriate congressional committees and congressional leadership' semiannually, with notification procedures required before a new controlled access program is established.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-85e1b104da",
 "source": "50 U.S.C. 3091a(e)(3)",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "e)(3",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "50 U.S.C. 3091a(e)(3): 'The term \"controlled access program\" means a program created or managed pursuant to Intelligence Community Directive 906, or successor directive.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b38f3020ac",
 "source": "50 U.S.C. 3091a(b)(2)(A)",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "b)(2)(A",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "50 U.S.C. 3091a(b)(2)(A), added by Pub. L. 118-159 sec. 6603 (23 December 2024): a head of an IC element 'may not transfer a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in section 3348(g) of this title), or to anything else outside the controlled access program, until the head submits to the appropriate congressional committees and congressional leadership notice of the intent of the head to make such transfer.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3cd160d625",
 "source": "50 U.S.C. 3091a(b)(2)(B)",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "b)(2)(B",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "50 U.S.C. 3091a(b)(2)(B) permits transfer without prior notification where the head determines it 'is required to mitigate an urgent counterintelligence issue' or 'is necessary to maintain access in the event of an organizational restructuring.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-67496b291d",
 "source": "50 U.S.C. 3091a(c)",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "c",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "50 U.S.C. 3091a(c), added by Pub. L. 118-159 sec. 6602: NIP funds 'may not be obligated or expended for any controlled access program, or a compartment or subcompartment therein, until the head of the element ... submits the notification required by subsection (b).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-48f38b4d8c",
 "source": "50 U.S.C. 3091a(d)(2)",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "d)(2",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "50 U.S.C. 3091a(d)(2) requires each annual report to list all active compartments and subcompartments, all terminated during the period, and for the DNI a certification that creation, validation or substantial modification of every program is 'substantiated and justified', with 'the identification of a control officer for each controlled access program' and 'a statement of protection requirements'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-156d4e57f2",
 "source": "Full text of 50 U.S.C. 3091a, by omission",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "by omission",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+}
+],
 "text": "Section 3091a contains no waiver authority of any kind.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b880da0bb1",
 "source": "50 U.S.C. 3091a(b)(2) as added by Pub. L. 118-159 sec. 6603",
+"sources": [
+{
+"id": "usc-50-3091a",
+"locator": "b)(2) as added by Pub. L. 118-159 sec. 6603",
+"title": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+},
+{
+"id": "pl-118-159",
+"locator": "sec. 6603",
+"title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+}
+],
 "text": "Section 6603 of the FY2025 NDAA is a statutory response to the possibility that a capability is moved between compartment regimes to escape the notification that attaches to each. The exception for 'organizational restructuring' is the gap it leaves: a reorganisation is a self-certified determination by the same official making the transfer. Reasoning: reading the prohibition together with its own exception.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

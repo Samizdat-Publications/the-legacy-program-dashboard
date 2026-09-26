@@ -1,0 +1,83 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-052ced78a2",
+"locator": "and -045-7",
+"node": "allen-w-dulles",
+"nodeLabel": "Allen W. Dulles",
+"sourceText": "Executive Registry notes filed with CIA-RDP80B01676R001000160044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7",
+"text": "Each of the three letters is a rewrite of an earlier version that was withdrawn. A note to the Executive Registry filed with two of them reads: 'Please note that the attached letter ... was not sent out, but was rewritten as of 13 March 1953 (copy attached).' The letters themselves carry the stamp 'REWRITTEN 13 March 1953'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-812509e640",
+"locator": null,
+"node": "allen-w-dulles",
+"nodeLabel": "Allen W. Dulles",
+"sourceText": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953, CIA-RDP80B01676R001000160044-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8",
+"text": "The letters attribute the Robertson Panel to his predecessor by name: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+"b": {
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+},
+"claimTier": 1,
+"id": "e-de001fedf7",
+"label": "Succeeded him as DCI and attributed the panel to him in writing",
+"note": "Dulles's own letters name General Smith as the officer at whose direction the panel was convened, which is the Agency's contemporaneous account of the handover of the file.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "cia-rdp80b01676r001000160044-8",
+"identifiers": [
+"CIA-RDP80B01676R001000160044-8"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+}
+],
+"node": null,
+"title": "CIA-RDP80B01676R001000160044-8",
+"topics": [
+{
+"claims": [
+"c-052ced78a2",
+"c-812509e640"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-052ced78a2",
+"c-812509e640"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8"
+]
+}

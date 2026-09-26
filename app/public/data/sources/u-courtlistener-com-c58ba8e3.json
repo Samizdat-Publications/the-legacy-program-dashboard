@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+"b": {
+"cls": "event",
+"id": "cash-v-united-states",
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
+},
+"claimTier": 1,
+"id": "e-ad17c45c36",
+"label": "The domain's only two federal dockets, twenty years apart",
+"note": "Cash (1984-1986) sought damages and was dismissed on the pleadings and summary judgment; Kean (2003-2009) sought records and obtained a finding of inadequate search plus a supervised re-search. The record case succeeded where the injury case did not.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+"claimTier": 1,
+"id": "e-e1a409137f",
+"label": "Plaintiff who forced a court-supervised NASA records search",
+"note": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-courtlistener-com-c58ba8e3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CourtListener",
+"listedOn": [
+{
+"cls": "event",
+"id": "kean-v-nasa",
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+},
+{
+"cls": "event",
+"id": "kecksburg-1965",
+"label": "Kecksburg incident, 9 December 1965"
+},
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+}
+],
+"node": null,
+"title": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.) - full docket",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+]
+}

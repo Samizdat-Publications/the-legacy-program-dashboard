@@ -1,0 +1,509 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-041d49bbc8",
+"locator": null,
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+"text": "Convened 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', 9 September 2025, HVC-210.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-9ea82762fc",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+"text": "Witness list: Jeffrey Nuccetelli (USAF veteran), Chief Alexandro Wiggins (UAP witness), George Knapp (UAP journalist), Dylan Borland (UAP witness, USAF veteran), Joe Spielberger (Senior Policy Counsel, POGO - minority witness).",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-34e28a9688",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+"text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-53979e0bf2",
+"locator": null,
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"sourceText": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+"text": "The task force held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025 at 10:00am in HVC-210.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 3,
+"id": "e-e4f812ba24",
+"label": "Video releases began five weeks after testimony that AARO was withholding video",
+"note": "The timing and the scale together read as minimum compliance: seven short clips in response to sworn testimony that the office holds an unreleased video archive.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-4c4f9bed66",
+"label": "sworn witness",
+"note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-3ee8c1ae0b",
+"label": "presiding chairwoman",
+"note": "The Task Force on the Declassification of Federal Secrets built the hearing around serving and former operators rather than programme officials.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-60f84097b9",
+"label": "Luna chaired the hearing at which the contractor allegation acquired names",
+"note": "Luna chaired the Task Force on the Declassification of Federal Secrets hearing at which four witnesses testified on UAP transparency and whistleblower retaliation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"claimTier": 2,
+"id": "e-31dbd9c0c5",
+"label": "1 April 2026 letter demanding AARO's video holdings",
+"note": "Luna wrote to the Secretary of War seeking AARO's UAP video after the September 2025 testimony; the first PURSUE tranche with 29 sensor videos followed five weeks later.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-oversight",
+"label": "Congressional Oversight"
+},
+"b": {
+"cls": "domain",
+"id": "d-disclosure",
+"label": "Disclosure Movement"
+},
+"claimTier": 1,
+"id": "e-20d48628ee",
+"label": "The movement's only binding lever",
+"note": "Every enacted transparency provision came through committee process; the disclosure movement's instruments are procedural because the substantive question cannot be reached.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-oversight",
+"label": "Congressional Oversight"
+},
+"b": {
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+"claimTier": 1,
+"id": "e-0d1042aa10",
+"label": "Where the hearings happen",
+"note": "The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-oversight",
+"label": "Congressional Oversight"
+},
+"b": {
+"cls": "domain",
+"id": "d-witness",
+"label": "Witness Chain"
+},
+"claimTier": 1,
+"id": "e-7660084926",
+"label": "Sworn testimony is oversight's evidence-gathering act",
+"note": "The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-aeedb1f378",
+"label": "sworn witness",
+"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-6216782e12",
+"label": "sworn witness",
+"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-250dd141f8",
+"label": "Witnesses testified AARO holds unreleased UAP video",
+"note": "The testimony that AARO possesses additional video records is the specific factual basis for Luna's April 2026 letter and, through it, for the video composition of the PURSUE tranches.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-c057bc0e2f",
+"label": "Hearing, then letter, then release - the causal spine of 2026",
+"note": "The sequence runs from sworn testimony that video was being withheld, through a subcommittee chair's letter to the Secretary, to a release channel that bypassed the office entirely.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"claimTier": 3,
+"id": "e-d782e0474f",
+"label": "The FOIA-reach finding is the antecedent of the 2026 contractor-disclosure amendment",
+"note": "The Task Force found UAP spending flows to entities outside FOIA reach; the amendment adopted 23 July 2026 extends disclosure obligations to government contractors. Reasoning: direct correspondence between the finding and the remedy.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-huntsville",
+"label": "Huntsville, Alabama"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 2,
+"id": "e-4f7b7cdc90",
+"label": "The Task Force's chief scientist was employed by a Huntsville contractor",
+"note": "Science magazine reported in June 2022 that Travis S. Taylor, a principal research scientist at Huntsville-based Radiance Technologies, was chief scientist of the UAP Task Force.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-e399ff9ed0",
+"label": "sworn witness",
+"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+"b": {
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+},
+"claimTier": 2,
+"id": "e-cb416a4308",
+"label": "Nuccetelli served in security forces at Vandenberg 2003-2005",
+"note": "His sworn written testimony of 9 September 2025 describes the 14 October 2003 red square over two missile defense sites, a rectangular craft larger than a football field, a threatened witness, and a 2005 triangular craft.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "joe-spielberger",
+"label": "Joe Spielberger"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-269babb8a3",
+"label": "minority witness",
+"note": "POGO's senior policy counsel was the minority's chosen witness, arguing for stronger disclosure channels rather than contesting the phenomenology.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-2c053e1cee",
+"label": "Held the 9 September 2025 hearing",
+"note": "The hearing was held in HVC-210 at 10:00am with five witnesses, four of them first-hand or journalistic.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-a60aa183a2",
+"label": "The Vandenberg incidents entered the congressional record in September 2025",
+"note": "Nuccetelli named AARO and the FBI as custodians of the official Air Force records for specific dated incidents at a named installation - a checkable custody claim Congress has not pursued to production.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-560cc814c8",
+"label": "All three modern UAP hearings were held on Capitol Hill",
+"note": "2154 Rayburn on 26 July 2023 and 13 November 2024; HVC-210 on 9 September 2025.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-b4658538",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+{
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "domain",
+"id": "d-oversight",
+"label": "Congressional Oversight"
+},
+{
+"cls": "domain",
+"id": "d-disclosure",
+"label": "Disclosure Movement"
+},
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+{
+"cls": "location",
+"id": "l-huntsville",
+"label": "Huntsville, Alabama"
+},
+{
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+{
+"cls": "person",
+"id": "joe-spielberger",
+"label": "Joe Spielberger"
+},
+{
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+{
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+{
+"cls": "event",
+"id": "uss-jackson-2023",
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023"
+},
+{
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+},
+{
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+}
+],
+"node": null,
+"title": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"topics": [
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+]
+}

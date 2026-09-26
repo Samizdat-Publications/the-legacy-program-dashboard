@@ -1,0 +1,89 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7d9cda15ef",
+"locator": null,
+"node": "mike-rogers-alabama",
+"nodeLabel": "Mike Rogers (Alabama)",
+"sourceText": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
+"text": "Rogers was Chairman of the House Armed Services Committee in the 118th Congress, jointly announcing the committee's subcommittee rosters with Ranking Member Adam Smith.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9e6b109b4f",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
+"text": "2023 holders (118th Congress), House Armed Services: Chairman Mike Rogers and Ranking Member Adam Smith jointly announced the committee's subcommittee rosters for the 118th Congress.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 3,
+"id": "e-d808083e35",
+"label": "allegations of a programme withheld from the statutory notification channel",
+"note": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-armedservices-house-gov-68808510",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "adam-smith",
+"label": "Adam Smith"
+},
+{
+"cls": "person",
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "armedservices.house.gov",
+"topics": [
+{
+"claims": [
+"c-7d9cda15ef"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+},
+{
+"claims": [
+"c-9e6b109b4f"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress"
+]
+}

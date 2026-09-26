@@ -7,26 +7,58 @@
 {
 "id": "c-9bf087cdc0",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"sources": [
+{
+"id": "u-dia-mil-8f042feb",
+"locator": null,
+"title": "DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release)"
+}
+],
 "text": "13 November 2008: DIA Talking Paper U-326-09 references 'the Director's meeting with Senator Reid on 13 November 2008'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7161d78b6d",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"sources": [
+{
+"id": "u-dia-mil-8f042feb",
+"locator": null,
+"title": "DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release)"
+}
+],
 "text": "05 January 2009: Talking Paper U-326-09 (dated 02 January 2009) prepared for 'Senator Reid Visit to [DIA], 05 January 2009'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-73fa1cf5cd",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"sources": [
+{
+"id": "u-dia-mil-3d058fd3",
+"locator": null,
+"title": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)"
+}
+],
 "text": "15 May 2009: DIA Info Memo U-429-09 states the review of deliverables was requested 'during a 15 May 2009 meeting with you after your meeting with Senator Harry Reid'. Talking Paper U-973-09 dated 04 May 2009 prepared for 'Senator Reid Visit to Director, DIA'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-65051b26a6",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+"sources": [
+{
+"id": "u-dia-mil-c8227584",
+"locator": null,
+"title": "DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)"
+}
+],
 "text": "19 November 2009: DIA Read Ahead for 'DIA visit with Senator Harry Reid', 19 Nov 09, 1645, 'Capitol, Senate Visitor Center, SVC-217', attendees including DEPSECDEF. Purpose: to address Reid's SAP request and 'the quality and value of the products produced thus far under the current contract'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "event",

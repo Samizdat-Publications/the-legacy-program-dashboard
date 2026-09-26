@@ -7,14 +7,24 @@
 {
 "id": "c-70954ac851",
 "source": "CRS Report R44629 summarising FAR 35.017",
+"sources": [
+{
+"id": "crs-r44629",
+"locator": "summarising FAR 35.017",
+"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+}
+],
 "text": "FAR 35.017 permits initial FFRDC contracts of up to five years, renewable in similar increments, expressly to provide stability and continuity and to allow the FFRDC to attract high-quality personnel.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9517c7f6c1",
 "source": "SAM.gov notice of intent to award a sole source contract for MITRE-operated FFRDC support services, 1 August 2025",
+"sources": [],
 "text": "Federal contracting notices for MITRE's FFRDC support services have been posted as notices of intent to award a sole source contract.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "legislation",

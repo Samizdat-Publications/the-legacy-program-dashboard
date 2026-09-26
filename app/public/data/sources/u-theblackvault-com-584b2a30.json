@@ -1,0 +1,131 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-0c0d218d2e",
+"label": "Named in the 2009 Reid SAP-request memorandum",
+"note": "Puthoff's name appears in the memorandum requesting Special Access Program status, originally redacted, later released — placing him inside the program's founding paperwork.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-f3489369e1",
+"label": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
+"note": "Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"claimTier": 1,
+"id": "e-b46b67f432",
+"label": "served in OUSD(I) through October 2017",
+"note": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-84374889be",
+"label": "'no assigned responsibilities for AATIP'",
+"note": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"claimTier": 1,
+"id": "e-39e97fde8b",
+"label": "authenticated the letter, denied its significance",
+"note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-584b2a30",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "The Black Vault",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+]
+}

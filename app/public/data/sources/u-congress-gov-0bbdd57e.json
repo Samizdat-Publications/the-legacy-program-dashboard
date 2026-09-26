@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-7dbb2509ac",
+"label": "presiding chair; entered Immaculate Constellation into the record",
+"note": "Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-0bbdd57e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+}
+],
+"node": null,
+"title": "Congress.gov — House event 117721",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/event/118th-congress/house-event/117721"
+]
+}

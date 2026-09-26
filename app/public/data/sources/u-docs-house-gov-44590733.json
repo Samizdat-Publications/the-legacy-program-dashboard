@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-docs-house-gov-44590733",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. House of Representatives",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+}
+],
+"node": null,
+"title": "Official hearing transcript PDF, HHRG-118-GO06-Transcript-20230726.pdf (docs.house.gov)",
+"topics": [],
+"type": "transcript",
+"urls": [
+"https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf"
+]
+}

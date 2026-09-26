@@ -7,56 +7,86 @@
 {
 "id": "c-00bb6e79bf",
 "source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"sources": [
+{
+"id": "u-mgln-ai-e02226b2",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', episode audio"
+}
+],
 "text": "The corporation has now been questioned by Congress on the subject, on one member's account. On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office wrote to The Aerospace Corporation from the House Oversight Committee, that the corporation sent two members of its executive team, that the interview took place in a SCIF during the Biden administration, and that they had no knowledge of UAP or reverse engineering: 'they knew nothing' (0:19:48). No document of that meeting has been opened for this board.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d9a0dfdbab",
 "source": "Aerospace Corporation, 'Dedicated to the Space Enterprise' and 'Value of Aerospace FFRDC'",
+"sources": [],
 "text": "The Aerospace Corporation was founded in 1960 and operates the only FFRDC committed exclusively to the space enterprise, now for the United States Space Force.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d573e85216",
 "source": "CRS Report R44629 funding table; USAspending.gov award records",
+"sources": [
+{
+"id": "crs-r44629",
+"locator": "funding table",
+"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+}
+],
 "text": "The Aerospace FFRDC was funded at approximately $1,309.8 million in FY2024; its principal Space Force contract FA880219C0001 is recorded on USAspending at approximately $8.67 billion for 2018-2028.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3820c83afd",
 "source": "USAspending.gov award records",
+"sources": [],
 "text": "Aerospace holds DOE contract 89233120CNA000134 for system engineering and integration support and independent technical and programmatic analysis for the Offices of Defense Nuclear Nonproliferation and Defense Programs.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-461ada2a80",
 "source": "OTA, 'A History of the Department of Defense Federally Funded Research and Development Centers', 1995",
+"sources": [],
 "text": "The Office of Technology Assessment's 1995 history records that the Air Force specifically insisted on restrictions in the Aerospace Corporation charter that it had not imposed on earlier FFRDCs.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-be1147e92b",
 "source": "Burlison quoted by NewsNation, 15 May 2026, and Cybernews, 25 June 2026",
+"sources": [],
 "text": "Rep. Eric Burlison has stated his investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs and the prime contractors.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e7baae9755",
 "source": "Aerospace Corporation corporate officers page, accessed 12 August 2026",
+"sources": [],
 "text": "The Aerospace Corporation's corporate officers page lists Tanya Pemberton as President and Chief Executive Officer.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c20eb7c8b7",
 "source": "Ralph Blumenthal, The New York Times, 23 July 2020",
+"sources": [],
 "text": "Eric W. Davis was working for The Aerospace Corporation at the time of the July 2020 New York Times report describing his classified briefings on retrievals.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2227b214ca",
 "source": "Inference from the absence of any statement or release",
+"sources": [],
 "text": "No public document establishes whether The Aerospace Corporation had any institutional role in, or knowledge of, the retrievals Davis described, and the corporation has not addressed it publicly.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

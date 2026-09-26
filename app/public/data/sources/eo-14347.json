@@ -1,0 +1,103 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-90e6111736",
+"locator": "5 September 2025",
+"node": "eop",
+"nodeLabel": "Executive Office of the President",
+"sourceText": "Executive Order 14347, 5 September 2025",
+"text": "Executive Order 14347, signed 5 September 2025, authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on the legislative actions needed to make the change permanent.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-101192e3a3",
+"locator": "5 September 2025",
+"node": "dod",
+"nodeLabel": "United States Department of Defense (secondary designation: Department of War)",
+"sourceText": "Executive Order 14347, 5 September 2025",
+"text": "Executive Order 14347 of 5 September 2025 authorises 'Department of War' and 'Secretary of War' as secondary designations, states that 'Statutory references to the Department of Defense ... shall remain controlling until changed subsequently by the law', and directs a recommendation within 60 days on permanently renaming the Department.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+"b": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"claimTier": 1,
+"id": "e-ebdd78b62d",
+"label": "Signed EO 14347 and issued the 2026 UAP release directives",
+"note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-4f55dfef84",
+"label": "EO 14347 renamed the department by presidential signature",
+"note": "Executive Order 14347 authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on permanent statutory renaming.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"claimTier": 3,
+"id": "e-c60b581ef1",
+"label": "Restricted Data authority sits outside presidential EO declassification power",
+"note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "eo-14347",
+"identifiers": [
+"Executive Order 14347"
+],
+"interestedParty": false,
+"issuer": "The President",
+"listedOn": [
+{
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+{
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+}
+],
+"node": null,
+"title": "Executive Order 14347",
+"topics": [],
+"type": "regulation",
+"urls": []
+}

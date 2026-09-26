@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "bdm-international",
+"label": "BDM International, Inc."
+},
+"b": {
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia"
+},
+"claimTier": 1,
+"id": "e-eb1e357ad6",
+"label": "headquartered at 1501 BDM Way, McLean, Virginia",
+"note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-sec-gov-d8f48c2b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bdm-international",
+"label": "BDM International, Inc."
+}
+],
+"node": null,
+"title": "BDM International, Inc., Form 10-K for FY1995",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt"
+]
+}

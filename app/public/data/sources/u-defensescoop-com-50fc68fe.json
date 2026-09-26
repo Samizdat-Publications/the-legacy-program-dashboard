@@ -1,0 +1,289 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-73e987809e",
+"locator": null,
+"node": "threei-atlas-2025",
+"nodeLabel": "3I/ATLAS interstellar object and the US government response (November 2025)",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The episode exposed the absence of a standing government scientific body able to speak to anomalous objects, the gap the UAP Science Advisory Council was announced across seven months later. Reasoning: the same scientist, Loeb, was the principal public voice in both episodes.",
+"tier": 3
+},
+{
+"cls": "event",
+"id": "c-04928ec788",
+"locator": null,
+"node": "aaro-aui-workshop-2025",
+"nodeLabel": "AARO invite-only UAP research workshop (early August 2025)",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The workshop is the operational precursor to the June 2026 UAP Science Advisory Council. Reasoning: same subject matter (standardising UAP data capture and analysis), same sponsoring office, and an overlapping population of independent researchers, ten months apart.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-af5a4f05e7",
+"locator": null,
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "'Since UAPs are physical objects that interact with humans, the council includes members with expertise in physical sciences as well as psychology and biology.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b4d6c752f0",
+"locator": null,
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "'The goal of the council is to advise the U.S. government on how to resolve the nature of UAP.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8f44d878c7",
+"locator": null,
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "Named a member of the UAP Science Advisory Council announced 17 June 2026.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-e09399cc0a",
+"locator": null,
+"node": "uap-governance-board",
+"nodeLabel": "UAP Governance Board",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The UAP Science Advisory Council reports to the UAP Governance Board, whose mission includes optimising interagency processes to ensure more effective support to AARO.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-4db3a91118",
+"locator": null,
+"node": "uap-governance-board",
+"nodeLabel": "UAP Governance Board",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "No charter, membership roster or meeting record for the UAP Governance Board is public as of 12 August 2026. Reasoning: it is named only in derivative reporting about the Science Advisory Council and appears on no AARO or war.gov page.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-91fdec5b20",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "Avi Loeb formed and leads the UAP Science Advisory Council, announced June 2026; named members include Carol Cleland, Richard Cloete, Omer Eldadi, Tim Gallaudet, Ross Howard, Ben Lamm, Devesh Nandal, Garry Nolan, Michael Shermer, Peter Skafish, Matthew Szydagis and Jennice Vilhauer.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-c9f74ec474",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The council reports to the UAP Governance Board, which supports AARO and whose mission includes optimising interagency processes to 'ensure more effective support to' AARO.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-a7ec0b5be4",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The council is the institutional locus where PURSUE's unassessed imagery and AARO's unpublished assessments could be joined; no published product exists as of 12 August 2026. Reasoning: the two programmes have complementary gaps and the council is the only body chartered across both.",
+"tier": 3
+}
+],
+"date": "2026-06-17",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "threei-atlas-2025",
+"label": "3I/ATLAS interstellar object and the US government response (November 2025)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 3,
+"id": "e-3a0c540cef",
+"label": "the gap the council was formed across",
+"note": "An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "aaro-aui-workshop-2025",
+"label": "AARO invite-only UAP research workshop (early August 2025)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 3,
+"id": "e-8b13112369",
+"label": "operational precursor",
+"note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-128c545f8c",
+"label": "Chair, appointed June 2026",
+"note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-2dc09b6bdd",
+"label": "Council announced 17 June 2026, between Releases 03 and 04",
+"note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-ae2c9f517d",
+"label": "Council established following the PURSUE releases",
+"note": "Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"claimTier": 2,
+"id": "e-d85ecad08d",
+"label": "Gallaudet named to the council as its oceanographer",
+"note": "A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "institution",
+"id": "uap-governance-board",
+"label": "UAP Governance Board"
+},
+"claimTier": 2,
+"id": "e-71ae56d603",
+"label": "reports to",
+"note": "The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-50fc68fe",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "event",
+"id": "threei-atlas-2025",
+"label": "3I/ATLAS interstellar object and the US government response (November 2025)"
+},
+{
+"cls": "event",
+"id": "aaro-aui-workshop-2025",
+"label": "AARO invite-only UAP research workshop (early August 2025)"
+},
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+{
+"cls": "institution",
+"id": "uap-governance-board",
+"label": "UAP Governance Board"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "DefenseScoop, UAP Science Advisory Council",
+"topics": [
+{
+"claims": [
+"c-73e987809e",
+"c-b4d6c752f0",
+"c-91fdec5b20"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-04928ec788",
+"c-4db3a91118"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+]
+}

@@ -54,68 +54,138 @@
 {
 "id": "c-92933bd5d9",
 "source": "CHRG-118hhrg57440 INDEX OF DOCUMENTS and proceedings",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "INDEX OF DOCUMENTS and proceedings",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Chaired the 13 November 2024 joint hearing and entered the 12-page Pentagon 'Immaculate Constellation' document into the record: 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace' appears in the printed INDEX OF DOCUMENTS, as does 'Mellon Hearing Letter; submitted by Rep. Mace'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3f2554e6c0",
 "source": "CHRG-118hhrg53022, testimony of David Grusch",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "testimony of David Grusch",
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "Questioned David Grusch under oath at the 26 July 2023 hearing on recovered craft and biologics.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-524ba836ba",
 "source": "Chairwoman Nancy Mace, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": null,
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d626035f09",
 "source": "CHRG-118hhrg57440, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Moved the 12-page Pentagon Immaculate Constellation document into the Congressional Record, describing it as covering 'the unacknowledged special access program called Immaculate Constellation' and 'USG imagery intelligence.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c48b3a43e2",
 "source": "CHRG-118hhrg53022, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "26 July 2023",
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "Asked Grusch under oath whether officials at the highest levels 'have unlawfully withheld information from Congress and subverted our oversight authority.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-97321f85ca",
 "source": "CHRG-118hhrg53022, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "26 July 2023",
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "Drew Grusch's answer that 'biologics came with some of these recoveries' and that they were assessed 'Nonhuman... by people with direct knowledge on the program I talked to that are currently still on the program.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0ff87e4082",
 "source": "CHRG-118hhrg57440, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Submitted the Christopher Mellon hearing letter into the record of the 13 November 2024 hearing (Index of Documents: 'Mellon Hearing Letter; submitted by Rep. Mace').",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-da9f772930",
 "source": "House Oversight hearing transcript, 26 July 2023",
+"sources": [],
 "text": "Elicited: 'biologics came with some of these recoveries... Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-aa9c6ae80a",
 "source": "House Oversight hearing transcript, 26 July 2023",
+"sources": [],
 "text": "Elicited Grusch's offer to provide 'a specific cooperative and hostile witness list of specific individuals' after the hearing.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ed79f71609",
 "source": "Task Force on the Declassification of Federal Secrets hearing record, 9 September 2025",
+"sources": [],
 "text": "'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-1fff6fcd25",
 "source": "CHRG-118hhrg57440, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "13 November 2024",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+}
+],
 "text": "Mace asked whether material is given to particular contractors because of their expertise, offering General Dynamics for undersea propulsion; Elizondo answered 'Yes, ma'am, absolutely correct.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

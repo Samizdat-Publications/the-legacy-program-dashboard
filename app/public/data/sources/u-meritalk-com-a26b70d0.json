@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
+"b": {
+"cls": "legislation",
+"id": "far-35-017",
+"label": "FAR 35.017 - Federally Funded Research and Development Centers"
+},
+"claimTier": 1,
+"id": "e-f08517acb3",
+"label": "The letter's legal theory rests on the FFRDC access provisions",
+"note": "Burlison argues FFRDCs 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive' and therefore cannot be private vaults for federal records.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-86c2ba4a4c",
+"label": "Demands production of all MITRE UAP and reverse-engineering records back to 1930",
+"note": "MITRE confirmed it was reviewing its archives and said it would 'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-meritalk-com-a26b70d0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "meritalk.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
+{
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+}
+],
+"node": null,
+"title": "MeriTalk",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.meritalk.com/articles/rep-burlison-presses-mitre-to-produce-uap-records/"
+]
+}

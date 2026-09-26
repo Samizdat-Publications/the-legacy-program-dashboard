@@ -1,0 +1,57 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-63c754e9b7",
+"locator": "front page, read off the USPTO image server",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 1,974,483, front page, read off the USPTO image server",
+"text": "US Patent 1,974,483, 'ELECTROSTATIC MOTOR', names Thomas Townsend Brown of Zanesville, Ohio, filed 7 February 1930 (Ser. No. 426,738) and issued 25 September 1934.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d765134dd5",
+"locator": "specification",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 1,974,483, specification",
+"text": "The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges in a system of chargeable masses and associated electrodes', and describes the motor as useful in observatory recording instruments. It does not claim gravity control.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "us-patent-1974483",
+"identifiers": [
+"US Patent 1,974,483"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "US Patent 1,974,483",
+"topics": [
+{
+"claims": [
+"c-63c754e9b7",
+"c-d765134dd5"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "document",
+"urls": [
+"https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/1974483"
+]
+}

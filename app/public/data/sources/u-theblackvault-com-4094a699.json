@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 3,
+"id": "e-c7960e1eab",
+"label": "Recovered material routed to Air Force technical intelligence at Wright-Patterson",
+"note": "Foreign Technology Division at Wright-Patterson was the designated technical exploitation centre; the Air Force felt it necessary in its January 1985 public fact sheet to deny that extraterrestrial equipment had ever been there.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-fdb10d09d0",
+"label": "AARO's 2024 historical review does not mention MOON DUST or BLUE FLY",
+"note": "A review commissioned to establish the historical record of USG involvement with UAP omits the named USG programmes whose charter was the recovery of unidentified fallen objects.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"b": {
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+},
+"claimTier": 3,
+"id": "e-fc53f72232",
+"label": "BLUE FLY provided the quick-reaction airlift for MOON DUST recoveries",
+"note": "The two codewords appear together in Air Force intelligence correspondence; MOON DUST was the collection authority and BLUE FLY the transport and custody leg.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 3,
+"id": "e-acd43d41ac",
+"label": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
+"note": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-4094a699",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "operation-blue-fly",
+"label": "Operation BLUE FLY"
+},
+{
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+}
+],
+"node": null,
+"title": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/project-moon-dust/"
+]
+}

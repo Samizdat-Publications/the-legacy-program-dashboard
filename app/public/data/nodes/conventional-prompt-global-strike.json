@@ -7,38 +7,100 @@
 {
 "id": "c-d3bf7ccc3b",
 "source": "Congressional Research Service, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"sources": [
+{
+"id": "crs-r41464",
+"locator": null,
+"title": "CRS R41464"
+}
+],
 "text": "The mission and the timescale: 'The United States sought to develop systems with intermediate or long range, so that they could attack targets around the world in under an hour.' The report adds that 'The Air Force and Navy have both pursued programs that would lead to the deployment of conventional warheads on their long-range ballistic missiles.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-94a8e11b16",
 "source": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"sources": [
+{
+"id": "crs-r41464",
+"locator": "16 July 2021",
+"title": "CRS R41464"
+},
+{
+"id": "crs-r41464",
+"locator": null,
+"title": "CRS R41464"
+}
+],
 "text": "The Army glide vehicle flew on a recycled submarine-missile stack: the Advanced Hypersonic Weapon 'used the strategic targets system (STARS) booster stack, which is derived from the Navy's Polaris ballistic missile.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-693e96acae",
 "source": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"sources": [
+{
+"id": "crs-r41464",
+"locator": "16 July 2021",
+"title": "CRS R41464"
+},
+{
+"id": "crs-r41464",
+"locator": null,
+"title": "CRS R41464"
+}
+],
 "text": "The Air Force glide vehicle flew on decommissioned ICBM stages: the third HTV-2 vehicle was launched on a 'Minotaur IV rocket, in its \"lite\" configuration, with only the three Peacekeeper stages.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-740735ef8b",
 "source": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"sources": [
+{
+"id": "crs-r41464",
+"locator": "16 July 2021",
+"title": "CRS R41464"
+},
+{
+"id": "crs-r41464",
+"locator": null,
+"title": "CRS R41464"
+}
+],
 "text": "The programme has a documented start and a documented sponsor: 'In 2003, the Air Force and DARPA (the Defense Advanced Research Projects Agency) initiated a program, known as FALCON (force application and launch from continental United States).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dea98293dc",
 "source": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"sources": [
+{
+"id": "crs-r41464",
+"locator": "16 July 2021",
+"title": "CRS R41464"
+},
+{
+"id": "crs-r41464",
+"locator": null,
+"title": "CRS R41464"
+}
+],
 "text": "It is funded on the visible budget: 'The Navy received $512 million for this program in FY2020 and requested $1.1 billion for FY2021; Congress appropriated $766.6 million for FY2021. The Navy has requested $1.4 billion for FY2022.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-04f88b0ddd",
 "source": "Danny Jones Podcast, ep. 224, 19 February 2024, 3:03:15 to 3:04:55, mapped at research/leads/dannyjones-corpus-33.md",
+"sources": [],
 "text": "On the Danny Jones Podcast, episode 224, 19 February 2024, between 3:03:15 and 3:04:55, Daniel Sheehan named Prompt Global Strike as an effort to use reverse-engineered craft propulsion for a two-minute missile strike into Russia or China, tied to the congressional districts containing Wright-Patterson Air Force Base and Redstone Arsenal. The CRS report contradicts both halves: it traces every booster to an existing American ballistic missile and states the goal as striking targets in under an hour.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "program",

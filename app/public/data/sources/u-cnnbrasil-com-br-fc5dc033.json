@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-cf7785951b",
+"locator": null,
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "André Rigue and Lauryn Amaral, CNN Brasil, 'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025', 12 August 2026, updated 14 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
+"text": "2025 records are demonstrably in the fund and being served: the Arquivo Nacional released FAB dossiers covering at least 18 unidentified-object reports made in Brazil during 2025 by pilots and air traffic controllers, including a 23 November 2025 Londrina control-tower report and a 1 September 2025 report by a LATAM captain over Guarulhos (SP). State distribution reported: Paraná 5, Ceará 4, Minas Gerais 2, São Paulo 2, Rio de Janeiro 2, Alagoas 1, Mato Grosso 1, undetermined 1.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-1807acfd58",
+"locator": null,
+"node": "fab",
+"nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"sourceText": "Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
+"text": "FAB's current stated coverage runs to 2025, contradicting the Arquivo Nacional's 2018 description. Official Air Force note: 'A Força Aérea Brasileira (FAB) informa que todos os documentos, vídeos, fotografias, relatos, entre outros, disponíveis, no âmbito do Comando da Aeronáutica, sobre fenômenos aéreos não identificados, no período de 1952 a 2025, já foram transferidos para o Arquivo Nacional, onde são de domínio público.' The same note cites Portaria 551/GC3 and names COMAE (not COMDABRA) as the receiving command, reflecting the post-2017 reorganisation.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 1,
+"id": "e-1f615df9cf",
+"label": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
+"note": "Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-cnnbrasil-com-br-fc5dc033",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cnnbrasil.com.br",
+"listedOn": [
+{
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+{
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+}
+],
+"node": null,
+"title": "André Rigue and Lauryn Amaral, CNN Brasil, 'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025', 12 August 2026, updated 14 August 2026 (",
+"topics": [
+{
+"claims": [
+"c-1807acfd58"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
+"type": "article",
+"urls": [
+"https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+]
+}

@@ -1,0 +1,35 @@
+{
+"archived": [
+"https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dia-mil-dfcdab55",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+}
+],
+"node": null,
+"title": "DIRD inside-cover boilerplate naming the (redacted) AAWSA Program Manager",
+"topics": [],
+"type": "web page",
+"urls": []
+}

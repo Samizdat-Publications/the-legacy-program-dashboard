@@ -1,0 +1,46 @@
+{
+"archived": [
+"https://web.archive.org/web/20191115181458/https://dpo.tothestarsacademy.com/blog/crada-faq",
+"https://web.archive.org/web/20211024221658/https://dpo.tothestarsacademy.com/blog/crada-faq"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 2,
+"id": "e-592bbc265c",
+"label": "a non-FAR instrument binding the Army to a private claimant of recovered material",
+"note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party's proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner's own contemporaneous FAQ.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-dpo-tothestarsacademy-co-0db3664e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "dpo.tothestarsacademy.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+}
+],
+"node": null,
+"title": "TTSA — CRADA FAQ",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://dpo.tothestarsacademy.com/blog/crada-faq"
+]
+}

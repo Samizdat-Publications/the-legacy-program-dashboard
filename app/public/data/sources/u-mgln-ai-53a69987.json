@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6a5b76f83d",
+"locator": null,
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"sourceText": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:36:14 and 0:37:25, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918",
+"text": "On American Alchemy with Jesse Michels, 5 July 2025, at 0:36:14, Greg Bishop said that Doty told him, and he thinks Moore told him, that the Air Force flew Bennewitz by helicopter from Kirtland to Archuleta Mesa on the Jicarilla Apache reservation and showed him a site, and that jeeps, water tanks 'and all kind of stuff' had been placed there as props so his attention would move away from Kirtland. At 0:37:25 he said something did later crash there, that Bennewitz reached the site only after it had been cleaned up, and that what was found was burned ground, broken brush and a pen marked US government property. Nothing in the board's files mentions Archuleta.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-dd0284dc3f",
+"locator": null,
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"sourceText": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:23:44 to 0:24:30, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918",
+"text": "On American Alchemy with Jesse Michels, 5 July 2025, at 0:23:44 to 0:24:30, the episode describes the 1977 Ellsworth Air Force Base case of missile security officer Mario Woods and cuts in Woods's own voice saying of his debrief 'Next to him was this new OSI guy named Rick Doty', and later that when he saw him again on television he thought 'I know that guy. He was at my debrief.' Michels and Greg Bishop then date it to a year or two before the Bennewitz operation. The transcript renders the name Dodi and Dodie throughout.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-53a69987",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+{
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-6a5b76f83d"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-6a5b76f83d"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918"
+]
+}

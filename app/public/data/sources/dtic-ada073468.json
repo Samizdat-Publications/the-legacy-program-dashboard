@@ -1,0 +1,97 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-66f4e18b03",
+"locator": "introduction",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468, introduction",
+"text": "The same report records that 'Most of the introduction section of this report was taken from the preface of the Preliminary Report, Operation UPSHOT-KNOTHOLE, Project 3.1 authored by Eric H. Wang and Bernard J. O'Brien', and that responsibility for the six projects transferred 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c0d68ad569",
+"locator": "ADA073475 and AD0460283",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "Full-text reading of DTIC ADA073468, ADA073475 and AD0460283; negative finding",
+"text": "Nothing in the UPSHOT-KNOTHOLE reports or the 1960 AFSWC report touches unidentified aerial phenomena, recovered materiel, reverse engineering, Henry Kissinger or Viktor Schauberger. Wang's documented role throughout is blast effects on structures. No document supporting an Austrian birth was located.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c538b12826",
+"locator": "acknowledgments",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "Operation Upshot-Knothole, Project 3.1, Tests on the Loading of Building and Equipment Shapes, DTIC ADA073468, acknowledgments",
+"text": "The Operation UPSHOT-KNOTHOLE Project 3.1 final report names 'Eric H. Wang, Chief, Special Studies Office, who was the technical and scientific monitor for the Air Force Program', alongside Arthur Stansel and Mrs. Maisie G. Ridgeway, secretary to Mr. Wang.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d64aa6e945",
+"locator": null,
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "Operation UPSHOT-KNOTHOLE Project 3.5, DTIC ADA073475, acknowledgments; and Project 3.1, DTIC ADA073468",
+"text": "The printed name of the organisation is the Special Studies Office (also Special Studies Section), inside the Installations Division of Air Materiel Command -- not the 'Office of Special Studies'. The colleague's name is Arthur Stansel, whom the Project 3.5 report tracks onward to 'Landing Gear Development Section, Equipment Laboratory, Wright Air Development Center'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-wang",
+"label": "Eric H. Wang"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-1cfdd982d9",
+"label": "Chief, Special Studies Office, Installations Division, Air Materiel Command",
+"note": "The Project 3.1 report records the transfer of Air Force responsibility 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "dtic-ada073468",
+"identifiers": [
+"DTIC ADA073468"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-wang",
+"label": "Eric H. Wang"
+}
+],
+"node": null,
+"title": "DTIC ADA073468",
+"topics": [
+{
+"claims": [
+"c-66f4e18b03",
+"c-c0d68ad569",
+"c-c538b12826",
+"c-d64aa6e945"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_ADA073468"
+]
+}

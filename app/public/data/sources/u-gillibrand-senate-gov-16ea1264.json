@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"claimTier": 2,
+"id": "e-2a2cd0a682",
+"label": "Claims only the briefing-requirement update as her FY2026 UAP win",
+"note": "Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-gillibrand-senate-gov-16ea1264",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Senate",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+}
+],
+"node": null,
+"title": "Gillibrand announces FY2026 defense bill wins",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.gillibrand.senate.gov/news/press/release/gillibrand-announces-fy2026-defense-bill-wins/"
+]
+}

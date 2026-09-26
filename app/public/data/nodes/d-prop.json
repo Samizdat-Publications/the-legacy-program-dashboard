@@ -8,20 +8,32 @@
 {
 "id": "c-dd46d70b51",
 "source": "DIA AAWSAP DIRD releases",
+"sources": [],
 "text": "DIA commissioned DIRD 15 on advanced space propulsion based on vacuum (spacetime metric) engineering and DIRD 19 on antigravity for aerospace applications.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-15226ec411",
 "source": "Proceedings 2019, 33(1):26, doi:10.3390/proceedings2019033026",
+"sources": [],
 "text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter' in the MaxEnt 2019 proceedings.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-dd9907a1a6",
 "source": "US Patent 10,144,532 B2 (Google Patents record)",
+"sources": [
+{
+"id": "us-patent-10144532",
+"locator": "Google Patents record",
+"title": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+}
+],
 "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', names Salvatore Cezar Pais as inventor and the US Department of the Navy as assignee; filed 28 April 2016, granted 4 December 2018.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",

@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-thedebrief-org-bad8f493",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+{
+"cls": "institution",
+"id": "uss-jackson",
+"label": "USS Jackson (LCS-6)"
+},
+{
+"cls": "event",
+"id": "uss-jackson-2023",
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023"
+}
+],
+"node": null,
+"title": "The Debrief - Return of the Tic Tacs",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/return-of-the-tic-tacs/"
+]
+}

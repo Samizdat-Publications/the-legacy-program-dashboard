@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+"b": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"claimTier": 1,
+"id": "e-c52d85dd3c",
+"label": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
+"note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+},
+"claimTier": 1,
+"id": "e-c216fb66c6",
+"label": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
+"note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-explorescu-org-7925d0e0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "explorescu.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+}
+],
+"node": null,
+"title": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa"
+]
+}

@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-7f940524",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "institution",
+"id": "sperry-rand",
+"label": "Sperry Rand Corporation"
+}
+],
+"node": null,
+"title": "This Is Sperry Rand 1956, Sperry-Rand Corporation",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/this-is-sperry-rand-1956"
+]
+}

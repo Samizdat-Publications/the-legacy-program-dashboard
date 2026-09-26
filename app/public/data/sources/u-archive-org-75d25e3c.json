@@ -1,0 +1,155 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-1a55913478",
+"locator": null,
+"node": "prp-nuclear-weapon",
+"nodeLabel": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"sourceText": "DoD Directive 5210.42, 25 May 1993, sections A and B, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "Scope and purpose: the directive applies to 'DoD military and civilian personnel and contractor employees assigned to PRP positions or in training leading to assignment to PRP positions', and exists to 'ensure the highest possible standards of individual reliability in personnel performing duties associated with nuclear weapons and critical components.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-9ab1fa66e4",
+"locator": null,
+"node": "prp-nuclear-weapon",
+"nodeLabel": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"sourceText": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "The programme runs on self-reporting and peer review. The certifying official's personal interview must inform the individual of 'the individual's responsibility for self-reporting and peer review of factors and situations that could adversely affect job performance or reliability.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-adb3f04b95",
+"locator": null,
+"node": "prp-nuclear-weapon",
+"nodeLabel": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"sourceText": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "The medical file is open to the chain without consent: 'medical records may be disclosed to reviewing and certifying officials for this purpose without either a request from, or the consent of, the individuals to whom those records pertain', and the health record is 'marked to reflect assignment of an individual to a PRP position'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d60cce55e6",
+"locator": null,
+"node": "prp-nuclear-weapon",
+"nodeLabel": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"sourceText": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "Disqualification reaches demeanour, not only conduct. Under 'Poor Attitude or Lack of Motivation' the directive lists 'aberrant attitude (arrogance, inflexibility, or suspiciousness), behavior (impulsiveness, destructiveness, or suicide threats), or mood (unusual happiness, sadness, or agitation).'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "prp-nuclear-weapon",
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)"
+},
+"b": {
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+"claimTier": 3,
+"id": "e-397ebfc3b6",
+"label": "The administrative regime his testimony was given against",
+"note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "prp-nuclear-weapon",
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 2,
+"id": "e-5783d53f40",
+"label": "A nuclear weapons installation inside the directive's stated scope",
+"note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "program",
+"id": "prp-nuclear-weapon",
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)"
+},
+"b": {
+"cls": "domain",
+"id": "d-secrecy",
+"label": "Secrecy Law & Classification"
+},
+"claimTier": 3,
+"id": "e-5eb5b2f51e",
+"label": "The administrative alternative to classification",
+"note": "The board's suppression argument usually runs through classification; PRP is the administrative alternative, a published rule that can remove a person from his job without any classification decision at all.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "prp-nuclear-weapon",
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-e1df8cc34e",
+"label": "Issued under ASD(C3I) authority and binding on every DoD component",
+"note": "The directive is issued under the authority of the Assistant Secretary of Defense (C3I) and binds every DoD component.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-archive-org-75d25e3c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "program",
+"id": "prp-nuclear-weapon",
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)"
+}
+],
+"node": null,
+"title": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"topics": [
+{
+"claims": [
+"c-1a55913478",
+"c-9ab1fa66e4",
+"c-adb3f04b95",
+"c-d60cce55e6"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+},
+{
+"claims": [
+"c-1a55913478",
+"c-adb3f04b95",
+"c-d60cce55e6"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+]
+}

@@ -1,0 +1,30 @@
+{
+"archived": [
+"https://web.archive.org/web/20250312054405/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170051/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dia-mil-5d48e479",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+}
+],
+"node": null,
+"title": "DIA briefing 'Advanced Aerospace Weapon System Applications Contract Status', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release)",
+"topics": [],
+"type": "web page",
+"urls": []
+}

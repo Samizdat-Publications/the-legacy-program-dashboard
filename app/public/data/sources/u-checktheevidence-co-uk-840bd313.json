@@ -1,0 +1,68 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-effcadef3e",
+"locator": null,
+"node": "checktheevidence",
+"nodeLabel": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"sourceText": "Andrew Johnson, checktheevidence.co.uk and checktheevidence.com, 12 and 13 January 2015, http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm , opened 2026-09-18",
+"text": "Johnson's posts of 12 and 13 January 2015 are the only opened account of the FOIA episode: that David Hilton claimed on 26 June 2014 that Fouche 'faked one or more of his own military documents', that Hilton then filed a FOIA request for the records, and that Hilton posted the return on 25 September 2014. Johnson lists the return as showing Lackland AFB (1967), Keesler and Cannon AFB (1968), the Nellis assignment from June 1976 to 16 July 1979, the Kadena assignment from 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal, the Republic of Vietnam Gallantry Cross with Palm Device and three Meritorious Service Medals.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-747aac8b5d",
+"locator": null,
+"node": "fouche-military-documents",
+"nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+"sourceText": "Andrew Johnson, checktheevidence.com, 12 and 13 January 2015, http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm , opened 2026-09-18",
+"text": "David Hilton alleged in a video of 26 June 2014 that Fouche 'faked one or more of his own military documents' and therefore could not be trusted; Hilton then filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014. Andrew Johnson's reading of the return is that it corroborates what Fouche had already said.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-checktheevidence-co-uk-840bd313",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "checktheevidence.co.uk",
+"listedOn": [
+{
+"cls": "institution",
+"id": "checktheevidence",
+"label": "Check The Evidence (checktheevidence.com), Andrew Johnson"
+},
+{
+"cls": "document",
+"id": "fouche-military-documents",
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+}
+],
+"node": null,
+"title": "Andrew Johnson, 'David Hilton FOIA on Ed Fouche', checktheevidence.co.uk",
+"topics": [
+{
+"claims": [
+"c-effcadef3e",
+"c-747aac8b5d"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+},
+{
+"claims": [
+"c-effcadef3e",
+"c-747aac8b5d"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "web page",
+"urls": [
+"http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm"
+]
+}

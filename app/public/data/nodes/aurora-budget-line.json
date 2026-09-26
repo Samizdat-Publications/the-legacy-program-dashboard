@@ -7,32 +7,72 @@
 {
 "id": "c-e50076785e",
 "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985, 'Pentagon Seeks Billions For Classified Plane' by George C. Wilson",
+"sources": [
+{
+"id": "cia-rdp90-00965r000807470050-4",
+"locator": "Washington Post, 8 February 1985, 'Pentagon Seeks Billions For Classified Plane' by George C. Wilson",
+"title": "CIA-RDP90-00965R000807470050-4"
+}
+],
 "text": "The Washington Post of 8 February 1985 reports: 'The Pentagon has said in a public document that it wants $2.3 billion for an Air Force plane called Aurora but responded yesterday that the plane -- if it really is a plane -- is classified.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-30614101a6",
 "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"sources": [
+{
+"id": "cia-rdp90-00965r000807470050-4",
+"locator": "Washington Post, 8 February 1985",
+"title": "CIA-RDP90-00965R000807470050-4"
+}
+],
 "text": "The article names the disclosure mechanism: 'The secrecy cloak slipped off the spending plans for Aurora when the Pentagon compiled its unclassified shopping list, known as the P1 document. The P stands for procurement.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8971a8b9c5",
 "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"sources": [
+{
+"id": "cia-rdp90-00965r000807470050-4",
+"locator": "Washington Post, 8 February 1985",
+"title": "CIA-RDP90-00965R000807470050-4"
+}
+],
 "text": "The article records the denial after publication: 'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b2e59d13b6",
 "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985 -- reporting the contents of the P-1, which was not independently obtained",
+"sources": [
+{
+"id": "cia-rdp90-00965r000807470050-4",
+"locator": "Washington Post, 8 February 1985 -- reporting the contents of the P-1, which was not independently obtained",
+"title": "CIA-RDP90-00965R000807470050-4"
+}
+],
 "text": "The figures reported from the P-1 document are 'zero this fiscal year to $80 million in fiscal 1986 to $2.27 billion in fiscal 1987'. The $2.3 billion figure in the article's lede is its own rounding of $2.27bn. The P-1 document itself was not located or read; the chain is a named Washington Post defence correspondent, in a dated contemporaneous article, preserved in a US government declassified collection.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e57990334d",
 "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"sources": [
+{
+"id": "cia-rdp90-00965r000807470050-4",
+"locator": "Washington Post, 8 February 1985",
+"title": "CIA-RDP90-00965R000807470050-4"
+}
+],
 "text": "'Other Pentagon sources, however, said that Aurora may have some connection with the Stealth plane -- to be designed to hide from enemy radar -- but that the really big money for Stealth is held in a different secret account.' The article attaches no anomalous craft claim to Aurora, and neither does this board.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "program",

@@ -1,0 +1,114 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 2,
+"id": "e-c127ed2081",
+"label": "Ruppelt is the origin of public knowledge of the Estimate",
+"note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-0454c9715c",
+"label": "Ruppelt was Blue Book's first director",
+"note": "Ruppelt directed the project from March 1952 to August 1953, covering the Washington flap and the Robertson Panel, and later published the only insider account of the period.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 2,
+"id": "e-532901d7a2",
+"label": "Ruppelt attended the panel as Blue Book director and later described it",
+"note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 1,
+"id": "e-308d3519b3",
+"label": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-gutenberg-org-c14b8c35",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "gutenberg.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+{
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+{
+"cls": "person",
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+{
+"cls": "program",
+"id": "project-grudge",
+"label": "Project GRUDGE"
+},
+{
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+}
+],
+"node": null,
+"title": "Ruppelt, The Report on Unidentified Flying Objects",
+"topics": [],
+"type": "book",
+"urls": [
+"https://www.gutenberg.org/ebooks/17346"
+]
+}

@@ -1,0 +1,139 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-53b963bb56",
+"locator": null,
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"sourceText": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"text": "The claimant's account, published in January 1989: an object that 'maneuvered around' the warhead package, 'emitted four distinct bright flashes of light at approximately the 4 cardinal compass points of its orbit', and a warhead that 'malfunctioned and tumbled out of suborbit hundreds of miles short of its target'. His own dating is uncertain: 'most probably either September 2nd, 3rd, or 15th, 1964'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9436ca690c",
+"locator": null,
+"node": "robert-jacobs",
+"nodeLabel": "Robert M. Jacobs",
+"sourceText": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"text": "What he says the film showed: an object that 'maneuvered around' the warhead package and 'emitted four distinct bright flashes of light at approximately the 4 cardinal compass points of its orbit', whose shape 'was that of a classic flying saucer', after which the warhead 'malfunctioned and tumbled out of suborbit hundreds of miles short of its target'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-affa575b2e",
+"locator": null,
+"node": "robert-jacobs",
+"nodeLabel": "Robert M. Jacobs",
+"sourceText": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"text": "HE PUBLISHED THE ACCOUNT HIMSELF TWELVE YEARS EARLIER, WHICH IS THE ANCHOR THIS NODE SHOULD USE. Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. His stated post, verbatim: 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966.' The issue number and month are fixed independently by Kingston George's 1993 reference list.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f6ea6544e4",
+"locator": null,
+"node": "robert-jacobs",
+"nodeLabel": "Robert M. Jacobs",
+"sourceText": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"text": "His own account is explicitly uncertain about its own date: 'the date of the event was most probably either September 2nd, 3rd, or 15th, 1964.'",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-dcf1c28326",
+"locator": null,
+"node": "l-vandenberg",
+"nodeLabel": "Vandenberg Space Force Base, California",
+"sourceText": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"text": "The 1369th Photographic Squadron was based here: Robert Jacobs gives his post as 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966', and the project engineer independently confirms that Jacobs 'was named the on-site commander by the 1369th Photo Squadron'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-jacobs",
+"label": "Robert M. Jacobs"
+},
+"b": {
+"cls": "event",
+"id": "big-sur-1964",
+"label": "Big Sur missile-test filming, September 1964"
+},
+"claimTier": 1,
+"id": "e-d08040f885",
+"label": "On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print",
+"note": "THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-jacobs",
+"label": "Robert M. Jacobs"
+},
+"b": {
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+},
+"claimTier": 1,
+"id": "e-b41ad4bb4b",
+"label": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
+"note": "His own published statement of his post, independently confirmed as to unit and role by the project engineer.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-e65e318a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "event",
+"id": "big-sur-1964",
+"label": "Big Sur missile-test filming, September 1964"
+},
+{
+"cls": "person",
+"id": "robert-jacobs",
+"label": "Robert M. Jacobs"
+},
+{
+"cls": "location",
+"id": "l-vandenberg",
+"label": "Vandenberg Space Force Base, California"
+}
+],
+"node": null,
+"title": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP",
+"topics": [
+{
+"claims": [
+"c-53b963bb56",
+"c-9436ca690c",
+"c-affa575b2e",
+"c-f6ea6544e4"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
+"c-affa575b2e"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "web page",
+"urls": [
+"http://www.nicap.org/reports/bigsur2.htm"
+]
+}

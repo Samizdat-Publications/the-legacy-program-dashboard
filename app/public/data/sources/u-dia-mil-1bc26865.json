@@ -1,0 +1,142 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2a91bb5688",
+"locator": null,
+"node": "dird-quantum-computing-and-utilizing-organic-molecules",
+"nodeLabel": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4447709008",
+"locator": null,
+"node": "dird-quantum-computing-and-utilizing-organic-molecules",
+"nodeLabel": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
+"text": "Defense Intelligence Reference Document titled \"Quantum Computing and Utilizing Organic Molecules in Automation Technology\", series \"Defense Futures\", published 2010-12-10 with an Intelligence Cut-Off Date (ICOD) of 2010-12-10, DIA document number DIA-08-1102-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9ee3840928",
+"locator": null,
+"node": "dird-quantum-computing-and-utilizing-organic-molecules",
+"nodeLabel": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"claimTier": 1,
+"id": "e-7f47c6fbc6",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"b": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"claimTier": 1,
+"id": "e-47f3139171",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-dc62594a14",
+"label": "author's institutional affiliation at time of writing",
+"note": "Wayne State University is the affiliation recorded against this title on the DIA congressional list. Wayne State appears more than once on the list: it is also the affiliation given for Kit Green's human-tissue field-effects deliverable, so both the human-effects and human-interface strands of the AAWSAP deliverable set run through the same medical school.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"claimTier": 1,
+"id": "e-1e6c1cbd09",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"claimTier": 1,
+"id": "e-e01cce6a2f",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 December 2010 on the cover. 55 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-1bc26865",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+}
+],
+"node": null,
+"title": "DIA FOIA Electronic Reading Room entry for this reference document",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/"
+]
+}

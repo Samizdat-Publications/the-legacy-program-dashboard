@@ -10,26 +10,58 @@
 {
 "id": "c-656ea20474",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists entry 7 as 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6bccf6b05e",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-7420c342",
+"locator": null,
+"title": "Released DIRD, 'Invisibility Cloaking: Theory and Experiments' — FOIA copy, cover page read 22 August 2026"
+}
+],
 "text": "The released DIRD bears document number DIA-08-1003-001, publication date 2 March 2010 and Intelligence Cut-Off Date 1 December 2009 - the lowest document number in the released set.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-22359698e6",
 "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"sources": [
+{
+"id": "u-twz-com-37fb1a48",
+"locator": null,
+"title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded"
+}
+],
 "text": "The War Zone's audit of the DIRD list, which called several deliverables junk science, identified Leonhardt as a genuine expert whose work 'is grounded in real science to do with quantum physics and the behavior of light.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5057529e87",
 "source": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"sources": [
+{
+"id": "u-silvarecord-com-dd11c777",
+"locator": null,
+"title": "Silva Record — 38th DIRD Title Surfaces With Letter Addressed To McCain"
+}
+],
 "text": "Puthoff, describing the commission at the June 2018 Society for Scientific Exploration conference, named 'invisibility cloaking' among the papers he let contracts for.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

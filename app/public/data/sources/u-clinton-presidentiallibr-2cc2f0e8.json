@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"b": {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"claimTier": 1,
+"id": "e-b4b15b96fc",
+"label": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
+"note": "The Clinton White House Roswell file (2006-0476-F) contains the July 1995 GAO report; the unclassified records audit is what the White House ended up holding.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"b": {
+"cls": "document",
+"id": "best-available-evidence",
+"label": "UFO Briefing Document: The Best Available Evidence (1995)"
+},
+"claimTier": 2,
+"id": "e-77559c56b0",
+"label": "The briefing document was the initiative's principal instrument",
+"note": "The document was deliberately written as a government-style assessment rather than a popular book.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-clinton-presidentiallibr-2cc2f0e8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Clinton Presidential Library",
+"listedOn": [
+{
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+{
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+{
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+{
+"cls": "person",
+"id": "marie-galbraith",
+"label": "Marie 'Bootsie' Galbraith"
+},
+{
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+{
+"cls": "person",
+"id": "steven-schiff",
+"label": "Steven H. Schiff"
+},
+{
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+{
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+{
+"cls": "document",
+"id": "best-available-evidence",
+"label": "UFO Briefing Document: The Best Available Evidence (1995)"
+}
+],
+"node": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://clinton.presidentiallibraries.us/items/show/36328"
+]
+}

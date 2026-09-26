@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b63a0757d5",
+"locator": null,
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"sourceText": "American Alchemy with Jesse Michels, 'Meet the Nuclear Missile Guard Abducted by Aliens', 9 February 2026, 0:19:06 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9102178952.mp3?updated=1770679988",
+"text": "On American Alchemy with Jesse Michels, 9 February 2026, Michels said that Strategic Air Command 'wrote up a whole write up saying we're baffled and confused' about the Echo Flight incident, which he placed eight days before the Oscar Flight shutdown, and that targeting officer Bob Jamison went in to check why the ten missiles went down (0:19:06). No document number, date or addressee is given for the SAC write-up.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-604a99c9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Meet the Nuclear Missile Guard Abducted by Aliens', episode audio",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9102178952.mp3?updated=1770679988"
+]
+}

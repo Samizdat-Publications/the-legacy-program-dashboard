@@ -7,50 +7,119 @@
 {
 "id": "c-044b49906b",
 "source": "https://www.law.cornell.edu/uscode/text/50/2426",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": null,
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+}
+],
 "text": "Title: 'Congressional oversight of special access programs.' Source credit: Pub. L. 106-65, div. C, title XXXII, sec. 3236, Oct. 5, 1999, 113 Stat. 962. Reports run from the NNSA Administrator to the congressional defense committees, annual report due 'Not later than February 1 of each year.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7c65d5c042",
 "source": "https://www.law.cornell.edu/uscode/text/50/2426",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": null,
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+}
+],
 "text": "The waiver mirrors 10 U.S.C. 119(e) exactly: 'The Administrator may waive any requirement under subsection (a), (b), or (c)' on a case-by-case adverse-national-security determination, after which the information and justification go 'jointly to the chairman and ranking minority member of each of the congressional defense committees.' A program may not be initiated until the defense committees are notified and 30 days elapse.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7215f466da",
 "source": "https://www.law.cornell.edu/uscode/text/50/2426",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": null,
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+}
+],
 "text": "Two of the three SAP reporting statutes (10 U.S.C. 119 for DoD, 50 U.S.C. 2426 for NNSA) contain the eight-member waiver; the third (50 U.S.C. 3348) does not reduce the audience, and the newest (50 U.S.C. 3091a, IC) has no waiver at all. The waiver-to-four-committee-pairs mechanism therefore exists precisely and only where physical hardware programs and nuclear-adjacent research live. Reasoning stated by comparison of the four statutes.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-8bfe5a0efb",
 "source": "50 U.S.C. 2426(e)(1)",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": "e)(1",
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+}
+],
 "text": "50 U.S.C. 2426(e)(1): 'The Administrator may waive any requirement under subsection (a), (b), or (c) ... The Administrator may waive the report-and-wait requirement in subsection (f) if the Administrator determines that compliance with such requirement would adversely affect the national security. Any waiver under this paragraph shall be made on a case-by-case basis.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b29e5a6cf4",
 "source": "50 U.S.C. 2426(e)(2)",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": "e)(2",
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+}
+],
 "text": "50 U.S.C. 2426(e)(2) directs the waived information and justification 'jointly to the chairman and ranking minority member of each of the congressional defense committees.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-85f88c74f5",
 "source": "50 U.S.C. 2426(f)",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": "f",
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+}
+],
 "text": "50 U.S.C. 2426(f) otherwise imposes the same 30-day report-and-wait as 10 U.S.C. 119(f): 'A special access program may not be initiated until - (1) the congressional defense committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-95276c6ba8",
 "source": "Source credit, 50 U.S.C. 2426",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": null,
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+}
+],
 "text": "Section 2426 was enacted by Pub. L. 106-65, div. C, title XXXII, sec. 3236, 5 October 1999, 113 Stat. 962, and amended by Pub. L. 113-291, sec. 3143(b), 19 December 2014.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-95f5f4acf4",
 "source": "50 U.S.C. 2426(e)(1) compared with 10 U.S.C. 119(e)(1)",
+"sources": [
+{
+"id": "usc-50-2426",
+"locator": "e)(1) compared with 10 U.S.C. 119(e)(1",
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+{
+"id": "usc-10-119",
+"locator": "e)(1",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "The NNSA Administrator can lawfully initiate a special access program with no advance notice to any congressional committee, because the waiver in 2426(e)(1) expressly reaches the report-and-wait requirement of 2426(f); the Secretary of Defense cannot, because 10 U.S.C. 119(e)(1) reaches only subsections (a), (b) and (c). Reasoning: direct textual comparison of the two waiver provisions.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

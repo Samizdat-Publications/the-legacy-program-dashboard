@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": "2026-05-16",
+"edges": [],
+"era": "3",
+"id": "u-newsmax-com-3200af41",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "newsmax.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+{
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+}
+],
+"node": null,
+"title": "Newsmax - House GOP Letter Targets Private UFO Contractors",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.newsmax.com/newsfront/eric-burlison-gop-uap/2026/05/16/id/1256505/"
+]
+}

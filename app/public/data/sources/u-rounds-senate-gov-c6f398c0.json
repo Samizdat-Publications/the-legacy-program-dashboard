@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+"b": {
+"cls": "event",
+"id": "disclosure-symposium-2026",
+"label": "2026 Disclosure Symposium"
+},
+"claimTier": 2,
+"id": "e-bbca18d026",
+"label": "Announces a fourth filing at an outside conference",
+"note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-rounds-senate-gov-c6f398c0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Senate",
+"listedOn": [
+{
+"cls": "event",
+"id": "disclosure-symposium-2026",
+"label": "2026 Disclosure Symposium"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+{
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+}
+],
+"node": null,
+"title": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.rounds.senate.gov/newsroom/weekly-rounds/weekly-rounds-up-june-22-28-2026"
+]
+}

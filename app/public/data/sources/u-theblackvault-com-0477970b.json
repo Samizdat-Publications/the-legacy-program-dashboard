@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"id": "e-9e5a9fc5f4",
+"label": "Direct correspondence, 5 June 2019 and 3 June 2020: 'I ran the program'",
+"note": "Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-0477970b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [],
+"node": null,
+"title": "The Black Vault — Elizondo's letters to the Pentagon",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/luis-elizondo-and-his-letters-to-the-pentagon-about-his-claims-and-credibility/"
+]
+}

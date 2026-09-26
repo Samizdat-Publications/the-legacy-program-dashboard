@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"b": {
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+"claimTier": 2,
+"id": "e-b710c1fa88",
+"label": "Sandia named as an AEC-lineage custodial laboratory",
+"note": "Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"b": {
+"cls": "document",
+"id": "gerb-sandia-investigation",
+"label": "UAP Gerb - Sandia National Laboratories investigation"
+},
+"claimTier": 2,
+"id": "e-3dff29bc31",
+"label": "Sandia investigation is the evidentiary bridge for AEC custody",
+"note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-bdc21b45",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+{
+"cls": "document",
+"id": "gerb-sandia-investigation",
+"label": "UAP Gerb - Sandia National Laboratories investigation"
+}
+],
+"node": null,
+"title": "UAP Gerb - Sandia investigation",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=mHkPHd_eOXI"
+]
+}

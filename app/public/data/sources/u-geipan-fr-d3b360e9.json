@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-geipan-fr-d3b360e9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CNES GEIPAN",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-france",
+"label": "France"
+},
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+{
+"cls": "domain",
+"id": "d-international",
+"label": "International & Allied Programs"
+}
+],
+"node": null,
+"title": "GEIPAN - Statistiques",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.geipan.fr/fr/stats"
+]
+}

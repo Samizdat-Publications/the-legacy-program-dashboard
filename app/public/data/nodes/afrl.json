@@ -7,20 +7,26 @@
 {
 "id": "c-2869014a22",
 "source": "Air Force Research Laboratory official history",
+"sources": [],
 "text": "AFRL was established on 31 October 1997 by consolidating the Wright, Phillips, Rome and Armstrong laboratories and the Air Force Office of Scientific Research, headquartered at Wright-Patterson AFB, Ohio.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-60cafb9b80",
 "source": "National Archives, Project BLUE BOOK reference material",
+"sources": [],
 "text": "Wright-Patterson AFB is the installation that housed the Air Technical Intelligence Center and the Foreign Technology Division, which ran Projects SIGN, GRUDGE and BLUE BOOK.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-da8224942e",
 "source": "Inference from the ATIC-FTD-NASIC/AFRL institutional lineage at Wright-Patterson",
+"sources": [],
 "text": "AFRL is the continuity organisation for foreign materiel exploitation at Wright-Patterson, which makes it the most probable modern institutional home of any exploitation activity that began there in the 1940s. Reasoning: the mission, the physical plant and the clearance architecture were never relocated, only renamed.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

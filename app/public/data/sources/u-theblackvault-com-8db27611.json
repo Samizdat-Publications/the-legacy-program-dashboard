@@ -1,0 +1,104 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+"b": {
+"cls": "institution",
+"id": "dopsr",
+"label": "Defense Office of Prepublication and Security Review"
+},
+"claimTier": 1,
+"id": "e-327f584285",
+"label": "Prepublication review chain for the video files",
+"note": "The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017 — consistent with the form's 'not for publication' framing.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "joseph-gradisher",
+"label": "Joseph Gradisher"
+},
+"b": {
+"cls": "document",
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+"claimTier": 1,
+"id": "e-2cfec3a7e7",
+"label": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
+"note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "joseph-gradisher",
+"label": "Joseph Gradisher"
+},
+"b": {
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+"claimTier": 1,
+"id": "e-315bcc4b6b",
+"label": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
+"note": "The single most consequential official concession of the period, made by a named service spokesman.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+"claimTier": 2,
+"id": "e-d0038ba9e4",
+"label": "Hosted and distributed the three videos from 2017-2018",
+"note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-8db27611",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+{
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+{
+"cls": "person",
+"id": "joseph-gradisher",
+"label": "Joseph Gradisher"
+}
+],
+"node": null,
+"title": "The Black Vault",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+]
+}

@@ -8,26 +8,34 @@
 {
 "id": "c-534b2610bf",
 "source": "Inference from the state of the published literature and the ADAM/CRADA record",
+"sources": [],
 "text": "As of August 2026 only one alleged UAP material sample has a complete public chain of custody from incident through analysis to peer-reviewed publication: the 1977 Council Bluffs mass. All other significant chains terminate in a private laboratory, a corporate holding or an unpublished federal agreement.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-3aba54fde6",
 "source": "Progress in Aerospace Sciences, doi:10.1016/j.paerosci.2021.100788",
+"sources": [],
 "text": "Nolan, Vallee, Jiang and Lemke published 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics' in Progress in Aerospace Sciences 128:100788 (2022).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4915b47989",
 "source": "AARO Aluminum Materials Analysis Supplement, January 2026",
+"sources": [],
 "text": "AARO's January 2026 Aluminum Materials Analysis Supplement (26-P-0218) reports ORNL analysis of a specimen recovered near Flint Ridge State Park, Ohio, finding it similar to Aluminum Association reference alloys 369.1 and A413.1 with no radioactive emissions.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ab1cf2b91f",
 "source": "To The Stars Academy press release, 25 July 2019; The War Zone, 18 October 2019",
+"sources": [],
 "text": "To The Stars Academy announced in July 2019 that it had acquired metamaterials it described as originating from an advanced aerospace vehicle of unknown origin, and subsequently entered a Cooperative Research and Development Agreement with the US Army.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "domain",

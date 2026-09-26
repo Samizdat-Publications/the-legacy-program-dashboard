@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "program",
+"id": "mitre-nsec",
+"label": "National Security Engineering Center (NSEC)"
+},
+"claimTier": 1,
+"id": "e-1bec0312ef",
+"label": "MITRE operates NSEC for the Under Secretary of Defense for Research and Engineering",
+"note": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-usaspending-gov-098503d2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "USAspending.gov",
+"listedOn": [],
+"node": null,
+"title": "USAspending.gov award records",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.usaspending.gov/award/CONT_AWD_W56KGU24F0010_9700_W56KGU18D0004_9700"
+]
+}

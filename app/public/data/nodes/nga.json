@@ -7,20 +7,26 @@
 {
 "id": "c-058ab26b0d",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
+"sources": [],
 "text": "NGA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9a3f166307",
 "source": "AARO Historical Record Report Volume I",
+"sources": [],
 "text": "AARO's Historical Record Report Volume I lists NGA among the agencies with which AARO partnered or at which it conducted records research.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c5eba32305",
 "source": "Inference from the absence of any NGA UAP release, testimony or litigation in the public record",
+"sources": [],
 "text": "NGA is the least-examined major IC element in the UAP record despite holding the exploitation product most capable of resolving ground-based recovery and storage claims. Reasoning: no UAP FOIA collection, no hearing appearance and no litigation history exist for NGA, while its mission set is directly responsive to the allegations.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

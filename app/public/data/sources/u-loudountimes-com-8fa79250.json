@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "document",
+"id": "grusch-v-chapman",
+"label": "David C. Grusch v. Michael Chapman et al."
+},
+"claimTier": 1,
+"id": "e-f1eb7e870e",
+"label": "Plaintiff; suit dismissed with prejudice 6 August 2025",
+"note": "Filed 15 July 2024 in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee. Dismissed with prejudice on 6 August 2025 on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records. The outcome establishes that no legal shield protected the whistleblower's most sensitive records.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "ken-klippenstein",
+"label": "Ken Klippenstein"
+},
+"b": {
+"cls": "document",
+"id": "grusch-v-chapman",
+"label": "David C. Grusch v. Michael Chapman et al."
+},
+"claimTier": 1,
+"id": "e-e53d978268",
+"label": "FOIA request that produced the records at issue in the suit",
+"note": "Klippenstein obtained Grusch's 2014 and 2018 Loudoun County emergency-custody police records under Virginia FOIA and published them in The Intercept on 9 August 2023; Grusch's civil action was against the Sheriff who released them, not the reporter.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-loudountimes-com-8fa79250",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "loudountimes.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "grusch-v-chapman",
+"label": "David C. Grusch v. Michael Chapman et al."
+}
+],
+"node": null,
+"title": "Loudoun Times-Mirror - UFO whistleblower sues Sheriff's Office over records release",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.loudountimes.com/0local-or-not/1local/ufo-whistleblower-sues-sheriffs-office-over-records-release/article_b24005c4-490e-11ef-97d5-4bc65ae077be.html"
+]
+}

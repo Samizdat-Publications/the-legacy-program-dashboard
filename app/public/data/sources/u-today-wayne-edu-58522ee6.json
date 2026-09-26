@@ -1,0 +1,64 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c82c914225",
+"locator": null,
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+"text": "The same item gives Green's role at that date as 'assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and records his appointment as a professor of the Chinese Academy of Sciences, sponsored by its Institute of Biophysics, the location of the clinical Brain and Imaging MRI Center of Excellence in Beijing.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e667d6fb37",
+"locator": null,
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+"text": "Wayne State University School of Medicine states: 'Prior to his current assignment, Dr. Green served as the executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology, where he is an adjunct professor and Fellow in Clinical Neuroimaging.' The title was executive director, and as of 2 April 2009 he had already left it.",
+"tier": 2
+}
+],
+"date": "2009-04-02",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"b": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"claimTier": 1,
+"id": "e-f9230732b3",
+"label": "Green's academic base for UAP-injury neuroimaging work",
+"note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.",
+"type": "institutional"
+}
+],
+"era": "2",
+"id": "u-today-wayne-edu-58522ee6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "today.wayne.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+}
+],
+"node": null,
+"title": "Wayne State University School of Medicine news, 'Chinese Academy of Sciences appoints Dr. Green as professor', 2 April 2009",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+]
+}

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "lincoln-lapaz",
+"label": "Lincoln LaPaz"
+},
+"b": {
+"cls": "location",
+"id": "l-albuquerque",
+"label": "Albuquerque, New Mexico"
+},
+"claimTier": 1,
+"id": "e-59c3d9301d",
+"label": "LaPaz investigated the green fireballs from the University of New Mexico",
+"note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-lanl-gov-c426043c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Los Alamos National Laboratory",
+"listedOn": [],
+"node": null,
+"title": "Los Alamos National Laboratory - 1949 green fireballs conference",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.lanl.gov/"
+]
+}

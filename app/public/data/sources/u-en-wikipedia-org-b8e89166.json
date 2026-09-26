@@ -1,0 +1,116 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-44a696c342",
+"label": "NIDS science advisory board before the DIRD",
+"note": "Green's human-effects interest predates the federal contract by more than a decade, through Bigelow's private institute.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-9478dc5bcb",
+"label": "NIDS scientist before the federal contract",
+"note": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-6b3afc6508",
+"label": "NIDS headquarters 1995-2004",
+"note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-868e2afc4f",
+"label": "personnel, methodology and site inherited wholesale",
+"note": "Kelleher, Davis, Green and the Utah ranch operation all pass from Bigelow's private institute into the DIA-funded contractor.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-581497930d",
+"label": "founded and privately funded NIDS 1995-2004",
+"note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-b8e89166",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+}
+],
+"node": null,
+"title": "Wikipedia — NIDS",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+]
+}

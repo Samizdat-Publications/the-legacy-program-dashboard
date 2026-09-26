@@ -1,0 +1,291 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-761dda426d",
+"locator": null,
+"node": "fas",
+"nodeLabel": "Federation of American Scientists",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "FAS brought the 1997 FOIA litigation, with the assistance of Kate Martin of the Center for National Security Studies, that forced the first disclosure of the total intelligence budget in fifty years.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-34afe03eee",
+"locator": null,
+"node": "mip",
+"nodeLabel": "Military Intelligence Program (MIP)",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "Published MIP appropriated toplines: FY2007 $20.0bn, FY2008 $22.9bn, FY2009 $26.4bn, FY2010 $27.0bn, FY2011 $24.0bn, FY2012 $21.5bn, FY2013 $19.2bn, FY2014 $17.4bn, FY2015 $16.5bn, FY2016 $17.7bn, FY2017 $18.4bn, FY2018 $22.1bn, FY2019 $21.5bn, FY2020 $23.1bn, FY2021 $23.3bn, FY2022 $24.1bn, FY2023 $27.9bn, FY2024 $29.8bn, FY2025 $27.8bn; the FY2026 request was $33.6bn.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-ee20849a83",
+"locator": null,
+"node": "mip",
+"nodeLabel": "Military Intelligence Program (MIP)",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "MIP figures were first disclosed publicly alongside NIP totals for FY2010; the Department publishes only an aggregate topline and states that other MIP budget details remain classified.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0af698a069",
+"locator": null,
+"node": "nip-fy2013-summary-disclosure",
+"nodeLabel": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The officially disclosed FY2013 NIP figure was $52.7 billion requested, reduced to $49.0 billion by sequestration.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1823f93ae9",
+"locator": null,
+"node": "nip-fy2013-summary-disclosure",
+"nodeLabel": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The FAS Intelligence Resource Program hosts 'National Intelligence Program Summary for FY2013 (excerpts) (TS/SI/TK/NOFORN)', released via the Washington Post.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-eb3d06a9f3",
+"locator": null,
+"node": "nip-fy2013-summary-disclosure",
+"nodeLabel": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "FAS also indexes redacted Congressional Budget Justifications obtained by FOIA for ODNI (FY2008-FY2014), NRO (FY2006-FY2014), NGA (FY2009-FY2016) and the Military Intelligence Program (FY2007-FY2010, FY2016).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ea2cc29036",
+"locator": null,
+"node": "nip-fy2013-summary-disclosure",
+"nodeLabel": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The 2013 excerpts remain the only public view of the interior of the intelligence budget; every other public figure is an aggregate. Reasoning: no subsequent leak or FOIA release has produced a comparable programme-level NIP summary, and the statutory disclosure regime at 50 U.S.C. 3306 requires only aggregates.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-7f61c44efe",
+"locator": null,
+"node": "steven-aftergood",
+"nodeLabel": "Steven Aftergood",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The DCI disclosed $26.7 billion for FY1998; disclosure then lapsed until the DNI released the FY2007 NIP figure.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d4d131d9f2",
+"locator": null,
+"node": "steven-aftergood",
+"nodeLabel": "Steven Aftergood",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The 1997 litigation was brought by the Federation of American Scientists with the assistance of Kate Martin of the Center for National Security Studies.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-34bfa1daa8",
+"locator": null,
+"node": "intel-budget-disclosure-record",
+"nodeLabel": "The intelligence budget disclosure record, FY1997-FY2026",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "MIP figures were first disclosed alongside NIP totals for FY2010.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7548263483",
+"locator": null,
+"node": "intel-budget-disclosure-record",
+"nodeLabel": "The intelligence budget disclosure record, FY1997-FY2026",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The FY2026 request was $81.9 billion NIP and $33.6 billion MIP.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-94acf6ad3c",
+"locator": null,
+"node": "intel-budget-disclosure-record",
+"nodeLabel": "The intelligence budget disclosure record, FY1997-FY2026",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The DCI disclosed $26.7 billion for FY1998 and then ceased disclosure; publication did not resume until the DNI released the FY2007 NIP figure.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a0bfd8c01b",
+"locator": null,
+"node": "intel-budget-disclosure-record",
+"nodeLabel": "The intelligence budget disclosure record, FY1997-FY2026",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "The 1997 disclosure of $26.6 billion for FY1997 was the first release of the total US intelligence budget in fifty years and followed FOIA litigation brought by FAS with the assistance of Kate Martin of the Center for National Security Studies.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fd19b92aab",
+"locator": null,
+"node": "intel-budget-disclosure-record",
+"nodeLabel": "The intelligence budget disclosure record, FY1997-FY2026",
+"sourceText": "https://irp.fas.org/budget/index.html",
+"text": "Combined NIP+MIP totals by fiscal year: 2007 $63.5bn, 2008 $70.4bn, 2009 $76.2bn, 2010 $80.1bn, 2011 $78.6bn, 2012 $75.4bn, 2013 $71.9bn, 2014 $67.9bn, 2015 $66.8bn, 2016 $70.7bn, 2017 $73.0bn, 2018 $81.5bn, 2019 $81.7bn, 2020 $85.8bn, 2021 $84.1bn, 2022 $89.8bn, 2023 $99.6bn, 2024 $106.3bn, 2025 $101.1bn.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3306",
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+},
+"b": {
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026"
+},
+"claimTier": 1,
+"id": "e-2517b6f864",
+"label": "The statute that produced the second segment of the disclosure record",
+"note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "nip-fy2013-summary-disclosure",
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure"
+},
+"b": {
+"cls": "institution",
+"id": "fas",
+"label": "Federation of American Scientists"
+},
+"claimTier": 1,
+"id": "e-19b9f88d5b",
+"label": "FAS hosts the excerpts and the redacted FOIA budget justifications",
+"note": "The FAS Intelligence Resource Program budget page indexes the FY2013 NIP Summary excerpts alongside redacted Congressional Budget Justifications for ODNI, NRO, NGA and the MIP. Attested by the page itself.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "nip-fy2013-summary-disclosure",
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure"
+},
+"b": {
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+"claimTier": 1,
+"id": "e-1914d2363b",
+"label": "The only public view of the interior of the National Intelligence Program",
+"note": "The FY2013 NIP Summary excerpts, classified TS/SI/TK/NOFORN, were released via the Washington Post in August 2013 and are hosted by FAS; the officially disclosed figure for the same year was a single aggregate. Attested by the FAS document index.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "nip-fy2013-summary-disclosure",
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure"
+},
+"b": {
+"cls": "document",
+"id": "classified-schedule-authorizations",
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)"
+},
+"claimTier": 3,
+"id": "e-8dcc79bc9c",
+"label": "What the Schedule of Authorizations looks like from the inside",
+"note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-irp-fas-org-4816fb2e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "institution",
+"id": "fas",
+"label": "Federation of American Scientists"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+{
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)"
+},
+{
+"cls": "document",
+"id": "nip-fy2013-summary-disclosure",
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure"
+},
+{
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+{
+"cls": "person",
+"id": "steven-aftergood",
+"label": "Steven Aftergood"
+},
+{
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026"
+}
+],
+"node": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"topics": [
+{
+"claims": [
+"c-34afe03eee",
+"c-ee20849a83",
+"c-0af698a069",
+"c-1823f93ae9",
+"c-eb3d06a9f3",
+"c-ea2cc29036",
+"c-d4d131d9f2",
+"c-34bfa1daa8",
+"c-94acf6ad3c",
+"c-a0bfd8c01b",
+"c-fd19b92aab"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-94acf6ad3c",
+"c-a0bfd8c01b"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "web page",
+"urls": [
+"https://irp.fas.org/budget/index.html"
+]
+}

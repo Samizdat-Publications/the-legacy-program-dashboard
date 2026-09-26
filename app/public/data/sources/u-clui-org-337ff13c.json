@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-bedford-ma",
+"label": "Bedford, Massachusetts"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-646d41c731",
+"label": "MITRE founding site and original headquarters",
+"note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-clui-org-337ff13c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "clui.org",
+"listedOn": [],
+"node": null,
+"title": "https://clui.org/ludb/site/mitre-corporation-bedford-headquarters",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://clui.org/ludb/site/mitre-corporation-bedford-headquarters"
+]
+}

@@ -1,0 +1,2330 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a3b6f0ed44",
+"locator": "9 September 2025",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"sourceText": "GPO CHRG-119hhrg61718, 9 September 2025",
+"text": "Rep. Burlison from the dais: 'You are the first witness to come forward that is currently serving, and it is recognized, and so I thank you.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bc6110fd55",
+"locator": "CONTENTS",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"sourceText": "CHRG-119hhrg61718 CONTENTS",
+"text": "Witness of record at the 9 September 2025 hearing: 'Chief Alexandro Wiggins, U.S. Navy'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-632f3e1ff5",
+"locator": "9 September 2025",
+"node": "alfred-odonnell",
+"nodeLabel": "Alfred 'Al' O'Donnell",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Knapp named O'Donnell to Congress as the 'first general manager of EG&G in Nevada, which managed the Nevada test site,' among the witnesses whose testimony underlies his reverse-engineering reporting.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2d17fe2731",
+"locator": "9 September 2025",
+"node": "andy-ogles",
+"nodeLabel": "Andrew Ogles",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Waived onto the Task Force on the Declassification of Federal Secrets for the 9 September 2025 hearing.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0962bee36a",
+"locator": "proceedings",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "CHRG-119hhrg61718 proceedings",
+"text": "Presided as Chairwoman of the Task Force on the Declassification of Federal Secrets at the 9 September 2025 hearing: 'The Task Force met, pursuant to notice, at 10:05 a.m., Room HVC-210, U.S. Capitol Visitor Center, Hon. Anna Luna, [Chairwoman of the Task Force] presiding.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-138e38f0f7",
+"locator": "9 September 2025",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'If we set up offices and oversight bodies only to let them become graveyards for testimony or, worse yet, ruses for pretending to investigate when in actuality there was no followup, then we are not doing our jobs.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7c66791e3f",
+"locator": null,
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "Chairwoman Anna Paulina Luna, opening statement, 9 September 2025, GPO transcript CHRG-119hhrg61718",
+"text": "'The Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations... were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e0a905964c",
+"locator": "9 September 2025",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'Recently, the former AARO director known as Sean Kirkpatrick attacked our witnesses and members on this Committee. It should be noted that he is a documented liar and brings into question what his purpose at AARO really was.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fb6e75db92",
+"locator": "Serial No. 119-44",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "CHRG-119hhrg61718, Serial No. 119-44",
+"text": "Luna chaired the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' and entered a letter to the Secretary of Defense on the Grusch reprisal into the record.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3b4fe766eb",
+"locator": "opening statement of Rep. Luna",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "CHRG-119hhrg61718, opening statement of Rep. Luna",
+"text": "Opening statement, 9 September 2025: 'For too long, the issue of unidentified anomalous phenomena, commonly known as UAPs, has been shrouded in secrecy, stigma, and in some cases outright dismissal. Today, I want to state clearly that this is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-3104436903",
+"locator": null,
+"node": "oversight-congress",
+"nodeLabel": "Congressional oversight of special access programs",
+"sourceText": "Inference from the composition of 10 U.S.C. 119(e), DoDD 5205.07 and the read-in practice described in CHRG-119hhrg61718",
+"text": "The combination of the 10 U.S.C. 119 waiver, the DoDD 5205.07 notification requirement and the HASC/HAC-D read-in gate produces a lawful architecture in which a program can be concealed from 527 of 535 members of Congress indefinitely. Reasoning: each element is individually lawful and the composition has never been tested against a UAP-specific demand.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-7a6543a6cf",
+"locator": "INDEX OF DOCUMENTS",
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
+"text": "A 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane' is listed in the INDEX OF DOCUMENTS of the 9 September 2025 hearing record, CHRG-119hhrg61718.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-83ec6a7b97",
+"locator": "9 September 2025",
+"node": "james-ryder",
+"nodeLabel": "Dr. James Ryder",
+"sourceText": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+"text": "'Well, one of them was named Dr. James Ryder at Lockheed.' - response to a request to name specific gatekeepers of the alleged UAP special access program network.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c5655c2681",
+"locator": "9 September 2025",
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "GPO CHRG-119hhrg61718, 9 September 2025",
+"text": "Rep. Burlison asked him on the record whether 'BAASS Systems' was involved in any way with reverse engineering exploitation of non-human intelligence craft.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c5e399264e",
+"locator": "CONTENTS",
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "CHRG-119hhrg61718 CONTENTS",
+"text": "Witness of record at the 9 September 2025 hearing: 'Mr. Dylan Borland, UAP Witness, U.S. Air Force Veteran'.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-04066f72a7",
+"locator": "9 September 2025",
+"node": "l-eglin",
+"nodeLabel": "Eglin Air Force Base, Florida",
+"sourceText": "GPO CHRG-119hhrg61718, 9 September 2025",
+"text": "Luna: 'the infamous Eglin Air Force Base incident that occurred when myself and former Representative Matt Gates, as well as Representative Burchett, followed up on a lead from multiple active duty Air Force pilot whistleblowers that alleged that the United States Air Force was covering up UAP activity at Eglin Air Force Base.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1ce235583d",
+"locator": "INDEX OF DOCUMENTS",
+"node": "eli-crane",
+"nodeLabel": "Elijah Crane",
+"sourceText": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
+"text": "Submitted for the record of the 9 September 2025 hearing a 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal', listed in the printed INDEX OF DOCUMENTS of CHRG-119hhrg61718.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4d89549125",
+"locator": null,
+"node": "eli-crane",
+"nodeLabel": "Elijah Crane",
+"sourceText": "Rep. Eli Crane, 9 September 2025, GPO CHRG-119hhrg61718",
+"text": "'I would like to enter into the testimony a letter I sent to the DOD regarding the case of Major David Charles Grusch, a UAP whistleblower who has been extremely helpful to this Committee. Unfortunately, due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6052eefcd6",
+"locator": "Index of Documents",
+"node": "eli-crane",
+"nodeLabel": "Elijah Crane",
+"sourceText": "CHRG-119hhrg61718, Index of Documents",
+"text": "The hearing's printed Index of Documents lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0bf4c36931",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "Rep. Eric Burlison, 9 September 2025, GPO transcript CHRG-119hhrg61718",
+"text": "'Just last night, I tried to get an amendment onto the National Defense Authorization Act that fit in the germaneness of that bill to have UAP disclosure. And conveniently, it was named nongermane, mostly deemed by staff, not even an elected official.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-48ae97948e",
+"locator": "9 September 2025",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'Last year, we were blocked by someone in House administration from being able to receive a full briefing from AARO, so not an elected official, but someone in staff blocked us. And I have had it.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-72551ea992",
+"locator": "9 September 2025",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025; DefenseScoop, 9 September 2025",
+"text": "Unveiled classified footage at the 9 Sept 2025 hearing: 'This was taken October 30 of 2024. This video is of an MQ-9 drone tracking an orb... off the coast of Yemen. You will see that another MQ-9 launched a hellfire missile.' The object was apparently struck and continued.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-67ffb4cf08",
+"locator": "CONTENTS",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "CHRG-119hhrg61718 CONTENTS",
+"text": "Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2404414528",
+"locator": "9 September 2025",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-712914ce1a",
+"locator": "testimony of George Knapp",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "CHRG-119hhrg61718, testimony of George Knapp",
+"text": "Testimony, 9 September 2025, on where UAP funding sits: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-da031b7d10",
+"locator": "9 September 2025",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-233793c747",
+"locator": "9 September 2025",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'Mr. Knapp. I have a name for you. Mr. Begich. Go ahead. Mr. Knapp. Glenn Gaffney, CIA.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-dcd51edf88",
+"locator": "9 September 2025",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "In the same answer Knapp attributed the original tasking to the intelligence agencies: 'the intelligence agencies who gave this stuff to them, CIA I think primarily, told them to keep it quiet, and they have done that.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f0981a8f64",
+"locator": "9 Sept 2025",
+"node": "glenn-grothman",
+"nodeLabel": "Glenn S. Grothman",
+"sourceText": "Inference from CHRG-118hhrg57440 (13 Nov 2024) and CHRG-119hhrg61718 (9 Sept 2025)",
+"text": "Grothman's 2024 'inside and outside of the SCIF' framing is in tension with Luna's 2025 statement that DoD told committee staff Oversight members were not eligible to be read in on the relevant special access programs without HASC/HAC-D approval. Either the SCIF sessions did not reach the SAPs at issue, or the two chairs were describing different access. Reasoning: both statements are on the record of the same committee thirteen months apart and cannot both describe complete access to the same material.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-ea62b8981e",
+"locator": "9 September 2025",
+"node": "hr-5060-uap-whistleblower-protection-act",
+"nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-0adda258ce",
+"locator": "proceedings",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, proceedings",
+"text": "Convening record: 'The Task Force met, pursuant to notice, at 10:05 a.m., Room HVC-210, U.S. Capitol Visitor Center, Hon. Anna Luna, [Chairwoman of the Task Force] presiding. Present: Representatives Luna, Mace, Burchett, Boebert, Burlison, Crane, Gill, Crockett, and Lee. Also present: Representatives Biggs, Begich, Ogles, Perry, Grothman, Titus, and Moskowitz.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-0bf7a2bfaf",
+"locator": "cover page",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, cover page",
+"text": "Printed hearing record CHRG-119hhrg61718, Serial No. 119-44, cover: 'RESTORING PUBLIC TRUST THROUGH UAP TRANSPARENCY AND WHISTLEBLOWER PROTECTION - HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM, U.S. HOUSE OF REPRESENTATIVES, ONE HUNDRED NINETEENTH CONGRESS, FIRST SESSION, SEPTEMBER 9, 2025'. GPO print number 61-718. The govinfo package URL resolves and the PDF is retrievable.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-128ede6611",
+"locator": "INDEX OF DOCUMENTS",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, INDEX OF DOCUMENTS",
+"text": "INDEX OF DOCUMENTS lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane' - a document about reprisal against the 2023 whistleblower entered into the record of the 2025 hearing.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-68029c0e89",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "House Oversight hearing page; GPO CHRG-119hhrg61718",
+"text": "Held 9 September 2025 in HVC-210; witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger; printed as Serial No. 119-44.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-6f87b757d2",
+"locator": "front matter",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718 front matter",
+"text": "The hearing was held 9 September 2025 before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, Serial No. 119-44, with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7bd3cbf36f",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718",
+"text": "Reps. Biggs, Begich, Ogles, Titus and Moskowitz were waived onto the Task Force for the purpose of questioning witnesses.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-d4820c73d4",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718",
+"text": "Held 9 September 2025 before the Task Force on the Declassification of Federal Secrets; official record published as Serial No. 119-44.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-fb1af2ba9a",
+"locator": "CONTENTS/WITNESSES page",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, CONTENTS/WITNESSES page",
+"text": "Witness list of record: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'; 'Chief Alexandro Wiggins, U.S. Navy'; 'Mr. George Knapp, UAP Journalist'; 'Mr. Dylan Borland, UAP Witness, U.S. Air Force Veteran'; 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-ff3d73c557",
+"locator": "Index of Documents",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, Index of Documents",
+"text": "Index of Documents records 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-5d8f64bd09",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718; DefenseScoop, 9 September 2025",
+"text": "Rep. Burlison publicly unveiled footage recorded 30 October 2024 of an MQ-9 tracking an orb off the coast of Yemen while a second MQ-9 fired a Hellfire missile; the object appeared struck and continued moving.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-9d29dd8692",
+"locator": "9 September 2025",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Knapp named Lockheed Martin, Dr. James Ryder and Glenn Gaffney on the record in response to member questions about which corporations and individuals hold and gatekeep the material.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-c4dd62401b",
+"locator": "colloquy between Rep. Burchett and George Knapp",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, colloquy between Rep. Burchett and George Knapp",
+"text": "Rep. Tim Burchett stated on the record that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.' Witness George Knapp responded: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-d1a66ac2c6",
+"locator": "opening statement of Rep. Luna",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "CHRG-119hhrg61718, opening statement of Rep. Luna",
+"text": "Opening statement of Chairwoman Anna Paulina Luna: 'For too long, the issue of unidentified anomalous phenomena, commonly known as UAPs, has been shrouded in secrecy, stigma, and in some cases outright dismissal. Today, I want to state clearly that this is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.' She further stated she had 'spoken now to a number of whistleblowers from the military to include the infamous Eglin Air Force Base incident'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-5d9d2b673f",
+"locator": null,
+"node": "james-comer",
+"nodeLabel": "James Comer Jr.",
+"sourceText": "GPO CHRG-118hhrg53022 and CHRG-119hhrg61718",
+"text": "Chairman of the Committee on Oversight and Accountability at the 26 July 2023 hearing and of the Committee on Oversight and Government Reform at the 9 September 2025 hearing; appears in the printed member roster of both.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-44c910089d",
+"locator": "and oversight.house.gov releases",
+"node": "james-comer",
+"nodeLabel": "James Comer Jr.",
+"sourceText": "Inference from CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718 and oversight.house.gov releases",
+"text": "No UAP-related subpoena has been issued by the Committee under Comer's chairmanship despite repeated member requests on the record (Gaetz 2023, Gallaudet 2024, Luna 2026). Reasoning: no subpoena appears in the printed indexes of the three hearing records or in committee releases located through August 2026.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-9abfe2a2b1",
+"locator": null,
+"node": "jared-moskowitz",
+"nodeLabel": "Jared Evan Moskowitz",
+"sourceText": "Rep. Jared Moskowitz, Task Force hearing, 9 September 2025 (GPO CHRG-119hhrg61718; The Hill, 9 Sept 2025)",
+"text": "'I don't really know what is true, I don't know, on this subject, but I do know when we're being lied to and we are definitely being lied to, there's just no doubt about that.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0d81482456",
+"locator": null,
+"node": "jasmine-crockett",
+"nodeLabel": "Jasmine Felicia Crockett",
+"sourceText": "Ranking Member Jasmine Crockett, 9 September 2025, GPO CHRG-119hhrg61718",
+"text": "'The Federal Government has had a longstanding overclassification issue in general... from the assassinations of MLK and Malcolm X, to the FBI's Counterintelligence Program (COINTELPRO) and torture programs, to now UAPs.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-86d47c3960",
+"locator": "9 September 2025",
+"node": "jasmine-crockett",
+"nodeLabel": "Jasmine Felicia Crockett",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'The reality is that we cause more harm than good when we allow a lack of transparency to fester. It allows for all types of conspiracy theories instead of us actually making the investments that we need to make to get the information and actually provide it to the American people.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e8e4d1e134",
+"locator": null,
+"node": "jasmine-crockett",
+"nodeLabel": "Jasmine Felicia Crockett",
+"sourceText": "CHRG-119hhrg61718; oversight.house.gov Task Force page",
+"text": "Ranking Member of the Task Force on the Declassification of Federal Secrets as printed in the hearing record and on the committee's membership page.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e8ad81d814",
+"locator": "CONTENTS",
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "CHRG-119hhrg61718 CONTENTS",
+"text": "Witness of record at the 9 September 2025 hearing: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2d51581442",
+"locator": "9 September 2025",
+"node": "joe-spielberger",
+"nodeLabel": "Joe Spielberger",
+"sourceText": "GPO CHRG-119hhrg61718, 9 September 2025",
+"text": "Ranking Member Crockett devoted her entire questioning round to him on the protections available to those who come forward.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6721d94be1",
+"locator": "CONTENTS",
+"node": "joe-spielberger",
+"nodeLabel": "Joe Spielberger",
+"sourceText": "CHRG-119hhrg61718 CONTENTS",
+"text": "Minority witness of record at the 9 September 2025 hearing: 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b6d6789c8c",
+"locator": "9 September 2025",
+"node": "lockheed-martin",
+"nodeLabel": "Lockheed Martin Corporation",
+"sourceText": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+"text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-62c7f116b4",
+"locator": "2025-09-09",
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09",
+"text": "The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-62c7f116b4",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09",
+"text": "The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7849e20b6a",
+"locator": "9 Sept 2025) and Gallagher's published committee assignments",
+"node": "mike-gallagher",
+"nodeLabel": "Michael John Gallagher",
+"sourceText": "Inference from CHRG-119hhrg61718 (9 Sept 2025) and Gallagher's published committee assignments",
+"text": "Gallagher held simultaneous House Armed Services and House Intelligence assignments through the 118th Congress - the exact committee profile DoD told Oversight staff was required for read-in to UAP-relevant special access programs. Reasoning: Luna's 9 Sept 2025 statement identifies HASC and HAC-D membership as the read-in gate; HPSCI is the parallel intelligence authorising committee. Whether Gallagher was ever briefed on UAP SAPs is unresolved.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-64136c0284",
+"locator": "9 September 2025",
+"node": "crane-dod-reprisal-letter",
+"nodeLabel": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Crane on the record: Grusch 'suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-78ff5de083",
+"locator": "Index of Documents",
+"node": "crane-dod-reprisal-letter",
+"nodeLabel": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"sourceText": "GPO CHRG-119hhrg61718, Index of Documents",
+"text": "Listed in the hearing's Index of Documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b5f77177c9",
+"locator": null,
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"sourceText": "CHRG-119hhrg61718",
+"text": "Held the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'; record published as Serial No. 119-44.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ce83bc4f8b",
+"locator": null,
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"sourceText": "House Oversight hearing page and GPO CHRG-119hhrg61718",
+"text": "Held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025 in HVC-210 with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e2be270358",
+"locator": "9 September 2025",
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Roster as printed in the hearing record: Luna (Chairwoman), Mace, Burchett, Boebert, Burlison, Crane, Gill; Crockett (Ranking Member), Krishnamoorthi, Lee, Min, and one vacancy.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4653de7b6b",
+"locator": "9 September 2025",
+"node": "boeing",
+"nodeLabel": "The Boeing Company",
+"sourceText": "Ryan Graves, CHRG-118hhrg53022, 26 July 2023; Jeffrey Nuccetelli, CHRG-119hhrg61718, 9 September 2025",
+"text": "Boeing contractors at Vandenberg were the observers in the October 2003 'red square' incident described in sworn testimony at both the 2023 and 2025 hearings.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-40a88593cb",
+"locator": "9 September 2025",
+"node": "sap-readin-gate",
+"nodeLabel": "The HASC/HAC-D special access program read-in gate",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'Independent staff oversight has presented a consistent problem for Congress, as well as program budgets are classified. Additionally, oversight reporting to Congress is classified and only provided to the authorizing and Appropriations Committees of jurisdiction.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-428069e9d2",
+"locator": "9 September 2025",
+"node": "sap-readin-gate",
+"nodeLabel": "The HASC/HAC-D special access program read-in gate",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Burlison, same hearing: his NDAA UAP disclosure amendment was ruled non-germane 'mostly deemed by staff, not even an elected official,' and in 2024 members were 'blocked by someone in House administration from being able to receive a full briefing from AARO.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-b5abe27162",
+"locator": null,
+"node": "sap-readin-gate",
+"nodeLabel": "The HASC/HAC-D special access program read-in gate",
+"sourceText": "Chairwoman Anna Paulina Luna, 9 September 2025, GPO CHRG-119hhrg61718",
+"text": "'The Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations, also known as HAC-D, were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bd988d2785",
+"locator": "9 September 2025",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Burchett: 'who are the contractors that have this material, the corporations?' Knapp: 'Well, one of them is Lockheed... There is a list I can give you, Congressman.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-87563e169e",
+"locator": "statement of Rep. Burchett",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"sourceText": "CHRG-119hhrg61718, statement of Rep. Burchett",
+"text": "Stated on the record at the 9 September 2025 hearing that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-2f4de2d1ed",
+"locator": null,
+"node": "house-oversight-committee",
+"nodeLabel": "U.S. House Committee on Oversight and Government Reform",
+"sourceText": "GPO CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718",
+"text": "Held the three House UAP hearings of 26 July 2023, 13 November 2024 and 9 September 2025, all printed by the Government Publishing Office.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9724a1df3a",
+"locator": "9 September 2025",
+"node": "house-oversight-committee",
+"nodeLabel": "U.S. House Committee on Oversight and Government Reform",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Its chairwoman placed on the record that DoD restricted UAP SAP read-ins to HASC and HAC-D members, requiring approval from the chairman and ranking member of both for any other member.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-1ac30f5fe1",
+"locator": "9 September 2025",
+"node": "us-house",
+"nodeLabel": "United States House of Representatives",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Chairwoman Anna Paulina Luna stated on 9 September 2025: 'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7ff5893738",
+"locator": "9 September 2025",
+"node": "us-house",
+"nodeLabel": "United States House of Representatives",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Chairwoman Luna stated: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b2e834c6bd",
+"locator": "9 September 2025",
+"node": "us-house",
+"nodeLabel": "United States House of Representatives",
+"sourceText": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Representative Nancy Mace stated at the same hearing: 'only certain people know the name of the program, and if you do not know it, you cannot get the information.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-4c4f9bed66",
+"label": "sworn witness",
+"note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "alfred-odonnell",
+"label": "Alfred 'Al' O'Donnell"
+},
+"b": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"claimTier": 2,
+"id": "e-4ae2da407f",
+"label": "O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada",
+"note": "His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "alfred-odonnell",
+"label": "Alfred 'Al' O'Donnell"
+},
+"b": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"claimTier": 2,
+"id": "e-3f73dec8a3",
+"label": "O'Donnell told Knapp a recovered saucer and a live being existed",
+"note": "Knapp reported the account publicly in February 2023 and named O'Donnell to Congress under oath in September 2025. The promised deathbed recording has never surfaced.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 1,
+"id": "e-9b36957c6a",
+"label": "Luna called former AARO director Kirkpatrick 'a documented liar' and AARO's channel a graveyard for testimony",
+"note": "From her 9 September 2025 opening statement, which also read Mellon's critique of AARO's historical report into the record.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"claimTier": 1,
+"id": "e-3752916b84",
+"label": "Chairwoman stated the HASC/HAC-D read-in gate on the record",
+"note": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "location",
+"id": "l-eglin",
+"label": "Eglin Air Force Base, Florida"
+},
+"claimTier": 1,
+"id": "e-6da99f10f6",
+"label": "Accompanied Gaetz to Eglin; described 'the infamous Eglin Air Force Base incident' in 2025",
+"note": "Luna's 2025 opening statement attributes the lead to multiple active-duty Air Force pilot whistleblowers alleging an Air Force cover-up at Eglin.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-3ee8c1ae0b",
+"label": "presiding chairwoman",
+"note": "The Task Force on the Declassification of Federal Secrets built the hearing around serving and former operators rather than programme officials.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-60f84097b9",
+"label": "Luna chaired the hearing at which the contractor allegation acquired names",
+"note": "Luna chaired the Task Force on the Declassification of Federal Secrets hearing at which four witnesses testified on UAP transparency and whistleblower retaliation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 1,
+"id": "e-79cb13f218",
+"label": "Chairs the Task Force",
+"note": "Luna chairs the standing Oversight task force that converted the ad hoc 2023-2024 UAP hearings into a permanent investigative vehicle.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 1,
+"id": "e-ab96dce1ff",
+"label": "Chairwoman",
+"note": "Luna chairs the task force; Jasmine Crockett is ranking member; Mace, Burchett, Boebert, Burlison, Crane and Gill sit on the majority side.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 1,
+"id": "e-5d137d3368",
+"label": "Luna read Mellon's demolition of AARO's historical report into her 2025 opening statement",
+"note": "Mellon called it 'the most error-ridden and unsatisfactory government report I can recall reading after decades of government service.'",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-889bb3d97c",
+"label": "Present in the room as reprisal against him is entered into the record",
+"note": "Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "document",
+"id": "crane-dod-reprisal-letter",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+},
+"claimTier": 1,
+"id": "e-bdb1237ea5",
+"label": "Subject of the reprisal enumeration",
+"note": "The only document in the public record that itemizes the adverse actions against Grusch. Each of the three actions generates its own internal DoD paper trail that has never been produced.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"claimTier": 2,
+"id": "e-41b7af31bd",
+"label": "SAPCO administers the read-in architecture Luna described",
+"note": "Chairwoman Luna testified on 9 September 2025 that a non-committee member must be approved by the chairman and ranking member of both HASC and HAC-D to view specific material; the underlying access records and accreditation are held by the SAPCO enterprise.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-ryder",
+"label": "Dr. James Ryder"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 2,
+"id": "e-e387aa66ec",
+"label": "Ryder is identified in sworn testimony as a Lockheed Martin figure",
+"note": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"claimTier": 3,
+"id": "e-1cca3ef322",
+"label": "The reprisal case the bill is designed to cover",
+"note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-aeedb1f378",
+"label": "sworn witness",
+"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+"b": {
+"cls": "document",
+"id": "crane-dod-reprisal-letter",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+},
+"claimTier": 1,
+"id": "e-1d63c956f3",
+"label": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
+"note": "Crane enumerated three specific adverse actions - clearance removal, denial of promotion, loss of medical retirement - and entered the letter into the hearing record on 9 September 2025 reporting no reply.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+"b": {
+"cls": "document",
+"id": "crane-dod-reprisal-letter",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+},
+"claimTier": 1,
+"id": "e-5b29c24b18",
+"label": "Author; entered it into the hearing record while still awaiting a reply",
+"note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-1ad1dabe3d",
+"label": "Named BAASS from the dais as a reverse-engineering exploitation question",
+"note": "Asked of witness Dylan Borland at the 9 September 2025 hearing.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"claimTier": 1,
+"id": "e-7c891cdbc8",
+"label": "Asked him on the record whether BAASS was involved in reverse-engineering exploitation of NHI craft",
+"note": "Ties the 2025 witness layer back to the AAWSAP/BAASS contracting layer.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-0e02943c78",
+"label": "Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025",
+"note": "From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "person",
+"id": "james-ryder",
+"label": "Dr. James Ryder"
+},
+"claimTier": 2,
+"id": "e-c0c55b6865",
+"label": "Knapp named Ryder to Congress as a program gatekeeper at Lockheed",
+"note": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "person",
+"id": "glenn-gaffney",
+"label": "Glenn Gaffney"
+},
+"claimTier": 2,
+"id": "e-1ee4f3ee0c",
+"label": "Knapp named a former senior CIA official as a gatekeeper of the alleged program",
+"note": "Immediately after naming Ryder, Knapp told Rep. Begich 'I have a name for you... Glenn Gaffney, CIA.' No documentary corroboration has been published.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-c3e2e554ae",
+"label": "His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person",
+"note": "Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-6216782e12",
+"label": "sworn witness",
+"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-70724d5b89",
+"label": "Knapp's testimony named the company, the executive and the intelligence official",
+"note": "The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 2,
+"id": "e-76796003e4",
+"label": "Knapp named Lockheed Martin under oath as a corporate holder of recovered material",
+"note": "Asked by Rep. Burchett which corporations hold the material, Knapp answered 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' He declined to characterise the company as culpable, attributing the tasking to the intelligence agencies.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "glenn-grothman",
+"label": "Glenn S. Grothman"
+},
+"b": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"claimTier": 3,
+"id": "e-ad98b6f3c9",
+"label": "Grothman's 'inside and outside of the SCIF' claim cannot be reconciled with the read-in gate Luna documented",
+"note": "Reasoning: Grothman said in Nov 2024 that members questioned agencies inside and outside the SCIF without substantiating Grusch; Luna said in Sept 2025 that Oversight members were not eligible for the relevant read-ins at all. Both are on the same committee's record.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "jasmine-crockett",
+"label": "Jasmine Felicia Crockett"
+},
+"b": {
+"cls": "person",
+"id": "joe-spielberger",
+"label": "Joe Spielberger"
+},
+"claimTier": 1,
+"id": "e-09dd2bdba2",
+"label": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
+"note": "The policy bridge from UAP allegations to H.R. 5060.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jasmine-crockett",
+"label": "Jasmine Felicia Crockett"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 1,
+"id": "e-a6e78f6f58",
+"label": "Ranking Member",
+"note": "Printed as Ranking Member in the roster of CHRG-119hhrg61718.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-e399ff9ed0",
+"label": "sworn witness",
+"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "joe-spielberger",
+"label": "Joe Spielberger"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-858369abe6",
+"label": "minority witness",
+"note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-46b9a6871e",
+"label": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
+"note": "Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 1,
+"id": "e-6aefd1a019",
+"label": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
+"note": "Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-3b995b6c32",
+"label": "Knapp testified as KLAS-TV chief investigative reporter",
+"note": "Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-490189dc86",
+"label": "four decades of the record produced from a single local affiliate",
+"note": "KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 1,
+"id": "e-341424584a",
+"label": "Knapp co-authored two books with the AAWSAP originator",
+"note": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-plant-42",
+"label": "Air Force Plant 42, Palmdale, California"
+},
+"claimTier": 3,
+"id": "e-52826d2191",
+"label": "The unnamed 'facility in California' in the sworn testimony is most plausibly in the Palmdale complex",
+"note": "Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated at Palmdale. No witness has named a site and the board does not assert one.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+"claimTier": 2,
+"id": "e-48a6e59963",
+"label": "Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS",
+"note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-6860468a09",
+"label": "the prime where classified contract line items and sworn allegation meet",
+"note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+"b": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"claimTier": 1,
+"id": "e-a7c48378e4",
+"label": "The member who moved his written testimony into the hearing record",
+"note": "Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-35b29a1f09",
+"label": "Written testimony moved into the record by a member; NOT a witness appearance",
+"note": "HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+"b": {
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+"claimTier": 1,
+"id": "e-86199651c0",
+"label": "Named on the record as the custodian who supplied the written testimony",
+"note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-gallagher",
+"label": "Michael John Gallagher"
+},
+"b": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"claimTier": 3,
+"id": "e-a24b387b7d",
+"label": "Held simultaneously the HASC and HPSCI seats that constitute the read-in tier Oversight was excluded from",
+"note": "Reasoning: Luna's 2025 statement identifies HASC and HAC-D membership as the read-in gate; Gallagher held HASC and HPSCI through the 118th Congress and chaired a select committee. Whether he was ever read in on UAP SAPs is unresolved and is a live research question.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"cls": "person",
+"id": "ken-klippenstein",
+"label": "Ken Klippenstein"
+},
+"claimTier": 1,
+"id": "e-210bf9b041",
+"label": "Member of Congress characterizes the records leak as a discrediting operation",
+"note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-a3adff20ca",
+"label": "Stated the compartmentation trap in a public hearing",
+"note": "'only certain people know the name of the program, and if you do not know it, you cannot get the information.' This is the operational definition of an unacknowledged program from the oversight side.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pogo",
+"label": "Project On Government Oversight"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 1,
+"id": "e-a50886e01d",
+"label": "POGO recommendations delivered to Luna's task force",
+"note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pogo",
+"label": "Project On Government Oversight"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-6aa5195f5a",
+"label": "POGO counsel testified at the UAP transparency hearing",
+"note": "The transcript lists 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'. His statement opens 'Chairwoman Luna, Ranking Member Crockett, and Task Force members' and describes POGO as 'a nonpartisan independent watchdog organization that investigates and exposes waste, corruption, abuse of power, and when the government fails to serve the public or silences those who report wrongdoing.' He appeared as the minority witness, on whistleblower protection rather than on the phenomenon.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pogo",
+"label": "Project On Government Oversight"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-a62a9a8792",
+"label": "Outside watchdog seated as witness before Oversight's declassification task force",
+"note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "crane-dod-reprisal-letter",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-017662ddf4",
+"label": "No reply on the record as of 9 September 2025",
+"note": "A sitting member formally notified the Department that a whistleblower lost his clearance, promotion and medical retirement for a protected disclosure. Crane stated he was still waiting for a reply; Chairwoman Luna committed to follow up. Non-response is itself an artifact.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 2,
+"id": "e-5eac3debc5",
+"label": "Ranking Member of the full committee from 2025",
+"note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 2,
+"id": "e-228e2f36ee",
+"label": "Kirkpatrick publicly attacked Task Force witnesses and members; Luna answered from the chair",
+"note": "Luna: 'the former AARO director known as Sean Kirkpatrick attacked our witnesses and members on this Committee. It should be noted that he is a documented liar.'",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-2c053e1cee",
+"label": "Held the 9 September 2025 hearing",
+"note": "The hearing was held in HVC-210 at 10:00am with five witnesses, four of them first-hand or journalistic.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "boeing",
+"label": "The Boeing Company"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-5dd3289eab",
+"label": "Boeing contractors were the observers in the 2003 Vandenberg red square incident",
+"note": "Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"b": {
+"cls": "program",
+"id": "uap-select-committee-proposal",
+"label": "Proposed House Select Committee on UAP"
+},
+"claimTier": 3,
+"id": "e-683323e5df",
+"label": "A select committee is the instrument that would route around the read-in gate",
+"note": "Reasoning: a select committee carries its own clearance posture and subpoena authority and is not subject to another committee's read-in approval. Burlison's stated rationale was that DoD 'weren't transparent to us in a SCIF setting.'",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-109c53aa87",
+"label": "The jurisdictional routing that keeps the subpoena committee uncleared",
+"note": "Documented by Luna on 9 September 2025; corroborated by Burlison's 2024 AARO briefing block and his 2025 non-germane amendment ruling.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "location",
+"id": "l-eglin",
+"label": "Eglin Air Force Base, Florida"
+},
+"claimTier": 1,
+"id": "e-1904dfd6f1",
+"label": "Accompanied Gaetz to Eglin on the protected disclosure",
+"note": "Named by Gaetz on the record and again by Luna in 2025.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"claimTier": 1,
+"id": "e-c6a8dbdf80",
+"label": "Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list",
+"note": "No list has been published and no committee has reported receiving one, which is itself a documented gap in the record.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 1,
+"id": "e-5e79eb3ee8",
+"label": "the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands",
+"note": "Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 2,
+"id": "e-9b201e2ba4",
+"label": "Chairman Comer created the Task Force and gave it the UAP declassification remit",
+"note": "Comer announced the Task Force on 11 February 2025 and named Luna chairwoman; its roster is printed in the 9 Sept 2025 hearing record.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"b": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"claimTier": 1,
+"id": "e-ca7ca83f75",
+"label": "Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025",
+"note": "'It was stripped out by the House last year, and I cannot get it onto the bill leaving the House this year.'",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-e64e8b6002",
+"label": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure",
+"note": "Enumerated by Rep. Crane on the hearing record and in his letter to the Secretary of Defense.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "person",
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+"claimTier": 1,
+"id": "e-bef32da7d6",
+"label": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
+"note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"claimTier": 1,
+"id": "e-9a878750ea",
+"label": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
+"note": "Burlison put both on the record at the 9 September 2025 hearing: 'not an elected official, but someone in staff blocked us. And I have had it.'",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-731b16e397",
+"label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+"note": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"b": {
+"cls": "institution",
+"id": "house-armed-services",
+"label": "House Armed Services Committee"
+},
+"claimTier": 1,
+"id": "e-4ab348a1d3",
+"label": "One half of the read-in gate described by Chairwoman Luna",
+"note": "HASC leadership approval is required, together with HAC-D leadership, for a non-committee member to view specific program material.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"b": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"claimTier": 1,
+"id": "e-f28b40de8f",
+"label": "HASC and HAC-D leadership control member access to program material",
+"note": "The gate is described on the record by the chair of the investigating task force; the two committees controlling it are not the committee conducting the inquiry.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-ad05135314",
+"label": "Committee that took the 2023 and 2024 public UAP testimony",
+"note": "House Oversight held the 26 July 2023 hearing and the 13 November 2024 hearing, and its Task Force on the Declassification of Federal Secrets held the 9 September 2025 hearing.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-a86e9ebd7b",
+"label": "Committee finding of non-cooperation by DoD and the IC",
+"note": "Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "chrg-119hhrg61718",
+"identifiers": [
+"CHRG-119hhrg61718"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-plant-42",
+"label": "Air Force Plant 42, Palmdale, California"
+},
+{
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+{
+"cls": "person",
+"id": "alfred-odonnell",
+"label": "Alfred 'Al' O'Donnell"
+},
+{
+"cls": "person",
+"id": "andy-ogles",
+"label": "Andrew Ogles"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "james-ryder",
+"label": "Dr. James Ryder"
+},
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "location",
+"id": "l-eglin",
+"label": "Eglin Air Force Base, Florida"
+},
+{
+"cls": "person",
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "person",
+"id": "glenn-gaffney",
+"label": "Glenn Gaffney"
+},
+{
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+{
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+{
+"cls": "person",
+"id": "jasmine-crockett",
+"label": "Jasmine Felicia Crockett"
+},
+{
+"cls": "person",
+"id": "jeffrey-nuccetelli",
+"label": "Jeffrey Nuccetelli"
+},
+{
+"cls": "person",
+"id": "joe-spielberger",
+"label": "Joe Spielberger"
+},
+{
+"cls": "person",
+"id": "ken-klippenstein",
+"label": "Ken Klippenstein"
+},
+{
+"cls": "person",
+"id": "lauren-boebert",
+"label": "Lauren Opal Boebert"
+},
+{
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+{
+"cls": "person",
+"id": "matt-gaetz",
+"label": "Matthew Louis Gaetz II"
+},
+{
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+{
+"cls": "person",
+"id": "mike-gallagher",
+"label": "Michael John Gallagher"
+},
+{
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+{
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+{
+"cls": "document",
+"id": "crane-dod-reprisal-letter",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+{
+"cls": "institution",
+"id": "boeing",
+"label": "The Boeing Company"
+},
+{
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+{
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+{
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+}
+],
+"node": null,
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"topics": [
+{
+"claims": [
+"c-a3b6f0ed44",
+"c-138e38f0f7",
+"c-7c66791e3f",
+"c-e0a905964c",
+"c-c5655c2681",
+"c-1ce235583d",
+"c-4d89549125",
+"c-0bf4c36931",
+"c-48ae97948e",
+"c-2404414528",
+"c-da031b7d10",
+"c-0adda258ce",
+"c-0bf7a2bfaf",
+"c-128ede6611",
+"c-6f87b757d2",
+"c-7bd3cbf36f",
+"c-fb1af2ba9a",
+"c-5d8f64bd09",
+"c-44c910089d",
+"c-9abfe2a2b1",
+"c-0d81482456",
+"c-2d51581442",
+"c-e2be270358",
+"c-9724a1df3a"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+},
+{
+"claims": [
+"c-bc6110fd55",
+"c-7a6543a6cf",
+"c-c5655c2681",
+"c-c5e399264e",
+"c-67ffb4cf08",
+"c-2404414528",
+"c-da031b7d10",
+"c-ea62b8981e",
+"c-0bf7a2bfaf",
+"c-128ede6611",
+"c-68029c0e89",
+"c-fb1af2ba9a",
+"c-e8ad81d814",
+"c-62c7f116b4",
+"c-62c7f116b4"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-0bf4c36931",
+"c-48ae97948e",
+"c-f0981a8f64",
+"c-7849e20b6a",
+"c-40a88593cb",
+"c-428069e9d2",
+"c-b5abe27162",
+"c-2f4de2d1ed",
+"c-9724a1df3a"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+},
+{
+"claims": [
+"c-0bf4c36931",
+"c-48ae97948e",
+"c-72551ea992",
+"c-44c910089d",
+"c-2f4de2d1ed"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-67ffb4cf08",
+"c-2404414528",
+"c-da031b7d10"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+},
+{
+"claims": [
+"c-1ac30f5fe1",
+"c-7ff5893738",
+"c-b2e834c6bd"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+},
+{
+"claims": [
+"c-1ce235583d",
+"c-4d89549125",
+"c-ea62b8981e"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+},
+{
+"claims": [
+"c-62c7f116b4",
+"c-62c7f116b4"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-a3b6f0ed44",
+"c-bc6110fd55"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+},
+{
+"claims": [
+"c-62c7f116b4",
+"c-62c7f116b4"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-632f3e1ff5"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+},
+{
+"claims": [
+"c-b6d6789c8c"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-b6d6789c8c"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-3104436903"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-64136c0284"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-b6d6789c8c"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-b6d6789c8c"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+},
+{
+"claims": [
+"c-b6d6789c8c"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-4653de7b6b"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-f0981a8f64"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+}
+],
+"type": "hearing record",
+"urls": [
+"https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf",
+"https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+"https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+]
+}

@@ -24,6 +24,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "Paragraph 9 also permits 'Omitting required disclosures, RSI, or RSSI that would otherwise reveal classified information.'",
    "tier": 1
   },
@@ -37,6 +44,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "Paragraph 12 requires entities to disclose that modifications are permitted by the standards but expressly prohibits disclosure of whether the entity applied the Statement.",
    "tier": 1
   },
@@ -50,6 +64,13 @@
     "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-99da587b",
+     "locator": null,
+     "title": "DOWIG-2026-081"
+    }
+   ],
    "text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
    "tier": 1
   },
@@ -63,6 +84,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "SFFAS 56 'Classified Activities' was issued 4 October 2018, effective for periods beginning after 30 September 2018.",
    "tier": 1
   },
@@ -76,6 +104,13 @@
     "text": "https://mark-skidmore.com/about/",
     "url": "https://mark-skidmore.com/about/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-mark-skidmore-com-01334d95",
+     "locator": null,
+     "title": "Mark Skidmore, About"
+    }
+   ],
    "text": "Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
    "tier": 2
   },
@@ -89,6 +124,13 @@
     "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
     "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-f7c4683f",
+     "locator": null,
+     "title": "Mansfield oral statement"
+    }
+   ],
    "text": "Mansfield testified on 13 May 2026 that unsupported adjustments totalled 'over $859 billion in the last two quarters of FY 25'.",
    "tier": 1
   },
@@ -102,6 +144,13 @@
     "text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
     "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-ec662505",
+     "locator": null,
+     "title": "media.defense.gov"
+    }
+   ],
    "text": "The report states that OASA(FM&C) and DFAS Indianapolis 'did not adequately support $2.8 trillion in third quarter journal voucher (JV) adjustments and $6.5 trillion in yearend JV adjustments made to AGF data during FY 2015 financial statement compilation.'",
    "tier": 1
   },
@@ -115,6 +164,7 @@
     "text": "Inference from the classification status of DODIG-2023-109",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A classified evaluation whose scope cannot be verified publicly cannot discharge the oversight function it appears to discharge; DODIG-2023-109 functions in the public record as an assurance rather than as evidence. Reasoning: the findings, the components reviewed and the SAP access obtained are all withheld.",
    "tier": 3
   },
@@ -128,6 +178,13 @@
     "text": "GAO/NSIAD-95-187, 28 July 1995",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-95-187",
+     "locator": "28 July 1995",
+     "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+    }
+   ],
    "text": "GAO/NSIAD-95-187, issued 28 July 1995 at the request of Rep. Steven Schiff, reported that Roswell Army Air Field outgoing messages for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located.",
    "tier": 1
   },
@@ -141,6 +198,13 @@
     "text": "https://www.gao.gov/high-risk-list",
     "url": "https://www.gao.gov/high-risk-list"
    },
+   "sourceRefs": [
+    {
+     "id": "gao-25-107743",
+     "locator": null,
+     "title": "GAO-25-107743"
+    }
+   ],
    "text": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained; other DoD entries are Weapon Systems Acquisition (regressed), Approach to Business Transformation, Business Systems Modernization and Contract Management.",
    "tier": 1
   },
@@ -154,6 +218,13 @@
     "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
     "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-f7c4683f",
+     "locator": null,
+     "title": "Mansfield oral statement"
+    }
+   ],
    "text": "He stated material weaknesses declined from 28 in FY2024 to 26 in FY2025, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years.",
    "tier": 1
   },
@@ -167,6 +238,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "FASAB issued SFFAS 56 'Classified Activities' on 4 October 2018.",
    "tier": 1
   },
@@ -180,6 +258,13 @@
     "text": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-thedebrief-org-9e6e96e0",
+     "locator": null,
+     "title": "The Debrief"
+    }
+   ],
    "text": "Grusch, quoted in The Debrief on 5 June 2023: 'Individuals on these UAP programs approached me in my official capacity and disclosed their concerns regarding a multitude of wrongdoings, such as illegal contracting against the Federal Acquisition Regulations and other criminality and the suppression of information across a qualified industrial base and academia.'",
    "tier": 2
   },
@@ -193,6 +278,13 @@
     "text": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
     "url": "https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-defense-gov-e84e2ae5",
+     "locator": null,
+     "title": "OSD Historical Office, 'Department of Defense Key Officials, September 1947 - July 2026' (7 July 2026), Under Secretaries of Defense (Comptroller)"
+    }
+   ],
    "text": "The OSD Historical Office's Key Officials list of 7 July 2026 records Michael Powers as Acting Under Secretary of War (Comptroller)/Chief Financial Officer from 20 May 2026 to present, succeeding Jules W. Hurst III, who performed the duties of the office from 5 September 2025 to 20 May 2026.",
    "tier": 1
   },
@@ -220,6 +312,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "SFFAS 56 does not create the capability to conceal spending - appropriation-level and program-element-level concealment long predate it - but it removes the last accounting-standards obstacle to a published financial statement that is knowingly and deliberately misleading as to the location of money, and it does so with no external tripwire, because paragraph 12 forbids the entity from saying it used the standard. Reasoning: the prohibition on disclosing application is the operative feature; a permission to modify that had to be disclosed would be detectable, and this one is not.",
    "tier": 3
   },
@@ -233,6 +332,13 @@
     "text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
     "url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-missingmoney-solari-com-da0e76a5",
+     "locator": null,
+     "title": "Skidmore-Fitts summary report"
+    }
+   ],
    "text": "The authors state: 'The Inspector General's reports that are available to the public only provide summary information; thus it is impossible for us to conduct a detailed assessment of the nature of these unsupported adjustments and errors.'",
    "tier": 2
   },
@@ -246,6 +352,13 @@
     "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-99da587b",
+     "locator": null,
+     "title": "DOWIG-2026-081"
+    }
+   ],
    "text": "Fund Balance with Treasury, an estimated $1 trillion in spending accounts, is a standing material weakness.",
    "tier": 2
   },
@@ -259,6 +372,13 @@
     "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
     "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-f7c4683f",
+     "locator": null,
+     "title": "Mansfield oral statement"
+    }
+   ],
    "text": "The House Oversight Committee has now received, in the same Congress, both the allegation of funds moved outside its oversight and the auditor's admission that the Department cannot document $859 billion of adjustments in two quarters, without any member publicly connecting them. Reasoning: the two proceedings are separately documented on the committee's and the OIG's own sites, and no published question or letter joins them.",
    "tier": 3
   },
@@ -272,6 +392,13 @@
     "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-99da587b",
+     "locator": null,
+     "title": "DOWIG-2026-081"
+    }
+   ],
    "text": "The report states 'In the last two quarters of FY 2025, the DoW's adjustments totaled more than $859 billion' without adequate supporting documentation, attributing contributions to Army, Air Force, Navy and DLA across general and working capital funds.",
    "tier": 1
   },
@@ -285,6 +412,13 @@
     "text": "https://www.dodig.mil/reports.html/Article/4484312/the-fy-2025-dow-financial-statement-audit-explained-report-no-dowig-2026-081/",
     "url": "https://www.dodig.mil/reports.html/Article/4484312/the-fy-2025-dow-financial-statement-audit-explained-report-no-dowig-2026-081/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dodig-mil-6bcda5b4",
+     "locator": null,
+     "title": "DoD OIG report page"
+    }
+   ],
    "text": "DOWIG-2026-081 was published 12 May 2026 and summarises FY2025 audit results, identifying the organisations that most contributed to each material weakness.",
    "tier": 1
   },
@@ -298,6 +432,13 @@
     "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
     "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-f7c4683f",
+     "locator": null,
+     "title": "Mansfield oral statement"
+    }
+   ],
    "text": "Consolidating 22 separately opined reporting entities into 7 and transferring the group auditor role to a contracted firm both reduce the granularity and the government-held provenance of the annual public audit record. Reasoning: fewer entities means fewer separate opinions published; a contractor group auditor holds the working papers under a commercial engagement rather than as federal records held by an Inspector General.",
    "tier": 3
   },
@@ -311,6 +452,13 @@
     "text": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
     "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-oversight-house-gov-90cec54c",
+     "locator": null,
+     "title": "David Grusch, written statement to the House Committee on Oversight and Accountability"
+    }
+   ],
    "text": "Grusch's written testimony to the House Oversight Committee contains no discussion of funding mechanisms, budget lines, or contractor financial arrangements; the financial specifics were reserved for classified session.",
    "tier": 1
   },
@@ -324,6 +472,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "Paragraph 8(b) permits a component reporting entity to be excluded from one reporting entity and consolidated into another.",
    "tier": 1
   },
@@ -337,6 +492,13 @@
     "text": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-oversight-house-gov-e0a0e77f",
+     "locator": null,
+     "title": "House Oversight - hearing page, 26 July 2023"
+    }
+   ],
    "text": "Grusch testified under oath on 26 July 2023 before the House Oversight subcommittee at the hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', with Ryan Graves and David Fravor.",
    "tier": 1
   },
@@ -364,6 +526,13 @@
     "text": "https://solari.com/people/catherine-austin-fitts",
     "url": "https://solari.com/people/catherine-austin-fitts"
    },
+   "sourceRefs": [
+    {
+     "id": "u-solari-com-14d6a5ec",
+     "locator": null,
+     "title": "Solari, Catherine Austin Fitts"
+    }
+   ],
    "text": "Fitts was a managing director and board member of Dillon, Read and Co. Inc. and served as Assistant Secretary of Housing and Federal Housing Commissioner at HUD under President George H. W. Bush.",
    "tier": 2
   },
@@ -377,6 +546,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "SFFAS 56 paragraph 8(c) permits entities to apply Board Interpretations that allow other modifications to information required by other standards.",
    "tier": 1
   },
@@ -390,6 +566,13 @@
     "text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
     "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-ec662505",
+     "locator": null,
+     "title": "media.defense.gov"
+    }
+   ],
    "text": "The $21 trillion figure double-counts by construction, because gross adjustment volumes across eighteen years are being summed and individual dollars are adjusted repeatedly; it is an index of documentation failure, not a quantity of money. Reasoning: it is derived from the same class of gross-entry figures as the DODIG-2016-113 $6.5 trillion number, which the OIG itself flags as non-cumulative.",
    "tier": 3
   },
@@ -403,6 +586,13 @@
     "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
     "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-f7c4683f",
+     "locator": null,
+     "title": "Mansfield oral statement"
+    }
+   ],
    "text": "Mansfield's statement records unsupported adjustments of 'over $859 billion in the last two quarters of FY 25' and more than $4.7 trillion in assets under management.",
    "tier": 1
   },
@@ -416,6 +606,13 @@
     "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "pl-119-75",
+     "locator": null,
+     "title": "Public Law 119-75"
+    }
+   ],
    "text": "Section 8006(a), DoD Appropriations Act 2026: the tables in the classified annex accompanying the Act are 'hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.'",
    "tier": 1
   },
@@ -429,6 +626,13 @@
     "text": "https://solari.com/people/catherine-austin-fitts",
     "url": "https://solari.com/people/catherine-austin-fitts"
    },
+   "sourceRefs": [
+    {
+     "id": "u-solari-com-14d6a5ec",
+     "locator": null,
+     "title": "Solari, Catherine Austin Fitts"
+    }
+   ],
    "text": "She founded Hamilton Securities Group and is founder and president of Solari, Inc., publisher of the Solari Report.",
    "tier": 2
   },
@@ -442,6 +646,13 @@
     "text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
     "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-ec662505",
+     "locator": null,
+     "title": "media.defense.gov"
+    }
+   ],
    "text": "The $6.5 trillion figure is the gross value of unsupported compilation adjustments, not an amount of missing money; the same dollars can be adjusted repeatedly within a compilation cycle. Reasoning: the Army General Fund's FY2015 appropriation was on the order of $120-150 billion, so a literal reading would require the Army to have handled roughly fifty times its own budget, which is arithmetically impossible; the figure therefore measures entry volume, not fund flow.",
    "tier": 3
   },
@@ -455,6 +666,13 @@
     "text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
     "url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-mark-skidmore-com-d829c583",
+     "locator": null,
+     "title": "Mark Skidmore, research in finance and public finance"
+    }
+   ],
    "text": "Kotlikoff co-authored three Forbes columns with Mark Skidmore on the $21 trillion unsupported adjustment aggregate, in December 2017, July 2018 and January 2019.",
    "tier": 2
   },
@@ -468,6 +686,7 @@
     "text": "US Navy press release, 14 August 2020",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Norquist approved the establishment of the UAP Task Force on 4 August 2020, under the Department of the Navy with OUSD(I&S) cognizance.",
    "tier": 1
   },
@@ -481,6 +700,7 @@
     "text": "DoD OIG report page and press release",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The full DODIG-2023-109 report is classified; the OIG released only an unclassified summary, and issued a press release on 25 January 2024.",
    "tier": 1
   },
@@ -494,6 +714,13 @@
     "text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
     "url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-mark-skidmore-com-d829c583",
+     "locator": null,
+     "title": "Mark Skidmore, research in finance and public finance"
+    }
+   ],
    "text": "Laurence J. Kotlikoff is a Professor of Economics at Boston University and co-authored three Forbes columns with Mark Skidmore on the $21 trillion figure.",
    "tier": 2
   },
@@ -521,6 +748,13 @@
     "text": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-thedebrief-org-9e6e96e0",
+     "locator": null,
+     "title": "The Debrief"
+    }
+   ],
    "text": "The Intelligence Community Inspector General found the complaint 'credible and urgent' in July 2022.",
    "tier": 2
   },
@@ -534,6 +768,13 @@
     "text": "https://mark-skidmore.com/about/",
     "url": "https://mark-skidmore.com/about/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-mark-skidmore-com-01334d95",
+     "locator": null,
+     "title": "Mark Skidmore, About"
+    }
+   ],
    "text": "Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
    "tier": 2
   },
@@ -547,6 +788,13 @@
     "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
     "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-f7c4683f",
+     "locator": null,
+     "title": "Mansfield oral statement"
+    }
+   ],
    "text": "He stated the Department manages more than $4.7 trillion in assets.",
    "tier": 1
   },
@@ -574,6 +822,13 @@
     "text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
     "url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-missingmoney-solari-com-da0e76a5",
+     "locator": null,
+     "title": "Skidmore-Fitts summary report"
+    }
+   ],
    "text": "The authors state they were unable to recover data for a number of years within the FY1998-FY2015 window.",
    "tier": 2
   },
@@ -587,6 +842,13 @@
     "text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
     "url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-mark-skidmore-com-d829c583",
+     "locator": null,
+     "title": "Mark Skidmore, research in finance and public finance"
+    }
+   ],
    "text": "Skidmore co-authored three Forbes columns with Laurence Kotlikoff on the $21 trillion figure, in December 2017, July 2018 and January 2019.",
    "tier": 2
   },
@@ -600,6 +862,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "Paragraph 9 defines a permitted modification as 'Presenting amounts associated with one financial statement line item in another financial statement line item but not presenting narrative explaining the modification.'",
    "tier": 1
   },
@@ -613,6 +882,13 @@
     "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-99da587b",
+     "locator": null,
+     "title": "DOWIG-2026-081"
+    }
+   ],
    "text": "One of the ten accounting material weaknesses is titled 'Unsupported Accounting Adjustments'; the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion.",
    "tier": 1
   },
@@ -626,6 +902,13 @@
     "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-99da587b",
+     "locator": null,
+     "title": "DOWIG-2026-081"
+    }
+   ],
    "text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
    "tier": 2
   },
@@ -639,6 +922,13 @@
     "text": "https://fasab.gov/about-fasab/board-members/",
     "url": "https://fasab.gov/about-fasab/board-members/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-fasab-gov-01bbc8dc",
+     "locator": null,
+     "title": "FASAB Board members"
+    }
+   ],
    "text": "Terry K. Patton, professor emeritus at Midwestern State University, has chaired FASAB since April 2026; the Board also comprises R. Scott Bell, Eric S. Berman, Robert Dacey, Diane L. Dudley, Billy Morehead and David A. Vaudt.",
    "tier": 1
   },
@@ -652,6 +942,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "The Department of Defense identified the need for the standard in August 2016, citing conflict between GAAP and classification obligations under Executive Order 13526.",
    "tier": 1
   },
@@ -665,6 +962,13 @@
     "text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
     "url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-missingmoney-solari-com-da0e76a5",
+     "locator": null,
+     "title": "Skidmore-Fitts summary report"
+    }
+   ],
    "text": "Skidmore and Fitts compiled publicly reported unsupported journal voucher adjustments from OIG and GAO documents for FY1998-FY2015 and arrived at roughly $21 trillion for DoD and roughly $350 billion for HUD.",
    "tier": 2
   },
@@ -678,6 +982,13 @@
     "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
     "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-f7c4683f",
+     "locator": null,
+     "title": "Mansfield oral statement"
+    }
+   ],
    "text": "He stated that reporting entities will consolidate from 22 to 7 in FY2027 and that an independent public accounting firm will assume the group auditor role with OIG oversight.",
    "tier": 1
   },
@@ -691,6 +1002,13 @@
     "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-99da587b",
+     "locator": null,
+     "title": "DOWIG-2026-081"
+    }
+   ],
    "text": "A standing 'Universe of Transactions' material weakness is the accounting equivalent of an unindexed archive: it means no auditor and no oversight committee can prove a negative about DoD spending, because the population against which a search would run is not known to exist in complete form. Reasoning: the material weakness is defined by the auditors as inability to establish the complete transaction set; any assertion that no funds flowed to an undisclosed activity would require exactly that set.",
    "tier": 3
   },
@@ -704,6 +1022,7 @@
     "text": "DoD OIG, DODIG-2023-109",
     "url": null
    },
+   "sourceRefs": [],
    "text": "DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', was issued 15 August 2023 with the objective of evaluating 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'.",
    "tier": 1
   },
@@ -717,6 +1036,13 @@
     "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-fasab-gov-751c8d62",
+     "locator": null,
+     "title": "SFFAS 56"
+    }
+   ],
    "text": "Paragraph 13 requires the government-wide report to state that 'modifications may have been made to certain presentations' without identifying which Interpretations were applied.",
    "tier": 1
   },
@@ -730,6 +1056,13 @@
     "text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
     "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-ec662505",
+     "locator": null,
+     "title": "media.defense.gov"
+    }
+   ],
    "text": "Footnote 2 of the report states the amounts are not cumulative and should not be added together.",
    "tier": 1
   },
@@ -743,6 +1076,13 @@
     "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "u-media-defense-gov-99da587b",
+     "locator": null,
+     "title": "DOWIG-2026-081"
+    }
+   ],
    "text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
    "tier": 2
   },
@@ -756,6 +1096,13 @@
     "text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
     "url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-missingmoney-solari-com-da0e76a5",
+     "locator": null,
+     "title": "Skidmore-Fitts summary report"
+    }
+   ],
    "text": "The Missing Money archive hosts the Skidmore-Fitts summary report and preserves links to underlying OIG documents, noting that many original government URLs were disabled.",
    "tier": 2
   },

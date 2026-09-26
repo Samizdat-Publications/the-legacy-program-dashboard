@@ -1,0 +1,94 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-bae151092d",
+"locator": null,
+"node": "atic",
+"nodeLabel": "Air Technical Intelligence Center",
+"sourceText": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
+"text": "The lineage is a discontinuation and a new constitution, not a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', and 'On 1 July 1961, the organization was inactivated and the mission and resources absorbed by the Foreign Technology Division (FTD)'. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own pages return HTTP 403 from this environment.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-40335d571e",
+"locator": null,
+"node": "foreign-technology-division",
+"nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+"sourceText": "'AEROSPACE TECHNICAL INTELLIGENCE CENTER', Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
+"text": "The Air Force organizational-history lineage records a discontinuation and a new constitution rather than a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', with the mission and resources absorbed by FTD on that date. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own page returns HTTP 403 from this environment.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"b": {
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+},
+"claimTier": 2,
+"id": "e-4cc73b994d",
+"label": "ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission",
+"note": "The lineage record says ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, with the mission and resources absorbed by the newly constituted Foreign Technology Division, so this is a succession rather than the renaming the board's prose describes.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+},
+"b": {
+"cls": "institution",
+"id": "nasic",
+"label": "National Air and Space Intelligence Center"
+},
+"claimTier": 2,
+"id": "e-d3dfb0aa44",
+"label": "Same Wright-Patterson lineage; NASIC is the later name",
+"note": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-usafunithistory-com-ace95d5d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "usafunithistory.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+{
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+}
+],
+"node": null,
+"title": "Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA",
+"topics": [
+{
+"claims": [
+"c-bae151092d"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "document",
+"urls": [
+"https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+]
+}

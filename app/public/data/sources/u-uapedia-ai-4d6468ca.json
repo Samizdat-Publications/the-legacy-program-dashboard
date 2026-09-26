@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-856311815c",
+"label": "author of record on the DIA list; lead author",
+"note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-uapedia-ai-4d6468ca",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "uapedia.ai",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+}
+],
+"node": null,
+"title": "UAPedia, \"Origins of AATIP/AAWSAP: Programs & DIRDs\" (independent summary of the DIA list crediting the warp-drive paper to R. Obousy)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/"
+]
+}

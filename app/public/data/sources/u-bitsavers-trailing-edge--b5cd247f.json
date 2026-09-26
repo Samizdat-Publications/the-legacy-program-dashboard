@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-bitsavers-trailing-edge--b5cd247f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "bitsavers.trailing-edge.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-everett",
+"label": "Robert R. Everett"
+}
+],
+"node": null,
+"title": "The Early History of the MITRE Corporation (MITRE report M72-110, June 1972)",
+"topics": [],
+"type": "document",
+"urls": [
+"http://bitsavers.trailing-edge.com/pdf/mit/mitre/M72-110_The_Early_History_of_the_MITRE_Corporation_Jun72.pdf"
+]
+}

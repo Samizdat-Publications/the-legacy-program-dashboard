@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-794e899eea",
+"locator": null,
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"sourceText": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:05:16 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
+"text": "On American Alchemy with Jesse Michels, 21 April 2026, Michels dated the disappearance to Friday 27 February 2026 at Quail Run Court, Albuquerque: a repairman saw McCasland at the house around 10am, his wife left at about 11:10am and returned at 12:04pm to find him gone, and she reported him missing at 3:07pm. He said the prescription glasses, a switched-off phone and a smartwatch were left behind, and that a red backpack, the wallet and a .38-calibre revolver with its holster were missing (0:05:16 to 0:06:12).",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f4a5ee7eff",
+"locator": null,
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"sourceText": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:09:04 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
+"text": "In the same episode Michels said that within a week the search had grown from the Bernalillo County Sheriff's Office to the FBI's Albuquerque Field Office, the Air Force Office of Special Investigations, New Mexico State Search and Rescue and Albuquerque Mountain Rescue, and that no camera footage of McCasland ever surfaced (0:09:04).",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-b802c1b2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "william-mccasland",
+"label": "William Neil McCasland"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', episode audio",
+"topics": [
+{
+"claims": [
+"c-794e899eea",
+"c-f4a5ee7eff"
+],
+"id": "missing-scientists",
+"title": "Deaths and disappearances: the scientists probe"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850"
+]
+}

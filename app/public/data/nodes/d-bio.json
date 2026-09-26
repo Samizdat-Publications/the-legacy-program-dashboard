@@ -8,20 +8,26 @@
 {
 "id": "c-ba504fadba",
 "source": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
+"sources": [],
 "text": "David Grusch testified under oath on 26 July 2023 that non-human biologics were recovered alongside craft, stating the information came from individuals he interviewed and referred to the ICIG.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8076716006",
 "source": "AARO Historical Record Report Volume I",
+"sources": [],
 "text": "AARO's Volume I report (February 2024) states it found no empirical evidence for claims of recovered extraterrestrial technology or associated material.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b39f2fb86d",
 "source": "Inference from documented biosafety and biodefence infrastructure requirements",
+"sources": [],
 "text": "A sustained biological exploitation effort would require containment, pathology, genomics and tissue-banking infrastructure whose procurement, staffing and biosafety documentation are auditable independently of the material itself. Reasoning: this is the standard footprint of any high-containment biological programme.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "domain",

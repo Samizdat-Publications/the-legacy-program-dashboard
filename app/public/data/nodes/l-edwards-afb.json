@@ -7,20 +7,26 @@
 {
 "id": "c-d4f4b19e72",
 "source": "Wikipedia, Edwards Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from Muroc in December 1949 for Capt. Glen Edwards; it hosts the Air Force Test Center, the USAF Test Pilot School and NASA Armstrong Flight Research Center.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0105fd75e0",
 "source": "CIA U-2/OXCART history, released 25 June 2013; summarised in Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Groom Lake was selected in 1955 because U-2 flight test and pilot training could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility given the extreme secrecy of the project.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-4d6fbac01b",
 "source": "Inference; no primary source located",
+"sources": [],
 "text": "The alleged February 1954 Eisenhower meeting at Muroc/Edwards has no primary record and is carried as folklore. Reasoning: no contemporaneous document, log or credible firsthand attribution has ever been produced.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

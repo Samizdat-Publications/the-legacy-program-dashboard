@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-ef2688dd48",
+"label": "Kosloski's office again rejected the recovered-material claims in July 2026",
+"note": "The FY2025 report denies possession of recovered UAP material while stating AARO is developing procedures for handling such material should any ever come into US government possession.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-c993a99a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
+"node": null,
+"title": "The Debrief - AARO's latest UAP report",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/aaros-latest-uap-report-finds-no-evidence-of-exotic-technology-but-mysteries-remain/"
+]
+}

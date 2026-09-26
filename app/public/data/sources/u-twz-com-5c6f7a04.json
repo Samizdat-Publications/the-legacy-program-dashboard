@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+},
+"b": {
+"cls": "document",
+"id": "charette-memo-2023",
+"label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+},
+"claimTier": 1,
+"id": "e-05942785bc",
+"label": "Allied government's contemporaneous Secret record of the engagements",
+"note": "The 14 February 2023 Privy Council memo to Prime Minister Trudeau documents that exploitation of the Alaska object was incomplete and the Yukon object unverified as to function and propulsion.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+},
+"b": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 2,
+"id": "e-2e22906aa4",
+"label": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
+"note": "Kirkpatrick: 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.' The Canadian Clerk of the Privy Council's Secret memo of 14 Feb 2023 records the Yukon object's function and propulsion as unverified.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-twz-com-5c6f7a04",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "document",
+"id": "charette-memo-2023",
+"label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+},
+{
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+}
+],
+"node": null,
+"title": "The War Zone - secret memo raises more questions about the shootdowns",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+]
+}

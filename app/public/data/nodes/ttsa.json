@@ -7,44 +7,58 @@
 {
 "id": "c-dd0cf33dd6",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, CIK 1710274, filed April 2018",
+"sources": [],
 "text": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semivan and Puthoff as directors and Elizondo and Justice as significant employees.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a1caa17c7b",
 "source": "SEC EDGAR, TTSA Form 1-K Part II",
+"sources": [],
 "text": "Raised approximately $1.09 million of a $50 million Regulation A target as of April 2018; FY2017 net loss $30,665,436 including $29,535,799 of stock-based compensation.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-70b742aabb",
 "source": "SEC EDGAR, TTSA offering exhibit tm2023098d2_ex13-1, 24 July 2020",
+"sources": [],
 "text": "A July 2020 Regulation A offering exhibit valued the company at $65 million, sought $30 million at $5 per share, and described the ADAM Research Project and the Army CRADA.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ee376c287d",
 "source": "Wikipedia, To The Stars Inc., citing company filings and press",
+"sources": [],
 "text": "Renamed To The Stars Inc. in 2022 after the departure of Elizondo, Mellon and Justice; subsequent output is entertainment.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0bfc61e298",
 "source": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
+"sources": [],
 "text": "CRADA 19-15, 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, was filed with the SEC as Exhibit 6.28 to TTSA's Form 1-A.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a6a60a5c33",
 "source": "AARO, Historical Record Report Volume I, March 2024",
+"sources": [],
 "text": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples,' and that AARO later acquired the sample for analysis.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-51199b16f0",
 "source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
+"sources": [],
 "text": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

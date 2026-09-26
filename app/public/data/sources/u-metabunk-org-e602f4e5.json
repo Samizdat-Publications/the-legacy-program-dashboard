@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3f546b2497",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017 - https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b ; Metabunk, 'Explained: Chilean Navy \"UFO\" video - Aerodynamic Contrails, Flight IB6830' - https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/",
+"text": "Photo and video analysts in France, including François Louange, were brought into the Chilean Navy investigation through GEIPAN; GEIPAN's analysts proposed a medium-haul aircraft venting cabin wastewater as the explanation, which CEFAA rejected. Independent analysts subsequently matched the footage to scheduled flights LA330 and IB6830.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-metabunk-org-e602f4e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Metabunk",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+}
+],
+"node": null,
+"title": "Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017; Metabunk, 'Explained: Chilean Navy \"UFO\" video - Aerodynamic Contrails, Flight IB6830'",
+"topics": [
+{
+"claims": [
+"c-3f546b2497"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+},
+{
+"claims": [
+"c-3f546b2497"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/"
+]
+}

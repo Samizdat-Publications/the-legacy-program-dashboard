@@ -1,0 +1,216 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-be24146443",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"text": "The House adopted Burlison's Unidentified Anomalous Phenomena Disclosure Act as an amendment to the FY2027 NDAA on 22 July 2026.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-4d7e7dee71",
+"locator": null,
+"node": "uapda-fy2027-house-adopted",
+"nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"sourceText": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"text": "The House adopted the Burlison amendment on 22 July 2026 as an amendment to the FY2027 NDAA, establishing a permanent UAP Records Collection at the National Archives, an independent Senate-confirmed UAP Records Review Board with subpoena authority, statutory agency transfer timelines, and disclosure requirements extending to covered government contractors.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-cb0e3d354d",
+"locator": null,
+"node": "uapda-fy2027-house-adopted",
+"nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"sourceText": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"text": "Burlison's release states the amendment supports President Trump's Presidential Unsealing and Reporting System for UAP Encounters (PURSUE).",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-99fa778dbb",
+"locator": null,
+"node": "uapda-fy2027-house-adopted",
+"nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"sourceText": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"text": "Burlison: 'The government belongs to the American people. For too long, UAP records have remained scattered across agencies and outside meaningful oversight...'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"claimTier": 1,
+"id": "e-c59ac15387",
+"label": "author",
+"note": "The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"claimTier": 3,
+"id": "e-72e9744ede",
+"label": "unchartered body versus Senate-confirmed board",
+"note": "The amendment's Senate-confirmed Records Review Board is the constitutional answer to a task force exercising declassification authority with no published charter.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+"claimTier": 3,
+"id": "e-775f7b84b4",
+"label": "House-adopted amendment against a Senate base text with no UAP provisions",
+"note": "The House framework must survive conference against a Senate reported bill (S. 4784, S. Rept. 119-127) containing zero UAP provisions - the second consecutive cycle in which the subject is absent from the Senate base text. The 2023 precedent is that the eminent-domain and review-board provisions were stripped in conference.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 1,
+"id": "e-48f7aa00f7",
+"label": "the successor framework, and the first time such a text has cleared the House floor",
+"note": "Adopted by the House on 22 July 2026 as an amendment to the FY2027 NDAA, after a similar proposal failed to advance in the previous defence-bill cycle. As of this pass it is an adopted House amendment, not law, which is precisely the status distinction this domain is for.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-c638681998",
+"label": "Would impose statutory transfer timelines on the NARA collection",
+"note": "The amendment requires agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline and creates a Senate-confirmed Records Review Board with subpoena authority.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-90873ab7a0",
+"label": "Statutory backstop for an executive release programme",
+"note": "Burlison's own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE's defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 3,
+"id": "e-e0193bf15d",
+"label": "would reach contractor holdings",
+"note": "The amendment extends disclosure requirements to covered government contractors - the only instrument that would reach the holdings Burlison sought from MITRE by letter in May 2026.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 1,
+"id": "e-02fa2f1796",
+"label": "the chamber where the text was stripped in 2023 and where a successor passed in 2026",
+"note": "The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-burlison-house-gov-5a951086",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+}
+],
+"node": null,
+"title": "Burlison, House Adopts UAP Disclosure Framework",
+"topics": [
+{
+"claims": [
+"c-be24146443"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+]
+}

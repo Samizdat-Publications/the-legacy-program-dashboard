@@ -1,0 +1,48 @@
+{
+"archived": [
+"https://web.archive.org/web/20250117180016/https://www.cufon.org/cufon/cia-52-1.htm"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+"b": {
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell"
+},
+"claimTier": 1,
+"id": "e-771646ed71",
+"label": "The flap put the CIA's science directorate onto the problem",
+"note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-cufon-org-451e0023",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cufon.org",
+"listedOn": [
+{
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+{
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell"
+}
+],
+"node": null,
+"title": "CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda)",
+"topics": [],
+"type": "web page",
+"urls": []
+}

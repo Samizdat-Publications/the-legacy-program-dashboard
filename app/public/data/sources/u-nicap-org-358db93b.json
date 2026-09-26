@@ -1,0 +1,413 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-80ba35e142",
+"locator": null,
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , against the CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , both opened 2026-09-19",
+"text": "A NAMING DISCREPANCY INSIDE NORAD'S OWN RECORDS, UNRESOLVED. The 24th NORAD Region Senior Director's Log for 10 November 1975 records the sighting at 'Minot Air Force Station' and says the object 'passed over the radar station'. The CINCNORAD four-part message of 11 November 1975 instead lists 'Minot AFB, ND'. Minot Air Force Station is a radar site and is not the 91st Strategic Missile Wing's missile field. Nothing opened by this board resolves which installation the sequence means, and this board does not choose one.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f4bcbd003b",
+"locator": null,
+"node": "doc-norad-24th-log-1975",
+"nodeLabel": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"sourceText": "24th NORAD Region Senior Directors Log, 10 November 1975, against the CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , both opened 2026-09-19",
+"text": "Its 10 November entry names a different installation from the one CINCNORAD's summary message names nine days later: 'UFO sighting reported by Minot Air Force Station... Approximately 1120Z the object passed over the radar station.' CINCNORAD's message of 11 November 1975 lists 'Minot AFB, ND'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-68c6586b51",
+"locator": null,
+"node": "doc-cincnorad-1975-11-11",
+"nodeLabel": "CINCNORAD four-part message, 11 November 1975",
+"sourceText": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas', quoting the CINCNORAD message of 11 November 1975, http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"text": "The message's opening, as excerpted: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-48c408e3da",
+"locator": null,
+"node": "doc-cincnorad-1975-11-11",
+"nodeLabel": "CINCNORAD four-part message, 11 November 1975",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Wurtsmith.htm , both opened 2026-09-19",
+"text": "A NORAD press release of 13 November 1975 from Sudbury, Ontario records that two F-106 aircraft of the Air National Guard's 171st Fighter Interceptor Squadron at Selfridge ANGB, Michigan were scrambled in connection with the Falconbridge reports. Lt Col Brian Wooding, Control Centre Director at North Bay, and Capt. Gordon Hilchie, Director of Public Affairs for the 22nd NORAD Region, are named.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-4a2bbcb42a",
+"locator": null,
+"node": "l-grand-forks",
+"nodeLabel": "Grand Forks AFB, North Dakota",
+"sourceText": "CINCNORAD message of 11 November 1975 as excerpted at http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"text": "Grand Forks is not named in the CINCNORAD four-part message of 11 November 1975, which lists Loring, Wurtsmith, Malmstrom, Minot and Canadian Forces Station Falconbridge. Its inclusion in the 1975 sequence rests on the separate message traffic above and on the secondary literature, not on the summary message.",
+"tier": 3
+},
+{
+"cls": "event",
+"id": "c-4f9a5b694f",
+"locator": null,
+"node": "loring-1975",
+"nodeLabel": "Loring AFB penetrations, 27 to 31 October 1975",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
+"text": "SSgt Danny K. Lewis of the 42nd Security Police Squadron first sighted the object at about 1945 on 27 October 1975 while on duty at the munitions storage area; Sgt Clifton W. Blakeslee and SSgt William J. Long saw a similar craft the following night; SSgt James P. Sampley of the 2192nd Communications Squadron tracked it on tower radar; and Sgt Grover K. Eggleston tracked it for forty minutes before it vanished from the screen.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-23d79c9154",
+"locator": null,
+"node": "l-loring",
+"nodeLabel": "Loring AFB, Maine",
+"sourceText": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas', http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"text": "A teletype message to the National Military Command Center states: 'The A/C definitely penetrated the LAFB northern perimeter and on one occasion was within 300 yards of the munitions storage area perimeter.'",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-995bfbadff",
+"locator": null,
+"node": "l-loring",
+"nodeLabel": "Loring AFB, Maine",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
+"text": "Named Loring witnesses are in the contemporaneous record rather than in any interview programme: SSgt Danny K. Lewis, Sgt Clifton W. Blakeslee, SSgt William J. Long, SSgt Michael D. Scott, TSgt David E. Mott and Capt. Richard R. Fuhs of the 42nd Security Police Squadron; SSgt James P. Sampley and Sgt Grover K. Eggleston of the 2192nd Communications Squadron; Sgt Steven Eichner and Sgt R. Jones of a B-52 crew; and Col. Richard E. Chapman, Commander of the 42nd Bomb Wing, who implemented a Security Option 3 alert.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-7d14959e0b",
+"locator": null,
+"node": "minot-1966",
+"nodeLabel": "Minot AFB incursions, 1966",
+"sourceText": "CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , against the 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , both opened 2026-09-19",
+"text": "Minot recurs in the 1975 sequence, nine years after the 1966 incursions, but the two NORAD documents disagree about which Minot installation is meant. CINCNORAD's four-part message of 11 November 1975 lists 'Minot AFB, ND'; the 24th NORAD Region Senior Director's Log for 10 November 1975 records the sighting at 'Minot Air Force Station' and says the object 'passed over the radar station'. The board carries the discrepancy rather than folding the radar-station entry into the missile-field record.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-3a1349efc2",
+"locator": null,
+"node": "l-minot",
+"nodeLabel": "Minot AFB, North Dakota",
+"sourceText": "24th NORAD Region Senior Directors Log, 10 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; CINCNORAD message of 11 November 1975 as excerpted at http://www.nicap.org/intsac.htm ; both opened 2026-09-19",
+"text": "THE NAMING DISCREPANCY, STATED RATHER THAN RESOLVED. The 24th NORAD Region Senior Director's Log for 10 November 1975 reads: 'UFO sighting reported by Minot Air Force Station, a bright star-like object in the West, moving east, about the size of a car. First seen approximately 1015Z. Approximately 1120Z the object passed over the radar station, 1,000 feet to 2,000 feet high, no noise heard. Three people from the site or local area saw the object.' The CINCNORAD four-part message of 11 November 1975 instead lists 'Minot AFB, ND'. Minot Air Force Station is a radar site and is not the 91st Strategic Missile Wing's missile field. No opened record resolves which installation the 1975 sequence means.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-e71a0d5aa5",
+"locator": null,
+"node": "l-minot",
+"nodeLabel": "Minot AFB, North Dakota",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"text": "Minot is named in the CINCNORAD four-part message of 11 November 1975: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-e4efa34130",
+"locator": null,
+"node": "strategic-air-command",
+"nodeLabel": "Strategic Air Command (SAC)",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm , and The War Zone, https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base , both opened 2026-09-19",
+"text": "Several SAC bases in the northern tier were placed on a high priority Security Option 3 alert during the October and November 1975 intrusions over atomic weapons storage areas, and a SAC security police message of October 1975 was captioned 'Defense Against Helicopter Assault'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "location",
+"id": "l-grand-forks",
+"label": "Grand Forks AFB, North Dakota"
+},
+"claimTier": 2,
+"id": "e-6d661f67f5",
+"label": "Grand Forks is in the sequence on separate message traffic, not on the CINCNORAD summary",
+"note": "CINCNORAD's four-part message names Loring, Wurtsmith, Malmstrom, Minot and Falconbridge and does NOT name Grand Forks. Its inclusion rests on the 4 and 5 November command post messages, which this board has not opened.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"claimTier": 2,
+"id": "e-3186ae5494",
+"label": "Minot is named in the sequence, but two NORAD documents name two different Minot installations",
+"note": "THE DISCREPANCY IS THE POINT OF THIS EDGE. The 24th NORAD Region log of 10 November 1975 says 'Minot Air Force Station' and 'the radar station'; CINCNORAD's message of 11 November says 'Minot AFB, ND'. Unresolved. Do not let a degree count on l-minot silently absorb a radar-station entry.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-cincnorad-1975-11-11",
+"label": "CINCNORAD four-part message, 11 November 1975"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-97e5d34f28",
+"label": "The command's own summary of the sequence, naming five installations",
+"note": "Only excerpts have been opened; the four parts have not been seen in full.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "loring-1975",
+"label": "Loring AFB penetrations, 27 to 31 October 1975"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-7e7b4869be",
+"label": "First episode of the October to November 1975 sequence",
+"note": "CINCNORAD's message of 11 November 1975 names Loring first among the five installations.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-loring",
+"label": "Loring AFB, Maine"
+},
+"b": {
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+},
+"claimTier": 1,
+"id": "e-6677bc2ea6",
+"label": "SAC installation; 42nd Bombardment Wing and its nuclear weapons storage area",
+"note": "The NMCC memorandum records SAC informing NORAD of the penetration and the SAC Command Center reporting back on the failed National Guard search, citing SAC CP OPS CONTROL 291954Z OCT 75.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-ad800305ea",
+"label": "Third and longest episode, 7 to 19 November 1975",
+"note": "CINCNORAD's message names Malmstrom; the 24th NORAD Region log runs eight days past the message and is marked in the original as ending these incidents.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966"
+},
+"b": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"claimTier": 1,
+"id": "e-a7f8be38f5",
+"label": "The 1966 incursions were over this installation's Minuteman launch facilities",
+"note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"b": {
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+},
+"claimTier": 1,
+"id": "e-bf5d1f1ed5",
+"label": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing",
+"note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-6044292251",
+"label": "NORAD was the detection and identification authority across the sequence",
+"note": "The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"b": {
+"cls": "document",
+"id": "doc-cincnorad-1975-11-11",
+"label": "CINCNORAD four-part message, 11 November 1975"
+},
+"claimTier": 1,
+"id": "e-909093c02a",
+"label": "Originated by the Commander-in-Chief, NORAD",
+"note": "Type research: originator of the message, not custodian of anything.",
+"type": "research"
+},
+{
+"a": {
+"cls": "event",
+"id": "wurtsmith-1975",
+"label": "Wurtsmith AFB incursion, 30 October 1975"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-cc21f9b07d",
+"label": "Second episode of the sequence, three days after Loring",
+"note": "CINCNORAD's message names Wurtsmith AFB, Michigan among the five installations.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-358db93b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+{
+"cls": "document",
+"id": "doc-cincnorad-1975-11-11",
+"label": "CINCNORAD four-part message, 11 November 1975"
+},
+{
+"cls": "location",
+"id": "l-grand-forks",
+"label": "Grand Forks AFB, North Dakota"
+},
+{
+"cls": "event",
+"id": "loring-1975",
+"label": "Loring AFB penetrations, 27 to 31 October 1975"
+},
+{
+"cls": "location",
+"id": "l-loring",
+"label": "Loring AFB, Maine"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+{
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966"
+},
+{
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+{
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+},
+{
+"cls": "event",
+"id": "wurtsmith-1975",
+"label": "Wurtsmith AFB incursion, 30 October 1975"
+},
+{
+"cls": "location",
+"id": "l-wurtsmith",
+"label": "Wurtsmith AFB, Michigan"
+}
+],
+"node": null,
+"title": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"topics": [
+{
+"claims": [
+"c-80ba35e142",
+"c-f4bcbd003b",
+"c-68c6586b51",
+"c-48c408e3da",
+"c-4a2bbcb42a",
+"c-4f9a5b694f",
+"c-23d79c9154",
+"c-995bfbadff",
+"c-3a1349efc2",
+"c-e4efa34130"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+},
+{
+"claims": [
+"c-68c6586b51"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "web page",
+"urls": [
+"http://www.nicap.org/intsac.htm"
+]
+}

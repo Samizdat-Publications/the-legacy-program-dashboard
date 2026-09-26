@@ -1,0 +1,69 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1ecd79f5f8",
+"locator": null,
+"node": "tom-cole",
+"nodeLabel": "Tom Cole",
+"sourceText": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request",
+"text": "Cole was still serving as Chairman of the House Appropriations Committee as of a committee press release dated 24 June 2026.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5bfdfbfee9",
+"locator": null,
+"node": "tom-cole",
+"nodeLabel": "Tom Cole",
+"sourceText": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request",
+"text": "Tom Cole (R-OK) is identified as Chairman of the House Appropriations Committee in a committee press release dated 24 June 2026.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-e7956f36fd",
+"label": "Chairman, House Appropriations Committee",
+"note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-appropriations-house-gov-ba1a32dd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Appropriations Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "ken-calvert",
+"label": "Ken Calvert"
+},
+{
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+}
+],
+"node": null,
+"title": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request"
+]
+}

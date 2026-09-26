@@ -10,20 +10,44 @@
 {
 "id": "c-16168f1af4",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists entry 1 as 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cc8cba5e7b",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-52dc3992",
+"locator": null,
+"title": "Released DIRD, 'Inertial Electrostatic Confinement Fusion' — FOIA copy, cover page read 22 August 2026"
+}
+],
 "text": "The released DIRD bears document number DIA-08-1003-006, publication date 10 March 2010 and Intelligence Cut-Off Date 1 December 2009, in the 'Acquisition Threat Support' series; the author block is redacted under FOIA exemption (b)(5).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9eebd441cf",
 "source": "https://link.springer.com/book/10.1007/978-1-4614-9338-9",
+"sources": [
+{
+"id": "u-link-springer-com-f6e8703d",
+"locator": null,
+"title": "https://link.springer.com/book/10.1007/978-1-4614-9338-9"
+}
+],
 "text": "Miley is co-author of the Springer monograph 'Inertial Electrostatic Confinement (IEC) Fusion: Fundamentals and Applications', establishing IEC as his documented research field.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

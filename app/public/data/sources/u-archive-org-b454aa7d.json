@@ -1,0 +1,135 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-5bc206eaf4",
+"locator": null,
+"node": "cia-prepublication-classification-review-board",
+"nodeLabel": "CIA Prepublication Classification Review Board",
+"sourceText": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "Where the Board determines that a manuscript contains classified information, the guidance requires the author to return any and all versions of this work, in whatever form, for destruction and to remove those items from their hard drive, with CIA security personnel available to assist.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7a3b151414",
+"locator": null,
+"node": "cia-prepublication-classification-review-board",
+"nodeLabel": "CIA Prepublication Classification Review Board",
+"sourceText": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "The released item includes an internal document dated 17 April 2013 headed Prepublication Review Procedures and marked SECRET//CIA INTERNAL USE ONLY//NOFORN, describing manuscript flow through a case assigner, a Team Lead, equity-holding Information Review Officers and a second reviewer.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-edbc054c61",
+"locator": null,
+"node": "cia-prepublication-classification-review-board",
+"nodeLabel": "CIA Prepublication Classification Review Board",
+"sourceText": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "The same guidance provides that if the Board upholds its decision on reconsideration the author may formally appeal in writing to the Board's Chairman within 30 days, and that such appeals go to the Agency's Associate Deputy Director for a final Agency decision.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-feff133201",
+"locator": null,
+"node": "cia-prepublication-classification-review-board",
+"nodeLabel": "CIA Prepublication Classification Review Board",
+"sourceText": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 2018/11/28, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "The Board's released guidance states: Please allow at least 30 working days for completion of the review process.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-90480aa81b",
+"label": "A board of the Agency, described in the Agency's own released guidance",
+"note": "A board of the Agency, described in the Agency's own released guidance.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 1,
+"id": "e-d521b3e581",
+"label": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
+"note": "The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board"
+},
+"b": {
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+"claimTier": 1,
+"id": "e-aa87a4b2f1",
+"label": "A disclaimer disowning authentication is attached in advance to every cleared account",
+"note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-archive-org-b454aa7d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board"
+}
+],
+"node": null,
+"title": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"topics": [
+{
+"claims": [
+"c-5bc206eaf4",
+"c-edbc054c61",
+"c-feff133201"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+},
+{
+"claims": [
+"c-5bc206eaf4"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+]
+}

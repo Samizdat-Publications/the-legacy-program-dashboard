@@ -1,0 +1,95 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b2567774ae",
+"locator": null,
+"node": "disclosure-project-witness-set",
+"nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+"sourceText": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A , opened 2026-09-19",
+"text": "THE INSTITUTIONAL DISCREPANCY IN THE WOLFE ACCOUNT, FROM NASA'S OWN CATALOGUE. The NSSDCA record for Lunar Orbiter 1 states: 'The Lunar Orbiter program was managed by NASA Langley Research Center', a NASA civil facility at Hampton, Virginia, which is a separate installation from Langley Air Force Base. The same record gives launch on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-99fae7db06",
+"locator": null,
+"node": "nasa",
+"nodeLabel": "National Aeronautics and Space Administration",
+"sourceText": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A , opened 2026-09-19",
+"text": "Its own NSSDCA master catalogue states that 'The Lunar Orbiter program was managed by NASA Langley Research Center', with Lunar Orbiter 1 launched on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966, and readout occurred through September 14, 1966'. This is the agency record against which the Karl Wolfe claim, which places Lunar Orbiter imagery at an NSA facility on Langley Air Force Base, must be measured.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "disclosure-project-witness-set",
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 2,
+"id": "e-f0ce72fa85",
+"label": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
+"note": "Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "disclosure-project-witness-set",
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)"
+},
+"b": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 3,
+"id": "e-082ce58065",
+"label": "Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery",
+"note": "TIER 3. Nothing independent places Wolfe anywhere, and NASA's own catalogue places the Lunar Orbiter programme at NASA Langley Research Center, a separate civil installation from Langley Air Force Base.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-nssdc-gsfc-nasa-gov-7710adab",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "institution",
+"id": "disclosure-project-witness-set",
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)"
+},
+{
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+}
+],
+"node": null,
+"title": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)",
+"topics": [
+{
+"claims": [
+"c-b2567774ae",
+"c-99fae7db06"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+}
+],
+"type": "web page",
+"urls": [
+"https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A"
+]
+}

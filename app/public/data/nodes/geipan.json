@@ -7,128 +7,254 @@
 {
 "id": "c-0709a0e7b6",
 "source": "GEIPAN, 'Classification', geipan.fr, statistics as at 31 March 2026",
+"sources": [],
 "text": "'Depuis 49 ans, le GEIPAN a enregistré plus de 9 897 témoignages représentant environ 5 170 cas d'observations qui dans 10% des cas ont fait objet d'enquêtes terrain. Au 31/03/2026 cela représente 3336 cas publiés. 66,5 % des cas sont classés A ou B ... 30.3 % ... (CAS C). 3,2 % des observations restent inexpliquées (CAS D).'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-93b473a521",
 "source": "GEIPAN, 'Statistiques', geipan.fr, 11 August 2026",
+"sources": [],
 "text": "GEIPAN dynamic statistics as at 11 August 2026: 3,381 cases total - A 28.1% (950), B 38.7% (1,310), C 30.0% (1,015), D 3.1% (106).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3a14aa0454",
 "source": "GEIPAN, 'Classification', geipan.fr, 2026",
+"sources": [],
 "text": "'Au total le GEIPAN reçoit plus de 1000 contacts par an ... Environ 150 à 200 donnent lieu à une enquête qui se termine par une publication sur le site du GEIPAN ... tout en préservant l'anonymat des témoins.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5ceea9f638",
 "source": "GEIPAN, 'Classification', geipan.fr, 2026",
+"sources": [],
 "text": "GEIPAN's classification was rebuilt in 2008 on two measured parameters, consistency (C) and residual strangeness (E), and class D is 'généralement attribuée suite à une enquête terrain avec rencontre du ou des témoins'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-60bb36887d",
 "source": "GEIPAN, 'IPACO: Le logiciel d'authentification et de traitement d'images du GEIPAN', geipan.fr, 20 May 2025",
+"sources": [],
 "text": "GEIPAN uses IPACO as its preferred image and video authentication and processing software for investigations (news item, 20 May 2025).",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e3132aa1d0",
 "source": "Wikipedia 'GEIPAN', citing CNES-GEIPAN appointment notices and The Debrief (24 April 2024)",
+"sources": [],
 "text": "Director succession: Jacques Patenet 2005-2009, Yves Blanc 2009-2011, Xavier Passot 2011-2015, Jean-Paul Aguttes 2016-2019, Roger Baldacchino 2019-2020, Vincent Costes 2021-2023, Frédéric Courtade 2024-present.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3177add837",
 "source": "GEIPAN news item, geipan.fr, 12 February 2024",
+"sources": [],
 "text": "GEIPAN announced 'Un nouveau responsable au GEIPAN à compter du 15 janvier 2024' on 12 February 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-fc9aa7d62a",
 "source": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-a91fe179",
+"locator": null,
+"title": "https://cnes-geipan.fr/en/histoire-du-geipan"
+}
+],
 "text": "'Le CNES étudie les PAN depuis 1977, date de la création du GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non identifiés). En 1988, le GEPAN est remplacé par le SEPRA (Service d'Études des Phénomènes de Rentrées Atmosphériques).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-819c9d9652",
 "source": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-a91fe179",
+"locator": null,
+"title": "https://cnes-geipan.fr/en/histoire-du-geipan"
+}
+],
 "text": "'Fin 2001, la Direction générale du CNES commande un audit pour statuer sur l'avenir de l'activité. En 2005, à la suite d'un audit, le Président du CNES décide la restructuration de l'activité et le GEIPAN ... se substitue au SEPRA, avec une recommandation importante d'informer le public en toute transparence.' The 'I' in GEIPAN stands for Information, and the recommendation was implemented through publication of the archives 'entamée en 2007'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-19d8ee4735",
 "source": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-a91fe179",
+"locator": null,
+"title": "https://cnes-geipan.fr/en/histoire-du-geipan"
+}
+],
 "text": "GEIPAN is steered by a comité de pilotage 'composé de représentants des autorités civiles et militaires du pays (Gendarmerie nationale, Aviation civile, Météo, Armée de l'air, Recherche scientifique) et du CNES', supported by a collège d'experts of 'une trentaine de bénévoles' and volunteer field investigators across France.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5940700193",
 "source": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-a91fe179",
+"locator": null,
+"title": "https://cnes-geipan.fr/en/histoire-du-geipan"
+}
+],
 "text": "'L'équipe du GEIPAN est constituée de deux agents CNES à temps plein: le responsable et son assistante', with external support for case study, statistics, anonymisation and archiving; its budget comes from the general public-service subsidy received by CNES rather than a dedicated allocation.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d449509d26",
 "source": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-a91fe179",
+"locator": null,
+"title": "https://cnes-geipan.fr/en/histoire-du-geipan"
+}
+],
 "text": "Classification is by consistency (C) and residual strangeness (E), producing categories A (perfectly identified), B (probably identified), C (unidentified due to lack of data) and D (unidentified after investigation); C and D cases may be revisited if new information is supplied.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1ae315f755",
 "source": "https://cnes-geipan.fr/en/stats",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-8b852c2f",
+"locator": null,
+"title": "https://cnes-geipan.fr/en/stats"
+}
+],
 "text": "Published statistics dated 11/08/2026 cover 3,381 classified cases: 950 class A (28.1%), 1,310 class B (38.7%), 1,015 class C (30.0%), 106 class D (3.1%).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fb06cb19fc",
 "source": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-a91fe179",
+"locator": null,
+"title": "https://cnes-geipan.fr/en/histoire-du-geipan"
+}
+],
 "text": "GEIPAN's FAQ states it is 'a technical department of CNES', that it 'does not involve in a security topic nor a sky and space awareness or alert service', and that 'contrary to popular belief, GEIPAN is not a research group on UFOs and extraterrestrial life, or other paranormal phenomena', using 'only recognized scientific knowledge, without speculation or unverified hypotheses'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-15e1a52cb3",
 "source": "https://cnes.fr/en/projects/geipan",
+"sources": [
+{
+"id": "u-cnes-fr-0d395c2c",
+"locator": null,
+"title": "CNES, GEIPAN project page"
+}
+],
 "text": "CNES lists GEIPAN's inception as 1977, its location as CNES Toulouse, its lifetime as 'Indefinite' and its status as 'In operation', with partners Gendarmerie, Police, Air and Space Force, CNRS and Meteo France; 'Currently headed by Frédéric Courtade since January 2024, GEIPAN is overseen by COPEIPAN, a steering committee'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-01b64993f7",
 "source": "https://cnes.fr/en/projects/geipan",
+"sources": [
+{
+"id": "u-cnes-fr-0d395c2c",
+"locator": null,
+"title": "CNES, GEIPAN project page"
+}
+],
 "text": "Key milestones per CNES: '2008: GEIPAN website created and UAP archives transferred to it; 2005: GEIPAN replaces SEPRA; 1988: GEPAN replaced by SEPRA, the permanent unit at CNES responsible for routine monitoring of orbital debris and risk objects; 1977: Inception of GEPAN'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d019127157",
 "source": "'French Government UFO Study', contemporaneous English-language summary submitted by Ron Westrum, held in the NSA public document collection - https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf",
+"sources": [
+{
+"id": "u-nsa-gov-102122f8",
+"locator": null,
+"title": "NSA declassified UFO collection - 'French Government UFO Study'"
+}
+],
 "text": "GEPAN's June 1978 five-volume report to its scientific council studied eleven high-credibility, high-strangeness cases; 'only one proved to have a conventional explanation'. 'In 10 of the 11 cases, the conclusion was that the witnesses had witnessed a material phenomenon that could not be explained as a natural phenomenon or a human device', and the report concluded that behind the phenomenon there is a 'flying machine. . . whose modes of sustenance and propulsion are beyond our knowledge'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-84f29d6db7",
 "source": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf",
+"sources": [
+{
+"id": "u-nsa-gov-102122f8",
+"locator": null,
+"title": "NSA declassified UFO collection - 'French Government UFO Study'"
+}
+],
 "text": "The same summary states that in GEPAN's investigations 'the care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison', and that each case was worked by a four-person team including a psychologist.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ce12a5c8a7",
 "source": "https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf",
+"sources": [
+{
+"id": "u-cnes-geipan-fr-8834cf00",
+"locator": null,
+"title": "https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf"
+}
+],
 "text": "GEPAN's investigation of the Trans-en-Provence physical-trace case of 8 January 1981 was published as Note Technique n° 16, 'Analyse d'une trace', CNES Toulouse, and remains hosted on the GEIPAN site.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7bc508ee22",
 "source": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', 2025 - https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"sources": [
+{
+"id": "u-ised-isde-canada-ca-dce0f563",
+"locator": null,
+"title": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025"
+}
+],
 "text": "Canada's Office of the Chief Science Advisor: 'France's GEIPAN ... operates under the French space agency CNES ... since 1977. Its mission is to collect, investigate and archive UAP reports, and make its findings available to the public.' It records 'of the 3,188 cases collected by 2025, only 3.2% of cases remained unidentified after investigation. Furthermore, 31.4% of cases could not be explained due to insufficient data.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-74210ec0b7",
 "source": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"sources": [
+{
+"id": "u-ised-isde-canada-ca-dce0f563",
+"locator": null,
+"title": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025"
+}
+],
 "text": "The same report records that GEIPAN has 'a team of three full-time employees', that reports are investigated by 'over 20 trained volunteers throughout France', and that its guiding principles include 'low operational costs, public service, respect for witnesses and a commitment to transparency, neutrality and objective investigation'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

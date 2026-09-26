@@ -1,0 +1,105 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-02c72aab61",
+"locator": null,
+"node": "clifford-stone",
+"nodeLabel": "Clifford E. Stone",
+"sourceText": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+"text": "INDEPENDENT SECOND SOURCE WITH A DIFFERENT METHOD. Kevin D. Randle, announcing Stone's death on 10 February 2021 in Roswell, New Mexico, records that Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.' Randle states he met Stone in February 1989 and 'visited him at his home many times'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-46339040b1",
+"locator": null,
+"node": "clifford-stone",
+"nodeLabel": "Clifford E. Stone",
+"sourceText": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+"text": "STATED INFERENCE. Klass and Randle are not two agents sharing a method. One worked from a records request to the National Personnel Records Center; the other from thirty years of personal acquaintance and is a retired Air Force officer who argues for the reality of other cases. The corollary in CLAUDE.md section 2 about two agents agreeing under a shared method does not apply to this pair.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-d997318f2d",
+"locator": null,
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"sourceText": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+"text": "Writing on 14 February 2021, he announced the death of Clifford E. Stone on 10 February 2021 in Roswell, New Mexico, and set out the discrepancies between Stone's account and his service record: Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-dc6b1a3872",
+"locator": null,
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"sourceText": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+"text": "He states the basis of his knowledge of Stone: he met him in February 1989 and 'visited him at his home many times'. This is a thirty-year personal acquaintance rather than a records-based debunking, which is why his account and Klass's are independent methods rather than one method twice.",
+"tier": 2
+}
+],
+"date": "2021-02",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"b": {
+"cls": "person",
+"id": "clifford-stone",
+"label": "Clifford E. Stone"
+},
+"claimTier": 2,
+"id": "e-50bccd2233",
+"label": "Thirty-year acquaintance who records the same discrepancies from the record",
+"note": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
+"type": "denial"
+}
+],
+"era": "3",
+"id": "u-kevinrandle-blogspot-com-f5a759e4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "kevinrandle.blogspot.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "clifford-stone",
+"label": "Clifford E. Stone"
+},
+{
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+}
+],
+"node": null,
+"title": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective",
+"topics": [
+{
+"claims": [
+"c-02c72aab61",
+"c-46339040b1"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-46339040b1"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "article",
+"urls": [
+"https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+]
+}

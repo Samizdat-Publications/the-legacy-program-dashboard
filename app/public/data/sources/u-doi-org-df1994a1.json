@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+"claimTier": 1,
+"id": "e-a23e414d4f",
+"label": "Co-author; brought the SCU case reconstructions",
+"note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+"b": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"claimTier": 1,
+"id": "e-39c5dc1d26",
+"label": "Founding board member; author of the Stephenville and Aguadilla studies",
+"note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-doi-org-df1994a1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+{
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+}
+],
+"node": null,
+"title": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.5281/zenodo.7844175"
+]
+}

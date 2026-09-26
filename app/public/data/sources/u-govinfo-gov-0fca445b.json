@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-a738d5fed7",
+"label": "ODNI headquarters at Liberty Crossing",
+"note": "The Liberty Crossing intelligence campus, which houses ODNI alongside the National Counterterrorism Center, is in McLean, Virginia: an official federal record titles the President's 27 July 2021 remarks there 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia' - the misspelling is the record's own. That record fixes where the campus is; it does not itself designate ODNI's headquarters, which is why this is tier 2.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-govinfo-gov-0fca445b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [],
+"node": null,
+"title": "Compilation of Presidential Documents, DCPD-202100617, 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/app/details/DCPD-202100617"
+]
+}

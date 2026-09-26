@@ -25,20 +25,44 @@
 {
 "id": "c-0d81482456",
 "source": "Ranking Member Jasmine Crockett, 9 September 2025, GPO CHRG-119hhrg61718",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "'The Federal Government has had a longstanding overclassification issue in general... from the assassinations of MLK and Malcolm X, to the FBI's Counterintelligence Program (COINTELPRO) and torture programs, to now UAPs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-86d47c3960",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "'The reality is that we cause more harm than good when we allow a lack of transparency to fester. It allows for all types of conspiracy theories instead of us actually making the investments that we need to make to get the information and actually provide it to the American people.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e8e4d1e134",
 "source": "CHRG-119hhrg61718; oversight.house.gov Task Force page",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Ranking Member of the Task Force on the Declassification of Federal Secrets as printed in the hearing record and on the committee's membership page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -1,0 +1,194 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-967967dee9",
+"locator": null,
+"node": "bennewitz-project-beta-1981",
+"nodeLabel": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+"sourceText": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "Bennewitz summarised his own investigation in late 1981 in a document of roughly five thousand words titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)', which opens by describing the research methods he used to obtain his information.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-b081fadc8d",
+"locator": null,
+"node": "bennewitz-project-beta-1981",
+"nodeLabel": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+"sourceText": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "Two verbatim fragments were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. The document itself was not opened by this session.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0a57fadf32",
+"locator": null,
+"node": "greg-bishop",
+"nodeLabel": "Greg Bishop",
+"sourceText": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "A CAVEAT THAT TRAVELS WITH EVERY CITATION OF THE BOOK. Stephen Fisher, writing on 29 November 2025 and himself relying almost entirely on Bishop as sole source, states that Bishop had an undisclosed friendship with Bill Moore, a central figure in the operation the book narrates. The book is therefore a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-480eb6b113",
+"locator": null,
+"node": "project-beta-bishop-2005",
+"nodeLabel": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
+"sourceText": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "The book is a participant account at one remove and should never be the sole source for a claim about William Moore's conduct: Stephen Fisher, relying on it almost exclusively, states that Bishop had an undisclosed friendship with Moore.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-dafa4f7c7c",
+"locator": null,
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"sourceText": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "HIS OWN DATED DOCUMENT, WHICH THE BOARD HAS NOT CARRIED. Bennewitz summarised his own investigation in late 1981 in a roughly five-thousand-word report titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. Two fragments of it were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. Tier 2 because the fragments were read in a 2025 newsletter and not in the document.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-df2a372bda",
+"locator": null,
+"node": "william-l-moore",
+"nodeLabel": "William L. Moore",
+"sourceText": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "A CAVEAT FOR ANY CLAIM ABOUT MOORE SOURCED TO GREG BISHOP'S PROJECT BETA. Stephen Fisher, writing 29 November 2025 and relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Moore. Project Beta is a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "bennewitz-project-beta-1981",
+"label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-23d46b2513",
+"label": "The claimant's own dated statement of his own claim, late 1981",
+"note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "project-beta-bishop-2005",
+"label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 1,
+"id": "e-dc974594df",
+"label": "The principal documented account of the affair",
+"note": "Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop's undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore's conduct, it does not degrade the record of the book's existence.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "document",
+"id": "bennewitz-project-beta-1981",
+"label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981"
+},
+"claimTier": 2,
+"id": "e-d8d125b928",
+"label": "Author of the late-1981 report",
+"note": "Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-7f12f29aca",
+"label": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
+"note": "Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty's parallel statements have since been partly retracted by him. Any claim about Moore's conduct sourced to Bishop's Project Beta carries the participant-account caveat.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-trenchantedges-com-ddf9c47c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "trenchantedges.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "bennewitz-project-beta-1981",
+"label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981"
+},
+{
+"cls": "person",
+"id": "greg-bishop",
+"label": "Greg Bishop"
+},
+{
+"cls": "document",
+"id": "project-beta-bishop-2005",
+"label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)"
+},
+{
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+{
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+}
+],
+"node": null,
+"title": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"topics": [
+{
+"claims": [
+"c-b081fadc8d",
+"c-0a57fadf32",
+"c-480eb6b113",
+"c-dafa4f7c7c",
+"c-df2a372bda"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-967967dee9"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+]
+}

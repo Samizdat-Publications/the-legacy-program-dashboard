@@ -10,32 +10,77 @@
 {
 "id": "c-2202d9868f",
 "source": "FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"sources": [
+{
+"id": "u-history-state-gov-849ead8a",
+"locator": null,
+"title": "FRUS 1950-1955, The Intelligence Community, List of Persons"
+}
+],
 "text": "The Department of State's list of persons for the intelligence volume gives both offices: 'Cabell, General Charles P., USAF, Director of Intelligence, Office of the Deputy Chief of Staff from 1951 to 1953; Intelligence Advisory Committee, Deputy Director of Central Intelligence from 1953 to 1962.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3db1853fc9",
 "source": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"sources": [
+{
+"id": "u-history-state-gov-9fe3c324",
+"locator": null,
+"title": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons"
+}
+],
 "text": "He held the Air Force post in the earlier period too. The 1945-1950 volume's list of persons carries him without dates as 'Director of Intelligence, Office of the Deputy Chief of Staff, U.S. Air Force; member, Intelligence Advisory Committee'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7722bc7d68",
 "source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"sources": [
+{
+"id": "cia-rdp85b00803r000200050003-5",
+"locator": "declassified in part 8 July 2013",
+"title": "CIA-RDP85B00803R000200050003-5"
+},
+{
+"id": "cia-rdp85b00803r000200050003-5",
+"locator": null,
+"title": "CIA-RDP85B00803R000200050003-5"
+}
+],
 "text": "The CIA's own declassified chronology closes the CIA post: '27 DEC. Lt. Gen. C.P. Cabell resigns as DDCI (effective 31 Jan 62)', and '9 MAR. Maj. Gen. Marshall S. Carter appointed DDCI, succeeding Cabell'. The same volume records that in December 1961 'DDCI Cabell named CIA member' when USIB membership was expanded that month.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f353d40537",
 "source": "CIA reading room document 0000015305, https://archive.org/details/cia-readingroom-document-0000015305",
+"sources": [
+{
+"id": "u-archive-org-61ab1a2d",
+"locator": null,
+"title": "CIA reading room document 0000015305, letter to Donald Keyhoe from C. P. Cabell"
+}
+],
 "text": "The board already cites a letter he sent to Donald Keyhoe. The reading room's own catalogue entry for it reads 'UNTITLED (TO DONALD KEYHOE FROM C P CABELL ACKNOWLEDGING HIS LETTER OF MARCH 1', reading-room date 5 February 1958. The scan's OCR is close to unusable: the signature block resolves only far enough to read C. P. Cabell over the title Deputy Director, and no sentence of the body is legible. Nothing is quoted from it here.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-796caa2ead",
 "source": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:24:32 to 1:25:21; contradicted against FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"sources": [
+{
+"id": "u-history-state-gov-849ead8a",
+"locator": null,
+"title": "FRUS 1950-1955, The Intelligence Community, List of Persons"
+}
+],
 "text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:24:32, Matthew Ehret said Project Blue Book was launched under 'CIA Deputy Director Charles Cabell' at the urging of Sir Henry Tizard's UK flying saucer working party, and that Cabell was fired by John F. Kennedy in 1961. The opened records contradict the office: at Blue Book's launch in March 1952 he was the Air Force's Director of Intelligence, and he joined CIA as Deputy Director only in 1953. The CIA's own chronology records a resignation, not a dismissal, on 27 December 1961 effective 31 January 1962.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

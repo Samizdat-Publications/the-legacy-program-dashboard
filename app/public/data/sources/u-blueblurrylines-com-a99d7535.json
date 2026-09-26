@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": "2019-08",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+"b": {
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+"claimTier": 1,
+"id": "e-874c0c23da",
+"label": "Cleared the GoFast, Gimbal and FLIR files for internal distribution only",
+"note": "The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+"claimTier": 1,
+"id": "e-dd50449ae0",
+"label": "Submitted the clearance request for the three video files, 9 Aug 2017",
+"note": "The form bears his name and OUSD(I) title. It is the documentary link between him and the AATIP-associated imagery, and it was approved 24 August 2017.",
+"type": "custody"
+}
+],
+"era": "3",
+"id": "u-blueblurrylines-com-a99d7535",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "blueblurrylines.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+}
+],
+"node": null,
+"title": "Blue Blurry Lines",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html"
+]
+}

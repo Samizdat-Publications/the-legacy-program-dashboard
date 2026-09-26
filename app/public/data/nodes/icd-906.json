@@ -7,128 +7,242 @@
 {
 "id": "c-42654c581b",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "Purpose, verbatim: 'This Intelligence Community Directive (ICD) establishes the oversight and management of Intelligence Community (IC) special access programs pursuant to EO 13526, Section 4.3, or any successor document, referred to within the IC as Controlled Access Programs (CAPs). 2. This ICD supersedes ICD 906, Controlled Access Programs, signed 17 October 2015.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7be036775d",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "JURISDICTIONAL FENCE. Applicability C.3, verbatim: 'This Directive does not apply to special access programs established pursuant to EO 13526, Section 4.3, or any successor document by the Secretaries of State, Defense, Energy, or Homeland Security or by the Attorney General, or their principal deputies. Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.' C.2 adds that the DNI 'may establish CAPs pertaining to intelligence sources, methods, and activities but does not have authority to establish military operational, strategic, or tactical programs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2d35c91211",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "IC UNACKNOWLEDGED PROGRAMS. Policy D.3, verbatim: 'unacknowledged CAPs may be established only where knowledge of the existence of a program would reveal aspects of its protected information, and when there is no other means to protect information about programs at the collateral classification level, or when required by statute. Unacknowledged CAPs may be established only with the approval of the DNI or PDDNI.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-036b6f4dee",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "Policy D.2: 'Only the DNI or the Principal Deputy Director of National Intelligence (PDDNI) have the authority to establish, validate, modify, or terminate CAPs. For the purpose of this Directive, CAPs are defined as a top-level control system (such as Special Intelligence, Talent Keyhole, Human Intelligence Control System), and any compartment or sub-compartment under a control system within the IC.' D.2.a: 'There shall not be any levels beyond the sub-compartment levels, unless the DNI or PDDNI determine or approve otherwise.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6e586c7a97",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "THE DISCOVERABILITY EXEMPTION. Policy D.5: 'Intelligence and intelligence-related information within all CAPs shall be discoverable or exempted from discovery consistent with the processes outlined in ICD 501 ... Any exemption from this requirement shall be approved only by the DNI or PDDNI, and reviewed and validated at least annually.' E.1.b lets the DNI or PDDNI 'Establish unacknowledged CAPs and/or approve non-discoverability of CAPs if a compelling case can be made that any agreed upon approach to discoverability would reveal a capability, a decision, or a fragile source, and the information contained in the compartment is so narrowly tailored, it is unlikely to be of use to officers who do not already have access to the compartment.' A CAP can thus be made invisible to the IC's own internal information-discovery system.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4eaffac228",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "SCATTERED CASTLES IS THE REGISTRY -- AND HAS AN EXEMPTION. Policy D.6: 'All CAPs shall be recorded, and individual accesses to those CAPs shall be included, in the authoritative repository, Scattered Castles, or its successor system ... Any exemption from this requirement shall be approved only by the DNI or PDDNI, and reviewed and validated at least annually.' D.6.a permits access to be 'further limited by billets ... or by name or position (BYNOP).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-33c06cb495",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "Policy D.7 establishes the CAP Oversight Committee (CAPOC), chaired by the PDDNI or designee, whose Chair 'shall be responsible for CAP oversight and the management of CAPs, to include all unacknowledged CAPs.' D.8 establishes a Senior Review Group (SRG) that reviews 'all CAPs, including unacknowledged CAPs' at least annually.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-98cccbea85",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "Policy D.9 makes the Director of the ODNI Controlled Access Program Central Office (CAPCO) 'the accountable official responsible for the implementation of this policy'; CAPCO shall 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments ... and manage all compartment and sub compartment names, codenames, and any other pertinent information' and 'Be responsible for the coordination of CAP-related engagements, to include, but not limited to, congressional briefings, requests from the Information Security Oversight Office, and the National Security Council.' ISOO's access to IC CAPs is routed through CAPCO.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ab1acd458a",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "ANNUAL RE-JUSTIFICATION OF UNACKNOWLEDGED STATUS. Policy D.10.e.(1): 'For unacknowledged CAPs, IC elements shall include in their annual review submission, a justification for why each such CAP still meets the requirements to be unacknowledged.' D.10.b: 'Any new CAPs not submitted, and approved, will be terminated.' D.10.e: 'CAPs not re-validated shall be terminated and the protected information shall be de-compartmented or protected by a validated CAP.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0cb0b7dcde",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "RECORDS OFFICER REQUIREMENT. D.9.d and D.10.g: IC elements and CAPCO must 'Ensure all records pertaining to CAPs are maintained, and ensure that at least one records official is cleared to all CAP information in accordance with EO 13526.' There must exist at least one cleared records official with visibility into every CAP.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-45778ceea7",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "The ICD 906 architecture is materially tighter than the DoD SAP architecture on exactly the axis that matters for concealment: unacknowledged CAPs must be re-justified in writing every year, non-discoverability requires an annually re-validated DNI exemption, and unsubmitted programs are terminated by default. The DoD side has an annual SAPOC review of waived status (DoDI 5205.11 3.5.a.(3)(d)) but no default-termination rule and no equivalent single authoritative access registry. Reasoning stated by comparison of the two texts.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-0c21b5361f",
 "source": "ICD 906, section B.1",
+"sources": [],
 "text": "ICD 906 section B.1: this directive 'establishes the oversight and management of Intelligence Community (IC) special access programs pursuant to EO 13526, Section 4.3, or any successor document, referred to within the IC as Controlled Access Programs (CAPs).'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-ff161124f6",
 "source": "ICD 906, section B.2",
+"sources": [],
 "text": "ICD 906 section B.2: 'This ICD supersedes ICD 906, Controlled Access Programs, signed 17 October 2015.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-49c9f21083",
 "source": "ICD 906, section C.3",
+"sources": [],
 "text": "ICD 906 section C.3: the directive does not apply to SAPs established by the Secretaries of State, Defense, Energy or Homeland Security or the Attorney General, and 'Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2ac621cf62",
 "source": "ICD 906, section D.3",
+"sources": [],
 "text": "ICD 906 section D.3: 'unacknowledged CAPs may be established only where knowledge of the existence of a program would reveal aspects of its protected information ... Unacknowledged CAPs may be established only with the approval of the DNI or PDDNI.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c08da9d006",
 "source": "ICD 906, section D.2",
+"sources": [],
 "text": "ICD 906 section D.2 defines CAPs as 'a top-level control system (such as Special Intelligence, Talent Keyhole, Human Intelligence Control System), and any compartment or sub-compartment under a control system within the IC.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-74b211ffb2",
 "source": "ICD 906, section D.6",
+"sources": [],
 "text": "ICD 906 section D.6 requires all CAPs and individual accesses to be recorded in Scattered Castles or its successor, and provides that 'Any exemption from this requirement shall be approved only by the DNI or PDDNI, and reviewed and validated at least annually.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6e8e22a3ea",
 "source": "ICD 906, sections D.7 and D.8",
+"sources": [],
 "text": "ICD 906 section D.7 establishes a CAP Oversight Committee (CAPOC) chaired by the PDDNI or designee, responsible for oversight of CAPs 'to include all unacknowledged CAPs'; section D.8 establishes a Senior Review Group.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a828325f87",
 "source": "ICD 906, section D.5",
+"sources": [],
 "text": "ICD 906 section D.5 requires CAP information to be discoverable or exempted from discovery under ICD 501, and provides that 'Any exemption from this requirement shall be approved only by the DNI or PDDNI, and reviewed and validated at least annually.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-aaab83a852",
 "source": "Full text of ICD 906, by omission",
+"sources": [],
 "text": "ICD 906 contains no annual congressional reporting deadline, no pre-initiation notification period and no statutory reporting clock equivalent to 10 U.S.C. 119.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b340267dbb",
 "source": "ICD 906 section C.3 read with 50 U.S.C. 3093",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": null,
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+}
+],
 "text": "ICD 906 section C.3 identifies a third population of special access programs - those 'under the purview of the National Security Council, such as covert action' - which are governed neither by 10 U.S.C. 119 nor by ICD 906, and whose reporting runs instead through 50 U.S.C. 3093. Reasoning: the directive expressly disclaims them and the covert action statute is the only remaining regime.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

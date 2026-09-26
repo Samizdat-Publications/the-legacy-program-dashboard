@@ -1,0 +1,81 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3f71b5a057",
+"locator": null,
+"node": "beatriz-villarroel",
+"nodeLabel": "Beatriz Villarroel",
+"sourceText": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:22:14, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:22:14 to 0:23:09, Beatriz Villarroel said that since about the early 1960s there have been objects called uncorrelated targets, seen once or a few times on radar or optical sensors and then untrackable, and that these are subtracted from the background when the number of objects in space is calculated. She said the subtraction is not done by NASA or ESA themselves.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9a10ecb99d",
+"locator": null,
+"node": "jacques-vallee",
+"nodeLabel": "Jacques F. Vallee",
+"sourceText": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 1:16:06 and 1:18:41, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 1:16:06 and 1:18:41, Michels said in narration that on 11 July 1961 Vallee, then working on the Paris Observatory's satellite tracking programme, and colleagues observed an object in retrograde orbit, and that his superior at the observatory, named as Paul Mueller, confiscated the tape the next morning and destroyed it. The narration also quotes Vallee from an unspecified later interview saying other observatories made the same observation and that American tracking stations photographed it and could not identify it either. No book, interview or archive is cited on air for either element.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c82978bf6c",
+"locator": null,
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"sourceText": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:26:46, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:26:46 and 0:27:36, Michels said in narration that a military-funded project to search for small natural satellites of the Earth began at White Sands Missile Range in 1953, that LaPaz and Clyde Tombaugh were the two scientists in charge of it, and that LaPaz came to it from Project Twinkle. Neither Tombaugh nor the White Sands satellite search appears anywhere in the board's research files.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-a8e0916c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "beatriz-villarroel",
+"label": "Beatriz Villarroel"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+{
+"cls": "person",
+"id": "lincoln-lapaz",
+"label": "Lincoln LaPaz"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100, 000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-3f71b5a057"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-c82978bf6c"
+],
+"id": "sign-estimate",
+"title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
+]
+}

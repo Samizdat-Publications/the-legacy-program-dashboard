@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "samantha-ravich",
+"label": "Samantha F. Ravich"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 1,
+"id": "e-94d5b0d894",
+"label": "Doctorate from the RAND Graduate School",
+"note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "samantha-ravich",
+"label": "Samantha F. Ravich"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-113ead19a6",
+"label": "Elected to MITRE's Board of Trustees, 19 May 2026",
+"note": "Elected three days before the Burlison production request was sent; former vice chair of the President's Intelligence Advisory Board.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-mitre-org-4fa6f01f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "person",
+"id": "samantha-ravich",
+"label": "Samantha F. Ravich"
+}
+],
+"node": null,
+"title": "MITRE news release",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/news-insights/news-release/mitre-names-samantha-ravich-phd-board-trustees"
+]
+}

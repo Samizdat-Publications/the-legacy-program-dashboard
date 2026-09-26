@@ -1,0 +1,171 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-08b10743d3",
+"locator": null,
+"node": "lazar-clark-county-1990",
+"nodeLabel": "Clark County, Nevada felony pandering file, 1990 and 1996",
+"sourceText": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18",
+"text": "The 19 June 1990 report records the police account of the offence: that Lazar recruited a prostitute, operated her business from the Newport Cove apartments, maintained computer records of customers and their licence plate numbers, and took at least half her earnings. It records the sentencing exposure as 'one to six years, with a possible fine of $5,000'. It also records, from police records, that 'Lazar told her he had master's degrees from two universities', which is the same credential claim appearing in a police file rather than a broadcast.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4b84cf75ed",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18",
+"text": "CONTEMPORANEOUS CONFIRMATION OF THE 1989 REPORTING. A Las Vegas Review-Journal report of 19 June 1990, page 8B, by Warren Bates, records that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This is the only contemporaneous documentary confirmation opened by this session that the 1989 Lazar broadcasts happened at all.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a7ef3bd0f9",
+"locator": null,
+"node": "klas-tv",
+"nodeLabel": "KLAS-TV (Las Vegas)",
+"sourceText": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "KLAS-TV is the originating institution of the Bob Lazar claim. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. The station's own retrospectives on the story, at 8newsnow.com, returned HTTP 403 to three separate requests on 18 September 2026, so not one word of the originating institution's own account of its 1989 reporting is currently on this board.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-028d7b9e62",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18",
+"text": "A Las Vegas Review-Journal report of Tuesday 19 June 1990, page 8B, by Warren Bates, headed 'Source in Channel 8's UFO series pleads guilty to pandering charge', records the plea and records contemporaneously that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. It also records, from police records, that 'Lazar told her he had master's degrees from two universities'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ee494d18cc",
+"locator": null,
+"node": "klas-lazar-broadcasts-1989",
+"nodeLabel": "The KLAS-TV Lazar broadcasts, 1989",
+"sourceText": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE ANCHOR. A Las Vegas Review-Journal report of Tuesday 19 June 1990, page 8B, by Warren Bates, records contemporaneously that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This establishes that the 1989 broadcasts existed, that Lazar was their centre, and that they had already won recognition by mid-1990.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-5e41f493ab",
+"label": "Journalist who brought the claim to air in 1989 and has carried it since",
+"note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "document",
+"id": "klas-lazar-broadcasts-1989",
+"label": "The KLAS-TV Lazar broadcasts, 1989"
+},
+"claimTier": 1,
+"id": "e-f0fb54b643",
+"label": "Reporter and author of the broadcasts",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "document",
+"id": "klas-lazar-broadcasts-1989",
+"label": "The KLAS-TV Lazar broadcasts, 1989"
+},
+"claimTier": 1,
+"id": "e-203404d18c",
+"label": "Its own broadcasts",
+"note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-otherhand-org-33645bae",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-area51",
+"label": "Area 51 (Homey Airport / Groom Lake operating location)"
+},
+{
+"cls": "document",
+"id": "lazar-clark-county-1990",
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996"
+},
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+{
+"cls": "document",
+"id": "klas-lazar-broadcasts-1989",
+"label": "The KLAS-TV Lazar broadcasts, 1989"
+}
+],
+"node": null,
+"title": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+"topics": [
+{
+"claims": [
+"c-08b10743d3",
+"c-028d7b9e62",
+"c-ee494d18cc"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-4b84cf75ed",
+"c-a7ef3bd0f9"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+]
+}

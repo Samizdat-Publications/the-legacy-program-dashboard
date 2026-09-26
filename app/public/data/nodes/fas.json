@@ -7,14 +7,30 @@
 {
 "id": "c-761dda426d",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "FAS brought the 1997 FOIA litigation, with the assistance of Kate Martin of the Center for National Security Studies, that forced the first disclosure of the total intelligence budget in fifty years.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b9b2fe7cf7",
 "source": "https://fas.org/expert/steven-aftergood/",
+"sources": [
+{
+"id": "u-fas-org-816e63fb",
+"locator": null,
+"title": "FAS, Steven Aftergood"
+}
+],
 "text": "Steven Aftergood joined FAS in 1989 and directed its Project on Government Secrecy from 1991 to 2021.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

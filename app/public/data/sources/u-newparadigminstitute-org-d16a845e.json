@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+"b": {
+"cls": "institution",
+"id": "new-paradigm-institute",
+"label": "New Paradigm Institute"
+},
+"claimTier": 1,
+"id": "e-46550f7c77",
+"label": "Founder and principal",
+"note": "NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "new-paradigm-institute",
+"label": "New Paradigm Institute"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 1,
+"id": "e-f5a886dd05",
+"label": "Running the campaign for Senate passage of the UAPDA",
+"note": "NPI's front page as of August 2026 reads 'The House Acted. Now Tell the Senate to Pass the UAPDA', indicating House passage of a version and Senate inaction.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-newparadigminstitute-org-d16a845e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "newparadigminstitute.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+{
+"cls": "institution",
+"id": "new-paradigm-institute",
+"label": "New Paradigm Institute"
+}
+],
+"node": null,
+"title": "New Paradigm Institute",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://newparadigminstitute.org/"
+]
+}

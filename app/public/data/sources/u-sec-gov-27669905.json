@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-317633eccd",
+"label": "TTSA executed a federal exploitation agreement over material it claimed was of unknown origin",
+"note": "CRADA 19-15 'Novel & Emerging Technology Exploitation' with the US Army CCDC Ground Vehicle Systems Center was filed as Exhibit 6.28 to TTSA's Form 1-A, naming Army principal investigators and TACOM intellectual property counsel.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-sec-gov-27669905",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+}
+],
+"node": null,
+"title": "SEC EDGAR: TTSA Form 1-A Exhibit 6.26, Cooperative Marketing Agreement referencing the Army NETE CRADA",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-26.htm"
+]
+}

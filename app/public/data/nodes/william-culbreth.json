@@ -10,44 +10,100 @@
 {
 "id": "c-870b5f2404",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "The 9 January 2018 DIA list credits item 30, \"Aneutronic Fusion Propulsion II\", to \"Dr W Culbreth, Univ of Nevada-Las Vegas\", and item 29, \"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\", to the same author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6e9eb9e6b3",
 "source": "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab",
+"sources": [
+{
+"id": "u-unlv-edu-ea6cc657",
+"locator": null,
+"title": "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab"
+}
+],
 "text": "William Culbreth is a retired UNLV mechanical engineering professor who started the UNLV Nuclear Engineering Lab, now led by Alexander Barzilov.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9e79ff337f",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-a3708b6c",
+"locator": null,
+"title": "documents2.theblackvault.com"
+}
+],
 "text": "The DIRD released as DIA-08-1011-003 devotes five separate passages to the Nevada Test Site, including Project Rover, NERVA testing at Area 25, an operational anecdote about manual retrieval of ejected radioactive material, and lithium mining at Silverpeak, Nevada; its reference list is dominated by nuclear engineering textbooks rather than primary plasma-physics journals. This is consistent with, but does not by itself prove, authorship by a UNLV nuclear engineer.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-9f436553e2",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "The DIA letter of 9 January 2018 attributes two DIRDs to 'Dr W Culbreth, Univ of Nevada-Las Vegas': 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' and 'Aneutronic Fusion Propulsion II.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2722e50845",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-a0fe9ddb",
+"locator": null,
+"title": "Released DIRD, 'Detection and High Resolution Tracking of Vehicles at Hypersonic Veloc' — FOIA copy, cover page read 22 August 2026"
+}
+],
 "text": "The released DIRD bears document number DIA-08-1012-001, publication date 20 November 2010 and Intelligence Cut-Off Date 30 August 2010, in the 'Defense Futures' series.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-94a94e2b23",
 "source": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+"sources": [
+{
+"id": "u-silvarecord-com-19c12f98",
+"locator": null,
+"title": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/"
+}
+],
 "text": "George Knapp released the hypersonic tracking DIRD and published an interview with Culbreth in mid-2019, making it the fifth DIRD to reach the public before the March 2022 bulk FOIA release.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3fefb608d2",
 "source": "https://www.unlv.edu/people/william-culbreth",
+"sources": [
+{
+"id": "u-unlv-edu-9e8ccfe7",
+"locator": null,
+"title": "https://www.unlv.edu/people/william-culbreth"
+}
+],
 "text": "Culbreth is a professor of mechanical engineering at the University of Nevada, Las Vegas.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

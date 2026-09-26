@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2ad4acf445",
+"locator": null,
+"node": "stic-usib",
+"nodeLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"sourceText": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "It answered to the United States Intelligence Board: 'The STIC will advise USIB on scientific and technical matters within the Committee's areas of concern. The STIC, in support of USIB, will also review, stimulate, guide, and coordinate collection activity and information processing in response to resource management objectives in these areas.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-5cc2618bbd",
+"locator": null,
+"node": "stic-usib",
+"nodeLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"sourceText": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "Its charter tasks it with anomalies by name. Under Priority Group II: 'Assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the S&T area.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-87688ccf40",
+"locator": "CIA reading-room mirror",
+"node": "stic-usib",
+"nodeLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"sourceText": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, CIA reading-room mirror, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "The committee is a renaming, not a new body: 'Because of the increased emphasis the Committee will place on foreign intelligence related to technology, the name of the Committee will be changed from Scientific Intelligence Committee to Scientific and Technical Intelligence Committee (STIC).'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-87688ccf40",
+"locator": null,
+"node": "stic-usib",
+"nodeLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"sourceText": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, CIA reading-room mirror, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "The committee is a renaming, not a new body: 'Because of the increased emphasis the Committee will place on foreign intelligence related to technology, the name of the Committee will be changed from Scientific Intelligence Committee to Scientific and Technical Intelligence Committee (STIC).'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a8c2aac56a",
+"locator": null,
+"node": "stic-usib",
+"nodeLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"sourceText": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "Its stated purpose was early warning: 'to provide early warning of foreign scientific or technical advances, whether indigenous or imported, which could affect significantly the national security or national welfare of the United States.' Its initial substructure was three subcommittees, nine advisory groups and two working groups, including advisory groups on Behavioral and Human Engineering and on Lasers and Electro-optics.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "cia-rdp79m00098a000500020010-4",
+"identifiers": [
+"CIA-RDP79M00098A000500020010-4"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "stic-usib",
+"label": "Scientific and Technical Intelligence Committee (USIB)"
+}
+],
+"node": null,
+"title": "CIA-RDP79M00098A000500020010-4",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp79m00098a000500020010-4",
+"https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt"
+]
+}

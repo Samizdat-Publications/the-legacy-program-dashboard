@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-91ce4e14b1",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "SECTION 102(d)(5) IS THE CLAUSE THAT MATTERS. It permits the Agency to perform such other functions and duties related to intelligence as the National Security Council may from time to time direct, and it is the authority expressly invoked by NSC 10/2 of 18 June 1948 and again by NSC 5412 of 15 March 1954. The United States covert-action programme rests on a residual clause in a reorganisation statute, not on a grant of authority written for it.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+"b": {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+"claimTier": 1,
+"id": "e-cee2233a45",
+"label": "Chartered under the residual clause, section 102(d)(5)",
+"note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "stat-61-498",
+"identifiers": [
+"61 Stat. 498"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "61 Stat. 498",
+"topics": [
+{
+"claims": [
+"c-91ce4e14b1"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "statute",
+"urls": []
+}

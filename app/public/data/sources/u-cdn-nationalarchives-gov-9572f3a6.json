@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-london",
+"label": "London, United Kingdom"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-4aaf7db27c",
+"label": "produced at Whitehall, released via TNA at Kew",
+"note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-0304d8386b",
+"label": "MoD UFO desk held and released the Rendlesham file",
+"note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-cdn-nationalarchives-gov-9572f3a6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [],
+"node": null,
+"title": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf",
+"topics": [],
+"type": "document",
+"urls": [
+"https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf"
+]
+}

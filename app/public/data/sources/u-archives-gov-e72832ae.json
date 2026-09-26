@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-af19ea02ae",
+"locator": null,
+"node": "allen-w-dulles",
+"nodeLabel": "Allen W. Dulles",
+"sourceText": "National Archives media alert 08-130, 'NARA to Open Official Personnel Files of the OSS', 7 August 2008, https://www.archives.gov/press/press-releases/2008/nr08-130",
+"text": "The National Archives names Dulles among the OSS personnel files opened on 14 August 2008: the press office distributed CDs including 'selected files of some of the notable people who served in the OSS, including former CIA directors Allen Dulles and William Casey'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archives-gov-e72832ae",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+}
+],
+"node": null,
+"title": "National Archives media alert 08-130, NARA to Open Official Personnel Files of the OSS",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.archives.gov/press/press-releases/2008/nr08-130"
+]
+}

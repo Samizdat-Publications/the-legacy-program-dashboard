@@ -1,0 +1,50 @@
+{
+"archived": [
+"https://web.archive.org/web/20260606134204/https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tim-phillips",
+"label": "Timothy A. Phillips"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-dabeb43017",
+"label": "fronted the Volume I rollout and media engagement",
+"note": "Phillips conducted a private press briefing on 6 March 2024 and an on-record media engagement published by DoD on 8 March 2024.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-war-gov-4d23009e",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+{
+"cls": "person",
+"id": "tim-phillips",
+"label": "Timothy A. Phillips"
+}
+],
+"node": null,
+"title": "DoD - Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1",
+"topics": [],
+"type": "transcript",
+"urls": [
+"https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/"
+]
+}

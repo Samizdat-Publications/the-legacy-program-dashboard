@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+"b": {
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+"claimTier": 2,
+"id": "e-77bd94a8fa",
+"label": "Same investigators, later contract",
+"note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+"b": {
+"cls": "domain",
+"id": "d-consciousness",
+"label": "Consciousness & Observer Effects"
+},
+"claimTier": 1,
+"id": "e-a0db407fb2",
+"label": "Twenty-three years of federal funding",
+"note": "Star Gate is the documented precedent that the US government funds anomalous-cognition research; the consciousness domain inherits its personnel and its framing.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-irp-fas-org-bd1f2512",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-consciousness",
+"label": "Consciousness & Observer Effects"
+},
+{
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+{
+"cls": "location",
+"id": "l-sri",
+"label": "SRI International, Menlo Park, California"
+},
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "FAS - Star Gate documentation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://irp.fas.org/program/collect/stargate.htm"
+]
+}

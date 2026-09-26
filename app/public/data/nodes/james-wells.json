@@ -10,20 +10,44 @@
 {
 "id": "c-238495d2a1",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Pulsed High-Power Microwave Technology', affiliation 'J W Enterprises'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c356ded2b2",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The earlier George Knapp / KLAS-TV list of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman' rather than J W Enterprises. The discrepancy is unresolved; the DIA list is treated as authoritative.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f5c80eed7d",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-148479e4",
+"locator": null,
+"title": "documents2.theblackvault.com"
+}
+],
 "text": "No verified biography, institutional affiliation page or publication record has been located for this author beyond the DIA list entry; the author line on the released DIRD cover page is redacted under (b)(6).",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

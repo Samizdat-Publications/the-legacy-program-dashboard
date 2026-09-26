@@ -1,0 +1,107 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-1176dfb015",
+"locator": null,
+"node": "defense-support-program",
+"nodeLabel": "Defense Support Program (DSP) missile early warning satellites",
+"sourceText": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+"text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-4aa48e98f0",
+"locator": null,
+"node": "defense-support-program",
+"nodeLabel": "Defense Support Program (DSP) missile early warning satellites",
+"sourceText": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+"text": "The same letter refuses to search a second command's holdings on structural grounds: 'Additionally, NORAD is exempt from FOIA requests as a bi-national organization; therefore no search was conducted for responsive NORAD documents.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"b": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"claimTier": 1,
+"id": "e-d939e2eded",
+"label": "Both refusals rest on the same executive order",
+"note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"b": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"claimTier": 1,
+"id": "e-add2c009fa",
+"label": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+"note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 1,
+"id": "e-7981069a36",
+"label": "Both refusals on this designation are public only because of The Black Vault",
+"note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-documents-theblackvault--58e7a052",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+}
+],
+"node": null,
+"title": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"topics": [
+{
+"claims": [
+"c-1176dfb015",
+"c-4aa48e98f0"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "document",
+"urls": [
+"https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+]
+}

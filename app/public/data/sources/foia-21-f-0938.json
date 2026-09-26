@@ -1,0 +1,221 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3238c01deb",
+"locator": "DoD FOIA Reading Room, Public Affairs",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "OSD FOIA release 21-F-0938, DoD FOIA Reading Room, Public Affairs",
+"text": "He wrote to Pentagon spokesperson Susan Gough on 3 June 2020: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d1dfc5a6d3",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "OSD/WHS FOIA reading room, 21-F-0938",
+"text": "Elizondo's 2017 resignation correspondence was addressed to OSD Public Affairs' Susan Gough and was released by the Department under FOIA case 21-F-0938.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8f8957d0f1",
+"locator": "DoD FOIA Reading Room",
+"node": "foia-21-f-0938",
+"nodeLabel": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
+"sourceText": "OSD FOIA 21-F-0938, DoD FOIA Reading Room",
+"text": "Contains Elizondo's 3 June 2020 statement to Gough: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dc57ed3b7b",
+"locator": null,
+"node": "foia-21-f-0938",
+"nodeLabel": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
+"sourceText": "OSD FOIA 21-F-0938",
+"text": "Records Elizondo's assertion that Gough initially claimed 'Neither AATIP nor AAWSAP were UAP related', later corrected that, but never corrected the statement about his involvement.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0f190eb969",
+"locator": null,
+"node": "foia-21-f-0938",
+"nodeLabel": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
+"sourceText": "OSD FOIA 21-F-0938",
+"text": "Records Elizondo's assertion that a DoD Press Secretary verified in 2017 that he was an OUSD(I) staff member, and that Sherwood had indicated the Department would release an exonerating statement.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-918c394a1a",
+"locator": "Elizondo emails",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "OSD/WHS FOIA release 21-F-0938, Elizondo emails",
+"text": "Elizondo's October 2017 resignation correspondence was addressed to Gough and released through the Washington Headquarters Services FOIA reading room (21-F-0938).",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cf14db0855",
+"locator": "email release",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "OSD FOIA 21-F-0938 email release",
+"text": "Received Elizondo's 3 June 2020 letter stating 'The truth, as everyone involved in the program knows, is that I ran the program,' and noting she had corrected the AATIP/UAP statement but never corrected the statement about his involvement.",
+"tier": 1
+}
+],
+"date": "2019",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 2,
+"id": "e-13549cbed5",
+"label": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
+"note": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"id": "e-9e5a9fc5f4",
+"label": "Direct correspondence, 5 June 2019 and 3 June 2020: 'I ran the program'",
+"note": "Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "foia-21-f-0938",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+},
+"b": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"id": "e-741e9c8db9",
+"label": "FOIA release of the Elizondo-Gough correspondence",
+"note": "The Department's own reading room hosts the most detailed public rebuttal of the Department's position on Elizondo.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-84374889be",
+"label": "'no assigned responsibilities for AATIP'",
+"note": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
+"type": "denial"
+}
+],
+"era": "3",
+"id": "foia-21-f-0938",
+"identifiers": [
+"FOIA case 21-F-0938"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "document",
+"id": "foia-21-f-0938",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": {
+"cls": "document",
+"id": "foia-21-f-0938",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+},
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
+"topics": [
+{
+"claims": [
+"c-8f8957d0f1",
+"c-dc57ed3b7b",
+"c-0f190eb969",
+"c-918c394a1a"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-3238c01deb",
+"c-d1dfc5a6d3",
+"c-cf14db0855"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+},
+{
+"claims": [
+"c-3238c01deb",
+"c-d1dfc5a6d3"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-3238c01deb"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-3238c01deb"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+}
+],
+"type": "document",
+"urls": []
+}

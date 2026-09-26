@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sarah-little",
+"label": "Sarah Little"
+},
+"b": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"claimTier": 1,
+"id": "e-b56c0beebf",
+"label": "SCU board member and co-author of the 2023 characteristics study",
+"note": "Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-doi-org-61f4d7b4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+{
+"cls": "person",
+"id": "sarah-little",
+"label": "Sarah Little"
+},
+{
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+}
+],
+"node": null,
+"title": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.5281/zenodo.10287332"
+]
+}

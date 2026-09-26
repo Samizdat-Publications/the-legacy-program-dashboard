@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 3,
+"id": "e-75a2d6412f",
+"label": "the 'circular reporting from a small group' thesis, seventeen months before the Air Force was identified as the seeding group",
+"note": "Kirkpatrick's mechanism was correct in form and wrong in agent: belief was seeded and repeated from a small source, but the documented source is a US Air Force indoctrination practice, not a civilian believer network. Whether AARO knew this when the op-ed ran is unresolved, given that AARO discovered Yankee Blue during his tenure.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-dd739bd1b8",
+"label": "AARO uncovered the fake programme through internal review under Kirkpatrick",
+"note": "Per the Wall Street Journal, AARO discovered the practice during Kirkpatrick's tenure; the Office of the Secretary of Defense then issued a spring 2023 memorandum ordering it stopped.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "person",
+"id": "avril-haines",
+"label": "Avril D. Haines"
+},
+"claimTier": 2,
+"id": "e-1749f1d589",
+"label": "DNI briefed that the practice affected 'hundreds and hundreds' of personnel over decades",
+"note": "Officials escalated the finding to the Director of National Intelligence, establishing that the deception was known at the top of the IC before any public account existed.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-metabunk-org-048b689f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Metabunk",
+"listedOn": [
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
+"node": null,
+"title": "Metabunk thread documenting the WSJ report",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.metabunk.org/threads/yankee-blue-the-hazing-ritual-responsible-for-some-military-belief-in-ufos.14260/"
+]
+}

@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-e80ce67392",
+"label": "Gerb analysed the PURSUE releases as they were published",
+"note": "Gerb ran a livestream on 'UFO File Drop 1' on 12 May 2026 and discussed the release programme in his 2 March 2026 livestream on Trump's announcement, making him one of the first analysts working the released record.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+"claimTier": 2,
+"id": "e-1f4e019d16",
+"label": "Gerb publicly critiqued the 8 May 2026 Greer press-club event",
+"note": "Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "rob-jones",
+"label": "Rob Jones"
+},
+"b": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"claimTier": 2,
+"id": "e-e74accccde",
+"label": "NewsNation research producer supplied gatekeeper leads to Gerb",
+"note": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-youtube-com-4b244673",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "rob-jones",
+"label": "Rob Jones"
+},
+{
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+}
+],
+"node": null,
+"title": "UAP Gerb Live - 12 May 2026",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=iAWD4irLMZM"
+]
+}

@@ -1,0 +1,220 @@
+{
+"archived": [
+"https://web.archive.org/web/20260512215310/https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2ba9feba90",
+"locator": null,
+"node": "dod-oig",
+"nodeLabel": "Department of Defense Office of Inspector General",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The OIG issued DOWIG-2026-081 on 12 May 2026 recording an eighth consecutive disclaimer of opinion and 26 material weaknesses for FY2025.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-0f2ae724e8",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dd07057120",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "One of the ten accounting material weaknesses is titled 'Unsupported Accounting Adjustments'; the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-2d4897578a",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The Department received a disclaimer of opinion on its agency-wide financial statements for eight consecutive years through FY2025.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-5a29dfd873",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Fund Balance with Treasury, an estimated $1 trillion in spending accounts, is a standing material weakness.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-e18a5af635",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-f371367f17",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-ec6146b8e7",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "A standing 'Universe of Transactions' material weakness is the accounting equivalent of an unindexed archive: it means no auditor and no oversight committee can prove a negative about DoD spending, because the population against which a search would run is not known to exist in complete form. Reasoning: the material weakness is defined by the auditors as inability to establish the complete transaction set; any assertion that no funds flowed to an undisclosed activity would require exactly that set.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-601da71d07",
+"locator": null,
+"node": "dowig-2026-081",
+"nodeLabel": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "The report states 'In the last two quarters of FY 2025, the DoW's adjustments totaled more than $859 billion' without adequate supporting documentation, attributing contributions to Army, Air Force, Navy and DLA across general and working capital funds.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c0401a7df1",
+"locator": null,
+"node": "platte-moring",
+"nodeLabel": "Platte B. Moring III",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "His office published DOWIG-2026-081 on 12 May 2026, recording an eighth consecutive disclaimer of opinion and 26 material weaknesses.",
+"tier": 1
+}
+],
+"date": "2026-05-12",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"b": {
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+"claimTier": 3,
+"id": "e-588b33de6e",
+"label": "An unauditable ledger cannot disprove the allegation",
+"note": "The Department's standing 'Universe of Transactions' material weakness means the complete population of its transactions is not established; no search of that population can therefore establish that funds did not flow to an undisclosed activity. Reasoned inference from the auditor's own definition of the weakness.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dowig-2026-081",
+"label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
+},
+"b": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"claimTier": 1,
+"id": "e-bb2fb43c3b",
+"label": "The current authoritative statement of the audit result",
+"note": "DOWIG-2026-081 records the eighth consecutive disclaimer, 26 material weaknesses, and more than $859 billion of unsupported adjustments in two quarters of FY2025. Attested by the report.",
+"type": "investigative"
+}
+],
+"era": "3",
+"id": "u-media-defense-gov-99da587b",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "institution",
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+{
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+{
+"cls": "document",
+"id": "dowig-2026-081",
+"label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+{
+"cls": "person",
+"id": "platte-moring",
+"label": "Platte B. Moring III"
+}
+],
+"node": null,
+"title": "DOWIG-2026-081",
+"topics": [
+{
+"claims": [
+"c-0f2ae724e8",
+"c-dd07057120",
+"c-5a29dfd873",
+"c-e18a5af635",
+"c-f371367f17",
+"c-ec6146b8e7",
+"c-601da71d07"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+},
+{
+"claims": [
+"c-0f2ae724e8",
+"c-dd07057120"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-0f2ae724e8",
+"c-dd07057120"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-0f2ae724e8"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+}
+],
+"type": "document",
+"urls": [
+"https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+]
+}

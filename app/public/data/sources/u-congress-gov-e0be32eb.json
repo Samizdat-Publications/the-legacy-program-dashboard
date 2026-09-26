@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "andy-biggs",
+"label": "Andy Biggs"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-1d33db29d5",
+"label": "questioned witnesses at the 26 July 2023 UAP hearing",
+"note": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "maxwell-frost",
+"label": "Maxwell Alejandro Frost"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-2a1fe41b29",
+"label": "questioned witnesses at the 26 July 2023 UAP hearing",
+"note": "Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.'",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-e0be32eb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "https://www.congress.gov/event/118th-congress/house-event/116282/text",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/event/118th-congress/house-event/116282/text"
+]
+}

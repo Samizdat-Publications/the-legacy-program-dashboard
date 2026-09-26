@@ -7,44 +7,100 @@
 {
 "id": "c-8e2c1a6c73",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"sources": [
+{
+"id": "u-dia-mil-189bbe83",
+"locator": null,
+"title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Traversable Wormholes, Stargates, and Negative Energy\", series \"Acquisition Threat Support\", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c755f93dec",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"sources": [
+{
+"id": "u-dia-mil-189bbe83",
+"locator": null,
+"title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a064d814a0",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"sources": [
+{
+"id": "u-dia-mil-189bbe83",
+"locator": null,
+"title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ea84755c68",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "Author of record per the DIA letter of 9 January 2018, item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" The popular attribution to Davis is, in this case, correct and matches the government list.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-1ad5a90f7e",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-541471b6",
+"locator": null,
+"title": "Defense Intelligence Reference Document, \"Traversable Wormholes, Stargates, and Negative Energy\" (The Black Vault FOIA release)"
+}
+],
 "text": "The released cover page reads \"6 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-004.\" The author line is redacted under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-39e0ed35e5",
 "source": "http://earthtech.org/pubs/davis/",
+"sources": [
+{
+"id": "u-earthtech-org-00a4fe99",
+"locator": null,
+"title": "EarthTech International, publications list for Eric W. Davis (DIRD citations)"
+}
+],
 "text": "EarthTech International's own citation list records the paper as \"Davis, E. W. (2010), 'Traversable Wormholes, Stargates, and Negative Energy,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-004, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\"",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6ab00b8a0c",
 "source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--6202caf1",
+"locator": null,
+"title": "ufos-scientificresearch.blogspot.com"
+}
+],
 "text": "This is one of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017, before any FOIA release. Davis confirmed by email to the researcher Isaac Koi that the circulating copies were his documents.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

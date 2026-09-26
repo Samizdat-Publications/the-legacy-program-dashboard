@@ -25,14 +25,24 @@
 {
 "id": "c-ffa739b084",
 "source": "GPO CHRG-118hhrg53022",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "Member of the Subcommittee on National Security, the Border, and Foreign Affairs at the 26 July 2023 hearing and a questioner of Graves and Fravor.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ce8890e7b7",
 "source": "oversight.house.gov Task Force membership page",
+"sources": [],
 "text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

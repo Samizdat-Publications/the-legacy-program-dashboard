@@ -1,0 +1,97 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"claimTier": 2,
+"id": "e-580bcb118e",
+"label": "Caucus member",
+"note": "Described as a member of the caucus in March 2024 and again in June 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "event",
+"id": "uap-disclosure-forum-2026",
+"label": "Disclosure Forum 2026"
+},
+"claimTier": 2,
+"id": "e-95865c5415",
+"label": "Announced the Lincoln Laboratory production at the forum",
+"note": "Jordan Flowers credited Burlison with shaking the artifact loose: 'He's stopped asking politely.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "burlison-mit-lincoln-letter-2026",
+"label": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026"
+},
+"b": {
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+"claimTier": 2,
+"id": "e-f4e7280b62",
+"label": "Extracted an acknowledgment of existence and an agreement to produce from an FFRDC",
+"note": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available - the first documented FFRDC production commitment in response to a UAP congressional demand.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-thehill-com-720c1a91",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+{
+"cls": "event",
+"id": "uap-disclosure-forum-2026",
+"label": "Disclosure Forum 2026"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+{
+"cls": "document",
+"id": "burlison-mit-lincoln-letter-2026",
+"label": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026"
+}
+],
+"node": null,
+"title": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+]
+}

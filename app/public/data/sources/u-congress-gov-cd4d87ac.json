@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-fy2024-sec-1102",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 2,
+"id": "e-61daa5e97a",
+"label": "the Senate committee text that would have closed the channel at the contractor end",
+"note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
+"type": "funding"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-fy2024-sec-1102",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 2,
+"id": "e-d6879916dc",
+"label": "a committee-reported provision that did not survive conference in the form reported",
+"note": "The Senate Select Committee on Intelligence's UAP provision in the reported IAA FY2024 would have compelled contractor turn-in of UAP material within 180 days. The enacted counterpart in Division G of P.L. 118-31 differed substantially from the text approved by Senate committees and by the full Senate. Its home is the process domain because what is interesting about it is the gap between what was reported and what was enacted.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-cd4d87ac",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "S. 2103, 118th Congress, Intelligence Authorization Act for Fiscal Year 2024, as reported (Congress.gov)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/bill/118th-congress/senate-bill/2103/text"
+]
+}

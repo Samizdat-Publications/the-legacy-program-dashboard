@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "elizondo-dodig-complaint-2021",
+"label": "Elizondo complaint to the DoD Inspector General, May 2021"
+},
+"b": {
+"cls": "person",
+"id": "garry-reid",
+"label": "Garry P. Reid"
+},
+"claimTier": 2,
+"id": "e-96bd55455b",
+"label": "Named respondent; Reid removed from post by April 2022",
+"note": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-082fb768",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-counterintel",
+"label": "Counterintelligence"
+},
+{
+"cls": "document",
+"id": "elizondo-dodig-complaint-2021",
+"label": "Elizondo complaint to the DoD Inspector General, May 2021"
+},
+{
+"cls": "person",
+"id": "garry-reid",
+"label": "Garry P. Reid"
+}
+],
+"node": null,
+"title": "The Debrief — Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+]
+}

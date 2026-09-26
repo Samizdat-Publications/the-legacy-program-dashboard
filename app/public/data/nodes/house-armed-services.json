@@ -7,14 +7,24 @@
 {
 "id": "c-bd87653114",
 "source": "P.L. 118-31, Sec. 1687(c)(1), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1687(c)(1), GPO",
+"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+}
+],
 "text": "Sec. 1687(c)(1) defines 'appropriate congressional committees' as the congressional defense committees plus HPSCI and SSCI, routing the remedy through committee channels only.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d836baac76",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
+"sources": [],
 "text": "HASC Chairman Rogers is named with Turner as leading the effort against the UAP Disclosure Act.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

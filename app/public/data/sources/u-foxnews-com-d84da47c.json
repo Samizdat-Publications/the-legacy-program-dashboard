@@ -1,0 +1,145 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-c2e397eb16",
+"locator": null,
+"node": "missing-scientists-probe-2026",
+"nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"sourceText": "Fox News, 21 April 2026, https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals ; checked against the Committee letters of 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+"text": "Fox News reported on 21 April 2026 that Chairman Comer and Rep. Burlison had launched a congressional probe into eleven individuals in nuclear or rocket technology who had died or vanished since 2022, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026. The Committee's own letters, opened on 2 September 2026, say 'at least ten individuals' and date the pattern to 2023; the eleven and the 2022 are what Fox reported.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+},
+"claimTier": 2,
+"id": "e-4f4526e5e6",
+"label": "Co-launched the probe; revealed the McCasland trigger",
+"note": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 2,
+"id": "e-42742f35b5",
+"label": "Run by the same committee and the same member as the UAP inquiry",
+"note": "The convergence of the two inquiries in one subcommittee chair is the structural link between this board and The Vanishing.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+"b": {
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+},
+"claimTier": 2,
+"id": "e-ef9e4c53f5",
+"label": "Co-launched the probe",
+"note": "Comer and Burlison opened the investigation on 21 April 2026.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-mccasland",
+"label": "William Neil McCasland"
+},
+"b": {
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+},
+"claimTier": 2,
+"id": "e-7b78ecf07c",
+"label": "His February 2026 disappearance is the trigger for the probe",
+"note": "One of eleven people in nuclear or rocket technology who have died or vanished since 2022, per the committee.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-mccasland",
+"label": "William Neil McCasland"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-2a3a4b0cda",
+"label": "Commanded the Air Force Research Laboratory at Wright-Patterson",
+"note": "AFRL at Wright-Patterson is the single installation most persistently named in the legacy recovery literature.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-foxnews-com-d84da47c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fox News",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+},
+{
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+{
+"cls": "person",
+"id": "william-mccasland",
+"label": "William Neil McCasland"
+}
+],
+"node": null,
+"title": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"topics": [
+{
+"claims": [
+"c-c2e397eb16"
+],
+"id": "missing-scientists",
+"title": "Deaths and disappearances: the scientists probe"
+}
+],
+"type": "article",
+"urls": [
+"https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+]
+}

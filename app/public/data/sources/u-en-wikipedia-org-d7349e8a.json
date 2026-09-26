@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b6aa75e8c0",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "Secondary reporting summarised at https://en.wikipedia.org/wiki/Salvatore_Pais citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board",
+"text": "Reporting based on records released under FOIA states that NAWCAD funded testing of the claimed effect between 2016 and 2019 at a cost of roughly 500,000 USD and determined that it could not be demonstrated, with no further research conducted. The figure corresponds to the two 250,000 USD lines proposed in the PAX 205 briefing.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-d7349e8a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+}
+],
+"node": null,
+"title": "Secondary reporting summarised at citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Salvatore_Pais"
+]
+}

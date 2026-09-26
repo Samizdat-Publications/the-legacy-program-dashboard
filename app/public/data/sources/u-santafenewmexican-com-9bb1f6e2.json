@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-c420810731",
+"locator": null,
+"node": "l-dulce",
+"nodeLabel": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+"sourceText": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"text": "Gabe Valdez was a New Mexico State Police officer stationed in Dulce in 1976, when he began the livestock-mutilation investigations that made him the central official figure in the region's caseload.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2fcc1ab467",
+"locator": null,
+"node": "gabe-valdez",
+"nodeLabel": "Gabriel L. \"Gabe\" Valdez",
+"sourceText": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"text": "Gabe Valdez was a New Mexico State Police officer stationed in Dulce in 1976 when he began investigating the deaths of cattle and other animals found with soft tissue removed, and he led the criminal investigation into the unsolved New Mexico livestock mutilations of that decade.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9ec58d0d87",
+"locator": null,
+"node": "gabe-valdez",
+"nodeLabel": "Gabriel L. \"Gabe\" Valdez",
+"sourceText": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"text": "The thesis of the 2013 book written from his case files by his son Greg Valdez, as reported by the newspaper, connects the animal deaths to testing for environmental contamination caused by nuclear work on Jicarilla Apache Nation land in the 1960s, and states that the reports began after Project Gasbuggy and ended around 1980 following an FBI report attributing the incidents to natural predators. This is the book's thesis, reported, and is not endorsed here.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "gabe-valdez",
+"label": "Gabriel L. \"Gabe\" Valdez"
+},
+"b": {
+"cls": "location",
+"id": "l-dulce",
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico"
+},
+"claimTier": 2,
+"id": "e-7403f1c300",
+"label": "New Mexico State Police officer stationed at Dulce from 1976",
+"note": "The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-santafenewmexican-com-9bb1f6e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "santafenewmexican.com",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-dulce",
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico"
+},
+{
+"cls": "person",
+"id": "gabe-valdez",
+"label": "Gabriel L. \"Gabe\" Valdez"
+},
+{
+"cls": "event",
+"id": "gasbuggy-1967",
+"label": "Project Gasbuggy, 10 December 1967"
+}
+],
+"node": null,
+"title": "Tom Sharpe, The Santa Fe New Mexican, 'Book claims government behind cattle mutilations'",
+"topics": [
+{
+"claims": [
+"c-9ec58d0d87"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+}
+],
+"type": "article",
+"urls": [
+"https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html"
+]
+}

@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-7269b47911",
+"locator": null,
+"node": "checktheevidence",
+"nodeLabel": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"sourceText": "Andrew Johnson, 'Keeping The Secret Space Programme a Secret', 2 July 2014, http://www.checktheevidence.co.uk/articles/Keeping%20The%20Secret%20Space%20Programme%20a%20Secret.htm , opened 2026-09-18",
+"text": "Johnson's post of 2 July 2014 is the only opened description of the video said to contain an admission, and it records that he could not verify it: 'The video is about an alleged Skype conversation with Edgar Fouche, but I could not see the screen clearly enough in Hilton's video to verify the claims he was making.' It also establishes that the video is David Hilton's and not Jeremy Rys's.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-checktheevidence-co-uk-d62629f8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "checktheevidence.co.uk",
+"listedOn": [
+{
+"cls": "institution",
+"id": "checktheevidence",
+"label": "Check The Evidence (checktheevidence.com), Andrew Johnson"
+}
+],
+"node": null,
+"title": "Andrew Johnson, 'Keeping The Secret Space Programme a Secret'",
+"topics": [
+{
+"claims": [
+"c-7269b47911"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+},
+{
+"claims": [
+"c-7269b47911"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "web page",
+"urls": [
+"http://www.checktheevidence.co.uk/articles/Keeping%20The%20Secret%20Space%20Programme%20a%20Secret.htm"
+]
+}

@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-documents2-theblackvault-7ba44347",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "aawsap-solicitation",
+"label": "DIA Solicitation HHM402-08-R-0211"
+},
+{
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+}
+],
+"node": null,
+"title": "AAWSAP solicitation full text (v.3)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/HHM402-08-R-0211v3.pdf"
+]
+}

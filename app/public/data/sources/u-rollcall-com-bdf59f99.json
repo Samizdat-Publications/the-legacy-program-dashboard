@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": "2024-03-08",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-9c868f4cb4",
+"label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished",
+"note": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "pat-ryder",
+"label": "Patrick S. Ryder"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-5982cb4adb",
+"label": "Released and framed the report as 'the widest possible aperture'",
+"note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
+"type": "denial"
+}
+],
+"era": "3",
+"id": "u-rollcall-com-bdf59f99",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "rollcall.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "pat-ryder",
+"label": "Patrick S. Ryder"
+}
+],
+"node": null,
+"title": "Roll Call - No evidence of extraterrestrial technology, report finds",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/"
+]
+}

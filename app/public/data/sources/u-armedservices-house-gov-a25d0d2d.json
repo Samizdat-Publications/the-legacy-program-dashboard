@@ -1,0 +1,137 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d61e419733",
+"locator": null,
+"node": "adam-smith",
+"nodeLabel": "Adam Smith",
+"sourceText": "https://armedservices.house.gov/about/members.htm",
+"text": "Adam Smith (D-WA 09) is listed as Ranking Member of the House Armed Services Committee on the committee's official members page.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-322a8c2d86",
+"locator": null,
+"node": "mike-rogers-alabama",
+"nodeLabel": "Mike Rogers (Alabama)",
+"sourceText": "https://armedservices.house.gov/about/members.htm",
+"text": "Mike Rogers (R-AL 03) is listed as Chairman of the House Armed Services Committee on the committee's official members page.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "adam-smith",
+"label": "Adam Smith"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-d169e0dc18",
+"label": "seat 8 of 12 - Ranking Member, House Armed Services",
+"note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-465eaee615",
+"label": "no statutory entitlement; not a defense committee chair or ranking member",
+"note": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-3573062eba",
+"label": "no statutory entitlement; not a defense committee chair or ranking member",
+"note": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-0a45b4e393",
+"label": "seat 7 of 12 - Chairman, House Armed Services",
+"note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-a08330f2e8",
+"label": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
+"note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-armedservices-house-gov-a25d0d2d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "adam-smith",
+"label": "Adam Smith"
+},
+{
+"cls": "person",
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+}
+],
+"node": null,
+"title": "https://armedservices.house.gov/about/members.htm",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://armedservices.house.gov/about/members.htm"
+]
+}

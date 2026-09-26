@@ -1,0 +1,97 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "ben-rich",
+"label": "Ben R. Rich"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 3,
+"id": "e-e8881e930c",
+"label": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
+"note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 2,
+"id": "e-a9e26df33c",
+"label": "Corbell publicly challenged the Senate Appropriations Committee to audit Lockheed Martin's special access programs",
+"note": "Speaking alongside Rep. Burchett in March 2023, Corbell named Senators Murray and Collins and the Committee's jurisdiction over spending. Elizondo responded that the inquiry should not be limited to one aerospace company 'but to several others that have likely played a key historical role.'",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-damato",
+"label": "Richard D'Amato"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 3,
+"id": "e-d1429d73f2",
+"label": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
+"note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-liberationtimes-com-0c566428",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+{
+"cls": "person",
+"id": "christopher-sharp",
+"label": "Christopher Sharp"
+},
+{
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+{
+"cls": "person",
+"id": "richard-damato",
+"label": "Richard D'Amato"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings, ' Liberation Times",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+]
+}

@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-c27d92ff11",
+"label": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
+"note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-e732a234e7",
+"label": "one of the two named channels through which US intelligence money is appropriated",
+"note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "crs-r44381",
+"identifiers": [
+"CRS R44381"
+],
+"interestedParty": false,
+"issuer": "Congressional Research Service",
+"listedOn": [],
+"node": null,
+"title": "CRS R44381: Intelligence Community Spending: Trends and Issues",
+"topics": [],
+"type": "report",
+"urls": [
+"https://www.congress.gov/crs-product/R44381"
+]
+}

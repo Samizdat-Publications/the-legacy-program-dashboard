@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dopsr",
+"label": "Defense Office of Prepublication and Security Review"
+},
+"b": {
+"cls": "document",
+"id": "grusch-dopsr-clearance",
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+},
+"claimTier": 1,
+"id": "e-33aa14cb00",
+"label": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
+"note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-b432d645",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "institution",
+"id": "dopsr",
+"label": "Defense Office of Prepublication and Security Review"
+},
+{
+"cls": "document",
+"id": "grusch-dopsr-clearance",
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+}
+],
+"node": null,
+"title": "The Black Vault - DOPSR review documents",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/newly-released-documents-shed-light-on-ufo-whistleblower-david-gruschs-dopsr-review/"
+]
+}

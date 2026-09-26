@@ -10,32 +10,77 @@
 {
 "id": "c-724fa763e7",
 "source": "Congressional Record, Senate, 8 May 1972, pp. 16126-16127, bound edition, https://www.govinfo.gov/content/pkg/GPO-CRECB-1972-pt13/pdf/GPO-CRECB-1972-pt13-3.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-3ae86e25",
+"locator": null,
+"title": "Congressional Record, Senate, 8 May 1972, pp. 16126-16127 (bound edition, 1972 part 13)"
+}
+],
 "text": "The Senate confirmed him on 8 May 1972: the clerk 'read the nomination of Harald Bernard Malmgren, of the District of Columbia, to be a Deputy Special Representative for Trade Negotiations, with the rank of Ambassador', and the presiding officer stated 'Without objection, the nomination is considered and confirmed.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-85e20619f1",
 "source": "Joynes Funeral Home, Inc., obituary record published 27 February 2025, https://www.joynesfuneralhome.com/obituary/Harald-Malmgren",
+"sources": [
+{
+"id": "u-joynesfuneralhome-com-4440d20d",
+"locator": null,
+"title": "Joynes Funeral Home, Inc., obituary record for Harald B. Malmgren"
+}
+],
 "text": "He died on 13 February 2025. The funeral home's published record reads: 'Harald B. Malmgren death notice and obituary, Thursday February 13, 2025. Joynes Funeral Home, Inc. Warrenton, VA 20188.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-df1dc73d90",
 "source": "Pippa Malmgren, biography of Harald Malmgren, reproduced in 'Dr. Harald Malmgren Passed', Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/",
+"sources": [
+{
+"id": "u-sldinfo-com-3989430a",
+"locator": null,
+"title": "Dr. Harald Malmgren Passed, Second Line of Defense, biography by Pippa Malmgren"
+}
+],
 "text": "His daughter's published biography states that Robert McNamara brought him from Cornell, that 'He was assigned to The Institute for Defense Analysis and appointed as the joint liaison between The White House National Security Council and the Joint Chiefs just as the Cuban Missile Crisis began', and that he later headed the Economics Group of the Weapons Systems Evaluation Group. No IDA or Defense Department personnel record was opened for any of it.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-801b50c037",
 "source": "Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/ ; checked against DNA 6040F, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"sources": [
+{
+"id": "u-sldinfo-com-3989430a",
+"locator": null,
+"title": "Dr. Harald Malmgren Passed, Second Line of Defense, biography by Pippa Malmgren"
+},
+{
+"id": "u-archive-org-7f1f1aa6",
+"locator": null,
+"title": "DNA 6040F, Operation DOMINIC I--1962"
+}
+],
 "text": "The Bluegill claim is single-source and posthumous. The same biography says he 'oversaw many missile tests in these roles, including the controversial Blue Gill Triple Prime test which prompted both President Kennedy and Vice President Lyndon Johnson to urgently visit Los Alamos and the Sandia Labs in December 1962'. His name appears zero times in DNA 6040F, the Defense Nuclear Agency's own report on that test series.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-c2dbcb6933",
 "source": "'Remarks at the High School Football Stadium, Los Alamos, New Mexico', 7 December 1962, Public Papers of the Presidents, https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico",
+"sources": [
+{
+"id": "u-presidency-ucsb-edu-85f89f3f",
+"locator": null,
+"title": "Pippa Malmgren biography; Public Papers of the Presidents, 7 December 1962"
+}
+],
 "text": "The December 1962 visit is real, whatever caused it. Kennedy spoke at Los Alamos on 7 December 1962 with the Vice President present, opening 'Dr. Bradbury, Mr. Vice President, Senator Anderson, Congressman Montoya, Congressman Morris'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

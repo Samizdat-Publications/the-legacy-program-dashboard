@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-majesticdocuments-com-c2f19215",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "majesticdocuments.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-m-wood",
+"label": "Dr. Robert M. Wood"
+},
+{
+"cls": "domain",
+"id": "d-mj12",
+"label": "Majestic-12 Corpus"
+},
+{
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+}
+],
+"node": null,
+"title": "The Majestic Documents - About",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://majesticdocuments.com/about/",
+"https://www.majesticdocuments.com/about/"
+]
+}

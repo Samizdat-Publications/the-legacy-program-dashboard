@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c385df01b5",
+"locator": null,
+"node": "rosa-delauro",
+"nodeLabel": "Rosa L. DeLauro",
+"sourceText": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro",
+"text": "Rosa L. DeLauro (D-CT) is identified as Ranking Member of the House Appropriations Committee on the committee minority's official site.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "rosa-delauro",
+"label": "Rosa L. DeLauro"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-f8b9e9cab1",
+"label": "seat 10 of 12 - Ranking Member, House Appropriations",
+"note": "In the group continuously across the 118th and 119th Congresses.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-democrats-appropriations-7e289da3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Appropriations Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "rosa-delauro",
+"label": "Rosa L. DeLauro"
+}
+],
+"node": null,
+"title": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro"
+]
+}

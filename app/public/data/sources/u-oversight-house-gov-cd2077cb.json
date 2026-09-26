@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-oversight-house-gov-cd2077cb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+}
+],
+"node": null,
+"title": "House Oversight - Declassification of Federal Secrets",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/category/declassification-of-federal-secrets"
+]
+}

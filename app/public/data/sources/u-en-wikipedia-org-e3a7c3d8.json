@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "unidentified-history-series",
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 2,
+"id": "e-91df7be7e9",
+"label": "TTSA production, executive produced by Tom DeLonge, History Channel 2019-2020",
+"note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-e3a7c3d8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "event",
+"id": "unidentified-history-series",
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)"
+}
+],
+"node": null,
+"title": "Wikipedia — Unidentified: Inside America's UFO Investigation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Unidentified:_Inside_America's_UFO_Investigation"
+]
+}

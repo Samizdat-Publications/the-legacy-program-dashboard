@@ -7,20 +7,48 @@
 {
 "id": "c-2f4de2d1ed",
 "source": "GPO CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "CHRG-118hhrg57440, CHRG-119hhrg61718",
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+},
+{
+"id": "chrg-118hhrg57440",
+"locator": "CHRG-119hhrg61718",
+"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+},
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Held the three House UAP hearings of 26 July 2023, 13 November 2024 and 9 September 2025, all printed by the Government Publishing Office.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9724a1df3a",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Its chairwoman placed on the record that DoD restricted UAP SAP read-ins to HASC and HAC-D members, requiring approval from the chairman and ranking member of both for any other member.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-40e772e25c",
 "source": "Inference from the three hearing records and oversight.house.gov",
+"sources": [],
 "text": "No UAP subpoena has issued from the committee across three years and three hearings despite on-record member requests for one in 2023, 2024 and 2026. Reasoning: none appears in the hearings' printed document indexes or in committee releases located through August 2026.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

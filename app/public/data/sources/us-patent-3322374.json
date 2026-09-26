@@ -1,0 +1,283 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-654821aa52",
+"locator": "'Magnetohydrodynamic Propulsion Apparatus', , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "A DOCUMENT OFFERED AS EVIDENCE FOR THIS ACCOUNT DOES NOT CONTAIN THE WORD IT IS OFFERED FOR. US 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', King, 1967, was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of Mark McCandlish's ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages of the patent: SCALAR 0, SPIN 0, gravity 0, anti-gravity 0, zero point 0. The patent is real, openable and mundane, and the assertion made about it is checkable and wrong.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-654821aa52",
+"locator": null,
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "A DOCUMENT OFFERED AS EVIDENCE FOR THIS ACCOUNT DOES NOT CONTAIN THE WORD IT IS OFFERED FOR. US 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', King, 1967, was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of Mark McCandlish's ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages of the patent: SCALAR 0, SPIN 0, gravity 0, anti-gravity 0, zero point 0. The patent is real, openable and mundane, and the assertion made about it is checkable and wrong.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f6cd6a6416",
+"locator": "US 2,949,550 and US 3,187,206 against the board's existing claims on arv-fluxliner, opened 2026-09-19",
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "Reasoning over the opened texts of US 3,322,374, US 2,949,550 and US 3,187,206 against the board's existing claims on arv-fluxliner, opened 2026-09-19",
+"text": "Stated inference, and it is the strand's classification of this cluster. The ARV account and the TR-3B account make the same move in two different directions: the ARV account takes a real document that claims one thing and reads it as claiming another, and the King citation takes a real document that mentions neither scalar physics nor gravity and offers it as proof of both. Neither is a dispute about evidence. Both are citations that have never been placed beside the documents they name.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-6f71241c93",
+"locator": "opened 2026-09-19",
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"sourceText": "Reasoning over the released text of DIA-08-1011-006 against the opened text of US 3,322,374, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "Stated inference, and it is the strand's comparison. The board already records that this DIRD is attributed on the DIA list supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin'. A government agency paid a Lockheed Martin plasma physicist to survey magnetohydrodynamic propulsion under the same programme the lore invokes, and what he delivered concerns scramjet inlets, virtual cowls and reentry drag reduction. NOTHING JOINS THIS DOCUMENT TO US 3,322,374 and the edge between them records a similarity of subject only.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-93c62dc61b",
+"locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "NO ASSIGNEE, NO GOVERNMENT INTEREST AND NO SECRECY ORDER APPEAR IN THE DOCUMENT. The words 'assignor', 'assigned', 'government', 'Navy', 'Army', 'NASA' and 'secrecy' appear zero times across all seven pages. The inventor is a private individual at a home address.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-93c62dc61b",
+"locator": null,
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "NO ASSIGNEE, NO GOVERNMENT INTEREST AND NO SECRECY ORDER APPEAR IN THE DOCUMENT. The words 'assignor', 'assigned', 'government', 'Navy', 'Army', 'NASA' and 'secrecy' appear zero times across all seven pages. The inventor is a private individual at a home address.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a37187f95b",
+"locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND IS NEVER EVIDENCE THAT THE THING WORKS. What US 3,322,374 claims is magnetohydrodynamic propulsion: coils along the craft's axis driven by polyphase alternating current produce a travelling point of maximum magnetic flux density running from the leading to the trailing end, which induces eddy currents in the surrounding ionised fluid and drives that fluid backwards. The patent is a linear induction motor using the atmosphere as its armature.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a37187f95b",
+"locator": null,
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND IS NEVER EVIDENCE THAT THE THING WORKS. What US 3,322,374 claims is magnetohydrodynamic propulsion: coils along the craft's axis driven by polyphase alternating current produce a travelling point of maximum magnetic flux density running from the leading to the trailing end, which induces eddy currents in the surrounding ionised fluid and drives that fluid backwards. The patent is a linear induction motor using the atmosphere as its armature.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d1765ef8ec",
+"locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d1765ef8ec",
+"locator": null,
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e2b8df3ec4",
+"locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "THE ZERO-COUNTS, WHICH ARE THE POINT, because a count is checkable and an adjective is not. Across all seven pages of US 3,322,374: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. The one apparent hit for 'air force' is the phrase 'the ionized air force vector'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e2b8df3ec4",
+"locator": null,
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "THE ZERO-COUNTS, WHICH ARE THE POINT, because a count is checkable and an adjective is not. Across all seven pages of US 3,322,374: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. The one apparent hit for 'air force' is the phrase 'the ionized air force vector'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fe53bb50b0",
+"locator": "against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, , opened 2026-09-18",
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "Reasoning over the opened text of US 3,322,374 against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18",
+"text": "Stated inference, and it is the strand's whole product. The patent was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. The document contains the word scalar zero times and the word spin zero times. The gap between the citation and the document is not a matter of interpretation and requires no expertise to check.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-fe53bb50b0",
+"locator": null,
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "Reasoning over the opened text of US 3,322,374 against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18",
+"text": "Stated inference, and it is the strand's whole product. The patent was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. The document contains the word scalar zero times and the word spin zero times. The gap between the citation and the document is not a matter of interpretation and requires no expertise to check.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-227b7ce895",
+"locator": "opened 2026-09-19",
+"node": "yamato-1",
+"nodeLabel": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+"sourceText": "Reasoning over the OSTI abstract for the YAMATO-1 paper against the opened text of US 3,322,374, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
+"text": "Stated inference, and it is short. The propulsion mechanism US 3,322,374 claims is magnetohydrodynamic, and magnetohydrodynamic propulsion was demonstrated at sea by a civil foundation in June 1992, in public, under a named chairman, with the results reported at an international conference. THE INFERENCE IS THAT THE MECHANISM DOES NOT REQUIRE A SECRET TO EXIST and nothing more. It is not an argument about what was or was not recovered, and no edge from this node asserts one.",
+"tier": 3
+}
+],
+"date": "1964-09-30",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"b": {
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"claimTier": 1,
+"id": "e-fffece6570",
+"label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
+"note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"b": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"claimTier": 3,
+"id": "e-99452bcd03",
+"label": "In the strand because of what was claimed for it, not because of what is in it",
+"note": "THE PATENT ITSELF IS NOT EXOTIC. It is a linear induction motor using ionised air as its armature, which is classical electromagnetism. It sits in this domain solely because it was cited as evidence for scalar physics, and the strand's product is the gap between the citation and the document.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"b": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"claimTier": 3,
+"id": "e-e818fd4c1b",
+"label": "Same mechanism, two documents, forty-three years apart, neither exotic",
+"note": "STATED INFERENCE OF SIMILARITY AND NOTHING MORE. Nothing joins these two documents to each other: the DIRD does not cite the patent and the patent predates it by forty-three years. The edge exists so the strand's comparison is visible, and its note must be read before the line is: a private 1964 filing and a 2010 Lockheed Martin survey describe the same physics and neither contains the word antigravity.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "yamato-1",
+"label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)"
+},
+"b": {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"claimTier": 3,
+"id": "e-08b7e5fa8d",
+"label": "The same mechanism, independently built and taken to sea in June 1992",
+"note": "STATED INFERENCE. NO DOCUMENT JOINS THESE TWO and neither cites the other. The edge records that the propulsion mechanism US 3,322,374 claims was demonstrated at sea by a civil maritime foundation in public in 1992, which is the strand's control case: the mechanism does not require a secret to exist.",
+"type": "research"
+}
+],
+"era": "0",
+"id": "us-patent-3322374",
+"identifiers": [
+"US Patent 3,322,374"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+{
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+}
+],
+"node": {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"title": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"topics": [
+{
+"claims": [
+"c-93c62dc61b",
+"c-93c62dc61b",
+"c-a37187f95b",
+"c-a37187f95b",
+"c-d1765ef8ec",
+"c-d1765ef8ec",
+"c-e2b8df3ec4",
+"c-e2b8df3ec4",
+"c-fe53bb50b0",
+"c-fe53bb50b0",
+"c-227b7ce895"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+},
+{
+"claims": [
+"c-654821aa52",
+"c-654821aa52",
+"c-f6cd6a6416"
+],
+"id": "arv-fluxliner",
+"title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+}
+],
+"type": "document",
+"urls": [
+"https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+]
+}

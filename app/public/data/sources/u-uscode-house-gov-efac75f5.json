@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-22820e8ed6",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim",
+"text": "Pub. L. 114-328 sec. 1061(c)(4) lists 'Section 119(a) and (b)' among terminated reporting requirements, and sec. 1061(b)(1) ends them after 31 December 2021. The OLRC note under section 119 records the termination as effective 31 December 2021.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-uscode-house-gov-efac75f5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim",
+"topics": [
+{
+"claims": [
+"c-22820e8ed6"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim"
+]
+}

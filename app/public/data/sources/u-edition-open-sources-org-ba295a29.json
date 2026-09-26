@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+},
+"b": {
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+"claimTier": 2,
+"id": "e-a37eca98c8",
+"label": "Trimble proposed RIAS as an industrial institute for advanced study",
+"note": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 3,
+"id": "e-d52c23f842",
+"label": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
+"note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-edition-open-sources-org-ba295a29",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "edition-open-sources.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+{
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+{
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+}
+],
+"node": null,
+"title": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"topics": [],
+"type": "book",
+"urls": [
+"https://edition-open-sources.org/sources/5/3/index.html"
+]
+}

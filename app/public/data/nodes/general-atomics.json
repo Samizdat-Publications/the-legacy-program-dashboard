@@ -7,14 +7,18 @@
 {
 "id": "c-2e0b7e0322",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [],
 "text": "USAspending records approximately $41 billion in prime contract obligations across General Atomics entities since FY2008.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-70ca866c4b",
 "source": "Board inference from SEC reporting requirements versus private company status",
+"sources": [],
 "text": "A privately held prime has no securities-disclosure obligation that would surface holdings or agreements of the kind To The Stars Academy was required to file with the SEC. Reasoning: comparison of the disclosure regimes; no allegation of material custody at General Atomics exists in any public record.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

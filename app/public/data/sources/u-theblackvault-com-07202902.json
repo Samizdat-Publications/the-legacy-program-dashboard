@@ -1,0 +1,367 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ad68c42958",
+"locator": null,
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"sourceText": "The Black Vault, 'Richard Doty Personnel File - New Mexico State Police', 20 May 2021, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/ , opened 2026-09-19",
+"text": "His complete releasable New Mexico State Police personnel file runs to 321 pages and 39.5 MB, was obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and was released by the New Mexico Department of Public Safety with redactions on 20 May 2021. The landing page does not print his Air Force service dates, rank progression or separation: those are inside the PDF and the PDF was not opened by this session.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 1,
+"id": "e-8eb8e51aaf",
+"label": "AFOSI District 17 file generated at Kirtland AFB",
+"note": "The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"b": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"claimTier": 1,
+"id": "e-98f2a0d120",
+"label": "AFOSI is the originating agency of the released Kirtland UFO file",
+"note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"b": {
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+"claimTier": 1,
+"id": "e-32a9162402",
+"label": "AFOSI investigated the 1980 intrusions at the nuclear weapons storage area",
+"note": "The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-counterintel",
+"label": "Counterintelligence"
+},
+"b": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"claimTier": 1,
+"id": "e-5c1ff77fec",
+"label": "Same service, both functions",
+"note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "linda-moulton-howe",
+"label": "Linda Moulton Howe"
+},
+"b": {
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+"claimTier": 2,
+"id": "e-cf2ae4991f",
+"label": "Howe is the only named witness to the AQUARIUS paper's text",
+"note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-178d97fef7",
+"label": "AARO's 2024 historical review makes no mention of Bennewitz, Doty, AFOSI or Kirtland",
+"note": "The best-documented instance of US government disinformation about UFOs directed at an American citizen is entirely absent from the government's own historical review of the subject.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"claimTier": 1,
+"id": "e-b8b3af9d03",
+"label": "Bennewitz's reporting generated the AFOSI Kirtland file",
+"note": "The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "institution",
+"id": "thunder-scientific",
+"label": "Thunder Scientific Corporation"
+},
+"claimTier": 2,
+"id": "e-a335a6d40b",
+"label": "Bennewitz founded and ran Thunder Scientific, a USAF instrumentation vendor",
+"note": "The company's location gave sightlines to the Manzano Weapons Storage Area at Kirtland; Bennewitz had the technical capability to record and characterise emissions.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"b": {
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents"
+},
+"claimTier": 2,
+"id": "e-25b998b015",
+"label": "Fabricated material as the delivery vehicle",
+"note": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"claimTier": 2,
+"id": "e-aeae96bb94",
+"label": "Doty was the AFOSI special agent associated with the Kirtland UFO file",
+"note": "Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"claimTier": 1,
+"id": "e-0a6163a5ef",
+"label": "Documented AFOSI special agent at Kirtland, 1980",
+"note": "Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "person",
+"id": "linda-moulton-howe",
+"label": "Linda Moulton Howe"
+},
+"claimTier": 2,
+"id": "e-da75d605db",
+"label": "Doty showed Howe a purported classified briefing paper at Kirtland, April 1983",
+"note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-2290621189",
+"label": "Two-sided: the reported admission, and his own recorded denial of harm",
+"note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "document",
+"id": "doty-personnel-file",
+"label": "Richard Doty New Mexico State Police Personnel File [321 pages]"
+},
+"claimTier": 1,
+"id": "e-94be6f6e5f",
+"label": "321-page New Mexico State Police personnel file released 2021",
+"note": "Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 3,
+"id": "e-4832d0ecc1",
+"label": "The Bennewitz method and the alleged YANKEE BLUE practice are the same technique at different scale",
+"note": "Doty's documented AFOSI activity - feeding fabricated alien-technology material to a target to protect classified programmes - is the same technique Yankee Blue applied internally to cleared personnel. The inference is about method, not about Doty's involvement in Yankee Blue.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"claimTier": 1,
+"id": "e-0fcbfaf5ff",
+"label": "AFOSI states it holds no records of any YANKEE BLUE investigation",
+"note": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-07202902",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+{
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "person",
+"id": "linda-moulton-howe",
+"label": "Linda Moulton Howe"
+},
+{
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+{
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+{
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+{
+"cls": "document",
+"id": "doty-personnel-file",
+"label": "Richard Doty New Mexico State Police Personnel File [321 pages]"
+},
+{
+"cls": "institution",
+"id": "thunder-scientific",
+"label": "Thunder Scientific Corporation"
+},
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
+"node": null,
+"title": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"topics": [
+{
+"claims": [
+"c-ad68c42958"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+]
+}

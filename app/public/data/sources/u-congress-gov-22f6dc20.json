@@ -1,0 +1,111 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6748a44390",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "HHRG-118-GO12-20241113-SD003, pages 1 and 11, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The introduction names the report's structure: 'In this public version of the report, information is organized into seven categories of evidence, including: an Unacknowledged Special Access Program (uSAP); Imagery Intelligence (IMINT); human intelligence (HUMINT); signals intelligence (SIGINT); USG bureaucratic records; USG historical records; and other sensitive sources.' The body runs as Sections 1 to 7 in that order, Section 7 'Sensitive Sources' consisting of the single sentence 'From mouth to ear.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8fd6935124",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "HHRG-118-GO12-20241113-SD003, all twelve pages, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The document as submitted and published by the committee is twelve scanned pages with no text layer. Pages 1 to 11 run continuously from the heading 'Introduction' to the end of 'VI. Conclusion' and its closing line 'Scientia Igne Probata; Veritas Per Fidem'; page 12 is blank. No cover letter, transmittal, author name, classification marking or control number appears on any of the twelve pages.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ab28a691c3",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "Immaculate Constellation report as submitted to the House Oversight joint subcommittee hearing of 13 November 2024, committee repository document HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The report's own first page states who cleared the public version: 'This public version of the author's report was reviewed and approved for public release by the Department of State, Bureau of Global Public Affairs.' The bureau is Global Public Affairs.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bdc0b10f4b",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "HHRG-118-GO12-20241113-SD003, pages 3 to 5, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "Section 2, USG Imagery Intelligence, catalogues nine incidents, each headed by the combatant command it came from. Two are CENTCOM, headed 'CENTCOM Cuboid Formation of Metallic Orbs' and 'CENTCOM Fast Mover Observed Transiting Over Sensitive Facilities'; four are INDOPACOM, two NORTHCOM and one SOUTHCOM. The nine is the incident count; the seven elsewhere in the report is its count of evidence categories, not of incidents.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-da02d7effb",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The introduction names the mechanism under which the report reached Congress: the investigation was 'provided to Congress through the UAP whistleblower mechanisms established by the FY23 National Defense Authorization Act, and the FY23 National Intelligence Authorization Act.' The report names the two as separate authorities.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fadb4db0e1",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf ; and the committee repository item, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The report is not in the Congressional Record copy this node cites. The GPO hearing print CHRG-118hhrg57440 lists the report in its Index of Documents and then says 'The documents listed above are available at: docs.house.gov'; the words Global, CENTCOM, cover letter and signals intelligence occur nowhere in that print. The document itself is committee repository item HHRG-118-GO12-20241113-SD003.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-congress-gov-22f6dc20",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+}
+],
+"node": null,
+"title": "Immaculate Constellation report as submitted, House Oversight committee repository, HHRG-118-GO12-20241113-SD003",
+"topics": [
+{
+"claims": [
+"c-6748a44390",
+"c-8fd6935124",
+"c-ab28a691c3",
+"c-bdc0b10f4b",
+"c-da02d7effb",
+"c-fadb4db0e1"
+],
+"id": "immaculate-constellation",
+"title": "Immaculate Constellation: the 2024 allegation"
+},
+{
+"claims": [
+"c-6748a44390",
+"c-8fd6935124",
+"c-ab28a691c3",
+"c-bdc0b10f4b",
+"c-da02d7effb",
+"c-fadb4db0e1"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
+}
+],
+"type": "document",
+"urls": [
+"https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+]
+}

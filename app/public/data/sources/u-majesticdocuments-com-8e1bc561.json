@@ -1,0 +1,97 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-m-wood",
+"label": "Dr. Robert M. Wood"
+},
+"b": {
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+},
+"claimTier": 1,
+"id": "e-c8f09a7e02",
+"label": "Co-principal of the document archive and its rating scheme",
+"note": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+},
+"b": {
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+},
+"claimTier": 1,
+"id": "e-7637a7be80",
+"label": "Co-principal of the document archive",
+"note": "Same copyright notice and About page attribution.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+},
+"claimTier": 1,
+"id": "e-a5debf93b7",
+"label": "The archive's core corpus entered the record through Moore's mailbox",
+"note": "The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-majesticdocuments-com-8e1bc561",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "majesticdocuments.com",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents"
+},
+{
+"cls": "person",
+"id": "robert-m-wood",
+"label": "Dr. Robert M. Wood"
+},
+{
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+{
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+},
+{
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+}
+],
+"node": null,
+"title": "The Majestic Documents (Wood & Wood)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://majesticdocuments.com/"
+]
+}

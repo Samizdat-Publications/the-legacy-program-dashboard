@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "afit-townsend-2008",
+"label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-3b2c2d4b07",
+"label": "written at the Air Force Institute of Technology, Wright-Patterson AFB",
+"note": "Title page: 'Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio. APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.'",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "dtic-ada478890",
+"identifiers": [
+"DTIC ADA478890"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "document",
+"id": "afit-townsend-2008",
+"label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+}
+],
+"node": null,
+"title": "DTIC ADA478890",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_ADA478890"
+]
+}

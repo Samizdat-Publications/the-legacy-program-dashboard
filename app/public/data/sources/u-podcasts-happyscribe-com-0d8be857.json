@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f95d9b580d",
+"locator": null,
+"node": "jason-sands",
+"nodeLabel": "Jason Sands",
+"sourceText": "Transcript host page, https://podcasts.happyscribe.com/the-joe-rogan-experience/2264-lenval-logan-jason-sands , opened 2026-09-18",
+"text": "On The Joe Rogan Experience #2264, appearing with Lenval Logan, Sands stated his service in his own words: 'I'm a retired master sergeant from the air Force. Worked 22 years, retired 2007. Started off as an airframe guy, ended up in intel.' A named man on a recording, self-reporting. The episode's publication date was not established from any page opened.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-podcasts-happyscribe-com-0d8be857",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "podcasts.happyscribe.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "jason-sands",
+"label": "Jason Sands"
+}
+],
+"node": null,
+"title": "The Joe Rogan Experience #2264 with Lenval Logan and Jason Sands, third-party transcript host",
+"topics": [
+{
+"claims": [
+"c-f95d9b580d"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "broadcast",
+"urls": [
+"https://podcasts.happyscribe.com/the-joe-rogan-experience/2264-lenval-logan-jason-sands"
+]
+}

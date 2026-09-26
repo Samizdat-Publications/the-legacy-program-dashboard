@@ -1,0 +1,157 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-013d4e4b86",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/",
+"text": "Air Force money and Air Force logistics reached it through a named laboratory: Joshua Goldberg, 'in charge of aspects of the Air Force's funding of general relativity, in the \"modern physics research branch\" (based at the Aeronautical Research Laboratory at Wright Patterson Air Force Base)', gave a $5,000 grant and secured Military Air Transport Service flights for conference participants from eleven nations.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4f6923e17c",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/",
+"text": "Every piece of the Institute's publicity was to carry a disclaimer, written into its design by John Wheeler. The 'Protection Clause' reads in part: 'The work in field physics and gravitation theory carried on at the University of North Carolina at Chapel Hill, and financed by the Institute of Field Physics, as fundraising agency, has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a45422e6db",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/",
+"text": "Martin money reached the Institute directly: Trimble and the Glenn Martin Company 'purchase[d] a \"Founder's Membership\" for the Institute of Field Physics, for the considerable sum of $5000, they also offered their support to solicit further funding'. The same source records that Louis Witten 'was the first researcher hired by RIAS, of the Glenn Martin Company', and identifies the Glenn L. Martin Company as 'now Lockheed-Martin'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f277e64747",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "History of the Institute of Field Physics (1955-1959), Dean Rickles, UNC Chapel Hill Department of Physics and Astronomy department history, Section II, https://physics.unc.edu/department-history/section-ii/",
+"text": "The Institute was incorporated and sited deliberately inside a university: 'The IOFP received its certificate of incorporation on September 7, 1955.' 'The plan of the IOFP was to house an institute within an academic institution, so as to avoid the conflict that physicists felt working in an industrial setting. The chosen location was the physics department at the University of North Carolina, Chapel Hill.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8fdbdf4650",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025; checked against History of the Institute of Field Physics (1955-1959), https://physics.unc.edu/department-history/section-ii/",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 32, 4 April 2025, Jesse Michels placed a 1957 Thomas Townsend Brown demonstration at a laboratory the captions render as 'Bonsen Labs' and at 'the Institute of Field Physics'. The UNC department history of the Institute, read in full, contains no occurrence of Townsend Brown, of Bahnson Laboratories, or of Gordon Gray.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+"b": {
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+"claimTier": 1,
+"id": "e-b06204b20b",
+"label": "Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000",
+"note": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+"b": {
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+"claimTier": 1,
+"id": "e-7adae31730",
+"label": "Witten took part in the Institute's inaugural Chapel Hill conference",
+"note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+"b": {
+"cls": "domain",
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+},
+"claimTier": 1,
+"id": "e-9302032cfa",
+"label": "Standing written disclaimer of any connection to anti-gravity research",
+"note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+"b": {
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+},
+"claimTier": 1,
+"id": "e-5e2f5ae8fc",
+"label": "The academic counterpart to the Martin company's own institute, deliberately kept separate",
+"note": "The same source describes the Martin company standing up what 'would become RIAS' at the same moment, and says the Institute of Field Physics was placed inside a university 'so as to avoid the conflict that physicists felt working in an industrial setting'.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-physics-unc-edu-3cc48a73",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "physics.unc.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+}
+],
+"node": null,
+"title": "History of the Institute of Field Physics (1955-1959), Section II",
+"topics": [
+{
+"claims": [
+"c-013d4e4b86",
+"c-4f6923e17c",
+"c-a45422e6db",
+"c-f277e64747",
+"c-8fdbdf4650"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "web page",
+"urls": [
+"https://physics.unc.edu/department-history/section-ii/"
+]
+}

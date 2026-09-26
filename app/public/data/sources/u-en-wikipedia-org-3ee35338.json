@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-608d01611f",
+"label": "Nolan vouched for Grusch before the July 2023 hearing",
+"note": "Leslie Kean told Ezra Klein in June 2023 that Nolan 'knows David Grusch very well and vouches for him' - the technical layer's credibility being lent to the whistleblower strand.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-3ee35338",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "institution",
+"id": "stanford-nolan-lab",
+"label": "Nolan Laboratory, Stanford University School of Medicine"
+}
+],
+"node": null,
+"title": "Wikipedia: Garry Nolan",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Garry_Nolan"
+]
+}

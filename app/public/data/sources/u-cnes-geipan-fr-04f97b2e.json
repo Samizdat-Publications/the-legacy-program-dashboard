@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-cnes-geipan-fr-04f97b2e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CNES GEIPAN",
+"listedOn": [
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+}
+],
+"node": null,
+"title": "https://cnes-geipan.fr/en/search/cas",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://cnes-geipan.fr/en/search/cas"
+]
+}

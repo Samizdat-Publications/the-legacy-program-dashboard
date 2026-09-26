@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mark-peters",
+"label": "Mark Todd Peters"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-79750c2513",
+"label": "Came to MITRE directly from Battelle's executive suite",
+"note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-mitre-org-8c69888b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "person",
+"id": "mark-peters",
+"label": "Mark Todd Peters"
+}
+],
+"node": null,
+"title": "MITRE - Mark Peters biography",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/who-we-are/our-people/mark-peters"
+]
+}

@@ -1,0 +1,170 @@
+{
+"archived": [
+"https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-information-papers",
+"label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)"
+},
+"claimTier": 1,
+"id": "e-d58e165218",
+"label": "Explanatory output on flaring, parallax, workshops and the NPS CTX issue",
+"note": "AARO publishes analytic methodology continuously while withholding Volume II and its video holdings.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 1,
+"id": "e-72e44b85a8",
+"label": "AARO contracted ORNL in 2022 to test the magnesium alloy specimen",
+"note": "AARO's own words: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-2dc09b6bdd",
+"label": "Council announced 17 June 2026, between Releases 03 and 04",
+"note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-68acec5606",
+"label": "AARO points the public to NARA and asserts it is transferring records",
+"note": "AARO's UAP Records page links first to the National Archives collection, and the Department states AARO has made progress transferring records in accordance with federal law.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"claimTier": 1,
+"id": "e-c94c08f95e",
+"label": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
+"note": "Released publicly July 2024; concluded the material is a terrestrial magnesium alloy, while stating that neither AARO nor ORNL could verify the specimen's historical origin.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 2,
+"id": "e-4881201fcb",
+"label": "AARO's founding director left government for the laboratory that analysed AARO's specimen",
+"note": "Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at ORNL, a UT-Battelle laboratory that had supported AARO during his tenure.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-aaro-mil-f7e34018",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+{
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+{
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+{
+"cls": "document",
+"id": "aaro-information-papers",
+"label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)"
+},
+{
+"cls": "document",
+"id": "aaro-kona-blue-release",
+"label": "AARO/DHS release: History and Origin of KONA BLUE"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+{
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "AARO - UAP Records page",
+"topics": [],
+"type": "archive index",
+"urls": [
+"https://www.aaro.mil/UAP-Records/"
+]
+}

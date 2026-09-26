@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-7e72a62305",
+"locator": null,
+"node": "l-loring",
+"nodeLabel": "Loring AFB, Maine",
+"sourceText": "The War Zone, https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base , opened 2026-09-19",
+"text": "A Loring operations report records: 'It is our opinion that the unknown helicopter has demonstrated a clear intent in the weapons storage area, is smart and a most capable aviator.' This is the phrase from which Fawcett and Greenwood took the title of their 1984 book.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-e4efa34130",
+"locator": null,
+"node": "strategic-air-command",
+"nodeLabel": "Strategic Air Command (SAC)",
+"sourceText": "NICAP, http://www.nicap.org/intsac.htm , and The War Zone, https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base , both opened 2026-09-19",
+"text": "Several SAC bases in the northern tier were placed on a high priority Security Option 3 alert during the October and November 1975 intrusions over atomic weapons storage areas, and a SAC security police message of October 1975 was captioned 'Defense Against Helicopter Assault'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-twz-com-9fffe506",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "event",
+"id": "loring-1975",
+"label": "Loring AFB penetrations, 27 to 31 October 1975"
+},
+{
+"cls": "location",
+"id": "l-loring",
+"label": "Loring AFB, Maine"
+},
+{
+"cls": "document",
+"id": "doc-nmcc-loring-1975",
+"label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975"
+},
+{
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+}
+],
+"node": null,
+"title": "The War Zone (TWZ), 'The Mysterious Cold War Case Of Unidentified Aircraft Descending On Loring Air Force Base', quoting the Loring OPREP phrase about clear intent in the weapons storage area and a SAC message captioned 'Defense Against Helicopter Assault'. Opened 19 September 2026",
+"topics": [
+{
+"claims": [
+"c-7e72a62305",
+"c-e4efa34130"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+}
+],
+"type": "article",
+"urls": [
+"https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+]
+}

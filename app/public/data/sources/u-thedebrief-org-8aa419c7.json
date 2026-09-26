@@ -1,0 +1,121 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "institution",
+"id": "the-debrief",
+"label": "The Debrief"
+},
+"claimTier": 1,
+"id": "e-9de889acc5",
+"label": "The Debrief published the Grusch story the NYT did not run",
+"note": "The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "micah-hanks",
+"label": "Micah Hanks"
+},
+"b": {
+"cls": "institution",
+"id": "the-debrief",
+"label": "The Debrief"
+},
+"claimTier": 1,
+"id": "e-2cdc0e2c56",
+"label": "Co-founder, Creator and Editor-in-Chief",
+"note": "Named on The Debrief's About page.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-a08e6bb75a",
+"label": "The New York Times did not publish the 2023 Grusch story",
+"note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-debrief",
+"label": "The Debrief"
+},
+"b": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 3,
+"id": "e-84d979aab0",
+"label": "Successor venue to the 2017 New York Times story",
+"note": "The 2017 NYT article and the 2023 Debrief article share two of three authors and a continuous line of argument; the change of venue between them is a data point about institutional appetite, not about the reporting.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-mcmillan",
+"label": "Tim McMillan"
+},
+"b": {
+"cls": "institution",
+"id": "the-debrief",
+"label": "The Debrief"
+},
+"claimTier": 1,
+"id": "e-db9e130e37",
+"label": "Co-founder and Executive Director",
+"note": "Named on The Debrief's About page as Co-Founder and Executive Director.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-thedebrief-org-8aa419c7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "micah-hanks",
+"label": "Micah Hanks"
+},
+{
+"cls": "institution",
+"id": "the-debrief",
+"label": "The Debrief"
+},
+{
+"cls": "person",
+"id": "tim-mcmillan",
+"label": "Tim McMillan"
+}
+],
+"node": null,
+"title": "The Debrief - About",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/about/"
+]
+}

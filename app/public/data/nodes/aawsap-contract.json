@@ -7,56 +7,110 @@
 {
 "id": "c-f2a0b9e9e5",
 "source": "DIA release FOIA-00349-2018, 13 October 2022",
+"sources": [
+{
+"id": "foia-dia-00349-2018",
+"locator": "13 October 2022",
+"title": "DIA FOIA-00349-2018"
+}
+],
 "text": "Contract HHM402-08-C-0072, awarded 22 September 2008, firm fixed price, $10,000,000 base, to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fef1e54ecd",
 "source": "DIA release FOIA-00349-2018",
+"sources": [
+{
+"id": "foia-dia-00349-2018",
+"locator": null,
+"title": "DIA FOIA-00349-2018"
+}
+],
 "text": "All key government personnel names — contracting officer, COR and Government Project Leader — are redacted in the released contract under 10 USC 424.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cd9ea952f0",
 "source": "Jack Brewer, The UFO Trail, March 2022",
+"sources": [],
 "text": "DIA withheld the AAWSAP contract in a 2011 FOIA response, releasing it only in October 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-13af230c78",
 "source": "DIA release Contract_FY10.pdf",
+"sources": [],
 "text": "A modification of contract exercising the FY10 option period was executed 2 September 2009.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e7cb2abfc7",
 "source": "Inference from the base value against the AARO-confirmed $22M appropriation",
+"sources": [],
 "text": "A $10M base with four options against a $22M total appropriation indicates roughly $12M was obligated across the option years, but no obligation-by-year record has been released and the contract does not appear in public USAspending data because DIA procurement is exempt from FPDS reporting under 10 USC 424.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-024d9c7ea4",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"sources": [
+{
+"id": "u-dia-mil-59258008",
+"locator": null,
+"title": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)"
+}
+],
 "text": "Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d9fe8e3474",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/",
+"sources": [
+{
+"id": "u-dia-mil-039f21e4",
+"locator": null,
+"title": "DIA briefing 'Advanced Aerospace Weapon System Applications Contract Status', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release)"
+}
+],
 "text": "DIA's own 16 December 2008 status briefing is headed 'Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072' and describes the contract focus as 'Advanced (unconventional) aerospace weapon' technologies.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c5da84a5f0",
 "source": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22",
+"sources": [
+{
+"id": "u-fpds-gov-2b686ca9",
+"locator": null,
+"title": "fpds.gov"
+}
+],
 "text": "The contract does not appear in public federal contract data: an FPDS-NG ATOM query for PIID \"HHM402-08-C-0072\" returns an empty result feed, and USAspending.gov returns 404 for the corresponding generated award IDs.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6b7d049ee2",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"sources": [
+{
+"id": "u-dia-mil-59258008",
+"locator": null,
+"title": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)"
+}
+],
 "text": "Absence from FPDS/USAspending is expected for DIA Virginia Contracting Activity awards (intelligence-community contracting is generally excluded from public reporting), but it means the only public award record for a $22M program is the FOIA-released paper. Dollar-value line items on the modification are illegible/redacted in the released scan.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

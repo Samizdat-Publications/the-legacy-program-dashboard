@@ -1,0 +1,76 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-892c6f3fac",
+"locator": null,
+"node": "deep-submergence-systems-project",
+"nodeLabel": "Deep Submergence Systems Project (DSSP)",
+"sourceText": "David Taylor Model Basin Report 1985, March 1965, DTIC AD-614632, https://archive.org/details/DTIC_AD0614632",
+"text": "Its stated objectives are rescue and recovery: 'Two primary objectives of the DSSP are to develop the capability of rescuing personnel from distressed submarines and to locate and recover small objects from the ocean depths.' Planned force in 1965 was six rescue vehicles and four search vehicles operational by 1970.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-8d1506e27c",
+"locator": null,
+"node": "deep-submergence-systems-project",
+"nodeLabel": "Deep Submergence Systems Project (DSSP)",
+"sourceText": "M. Krenzke, K. Horn and J. Proffitt, Potential Hull Structures for Rescue and Search Vehicles of the Deep-Submergence Systems Project, David Taylor Model Basin Report 1985, March 1965, DTIC AD-614632, https://archive.org/details/DTIC_AD0614632",
+"text": "The programme has a dated origin and a named parent. 'The Deep-Submergence Systems Review Group (DSSRG) was established in April 1963 to (1) review the Navy's plans for the development and procurement of components and systems related to location, identification, rescue from and recovery of deep-submerged large objects from the ocean floor.' Then: 'In February 1964 the Group reported its findings and recommendations. After review of the report, the Secretary of the Navy assigned the responsibility for implementation of the program, which was renamed the Deep-Submergence Systems Project (DSSP), to the Navy's Special Projects Office.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-cc252c5bd3",
+"locator": null,
+"node": "deep-submergence-systems-project",
+"nodeLabel": "Deep Submergence Systems Project (DSSP)",
+"sourceText": "David Taylor Model Basin Report 1985, March 1965, DTIC AD-614632, https://archive.org/details/DTIC_AD0614632",
+"text": "The 20,000 foot capability belongs to the search vehicle, not the rescue vehicle. The search vehicle's primary missions are 'to search the ocean bottom to depths of 20,000 ft for either large or small objects and to recover small objects either by actually lifting them or by making an attachment to the object so that a surface lift, or buoyancy lift, can be accomplished', while the study states of the rescue vehicle that 'Only operating depths of 6000 ft are considered in this study.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "deep-submergence-systems-project",
+"label": "Deep Submergence Systems Project (DSSP)"
+},
+"b": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"claimTier": 1,
+"id": "e-f69bbf9dd3",
+"label": "Assigned by the Secretary of the Navy to the Special Projects Office, February 1964",
+"note": "After the Deep-Submergence Systems Review Group reported in February 1964, the Secretary of the Navy assigned implementation of the programme, renamed DSSP, to the Navy's Special Projects Office; by 1967 it was a separate project within the Naval Material Command, and its project office carried the designator PM-11.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "dtic-ad0614632",
+"identifiers": [
+"DTIC AD0614632"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "program",
+"id": "deep-submergence-systems-project",
+"label": "Deep Submergence Systems Project (DSSP)"
+}
+],
+"node": null,
+"title": "DTIC AD0614632",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_AD0614632"
+]
+}

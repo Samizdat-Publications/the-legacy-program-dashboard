@@ -7,14 +7,18 @@
 {
 "id": "c-96f54ca9c7",
 "source": "Rep. Eric Burlison press release, 26 May 2026",
+"sources": [],
 "text": "Burlison's 26 May 2026 press release names the Beacon Hill Study together with 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, NARA and Record Group 615.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c7d46f682c",
 "source": "Inference from Burlison's press release pairing of the two items",
+"sources": [],
 "text": "Ruppelt's March 1952 briefing being held by Lincoln Laboratory and named alongside Beacon Hill indicates the Blue Book directorate briefed the reconnaissance study group directly. Reasoning: the film designation, date and custodian align with the study's timeframe and location; no minutes have been produced.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "program",

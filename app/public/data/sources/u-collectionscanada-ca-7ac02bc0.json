@@ -1,0 +1,30 @@
+{
+"archived": [
+"https://web.archive.org/web/20060119031333/http://www.collectionscanada.ca/ufo/index-e.html"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-collectionscanada-ca-7ac02bc0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "collectionscanada.ca",
+"listedOn": [
+{
+"cls": "institution",
+"id": "lac-ufo-collection",
+"label": "Library and Archives Canada - UFO records collection"
+},
+{
+"cls": "person",
+"id": "wilbert-smith",
+"label": "Wilbert Brockhouse Smith"
+}
+],
+"node": null,
+"title": "LAC - Canada's UFOs exhibition (introduction)",
+"topics": [],
+"type": "web page",
+"urls": []
+}

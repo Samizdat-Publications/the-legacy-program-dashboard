@@ -7,26 +7,52 @@
 {
 "id": "c-08eb1e4096",
 "source": "Guide to Federal Records in the National Archives of the United States, Record Group 330, section 330.11",
+"sources": [
+{
+"id": "nara-rg-330",
+"locator": "section 330.11",
+"title": "NARA Record Group 330"
+}
+],
 "text": "The Research and Development Board was 'Established as the Research and Development Board by the National Security Act of 1947 (61 Stat. 495), July 26, 1947. Abolished by Reorganization Plan No. 6 of 1953, effective June 30, 1953, and superseded by Office of the Assistant Secretary of Defense (Research and Development).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-71af001021",
 "source": "Guide to Federal Records in the National Archives, Record Group 330, section 330.11",
+"sources": [
+{
+"id": "nara-rg-330",
+"locator": "section 330.11",
+"title": "NARA Record Group 330"
+}
+],
 "text": "Its successor office was 'Redesignated Office of the Director of Defense Research and Engineering by DOD Reorganization Act of 1958 (72 Stat. 514), August 6, 1958.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f9d241c165",
 "source": "Guide to Federal Records in the National Archives, Record Group 330, section 330.11.3",
+"sources": [
+{
+"id": "nara-rg-330",
+"locator": "section 330.11.3",
+"title": "NARA Record Group 330"
+}
+],
 "text": "NARA's finding aid lists surviving textual records of the Board at section 330.11.3, including 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8376727a91",
 "source": "Letter to Dr. Vannevar Bush Upon His Appointment as Chairman, Research and Development Board, 25 September 1947, Public Papers of the Presidents",
+"sources": [],
 "text": "Truman's letter to Vannevar Bush of 25 September 1947 records both the appointment and the predecessor body: 'I am happy to know that you are willing to continue in the public service as Chairman of the Research and Development Board created by the National Security Act of 1947 ... Since V-J Day you have continued to render valuable service as chairman of the Joint Research and Development Board set up by the Secretaries of War and Navy.' The commonly cited 1941 founding date is wrong by six years.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "institution",

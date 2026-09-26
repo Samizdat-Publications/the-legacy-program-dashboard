@@ -1,0 +1,27 @@
+{
+"archived": [
+"https://web.archive.org/web/20260521071347/https://comptroller.war.gov/odcfo/afr2025.aspx"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-comptroller-war-gov-c6a7d44b",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+}
+],
+"node": null,
+"title": "DoD Agency Financial Report FY2025",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://comptroller.war.gov/odcfo/afr2025.aspx"
+]
+}

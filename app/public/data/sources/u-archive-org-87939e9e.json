@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+},
+"b": {
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+"claimTier": 2,
+"id": "e-909515bf6f",
+"label": "Compiled the crash-retrieval catalogue",
+"note": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-archive-org-87939e9e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+{
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+}
+],
+"node": null,
+"title": "Majic Eyes Only (Ryan S. Wood) - copy at the Internet Archive",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/majic-eyes-only-earths-encounters-with-extraterrestrial-ryan-s-wood-1st-edition-"
+]
+}

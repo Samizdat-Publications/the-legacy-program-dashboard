@@ -1,0 +1,435 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-1d03e14580",
+"locator": null,
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "NMCC Memorandum for Record and DDO updates, http://www.nicap.org/reports/751027loring_1-6.htm , against the 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , both opened 2026-09-19",
+"text": "THE LORING TRAFFIC NEVER SAYS UFO. Its vocabulary is 'unidentified helicopter', 'intruder' and 'AFB Penetration' throughout. The NORAD logs do say UFO, repeatedly, in their own voice. The distinction belongs in the node, because the strength of the Loring material is that it is a nuclear security record rather than a UFO record.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-48ecbd64a8",
+"locator": null,
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "24th NORAD Region Senior Directors Log as released, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The 24th NORAD Region log pages carry stamps 450, 451 and 452 and a control number 000974 over the release line of Terrence C. James, Colonel, USAF, Director of Administration, which establishes that the released 1975 material is an extract from a paginated compilation of at least 452 pages, most of which this board has never seen.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-80ba35e142",
+"locator": null,
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , against the CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , both opened 2026-09-19",
+"text": "A NAMING DISCREPANCY INSIDE NORAD'S OWN RECORDS, UNRESOLVED. The 24th NORAD Region Senior Director's Log for 10 November 1975 records the sighting at 'Minot Air Force Station' and says the object 'passed over the radar station'. The CINCNORAD four-part message of 11 November 1975 instead lists 'Minot AFB, ND'. Minot Air Force Station is a radar site and is not the 91st Strategic Missile Wing's missile field. Nothing opened by this board resolves which installation the sequence means, and this board does not choose one.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5ae65c0a7d",
+"locator": null,
+"node": "doc-norad-24th-log-1975",
+"nodeLabel": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"sourceText": "24th NORAD Region Senior Directors Log as released, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The release attestation reads 'TERRENCE C. JAMES, Colonel, USAF, Director of Administration', with 'Cy to: HQ USAF/DAD, HQ USAF/JACL'. The extracted pages carry stamps 450, 451 and 452 and a control number 000974, establishing that the log is an extract from a larger paginated FOIA compilation of at least 452 pages.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-834e313553",
+"locator": null,
+"node": "doc-norad-24th-log-1975",
+"nodeLabel": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"sourceText": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The log records its own negatives as readily as its sightings: after the 7 Nov 1327Z entry, 'all this time, surveillance has not been able to detect any sort of track except for known traffic'; on 9 Nov at 0320Z the FAA watch supervisor reporting United Flight 157 seeing a meteor; and on 12 Nov at 0251Z 'Never had any joy (contact) on radar.' Its final entry is marked in the original as the last pertaining to these incidents.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d0efd30392",
+"locator": null,
+"node": "doc-norad-24th-log-1975",
+"nodeLabel": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"sourceText": "Full text read by this session, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "THE ARCHIVE ITEM IS MISTITLED AND THE BOARD SHOULD SAY SO. The archive.org item is captioned 'Malmstrom Air Force Base Incident - March 16, 1967 NORAD logs'. Its contents are the 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 and it contains nothing about 16 March 1967. Anyone citing this item for the 1967 Echo Flight incident is citing the wrong document.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-8e66f1924e",
+"locator": null,
+"node": "l-malmstrom",
+"nodeLabel": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"sourceText": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The 1975 record at this installation is a continuous operational log, not a report. The 24th NORAD Region Senior Director's Log covers 7 to 19 November 1975 with timed entries naming missile sites M-1, L-3, Lima, L-6, K-1, K-4, L-1, E-1, M-8, R-3 and R-4, the Harlowton launch control facility, radar track J330, and two F-106s scrambled at 0754Z on 8 November. Its final entry is marked in the original as the last pertaining to these incidents.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-a7d9f2e7c3",
+"locator": null,
+"node": "l-malmstrom",
+"nodeLabel": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"sourceText": "24th NORAD Region Senior Directors Log, 8 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The non-interception detail that the board's existing claim attributes to FOIA case 97-F-1677 is independently corroborated by the log's own words: '8 Nov 75 (0905Z) - From SAC CP: L-sites had fighters and objects; fighters did not get down to objects.' and '8 Nov 75 (0915Z) - From SAC CP: From four different points: Observed objects and fighters; when fighters arrived in the area, the lights went out; when fighters departed, the lights came back on; to NCOC.' Note that The Black Vault's landing page for 97-F-1677 reproduces no document text, so the log is the better citation for this claim.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-215d89ff52",
+"locator": null,
+"node": "malmstrom-1975",
+"nodeLabel": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+"sourceText": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "THE LOG RECORDS ITS OWN NEGATIVES, WHICH IS WHY IT IS WORTH TIER 1. After the 7 Nov 1327Z entry it notes: 'all this time, surveillance has not been able to detect any sort of track except for known traffic.' On 9 Nov 0320Z the FAA watch supervisor reported five air carriers in the vicinity and United Flight 157 reported seeing a meteor, arc welder's blue in colour. On 12 Nov 0251Z: 'Reported that both objects have disappeared. Never had any joy (contact) on radar.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-5cfdd8db7c",
+"locator": null,
+"node": "malmstrom-1975",
+"nodeLabel": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+"sourceText": "24th NORAD Region Senior Directors Log, 19 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The log's final entry is marked in the original as the last pertaining to these incidents: '19 Nov 75 (1327Z) - SAC command post report UFO observed by FSC & a cook, observed object travelling NE between M-8 and M-l at a fast rate of speed. Object bright white light seen 45 to 50 sec following terrain 200 ft off ground. The light was two to three times brighter than landing lights on a jet.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7e64ecf50a",
+"locator": null,
+"node": "malmstrom-1975",
+"nodeLabel": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+"sourceText": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The log opens: '7 Nov 75 (1035Z) - Received a call from the 341st Strategic Air Command Post (SAC CP), saying that the following missile locations reported seeing a large red to orange to yellow objects M-l, L-3, LIMA and L-6. The general object location would be 10 miles south of Moore, Montana, and 20 miles east of Buffalo, Montana. Commander and Deputy for Operations (DO) informed.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-df657bebee",
+"locator": null,
+"node": "malmstrom-1975",
+"nodeLabel": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+"sourceText": "24th NORAD Region Senior Directors Log, 8 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The interception sequence is in the log's own words. '8 Nov 75 (0753Z) - J330 unknown 0753. Stationary/seven knots/12,000... two F-106, GTF, SCR 0754. NCOC notified.' '8 Nov 75 (0820Z) - Lost radar contact, fighters broken off at 0825.' '8 Nov 75 (0905Z) - From SAC CP: L-sites had fighters and objects; fighters did not get down to objects.' '8 Nov 75 (0915Z) - From SAC CP: From four different points: Observed objects and fighters; when fighters arrived in the area, the lights went out; when fighters departed, the lights came back on; to NCOC.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7d14959e0b",
+"locator": null,
+"node": "minot-1966",
+"nodeLabel": "Minot AFB incursions, 1966",
+"sourceText": "CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , against the 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , both opened 2026-09-19",
+"text": "Minot recurs in the 1975 sequence, nine years after the 1966 incursions, but the two NORAD documents disagree about which Minot installation is meant. CINCNORAD's four-part message of 11 November 1975 lists 'Minot AFB, ND'; the 24th NORAD Region Senior Director's Log for 10 November 1975 records the sighting at 'Minot Air Force Station' and says the object 'passed over the radar station'. The board carries the discrepancy rather than folding the radar-station entry into the missile-field record.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-3a1349efc2",
+"locator": null,
+"node": "l-minot",
+"nodeLabel": "Minot AFB, North Dakota",
+"sourceText": "24th NORAD Region Senior Directors Log, 10 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; CINCNORAD message of 11 November 1975 as excerpted at http://www.nicap.org/intsac.htm ; both opened 2026-09-19",
+"text": "THE NAMING DISCREPANCY, STATED RATHER THAN RESOLVED. The 24th NORAD Region Senior Director's Log for 10 November 1975 reads: 'UFO sighting reported by Minot Air Force Station, a bright star-like object in the West, moving east, about the size of a car. First seen approximately 1015Z. Approximately 1120Z the object passed over the radar station, 1,000 feet to 2,000 feet high, no noise heard. Three people from the site or local area saw the object.' The CINCNORAD four-part message of 11 November 1975 instead lists 'Minot AFB, ND'. Minot Air Force Station is a radar site and is not the 91st Strategic Missile Wing's missile field. No opened record resolves which installation the 1975 sequence means.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-b2a4354d03",
+"locator": null,
+"node": "d-nuclear",
+"nodeLabel": "Nuclear Security & Restricted Data",
+"sourceText": "http://www.nicap.org/reports/751027loring_1-6.htm ; https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; https://minotb52ufo.com/doc.php ; https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; http://www.nicap.org/articles/CI-Wurtsmith.htm ; all opened 2026-09-19",
+"text": "The contemporaneous-paper half of that split is real and checkable. It includes the National Military Command Center's Memorandum for Record of 29 October 1975 on the Loring penetration; the 24th NORAD Region Senior Director's Log for 7 to 19 November 1975; the Project Blue Book Minot file of October and November 1968 with seven AF Form 117 witness questionnaires; the Project Blue Book telephone log of 1 August 1965 for F. E. Warren; and the 379th Bombardment Wing historian's file of January 1979. All were opened by this board on 19 September 2026.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9113af4936",
+"locator": null,
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"sourceText": "341st SMW histories, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf ; 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; F. E. Warren 1965 Blue Book log, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; all opened 2026-09-19",
+"text": "THE COUNTERWEIGHT, ON THE SAME NODE. His method is not testimony alone, and the documentary half of his output is checkable and largely checks out. This board independently opened and read in full the 341st Strategic Missile Wing histories he relies on, the 24th NORAD Region Senior Director's Log for November 1975 that he republishes, and the F. E. Warren AFB Project Blue Book telephone log of 1 August 1965 first published by J. Allen Hynek in 1972. All three are real, and say what he says they say. The board grades the document half and the interview half of his output differently inside the same node.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-dd65ecee06",
+"locator": null,
+"node": "strategic-air-command",
+"nodeLabel": "Strategic Air Command (SAC)",
+"sourceText": "24th NORAD Region Senior Directors Log, November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 is largely a record of calls from Strategic Air Command posts, opening '7 Nov 75 (1035Z) - Received a call from the 341st Strategic Air Command Post (SAC CP)' and repeatedly attributing missile-site reports to 'From SAC CP'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"claimTier": 2,
+"id": "e-3186ae5494",
+"label": "Minot is named in the sequence, but two NORAD documents name two different Minot installations",
+"note": "THE DISCREPANCY IS THE POINT OF THIS EDGE. The 24th NORAD Region log of 10 November 1975 says 'Minot Air Force Station' and 'the radar station'; CINCNORAD's message of 11 November says 'Minot AFB, ND'. Unresolved. Do not let a degree count on l-minot silently absorb a radar-station entry.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 1,
+"id": "e-e78fa5072e",
+"label": "The log is the 24th NORAD Region's at Malmstrom AFB",
+"note": "Its own heading reads '24th NORAD Region Senior Directors Log (Malmstrom AFB, Montana)'.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+"claimTier": 1,
+"id": "e-247362e85a",
+"label": "The log IS the event's record; there is no separate report",
+"note": "A continuous operational log kept by air defence controllers, released over a USAF colonel's signature.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+"b": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"claimTier": 1,
+"id": "e-9c0c8093ae",
+"label": "Its 10 November entry reports a sighting at Minot Air Force Station, not Minot AFB",
+"note": "The entry's own next clause says the object 'passed over the radar station'. This edge exists so the ambiguity is visible on the hub rather than assumed away.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"b": {
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+},
+"claimTier": 1,
+"id": "e-7b4398d0ae",
+"label": "SAC installation; 341st Strategic Missile Wing",
+"note": "SAC Headquarters called in OOAMA support for the Echo Flight engineering analysis within hours on 16 March 1967; the 1975 NORAD log is largely a record of calls from the 341st Strategic Air Command Post.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-ad800305ea",
+"label": "Third and longest episode, 7 to 19 November 1975",
+"note": "CINCNORAD's message names Malmstrom; the 24th NORAD Region log runs eight days past the message and is marked in the original as ending these incidents.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 1,
+"id": "e-8417aebd48",
+"label": "Thirteen days of reports from this wing's Minuteman launch facilities",
+"note": "The 24th NORAD Region Senior Director's Log is kept at Malmstrom and names its missile sites throughout.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-6044292251",
+"label": "NORAD was the detection and identification authority across the sequence",
+"note": "The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"b": {
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+"claimTier": 1,
+"id": "e-c8394a3a8c",
+"label": "Produced by the 24th NORAD Region's own senior directors",
+"note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+"claimTier": 1,
+"id": "e-2f1d027c6b",
+"label": "Republishes the NORAD log; the documentary half of his output checks out",
+"note": "THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-archive-org-8805ff8f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+{
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+{
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966"
+},
+{
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+{
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+},
+{
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+}
+],
+"node": null,
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"topics": [
+{
+"claims": [
+"c-1d03e14580",
+"c-48ecbd64a8",
+"c-80ba35e142",
+"c-5ae65c0a7d",
+"c-834e313553",
+"c-d0efd30392",
+"c-8e66f1924e",
+"c-215d89ff52",
+"c-7e64ecf50a",
+"c-df657bebee",
+"c-3a1349efc2"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+},
+{
+"claims": [
+"c-9113af4936",
+"c-dd65ecee06"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+},
+{
+"claims": [
+"c-9113af4936"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+]
+}

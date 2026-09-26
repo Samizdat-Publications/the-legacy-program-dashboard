@@ -7,20 +7,32 @@
 {
 "id": "c-ff6a66f157",
 "source": "National Archives, Information Security Oversight Office",
+"sources": [],
 "text": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', with authority from Executive Order 13526 and Executive Order 13556.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-181f49a616",
 "source": "National Archives, Information Security Oversight Office",
+"sources": [],
 "text": "ISOO publishes an Annual Report to the President with statistics and analysis on Classified National Security Information and Controlled Unclassified Information; the FY2024 report is published.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3fa8125ccf",
 "source": "Inference from ISOO's NISP responsibilities under EO 13526",
+"sources": [
+{
+"id": "eo-13526",
+"locator": null,
+"title": "Executive Order 13526 - Classified National Security Information"
+}
+],
 "text": "ISOO's oversight of the National Industrial Security Program is the only government-wide mechanism that could detect a contractor-held program without a government sponsor of record, and it has never been directed at the UAP question. Reasoning: NISP covers classified work at cleared facilities regardless of which agency sponsors it.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

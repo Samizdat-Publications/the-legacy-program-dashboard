@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-decd947291",
+"locator": null,
+"node": "haines-cia-history",
+"nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"sourceText": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+"text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e2e5a4d707",
+"locator": null,
+"node": "haines-cia-history",
+"nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"sourceText": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+"text": "The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-nicap-org-fbc67b25",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+{
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+{
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+}
+],
+"node": null,
+"title": "Haines article, mirrored full text",
+"topics": [
+{
+"claims": [
+"c-decd947291",
+"c-e2e5a4d707"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+},
+{
+"claims": [
+"c-decd947291"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.nicap.org/ciarole.htm"
+]
+}

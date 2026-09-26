@@ -7,20 +7,44 @@
 {
 "id": "c-0790deb5d0",
 "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-letterboxd-com-18474e51",
+"locator": null,
+"title": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers"
+}
+],
 "text": "The artefact: 'Bob Lazar: Area 51 and Flying Saucers', 2018, 97 minutes, directed by Jeremy Kenyon Lockyer Corbell, narrated by Mickey Rourke, featuring Bob Lazar, George Knapp and Joy White.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7beb8c1804",
 "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-letterboxd-com-18474e51",
+"locator": null,
+"title": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers"
+}
+],
 "text": "A CORRECTION TO THE DATE IN GENERAL CIRCULATION. Letterboxd lists three release dates across two territories and two formats: United States digital, 1 November 2018; United Kingdom physical, 4 December 2018; United States physical, 8 December 2018. The widely repeated '4 December 2018' is the United Kingdom physical date, not the release. IMDb returned HTTP 403 to this board on 18 September 2026 and no distributor record was opened, so the node asserts a range and not a single date.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-23aaa1b22b",
 "source": "Tim McMillan, Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-vice-com-e899dd02",
+"locator": null,
+"title": "Tim McMillan, Vice"
+}
+],
 "text": "It is the route by which the 19 July 2017 search of United Nuclear Scientific entered the UFO literature. Tim McMillan's 2019 reporting, which established that the search was an agency assist to a homicide investigation into a thallium death, describes the motivation for the records request as the discussion of the raid in this documentary.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

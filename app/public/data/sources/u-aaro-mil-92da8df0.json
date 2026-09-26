@@ -1,0 +1,45 @@
+{
+"archived": [
+"https://web.archive.org/web/20260508180208/https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-0031c6245c",
+"label": "Director of AARO from August 2024",
+"note": "Kosloski was named AARO's full-time director in August 2024 and testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on 19 November 2024.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-aaro-mil-92da8df0",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "AARO - Kosloski Statement for the Record, SASC (PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf"
+]
+}

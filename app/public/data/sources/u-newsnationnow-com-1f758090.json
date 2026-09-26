@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-newsnationnow-com-1f758090",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-international",
+"label": "International & Allied Programs"
+},
+{
+"cls": "event",
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+},
+{
+"cls": "location",
+"id": "l-varginha",
+"label": "Varginha, Minas Gerais, Brazil"
+}
+],
+"node": null,
+"title": "NewsNation - Lawmaker asks FBI, CIA for info on Brazil's Roswell moment",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/ufo/varginha-burlison-fbi-cia/"
+]
+}

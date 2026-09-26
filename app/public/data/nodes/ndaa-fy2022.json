@@ -7,44 +7,100 @@
 {
 "id": "c-de7ea874d7",
 "source": "PL 117-81 sec. 1683(a), 135 Stat. 2118-2119",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "sec. 1683(a), 135 Stat. 2118-2119",
+"title": "Public Law 117-81"
+}
+],
 "text": "Sec. 1683 carries the note '50 USC 3373' and is titled 'ESTABLISHMENT OF OFFICE, ORGANIZATIONAL STRUCTURE, AND AUTHORITIES TO ADDRESS UNIDENTIFIED AERIAL PHENOMENA'. Sec. 1683(a) required the Secretary of Defense, in coordination with the DNI, within 180 days of enactment, to establish an office 'to carry out the duties of the Unidentified Aerial Phenomena Task Force, as in effect on the day before the date of enactment of this Act'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4df969851f",
 "source": "PL 117-81 sec. 1683(c), 135 Stat. 2119",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "sec. 1683(c), 135 Stat. 2119",
+"title": "Public Law 117-81"
+}
+],
 "text": "Sec. 1683(c) requires the Secretary and DNI to designate 'one or more line organizations within the Department of Defense and the intelligence community that possess appropriate expertise, authorities, accesses, data, systems, platforms, and capabilities to rapidly respond to, and conduct field investigations of, incidents involving unidentified aerial phenomena' and to ensure those organizations have 'adequate personnel with the requisite expertise, equipment, transportation, and other resources necessary to respond rapidly'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e249e4d20c",
 "source": "PL 117-81 sec. 1683(d), 135 Stat. 2119-2120",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "sec. 1683(d), 135 Stat. 2119-2120",
+"title": "Public Law 117-81"
+}
+],
 "text": "Sec. 1683(d)(1) directs designation of line organizations 'primarily responsible for scientific, technical, and operational analysis of data gathered by field investigations ... including with respect to the testing of materials, medical studies, and development of theoretical models'. Sec. 1683(d)(2) requires directives ensuring each such organization 'has authority to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-73702e6a81",
 "source": "PL 117-81 sec. 1683(f), 135 Stat. 2120-2121",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "sec. 1683(f), 135 Stat. 2120-2121",
+"title": "Public Law 117-81"
+}
+],
 "text": "Sec. 1683(f) requires a science plan to 'account for characteristics and performance of unidentified aerial phenomena that exceed the known state of the art in science or technology, including in the areas of propulsion, aerodynamic control, signatures, structures, materials, sensors, countermeasures, weapons, electronics, and power generation' and to 'provide the foundation for potential future investments to replicate any such advanced characteristics and performance.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1948ea680e",
 "source": "PL 117-81 sec. 1683(e)(2), 135 Stat. 2120",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "sec. 1683(e)(2), 135 Stat. 2120",
+"title": "Public Law 117-81"
+}
+],
 "text": "Sec. 1683(e)(2) requires an intelligence collection and analysis plan 'to gain as much knowledge as possible regarding the technical and operational characteristics, origins, and intentions of unidentified aerial phenomena'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-002490dfce",
 "source": "PL 117-81 sec. 1683(e)(1)(B), 135 Stat. 2120",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "sec. 1683(e)(1)(B), 135 Stat. 2120",
+"title": "Public Law 117-81"
+}
+],
 "text": "Sec. 1683(e)(1)(B) requires that DoD and IC military, civilian AND CONTRACTOR personnel 'have access to procedures by which the personnel shall report incidents or information, including adverse physiological effects, involving or associated with unidentified aerial phenomena directly to the Office'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-30d78b14d8",
 "source": "PLAW-117publ81 enactment line",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "enactment line",
+"title": "Public Law 117-81"
+}
+],
 "text": "PL 117-81 was 'Approved December 27, 2021.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

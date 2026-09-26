@@ -1,0 +1,116 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-afe4a3cbdf",
+"locator": null,
+"node": "boston-university",
+"nodeLabel": "Boston University",
+"sourceText": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"text": "Laurence J. Kotlikoff is a Professor of Economics at Boston University and co-authored three Forbes columns with Mark Skidmore on the $21 trillion figure.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-981042a3ed",
+"locator": null,
+"node": "laurence-kotlikoff",
+"nodeLabel": "Laurence J. Kotlikoff",
+"sourceText": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"text": "Kotlikoff co-authored three Forbes columns with Mark Skidmore on the $21 trillion unsupported adjustment aggregate, in December 2017, July 2018 and January 2019.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d90fb036b1",
+"locator": null,
+"node": "mark-skidmore",
+"nodeLabel": "Mark Skidmore",
+"sourceText": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"text": "Skidmore co-authored three Forbes columns with Laurence Kotlikoff on the $21 trillion figure, in December 2017, July 2018 and January 2019.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "laurence-kotlikoff",
+"label": "Laurence J. Kotlikoff"
+},
+"b": {
+"cls": "institution",
+"id": "boston-university",
+"label": "Boston University"
+},
+"claimTier": 2,
+"id": "e-6d6899acfb",
+"label": "Professor of Economics",
+"note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "laurence-kotlikoff",
+"label": "Laurence J. Kotlikoff"
+},
+"b": {
+"cls": "person",
+"id": "mark-skidmore",
+"label": "Mark Skidmore"
+},
+"claimTier": 2,
+"id": "e-66034eeda4",
+"label": "Co-authored three Forbes columns carrying the figure into the financial press",
+"note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-mark-skidmore-com-d829c583",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mark-skidmore.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "boston-university",
+"label": "Boston University"
+},
+{
+"cls": "person",
+"id": "laurence-kotlikoff",
+"label": "Laurence J. Kotlikoff"
+},
+{
+"cls": "person",
+"id": "mark-skidmore",
+"label": "Mark Skidmore"
+},
+{
+"cls": "document",
+"id": "skidmore-fitts-report",
+"label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)"
+}
+],
+"node": null,
+"title": "Mark Skidmore, research in finance and public finance",
+"topics": [
+{
+"claims": [
+"c-afe4a3cbdf",
+"c-981042a3ed",
+"c-d90fb036b1"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "web page",
+"urls": [
+"https://mark-skidmore.com/research/research-in-finance-public-finance/"
+]
+}

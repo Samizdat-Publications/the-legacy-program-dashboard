@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9c6827d11b",
+"locator": null,
+"node": "bob-fish",
+"nodeLabel": "Bob Fish",
+"sourceText": "WikiLeaks, The Podesta Emails, email id 31721, 'Leslie Kean book - Blue Book', https://wikileaks.org/podesta-emails/emailid/31721",
+"text": "In a separate email of 6 March 2015 Fish relays a claim that Project Blue Book continued after 1970, concluding 'if true, Blue Book was not disbanded - only the outer layer of the onion (the \"public information layer) was stripped away in 1970.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-wikileaks-org-5457b3e1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "WikiLeaks",
+"listedOn": [
+{
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+}
+],
+"node": null,
+"title": "WikiLeaks, The Podesta Emails, email id 31721",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://wikileaks.org/podesta-emails/emailid/31721"
+]
+}

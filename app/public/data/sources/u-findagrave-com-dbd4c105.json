@@ -1,0 +1,67 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-73eddf8639",
+"locator": null,
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sourceText": "Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz , opened 2026-09-19",
+"text": "Paul Frederick Bennewitz Jr, whose company sat where it overlooked the Manzano storage area, was born 30 September 1927 and died 23 June 2003, and is buried at Santa Fe National Cemetery, Section 12 Site 402, under a marker reading 'S1C US COAST GUARD WORLD WAR II'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-da45fd543e",
+"locator": null,
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"sourceText": "Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz , opened 2026-09-19",
+"text": "THE BURIAL RECORD, WHICH THE LITERATURE NEVER CARRIES. Paul Frederick Bennewitz Jr, 30 September 1927 to 23 June 2003, buried at Santa Fe National Cemetery, Santa Fe County, New Mexico, Section 12 Site 402, marker inscribed 'S1C US COAST GUARD WORLD WAR II'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-findagrave-com-dbd4c105",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "findagrave.com",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+{
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+}
+],
+"node": null,
+"title": "Find a Grave memorial 17482201, Paul Frederick Bennewitz Jr, Santa Fe National Cemetery",
+"topics": [
+{
+"claims": [
+"c-73eddf8639",
+"c-da45fd543e"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-da45fd543e"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz"
+]
+}

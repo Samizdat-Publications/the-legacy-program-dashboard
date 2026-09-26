@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"claimTier": 1,
+"id": "e-df8cd95edb",
+"label": "Sponsor of S. 2226 and Senate conference principal",
+"note": "Reed introduced the vehicle on 11 July 2023 and signed the conference product that removed his own chamber's passed division.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+"b": {
+"cls": "institution",
+"id": "senate-armed-services",
+"label": "Senate Armed Services Committee"
+},
+"claimTier": 1,
+"id": "e-cf687dd264",
+"label": "Chairman 2021-2025",
+"note": "Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-ffb1c0ae15",
+"label": "seat 2 of 12 - Ranking Member, Senate Armed Services",
+"note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-35c61332",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+}
+],
+"node": null,
+"title": "Congress.gov — S. 2226",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/bill/118th-congress/senate-bill/2226"
+]
+}

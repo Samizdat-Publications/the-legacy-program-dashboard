@@ -1,0 +1,27 @@
+{
+"archived": [
+"https://web.archive.org/web/20201021110139/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol3.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "dodm-5205-07-v3",
+"identifiers": [
+"DoDM 5205.07, Volume 3"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+}
+],
+"node": null,
+"title": "DoDM 5205.07, Volume 3: DoD SAP Security Manual: Physical Security",
+"topics": [],
+"type": "regulation",
+"urls": []
+}

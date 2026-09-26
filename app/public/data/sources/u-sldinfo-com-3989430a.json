@@ -1,0 +1,89 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-df1dc73d90",
+"locator": null,
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"sourceText": "Pippa Malmgren, biography of Harald Malmgren, reproduced in 'Dr. Harald Malmgren Passed', Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/",
+"text": "His daughter's published biography states that Robert McNamara brought him from Cornell, that 'He was assigned to The Institute for Defense Analysis and appointed as the joint liaison between The White House National Security Council and the Joint Chiefs just as the Cuban Missile Crisis began', and that he later headed the Economics Group of the Weapons Systems Evaluation Group. No IDA or Defense Department personnel record was opened for any of it.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-801b50c037",
+"locator": null,
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"sourceText": "Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/ ; checked against DNA 6040F, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The Bluegill claim is single-source and posthumous. The same biography says he 'oversaw many missile tests in these roles, including the controversial Blue Gill Triple Prime test which prompted both President Kennedy and Vice President Lyndon Johnson to urgently visit Los Alamos and the Sandia Labs in December 1962'. His name appears zero times in DNA 6040F, the Defense Nuclear Agency's own report on that test series.",
+"tier": 3
+}
+],
+"date": "2025-02",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+},
+"b": {
+"cls": "institution",
+"id": "ida",
+"label": "Institute for Defense Analyses"
+},
+"claimTier": 2,
+"id": "e-cd0fae33a2",
+"label": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
+"note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+},
+"b": {
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+"claimTier": 3,
+"id": "e-725c11436a",
+"label": "Named as the cause of the December 1962 presidential visit",
+"note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
+"type": "temporal"
+}
+],
+"era": "3",
+"id": "u-sldinfo-com-3989430a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "sldinfo.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+}
+],
+"node": null,
+"title": "Dr. Harald Malmgren Passed, Second Line of Defense, biography by Pippa Malmgren",
+"topics": [
+{
+"claims": [
+"c-801b50c037"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "web page",
+"urls": [
+"https://sldinfo.com/2025/02/dr-harald-malmgren-passed/"
+]
+}

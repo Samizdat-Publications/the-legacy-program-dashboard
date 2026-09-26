@@ -1,0 +1,134 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-d49c9fa7ee",
+"locator": null,
+"node": "los-alamos-monitor-1982",
+"nodeLabel": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"sourceText": "Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
+"text": "The artefact and its load-bearing sentence. Headline 'LA Man Joins The Jet Set - At 200 Miles An Hour', by Terry England, Monitor Staff Writer, Sunday 27 June 1982, Los Alamos Monitor, pages A1 and A8. The sentence, verbatim: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.'",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-7d82067f86",
+"locator": null,
+"node": "l-los-alamos",
+"nodeLabel": "Los Alamos, New Mexico",
+"sourceText": "Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
+"text": "The Los Alamos Monitor of Sunday 27 June 1982 carried a front-page story by staff writer Terry England, 'LA Man Joins The Jet Set - At 200 Miles An Hour', pages A1 and A8, about a jet-powered Honda built by Bob Lazar, describing him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. This is the earliest dated artefact in the Lazar cluster and it predates the UFO claim by seven years.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e660f7d675",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
+"text": "The Los Alamos Monitor of Sunday 27 June 1982, pages A1 and A8, in a front-page story by staff writer Terry England about a jet-powered Honda Lazar had built, describes him in the newspaper's own voice: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "los-alamos-monitor-1982",
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'"
+},
+"b": {
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+"claimTier": 1,
+"id": "e-74247f9f9d",
+"label": "The newspaper, the facility and the event are all in Los Alamos",
+"note": "A local daily, naming the Los Alamos Meson Physics Facility.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "los-alamos-monitor-1982",
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 1,
+"id": "e-56b8be0a95",
+"label": "Front-page newspaper story about him, seven years before the claim",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', which was wrong: he is the subject of the article, not its author or its holder. Journalism about a person is typed investigative here. The article's description of him as a physicist is what he told the reporter, and the qualification travels with the edge.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"cls": "document",
+"id": "los-alamos-monitor-1982",
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'"
+},
+"claimTier": 1,
+"id": "e-cb88b8efb2",
+"label": "Holds the only openable copy of the article's text",
+"note": "GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-otherhand-org-9c9859e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "los-alamos-monitor-1982",
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'"
+},
+{
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+}
+],
+"node": null,
+"title": "Los Alamos Monitor, 27 June 1982, pages A1 and A8, by Terry England, reprinted by Tom Mahood",
+"topics": [
+{
+"claims": [
+"c-d49c9fa7ee",
+"c-e660f7d675"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-d49c9fa7ee"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/"
+]
+}

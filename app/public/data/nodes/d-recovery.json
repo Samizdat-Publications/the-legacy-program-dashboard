@@ -8,26 +8,46 @@
 {
 "id": "c-4efeb1ec9c",
 "source": "Contemporaneous press coverage; GAO/NSIAD-95-187 record search",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "record search",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "Roswell Army Air Field issued a press release on 8 July 1947 stating the 509th Bomb Group had come into possession of a flying disc; it was retracted the same day.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4dc07286b1",
 "source": "GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO's 1995 records search found that Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-83f11537c4",
 "source": "American Alchemy - Jake Barber interview, 30 January 2025",
+"sources": [],
 "text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-609134546a",
 "source": "Inference from documented DoD mishap and foreign materiel exploitation practice",
+"sources": [],
 "text": "Any sustained retrieval capability would be built on existing mishap-recovery, nuclear-accident response or foreign materiel exploitation units rather than a purpose-built organisation, because those units already hold the required authorities, equipment and cover. Reasoning: creating a new organisation generates exactly the paper trail a concealed programme cannot afford.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "domain",

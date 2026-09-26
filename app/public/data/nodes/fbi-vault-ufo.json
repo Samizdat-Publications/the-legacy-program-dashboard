@@ -7,26 +7,34 @@
 {
 "id": "c-c37236f18e",
 "source": "vault.fbi.gov/UFO, accessed 12 August 2026",
+"sources": [],
 "text": "The FBI Vault UFO collection comprises 16 parts covering the Bureau's role in investigating flying object reports between 1947 and 1954, released 30 November 2010 and last modified 25 July 2013.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3d3e936e6d",
 "source": "Disclosure Archives inventory of Release 01",
+"sources": [],
 "text": "PURSUE Release 01 published FBI file 62-HQ-83894, the master flying disc file spanning 1947-1968, as a single 101MB PDF.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-1bd0137457",
 "source": "Disclosure Archives inventory of Release 03",
+"sources": [],
 "text": "PURSUE Release 03 contained 29 FBI files including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 documenting two FBI special agents' own observation.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6eb471e97a",
 "source": "Inference from the Vault UFO collection's date range and modification date against the FBI-originated material in PURSUE Releases 01, 03 and 05",
+"sources": [],
 "text": "The FBI's own public reading room, last updated in 2013 and ending at 1954, concealed by omission an active modern collection posture that only became visible when another department published the Bureau's files.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

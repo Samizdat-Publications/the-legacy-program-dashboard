@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1df667b350",
+"locator": "letter of 18 January 1958, CIA reading room, declassified 14 August 2013",
+"node": "arthur-g-trudeau",
+"nodeLabel": "Lt. Gen. Arthur G. Trudeau",
+"sourceText": "CIA-RDP80M01009A000500610124-1, letter of 18 January 1958, CIA reading room, declassified 14 August 2013, https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1",
+"text": "DCI Allen W. Dulles wrote to him on 18 January 1958 as 'Chief of Research and Development, Department of the Army': 'Congratulations on your appointment as Chief of the Army Research and Development program.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1df667b350",
+"locator": null,
+"node": "arthur-g-trudeau",
+"nodeLabel": "Lt. Gen. Arthur G. Trudeau",
+"sourceText": "CIA-RDP80M01009A000500610124-1, letter of 18 January 1958, CIA reading room, declassified 14 August 2013, https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1",
+"text": "DCI Allen W. Dulles wrote to him on 18 January 1958 as 'Chief of Research and Development, Department of the Army': 'Congratulations on your appointment as Chief of the Army Research and Development program.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "arthur-g-trudeau",
+"label": "Lt. Gen. Arthur G. Trudeau"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-a775297a08",
+"label": "Two Directors of Central Intelligence corresponded with him in office",
+"note": "Two Directors of Central Intelligence corresponded with him in office, Dulles in January 1958 on avoiding duplication between CIA and Army research programmes and McCone in March 1962 on the Limited-War Mission symposium.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "arthur-g-trudeau",
+"label": "Lt. Gen. Arthur G. Trudeau"
+},
+"b": {
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+"claimTier": 1,
+"id": "e-819744685d",
+"label": "Addressed at the Department of the Army, Washington 25, D. C.",
+"note": "Both letters address him at the Department of the Army, Washington 25, D. C.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "cia-rdp80m01009a000500610124-1",
+"identifiers": [
+"CIA-RDP80M01009A000500610124-1"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "arthur-g-trudeau",
+"label": "Lt. Gen. Arthur G. Trudeau"
+}
+],
+"node": null,
+"title": "CIA-RDP80M01009A000500610124-1",
+"topics": [
+{
+"claims": [
+"c-1df667b350",
+"c-1df667b350"
+],
+"id": "corso-day-after",
+"title": "Philip Corso's account"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1"
+]
+}

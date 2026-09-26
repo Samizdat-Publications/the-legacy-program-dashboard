@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "event",
+"id": "dow-uap-file-release-2026",
+"label": "Department of War release of UAP files"
+},
+"claimTier": 2,
+"id": "e-0640577000",
+"label": "Author of the statute publicly states the obligation is unmet",
+"note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "event",
+"id": "dow-uap-file-release-2026",
+"label": "Department of War release of UAP files"
+},
+"claimTier": 3,
+"id": "e-36dba3239e",
+"label": "Agency compliance ran nineteen months past the statutory deadline",
+"note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-gillibrand-senate-gov-7cda156a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Senate",
+"listedOn": [
+{
+"cls": "event",
+"id": "dow-uap-file-release-2026",
+"label": "Department of War release of UAP files"
+},
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+{
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate"
+}
+],
+"node": null,
+"title": "Gillibrand statement on release of UAP files",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+]
+}

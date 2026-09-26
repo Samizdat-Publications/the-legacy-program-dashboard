@@ -1,0 +1,89 @@
+{
+"archived": [
+"https://web.archive.org/web/20260514112547/https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 3,
+"id": "e-e4f812ba24",
+"label": "Video releases began five weeks after testimony that AARO was withholding video",
+"note": "The timing and the scale together read as minimum compliance: seven short clips in response to sworn testimony that the office holds an unreleased video archive.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-1a6a539729",
+"label": "AARO's channel stops; the Secretary's channel starts",
+"note": "AARO's last imagery release is 6 January 2026; the Department's first tranche is 8 May 2026 with 29 videos, and AARO published nothing further.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"claimTier": 1,
+"id": "e-c5959f98cb",
+"label": "AARO's own small video release channel, Dec 2025 - Jan 2026",
+"note": "Seven numbered PR items released across five weeks, all short European clips, one resolved as birds - the office's entire video output before PURSUE.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-aaro-mil-9a2edeb6",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "AARO - Official UAP Imagery",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/"
+]
+}

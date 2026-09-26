@@ -58,6 +58,7 @@ import tempfile
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "topics"))
 import topiclib  # noqa: E402
+import source_pages  # noqa: E402  (phase 8: the source registry as the app ships it)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "app", "public", "data")
@@ -232,6 +233,7 @@ class Src(object):
         self.topics = topiclib.load_topics()
         self.sections = topiclib.load_sections()
         self.preds = load_predicates(self.board)
+        self.reg = source_pages.Registry(ROOT)
 
     def generated(self):
         vals = [self.board.get("generated"), self.l0.get("generated"),
@@ -521,6 +523,9 @@ def claims_json(s, ix):
                 "source": {"domain": host_of(url),
                            "text": c.get("source"),
                            "url": url},
+                # phase 8: the registry sources it resolves to, or why it does not
+                "sources": s.reg.claim_refs(c.get("id")),
+                "unresolved": s.reg.why_unresolved(c.get("id")),
                 "text": c.get("text"),
                 "tier": c.get("tier"),
             })
@@ -555,6 +560,9 @@ def node_files(s, ix):
         rec["deg"] = ix["deg"].get(nid, 0)
         rec["hl"] = ix["hl"].get(nid)
         rec["dossier"] = dossiers.get(nid)
+        rec["claims"] = [dict(c, sources=s.reg.claim_refs(c.get("id")),
+                              unresolved=s.reg.why_unresolved(c.get("id")))
+                         for c in (n.get("claims") or [])]
         rec["entityInfo"] = ei.get(nid)
 
         conns = []
@@ -982,6 +990,8 @@ def topic_record(s, bd, alias, t):
     for cid in topiclib.cited_ids(t):
         cites[cid] = (topiclib.resolve(bd, t, cid, _source_row)
                       or {"id": cid, "kind": None, "missing": True})
+        if cites[cid].get("kind") == "claim" and not cites[cid].get("unplaced"):
+            cites[cid]["sourceRefs"] = s.reg.claim_refs(cid)
     rec["cites"] = cites
     return rec
 
@@ -1143,6 +1153,19 @@ def build(quiet=False):
         tot += write(os.path.join(td, t["id"] + ".json"), topic_record(s, bd, alias, t), 1)
     written.append(("data/topics/*.json (%d files)" % len(s.topics), tot))
 
+    # phase 8: the Library and one page per source
+    recs = source_pages.pages(s, s.reg, era_of)
+    written.append(("data/sources.json",
+                    write(os.path.join(OUT, "sources.json"), source_pages.library(recs, meta), 0)))
+    sd = os.path.join(OUT, "sources")
+    if os.path.isdir(sd):
+        for f in os.listdir(sd):
+            os.remove(os.path.join(sd, f))
+    tot = 0
+    for sid, rec in sorted(recs.items()):
+        tot += write(os.path.join(sd, sid + ".json"), rec, 0)
+    written.append(("data/sources/*.json (%d files)" % len(recs), tot))
+
     imgs, thumbs = copy_patents()
 
     if not quiet:
@@ -1221,6 +1244,19 @@ def check(board_rel=BOARD, quiet=False):
                      % (len(missing), ", ".join(missing[:5])))
 
     drift += check_topics()
+
+    # phase 8: the Library holds exactly the registry, and every source has its page
+    reg = rd(os.path.join("research", "_sources.json"))["sources"]
+    lib_path = os.path.join(OUT, "sources.json")
+    lib = json.load(open(lib_path, encoding="utf-8")) if os.path.exists(lib_path) else {"sources": []}
+    want_ids = sorted(x["id"] for x in reg)
+    have_ids = [x["id"] for x in lib.get("sources") or []]
+    if have_ids != want_ids or lib.get("count") != len(want_ids):
+        drift.append("  sources.json holds %d rows (count %r), the registry %d"
+                     % (len(have_ids), lib.get("count"), len(want_ids)))
+    gone = [i for i in want_ids if not os.path.exists(os.path.join(OUT, "sources", i + ".json"))]
+    if gone:
+        drift.append("  %d source pages missing, e.g. %s" % (len(gone), ", ".join(gone[:5])))
 
     if drift:
         if not quiet:

@@ -1,0 +1,177 @@
+{
+"archived": [],
+"claims": [],
+"date": "2019-06-01",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "unidentified-history-series",
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)"
+},
+"b": {
+"cls": "person",
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"claimTier": 1,
+"id": "e-919518ea44",
+"label": "The series premiere prompted the 1 June 2019 Pentagon denial",
+"note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-60bca54202",
+"label": "1 June 2019: 'no responsibilities with regard to the AATIP program'",
+"note": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "keith-kloor",
+"label": "Keith Kloor"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-0816307ced",
+"label": "Obtained both the Pentagon denial and the 'exemplary' evaluation language",
+"note": "Kloor's two 2019 pieces cut in opposite directions, which is why both are load-bearing.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 2,
+"id": "e-13549cbed5",
+"label": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
+"note": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-566ad94006",
+"label": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
+"note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-429d212b55",
+"label": "the adversarial counterweight inside the same substrate",
+"note": "The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-59a02fe543",
+"label": "First major press challenge to Elizondo's AATIP leadership claim",
+"note": "Kloor's finding: 'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.' He obtained a statement from Pentagon spokesperson Christopher Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' The piece is the origin of the documented dispute over Elizondo's role, and the Pentagon's position in it has been restated since.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-385b7201a7",
+"label": "Scrutiny of To The Stars Academy's media apparatus and financing",
+"note": "The piece documents what To The Stars Academy's own regulatory filings say it is: a 'Motion Picture & Video Tape Production' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.",
+"type": "investigative"
+}
+],
+"era": "3",
+"id": "u-theintercept-com-f6147715",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Intercept",
+"listedOn": [
+{
+"cls": "event",
+"id": "unidentified-history-series",
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)"
+},
+{
+"cls": "person",
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+{
+"cls": "person",
+"id": "kari-delonge",
+"label": "Kari DeLonge"
+},
+{
+"cls": "person",
+"id": "keith-kloor",
+"label": "Keith Kloor"
+}
+],
+"node": null,
+"title": "The Intercept",
+"topics": [],
+"type": "article",
+"urls": [
+"https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+]
+}

@@ -1,0 +1,35 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-01e81b16",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+{
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+{
+"cls": "domain",
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+}
+],
+"node": null,
+"title": "Knuth, Powell & Reali, MaxEnt 2019 Proceedings",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.3390/proceedings2019033026"
+]
+}

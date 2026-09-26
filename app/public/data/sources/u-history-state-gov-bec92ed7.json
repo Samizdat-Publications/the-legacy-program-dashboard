@@ -1,0 +1,165 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3cf3b0d96c",
+"locator": null,
+"node": "cia-office-of-policy-coordination",
+"nodeLabel": "CIA Office of Policy Coordination",
+"sourceText": "NSC 10/2, 18 June 1948, paragraph 3.c, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "The office was built to sit apart inside its own agency: 'The Chief of the Office of Special Projects shall report directly to the Director of Central Intelligence. For purposes of security and of flexibility of operations, and to the maximum degree consistent with efficiency, the Office of Special Projects shall operate independently of other components of Central Intelligence Agency.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-50f0b4d93c",
+"locator": null,
+"node": "cia-office-of-policy-coordination",
+"nodeLabel": "CIA Office of Policy Coordination",
+"sourceText": "NSC 10/2, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "It is written under the residual clause of the 1947 Act: the Council directs the creation 'under the authority of Section 102(d)(5) of the National Security Act of 1947'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-5976133b9d",
+"locator": null,
+"node": "cia-office-of-policy-coordination",
+"nodeLabel": "CIA Office of Policy Coordination",
+"sourceText": "NSC 10/2, 18 June 1948, paragraph 5, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "The definition is a definition of deniability. Covert operations are those 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them', and the named categories are 'propaganda, economic warfare; preventive direct action, including sabotage, anti-sabotage, demolition and evacuation measures; subversion against hostile states'. Espionage, counter-espionage and 'cover and deception for military operations' are expressly excluded.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ac4dc11f47",
+"locator": null,
+"node": "cia-office-of-policy-coordination",
+"nodeLabel": "CIA Office of Policy Coordination",
+"sourceText": "NSC 10/2, National Security Council Directive on Office of Special Projects, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "The charter creates the office by that name: 'A new Office of Special Projects shall be created within the Central Intelligence Agency to plan and conduct covert operations; and in coordination with the Joint Chiefs of Staff to plan and prepare for the conduct of such operations in wartime.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f9af42baac",
+"locator": null,
+"node": "cia-office-of-policy-coordination",
+"nodeLabel": "CIA Office of Policy Coordination",
+"sourceText": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:25:21 to 1:31:56; tested against NSC 10/2, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:29:15 to 1:31:56, Matthew Ehret said the office staffed NICAP's leadership and that the founder of the National Enquirer worked in it for fourteen months before founding the paper, and at 1:25:21 that Richard Bissell headed it. No record opened here bears on any of the three. The only officer named in the opened records is Frank G. Wisner, from 1 September 1948.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-7eb727a4b1",
+"label": "Created inside the Agency by NSC 10/2",
+"note": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+"b": {
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+"claimTier": 1,
+"id": "e-72b3fb2538",
+"label": "Chartered under section 102(d)(5) of the Act he signed",
+"note": "The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+"b": {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+"claimTier": 1,
+"id": "e-cee2233a45",
+"label": "Chartered under the residual clause, section 102(d)(5)",
+"note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+"b": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"claimTier": 1,
+"id": "e-767f24842a",
+"label": "Propaganda is the first named category in the charter",
+"note": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-history-state-gov-bec92ed7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+}
+],
+"node": null,
+"title": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+"topics": [
+{
+"claims": [
+"c-3cf3b0d96c",
+"c-50f0b4d93c",
+"c-5976133b9d",
+"c-ac4dc11f47",
+"c-f9af42baac"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-5976133b9d",
+"c-ac4dc11f47"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+]
+}

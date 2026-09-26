@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-youtube-com-3eb69694",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+}
+],
+"node": null,
+"title": "UAP Gerb - channel feed",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/feeds/videos.xml?channel_id=UCXr8USOuzZN_3y_efZpryrg"
+]
+}

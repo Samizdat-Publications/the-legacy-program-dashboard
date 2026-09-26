@@ -7,26 +7,34 @@
 {
 "id": "c-2d4169e20f",
 "source": "CUFON transcription and provenance record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addressed to Miles E. Goll at Wright-Patterson Air Force Base, Ohio, under Project Stork.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-909b2a63ba",
 "source": "CUFON transcription of the memorandum text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "It states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area' of proposed controlled experiments.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2a57a4f73b",
 "source": "Jacques Vallee, Forbidden Science; CUFON; Bad UFOs analysis, 18 February 2012",
+"sources": [],
 "text": "Jacques Vallee discovered the memorandum in 1967 while working with J. Allen Hynek's papers, recorded it in his journal on 18 June 1967, and published an account in Forbidden Science (1992) using the codename 'Pentacle'; H. C. Cross was later identified as its author.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6787d85102",
 "source": "Vallee correspondence quoted by CUFON",
+"sources": [],
 "text": "Vallee holds that the Robertson Panel of 14-16 January 1953 was not briefed on the Pentacle proposals and that another group had already decided what could and could not be discussed.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "document",

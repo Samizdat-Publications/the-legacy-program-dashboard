@@ -1,0 +1,305 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 1,
+"id": "e-bdaea677e8",
+"label": "Battelle co-operates ORNL through UT-Battelle, LLC",
+"note": "Contract DEAC0500OR22725, recorded at approximately $42.3 billion, running 1999-2030.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-bedford-ma",
+"label": "Bedford, Massachusetts"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-646d41c731",
+"label": "MITRE founding site and original headquarters",
+"note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-a063120ae0",
+"label": "Battelle Memorial Institute headquarters",
+"note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ida",
+"label": "Institute for Defense Analyses"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 1,
+"id": "e-93bc8e9953",
+"label": "Operates the only FFRDC sponsored by the National Security Agency",
+"note": "IDA's Center for Communications and Computing is sponsored by NSA/CSS - the least publicly visible FFRDC in the country and the hardest for a committee to reach.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "jhuapl",
+"label": "Johns Hopkins University Applied Physics Laboratory"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 1,
+"id": "e-9a05286170",
+"label": "A UARC, not an FFRDC - the unexamined branch of the same mechanism",
+"note": "University Affiliated Research Centers carry FFRDC-like access without the FAR 35.017 sponsoring-agreement regime or NSF master-list registration; no congressional UAP letter has gone to one.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-ff40ec3b5c",
+"label": "MITRE McLean headquarters campus",
+"note": "MITRE names McLean, Virginia as one of its two principal locations, with four buildings on Colshire Drive. McLean is where the defence and intelligence FFRDC work sits: the NSF master list registers the National Security Engineering Center, the Center for Advanced Aviation System Development, the Center for Enterprise Modernization and HSSEDI at McLean.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 1,
+"id": "e-e54fdbc8da",
+"label": "RAND invented the institutional form the whole domain rests on",
+"note": "Incorporated 1948 out of Project RAND inside Douglas Aircraft; now operates four FFRDCs for the Air Force, Army, OSD and DHS.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-santa-monica",
+"label": "Santa Monica, California"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 1,
+"id": "e-ff6acd3a6b",
+"label": "RAND headquarters since its 1948 formation",
+"note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-0dfc20af7d",
+"label": "the FFRDC seam is a species of contracting mechanics, not a separate subject",
+"note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-753a4ecaa6",
+"label": "the largest operator of the one acquisition form built to be non-competitive by design",
+"note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "program",
+"id": "mitre-hssedi",
+"label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)"
+},
+"claimTier": 1,
+"id": "e-6553835642",
+"label": "MITRE operates HSSEDI for DHS Science and Technology",
+"note": "Created 5 March 2009; the DHS engineering franchise sits with the same operator now under congressional UAP records demand.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 1,
+"id": "e-b59a123e87",
+"label": "MITRE is the largest single operator of the FFRDC form",
+"note": "MITRE operates six of the 41 FFRDCs recorded by NSF, spanning defence/intelligence, aviation, tax, health, homeland security and cybersecurity sponsors - the widest sponsor spread of any operator.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-ncses-nsf-gov-c5846988",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Science Foundation",
+"listedOn": [
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+{
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio"
+},
+{
+"cls": "program",
+"id": "mitre-hssedi",
+"label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)"
+},
+{
+"cls": "institution",
+"id": "ida",
+"label": "Institute for Defense Analyses"
+},
+{
+"cls": "institution",
+"id": "jhuapl",
+"label": "Johns Hopkins University Applied Physics Laboratory"
+},
+{
+"cls": "institution",
+"id": "llnl",
+"label": "Lawrence Livermore National Laboratory"
+},
+{
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+{
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia"
+},
+{
+"cls": "program",
+"id": "mitre-nsec",
+"label": "National Security Engineering Center (NSEC)"
+},
+{
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+{
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+{
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+{
+"cls": "location",
+"id": "l-santa-monica",
+"label": "Santa Monica, California"
+},
+{
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+{
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+{
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+}
+],
+"node": null,
+"title": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+]
+}

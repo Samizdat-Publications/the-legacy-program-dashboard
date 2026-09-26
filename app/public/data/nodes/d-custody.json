@@ -8,14 +8,18 @@
 {
 "id": "c-bd5060c173",
 "source": "DIA FOIA Electronic Reading Room AATIP index, examined August 2026",
+"sources": [],
 "text": "No released AAWSAP-era document records the receipt, transfer or storage of a physical sample, despite the release of the statement of work, contract status briefs, 38 reference-product titles and multiple internal memoranda.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8a391de51a",
 "source": "Steve Justice, quoted in Vice, 26 July 2019",
+"sources": [],
 "text": "Steve Justice conceded the ADAM materials were 'collected from sources with varying levels of chain-of-custody documentation'.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "domain",

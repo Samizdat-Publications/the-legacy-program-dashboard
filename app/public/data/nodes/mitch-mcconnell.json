@@ -19,26 +19,46 @@
 {
 "id": "c-8ebbce4c08",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
+"sources": [],
 "text": "McConnell is named, with Speaker Mike Johnson, as supporting the Turner and Rogers effort against the UAP Disclosure Act.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-16419173f5",
 "source": "S. 2226 as engrossed, Secs. 9003(10) and 9007(b)(3)(A), GPO",
+"sources": [],
 "text": "The UAPDA defines 'leadership of Congress' to include the minority leader of the Senate and gives that office the power to recommend Review Board nominees.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-c1cd790dac",
 "source": "https://www.appropriations.senate.gov/subcommittees/defense",
+"sources": [
+{
+"id": "u-appropriations-senate-go-1b72df64",
+"locator": null,
+"title": "appropriations.senate.gov"
+}
+],
 "text": "Mitch McConnell (R-KY) is listed as Chair of the Defense Subcommittee of the Senate Appropriations Committee on the subcommittee's official page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0fe3ecb428",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "The Defense Subcommittee of the Senate Committee on Appropriations is one of the six bodies expressly named as a 'defense committee' by 10 U.S.C. 119(g)(1), and therefore generates a 119(e)(2) notification entitlement for its chair and ranking minority member.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

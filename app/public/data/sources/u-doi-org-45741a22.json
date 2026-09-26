@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "richard-cloete",
+"label": "Richard Cloete"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 1,
+"id": "e-f158da06a7",
+"label": "Lead author of the project's detection and tracking computing platform",
+"note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-cloete",
+"label": "Richard Cloete"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-9240195937",
+"label": "Named for data analysis and AI tools",
+"note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-doi-org-45741a22",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-astro",
+"label": "Astronomy & Astrophysics"
+},
+{
+"cls": "location",
+"id": "l-cambridge",
+"label": "Cambridge, Massachusetts"
+},
+{
+"cls": "person",
+"id": "richard-cloete",
+"label": "Richard Cloete"
+},
+{
+"cls": "domain",
+"id": "d-research",
+"label": "Scientific Research"
+},
+{
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+}
+],
+"node": null,
+"title": "Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1142/S2251171723400081"
+]
+}

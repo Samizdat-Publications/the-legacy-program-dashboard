@@ -1,0 +1,189 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2202d9868f",
+"locator": null,
+"node": "charles-p-cabell",
+"nodeLabel": "Gen. Charles P. Cabell",
+"sourceText": "FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"text": "The Department of State's list of persons for the intelligence volume gives both offices: 'Cabell, General Charles P., USAF, Director of Intelligence, Office of the Deputy Chief of Staff from 1951 to 1953; Intelligence Advisory Committee, Deputy Director of Central Intelligence from 1953 to 1962.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-796caa2ead",
+"locator": null,
+"node": "charles-p-cabell",
+"nodeLabel": "Gen. Charles P. Cabell",
+"sourceText": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:24:32 to 1:25:21; contradicted against FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:24:32, Matthew Ehret said Project Blue Book was launched under 'CIA Deputy Director Charles Cabell' at the urging of Sir Henry Tizard's UK flying saucer working party, and that Cabell was fired by John F. Kennedy in 1961. The opened records contradict the office: at Blue Book's launch in March 1952 he was the Air Force's Director of Intelligence, and he joined CIA as Deputy Director only in 1953. The CIA's own chronology records a resignation, not a dismissal, on 27 December 1961 effective 31 January 1962.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4e2cf80743",
+"locator": null,
+"node": "gordon-gray",
+"nodeLabel": "Gordon Gray",
+"sourceText": "Persons, FRUS 1950-1955, The Intelligence Community, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"text": "Gray's offices and their dates, from the Office of the Historian's own persons list: 'Secretary of the Army from June 20, 1949 to April 12, 1950; Director of the Psychological Strategy Board from 1951 to 1952; ... Assistant Secretary of Defense for International Security Affairs from July 1955 to February 1957; Director of Defense Mobilization from March 1957 to July 1958; Special Assistant to the President for National Security Affairs from July 1958 to January 1961'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+"b": {
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+"claimTier": 1,
+"id": "e-7e6b2c74b5",
+"label": "Served as deputy to the Director of Central Intelligence",
+"note": "Cabell's DDCI service from 1953 runs alongside the board's Dulles node; the deputy relationship is the office, and no shared action is asserted here.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-7dab5634b4",
+"label": "Deputy Director of Central Intelligence",
+"note": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+"b": {
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"claimTier": 1,
+"id": "e-c5cc37f1cc",
+"label": "Signed the CIA reply to Keyhoe",
+"note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-e38b67d35a",
+"label": "Air Force intelligence chief at Blue Book's creation",
+"note": "The edge exists to carry the correction: the office he held in March 1952 was USAF Director of Intelligence, not a CIA post, and the transcript that surfaced him has it the other way round.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-6a9d4d46ea",
+"label": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
+"note": "Both FRUS persons lists give the office; the later volume dates it to 1953 within its own coverage. This is the office he held while Project Blue Book was created.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-b8f0074ef5",
+"label": "Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57",
+"note": "The Office of the Historian's persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-history-state-gov-849ead8a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+{
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+}
+],
+"node": null,
+"title": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"topics": [
+{
+"claims": [
+"c-2202d9868f",
+"c-796caa2ead",
+"c-4e2cf80743"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-2202d9868f",
+"c-796caa2ead"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-4e2cf80743"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+]
+}

@@ -1,0 +1,105 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-a37188a394",
+"label": "AARO reviewed as a foreign model and named as a proposed partner",
+"note": "The Sky Canada report records that 'On June 1, 2024, AARO released its second report on 757 UAP reports from May 1, 2023, to June 1, 2024', of which '174 cases were resolved and found to be objects such as balloons, birds, unmanned aerial systems, satellites and aircraft', and cites AARO's Historical Record Report Volume I in its references. Its recommendation 13 directs the future Canadian lead organization to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "canada-dot",
+"label": "Canada Department of Transport"
+},
+"claimTier": 1,
+"id": "e-c221d0394a",
+"label": "Sky Canada Project audited and issued recommendations to Transport Canada",
+"note": "The report maps Transport Canada's Civil Aviation Daily Occurrence Reporting System as the federal channel where pilot and public sightings land: 'Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings', collecting reports 'from pilots, air traffic controllers and the public' on incidents 'involving Canadian-registered aircraft at Canadian airports, in Canadian sovereign airspace, and international airspace for which Canada has accepted responsibility'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-06a6b43e7f",
+"label": "Chile's civil-aviation UAP unit used as a model and proposed partner",
+"note": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-163ebdc95d",
+"label": "NASA's UAP study cited as precedent and named as a proposed partner",
+"note": "The report records that 'NASA released an independent study in September 2023 focused on how best to collect future UAP data to advance scientific study' and that 'following the release of this report, NASA announced the creation of a new position: Director of Unidentified Anomalous Phenomena Research'. NASA is one of the four international bodies its recommendation 13 names as partnership targets for the recommended Canadian lead organization.",
+"type": "research"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-ottawa",
+"label": "Ottawa, Ontario, Canada"
+},
+"b": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"claimTier": 1,
+"id": "e-db6ba893b9",
+"label": "Office of the Chief Science Advisor, Ottawa",
+"note": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-science-gc-ca-c2fe2b9a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Government of Canada",
+"listedOn": [],
+"node": null,
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025",
+"topics": [],
+"type": "document",
+"urls": [
+"https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+]
+}

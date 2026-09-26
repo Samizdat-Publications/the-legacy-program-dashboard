@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-bee8947675",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://www.archives.gov/research/topics/uaps/faqs",
+"text": "NARA guidance directed agencies with releasable UAP records to contact NARA to initiate transfers before 30 September 2025, in digital form with metadata per established guidance.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aaro-jwics-case-management-2025",
+"label": "AARO JWICS case management system (sources sought, May 2025)"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-b602caf245",
+"label": "a TS/SCI-resident case corpus against a statutory public collection",
+"note": "Hosting the consolidated UAP case record on JWICS places it at Top Secret/SCI by default, which is a structural obstacle to transfer that neither the FY2024 NDAA nor the 2026 directives address.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
+},
+"claimTier": 1,
+"id": "e-536b707880",
+"label": "created by",
+"note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-archives-gov-53c5ac59",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "National Archives, UAP Records FAQs",
+"topics": [
+{
+"claims": [
+"c-bee8947675"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "archive index",
+"urls": [
+"https://www.archives.gov/research/topics/uaps/faqs"
+]
+}

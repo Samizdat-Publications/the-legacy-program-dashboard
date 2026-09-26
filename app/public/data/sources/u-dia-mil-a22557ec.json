@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1ac0f9c6e5",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/",
+"text": "DIA 8 May 2009 status briefing: 'SCI clearance processing has been successfully completed for all key personnel.' — i.e. BAASS staff were cleared to Sensitive Compartmented Information level under this contract.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-dia-mil-a22557ec",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+}
+],
+"node": null,
+"title": "dia.mil",
+"topics": [
+{
+"claims": [
+"c-1ac0f9c6e5"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-1ac0f9c6e5"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/"
+]
+}

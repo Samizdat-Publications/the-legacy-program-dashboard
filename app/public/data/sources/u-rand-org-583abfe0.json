@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"b": {
+"cls": "person",
+"id": "george-kocher",
+"label": "George Kocher"
+},
+"claimTier": 1,
+"id": "e-7956425c5c",
+"label": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
+"note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-rand-org-583abfe0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "RAND",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-kocher",
+"label": "George Kocher"
+},
+{
+"cls": "person",
+"id": "jason-matheny",
+"label": "Jason Matheny"
+},
+{
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+}
+],
+"node": null,
+"title": "RAND DRU-1571",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.rand.org/pubs/drafts/DRU1571.html"
+]
+}

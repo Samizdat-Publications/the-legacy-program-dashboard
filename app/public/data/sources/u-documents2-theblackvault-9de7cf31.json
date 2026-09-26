@@ -1,0 +1,140 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-0f57a62be6",
+"locator": null,
+"node": "dird-biosensors-and-biomems-a-survey-of",
+"nodeLabel": "Biosensors and BioMEMS: A Survey of the Present Field",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"text": "The released cover page carries the date 31 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-020; the author field is redacted under FOIA exemption (b)(5) and 'Prepared by' is redacted under 10 U.S.C. 424.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a3e27369e2",
+"locator": null,
+"node": "dird-biosensors-and-biomems-a-survey-of",
+"nodeLabel": "Biosensors and BioMEMS: A Survey of the Present Field",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"text": "The administrative note states the product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d24c394267",
+"locator": null,
+"node": "dird-biosensors-and-biomems-a-survey-of",
+"nodeLabel": "Biosensors and BioMEMS: A Survey of the Present Field",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"text": "Contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and therapeutic neurostimulation - the human-effects and human-interface leg of the AAWSAP survey.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1e08c15129",
+"locator": null,
+"node": "bruce-towe",
+"nodeLabel": "Bruce C. Towe",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"text": "The released DIRD bears document number DIA-08-1003-020, publication date 31 March 2010 and Intelligence Cut-Off Date 1 December 2009.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+"claimTier": 1,
+"id": "e-414eb66c47",
+"label": "commissioned under AAWSAP, FY2009 series",
+"note": "The document's own administrative note states it 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program', with comments directed to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100. Hal Puthoff, subcontracting to BAASS through EarthTech International, has stated he let the 38 contracts himself, acting as a surrogate so DIA would not have to expose its interest.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+"b": {
+"cls": "domain",
+"id": "d-bio",
+"label": "Biology & Non-Human Biologics"
+},
+"claimTier": 1,
+"id": "e-681e3b3883",
+"label": "subject domain: implantable biosensors and neuro-interface",
+"note": "The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+"b": {
+"cls": "person",
+"id": "bruce-towe",
+"label": "Bruce C. Towe"
+},
+"claimTier": 1,
+"id": "e-3205e66425",
+"label": "authored by Bruce Towe",
+"note": "Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17).",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+"claimTier": 1,
+"id": "e-0854ed89c7",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-020. Publication date 31 March 2010 on the cover. 46 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-9de7cf31",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+{
+"cls": "person",
+"id": "bruce-towe",
+"label": "Bruce C. Towe"
+}
+],
+"node": null,
+"title": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+]
+}

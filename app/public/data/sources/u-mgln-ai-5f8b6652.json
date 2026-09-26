@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7b3d4509bc",
+"locator": null,
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "American Alchemy with Jesse Michels, 'Matthew Pines: Anti-Gravity Tech & Inter-Dimensional Aliens', 15 November 2024, 2:47:06, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4097453442.mp3?updated=1751923843",
+"text": "At 2:47:06 in the same episode Pines said Steinman's text refers to Wang's boss only as 'H-A-K', and that he himself concluded 'oh, Henry A. Kissinger'. Pines states the identification as his own inference from the initials, not as something Steinman wrote. Any Wang-to-Kissinger link would rest on that inference and on nothing else.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d1f1a40c24",
+"locator": null,
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "American Alchemy with Jesse Michels, 'Matthew Pines: Anti-Gravity Tech & Inter-Dimensional Aliens', 15 November 2024, 2:46:17, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4097453442.mp3?updated=1751923843",
+"text": "On American Alchemy with Jesse Michels, 15 November 2024, at 2:46:17, Matthew Pines named the source of the Wright-Patterson story about Wang: a book by the UFO researcher William Steinman on the 1948 Aztec crash, which Pines says describes 'Eric Henry Wang' as head of special projects at Wright-Patterson who came over with Operation Paperclip. This identifies the single secondhand source behind the story the board's existing caution declines.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-mgln-ai-5f8b6652",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mgln.ai",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-wang",
+"label": "Eric H. Wang"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Matthew Pines: Anti-Gravity Tech & Inter-Dimensional Aliens' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-7b3d4509bc",
+"c-d1f1a40c24"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4097453442.mp3?updated=1751923843"
+]
+}

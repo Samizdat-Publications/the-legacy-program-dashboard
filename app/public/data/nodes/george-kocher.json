@@ -28,14 +28,18 @@
 {
 "id": "c-6b7c08d3a5",
 "source": "RAND Corporation publication page and PDF for DRU-1571",
+"sources": [],
 "text": "RAND published 'UFOs: What To Do?' by George Kocher as draft DRU-1571, originally November 1968; the document examines UFO brightness, size and manoeuvres and discusses a recommended course of action.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-40124d8bd6",
 "source": "RAND report RRA2475-1, 25 July 2023, footnote 9",
+"sources": [],
 "text": "RAND's 2023 report RRA2475-1, on mapping public reports of unidentified aerial phenomena across America, cites Kocher's DRU-1571.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

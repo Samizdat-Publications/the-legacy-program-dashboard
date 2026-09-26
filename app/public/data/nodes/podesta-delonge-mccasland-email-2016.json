@@ -7,38 +7,96 @@
 {
 "id": "c-6cae43c392",
 "source": "WikiLeaks, The Podesta Emails, email id 3099, released 10 October 2016, https://wikileaks.org/podesta-emails/emailid/3099",
+"sources": [
+{
+"id": "u-wikileaks-org-355625fe",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 3099"
+}
+],
 "text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-110894251b",
 "source": "WikiLeaks, The Podesta Emails, email id 3099, https://wikileaks.org/podesta-emails/emailid/3099",
+"sources": [
+{
+"id": "u-wikileaks-org-355625fe",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 3099"
+}
+],
 "text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c90e800494",
 "source": "WikiLeaks, The Podesta Emails, email ids 51979 and 9501, https://wikileaks.org/podesta-emails/emailid/51979 ; https://wikileaks.org/podesta-emails/emailid/9501",
+"sources": [
+{
+"id": "u-wikileaks-org-7dbd6b9a",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 51979, 'Re: Invitation: DeLonge/Podesta Meeting'"
+},
+{
+"id": "u-wikileaks-org-b1626ac7",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 9501, same thread"
+}
+],
 "text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and neilmcc79@gmail.com, who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to t.delonge@me.com, mfisher@hillaryclinton.com, rob.f.weiss@lmco.com and carey.mjd@gmail.com. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2af1f09cbf",
 "source": "WikiLeaks, The Podesta Emails, email id 15486, https://wikileaks.org/podesta-emails/emailid/15486",
+"sources": [
+{
+"id": "u-wikileaks-org-ce2d6b35",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email ids 51979 and 15486"
+}
+],
 "text": "DeLonge names the Lockheed leg himself. On 22 February 2016, under the subject 'Advisors', he wrote to Podesta: 'Mr. Weiss from Lockheed SkunkWorks just emailed me asking if there were any updates. I am not expecting much, but if there is anything I can tell him and the General, however small, I would like to respectfully pass it along.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-036da5e1cf",
 "source": "WikiLeaks, The Podesta Emails, corpus search, https://wikileaks.org/podesta-emails/?q=prometheus and https://wikileaks.org/podesta-emails/?q=moulton",
+"sources": [
+{
+"id": "u-wikileaks-org-a448b150",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, corpus search, and"
+},
+{
+"id": "u-wikileaks-org-0fa877e6",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, corpus search, and"
+}
+],
 "text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to podesta@LAW.GEORGETOWN.EDU, and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from t.delonge@me.com and none of them is among either set.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-62cc24a3b8",
 "source": "Batch 18 file 01, 0:29:08-0:30:00, research/leads/area52-corpus-18.md; checked against https://wikileaks.org/podesta-emails/?q=prometheus",
+"sources": [
+{
+"id": "u-wikileaks-org-a448b150",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, corpus search, and"
+}
+],
 "text": "On Debriefed, episode 82, 3 April 2026, Michael Phillip said the Prometheus and Greek mythology framing reached him through 'the conversations between Podesta and McCaslin and dalong and then by way of dalong lavenda' in the WikiLeaks release, while stating in the same passage that 'I don't know verbatim what he actually said. I'm sort of regurgitating this from talking to lavenda.' The release contains the correspondence he names and does not contain the content he attributes to it.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-13f1c0ba3d",
+"locator": null,
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"sourceText": "Find a Grave memorial 180498305, https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9 , opened 2026-09-18",
+"text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, records Edgar Albert Fouche, born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. It states he 'served 20 years in the USAF and worked as a Project Manager in the DOD until his 2001 retirement'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-findagrave-com-39d66848",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "findagrave.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+}
+],
+"node": null,
+"title": "Find a Grave memorial 180498305, Edgar Albert Fouche, created by 'Robin' 18 June 2017, citing an obituary from Mason Funeral Home",
+"topics": [
+{
+"claims": [
+"c-13f1c0ba3d"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9"
+]
+}

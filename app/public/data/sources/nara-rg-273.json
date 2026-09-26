@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-28a9756da6",
+"locator": "NSC Minutes, 1st Meeting, Secret",
+"node": "sidney-souers",
+"nodeLabel": "Rear Adm. Sidney W. Souers",
+"sourceText": "Minutes of the First Meeting of the National Security Council, 26 September 1947, NARA RG 273, NSC Minutes, 1st Meeting, Secret; FRUS, 1945-1950, Emergence of the Intelligence Establishment, Document 225, https://history.state.gov/historicaldocuments/frus1945-50Intel/d225",
+"text": "At the National Security Council's first meeting on 26 September 1947 he is listed among those present as 'Sidney W. Souers, Executive Secretary, National Security Council', alongside the Director of Central Intelligence. The Council's own first decisions route attendance and scheduling through the Executive Secretary, authorise him 'to control, supervise, and administer funds which have been or hereafter may be made available to the National Security Council, with full powers with respect thereto', and record that 'The affairs of the Council will be conducted with the utmost secrecy.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "nara-rg-273",
+"identifiers": [
+"NARA Record Group 273"
+],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [],
+"node": null,
+"title": "NARA Record Group 273",
+"topics": [
+{
+"claims": [
+"c-28a9756da6"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "archive index",
+"urls": []
+}

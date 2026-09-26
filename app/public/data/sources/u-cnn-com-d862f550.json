@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": "2026-03-07",
+"edges": [],
+"era": "3",
+"id": "u-cnn-com-d862f550",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cnn.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+{
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+}
+],
+"node": null,
+"title": "CNN - Trump vowed to release government files on aliens and UFOs",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.cnn.com/2026/03/07/us/aliens-ufos-files-release-trump"
+]
+}

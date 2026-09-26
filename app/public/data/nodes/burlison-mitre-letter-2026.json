@@ -7,86 +7,138 @@
 {
 "id": "c-7f3560f860",
 "source": "DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "Ten-page letter dated 22 May 2026 with over 40 production requests, asking MITRE to identify whether it 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering, dating back to 1930.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-81a9ceb736",
 "source": "DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "All unclassified responsive records demanded within 45 days in native electronic format with complete metadata.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-352f6d278b",
 "source": "DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "MITRE spokesperson: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-e35b98a54c",
 "source": "DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "The letter is dated 22 May 2026, runs to 10 pages, was obtained by DefenseScoop, and includes dozens of production requests covering records dating back to 1930.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-31c16cac58",
 "source": "MeriTalk, 29 May 2026, quoting the letter",
+"sources": [],
 "text": "Burlison directed MITRE to identify and preserve records related to UAP including 'unexplained aerospace or undersea events, technologies of unknown origin, and alleged crash-retrieval or reverse-engineering programs'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-bc2dc4834f",
 "source": "MeriTalk, 29 May 2026; DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "Deadlines imposed: senior officer designation within 5 business days; preservation hold within 10 business days; classified briefing coordination within 14 days; written responses and records index within 30 days; unclassified production in native electronic format with metadata within 45 days.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7485a7f17e",
 "source": "Burlison press release, 26 May 2026; DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "Burlison wrote: 'This inquiry does not require MITRE to accept any particular conclusion about the origin or nature of UAP. It requires MITRE to tell Congress what it knows.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f48e36d0e0",
 "source": "DefenseScoop, 27 May 2026",
+"sources": [],
 "text": "The requests cover UAP detection and tracking across air, space, maritime, cyber and electromagnetic domains and work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8001242d68",
 "source": "Burlison press release, 26 May 2026",
+"sources": [],
 "text": "Burlison stated: 'Federally funded research and development centers occupy a unique position of public trust... They cannot become private vaults for federal records.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-bbf4b2f56b",
 "source": "Burlison press release, 26 May 2026",
+"sources": [],
 "text": "The press release names the Beacon Hill Study, 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, the National Archives and Records Administration, and Record Group 615.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-8e66ac9e09",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"sources": [
+{
+"id": "u-defensescoop-com-cc551f20",
+"locator": null,
+"title": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930"
+}
+],
 "text": "Burlison's 22 May 2026 ten-page letter to MITRE contained over 40 production requests for UAP and unexplained-technology records dating back to 1930, with a 45-day deadline for unclassified responsive records in native electronic format with complete metadata.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-7027c13bf7",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"sources": [
+{
+"id": "u-defensescoop-com-cc551f20",
+"locator": null,
+"title": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930"
+}
+],
 "text": "The letter's scope names Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton and BAE Systems.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-211ff5c2b0",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"sources": [
+{
+"id": "u-defensescoop-com-cc551f20",
+"locator": null,
+"title": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930"
+}
+],
 "text": "MITRE's response: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b6b08c681f",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"sources": [
+{
+"id": "u-defensescoop-com-cc551f20",
+"locator": null,
+"title": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930"
+}
+],
 "text": "The demand reaches records MITRE has 'created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled' - a spoliation category, not a subject-matter category, indicating the committee is investigating record disposition rather than only UAP content. Reasoning: the request list as reported includes that category alongside substantive technical categories.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

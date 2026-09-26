@@ -1,0 +1,176 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6f3ca727bf",
+"locator": null,
+"node": "aaro-fy2025-annual-report",
+"nodeLabel": "AARO FY2025 Consolidated Annual Report on UAP",
+"sourceText": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"text": "319 newly received reports (284 in-period, 35 older); 370 cases resolved during the period (114 new, 256 previously reported); every resolved case attributed to conventional causes.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-6074f1c5ae",
+"label": "The statutory report never mentions the department's own release programme",
+"note": "Publishing a statutory UAP report three tranches into the largest official UAP release in US history without acknowledging it places the office outside the authorship of the disclosure.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-87fd0bb7b4",
+"label": "Third annual report, 21 July 2026, months late",
+"note": "The report also notes cases near sensitive installations with 'performance characteristics exceed the known state-of-the-art' while adding 'No technical data accompanied these reports.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-765d165a11",
+"label": "AARO has never publicly addressed the alleged programme entered into the congressional record",
+"note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, nor any of the five PURSUE tranches between 8 May and 7 August 2026, addresses a programme name that sits in the Congressional Record. Reasoning: review of the published AARO product set and release indexes.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"id": "e-001b05e841",
+"label": "No AARO product has ever addressed the name in the Record",
+"note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, addresses a purported USAP name entered into the Congressional Record in November 2024.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-78ceff23b1",
+"label": "Established publicly that the FY2025 report was released months late",
+"note": "The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-0031c6245c",
+"label": "Director of AARO from August 2024",
+"note": "Kosloski was named AARO's full-time director in August 2024 and testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on 19 November 2024.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"id": "e-4ed02e166f",
+"label": "The 2021 data-limitation formula persists unchanged through FY2025",
+"note": "Every AARO annual report reproduces the Preliminary Assessment's move of attributing non-resolution to limited and inconsistent data rather than to any property of the objects.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-3080e6da",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+{
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+{
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+]
+}

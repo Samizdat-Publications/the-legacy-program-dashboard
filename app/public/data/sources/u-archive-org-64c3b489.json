@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 2,
+"id": "e-b06cb056e2",
+"label": "detail donor to later Roswell accounts",
+"note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-archive-org-64c3b489",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [],
+"node": null,
+"title": "John Michael Greer, 'The UFO Phenomenon: Fact, Fantasy and Disinformation', Llewellyn Worldwide, 2009, pp. 119ff",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/ufophenomenonfac0000gree"
+]
+}

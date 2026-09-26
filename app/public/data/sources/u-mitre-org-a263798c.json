@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "program",
+"id": "mitre-nsec",
+"label": "National Security Engineering Center (NSEC)"
+},
+"claimTier": 1,
+"id": "e-1bec0312ef",
+"label": "MITRE operates NSEC for the Under Secretary of Defense for Research and Engineering",
+"note": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-mitre-org-a263798c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "program",
+"id": "mitre-nsec",
+"label": "National Security Engineering Center (NSEC)"
+}
+],
+"node": null,
+"title": "MITRE NSEC fact sheet",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/news-insights/fact-sheet/national-security-engineering-center"
+]
+}

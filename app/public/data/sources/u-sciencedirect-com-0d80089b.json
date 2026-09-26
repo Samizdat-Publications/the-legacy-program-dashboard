@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "sol-briefing-3-2026",
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+},
+"b": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"claimTier": 1,
+"id": "e-f6ef22f7ec",
+"label": "briefing analyses Nolan's Council Bluffs materials study",
+"note": "The briefing's subject is the SIMS and MIBI analysis led by Stanford professor Garry P. Nolan with Jacques Vallee, Sizun Jiang and Larry Lemke of the 1977 Council Bluffs, Iowa molten-metal sample, published in Progress in Aerospace Sciences 128 (2022).",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-sciencedirect-com-0d80089b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "sciencedirect.com",
+"listedOn": [],
+"node": null,
+"title": "https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907"
+]
+}

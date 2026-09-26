@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "charles-a-richard",
+"label": "Charles A. Richard"
+},
+"b": {
+"cls": "institution",
+"id": "ida",
+"label": "Institute for Defense Analyses"
+},
+"claimTier": 1,
+"id": "e-50fd21e56f",
+"label": "President of IDA after commanding US Strategic Command",
+"note": "His STRATCOM tenure, 2019-2022, coincides exactly with the UAP Task Force period and the establishment of AARO.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-ida-org-5c3b068a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ida.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "charles-a-richard",
+"label": "Charles A. Richard"
+},
+{
+"cls": "institution",
+"id": "ida",
+"label": "Institute for Defense Analyses"
+}
+],
+"node": null,
+"title": "Institute for Defense Analyses - Leadership",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.ida.org/about-ida/leadership"
+]
+}

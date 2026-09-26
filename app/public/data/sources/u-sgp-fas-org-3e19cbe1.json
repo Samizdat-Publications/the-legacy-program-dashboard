@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "509th-bomb-group",
+"label": "509th Bomb Group"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 1,
+"id": "e-48accb7292",
+"label": "509th intelligence office took possession of the Roswell debris",
+"note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-sgp-fas-org-3e19cbe1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federation of American Scientists",
+"listedOn": [],
+"node": null,
+"title": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico, ' July 28, 1995",
+"topics": [],
+"type": "document",
+"urls": [
+"https://sgp.fas.org/othergov/roswell.pdf"
+]
+}

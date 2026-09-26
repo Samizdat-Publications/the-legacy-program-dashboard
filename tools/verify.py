@@ -3201,6 +3201,251 @@ def check_idempotent():
 # self-test — every check must be shown capable of failing.
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# The source registry (redesign phase 8). research/_sources.json and
+# research/_claim_sources.json, written by tools/build_source_registry.py from the
+# merged board and the reviewed decisions in research/_source_decisions.json.
+# Six rules, each poisoned in self_test().
+# ---------------------------------------------------------------------------
+
+SOURCES = os.path.join(ROOT, "research", "_sources.json")
+CLAIM_SOURCES = os.path.join(ROOT, "research", "_claim_sources.json")
+SOURCE_DECISIONS = os.path.join(ROOT, "research", "_source_decisions.json")
+SOURCE_FLOOR = os.path.join(ROOT, "tools", "SOURCE-RESOLVED-FLOOR.json")
+SOURCE_TYPES = ("document", "hearing record", "statute", "regulation", "report", "article",
+                "book", "broadcast", "transcript", "web page", "archive index")
+# the files that hold registry output or decisions about it: a URL found only in
+# these has not come from the research
+SOURCE_SIDECARS = {"_sources.json", "_claim_sources.json", "_source_decisions.json"}
+_SOURCES_OVERRIDE = None        # (registry doc, claim-sources doc, decisions doc)
+_SOURCE_FLOOR_OVERRIDE = None
+_RESEARCH_TEXT_CACHE = []
+
+
+def _sources_docs():
+    if _SOURCES_OVERRIDE is not None:
+        return _SOURCES_OVERRIDE
+    out = []
+    for p in (SOURCES, CLAIM_SOURCES, SOURCE_DECISIONS):
+        if os.path.exists(p):
+            with open(p, encoding="utf-8") as fh:
+                out.append(json.load(fh))
+        else:
+            out.append(None)
+    return tuple(out)
+
+
+def _research_text():
+    """Every string anywhere under research/ (decoded, so an escaped URL still
+    counts), the registry's own files left out: the corpus a registry URL must
+    already sit in."""
+    if not _RESEARCH_TEXT_CACHE:
+        parts = []
+
+        def walk(x):
+            if isinstance(x, str):
+                parts.append(x)
+            elif isinstance(x, dict):
+                for k, v in x.items():
+                    parts.append(str(k))
+                    walk(v)
+            elif isinstance(x, list):
+                for v in x:
+                    walk(v)
+        for dirpath, _, files in os.walk(RESEARCH_DIR):
+            for f in sorted(files):
+                if f in SOURCE_SIDECARS:
+                    continue
+                p = os.path.join(dirpath, f)
+                if f.endswith(".json"):
+                    try:
+                        with open(p, encoding="utf-8") as fh:
+                            walk(json.load(fh))
+                    except Exception:
+                        pass
+                elif f.endswith((".md", ".txt")):
+                    with open(p, encoding="utf-8", errors="replace") as fh:
+                        parts.append(fh.read())
+        _RESEARCH_TEXT_CACHE.append("\n".join(parts))
+    return _RESEARCH_TEXT_CACHE[0]
+
+
+@check("no registry URL is absent from research/")
+def _sources_urls_from_research(b):
+    """The one rule that never bends, applied to the registry: every URL and every
+    archived URL it lists must already be written somewhere in research/. A URL a
+    matcher, an agent or a hand edit introduced would be an invented source."""
+    reg = _sources_docs()[0]
+    if reg is None:
+        return ["research/_sources.json is missing (run tools/build_source_registry.py)"]
+    corpus = _research_text()
+    bad = []
+    for s in reg.get("sources") or []:
+        for u in (s.get("urls") or []) + (s.get("archived") or []):
+            if u not in corpus:
+                bad.append(f"{s.get('id')}: {u[:90]} is not in research/")
+    return bad[:30]
+
+
+@check("every claim resolves to a registry source or is marked unresolved")
+def _claims_resolve(b):
+    """Every claim on the board is in `claims` (with sources that exist) or in
+    `unresolved` (with a reason), never both and never neither; every source has an
+    id, a type from the list and a title; and the app ships exactly this mapping on
+    every claims.json row."""
+    reg, cs = _sources_docs()[:2]
+    if reg is None or cs is None:
+        return ["the source registry files are missing (run tools/build_source_registry.py)"]
+    bad = []
+    ids = set()
+    for s in reg.get("sources") or []:
+        sid = s.get("id")
+        if not sid or sid in ids:
+            bad.append(f"registry: a source id is missing or repeated ({sid!r})")
+        ids.add(sid)
+        if s.get("type") not in SOURCE_TYPES:
+            bad.append(f"{sid}: type {s.get('type')!r} is not one of the eleven")
+        if not (s.get("title") or "").strip():
+            bad.append(f"{sid}: no title")
+    board_ids = {c["id"] for n in b["people"] + b["entities"] for c in n.get("claims") or []}
+    got, unr = cs.get("claims") or {}, cs.get("unresolved") or {}
+    for cid in sorted(board_ids - set(got) - set(unr)):
+        bad.append(f"{cid}: neither resolved nor marked unresolved")
+    for cid in sorted(set(got) & set(unr)):
+        bad.append(f"{cid}: both resolved and marked unresolved")
+    for cid in sorted((set(got) | set(unr)) - board_ids):
+        bad.append(f"{cid}: in the claim-sources map but not on the board")
+    for cid, rows in got.items():
+        if not rows:
+            bad.append(f"{cid}: resolved to no source")
+        for r in rows:
+            if r.get("source") not in ids:
+                bad.append(f"{cid}: cites {r.get('source')!r}, which is not in the registry")
+    for cid, u in unr.items():
+        if not (u or {}).get("why"):
+            bad.append(f"{cid}: marked unresolved without a reason")
+    rows = _app_id_rows()[0]
+    if rows is not None:
+        for r in rows:
+            want = [x["source"] for x in got.get(r.get("id")) or []]
+            have = [x.get("id") for x in r.get("sources") or []] if isinstance(r.get("sources"), list) else None
+            if have is None:
+                bad.append(f"app claims.json row {r.get('id')} ships no `sources` list")
+            elif have != want:
+                bad.append(f"app claims.json row {r.get('id')} ships sources {have[:3]}, "
+                           f"the map says {want[:3]}")
+    return bad[:40]
+
+
+@check("the resolved share of claims is at or above tools/SOURCE-RESOLVED-FLOOR.json")
+def _sources_floor(b):
+    """The share of claims resolved to a registry source is committed as a floor, so
+    a later change that loses resolutions reads as a fall, not as a new normal."""
+    cs = _sources_docs()[1]
+    if cs is None:
+        return ["research/_claim_sources.json is missing"]
+    if _SOURCE_FLOOR_OVERRIDE is not None:
+        floor = _SOURCE_FLOOR_OVERRIDE
+    elif os.path.exists(SOURCE_FLOOR):
+        with open(SOURCE_FLOOR, encoding="utf-8") as fh:
+            floor = json.load(fh)
+    else:
+        return ["tools/SOURCE-RESOLVED-FLOOR.json is missing"]
+    want = floor.get("resolvedShare")
+    total = len(cs.get("claims") or {}) + len(cs.get("unresolved") or {})
+    share = len(cs.get("claims") or {}) / total if total else 0.0
+    if not isinstance(want, (int, float)):
+        return ["tools/SOURCE-RESOLVED-FLOOR.json: resolvedShare is not a number"]
+    if share < want:
+        return [f"claims resolved to a source: {len(cs.get('claims') or {})}/{total} = "
+                f"{share:.4f}, below the floor {want}"]
+    return []
+
+
+@check("interested-party sources keep the AARO/DoD cap")
+def _sources_interested_party(b):
+    """Restated from merge.py over the registry, which sees what a string alone does
+    not: a claim cited to "AARO Memorandum for Record" names no aaro.mil URL, but
+    the source it resolves to is the office's own. (1) A source carrying an
+    interested-party URL (aaro.mil, defense.gov, war.gov, ...) is marked
+    interestedParty. (2) A Tier 1 claim whose every source is an interested party is
+    about what that party said (merge.py's attribution words), or carries a recorded
+    adjudication in research/_source_decisions.json `tierAdjudications`."""
+    from merge import INTERESTED_PARTY_PAT as IPP, ATTRIBUTION_PAT as ATT
+    reg, cs, dec = _sources_docs()
+    if reg is None or cs is None:
+        return ["the source registry files are missing"]
+    bad = []
+    by = {}
+    for s in reg.get("sources") or []:
+        by[s["id"]] = s
+        if any(IPP.search(u) for u in (s.get("urls") or []) + (s.get("archived") or [])) \
+                and not s.get("interestedParty"):
+            bad.append(f"{s['id']}: carries an interested-party URL but is not marked interestedParty")
+    adj = ((dec or {}).get("tierAdjudications") or {})
+    claims = {c["id"]: c for n in b["people"] + b["entities"] for c in n.get("claims") or []}
+    for cid, rows in (cs.get("claims") or {}).items():
+        c = claims.get(cid)
+        if not c or c.get("tier") != 1 or not rows:
+            continue
+        if all((by.get(r["source"]) or {}).get("interestedParty") for r in rows) \
+                and not ATT.search(c.get("text") or ""):
+            why = (adj.get(cid) or {}).get("why")
+            if not why:
+                bad.append(f"{cid}: Tier 1 on interested-party sources only "
+                           f"({', '.join(r['source'] for r in rows)[:60]}) and not about what they said")
+    for cid, a in adj.items():
+        if cid not in claims:
+            bad.append(f"tierAdjudications names {cid}, which is not a claim on the board")
+    return bad[:30]
+
+
+@check("no board bookkeeping reaches the source registry")
+def _sources_no_bookkeeping(b):
+    """P5c, restated for phase 8: a "Board bookkeeping" row is a note about the board,
+    not a claim and not a source. None may be a registry source, and none may sit
+    in the claim-sources map (the map holds only claims on the board, which the
+    check above holds, and no bookkeeping row is a claim)."""
+    reg, cs = _sources_docs()[:2]
+    bad = []
+    for s in (reg or {}).get("sources") or []:
+        if "board bookkeeping" in (s.get("title") or "").lower():
+            bad.append(f"{s['id']}: a registry source titled as board bookkeeping")
+    for n in b["people"] + b["entities"]:
+        note = (n.get("boardNote") or "").strip()
+        if note and cs:
+            for c in n.get("claims") or []:
+                if (c.get("text") or "").strip() == note and c["id"] in (cs.get("claims") or {}):
+                    bad.append(f"{n['id']}: its board note is resolved as a claim")
+    return bad[:20]
+
+
+@check("a source read from a string alone invents nothing")
+def _sources_string_only(b):
+    """A source the review created from a claim's source string (id `t-...`) has no
+    URL, and its title is text copied from a string that cites it: the reading may
+    name the source, it may not add to it."""
+    reg, cs = _sources_docs()[:2]
+    if reg is None or cs is None:
+        return []
+    claims = {c["id"]: c for n in b["people"] + b["entities"] for c in n.get("claims") or []}
+    strings = {}
+    for cid, rows in (cs.get("claims") or {}).items():
+        for r in rows:
+            strings.setdefault(r["source"], []).append(
+                re.sub(r"\s+", " ", (claims.get(cid) or {}).get("source") or ""))
+    bad = []
+    for s in reg.get("sources") or []:
+        if not s["id"].startswith("t-"):
+            continue
+        if s.get("urls") or s.get("archived"):
+            bad.append(f"{s['id']}: a string-only source carries a URL")
+        t = re.sub(r"\s+", " ", s.get("title") or "").strip().lower()
+        if not any(t and t in x.lower() for x in strings.get(s["id"], [])):
+            bad.append(f"{s['id']}: its title {t[:50]!r} is not in any string that cites it")
+    return bad[:20]
+
+
 def self_test():
     """Feed each check input it MUST reject. A check that passes here is broken,
     and a broken check is worse than no check because it reads as evidence."""
@@ -3807,9 +4052,122 @@ def self_test():
         "a denial predicate's subject is the adjudicated denier": [_preds_poison(pred_denier_reversed)],
     }
 
+    # ---- the source registry (phase 8). The real registry, map and decisions, each
+    # broken one way, and the app's claims.json row that stops shipping the map.
+    def _src_poison(fn_):
+        def mutate(rb):
+            global _SOURCES_OVERRIDE, _SOURCE_FLOOR_OVERRIDE
+            docs = [copy.deepcopy(x) for x in _sources_docs()]
+            docs[2] = docs[2] or {}
+            fn_(docs, rb)
+            _SOURCES_OVERRIDE = tuple(docs)
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def src_invented_url(docs, rb):
+        docs[0]["sources"][0].setdefault("urls", []).append(
+            "https://example.invalid/planted-by-the-poison.pdf")
+
+    def src_invented_archive(docs, rb):
+        docs[0]["sources"][-1].setdefault("archived", []).append(
+            "https://web.archive.org/web/20990101000000/https://example.invalid/x")
+
+    def src_claim_dropped(docs, rb):
+        docs[1]["claims"].pop(sorted(docs[1]["claims"])[0])
+
+    def src_dangling(docs, rb):
+        k = sorted(docs[1]["claims"])[0]
+        docs[1]["claims"][k] = [{"source": "zz-no-such-source", "locator": None, "by": "poison"}]
+
+    def src_both(docs, rb):
+        k = sorted(docs[1]["claims"])[0]
+        docs[1]["unresolved"][k] = {"why": "poison"}
+
+    def src_unreasoned(docs, rb):
+        k = sorted(docs[1]["unresolved"])[0]
+        docs[1]["unresolved"][k] = {"why": ""}
+
+    def src_bad_type(docs, rb):
+        docs[0]["sources"][0]["type"] = "podcast episode"
+
+    def src_floor(docs, rb):
+        global _SOURCE_FLOOR_OVERRIDE
+        _SOURCE_FLOOR_OVERRIDE = {"resolvedShare": 0.9999}
+
+    def src_resolutions_lost(docs, rb):
+        for k in sorted(docs[1]["claims"])[: len(docs[1]["claims"]) // 10]:
+            docs[1]["unresolved"][k] = {"why": "poison"}
+            docs[1]["claims"].pop(k)
+
+    def src_unmark_interested(docs, rb):
+        from merge import INTERESTED_PARTY_PAT as IPP
+        s = next(s for s in docs[0]["sources"] if any(IPP.search(u) for u in s.get("urls") or []))
+        s["interestedParty"] = False
+
+    def src_tier1_on_office(docs, rb):
+        # a Tier 1 claim about an outside fact, pointed at the office's own source only
+        from merge import ATTRIBUTION_PAT as ATT
+        ip = next(s["id"] for s in docs[0]["sources"] if s.get("interestedParty"))
+        adj = (docs[2].get("tierAdjudications") or {})
+        c = next(c for n in rb["people"] + rb["entities"] for c in n.get("claims") or []
+                 if c.get("tier") == 1 and not ATT.search(c.get("text") or "")
+                 and c["id"] not in adj)
+        docs[1]["unresolved"].pop(c["id"], None)
+        docs[1]["claims"][c["id"]] = [{"source": ip, "locator": None, "by": "poison"}]
+
+    def src_adjudication_orphan(docs, rb):
+        docs[2].setdefault("tierAdjudications", {})["c-0000000000"] = {"why": "poison"}
+
+    def src_bookkeeping(docs, rb):
+        docs[0]["sources"].append({"id": "t-poison-bk", "type": "document", "title": "Board bookkeeping",
+                                   "urls": [], "archived": []})
+
+    def src_string_url(docs, rb):
+        s = next((s for s in docs[0]["sources"] if s["id"].startswith("t-")), None)
+        if s is None:
+            s = {"id": "t-poison", "type": "article", "title": "x", "urls": [], "archived": []}
+            docs[0]["sources"].append(s)
+            k = sorted(docs[1]["claims"])[0]
+            docs[1]["claims"][k] = [{"source": "t-poison", "locator": None, "by": "poison"}]
+        s["urls"] = ["https://example.invalid/string-only"]
+
+    def src_string_title(docs, rb):
+        s = next((s for s in docs[0]["sources"] if s["id"].startswith("t-")), None)
+        if s is None:
+            s = {"id": "t-poison", "type": "article", "title": "x", "urls": [], "archived": []}
+            docs[0]["sources"].append(s)
+            k = sorted(docs[1]["claims"])[0]
+            docs[1]["claims"][k] = [{"source": "t-poison", "locator": None, "by": "poison"}]
+        s["title"] = "A Title The Reviewer Never Read In Any String"
+
+    def app_row_without_sources(rb):
+        global _APP_IDS_OVERRIDE
+        claims_rows, edge_rows = _app_id_rows()
+        claims_rows = copy.deepcopy(claims_rows)
+        r = next(r for r in claims_rows if r.get("sources"))
+        r["sources"] = r["sources"][1:] + [{"id": "zz-other"}]
+        _APP_IDS_OVERRIDE = (claims_rows, edge_rows)
+
+    poison_realboard_sources = {
+        "no registry URL is absent from research/":
+            [_src_poison(src_invented_url), _src_poison(src_invented_archive)],
+        "every claim resolves to a registry source or is marked unresolved":
+            [_src_poison(f) for f in (src_claim_dropped, src_dangling, src_both,
+                                      src_unreasoned, src_bad_type)] + [app_row_without_sources],
+        "the resolved share of claims is at or above tools/SOURCE-RESOLVED-FLOOR.json":
+            [_src_poison(src_floor), _src_poison(src_resolutions_lost)],
+        "interested-party sources keep the AARO/DoD cap":
+            [_src_poison(f) for f in (src_unmark_interested, src_tier1_on_office,
+                                      src_adjudication_orphan)],
+        "no board bookkeeping reaches the source registry": [_src_poison(src_bookkeeping)],
+        "a source read from a string alone invents nothing":
+            [_src_poison(src_string_url), _src_poison(src_string_title)],
+    }
+
     poison_realboard = {
         **poison_realboard_ids,
         **poison_realboard_preds,
+        **poison_realboard_sources,
         "every claim and edge carries a stable id, unique and derived from its content":
             [_two_claims_one_id, _edge_loses_id, _malformed_id, _app_row_without_id],
         "every authored claim reaches the board or is listed":
@@ -4229,7 +4587,7 @@ def self_test():
             caught = []
             for mutate in poison_realboard[name]:
                 pb = copy.deepcopy(_real_board)
-                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE, _REMOVED_OVERRIDE, _SIDECARS_OVERRIDE, _PREDS_OVERRIDE, _APP_NODES_OVERRIDE
+                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE, _REMOVED_OVERRIDE, _SIDECARS_OVERRIDE, _PREDS_OVERRIDE, _APP_NODES_OVERRIDE, _SOURCES_OVERRIDE, _SOURCE_FLOOR_OVERRIDE
                 try:
                     mutate(pb)
                     got = fn(pb)
@@ -4241,6 +4599,8 @@ def self_test():
                     _TOPICS_OVERRIDE = None
                     _PREDS_OVERRIDE = None
                     _APP_NODES_OVERRIDE = None
+                    _SOURCES_OVERRIDE = None
+                    _SOURCE_FLOOR_OVERRIDE = None
                 if not got:
                     caught = []
                     print(f"  FAIL  {name} accepted its poison {mutate.__name__}")

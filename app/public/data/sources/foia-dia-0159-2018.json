@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 2,
+"id": "e-5cc5316eb0",
+"label": "Wayne State clinician authored the AAWSAP human-effects reference document",
+"note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "foia-dia-0159-2018",
+"identifiers": [
+"DIA FOIA-0159-2018"
+],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [],
+"node": null,
+"title": "DIA FOIA-0159-2018",
+"topics": [],
+"type": "document",
+"urls": []
+}

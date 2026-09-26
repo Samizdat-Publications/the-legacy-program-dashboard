@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-6543af6d04",
+"locator": null,
+"node": "usc-50-3306",
+"nodeLabel": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/3306",
+"text": "50 U.S.C. 3306(c) permits the President to waive or postpone either disclosure on submitting an unclassified damage statement and a reasons statement that may be classified.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-afe65bf40d",
+"locator": null,
+"node": "usc-50-3306",
+"nodeLabel": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/3306",
+"text": "50 U.S.C. 3306(b) requires the DNI to disclose the aggregate NIP appropriated amount within 30 days of the end of each fiscal year.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-c5f0e7f758",
+"locator": null,
+"node": "usc-50-3306",
+"nodeLabel": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/3306",
+"text": "50 U.S.C. 3306(a) requires public disclosure of the aggregate NIP appropriations request at the time the President submits the budget.",
+"tier": 1
+}
+],
+"date": "2007-08-03",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3306",
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+},
+"b": {
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026"
+},
+"claimTier": 1,
+"id": "e-2517b6f864",
+"label": "The statute that produced the second segment of the disclosure record",
+"note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
+"type": "legislative"
+}
+],
+"era": "2",
+"id": "usc-50-3306",
+"identifiers": [
+"50 U.S.C. 3306"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-3306",
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "usc-50-3306",
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+},
+"title": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"topics": [
+{
+"claims": [
+"c-6543af6d04",
+"c-afe65bf40d",
+"c-c5f0e7f758"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.law.cornell.edu/uscode/text/50/3306"
+]
+}

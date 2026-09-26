@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "af-atic-film-0352",
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')"
+},
+"b": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"claimTier": 1,
+"id": "e-3c04e663b3",
+"label": "Ruppelt is the briefer on the recording",
+"note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+"claimTier": 1,
+"id": "e-56c072c9ea",
+"label": "8 May 2026 letter demanding the 1952 Ruppelt recording by file designation",
+"note": "Burlison asked Lincoln Laboratory to determine the status of 'AF-ATIC-FILM, 03/52' and coordinate with NARA on preservation and archival review.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-burlison-house-gov-167fdf37",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "document",
+"id": "af-atic-film-0352",
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')"
+},
+{
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+}
+],
+"node": null,
+"title": "Burlison press release",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases/burlison-requests-review-identified-1952-uap-recording"
+]
+}

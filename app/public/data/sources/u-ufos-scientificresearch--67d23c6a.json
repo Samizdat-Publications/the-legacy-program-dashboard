@@ -1,0 +1,978 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2dfa379aaf",
+"locator": null,
+"node": "dird-anomalous-acute-and-subacute-field-effects",
+"nodeLabel": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The title as printed on the released document, \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", is materially more specific than the title the DIA reported to the Senate Armed Services Committee, \"Field Effects on Biological Tissues\". The words \"Anomalous\" and \"Human\" were not in the version of the title given to Congress.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-615320e008",
+"locator": null,
+"node": "dird-antigravity-for-aerospace-applications",
+"nodeLabel": "Antigravity for Aerospace Applications",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), \"Antigravity for Aerospace Applications\", Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1003-018, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC. This is the author's own attribution and matches the DIA list and the cover page exactly.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-fd59989e00",
+"locator": null,
+"node": "dird-cognitive-limits-on-simultaneous-control-of",
+"nodeLabel": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "It is one of three DIRDs by Genik, alongside 'Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces' and 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' - the largest single-author block after Eric Davis.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-91a405bf62",
+"locator": null,
+"node": "friedwardt-winterberg",
+"nodeLabel": "Friedwardt Winterberg",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The same DIA list credits item 36, \"Negative Mass Propulsion\", to Dr F Winterberg, University of Nevada-Reno.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4fbd4c6b85",
+"locator": null,
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 10 as \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\"",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e439fc9793",
+"locator": null,
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The same DIA list credits Hathaway with a second DIRD, item 16, \"Maverick Inventor Versus Corporate Inventor.\"",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0678c85bf3",
+"locator": null,
+"node": "john-albertine",
+"nodeLabel": "J. Albertine",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists the high-energy laser weapons paper twice: item 37, \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the unclassified version by the same author.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4dfd1e9f67",
+"locator": null,
+"node": "john-albertine",
+"nodeLabel": "J. Albertine",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The earlier KLAS-TV list gave item 25 as \"Laser Weapons, J Albertine, M.S., Directed Technologies\" and left the 38th DIRD as \"Redacted.\" The DIA letter resolved the redacted item as the classified version of the same laser paper.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9fe2d9b568",
+"locator": null,
+"node": "j-golightly",
+"nodeLabel": "J. Golightly",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 35 as \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\"",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c012a86ab2",
+"locator": null,
+"node": "j-golightly",
+"nodeLabel": "J. Golightly",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Lockheed Martin is the DIA-listed affiliation for three DIRDs: Golightly's ultracapacitors paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion\" and Dr S Macheret's MHD air-breathing propulsion paper.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c356ded2b2",
+"locator": null,
+"node": "james-wells",
+"nodeLabel": "James Wells",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The earlier George Knapp / KLAS-TV list of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman' rather than J W Enterprises. The discrepancy is unresolved; the DIA list is treated as authoritative.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2fc9cddaec",
+"locator": null,
+"node": "john-cramer",
+"nodeLabel": "John G. Cramer",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The KLAS-TV list of the same thirty-eight DIRDs, published 25 July 2018 by George Knapp and Matt Adams and confirmed genuine by Luis Elizondo, gives the same document as \"Quantum Entanglement Communication, Dr J Cramer, Univ of Washington.\"",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f06b0e8353",
+"locator": null,
+"node": "john-cramer",
+"nodeLabel": "John G. Cramer",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 25 as \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\"",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3d8ba5074a",
+"locator": null,
+"node": "paul-czysz",
+"nodeLabel": "Paul A. Czysz",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists DIRD item 4 as \"Space Access, Dr P Czysz, HyperTech.\"",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-cd4621411e",
+"locator": null,
+"node": "dird-pulsed-high-power-microwave-source-technology",
+"nodeLabel": "Pulsed High-Power Microwave Source Technology",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The earlier George Knapp / KLAS-TV roster of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman'. The DIA list is treated as authoritative; the discrepancy is recorded, not resolved.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-010f58bab1",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Wayne State University accounts for four of the thirty-eight DIRDs across two authors - Genik's three and Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-79a773dd70",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The same DIA list credits Genik with two further DIRDs: item 28, \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft,\" and item 33, \"Quantum Computing and Utilizing Organic Molecules in Automation Technology.\" Three of the thirty-eight DIRDs are his.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-cacdbfecf0",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 20 as \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a1732d6c7c",
+"locator": null,
+"node": "richard-obousy",
+"nodeLabel": "Richard K. Obousy",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" The government's own list names Obousy, not Davis, as the author.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-5c670ba125",
+"locator": null,
+"node": "dird-space-access-where-we-ve-been",
+"nodeLabel": "Space Access: Where We've Been and Where We Could Go",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018 to the Senate Armed Services Committee, item 4: \"Space Access, Dr P Czysz, HyperTech.\"",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-708d561bcc",
+"locator": null,
+"node": "dird-state-of-the-art-and-evolution",
+"nodeLabel": "State of the Art and Evolution of High-Energy Laser Weapons",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, which lists the paper twice: item 37 \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the same title and author unclassified.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-8349cdd462",
+"locator": null,
+"node": "dird-state-of-the-art-and-evolution",
+"nodeLabel": "State of the Art and Evolution of High-Energy Laser Weapons",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "This document accounts for the long-unexplained 38th entry on the AAWSAP deliverables list, which the earlier KLAS-TV list of July 2018 carried only as \"Redacted.\" It is the sole DIRD known to have had a classified version, making it the only classified deliverable in the set.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-a22e3d0c3d",
+"locator": null,
+"node": "dird-state-of-the-art-and-evolution",
+"nodeLabel": "State of the Art and Evolution of High-Energy Laser Weapons",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA list renders the title as \"State of the Art and Evaluation of High Energy Laser Weapons\" while the released document is titled \"State of the Art and Evolution of High-Energy Laser Weapons.\" Evaluation versus Evolution is an unresolved discrepancy between the government list and the government document.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-088cd90238",
+"locator": null,
+"node": "dird-technological-approaches-to-controlling-external-devices",
+"nodeLabel": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The earlier KLAS-TV list of the same document, published 25 July 2018, titles it \"Brain-Machine Interfaces, Dr R Genik, Wayne State Univ.\" The DIA title and the KLAS title describe the same paper.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-d542d009fe",
+"locator": null,
+"node": "dird-technological-approaches-to-controlling-external-devices",
+"nodeLabel": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-f0fdc638e3",
+"locator": null,
+"node": "dird-technological-approaches-to-controlling-external-devices",
+"nodeLabel": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "One of three DIRDs written by Genik, and one of four DIRDs whose DIA-listed affiliation is Wayne State University, the fourth being Kit Green's \"Field Effects on Biological Tissues.\" The human-effects and human-interface strand of AAWSAP concentrated at that institution.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-6b457b0446",
+"locator": null,
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This attribution corrects the common assumption that the paper was written by one of the academic gravity-modification claimants whose work it reviews.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-8a73212c00",
+"locator": null,
+"node": "dird-the-space-communication-implications-of-quantum",
+"nodeLabel": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, item 25: \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\"",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-c84a24bbd3",
+"locator": null,
+"node": "dird-the-space-communication-implications-of-quantum",
+"nodeLabel": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The earlier KLAS-TV list titles the same document \"Quantum Entanglement Communication,\" stating the tasking directly: whether entanglement can be made to carry a signal, and what that would mean for space communication.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-ea84755c68",
+"locator": null,
+"node": "dird-traversable-wormholes-stargates-and-negative-energy",
+"nodeLabel": "Traversable Wormholes, Stargates, and Negative Energy",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" The popular attribution to Davis is, in this case, correct and matches the government list.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-269efc3671",
+"locator": null,
+"node": "dird-ultracapacitors-as-energy-and-power-storage",
+"nodeLabel": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "One of three DIRDs whose DIA-listed affiliation is Lockheed Martin, alongside Dr V Teofilo's \"Aneutronic Fusion Propulsion\" and Dr S Macheret's MHD air-breathing propulsion paper.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-a0f530a9c8",
+"locator": null,
+"node": "dird-ultracapacitors-as-energy-and-power-storage",
+"nodeLabel": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\"",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7723209207",
+"locator": null,
+"node": "vincent-teofilo",
+"nodeLabel": "Vincent L. Teofilo",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Two other DIRDs on the DIA list were authored by Lockheed Martin staff: item 32, MHD Air Breathing Propulsion and Power for Aerospace Applications (Dr S Macheret), and item 35, Ultracapacitors as Energy and Power Storage Devices (Dr J Golightly).",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-5972eead09",
+"locator": null,
+"node": "dird-warp-drive-dark-energy-and-the",
+"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"sourceText": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" The government's own list names Obousy, not Eric Davis, as the author of record. The widespread press attribution of this paper to Davis alone is not supported by the DIA list.",
+"tier": 2
+}
+],
+"date": "2019-01",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-state-of-the-art-and-evolution",
+"label": "State of the Art and Evolution of High-Energy Laser Weapons"
+},
+"claimTier": 1,
+"id": "e-4c646c9f07",
+"label": "AAWSAP deliverable; the only one with a classified version",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+"b": {
+"cls": "person",
+"id": "bruce-towe",
+"label": "Bruce C. Towe"
+},
+"claimTier": 1,
+"id": "e-3205e66425",
+"label": "authored by Bruce Towe",
+"note": "Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17).",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"b": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"claimTier": 1,
+"id": "e-4397e53108",
+"label": "authored by Richard J. Genik II",
+"note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-5d1a72c334",
+"label": "author's institution at time of writing",
+"note": "Genik was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine. Wayne State supplied four of the 38 DIRDs across two authors - Genik's three plus Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International's six.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications"
+},
+"claimTier": 1,
+"id": "e-81f714787a",
+"label": "authored",
+"note": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+"claimTier": 1,
+"id": "e-222dfff74c",
+"label": "author of record on the DIA list and on EarthTech's own citation list",
+"note": "DIA list item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" Unlike the warp-drive paper, the popular attribution to Davis is confirmed by the government list here. EarthTech's own bibliography carries the same citation with the document number DIA-08-1004-004.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"claimTier": 1,
+"id": "e-9037c18b0f",
+"label": "author of record on the DIA list",
+"note": "DIA list item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"b": {
+"cls": "person",
+"id": "george-miley",
+"label": "George H. Miley"
+},
+"claimTier": 1,
+"id": "e-5bc069a345",
+"label": "authored by George H. Miley, University of Illinois",
+"note": "Entry 1 on both the KLAS list of July 2018 and the DIA letter of 9 January 2018: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.' The released PDF's author block is redacted under (b)(5). Miley is co-author of the Springer monograph on IEC fusion, making him a documented subject-matter authority rather than a fringe recruit.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"b": {
+"cls": "domain",
+"id": "d-plasma",
+"label": "Plasma Physics & Atmospheric Electricity"
+},
+"claimTier": 1,
+"id": "e-5174a7ba01",
+"label": "subject domain: compact non-tokamak fusion power",
+"note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-albertine",
+"label": "J. Albertine"
+},
+"b": {
+"cls": "document",
+"id": "dird-state-of-the-art-and-evolution",
+"label": "State of the Art and Evolution of High-Energy Laser Weapons"
+},
+"claimTier": 1,
+"id": "e-71eff4f014",
+"label": "author of record on the DIA list, both versions",
+"note": "The DIA letter lists this paper twice, items 37 and 38, both credited to J Albertine of Directed Technologies: one formerly classified SECRET//NOFORN, one unclassified. The board node is labelled with the initial because no source consulted confirms the given name; the probable identification with John R. Albertine of the Navy High Energy Laser Program Office is carried as a tier-3 claim on the person node.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "j-golightly",
+"label": "J. Golightly"
+},
+"b": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"claimTier": 1,
+"id": "e-b3980ce5de",
+"label": "author of record on the DIA list",
+"note": "DIA list item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-cramer",
+"label": "John G. Cramer"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+"claimTier": 1,
+"id": "e-2681dff6d0",
+"label": "author of record on the DIA list",
+"note": "DIA list item 25: \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\" A mainstream university physicist, not a programme insider.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-laser-lightcraft-nanosatellites",
+"label": "Laser Lightcraft Nanosatellites"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 1,
+"id": "e-a5dc20c3b5",
+"label": "authored by",
+"note": "The DIA list of all 38 AATIP/AAWSAP products, transmitted to the Senate Armed Services Committee in January 2018 and released under FOIA in January 2019, credits 'Laser Lightcraft Nanosatellites' to 'Dr E Davis, EarthTech'. The author line on the released PDF cover page is redacted, so this attribution rests on the congressional list rather than the document.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+},
+"b": {
+"cls": "person",
+"id": "sergey-macheret",
+"label": "Sergey O. Macheret"
+},
+"claimTier": 1,
+"id": "e-3072445046",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"b": {
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+},
+"claimTier": 1,
+"id": "e-48dcafb07e",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Negative Mass Propulsion' to 'Dr F Winterberg, Univ of Nevada-Reno'. Winterberg is also credited on the same list with 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and published related negative-mass propulsion work in the Journal of the British Interplanetary Society in 2011.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-czysz",
+"label": "Paul A. Czysz"
+},
+"b": {
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+},
+"claimTier": 1,
+"id": "e-a4d473a7b9",
+"label": "author of record on the DIA list",
+"note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"b": {
+"cls": "person",
+"id": "james-wells",
+"label": "James Wells"
+},
+"claimTier": 1,
+"id": "e-3b0c60af92",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"b": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"claimTier": 1,
+"id": "e-47f3139171",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 1,
+"id": "e-eced695694",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Quantum Tomography of Negative Energy States in the Vacuum' to 'Dr Eric Davis, EarthTech'. This is one of a coherent negative-energy sub-series by the same author within the DIRD set, alongside 'Traversable Wormholes, Stargates and Negative Energy' and the quantum-vacuum energy extraction paper.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"b": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"claimTier": 2,
+"id": "e-fa3cbb7ee2",
+"label": "co-affiliated AAWSAP authors at Wayne State University",
+"note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"b": {
+"cls": "document",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+},
+"claimTier": 1,
+"id": "e-2b0f8cc752",
+"label": "author of record on the DIA list",
+"note": "DIA list item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\" The KLAS-TV list of July 2018 gives the same document the plainer title \"Brain-Machine Interfaces.\"",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+"b": {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+"claimTier": 1,
+"id": "e-856311815c",
+"label": "author of record on the DIA list; lead author",
+"note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-0ac4b924d5",
+"label": "author's affiliation of record",
+"note": "Wayne State is the DIA-listed affiliation for four DIRDs: Genik's three human-factors papers and Kit Green's \"Field Effects on Biological Tissues.\" That makes it the single most productive institution in the DIRD set after EarthTech International, and the locus of the programme's human-effects line of inquiry.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-fe46c80cec",
+"label": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
+"note": "EarthTech International lists six DIRDs by Eric Davis on its publications page, with DIA document numbers and the issuing division named as the Acquisition Support Division (DWO-3) or Technology Warning Division (DWO-4) of the Defense Warning Office. A contractor publishing its DIA reference-document numbers on an open website is itself part of how the DIRD series became documentable.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-0bd57a7667",
+"label": "author's affiliation of record; one of three Lockheed Martin DIRDs",
+"note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-ufos-scientificresearch--67d23c6a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufos-scientificresearch.blogspot.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+"label": "Advanced Nuclear Propulsion for Manned Deep Space Missions"
+},
+{
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+{
+"cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications"
+},
+{
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+{
+"cls": "person",
+"id": "bruce-towe",
+"label": "Bruce C. Towe"
+},
+{
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+{
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+{
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+},
+{
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+{
+"cls": "person",
+"id": "george-miley",
+"label": "George H. Miley"
+},
+{
+"cls": "person",
+"id": "gerald-smith",
+"label": "Gerald A. Smith"
+},
+{
+"cls": "person",
+"id": "john-albertine",
+"label": "J. Albertine"
+},
+{
+"cls": "person",
+"id": "j-golightly",
+"label": "J. Golightly"
+},
+{
+"cls": "person",
+"id": "james-wells",
+"label": "James Wells"
+},
+{
+"cls": "person",
+"id": "john-cramer",
+"label": "John G. Cramer"
+},
+{
+"cls": "document",
+"id": "dird-laser-lightcraft-nanosatellites",
+"label": "Laser Lightcraft Nanosatellites"
+},
+{
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+{
+"cls": "person",
+"id": "paul-czysz",
+"label": "Paul A. Czysz"
+},
+{
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+{
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+{
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+{
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy"
+},
+{
+"cls": "person",
+"id": "robert-baker",
+"label": "Robert M. L. Baker, Jr."
+},
+{
+"cls": "person",
+"id": "sergey-macheret",
+"label": "Sergey O. Macheret"
+},
+{
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go"
+},
+{
+"cls": "document",
+"id": "dird-state-of-the-art-and-evolution",
+"label": "State of the Art and Evolution of High-Energy Laser Weapons"
+},
+{
+"cls": "document",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+},
+{
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+{
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy"
+},
+{
+"cls": "person",
+"id": "ulf-leonhardt",
+"label": "Ulf Leonhardt"
+},
+{
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+{
+"cls": "person",
+"id": "vincent-teofilo",
+"label": "Vincent L. Teofilo"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+},
+{
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth"
+}
+],
+"node": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+"topics": [
+{
+"claims": [
+"c-a22e3d0c3d",
+"c-5972eead09"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+},
+{
+"claims": [
+"c-2dfa379aaf"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "article",
+"urls": [
+"https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+]
+}

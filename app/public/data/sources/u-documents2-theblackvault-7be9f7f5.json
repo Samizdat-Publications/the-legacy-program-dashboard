@@ -1,0 +1,120 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-4e3287c99f",
+"locator": null,
+"node": "dird-quantum-computing-and-utilizing-organic-molecules",
+"nodeLabel": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+"text": "The Intelligence Cut-Off Date and the publication date are identical (both 10 December 2010) — unusual across the DIRD series, where the ICOD normally precedes publication by weeks to months.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9e18597d09",
+"locator": null,
+"node": "dird-quantum-computing-and-utilizing-organic-molecules",
+"nodeLabel": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+"text": "Cover page reads: '10 December 2010 / ICOD: 10 December 2010 / DIA-08-1102-005 / Defense Intelligence Reference Document / Defense Futures / Quantum Computing and Utilizing Organic Molecules in Automation Technology'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"claimTier": 1,
+"id": "e-7f47c6fbc6",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"b": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"claimTier": 1,
+"id": "e-47f3139171",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-dc62594a14",
+"label": "author's institutional affiliation at time of writing",
+"note": "Wayne State University is the affiliation recorded against this title on the DIA congressional list. Wayne State appears more than once on the list: it is also the affiliation given for Kit Green's human-tissue field-effects deliverable, so both the human-effects and human-interface strands of the AAWSAP deliverable set run through the same medical school.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"claimTier": 1,
+"id": "e-e01cce6a2f",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 December 2010 on the cover. 55 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-documents2-theblackvault-7be9f7f5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+{
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+}
+],
+"node": null,
+"title": "Released DIRD, 'Quantum Computing and Utilizing Organic Molecules in Automation Techno' — FOIA copy, cover page read 22 August 2026",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf"
+]
+}

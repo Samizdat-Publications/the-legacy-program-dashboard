@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-rand-org-75d696d4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "RAND",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-kocher",
+"label": "George Kocher"
+},
+{
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+}
+],
+"node": null,
+"title": "RAND - Mapping Public Reports of Unidentified Aerial Phenomena Across America (RRA2475-1)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf"
+]
+}

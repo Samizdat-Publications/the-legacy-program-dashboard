@@ -1,0 +1,40 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-sian-an-gov-br-04c25bec",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Governo do Brasil",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil"
+},
+{
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+{
+"cls": "domain",
+"id": "d-international",
+"label": "International & Allied Programs"
+},
+{
+"cls": "location",
+"id": "l-varginha",
+"label": "Varginha, Minas Gerais, Brazil"
+}
+],
+"node": null,
+"title": "Arquivo Nacional (Brazil) - Sistema de Informacoes do Arquivo Nacional",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sian.an.gov.br/"
+]
+}

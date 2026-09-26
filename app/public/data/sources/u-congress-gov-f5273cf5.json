@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+},
+"claimTier": 1,
+"id": "e-d83ca4e935",
+"label": "Sponsor",
+"note": "Introduced 11 January 2024, the day before the ICIG briefing.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"id": "u-congress-gov-f5273cf5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+},
+{
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+}
+],
+"node": null,
+"title": "Congress.gov, H.R. 6967 — Safe Airspace for Americans Act (118th Congress)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/bill/118th-congress/house-bill/6967"
+]
+}

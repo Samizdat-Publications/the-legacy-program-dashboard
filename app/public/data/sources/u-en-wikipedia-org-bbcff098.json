@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-en-wikipedia-org-bbcff098",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-france",
+"label": "France"
+}
+],
+"node": null,
+"title": "Wikipedia - France",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/France"
+]
+}

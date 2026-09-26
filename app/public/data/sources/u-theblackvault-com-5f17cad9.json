@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+},
+"b": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"claimTier": 1,
+"id": "e-405ff075e9",
+"label": "Records an AFOSI inquiry into possible mishandling of classified material",
+"note": "AFOSI examined the video handling and concluded the material was unclassified, closing the matter. Elizondo later alleged the inquiry was orchestrated against him.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-f32d2ac604",
+"label": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'",
+"note": "The first written denial of Elizondo's program role, produced inside OUSD(I) within a week of the NYT story and routed to the Secretary of Defense. Every later public denial restates it.",
+"type": "denial"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-5f17cad9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "garry-reid",
+"label": "Garry P. Reid"
+},
+{
+"cls": "document",
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+}
+],
+"node": null,
+"title": "The Black Vault — Pentagon Memos Reveal",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+]
+}

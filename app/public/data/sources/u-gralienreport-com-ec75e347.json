@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-gralienreport-com-ec75e347",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "gralienreport.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "howard-c-cross",
+"label": "Howard C. Cross"
+},
+{
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+}
+],
+"node": null,
+"title": "The Gralien Report - The Pentacle Memorandum",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.gralienreport.com/ufos/the-pentacle-memorandum-what-a-1953-secret-memo-tells-us-about-government-ufo-studies/"
+]
+}

@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-2c72911f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+}
+],
+"node": null,
+"title": "Porritt, Hancock & Grosvenor, 'UAP Operational Presence 1945-1975', SCU (Zenodo)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.5281/zenodo.16299623"
+]
+}

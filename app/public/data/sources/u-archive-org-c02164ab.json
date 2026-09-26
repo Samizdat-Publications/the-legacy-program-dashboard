@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c7427098aa",
+"locator": null,
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"sourceText": "Stanton T. Friedman, 'Top Secret/MAJIC' (Marlowe & Co., 1996) https://archive.org/details/topsecretmajic0000frie",
+"text": "Friedman's 'Top Secret/MAJIC' was published by Marlowe & Co. in 1996, ISBN 1569248303, and is available as a full scan. The board's claim about his Hillenkoetter-memo analysis cited this book by title with no locator.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-c02164ab",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+}
+],
+"node": null,
+"title": "Stanton T. Friedman, 'Top Secret/MAJIC' (New York: Marlowe & Co., 1996), ISBN 1569248303",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/topsecretmajic0000frie"
+]
+}

@@ -7,26 +7,34 @@
 {
 "id": "c-1b56ca861a",
 "source": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
+"sources": [],
 "text": "'Staff members prepared a classified Estimate of the Situation in July 1948 asserting UFOs were interplanetary vehicles. Air Force Chief of Staff Gen. Vandenberg rejected it for lacking proof, and copies were destroyed.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-17b195e696",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"sources": [],
 "text": "Ruppelt first published the existence, content and destruction of the Estimate in 1956 based on his tenure as Blue Book director.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-6cdbb9b4fa",
 "source": "Congressional and Air Force statements catalogued in the secondary literature on Project SIGN",
+"sources": [],
 "text": "Air Force representatives and Rep. L. Mendel Rivers have asserted that no such Estimate ever existed.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-962a42fa0b",
 "source": "Inference from the conflict between Condon Sec. V Ch. 2 and later official denials",
+"sources": [],
 "text": "A government-contracted official report and official denials cannot both be correct; the contracted report was written with access to Air Force files and the denials were made publicly, which favours the report.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

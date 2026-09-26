@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": "2023-11-30",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-780376d816",
+"label": "first Director, July 2022 - 1 December 2023",
+"note": "Kirkpatrick led AARO from establishment through his departure on 1 December 2023, announced 7 November 2023.",
+"type": "institutional"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-e5a729a6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "DefenseScoop - Pentagon's UAP investigation chief to depart Dec. 1",
+"topics": [],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2023/11/30/pentagons-uap-investigation-chief-to-depart-dec-1/"
+]
+}

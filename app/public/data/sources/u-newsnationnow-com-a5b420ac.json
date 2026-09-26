@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-70825040cc",
+"label": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
+"note": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-newsnationnow-com-a5b420ac",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "NewsNation, Ross Coulthart correspondent page",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/author/ross-coulthart/"
+]
+}

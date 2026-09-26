@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-597991b4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+{
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+}
+],
+"node": null,
+"title": "Retrievals of the Third Kind (1978) - scan",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/leonard-stringfield-retrievals-of-the-third-kind"
+]
+}

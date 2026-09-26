@@ -1,0 +1,84 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-422463f938",
+"locator": null,
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"sourceText": "Shasta County Sheriff-Coroner, Report of External Examination, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-04-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The postmortem in that file is a Report of External Examination, dated 04/19/21 at time 0713, whose stated cause of death is: 'The cause of death of this elderly white male is central nervous system damage caused by self-inflicted gunshot wound to the head.' It records an entrance wound '1 cm above the right ear', 1.5 cm in diameter, whose edges 'have powder burns', and an exit wound of 1.5 cm above the left ear.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8ed3c1c05b",
+"locator": null,
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"sourceText": "Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-06-21 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The same verdict records who did the work: 'Phillip Wacker, Deputy Coroner, conducted the investigation and established the identity of the decedent. A postmortem examination was conducted by Dr. Dan Purtzer, M.D., Pathologist.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9c7c34f53a",
+"locator": null,
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"sourceText": "Shasta County Sheriff-Coroner, Report of External Examination, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-04-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "No internal examination was performed. Page 2 of the same report reads in full: 'Due to the obvious cause of death, internal examination is not performed.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f401c6c63a",
+"locator": null,
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"sourceText": "Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, signed 21 June 2021, hosted at https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-06-21 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Shasta County Sheriff-Coroner case C21-0324, a Verdict of Death (without jury), reads: 'In the matter of the death of Mark Edward McCandlish, a 68 year old male. I, Logan Stonehouse, Chief Deputy Coroner, have inquired into the circumstances of his death and do certify that he was declared deceased on the 13th day of April 2021.' It gives the place of death as '1946 Trumpet Drive, Redding, Shasta County, CA', the cause as 'Gunshot wound of head', other significant conditions as 'None', and manner of death as 'Suicide'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site"
+},
+"b": {
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+},
+"claimTier": 1,
+"id": "e-0cc477250c",
+"label": "Hosts his coroner's file and publishes a reconstruction built from his talks",
+"note": "The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-drive-google-com-ff4eb54c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "drive.google.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+}
+],
+"node": null,
+"title": "Shasta County Sheriff-Coroner, case C21-0324",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view"
+]
+}

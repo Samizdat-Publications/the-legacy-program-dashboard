@@ -1,0 +1,388 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-0094cb787e",
+"locator": "g)(2)(B), OLRC prelim text, read 22 August 2026",
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348(g)(2)(B), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+"text": "50 U.S.C. 3348(g)(2)(B) excludes from its own SAP-reporting regime exactly the three bodies this board is about: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10); (ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title); or (iii) an agency in the Intelligence Community (as defined in section 3003(4) of this title).'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-0094cb787e",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348(g)(2)(B), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+"text": "50 U.S.C. 3348(g)(2)(B) excludes from its own SAP-reporting regime exactly the three bodies this board is about: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10); (ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title); or (iii) an agency in the Intelligence Community (as defined in section 3003(4) of this title).'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-06d93ece92",
+"locator": "g)(1",
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348(g)(1)",
+"text": "50 U.S.C. 3348(g)(1) defines 'congressional oversight committees' to include 'the Committee on Oversight and Government Reform of the House of Representatives' and the Senate Committee on Homeland Security and Governmental Affairs, as well as congressional leadership and the authorizing and appropriations committees with jurisdiction.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-1e8259a664",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "3348(g)(3) still defines 'special access program' by reference to 'Executive Order 12356 (or any successor Executive order)' — an order revoked in 1995 by E.O. 12958 sec. 6.1(d), as the GPO 'References in Text' note states. The operative definition today runs through the successor chain to E.O. 13526.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-2957a42195",
+"locator": "g)(3",
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348(g)(3)",
+"text": "50 U.S.C. 3348(g)(3) defines 'special access program' as 'any program that, under the authority of Executive Order 12356 (or any successor Executive order), is established by the head of a department or agency whom the President has designated in the Federal Register as an original \"secret\" or \"top secret\" classification authority that imposes \"need-to-know\" controls or access controls beyond those controls normally required ... for access to information classified as \"confidential\", \"secret\", or \"top secret\".'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-4475075c96",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "Section title and scope: 50 U.S.C. 3348, 'Reports relating to certain special access programs and similar programs'. Codified from Pub. L. 103-160, div. A, title XI, sec. 1152, Nov. 30, 1993, 107 Stat. 1758; formerly classified as a note under 50 U.S.C. 435 before editorial reclassification.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-5853f50a56",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "Source credit and amendment notes, 50 U.S.C. 3348",
+"text": "Section 3348 was enacted as Pub. L. 103-160, div. A, title XI, sec. 1152, 30 November 1993, 107 Stat. 1758, and amended by Pub. L. 115-390, sec. 103, 21 December 2018, which substituted 'the congressional oversight committees' for 'Congress' throughout and added the definition of that term.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-860ae86ce3",
+"locator": "heading and (g)(2)(B), OLRC prelim text, read 22 August 2026",
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348 heading and (g)(2)(B), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+"text": "The section heading is 'Reports relating to certain special access programs and similar programs'. The word doing the work is 'certain': DoD, NNSA and the Intelligence Community are routed out of it by subsection (g)(2)(B) to their own regimes, and the DoD regime it routes to, 10 U.S.C. 119, is the one carrying a waiver.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-860ae86ce3",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348 heading and (g)(2)(B), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+"text": "The section heading is 'Reports relating to certain special access programs and similar programs'. The word doing the work is 'certain': DoD, NNSA and the Intelligence Community are routed out of it by subsection (g)(2)(B) to their own regimes, and the DoD regime it routes to, 10 U.S.C. 119, is the one carrying a waiver.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8b930f1083",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "3348(e)(1): 'The head of a covered department or agency may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report ... if the head of the department or agency determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.' (e)(2) requires the withheld information and the waiver justification to be provided 'to the congressional oversight committees' -- with no reduction to chairs and ranking members.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d67a6d506e",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "3348(f): 'A special access program may not be initiated by a covered department or agency until-- (1) the congressional oversight committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e3b32baa6b",
+"locator": "g)(2)(B",
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348(g)(2)(B)",
+"text": "50 U.S.C. 3348(g)(2)(B) excludes from 'covered department or agency' only the Department of Defense, the National Nuclear Security Administration and agencies in the Intelligence Community.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-eb78924a6f",
+"locator": "e)(2",
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348(e)(2)",
+"text": "50 U.S.C. 3348(e)(2): where the waiver is exercised, the agency head 'shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, to the congressional oversight committees' - the full committees, not a chair and ranking member.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f4ad3273d3",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "3348(g)(1) defines 'congressional oversight committees' as congressional leadership and the authorizing and appropriations committees with jurisdiction or shared jurisdiction over the department or agency, plus the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform (now Oversight and Accountability). This definition was ADDED by Pub. L. 115-390 sec. 103(3) in December 2018; before that the statute said only 'Congress'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-fc967a9f1c",
+"locator": null,
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "THE COVERAGE HOLE. 3348(g)(2)(B): the term 'covered department or agency' 'does not include-- (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10); (ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title); or (iii) an agency in the Intelligence Community (as defined in section 3003(4) of this title).' The government-wide SAP reporting statute therefore reaches none of the three communities where a legacy recovery program would plausibly sit.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-1cd29f98c2",
+"locator": "g) applied to non-excluded agencies",
+"node": "usc-50-3348",
+"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceText": "50 U.S.C. 3348(g) applied to non-excluded agencies",
+"text": "Any special access program run by DHS, DOE outside NNSA, NASA, Commerce, Justice or any other non-excluded agency is reportable by statute to the House Oversight Committee - which means House Oversight's UAP subpoenas and document demands rest on a statutory entitlement that has not been publicly invoked. Reasoning: 3348(g)(1)(C) names the committee and (g)(2) excludes only three categories of agency.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-03630cb3e5",
+"locator": "g)(3",
+"node": "accm",
+"nodeLabel": "Alternative Compensatory Control Measures (ACCM)",
+"sourceText": "32 CFR 117.3(b) read against 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3)",
+"text": "Because ACCM is defined as the case where SAP controls are not required, an ACCM is outside the definition of 'special access program' in 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3), and therefore outside every SAP congressional reporting statute. Reasoning: all four reporting statutes are triggered by the term 'special access program', which ACCM expressly is not.",
+"tier": 3
+},
+{
+"cls": "domain",
+"id": "c-7ca91503ef",
+"locator": null,
+"node": "four-regime-map",
+"nodeLabel": "The four SAP reporting regimes and the seams between them",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "Four statutes, each with a different addressee. DoD: 10 U.S.C. 119 (defense committees; annual 1 Mar; waiver in (e) collapsing to chairman + ranking member). NNSA: 50 U.S.C. 2426 (congressional defense committees; annual 1 Feb; identical waiver). All other non-IC agencies: 50 U.S.C. 3348 (congressional oversight committees; annual 1 Feb; waiver that does NOT reduce the audience). IC: 50 U.S.C. 3091a (intelligence committees + both Appropriations + the four congressional leaders; semiannual briefings; no waiver at all).",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-87fc501654",
+"locator": "e) and 50 U.S.C. 3091a",
+"node": "four-regime-map",
+"nodeLabel": "The four SAP reporting regimes and the seams between them",
+"sourceText": "Comparison of 10 U.S.C. 119(e), 50 U.S.C. 2426(e), 50 U.S.C. 3348(e) and 50 U.S.C. 3091a",
+"text": "Of the four regimes, only 10 U.S.C. 119(e)(2) and 50 U.S.C. 2426(e)(2) narrow the recipient of waived information to the chairman and ranking minority member; 50 U.S.C. 3348(e)(2) keeps the full oversight committees, and 50 U.S.C. 3091a has no waiver provision at all.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-68f70867b0",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"text": "The parallel non-DoD, non-IC statute 50 U.S.C. 3348(e) contains the same waiver test ('would adversely affect the national security', 'case-by-case basis') but a materially WEAKER carve-down: 3348(e)(2) still requires the information to go 'to the congressional oversight committees', not merely to chairs and ranking members. The eight-member floor is therefore unique to the DoD statute.",
+"tier": 1
+}
+],
+"date": "1993-11-30",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 1,
+"id": "e-6a79a7612e",
+"label": "excludes DoD, routing it to sec. 119",
+"note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 1,
+"id": "e-79f7d5edec",
+"label": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
+"note": "50 U.S.C. 3348(g)(3) defines the term; 10 U.S.C. 119 uses it throughout without defining it. Section 3091a(b)(2)(A) cross-references 3348(g) for the definition.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+"claimTier": 1,
+"id": "e-06f94d48c0",
+"label": "excludes NNSA, routing it to sec. 2426",
+"note": "The second exclusion in 50 U.S.C. 3348(g)(2)(B): '(ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title)'. The third, (iii), excludes 'an agency in the Intelligence Community (as defined in section 3003(4) of this title)'. Read directly from the OLRC text on 22 August 2026.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+"claimTier": 1,
+"id": "e-8437c935fc",
+"label": "3348(g)(2)(B)(ii) writes NNSA out and points to 50 U.S.C. 2426",
+"note": "",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-3d95991e94",
+"label": "Gives House Oversight a statutory entitlement to SAP reports from every covered agency",
+"note": "50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-fy2024-7343",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"claimTier": 3,
+"id": "e-7a003366c7",
+"label": "the IC side of the same seam",
+"note": "Tier 3: this is a reading of how the provisions sit together, not a cross-reference either text makes. Sec. 7343 is the intelligence-funds twin of NDAA sec. 1687, running through the DNI rather than the Secretary of Defense. The seam it straddles is the one 50 U.S.C. 3348(g)(2)(B) draws when it excludes DoD, the NNSA and IC agencies from its own SAP-reporting regime and routes each to a separate channel. 3348's text was read directly on 22 August 2026 and makes no reference to 7343; the connection is structural.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "four-regime-map",
+"label": "The four SAP reporting regimes and the seams between them"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"claimTier": 1,
+"id": "e-6a8657a83c",
+"label": "All other agencies: reporting runs to House Oversight and Senate Homeland Security",
+"note": "50 U.S.C. 3348(g)(1) names the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs among the congressional oversight committees.",
+"type": "legislative"
+}
+],
+"era": "1",
+"id": "usc-50-3348",
+"identifiers": [
+"50 U.S.C. 3348"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-3091a",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+},
+{
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+{
+"cls": "domain",
+"id": "four-regime-map",
+"label": "The four SAP reporting regimes and the seams between them"
+},
+{
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+},
+"title": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"topics": [
+{
+"claims": [
+"c-8b930f1083",
+"c-d67a6d506e",
+"c-f4ad3273d3",
+"c-fc967a9f1c",
+"c-7ca91503ef",
+"c-87fc501654"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+},
+{
+"claims": [
+"c-68f70867b0"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+"https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+]
+}

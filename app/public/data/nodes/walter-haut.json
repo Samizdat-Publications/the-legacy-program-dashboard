@@ -86,44 +86,64 @@
 {
 "id": "c-57c7db0082",
 "source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"sources": [],
 "text": "On 8 July 1947 RAAF publicly announced that the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-24f44af9bb",
 "source": "GAO/NSIAD-95-187, p.4, describing the FBI teletype of 8 July 1947",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.4, describing the FBI teletype of 8 July 1947",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "On 8 July 1947 an Eighth Air Force headquarters official telephonically informed the FBI's Dallas office of the recovery near Roswell of 'a hexagonal-shaped disc suspended from a large balloon by cable.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-64b2984489",
 "source": "Walter Haut affidavit, executed 2002, released 2007",
+"sources": [],
 "text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-a9500019eb",
 "source": "RAAF press release, 8 July 1947; Roswell Daily Record, 8 July 1947",
+"sources": [],
 "text": "Haut authored and released the 8 July 1947 Roswell Army Air Field press release announcing that the 509th Bomb Group had come into possession of a flying disc.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-7c157d2895",
 "source": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
+"sources": [],
 "text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-b70ec8f7b2",
 "source": "Interviews quoted in Berlitz and Moore (1980) and Randle and Schmitt, 'UFO Crash at Roswell' (1991)",
+"sources": [],
 "text": "In 1979 and in a March 1989 interview Haut said he knew nothing about what was recovered and was refused permission to see it - directly inconsistent with the 2002 document's first-hand claims.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-5ed801a589",
 "source": "Schmitt's and the Haut family's own account of the document's creation",
+"sources": [],
 "text": "The 2002 'sealed affidavit' should be treated as Schmitt's composition attested by Haut rather than as Haut's testimony, because Schmitt composed and emailed the text and the release was embargoed until Haut could not be questioned about it. Reasoning: stated on the record by Schmitt himself as to authorship and by the family as to the embargo.",
-"tier": 3
+"tier": 3,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

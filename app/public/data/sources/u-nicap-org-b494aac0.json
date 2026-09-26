@@ -1,0 +1,121 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "howard-c-cross",
+"label": "Howard C. Cross"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 2,
+"id": "e-e76a7e3c83",
+"label": "Battelle's Air Force liaison for Blue Book-related work",
+"note": "Cross was the named point of contact between Battelle's Stork analysts and Wright-Patterson.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "howard-c-cross",
+"label": "Howard C. Cross"
+},
+"b": {
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+},
+"claimTier": 1,
+"id": "e-cdf7e07908",
+"label": "Author of the 9 January 1953 memorandum",
+"note": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"b": {
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+},
+"claimTier": 2,
+"id": "e-c9adcb5430",
+"label": "Discovered the memorandum in 1967 among Hynek's papers and named its author 'Pentacle'",
+"note": "Journal entry 18 June 1967; published in Forbidden Science (1992). H. C. Cross was later identified as the author.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 2,
+"id": "e-748a157dea",
+"label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+"note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-d9eca79c62",
+"label": "Addressed to Miles E. Goll at Wright-Patterson Air Force Base",
+"note": "No signed original has ever been produced by the Air Force or by Battelle.",
+"type": "custody"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-b494aac0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "person",
+"id": "howard-c-cross",
+"label": "Howard C. Cross"
+},
+{
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+},
+{
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+}
+],
+"node": null,
+"title": "NICAP - The 'Pentacle' Memorandum (CUFON page)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nicap.org/papers/Pentacle/pentacle.htm"
+]
+}

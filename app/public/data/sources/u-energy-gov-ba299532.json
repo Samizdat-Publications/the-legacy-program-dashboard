@@ -1,0 +1,217 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-75fff9fa76",
+"locator": null,
+"node": "l-dulce",
+"nodeLabel": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+"sourceText": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "The Gasbuggy site is in northwestern New Mexico in Rio Arriba County, approximately 55 miles east of Farmington and 12 miles southwest of Dulce, in the Carson National Forest, and consists of one section of land totalling 640 acres. Long-term stewardship is held by the DOE Office of Legacy Management.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-0b2b398415",
+"locator": null,
+"node": "dulce-base",
+"nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"sourceText": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "THE DOCUMENTED FEDERAL HOLE IN THE GROUND NEXT TO DULCE, TWELVE YEARS BEFORE THE RUMOUR. On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, twelve miles southwest of Dulce in the Carson National Forest, on a 640-acre site now managed by the DOE Office of Legacy Management. This is a record of Project Gasbuggy. It is adjacency and precedence, and it is NOT a claim that Gasbuggy caused the rumour.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-06d2786422",
+"locator": null,
+"node": "d-legacy",
+"nodeLabel": "Legacy Program",
+"sourceText": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "Project Gasbuggy, the first natural-gas reservoir stimulation experiment of the Plowshare programme, left a 640-acre site in Rio Arriba County, New Mexico under federal stewardship from the 1967 detonation through decommissioning in 1978, soil sampling in 1978, 1986, 2000 and 2002, and final surface remediation completed in September 2004. Liquid radioactive waste remains injected in the former cavity and a brass plaque on a concrete base marks the site.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-0fee6c99d8",
+"locator": null,
+"node": "gasbuggy-1967",
+"nodeLabel": "Project Gasbuggy, 10 December 1967",
+"sourceText": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, in an attempt to stimulate production of natural gas from the overlying gas-bearing Pictured Cliffs Formation. The site is 12 miles southwest of Dulce, New Mexico, in the Carson National Forest, totalling 640 acres.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-2a7bf70eec",
+"locator": null,
+"node": "gasbuggy-1967",
+"nodeLabel": "Project Gasbuggy, 10 December 1967",
+"sourceText": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
+"text": "THE FORTY-YEAR FEDERAL RETURN TO THE GROUND. AEC decommissioned and demobilised the site in 1978, injecting liquid radioactive waste into the former cavity and transporting solid radioactive waste to the Nevada Test Site. Soil sampling followed in 1978, 1986, 2000 and 2002; final surface remediation removed 5,562 cubic yards of contaminated soil and was completed in September 2004. A permanent monument, a brass plaque in a concrete base, was placed at the site.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-b05552cae5",
+"locator": null,
+"node": "gasbuggy-1967",
+"nodeLabel": "Project Gasbuggy, 10 December 1967",
+"sourceText": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
+"text": "Production testing through a reentry well, GB-ER, ran from July 1968 to October 1969 across five tests, producing 213 million cubic feet of natural gas that retained measurable radioactive constituents and had a significantly lower heat value than expected. In 1976 it was decided that no further testing would be conducted.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-d8db0bccf0",
+"locator": null,
+"node": "gasbuggy-1967",
+"nodeLabel": "Project Gasbuggy, 10 December 1967",
+"sourceText": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
+"text": "The detonation created a cavity and, as the overlying fractured rock collapsed into it, a rubble-filled collapse chimney. This was the first natural gas reservoir stimulation experiment in the Plowshare Program, jointly sponsored by the AEC, the US Department of the Interior and the El Paso Natural Gas Company.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-be04decd43",
+"locator": null,
+"node": "doe",
+"nodeLabel": "United States Department of Energy",
+"sourceText": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "The DOE Office of Legacy Management holds long-term stewardship of the Gasbuggy site in Rio Arriba County, New Mexico, 640 acres in the Carson National Forest twelve miles southwest of Dulce, where the AEC detonated a 29-kiloton device at 4,227 feet on 10 December 1967. Liquid radioactive waste was injected into the former cavity on decommissioning in 1978 and final surface remediation removing 5,562 cubic yards of contaminated soil was completed in September 2004.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-dulce",
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico"
+},
+"b": {
+"cls": "domain",
+"id": "d-legacy",
+"label": "Legacy Program"
+},
+"claimTier": 3,
+"id": "e-9843425e7a",
+"label": "A contaminated Plowshare site under forty years of federal stewardship",
+"note": "Stated inference and a domain-to-domain link, correctly capped at Tier 3: the legacy character of the ground holds whatever is or is not true about the mesa.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "gasbuggy-1967",
+"label": "Project Gasbuggy, 10 December 1967"
+},
+"b": {
+"cls": "location",
+"id": "l-dulce",
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico"
+},
+"claimTier": 1,
+"id": "e-6837a10402",
+"label": "640 acres in the Carson National Forest, twelve miles southwest of Dulce",
+"note": "From the DOE fact sheet: Rio Arriba County, approximately 55 miles east of Farmington, just west of the Jicarilla Apache Reservation.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "event",
+"id": "gasbuggy-1967",
+"label": "Project Gasbuggy, 10 December 1967"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 1,
+"id": "e-3a22fe7fdc",
+"label": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
+"note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "gasbuggy-1967",
+"label": "Project Gasbuggy, 10 December 1967"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-b92ef9943b",
+"label": "DOE Office of Legacy Management holds long-term stewardship",
+"note": "Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-energy-gov-ba299532",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of Energy",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-dulce",
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico"
+},
+{
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+{
+"cls": "domain",
+"id": "d-legacy",
+"label": "Legacy Program"
+},
+{
+"cls": "event",
+"id": "gasbuggy-1967",
+"label": "Project Gasbuggy, 10 December 1967"
+},
+{
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+}
+],
+"node": null,
+"title": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"topics": [
+{
+"claims": [
+"c-75fff9fa76",
+"c-0b2b398415",
+"c-0fee6c99d8",
+"c-2a7bf70eec",
+"c-b05552cae5",
+"c-d8db0bccf0",
+"c-be04decd43"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-0fee6c99d8",
+"c-be04decd43"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "document",
+"urls": [
+"https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+]
+}

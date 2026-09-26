@@ -7,32 +7,42 @@
 {
 "id": "c-0cbe20e600",
 "source": "Langley AFB / US Air Force statement to The War Zone, 15 March 2024",
+"sources": [],
 "text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-d68cf20906",
 "source": "Langley AFB spokesperson to The War Zone, March 2024",
+"sources": [],
 "text": "'None of the incursions appeared to exhibit hostile intent but anything flying in our restricted airspace can pose a threat to flight safety.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-9754e30561",
 "source": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
+"sources": [],
 "text": "At least one drone was roughly 20 feet long, flying at more than 100 mph at roughly 3,000 to 4,000 feet.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-f0ebe93c18",
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"sources": [],
 "text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-3d4d8f3c54",
 "source": "The War Zone, 15 March 2024",
+"sources": [],
 "text": "Response included F-16 combat air patrols with aerial refueling, NASA WB-57F surveillance orbits, FBI coordination through NORTHCOM and FAA notification.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "event",

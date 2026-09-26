@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-7273e07c5b",
+"locator": null,
+"node": "tr-3b",
+"nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+"sourceText": "NIST Chemistry WebBook, phase change data for mercury, https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4 , opened 2026-09-18",
+"text": "THE TIER 1 PHYSICAL ANCHOR AGAINST THE PROPULSION CLAIM. The NIST Chemistry WebBook gives mercury, CAS 7439-97-6, a melting point of 234.31 K (Marsh, 1987, uncertainty assigned by TRC 0.005 K), a triple point of 234.3 K, and a boiling point of 629.81 K.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-webbook-nist-gov-4bee15f0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "webbook.nist.gov",
+"listedOn": [
+{
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+}
+],
+"node": null,
+"title": "NIST Chemistry WebBook, phase change data for mercury (CAS 7439-97-6)",
+"topics": [
+{
+"claims": [
+"c-7273e07c5b"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "web page",
+"urls": [
+"https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4"
+]
+}

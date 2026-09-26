@@ -1,0 +1,45 @@
+{
+"archived": [
+"https://web.archive.org/web/20260803012944/https://www.darpa.mil/about"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 3,
+"id": "e-70b8aca7b5",
+"label": "The open counterfactual to a concealed breakthrough-technology effort",
+"note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-darpa-mil-4c0f3f14",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "darpa.mil",
+"listedOn": [
+{
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+}
+],
+"node": null,
+"title": "DARPA - About",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.darpa.mil/about"
+]
+}

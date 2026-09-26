@@ -7,26 +7,58 @@
 {
 "id": "c-86c8ca9dc8",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "The hearing 'DoW Financial Management: Examining Progress and New Audit Approaches' was held by the House Committee on Oversight and Government Reform on 13 May 2026, with Deputy Inspector General Brett A. Mansfield testifying.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-84189a36fe",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "Mansfield's statement records unsupported adjustments of 'over $859 billion in the last two quarters of FY 25' and more than $4.7 trillion in assets under management.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6434210bbe",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "Mansfield announced consolidation of reporting entities from 22 to 7 in FY2027 and transfer of the group auditor role to an independent public accounting firm with OIG oversight.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5d8e0bb9ed",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "The House Oversight Committee has now received, in the same Congress, both the allegation of funds moved outside its oversight and the auditor's admission that the Department cannot document $859 billion of adjustments in two quarters, without any member publicly connecting them. Reasoning: the two proceedings are separately documented on the committee's and the OIG's own sites, and no published question or letter joins them.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "event",

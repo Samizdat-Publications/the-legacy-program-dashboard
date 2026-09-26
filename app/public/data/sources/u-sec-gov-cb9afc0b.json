@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-f0a242043d",
+"label": "Research partnership from August 2018",
+"note": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"claimTier": 1,
+"id": "e-02e6600133",
+"label": "ADAM: acquisition and analysis of claimed exotic material",
+"note": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-sec-gov-cb9afc0b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+}
+],
+"node": null,
+"title": "SEC EDGAR — TTSA offering exhibit",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+]
+}

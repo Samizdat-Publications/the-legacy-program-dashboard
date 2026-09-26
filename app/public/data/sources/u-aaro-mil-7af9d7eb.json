@@ -1,0 +1,67 @@
+{
+"archived": [
+"https://web.archive.org/web/20260714192822/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-6cbcdbb3c0",
+"label": "Process described as immovable was moved by cabinet direction in weeks",
+"note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+"claimTier": 1,
+"id": "e-92e45796bd",
+"label": "The office's own account of why it cannot declassify",
+"note": "AARO states it cannot declassify independently, must request review from originating offices, and is bound by DOPSR - a description falsified within eight months by its own department.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-aaro-mil-7af9d7eb",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+}
+],
+"node": null,
+"title": "AARO - Declassification Information Paper (2025)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+]
+}

@@ -7,26 +7,46 @@
 {
 "id": "c-4c31a96397",
 "source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"sources": [],
 "text": "The press release states the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-987c84c96f",
 "source": "GAO/NSIAD-95-187, p.4, describing the FBI teletype of 8 July 1947",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.4, describing the FBI teletype of 8 July 1947",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "On the same day the FBI's Dallas office recorded Eighth Air Force headquarters describing the object as 'a hexagonal-shaped disc suspended from a large balloon by cable' resembling 'a high-altitude weather balloon with a radar reflector'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5c533eeab1",
 "source": "FBI Records: The Vault, UFO files",
+"sources": [],
 "text": "FBI records on flying discs from 1947-1954 are publicly released in sixteen parts through the Bureau's electronic reading room.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-eaa3baf0c5",
 "source": "Inference from the timing and command levels documented in the 1995 USAF report and GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "An intelligence office trained to identify recovered materiel announcing possession of a disc, then being corrected within hours by a numbered air force commander, is more consistent with an unauthorised disclosure than with a misidentification.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

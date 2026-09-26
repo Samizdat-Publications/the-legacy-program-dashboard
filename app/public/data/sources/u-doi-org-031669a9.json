@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-doi-org-031669a9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "beatriz-villarroel",
+"label": "Beatriz Villarroel"
+},
+{
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations"
+}
+],
+"node": null,
+"title": "Villarroel, Mattsson, Guergouri, Solano, Geier et al., 'A glint in the eye: Photographic plate archive searches for non-terrestrial artefacts', Acta Astronautica",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1016/j.actaastro.2022.01.039"
+]
+}

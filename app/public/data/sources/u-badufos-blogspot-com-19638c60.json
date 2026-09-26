@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [],
+"date": "2012-02",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 2,
+"id": "e-748a157dea",
+"label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+"note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+"type": "denial"
+}
+],
+"era": "2",
+"id": "u-badufos-blogspot-com-19638c60",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "badufos.blogspot.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+}
+],
+"node": null,
+"title": "Bad UFOs analysis",
+"topics": [],
+"type": "article",
+"urls": [
+"https://badufos.blogspot.com/2012/02/jacques-vallee-j-allen-hynek-and.html"
+]
+}

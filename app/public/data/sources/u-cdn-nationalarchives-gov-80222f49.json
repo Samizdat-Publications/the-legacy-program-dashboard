@@ -1,0 +1,122 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-london",
+"label": "London, United Kingdom"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-4aaf7db27c",
+"label": "produced at Whitehall, released via TNA at Kew",
+"note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-0304d8386b",
+"label": "MoD UFO desk held and released the Rendlesham file",
+"note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-3c29c971a1",
+"label": "Condign report held at MoD Main Building",
+"note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sheffield-hallam",
+"label": "Sheffield Hallam University"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-53d8efbf33",
+"label": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
+"note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-61cd7d9b46",
+"label": "incident location: Rendlesham Forest, Suffolk",
+"note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-dde6788a41",
+"label": "UK-commissioned study of its own air defence region",
+"note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-cdn-nationalarchives-gov-80222f49",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [],
+"node": null,
+"title": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"topics": [],
+"type": "document",
+"urls": [
+"https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+]
+}

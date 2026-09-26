@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "usaf-1127th-field-activities-group",
+"label": "1127th USAF Field Activities Group"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-3d08bc3ab3",
+"label": "an Air Force unit reporting to the Assistant Chief of Staff, Intelligence",
+"note": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-nsarchive2-gwu-edu-db6c18b5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Security Archive",
+"listedOn": [
+{
+"cls": "institution",
+"id": "usaf-1127th-field-activities-group",
+"label": "1127th USAF Field Activities Group"
+},
+{
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+}
+],
+"node": null,
+"title": "History of the Assistant Chief of Staff, Intelligence, July - December 1967",
+"topics": [],
+"type": "document",
+"urls": [
+"https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf"
+]
+}

@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-izmiran-ru-6a9513d2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "izmiran.ru",
+"listedOn": [
+{
+"cls": "institution",
+"id": "izmiran",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism"
+}
+],
+"node": null,
+"title": "IZMIRAN - official institute site (N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation, Russian Academy of Sciences)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.izmiran.ru/"
+]
+}

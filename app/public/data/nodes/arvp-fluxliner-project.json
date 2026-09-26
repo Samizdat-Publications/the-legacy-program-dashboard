@@ -7,38 +7,91 @@
 {
 "id": "c-3cde48e0ef",
 "source": "https://www.arvp.co.uk/flux-01/ and https://www.arvp.co.uk/shop/ , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-c635d5b6",
+"locator": null,
+"title": "arvp.co.uk, FLUX 1988 page"
+},
+{
+"id": "u-arvp-co-uk-0b6d43ec",
+"locator": null,
+"title": "arvp.co.uk, SHOP page"
+}
+],
 "text": "The site names no owner, author or organisation anywhere on the pages opened. Its footer gives only 'Email: Flux_liners@icloud.com', a 'Privacy Policy' link and 'Site by Blueqube' pointing at https://blueqube.org.uk . It carries no copyright notice and no licence statement of any kind on the FLUX 1988, TECH or SHOP pages.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d37177e0fb",
 "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-c635d5b6",
+"locator": null,
+"title": "arvp.co.uk, FLUX 1988 page"
+}
+],
 "text": "The site is the host of two of the three primary documents in this thread: the Scott 1990 interview notes, under the link text 'SORENSEN 1990 INTERVIEW' with a Download button, and the McCandlish coroner's file, under the link text 'Coroner's report on Mark MaCandlish's death' pointing at a Google Drive item named 'C21-0324 McCandlish.pdf'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cb27dc7efa",
 "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-c635d5b6",
+"locator": null,
+"title": "arvp.co.uk, FLUX 1988 page"
+}
+],
 "text": "The 3D reconstruction is the site operator's own work, built from secondary material and not from the original drawing. The page states: 'This is my 3D recreation of the craft they described. I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos', and, for a second version, 'using measurements from the original sketches and information provided by Mark from online live streams and podcast apperences.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-39558cc826",
 "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-c635d5b6",
+"locator": null,
+"title": "arvp.co.uk, FLUX 1988 page"
+}
+],
 "text": "The page states that the original McCandlish artwork could not be obtained: 'Fascinated by this story I tried to find an original copy of Mark's work to buy. Unfortunately, now that Mark has passed on it's impossible to get hold of. I imagine that Steven Greer may have it or at least a copy.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7695db3168",
 "source": "https://www.arvp.co.uk/shop/ , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-0b6d43ec",
+"locator": null,
+"title": "arvp.co.uk, SHOP page"
+}
+],
 "text": "The renders are sold. The shop lists three products, 'ARV_2009', 'Fluxliner full colour' and 'Fluxliner Illustrated', at 30.00 each, with no licence terms stated.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8a24c5c271",
 "source": "https://www.arvp.co.uk/tech/ , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-3350b804",
+"locator": null,
+"title": "arvp.co.uk, TECH page"
+}
+],
 "text": "The site's own stated theory of how the craft works is not McCandlish's and is not sourced to him. Its TECH page lists 'Magnetohydrodynamics', 'Quasicrystals', 'Einstein-Rosen bridge theory', 'The Hutchinson effect' and 'Levels of consciousness' among 'Our current lines of thinking', and leans on Bob Greenyer of the Martin Fleischmann Memorial Project, a Lockheed Martin matterwave patent, Thomas Bearden and Malcolm Bendall. A reader who takes the site as a source on the 1990 account is reading two different things bound together.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -30,20 +30,38 @@
 {
 "id": "c-68b267b9f9",
 "source": "Rep. Andy Ogles, 26 July 2023, GPO CHRG-118hhrg53022",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+}
+],
 "text": "'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2aad522b90",
 "source": "The Hill, 12 January 2024",
+"sources": [],
 "text": "After the 12 January 2024 ICIG briefing: what 'most Americans fear is true' - there is 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' 'I asked very specific questions and was unable to get specific answers.'",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-2d17fe2731",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+}
+],
 "text": "Waived onto the Task Force on the Declassification of Federal Secrets for the 9 September 2025 hearing.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

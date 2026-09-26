@@ -10,20 +10,44 @@
 {
 "id": "c-f04b259989",
 "source": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm",
+"sources": [
+{
+"id": "chrg-111shrg48290",
+"locator": null,
+"title": "CHRG-111shrg48290"
+}
+],
 "text": "The Senate Appropriations Subcommittee on Defense hearing volume for Department of Defense Appropriations for Fiscal Year 2010 (111th Congress, hearings from 18 March 2009) contains a witness statement addressed 'Chairman Inouye, Ranking Member Cochran,' confirming Cochran as the subcommittee's ranking minority member in 2009.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-843c9fd328",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"sources": [
+{
+"id": "u-govinfo-gov-869deacc",
+"locator": null,
+"title": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+}
+],
 "text": "The 111th Congress committee assignment publication lists Cochran as the senior Republican on the Senate Appropriations Committee, opposite Chairman Daniel K. Inouye.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cfc3f1e0f6",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "The Defense Subcommittee of the Senate Committee on Appropriations is one of the six bodies expressly named as a 'defense committee' by 10 U.S.C. 119(g)(1), so its chairman and ranking minority member each hold a 119(e)(2) seat distinct from the full-committee seats.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

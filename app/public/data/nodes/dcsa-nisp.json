@@ -7,56 +7,128 @@
 {
 "id": "c-a934954026",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.6(b): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services', and 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD' -- followed immediately by the carve-out sentence relieving the Director of that function for DoD SAPs on SecDef/DepSecDef approval.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a242fa3046",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": null,
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07 Vol 1, Enclosure 2, para 2.b (then DSS, now DCSA): 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.' Facility clearance issuance is NOT carved out -- only inspection, IS authorization and CI cross-sharing are. A carved-out SAP contractor site still has a DCSA-issued FCL and therefore still exists in DCSA's facility records.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dbc5949cd2",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": null,
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 para 1.2.i: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-21005a5a12",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": null,
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "Because the FCL function survives a carve-out (DoDM V1 Encl 2 para 2.b) while inspection does not, DCSA's facility clearance database remains the one government-wide index that lists a carved-out SAP contractor location as a cleared facility, even when no inspector may enter it. That makes FCL records a discovery surface that the carve-out does not close. Reasoning stated.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-ab0302f948",
 "source": "32 CFR 117.6(b)",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": "6(b",
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.6(b)(1)-(3): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element', and 'Provides security oversight of the NISP as the DoD CSO' - subject to relief by an approved carve-out.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5454fd4cc4",
 "source": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.b",
+"sources": [
+{
+"id": "dodm-5205-07-v1",
+"locator": "Enclosure 2, para 2.b",
+"title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+}
+],
 "text": "DoDM 5205.07-V1 Enclosure 2 para 2.b: the Director, DSS 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4e4442d69b",
 "source": "GAO-04-332, 3 March 2004",
+"sources": [
+{
+"id": "gao-04-332",
+"locator": "3 March 2004",
+"title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+}
+],
 "text": "GAO-04-332 (3 March 2004) is titled 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information' and found that DSS 'has not always followed required procedures when contractors have reported security violations and possible compromises of classified information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bd57da2dc6",
 "source": "GAO-04-332, footnote 2",
+"sources": [
+{
+"id": "gao-04-332",
+"locator": "footnote 2",
+"title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+}
+],
 "text": "GAO-04-332 footnote 2: 'As agreed with committee staff, our review was limited to DSS's oversight of contractor facilities' protection of Confidential, Secret, and Top Secret information as defined in Executive Order no. 12958, as amended, and did not include DSS's oversight of special access programs at contractor facilities.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ed675dd4b0",
 "source": "GAO-04-332 footnote 2; search of the govinfo GAOREPORTS collection, 12 August 2026",
+"sources": [
+{
+"id": "gao-04-332",
+"locator": "footnote 2",
+"title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+}
+],
 "text": "The only published GAO audit of DoD's industrial security oversight of contractors carved special access programs out of its own scope by agreement with the requesting committee - meaning no public audit exists of the inspection regime for contractor SAPs, carved out or not. Reasoning: GAO-04-332 footnote 2 states the exclusion, and no later GAO product in the govinfo GAOREPORTS collection covers contractor SAP oversight.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

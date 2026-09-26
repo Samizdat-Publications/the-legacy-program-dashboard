@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jason-matheny",
+"label": "Jason Matheny"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 1,
+"id": "e-3ad42119a9",
+"label": "President and CEO, arriving from IARPA and the White House OSTP",
+"note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-rand-org-554bd55f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "RAND",
+"listedOn": [
+{
+"cls": "person",
+"id": "jason-matheny",
+"label": "Jason Matheny"
+},
+{
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+}
+],
+"node": null,
+"title": "RAND - Jason Matheny profile",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.rand.org/about/people/m/matheny_jason.html"
+]
+}

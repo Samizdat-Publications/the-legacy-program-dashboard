@@ -1,0 +1,150 @@
+{
+"archived": [],
+"claims": [],
+"date": "2017-12-16",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-616b41aecf",
+"label": "the only case where money for a UAP programme has been traced from a classified appropriation to a named contract",
+"note": "Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain's proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-fb91856787",
+"label": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
+"note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 1,
+"id": "e-3d6d5781a1",
+"label": "Elizondo's resignation and the videos anchored the story",
+"note": "Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-7e52055715",
+"label": "Broke the program's existence, funding and Reid origin",
+"note": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-fcf18481ad",
+"label": "the baseline against which the substrate shift is measured",
+"note": "The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"cls": "location",
+"id": "l-nyc",
+"label": "New York City"
+},
+"claimTier": 3,
+"id": "e-90ae1aa3af",
+"label": "The decisive act of the modern disclosure era was a New York editorial decision",
+"note": "The story added institutional standing rather than new physical evidence; every subsequent official step follows it in sequence. Reasoning: chronological review of post-2017 official actions.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"b": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 1,
+"id": "e-b02e9096ea",
+"label": "The Nimitz footage was the visual centrepiece of the 2017 disclosure",
+"note": "The New York Times published the November 2004 footage alongside the AATIP revelation, converting a shelved incident into a national accountability story.",
+"type": "investigative"
+}
+],
+"era": "3",
+"id": "u-nytimes-com-ae0a5d22",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The New York Times",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-nyc",
+"label": "New York City"
+},
+{
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+}
+],
+"node": null,
+"title": "The New York Times - Glowing Auras and Black Money",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+]
+}

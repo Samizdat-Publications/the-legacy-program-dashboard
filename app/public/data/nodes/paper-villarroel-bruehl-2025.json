@@ -7,14 +7,18 @@
 {
 "id": "c-ca3aa8994d",
 "source": "Scientific Reports / Crossref record",
+"sources": [],
 "text": "The paper is Scientific Reports (2025), DOI 10.1038/s41598-025-21620-3, published 20 October 2025, by Stephen Bruehl and Beatriz Villarroel.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-0469f57aa7",
 "source": "Inference from the plate exposure dates and their custody",
+"sources": [],
 "text": "Because POSS-I plates were exposed 1949-1957, before Sputnik, and are held in civil astronomical archives, the dataset is structurally immune to classification and to the archival destruction that has affected the government's own records from the same period.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

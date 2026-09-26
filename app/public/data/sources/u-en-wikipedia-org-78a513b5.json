@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-79d192179c",
+"label": "Air Force denials of Hangar 18 bodies",
+"note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "behind-the-flying-saucers",
+"label": "Behind the Flying Saucers (Scully, 1950)"
+},
+"b": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"claimTier": 2,
+"id": "e-bc5dfefcba",
+"label": "The book is the sole origin of the Aztec claim",
+"note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-78a513b5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-aztec",
+"label": "Aztec, New Mexico"
+},
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+{
+"cls": "document",
+"id": "behind-the-flying-saucers",
+"label": "Behind the Flying Saucers (Scully, 1950)"
+},
+{
+"cls": "person",
+"id": "frank-scully",
+"label": "Frank Scully"
+},
+{
+"cls": "document",
+"id": "hottel-memo",
+"label": "Guy Hottel memorandum, 22 March 1950"
+}
+],
+"node": null,
+"title": "Aztec crashed saucer hoax - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident"
+]
+}

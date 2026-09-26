@@ -1,0 +1,227 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-401c8183a5",
+"locator": null,
+"node": "faa",
+"nodeLabel": "Federal Aviation Administration",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "In a letter of 27 June 2001 responding to a FOIA request it stated: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were subsequently located at the National Archives in Record Group 237, archival identifier 733667.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-9c5fa4b924",
+"locator": null,
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The FAA told the requester the records would be destroyed. Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-a403d0e80e",
+"locator": null,
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The Black Vault independently records the same March 1987 position: the FAA was 'unable to support' a UFO identification, and 'a subsequent review of Anchorage's radar failed to confirm any targets in close proximity to JAL 1628'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-e017d1a12b",
+"locator": null,
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The federal record: over 1,500 pages at the National Archives in Record Group 237, Records of the Federal Aviation Administration, local identifier 1203, archival identifier 733667, located by The Black Vault after the FAA's initial estimate of approximately 107 pages.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-27d45aefe2",
+"locator": null,
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The Black Vault states in its own voice that 'Callahan's dramatic account is unconfirmed by other sources', while observing that he preserved copies of the data and later shared them with researchers.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-08814453b7",
+"locator": null,
+"node": "john-callahan",
+"nodeLabel": "John Callahan",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "THE COUNTERWEIGHT THAT MAKES THIS NODE WORTH BUILDING. The case he describes has its own federal record with no connection to the Disclosure Project: over 1,500 pages located at the National Archives in Record Group 237, Records of the Federal Aviation Administration, local identifier 1203, archival identifier 733667, after the FAA had told the requester in a letter of 27 June 2001 that 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter' and had repeated in 2009 that the records were destroyed.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4443600953",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "He publishes the FAA's letter of 27 June 2001 responding to his request: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A follow-up request in 2009 was answered with the statement that the records had been destroyed.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-499c8b5e32",
+"locator": null,
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "It states its own reservation about the best-known witness to the case: 'Callahan's dramatic account is unconfirmed by other sources', while recording that he preserved copies of the data.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e85aba791d",
+"locator": null,
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"sourceText": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "It recovered the federal file on Japan Air Lines flight 1628 after seventeen years, having been told by the FAA in a letter of 27 June 2001 that the records would be destroyed within thirty days and again in 2009 that they had been destroyed. The file was located at the National Archives in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against the FAA's initial estimate of approximately 107.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+"b": {
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+"claimTier": 1,
+"id": "e-ea77c3a2c4",
+"label": "The agency investigated it, issued a finding and created the file",
+"note": "FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 1,
+"id": "e-fc29e7ebf3",
+"label": "Federal file recovered after seventeen years and two destruction notices",
+"note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+},
+"b": {
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+"claimTier": 2,
+"id": "e-71c30c8403",
+"label": "Claimed role in the FAA's handling of the case",
+"note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-d4772d11",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+{
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+{
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+}
+],
+"node": null,
+"title": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"topics": [
+{
+"claims": [
+"c-401c8183a5",
+"c-9c5fa4b924",
+"c-a403d0e80e",
+"c-e017d1a12b",
+"c-27d45aefe2",
+"c-08814453b7",
+"c-499c8b5e32"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-9c5fa4b924",
+"c-a403d0e80e",
+"c-e017d1a12b",
+"c-4443600953",
+"c-499c8b5e32"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-4443600953"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+},
+{
+"claims": [
+"c-08814453b7"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+]
+}

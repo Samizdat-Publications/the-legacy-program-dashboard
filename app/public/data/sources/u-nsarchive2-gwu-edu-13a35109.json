@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-d62d572d3e",
+"locator": null,
+"node": "cia-overhead-reconnaissance-history-1992",
+"nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"sourceText": "Index p. 20, Appendices and Bibliography pp. 7 and 29, Chapter 6 p. 2, Chapter 2 p. 32. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Index.pdf",
+"text": "The study's index carries the entry 'Norton, Garrison | 14-15, 31, 70, 260, 331' and no entry for Norton Air Force Base. Every occurrence of the string Norton across the front matter, chapters 2, 6 and 7, the index and the appendices is Garrison Norton, the Navy Assistant Secretary for Research and Development, whom the bibliography records being interviewed by Welzenbach on 23 May 1983.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-nsarchive2-gwu-edu-13a35109",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Security Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+}
+],
+"node": null,
+"title": "Index p. 20, Appendices and Bibliography pp. 7 and 29, Chapter 6 p. 2, Chapter 2 p. 32.",
+"topics": [
+{
+"claims": [
+"c-d62d572d3e"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "document",
+"urls": [
+"https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Index.pdf"
+]
+}

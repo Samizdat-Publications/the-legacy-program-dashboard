@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+"b": {
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald"
+},
+"claimTier": 1,
+"id": "e-b422591362",
+"label": "Both testified at the 29 July 1968 congressional symposium",
+"note": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-2cc682d158",
+"label": "McDonald reviewed Blue Book files and told Congress it was not an investigation",
+"note": "Testifying on 29 July 1968 he told the House Science and Astronautics Committee that 'credible observers are observing relatively incredible objects' and that the subject deserved science rather than ridicule.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 2,
+"id": "e-1f6852d2c7",
+"label": "McDonald attacked the Condon Report and was professionally destroyed",
+"note": "He publicly criticised the report on release, was ridiculed over his UFO work during 1971 congressional SST hearings on an unrelated technical subject, and died by suicide in June 1971.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"id": "u-nicap-org-e4017b37",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-1966-04-05",
+"label": "House Armed Services Committee UFO Hearing"
+},
+{
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+{
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald"
+}
+],
+"node": null,
+"title": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+"topics": [],
+"type": "document",
+"urls": [
+"http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+]
+}

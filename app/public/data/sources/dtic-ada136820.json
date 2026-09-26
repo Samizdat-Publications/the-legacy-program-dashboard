@@ -1,0 +1,27 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "dtic-ada136820",
+"identifiers": [
+"DTIC ADA136820"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime"
+}
+],
+"node": null,
+"title": "DTIC ADA136820",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_ADA136820"
+]
+}

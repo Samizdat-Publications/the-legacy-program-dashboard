@@ -7,32 +7,87 @@
 {
 "id": "c-2f52d0a11e",
 "source": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"sources": [
+{
+"id": "gao-03-825r",
+"locator": "Military Space Operations, 2 June 2003, govinfo",
+"title": "GAO-03-825R"
+},
+{
+"id": "u-govinfo-gov-b4a6656d",
+"locator": null,
+"title": "GAO-03-825R, Military Space Operations, 2 June 2003"
+}
+],
 "text": "GAO's description of the system and its dates: DSP is 'a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches', the programme commenced in 1967, the first operational satellite was deployed in 1971, the most recent launch was August 2001, and it 'provides near real-time detection information in support of DOD's integrated tactical warning and attack assessment (ITW/AA) mission'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dd12b9decd",
 "source": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"sources": [
+{
+"id": "gao-03-825r",
+"locator": "Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo",
+"title": "GAO-03-825R"
+},
+{
+"id": "gao-nsiad-94-253",
+"locator": "16 August 1994, govinfo",
+"title": "GAO/NSIAD-94-253"
+},
+{
+"id": "u-govinfo-gov-b4a6656d",
+"locator": null,
+"title": "GAO-03-825R, Military Space Operations, 2 June 2003"
+}
+],
 "text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1176dfb015",
 "source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+"sources": [
+{
+"id": "u-documents-theblackvault--58e7a052",
+"locator": null,
+"title": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07"
+}
+],
 "text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4aa48e98f0",
 "source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+"sources": [
+{
+"id": "u-documents-theblackvault--58e7a052",
+"locator": null,
+"title": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07"
+}
+],
 "text": "The same letter refuses to search a second command's holdings on structural grounds: 'Additionally, NORAD is exempt from FOIA requests as a bi-national organization; therefore no search was conducted for responsive NORAD documents.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-34009e3b1c",
 "source": "John Greenewald, 'Space Force Says Documents on \"Fastwalkers\" and \"Slowwalkers\" All \"Exempt from Disclosure\"', The Black Vault, 22 December 2023, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
+"sources": [
+{
+"id": "u-theblackvault-com-e8d5f9c3",
+"locator": null,
+"title": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault"
+}
+],
 "text": "The Black Vault reports that the US Space Force, responding on 19 December 2023 to a July 2023 request for all procedures and manuals referencing 'Fastwalkers' and 'Slowwalkers', withheld the material in full under FOIA Exemption 1 and section 1.1(a) of Executive Order 13526. The response letter itself was not opened for this record.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "program",

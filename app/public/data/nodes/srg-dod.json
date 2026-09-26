@@ -7,38 +7,86 @@
 {
 "id": "c-b932678ee1",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoDD 5205.07 (2024) names the Director, DoD SAPCO as Executive Secretary of both the SAPOC and the SRG, placing the working-level review body under the same office that runs congressional liaison.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f985cd9414",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": null,
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 (2024) governs SRG procedure; para 3.6.b: 'CA SAPCOs will submit proposed SAP governance actions to the Director' -- proposals to establish, modify or disestablish reach the Deputy Secretary only through the DoD SAPCO-chaired governance chain. Para 4.2.b: 'Proposals to disestablish SAP umbrellas will be submitted to the Deputy Secretary.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4bad42ffc3",
 "source": "DoDI 5205.11, Enclosure 3, para 3",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Enclosure 3, para 3",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Enclosure 3 para 3: 'The SRG is the principal working-level body executing the governance process and performing oversight and management of DoD SAPs. Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cf23cd1c79",
 "source": "DoDI 5205.11, Enclosure 3, para 3.a",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Enclosure 3, para 3.a",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Enclosure 3 para 3.a: SRG Chair is the Principal Deputy Under Secretary of Defense for AT&L; Vice Chair the Director, DoD SAPCO; Executive Secretary the Deputy Director, DoD SAPCO.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-291c220139",
 "source": "DoDI 5205.11, Enclosure 3, para 3.b(1)",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Enclosure 3, para 3.b(1",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Enclosure 3 para 3.b(1) lists SRG review of proposals to establish or disestablish SAPs, designation of oversight and cognizant authorities, removal of programs from special access controls, IJSTO apportionment, alteration of a SAP's scope, category or type, and review of foreign access and participation.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-906dc47db3",
 "source": "DoDI 5205.11, Enclosure 3",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "Enclosure 3",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-276fce5cf3",
+"locator": null,
+"node": "bernard-norlain",
+"nodeLabel": "Général Bernard Norlain",
+"sourceText": "Assemblée nationale, compte rendu n° 40, 9 April 2014 https://www.assemblee-nationale.fr/14/cr-cdef/13-14/c1314040.asp",
+"text": "The French National Assembly's Defence Committee record of 9 April 2014 states Norlain's career on the record, in the chair's own words: 'vous avez été pilote de chasse, puis commandant de la force aérienne tactique de 1992 à 1994 ; vous avez également été chef du cabinet militaire du Premier ministre, de 1986 à 1989, et avez achevé votre carrière militaire en qualité de directeur de l'Institut des hautes études de défense nationale (IHEDN).' The board's description of him as the former director of IHEDN is therefore a parliamentary record, not an inference.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a0acd50ace",
+"locator": null,
+"node": "bernard-norlain",
+"nodeLabel": "Général Bernard Norlain",
+"sourceText": "Assemblée nationale, compte rendu n° 40, 9 April 2014 https://www.assemblee-nationale.fr/14/cr-cdef/13-14/c1314040.asp",
+"text": "He was heard by the committee on nuclear deterrence as 'président d'honneur de la Revue Défense nationale'. The same record notes he co-signed a 2009 Le Monde article favouring global nuclear disarmament with former ministers Alain Juppé, Alain Richard and Michel Rocard, and is a member of Global Zero.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-assemblee-nationale-fr-6dd9cd31",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "assemblee-nationale.fr",
+"listedOn": [
+{
+"cls": "person",
+"id": "bernard-norlain",
+"label": "Général Bernard Norlain"
+}
+],
+"node": null,
+"title": "Assemblée nationale, Commission de la défense nationale et des forces armées, compte rendu n° 40, audition du général (2S) Bernard Norlain, 9 avril 2014",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.assemblee-nationale.fr/14/cr-cdef/13-14/c1314040.asp"
+]
+}

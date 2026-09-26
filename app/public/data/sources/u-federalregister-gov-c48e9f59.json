@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-f70847873e",
+"locator": null,
+"node": "eo-10501",
+"nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"sourceText": "attempted https://www.federalregister.gov/executive-order/10501, which redirected to https://unblock.federalregister.gov/",
+"text": "The Federal Register citation usually given for this order, 18 FR 7049, was NOT verified. federalregister.gov redirects this environment to a bot-block page, and the text read was a transcription hosted elsewhere.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-federalregister-gov-c48e9f59",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Federal Register",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "eo-10501",
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
+}
+],
+"node": null,
+"title": "attempted , which redirected to",
+"topics": [
+{
+"claims": [
+"c-f70847873e"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.federalregister.gov/executive-order/10501"
+]
+}

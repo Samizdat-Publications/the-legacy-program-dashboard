@@ -7,44 +7,100 @@
 {
 "id": "c-1bfabf7e37",
 "source": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"sources": [
+{
+"id": "u-smd-cms-nasa-gov-c34ba49f",
+"locator": null,
+"title": "NASA UAP Independent Study Team Report"
+}
+],
 "text": "Cover: 'NASA / UNIDENTIFIED ANOMALOUS PHENOMENA / Independent Study Team Report'. 36 pages, PDF CreationDate 13 September 2023 21:27 UTC; publicly released 14 September 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3b23bc721f",
 "source": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"sources": [
+{
+"id": "u-smd-cms-nasa-gov-c34ba49f",
+"locator": null,
+"title": "NASA UAP Independent Study Team Report"
+}
+],
 "text": "Core recommendation: 'We recommend that NASA play a prominent role in the whole-of-government effort to understand UAP by leveraging its extensive expertise to contribute to a comprehensive, evidence-based approach that is rooted in the scientific method. We specifically recommend that NASA utilize its existing and planned Earth-observing assets to probe the local environmental conditions associated with UAP that are initially detected by other means.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-054aa7538f",
 "source": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"sources": [
+{
+"id": "u-smd-cms-nasa-gov-c34ba49f",
+"locator": null,
+"title": "NASA UAP Independent Study Team Report"
+}
+],
 "text": "On data quality: 'At present, the detection of UAP is often serendipitous, captured by sensors that were not designed or calibrated for this purpose, and which lack comprehensive metadata. Coupled with incomplete data archiving and curation, this means that the origin of numerous UAP remain uncertain.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7185b46352",
 "source": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"sources": [
+{
+"id": "u-smd-cms-nasa-gov-c34ba49f",
+"locator": null,
+"title": "NASA UAP Independent Study Team Report"
+}
+],
 "text": "On extraterrestrial origin: 'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial' origin for UAP. The panel nonetheless frames the question as legitimate: 'There is an intellectual continuum between hypothesizing that faraway extraterrestrial civilizations might produce detectable technologies, and looking for those technologies closer to home.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-936f5ae37e",
 "source": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"sources": [
+{
+"id": "u-smd-cms-nasa-gov-c34ba49f",
+"locator": null,
+"title": "NASA UAP Independent Study Team Report"
+}
+],
 "text": "On stigma as a structural obstacle, the report notes scientists avoid topics 'like extraterrestrial technosignatures, which could damage their scientific credibility and promotion potential,' and finds 'public engagement in the effort to better understand UAP will be vital. NASA, by lending its name to UAP studies, is already helping to reduce stigma associated' with the subject.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-24eb870005",
 "source": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"sources": [
+{
+"id": "u-smd-cms-nasa-gov-c34ba49f",
+"locator": null,
+"title": "NASA UAP Independent Study Team Report"
+}
+],
 "text": "Following the report, 'NASA's Science Mission Directorate' named 'a Director of UAP Research to centralize communications and leverage' agency expertise.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e1cac273c1",
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-2a0d77a1",
+"locator": null,
+"title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov"
+}
+],
 "text": "AARO's HRR Volume I lists the 'UAP Independent Study Team (UAPIST) (June 2022-September 2023)' as one of the official USG UAP investigatory efforts it reviewed (Table of Contents, Section IV, p. 25).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

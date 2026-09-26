@@ -1,0 +1,148 @@
+{
+"archived": [],
+"claims": [],
+"date": "2020-07-23",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+"b": {
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+"claimTier": 3,
+"id": "e-63ae0cc411",
+"label": "Delivered to the SASC professional staff cohort McConnell belonged to",
+"note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 2,
+"id": "e-515432576e",
+"label": "'We couldn't make it ourselves' - a custody claim with no public chain",
+"note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+"claimTier": 2,
+"id": "e-98f38e4602",
+"label": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
+"note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-6d600853f7",
+"label": "Same report carried Reid's statement on retrieved materials",
+"note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"claimTier": 2,
+"id": "e-9c9d5b18c9",
+"label": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
+"note": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-a5e9907bdd",
+"label": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
+"note": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
+"type": "custody"
+}
+],
+"era": "3",
+"id": "u-nytimes-com-b748f28f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The New York Times",
+"listedOn": [
+{
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+{
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+]
+}

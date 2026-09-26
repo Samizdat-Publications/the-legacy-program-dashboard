@@ -24,20 +24,44 @@
 {
 "id": "c-7c9bffae9d",
 "source": "https://solari.com/people/catherine-austin-fitts",
+"sources": [
+{
+"id": "u-solari-com-14d6a5ec",
+"locator": null,
+"title": "Solari, Catherine Austin Fitts"
+}
+],
 "text": "Fitts was a managing director and board member of Dillon, Read and Co. Inc. and served as Assistant Secretary of Housing and Federal Housing Commissioner at HUD under President George H. W. Bush.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8c4ae44b55",
 "source": "https://solari.com/people/catherine-austin-fitts",
+"sources": [
+{
+"id": "u-solari-com-14d6a5ec",
+"locator": null,
+"title": "Solari, Catherine Austin Fitts"
+}
+],
 "text": "She founded Hamilton Securities Group and is founder and president of Solari, Inc., publisher of the Solari Report.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-25c2904425",
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"sources": [
+{
+"id": "u-missingmoney-solari-com-da0e76a5",
+"locator": null,
+"title": "Skidmore-Fitts summary report"
+}
+],
 "text": "She co-authored the September 2017 Summary Report on Unsupported Journal Voucher Adjustments with Mark Skidmore.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

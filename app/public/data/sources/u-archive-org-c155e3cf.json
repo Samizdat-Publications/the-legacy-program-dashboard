@@ -1,0 +1,440 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-2cbcaaa613",
+"locator": null,
+"node": "l-area51",
+"nodeLabel": "Area 51 (Homey Airport / Groom Lake operating location)",
+"sourceText": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18",
+"text": "The 1989 KLAS-TV Lazar broadcasts are the single event most responsible for this place entering worldwide public consciousness under this name. Lazar's own 1991 narration refers to 'the infamous Area 51 installation at Groom Lake' and places his claimed S-4 site about fifteen miles south of it. A contemporaneous newspaper of 19 June 1990 confirms the broadcasts existed and that Lazar was their focal point.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b3f96eb164",
+"locator": null,
+"node": "edward-teller",
+"nodeLabel": "Edward Teller",
+"sourceText": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "Bob Lazar claims Teller as his route into the classified work, in his own 1991 narration: 'while working at Los Alamos National Lab in 1982 the local newspaper did a front page story on a jet car [I'd] built coincidentally Dr Teller was giving a speech in Los Alamos that same day we met and had a short chat'. He says he later wrote to Teller and 'inquired about a job', and that 'Dr Teller responded by telephone and told me that it was no longer active but' referred him on. He adds that he never asked Teller whether he remembered him. The claim is uncorroborated by any opened record and its internal dating conflicts with the newspaper's own date of 27 June 1982, Teller's Los Alamos lecture falling on the following day per Mahood. Carried at Tier 3 and asserting only what Lazar said.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-712b54f3dc",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 10:43 and 14:14 to 14:26, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "THE LOAD-BEARING PHYSICAL CLAIM, which is the one the physics objections attack: 'The most important attribute of these heavier stable elements is that the gravity a wave is so abundant that it actually extends past the perimeter of the atom', and separately 'gravity a is what is currently being labeled as the strong nuclear force in mainstream physics'.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-86c0d490ee",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "WHAT LAZAR CLAIMED, in his own 1991 narration. That stable superheavy elements exist 'in the 114 115 range which don't appear on a periodic chart' and that 'Beyond Element 115 the elements become unstable again and in fact element 116 decays in fractions of a second'. That 'the power source is a reactor which uses this element 115 as its fuel', with 115 'used as a Target and is bombarded with protons', a proton entering a 115 nucleus producing 'an atom of element 116 which remember decays instantly', radiating antimatter which is then annihilated for power. That 'only 223 grams of 115 which is just under half a pound can be utilized for a period of 20 to 30 years', that 'element 115's melting point is 1740 degrees Celsius', and that 'the element 115 is machined into triangles like this and is then inserted into the reactor'. Auto-generated captions at 18:42, 19:01, 23:31 and 25:34, so wording is approximate.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4a5646c9f0",
+"locator": null,
+"node": "gene-huff",
+"nodeLabel": "Gene Huff",
+"sourceText": "The Lazar tape and excerpts from the Government Bible, Internet Archive item, creator Gene Huff and Bob Lazar, publisher Tri-Dot Productions, 1991, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "He wrote and co-produced the 1991 videotape The Lazar Tape and Excerpts from the Government Bible for Tri-Dot Productions, credited alongside Bob Lazar. This makes him the publisher of the primary artefact of the entire cluster.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-21a5c3bcb5",
+"locator": null,
+"node": "l-groom-lake",
+"nodeLabel": "Groom Lake, Nevada",
+"sourceText": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-b540207b85",
+"locator": null,
+"node": "l-nellis",
+"nodeLabel": "Nellis Air Force Base and the Nevada Test and Training Range",
+"sourceText": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "Bob Lazar places his claimed S-4 facility on this range: 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. No government record naming any such facility on the range was opened by this board.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-9de5ebee5b",
+"locator": null,
+"node": "oni",
+"nodeLabel": "Office of Naval Intelligence",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; and The Lazar Tape, 1991, captions at 2:19, https://archive.org/details/antigravity , both opened 2026-09-18",
+"text": "A DISCREPANCY, NOT A RELATIONSHIP. The W-2 form in the Lazar literature is described as naming a 'Department of Naval Intelligence', which is not an entity that exists: the Office of Naval Intelligence sits inside the Department of the Navy. Stanton Friedman, who had seen the form, describes it only as 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' Lazar's own 1991 narration says something different again: 'for the duration of my employment at S4 I was paid by the United States Navy'. THE FORM ITSELF WAS NOT OPENED BY THIS BOARD AND NO EMPLOYER IDENTIFICATION NUMBER, ZIP CODE OR BOX CONTENT IS ASSERTED ANYWHERE.",
+"tier": 3
+},
+{
+"cls": "location",
+"id": "c-727721fef0",
+"locator": null,
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"sourceText": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54, 24:24, 27:16 and 28:01 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-76d8b567d5",
+"locator": null,
+"node": "lazar-tape-1991",
+"nodeLabel": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+"sourceText": "Internet Archive item 'antigravity', https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "The artefact: 'The Lazar tape and excerpts from the Government Bible', creator Gene Huff and Bob Lazar, publisher Tri-Dot Productions, 1991, forty minutes, 449.6 MB, uploaded to the Internet Archive by 'NewAge2001' on 6 April 2007 and marked public domain. The Archive item offers video formats only and carries no transcript or text layer.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6bde1fef66",
+"locator": null,
+"node": "lazar-tape-1991",
+"nodeLabel": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+"sourceText": "The Lazar Tape, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "It is the anchor for the following claims elsewhere on this board, each with a timestamp: the S-4 siting and employment dates at 1:54 to 2:22; payment 'by the United States Navy' at 2:19; the bussing from Groom at 27:16; the nine hangar doors at 28:01; the badge description at 28:13; the blue-folder briefings at 31:50; the nine discs at 24:24; the gravity A and gravity B distinction at 9:54 to 11:07; the identification of gravity A with the strong nuclear force at 10:43; the claim that the field extends past the perimeter of the atom at 14:14; the element 115 reactor and antimatter account at 18:42 to 23:22; the 223 grams and 1740 degrees Celsius figures at 23:31; the machining into triangles at 25:34; and the Edward Teller anecdote at 35:48 to 36:32.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+"b": {
+"cls": "document",
+"id": "lazar-tape-1991",
+"label": "The Lazar Tape and Excerpts from the Government Bible (1991)"
+},
+"claimTier": 2,
+"id": "e-dc67514555",
+"label": "The tape is the artefact in which the element 115 claim is fixed in datable form",
+"note": "GENUINE CUSTODY: a document containing the claim, in the same sense the ruling allows for a document containing another document. Neither endpoint is a claimant, so the x3.0 weighting falls on two artefact nodes and not on a person.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "gene-huff",
+"label": "Gene Huff"
+},
+"b": {
+"cls": "document",
+"id": "lazar-tape-1991",
+"label": "The Lazar Tape and Excerpts from the Government Bible (1991)"
+},
+"claimTier": 1,
+"id": "e-e024977f25",
+"label": "Writer and co-producer of the 1991 videotape for Tri-Dot Productions",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling. This is the edge that makes Huff structurally important rather than merely a witness: he is the publisher of the cluster's primary artefact.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "person",
+"id": "edward-teller",
+"label": "Edward Teller"
+},
+"claimTier": 3,
+"id": "e-e601a1b15b",
+"label": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
+"note": "Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+"claimTier": 2,
+"id": "e-7c48dbc330",
+"label": "The element 115 fuel claim is his",
+"note": "Timestamped in the 1991 tape: the reactor account, the 223 grams, the 1740 degrees Celsius melting point and the machining into triangles.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+"claimTier": 3,
+"id": "e-d6616a4b82",
+"label": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
+"note": "THE EDGE CARRIES A DISCREPANCY AND NOTHING MORE. There is no 'Department of Naval Intelligence'; the Office of Naval Intelligence sits inside the Department of the Navy. THE W-2 WAS NOT OPENED BY THIS BOARD and no employer identification number, zip code or box content is asserted anywhere.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-2ec453dd81",
+"label": "Originating claimant: says he worked at S-4, December 1988 to April 1989",
+"note": "The originating claim of the whole cluster, in his own narration: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. The edge records that he says this and nothing more.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "document",
+"id": "lazar-tape-1991",
+"label": "The Lazar Tape and Excerpts from the Government Bible (1991)"
+},
+"claimTier": 1,
+"id": "e-32b75b5cc9",
+"label": "Co-author and narrator of the 1991 videotape",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. The relation is authorship of a document, which the board's ruling of 18 September 2026 types as research, because custody is weighted x3.0 as a programme edge and giving a claimant a triple-weighted edge to his own artefact would inflate him.",
+"type": "research"
+},
+{
+"a": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-area51",
+"label": "Area 51 (Homey Airport / Groom Lake operating location)"
+},
+"claimTier": 2,
+"id": "e-4947aa2993",
+"label": "Claimed site sited about fifteen miles south of Area 51",
+"note": "Uses the board's existing l-area51 id. No node called area-51 was created.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 3,
+"id": "e-b37b426850",
+"label": "Claimed custody of non-human craft at the claimed site",
+"note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-45dedeb372",
+"label": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
+"note": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"b": {
+"cls": "domain",
+"id": "d-legacy",
+"label": "Legacy Program"
+},
+"claimTier": 3,
+"id": "e-760dd33b5b",
+"label": "The hub's claimed content is a legacy reverse-engineering programme",
+"note": "Tier 3 because it is what is claimed, not what is shown.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-nellis",
+"label": "Nellis Air Force Base and the Nevada Test and Training Range"
+},
+"claimTier": 2,
+"id": "e-8364469706",
+"label": "Claimed site placed on the Nellis range by the claimant",
+"note": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "lazar-tape-1991",
+"label": "The Lazar Tape and Excerpts from the Government Bible (1991)"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-493dba580e",
+"label": "The dated, opened, complete statement of the claim in the claimant's own voice",
+"note": "The strongest artefact in the cluster and the one actually opened. A videotape of a claimant narrating his own claim is evidence of the claim and never of its content.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-archive-org-c155e3cf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-area51",
+"label": "Area 51 (Homey Airport / Groom Lake operating location)"
+},
+{
+"cls": "person",
+"id": "edward-teller",
+"label": "Edward Teller"
+},
+{
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+{
+"cls": "person",
+"id": "gene-huff",
+"label": "Gene Huff"
+},
+{
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+{
+"cls": "location",
+"id": "l-nellis",
+"label": "Nellis Air Force Base and the Nevada Test and Training Range"
+},
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+{
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+{
+"cls": "document",
+"id": "lazar-tape-1991",
+"label": "The Lazar Tape and Excerpts from the Government Bible (1991)"
+}
+],
+"node": null,
+"title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE",
+"topics": [
+{
+"claims": [
+"c-b3f96eb164",
+"c-712b54f3dc",
+"c-86c0d490ee",
+"c-4a5646c9f0",
+"c-9de5ebee5b",
+"c-727721fef0",
+"c-76d8b567d5"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-21a5c3bcb5",
+"c-727721fef0"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+},
+{
+"claims": [
+"c-b3f96eb164",
+"c-86c0d490ee"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-727721fef0"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/antigravity"
+]
+}

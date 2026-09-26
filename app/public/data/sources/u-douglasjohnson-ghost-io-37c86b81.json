@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 2,
+"id": "e-25d5313fd9",
+"label": "authored and directed Volume I; released after his departure",
+"note": "Volume I is dated February 2024 and was prepared under Kirkpatrick's direction; Acting Director Phillips fronted the 8 March 2024 release.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-fe98664395",
+"label": "OSD Public Affairs handled AARO press matters; the office had no dedicated spokesperson",
+"note": "Gough's February 2026 figures mean roughly half of AARO's holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-douglasjohnson-ghost-io-37c86b81",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "douglasjohnson.ghost.io",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+{
+"cls": "person",
+"id": "kathleen-hicks",
+"label": "Kathleen H. Hicks"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+{
+"cls": "person",
+"id": "tim-phillips",
+"label": "Timothy A. Phillips"
+}
+],
+"node": null,
+"title": "Douglas Dean Johnson - What's next for AARO?",
+"topics": [],
+"type": "article",
+"urls": [
+"https://douglasjohnson.ghost.io/what-next-for-aaro/"
+]
+}

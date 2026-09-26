@@ -7,14 +7,18 @@
 {
 "id": "c-b2e981e795",
 "source": "CUFON's own published archive and contemporaneous accounts of the UFO document-research community",
+"sources": [],
 "text": "CUFON operated from 1983 as an electronic archive publishing full-text US government UFO documents obtained under FOIA, including NSA litigation records and 1975 SAC overflight message traffic.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-07edff5cd0",
 "source": "Inference from the continuity of method and the direct citation of CUFON-published material in later archives.",
+"sources": [],
 "text": "CUFON established the document-with-case-number standard of evidence that The Black Vault, the modern UAP press and this board all now use.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

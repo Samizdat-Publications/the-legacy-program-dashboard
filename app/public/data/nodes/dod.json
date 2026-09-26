@@ -7,26 +7,52 @@
 {
 "id": "c-25a7a6a834",
 "source": "war.gov About page, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [],
 "text": "DoD self-reports a budget of $841.4 billion, 3.4 million personnel and 4,800 sites in over 160 countries, with Pete Hegseth as Secretary and Steve Feinberg as Deputy Secretary.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-101192e3a3",
 "source": "Executive Order 14347, 5 September 2025",
+"sources": [
+{
+"id": "eo-14347",
+"locator": "5 September 2025",
+"title": "Executive Order 14347"
+}
+],
 "text": "Executive Order 14347 of 5 September 2025 authorises 'Department of War' and 'Secretary of War' as secondary designations, states that 'Statutory references to the Department of Defense ... shall remain controlling until changed subsequently by the law', and directs a recommendation within 60 days on permanently renaming the Department.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6cc6374866",
 "source": "10 U.S.C. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119 requires the Secretary of Defense to report annually by 1 March on special access programs, but permits a waiver under which the information and the justification for the waiver are provided 'jointly to the chairman and ranking minority member of each of the defense committees' rather than to the full committees.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d78aae7331",
 "source": "Inference from the text of 10 U.S.C. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "The waiver provision of 10 U.S.C. 119 is the only lawful mechanism by which a multi-decade DoD program could be concealed from the bulk of the defense committees without a criminal violation; any legacy recovery program that has survived since the 1940s is therefore either a waived unacknowledged SAP, or it is unreported and therefore unlawful. Reasoning: the statute exhausts the lawful options, so the allegation reduces to a binary that Congress can test by demanding the waived-SAP list.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

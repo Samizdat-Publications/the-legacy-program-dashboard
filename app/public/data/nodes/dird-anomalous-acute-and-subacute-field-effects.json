@@ -7,50 +7,114 @@
 {
 "id": "c-c267284b6e",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"sources": [
+{
+"id": "u-dia-mil-e2407192",
+"locator": null,
+"title": "DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", series \"Acquisition Threat Support\", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d78bf96292",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"sources": [
+{
+"id": "u-dia-mil-e2407192",
+"locator": null,
+"title": "DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e804ffa5ed",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"sources": [
+{
+"id": "u-dia-mil-e2407192",
+"locator": null,
+"title": "DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d38814c309",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"sources": [
+{
+"id": "u-dia-mil-e2407192",
+"locator": null,
+"title": "DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)"
+}
+],
 "text": "Released PDF is 38 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dd9de2fc2a",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "Authored by Dr Kit Green of Wayne State University, per the 9 January 2018 DIA list (item 12, listed there under the shorter title \"Field Effects on Biological Tissues\").",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6542f4b8b3",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-83eeaf86",
+"locator": null,
+"title": "DIRD 26 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+}
+],
 "text": "Cover page reads \"11 March 2010 / ICOD: 1 December 2009\", series \"Acquisition Threat Support\". No DIA-08-XXXX-XXX document number is recoverable from the text layer of the released scan; it is recorded here as unknown rather than guessed.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2dfa379aaf",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The title as printed on the released document, \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", is materially more specific than the title the DIA reported to the Senate Armed Services Committee, \"Field Effects on Biological Tissues\". The words \"Anomalous\" and \"Human\" were not in the version of the title given to Congress.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-53b253daa9",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-ac202ad1",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+}
+],
 "text": "This is the only DIRD in the 38 whose subject is injury to human beings, which is what makes it the load-bearing document for the board's medical-effects thread rather than a propulsion survey.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

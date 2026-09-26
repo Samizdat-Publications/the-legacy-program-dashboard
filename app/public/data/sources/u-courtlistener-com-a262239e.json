@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "peter-gersten",
+"label": "Peter A. Gersten"
+},
+"b": {
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+"claimTier": 2,
+"id": "e-886b22f9b6",
+"label": "Gersten directed CAUS and brought its FOIA litigation",
+"note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-courtlistener-com-a262239e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CourtListener",
+"listedOn": [
+{
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+{
+"cls": "domain",
+"id": "d-litigation",
+"label": "Litigation"
+},
+{
+"cls": "person",
+"id": "peter-gersten",
+"label": "Peter A. Gersten"
+}
+],
+"node": null,
+"title": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.courtlistener.com/opinion/7176972/citizens-against-ufo-secrecy-inc-v-united-states-department-of-defense/"
+]
+}

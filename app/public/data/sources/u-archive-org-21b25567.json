@@ -1,0 +1,204 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-11e6eb914f",
+"locator": null,
+"node": "operation-northwoods",
+"nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"sourceText": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-19c3ca5039",
+"locator": null,
+"node": "operation-northwoods",
+"nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"sourceText": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-31dea85b1b",
+"locator": null,
+"node": "operation-northwoods",
+"nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"sourceText": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a03ee29975",
+"locator": null,
+"node": "operation-northwoods",
+"nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"sourceText": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-5826a24e22",
+"label": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
+"note": "The airliner pretext turns on substituting a duplicate for 'a civil registered aircraft belonging to a CIA proprietary organization in the Miami area'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+},
+"b": {
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents"
+},
+"claimTier": 1,
+"id": "e-f07e2d9e5f",
+"label": "A staffed and signed plan to manufacture events and attribute them to another state",
+"note": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+},
+"b": {
+"cls": "location",
+"id": "l-eglin",
+"label": "Eglin Air Force Base, Florida"
+},
+"claimTier": 1,
+"id": "e-5021b06b7a",
+"label": "The annex places the duplicate aircraft at Eglin AFB",
+"note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+},
+"b": {
+"cls": "institution",
+"id": "national-archives",
+"label": "National Archives and Records Administration"
+},
+"claimTier": 1,
+"id": "e-2fccafb363",
+"label": "Reached the public through the JFK Assassination Records Review Board",
+"note": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+},
+"b": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"claimTier": 1,
+"id": "e-6327dab193",
+"label": "Calls for a cover and deception plan executed to provoke a citable reaction",
+"note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+},
+"b": {
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"claimTier": 1,
+"id": "e-1274b87df2",
+"label": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
+"note": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-687c1e776b",
+"label": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
+"note": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-archive-org-21b25567",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+}
+],
+"node": null,
+"title": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"topics": [
+{
+"claims": [
+"c-11e6eb914f",
+"c-19c3ca5039",
+"c-31dea85b1b",
+"c-a03ee29975"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-11e6eb914f"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+]
+}

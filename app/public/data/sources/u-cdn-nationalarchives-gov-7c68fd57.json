@@ -1,0 +1,202 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-1ec235b0a2",
+"locator": null,
+"node": "belgian-af-f16-intercept-1990",
+"nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"sourceText": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The same guide places a four-page account in DEFE 24/1960 at pages 320 to 324 and describes it: 'The account, from General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff confirms that F-16 pilots obtained \"lock-ons\" with their radars but were unable to explain the phenomena.' It records the UFOs as 'detected by NATO radars and F-16 fighters over Belgium in 1990, which remain unexplained.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-2319675fc5",
+"locator": null,
+"node": "belgian-af-f16-intercept-1990",
+"nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"sourceText": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The UK's own position is in the same file series: 'A letter from Malcolm Rifkind to Lord Hill-Norton explains the MoD was not informed of the incident at the time and concluded there was no threat to the UK DEFE 24/1970 p58-59.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-25485f069d",
+"locator": null,
+"node": "belgian-af-f16-intercept-1990",
+"nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"sourceText": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The Belgian Air Force put its own account into British hands three and a half years later: 'An official statement from the Belgian Air Force sent to the MoD in November 1993 is at DEFE 24/1970 p86-87.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-43b4957821",
+"locator": null,
+"node": "belgian-af-f16-intercept-1990",
+"nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"sourceText": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, section 'UFOs reported over Belgium - 1989-1990', https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The National Archives' guide to the MoD UFO files opened on 17 August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-1df492425a",
+"locator": null,
+"node": "belgian-af-f16-intercept-1990",
+"nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"sourceText": "AREA52 - DEBRIEFED, batch 14 file 03, 0:50:36-1:00:04, per research/leads/area52-corpus-14.md, read against The National Archives' August 2009 Highlights Guide, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), the host's own narration says General Wilfred De Brouwer deployed F-16s on the night of 30-31 March 1990 and publicly rejected the mass-hysteria explanation. No record opened for this pass supports the rank, the office as given, or any such public statement; the record that names him gives 'Wilfried de Brouwer, Chief of Operations, Belgian Air Staff'.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-c4ac79804b",
+"locator": null,
+"node": "cosford-incident-1993",
+"nodeLabel": "Cosford incident, 30-31 March 1993",
+"sourceText": "The National Archives, 'Highlights Guide' to the August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The same guide records the internal alarm and the explanation together: the radar replay 'found nothing unusual had been detected', the Assistant Chief of the Air Staff 'Sir Anthony Bagnall, was briefed that there was evidence a UFO had evaded UK defences', and then 'It soon emerged that the majority of sightings were caused by the Russian rocket that launched the Cosmos 2238 satellite, re-entering the earths atmosphere.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-e945417ea6",
+"locator": null,
+"node": "cosford-incident-1993",
+"nodeLabel": "Cosford incident, 30-31 March 1993",
+"sourceText": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The National Archives' release guide describes the file: 'The file DEFE 24/2086 covers sightings of bright lights seen across central England in the early hours by police officers and military witnesses (including a police patrol at RAF Cosford, near Wolverhampton). The file includes more than 30 sightings during a six-hour period.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "belgian-af-f16-intercept-1990",
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+},
+"b": {
+"cls": "document",
+"id": "uk-defe24",
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew"
+},
+"claimTier": 1,
+"id": "e-18e1e4e6ae",
+"label": "The Belgian material sits in named DEFE 24 pieces",
+"note": "The National Archives' guide places the Belgian Air Force's November 1993 statement at DEFE 24/1970 pages 86 to 87 and de Brouwer's four-page account at DEFE 24/1960 pages 320 to 324, with further references in DEFE 24/1962 and DEFE 24/1965.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "belgian-af-f16-intercept-1990",
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+},
+"b": {
+"cls": "institution",
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"claimTier": 1,
+"id": "e-2c17e6bb88",
+"label": "Not informed at the time, and no threat to the UK",
+"note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "cosford-incident-1993",
+"label": "Cosford incident, 30-31 March 1993"
+},
+"b": {
+"cls": "institution",
+"id": "uk-mod-ufo-desk",
+"label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)"
+},
+"claimTier": 1,
+"id": "e-180a0085aa",
+"label": "The UFO desk worked the case and asked for a radar replay",
+"note": "The National Archives' guide says the MoD's UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "cosford-incident-1993",
+"label": "Cosford incident, 30-31 March 1993"
+},
+"b": {
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+"claimTier": 3,
+"id": "e-4f84c97a26",
+"label": "Three years before the policy review that commissioned Condign",
+"note": "Reasoning: `project-condign`'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-cdn-nationalarchives-gov-7c68fd57",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [
+{
+"cls": "event",
+"id": "belgian-af-f16-intercept-1990",
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+},
+{
+"cls": "event",
+"id": "cosford-incident-1993",
+"label": "Cosford incident, 30-31 March 1993"
+}
+],
+"node": null,
+"title": "TNA Highlights Guide, August 2009 tranche",
+"topics": [
+{
+"claims": [
+"c-1ec235b0a2",
+"c-2319675fc5",
+"c-25485f069d",
+"c-43b4957821",
+"c-1df492425a"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+},
+{
+"claims": [
+"c-1ec235b0a2",
+"c-2319675fc5",
+"c-25485f069d",
+"c-43b4957821",
+"c-1df492425a"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-43b4957821",
+"c-c4ac79804b",
+"c-e945417ea6"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
+"type": "document",
+"urls": [
+"https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+]
+}

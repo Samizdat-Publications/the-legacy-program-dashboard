@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-8d815e4ca1",
+"locator": null,
+"node": "jaric",
+"nodeLabel": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"sourceText": "The National Archives Discovery catalogue, search API, https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=UFO%20reports",
+"text": "The closure is the series norm rather than a singling out: DEFE 24/1938 and DEFE 24/1952 open in 2072 under code 82, DEFE 24/1939 in 2075 under code 84, and DEFE 24/1953 and DEFE 24/1954 in 2077 under code 84.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-discovery-nationalarchiv-9bdf180b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jaric",
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)"
+}
+],
+"node": null,
+"title": "The National Archives Discovery catalogue, search API",
+"topics": [
+{
+"claims": [
+"c-8d815e4ca1"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
+"type": "web page",
+"urls": [
+"https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=UFO%20reports"
+]
+}

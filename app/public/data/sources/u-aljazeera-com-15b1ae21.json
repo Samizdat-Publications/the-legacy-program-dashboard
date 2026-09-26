@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 2,
+"id": "e-47f677f4fd",
+"label": "Task Force chair publicly thanks the President for the directive",
+"note": "'Thank you POTUS! As the Chairwoman of the Task Force that investigates these subjects, we are incredibly grateful.' The legislative and executive disclosure tracks converge here for the first time.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"b": {
+"cls": "event",
+"id": "press-conf-2026-06-09",
+"label": "Capitol UAP Disclosure Press Conference"
+},
+"claimTier": 2,
+"id": "e-15ffdc8295",
+"label": "February announcement produced the June pressure campaign",
+"note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "u-aljazeera-com-15b1ae21",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "aljazeera.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+}
+],
+"node": null,
+"title": "Al Jazeera - Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens"
+]
+}

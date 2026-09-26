@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-6b3afc6508",
+"label": "NIDS headquarters 1995-2004",
+"note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-8newsnow-com-6af0cba5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "KLAS 8 News Now",
+"listedOn": [],
+"node": null,
+"title": "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/"
+]
+}

@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": "2024-03-08",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "program",
+"id": "gremlin-program",
+"label": "GREMLIN"
+},
+"claimTier": 1,
+"id": "e-4c2551b45a",
+"label": "AARO's prototype real-time UAP sensor platform",
+"note": "Disclosed at the Volume I rollout in March 2024; a 90-day collection at a classified site was reported in November 2024.",
+"type": "programmatic"
+}
+],
+"era": "3",
+"id": "u-defensescoop-com-2fe9c66b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "program",
+"id": "gremlin-program",
+"label": "GREMLIN"
+},
+{
+"cls": "person",
+"id": "tim-phillips",
+"label": "Timothy A. Phillips"
+}
+],
+"node": null,
+"title": "DefenseScoop - DOD developing 'Gremlin' capability to help personnel collect real-time UAP data",
+"topics": [],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/"
+]
+}

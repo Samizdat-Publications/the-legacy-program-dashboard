@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"claimTier": 1,
+"id": "e-30863a5c46",
+"label": "no records located for the documents the book describes",
+"note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"b": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"claimTier": 2,
+"id": "e-5b25da505b",
+"label": "2007 approach that originated the contract",
+"note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-theblackvault-com-e355abf5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+}
+],
+"node": null,
+"title": "The Black Vault — FOIA-00023-2022",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+]
+}

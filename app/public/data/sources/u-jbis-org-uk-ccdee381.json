@@ -1,0 +1,86 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-cc21650add",
+"locator": null,
+"node": "dird-cockpits-in-the-era-of-breakthrough",
+"nodeLabel": "Cockpits in the Era of Breakthrough Flight",
+"sourceText": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"text": "An open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion' by M. G. Millis, was published in the Journal of the British Interplanetary Society in 2013; its abstract addresses added degrees of motion, hover-to-superluminal speed range, new motion displays, and the loss of the pilot's inertial and visual cues.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5c26b51292",
+"locator": null,
+"node": "marc-millis",
+"nodeLabel": "Marc G. Millis",
+"sourceText": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"text": "Millis published an open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion', in the Journal of the British Interplanetary Society in 2013.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+"b": {
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+"claimTier": 1,
+"id": "e-46a5048732",
+"label": "subject domain: crew-station design for breakthrough flight regimes",
+"note": "The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+"b": {
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+"claimTier": 1,
+"id": "e-7c47cf14a4",
+"label": "authored by Marc G. Millis, Tau Zero Foundation",
+"note": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
+"type": "research"
+}
+],
+"era": "nd",
+"id": "u-jbis-org-uk-ccdee381",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "jbis.org.uk",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+{
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+}
+],
+"node": null,
+"title": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"topics": [],
+"type": "web page",
+"urls": [
+"http://www.jbis.org.uk/paper.php?p=2013.66.278"
+]
+}

@@ -1,0 +1,93 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-c6bfe46ddb",
+"locator": null,
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"sourceText": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , and Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , both opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Two further participants are named and placed at the site by George's published photograph caption: 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner.' Mansmann is Robert Jacobs's corroborating witness and later wrote to UFO researchers about the event, including a letter of May 1987 reported as confirming Jacobs's account.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c3377fce82",
+"locator": null,
+"node": "florenz-mansmann",
+"nodeLabel": "Maj. Florenz J. Mansmann",
+"sourceText": "Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , opened 2026-09-19",
+"text": "Florenz Mansmann, a major involved in the Big Sur project, is reported to have confirmed Robert Jacobs's account of the September 1964 filming in a May 1987 letter to a UFO researcher. Correspondence with Lee Graham in 1983 and a letter from Jacobs to Mansmann of 14 January 1985 are also reported.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6ea5027675",
+"locator": null,
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"sourceText": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 photograph caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , and Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , both opened 2026-09-19",
+"text": "A MISATTRIBUTION THIS NODE PREVIOUSLY CARRIED, RECORDED SO IT IS NOT REINTRODUCED. This node formerly stated that a 'Col. Robert Mansmann, who was involved in the technical investigation' wrote to Lee Graham on 30 January 1983, to Peter Bons on 8 March 1983 and to T. Scott Crain on 6 May 1987 about the Echo Flight incident. The correspondents match the Big Sur correspondence, the officer is Maj. Florenz J. Mansmann, and the event is the September 1964 Big Sur filming at Vandenberg. The letters themselves have not been opened and the 1983 date is given variously as 30 January and 10 March, so the false attribution is removed and no corrected attribution is asserted here. The correct destination for the letters, once opened, is big-sur-1964 and a florenz-mansmann node.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "florenz-mansmann",
+"label": "Maj. Florenz J. Mansmann"
+},
+"b": {
+"cls": "event",
+"id": "big-sur-1964",
+"label": "Big Sur missile-test filming, September 1964"
+},
+"claimTier": 2,
+"id": "e-942134b4c4",
+"label": "Major present at the Big Sur site; Jacobs's corroborating witness",
+"note": "Tier 1 for his presence, which is established by the project engineer's own published photograph caption, and Tier 2 for what he later wrote to researchers. THE BOARD HAS BEEN ATTRIBUTING HIS LETTERS TO THE WRONG MAN AND THE WRONG EVENT; see research/leads/nuclear-corrections-2026-09-19.json.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "u-en-wikipedia-org-4baf2cc3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "event",
+"id": "big-sur-1964",
+"label": "Big Sur missile-test filming, September 1964"
+},
+{
+"cls": "person",
+"id": "florenz-mansmann",
+"label": "Maj. Florenz J. Mansmann"
+},
+{
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+}
+],
+"node": null,
+"title": "Wikipedia, 'Big Sur UFO', opened only to date Florenz Mansmann's May 1987 letter to a UFO researcher. Opened 19 September 2026",
+"topics": [
+{
+"claims": [
+"c-c3377fce82",
+"c-6ea5027675"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Big_Sur_UFO"
+]
+}

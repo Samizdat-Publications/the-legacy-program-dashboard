@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-apidadosabertos-saude-go-60b89241",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Governo do Brasil",
+"listedOn": [
+{
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha"
+}
+],
+"node": null,
+"title": "CNES - health establishments registered in the municipality of Varginha/MG (IBGE code 317070)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://apidadosabertos.saude.gov.br/cnes/estabelecimentos?codigo_municipio=317070"
+]
+}

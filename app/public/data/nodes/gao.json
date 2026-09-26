@@ -7,14 +7,30 @@
 {
 "id": "c-294e766dd5",
 "source": "GAO/NSIAD-95-187, 28 July 1995",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "28 July 1995",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO/NSIAD-95-187, issued 28 July 1995 at the request of Rep. Steven Schiff, reported that Roswell Army Air Field outgoing messages for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-242482b664",
 "source": "Inference from the provenance and findings of GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The unauthorised destruction of a single installation's outgoing message traffic covering the exact period at issue is the strongest surviving documentary anomaly in the Roswell record, and it was found by a legislative-branch auditor rather than by any executive-branch review. Reasoning: only GAO had both the access authority and the independence to look at records management rather than at the story.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

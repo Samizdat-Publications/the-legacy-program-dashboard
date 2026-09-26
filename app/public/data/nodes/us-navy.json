@@ -8,32 +8,59 @@
 {
 "id": "c-8c364fa4f1",
 "source": "DoD release, 27 April 2020",
+"sources": [],
 "text": "On 27 April 2020 the Department of Defense authorised the release of three unclassified Navy videos - one taken in November 2004 and two in January 2015 - stating it was releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos'.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-965b650b61",
 "source": "navy.mil/About",
+"sources": [],
 "text": "The Navy is organised under a Secretary of the Navy, Under Secretary, Chief of Naval Operations, Vice Chief and Chief of Naval Personnel, with the stated mission of global deployment to preserve peace, deter aggression and protect American interests without dependence on foreign land bases.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-86a7c84b9f",
 "source": "Inference from the text of the 27 April 2020 DoD release",
+"sources": [],
 "text": "The 2020 release is best read as damage control rather than disclosure: the Department confirmed authenticity, which it could no longer avoid, while declining to characterise the objects, and it released only footage already in public circulation. Reasoning: the release statement's own wording confines the purpose to correcting misconceptions about the existing circulating footage.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-e598c19060",
 "source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "us-patent-10144532",
+"locator": "printed front page and specification, , opened 2026-09-19",
+"title": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+},
+{
+"id": "us-patent-10144532",
+"locator": null,
+"title": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+}
+],
 "text": "THE NAVY IS THE ASSIGNEE ON THE FACE OF THE PATENT AND PROSECUTED IT ITSELF. US 10,144,532's printed front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)' and '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'. The government did not merely take an assignment of an employee invention; it put its own patent counsel at the Naval Air Warfare Center Aircraft Division on the prosecution.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fc09d86e45",
 "source": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
+"sources": [
+{
+"id": "u-twz-com-95ef0752",
+"locator": null,
+"title": "Brett Tingley, The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD"
+}
+],
 "text": "AND THE NAVY'S OWN TEST OF THE RELATED DEVICE FAILED, ON THE RECORD FROM A NAMED NAVY OFFICIAL. Timothy Boulay, Communications Director at NAWCAD: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; and 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The Navy filed it, the Navy funded it, the Navy tested it, and the Navy's own spokesman says the effect could not be proven. NO OTHER PROPULSION MECHANISM ON THIS BOARD HAS ALL FOUR.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

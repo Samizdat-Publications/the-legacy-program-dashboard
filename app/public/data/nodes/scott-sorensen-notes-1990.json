@@ -7,44 +7,100 @@
 {
 "id": "c-09fec4e66f",
 "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , pages 1 to 2 of the scan, 1990-08-13",
+"sources": [
+{
+"id": "u-arvp-co-uk-58fee6ee",
+"locator": null,
+"title": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk"
+}
+],
 "text": "The document is 31 scanned pages in one PDF. Its first pages are handwritten notes printed on Aviation Week & Space Technology letterhead over the name block 'William B. Scott / Senior Engineering Editor', with a McGraw-Hill logo in the lower right. One such sheet is headed, circled, 'Mark - 8/13/90'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8355eebae9",
 "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 1 and 5, 1990-12-11",
+"sources": [
+{
+"id": "u-arvp-co-uk-58fee6ee",
+"locator": null,
+"title": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk"
+}
+],
 "text": "Its core is a 16 page typed transcript, hand-numbered 1 to 16 at the top right, headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Internal markers show it was taped: '[end side A of tape 1]', 'Side B/tape 1', '[end of tape 1, side b]', '[tape 2,side a]'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1c96e2b5db",
 "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 16, 1990-12-10",
+"sources": [
+{
+"id": "u-arvp-co-uk-58fee6ee",
+"locator": null,
+"title": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk"
+}
+],
 "text": "Page 16 carries a handwritten addendum in the same hand: 'As of 12/10/90 - additional info from Brad', followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was therefore followed up before the notes were compiled.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8fc20dee93",
 "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 11 and 16, 1990-12-11",
+"sources": [
+{
+"id": "u-arvp-co-uk-58fee6ee",
+"locator": null,
+"title": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk"
+}
+],
 "text": "The interviewer records his own reservations inside the document. Of the propulsion explanation: '[note: think he's talking frequency here, not wavelength, but he continued to confuse the two; also, long antenna hardly consistent with detecting extremely hi freq, if that's really what he meant.]' Of the witness's terms, in notes written 'after leaving meeting, while driving': 'He reminded me a couple of times that he gets $200/hr. as a designer. So, who knows--he may charge us. he also said if we wanted a good rendering of the base burning vehicle, he could provide that for a couple thousand dollars.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-df16512cf7",
 "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03",
+"sources": [
+{
+"id": "u-arvp-co-uk-58fee6ee",
+"locator": null,
+"title": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk"
+}
+],
 "text": "The document contains the witness disowning part of McCandlish's drawing. Shown the sketches, Sorensen says of the manned vehicle: 'this is probably the farthest from what I saw, and no, I didn't see anything with an intake up above the windows like this', and 'mark extrapolates a bit too much'. Of the saucer drawing he says the opposite: 'you've got a drawing, as accurate as I could get [the round, saucer-looking thing]. This dwg is so GD..accurate that I can't be much more specific than this.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5083c64066",
 "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
+"sources": [
+{
+"id": "u-arvp-co-uk-58fee6ee",
+"locator": null,
+"title": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk"
+}
+],
 "text": "The document is a working file, not a publication. Nothing in the 31 pages is a published article, and the notes state that the witness had previously refused to talk and that the artwork, not the interview, was what Aviation Week printed.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0f72696e87",
 "source": "PDF metadata and URL path, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-58fee6ee",
+"locator": null,
+"title": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk"
+}
+],
 "text": "The scan's provenance before December 2024 is not established by anything in it. The PDF's own metadata gives /CreationDate 'D:20241017132510' and /Producer and /Creator both 'PDFium'; the file is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and zero embedded fonts, so it is a scan with no text layer; and it sits under /wp-content/uploads/2024/12/ on a site whose operator is not named. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

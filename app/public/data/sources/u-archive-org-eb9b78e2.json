@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-3c29c971a1",
+"label": "Condign report held at MoD Main Building",
+"note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"id": "u-archive-org-eb9b78e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [],
+"node": null,
+"title": "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt"
+]
+}

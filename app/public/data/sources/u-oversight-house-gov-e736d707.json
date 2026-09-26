@@ -1,0 +1,121 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 2,
+"id": "e-6f1436abda",
+"label": "Panel worked under sustained public harassment",
+"note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+"b": {
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+"claimTier": 2,
+"id": "e-afdcf2d1b0",
+"label": "Cited Dietrich by name to Congress as evidence of aviator stigma",
+"note": "Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-aaedf67eb7",
+"label": "NASA UAP study participant testifying on stigma and data policy alongside AARO's remit",
+"note": "Gold's testimony argued the problem is stigma and data quality as much as classification.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-3bcfb851d4",
+"label": "sworn witness",
+"note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 1,
+"id": "e-033f7a4254",
+"label": "Member of the study team",
+"note": "Gold is listed among the team's members and later testified to Congress on its findings.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-oversight-house-gov-e736d707",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+}
+],
+"node": null,
+"title": "House Oversight - Gold written testimony (PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+]
+}

@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c80a1b8025",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full-text search https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt",
+"text": "The released FBI file on Brown, FOI/PA# 1496195-000, contains no statement that Brown knew more about radar detection than any individual in the US Navy. Its only two references to radar are a Los Angeles Times article of 4 July 1948 reporting that 'During World War II he headed the U. S. Navy's Atlantic Fleet Radar School', and an informant's account that 'BROWN claims to have been a lieutenant commander in the Navy during the war, one of his principal jobs being the administration of the Atlantic Fleet Radar School.' Three American Alchemy episodes attribute the radar superlative to a 1942 or 1943 FBI file; it is not in the file this board cites.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f8edd1703a",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, investigative summary https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt",
+"text": "The same file summarises the 1942 Navy separation as follows: 'The current investigation has developed much information on BROWN, including that he was dismissed from the U. S. Navy Reserve in 1942 \"for the good of the Service and to escape general court martial\".'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-archive-org-379f97a2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full text",
+"topics": [
+{
+"claims": [
+"c-c80a1b8025",
+"c-f8edd1703a"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt"
+]
+}

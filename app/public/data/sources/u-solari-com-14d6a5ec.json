@@ -1,0 +1,88 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7c9bffae9d",
+"locator": null,
+"node": "catherine-austin-fitts",
+"nodeLabel": "Catherine Austin Fitts",
+"sourceText": "https://solari.com/people/catherine-austin-fitts",
+"text": "Fitts was a managing director and board member of Dillon, Read and Co. Inc. and served as Assistant Secretary of Housing and Federal Housing Commissioner at HUD under President George H. W. Bush.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8c4ae44b55",
+"locator": null,
+"node": "catherine-austin-fitts",
+"nodeLabel": "Catherine Austin Fitts",
+"sourceText": "https://solari.com/people/catherine-austin-fitts",
+"text": "She founded Hamilton Securities Group and is founder and president of Solari, Inc., publisher of the Solari Report.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-af59fc4bf9",
+"locator": null,
+"node": "solari",
+"nodeLabel": "Solari, Inc. / The Solari Report",
+"sourceText": "https://solari.com/people/catherine-austin-fitts",
+"text": "Solari, Inc. is founded by Catherine Austin Fitts and publishes the Solari Report.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "catherine-austin-fitts",
+"label": "Catherine Austin Fitts"
+},
+"b": {
+"cls": "institution",
+"id": "solari",
+"label": "Solari, Inc. / The Solari Report"
+},
+"claimTier": 2,
+"id": "e-587347e0ce",
+"label": "Founder and president",
+"note": "Fitts is founder and president of Solari, Inc., publisher of the Solari Report and the Missing Money archive. Attested by Solari's own biography page.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "u-solari-com-14d6a5ec",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "solari.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "catherine-austin-fitts",
+"label": "Catherine Austin Fitts"
+},
+{
+"cls": "institution",
+"id": "solari",
+"label": "Solari, Inc. / The Solari Report"
+}
+],
+"node": null,
+"title": "Solari, Catherine Austin Fitts",
+"topics": [
+{
+"claims": [
+"c-7c9bffae9d",
+"c-8c4ae44b55"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "web page",
+"urls": [
+"https://solari.com/people/catherine-austin-fitts"
+]
+}

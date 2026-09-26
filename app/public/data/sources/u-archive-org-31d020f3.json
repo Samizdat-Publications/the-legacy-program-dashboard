@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+},
+"b": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"claimTier": 1,
+"id": "e-65eba90528",
+"label": "Stork produced Special Report No. 14, 5 May 1955",
+"note": "A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"id": "u-archive-org-31d020f3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+{
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+}
+],
+"node": null,
+"title": "Project Blue Book Special Report No. 14, 5 May 1955, full OCR text",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt"
+]
+}

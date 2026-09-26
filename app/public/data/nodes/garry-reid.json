@@ -29,26 +29,46 @@
 {
 "id": "c-704becfaad",
 "source": "OSD/JS FOIA 18-F-0324, released 17 August 2022",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": "released 17 August 2022",
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "Wrote memoranda in December 2017 asserting Elizondo served as an action officer from 2008 to 2017 with no documented AATIP responsibilities, that AATIP terminated in 2012, and that Elizondo 'aggrandized his role'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-61960ca93c",
 "source": "OSD/JS FOIA 18-F-0324",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": null,
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "His memorandum answered six questions from the Secretary of Defense's office covering the abruptness of the resignation, the 'uncertain provenance' of the second resignation letter, Elizondo's claim of secretly working for the Secretary, video handling, and the TTSA press conference.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ad2e15fa12",
 "source": "The Debrief, reporting on DoD IG findings",
+"sources": [],
 "text": "DoD IG investigations found he violated the Joint Ethics Regulation through a relationship creating a 'widespread perception of an inappropriate relationship and favoritism', used personal email for official business 65 times, and engaged in unwelcome physical contact with female subordinates; he was removed by April 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 },
 {
 "id": "c-453e249c75",
 "source": "The Debrief, 'Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted'",
+"sources": [],
 "text": "Defense officials told The Debrief that Reid 'played a central role in obfuscating information' about UAP and deliberately misled the public about Elizondo's program involvement.",
-"tier": 2
+"tier": 2,
+"unresolved": "no URL or identifier, and no reviewed reading of the string"
 }
 ],
 "cls": "person",

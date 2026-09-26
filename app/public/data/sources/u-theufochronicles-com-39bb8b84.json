@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [],
+"date": "2011-03",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "program",
+"id": "mufon-sip",
+"label": "BAASS–MUFON Star Team Impact Project (SIP)"
+},
+"claimTier": 2,
+"id": "e-26348e1284",
+"label": "funded MUFON's Star Team Impact Project",
+"note": "A DIA-contracted firm bought rapid-response access to the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010.",
+"type": "funding"
+}
+],
+"era": "2",
+"id": "u-theufochronicles-com-39bb8b84",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "theufochronicles.com",
+"listedOn": [
+{
+"cls": "program",
+"id": "mufon-sip",
+"label": "BAASS–MUFON Star Team Impact Project (SIP)"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+}
+],
+"node": null,
+"title": "The UFO Chronicles — What Caused the Failure of the BAASS-MUFON SIP Program?",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html"
+]
+}

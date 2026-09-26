@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-youtube-com-6f8cf528",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "program",
+"id": "american-alchemy",
+"label": "American Alchemy"
+}
+],
+"node": null,
+"title": "American Alchemy - channel feed",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/feeds/videos.xml?channel_id=UCuG2KzrIMe3qoNcuDVpwnXw"
+]
+}

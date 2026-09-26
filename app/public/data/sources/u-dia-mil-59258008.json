@@ -1,0 +1,194 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-150161a042",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"text": "Contract modification P00001 (effective SEP 02 2009) to contract HHM402-08-C-0072 names the contractor as 'BIGELOW AEROSPACE ADVANCED SPACE STUDIES, LLC', address '1E199 W BROOKS AVE, NORTH LAS VEGAS NV 890323671' (OCR-degraded; street number reads as 1899/1E199 W Brooks Ave), with DUNS shown as 37/0377613 (OCR-degraded) and CAGE code 54JU7 (OCR-degraded). Original contract dated SEP 22, 2008.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-024d9c7ea4",
+"locator": null,
+"node": "aawsap-contract",
+"nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"text": "Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6b7d049ee2",
+"locator": null,
+"node": "aawsap-contract",
+"nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"text": "Absence from FPDS/USAspending is expected for DIA Virginia Contracting Activity awards (intelligence-community contracting is generally excluded from public reporting), but it means the only public award record for a $22M program is the FOIA-released paper. Dollar-value line items on the modification are illegible/redacted in the released scan.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"claimTier": 1,
+"id": "e-2d91026357",
+"label": "",
+"note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"claimTier": 1,
+"id": "e-966235789d",
+"label": "prime contract",
+"note": "",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-616b41aecf",
+"label": "the only case where money for a UAP programme has been traced from a classified appropriation to a named contract",
+"note": "Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain's proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+"claimTier": 1,
+"id": "e-f690fa7e3c",
+"label": "",
+"note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-89af8634bf",
+"label": "a company stood up to hold a single government contract",
+"note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-ae2e5483cd",
+"label": "the instrument itself - competed, awarded, numbered and released",
+"note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-b88c5faf1b",
+"label": "the one instrument on the board where the appropriation-to-contract path is fully documented",
+"note": "The AAWSAP prime contract, awarded 22 September 2008 to BAASS off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity, and released through DIA FOIA together with modification P00001. It is the concrete artefact that turns 'money moved through a classified channel' into a document with a number on it, which is what this domain exists to collect.",
+"type": "funding"
+}
+],
+"era": "nd",
+"id": "u-dia-mil-59258008",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+}
+],
+"node": null,
+"title": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-150161a042"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+]
+}

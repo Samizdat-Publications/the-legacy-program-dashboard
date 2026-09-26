@@ -10,20 +10,44 @@
 {
 "id": "c-f06b0e8353",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The DIA letter of 9 January 2018 lists item 25 as \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\"",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2fc9cddaec",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The KLAS-TV list of the same thirty-eight DIRDs, published 25 July 2018 by George Knapp and Matt Adams and confirmed genuine by Luis Elizondo, gives the same document as \"Quantum Entanglement Communication, Dr J Cramer, Univ of Washington.\"",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-a2f16a33ea",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+"sources": [
+{
+"id": "u-documents2-theblackvault-2bdfc9d5",
+"locator": null,
+"title": "Defense Intelligence Reference Document, \"The Space-Communication Implications of Quantum Entanglement and Nonlocality\" (The Black Vault FOIA release)"
+}
+],
 "text": "The released DIRD is dated 30 March 2010, carries an Intelligence Cut-Off Date of 1 December 2009 and the document number DIA-08-1003-016, and sits in the Acquisition Threat Support series. The author line on the cover page is redacted under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -1,0 +1,25 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "u-theintercept-com-6d4ca60f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Intercept",
+"listedOn": [
+{
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept"
+}
+],
+"node": null,
+"title": "The Intercept - About (official)",
+"topics": [],
+"type": "article",
+"urls": [
+"https://theintercept.com/about/"
+]
+}

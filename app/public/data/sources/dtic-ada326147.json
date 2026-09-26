@@ -1,0 +1,156 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b868065c8f",
+"locator": null,
+"node": "gerald-anderson",
+"nodeLabel": "Gerald Anderson",
+"sourceText": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+"text": "The USAF's 'Case Closed' prints Gerald Anderson's interview in full as Appendix C, beginning at page 187, noting it was 'excerpted in their entirety from unedited interviews used to prepare the video, Recollections of Roswell, Part II (1993)' and appears courtesy of the Fund for UFO Research. The Air Force also quotes him directly on the alleged bodies: 'I thought they were plastic dolls.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f81473e94d",
+"locator": null,
+"node": "jim-ragsdale",
+"nodeLabel": "James Ragsdale",
+"sourceText": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+"text": "The USAF's 'Case Closed' prints James Ragsdale's interview as Appendix C at page 215, and records that the transcript 'was provided by Kevin Randle, the coauthor of the Truth About the UFO Crash at Roswell (Avon Books, 1994), in which direct quotes from this transcript appear.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-605afa7187",
+"locator": null,
+"node": "usaf-roswell-reports",
+"nodeLabel": "The Roswell Reports (USAF, 1994-1997)",
+"sourceText": "USAF, 'The Roswell Report: Case Closed' (1997), DTIC ADA326147",
+"text": "'The Roswell Report: Case Closed' (1997, 232 pp, DTIC ADA326147) concludes the recovered material 'was not the remnants of an extraterrestrial spacecraft'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"b": {
+"cls": "document",
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
+"claimTier": 1,
+"id": "e-8b16784bd7",
+"label": "The Air Force reports were produced to rebut Marcel's account",
+"note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-dc422e2331",
+"label": "AARO's 2024 finding restates the 1994-1997 Air Force position",
+"note": "Twenty-seven years later the successor office reaffirmed the MOGUL attribution without new primary records, because the primary records GAO identified as destroyed have not been recovered.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"id": "dtic-ada326147",
+"identifiers": [
+"DTIC ADA326147"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "person",
+"id": "gerald-anderson",
+"label": "Gerald Anderson"
+},
+{
+"cls": "person",
+"id": "jim-ragsdale",
+"label": "James Ragsdale"
+},
+{
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+{
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+{
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+{
+"cls": "document",
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+}
+],
+"node": null,
+"title": "DTIC ADA326147",
+"topics": [
+{
+"claims": [
+"c-f81473e94d",
+"c-605afa7187"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-f81473e94d",
+"c-605afa7187"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+},
+{
+"claims": [
+"c-b868065c8f"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-605afa7187"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-b868065c8f"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_ADA326147"
+]
+}
