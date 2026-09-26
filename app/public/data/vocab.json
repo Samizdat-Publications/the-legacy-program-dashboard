@@ -275,6 +275,38 @@
   "B",
   "C"
  ],
+ "personFacets": {
+  "_what": "Redesign phase 9. research/_person_facets.json carries these per person, derived from the person's own record (never outside knowledge); `status` stays as authored. unknown is the honest answer when the record is silent. verify.py restates these lists and holds the side-car to them.",
+  "roleStatus": [
+   "current",
+   "former",
+   "unknown"
+  ],
+  "roles": [
+   "official",
+   "military",
+   "intelligence",
+   "scientist",
+   "contractor",
+   "legislator",
+   "witness",
+   "claimant",
+   "researcher",
+   "journalist",
+   "media",
+   "counsel"
+  ],
+  "underOath": [
+   "yes",
+   "no",
+   "unknown"
+  ],
+  "vitalStatus": [
+   "alive",
+   "dead",
+   "unknown"
+  ]
+ },
  "personStatus": [
   "active",
   "dead",
@@ -1464,7 +1496,7 @@
    "use": "ONLY when no predicate above fits the sentence"
   }
  ],
- "source": "f38a9d3ce56d",
+ "source": "a86cea605f44",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

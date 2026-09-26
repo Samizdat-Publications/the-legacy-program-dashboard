@@ -11,8 +11,11 @@
  * something was said, the analyst tab covering no text, the thread's timeline
  * slice in year order, the timeline's axis and its NO DATE column, and no
  * internal jargon or debug chrome on any screen. C26 became a phone check over
- * every surface in the critic sweep. All against the built app served by
- * `npm run preview`.
+ * every surface in the critic sweep. Redesign phase 9 rewrote C15 (the timeline
+ * by section, every event named) and added C50 to C53: the directories, their
+ * person facets against research/_person_facets.json, search over everything
+ * with its keys, and the timeline's panel, counts, repeats, scopes and strand
+ * filter. All against the built app served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -39,6 +42,8 @@
 import { chromium } from 'playwright';
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { readFileSync } from 'node:fs';
+import { dirname, resolve } from 'node:path';
 
 const APP = (process.env.APP_URL || 'http://127.0.0.1:4173').replace(/\/+$/, '') + '/';
 const POISON = (process.env.POISON || '').trim().toLowerCase();
@@ -425,27 +430,71 @@ const IN_PAGE = {
     });
   },
 
-  /* Timeline, from the rendered items and the rendered lane boxes. */
+  /* Timeline, from the rendered items and the rendered lane boxes (phase 9:
+     the lanes are sections, and an event a lane cannot name is in a count). */
   timeline() {
     const packs = Array.prototype.map.call(document.querySelectorAll('.tl-pack'), (p) => {
       const r = p.getBoundingClientRect();
       return {
-        strand: p.getAttribute('data-strand'), era: p.getAttribute('data-era'),
+        section: p.getAttribute('data-section'), era: p.getAttribute('data-era'),
         x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
       };
     });
-    const items = Array.prototype.map.call(document.querySelectorAll('[data-tl-item]'), (el) => {
-      const r = el.getBoundingClientRect();
-      return {
-        id: el.getAttribute('data-id'), kind: el.getAttribute('data-kind'),
-        era: el.getAttribute('data-era'), strand: el.getAttribute('data-strand'),
-        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
-      };
-    });
+    const box = (el) => { const r = el.getBoundingClientRect(); return { x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height }; };
+    const items = Array.prototype.map.call(document.querySelectorAll('[data-tl-item]'), (el) => ({
+      id: el.getAttribute('data-id'), kind: el.getAttribute('data-kind'),
+      era: el.getAttribute('data-era'), section: el.getAttribute('data-section'),
+      text: (el.textContent || '').trim(), scheduled: el.getAttribute('data-scheduled') === '1', ...box(el),
+    }));
+    const mores = Array.prototype.map.call(document.querySelectorAll('[data-tl-more]'), (el) => ({
+      id: 'more:' + el.getAttribute('data-section') + ':' + el.getAttribute('data-year'), kind: 'more',
+      ids: (el.getAttribute('data-ids') || '').split(' ').filter(Boolean),
+      era: el.getAttribute('data-era'), section: el.getAttribute('data-section'),
+      year: el.getAttribute('data-year'), text: (el.textContent || '').trim(), ...box(el),
+    }));
+    const marks = document.querySelectorAll('[data-kind="mark"], .tl-mark').length;
     const open = document.querySelector('.tl-era.open');
     return {
-      packs, items,
+      packs, items, mores, marks,
       openEraSub: open ? (open.querySelector('.tl-era-sub') || {}).textContent || '' : '',
+      scopeText: ((document.querySelector('.tl-scope') || {}).textContent || ''),
+    };
+  },
+
+  /* The timeline's panel as drawn (C53). */
+  tlPanel() {
+    const p = document.querySelector('.tl-detail');
+    const t = (sel) => ((p && p.querySelector(sel)) || {}).textContent || '';
+    const a = p && p.querySelector('a.tl-d-nodelink');
+    return {
+      shown: !!p && !p.hidden, mode: p ? p.getAttribute('data-mode') : null, id: p ? p.getAttribute('data-id') : null,
+      date: t('.tl-d-date'), grade: t('.tl-d-grade'), label: t('.tl-d-label').trim(), text: t('.tl-d-text').trim(),
+      node: a ? a.getAttribute('href') : null, nodeText: t('.tl-d-node'),
+      reps: Array.prototype.map.call(p ? p.querySelectorAll('.tl-d-rep') : [], (r) => ({
+        id: r.getAttribute('data-id'), label: ((r.querySelector('.tl-d-replabel') || {}).textContent || '').trim() })),
+      srcs: p ? p.querySelectorAll('.tl-d-src a').length : 0,
+      sched: t('.tl-sched'),
+      list: Array.prototype.map.call(p ? p.querySelectorAll('.tl-li') : [], (li) => ({
+        id: li.getAttribute('data-id'), label: ((li.querySelector('.tl-li-label') || {}).textContent || '').trim(),
+        scheduled: li.getAttribute('data-scheduled') === '1' })),
+    };
+  },
+
+  /* A directory as drawn (C50, C51): its rows, their links, its chips and counts. */
+  directory() {
+    const root = document.querySelector('.dir');
+    const rows = Array.prototype.map.call(document.querySelectorAll('.dir-table tr.dir-row'), (tr) => {
+      const a = tr.querySelector('.c-name a');
+      return { id: tr.getAttribute('data-id'), href: a ? a.getAttribute('href') : null, name: a ? (a.textContent || '').trim() : '' };
+    });
+    const chips = Array.prototype.map.call(document.querySelectorAll('a.dir-chip'), (c) => ({
+      key: c.getAttribute('data-key'), val: c.getAttribute('data-val'),
+      n: Number(((c.querySelector('.dir-chip-n') || {}).textContent || '').trim()),
+      on: c.getAttribute('aria-pressed') === 'true',
+    }));
+    return {
+      present: !!root, dir: root ? root.getAttribute('data-dir') : null, rows, chips,
+      count: Number(((document.querySelector('.dir-count') || {}).textContent || '').trim()),
     };
   },
 
@@ -577,6 +626,9 @@ const IN_PAGE = {
       const p = document.querySelector('.home-para');
       out.have = p && seen(p, 300) && onFirst(p) ? 1 : 0;
       out.what = 'the introduction at a readable width on the first screen';
+    } else if (kind === 'people' || kind === 'events') {
+      out.have = all('.dir-row .c-name a').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'directory rows named';
     } else if (kind === 'timeline') {
       out.have = all('.tlp-row').filter((e) => seen(e, 200) && txt(e)).length;
       out.what = 'timeline events named';
@@ -1380,6 +1432,45 @@ const POISONS = {
       if (a) a.setAttribute('href', '#/topic/grusch-allegations');
     }),
   },
+  c50: {
+    stops: ['dir:people'],
+    what: 'drops one row from the people directory and draws another twice',
+    fn: async (page) => page.evaluate(() => {
+      const rows = document.querySelectorAll('.dir-table tr.dir-row');
+      if (rows.length < 3) return;
+      rows[0].remove();
+      rows[1].parentNode.appendChild(rows[1].cloneNode(true));
+    }),
+  },
+  c51: {
+    stops: ['dir:people:claimant'],
+    what: 'adds one to the count on the dead chip and drops one claimant from the filtered rows',
+    fn: async (page) => page.evaluate(() => {
+      const c = document.querySelector('a.dir-chip[data-key="vital"][data-val="dead"] .dir-chip-n');
+      if (c) c.textContent = String(Number(c.textContent) + 1);
+      const r = document.querySelector('.dir-table tr.dir-row');
+      if (r) r.remove();
+    }),
+  },
+  c52: {
+    stops: ['search52'],
+    what: 'takes the topic rows out of the search list, and marks a row the keys did not reach',
+    fn: async (page) => page.evaluate(() => {
+      for (const r of document.querySelectorAll('.results a.res[data-type="topic"]')) r.remove();
+    }),
+  },
+  c53: {
+    stops: ['tl53'],
+    what: 'puts another event\'s label in the timeline panel and takes its node link away',
+    fn: async (page) => page.evaluate(() => {
+      const l = document.querySelector('.tl-detail .tl-d-label');
+      if (l) l.textContent = 'Some other event entirely';
+      const a = document.querySelector('.tl-detail a.tl-d-nodelink');
+      if (a) a.remove();
+      const t = document.querySelector('.tl-detail .tl-d-text');
+      if (t) t.textContent = 'x';
+    }),
+  },
   c20: {
     stops: ['search'],
     what: 'redraws the claim rows as the unranked code drew them: the first twelve matches in file order',
@@ -1597,9 +1688,29 @@ async function main() {
     S[id].slice = await ev(IN_PAGE.slice);
   }
 
-  await stop('timeline', '#/timeline', 2400);
+  /* phase 9: an event's node is a link in the panel a click opens, so the
+     itinerary opens it (C1 reads the node links a screen renders) */
+  await stop('timeline', '#/timeline', 2400, async (p) => {
+    const c = p.locator('.tl-chip').first();
+    if (await c.count()) { await c.click(); await p.waitForTimeout(200); }
+  });
   S.timeline.timeline = await ev(IN_PAGE.timeline);
   S.timeline.axis = await ev(IN_PAGE.tlAxis);
+
+  /* phase 9: the six directories, and the people directory filtered by the
+     side-car's own values (C50, C51) */
+  const DIRCLS = { people: 'person', orgs: 'institution', programmes: 'program', laws: 'legislation', places: 'location', events: 'event' };
+  const walkDirs = !POISON || POISON === 'c50' || POISON === 'c51' || POISON === 'c9' || POISON === 'c17';
+  for (const d of (walkDirs ? Object.keys(DIRCLS) : [])) {
+    await stop('dir:' + d, '#/' + d, 1400);
+    S['dir:' + d].dir = await ev(IN_PAGE.directory);
+  }
+  if (walkDirs) {
+    for (const [k, qs] of [['claimant', 'claimant=yes'], ['dead', 'vital=dead'], ['oath', 'oath=yes'], ['witness', 'role=witness']]) {
+      await stop('dir:people:' + k, '#/people?' + qs, 1200);
+      S['dir:people:' + k].dir = await ev(IN_PAGE.directory);
+    }
+  }
 
   await stop('patents', '#/patents/' + PATENT, 2000);
   await stop('evidence', '#/evidence', 3200);
@@ -1633,6 +1744,7 @@ async function main() {
     ['patent', '#/patents/' + String((patentsFile.patents || [])[0].number).replace(/[^0-9]/g, '')],
     ['report', '#/report/n/' + PERSON_FOCUS],
     ['atlas', '#/atlas'], ['topic', '#/topic/' + TOPIC_A],
+    ['people', '#/people'], ['events', '#/events'],
   ];
   const settleOf = (hash) => hash.startsWith('#/evidence') ? 3200
     : /^#\/(map|timeline)/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
@@ -1794,6 +1906,8 @@ async function main() {
     '#/evidence?tier=1&cls=person&cluster=other&denied=1&open=1',
     '#/report/n/' + NODE_FOCUS, '#/report/t/custody',
     '#/atlas', '#/topic/' + TOPIC_A, '#/topic/' + TOPIC_GAP, '#/n/' + DOMAIN_FOCUS,
+    '#/people', '#/people?claimant=yes&sort=name', '#/orgs?era=1', '#/programmes', '#/laws', '#/places', '#/events',
+    '#/timeline?topic=' + TOPIC_A, '#/timeline?strand=witness',
   ];
   const deadRoutes = [];
   const sweepRoutes = !POISON || POISON === 'c9' || POISON === 'c17';
@@ -1922,7 +2036,7 @@ async function main() {
     const pair = hy ? hy.label.match(/([A-Za-z]{4,})-([A-Za-z]{4,})/) : null;
     const twoWord = pair ? (pair[1] + ' ' + pair[2]).toLowerCase() : null;
 
-    const driveSearch = !POISON || POISON === 'c20' || POISON === 'c24';
+    const driveSearch = !POISON || POISON === 'c20' || POISON === 'c24' || POISON === 'c52';
     if (driveSearch && word) {
       const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
       p.on('request', (r) => requests.push(r.url()));
@@ -1948,8 +2062,92 @@ async function main() {
       await type('wilson davis');
       if (POISON === 'c24') await poisonAt(p, 'search');
       SEARCH.threads = await p.evaluate(() => document.querySelectorAll('.results a.res.thread').length);
+      /* C52: a topic's own title finds the topic first; a directory's name finds
+         the directory; every row says what it is; the keys move and open */
+      const rowsNow = () => p.evaluate(() => Array.from(document.querySelectorAll('.results a.res')).map((a) => ({
+        href: a.getAttribute('href'), type: a.getAttribute('data-type'),
+        badge: ((a.querySelector('.badge') || {}).textContent || '').trim(), sel: a.getAttribute('aria-selected') })));
+      const tA = topicsFile.topics.find((t) => t.id === TOPIC_A);
+      await type(tA.title);
+      await poisonAt(p, 'search52');
+      SEARCH.topic = { q: tA.title, rows: await rowsNow() };
+      await type('people');
+      SEARCH.dir = await rowsNow();
+      await type('roswell');
+      const inp = p.locator('.searchbox input').first();
+      await inp.press('ArrowDown'); await inp.press('ArrowDown'); await p.waitForTimeout(150);
+      SEARCH.keys = { rows: await rowsNow() };
+      if (POISON === 'c52') await poisonAt(p, 'search52');
+      await inp.press('Enter'); await p.waitForTimeout(900);
+      SEARCH.keys.hash = await p.evaluate(() => location.hash);
+      await p.locator('.searchbox input').first().fill('roswell'); await p.waitForTimeout(600);
+      await p.locator('.searchbox input').first().press('Escape'); await p.waitForTimeout(150);
+      SEARCH.escape = await p.evaluate(() => {
+        const i = document.querySelector('.searchbox input'), r = document.querySelector('.searchbox .results');
+        return { value: i ? i.value : null, hidden: r ? r.hidden : null };
+      });
       await p.close();
     }
+  }
+
+  /* ---- C53's timeline drive -------------------------------------------- */
+  /* The panel (a chip, then a count's named list, then a same-day repeat), the
+     scheduled mark, the topic scope and the strand filter, on fresh pages. */
+  let TL = null;
+  if (!POISON || POISON === 'c53') {
+    const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+    p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+    await p.goto(APP + '#/timeline', { waitUntil: 'load' });
+    await p.waitForTimeout(2400);
+    const panel = () => p.evaluate(`(function ${IN_PAGE.tlPanel})()`);
+    TL = { base: await p.evaluate(`(function ${IN_PAGE.timeline})()`) };
+    /* the first chip whose event names a node and carries text */
+    const pickChip = TL.base.items.find((i) => { const e = tlEvents.find((x) => x.id === i.id); return e && e.node && e.text; });
+    if (pickChip) {
+      await p.locator('.tl-chip[data-id="' + pickChip.id + '"]').first().click(); await p.waitForTimeout(250);
+      await poisonAt(p, 'tl53');
+      TL.chip = { id: pickChip.id, panel: await panel() };
+    }
+    const more = TL.base.mores.slice().sort((a, b) => b.ids.length - a.ids.length)[0];
+    if (more) {
+      await p.locator('.tl-more[data-section="' + more.section + '"][data-year="' + more.year + '"]').first().click();
+      await p.waitForTimeout(250);
+      TL.more = { more, panel: await panel() };
+    }
+    /* a kept event with a repeat, in the open era */
+    const openIds = new Set([...TL.base.items.map((i) => i.id), ...TL.base.mores.flatMap((m) => m.ids)]);
+    const keep = tlEvents.find((e) => openIds.has(e.id) && tlEvents.some((x) => x.sameAs === e.id));
+    if (keep) {
+      const onChip = TL.base.items.find((i) => i.id === keep.id);
+      if (onChip) await p.locator('.tl-chip[data-id="' + keep.id + '"]').first().click();
+      else {
+        const m = TL.base.mores.find((x) => x.ids.includes(keep.id));
+        await p.locator('.tl-more[data-section="' + m.section + '"][data-year="' + m.year + '"]').first().click();
+        await p.waitForTimeout(200);
+        await p.locator('.tl-detail .tl-li[data-id="' + keep.id + '"]').first().click();
+      }
+      await p.waitForTimeout(250);
+      TL.rep = { keep, panel: await panel() };
+    }
+    /* every scheduled event in the open era, where it is drawn */
+    TL.sched = [];
+    for (const e of tlEvents.filter((x) => openIds.has(x.id) && String(x.date).slice(0, 10) > String(index.generated).slice(0, 10))) {
+      const onChip = TL.base.items.find((i) => i.id === e.id);
+      if (onChip) { TL.sched.push({ id: e.id, marked: onChip.scheduled }); continue; }
+      const m = TL.base.mores.find((x) => x.ids.includes(e.id));
+      await p.locator('.tl-more[data-section="' + m.section + '"][data-year="' + m.year + '"]').first().click();
+      await p.waitForTimeout(200);
+      const pn = await panel();
+      const li = pn.list.find((x) => x.id === e.id);
+      TL.sched.push({ id: e.id, marked: !!li && li.scheduled });
+    }
+    await p.evaluate((x) => { location.hash = x; }, '#/timeline?topic=' + TOPIC_A);
+    await p.waitForTimeout(2000);
+    TL.topic = await p.evaluate(`(function ${IN_PAGE.timeline})()`);
+    await p.evaluate((x) => { location.hash = x; }, '#/timeline?strand=witness');
+    await p.waitForTimeout(2000);
+    TL.strand = await p.evaluate(`(function ${IN_PAGE.timeline})()`);
+    await p.close();
   }
 
   /* ---- C29's analyst brief ----------------------------------------------- */
@@ -2194,7 +2392,7 @@ async function main() {
       ['map, label mode 1920', S.map.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
       ['map, cell mode 1366', S.map1366.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
       ['neighbourhood ring', S.hood3.hood],
-      ['timeline chips', S.timeline.timeline.items.filter((i) => i.kind === 'chip')],
+      ['timeline chips and counts', [...S.timeline.timeline.items, ...S.timeline.timeline.mores]],
       ['thread small map', S['thread:custody'].thread.chips],
     ];
     for (const [name, boxes] of cases) {
@@ -2313,6 +2511,8 @@ async function main() {
       /* phase 6 */
       if (p[0] === 'atlas') return p.length === 1;
       if (p[0] === 'topic') return p.length === 2 && ID.test(p[1]);
+      /* phase 9 */
+      if (['people', 'orgs', 'programmes', 'laws', 'places', 'events'].includes(p[0])) return p.length === 1;
       return false;
     };
     const seen = new Set(), offScheme = [], deadIds = [];
@@ -3023,7 +3223,7 @@ async function main() {
      opens to them and #/map still draws the map. */
   {
     const ROW = ['HOME', 'ATLAS', 'TIMELINE', 'EVIDENCE', 'PATENTS'];
-    const MOREL = ['MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT'];
+    const MOREL = ['DIRECTORIES', 'MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT'];
     const bad = [];
     let n = 0;
     for (const [k, s] of Object.entries(S)) {
@@ -3037,7 +3237,7 @@ async function main() {
       const atlas = s.nav.primary.find((x) => x.label === 'ATLAS');
       if (!atlas || atlas.href !== '#/atlas') bad.push(k + ': ATLAS is not #/atlas');
     }
-    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and MAP THREADS NEIGHBOURHOOD REPORT under More',
+    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and DIRECTORIES MAP THREADS NEIGHBOURHOOD REPORT under More',
       bad.length ? clip(bad, 2) : `${n} screens`);
     if (MORE) {
       const unreach = MORE.open.filter((x) => x.href && !x.reachable).map((x) => x.label);
@@ -3099,35 +3299,199 @@ async function main() {
   }
 
   /* ---- C15 -------------------------------------------------------------- */
+  /* Phase 9: the lanes are the topic sections. The section an event belongs to
+     is re-derived HERE from the topic files (its node's primary topic, by
+     topicsOf, the same order the node page's "Appears in" is held to), never read
+     from timeline.json's own `section`. Every event of the open era is either a
+     named chip or one of the events a count stands for, and nothing is drawn
+     without a name. */
   {
     const t = S.timeline.timeline;
     const byEv = new Map(tlEvents.map((e) => [e.id, e]));
-    const packOf = new Map(t.packs.map((p) => [p.strand + '|' + p.era, p]));
-    const wrongLane = [], wrongEra = [], outside = [];
-    for (const it of t.items) {
-      const e = byEv.get(it.id);
-      if (!e) { wrongEra.push(it.id + ' (not in timeline.json)'); continue; }
-      if (e.strand !== it.strand) wrongLane.push(`${it.id} drawn in ${it.strand}, is ${e.strand}`);
-      if (String(e.era) !== String(it.era)) wrongEra.push(`${it.id} drawn in era ${it.era}, is ${e.era}`);
-      const p = packOf.get(e.strand + '|' + e.era);
-      if (!p) { outside.push(it.id + ' (no lane for ' + e.strand + '/' + e.era + ')'); continue; }
-      const cx = it.x + it.w / 2, cy = it.y + it.h / 2;
-      if (cx < p.x - 1 || cx > p.x + p.w + 1 || cy < p.y - 1 || cy > p.y + p.h + 1) {
-        outside.push(`${it.id} at ${cx.toFixed(0)},${cy.toFixed(0)} outside ${e.strand} lane`);
+    const secOf = (e) => {
+      if (!e.node) return 'other';
+      const f = topicsOf(e.node)[0];
+      return f && topicRecs[f.topic] ? topicRecs[f.topic].section : 'other';
+    };
+    const packOf = new Map(t.packs.map((p) => [p.section + '|' + p.era, p]));
+    const wrongLane = [], wrongEra = [], outside = [], repeats = [];
+    const inside = (it, p) => it.x >= p.x - 1 && it.x + it.w <= p.x + p.w + 1 && it.y >= p.y - 1 && it.y + it.h <= p.y + p.h + 1;
+    const drawn = [];
+    for (const it of [...t.items, ...t.mores]) {
+      const ids = it.kind === 'more' ? it.ids : [it.id];
+      for (const id of ids) {
+        const e = byEv.get(id);
+        if (!e) { wrongEra.push(id + ' (not in timeline.json)'); continue; }
+        drawn.push(id);
+        if (e.sameAs) repeats.push(id + ' repeats ' + e.sameAs);
+        if (secOf(e) !== it.section) wrongLane.push(`${id} drawn in ${it.section}, belongs in ${secOf(e)}`);
+        if (String(e.era) !== String(it.era)) wrongEra.push(`${id} drawn in era ${it.era}, is ${e.era}`);
       }
+      const p = packOf.get(it.section + '|' + it.era);
+      if (!p || !inside(it, p)) outside.push(`${it.id} outside the ${it.section} lane`);
     }
     check('c15', wrongLane.length === 0 && wrongEra.length === 0,
-      'C15 every timeline item carries the era and strand its event has in timeline.json',
-      wrongLane.length + wrongEra.length ? clip([...wrongLane, ...wrongEra], 3) : `${t.items.length} items`);
-    check('c15', outside.length === 0, 'C15 every item is drawn inside its own era column and strand lane',
-      outside.length ? clip(outside, 3) : `${t.items.length} items inside ${t.packs.length} lane boxes`);
+      'C15 every timeline event is in the lane of its node\'s primary topic section, re-derived from the topic files, and in its own era',
+      wrongLane.length + wrongEra.length ? clip([...wrongLane, ...wrongEra], 3) : `${drawn.length} events`);
+    check('c15', outside.length === 0, 'C15 every chip and every count is drawn inside its own lane box',
+      outside.length ? clip(outside, 3) : `${t.items.length} chips and ${t.mores.length} counts inside ${t.packs.length} lane boxes`);
     const openEra = t.packs.length ? t.packs[0].era : null;
-    const want = tlEvents.filter((e) => String(e.era) === String(openEra)).length;
+    const want = tlEvents.filter((e) => String(e.era) === String(openEra) && !e.sameAs).map((e) => e.id).sort();
+    const got = drawn.slice().sort();
+    const dup = got.filter((x, i) => i && got[i - 1] === x);
     const printed = Number((t.openEraSub.match(/(\d+)\s+events/) || [])[1]);
-    check('c15', t.items.length === want && printed === want,
-      'C15 the open era draws a chip or a mark for every one of its events',
-      `era ${openEra}: ${t.items.length} drawn (${t.items.filter((i) => i.kind === 'chip').length} chips, ` +
-      `${t.items.filter((i) => i.kind === 'mark').length} marks), header says ${printed}, timeline.json has ${want}`);
+    const miscount = t.mores.filter((m) => m.text !== '+' + m.ids.length).map((m) => m.id + ' says ' + m.text + ', holds ' + m.ids.length);
+    check('c15', got.join('|') === want.join('|') && dup.length === 0 && printed === want.length && repeats.length === 0 && miscount.length === 0,
+      'C15 the open era names every one of its events once, on a chip or behind a count that says how many',
+      `era ${openEra}: ${t.items.length} chips + ${t.mores.reduce((a, m) => a + m.ids.length, 0)} counted = ${got.length}, ` +
+      `timeline.json has ${want.length} less its repeats, header says ${printed}` +
+      (dup.length ? ' · twice: ' + clip(dup, 3) : '') + (repeats.length ? ' · repeats drawn: ' + clip(repeats, 2) : '') +
+      (miscount.length ? ' · ' + clip(miscount, 2) : ''));
+    const unnamed = t.items.filter((i) => !i.text).map((i) => i.id);
+    check('c15', t.marks === 0 && unnamed.length === 0, 'C15 nothing on the timeline is drawn without a name',
+      `${t.marks} unnamed marks · ${unnamed.length} chips without text`);
+  }
+
+  /* ---- C50 -------------------------------------------------------------- */
+  {
+    const want = { people: 'person', orgs: 'institution', programmes: 'program', laws: 'legislation', places: 'location', events: 'event' };
+    const bad = [];
+    let n = 0;
+    for (const [d, cls] of Object.entries(want)) {
+      const s = S['dir:' + d];
+      if (!s || !s.dir) continue;
+      n++;
+      const ids = index.nodes.filter((x) => x.cls === cls).map((x) => x.id).sort();
+      const got = s.dir.rows.map((r) => r.id).sort();
+      const dup = got.filter((x, i) => i && got[i - 1] === x);
+      const miss = ids.filter((x) => !got.includes(x));
+      const extra = got.filter((x) => !ids.includes(x));
+      const unlinked = s.dir.rows.filter((r) => r.href !== '#/n/' + r.id || !r.name).map((r) => r.id);
+      if (dup.length || miss.length || extra.length || unlinked.length || s.dir.count !== ids.length) {
+        bad.push(`#/${d}: ${got.length} rows for ${ids.length} ${cls} nodes, header ${s.dir.count}` +
+          (dup.length ? ', twice ' + clip(dup, 2) : '') + (miss.length ? ', missing ' + clip(miss, 2) : '') +
+          (extra.length ? ', not ' + cls + ' ' + clip(extra, 2) : '') + (unlinked.length ? ', unlinked ' + clip(unlinked, 2) : ''));
+      }
+    }
+    if (!n) skip('C50 every directory lists every node of its class once', 'poison ' + POISON + ' does not walk the directories');
+    else check('c50', bad.length === 0 && n === 6, 'C50 every directory lists every node of its class exactly once, each row linking its node',
+      bad.length ? clip(bad, 2) : n + ' directories, every row linked');
+  }
+
+  /* ---- C51 -------------------------------------------------------------- */
+  /* The people directory's facet counts and filters against the side-car read
+     off the disk, not against what the server ships. */
+  {
+    const s = S['dir:people'];
+    if (!s || !s.dir) skip('C51 the people facets match research/_person_facets.json', 'poison ' + POISON + ' does not walk the directories');
+    else {
+      const ROOT = resolve(dirname(SELF), '..', '..');
+      const side = JSON.parse(readFileSync(resolve(ROOT, 'research', '_person_facets.json'), 'utf8')).people;
+      const rows = Object.entries(side);
+      const tally = {};
+      const add = (k, v) => { tally[k + '=' + v] = (tally[k + '=' + v] || 0) + 1; };
+      for (const [, r] of rows) {
+        const roles = r.roles.filter((x) => x !== 'claimant');
+        for (const x of (roles.length ? roles : ['none'])) add('role', x);
+        add('claimant', r.roles.includes('claimant') ? 'yes' : 'no');
+        add('vital', r.vitalStatus); add('rstatus', r.roleStatus); add('oath', r.underOath);
+      }
+      const all = [];
+      for (const k of ['dir:people', 'dir:people:claimant', 'dir:people:dead', 'dir:people:oath', 'dir:people:witness']) {
+        for (const c of (S[k] && S[k].dir ? S[k].dir.chips : [])) {
+          if (!['role', 'claimant', 'vital', 'rstatus', 'oath'].includes(c.key)) continue;
+          const w = tally[c.key + '=' + c.val] || 0;
+          if (c.n !== w) all.push(`${k} chip ${c.key}=${c.val} says ${c.n}, the side-car has ${w}`);
+        }
+      }
+      const missing = Object.keys(tally).filter((k) => !s.dir.chips.some((c) => c.key + '=' + c.val === k));
+      check('c51', all.length === 0 && missing.length === 0 && s.dir.chips.length > 0,
+        'C51 every people facet count equals research/_person_facets.json, and every value there has its chip',
+        all.length || missing.length ? clip([...all, ...missing.map((m) => 'no chip for ' + m)], 3) : s.dir.chips.length + ' chips');
+      const filt = [
+        ['dir:people:claimant', ([, r]) => r.roles.includes('claimant'), 'claimant=yes'],
+        ['dir:people:dead', ([, r]) => r.vitalStatus === 'dead', 'vital=dead'],
+        ['dir:people:oath', ([, r]) => r.underOath === 'yes', 'oath=yes'],
+        ['dir:people:witness', ([, r]) => r.roles.includes('witness'), 'role=witness'],
+      ];
+      for (const [k, f, qs] of filt) {
+        const want = rows.filter(f).map(([id]) => id).sort();
+        const got = S[k] && S[k].dir ? S[k].dir.rows.map((r) => r.id).sort() : [];
+        check('c51', want.length > 0 && got.join('|') === want.join('|'),
+          `C51 #/people?${qs} lists exactly the side-car's ${want.length}`,
+          got.join('|') === want.join('|') ? got.length + ' rows' : `${got.length} rows, side-car ${want.length}: ` +
+            clip([...want.filter((x) => !got.includes(x)).map((x) => 'missing ' + x), ...got.filter((x) => !want.includes(x)).map((x) => 'extra ' + x)], 3));
+      }
+    }
+  }
+
+  /* ---- C52 -------------------------------------------------------------- */
+  if (!SEARCH || !SEARCH.topic) skip('C52 search reaches topics and directories, with keys', 'poison ' + POISON + ' does not drive it');
+  else {
+    const first = SEARCH.topic.rows[0];
+    const tRow = SEARCH.topic.rows.find((r) => r.href === '#/topic/' + TOPIC_A);
+    check('c52', !!first && first.href === '#/topic/' + TOPIC_A && !!tRow && /TOPIC/.test(tRow.badge),
+      'C52 a topic\'s own title finds the topic, first, badged as a topic',
+      `"${SEARCH.topic.q}": first row ${first ? first.href + ' (' + first.badge + ')' : 'none'}`);
+    const dfirst = SEARCH.dir[0];
+    check('c52', !!dfirst && dfirst.href === '#/people' && /DIRECTORY/.test(dfirst.badge),
+      'C52 "people" finds the people directory first', dfirst ? dfirst.href + ' (' + dfirst.badge + ')' : 'no rows');
+    const unbadged = [...SEARCH.topic.rows, ...SEARCH.dir].filter((r) => !r.badge || !r.type).map((r) => r.href);
+    check('c52', unbadged.length === 0, 'C52 every search row carries a badge naming what it is',
+      unbadged.length ? clip(unbadged, 3) : (SEARCH.topic.rows.length + SEARCH.dir.length) + ' rows');
+    const sel = SEARCH.keys.rows.map((r, i) => (r.sel === 'true' ? i : -1)).filter((i) => i >= 0);
+    const second = SEARCH.keys.rows[1];
+    check('c52', sel.length === 1 && sel[0] === 1 && !!second && SEARCH.keys.hash === second.href,
+      'C52 ArrowDown twice marks the second row, and Enter opens it',
+      `marked ${JSON.stringify(sel)} · second row ${second ? second.href : 'none'} · landed ${SEARCH.keys.hash}`);
+    check('c52', SEARCH.escape.value === '' && SEARCH.escape.hidden === true, 'C52 Escape clears the field and closes the list',
+      JSON.stringify(SEARCH.escape));
+  }
+
+  /* ---- C53 -------------------------------------------------------------- */
+  if (!TL) skip('C53 the timeline panel, counts, repeats, scope and strand', 'poison ' + POISON + ' does not drive it');
+  else {
+    const byEv = new Map(tlEvents.map((e) => [e.id, e]));
+    if (TL.chip) {
+      const e = byEv.get(TL.chip.id), pn = TL.chip.panel;
+      const ok = pn.shown && pn.mode === 'event' && pn.id === e.id && pn.label === e.label && pn.text === e.text &&
+        pn.date.startsWith(String(e.date).slice(0, 4)) && pn.node === '#/n/' + e.node &&
+        (!e.grade || pn.grade.includes('grade ' + e.grade));
+      check('c53', ok, 'C53 clicking an event shows its own label, text, date, grade and node',
+        `${e.id}: label ${pn.label === e.label} · text ${pn.text === e.text} · date ${pn.date} · node ${pn.node} · grade "${pn.grade}"`);
+    } else check('c53', false, 'C53 clicking an event shows its own label, text, date, grade and node', 'no chip with a node and text to click');
+    if (TL.more) {
+      const m = TL.more.more, pn = TL.more.panel;
+      const got = pn.list.map((x) => x.id);
+      const named = pn.list.every((x) => x.label && x.label === (byEv.get(x.id) || {}).label);
+      check('c53', pn.mode === 'list' && got.length === m.ids.length && got.join('|') === m.ids.join('|') && named && m.text === '+' + m.ids.length,
+        'C53 a count opens the named list of exactly the events it counts',
+        `${m.text} in ${m.section} ${m.year}: list of ${got.length}, all named ${named}`);
+    } else skip('C53 a count opens its named list', 'the open era placed every event on a chip');
+    if (TL.rep) {
+      const reps = tlEvents.filter((x) => x.sameAs === TL.rep.keep.id);
+      const pn = TL.rep.panel;
+      const got = pn.reps.map((r) => r.id).sort().join('|');
+      check('c53', pn.id === TL.rep.keep.id && got === reps.map((r) => r.id).sort().join('|') &&
+        pn.reps.every((r) => r.label === (byEv.get(r.id) || {}).label),
+        'C53 a same-day repeat is shown once, under the event it repeats, with its own label',
+        `${TL.rep.keep.id} carries ${pn.reps.length} of ${reps.length} repeats`);
+    } else check('c53', false, 'C53 a same-day repeat is shown once, under the event it repeats', 'no kept event with a repeat in the open era');
+    const unmarked = TL.sched.filter((x) => !x.marked).map((x) => x.id);
+    check('c53', unmarked.length === 0, 'C53 every event after the board\'s date is marked scheduled where it is drawn',
+      TL.sched.length + ' scheduled' + (unmarked.length ? ', unmarked ' + clip(unmarked, 3) : ''));
+    const members = new Set((topicRecs[TOPIC_A].members || []).map((m) => m.id));
+    const tIds = [...TL.topic.items.map((i) => i.id), ...TL.topic.mores.flatMap((m) => m.ids)];
+    const tEra = TL.topic.packs.length ? TL.topic.packs[0].era : null;
+    const tWant = tlEvents.filter((e) => !e.sameAs && e.node && members.has(e.node) && String(e.era) === String(tEra)).map((e) => e.id).sort();
+    check('c53', tIds.length > 0 && tIds.slice().sort().join('|') === tWant.join('|') && TL.topic.scopeText.includes(topicRecs[TOPIC_A].title),
+      'C53 ?topic= shows exactly the events whose node is a member of that topic, and says so',
+      `${tIds.length} drawn, ${tWant.length} members' events in era ${tEra} · scope line "${TL.topic.scopeText.slice(0, 60)}"`);
+    const sIds = [...TL.strand.items.map((i) => i.id), ...TL.strand.mores.flatMap((m) => m.ids)];
+    const sEra = TL.strand.packs.length ? TL.strand.packs[0].era : null;
+    const sWant = tlEvents.filter((e) => !e.sameAs && e.strand === 'witness' && String(e.era) === String(sEra)).map((e) => e.id).sort();
+    check('c53', sIds.length > 0 && sIds.slice().sort().join('|') === sWant.join('|'),
+      'C53 the strand filter shows exactly that strand\'s events', `${sIds.length} drawn, ${sWant.length} witness events in era ${sEra}`);
   }
 
   /* ---- C16 -------------------------------------------------------------- */

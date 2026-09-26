@@ -165,18 +165,20 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 .results .res-empty { padding: 6px 10px; color: var(--dim); border-bottom: 1px solid var(--line); }
 .results a.res {
   display: grid;
-  grid-template-columns: 10px 1fr auto;
-  gap: 8px;
+  grid-template-columns: 96px minmax(0, 1fr) auto;
+  gap: 2px 8px;
   align-items: baseline;
   padding: 5px 10px;
   color: var(--text);
   border-bottom: 1px solid var(--bg2);
 }
 .results a.res:hover { background: var(--panel2); text-decoration: none; }
+/* the row the arrow keys have marked (redesign phase 9) */
+.results a.res.active { background: var(--panel2); box-shadow: inset 2px 0 0 var(--cyan); text-decoration: none; }
+.results a.res .badge { color: var(--faint); letter-spacing: 0.06em; white-space: nowrap; }
 .results a.res .meta { color: var(--dim); }
 .results a.res .hit { color: var(--dim); grid-column: 2 / -1; }
-/* threads and events carry no class, so no mark: the label takes its column */
-.results a.res.thread .label, .results a.res.event .label { grid-column: 1 / 3; }
+.results .res-sub { padding: 4px 10px; color: var(--faint); border-bottom: 1px solid var(--line); }
 .results mark { background: transparent; color: var(--amber); }
 
 /* =====================================================================
@@ -722,4 +724,12 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
   .report { padding: 22px 16px 30px; }
   .report .rhead { flex-wrap: wrap; }
   .report-wrap { margin: 0 -8px; }
+}
+
+/* Search rows on a phone (redesign phase 9): the badge takes its own line, so
+   the name keeps the width. */
+@media (max-width: 760px) {
+  .results a.res { grid-template-columns: minmax(0, 1fr) auto; }
+  .results a.res .badge { grid-column: 1 / -1; }
+  .results a.res .hit { grid-column: 1 / -1; }
 }

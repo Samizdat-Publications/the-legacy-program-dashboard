@@ -3191,6 +3191,21 @@ def _person_facets(b):
     return bad[:40]
 
 
+@check("no conflict, unverified note or affiliation is a string spread into characters")
+def _no_spread_strings(b):
+    """Phase 9 found four people whose one authored `unverified` sentence reached
+    the board as ~300 one-character items: merge.py kept a bare string and its
+    list union then iterated it. Three or more one-character items in one field
+    is that failure, not an authored list."""
+    bad = []
+    for n in b["people"] + b["entities"]:
+        for f in ("conflicts", "unverified", "affiliations", "openQuestions"):
+            v = n.get(f)
+            if isinstance(v, list) and sum(1 for x in v if isinstance(x, str) and len(x.strip()) <= 1) >= 3:
+                bad.append(f"{n['id']}.{f}: {len(v)} items, most a single character")
+    return bad[:40]
+
+
 @check("the app ships the person facets exactly as the side-car has them")
 def _person_facets_shipped(b):
     doc = _facets_people(b) or {}
@@ -3980,7 +3995,11 @@ def self_test():
         r["roles"] = list(reversed(r["roles"])) + ["witness"] if "witness" not in r["roles"] \
             else [x for x in r["roles"] if x != "witness"]
 
+    def _spread_unverified(rb):
+        rb["people"][0]["unverified"] = list("A sentence that was one note.")
+
     poison_realboard.update({
+        "no conflict, unverified note or affiliation is a string spread into characters": [_spread_unverified],
         "every person carries facets from the closed vocabulary, each resting on its own record":
             [_facets_poison(f) for f in (facet_role_outside, facet_vital_invented, facet_row_missing,
                                          facet_row_for_entity, facet_dead_without_basis,

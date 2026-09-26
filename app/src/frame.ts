@@ -44,6 +44,7 @@ function items(r: Route): NavItem[] {
     { label: 'TIMELINE', href: '#/timeline', match: (x) => x.kind === 'timeline' },
     { label: 'EVIDENCE', href: '#/evidence', match: (x) => x.kind === 'evidence' },
     { label: 'PATENTS', href: '#/patents/' + PATENT_IN_VIEW, match: (x) => x.kind === 'patents' },
+    { label: 'DIRECTORIES', more: true, href: '#/people', match: (x) => x.kind === 'directory' },
     { label: 'MAP', more: true, href: '#/map', match: (x) => x.kind === 'map' || x.kind === 'node-map' || x.kind === 'thread-map' },
     { label: 'THREADS', more: true, href: '#/t/' + THREAD_IN_VIEW, match: (x) => x.kind === 'thread' },
     { label: 'NEIGHBOURHOOD', more: true, href: '#/hood', match: (x) => x.kind === 'hood' || x.kind === 'node-hood' },

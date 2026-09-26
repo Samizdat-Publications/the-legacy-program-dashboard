@@ -84,6 +84,12 @@ export interface TimelineEvent {
   id: string; strand: string; date: string; precision: string;
   label: string; text?: string; grade?: string | null; claimTier?: number | null;
   node?: string; era?: string;
+  /* phase 9: the section of the node's primary topic ("other" when none), that
+     topic, the event's own sources, and, for a same-day repeat, the id of the
+     event the timeline shows in its place */
+  section?: string; topic?: string | null;
+  sources?: { text: string; url: string | null }[];
+  sameAs?: string;
 }
 
 export interface FoiaRequest {
@@ -295,6 +301,28 @@ export function spanText(s: TopicRow['span']): string {
   if (a && b && a !== b) return a + ' to ' + b;
   return a || b || 'no span recorded';
 }
+/* Phase 9: the person facets (research/_person_facets.json as shipped). */
+export type FacetKey = 'roles' | 'vitalStatus' | 'roleStatus' | 'underOath';
+export interface PersonFacets {
+  roles: string[]; vitalStatus: string; roleStatus: string; underOath: string;
+  basis?: Partial<Record<FacetKey, string>>;
+}
+export interface FacetsFile {
+  generated: string; source: string;
+  vocab: Record<FacetKey, string[]>;
+  people: Record<string, PersonFacets>;
+}
+export const loadFacets = () => get<FacetsFile>('facets.json');
+/* Phase 8's source library, when it is served. Absent is not an error: search
+   simply has no sources to offer until it lands. */
+export interface SourceRow { id: string; title?: string; label?: string; name?: string; url?: string | null; kind?: string; }
+export function loadSourcesIfAny(): Promise<SourceRow[]> {
+  return get<unknown>('sources.json').then((f) => {
+    const rows = Array.isArray(f) ? f : (f && typeof f === 'object' ? (f as { sources?: unknown }).sources : null);
+    return Array.isArray(rows) ? (rows as SourceRow[]).filter((r) => r && typeof r.id === 'string') : [];
+  }, () => []);
+}
+
 export const loadPatents = () => get<PatentsFile>('patents.json');
 export const loadFoia = () => get<FoiaFile>('foia.json');
 

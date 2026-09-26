@@ -283,8 +283,8 @@ TIER_ORDER = {"A": 0, "B": 1, "C": 2}
 
 def _union_lists(a, b, fields):
     for f in fields:
-        merged = list(a.get(f) or [])
-        for x in b.get(f) or []:
+        merged = _as_list(a.get(f))
+        for x in _as_list(b.get(f)):
             if x not in merged:
                 merged.append(x)
         a[f] = merged
@@ -590,7 +590,7 @@ def finalise_defaults(people, entities):
               f"from {bad}", file=sys.stderr)
 
 
-NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json"}
+NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json", "_person_facets.json"}
 
 
 def _removed_aliases():
@@ -717,8 +717,11 @@ def load():
                 "chronology": norm_chron(p.get("chronology"), pid),
                 "claims": norm_claims(p.get("claims")),
                 "sources": norm_sources(p.get("sources")),
-                "conflicts": p.get("conflicts") or [],
-                "unverified": p.get("unverified") or [],
+                # a bare string is ONE item: `or []` kept it a string, and the
+                # union below then spread it into single characters (phase 9
+                # found four people carrying 300 one-letter "unverified" notes)
+                "conflicts": _as_list(p.get("conflicts")),
+                "unverified": _as_list(p.get("unverified")),
                 "sequenceChain": p.get("sequenceChain") or [],
                 "unexplainedResidual": p.get("unexplainedResidual"),
                 "photoCredit": p.get("photoCredit"),
