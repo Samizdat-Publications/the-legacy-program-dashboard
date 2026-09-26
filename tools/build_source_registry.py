@@ -620,12 +620,15 @@ def build(board=None, decisions=None):
                     dsu.union(k, "id:" + r[1])
         return keys, ids
 
+    node_keys, edge_keys = collections.defaultdict(list), collections.defaultdict(list)
     for n in nodes:
         for s in n.get("sources") or []:
-            see_pair(s.get("name"), s.get("url"))
+            keys, ids = see_pair(s.get("name"), s.get("url"))
+            node_keys[n["id"]] += [k for k, _ in keys] + ["id:" + r[1] for r in ids]
     for e in board["edges"]:
         for s in e.get("sources") or []:
-            see_pair(s.get("name"), s.get("url"))
+            keys, ids = see_pair(s.get("name"), s.get("url"))
+            edge_keys[e["id"]] += [k for k, _ in keys] + ["id:" + r[1] for r in ids]
 
     # --- document and legislation nodes are sources; an identifier in the label joins
     doc_nodes = [n for n in board["entities"] if n.get("cls") in ("document", "legislation")]
@@ -815,7 +818,12 @@ def build(board=None, decisions=None):
             else:
                 why = "no URL or identifier, and no reviewed reading of the string"
             unresolved[cid] = {"why": why}
-    return registry, claims_out, unresolved, per_claim
+    # edges and nodes: the registry sources their {name, url} lists cite
+    def ids_of(keys):
+        return sorted({key_to_id[k] for k in keys if k in key_to_id})
+    cites = {"edges": {k: ids_of(v) for k, v in sorted(edge_keys.items()) if ids_of(v)},
+             "nodes": {k: ids_of(v) for k, v in sorted(node_keys.items()) if ids_of(v)}}
+    return registry, claims_out, unresolved, per_claim, cites
 
 
 def stats(registry, claims_out, unresolved):
@@ -829,7 +837,7 @@ def stats(registry, claims_out, unresolved):
             "interestedParty": sum(1 for r in registry.values() if r["interestedParty"])}
 
 
-def write(registry, claims_out, unresolved):
+def write(registry, claims_out, unresolved, cites):
     st = stats(registry, claims_out, unresolved)
     with open(OUT_SOURCES, "w", encoding="utf-8", newline="\n") as f:
         json.dump({"_about": "The source registry, written by tools/build_source_registry.py. "
@@ -842,8 +850,10 @@ def write(registry, claims_out, unresolved):
         json.dump({"_about": "Per claim id, the registry sources it cites, written by "
                              "tools/build_source_registry.py. A claim no rule or reviewed decision "
                              "resolves is in `unresolved` with the reason; the claim keeps its "
-                             "original source string either way.",
-                   "claims": claims_out, "unresolved": unresolved},
+                             "original source string either way. `edges` and `nodes`: the "
+                             "registry sources each edge's and node's {name, url} list cites.",
+                   "claims": claims_out, "unresolved": unresolved,
+                   "edges": cites["edges"], "nodes": cites["nodes"]},
                   f, ensure_ascii=False, indent=1, sort_keys=True)
         f.write("\n")
     return st
@@ -872,7 +882,7 @@ def residue(per_claim, unresolved, registry, out_dir):
 
 
 def main(argv):
-    registry, claims_out, unresolved, per_claim = build()
+    registry, claims_out, unresolved, per_claim, cites = build()
     st = stats(registry, claims_out, unresolved)
     if "--stats" in argv:
         print(json.dumps(st, indent=1))
@@ -882,7 +892,7 @@ def main(argv):
         n = residue(per_claim, unresolved, registry, out_dir)
         print(f"{n} distinct unresolved strings written to {out_dir}")
         return 0
-    write(registry, claims_out, unresolved)
+    write(registry, claims_out, unresolved, cites)
     print(f"sources {st['sources']}  claims resolved {st['resolved']} of {st['claims']} "
           f"({st['resolvedShare']:.1%})")
     return 0
