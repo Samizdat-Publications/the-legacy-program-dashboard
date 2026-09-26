@@ -276,10 +276,11 @@
 }
 ],
 "era": "3",
+"host": "The Black Vault",
 "id": "n-dia-aatip-letter-2018",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

@@ -442,7 +442,7 @@
 "tier": 1
 }
 ],
-"date": "2019",
+"date": "2019-01-16",
 "edges": [
 {
 "a": {
@@ -1381,10 +1381,11 @@
 }
 ],
 "era": "3",
+"host": "Federation of American Scientists",
 "id": "n-dia-aatip-list-2019",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

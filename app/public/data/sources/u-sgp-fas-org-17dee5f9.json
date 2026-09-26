@@ -35,10 +35,11 @@
 "date": null,
 "edges": [],
 "era": "nd",
+"host": "Federation of American Scientists",
 "id": "u-sgp-fas-org-17dee5f9",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": null,
 "listedOn": [
 {
 "cls": "institution",

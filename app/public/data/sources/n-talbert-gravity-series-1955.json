@@ -225,10 +225,11 @@
 }
 ],
 "era": "0",
+"host": "Internet Archive",
 "id": "n-talbert-gravity-series-1955",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

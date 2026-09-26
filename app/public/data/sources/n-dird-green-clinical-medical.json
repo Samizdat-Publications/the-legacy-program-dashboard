@@ -161,10 +161,11 @@
 }
 ],
 "era": "2",
+"host": "The Black Vault",
 "id": "n-dird-green-clinical-medical",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

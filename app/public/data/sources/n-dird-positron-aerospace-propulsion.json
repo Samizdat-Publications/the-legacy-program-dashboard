@@ -143,10 +143,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-positron-aerospace-propulsion",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "person",
@@ -168,7 +169,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf"
 ]
 }

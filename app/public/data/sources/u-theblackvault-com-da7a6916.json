@@ -39,10 +39,11 @@
 }
 ],
 "era": "nd",
+"host": "The Black Vault",
 "id": "u-theblackvault-com-da7a6916",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

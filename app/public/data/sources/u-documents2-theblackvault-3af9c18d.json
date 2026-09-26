@@ -165,10 +165,11 @@
 }
 ],
 "era": "nd",
+"host": "The Black Vault",
 "id": "u-documents2-theblackvault-3af9c18d",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

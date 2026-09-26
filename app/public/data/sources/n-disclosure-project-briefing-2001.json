@@ -1033,10 +1033,11 @@
 }
 ],
 "era": "2",
+"host": "Internet Archive",
 "id": "n-disclosure-project-briefing-2001",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

@@ -143,10 +143,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-pulsed-high-power-microwave-source-technology",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "person",
@@ -168,7 +169,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
 ]
 }

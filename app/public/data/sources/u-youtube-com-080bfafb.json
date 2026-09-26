@@ -131,10 +131,11 @@
 }
 ],
 "era": "nd",
+"host": "YouTube",
 "id": "u-youtube-com-080bfafb",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

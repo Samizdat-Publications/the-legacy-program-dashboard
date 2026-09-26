@@ -53,10 +53,11 @@
 }
 ],
 "era": "nd",
+"host": "Federation of American Scientists",
 "id": "u-sgp-fas-org-ab6aec41",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": null,
 "listedOn": [
 {
 "cls": "event",

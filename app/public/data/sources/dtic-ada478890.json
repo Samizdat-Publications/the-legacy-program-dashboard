@@ -73,6 +73,7 @@
 }
 ],
 "era": "2",
+"host": null,
 "id": "dtic-ada478890",
 "identifiers": [
 "DTIC ADA478890"
@@ -95,7 +96,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://archive.org/details/DTIC_ADA478890",
-"https://scholar.afit.edu/etd/2701"
+"https://scholar.afit.edu/etd/2701",
+"https://archive.org/details/DTIC_ADA478890"
 ]
 }

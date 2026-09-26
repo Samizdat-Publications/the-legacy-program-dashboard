@@ -219,7 +219,7 @@ export interface ClaimRow {
 
 export interface LibraryRow {
   id: string; type: string; title: string; issuer: string | null; date: string | null;
-  era: string; interestedParty: boolean; identifiers: string[];
+  era: string; interestedParty: boolean; identifiers: string[]; host?: string | null;
   claims: number; edges: number; listedOn: number; node: string | null;
   urls: number; archived: number;
 }
@@ -231,7 +231,7 @@ export interface NodeRef { id: string; label: string; cls: string | null; }
 export interface SourceRecord {
   id: string; type: string; title: string; issuer: string | null; date: string | null;
   era: string; interestedParty: boolean; identifiers: string[];
-  urls: string[]; archived: string[]; node: NodeRef | null;
+  urls: string[]; archived: string[]; node: NodeRef | null; host?: string | null;
   claims: { id: string; node: string; nodeLabel: string; cls: string; tier: number;
     text: string; sourceText: string; locator: string | null }[];
   topics: { id: string; title: string; claims: string[] }[];

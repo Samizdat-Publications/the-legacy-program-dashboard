@@ -258,6 +258,7 @@
 }
 ],
 "era": "0",
+"host": null,
 "id": "cia-rdp81r00560r000100060001-5",
 "identifiers": [
 "CIA-RDP81R00560R000100060001-5"
@@ -322,12 +323,12 @@
 ],
 "type": "report",
 "urls": [
+"https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf",
 "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf",
+"https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
 "https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt",
 "https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt",
 "https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf",
-"https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf",
-"https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/",
-"https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf"
+"https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/"
 ]
 }

@@ -70,10 +70,11 @@
 }
 ],
 "era": "3",
+"host": "YouTube",
 "id": "n-gerb-sandia-investigation",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

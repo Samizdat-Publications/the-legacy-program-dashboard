@@ -220,10 +220,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-advanced-space-propulsion-based-on-vacuum",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -270,7 +271,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
 ]
 }

@@ -317,10 +317,11 @@
 }
 ],
 "era": "3",
+"host": "YouTube",
 "id": "n-gerb-mitre-investigation",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

@@ -74,7 +74,7 @@
 "tier": 1
 }
 ],
-"date": "2022",
+"date": "2022-07-15",
 "edges": [
 {
 "a": {
@@ -231,6 +231,7 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-aaro-establishment-memo-2022",
 "identifiers": [],
 "interestedParty": true,

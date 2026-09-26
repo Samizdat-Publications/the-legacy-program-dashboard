@@ -65,10 +65,11 @@
 "date": null,
 "edges": [],
 "era": "nd",
+"host": "The Black Vault",
 "id": "u-documents3-theblackvault-fb3e1afb",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

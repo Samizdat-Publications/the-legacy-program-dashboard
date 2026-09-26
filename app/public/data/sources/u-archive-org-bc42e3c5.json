@@ -15,10 +15,11 @@
 "date": null,
 "edges": [],
 "era": "nd",
+"host": "Internet Archive",
 "id": "u-archive-org-bc42e3c5",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

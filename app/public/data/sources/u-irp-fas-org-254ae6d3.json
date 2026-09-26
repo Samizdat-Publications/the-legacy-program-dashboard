@@ -43,10 +43,11 @@
 }
 ],
 "era": "nd",
+"host": "Federation of American Scientists",
 "id": "u-irp-fas-org-254ae6d3",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

@@ -117,10 +117,11 @@
 }
 ],
 "era": "nd",
+"host": "Internet Archive",
 "id": "u-archive-org-7f1f1aa6",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "event",

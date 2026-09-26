@@ -70,10 +70,11 @@
 }
 ],
 "era": "nd",
+"host": "YouTube",
 "id": "u-youtube-com-0ffdcbde",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "institution",

@@ -170,10 +170,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-laser-lightcraft-nanosatellites",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -190,7 +191,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
 ]
 }

@@ -275,10 +275,11 @@
 }
 ],
 "era": "nd",
+"host": "YouTube",
 "id": "u-youtube-com-551a1f41",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "event",

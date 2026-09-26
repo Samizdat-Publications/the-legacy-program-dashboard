@@ -184,6 +184,7 @@ function row(r: LibraryRow, eras: Record<string, Era>): HTMLElement {
   const sep = () => h('span', { class: 'sep' }, ' · ');
   bits.push(h('span', { class: 'lib-type' }, TYPE_LABEL[r.type] || r.type));
   if (r.issuer) bits.push(sep(), h('span', null, r.issuer));
+  else if (r.host) bits.push(sep(), h('span', { class: 'dim' }, 'issuer not recorded; copy hosted by ' + r.host));
   bits.push(sep(), h('span', null, r.date || 'undated'));
   if (!r.date && eras[r.era] && r.era !== 'nd') bits.push(h('span', { class: 'dim' }, ' (' + eras[r.era].label.toLowerCase() + ')'));
   bits.push(sep(), h('span', { class: 'lib-n' }, fmt(r.claims) + (r.claims === 1 ? ' claim' : ' claims')));

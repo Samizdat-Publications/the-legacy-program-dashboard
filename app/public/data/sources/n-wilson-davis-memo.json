@@ -132,7 +132,7 @@
 "tier": 3
 }
 ],
-"date": "2002",
+"date": "2002-10-16",
 "edges": [
 {
 "a": {
@@ -221,10 +221,11 @@
 }
 ],
 "era": "2",
+"host": "The Black Vault",
 "id": "n-wilson-davis-memo",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

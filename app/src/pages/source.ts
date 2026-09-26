@@ -50,7 +50,7 @@ export async function renderSource(view: HTMLElement, id: string): Promise<void>
   const facts = h('div', { class: 'src-facts' });
   const fact = (k: string, v: string | Node) => facts.append(h('span', { class: 'src-fact' }, h('span', { class: 'dim' }, k + ' '), v));
   fact('type', TYPE_LABEL[rec.type] || rec.type);
-  fact('issued by', rec.issuer || 'not recorded');
+  fact('issued by', rec.issuer || (rec.host ? 'not recorded (the copy on file is hosted by ' + rec.host + ')' : 'not recorded'));
   fact('date', rec.date || 'not recorded');
   if (eras[rec.era] && rec.era !== 'nd') fact('era', eras[rec.era].label.toLowerCase());
   if (rec.identifiers.length) fact(rec.identifiers.length === 1 ? 'identifier' : 'identifiers', rec.identifiers.join(', '));
@@ -74,15 +74,26 @@ export async function renderSource(view: HTMLElement, id: string): Promise<void>
       mark(clsColour(rec.node.cls || '')), ' ',
       h('a', { class: 'src-node', href: '#/n/' + rec.node.id }, rec.node.label)));
   }
-  for (const u of rec.urls) {
-    read.append(h('div', { class: 'src-line' },
-      h('a', { class: 'src-url', href: u, target: '_blank', rel: 'noreferrer noopener' }, urlText(u), ' ↗')));
+  /* the first copy is the issuer's own where the registry has it (tools/
+     build_source_registry.py orders them); the rest, and the archived captures,
+     fold away so the claims are not pushed below a wall of addresses */
+  const urlLine = (u: string) => h('div', { class: 'src-line' },
+    h('a', { class: 'src-url', href: u, target: '_blank', rel: 'noreferrer noopener' }, urlText(u), ' ↗'));
+  if (rec.urls.length) read.append(urlLine(rec.urls[0]));
+  if (rec.urls.length > 1) {
+    read.append(h('details', { class: 'src-more' },
+      h('summary', null, (rec.urls.length - 1) + (rec.urls.length === 2 ? ' more copy' : ' more copies') + ' on file'),
+      ...rec.urls.slice(1).map(urlLine)));
   }
-  for (const u of rec.archived) {
-    const when = captured(u);
-    read.append(h('div', { class: 'src-line' },
-      h('span', { class: 'dim' }, 'archived copy' + (when ? ', captured ' + when : '') + ': '),
-      h('a', { class: 'src-arch', href: u, target: '_blank', rel: 'noreferrer noopener' }, urlText(u), ' ↗')));
+  if (rec.archived.length) {
+    read.append(h('details', { class: 'src-more' },
+      h('summary', null, rec.archived.length + (rec.archived.length === 1 ? ' archived capture' : ' archived captures')),
+      ...rec.archived.map((u) => {
+        const when = captured(u);
+        return h('div', { class: 'src-line' },
+          h('span', { class: 'dim' }, 'captured ' + (when || 'on an unrecorded date') + ': '),
+          h('a', { class: 'src-arch', href: u, target: '_blank', rel: 'noreferrer noopener' }, urlText(u), ' ↗'));
+      })));
   }
   if (!rec.urls.length && !rec.archived.length) {
     read.append(h('p', { class: 'dim src-nourl' },

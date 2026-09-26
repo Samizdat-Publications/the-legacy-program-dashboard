@@ -804,10 +804,11 @@
 }
 ],
 "era": "nd",
+"host": "Federation of American Scientists",
 "id": "u-fas-org-b604198f",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

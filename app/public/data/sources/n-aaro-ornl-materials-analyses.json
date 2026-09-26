@@ -1,7 +1,7 @@
 {
 "archived": [
-"https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf",
-"https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+"https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf",
+"https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf"
 ],
 "claims": [
 {
@@ -110,6 +110,7 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-aaro-ornl-materials-analyses",
 "identifiers": [],
 "interestedParty": true,

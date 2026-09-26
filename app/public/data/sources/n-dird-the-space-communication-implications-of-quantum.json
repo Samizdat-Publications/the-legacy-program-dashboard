@@ -143,10 +143,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-the-space-communication-implications-of-quantum",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "person",
@@ -168,7 +169,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
 ]
 }

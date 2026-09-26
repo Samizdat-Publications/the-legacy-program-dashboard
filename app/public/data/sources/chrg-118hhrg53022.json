@@ -902,7 +902,7 @@
 "tier": 1
 }
 ],
-"date": null,
+"date": "2023-07-26",
 "edges": [
 {
 "a": {
@@ -1704,7 +1704,8 @@
 "type": "institutional"
 }
 ],
-"era": "nd",
+"era": "3",
+"host": null,
 "id": "chrg-118hhrg53022",
 "identifiers": [
 "CHRG-118hhrg53022"

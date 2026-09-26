@@ -83,10 +83,11 @@
 }
 ],
 "era": "0",
+"host": "The Black Vault",
 "id": "n-ukusa-agreement-1946",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

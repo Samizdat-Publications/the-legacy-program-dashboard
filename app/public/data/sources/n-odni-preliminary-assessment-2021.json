@@ -1,8 +1,8 @@
 {
 "archived": [
-"https://web.archive.org/web/20260728132759/https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
 "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
 "https://web.archive.org/web/20260811010946id_/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"https://web.archive.org/web/20260728132759/https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
 "https://web.archive.org/web/20260811043206/https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
 ],
 "claims": [
@@ -277,7 +277,7 @@
 "tier": 1
 }
 ],
-"date": "2021",
+"date": "2021-06-25",
 "edges": [
 {
 "a": {
@@ -672,6 +672,7 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-odni-preliminary-assessment-2021",
 "identifiers": [],
 "interestedParty": false,

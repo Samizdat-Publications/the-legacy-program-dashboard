@@ -107,10 +107,11 @@
 }
 ],
 "era": "2",
+"host": "The Black Vault",
 "id": "n-depsecdef-sap-packet-2009",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

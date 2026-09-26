@@ -70,10 +70,11 @@
 }
 ],
 "era": "nd",
+"host": "Internet Archive",
 "id": "u-archive-org-b004b0cb",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "domain",

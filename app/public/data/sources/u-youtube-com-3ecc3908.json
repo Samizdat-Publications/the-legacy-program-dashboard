@@ -33,10 +33,11 @@
 }
 ],
 "era": "nd",
+"host": "YouTube",
 "id": "u-youtube-com-3ecc3908",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

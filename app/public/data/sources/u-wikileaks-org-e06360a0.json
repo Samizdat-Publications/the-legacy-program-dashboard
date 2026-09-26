@@ -111,10 +111,11 @@
 }
 ],
 "era": "nd",
+"host": "WikiLeaks",
 "id": "u-wikileaks-org-e06360a0",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "WikiLeaks",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

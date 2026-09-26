@@ -244,10 +244,11 @@
 }
 ],
 "era": "2",
+"host": null,
 "id": "n-reid-sap-letter-2009",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "program",
@@ -320,8 +321,8 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf",
 "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
-"https://www.documentcloud.org/documents/20792124-reid_letter_2009/"
+"https://www.documentcloud.org/documents/20792124-reid_letter_2009/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 ]
 }

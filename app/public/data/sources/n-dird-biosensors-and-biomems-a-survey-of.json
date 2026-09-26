@@ -173,10 +173,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-biosensors-and-biomems-a-survey-of",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -206,7 +207,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
 ]
 }

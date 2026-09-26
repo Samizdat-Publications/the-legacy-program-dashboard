@@ -127,7 +127,7 @@ def library(recs, meta, reg):
         rows.append({"id": sid, "type": r["type"], "title": r["title"], "issuer": r.get("issuer"),
                      "date": r.get("date"), "era": r["era"],
                      "interestedParty": bool(r.get("interestedParty")),
-                     "identifiers": r.get("identifiers") or [],
+                     "identifiers": r.get("identifiers") or [], "host": r.get("host"),
                      "claims": len(r["claims"]), "edges": len(r["edges"]),
                      "listedOn": len(r["listedOn"]),
                      "node": r["node"]["id"] if r.get("node") else None,

@@ -1,7 +1,7 @@
 {
 "archived": [
-"https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
-"https://web.archive.org/web/20201018165753/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol01.pdf"
+"https://web.archive.org/web/20201018165753/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol01.pdf",
+"https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
 ],
 "claims": [
 {
@@ -617,6 +617,7 @@
 }
 ],
 "era": "2",
+"host": null,
 "id": "dodm-5205-07-v1",
 "identifiers": [
 "DoDM 5205.07, Volume 1"

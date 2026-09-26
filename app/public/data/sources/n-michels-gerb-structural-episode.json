@@ -186,10 +186,11 @@
 }
 ],
 "era": "3",
+"host": "YouTube",
 "id": "n-michels-gerb-structural-episode",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

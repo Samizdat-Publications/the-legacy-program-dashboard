@@ -58,6 +58,9 @@ h1.src-h1 { overflow-wrap: break-word; max-width: 90ch; }
 .src-read { display: grid; gap: 4px; }
 .src-line { min-width: 0; }
 .src-url, .src-arch { overflow-wrap: normal; }
+.src-more summary { cursor: pointer; color: var(--dim); }
+.src-more[open] summary { margin-bottom: 4px; }
+.src-more .src-line { margin: 0 0 3px 14px; }
 .src-group-by { display: inline-flex; gap: 6px; align-items: baseline; }
 .src-gb[aria-pressed='true'] { border-color: var(--cyan); color: var(--cyan); }
 .src-claims { display: grid; gap: 10px; }

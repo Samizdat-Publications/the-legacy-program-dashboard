@@ -80,10 +80,11 @@
 }
 ],
 "era": "2",
+"host": "The Black Vault",
 "id": "n-ousdi-atl-memo-2010",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

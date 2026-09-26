@@ -177,10 +177,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-negative-mass-propulsion",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "person",
@@ -202,7 +203,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
 ]
 }

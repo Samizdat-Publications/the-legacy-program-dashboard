@@ -114,10 +114,11 @@
 }
 ],
 "era": "3",
+"host": "YouTube",
 "id": "n-gerb-hidden-wing",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "YouTube",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

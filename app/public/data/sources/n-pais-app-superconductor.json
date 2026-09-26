@@ -33,10 +33,11 @@
 }
 ],
 "era": "3",
+"host": "FreePatentsOnline",
 "id": "n-pais-app-superconductor",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "FreePatentsOnline",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

@@ -165,10 +165,11 @@
 }
 ],
 "era": "1",
+"host": "The Black Vault",
 "id": "n-halt-memo",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "event",

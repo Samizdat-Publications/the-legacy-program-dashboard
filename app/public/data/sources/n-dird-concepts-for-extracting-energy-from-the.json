@@ -160,10 +160,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-concepts-for-extracting-energy-from-the",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -180,7 +181,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
 ]
 }

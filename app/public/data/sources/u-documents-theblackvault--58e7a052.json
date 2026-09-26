@@ -77,10 +77,11 @@
 }
 ],
 "era": "nd",
+"host": "The Black Vault",
 "id": "u-documents-theblackvault--58e7a052",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

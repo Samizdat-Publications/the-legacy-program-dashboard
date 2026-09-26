@@ -22,10 +22,11 @@
 }
 ],
 "era": "nd",
+"host": "The Black Vault",
 "id": "u-documents2-theblackvault-cd9d117c",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

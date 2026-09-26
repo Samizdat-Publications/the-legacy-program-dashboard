@@ -114,10 +114,11 @@
 }
 ],
 "era": "1",
+"host": "Internet Archive",
 "id": "n-clear-intent-1984",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "event",

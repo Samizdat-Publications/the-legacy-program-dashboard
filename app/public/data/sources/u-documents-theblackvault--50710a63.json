@@ -276,10 +276,11 @@
 }
 ],
 "era": "nd",
+"host": "The Black Vault",
 "id": "u-documents-theblackvault--50710a63",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

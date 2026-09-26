@@ -1,7 +1,7 @@
 {
 "archived": [
-"https://web.archive.org/web/20260523011837id_/https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
-"https://web.archive.org/web/20260807050147/https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf"
+"https://web.archive.org/web/20260807050147/https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+"https://web.archive.org/web/20260523011837id_/https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf"
 ],
 "claims": [
 {
@@ -83,6 +83,7 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-odni-2022-annual-report",
 "identifiers": [],
 "interestedParty": false,

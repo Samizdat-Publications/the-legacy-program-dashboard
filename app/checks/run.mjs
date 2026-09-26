@@ -671,6 +671,8 @@ const IN_PAGE = {
      was itself broken across lines (a mid-word break). */
   urlWrap() {
     const vw = innerWidth;
+    /* the folded copies too: an address is measured where a reader opens it */
+    for (const d of document.querySelectorAll('details.src-more')) d.open = true;
     return Array.prototype.map.call(document.querySelectorAll('.url'), (el) => {
       const cs = getComputedStyle(el);
       const r = el.getBoundingClientRect();

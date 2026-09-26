@@ -7,8 +7,8 @@
  * that cites it. The claim's original source string is never dropped: it is the
  * link's title, and a claim the registry does not resolve prints it as written.
  *
- * A web address is printed with a break opportunity (<wbr>) after each / ? & = #
- * and before each . _ - that follows a letter or digit, plus one inside any run of
+ * A web address is printed with a break opportunity (<wbr>) after each / ? & = # -
+ * and before each . _ that follows a letter or digit, plus one inside any run of
  * more than RUN characters with no such point (a hash, a base64 id). The element
  * carries class `url`, whose CSS sets `overflow-wrap: normal; word-break: normal`,
  * so a line only ever breaks at those points: never mid-word, never off the edge.
@@ -27,10 +27,11 @@ export function urlText(u: string, cls = 'url'): HTMLElement {
   const brk = () => { flush(); el.append(document.createElement('wbr')); run = 0; };
   for (let i = 0; i < u.length; i++) {
     const ch = u[i];
-    if ((ch === '.' || ch === '_' || ch === '-') && i > 0 && /[A-Za-z0-9]/.test(u[i - 1]) && run > 0) brk();
+    if ((ch === '.' || ch === '_') && i > 0 && /[A-Za-z0-9]/.test(u[i - 1]) && run > 0) brk();
     buf += ch;
     run++;
-    if (ch === '/' || ch === '?' || ch === '&' || ch === '=' || ch === '#') brk();
+    /* after a hyphen, where the browser would break a line anyway */
+    if (ch === '/' || ch === '?' || ch === '&' || ch === '=' || ch === '#' || ch === '-') brk();
     else if (run >= RUN) brk();
   }
   flush();
@@ -84,6 +85,15 @@ export const TYPE_LABEL: Record<string, string> = {
   'broadcast': 'broadcast', 'transcript': 'transcript', 'web page': 'web page',
   'archive index': 'archive index',
 };
+
+/* A {name, url} source's date as printed. The research wrote a bare year as
+   YYYY-01-01 in places ("USAF, The Roswell Report (1995)" dated 1995-01-01);
+   printing the invented day would state a precision the record does not have,
+   so a first of January prints as its year. */
+export function sourceDate(d: string | null | undefined): string {
+  if (!d) return '';
+  return /^\d{4}-01-01$/.test(d) ? d.slice(0, 4) : d;
+}
 
 /* The capture date of a Wayback address, as a date, or null. */
 export function captured(u: string): string | null {

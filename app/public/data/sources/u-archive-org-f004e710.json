@@ -22,10 +22,11 @@
 }
 ],
 "era": "nd",
+"host": "Internet Archive",
 "id": "u-archive-org-f004e710",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

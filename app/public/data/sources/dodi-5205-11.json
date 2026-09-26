@@ -795,7 +795,7 @@
 "tier": 3
 }
 ],
-"date": "2013-02-06",
+"date": "2024-09-12",
 "edges": [
 {
 "a": {
@@ -1138,7 +1138,8 @@
 "type": "institutional"
 }
 ],
-"era": "2",
+"era": "3",
+"host": null,
 "id": "dodi-5205-11",
 "identifiers": [
 "DoDI 5205.11"

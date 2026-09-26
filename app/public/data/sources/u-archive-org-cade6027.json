@@ -144,10 +144,11 @@
 }
 ],
 "era": "nd",
+"host": "Internet Archive",
 "id": "u-archive-org-cade6027",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

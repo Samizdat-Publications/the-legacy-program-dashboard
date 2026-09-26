@@ -437,6 +437,39 @@ def url_issuer(u):
     return h
 
 
+MIRROR_ISSUERS = {"The Black Vault", "Internet Archive", "Wikisource", "YouTube", "mgln.ai",
+                  "Federation of American Scientists", "National Security Archive",
+                  "Google Patents", "FreePatentsOnline", "EveryCRSReport", "WikiLeaks"}
+
+
+def copy_rank(u, issuer):
+    """Order a source's copies: its issuer's own first, then any other publisher,
+    then mirrors (The Black Vault, the Internet Archive, Wikisource)."""
+    i = url_issuer(u)
+    return (0 if issuer and i == issuer else 2 if i in MIRROR_ISSUERS else 1, u)
+
+
+MONTHS = {m: i for i, m in enumerate(("january", "february", "march", "april", "may", "june", "july",
+                                       "august", "september", "october", "november", "december"), 1)}
+ADJ_DATE = re.compile(r"\s*,\s*(\d{1,2} (?:January|February|March|April|May|June|July|August|"
+                      r"September|October|November|December) (?:19|20)\d\d)\b")
+LABEL_DATE = re.compile(r"\((\d{1,2}) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* ((?:19|20)\d\d)\b")
+
+
+def iso_date(s):
+    d, m, y = s.split()
+    return f"{y}-{MONTHS[m.lower()]:02d}-{int(d):02d}"
+
+
+def label_date(label):
+    """A full date a node's label states in brackets: "(12 Sep 2024)"."""
+    m = LABEL_DATE.search(label or "")
+    if not m:
+        return None
+    mm = [k[:3] for k in MONTHS].index(m.group(2).lower()) + 1
+    return f"{m.group(3)}-{mm:02d}-{int(m.group(1)):02d}"
+
+
 def url_date(u):
     """A date the URL's own path states (/2024/Mar/08/, /2026/05/17/), or None."""
     mon = {m: i for i, m in enumerate(("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug",
@@ -631,7 +664,7 @@ def build(board=None, decisions=None):
     byid = {n["id"]: n for n in nodes}
 
     dsu = DSU()
-    meta = collections.defaultdict(lambda: {"names": collections.Counter(), "urls": set(),
+    meta = collections.defaultdict(lambda: {"names": collections.Counter(), "urls": set(), "dates": set(),
                                             "archived": set(), "idinfo": None})
     # --- every URL, with the names it is cited under
     def see_url(raw_u, name=None, standalone=True):
@@ -730,6 +763,10 @@ def build(board=None, decisions=None):
             for r in ids:
                 if r[0] in LOCATOR_ONLY_WITH and kinds & set(LOCATOR_ONLY_WITH[r[0]]):
                     continue
+                if r[0] == "hearing":
+                    dm = ADJ_DATE.match(URL_RE.sub(" ", seg)[r[6]:])
+                    if dm:
+                        meta["id:" + r[1]]["dates"].add(iso_date(dm.group(1)))
                 ik = "id:" + r[1]
                 dsu.add(ik)
                 meta[ik]["idinfo"] = meta[ik]["idinfo"] or r[:5]
@@ -791,7 +828,7 @@ def build(board=None, decisions=None):
         for k in keys:
             key_to_id[k] = sid
         urls, archived, idents, names = set(), set(), [], collections.Counter()
-        typ = issuer = date = title = node = None
+        typ = issuer = date = title = node = host = None
         for k in keys:
             m = meta.get(k)
             if m:
@@ -811,7 +848,7 @@ def build(board=None, decisions=None):
             n = byid[node]
             title = n.get("label")
             typ = node_type(n)
-            date = n.get("dateStart") or n.get("date")
+            date = label_date(title) or n.get("dateStart") or n.get("date")
             if isinstance(date, str) and not re.match(r"^\d{4}", date):
                 date = None
         if idk and meta[idk[0]]["idinfo"]:
@@ -838,6 +875,10 @@ def build(board=None, decisions=None):
                     bt = best_title(names)
                     if bt and info[2].split()[-1] in bt:
                         title = bt
+            if not date and info[0] == "hearing":
+                ds = {d for d in meta[idk[0]]["dates"]}
+                if len(ds) == 1:
+                    date = ds.pop()
             if not date and info[0] == "crec":
                 date = re.search(r"\d{4}-\d{2}-\d{2}", info[1]).group(0)
         sk = [k for k in keys if k.startswith("str:")]
@@ -853,7 +894,17 @@ def build(board=None, decisions=None):
             if not typ:
                 typ = url_type(u0)
             if not issuer:
-                issuer = url_issuer(u0)
+                # who issued it, not who mirrors it: the commonest publisher among
+                # the copies on file, a mirror (The Black Vault, the Internet
+                # Archive, Wikisource) only when there is nothing else
+                pubs = collections.Counter(url_issuer(unwrap(u)[0]) for u in sorted(urls | archived))
+                own = [(n, p) for p, n in pubs.items() if p not in MIRROR_ISSUERS]
+                if own:
+                    issuer = sorted(own, key=lambda x: (-x[0], x[1]))[0][1]
+                else:
+                    host = sorted(pubs.items(), key=lambda x: (-x[1], x[0]))[0][0]
+            if title and re.match(r"^(?:AARO|All-domain Anomaly Resolution Office)\b", title):
+                issuer = "AARO"
             if not date:
                 date = url_date(u0)
             if not title:
@@ -871,7 +922,9 @@ def build(board=None, decisions=None):
             bool(re.match(r"^(?:AARO|All-domain Anomaly Resolution Office)\b", title or ""))
         registry[sid] = {
             "id": sid, "type": typ, "title": title, "issuer": issuer, "date": date,
-            "identifiers": idents, "urls": sorted(urls), "archived": sorted(archived),
+            "identifiers": idents, "urls": sorted(urls, key=lambda u: copy_rank(u, issuer)),
+            "archived": sorted(archived, key=lambda u: copy_rank(unwrap(u)[0], issuer) + (u,)),
+            "host": host,
             "node": node, "interestedParty": ip,
         }
 

@@ -145,10 +145,11 @@
 "date": "1978-07-29",
 "edges": [],
 "era": "1",
+"host": "Internet Archive",
 "id": "n-stringfield-status-reports",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

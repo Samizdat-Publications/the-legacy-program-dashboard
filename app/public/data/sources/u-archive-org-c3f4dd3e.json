@@ -33,10 +33,11 @@
 }
 ],
 "era": "nd",
+"host": "Internet Archive",
 "id": "u-archive-org-c3f4dd3e",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "event",

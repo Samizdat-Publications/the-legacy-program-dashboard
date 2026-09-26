@@ -94,10 +94,11 @@
 }
 ],
 "era": "2",
+"host": "WikiLeaks",
 "id": "n-podesta-delonge-mccasland-email-2016",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "WikiLeaks",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

@@ -170,10 +170,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-high-frequency-gravitational-wave-communications",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -195,7 +196,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
 ]
 }

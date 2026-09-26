@@ -170,10 +170,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-cognitive-limits-on-simultaneous-control-of",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -203,7 +204,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
 ]
 }

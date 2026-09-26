@@ -63,10 +63,11 @@
 }
 ],
 "era": "nd",
+"host": "Internet Archive",
 "id": "u-ia802909-us-archive-org-c14bf2be",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

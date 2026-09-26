@@ -117,10 +117,11 @@
 }
 ],
 "era": "2",
+"host": "The Black Vault",
 "id": "n-dia-deliverables-review-2009",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "institution",

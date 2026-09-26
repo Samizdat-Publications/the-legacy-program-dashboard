@@ -328,10 +328,11 @@
 }
 ],
 "era": "3",
+"host": "The Black Vault",
 "id": "n-doty-personnel-file",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

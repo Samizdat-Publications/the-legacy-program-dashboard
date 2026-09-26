@@ -24,10 +24,11 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-aaro-information-papers",
 "identifiers": [],
 "interestedParty": true,
-"issuer": "nps.edu",
+"issuer": "AARO",
 "listedOn": [
 {
 "cls": "document",
@@ -44,7 +45,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://nps.edu/web/ecco/uap-special-ctx-issue",
-"https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf"
+"https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf",
+"https://nps.edu/web/ecco/uap-special-ctx-issue"
 ]
 }

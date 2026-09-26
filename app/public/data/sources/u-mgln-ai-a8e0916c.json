@@ -55,10 +55,11 @@
 "date": null,
 "edges": [],
 "era": "nd",
+"host": "mgln.ai",
 "id": "u-mgln-ai-a8e0916c",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "mgln.ai",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

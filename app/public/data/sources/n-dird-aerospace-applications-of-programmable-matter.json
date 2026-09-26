@@ -187,10 +187,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-aerospace-applications-of-programmable-matter",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -212,7 +213,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
 ]
 }

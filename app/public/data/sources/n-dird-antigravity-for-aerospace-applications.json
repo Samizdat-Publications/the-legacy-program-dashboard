@@ -304,10 +304,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-antigravity-for-aerospace-applications",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -392,7 +393,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
 ]
 }

@@ -1,10 +1,10 @@
 {
 "archived": [
-"https://web.archive.org/web/20240125210400id_/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "https://web.archive.org/web/20251208001109/https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/",
-"https://web.archive.org/web/20260206140359/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "https://web.archive.org/web/20260514102318/https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/",
-"https://web.archive.org/web/20260514102318id_/https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+"https://web.archive.org/web/20260514102318id_/https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/",
+"https://web.archive.org/web/20240125210400id_/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
+"https://web.archive.org/web/20260206140359/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
 ],
 "claims": [
 {
@@ -325,10 +325,11 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-dodig-2023-109",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Department of Defense",
+"issuer": "DoD Inspector General",
 "listedOn": [
 {
 "cls": "domain",
@@ -419,8 +420,8 @@
 ],
 "type": "report",
 "urls": [
-"https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/",
-"https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+"https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/",
+"https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
 ]
 }

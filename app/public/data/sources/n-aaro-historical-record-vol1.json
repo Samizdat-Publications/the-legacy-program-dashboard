@@ -2711,10 +2711,11 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-aaro-historical-record-vol1",
 "identifiers": [],
 "interestedParty": true,
-"issuer": "The Black Vault",
+"issuer": "AARO",
 "listedOn": [
 {
 "cls": "document",
@@ -3364,15 +3365,15 @@
 ],
 "type": "report",
 "urls": [
+"https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
 "https://en.wikisource.org/wiki/Index:AARO_Historical_Record_Report_Volume_1_2024.pdf",
 "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30",
 "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/35",
 "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
-"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
-"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
-"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
-"https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "https://www.theblackvault.com/documentarchive/report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap-volume-i/"
 ]
 }

@@ -631,10 +631,11 @@
 }
 ],
 "era": "2",
+"host": "The Black Vault",
 "id": "n-doc-341-smw-history-1967",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

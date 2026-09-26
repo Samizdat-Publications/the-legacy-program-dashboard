@@ -143,10 +143,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-state-of-the-art-and-evolution",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "person",
@@ -176,7 +177,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
 ]
 }

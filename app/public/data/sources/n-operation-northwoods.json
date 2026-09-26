@@ -165,10 +165,11 @@
 }
 ],
 "era": "0",
+"host": "Internet Archive",
 "id": "n-operation-northwoods",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

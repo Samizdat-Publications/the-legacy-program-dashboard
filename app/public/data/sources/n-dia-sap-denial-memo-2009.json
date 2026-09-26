@@ -196,10 +196,11 @@
 }
 ],
 "era": "2",
+"host": null,
 "id": "n-dia-sap-denial-memo-2009",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "program",
@@ -306,7 +307,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP/U-09-2660CE-IM-Review_of_Special_Access_Program_Request.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/U-09-2660CE-IM-Review_of_Special_Access_Program_Request.pdf"
 ]
 }

@@ -60,10 +60,11 @@
 }
 ],
 "era": "nd",
+"host": "FreePatentsOnline",
 "id": "u-freepatentsonline-com-a91d0c57",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "FreePatentsOnline",
+"issuer": null,
 "listedOn": [
 {
 "cls": "person",

@@ -218,10 +218,11 @@
 }
 ],
 "era": "2",
+"host": "Internet Archive",
 "id": "n-doc-condign-report",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "event",

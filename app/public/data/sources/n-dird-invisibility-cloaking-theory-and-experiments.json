@@ -163,10 +163,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-invisibility-cloaking-theory-and-experiments",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -188,7 +189,7 @@
 "topics": [],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
 ]
 }

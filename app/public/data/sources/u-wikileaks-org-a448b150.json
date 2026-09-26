@@ -25,10 +25,11 @@
 "date": null,
 "edges": [],
 "era": "nd",
+"host": "WikiLeaks",
 "id": "u-wikileaks-org-a448b150",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "WikiLeaks",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

@@ -4,10 +4,11 @@
 "date": null,
 "edges": [],
 "era": "nd",
+"host": "Federation of American Scientists",
 "id": "u-nuke-fas-org-dfc76868",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

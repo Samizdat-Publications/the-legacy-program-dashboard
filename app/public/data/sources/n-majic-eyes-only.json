@@ -43,10 +43,11 @@
 }
 ],
 "era": "2",
+"host": "Internet Archive",
 "id": "n-majic-eyes-only",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Internet Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

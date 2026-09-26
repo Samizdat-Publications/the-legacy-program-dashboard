@@ -144,10 +144,11 @@
 }
 ],
 "era": "0",
+"host": "The Black Vault",
 "id": "n-tr-ac-47-silver-bug",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

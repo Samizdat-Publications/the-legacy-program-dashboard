@@ -742,10 +742,11 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-aaro-fy2025-annual-report",
 "identifiers": [],
 "interestedParty": true,
-"issuer": "The Black Vault",
+"issuer": "AARO",
 "listedOn": [
 {
 "cls": "document",
@@ -829,7 +830,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
-"https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+"https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
 ]
 }

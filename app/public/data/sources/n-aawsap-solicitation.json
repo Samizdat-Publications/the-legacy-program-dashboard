@@ -205,10 +205,11 @@
 }
 ],
 "era": "2",
+"host": "The Black Vault",
 "id": "n-aawsap-solicitation",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

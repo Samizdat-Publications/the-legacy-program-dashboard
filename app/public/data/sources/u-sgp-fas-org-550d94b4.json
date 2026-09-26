@@ -15,10 +15,11 @@
 "date": "2001-08",
 "edges": [],
 "era": "2",
+"host": "Federation of American Scientists",
 "id": "u-sgp-fas-org-550d94b4",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": null,
 "listedOn": [
 {
 "cls": "institution",

@@ -180,10 +180,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-an-introduction-to-the-statistical-drake",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "document",
@@ -213,7 +214,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
 ]
 }

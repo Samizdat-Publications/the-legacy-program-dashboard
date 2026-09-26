@@ -153,10 +153,11 @@
 }
 ],
 "era": "nd",
+"host": null,
 "id": "n-dird-inertial-electrostatic-confinement-fusion",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "The Black Vault",
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "person",
@@ -186,7 +187,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
-"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/"
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf"
 ]
 }

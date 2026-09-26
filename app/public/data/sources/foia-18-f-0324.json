@@ -335,6 +335,7 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "foia-18-f-0324",
 "identifiers": [
 "FOIA case 18-F-0324"
@@ -449,7 +450,7 @@
 ],
 "type": "document",
 "urls": [
-"https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf",
-"https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf"
+"https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf",
+"https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
 ]
 }

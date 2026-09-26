@@ -104,10 +104,11 @@
 }
 ],
 "era": "nd",
+"host": "National Security Archive",
 "id": "u-nsarchive2-gwu-edu-397e1df0",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "National Security Archive",
+"issuer": null,
 "listedOn": [
 {
 "cls": "program",

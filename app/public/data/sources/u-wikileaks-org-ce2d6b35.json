@@ -33,10 +33,11 @@
 }
 ],
 "era": "nd",
+"host": "WikiLeaks",
 "id": "u-wikileaks-org-ce2d6b35",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "WikiLeaks",
+"issuer": null,
 "listedOn": [
 {
 "cls": "document",

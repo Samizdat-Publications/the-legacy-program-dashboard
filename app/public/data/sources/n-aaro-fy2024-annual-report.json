@@ -295,10 +295,11 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "n-aaro-fy2024-annual-report",
 "identifiers": [],
 "interestedParty": true,
-"issuer": "Department of Defense",
+"issuer": "AARO",
 "listedOn": [
 {
 "cls": "document",

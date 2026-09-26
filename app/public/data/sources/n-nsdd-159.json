@@ -154,10 +154,11 @@
 }
 ],
 "era": "1",
+"host": null,
 "id": "n-nsdd-159",
 "identifiers": [],
 "interestedParty": false,
-"issuer": "Federation of American Scientists",
+"issuer": "Reagan Presidential Library",
 "listedOn": [
 {
 "cls": "document",
@@ -197,7 +198,7 @@
 ],
 "type": "regulation",
 "urls": [
-"https://irp.fas.org/offdocs/nsdd/nsdd-159.htm",
-"https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+"https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"https://irp.fas.org/offdocs/nsdd/nsdd-159.htm"
 ]
 }

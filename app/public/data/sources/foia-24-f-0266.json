@@ -190,12 +190,13 @@
 }
 ],
 "era": "3",
+"host": null,
 "id": "foia-24-f-0266",
 "identifiers": [
 "FOIA case 24-F-0266"
 ],
 "interestedParty": true,
-"issuer": "Department of Defense",
+"issuer": "AARO",
 "listedOn": [
 {
 "cls": "document",
