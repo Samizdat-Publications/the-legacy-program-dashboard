@@ -1719,8 +1719,38 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
     return today
 
 
+BOARD_BOOKKEEPING = "Board bookkeeping"
+
+
+def route_board_notes(people, entities):
+    """A row whose source is exactly "Board bookkeeping" is a note about the board,
+    not a claim about the world (redesign phase 7 task 0, P5c). tools/make_stubs.py
+    writes one on every structural stub ("Referenced by the board but no dossier
+    written yet..."); until phase 7 each counted as a Tier 3 claim, 39 of them.
+    It moves to the node's `boardNote`, text kept verbatim, and stops being a
+    claim: no id, no tier, no count. verify.py holds that no claim keeps that
+    source. Returns the number moved."""
+    moved = 0
+    for n in list(people.values()) + list(entities.values()):
+        keep, notes = [], []
+        for c in n.get("claims") or []:
+            if (c.get("source") or "").strip() == BOARD_BOOKKEEPING:
+                notes.append(c.get("text") or "")
+            else:
+                keep.append(c)
+        if not notes:
+            continue
+        moved += len(notes)
+        n["claims"] = keep
+        # one note per node in practice; two distinct ones are joined, never dropped
+        uniq = list(dict.fromkeys(t.strip() for t in notes if t.strip()))
+        n["boardNote"] = " ".join(uniq)
+    return moved
+
+
 def main():
     people, entities, edges, timeline, entity_info, gaps = load()
+    board_notes = route_board_notes(people, entities)
     hoisted = hoist_claim_urls(people, entities)
     remediate_tiers(people, entities)
     remediate_edge_tiers(edges)
@@ -1762,6 +1792,7 @@ def main():
     print(f"timeline  {len(timeline)}")
     print(f"gaps      {len(gaps)}   rejects {len(rejects)}")
     print(f"hoisted URLs      {hoisted}  (claim.source -> node.sources)")
+    print(f"board notes       {board_notes}  (bookkeeping rows moved out of the claims)")
     print(f"tier-1 demotions  {len(demotions)}  (tools/DEMOTIONS.json)")
     print("\n--- integrity ---")
     for k in sorted(problems, key=lambda x: -len(problems[x])):

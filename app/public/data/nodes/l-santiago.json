@@ -3,14 +3,8 @@
 "C": 0,
 "D": 3,
 "band": null,
-"claims": [
-{
-"id": "c-c30a09aa84",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-}
-],
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"claims": [],
 "cls": "location",
 "cluster": "other",
 "conflicts": [],
@@ -86,7 +80,7 @@
 ],
 "sub": "Capital of Chile; seat of the DGAC and of CEFAA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1080 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1102 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

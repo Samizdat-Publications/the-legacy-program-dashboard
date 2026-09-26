@@ -1981,6 +1981,31 @@ def _no_duplicate_claims(b):
     return bad[:40]
 
 
+@check("no claim is board bookkeeping")
+def _no_bookkeeping_claims(b):
+    """Phase 7 task 0 (P5c). tools/make_stubs.py writes "Referenced by the board but
+    no dossier written yet..." on every structural stub, sourced "Board bookkeeping".
+    That is a note about the board, not a claim about the world, and until phase 7
+    39 of them counted as Tier 3 claims. merge.py moves each to the node's
+    `boardNote`. This holds that none is left among the claims, on the board and in
+    the app's claims.json, and that no boardNote was emptied on the way."""
+    bad = []
+    for n in b["people"] + b["entities"]:
+        for c in n.get("claims") or []:
+            if (c.get("source") or "").strip().lower() == "board bookkeeping":
+                bad.append(f"{n['id']}: a claim sourced 'Board bookkeeping' "
+                           f"({(c.get('text') or '')[:50]!r}); it belongs in boardNote")
+        if "boardNote" in n and not (n.get("boardNote") or "").strip():
+            bad.append(f"{n['id']}: boardNote is empty")
+    rows = _app_id_rows()[0]
+    for r in rows or []:
+        src = r.get("source")
+        src = (src.get("text") if isinstance(src, dict) else src) or ""
+        if src.strip().lower() == "board bookkeeping":
+            bad.append(f"app claims.json ships a bookkeeping row on {r.get('node') or r.get('id')}")
+    return bad[:40]
+
+
 APP_TIMELINE = os.path.join(ROOT, "app", "public", "data", "timeline.json")
 APP_INDEX = os.path.join(ROOT, "app", "public", "data", "index.json")
 
@@ -2115,6 +2140,7 @@ def _claims_placed(b):
     alias = (json.load(open(rmp, encoding="utf-8")).get("alias") or {}) if os.path.exists(rmp) else {}
     have = {n["id"]: {_claim_key(c.get("text")) for c in n.get("claims") or []}
             for n in b["people"] + b["entities"]}
+    notes = {n["id"]: n.get("boardNote") for n in b["people"] + b["entities"] if n.get("boardNote")}
     bad = []
     for slug, doc in _research_docs():
         for n in (doc.get("people") or []) + (doc.get("entities") or []):
@@ -2130,6 +2156,11 @@ def _claims_placed(b):
                     continue          # a claim with no text is a merge reject
                 k = _claim_key(t)
                 if k in have.get(to, ()) or (i, k) in listed:
+                    continue
+                # a bookkeeping row is placed when its text is the node's boardNote
+                # (phase 7 task 0): moved out of the claims, never dropped
+                if ((c.get("source") or "").strip() == "Board bookkeeping"
+                        and t.strip() and t.strip() in (notes.get(to) or "")):
                     continue
                 # a removeClaims rule may name the survivor or, for a claim that
                 # only made sense on a duplicate (phase 4), the collapsed id itself
@@ -3070,6 +3101,24 @@ def self_test():
         global _UNPLACED_OVERRIDE
         _UNPLACED_OVERRIDE = []
 
+    # phase 7 task 0: the pre-fix state on one node (its note back among the claims
+    # as a Tier 3 row), and a note emptied on the way
+    def _bookkeeping_back_in_claims(rb):
+        n = next(n for n in rb["entities"] + rb["people"] if n.get("boardNote"))
+        n.setdefault("claims", []).append({"tier": 3, "text": n.pop("boardNote"),
+                                           "source": "Board bookkeeping"})
+
+    def _board_note_emptied(rb):
+        next(n for n in rb["entities"] + rb["people"] if n.get("boardNote"))["boardNote"] = ""
+
+    def _app_ships_bookkeeping(rb):
+        # the board is clean, the app's claims.json is stale
+        global _APP_IDS_OVERRIDE
+        claims_rows, edge_rows = _app_id_rows()
+        claims_rows = copy.deepcopy(claims_rows)
+        claims_rows[0]["source"] = {"domain": None, "text": "Board bookkeeping", "url": None}
+        _APP_IDS_OVERRIDE = (claims_rows, edge_rows)
+
     # stable ids: the plan's poison (two claims forced to one id), an edge that lost
     # its id, a malformed id, and an app file whose row ships none
     def _two_claims_one_id(rb):
@@ -3413,11 +3462,13 @@ def self_test():
         "every claim and edge carries a stable id, unique and derived from its content":
             [_two_claims_one_id, _edge_loses_id, _malformed_id, _app_row_without_id],
         "every authored claim reaches the board or is listed":
-            [_drop_carried_claim, _unlist_the_domain_collapse],
+            [_drop_carried_claim, _unlist_the_domain_collapse, _board_note_emptied],
         "every authored conflict, unverified note and open question on an entity reaches the board":
             [_drop_unverified, _drop_open_questions],
         "every denial edge without a verdict is in the unadjudicated report":
             [_strip_one_verdict, _adjudicate_one_listed],
+        "no claim is board bookkeeping":
+            [_bookkeeping_back_in_claims, _board_note_emptied, _app_ships_bookkeeping],
     }
     # a vocabulary that has lost the row for the 32 `contains` edges
     poison_verbs = {

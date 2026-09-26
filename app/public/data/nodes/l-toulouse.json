@@ -3,18 +3,13 @@
 "C": 1,
 "D": 3,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-8bb11ca095",
 "source": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly.",
 "tier": 2
-},
-{
-"id": "c-128941e5a8",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -92,7 +87,7 @@
 ],
 "sub": "City in Occitanie; headquarters of CNES and of GEIPAN",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 935 of 1138, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 962 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unverified": []
 }

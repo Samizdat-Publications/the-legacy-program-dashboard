@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": "custody",
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-2d505af5b9",
@@ -20,12 +21,6 @@
 "id": "c-4461873a55",
 "source": "Inference",
 "text": "Wayne State's board relevance is entirely derivative of Green's post-CIA appointment there: it is the civilian medical-school affiliation under which the intelligence community's biological-effects analyst continued to examine claimed encounter injuries. Reasoning: from Green's documented career path and authorship, not from any institutional contract with Wayne State.",
-"tier": 3
-},
-{
-"id": "c-c5a3e4fa84",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -484,7 +479,7 @@
 ],
 "sub": "Academic",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 976 of 1138, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 992 of 1138, score 14). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

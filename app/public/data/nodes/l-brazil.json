@@ -3,14 +3,8 @@
 "C": 2,
 "D": 3,
 "band": null,
-"claims": [
-{
-"id": "c-6d819b52c1",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-}
-],
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"claims": [],
 "cls": "location",
 "cluster": "other",
 "conflicts": [],
@@ -197,7 +191,7 @@
 ],
 "sub": "Sovereign state; military UFO files transferred to the national archive",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 784 of 1138, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 817 of 1138, score 21). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unverified": []
 }

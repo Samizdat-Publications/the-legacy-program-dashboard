@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-b51a3753ac",
@@ -26,12 +27,6 @@
 "id": "c-18b4100792",
 "source": "Inference from GAO/NSIAD-95-187",
 "text": "Unaccounted destruction of four years of administrative files and message traffic at the base hosting the world's only atomic-capable combat unit is not ordinary records management. Reasoning: routine disposition under schedule leaves an accountable authority and a date on the disposition form, and GAO found neither.",
-"tier": 3
-},
-{
-"id": "c-7178f23e59",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -144,7 +139,7 @@
 ],
 "sub": "USAAF unit",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 952 of 1138, score 16). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 973 of 1138, score 15). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

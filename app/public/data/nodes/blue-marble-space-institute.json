@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-c8a3e4f8ac",
@@ -20,12 +21,6 @@
 "id": "c-2a5c0971e1",
 "source": "Inference",
 "text": "BMSIS's board significance is derivative rather than programmatic: it supplies an academically legitimate, government-independent affiliation for Jacob Haqq-Misra, allowing UAP-adjacent anomaly-search methodology to be published under an astrobiology institute's name. Reasoning: from the institute's stated remit combined with Haqq-Misra's recorded affiliation elsewhere on this board.",
-"tier": 3
-},
-{
-"id": "c-800a5b0448",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -101,7 +96,7 @@
 ],
 "sub": "Research institute",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1110 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1121 of 1138, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

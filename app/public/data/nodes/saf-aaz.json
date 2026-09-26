@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-9143331ff1",
@@ -38,12 +39,6 @@
 "id": "c-3996a431b8",
 "source": "Inference from AFI 16-701",
 "text": "Placing SAP access approval and SAP declassification authority in the same office means the decision to disclose a programme is made by the official whose institutional interest is in the programme's continued protection. Reasoning: directly from the two responsibilities assigned in AFI 16-701 paras. 2.1.2.4 and 2.1.2.7.",
-"tier": 3
-},
-{
-"id": "c-bec9a7c609",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -157,7 +152,7 @@
 ],
 "sub": "USAF secretariat office",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 861 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 885 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

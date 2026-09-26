@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-3e5396911e",
@@ -20,12 +21,6 @@
 "id": "c-6b2b713005",
 "source": "Inference",
 "text": "Publication of this analysis in a Nature Portfolio journal under a Vanderbilt medical affiliation marks a change in what the mainstream literature will accept, and it is the kind of result that cannot be retracted by an agency decision. Reasoning: from the venue and the institutional affiliation on the paper.",
-"tier": 3
-},
-{
-"id": "c-c1af4cc7a6",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -143,7 +138,7 @@
 ],
 "sub": "Academic",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1096 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1108 of 1138, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

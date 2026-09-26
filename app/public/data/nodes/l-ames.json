@@ -3,18 +3,13 @@
 "C": 0,
 "D": 2,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-8773ce7c9b",
 "source": "NASA UAP Independent Study Team Report, September 2023",
 "text": "The NASA UAP Independent Study Team report recommends applying NASA Earth-observing and commercial remote-sensing assets to UAP data collection.",
 "tier": 1
-},
-{
-"id": "c-c882e85392",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -97,7 +92,7 @@
 ],
 "sub": "NASA field centre at Moffett Field, Santa Clara County, California",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1052 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1076 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unverified": []
 }

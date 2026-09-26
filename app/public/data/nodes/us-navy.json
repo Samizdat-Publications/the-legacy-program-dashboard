@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": "custody",
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-8c364fa4f1",
@@ -33,12 +34,6 @@
 "source": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
 "text": "AND THE NAVY'S OWN TEST OF THE RELATED DEVICE FAILED, ON THE RECORD FROM A NAMED NAVY OFFICIAL. Timothy Boulay, Communications Director at NAWCAD: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; and 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The Navy filed it, the Navy funded it, the Navy tested it, and the Navy's own spokesman says the effect could not be proven. NO OTHER PROPULSION MECHANISM ON THIS BOARD HAS ALL FOUR.",
 "tier": 2
-},
-{
-"id": "c-eb7d9c9046",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "institution",
@@ -566,7 +561,7 @@
 ],
 "sub": "Military service",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 524 of 1138, score 30). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 554 of 1138, score 29). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

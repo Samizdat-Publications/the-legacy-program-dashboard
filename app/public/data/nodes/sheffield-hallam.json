@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-f74975c3ba",
@@ -26,12 +27,6 @@
 "id": "c-a932d03e52",
 "source": "Inference",
 "text": "A UK university repository openly indexing a body of MoD-file and Calvine-photograph research is a durable, non-governmental copy of the British record. Reasoning: repository deposits persist independently of the originating agency's retention decisions.",
-"tier": 3
-},
-{
-"id": "c-321d42021c",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -122,7 +117,7 @@
 ],
 "sub": "Academic",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 977 of 1138, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 993 of 1138, score 14). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

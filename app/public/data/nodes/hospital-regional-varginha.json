@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-1ec66d6ba5",
@@ -26,12 +27,6 @@
 "id": "c-bb782130f6",
 "source": "Research status",
 "text": "No hospital admission, transfer or incident record from January 1996 was located in this pass; the custody sequence at this facility remains testimony-based and is a wave-4 target for Brazilian archival and municipal records requests.",
-"tier": 3
-},
-{
-"id": "c-8788414d6b",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -245,7 +240,7 @@
 ],
 "sub": "Medical facility",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 994 of 1138, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1017 of 1138, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

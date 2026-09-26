@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-0f8eb3587f",
@@ -26,12 +27,6 @@
 "id": "c-876ebc1153",
 "source": "Inference",
 "text": "Chile's twenty-nine-year run of an open civil-aviation UAP office, publishing analyses and releasing military-origin footage, shifts the burden of proof onto the party claiming that public handling of UAP data would cause unacceptable harm. Reasoning: the predicted harms did not materialise in a state with comparable air-sovereignty concerns.",
-"tier": 3
-},
-{
-"id": "c-673f64d5eb",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -144,7 +139,7 @@
 ],
 "sub": "Foreign government agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1020 of 1138, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1040 of 1138, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

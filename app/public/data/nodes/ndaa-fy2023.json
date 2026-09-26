@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-d2ad33040b",
@@ -98,12 +99,6 @@
 "id": "c-f024f777e8",
 "source": "Inference from the statutory text",
 "text": "The 1 January 1945 statutory start date for the historical record is the tell. Congress selected a boundary that predates every public UAP episode and sits at the beginning of the atomic era, which is coherent only if the members writing the provision had been given reason to believe the record they were ordering reconstructed begins there. Reasoning: the date is arbitrary on the 'nothing to find' hypothesis and precise on the recovery hypothesis.",
-"tier": 3
-},
-{
-"id": "c-ef906ce25c",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -228,7 +223,7 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 176 of 1138, score 48). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 181 of 1138, score 47). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
 "claimTier": null,

@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-16a1f0f836",
@@ -20,12 +21,6 @@
 "id": "c-3dc1af9413",
 "source": "Inference from pogo.org/about",
 "text": "POGO's structural position - contractor-independent funding, a documented whistleblower intake and a direct line into congressional investigative staff - makes it a viable off-ramp for insiders bound by programme non-disclosure agreements who will not use the DoD internal channels. Reasoning: from its documented function, not from any specific UAP disclosure attributed to it here.",
-"tier": 3
-},
-{
-"id": "c-c16ff73025",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 }
 ],
@@ -160,7 +155,7 @@
 ],
 "sub": "Watchdog organisation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1065 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1091 of 1138, score 10). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

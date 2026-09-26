@@ -3,18 +3,13 @@
 "C": 1,
 "D": 2,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-a6179663e4",
 "source": "UK MoD / The National Archives UFO file releases",
 "text": "The UK Ministry of Defence operated a UFO reporting desk until its closure in December 2009 and released its UFO file series to the National Archives.",
 "tier": 1
-},
-{
-"id": "c-c7b77cb271",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -129,7 +124,7 @@
 ],
 "sub": "UK Ministry of Defence headquarters, Whitehall, London",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 844 of 1138, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 869 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

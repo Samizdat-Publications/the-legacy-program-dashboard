@@ -3,18 +3,13 @@
 "C": 1,
 "D": 1,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-9833c31b5c",
 "source": "Documented press and court record summarised in the Aztec incident literature",
 "text": "The Aztec claim originated with Frank Scully's 1950 book and was traced to promoters later prosecuted for fraud in a separate matter.",
 "tier": 2
-},
-{
-"id": "c-ea955bd11c",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -92,7 +87,7 @@
 ],
 "sub": "Town in San Juan County, New Mexico; site of the 1948 claimed saucer recovery",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1106 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1114 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
 "timeline": [],
 "unverified": []
 }

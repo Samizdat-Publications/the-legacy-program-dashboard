@@ -3,6 +3,7 @@
 "C": 1,
 "D": 2,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-22d37846e2",
@@ -15,12 +16,6 @@
 "source": "Sky Canada Project, Office of the Chief Science Advisor",
 "text": "Canada's Office of the Chief Science Advisor ran the Sky Canada Project, a federal review of how UAP reports are handled.",
 "tier": 1
-},
-{
-"id": "c-a805fcdb2b",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -113,7 +108,7 @@
 ],
 "sub": "Capital of Canada; home of Project Magnet and the federal science establishment",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 873 of 1138, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 903 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }
