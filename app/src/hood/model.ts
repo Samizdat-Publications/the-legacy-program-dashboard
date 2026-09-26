@@ -9,7 +9,16 @@
  * Nothing here invents a relationship. A pair is in this file only because the
  * board already carries it.
  */
-import { familyName } from '../vocab';
+/* A short word for each family, for the ring, where a name and its reason must
+   fit one label slot. The node page and the phone list carry the full sentence;
+   the ring's hover title carries the reading from the centre. */
+const RING_WORD: Record<string, string> = {
+  role: 'role', organisation: 'organisation', money: 'money', custody: 'custody', law: 'law',
+  oversight: 'oversight', testimony: 'testimony', denial: 'denial', documents: 'document',
+  media: 'media', 'place-time': 'place or time', conduct: 'conduct', analysis: 'board inference',
+  other: 'link',
+};
+export const ringWord = (family: string | null): string => (family && RING_WORD[family]) || 'link';
 import { loadIndex, loadMap, loadNode, type IndexNode } from '../data';
 
 const BASE = import.meta.env.BASE_URL;
@@ -69,6 +78,8 @@ export interface Entry {
   claimTier: number | null;
   derived: boolean;
   suffix: string;
+  /* the link read from the centre ("held a post at"), for the hover title */
+  say: string | null;
 }
 
 export interface Hood {
@@ -101,8 +112,9 @@ function entry(
 ): Entry {
   let suffix: string;
   if (hop === 1) {
-    /* the relationship family in the vocabulary's reader words, never a raw id */
-    suffix = (kind === 'map' && family ? familyName(family).label.toLowerCase() + ' ' : '') + 'T' + (claimTier ?? '?');
+    /* every hop-1 name says why it is there, in its family's ring word (phase 7:
+       it used to be map nodes only, and the rest showed a bare tier) */
+    suffix = (family ? ringWord(family) + ' ' : '') + 'T' + (claimTier ?? '?');
   } else {
     const steps = hop === 2 ? 'two steps' : 'three steps';
     suffix = derived ? steps + ', shared member' : steps;
@@ -110,7 +122,7 @@ function entry(
   return {
     id: meta.id, label: meta.short || meta.label, full: meta.label,
     cls: meta.cls, dateStart: meta.dateStart,
-    l0: meta.l0, hop, kind, edgeType, family, claimTier, derived, suffix,
+    l0: meta.l0, hop, kind, edgeType, family, claimTier, derived, suffix, say: null,
   };
 }
 
@@ -161,11 +173,15 @@ export async function buildHood(id: string, hops: 1 | 2 | 3, derived: boolean, f
       /* two sourced edges to the same neighbour: the denial is the one that
          must show, and otherwise the first stands. */
       if (fam === 'denial' && prev.family !== 'denial') {
-        seen.set(c.id, entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam));
+        const e = entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam);
+        e.say = c.verb || null;
+        seen.set(c.id, e);
       }
       continue;
     }
-    seen.set(c.id, entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam));
+    const e1 = entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam);
+    e1.say = c.verb || null;
+    seen.set(c.id, e1);
   }
   const hop1 = [...seen.values()].sort(cmp);
   const s1 = new Set(hop1.map((e) => e.id));

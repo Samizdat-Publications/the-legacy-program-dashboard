@@ -160,9 +160,9 @@ function buildStrip(strip: HTMLElement, hood: Hood, id: string | null): void {
         ? l.total.two + ' two steps away, ' + l.named.two + ' named'
         : 'two steps away: off at this width');
       if (hops() >= 3) bits.push(l.total.three + ' three steps away, ' + l.named.three + ' named');
-      bits.push(familyFilter
-        ? familyName(familyFilter).label.toLowerCase() + ' links only'
-        : 'shared-member links ' + (derivedOn ? 'on' : 'off'));
+      /* the shared-member state is on its own button; the strip keeps to one
+         line at 1366, so it says only what no control shows */
+      if (familyFilter) bits.push(familyName(familyFilter).label.toLowerCase() + ' links only');
     } else {
       bits.push(l.total.one + ' start-here nodes, ' + l.named.one + ' named');
       bits.push('pick one to open its neighbourhood');
@@ -320,7 +320,7 @@ function nodeEl(p: Placed, hood: Hood): HTMLElement {
       (e.derived ? ' derived' : '') + (e.family === 'denial' ? ' denial' : ''),
     href: '#/n/' + e.id,
     style: 'left:' + p.x + 'px;top:' + p.y + 'px',
-    title: e.full + ': ' + e.suffix,
+    title: e.full + ': ' + (e.say && hood.centre ? hood.centreLabel + ' ' + e.say + ' ' + e.full + ' · ' : '') + e.suffix,
   });
   const m = mark(clsColour(e.cls));
   const name = h('span', { class: 'hood-label' }, e.label);
