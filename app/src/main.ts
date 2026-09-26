@@ -69,6 +69,9 @@ async function dispatch(r: Route): Promise<void> {
     case 'atlas': return (await import('./pages/atlas')).renderAtlas(view);
     case 'topic': return (await import('./pages/topic')).renderTopic(view, r.id);
     case 'directory': return (await import('./pages/directory')).renderDirectory(view, r.dir, r.q);
+    case 'questions': return (await import('./pages/questions')).renderQuestions(view);
+    case 'question': return (await import('./pages/questions')).renderQuestion(view, r.id);
+    case 'connect': return (await import('./pages/connect')).renderConnect(view, r.a, r.b);
     case 'notfound': return notFound(view, r.raw);
   }
 }

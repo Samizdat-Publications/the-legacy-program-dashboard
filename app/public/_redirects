@@ -16,9 +16,12 @@
 # 302, not 301. These are a courtesy for links that predate the cutover, not a
 # permanent scheme, and a 301 would be cached in readers' browsers indefinitely.
 
-# Exact equivalents.
-/node/*   /#/n/:splat            302
-/path/*   /#/t/:splat            302
+# Exact equivalents. A two-id /path/ link was a route between two nodes, and
+# since redesign phase 10 the app has one: Connect. It must come before the
+# one-id rule, because the first matching rule wins.
+/node/*       /#/n/:splat            302
+/path/:a/:b   /#/connect/:a/:b       302
+/path/*       /#/t/:splat            302
 
 # Approximate. The app's era columns are on the timeline, and ?era= is the
 # section 2.1 parameter for them.
@@ -33,8 +36,6 @@
 /q/*      /                      302
 
 # A NOTE ON /path/. The old links carried two node ids (/path/aawsap/aaro, a route
-# between two nodes); the app's threads are the eight authored chains -- lineage,
-# custody, money, denials, wilson-davis, patents, scientists, oversight -- so a
-# two-id link resolves to no thread and the reader lands on the app's not-found
-# page. That is a worse outcome than a match and a better one than a bare 404,
-# because the not-found page is inside the app and offers a way onward.
+# between two nodes). Until phase 10 they fell to the one-id rule and reached the
+# not-found page; they now open #/connect/<a>/<b>, the routes between the two.
+# A one-id /path/ link still goes to the thread of that id, as before.

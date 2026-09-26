@@ -79,6 +79,12 @@ export const SAID_TITLE: Record<'said' | 'office', string> = {
   office: "Tier 1 here means it is documented that the office said or published this. The office is an interested party; it is not a finding that what it says is true.",
 };
 
+/* How to read a Tier 1 claim (phase 10, notes/plans/P10-claimants-questions-connect.md,
+   the key wording decision, final). It stands in the "How to read a claim" key
+   wherever the key renders: on Home, and in every key to the marks below. */
+export const READ_T1 = "Tier 1 means the record is documented. For a statement marked 'said on the record', " +
+  'what is documented is that it was said, not that it is true.';
+
 /* The mark itself: one element, the same on every surface, at the label size.
    `data-said` carries the kind so a check can read it without parsing words. */
 export function saidMark(kind: Said): HTMLElement | null {
@@ -90,9 +96,10 @@ export function saidMark(kind: Said): HTMLElement | null {
 export function saidKey(kinds: Iterable<Said>): HTMLElement | null {
   const have = new Set(kinds);
   const key = h('div', { class: 'said-key dim' });
+  if (have.has('said') || have.has('office')) key.append(h('div', { class: 'said-read' }, READ_T1));
   for (const k of ['said', 'office'] as const) {
     if (!have.has(k)) continue;
     key.append(h('div', null, h('span', { class: 'said-mark key' }, SAID_LABEL[k]), SAID_TITLE[k]));
   }
-  return key.childNodes.length ? key : null;
+  return key.querySelector('.said-mark') ? key : null;
 }

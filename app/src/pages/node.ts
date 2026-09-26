@@ -18,6 +18,7 @@ import {
 import { notFound } from './notfound';
 import { groupConnections, renderConnGroups } from './connections';
 import { saidKind, saidMark, saidKey } from '../attrib';
+import { ROUTE_WORDS, type ClaimMeta, type ClaimMade } from '../p10data';
 
 const AXES: [keyof Pick<NodeRecord, 'C' | 'A' | 'D'>, string][] = [
   ['C', 'custody proximity'],
@@ -213,10 +214,18 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
         src.url
           ? h('a', { class: 'csrc', href: src.url, target: '_blank', rel: 'noreferrer noopener', title: src.text }, 'source ↗')
           : h('span', { class: 'csrc nolink', title: src.text }, src.text ? 'source: ' + src.text : 'no source recorded'),
+        claimBy((c as { meta?: ClaimMeta }).meta, rec.id),
       ));
     }
   }
   main.append(list);
+
+  /* ---- the claims this node MADE (phase 10): a person's own claims wherever on
+     the board they sit, and an office's statements, grouped by the topic each is
+     read under, each with when it was made and by what route it reached the
+     record (research/_claim_meta.json) --------------------------------------- */
+  const made = ((rec as NodeRecord & { claimsMade?: ClaimMade[] }).claimsMade) || [];
+  if (made.length) main.append(claimsMade(rec, made, topicTitle));
 
   /* ---- denials on the record -------------------------------------------- */
   if (rec.denials.length) {
@@ -364,6 +373,63 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     h('span', { class: 'eyebrow' }, 'Sourced connections'),
     h('span', { class: 'dim' }, rec.connections.length + ' links · ' + counterparts + ' counterparts · ' + groups.length + (groups.length === 1 ? ' family' : ' families'))));
   side.append(renderConnGroups(groups));
+}
+
+/* Who made a claim, when, and by what route: one line under the claim. */
+function claimBy(m: ClaimMeta | undefined, here: string): HTMLElement | null {
+  if (!m) return null;
+  const bits: (HTMLElement | string)[] = [];
+  if (m.claimant && m.claimant !== here) {
+    bits.push('said by ', h('a', { href: '#/n/' + m.claimant }, m.claimantLabel || m.claimant));
+  } else if (!m.claimant && m.speaker) {
+    bits.push('said by ' + m.speaker);
+  }
+  const when = [m.artefactDate, ROUTE_WORDS[m.route] || m.route].filter(Boolean).join(' ');
+  if (when) bits.push((bits.length ? ', ' : '') + when);
+  if (m.via) bits.push(' (' + m.via + ')');
+  if (!bits.length) return null;
+  return h('span', { class: 'cby faint', 'data-claimant': m.claimant || '' }, ...bits);
+}
+
+function claimsMade(rec: NodeRecord, made: ClaimMade[], topicTitle: Map<string, string>): HTMLElement {
+  const box = h('section', { class: 'made', 'data-n': String(made.length) });
+  const groups = new Map<string, ClaimMade[]>();
+  for (const c of made) {
+    const k = c.topic || '';
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k)!.push(c);
+  }
+  const head = rec.cls === 'person' ? 'Claims this person has made'
+    : rec.cls === 'institution' ? 'Statements by this office' : 'Claims made on its word';
+  box.append(h('div', { class: 'sec sechead' },
+    h('div', null, h('span', { class: 'eyebrow' }, head), ' ', h('span', { class: 'sep' }, '·'), ' ',
+      h('b', null, String(made.length)), ' in ', String(groups.size), groups.size === 1 ? ' topic' : ' topics'),
+    h('span', { class: 'faint' }, 'wherever on the board they sit, each with when it was made and how it reached the record')));
+  const kinds = new Set(made.map((c) => saidKind(Number(c.tier), c.text, c.source.text, c.source.url)).filter(Boolean));
+  const key = saidKey(kinds);
+  if (key) box.append(key);
+  for (const [t, xs] of groups) {
+    const g = h('div', { class: 'made-group', 'data-topic': t });
+    g.append(h('div', { class: 'made-topic' }, t
+      ? h('a', { href: '#/topic/' + t }, topicTitle.get(t) || t)
+      : h('span', { class: 'dim' }, 'Not yet read in a topic'), ' ', h('span', { class: 'faint' }, String(xs.length))));
+    for (const c of xs) {
+      const tier = Number(c.tier);
+      const src = c.source || { text: '', url: null };
+      const when = [c.artefactDate || 'undated', ROUTE_WORDS[c.route] || c.route].join(' ');
+      const meta = h('span', { class: 'mmeta faint' }, h('span', { class: 'mwhen' }, when), c.via ? ' (' + c.via + ')' : '');
+      if (c.node !== rec.id) meta.append(' · on ', h('a', { class: 'mnode', href: '#/n/' + c.node }, c.nodeLabel));
+      meta.append(' · ', src.url
+        ? h('a', { href: src.url, target: '_blank', rel: 'noreferrer noopener', title: src.text }, 'source ↗')
+        : h('span', { title: src.text }, src.text ? 'source: ' + src.text : 'no source recorded'));
+      g.append(h('div', { class: 'made-row', 'data-cid': c.id, 'data-date': c.artefactDate || '', 'data-route': c.route },
+        h('span', { class: 'ct t' + tier }, 'T' + tier),
+        h('span', { class: 'mtext' }, saidMark(saidKind(tier, c.text, src.text, src.url)), c.text),
+        meta));
+    }
+    box.append(g);
+  }
+  return box;
 }
 
 /* The board's analysis: labelled as the board's own voice and folded to its
