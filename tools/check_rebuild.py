@@ -116,7 +116,8 @@ def built_since_last_commit():
 # in flight (a note, CLAUDE.md, a tool being changed) and those are not rebuild
 # drift. CI runs this WITHOUT the flag, over the whole tree, as a step of its own.
 BUILT_PREFIXES = ("data/", "app/public/data/", "app/public/patents/",
-                  "research/_remediation.json", "research/topics/_proposals.json")
+                  "research/_remediation.json", "research/topics/_proposals.json",
+                  "research/_sources.json", "research/_claim_sources.json")
 
 
 def is_built(path):

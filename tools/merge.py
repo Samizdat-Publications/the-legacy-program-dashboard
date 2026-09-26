@@ -590,7 +590,10 @@ def finalise_defaults(people, entities):
               f"from {bad}", file=sys.stderr)
 
 
-NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json"}
+# phase 8: the source registry, the claim-to-source map and the reviewed decisions
+# behind them are side-cars too, written or read by tools/build_source_registry.py
+NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json", "_sources.json",
+                      "_claim_sources.json", "_source_decisions.json"}
 
 
 def _removed_aliases():

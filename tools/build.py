@@ -16,6 +16,9 @@ THE ORDER, AND WHY IT IS THIS ORDER
   build_design_extract  data/design-extract.json, which build_l0_layout reads
   build_l0_layout.mjs   data/l0-layout-model.json, Design's packed layout
   build_foia_links      data/foia-links.json, from the FOIA letters and l0-model.json
+  build_source_registry research/_sources.json and _claim_sources.json (phase 8): every
+                        source the board cites, and each claim's sources, from the
+                        merged board and research/_source_decisions.json
   build_app_data        app/public/data/, what the shipped app reads. It reads
                         everything above it
   propose_members       research/topics/_proposals.json, the topic membership
@@ -42,6 +45,7 @@ STEPS = (
     ("build_design_extract", ["build_design_extract.py"]),
     ("build_l0_layout", ["build_l0_layout.mjs"]),
     ("build_foia_links", ["build_foia_links.py"]),
+    ("build_source_registry", ["build_source_registry.py"]),
     ("build_app_data", ["build_app_data.py"]),
     ("propose_members", ["topics/propose_members.py"]),
 )
