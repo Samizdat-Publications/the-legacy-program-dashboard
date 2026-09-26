@@ -64,7 +64,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -101,7 +101,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,

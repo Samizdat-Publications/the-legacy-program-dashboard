@@ -97,7 +97,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -124,7 +124,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -151,7 +151,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,

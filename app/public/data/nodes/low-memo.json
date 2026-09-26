@@ -58,7 +58,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -112,7 +112,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,

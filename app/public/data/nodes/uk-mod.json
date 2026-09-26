@@ -46,7 +46,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -73,7 +73,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -127,7 +127,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 }
 ],
 "coords": null,

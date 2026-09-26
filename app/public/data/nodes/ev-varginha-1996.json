@@ -76,7 +76,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -113,7 +113,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 3,
@@ -140,7 +140,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

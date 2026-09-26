@@ -176,7 +176,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -245,7 +245,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -331,7 +331,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -395,7 +395,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 }
 ],
 "date": "1995-01-01",

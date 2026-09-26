@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -285,7 +285,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 3,
@@ -317,7 +317,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,

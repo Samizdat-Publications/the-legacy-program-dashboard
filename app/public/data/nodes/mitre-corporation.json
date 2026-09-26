@@ -99,7 +99,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -126,7 +126,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -389,7 +389,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -554,7 +554,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -640,7 +640,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -753,7 +753,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -898,7 +898,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "linked through law"
+"verb": "linked through law to"
 }
 ],
 "coords": null,

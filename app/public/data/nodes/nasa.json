@@ -119,7 +119,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -210,7 +210,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -242,7 +242,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -301,7 +301,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -436,7 +436,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -463,7 +463,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -527,7 +527,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -554,7 +554,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,

@@ -354,7 +354,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -514,7 +514,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -620,7 +620,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -684,7 +684,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -716,7 +716,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -748,7 +748,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -888,7 +888,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -1294,7 +1294,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 3,
@@ -1326,7 +1326,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -1358,7 +1358,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,

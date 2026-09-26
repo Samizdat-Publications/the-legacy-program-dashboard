@@ -100,7 +100,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -154,7 +154,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -181,7 +181,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -289,7 +289,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -321,7 +321,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

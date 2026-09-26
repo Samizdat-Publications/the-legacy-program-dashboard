@@ -76,7 +76,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -103,7 +103,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 3,
@@ -130,7 +130,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 3,
@@ -157,7 +157,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through money"
+"verb": "linked by money to"
 }
 ],
 "coords": null,

@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -142,7 +142,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,

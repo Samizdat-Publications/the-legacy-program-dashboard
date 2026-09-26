@@ -112,7 +112,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -235,7 +235,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -262,7 +262,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -289,7 +289,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -375,7 +375,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -461,7 +461,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -569,7 +569,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -911,7 +911,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -1073,7 +1073,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -1137,7 +1137,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -1238,7 +1238,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -1388,7 +1388,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -1430,7 +1430,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,

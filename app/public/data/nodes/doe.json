@@ -247,7 +247,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -306,7 +306,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 2,
@@ -333,7 +333,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -360,7 +360,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -505,7 +505,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -591,7 +591,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,

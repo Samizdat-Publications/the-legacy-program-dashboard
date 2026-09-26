@@ -160,7 +160,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -283,7 +283,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -310,7 +310,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -416,7 +416,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -448,7 +448,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,

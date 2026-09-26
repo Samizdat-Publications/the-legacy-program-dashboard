@@ -145,7 +145,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 2,
@@ -177,7 +177,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -246,7 +246,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -332,7 +332,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -364,7 +364,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,

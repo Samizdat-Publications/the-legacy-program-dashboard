@@ -136,7 +136,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -271,7 +271,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -335,7 +335,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -389,7 +389,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 3,
@@ -416,7 +416,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

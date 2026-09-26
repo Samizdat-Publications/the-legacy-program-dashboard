@@ -203,7 +203,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -230,7 +230,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through media coverage"
+"verb": "linked through media to"
 },
 {
 "claimTier": 2,
@@ -294,7 +294,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,

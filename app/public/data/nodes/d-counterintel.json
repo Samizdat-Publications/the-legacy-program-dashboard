@@ -53,7 +53,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 3,
@@ -80,7 +80,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

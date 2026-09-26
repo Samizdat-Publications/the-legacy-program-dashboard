@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -122,7 +122,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -149,7 +149,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

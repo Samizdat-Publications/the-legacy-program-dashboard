@@ -429,7 +429,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -483,7 +483,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -542,7 +542,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -596,7 +596,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 3,
@@ -623,7 +623,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -768,7 +768,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -822,7 +822,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,

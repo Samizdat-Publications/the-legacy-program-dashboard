@@ -368,7 +368,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,
@@ -503,7 +503,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -680,7 +680,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -717,7 +717,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -1024,7 +1024,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "linked through media coverage"
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -1051,7 +1051,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -1105,7 +1105,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,

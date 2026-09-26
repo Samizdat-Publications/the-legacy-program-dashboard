@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -107,7 +107,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -161,7 +161,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -193,7 +193,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -220,7 +220,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through law"
+"verb": "linked through law to"
 }
 ],
 "coords": null,

@@ -176,7 +176,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -311,7 +311,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -449,7 +449,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 3,
@@ -491,7 +491,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "date": "1983-04-01",

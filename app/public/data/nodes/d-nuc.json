@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -104,7 +104,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 3,
@@ -131,7 +131,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through law"
+"verb": "linked through law to"
 }
 ],
 "coords": null,

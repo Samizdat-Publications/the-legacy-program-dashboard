@@ -129,7 +129,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -156,7 +156,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -183,7 +183,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 }
 ],
 "date": "1981-01-13",

@@ -52,7 +52,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -106,7 +106,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -229,7 +229,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -261,7 +261,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,

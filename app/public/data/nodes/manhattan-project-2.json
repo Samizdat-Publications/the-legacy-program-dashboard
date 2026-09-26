@@ -64,7 +64,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -123,7 +123,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -214,7 +214,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -278,7 +278,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -305,7 +305,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,

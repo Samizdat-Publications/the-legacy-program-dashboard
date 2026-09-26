@@ -123,7 +123,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -150,7 +150,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -258,7 +258,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -290,7 +290,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -317,7 +317,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -376,7 +376,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

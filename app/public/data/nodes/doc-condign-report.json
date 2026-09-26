@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 3,
@@ -159,7 +159,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -223,7 +223,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -255,7 +255,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -292,7 +292,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -351,7 +351,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

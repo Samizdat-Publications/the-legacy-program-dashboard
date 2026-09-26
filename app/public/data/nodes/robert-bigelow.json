@@ -269,7 +269,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -296,7 +296,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -323,7 +323,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -350,7 +350,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -377,7 +377,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,
@@ -404,7 +404,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -431,7 +431,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,

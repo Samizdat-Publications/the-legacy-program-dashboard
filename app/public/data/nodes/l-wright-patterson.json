@@ -230,7 +230,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 3,
@@ -262,7 +262,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -397,7 +397,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -429,7 +429,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -456,7 +456,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,

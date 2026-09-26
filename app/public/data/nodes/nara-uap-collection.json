@@ -323,7 +323,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -407,7 +407,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -434,7 +434,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -520,7 +520,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -584,7 +584,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -643,7 +643,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 3,
@@ -675,7 +675,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -707,7 +707,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -921,7 +921,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -990,7 +990,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -1081,7 +1081,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -1113,7 +1113,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -1177,7 +1177,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,

@@ -130,7 +130,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -189,7 +189,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -248,7 +248,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -339,7 +339,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -965,7 +965,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -1751,7 +1751,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -1805,7 +1805,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -1864,7 +1864,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -1918,7 +1918,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -1987,7 +1987,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -2083,7 +2083,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -2258,7 +2258,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,

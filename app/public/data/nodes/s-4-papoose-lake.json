@@ -106,7 +106,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through media coverage"
+"verb": "linked through media to"
 },
 {
 "claimTier": 3,
@@ -160,7 +160,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,
@@ -187,7 +187,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -241,7 +241,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -268,7 +268,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -295,7 +295,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -322,7 +322,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -349,7 +349,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -376,7 +376,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -430,7 +430,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,

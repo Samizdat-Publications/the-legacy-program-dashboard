@@ -195,7 +195,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -254,7 +254,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -372,7 +372,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -554,7 +554,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -645,7 +645,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 }
 ],
 "coords": null,

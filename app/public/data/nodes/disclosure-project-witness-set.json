@@ -136,7 +136,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 3,
@@ -163,7 +163,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -200,7 +200,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -232,7 +232,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,

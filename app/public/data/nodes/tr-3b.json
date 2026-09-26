@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -145,7 +145,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -177,7 +177,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -258,7 +258,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -312,7 +312,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,

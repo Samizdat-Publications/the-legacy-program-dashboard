@@ -197,7 +197,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 3,
@@ -229,7 +229,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -367,7 +367,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -458,7 +458,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -532,7 +532,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 3,
@@ -559,7 +559,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -586,7 +586,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -623,7 +623,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 3,
@@ -655,7 +655,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,

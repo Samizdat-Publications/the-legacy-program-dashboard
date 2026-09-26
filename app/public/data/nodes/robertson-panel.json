@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -96,7 +96,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -354,7 +354,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 3,
@@ -418,7 +418,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -445,7 +445,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,

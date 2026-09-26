@@ -112,7 +112,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -144,7 +144,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -171,7 +171,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -198,7 +198,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 }
 ],
 "date": "2002-10-22",

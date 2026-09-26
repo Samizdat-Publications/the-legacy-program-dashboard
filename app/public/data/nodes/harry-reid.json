@@ -161,7 +161,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -247,7 +247,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -301,7 +301,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -328,7 +328,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -360,7 +360,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -387,7 +387,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 2,
@@ -488,7 +488,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -601,7 +601,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 3,
@@ -628,7 +628,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,

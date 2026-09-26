@@ -45,3 +45,9 @@ export function familyName(id: string | null | undefined): FamilyName {
 
 /* the reading order of predicates inside a family: the vocabulary's own order */
 export const PREDICATE_ORDER: string[] = vocab.predicates.map((p) => p.id);
+
+/* each predicate's two labels, for reading a link from the far end (the ring) */
+export interface PredicateName { id: string; family: string; forward: string; inverse: string; symmetric: boolean; }
+export const PREDICATES: Map<string, PredicateName> = new Map(vocab.predicates.map((p) => [p.id, {
+  id: p.id, family: p.family, forward: p.forward, inverse: p.inverse, symmetric: !!(p as { symmetric?: boolean }).symmetric,
+}]));

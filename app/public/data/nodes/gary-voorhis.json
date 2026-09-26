@@ -70,7 +70,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -97,7 +97,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -124,7 +124,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,

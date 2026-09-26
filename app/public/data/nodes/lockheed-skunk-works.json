@@ -133,7 +133,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,
@@ -160,7 +160,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -241,7 +241,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,

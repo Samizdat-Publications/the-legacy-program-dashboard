@@ -196,7 +196,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -223,7 +223,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -390,7 +390,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

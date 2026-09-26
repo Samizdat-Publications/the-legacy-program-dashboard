@@ -19,7 +19,20 @@ const RING_WORD: Record<string, string> = {
   other: 'link',
 };
 export const ringWord = (family: string | null): string => (family && RING_WORD[family]) || 'link';
-import { loadIndex, loadMap, loadNode, type IndexNode } from '../data';
+
+/* What the ring prints after a neighbour's name: the link read FROM THE
+   NEIGHBOUR, whose name it follows ("Eric Burlison appointed", "Susan Gough
+   denied", "NRO had in a post"; the centre is the implied other end). Only a
+   predicate the generator shows gets its own words; any other link prints its
+   family's ring word and "link", which claims no more than the family. */
+export function ringSay(c: Connection): string {
+  const p = c.predicate ? PREDICATES.get(c.predicate) : undefined;
+  if (!c.predicateShown || !p) { const w = ringWord(c.family || null); return w === 'link' ? w : w + ' link'; }
+  if (p.symmetric || c.predicateSide === 'either') return p.forward;
+  return c.predicateSide === 'subject' ? p.inverse : p.forward;
+}
+import { loadIndex, loadMap, loadNode, type Connection, type IndexNode } from '../data';
+import { PREDICATES } from '../vocab';
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -114,7 +127,7 @@ function entry(
   if (hop === 1) {
     /* every hop-1 name says why it is there, in its family's ring word (phase 7:
        it used to be map nodes only, and the rest showed a bare tier) */
-    suffix = (family ? ringWord(family) + ' ' : '') + 'T' + (claimTier ?? '?');
+    suffix = (family ? (ringWord(family) === 'link' ? 'link ' : ringWord(family) + ' link ') : '') + 'T' + (claimTier ?? '?');
   } else {
     const steps = hop === 2 ? 'two steps' : 'three steps';
     suffix = derived ? steps + ', shared member' : steps;
@@ -175,12 +188,14 @@ export async function buildHood(id: string, hops: 1 | 2 | 3, derived: boolean, f
       if (fam === 'denial' && prev.family !== 'denial') {
         const e = entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam);
         e.say = c.verb || null;
+        e.suffix = ringSay(c) + ' T' + (c.claimTier ?? '?');
         seen.set(c.id, e);
       }
       continue;
     }
     const e1 = entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam);
     e1.say = c.verb || null;
+    e1.suffix = ringSay(c) + ' T' + (c.claimTier ?? '?');
     seen.set(c.id, e1);
   }
   const hop1 = [...seen.values()].sort(cmp);

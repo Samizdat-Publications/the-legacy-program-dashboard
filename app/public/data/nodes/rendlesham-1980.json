@@ -108,7 +108,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -342,7 +342,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,
@@ -379,7 +379,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -411,7 +411,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -458,7 +458,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,

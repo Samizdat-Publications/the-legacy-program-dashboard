@@ -58,7 +58,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -85,7 +85,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -139,7 +139,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -171,7 +171,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through media coverage"
+"verb": "linked through media to"
 }
 ],
 "coords": null,

@@ -226,7 +226,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -307,7 +307,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -334,7 +334,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,
@@ -366,7 +366,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -393,7 +393,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -602,7 +602,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

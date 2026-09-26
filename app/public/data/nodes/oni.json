@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -102,7 +102,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -166,7 +166,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

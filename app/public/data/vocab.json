@@ -297,79 +297,79 @@
    "blurb": "posts, leadership, membership, founding and working ties",
    "id": "role",
    "label": "Roles",
-   "phrase": "linked through a role"
+   "phrase": "linked by a role to"
   },
   {
    "blurb": "what is part of, runs, produces or succeeds what",
    "id": "organisation",
    "label": "Organisation",
-   "phrase": "linked in how it is organised"
+   "phrase": "linked organisationally to"
   },
   {
    "blurb": "who paid or contracted whom",
    "id": "money",
    "label": "Money",
-   "phrase": "linked through money"
+   "phrase": "linked by money to"
   },
   {
    "blurb": "who holds records or is said to hold material, and where it went",
    "id": "custody",
    "label": "Custody",
-   "phrase": "linked through custody of records or material"
+   "phrase": "linked through custody to"
   },
   {
    "blurb": "what created, governs, amended, implements or requires what",
    "id": "law",
    "label": "Law",
-   "phrase": "linked through law"
+   "phrase": "linked through law to"
   },
   {
    "blurb": "who oversaw, investigated, questioned or asked whom, and who must report to whom",
    "id": "oversight",
    "label": "Oversight",
-   "phrase": "linked through oversight"
+   "phrase": "linked through oversight to"
   },
   {
    "blurb": "who says what, and how an account reached the record",
    "id": "testimony",
    "label": "Testimony",
-   "phrase": "linked through testimony"
+   "phrase": "linked through testimony to"
   },
   {
    "blurb": "who denied, refused, disputed, explained away or left out what",
    "id": "denial",
    "label": "Denials",
-   "phrase": "linked through a denial"
+   "phrase": "linked through a denial to"
   },
   {
    "blurb": "who wrote, published, released, cites or studied what",
    "id": "documents",
    "label": "Documents",
-   "phrase": "linked through a document"
+   "phrase": "linked through a document to"
   },
   {
    "blurb": "who reported on, interviewed or appeared where",
    "id": "media",
    "label": "Media",
-   "phrase": "linked through media coverage"
+   "phrase": "linked through media to"
   },
   {
    "blurb": "where things are or happened, and what came before, led to or answered what",
    "id": "place-time",
    "label": "Place and time",
-   "phrase": "linked in place or time"
+   "phrase": "linked in place or time to"
   },
   {
    "blurb": "action taken against someone, and contact between parties",
    "id": "conduct",
    "label": "Conduct",
-   "phrase": "linked through conduct"
+   "phrase": "linked through conduct to"
   },
   {
    "blurb": "a link the board draws itself: an instance of a pattern, a parallel, a consequence",
    "id": "analysis",
    "label": "The board's reading",
-   "phrase": "linked in the board's own reading"
+   "phrase": "linked in the board's reading to"
   },
   {
    "blurb": "links no predicate here describes",
@@ -1464,7 +1464,7 @@
    "use": "ONLY when no predicate above fits the sentence"
   }
  ],
- "source": "796a99b2412b",
+ "source": "f38a9d3ce56d",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

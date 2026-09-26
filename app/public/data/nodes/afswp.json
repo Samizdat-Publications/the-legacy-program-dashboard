@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -184,7 +184,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

@@ -97,7 +97,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,
@@ -151,7 +151,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -205,7 +205,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

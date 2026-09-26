@@ -175,7 +175,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -202,7 +202,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 3,
@@ -234,7 +234,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -261,7 +261,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -288,7 +288,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

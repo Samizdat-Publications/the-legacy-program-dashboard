@@ -138,7 +138,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -180,7 +180,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -222,7 +222,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,

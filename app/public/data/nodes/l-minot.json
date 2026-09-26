@@ -60,7 +60,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,

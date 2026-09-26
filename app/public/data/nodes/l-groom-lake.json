@@ -76,7 +76,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -108,7 +108,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -140,7 +140,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -172,7 +172,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -204,7 +204,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 2,
@@ -263,7 +263,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -371,7 +371,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -425,7 +425,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,

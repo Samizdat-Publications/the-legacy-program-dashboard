@@ -140,7 +140,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -167,7 +167,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -295,7 +295,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,

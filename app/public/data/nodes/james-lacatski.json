@@ -124,7 +124,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -215,7 +215,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -269,7 +269,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -301,7 +301,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -382,7 +382,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,

@@ -53,7 +53,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -80,7 +80,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -181,7 +181,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

@@ -658,7 +658,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -685,7 +685,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -722,7 +722,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -749,7 +749,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through media coverage"
+"verb": "linked through media to"
 },
 {
 "claimTier": 3,
@@ -781,7 +781,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -808,7 +808,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -835,7 +835,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -867,7 +867,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -926,7 +926,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -985,7 +985,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -1098,7 +1098,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -1162,7 +1162,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -1226,7 +1226,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -1253,7 +1253,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -1334,7 +1334,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -1393,7 +1393,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -1425,7 +1425,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -1627,7 +1627,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,
@@ -1772,7 +1772,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -1831,7 +1831,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -1939,7 +1939,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -1966,7 +1966,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -2121,7 +2121,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "linked through media coverage"
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -2212,7 +2212,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -2244,7 +2244,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -2357,7 +2357,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -2507,7 +2507,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -2539,7 +2539,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -2625,7 +2625,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -2657,7 +2657,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -2704,7 +2704,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -2736,7 +2736,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -2768,7 +2768,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 }
 ],
 "date": "2023-07-26",

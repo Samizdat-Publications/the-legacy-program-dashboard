@@ -52,7 +52,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -138,7 +138,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -165,7 +165,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 3,
@@ -192,7 +192,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -219,7 +219,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 }
 ],
 "coords": null,

@@ -86,7 +86,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -113,7 +113,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -140,7 +140,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,

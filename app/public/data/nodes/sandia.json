@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -130,7 +130,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -243,7 +243,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,

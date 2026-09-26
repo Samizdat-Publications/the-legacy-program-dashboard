@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through a role"
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -84,7 +84,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through money"
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -111,7 +111,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,

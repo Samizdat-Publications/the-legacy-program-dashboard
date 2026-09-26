@@ -188,7 +188,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -247,7 +247,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -333,7 +333,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -419,7 +419,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -446,7 +446,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -542,7 +542,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through conduct"
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -601,7 +601,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -643,7 +643,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through law"
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -712,7 +712,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through law"
+"verb": "linked through law to"
 }
 ],
 "coords": null,

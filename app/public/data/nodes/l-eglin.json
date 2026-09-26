@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -84,7 +84,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -111,7 +111,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 }
 ],
 "coords": null,

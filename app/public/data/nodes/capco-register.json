@@ -76,7 +76,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "linked through oversight"
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -108,7 +108,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -167,7 +167,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked through law"
+"verb": "linked through law to"
 }
 ],
 "coords": null,

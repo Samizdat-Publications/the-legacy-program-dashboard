@@ -99,7 +99,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked in the board's own reading"
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -163,7 +163,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "linked through custody of records or material"
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,
@@ -222,7 +222,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -259,7 +259,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in how it is organised"
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -286,7 +286,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "linked through a document"
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -313,7 +313,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "linked in place or time"
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

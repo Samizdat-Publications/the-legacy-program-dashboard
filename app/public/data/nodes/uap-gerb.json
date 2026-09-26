@@ -392,7 +392,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "linked through a denial"
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -532,7 +532,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through testimony"
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -623,7 +623,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "linked through media coverage"
+"verb": "linked through media to"
 },
 {
 "claimTier": 2,
