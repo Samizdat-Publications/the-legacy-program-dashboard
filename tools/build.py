@@ -19,6 +19,8 @@ THE ORDER, AND WHY IT IS THIS ORDER
                         merged board and research/_source_decisions.json
   build_app_data        app/public/data/, what the shipped app reads. It reads
                         everything above it
+  build_places          app/public/data/places.json (phase 11): the places page, from
+                        research/_places.json, the board and the shipped topics.json
   propose_members       research/topics/_proposals.json, the topic membership
                         proposals (redesign phase 4). Last, because it reads the
                         shipped board that build_app_data has just written
@@ -48,6 +50,7 @@ STEPS = (
     ("build_foia_links", ["build_foia_links.py"]),
     ("build_source_registry", ["build_source_registry.py"]),
     ("build_app_data", ["build_app_data.py"]),
+    ("build_places", ["build_places.py"]),
     ("propose_members", ["topics/propose_members.py"]),
 )
 

@@ -13,8 +13,9 @@ WHAT RUNS, IN ORDER
 
   1. tools/build.py                      unless --no-build
   2. verify.py, and its --self-test      every check, and every check seen failing
-     audit_independent.py                the map model re-derived independently
+     audit_independent.py                the same facts re-derived independently
      build_app_data.py --check, --self-test
+     build_places.py --check             the places page data re-derived
      check_rebuild.py --built-only, --self-test
      lint_no_em_dash.py, and its --self-test
      test_browser_env.js --self-test     no browser launched; guards the resolver
@@ -144,6 +145,7 @@ def plan(opts):
         ("lint_no_em_dash", [PY, tool("lint_no_em_dash.py")], ROOT),
         ("lint_no_em_dash --self-test", [PY, tool("lint_no_em_dash.py"), "--self-test"], ROOT),
         ("browser_env --self-test", ["node", tool("test_browser_env.js"), "--self-test"], ROOT),
+        ("build_places --check", [PY, tool("build_places.py"), "--check"], ROOT),
     ]
     if not opts["no_build"]:
         # It compares a build against HEAD, so without a build in this run there

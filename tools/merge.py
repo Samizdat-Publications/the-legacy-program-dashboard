@@ -594,7 +594,8 @@ def finalise_defaults(people, entities):
 # behind them are side-cars too, written or read by tools/build_source_registry.py;
 # phase 9: the person facets
 NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json", "_person_facets.json",
-                      "_sources.json", "_claim_sources.json", "_source_decisions.json"}
+                      "_sources.json", "_claim_sources.json", "_source_decisions.json",
+                      "_places.json"}
 
 
 def _removed_aliases():

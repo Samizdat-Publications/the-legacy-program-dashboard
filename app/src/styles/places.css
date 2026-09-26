@@ -1,0 +1,52 @@
+/* places.css: #/places (redesign phase 11). Tokens only; one label size; the
+ * labels beside the grid wrap rather than being cut. */
+
+.pl-note { max-width: 110ch; margin: 0 0 12px; }
+.pl-body { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 24px; align-items: start; }
+.pl-plots, .pl-list { min-width: 0; }
+.pl-plot { margin-bottom: 22px; }
+.pl-plot-head { margin-bottom: 4px; }
+.pl-phone { display: none; }
+
+.pl-stage { position: relative; font-size: var(--fs-label); min-height: 140px; }
+.pl-svg { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; }
+.pl-frame { fill: var(--bg2); stroke: var(--line2); stroke-width: 1; }
+.pl-grat { fill: none; stroke: var(--line); stroke-width: 1; stroke-dasharray: 2 4; }
+.pl-lead { fill: none; stroke: var(--line2); stroke-width: 1; opacity: 0.9; }
+.pl-deg { position: absolute; white-space: nowrap; line-height: 12px; }
+.pl-deg-lon { transform: translateX(-50%); }
+.pl-mark { position: absolute; width: 7px; height: 7px; margin: -3.5px 0 0 -3.5px; line-height: 0; }
+.pl-mark .mark { display: block; }
+.pl-mark:hover .mark, .pl-mark:focus .mark { outline: 1px solid var(--text); }
+.pl-label {
+  position: absolute;
+  box-sizing: border-box;
+  color: var(--text);
+  line-height: 14px;
+  overflow-wrap: anywhere;
+}
+.pl-label.l { text-align: right; padding-right: 2px; }
+.pl-label.r { padding-left: 2px; }
+
+.pl-chead { font-size: var(--fs-label); font-weight: 400; margin: 0 0 4px; border-bottom: 1px solid var(--line); padding-bottom: 3px; }
+.pl-country { margin-bottom: 16px; }
+.pl-cnote { margin: 2px 0 6px; }
+.pl-rhead { font-size: var(--fs-label); font-weight: 400; margin: 8px 0 2px; }
+.pl-rows, .pl-evs, .pl-tops { list-style: none; margin: 0; padding: 0; }
+.pl-row { padding: 4px 0; border-top: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 2px 12px; align-items: baseline; }
+.pl-name { display: inline-flex; align-items: baseline; gap: 6px; color: var(--text); overflow-wrap: anywhere; }
+.pl-sub, .pl-more { flex: 1 1 100%; padding-left: 13px; }
+.pl-sub .eyebrow { margin-right: 6px; }
+.pl-evs, .pl-tops { display: inline; }
+.pl-evs li, .pl-tops li { display: inline; }
+.pl-evs li + li::before, .pl-tops li + li::before { content: ' · '; color: var(--faint); }
+.pl-more summary { cursor: pointer; color: var(--dim); }
+.pl-more .pl-evs { display: block; padding: 2px 0 2px 10px; }
+.pl-more .pl-evs li { display: block; }
+.pl-more .pl-evs li + li::before { content: none; }
+
+@media (max-width: 760px) {
+  .pl-body { grid-template-columns: minmax(0, 1fr); }
+  .pl-phone { display: block; }
+  .pl-plot { display: none; }
+}

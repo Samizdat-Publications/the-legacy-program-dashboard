@@ -14,8 +14,8 @@ Four passes, none of which need a web search:
   3. MISSING DATES. 40 people have no `date`, which is the timeline sort key, so they
      cannot be placed. Recover it from the record's own chronology.
 
-  4. COORDINATES. Location nodes carry no coords, so GEOGRAPHY cannot plot. Fill from a
-     hand-built gazetteer of the named installations and cities actually on the board.
+  4. COORDINATES. Location nodes carry no coords, so GEOGRAPHY cannot plot. Fill from
+     research/_places.json (the hand-built table that used to be typed into this file).
 
 Writes research/_remediation.json, which merge.py consumes like any other domain file,
 plus tools/REGRADE_REPORT.json showing every tier that moved and why.
@@ -92,6 +92,10 @@ def guard_no_data_loss(new, board):
             eff_old = effective(old, key, field)
             eff_new = effective(new, key, field)
             for rid, val in eff_old.items():
+                # a coordinate research/_places.json deliberately withholds, with
+                # its reason, is a decision rather than a loss
+                if field == "coords" and rid in WITHHELD:
+                    continue
                 if rid in base and not eff_new.get(rid):
                     lost.append(f"{key}/{rid}.{field} = {val!r}")
     if lost:
@@ -154,87 +158,16 @@ def centrality(node, deg, prog_deg, denial_deg, claim_w):
     return s
 
 
-GAZETTEER = {
-    # US installations and sites
-    "l-dc": (38.8951, -77.0364, "Washington, DC, USA"),
-    "l-washington-dc": (38.8951, -77.0364, "Washington, DC, USA"),
-    "l-wright-patterson": (39.8261, -84.0483, "Wright-Patterson AFB, Ohio, USA"),
-    "l-kirtland": (35.0403, -106.6092, "Kirtland AFB, New Mexico, USA"),
-    "l-roswell": (33.3943, -104.5230, "Roswell, New Mexico, USA"),
-    "l-groom-lake": (37.2350, -115.8111, "Groom Lake, Nevada, USA"),
-    "l-area51": (37.2350, -115.8111, "Groom Lake, Nevada, USA"),
-    "l-skinwalker": (40.2569, -109.8890, "Uintah County, Utah, USA"),
-    "l-los-alamos": (35.8800, -106.3031, "Los Alamos, New Mexico, USA"),
-    "l-albuquerque": (35.0844, -106.6504, "Albuquerque, New Mexico, USA"),
-    "l-huntsville": (34.7304, -86.5861, "Huntsville, Alabama, USA"),
-    "l-white-sands": (32.3801, -106.4757, "White Sands, New Mexico, USA"),
-    "l-edwards-afb": (34.9054, -117.8837, "Edwards AFB, California, USA"),
-    "l-nellis": (36.2360, -115.0343, "Nellis AFB, Nevada, USA"),
-    "l-tonopah": (37.7981, -116.7817, "Tonopah Test Range, Nevada, USA"),
-    "l-vandenberg": (34.7420, -120.5724, "Vandenberg SFB, California, USA"),
-    "l-ft-meade": (39.1084, -76.7713, "Fort Meade, Maryland, USA"),
-    "l-detroit-arsenal": (42.5570, -83.0413, "Detroit Arsenal, Michigan, USA"),
-    "l-colorado-springs": (38.8339, -104.8214, "Colorado Springs, Colorado, USA"),
-    "l-boulder-co": (40.0150, -105.2705, "Boulder, Colorado, USA"),
-    # US cities
-    "l-la": (34.0522, -118.2437, "Los Angeles, California, USA"),
-    "l-long-beach": (33.7701, -118.1937, "Long Beach, California, USA"),
-    "l-huntington-beach": (33.6603, -117.9992, "Huntington Beach, California, USA"),
-    "l-stanford": (37.4275, -122.1697, "Stanford, California, USA"),
-    "l-sri": (37.4560, -122.1760, "Menlo Park, California, USA"),
-    "l-nyc": (40.7128, -74.0060, "New York, New York, USA"),
-    "l-boston": (42.3601, -71.0589, "Boston, Massachusetts, USA"),
-    "l-cambridge": (42.3736, -71.1097, "Cambridge, Massachusetts, USA"),
-    "l-wellesley": (42.2968, -71.2924, "Wellesley, Massachusetts, USA"),
-    "l-woodshole": (41.5265, -70.6731, "Woods Hole, Massachusetts, USA"),
-    "l-las-vegas": (36.1699, -115.1398, "Las Vegas, Nevada, USA"),
-    "l-albany": (42.6526, -73.7562, "Albany, New York, USA"),
-    "l-detroit": (42.3314, -83.0458, "Detroit, Michigan, USA"),
-    "l-dallas": (32.7767, -96.7970, "Dallas, Texas, USA"),
-    "l-fort-worth-tx": (32.7555, -97.3308, "Fort Worth, Texas, USA"),
-    "l-huffman-tx": (30.0182, -95.0966, "Huffman, Texas, USA"),
-    "l-orlando": (28.5383, -81.3792, "Orlando, Florida, USA"),
-    "l-parkland-fl": (26.3103, -80.2373, "Parkland, Florida, USA"),
-    "l-st-petersburg": (27.7676, -82.6403, "St Petersburg, Florida, USA"),
-    "l-charleston-sc": (32.7765, -79.9311, "Charleston, South Carolina, USA"),
-    "l-nashville": (36.1627, -86.7816, "Nashville, Tennessee, USA"),
-    "l-franklin-tn": (35.9251, -86.8689, "Franklin, Tennessee, USA"),
-    "l-knoxville": (35.9606, -83.9207, "Knoxville, Tennessee, USA"),
-    "l-tompkinsville": (36.7017, -85.6913, "Tompkinsville, Kentucky, USA"),
-    "l-cincinnati": (39.1031, -84.5120, "Cincinnati, Ohio, USA"),
-    "l-schaumburg": (42.0334, -88.0834, "Schaumburg, Illinois, USA"),
-    "l-green-bay": (44.5133, -88.0133, "Green Bay, Wisconsin, USA"),
-    "l-glenbeulah": (43.8036, -88.0997, "Glenbeulah, Wisconsin, USA"),
-    "l-michigan-state": (42.7018, -84.4822, "East Lansing, Michigan, USA"),
-    "l-ames": (42.0308, -93.6319, "Ames, Iowa, USA"),
-    "l-cedar-rapids": (41.9779, -91.6656, "Cedar Rapids, Iowa, USA"),
-    "l-springfield-mo": (37.2090, -93.2923, "Springfield, Missouri, USA"),
-    "l-boise-id": (43.6150, -116.2023, "Boise, Idaho, USA"),
-    "l-windsor-co": (40.4775, -104.9014, "Windsor, Colorado, USA"),
-    "l-oro-valley": (32.3909, -110.9665, "Oro Valley, Arizona, USA"),
-    "l-gilbert-az": (33.3528, -111.7890, "Gilbert, Arizona, USA"),
-    "l-seattle": (47.6062, -122.3321, "Seattle, Washington, USA"),
-    "l-lafayette": (30.2241, -92.0198, "Lafayette, Louisiana, USA"),
-    "l-takoma-park": (38.9779, -77.0075, "Takoma Park, Maryland, USA"),
-    "l-san-agustin": (33.8500, -107.7500, "Plains of San Agustin, New Mexico, USA"),
-    "l-aztec": (36.8222, -107.9928, "Aztec, New Mexico, USA"),
-    # international
-    "l-london": (51.5074, -0.1278, "London, United Kingdom"),
-    "l-uk": (54.0000, -2.0000, "United Kingdom"),
-    "l-uk-mod-whitehall": (51.5045, -0.1265, "Whitehall, London, United Kingdom"),
-    "l-sheffield": (53.3811, -1.4701, "Sheffield, United Kingdom"),
-    "l-paris": (48.8566, 2.3522, "Paris, France"),
-    "l-toulouse": (43.6047, 1.4442, "Toulouse, France"),
-    "l-france": (46.6034, 1.8883, "France"),
-    "l-brasilia": (-15.7939, -47.8828, "Brasilia, Brazil"),
-    "l-brazil": (-14.2350, -51.9253, "Brazil"),
-    "l-varginha": (-21.5510, -45.4300, "Varginha, Minas Gerais, Brazil"),
-    "l-santiago": (-33.4489, -70.6693, "Santiago, Chile"),
-    "l-ottawa": (45.4215, -75.6972, "Ottawa, Ontario, Canada"),
-    "l-fredericton": (45.9636, -66.6431, "Fredericton, New Brunswick, Canada"),
-    "l-moscow": (55.7558, 37.6173, "Moscow, Russia"),
-    "l-stockholm": (59.3293, 18.0686, "Stockholm, Sweden"),
-}
+# The coordinates live in research/_places.json since redesign phase 11: the 76
+# entries that were typed here were moved there verbatim, with a record of where
+# they came from (no cited source; a cited gazetteer is a phase R item). This is
+# the same table read back, (lat, lon, place as written) keyed by node id.
+PLACES = os.path.join(ROOT, "research", "_places.json")
+with open(PLACES, encoding="utf-8") as _fh:
+    _PL = json.load(_fh)
+GAZETTEER = {k: (v["lat"], v["lon"], v["loc"]) for k, v in (_PL.get("places") or {}).items()}
+# ids whose table coordinates were set aside, each with its reason in the file
+WITHHELD = set((_PL.get("_withheld") or {}).keys())
 
 # Single source of truth. These two scripts each having their own copy of the id
 # rules is exactly how the five duplicate people got onto the board: regrade

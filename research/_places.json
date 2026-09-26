@@ -1,0 +1,468 @@
+{
+ "_what": "Coordinates for the board's location nodes, keyed by node id: latitude, longitude, the place as written (\"Roswell, New Mexico, USA\"), and which of `_sources` they came from. Read by tools/regrade.py, which folds them onto the location entities as `coords` and `locLabel`, and by tools/build_places.py, which ships app/public/data/places.json for the #/places page.",
+ "_why": "Redesign phase 11 moved the 76-entry table that had been written into tools/regrade.py out of the code and into research/, where a coordinate is data with a stated source rather than a constant in a script. The values were moved verbatim; none was added or changed, and one (l-ames, under `_withheld`) was set aside because it contradicts its node. Some keys are ids the board no longer carries (merged or renamed nodes); they are kept so the move changes nothing, and they place nothing.",
+ "_sources": {
+  "board table": "typed into tools/regrade.py's GAZETTEER by an earlier research session, with no source recorded for any value. They are not from a cited gazetteer. Replacing them with a cited one (GeoNames or Natural Earth), and the plain grid with a cited basemap, is a phase R item."
+ },
+ "_withheld": {
+  "l-ames": {
+   "lat": 42.0308,
+   "lon": -93.6319,
+   "loc": "Ames, Iowa, USA",
+   "coordSource": "board table",
+   "why": "Withheld 26 September 2026 (redesign phase 11), the first time these coordinates were drawn: they are Ames, Iowa, and the node l-ames is NASA Ames Research Center, Mountain View, California. The table's value contradicts the node's own label, so the node carries no coordinates until a cited one replaces it (phase R)."
+  }
+ },
+ "places": {
+  "l-dc": {
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "loc": "Washington, DC, USA",
+   "coordSource": "board table"
+  },
+  "l-washington-dc": {
+   "lat": 38.8951,
+   "lon": -77.0364,
+   "loc": "Washington, DC, USA",
+   "coordSource": "board table"
+  },
+  "l-wright-patterson": {
+   "lat": 39.8261,
+   "lon": -84.0483,
+   "loc": "Wright-Patterson AFB, Ohio, USA",
+   "coordSource": "board table"
+  },
+  "l-kirtland": {
+   "lat": 35.0403,
+   "lon": -106.6092,
+   "loc": "Kirtland AFB, New Mexico, USA",
+   "coordSource": "board table"
+  },
+  "l-roswell": {
+   "lat": 33.3943,
+   "lon": -104.523,
+   "loc": "Roswell, New Mexico, USA",
+   "coordSource": "board table"
+  },
+  "l-groom-lake": {
+   "lat": 37.235,
+   "lon": -115.8111,
+   "loc": "Groom Lake, Nevada, USA",
+   "coordSource": "board table"
+  },
+  "l-area51": {
+   "lat": 37.235,
+   "lon": -115.8111,
+   "loc": "Groom Lake, Nevada, USA",
+   "coordSource": "board table"
+  },
+  "l-skinwalker": {
+   "lat": 40.2569,
+   "lon": -109.889,
+   "loc": "Uintah County, Utah, USA",
+   "coordSource": "board table"
+  },
+  "l-los-alamos": {
+   "lat": 35.88,
+   "lon": -106.3031,
+   "loc": "Los Alamos, New Mexico, USA",
+   "coordSource": "board table"
+  },
+  "l-albuquerque": {
+   "lat": 35.0844,
+   "lon": -106.6504,
+   "loc": "Albuquerque, New Mexico, USA",
+   "coordSource": "board table"
+  },
+  "l-huntsville": {
+   "lat": 34.7304,
+   "lon": -86.5861,
+   "loc": "Huntsville, Alabama, USA",
+   "coordSource": "board table"
+  },
+  "l-white-sands": {
+   "lat": 32.3801,
+   "lon": -106.4757,
+   "loc": "White Sands, New Mexico, USA",
+   "coordSource": "board table"
+  },
+  "l-edwards-afb": {
+   "lat": 34.9054,
+   "lon": -117.8837,
+   "loc": "Edwards AFB, California, USA",
+   "coordSource": "board table"
+  },
+  "l-nellis": {
+   "lat": 36.236,
+   "lon": -115.0343,
+   "loc": "Nellis AFB, Nevada, USA",
+   "coordSource": "board table"
+  },
+  "l-tonopah": {
+   "lat": 37.7981,
+   "lon": -116.7817,
+   "loc": "Tonopah Test Range, Nevada, USA",
+   "coordSource": "board table"
+  },
+  "l-vandenberg": {
+   "lat": 34.742,
+   "lon": -120.5724,
+   "loc": "Vandenberg SFB, California, USA",
+   "coordSource": "board table"
+  },
+  "l-ft-meade": {
+   "lat": 39.1084,
+   "lon": -76.7713,
+   "loc": "Fort Meade, Maryland, USA",
+   "coordSource": "board table"
+  },
+  "l-detroit-arsenal": {
+   "lat": 42.557,
+   "lon": -83.0413,
+   "loc": "Detroit Arsenal, Michigan, USA",
+   "coordSource": "board table"
+  },
+  "l-colorado-springs": {
+   "lat": 38.8339,
+   "lon": -104.8214,
+   "loc": "Colorado Springs, Colorado, USA",
+   "coordSource": "board table"
+  },
+  "l-boulder-co": {
+   "lat": 40.015,
+   "lon": -105.2705,
+   "loc": "Boulder, Colorado, USA",
+   "coordSource": "board table"
+  },
+  "l-la": {
+   "lat": 34.0522,
+   "lon": -118.2437,
+   "loc": "Los Angeles, California, USA",
+   "coordSource": "board table"
+  },
+  "l-long-beach": {
+   "lat": 33.7701,
+   "lon": -118.1937,
+   "loc": "Long Beach, California, USA",
+   "coordSource": "board table"
+  },
+  "l-huntington-beach": {
+   "lat": 33.6603,
+   "lon": -117.9992,
+   "loc": "Huntington Beach, California, USA",
+   "coordSource": "board table"
+  },
+  "l-stanford": {
+   "lat": 37.4275,
+   "lon": -122.1697,
+   "loc": "Stanford, California, USA",
+   "coordSource": "board table"
+  },
+  "l-sri": {
+   "lat": 37.456,
+   "lon": -122.176,
+   "loc": "Menlo Park, California, USA",
+   "coordSource": "board table"
+  },
+  "l-nyc": {
+   "lat": 40.7128,
+   "lon": -74.006,
+   "loc": "New York, New York, USA",
+   "coordSource": "board table"
+  },
+  "l-boston": {
+   "lat": 42.3601,
+   "lon": -71.0589,
+   "loc": "Boston, Massachusetts, USA",
+   "coordSource": "board table"
+  },
+  "l-cambridge": {
+   "lat": 42.3736,
+   "lon": -71.1097,
+   "loc": "Cambridge, Massachusetts, USA",
+   "coordSource": "board table"
+  },
+  "l-wellesley": {
+   "lat": 42.2968,
+   "lon": -71.2924,
+   "loc": "Wellesley, Massachusetts, USA",
+   "coordSource": "board table"
+  },
+  "l-woodshole": {
+   "lat": 41.5265,
+   "lon": -70.6731,
+   "loc": "Woods Hole, Massachusetts, USA",
+   "coordSource": "board table"
+  },
+  "l-las-vegas": {
+   "lat": 36.1699,
+   "lon": -115.1398,
+   "loc": "Las Vegas, Nevada, USA",
+   "coordSource": "board table"
+  },
+  "l-albany": {
+   "lat": 42.6526,
+   "lon": -73.7562,
+   "loc": "Albany, New York, USA",
+   "coordSource": "board table"
+  },
+  "l-detroit": {
+   "lat": 42.3314,
+   "lon": -83.0458,
+   "loc": "Detroit, Michigan, USA",
+   "coordSource": "board table"
+  },
+  "l-dallas": {
+   "lat": 32.7767,
+   "lon": -96.797,
+   "loc": "Dallas, Texas, USA",
+   "coordSource": "board table"
+  },
+  "l-fort-worth-tx": {
+   "lat": 32.7555,
+   "lon": -97.3308,
+   "loc": "Fort Worth, Texas, USA",
+   "coordSource": "board table"
+  },
+  "l-huffman-tx": {
+   "lat": 30.0182,
+   "lon": -95.0966,
+   "loc": "Huffman, Texas, USA",
+   "coordSource": "board table"
+  },
+  "l-orlando": {
+   "lat": 28.5383,
+   "lon": -81.3792,
+   "loc": "Orlando, Florida, USA",
+   "coordSource": "board table"
+  },
+  "l-parkland-fl": {
+   "lat": 26.3103,
+   "lon": -80.2373,
+   "loc": "Parkland, Florida, USA",
+   "coordSource": "board table"
+  },
+  "l-st-petersburg": {
+   "lat": 27.7676,
+   "lon": -82.6403,
+   "loc": "St Petersburg, Florida, USA",
+   "coordSource": "board table"
+  },
+  "l-charleston-sc": {
+   "lat": 32.7765,
+   "lon": -79.9311,
+   "loc": "Charleston, South Carolina, USA",
+   "coordSource": "board table"
+  },
+  "l-nashville": {
+   "lat": 36.1627,
+   "lon": -86.7816,
+   "loc": "Nashville, Tennessee, USA",
+   "coordSource": "board table"
+  },
+  "l-franklin-tn": {
+   "lat": 35.9251,
+   "lon": -86.8689,
+   "loc": "Franklin, Tennessee, USA",
+   "coordSource": "board table"
+  },
+  "l-knoxville": {
+   "lat": 35.9606,
+   "lon": -83.9207,
+   "loc": "Knoxville, Tennessee, USA",
+   "coordSource": "board table"
+  },
+  "l-tompkinsville": {
+   "lat": 36.7017,
+   "lon": -85.6913,
+   "loc": "Tompkinsville, Kentucky, USA",
+   "coordSource": "board table"
+  },
+  "l-cincinnati": {
+   "lat": 39.1031,
+   "lon": -84.512,
+   "loc": "Cincinnati, Ohio, USA",
+   "coordSource": "board table"
+  },
+  "l-schaumburg": {
+   "lat": 42.0334,
+   "lon": -88.0834,
+   "loc": "Schaumburg, Illinois, USA",
+   "coordSource": "board table"
+  },
+  "l-green-bay": {
+   "lat": 44.5133,
+   "lon": -88.0133,
+   "loc": "Green Bay, Wisconsin, USA",
+   "coordSource": "board table"
+  },
+  "l-glenbeulah": {
+   "lat": 43.8036,
+   "lon": -88.0997,
+   "loc": "Glenbeulah, Wisconsin, USA",
+   "coordSource": "board table"
+  },
+  "l-michigan-state": {
+   "lat": 42.7018,
+   "lon": -84.4822,
+   "loc": "East Lansing, Michigan, USA",
+   "coordSource": "board table"
+  },
+  "l-cedar-rapids": {
+   "lat": 41.9779,
+   "lon": -91.6656,
+   "loc": "Cedar Rapids, Iowa, USA",
+   "coordSource": "board table"
+  },
+  "l-springfield-mo": {
+   "lat": 37.209,
+   "lon": -93.2923,
+   "loc": "Springfield, Missouri, USA",
+   "coordSource": "board table"
+  },
+  "l-boise-id": {
+   "lat": 43.615,
+   "lon": -116.2023,
+   "loc": "Boise, Idaho, USA",
+   "coordSource": "board table"
+  },
+  "l-windsor-co": {
+   "lat": 40.4775,
+   "lon": -104.9014,
+   "loc": "Windsor, Colorado, USA",
+   "coordSource": "board table"
+  },
+  "l-oro-valley": {
+   "lat": 32.3909,
+   "lon": -110.9665,
+   "loc": "Oro Valley, Arizona, USA",
+   "coordSource": "board table"
+  },
+  "l-gilbert-az": {
+   "lat": 33.3528,
+   "lon": -111.789,
+   "loc": "Gilbert, Arizona, USA",
+   "coordSource": "board table"
+  },
+  "l-seattle": {
+   "lat": 47.6062,
+   "lon": -122.3321,
+   "loc": "Seattle, Washington, USA",
+   "coordSource": "board table"
+  },
+  "l-lafayette": {
+   "lat": 30.2241,
+   "lon": -92.0198,
+   "loc": "Lafayette, Louisiana, USA",
+   "coordSource": "board table"
+  },
+  "l-takoma-park": {
+   "lat": 38.9779,
+   "lon": -77.0075,
+   "loc": "Takoma Park, Maryland, USA",
+   "coordSource": "board table"
+  },
+  "l-san-agustin": {
+   "lat": 33.85,
+   "lon": -107.75,
+   "loc": "Plains of San Agustin, New Mexico, USA",
+   "coordSource": "board table"
+  },
+  "l-aztec": {
+   "lat": 36.8222,
+   "lon": -107.9928,
+   "loc": "Aztec, New Mexico, USA",
+   "coordSource": "board table"
+  },
+  "l-london": {
+   "lat": 51.5074,
+   "lon": -0.1278,
+   "loc": "London, United Kingdom",
+   "coordSource": "board table"
+  },
+  "l-uk": {
+   "lat": 54.0,
+   "lon": -2.0,
+   "loc": "United Kingdom",
+   "coordSource": "board table"
+  },
+  "l-uk-mod-whitehall": {
+   "lat": 51.5045,
+   "lon": -0.1265,
+   "loc": "Whitehall, London, United Kingdom",
+   "coordSource": "board table"
+  },
+  "l-sheffield": {
+   "lat": 53.3811,
+   "lon": -1.4701,
+   "loc": "Sheffield, United Kingdom",
+   "coordSource": "board table"
+  },
+  "l-paris": {
+   "lat": 48.8566,
+   "lon": 2.3522,
+   "loc": "Paris, France",
+   "coordSource": "board table"
+  },
+  "l-toulouse": {
+   "lat": 43.6047,
+   "lon": 1.4442,
+   "loc": "Toulouse, France",
+   "coordSource": "board table"
+  },
+  "l-france": {
+   "lat": 46.6034,
+   "lon": 1.8883,
+   "loc": "France",
+   "coordSource": "board table"
+  },
+  "l-brasilia": {
+   "lat": -15.7939,
+   "lon": -47.8828,
+   "loc": "Brasilia, Brazil",
+   "coordSource": "board table"
+  },
+  "l-brazil": {
+   "lat": -14.235,
+   "lon": -51.9253,
+   "loc": "Brazil",
+   "coordSource": "board table"
+  },
+  "l-varginha": {
+   "lat": -21.551,
+   "lon": -45.43,
+   "loc": "Varginha, Minas Gerais, Brazil",
+   "coordSource": "board table"
+  },
+  "l-santiago": {
+   "lat": -33.4489,
+   "lon": -70.6693,
+   "loc": "Santiago, Chile",
+   "coordSource": "board table"
+  },
+  "l-ottawa": {
+   "lat": 45.4215,
+   "lon": -75.6972,
+   "loc": "Ottawa, Ontario, Canada",
+   "coordSource": "board table"
+  },
+  "l-fredericton": {
+   "lat": 45.9636,
+   "lon": -66.6431,
+   "loc": "Fredericton, New Brunswick, Canada",
+   "coordSource": "board table"
+  },
+  "l-moscow": {
+   "lat": 55.7558,
+   "lon": 37.6173,
+   "loc": "Moscow, Russia",
+   "coordSource": "board table"
+  },
+  "l-stockholm": {
+   "lat": 59.3293,
+   "lon": 18.0686,
+   "loc": "Stockholm, Sweden",
+   "coordSource": "board table"
+  }
+ }
+}

@@ -55,10 +55,7 @@
 "verb": "is part of"
 }
 ],
-"coords": [
-42.0308,
--93.6319
-],
+"coords": null,
 "dateEnd": null,
 "dateStart": null,
 "deg": 1,
@@ -75,7 +72,7 @@
 "hl": null,
 "id": "l-ames",
 "label": "NASA Ames Research Center, Mountain View, California",
-"locLabel": "Ames, Iowa, USA",
+"locLabel": null,
 "openQuestions": [],
 "short": "NASA Ames Research Center, Mountain View, California",
 "sourceFiles": [

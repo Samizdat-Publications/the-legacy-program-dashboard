@@ -20,7 +20,9 @@
  * column, two steps out one family at a time, each via named). The same phase
  * retired the program map: C3, C5 and C6 went with it, and C2, C4, C11 and C12
  * lost their map halves (the Atlas's own C37 covers its chips); C72 holds that
- * the map's old routes land on what replaced them. All against the built app
+ * the map's old routes land on what replaced them; C71 is #/places (every place
+ * listed once under its country, every place with coordinates plotted once, in
+ * the order its longitude and latitude give). All against the built app
  * served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
@@ -378,6 +380,32 @@ const IN_PAGE = {
       }));
     const c = document.querySelector('.gn .gn-centre');
     return { centre: c ? c.getAttribute('data-id') : null, centreName: txt(c && c.querySelector('.gn-who')), rows, fams, lines, open };
+  },
+
+  /* #/places (phase 11): the markers on the grid, the labels beside it, and
+     the list rows with the country group each sits under. */
+  places() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    const box = (el) => { const r = el.getBoundingClientRect(); return { x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height }; };
+    const plotOf = (el) => { const p = el.closest('.pl-plot'); return p ? p.getAttribute('data-plot') : null; };
+    return {
+      present: !!document.querySelector('.pl'),
+      marks: Array.prototype.map.call(document.querySelectorAll('.pl .pl-mark'), (a) => {
+        const b = box(a);
+        return { id: a.getAttribute('data-id'), plot: plotOf(a), cx: b.x + b.w / 2, cy: b.y + b.h / 2, w: b.w, h: b.h };
+      }),
+      labels: Array.prototype.map.call(document.querySelectorAll('.pl .pl-label'), (a) => ({
+        id: a.getAttribute('data-id'), plot: plotOf(a), text: txt(a), ...box(a),
+      })),
+      rows: Array.prototype.map.call(document.querySelectorAll('.pl li.pl-row'), (li) => {
+        const a = li.querySelector('a.pl-name');
+        const g = li.closest('.pl-country');
+        return {
+          id: li.getAttribute('data-id'), href: a ? a.getAttribute('href') : null, name: txt(a),
+          group: g ? txt(g.querySelector('.pl-chead .eyebrow')) : '', coord: txt(li.querySelector('.pl-coord')),
+        };
+      }),
+    };
   },
 
   /* Timeline, from the rendered items and the rendered lane boxes (phase 9:
@@ -1061,6 +1089,40 @@ const POISONS = {
     what: 'puts the retired #/map back in the address bar, as if the old route had stayed where it was',
     fn: async (page) => page.evaluate(() => { history.replaceState(history.state, '', '#/map'); }),
   },
+  c71: {
+    stops: ['places'],
+    what: 'drops one marker from the grid, leaving its label and its list row',
+    fn: async (page) => page.evaluate(() => {
+      const m = document.querySelectorAll('.pl .pl-mark')[4];
+      if (m) m.remove();
+    }),
+  },
+  c71b: {
+    check: 'c71',
+    stops: ['places'],
+    what: 'lists one place a second time, under another country',
+    fn: async (page) => page.evaluate(() => {
+      const gs = document.querySelectorAll('.pl .pl-country');
+      const r = document.querySelector('.pl li.pl-row');
+      if (gs.length > 1 && r) (gs[1].querySelector('ul.pl-rows') || gs[1]).appendChild(r.cloneNode(true));
+    }),
+  },
+  c71c: {
+    check: 'c71',
+    stops: ['places'],
+    what: 'swaps two markers on the United States grid, so each stands where the other is',
+    fn: async (page) => page.evaluate(() => {
+      const ms = Array.from(document.querySelectorAll('.pl .pl-plot[data-plot="us"] .pl-mark'));
+      let a = null, b = null;
+      for (const x of ms) for (const y of ms) {
+        if (!a && x !== y && Math.abs(x.offsetLeft - y.offsetLeft) > 40 && Math.abs(x.offsetTop - y.offsetTop) > 40) { a = x; b = y; }
+      }
+      if (!a) return;
+      const al = a.style.left, at = a.style.top;
+      a.style.left = b.style.left; a.style.top = b.style.top;
+      b.style.left = al; b.style.top = at;
+    }),
+  },
   c11: {
     stops: ['home'],
     what: 'swaps two numbers in the start-here tour',
@@ -1615,7 +1677,7 @@ async function main() {
   };
   let index, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
       claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec,
-      topicsFile, vocabFile, domainRec, topicRecs, libFile, srcRec, wrapRec;
+      topicsFile, vocabFile, domainRec, topicRecs, libFile, srcRec, wrapRec, placesFile;
   try {
     [index, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec, vocabFile] =
@@ -1631,6 +1693,7 @@ async function main() {
       jget('data/topics.json'), jget('data/vocab.json'), jget('data/nodes/' + DOMAIN_FOCUS + '.json'),
     ]);
     [libFile, srcRec] = await Promise.all([jget('data/sources.json'), jget('data/sources/' + SOURCE_FOCUS + '.json')]);
+    placesFile = await jget('data/places.json');
     /* C45's page: the identified source with the most web addresses, archived
        copies included, chosen from the data so it follows the registry */
     const wrapRow = libFile.sources.filter((r) => r.archived > 0 && !/^[ut]-/.test(r.id))
@@ -1847,6 +1910,10 @@ async function main() {
       S['dir:people:' + k].dir = await ev(IN_PAGE.directory);
     }
   }
+
+  /* phase 11: #/places, the grid and the list */
+  await stop('places', '#/places', 1800);
+  S.places.pl = await ev(IN_PAGE.places);
 
   await stop('patents', '#/patents/' + PATENT, 2000);
   await stop('evidence', '#/evidence', 3200);
@@ -2691,6 +2758,56 @@ async function main() {
         `C70 every two-step group says "via" and names a ${fam} neighbour each of its nodes is linked to`,
         badVia.length ? clip(badVia, 3) : `${o.groups.length} vias named`);
     }
+  }
+
+  /* ---- C71 -------------------------------------------------------------- */
+  /* #/places against places.json and index.json: every location node listed
+     once, linked, under its own country; every place with coordinates plotted
+     once with its label beside the grid; nothing plotted that has none; the
+     markers in the order longitude and latitude put them; no two labels on
+     top of each other. */
+  if (!S.places || !S.places.pl) skip('C71 #/places', 'poison ' + POISON + ' does not reach it');
+  else {
+    const pl = S.places.pl;
+    const want = new Map(placesFile.places.map((p) => [p.id, p]));
+    const locIds = index.nodes.filter((n) => n.cls === 'location').map((n) => n.id).sort();
+    const nRow = new Map();
+    for (const r of pl.rows) nRow.set(r.id, (nRow.get(r.id) || 0) + 1);
+    const twice = [...nRow].filter(([, n]) => n > 1).map(([id]) => id);
+    const miss = locIds.filter((id) => !nRow.has(id));
+    const extra = [...nRow.keys()].filter((id) => !locIds.includes(id));
+    const wrongRow = pl.rows.filter((r) => {
+      const p = want.get(r.id);
+      return !p || r.href !== '#/n/' + r.id || r.name !== labelOf.get(r.id) || r.group !== (p.country || 'Not located on the board');
+    }).map((r) => r.id + ' under ' + r.group);
+    check('c71', pl.present && twice.length === 0 && miss.length === 0 && extra.length === 0 && wrongRow.length === 0 && locIds.length > 0,
+      'C71 #/places lists every place once, linked, under its own country',
+      twice.length || miss.length || extra.length || wrongRow.length
+        ? `twice ${clip(twice, 3)} · missing ${clip(miss, 3)} · not a place ${clip(extra, 3)} · wrong ${clip(wrongRow, 3)}`
+        : `${pl.rows.length} rows for ${locIds.length} places`);
+    const coord = placesFile.places.filter((p) => p.lat != null && p.lon != null);
+    const count = (list) => { const m = new Map(); for (const x of list) m.set(x.id, (m.get(x.id) || 0) + 1); return m; };
+    const nm = count(pl.marks), nl = count(pl.labels);
+    const plotBad = coord.filter((p) => nm.get(p.id) !== 1 || nl.get(p.id) !== 1).map((p) => p.id + ' marks ' + (nm.get(p.id) || 0) + ' labels ' + (nl.get(p.id) || 0));
+    const stray = [...new Set([...nm.keys(), ...nl.keys()])].filter((id) => !want.has(id) || want.get(id).lat == null);
+    check('c71', plotBad.length === 0 && stray.length === 0 && coord.length > 0,
+      'C71 every place with coordinates is plotted once and named once beside the grid, and nothing else is',
+      plotBad.length || stray.length ? `${clip(plotBad, 3)} · plotted without coordinates ${clip(stray, 3)}`
+        : `${coord.length} plotted of ${placesFile.places.length}`);
+    const order = [];
+    for (const a of pl.marks) for (const b of pl.marks) {
+      if (a.plot !== b.plot || a.id >= b.id) continue;
+      const pa = want.get(a.id), pb = want.get(b.id);
+      if (!pa || !pb) continue;
+      if ((pa.lon < pb.lon - 0.05 && !(a.cx < b.cx)) || (pa.lon > pb.lon + 0.05 && !(a.cx > b.cx)) ||
+          (pa.lat > pb.lat + 0.05 && !(a.cy < b.cy)) || (pa.lat < pb.lat - 0.05 && !(a.cy > b.cy))) order.push(a.id + '/' + b.id);
+    }
+    check('c71', order.length === 0 && pl.marks.length > 1, 'C71 every marker sits where its longitude and latitude put it relative to the others',
+      order.length ? order.length + ' pairs out of order: ' + clip(order, 3) : pl.marks.length + ' markers in order');
+    const labBad = pl.labels.filter((l) => l.text !== labelOf.get(l.id)).map((l) => l.id);
+    const over = pairsOverlapping(pl.labels.map((l) => ({ id: l.id, x: l.x, y: l.y, w: l.w, h: l.h })));
+    check('c71', labBad.length === 0 && over.length === 0, 'C71 each label beside the grid is its place\'s whole name, and no two overlap',
+      labBad.length || over.length ? `wrong ${clip(labBad, 3)} · overlapping ${clip(over, 3)}` : pl.labels.length + ' labels');
   }
 
   /* ---- C72 -------------------------------------------------------------- */
@@ -3620,7 +3737,8 @@ async function main() {
 
   /* ---- C50 -------------------------------------------------------------- */
   {
-    const want = { people: 'person', orgs: 'institution', programmes: 'program', laws: 'legislation', places: 'location', events: 'event' };
+    /* #/places is the places page since phase 11: C71 holds its list */
+    const want = { people: 'person', orgs: 'institution', programmes: 'program', laws: 'legislation', events: 'event' };
     const bad = [];
     let n = 0;
     for (const [d, cls] of Object.entries(want)) {
@@ -3640,7 +3758,7 @@ async function main() {
       }
     }
     if (!n) skip('C50 every directory lists every node of its class once', 'poison ' + POISON + ' does not walk the directories');
-    else check('c50', bad.length === 0 && n === 6, 'C50 every directory lists every node of its class exactly once, each row linking its node',
+    else check('c50', bad.length === 0 && n === 5, 'C50 every directory lists every node of its class exactly once, each row linking its node',
       bad.length ? clip(bad, 2) : n + ' directories, every row linked');
   }
 

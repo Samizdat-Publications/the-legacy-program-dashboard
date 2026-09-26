@@ -76,7 +76,10 @@ async function dispatch(r: Route): Promise<void> {
     case 'report-thread': return renderThreadReport(view, r.id);
     case 'atlas': return (await import('./pages/atlas')).renderAtlas(view);
     case 'topic': return (await import('./pages/topic')).renderTopic(view, r.id);
-    case 'directory': return (await import('./pages/directory')).renderDirectory(view, r.dir, r.q);
+    /* phase 11: the Places directory is the places page, a grid and a list */
+    case 'directory': return r.dir === 'places'
+      ? (await import('./pages/places')).renderPlaces(view)
+      : (await import('./pages/directory')).renderDirectory(view, r.dir, r.q);
     case 'library': return (await import('./pages/library')).renderLibrary(view, r.q);
     case 'source': return (await import('./pages/source')).renderSource(view, r.id);
     case 'notfound': return notFound(view, r.raw);

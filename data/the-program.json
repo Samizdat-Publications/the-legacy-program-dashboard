@@ -105549,11 +105549,8 @@
    "D": 2,
    "dateStart": null,
    "dateEnd": null,
-   "coords": [
-    42.0308,
-    -93.6319
-   ],
-   "locLabel": "Ames, Iowa, USA",
+   "coords": null,
+   "locLabel": null,
    "tierRationale": "Re-graded C on a global pass (rank 1076 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
    "claims": [
     {

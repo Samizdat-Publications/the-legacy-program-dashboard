@@ -104,7 +104,7 @@ python tools/gate.py --idempotent     # also build twice and require identical o
 ```
 
 `build.py` runs merge, regrade, merge, build_foia_links, build_source_registry, build_app_data,
-propose_members. Order matters: later stages consume earlier output. `gate.py` starts and
+build_places, propose_members. Order matters: later stages consume earlier output. `gate.py` starts and
 stops its own preview on 127.0.0.1:4173 (or reuses one already answering) and prints one summary table.
 **All of it green before a push to `master`.** A change to `app/src` alone may use `--no-build`.
 
@@ -196,9 +196,7 @@ Concrete instances, all real:
 - The scripted-analyst test passed while **six of seven** suggestion chips routed to the
   wrong branch, because it asserted only that a long answer came back with valid commands.
   A check that cannot name the branch it expected cannot detect a wrong one.
-
-- The packed layout's first cut pinned the band and column labels to the viewport and did
-  not clip the map out from under them. Six chips rendered *beneath* the column-head plate
+- The (retired) map's first packed layout rendered six chips *beneath* its column-head plate
   at about 12% opacity. Nothing in the source said so; the pixels did.
 
 **Therefore: every check you add must be demonstrated rejecting the input it must reject.**
@@ -262,6 +260,7 @@ data/l0-highlights.json      the start-here flags, signed off; l0-shorts.json au
 tools/build.py, gate.py      the build order and the one gate command
 tools/merge.py, regrade.py   the pipeline's core (reads schema/); GOLDEN.json the counts verify.py holds
 tools/dossiers.py            the entity dossiers (research/dossiers/) with the sourcing cap
+research/_places.json        place coordinates: the board's own UNCITED table (a cited one is phase R)
 tools/look.js, walk.js       the cameras
 tools/analysis/              the redesign's re-runnable measurements
 exports/notebooklm/          the NotebookLM export (tools/build_notebook_export.py)
