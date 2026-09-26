@@ -4,18 +4,27 @@
 session: where does the repo stand, and what do I do now? History lives in the dated handoffs and in
 `notes/HISTORY-TO-2026-09-24.md`.
 
-**Updated:** 25 September 2026, by the overnight session (Opus 5.5, high), after phase 5 and P5b.
+**Updated:** 25 September 2026, by the overnight session (Opus 5.5, high), after phase 6.
 
 | | |
 |---|---|
-| **Next phase** | **Phase 6: the Atlas, topic pages, the front door.** Detailed plan: `notes/plans/P6-atlas-and-topic-pages.md`. Stewart (25 September 2026) asked for the redesign to run to the end autonomously and will review at the end, so phase 6 merges on a green gate plus the blind critic's rounds rather than waiting for his look |
-| After that | phases 7 to 12, then phase R (its first queue: `notes/plans/P5-research-queue.md`) |
-| Master | phases 1 to 5 and P5b merged |
+| **Next phase** | **Phase 7: the relationship vocabulary** (plus P5c, the bookkeeping rows out of the claims). Plan: `notes/plans/P7-relationship-vocabulary.md`. Its data half runs on branch `redesign/p7-predicates` (worktree `C:\Users\stewa\ClaudeProjects\tp-p7`); its app half follows |
+| After that | phase 8 (plan written: `notes/plans/P8-sources-library.md`), then 9 to 12, then phase R (queue: `notes/plans/P5-research-queue.md`, headed by the claims that sit at two tiers) |
+| Master | phases 1 to 6 and P5b merged |
 | Production | https://the-program-zxz.pages.dev serves master (CI deploys after a green gate) |
 | The gate | `python tools/gate.py` (full), `--quick` (no poison sweep), `--no-build`, `--no-app`, `--idempotent`. CI: a gate job without a browser, an app job, and the poison sweep in three parallel shards |
 | Branches worth knowing | `trial/nuclear-on-defaults`: local only, a measurement, never merge. `nuclear-2026-09-19`, `redesign/p1-*`, `redesign/p2-*`: merged, history |
 | Working copy | `C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program`. The OneDrive copy is dead cloud placeholders |
 | Waiting on Stewart | nothing blocking. At the end: the topic table (`notes/plans/P4-topic-table.md`, drafted at high effort), the redesign as a whole, the Worker redeploy from 12 September (not urgent), the public-release questions in section 10 of the redesign |
+
+## What phase 6 did
+
+| | |
+|---|---|
+| Readers meet topics first | `#/topic/<id>` (lead, summary, what the record shows, what is claimed, what is contested; every sentence beside its numbered sources), `#/atlas` (sections by era, labels never cut, related links drawn only on focus), Home rebuilt (a claim-reading key, the 14 start-here flags as a tour of their topics, the ten sections), "Appears in" on every node page, a pointer from each absorbed domain node to its topic, a bar of HOME ATLAS TIMELINE EVIDENCE PATENTS with the rest under More |
+| Checks | C36 to C41 new; C9, C11, C17, C26, C27 extended; 15 poisons seen |
+| The critic | two rounds; round 2's worst five were all later-phase or research items, none on a phase 6 surface (`notes/critic/p6-round-*.md`) |
+| Worth knowing | the Atlas's "with open questions" filter matches all 93 topics and "contested" matches 91, so neither filters much yet; the start-here "why" texts mention node size, which is Stewart's signed-off wording and was left alone |
 
 ## The blind critic (Stewart, 25 September 2026)
 
