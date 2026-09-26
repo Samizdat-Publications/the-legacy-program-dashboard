@@ -201,6 +201,59 @@ export interface ClaimRow {
   denied: boolean; open: boolean;
 }
 
+/* ---- topics (redesign phase 5 data, read by the pages from phase 6) --------- */
+
+export interface TopicSection { id: string; order: number; title: string; blurb: string; }
+export interface TopicCounts {
+  cites: number; members: number; questions: number;
+  record: number; claimed: number; contested: number;
+}
+export interface TopicRow {
+  id: string; title: string; kind: string; section: string; focusEra: string;
+  span: { from?: string | null; to?: string | null } | null;
+  lead: string | null; researchGap: boolean; status: string;
+  related: string[]; counts: TopicCounts;
+}
+/* node id -> [topic id, role, 1 when the node is one of that topic's anchors],
+   primary topic first (build_app_data.py appears_in) */
+export type AppearsIn = Record<string, [string, string, number][]>;
+export interface TopicsFile {
+  generated: string; source: string;
+  sections: TopicSection[];
+  topics: TopicRow[];
+  appearsIn: AppearsIn;
+  coverage: unknown;
+}
+
+/* One cited id, resolved: a claim (with the node it sits on and its source) or
+   an edge (with its two ends and its sources). */
+export interface TopicCite {
+  id: string; kind: 'claim' | 'edge' | null; tier: number; text: string;
+  node?: string; nodeLabel?: string;
+  source?: { text: string; url: string | null; domain?: string | null };
+  label?: string; type?: string;
+  endpoints?: { id: string; label: string }[];
+  sources?: Source[];
+  missing?: boolean; unplaced?: boolean;
+}
+export interface TopicItem { text: string; cite: string[]; }
+export interface TopicMember { id: string; role: string; label: string | null; cls: string | null; }
+export interface TopicRecord {
+  id: string; title: string; kind: string; section: string; focusEra: string;
+  span: { from?: string | null; to?: string | null } | null;
+  lead: TopicItem | null;
+  summary: TopicItem[]; record: TopicItem[]; claimed: TopicItem[]; contested: TopicItem[];
+  members: TopicMember[]; anchors: string[]; absorbs: string[];
+  questions: string[]; related: string[];
+  researchGap?: string | boolean;
+  cites: Record<string, TopicCite>;
+}
+
+export interface VocabFile {
+  topicKinds: { id: string; blurb: string }[];
+  topicRoles: { id: string; blurb: string }[];
+}
+
 const cache = new Map<string, Promise<unknown>>();
 
 function get<T>(path: string): Promise<T> {
@@ -227,6 +280,15 @@ export const loadClaims = () => get<ClaimRow[]>('claims.json');
 export const loadEdges = () => get<EdgeRow[]>('edges.json');
 export const loadTimeline = () => get<TimelineEvent[]>('timeline.json');
 export const loadThreads = () => get<ThreadsFile>('threads.json');
+export const loadTopics = () => get<TopicsFile>('topics.json');
+export const loadTopic = (id: string) => get<TopicRecord>('topics/' + id + '.json');
+
+/* A topic's span as one line, exactly as the record has it. */
+export function spanText(s: TopicRow['span']): string {
+  const a = s && s.from, b = s && s.to;
+  if (a && b && a !== b) return a + ' to ' + b;
+  return a || b || 'no span recorded';
+}
 export const loadPatents = () => get<PatentsFile>('patents.json');
 export const loadFoia = () => get<FoiaFile>('foia.json');
 

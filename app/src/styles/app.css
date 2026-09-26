@@ -61,6 +61,25 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 }
 .nav span.nav-inert { color: var(--faint); cursor: default; }
 
+/* More (phase 6): the routes that left the row, one click away */
+.nav-more { position: relative; }
+.nav-more-btn {
+  display: flex; align-items: center; gap: 6px;
+  padding: 4px 8px; letter-spacing: 0.08em; color: var(--dim);
+  border: 1px solid transparent; white-space: nowrap;
+}
+.nav-more-btn:hover, .nav[data-more='1'] .nav-more-btn { color: var(--text); background: var(--panel); }
+.nav-more-btn.current { color: var(--text); background: var(--panel2); border-color: var(--line2); }
+.nav-more-btn .nav-toggle-chev { color: var(--cyan); }
+.nav-more-list {
+  display: none;
+  position: absolute; top: calc(100% + 4px); left: 0; min-width: 190px;
+  flex-direction: column; background: var(--bg2); border: 1px solid var(--line2);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55); padding: 4px 0; z-index: 45;
+}
+.nav[data-more='1'] .nav-more-list { display: flex; }
+.nav-more-list a, .nav-more-list span.nav-inert { padding: 6px 12px; }
+
 /* The back control. A button, because it goes nowhere of its own: it calls
    history.back(), so the browser's back does exactly the same thing. Disabled
    when the reader is on the first page of the session, so it can never take
@@ -240,6 +259,28 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 }
 .starthere .chip .chip-body { padding: 2px 8px; display: inline-flex; align-items: center; gap: 6px; }
 .starthere .chip .chip-cls { color: var(--faint); }
+
+/* Home, phase 6: how to read a claim, the start-here tour, the sections */
+.home-tiers { display: grid; gap: 4px; margin-top: 14px; max-width: 110ch; }
+.home-tiers .ht-row { display: grid; grid-template-columns: minmax(34px, auto) minmax(0, 1fr); gap: 10px; align-items: baseline; color: var(--dim); }
+.home-tiers .ht-row .said-mark { cursor: default; margin-right: 0; }
+.home-tiers .ht-k { font-weight: 600; }
+.home-atlas { display: grid; gap: 3px; padding: 10px 12px; border: 1px solid var(--cyan); }
+.home-atlas:hover { background: var(--panel2); text-decoration: none; }
+.starthere .sh-head { margin-bottom: 8px; }
+.tour { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 8px 14px; }
+.tour-step { display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 8px; padding: 8px 10px; background: var(--panel); border: 1px solid var(--line); }
+.tour-n { color: var(--amber); font-weight: 600; text-align: right; }
+.tour-node { font-weight: 600; }
+.tour-via { margin-top: 2px; }
+.tour-why { margin-top: 4px; }
+.home-sections { margin-top: 26px; }
+.home-sections .sec-head { margin-bottom: 10px; }
+.hsec-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 18px 22px; }
+.hsec { min-width: 0; border-top: 1px solid var(--line2); padding-top: 8px; }
+.hsec-title { font-size: var(--fs-body); font-weight: 600; }
+.hsec-blurb { margin: 4px 0 8px; }
+.hsec-topics { margin: 0; padding-left: 16px; display: grid; gap: 3px; }
 
 .counts { padding: 10px 12px; }
 .counts table { width: 100%; border-collapse: collapse; }
@@ -448,6 +489,22 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .against-row.posture { border-left-color: var(--line2); }
 .node-main > .against { margin-top: 16px; }
 
+/* Phase 6: the topics a node appears in, and an absorbed node's pointer */
+.appears { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 10px; align-items: baseline; margin: 4px 0 6px; }
+.appears-chips { display: flex; flex-wrap: wrap; gap: 5px; align-items: baseline; }
+.appears-chip { border: 1px solid var(--line2); padding: 2px 8px; color: var(--text); background: var(--panel); }
+.appears-chip.anchor { border-color: var(--cyan); }
+.appears-chip:hover { text-decoration: none; border-color: var(--cyan); }
+.appears-chip.extra { display: none; }
+.appears.open .appears-chip.extra { display: inline-block; }
+.appears-more { color: var(--cyan); padding: 2px 4px; }
+.absorbed {
+  display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline;
+  border: 1px solid var(--line2); border-left: 2px solid var(--amber); background: var(--panel);
+  padding: 8px 12px; margin-bottom: 12px; font-size: var(--fs-body);
+}
+.absorbed .eyebrow { font-size: var(--fs-label); }
+
 /* The mark on a Tier 1 claim that records that something was said (attrib.ts). */
 .said-mark {
   display: inline-block;
@@ -634,16 +691,22 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
     padding: 4px 0;
   }
   .bar[data-open='1'] .nav { display: flex; }
+  /* on a phone the More routes are simply the rest of the VIEWS list */
+  .nav-more-btn { display: none; }
+  .nav-more-list { display: flex; position: static; box-shadow: none; border: 0; padding: 0; min-width: 0; background: none; }
+  .nav-more-list a, .nav-more-list span.nav-inert { padding: 9px 16px; }
   .nav a, .nav span.nav-inert { padding: 9px 16px; }
   .bar-search { flex: 0 0 calc(100% - var(--dock-w) - 8px); max-width: none; min-width: 0; }
   .home { grid-template-columns: minmax(0, 1fr); }
   .paths { grid-template-columns: minmax(0, 1fr); }
+  .tour, .hsec-grid { grid-template-columns: minmax(0, 1fr); }
   .searchbox.big .slash { display: none; }
   .searchbox.big input { padding-right: 12px; }
   .actions .idline { margin-left: 0; }
   .node { grid-template-columns: minmax(0, 1fr); }
   .node .twocol { grid-template-columns: minmax(0, 1fr); }
   .claim { grid-template-columns: 24px minmax(0, 1fr); }
+  .appears { grid-template-columns: minmax(0, 1fr); gap: 4px; }
   .claim .csrc { grid-column: 2; }
   .said-mark { white-space: normal; }
   .conn-group .conn-line { grid-template-columns: minmax(0, 1fr); }

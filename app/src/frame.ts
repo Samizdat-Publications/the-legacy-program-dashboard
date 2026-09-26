@@ -1,6 +1,6 @@
 /* frame.ts: the common frame of Design response section 1.1.
  *
- * A 40px bar: the wordmark, the eight routes and the search field. The raw URL
+ * A 40px bar: the wordmark, five routes and More (four more), and the search field. The raw URL
  * fragment and the viewport size used to sit on the right; they were debugging
  * aids, not reader chrome, and went in redesign phase 5b. The route is on the
  * bar as `data-route` for anything that needs to read it.
@@ -29,22 +29,26 @@ import { canGoBack, goBack, previousTitle } from './history';
 const PATENT_IN_VIEW = '10144532';
 const THREAD_IN_VIEW = 'custody';
 
-interface NavItem { label: string; href: string | null; match: (r: Route) => boolean; }
+interface NavItem { label: string; href: string | null; match: (r: Route) => boolean; more?: boolean; }
 
 let lastNodeId: string | null = null;
 
+/* Redesign phase 6: five routes in the row, the Atlas among them; the map,
+   threads, the neighbourhood and the report under More until phase 11 decides
+   what becomes of them. Every one of them still resolves. */
 function items(r: Route): NavItem[] {
   const nid = routeNodeId(r) || lastNodeId;
   return [
     { label: 'HOME', href: '#/', match: (x) => x.kind === 'home' },
-    { label: 'MAP', href: '#/map', match: (x) => x.kind === 'map' || x.kind === 'node-map' || x.kind === 'thread-map' },
-    { label: 'NEIGHBOURHOOD', href: '#/hood', match: (x) => x.kind === 'hood' || x.kind === 'node-hood' },
-    { label: 'THREADS', href: '#/t/' + THREAD_IN_VIEW, match: (x) => x.kind === 'thread' },
+    { label: 'ATLAS', href: '#/atlas', match: (x) => x.kind === 'atlas' || x.kind === 'topic' },
     { label: 'TIMELINE', href: '#/timeline', match: (x) => x.kind === 'timeline' },
-    { label: 'PATENTS', href: '#/patents/' + PATENT_IN_VIEW, match: (x) => x.kind === 'patents' },
     { label: 'EVIDENCE', href: '#/evidence', match: (x) => x.kind === 'evidence' },
+    { label: 'PATENTS', href: '#/patents/' + PATENT_IN_VIEW, match: (x) => x.kind === 'patents' },
+    { label: 'MAP', more: true, href: '#/map', match: (x) => x.kind === 'map' || x.kind === 'node-map' || x.kind === 'thread-map' },
+    { label: 'THREADS', more: true, href: '#/t/' + THREAD_IN_VIEW, match: (x) => x.kind === 'thread' },
+    { label: 'NEIGHBOURHOOD', more: true, href: '#/hood', match: (x) => x.kind === 'hood' || x.kind === 'node-hood' },
     {
-      label: 'REPORT',
+      label: 'REPORT', more: true,
       href: nid ? '#/report/n/' + nid : null,
       match: (x) => x.kind === 'report-node' || x.kind === 'report-thread',
     },
@@ -89,7 +93,7 @@ export function renderFrame(host: HTMLElement, r: Route): void {
   bar.append(backEl);
   refreshFrameBack();
 
-  const nav = h('nav', { class: 'nav', id: 'nav-views', 'aria-label': 'Views' });
+  const nav = h('nav', { class: 'nav', id: 'nav-views', 'aria-label': 'Views', 'data-more': '0' });
   const toggle = h('button', {
     type: 'button', class: 'nav-toggle', 'aria-controls': 'nav-views', 'aria-expanded': 'false',
     onclick: () => {
@@ -99,19 +103,35 @@ export function renderFrame(host: HTMLElement, r: Route): void {
     },
   }, 'VIEWS ', h('span', { class: 'nav-toggle-chev', 'aria-hidden': 'true' }, '▾'));
   bar.append(toggle);
+  const moreList = h('div', { class: 'nav-more-list', id: 'nav-more' });
+  const moreBtn = h('button', {
+    type: 'button', class: 'nav-more-btn', 'aria-controls': 'nav-more', 'aria-expanded': 'false',
+    onclick: (e: Event) => {
+      e.stopPropagation();
+      const open = nav.getAttribute('data-more') !== '1';
+      nav.setAttribute('data-more', open ? '1' : '0');
+      moreBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    },
+  }, 'MORE ', h('span', { class: 'nav-toggle-chev', 'aria-hidden': 'true' }, '▾'));
+  let moreCurrent = false;
   for (const it of items(r)) {
+    const host = it.more ? moreList : nav;
     if (!it.href) {
-      nav.append(h('span', {
+      host.append(h('span', {
         class: 'nav-inert',
         title: 'A report is written about a node. Open a node first.',
       }, it.label));
       continue;
     }
-    nav.append(h('a', {
+    const cur = it.match(r);
+    if (cur && it.more) moreCurrent = true;
+    host.append(h('a', {
       href: it.href,
-      'aria-current': it.match(r) ? 'page' : null,
+      'aria-current': cur ? 'page' : null,
     }, it.label));
   }
+  if (moreCurrent) moreBtn.classList.add('current');
+  nav.append(h('div', { class: 'nav-more' }, moreBtn, moreList));
   bar.append(nav);
 
   bar.append(h('div', { class: 'bar-search' },
@@ -138,6 +158,16 @@ export function placeDock(): void {
   dock.style.setProperty('--dock-y', Math.round(r.top) + 'px');
 }
 window.addEventListener('resize', placeDock);
+/* More closes on any click elsewhere, and on Escape */
+document.addEventListener('click', () => {
+  const n = document.querySelector('.bar .nav[data-more="1"]');
+  if (n) { n.setAttribute('data-more', '0'); const b = n.querySelector('.nav-more-btn'); if (b) b.setAttribute('aria-expanded', 'false'); }
+});
+document.addEventListener('keydown', (e) => {
+  if ((e as KeyboardEvent).key !== 'Escape') return;
+  const n = document.querySelector('.bar .nav[data-more="1"]');
+  if (n) n.setAttribute('data-more', '0');
+});
 if (document.fonts && document.fonts.ready) void document.fonts.ready.then(placeDock);
 
 export function refreshFrameStatus(): void {

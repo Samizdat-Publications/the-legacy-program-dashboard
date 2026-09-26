@@ -939,10 +939,40 @@ def topic_coverage(s, topics, alias):
 
 
 def topic_counts(t):
-    """The counts topics.json carries for one topic, from the authored record."""
+    """The counts topics.json carries for one topic, from the authored record.
+    `record`, `claimed` and `contested` (phase 6) are the items in each of the
+    three blocks: the Atlas filters on contested, and prints nothing it cannot
+    count here."""
     return {"cites": len(topiclib.cited_ids(t)),
+            "claimed": len(t.get("claimed") or []),
+            "contested": len(t.get("contested") or []),
             "members": len(t.get("members") or []),
-            "questions": len(t.get("questions") or [])}
+            "questions": len(t.get("questions") or []),
+            "record": len(t.get("record") or [])}
+
+
+# The order an entity's topics are listed in on its page (phase 6, "Appears in"):
+# the topics where it is an anchor first, then by its role in the order
+# schema/vocab.json lists the roles (subject first), then by topic id.
+TOPIC_ROLES = [r["id"] for r in _V.get("topicRoles") or []]
+
+
+def appears_in(topics, alias):
+    """node id -> [[topic id, role, 1 if the node is one of the topic's anchors
+    else 0], ...], primary topic first. Membership is the topic's `members`
+    after alias resolution; being an anchor only orders it."""
+    by = {}
+    for t in topics:
+        anchors = {alias.get(a, a) for a in t.get("anchors") or []}
+        for m in t.get("members") or []:
+            if not isinstance(m, dict):
+                continue
+            i = alias.get(m.get("id"), m.get("id"))
+            by.setdefault(i, []).append([t["id"], m.get("role"), 1 if i in anchors else 0])
+    rank = {r: k for k, r in enumerate(TOPIC_ROLES)}
+    for xs in by.values():
+        xs.sort(key=lambda x: (-x[2], rank.get(x[1], len(rank)), x[0]))
+    return dict(sorted(by.items()))
 
 
 def topics_json(s, meta, alias):
@@ -955,6 +985,7 @@ def topics_json(s, meta, alias):
             "id": t["id"],
             "kind": t.get("kind"),
             "lead": lead.get("text") if isinstance(lead, dict) else None,
+            "related": list(t.get("related") or []),
             "researchGap": bool(str(t.get("researchGap") or "").strip()),
             "section": t.get("section"),
             "span": t.get("span"),
@@ -962,6 +993,7 @@ def topics_json(s, meta, alias):
             "title": t.get("title"),
         })
     return {
+        "appearsIn": appears_in(s.topics, alias),
         "coverage": topic_coverage(s, s.topics, alias),
         "generated": meta["generated"],
         "sections": [{k: v for k, v in x.items() if not k.startswith("_")}
@@ -1181,8 +1213,12 @@ def check_topics(index=None, node_dir=None):
             continue
         want = {"cites": len(cited(t)), "members": len(t.get("members") or []),
                 "questions": len(t.get("questions") or [])}
+        for k in ("record", "claimed", "contested"):
+            want[k] = len(t.get(k) or [])
         if r.get("counts") != want:
             drift.append("  topics.json %s counts %r, re-derived %r" % (tid, r.get("counts"), want))
+        if list(r.get("related") or []) != list(t.get("related") or []):
+            drift.append("  topics.json %s related differs from the record" % tid)
         for k in ("status", "section", "kind", "title"):
             if r.get(k) != t.get(k):
                 drift.append("  topics.json %s %s %r, record %r" % (tid, k, r.get(k), t.get(k)))
@@ -1207,6 +1243,36 @@ def check_topics(index=None, node_dir=None):
         if os.path.isdir(os.path.join(OUT, "topics")) else []
     if extra:
         drift.append("  topic files with no record: %s" % ", ".join(extra[:5]))
+
+    # appearsIn (phase 6): the set of (node, topic, role) is the shipped topic
+    # files' members, read here from those files; the order is anchors first,
+    # then role in vocab order, then topic id, checked pair by pair.
+    al = _alias()
+    roles = [x["id"] for x in _vocab().get("topicRoles") or []]
+    want_set = set()
+    anchor = set()
+    for tid, t in raw.items():
+        fp = os.path.join(OUT, "topics", tid + ".json")
+        if not os.path.exists(fp):
+            continue
+        for m in json.load(open(fp, encoding="utf-8")).get("members") or []:
+            want_set.add((m.get("id"), tid, m.get("role")))
+        for a in t.get("anchors") or []:
+            anchor.add((al.get(a, a), tid))
+    ai = index.get("appearsIn") or {}
+    have_set = {(n, x[0], x[1]) for n, xs in ai.items() for x in xs}
+    if have_set != want_set:
+        diff = sorted(have_set ^ want_set)
+        drift.append("  topics.json appearsIn differs from the topic members in %d places (%s)"
+                     % (len(diff), ", ".join("/".join(map(str, d)) for d in diff[:3])))
+    for n, xs in sorted(ai.items()):
+        keys = [(0 if (n, x[0]) in anchor else 1,
+                 roles.index(x[1]) if x[1] in roles else len(roles), x[0]) for x in xs]
+        flags = [x[2] for x in xs]
+        if keys != sorted(keys) or flags != [1 if (n, x[0]) in anchor else 0 for x in xs]:
+            drift.append("  topics.json appearsIn[%s] is not primary topic first (%s)"
+                         % (n, ", ".join(x[0] for x in xs[:4])))
+            break
 
     nd = node_dir or os.path.join(OUT, "nodes")
     want_by = {i: tid for tid, t in raw.items() for i in (t.get("absorbs") or [])}
@@ -1290,7 +1356,20 @@ def self_test():
 
     def drop(ix):
         ix["topics"].pop()
-    for what, mangle in (("a member count that moved", bump), ("a missing row", drop)):
+
+    def lose_topic(ix):
+        # a node that appears in several topics loses one of them
+        n = max(ix["appearsIn"], key=lambda k: len(ix["appearsIn"][k]))
+        ix["appearsIn"][n].pop()
+
+    def reorder(ix):
+        # a node's primary topic moved to the end of its list
+        n = next(k for k, v in sorted(ix["appearsIn"].items())
+                 if len(v) > 2 and v[0][2] == 1 and v[-1][2] == 0)
+        ix["appearsIn"][n].append(ix["appearsIn"][n].pop(0))
+    for what, mangle in (("a member count that moved", bump), ("a missing row", drop),
+                         ("a node's topic list with one topic lost", lose_topic),
+                         ("a node's topic list with its primary topic moved last", reorder)):
         ix = json.loads(json.dumps(real))
         mangle(ix)
         got = check_topics(index=ix)

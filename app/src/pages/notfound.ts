@@ -5,6 +5,8 @@ import { setTitle } from '../router';
 
 const SCHEME: [string, string][] = [
   ['#/', 'home'],
+  ['#/atlas', 'the Atlas: every topic by section and era'],
+  ['#/topic/<id>', 'a topic page'],
   ['#/n/<id>', 'node page'],
   ['#/n/<id>/map', 'the map, centred on that node'],
   ['#/n/<id>/hood', 'its neighbourhood (also #/hood/<id>)'],

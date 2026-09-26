@@ -54,6 +54,12 @@ const ENTITY_OQ_FOCUS = 'cefaa';
 /* A node with denials the adjudication has reached AND denials it has not (C30). */
 const DENIAL_FOCUS = 'cia';
 const PATENT = '10144532';
+/* Phase 6: two topics the plan names (the anchor of the early record, and the
+   richest claimant topic), one research gap, and an absorbed domain node. */
+const TOPIC_A = 'roswell-1947';
+const TOPIC_B = 'grusch-allegations';
+const TOPIC_GAP = 'pre-roswell-claims';
+const DOMAIN_FOCUS = 'd-roswell';
 
 /* ---- C31's rule, restated ------------------------------------------------ */
 /* app/src/attrib.ts decides which Tier 1 claims record that something was SAID.
@@ -153,6 +159,14 @@ const IN_PAGE = {
       hrefs: Array.prototype.map.call(document.querySelectorAll('a[href]'), (a) => a.getAttribute('href')),
       notfound: !!(h2 && /No such route/.test(h2.textContent || '')),
       title: document.title,
+      /* the bar's routes (C40): the row a reader sees, and what sits under More */
+      nav: {
+        primary: Array.prototype.map.call(document.querySelectorAll('.bar .nav > a, .bar .nav > .nav-inert'),
+          (a) => ({ label: (a.textContent || '').trim(), href: a.getAttribute('href') })),
+        more: Array.prototype.map.call(document.querySelectorAll('.bar .nav .nav-more-list a, .bar .nav .nav-more-list .nav-inert'),
+          (a) => ({ label: (a.textContent || '').trim(), href: a.getAttribute('href') })),
+        moreBtn: !!document.querySelector('.bar .nav button.nav-more-btn'),
+      },
       back: b ? {
         tag: b.tagName, type: b.getAttribute('type') || '',
         text: (b.textContent || '').trim(),
@@ -565,6 +579,14 @@ const IN_PAGE = {
     } else if (kind === 'report') {
       out.have = all('.report h1').filter((e) => seen(e) && txt(e)).length;
       out.what = 'the report headed';
+    } else if (kind === 'atlas') {
+      const li = all('.atlas-list a.atlas-li');
+      out.want = Math.max(1, document.querySelectorAll('.atlas-list').length ? li.length : 1);
+      out.have = li.filter((e) => seen(e) && txt(e)).length;
+      out.what = 'topics named in the stacked lists';
+    } else if (kind === 'topic') {
+      out.have = all('.topic .ti .ti-text').filter((e) => seen(e, 150) && txt(e)).length;
+      out.what = 'topic sentences readable';
     }
     return out;
   },
@@ -584,13 +606,123 @@ const IN_PAGE = {
     });
   },
 
-  /* Home's start-here register, in the order it is drawn. */
+  /* Home's start-here tour, in the order it is drawn (phase 6): each step's
+     number, the flagged node it goes through and the topic it opens. */
   starthere() {
-    return Array.prototype.map.call(document.querySelectorAll('.starthere .chips a.chip'), (a) => ({
-      id: (a.getAttribute('href') || '').slice(4),
-      n: (a.querySelector('.chip-n') || {}).textContent || '',
-      label: (a.querySelector('.label') || {}).textContent || '',
+    return Array.prototype.map.call(document.querySelectorAll('.starthere .tour-step'), (s) => ({
+      id: ((s.querySelector('a.tour-node') || { getAttribute: () => '' }).getAttribute('href') || '').slice(4),
+      n: ((s.querySelector('.tour-n') || {}).textContent || '').trim(),
+      topic: ((s.querySelector('a.tour-topic') || { getAttribute: () => '' }).getAttribute('href') || ''),
+      label: ((s.querySelector('a.tour-topic') || {}).textContent || '').trim(),
     }));
+  },
+
+  /* Home's sections (C38): each section as drawn, with the topics it links. */
+  homeSections() {
+    return Array.prototype.map.call(document.querySelectorAll('.home-sections .hsec'), (s) => ({
+      section: s.getAttribute('data-section') || '',
+      topics: Array.prototype.map.call(s.querySelectorAll('a.hsec-topic'), (a) => (a.getAttribute('href') || '')),
+    }));
+  },
+
+  /* A topic page as drawn (C36): every item of every block with each cite it
+     renders, the members by role, the blocks, the research-gap label. */
+  topic() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    const root = document.querySelector('.topic');
+    const items = Array.prototype.map.call(document.querySelectorAll('.topic .ti'), (it) => ({
+      block: it.getAttribute('data-block') || '',
+      text: txt(it.querySelector('.ti-text')),
+      refs: it.querySelectorAll('.ti-text .ref').length,
+      cites: Array.prototype.map.call(it.querySelectorAll('.cite'), (c) => {
+        const m = c.querySelector('.said-mark');
+        return {
+          cid: c.getAttribute('data-cid') || '', kind: c.getAttribute('data-kind') || '',
+          tier: txt(c.querySelector('.cite-tier')),
+          said: m ? m.getAttribute('data-said') : null,
+          words: txt(c.querySelector('.cite-words')),
+          srcs: Array.prototype.map.call(c.querySelectorAll('.cite-src'), (s) => ({
+            href: s.tagName === 'A' ? s.getAttribute('href') : null, text: txt(s),
+          })),
+          nodes: Array.prototype.map.call(c.querySelectorAll('a.cite-node'), (a) => a.getAttribute('href')),
+        };
+      }),
+    }));
+    return {
+      id: root ? root.getAttribute('data-id') : null,
+      h1: txt(document.querySelector('.topic h1')),
+      items,
+      members: Array.prototype.map.call(document.querySelectorAll('.topic .role-group'), (g) => ({
+        role: g.getAttribute('data-role') || '',
+        ids: Array.prototype.map.call(g.querySelectorAll('a.member'), (a) => (a.getAttribute('href') || '').replace(/^#\/n\//, '')),
+      })),
+      blocks: Array.prototype.map.call(document.querySelectorAll('.topic .tblock'), (b) => b.getAttribute('data-block')),
+      gap: document.querySelector('.topic .topic-gap') ? txt(document.querySelector('.topic .topic-gap')) : null,
+      scrollW: document.documentElement.scrollWidth, vw: innerWidth,
+    };
+  },
+
+  /* The Atlas as the browser laid it out (C37): every chip with its label
+     measured against its own box, every cell, and the links drawn. */
+  atlas() {
+    const box = (el) => { const r = el.getBoundingClientRect(); return { x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height }; };
+    const chips = Array.prototype.map.call(document.querySelectorAll('.atlas-grid a.atlas-chip'), (c) => {
+      const lab = c.querySelector('.atlas-label');
+      const cs = lab ? getComputedStyle(lab) : null;
+      const lb = lab ? box(lab) : null;
+      const cb = box(c);
+      return {
+        id: c.getAttribute('data-id'), section: c.getAttribute('data-section'), era: c.getAttribute('data-era'),
+        off: c.getAttribute('data-off') === '1', href: c.getAttribute('href'),
+        ...cb,
+        label: lab ? lab.textContent : null, fs: cs ? cs.fontSize : null, to: cs ? cs.textOverflow : null,
+        lh: cs ? parseFloat(cs.lineHeight) : 0,
+        labIn: !!lb && lb.x >= cb.x - 0.5 && lb.x + lb.w <= cb.x + cb.w + 0.5 && lb.y >= cb.y - 0.5 && lb.y + lb.h <= cb.y + cb.h + 0.5,
+        labH: lb ? lb.h : 0,
+        clipped: !!lab && (lab.scrollWidth > lab.clientWidth + 1 || lab.scrollHeight > lab.clientHeight + 1),
+      };
+    });
+    const cells = Array.prototype.map.call(document.querySelectorAll('.atlas-grid .atlas-cell'), (c) => ({
+      section: c.getAttribute('data-section'), era: c.getAttribute('data-era'), ...box(c),
+    }));
+    return {
+      chips, cells,
+      links: Array.prototype.map.call(document.querySelectorAll('.atlas-links .atlas-link'), (l) => l.getAttribute('data-to')),
+      mode: (document.querySelector('.atlas-grid') || { getAttribute: () => null }).getAttribute('data-mode'),
+      list: Array.prototype.map.call(document.querySelectorAll('.atlas-list a.atlas-li'), (a) => {
+        const r = a.getBoundingClientRect();
+        return { href: a.getAttribute('href'), named: ((a.textContent || '').trim().length > 0) && r.width > 0 && r.left >= -1 && r.right <= innerWidth + 1 };
+      }),
+      shown: document.querySelectorAll('.atlas-grid a.atlas-chip:not([data-off="1"])').length,
+      scrollW: document.documentElement.scrollWidth, vw: innerWidth,
+    };
+  },
+
+  /* The entity page's Appears in row (C39), and where it sits. */
+  appears() {
+    const row = document.querySelector('.node .appears');
+    const about = Array.prototype.find.call(document.querySelectorAll('.node .sec.eyebrow'), (e) => /About/.test(e.textContent || ''));
+    return {
+      present: !!row,
+      chips: Array.prototype.map.call(document.querySelectorAll('.node .appears a.appears-chip'), (a) => ({
+        href: a.getAttribute('href') || '', role: a.getAttribute('data-role') || '',
+        text: (a.textContent || '').trim(),
+      })),
+      top: row ? row.getBoundingClientRect().top : null,
+      aboutTop: about ? about.getBoundingClientRect().top : null,
+    };
+  },
+
+  /* The pointer on an absorbed domain node's page (C41), and where it sits. */
+  absorbed() {
+    const p = document.querySelector('.node .absorbed');
+    const a = p && p.querySelector('a[href^="#/topic/"]');
+    const h1 = document.querySelector('.node h1');
+    return {
+      present: !!p, href: a ? a.getAttribute('href') : null, text: p ? (p.textContent || '').trim() : '',
+      top: p ? p.getBoundingClientRect().top : null, h1Top: h1 ? h1.getBoundingClientRect().top : null,
+      vh: innerHeight,
+    };
   },
 
   /* Thread chain, in the order it is drawn. */
@@ -842,9 +974,9 @@ const POISONS = {
   },
   c11: {
     stops: ['home'],
-    what: 'swaps two numbers in the start-here register',
+    what: 'swaps two numbers in the start-here tour',
     fn: async (page) => page.evaluate(() => {
-      const ns = document.querySelectorAll('.starthere .chips a.chip .chip-n');
+      const ns = document.querySelectorAll('.starthere .tour-step .tour-n');
       if (ns.length < 3) return;
       const t = ns[1].textContent; ns[1].textContent = ns[2].textContent; ns[2].textContent = t;
     }),
@@ -1143,6 +1275,104 @@ const POISONS = {
       }
     }, id),
   },
+  /* ---- phase 6. A check may carry several poisons: `check` names the check
+     each must be seen by, so three different damages to one page each have to
+     be caught on their own rather than one of them carrying the other two. */
+  c36: {
+    stops: ['topic'],
+    what: 'drops one cite from one item of the record block of #/topic/roswell-1947',
+    fn: async (page) => page.evaluate(() => {
+      const c = document.querySelector('.topic .tblock[data-block="record"] .ti .cite');
+      if (c) c.remove();
+    }),
+  },
+  c36b: {
+    check: 'c36',
+    stops: ['topic2'],
+    what: 'redraws one Tier 1 cite on #/topic/grusch-allegations as Tier 3',
+    fn: async (page) => page.evaluate(() => {
+      const t = Array.from(document.querySelectorAll('.topic .cite .cite-tier')).find((x) => (x.textContent || '').trim() === 'T1');
+      if (t) { t.textContent = 'T3'; t.className = 'cite-tier t3'; }
+    }),
+  },
+  c36c: {
+    check: 'c36',
+    stops: ['topic'],
+    what: 'moves one member of #/topic/roswell-1947 into a role group it does not hold',
+    fn: async (page) => page.evaluate(() => {
+      const gs = Array.from(document.querySelectorAll('.topic .role-group'));
+      const from = gs.find((g) => g.querySelectorAll('a.member').length > 1);
+      const to = gs.find((g) => g !== from);
+      if (from && to) (to.querySelector('.role-members') || to).append(from.querySelector('a.member'));
+    }),
+  },
+  c37: {
+    stops: ['atlas1366'],
+    what: 'drops one chip from the Atlas',
+    fn: async (page) => page.evaluate(() => {
+      const c = document.querySelectorAll('.atlas-grid a.atlas-chip')[5];
+      if (c) c.remove();
+    }),
+  },
+  c37b: {
+    check: 'c37',
+    stops: ['atlas1920'],
+    what: 'shrinks one Atlas label to 9px on one line, clipped with an ellipsis',
+    fn: async (page) => page.evaluate(() => {
+      const l = document.querySelectorAll('.atlas-grid a.atlas-chip .atlas-label')[3];
+      if (!l) return;
+      l.style.fontSize = '9px'; l.style.whiteSpace = 'nowrap'; l.style.overflow = 'hidden';
+      l.style.textOverflow = 'ellipsis'; l.style.display = 'block'; l.style.maxWidth = '60px';
+    }),
+  },
+  c37c: {
+    check: 'c37',
+    stops: ['atlas1366'],
+    what: 'grows one Atlas chip by its member count, so size encodes membership',
+    fn: async (page, ctx) => page.evaluate((members) => {
+      const c = Array.from(document.querySelectorAll('.atlas-grid a.atlas-chip'))
+        .find((x) => (members[x.getAttribute('data-id')] || 0) > 10);
+      if (c) c.style.height = (c.getBoundingClientRect().height + members[c.getAttribute('data-id')]) + 'px';
+    }, ctx.topicMembers),
+  },
+  c38: {
+    stops: ['home'],
+    what: "moves one topic link on Home into a section that is not the topic's own",
+    fn: async (page) => page.evaluate(() => {
+      const ss = document.querySelectorAll('.home-sections .hsec');
+      if (ss.length < 2) return;
+      const a = ss[0].querySelector('a.hsec-topic');
+      const host = ss[1].querySelector('.hsec-topics') || ss[1];
+      if (a) host.append(a.closest('li') || a);
+    }),
+  },
+  c39: {
+    stops: ['person'],
+    what: "drops one topic from an entity's Appears in row and moves its primary topic last",
+    fn: async (page) => page.evaluate(() => {
+      const cs = Array.from(document.querySelectorAll('.node .appears a.appears-chip'));
+      if (cs.length < 3) return;
+      cs[cs.length - 1].remove();
+      cs[0].parentElement.append(cs[0]);
+    }),
+  },
+  c40: {
+    stops: ['home'],
+    what: 'puts MAP back in the main row of the bar, out of More',
+    fn: async (page) => page.evaluate(() => {
+      const m = Array.from(document.querySelectorAll('.bar .nav .nav-more-list a')).find((a) => /MAP/.test(a.textContent || ''));
+      const nav = document.querySelector('.bar .nav');
+      if (m && nav) nav.insertBefore(m, nav.firstChild.nextSibling);
+    }),
+  },
+  c41: {
+    stops: ['domain'],
+    what: "repoints an absorbed domain node's topic pointer at a topic that did not absorb it",
+    fn: async (page) => page.evaluate(() => {
+      const a = document.querySelector('.node .absorbed a[href^="#/topic/"]');
+      if (a) a.setAttribute('href', '#/topic/grusch-allegations');
+    }),
+  },
   c20: {
     stops: ['search'],
     what: 'redraws the claim rows as the unranked code drew them: the first twelve matches in file order',
@@ -1204,7 +1434,8 @@ async function main() {
     throw last;
   };
   let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec;
+      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec,
+      topicsFile, vocabFile, domainRec, topicRecs;
   try {
     [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec] =
@@ -1216,6 +1447,11 @@ async function main() {
         jget('data/nodes/' + ENTITY_FOCUS + '.json'), jget('data/nodes/' + ENTITY_OQ_FOCUS + '.json'),
         jget('data/nodes/' + DENIAL_FOCUS + '.json'),
       ]);
+    [topicsFile, vocabFile, domainRec] = await Promise.all([
+      jget('data/topics.json'), jget('data/vocab.json'), jget('data/nodes/' + DOMAIN_FOCUS + '.json'),
+    ]);
+    topicRecs = Object.fromEntries(await Promise.all(topicsFile.topics.map(async (t) =>
+      [t.id, await jget('data/topics/' + t.id + '.json')])));
   } catch (e) {
     console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message +
       (e.cause ? ': ' + (e.cause.code || e.cause.message || e.cause) : '') + ').');
@@ -1246,7 +1482,21 @@ async function main() {
   const unjoined = index.nodes.map((n) => n.id)
     .find((id) => id !== lastStep && !joined(lastStep, id)) || 'no-such-node';
 
-  const ctx = { deg, unjoined };
+  /* Phase 6: an entity's topics, re-derived here from the topic files
+     themselves, not from topics.json's appearsIn: every topic whose members
+     hold the node, the topics it anchors first, then by its role in the order
+     vocab.json lists the roles, then by topic id. */
+  const ROLE_ORDER = (vocabFile.topicRoles || []).map((r) => r.id);
+  const topicsOf = (nid) => Object.values(topicRecs)
+    .flatMap((t) => (t.members || []).filter((m) => m.id === nid).map((m) => ({
+      topic: t.id, role: m.role, anchor: (t.anchors || []).includes(nid) ? 0 : 1,
+    })))
+    .sort((a, b) => a.anchor - b.anchor || ROLE_ORDER.indexOf(a.role) - ROLE_ORDER.indexOf(b.role) ||
+      (a.topic < b.topic ? -1 : a.topic > b.topic ? 1 : 0));
+  const topicIds = new Set(topicsFile.topics.map((t) => t.id));
+  const topicMembers = Object.fromEntries(topicsFile.topics.map((t) => [t.id, (topicRecs[t.id].members || []).length]));
+
+  const ctx = { deg, unjoined, topicMembers };
 
   /* ---- browser ---------------------------------------------------------- */
   const browser = await chromium.launch({ args: ['--no-sandbox', '--disable-dev-shm-usage'] });
@@ -1278,16 +1528,31 @@ async function main() {
   await stop('home', '#/', 1600);
   S.home.starthere = await ev(IN_PAGE.starthere);
   S.home.home = await ev(IN_PAGE.home);
+  S.home.sections = await ev(IN_PAGE.homeSections);
 
   await stop('node', '#/n/' + NODE_FOCUS, 1200);
   S.node.node = await ev(IN_PAGE.node);
   S.node.conns = await ev(IN_PAGE.conns);
   S.node.fields = await ev(IN_PAGE.fields);
+  S.node.appears = await ev(IN_PAGE.appears);
+  S.node.absorbed = await ev(IN_PAGE.absorbed);
 
   await stop('person', '#/n/' + PERSON_FOCUS, 1200);
   S.person.fields = await ev(IN_PAGE.fields);
   S.person.first = await ev(IN_PAGE.firstScreen);
   S.person.said = await ev(IN_PAGE.said, '.claim');
+  S.person.appears = await ev(IN_PAGE.appears);
+
+  /* phase 6: the topic pages, a research gap, an absorbed domain node, the Atlas */
+  await stop('topic', '#/topic/' + TOPIC_A, 1400);
+  S.topic.topic = await ev(IN_PAGE.topic);
+  await stop('topic2', '#/topic/' + TOPIC_B, 1400);
+  S.topic2.topic = await ev(IN_PAGE.topic);
+  await stop('topicgap', '#/topic/' + TOPIC_GAP, 1200);
+  S.topicgap.topic = await ev(IN_PAGE.topic);
+  await stop('domain', '#/n/' + DOMAIN_FOCUS, 1200);
+  S.domain.absorbed = await ev(IN_PAGE.absorbed);
+  await stop('atlas', '#/atlas', 1600);
 
   await stop('entity', '#/n/' + ENTITY_FOCUS, 1200);
   S.entity.fields = await ev(IN_PAGE.fields);
@@ -1360,6 +1625,7 @@ async function main() {
     ['thread', '#/t/' + threads[0].id],
     ['patent', '#/patents/' + String((patentsFile.patents || [])[0].number).replace(/[^0-9]/g, '')],
     ['report', '#/report/n/' + PERSON_FOCUS],
+    ['atlas', '#/atlas'], ['topic', '#/topic/' + TOPIC_A],
   ];
   const settleOf = (hash) => hash.startsWith('#/evidence') ? 3200
     : /^#\/(map|timeline)/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
@@ -1402,6 +1668,115 @@ async function main() {
     await p.close();
   }
 
+  /* ---- C37's Atlas drive -------------------------------------------------- */
+  /* At the two laptop sizes the plan names, on fresh pages: the chips at rest,
+     then one chip focused by the mouse and one by the keyboard, then each
+     filter on and off. Then the phone's stacked lists. */
+  const AT = { sizes: {}, focus: null, filters: null, phone: null };
+  const driveAtlas = !POISON || POISON.startsWith('c37');
+  if (driveAtlas) {
+    for (const [key, w, hgt] of [['atlas1366', 1366, 768], ['atlas1920', 1920, 950]]) {
+      const p = await browser.newPage({ viewport: { width: w, height: hgt } });
+      p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+      await p.goto(APP + '#/atlas', { waitUntil: 'load' });
+      await p.waitForTimeout(1800);
+      await poisonAt(p, key);
+      AT.sizes[key] = await p.evaluate(`(function ${IN_PAGE.atlas})()`);
+      if (key === 'atlas1920') {
+        /* focus: the first chip whose topic names related topics */
+        const withRel = topicsFile.topics.find((t) => (t.related || []).some((r) => topicIds.has(r)));
+        const chip = withRel ? p.locator('.atlas-grid a.atlas-chip[data-id="' + withRel.id + '"]').first() : null;
+        if (chip && await chip.count()) {
+          await chip.hover(); await p.waitForTimeout(300);
+          const hover = await p.evaluate(`(function ${IN_PAGE.atlas})()`);
+          await p.mouse.move(2, 2); await p.waitForTimeout(250);
+          const after = await p.evaluate(`(function ${IN_PAGE.atlas})()`);
+          await chip.focus(); await p.waitForTimeout(300);
+          const keyb = await p.evaluate(`(function ${IN_PAGE.atlas})()`);
+          await p.evaluate(() => { if (document.activeElement) document.activeElement.blur(); });
+          await p.waitForTimeout(200);
+          AT.focus = { id: withRel.id, want: withRel.related.filter((r) => topicIds.has(r)),
+            hover: hover.links, after: after.links, keyb: keyb.links };
+        }
+        /* filters: kind, contested, has open questions */
+        const kind = topicsFile.topics[0].kind;
+        const read = async () => (await p.evaluate(`(function ${IN_PAGE.atlas})()`)).shown;
+        const f = { kind, want: {
+          kind: topicsFile.topics.filter((t) => t.kind === kind).length,
+          contested: topicsFile.topics.filter((t) => (t.counts.contested || 0) > 0).length,
+          questions: topicsFile.topics.filter((t) => (t.counts.questions || 0) > 0).length,
+        }, got: {} };
+        const sel = p.locator('.atlas-filters select.af-kind').first();
+        if (await sel.count()) {
+          await sel.selectOption(kind); await p.waitForTimeout(200); f.got.kind = await read();
+          await sel.selectOption(''); await p.waitForTimeout(200);
+        }
+        for (const [name, css] of [['contested', 'button.af-contested'], ['questions', 'button.af-questions']]) {
+          const b = p.locator('.atlas-filters ' + css).first();
+          if (!(await b.count())) continue;
+          await b.click(); await p.waitForTimeout(200); f.got[name] = await read();
+          await b.click(); await p.waitForTimeout(200);
+        }
+        f.reset = await read();
+        AT.filters = f;
+      }
+      await p.close();
+    }
+    const p = await browser.newPage({ viewport: { width: 375, height: 812 } });
+    p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+    await p.goto(APP + '#/atlas', { waitUntil: 'load' });
+    await p.waitForTimeout(1600);
+    await poisonAt(p, 'atlas375');
+    AT.phone = await p.evaluate(`(function ${IN_PAGE.atlas})()`);
+    await p.close();
+  }
+
+  /* ---- C36's topic pages at phone width ----------------------------------- */
+  const TP = [];
+  if (!POISON || POISON.startsWith('c36')) {
+    const p = await browser.newPage({ viewport: { width: 375, height: 812 } });
+    p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+    let first = true;
+    for (const id of [TOPIC_A, TOPIC_B, TOPIC_GAP]) {
+      if (first) { await p.goto(APP + '#/topic/' + id, { waitUntil: 'load' }); first = false; }
+      else await p.evaluate((x) => { location.hash = x; }, '#/topic/' + id);
+      await p.waitForTimeout(1400);
+      await poisonAt(p, 'topic375');
+      const t = await p.evaluate(`(function ${IN_PAGE.topic})()`);
+      TP.push({ id, scrollW: t.scrollW, vw: t.vw, items: t.items.length, gap: !!t.gap });
+    }
+    await p.close();
+  }
+
+  /* ---- C40's More menu ------------------------------------------------------ */
+  /* The routes that left the main row are one click away under More, and #/map
+     still draws the map when reached that way. */
+  let MORE = null;
+  if (!POISON || POISON === 'c40') {
+    const p = await browser.newPage({ viewport: { width: 1366, height: 768 } });
+    p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+    await p.goto(APP + '#/atlas', { waitUntil: 'load' });
+    await p.waitForTimeout(1400);
+    const btn = p.locator('.bar .nav button.nav-more-btn').first();
+    MORE = { btn: await btn.count() > 0, before: false, open: [], map: 0, hash: '' };
+    if (MORE.btn) {
+      MORE.before = await p.locator('.bar .nav .nav-more-list a').first().isVisible().catch(() => false);
+      await btn.click(); await p.waitForTimeout(200);
+      MORE.open = await p.evaluate(() => Array.from(document.querySelectorAll('.bar .nav .nav-more-list a')).map((a) => {
+        const r = a.getBoundingClientRect();
+        const top = r.width > 0 ? document.elementFromPoint(Math.round(r.left + r.width / 2), Math.round(r.top + r.height / 2)) : null;
+        return { label: (a.textContent || '').trim(), href: a.getAttribute('href'), reachable: r.width > 0 && !!top && (top === a || a.contains(top)) };
+      }));
+      const m = p.locator('.bar .nav .nav-more-list a[href="#/map"]').first();
+      if (await m.count()) {
+        await m.click(); await p.waitForTimeout(2600);
+        MORE.hash = await p.evaluate(() => location.hash);
+        MORE.map = await p.evaluate(() => document.querySelectorAll('a.chip[data-id], .mp-chip').length);
+      }
+    }
+    await p.close();
+  }
+
   /* ---- C9's route sweep ------------------------------------------------- */
   const ROUTES = [
     '#/', '#/n/' + NODE_FOCUS, '#/n/' + NODE_FOCUS + '/map', '#/n/' + NODE_FOCUS + '/hood',
@@ -1411,6 +1786,7 @@ async function main() {
     '#/patents/' + PATENT, '#/patents/' + PATENT + '?sheet=2',
     '#/evidence?tier=1&cls=person&cluster=other&denied=1&open=1',
     '#/report/n/' + NODE_FOCUS, '#/report/t/custody',
+    '#/atlas', '#/topic/' + TOPIC_A, '#/topic/' + TOPIC_GAP, '#/n/' + DOMAIN_FOCUS,
   ];
   const deadRoutes = [];
   const sweepRoutes = !POISON || POISON === 'c9' || POISON === 'c17';
@@ -1710,9 +2086,9 @@ async function main() {
       const out = [];
       await p.goto(APP + '#/', { waitUntil: 'load' });
       out.push(await rest(p, 1600));
-      await p.locator('.starthere .chips a.chip[href="#/n/' + NODE_FOCUS + '"]').first().click();
+      await p.locator('.starthere a.tour-node[href="#/n/' + NODE_FOCUS + '"]').first().click({ timeout: 5000 }).catch(() => {});
       out.push(await rest(p, 1400));
-      await p.locator('a[href="#/n/' + NODE_FOCUS + '/map"]').first().click();
+      await p.locator('a[href="#/n/' + NODE_FOCUS + '/map"]').first().click({ timeout: 5000 }).catch(() => {});
       out.push(await rest(p, 2400));
       return out;
     };
@@ -1927,6 +2303,9 @@ async function main() {
       if (p[0] === 'patents') return p.length === 2 && /^[0-9][0-9,]*$/.test(p[1]);
       if (p[0] === 'evidence') return p.length === 1;
       if (p[0] === 'report') return p.length === 3 && /^[nt]$/.test(p[1]) && ID.test(p[2]);
+      /* phase 6 */
+      if (p[0] === 'atlas') return p.length === 1;
+      if (p[0] === 'topic') return p.length === 2 && ID.test(p[1]);
       return false;
     };
     const seen = new Set(), offScheme = [], deadIds = [];
@@ -1939,12 +2318,13 @@ async function main() {
         const p = h.replace(/^#\//, '').split(/[/?]/);
         if (p[0] === 't' && !threadIds.has(p[1])) deadIds.push(k + ':' + h);
         if (p[0] === 'patents' && !patentNums.has(p[1].replace(/[^0-9]/g, ''))) deadIds.push(k + ':' + h);
+        if (p[0] === 'topic' && !topicIds.has(p[1])) deadIds.push(k + ':' + h);
       }
     }
     check('c9', offScheme.length === 0, 'C9  every rendered in-app href is a route in the 2.1 scheme',
       offScheme.length ? clip(offScheme, 4) : `${seen.size} distinct hrefs over ${Object.keys(S).length} screens`);
-    check('c9', deadIds.length === 0, 'C9  every rendered #/t/ and #/patents/ link names something the board carries',
-      deadIds.length ? `${deadIds.length} dead: ` + clip(deadIds, 5) : 'all resolve to a thread or a patent');
+    check('c9', deadIds.length === 0, 'C9  every rendered #/t/, #/patents/ and #/topic/ link names something the board carries',
+      deadIds.length ? `${deadIds.length} dead: ` + clip(deadIds, 5) : 'all resolve to a thread, a patent or a topic');
   }
 
   /* ---- C10 -------------------------------------------------------------- */
@@ -1981,13 +2361,22 @@ async function main() {
     const home = S.home.starthere || [];
     const wantIds = flags.map((f) => f.id).join('|');
     check('c11', home.map((c) => c.id).join('|') === wantIds,
-      'C11 Home\'s start-here register is highlights.json, in rank order',
-      `${home.length} chips: ` + (home.map((c) => c.id).join('|') === wantIds ? 'order matches'
+      'C11 Home\'s start-here tour goes through highlights.json\'s nodes, in rank order',
+      `${home.length} steps: ` + (home.map((c) => c.id).join('|') === wantIds ? 'order matches'
         : 'drawn ' + clip(home.map((c) => c.id), 4)));
     const numBad = home.filter((c, i) => flags[i] && Number(c.n) !== flags[i].rank)
       .map((c) => c.id + ' numbered ' + c.n);
-    check('c11', numBad.length === 0, 'C11 every Home start-here number is the owner\'s rank',
+    check('c11', numBad.length === 0 && home.length === flags.length, 'C11 every Home start-here number is the owner\'s rank',
       numBad.length ? clip(numBad, 4) : `${home.length} numbers match highlights.json`);
+    /* phase 6: each step opens the flagged node's primary topic, re-derived
+       from the topic files (the first of topicsOf) */
+    const topicBad = home.map((c) => {
+      const p = topicsOf(c.id)[0];
+      const want = p ? '#/topic/' + p.topic : '';
+      return c.topic === want ? null : c.id + ' opens ' + (c.topic || 'nothing') + ', primary topic ' + (want || 'none');
+    }).filter(Boolean);
+    check('c11', topicBad.length === 0 && home.length > 0, "C11 each start-here step opens its node's primary topic",
+      topicBad.length ? clip(topicBad, 3) : `${home.length} steps, each on its node's first topic`);
     const mapHl = S.map.map.chips.filter((c) => c.isHl);
     const mapBad = mapHl.filter((c) => {
       const f = flags.find((x) => x.id === c.id);
@@ -2051,6 +2440,8 @@ async function main() {
     const qNodes = Object.values(foiaFile.byNode || {}).filter((v) => (v || []).length).length;
     const want = [
       [index.nodes.length, people, index.nodes.length - people],
+      /* phase 6: the topics and their sections, counted from the topic files */
+      [Object.keys(topicRecs).length, new Set(Object.values(topicRecs).map((t) => t.section)).size],
       [edges.length],
       [claimRows.length, ...tier],
       [tlEvents.length],
@@ -2373,6 +2764,250 @@ async function main() {
     }
     check('c35', chrome.length === 0 && Object.values(S).some((x) => x && x.bar),
       'C35 the bar carries no raw route and no viewport badge', chrome.length ? clip(chrome, 2) : 'clean on every screen');
+  }
+
+  /* ---- C36 -------------------------------------------------------------- */
+  /* A topic page is its record: every item of every block, each cite it
+     renders exactly once with the tier, words, source, node and mark the
+     record gives that id; members in the role the record gives them; the
+     three blocks there whenever the record fills them; a research gap says so;
+     and nothing runs off the side of a phone. */
+  {
+    for (const [stopId, tid] of [['topic', TOPIC_A], ['topic2', TOPIC_B], ['topicgap', TOPIC_GAP]]) {
+      const rec = topicRecs[tid];
+      const got = S[stopId] && S[stopId].topic;
+      if (!got || got.id !== tid) {
+        check('c36', false, `C36 #/topic/${tid} draws the topic`, got ? 'drew ' + got.id : 'not reached');
+        continue;
+      }
+      const blocks = [['lead', rec.lead ? [rec.lead] : []], ['summary', rec.summary || []],
+        ['record', rec.record || []], ['claimed', rec.claimed || []], ['contested', rec.contested || []]];
+      const bad = [];
+      let nItems = 0, nCites = 0;
+      for (const [b, list] of blocks) {
+        const drawn = got.items.filter((i) => i.block === b);
+        if (drawn.length !== list.length) { bad.push(`${b}: ${drawn.length} items drawn, record ${list.length}`); continue; }
+        list.forEach((it, k) => {
+          const d = drawn[k];
+          nItems++;
+          if (!d.text.startsWith(String(it.text).slice(0, 60))) bad.push(`${b}[${k}] words differ from the record`);
+          const ids = d.cites.map((c) => c.cid);
+          const want = it.cite || [];
+          nCites += ids.length;
+          const missing = want.filter((x) => !ids.includes(x));
+          const extra = ids.filter((x) => !want.includes(x));
+          const twice = ids.filter((x, i) => ids.indexOf(x) !== i);
+          if (missing.length || extra.length || twice.length) {
+            bad.push(`${b}[${k}]` + (missing.length ? ' missing ' + clip(missing, 2) : '') +
+              (extra.length ? ' extra ' + clip(extra, 2) : '') + (twice.length ? ' twice ' + clip(twice, 2) : ''));
+          }
+          if (d.refs !== want.length) bad.push(`${b}[${k}] ${d.refs} numbered references for ${want.length} cites`);
+        });
+      }
+      check('c36', bad.length === 0, `C36 #/topic/${tid}: every item renders each of its cites exactly once`,
+        bad.length ? clip(bad, 3) : `${nItems} items, ${nCites} cites, as the record has them`);
+
+      const cb = [];
+      for (const d of got.items) for (const c of d.cites) {
+        const r = rec.cites[c.cid];
+        if (!r) { cb.push(c.cid + ' is not in the record'); continue; }
+        if (c.tier !== 'T' + r.tier) cb.push(`${c.cid} drawn ${c.tier || 'untiered'}, record T${r.tier}`);
+        if (!c.words.includes(String(r.text || '').slice(0, 50))) cb.push(c.cid + ' words not shown');
+        if (r.kind === 'claim') {
+          const s = r.source || {};
+          const shown = s.url ? c.srcs.some((x) => x.href === s.url)
+            : c.srcs.some((x) => x.text.includes(String(s.text || '').slice(0, 40)));
+          if (!shown) cb.push(c.cid + ' source not shown');
+          const want = saidRule(r.tier, r.text, s.text, s.url);
+          if ((want || null) !== (c.said || null)) cb.push(`${c.cid} mark ${c.said || 'none'}, rule ${want || 'none'}`);
+          if (r.node && !c.nodes.includes('#/n/' + r.node)) cb.push(c.cid + ' no link to ' + r.node);
+        } else {
+          if (c.said) cb.push(c.cid + ' is an edge and carries the mark');
+          for (const s of r.sources || []) {
+            const shown = s.url ? c.srcs.some((x) => x.href === s.url) : c.srcs.some((x) => x.text.includes(String(s.name || '').slice(0, 40)));
+            if (!shown) { cb.push(c.cid + ' source ' + (s.name || s.url) + ' not shown'); break; }
+          }
+          for (const e of r.endpoints || []) if (!c.nodes.includes('#/n/' + e.id)) cb.push(c.cid + ' no link to ' + e.id);
+        }
+      }
+      check('c36', cb.length === 0, `C36 #/topic/${tid}: every cite shows its tier, its words, its source and its node, marked by the rule`,
+        cb.length ? `${cb.length} wrong: ` + clip(cb, 3) : 'all as the record has them');
+
+      const want = new Map();
+      for (const m of rec.members || []) { if (!want.has(m.role)) want.set(m.role, []); want.get(m.role).push(m.id); }
+      const gotM = new Map(got.members.map((g) => [g.role, g.ids.slice().sort()]));
+      const mb = [];
+      for (const [role, ids] of want) {
+        const g = gotM.get(role) || [];
+        if (ids.slice().sort().join('|') !== g.join('|')) mb.push(`${role}: drew ${g.length}, record ${ids.length}`);
+      }
+      for (const role of gotM.keys()) if (!want.has(role)) mb.push(role + ': drawn, not in the record');
+      check('c36', mb.length === 0, `C36 #/topic/${tid}: members by role are the record's`,
+        mb.length ? clip(mb, 3) : `${(rec.members || []).length} members in ${want.size} roles`);
+
+      const needB = ['record', 'claimed', 'contested'].filter((b) => (rec[b] || []).length);
+      const missB = needB.filter((b) => !got.blocks.includes(b));
+      const gapWant = rec.researchGap ? String(rec.researchGap) : '';
+      const gapOk = gapWant ? !!got.gap && /research gap/i.test(got.gap) && got.gap.includes(gapWant.slice(0, 60)) : got.gap === null;
+      check('c36', missB.length === 0 && gapOk, `C36 #/topic/${tid}: its blocks are there, and a research gap says so`,
+        (missB.length ? 'missing ' + missB.join(', ') + ' · ' : '') + 'blocks ' + (got.blocks.join(', ') || 'none') +
+        ' · gap ' + (gapWant ? (gapOk ? 'labelled' : 'NOT labelled') : (gapOk ? 'none, rightly' : 'labelled on a topic that is not one')));
+    }
+    if (TP.length) {
+      const wide = TP.filter((t) => t.scrollW > t.vw + 1 || (!t.items && !t.gap)).map((t) => t.id + ' ' + t.scrollW + 'px, ' + t.items + ' items');
+      check('c36', wide.length === 0 && TP.length === 3, 'C36 every topic page reads at 375px with no sideways scroll',
+        wide.length ? clip(wide, 3) : TP.map((t) => t.id).join(', '));
+    }
+  }
+
+  /* ---- C37 -------------------------------------------------------------- */
+  /* The Atlas: one chip per topic in its own section and era, every label
+     whole at 11px at both laptop sizes with no cell mode, no two chips on each
+     other, every chip one height; no lines at rest and the related links on
+     focus; the filters count what they say; a phone lists every topic. */
+  if (!driveAtlas) skip('C37 the Atlas', 'poison ' + POISON + ' does not drive it');
+  else {
+    const want = topicsFile.topics;
+    const byId = new Map(want.map((t) => [t.id, t]));
+    for (const key of ['atlas1366', 'atlas1920']) {
+      const a = AT.sizes[key];
+      if (!a) { check('c37', false, 'C37 ' + key + ' reached', 'no'); continue; }
+      const ids = a.chips.map((c) => c.id);
+      const miss = want.filter((t) => !ids.includes(t.id)).map((t) => t.id);
+      const twice = ids.filter((x, i) => ids.indexOf(x) !== i);
+      const stray = ids.filter((x) => !byId.has(x));
+      const wrongCell = a.chips.filter((c) => {
+        const t = byId.get(c.id);
+        if (!t) return false;
+        const cell = a.cells.find((x) => x.section === t.section && x.era === String(t.focusEra));
+        if (!cell || c.section !== t.section || c.era !== String(t.focusEra)) return true;
+        const cx = c.x + Math.min(c.w, 20) / 2, cy = c.y + c.h / 2;
+        return cx < cell.x - 1 || cx > cell.x + cell.w + 1 || cy < cell.y - 1 || cy > cell.y + cell.h + 1;
+      }).map((c) => c.id);
+      check('c37', !miss.length && !twice.length && !stray.length && !wrongCell.length && a.chips.length === want.length,
+        `C37 ${key}: every topic has exactly one chip, in its own section and era`,
+        miss.length || twice.length || stray.length || wrongCell.length
+          ? `missing ${clip(miss, 2)} · twice ${clip(twice, 2)} · stray ${clip(stray, 2)} · wrong cell ${clip(wrongCell, 2)}`
+          : `${a.chips.length} chips for ${want.length} topics`);
+      const lab = a.chips.filter((c) => {
+        const t = byId.get(c.id);
+        return !t || c.label !== t.title || c.fs !== '11px' || c.clipped || !c.labIn || (c.to && c.to !== 'clip');
+      }).map((c) => c.id + (c.fs !== '11px' ? ' at ' + c.fs : '') + (c.clipped ? ' clipped' : '') + (!c.labIn ? ' outside its chip' : ''));
+      check('c37', lab.length === 0 && !a.mode, `C37 ${key}: every label is the whole title at 11px, drawn in full, no cell mode`,
+        lab.length ? `${lab.length} bad: ` + clip(lab, 3) : `${a.chips.length} labels whole` + (a.mode ? ' · mode ' + a.mode : ''));
+      const over = pairsOverlapping(a.chips, 4);
+      const hs = [...new Set(a.chips.map((c) => Math.round(c.h)))];
+      check('c37', over.length === 0 && hs.length === 1, `C37 ${key}: no two chips overlap, and every chip is one height`,
+        (over.length ? 'overlapping ' + clip(over, 3) + ' · ' : '') + 'heights ' + hs.join(', ') + 'px');
+      check('c37', a.links.length === 0, `C37 ${key}: no lines at rest`, a.links.length + ' drawn');
+    }
+    const f = AT.focus;
+    if (f) {
+      const same = (x) => x.slice().sort().join('|') === f.want.slice().sort().join('|');
+      check('c37', same(f.hover) && f.after.length === 0 && same(f.keyb),
+        'C37 focusing a chip, by mouse or keyboard, draws exactly its related-topic links, and leaving it clears them',
+        `${f.id}: related ${f.want.length} · hover drew ${f.hover.length} · after ${f.after.length} · keyboard drew ${f.keyb.length}`);
+    } else check('c37', false, 'C37 focusing a chip draws its related-topic links', 'no topic with related topics was driven');
+    const fl = AT.filters;
+    if (fl) {
+      const bad = ['kind', 'contested', 'questions'].filter((k) => fl.got[k] !== fl.want[k]);
+      check('c37', bad.length === 0 && fl.reset === want.length,
+        'C37 the three filters (kind, contested, open questions) show exactly the topics they name',
+        ['kind', 'contested', 'questions'].map((k) => `${k} ${fl.got[k]}/${fl.want[k]}`).join(' · ') + ` · reset ${fl.reset}`);
+    }
+    const ph = AT.phone;
+    if (ph) {
+      const named = ph.list.filter((x) => x.named).map((x) => x.href.replace('#/topic/', ''));
+      const miss = want.filter((t) => !named.includes(t.id)).map((t) => t.id);
+      check('c37', miss.length === 0 && ph.list.length === want.length && ph.scrollW <= ph.vw + 1,
+        'C37 at 375px the Atlas is stacked lists that name every topic, with no sideways scroll',
+        `${named.length} of ${want.length} named` + (miss.length ? ' · missing ' + clip(miss, 3) : '') + ` · page ${ph.scrollW}px`);
+    }
+  }
+
+  /* ---- C38 -------------------------------------------------------------- */
+  /* Home lists the ten sections in their order, each with its own topics as
+     links, every topic exactly once. */
+  {
+    const got = S.home.sections || [];
+    const secs = topicsFile.sections.map((s) => s.id);
+    const orderOk = got.map((g) => g.section).join('|') === secs.join('|');
+    const bad = [];
+    const all = [];
+    for (const g of got) {
+      const want = topicsFile.topics.filter((t) => t.section === g.section).map((t) => '#/topic/' + t.id).sort();
+      if (g.topics.slice().sort().join('|') !== want.join('|')) bad.push(`${g.section}: ${g.topics.length} drawn, ${want.length} topics`);
+      all.push(...g.topics);
+    }
+    const twice = all.filter((x, i) => all.indexOf(x) !== i);
+    check('c38', orderOk && bad.length === 0 && twice.length === 0 && all.length === topicsFile.topics.length,
+      "C38 Home lists the ten sections in order, each with exactly its own topics",
+      (orderOk ? '' : 'sections drawn ' + clip(got.map((g) => g.section), 3) + ' · ') +
+      (bad.length ? clip(bad, 3) : `${got.length} sections, ${all.length} topic links`) + (twice.length ? ' · twice ' + clip(twice, 2) : ''));
+  }
+
+  /* ---- C39 -------------------------------------------------------------- */
+  /* An entity's Appears in row is its topic memberships, primary first, and
+     it sits above About. */
+  {
+    for (const [stopId, nid] of [['node', NODE_FOCUS], ['person', PERSON_FOCUS]]) {
+      const a = S[stopId] && S[stopId].appears;
+      const want = topicsOf(nid);
+      if (!a) { check('c39', false, 'C39 #/n/' + nid + ' Appears in', 'not reached'); continue; }
+      const gotIds = a.chips.map((c) => c.href.replace('#/topic/', ''));
+      const wantIds = want.map((w) => w.topic);
+      const roleBad = a.chips.filter((c, i) => want[i] && c.role !== want[i].role).length;
+      const above = a.top != null && a.aboutTop != null && a.top < a.aboutTop;
+      check('c39', a.present && gotIds.join('|') === wantIds.join('|') && roleBad === 0 && above,
+        `C39 #/n/${nid}: Appears in is its ${wantIds.length} topics, primary first, above About`,
+        `drew ${gotIds.length} [${clip(gotIds, 3)}] · want [${clip(wantIds, 3)}]` +
+        (roleBad ? ` · ${roleBad} roles wrong` : '') + (above ? '' : ' · NOT above About'));
+    }
+  }
+
+  /* ---- C40 -------------------------------------------------------------- */
+  /* The bar: HOME, ATLAS, TIMELINE, EVIDENCE, PATENTS in the row, MAP,
+     THREADS, NEIGHBOURHOOD and REPORT under More, on every screen walked; More
+     opens to them and #/map still draws the map. */
+  {
+    const ROW = ['HOME', 'ATLAS', 'TIMELINE', 'EVIDENCE', 'PATENTS'];
+    const MOREL = ['MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT'];
+    const bad = [];
+    let n = 0;
+    for (const [k, s] of Object.entries(S)) {
+      if (!s || !s.nav) continue;
+      n++;
+      const row = s.nav.primary.map((x) => x.label);
+      const more = s.nav.more.map((x) => x.label);
+      if (row.join('|') !== ROW.join('|') || more.join('|') !== MOREL.join('|') || !s.nav.moreBtn) {
+        bad.push(`${k}: row ${row.join(' ')} · more ${more.join(' ')}`);
+      }
+      const atlas = s.nav.primary.find((x) => x.label === 'ATLAS');
+      if (!atlas || atlas.href !== '#/atlas') bad.push(k + ': ATLAS is not #/atlas');
+    }
+    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and MAP THREADS NEIGHBOURHOOD REPORT under More',
+      bad.length ? clip(bad, 2) : `${n} screens`);
+    if (MORE) {
+      const unreach = MORE.open.filter((x) => x.href && !x.reachable).map((x) => x.label);
+      check('c40', MORE.btn && !MORE.before && MORE.open.length >= 3 && unreach.length === 0 && MORE.hash === '#/map' && MORE.map > 0,
+        'C40 More opens to its routes, and #/map reached from it still draws the map',
+        `button ${MORE.btn} · shown before opening ${MORE.before} · ${MORE.open.length} items` +
+        (unreach.length ? ' · unreachable ' + unreach.join(', ') : '') + ` · landed ${MORE.hash || 'nowhere'} with ${MORE.map} chips`);
+    } else skip('C40 More opens to its routes', 'poison ' + POISON + ' does not drive it');
+  }
+
+  /* ---- C41 -------------------------------------------------------------- */
+  /* An absorbed domain node's page opens with a pointer to the topic that
+     absorbed it, above its title; a node that is not absorbed carries none. */
+  {
+    const d = S.domain && S.domain.absorbed;
+    const want = domainRec.absorbedBy ? '#/topic/' + domainRec.absorbedBy : null;
+    check('c41', !!d && !!want && d.present && d.href === want && d.top != null && d.h1Top != null && d.top < d.h1Top && d.top < d.vh,
+      `C41 #/n/${DOMAIN_FOCUS} opens with a pointer to the topic that absorbed it`,
+      d ? `pointer ${d.present ? d.href : 'absent'} · record ${want} · ${d.top != null && d.h1Top != null && d.top < d.h1Top ? 'above' : 'NOT above'} the title` : 'not reached');
+    const n = S.node && S.node.absorbed;
+    check('c41', !!n && !n.present && !focusRec.absorbedBy, `C41 #/n/${NODE_FOCUS}, which no topic absorbed, carries no pointer`,
+      n ? (n.present ? 'carries ' + n.href : 'none') : 'not reached');
   }
 
   /* ---- C24 -------------------------------------------------------------- */
@@ -2784,12 +3419,14 @@ async function main() {
   /* ---- verdict ---------------------------------------------------------- */
   console.log('');
   if (POISON) {
-    const seen = (failsByCheck.get(POISON) || 0) > 0;
-    const line = (seen ? 'ok    ' : 'FAIL  ') + `POISON=${POISON} the ${POISON.toUpperCase()} check sees the poisoned page`
+    /* a poison is seen by the check it names (`check`), or by its own id */
+    const CID = POISONS[POISON].check || POISON;
+    const seen = (failsByCheck.get(CID) || 0) > 0;
+    const line = (seen ? 'ok    ' : 'FAIL  ') + `POISON=${POISON} the ${CID.toUpperCase()} check sees the poisoned page`
       + ' :: ' + POISONS[POISON].what + ' → '
-      + (seen ? `${failsByCheck.get(POISON)} of its assertions failed` : 'every assertion still passed, so the check is blind');
+      + (seen ? `${failsByCheck.get(CID)} of its assertions failed` : 'every assertion still passed, so the check is blind');
     console.log('  ' + line);
-    const others = [...failsByCheck.keys()].filter((k) => k !== POISON);
+    const others = [...failsByCheck.keys()].filter((k) => k !== CID);
     if (others.length) console.log('  note  other checks also failing on this build: ' + others.join(', '));
     console.log('\n' + (seen ? `POISON ${POISON} SEEN` : `POISON ${POISON} NOT SEEN`));
     process.exit(seen ? 0 : 1);

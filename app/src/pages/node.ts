@@ -12,8 +12,8 @@
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import {
-  loadIndex, loadNode, clsColour, dateRange, claimSource, asList,
-  type NodeRecord, type IndexNode,
+  loadIndex, loadNode, loadTopics, clsColour, dateRange, claimSource, asList,
+  type NodeRecord, type IndexNode, type TopicsFile,
 } from '../data';
 import { notFound } from './notfound';
 import { groupConnections, renderConnGroups } from './connections';
@@ -40,6 +40,8 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     return;
   }
   setTitle(rec.label);
+  const tf: TopicsFile | null = await loadTopics().catch(() => null);
+  const topicTitle = new Map((tf ? tf.topics : []).map((t) => [t.id, t.title]));
 
   const wrap = h('div', { class: 'node' });
   const main = h('div', { class: 'node-main' });
@@ -47,6 +49,18 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   const third = h('div', { class: 'node-third' });
   wrap.append(main, side, third);
   view.append(wrap);
+
+  /* ---- an absorbed domain node points at its topic, before anything else --
+     (phase 6: the redirect the plan intends, done as a visible pointer so a
+     shared old link still shows the node) */
+  const absorbedBy = (rec as NodeRecord & { absorbedBy?: string }).absorbedBy;
+  if (absorbedBy) {
+    main.append(h('div', { class: 'absorbed' },
+      h('span', { class: 'amber eyebrow' }, 'Now a topic'),
+      h('span', null, 'The board has folded this entry into a topic, where its claims, its links and the case ' +
+        'for and against are gathered: '),
+      h('a', { href: '#/topic/' + absorbedBy }, (topicTitle.get(absorbedBy) || absorbedBy) + ' ›')));
+  }
 
   /* ---- header ----------------------------------------------------------- */
   const crumbL = h('div', { class: 'crumb-l' },
@@ -88,6 +102,35 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
       [meta ? meta.deg + ' distinct neighbours on the board' : '',
         rec.members ? rec.members.length + ' members' : ''].filter(Boolean).join(' · ')),
   ));
+
+  /* ---- appears in: the topics this node belongs to, primary first ---------- */
+  const inTopics = (tf && tf.appearsIn[rec.id]) || [];
+  if (inTopics.length) {
+    /* a phone shows three before the control, so the case against stays near the top */
+    const SHOW = window.innerWidth <= 760 ? 3 : 6;
+    const row = h('div', { class: 'appears' },
+      h('span', { class: 'eyebrow' }, 'Appears in ' + inTopics.length + (inTopics.length === 1 ? ' topic' : ' topics')));
+    const chips = h('div', { class: 'appears-chips' });
+    inTopics.forEach(([tid, role, anchor], i) => {
+      chips.append(h('a', {
+        class: 'appears-chip' + (i >= SHOW ? ' extra' : '') + (anchor ? ' anchor' : ''),
+        href: '#/topic/' + tid, 'data-role': role,
+        title: anchor ? 'a principal subject of this topic' : 'a member of this topic',
+      }, h('span', { class: 'label' }, topicTitle.get(tid) || tid), h('span', { class: 'faint' }, ' · ' + role)));
+    });
+    if (inTopics.length > SHOW) {
+      const more = h('button', { type: 'button', class: 'appears-more', 'aria-expanded': 'false' },
+        'show all ' + inTopics.length);
+      more.addEventListener('click', () => {
+        const open = row.classList.toggle('open');
+        more.setAttribute('aria-expanded', open ? 'true' : 'false');
+        more.textContent = open ? 'show fewer' : 'show all ' + inTopics.length;
+      });
+      chips.append(more);
+    }
+    row.append(chips);
+    main.append(row);
+  }
 
   /* ---- about: what it is, and the board's own analysis, folded ----------- */
   /* tierRationale is machine-generated and explains the tier letter this page no

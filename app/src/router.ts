@@ -13,6 +13,8 @@
  *   #/patents/<number>          ?sheet=<k>
  *   #/evidence                  ?tier=&cls=&cluster=&domain=&denied=1&open=1
  *   #/report/n/<id>             #/report/t/<id>
+ *   #/atlas                     the Atlas of topics (redesign phase 6)
+ *   #/topic/<id>                a topic (redesign phase 6)
  *
  * Anything else is not-found, and the not-found page names the route it was given.
  * Every route is shareable; back always works because every state is a hash.
@@ -33,6 +35,8 @@ export type Route =
   | { kind: 'evidence'; q: URLSearchParams }
   | { kind: 'report-node'; id: string }
   | { kind: 'report-thread'; id: string }
+  | { kind: 'atlas' }
+  | { kind: 'topic'; id: string }
   | { kind: 'notfound'; raw: string };
 
 /* Board ids are lower-case words joined by hyphens, sometimes with digits or a
@@ -90,6 +94,16 @@ export function parseRoute(hash: string): Route {
   if (p[0] === 'evidence') {
     if (p.length !== 1) return bad();
     return { kind: 'evidence', q };
+  }
+
+  if (p[0] === 'atlas') {
+    if (p.length !== 1) return bad();
+    return { kind: 'atlas' };
+  }
+
+  if (p[0] === 'topic') {
+    if (p.length !== 2 || !ID.test(p[1])) return bad();
+    return { kind: 'topic', id: p[1] };
   }
 
   if (p[0] === 'report') {

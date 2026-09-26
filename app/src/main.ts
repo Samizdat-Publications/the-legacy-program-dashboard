@@ -66,6 +66,8 @@ async function dispatch(r: Route): Promise<void> {
     case 'evidence': return (await import('./pages/evidence')).renderEvidence(view, r.q);
     case 'report-node': return void renderNodeReport(view, r.id);
     case 'report-thread': return renderThreadReport(view, r.id);
+    case 'atlas': return (await import('./pages/atlas')).renderAtlas(view);
+    case 'topic': return (await import('./pages/topic')).renderTopic(view, r.id);
     case 'notfound': return notFound(view, r.raw);
   }
 }

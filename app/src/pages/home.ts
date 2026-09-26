@@ -1,27 +1,27 @@
-/* Home: Design response section 1.2.
+/* Home: rebuilt around topics in redesign phase 6 (redesign section 5, "Home").
  *
- * Search first, the paragraph, the six entry paths as cards, the fourteen
- * start-here chips in the owner's reading order, the counts table, the analyst.
+ * Search first; what the board is and how to read a tier, the "said on the
+ * record" mark included; Start here, the owner's fourteen flags as a tour of
+ * their topics in the signed-off order; the ten sections with their topics;
+ * the counts. Big questions arrive in phase 10.
  *
- * Every figure on this page is read from index.json. None is typed in here.
+ * Every figure on this page is read from index.json or topics.json. None is
+ * typed in here. app/checks/run.mjs C11, C27 and C38 hold it to the data.
  */
 import { h, clear } from '../dom';
 import { searchBox } from '../search';
 import { setTitle } from '../router';
 import {
-  loadIndex, loadHighlights, loadMap, clsLetter,
-  type BoardIndex, type Highlight, type EntryPath,
+  loadIndex, loadHighlights, loadTopics, spanText,
+  type BoardIndex, type Highlight, type TopicsFile,
 } from '../data';
+import { SAID_LABEL, SAID_TITLE } from '../attrib';
 
 const n = (x: number) => x.toLocaleString('en-GB');
 
 export async function renderHome(view: HTMLElement): Promise<void> {
   setTitle();
   clear(view);
-  /* Two columns for the top of the page, then FULL WIDTH for the cards and the
-     start-here register. The rail used to carry the counts panel and the
-     analyst below it; the analyst moved to the dock on 11 September and left a
-     420px hole beside the entry paths, which is what `wide` is for. */
   const wrap = h('div', { class: 'home' });
   const main = h('div', { class: 'home-main' });
   const side = h('div', { class: 'home-side' });
@@ -29,10 +29,10 @@ export async function renderHome(view: HTMLElement): Promise<void> {
   wrap.append(main, side);
   view.append(wrap, wide);
 
-  const [idx, hl, map] = await Promise.all([
+  const [idx, hl, tf] = await Promise.all([
     loadIndex(),
     loadHighlights().catch(() => ({ flags: [] as Highlight[] })),
-    loadMap().catch(() => ({ entryPaths: [] as EntryPath[] })),
+    loadTopics().catch(() => null),
   ]);
 
   const claimTotal = Object.values(idx.counts.claims).reduce((a, b) => a + b, 0);
@@ -64,66 +64,93 @@ export async function renderHome(view: HTMLElement): Promise<void> {
     'said. No source, URL, document number or quotation appears here that was not opened.',
   ));
 
-  /* ---- the six entry paths --------------------------------------------- */
-  if (map.entryPaths.length) {
-    const paths = h('div', { class: 'paths' });
-    /* An entry path is the L0 model's grouping (custody, denial, foreign,
-       mechanism, money, witness); a thread is an authored chain in
-       research/threads.json. Three of the six have a thread of the same subject
-       and link to it; the other three open the map, because a link to a thread
-       that does not exist landed four of six cards on the not-found page
-       (check C9, 3 September 2026). */
-    const THREAD_FOR: Record<string, string> = { custody: 'custody', money: 'money', denial: 'denials' };
-    for (const p of map.entryPaths) {
-      const t = THREAD_FOR[p.id];
-      paths.append(h('a', { class: 'path', href: t ? '#/t/' + t : '#/map' },
-        h('div', { class: 'path-head' },
-          h('span', { class: 'path-title' }, p.label),
-          h('span', { class: 'path-go' }, t ? 'THREAD ›' : 'MAP ›'),
-        ),
-        h('div', { class: 'path-blurb' }, p.blurb),
-        h('div', { class: 'path-counts' }, n(p.total) + ' nodes · ' + n(p.onMap) + ' on the map'),
-      ));
-    }
-    wide.append(paths);
-  }
+  /* ---- how to read a tier, and the mark ---------------------------------- */
+  main.append(h('div', { class: 'home-tiers' },
+    h('div', { class: 'eyebrow' }, 'How to read a claim'),
+    h('div', { class: 'ht-row' }, h('span', { class: 'ht-k t1' }, 'T1'),
+      h('span', null, 'a primary record says so: a document, a statute, a filing, a transcript.')),
+    h('div', { class: 'ht-row' }, h('span', { class: 'ht-k t2' }, 'T2'),
+      h('span', null, 'a named person on the record says so: testimony, an allegation, an official statement.')),
+    h('div', { class: 'ht-row' }, h('span', { class: 'ht-k t3' }, 'T3'),
+      h('span', null, 'a stated inference: what the board reasons from the record, flagged as such.')),
+    h('div', { class: 'ht-row' }, h('span', { class: 'said-mark' }, SAID_LABEL.said),
+      h('span', null, SAID_TITLE.said)),
+    h('div', { class: 'ht-row' }, h('span', { class: 'said-mark' }, SAID_LABEL.office),
+      h('span', null, SAID_TITLE.office)),
+  ));
 
-  /* ---- the start-here register. The flags carry the id, the owner's rank and
-     the reason; the name and the class come from the index, so the chip can
-     never disagree with the node page. --------------------------------- */
+  /* ---- start here: the flags as a tour of their topics ------------------- */
   if (hl.flags.length) {
     const byId = new Map(idx.nodes.map((x) => [x.id, x]));
-    const sh = h('div', { class: 'starthere' });
-    sh.append(h('div', null,
+    const titleOf = new Map((tf ? tf.topics : []).map((t) => [t.id, t.title]));
+    const sh = h('section', { class: 'starthere' });
+    sh.append(h('div', { class: 'sh-head' },
       h('span', { class: 'amber eyebrow' }, 'Start here'), ' ',
-      h('span', { class: 'dim' }, hl.flags.length + ' nodes, flagged by the owner · numbered in reading order'),
-    ));
-    const chips = h('div', { class: 'chips' });
+      h('span', { class: 'dim' }, 'a tour in ' + hl.flags.length +
+        ' steps, in the owner\'s reading order: a record the owner flagged, and the topic to read it in')));
+    const ol = h('ol', { class: 'tour' });
     for (const f of hl.flags.slice().sort((a, b) => a.rank - b.rank)) {
       const node = byId.get(f.id);
-      chips.append(h('a', { class: 'chip', href: '#/n/' + f.id, title: f.why },
-        h('span', { class: 'chip-n' }, String(f.rank)),
-        h('span', { class: 'chip-body' },
-          h('span', { class: 'chip-cls' }, clsLetter(node ? node.cls : '')),
-          h('span', { class: 'label' }, node ? node.short || node.label : f.id),
+      const first = tf && (tf.appearsIn[f.id] || [])[0];
+      /* the flagged record is the step's headline and its topic is where the
+         step opens: two flags can share a topic, and a tour that printed the
+         same title twice read as a mistake (blind critic, phase 6 round 1) */
+      ol.append(h('li', { class: 'tour-step' },
+        h('span', { class: 'tour-n' }, String(f.rank)),
+        h('div', { class: 'tour-body' },
+          h('a', { class: 'tour-node', href: '#/n/' + f.id }, node ? node.label : f.id),
+          h('div', { class: 'tour-via' },
+            h('span', { class: 'dim' }, 'read it in the topic '),
+            first
+              ? h('a', { class: 'tour-topic', href: '#/topic/' + first[0] }, titleOf.get(first[0]) || first[0])
+              : h('span', { class: 'tour-topic faint' }, 'in no topic yet')),
+          h('div', { class: 'tour-why dim' }, f.why),
         ),
       ));
     }
-    sh.append(chips);
+    sh.append(ol);
     wide.append(sh);
   }
 
-  /* ---- what is on the board -------------------------------------------- */
-  side.append(countsPanel(idx, claimTotal));
+  /* ---- the sections, each with its topics -------------------------------- */
+  if (tf) wide.append(sections(tf));
 
-  /* The analyst used to be the second panel in this rail. It is now mounted on
-     every route by main.ts, below the page: analyst/panel.ts. */
+  /* ---- what is on the board -------------------------------------------- */
+  side.append(countsPanel(idx, claimTotal, tf));
+  side.append(h('a', { class: 'home-atlas', href: '#/atlas' },
+    h('span', { class: 'eyebrow cyan' }, 'Open the Atlas ›'),
+    h('span', { class: 'dim' }, 'every topic on one page, by section and era')));
 }
 
-function countsPanel(idx: BoardIndex, claimTotal: number): HTMLElement {
+function sections(tf: TopicsFile): HTMLElement {
+  const box = h('section', { class: 'home-sections' },
+    h('div', { class: 'sec-head' }, h('span', { class: 'eyebrow' }, 'The sections'), ' ',
+      h('span', { class: 'dim' }, tf.sections.length + ' sections, ' + tf.topics.length + ' topics')));
+  const grid = h('div', { class: 'hsec-grid' });
+  for (const s of tf.sections) {
+    const ts = tf.topics.filter((t) => t.section === s.id)
+      .sort((a, b) => Number(a.focusEra) - Number(b.focusEra) ||
+        String((a.span && a.span.from) || '').localeCompare(String((b.span && b.span.from) || '')));
+    const ul = h('ul', { class: 'hsec-topics' });
+    for (const t of ts) {
+      ul.append(h('li', null,
+        h('a', { class: 'hsec-topic', href: '#/topic/' + t.id }, t.title), ' ',
+        h('span', { class: 'faint' }, spanText(t.span))));
+    }
+    grid.append(h('div', { class: 'hsec', 'data-section': s.id },
+      h('h3', { class: 'hsec-title' }, s.title),
+      h('p', { class: 'hsec-blurb dim' }, s.blurb),
+      ul));
+  }
+  box.append(grid);
+  return box;
+}
+
+function countsPanel(idx: BoardIndex, claimTotal: number, tf: TopicsFile | null): HTMLElement {
   const c = idx.counts;
   const rows: [string, string][] = [
     [n(c.nodes), 'nodes · ' + n(c.people) + ' people · ' + n(c.entities) + ' entities'],
+    [n(tf ? tf.topics.length : 0), 'topics · ' + n(tf ? tf.sections.length : 0) + ' sections'],
     [n(c.edges), 'sourced edges'],
     [n(claimTotal), 'claims · T1 ' + n(c.claims['1'] ?? 0) + ' · T2 ' + n(c.claims['2'] ?? 0) + ' · T3 ' + n(c.claims['3'] ?? 0)],
     [n(c.timeline), 'timeline events'],
