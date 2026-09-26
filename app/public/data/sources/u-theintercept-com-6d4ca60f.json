@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-36a28d1773",
+"locator": null,
+"node": "the-intercept",
+"nodeLabel": "The Intercept",
+"sourceText": "theintercept.com/about",
+"text": "The Intercept was established in 2014 as an investigative journalism organisation focused on national security, civil liberties, criminal justice, politics and technology, self-described as investigating powerful individuals and institutions to expose corruption and injustice.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-3f06578c09",
+"locator": null,
+"node": "the-intercept",
+"nodeLabel": "The Intercept",
+"sourceText": "theintercept.com/about",
+"text": "It operates as a non-profit funded primarily by reader and listener donations, accepts no advertising, and publishes impact reports and audited financial statements; leadership listed as editor-in-chief Ben Muessig and CEO Annie Chabel.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-theintercept-com-6d4ca60f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Intercept",
+"listedOn": [
+{
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept"
+}
+],
+"node": null,
+"title": "The Intercept - About (official)",
+"topics": [
+{
+"claims": [
+"c-36a28d1773",
+"c-3f06578c09"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "article",
+"urls": [
+"https://theintercept.com/about/"
+]
+}

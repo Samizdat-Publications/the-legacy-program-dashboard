@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "compass-rose-legal-group",
+"label": "Compass Rose Legal Group"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-c24224e675",
+"label": "Firm that filed Grusch's statutory ICIG whistleblower complaint",
+"note": "Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch's public crash-retrieval claims were always outside the scope of that representation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "compass-rose-legal-group",
+"label": "Compass Rose Legal Group"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-d6236a07f3",
+"label": "Senior partner was ODNI's Intelligence Community Inspector General",
+"note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-eee7faae",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/"
+]
+}

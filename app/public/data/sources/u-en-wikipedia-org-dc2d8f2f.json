@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4f49829876",
+"locator": null,
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"sourceText": "Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 2,
+"id": "e-8805529b60",
+"label": "Represents Elizondo in litigation against DoD",
+"note": "The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+"b": {
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+"claimTier": 2,
+"id": "e-4da965e79d",
+"label": "Sheehan served as counsel to Greer's Disclosure Project",
+"note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-dc2d8f2f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+}
+],
+"node": null,
+"title": "Wikipedia - Daniel Sheehan (attorney)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
+]
+}

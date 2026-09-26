@@ -7,20 +7,38 @@
 {
 "id": "c-f5c8abeab4",
 "source": "NORAD via The War Zone, 30 October 2024",
+"sources": [
+{
+"id": "t-c20413507e1f",
+"locator": null,
+"title": "NORAD, via The War Zone, 30 October 2024"
+}
+],
 "text": "NORAD recorded more than 600 drone reports above US military installations since 2022.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f8c2919cd7",
 "source": "The War Zone, 30 October 2024",
+"sources": [],
 "text": "Guillot established Falcon Peak, a counter-drone demonstration with multiple vendors, and advocates a layered approach including directed energy.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-d) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-20e7e3d924",
 "source": "NORAD Newsroom press releases, 2026",
+"sources": [
+{
+"id": "u-norad-mil-a51feca3",
+"locator": null,
+"title": "NORAD Newsroom"
+}
+],
 "text": "NORAD continued issuing intercept press releases through 2026, including multiple temporary flight restriction violation intercepts in the Northeast and over New Jersey.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

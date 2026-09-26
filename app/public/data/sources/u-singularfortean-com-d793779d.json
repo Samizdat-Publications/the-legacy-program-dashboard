@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice"
+},
+"b": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"claimTier": 2,
+"id": "e-78425ef1c5",
+"label": "Public technical voice: material 'not from any known existing military or commercial application'",
+"note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-singularfortean-com-d793779d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "singularfortean.com",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+}
+],
+"node": null,
+"title": "The Singular Fortean Society",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.singularfortean.com/news/2019/7/26/metamaterials-acquired-by-ttsa-reportedly-come-from-an-advanced-aerospace-vehicle-of-unknown-origin"
+]
+}

@@ -1,0 +1,188 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 3,
+"id": "e-c9de0c5f0e",
+"label": "Public dispute between Gerb and Elizondo, August 2026",
+"note": "Multiple third-party channels covered a Gerb-Elizondo dispute in early August 2026. No primary statement from either party was retrieved; recorded as an unresolved schism, which Coulthart also referenced as 'Schism in the UAP community' at 11:22 of the 4 August 2026 episode.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-954e7cf49b",
+"label": "CIA alleged to have terminated the programme",
+"note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+"claimTier": 2,
+"id": "e-a9598b0130",
+"label": "Alleges Lockheed-held material was to be transferred",
+"note": "The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "newsnation-reality-check",
+"label": "Reality Check with Ross Coulthart (NewsNation)"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 2,
+"id": "e-f7c7900a76",
+"label": "Episode centred on the alleged Lockheed-to-DHS transfer",
+"note": "Gerb described Kona Blue to Coulthart as a DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "newsnation-reality-check",
+"label": "Reality Check with Ross Coulthart (NewsNation)"
+},
+"b": {
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+},
+"claimTier": 2,
+"id": "e-fa12bdfb8c",
+"label": "Dedicated segment 'FFRDCs, U-Arcs, and GOCOs' at 17:00",
+"note": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "rob-jones",
+"label": "Rob Jones"
+},
+"b": {
+"cls": "program",
+"id": "newsnation-reality-check",
+"label": "Reality Check with Ross Coulthart (NewsNation)"
+},
+"claimTier": 2,
+"id": "e-58e2bc4ee8",
+"label": "Credited research producer",
+"note": "Named in the on-screen credits of the 4 August 2026 episode.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+"b": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"claimTier": 2,
+"id": "e-5e66467b04",
+"label": "Coulthart platformed Gerb on Reality Check and endorsed his claims on air",
+"note": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+"b": {
+"cls": "program",
+"id": "newsnation-reality-check",
+"label": "Reality Check with Ross Coulthart (NewsNation)"
+},
+"claimTier": 2,
+"id": "e-30cca1515c",
+"label": "Coulthart hosts Reality Check",
+"note": "Coulthart is host and NewsNation's senior special investigations correspondent; Reality Check is the vehicle through which the structural model reached broadcast.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-88000644",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+{
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+{
+"cls": "program",
+"id": "newsnation-reality-check",
+"label": "Reality Check with Ross Coulthart (NewsNation)"
+},
+{
+"cls": "person",
+"id": "rob-jones",
+"label": "Rob Jones"
+},
+{
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+{
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+}
+],
+"node": null,
+"title": "NewsNation Reality Check - 'Inside Kona Blue'",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=F2NfXgv8x1E"
+]
+}

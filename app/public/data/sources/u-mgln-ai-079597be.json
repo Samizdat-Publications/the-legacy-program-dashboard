@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-0722f733ce",
+"locator": null,
+"node": "italo-venturelli",
+"nodeLabel": "Dr Ítalo Venturelli",
+"sourceText": "American Alchemy with Jesse Michels, '\"I Spent 4 Minutes With A Living Alien!\" -Top Neurosurgeon [Exclusive Interview]', 31 January 2026, 3:12:14 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL5466696236.mp3?updated=1769887132",
+"text": "In the same passage Fortunato said the pathologist has recently stated that the bacteria found was not common in Brazil and extremely virulent, and is now applying to the court for authorisation to exhume the soldier's remains for DNA testing, which Fortunato said requires both the court's approval and the family's agreement. No case number, court or filing date is given (3:12:14 to 3:13:06).",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-373f6c26cf",
+"locator": null,
+"node": "italo-venturelli",
+"nodeLabel": "Dr Ítalo Venturelli",
+"sourceText": "American Alchemy with Jesse Michels, '\"I Spent 4 Minutes With A Living Alien!\" -Top Neurosurgeon [Exclusive Interview]', 31 January 2026, 3:09:19 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL5466696236.mp3?updated=1769887132",
+"text": "On American Alchemy with Jesse Michels, 31 January 2026, forensic physician Dr Armando Fortunato said he performed the autopsy on the state military police soldier whose death followed the 1996 Varginha events, that the body arrived with no mention of extraterrestrial contact and was referred by the commanding colonel as a possible professional-error inquiry, and that the only lesion found was a drainage incision in the left armpit. He said tissue and blood samples went to a pathologist whose report gave death as a pulmonary infection causing septicaemia. Fortunato's stated position is that 'the first diagnostic hypothesis is still a secondary effect of surgery', with post-contact contamination a second hypothesis that 'shouldn't be ruled out' (3:09:19 to 3:15:48).",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-079597be",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "italo-venturelli",
+"label": "Dr Ítalo Venturelli"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, '\"I Spent 4 Minutes With A Living Alien!\" -Top Neurosurgeon [Exclusive Interview]', episode audio",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL5466696236.mp3?updated=1769887132"
+]
+}

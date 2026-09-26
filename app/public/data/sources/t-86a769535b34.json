@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-28c623b312",
+"locator": null,
+"node": "j-allen-hynek",
+"nodeLabel": "J. Allen Hynek",
+"sourceText": "Hynek, statements from the late 1960s and 'The UFO Experience: A Scientific Inquiry' (1972)",
+"text": "Hynek stated that Blue Book had become 'a public relations exercise' with 'little or no research undertaken using the scientific method.'",
+"tier": 2
+}
+],
+"date": "1972",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-86a769535b34",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "The UFO Experience: A Scientific Inquiry",
+"topics": [
+{
+"claims": [
+"c-28c623b312"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "book",
+"urls": []
+}

@@ -7,38 +7,74 @@
 {
 "id": "c-ece4f707f7",
 "source": "DoD OIG, DODIG-2023-109",
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
 "text": "DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', was issued 15 August 2023 with the objective of evaluating 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a8c5e356bf",
 "source": "DoD OIG report page and press release",
+"sources": [],
 "text": "The full DODIG-2023-109 report is classified; the OIG released only an unclassified summary, and issued a press release on 25 January 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:dodig-2023-109) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-28dca8c57c",
 "source": "Inference from the classification status of DODIG-2023-109",
+"sources": [],
 "text": "A classified evaluation whose scope cannot be verified publicly cannot discharge the oversight function it appears to discharge; DODIG-2023-109 functions in the public record as an assurance rather than as evidence. Reasoning: the findings, the components reviewed and the SAP access obtained are all withheld.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-22e0862b11",
 "source": "https://www.dodig.mil/About/Leadership/",
+"sources": [
+{
+"id": "u-dodig-mil-96126c0c",
+"locator": null,
+"title": "DoW OIG leadership"
+}
+],
 "text": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2ba9feba90",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-dowig-2026-081",
+"locator": null,
+"title": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
+}
+],
 "text": "The OIG issued DOWIG-2026-081 on 12 May 2026 recording an eighth consecutive disclaimer of opinion and 26 material weaknesses for FY2025.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-bf0f285054",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-dodig-2016-113",
+"locator": null,
+"title": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
+}
+],
 "text": "The OIG issued DODIG-2016-113 on 26 July 2016 finding $2.8 trillion in unsupported third quarter and $6.5 trillion in unsupported yearend journal voucher adjustments to Army General Fund data for FY2015.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

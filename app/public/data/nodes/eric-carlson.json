@@ -10,20 +10,48 @@
 {
 "id": "c-295db42acf",
 "source": "The UFO Chronicles, republishing Robert Hastings, June 2011, https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html , opened 2026-09-19; and Tim Hebert, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theufochronicles-com-f1e3d3cc",
+"locator": null,
+"title": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+},
+{
+"id": "u-timhebert2-blogspot-com-3fff5289",
+"locator": null,
+"title": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+}
+],
 "text": "Eric Carlson states that he received no UFO-related radio or Sensitive Information Network call about any of his launch facilities on 16 March 1967, that he was seated about two feet from Walter Figel when the call the UFO account depends on is said to have been received, and that he does not recall a subsequent debriefing.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-fad7c7fff5",
 "source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19, against 341st SMW history Jan-Mar 1967 p 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-metabunk-org-a8bafc20",
+"locator": null,
+"title": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"id": "n-doc-341-smw-history-1967",
+"locator": null,
+"title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
+}
+],
 "text": "Eric Carlson is reported as confirming that three or four Echo Flight missiles went off alert, against Robert Salas's claim of all ten. On this specific point the released 341st SMW unit history supports Salas and not Carlson: it states that all launch facilities in E Flight lost strategic alert nearly simultaneously.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-889cf9e741",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "SECTION 2a PROVENANCE. His account reaches the public through his son James Carlson, who publishes a sustained argument that the Malmstrom UFO story is a hoax, and through researchers on the other side quoting him in order to answer him. No dated statement written or published by Eric Carlson himself was identified by the pass of 19 September 2026.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

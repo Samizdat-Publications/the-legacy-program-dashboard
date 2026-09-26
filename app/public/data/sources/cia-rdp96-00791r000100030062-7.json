@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-720c022de0",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7 ; ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+"text": "The 1995 declassification review was the CIA's own, not the veterans'. An Office of Research and Development memorandum to CIA Public Affairs of 12 June 1995 answers 'Who is conducting the review?' with: 'The CIA's Office of Research and Development with the aid of a blue ribbon panel of experts in the behavioral sciences at the American Institutes for Research.' A second ORD paper of 20 June 1995 records the choice as deliberate: 'Our strategy was to ask the US Army and the National Research Council to form a blue ribbon panel similar to the group that completed a study for the Army in the late 1980's. We also proposed to declassify past CIA sponsorship and to further declassify other program material.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00791r000100030062-7",
+"identifiers": [
+"CIA-RDP96-00791R000100030062-7"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7",
+"topics": [
+{
+"claims": [
+"c-720c022de0"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7"
+]
+}

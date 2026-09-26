@@ -1,0 +1,152 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-4e0bb8614c",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"text": "'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive and the contract signed on 22 September 2008.' (DIA Talking Paper U-326-09, 02 January 2009)",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-75969c7d44",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"text": "DIA Talking Paper U-326-09: 'BAASS submitted the 12 technical area program management plans (PMPs) on 21 November 2008... reviewed the PMPs and rated them as very good to excellent... BAASS will deliver to DIA approximately two detailed reports per technical area. The goal is for [DIA] to have all reports by the end of July 2009.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f78cf6d206",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"text": "Same paper: 'The Defense Security Service conducted a site inspection on the BAASS facility on 17 December 2008. The inspection was completed satisfactorily and the facility clearance process is expected to be completed shortly.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7161d78b6d",
+"locator": null,
+"node": "reid-dia-meetings-2008-2009",
+"nodeLabel": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"text": "05 January 2009: Talking Paper U-326-09 (dated 02 January 2009) prepared for 'Senator Reid Visit to [DIA], 05 January 2009'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-9bf087cdc0",
+"locator": null,
+"node": "reid-dia-meetings-2008-2009",
+"nodeLabel": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"text": "13 November 2008: DIA Talking Paper U-326-09 references 'the Director's meeting with Senator Reid on 13 November 2008'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-a11dbf5c90",
+"label": "HHM402-08-C-0072, sole bid, signed 22 Sep 2008",
+"note": "",
+"type": "funding"
+},
+{
+"a": {
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-11d10924b7",
+"label": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
+"note": "'On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dia-mil-8f042feb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+{
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+}
+],
+"node": null,
+"title": "DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-4e0bb8614c",
+"c-75969c7d44",
+"c-f78cf6d206"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-4e0bb8614c",
+"c-f78cf6d206"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-4e0bb8614c"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/"
+]
+}

@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3803217d1d",
+"locator": null,
+"node": "john-lear",
+"nodeLabel": "John Olsen Lear",
+"sourceText": "The Museum of Flight Archives, authority record for John Lear, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
+"text": "The Museum of Flight Archives authority record states: 'John Olsen Lear was born December 3, 1942' and 'John Lear died on March 29, 2022.' His materials sit inside the William P. and Moya Olsen Lear Family Collection, spanning 1938 to 2001. The archive's own summary line for him is 'UFO conspiracy theorist, pilot, and a one-time candidate for Nevada State Senate.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-68a48b7d95",
+"locator": null,
+"node": "john-lear",
+"nodeLabel": "John Olsen Lear",
+"sourceText": "The Museum of Flight Archives collection description, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
+"text": "In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international aviation records. The FAI record files were not opened and the count of records and the exact crew roles are not asserted here.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-archives-museumofflight--5eb0ee18",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "archives.museumofflight.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+}
+],
+"node": null,
+"title": "The Museum of Flight Archives, authority record for John Lear, within the William P. and Moya Olsen Lear Family Collection",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://archives.museumofflight.org/agents/people/4962"
+]
+}

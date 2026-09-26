@@ -19,8 +19,16 @@
 {
 "id": "c-298ccf96c0",
 "source": "JAI, DOI 10.1142/S2251171723020014",
+"sources": [
+{
+"id": "u-doi-org-d71cffea",
+"locator": null,
+"title": "Cloete, Watters, Little, Loeb & Lux, 'Preface: Instrumentation and Software for the Detection and Characterization of Unidentified Aerospace Phenomena', Journal of Astronomical Instrumentation"
+}
+],
 "text": "Watters is a co-author of the Journal of Astronomical Instrumentation preface, 'Instrumentation and Software for the Detection and Characterization of Unidentified Aerospace Phenomena' (2023), with Cloete, Little, Loeb and Lux.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

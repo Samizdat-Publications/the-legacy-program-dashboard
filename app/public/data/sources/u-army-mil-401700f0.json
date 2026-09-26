@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ddcc9534aa",
+"locator": null,
+"node": "john-mchugh",
+"nodeLabel": "John M. McHugh",
+"sourceText": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
+"text": "McHugh was sworn in as Secretary of the Army in 2009, after leaving the House Armed Services ranking seat.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b7a483edb5",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
+"text": "John M. McHugh, who had been the senior House Armed Services Republican before McKeon, took office as Secretary of the Army in 2009, which is why the December 2009 directory shows McKeon in the ranking seat.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 2,
+"id": "e-eb791960aa",
+"label": "Representative, New York 23rd district, until 21 September 2009",
+"note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-army-mil-401700f0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Army",
+"listedOn": [
+{
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "army.mil",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army"
+]
+}

@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-cc917f1c22",
+"locator": null,
+"node": "william-l-moore",
+"nodeLabel": "William L. Moore",
+"sourceText": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
+"text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
+"tier": 2
+}
+],
+"date": "1989-07",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-ab2243148886",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MUFON",
+"listedOn": [],
+"node": null,
+"title": "William L. Moore, address to the MUFON Symposium, Las Vegas",
+"topics": [
+{
+"claims": [
+"c-cc917f1c22"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-cc917f1c22"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-cc917f1c22"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "transcript",
+"urls": []
+}

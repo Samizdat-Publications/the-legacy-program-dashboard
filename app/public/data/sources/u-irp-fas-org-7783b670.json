@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a9b9f1c742",
+"locator": null,
+"node": "naval-criminal-investigative-service",
+"nodeLabel": "Naval Criminal Investigative Service",
+"sourceText": "FAS Navy Intelligence and Security Doctrine, SECNAVINST index, https://irp.fas.org/doddir/navy/secnavinst/index.html",
+"text": "The date of the redesignation from Naval Investigative Service Command to Naval Criminal Investigative Service is an open question on this board. The Secretary of the Navy instruction that would fix it was not reachable: the FAS Navy directives index lists SECNAVINST 5430.107, 'Mission and Functions of the Naval Criminal Investigative Service', dated 28 December 2005 and running 20 pages, but the PDF returns a zero-byte HTTP 202 and ncis.navy.mil returns 403.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Federation of American Scientists",
+"id": "u-irp-fas-org-7783b670",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "naval-criminal-investigative-service",
+"label": "Naval Criminal Investigative Service"
+}
+],
+"node": null,
+"title": "FAS Navy Intelligence and Security Doctrine, SECNAVINST index, listing SECNAVINST 5430.107",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://irp.fas.org/doddir/navy/secnavinst/index.html"
+]
+}

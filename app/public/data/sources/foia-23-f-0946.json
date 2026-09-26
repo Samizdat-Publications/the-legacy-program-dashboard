@@ -1,0 +1,150 @@
+{
+"archived": [
+"https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-05d019fba4",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault",
+"text": "His public statements were cleared for open publication by DoD Prepublication and Security Review on 4 April and 6 April 2023; internal DOPSR emails show reviewers Michelle Whigham and Don Kluzik discussing his reference to sensitive areas and concluding vague references were not a problem.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ee195ea6e0",
+"locator": null,
+"node": "dopsr",
+"nodeLabel": "Defense Office of Prepublication and Security Review",
+"sourceText": "DoD FOIA 23-F-0946 release; The Debrief, 5 June 2023",
+"text": "Cleared Grusch's two submissions for open publication on 4 April and 6 April 2023 (FOIA case 23-F-0946).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-84e2b2a2a5",
+"locator": null,
+"node": "grusch-dopsr-clearance",
+"nodeLabel": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
+"sourceText": "DoD FOIA case 23-F-0946 release; The Debrief, 5 June 2023",
+"text": "DOPSR cleared Grusch's submissions for open publication on 4 April 2023 and 6 April 2023.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d2c08a8d21",
+"locator": null,
+"node": "grusch-dopsr-clearance",
+"nodeLabel": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
+"sourceText": "DoD FOIA 23-F-0946 release, analyzed by The Black Vault",
+"text": "Internal DOPSR correspondence: reviewer Michelle Whigham raised the sensitive-areas references; Don Kluzik responded that vague references of that kind are not a problem.",
+"tier": 1
+}
+],
+"date": "2023",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 3,
+"id": "e-d808083e35",
+"label": "allegations of a programme withheld from the statutory notification channel",
+"note": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dopsr",
+"label": "Defense Office of Prepublication and Security Review"
+},
+"b": {
+"cls": "document",
+"id": "grusch-dopsr-clearance",
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+},
+"claimTier": 1,
+"id": "e-33aa14cb00",
+"label": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
+"note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "foia-23-f-0946",
+"identifiers": [
+"FOIA case 23-F-0946"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "institution",
+"id": "dopsr",
+"label": "Defense Office of Prepublication and Security Review"
+},
+{
+"cls": "document",
+"id": "grusch-dopsr-clearance",
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+}
+],
+"node": {
+"cls": "document",
+"id": "grusch-dopsr-clearance",
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+},
+"title": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
+"topics": [
+{
+"claims": [
+"c-84e2b2a2a5",
+"c-d2c08a8d21"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-ee195ea6e0"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-05d019fba4"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-05d019fba4"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "document",
+"urls": [
+"https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+]
+}

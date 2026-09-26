@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-a7ba9d5f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bdm-international",
+"label": "BDM International, Inc."
+}
+],
+"node": null,
+"title": "SEC EDGAR company record, BDM INTERNATIONAL INC /DE, CIK 0000870763",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000870763&type=10-K"
+]
+}

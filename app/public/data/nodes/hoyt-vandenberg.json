@@ -39,26 +39,58 @@
 {
 "id": "c-568fc6f7d8",
 "source": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": null,
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Vandenberg rejected it for lacking proof and copies were destroyed.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e15b1e7d18",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"sources": [
+{
+"id": "u-gutenberg-org-c14b8c35",
+"locator": null,
+"title": "Ruppelt, The Report on Unidentified Flying Objects"
+}
+],
 "text": "The Estimate's existence and destruction were first published by Edward Ruppelt, the first Blue Book director, in 1956.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f9cc2c3e07",
 "source": "Condon Report, Section V Chapter 2",
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": null,
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "Project SIGN was reconstituted as Project GRUDGE on 11 February 1949 with a conclusion that reports were misinterpretation, mass hysteria and hoaxes posing 'no direct threat to national security.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-76191de8f4",
 "source": "Inference linking Condon Sec. V Ch. 2 to GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The 1948 destruction is the earliest identifiable instance of the pattern the 1995 GAO report later documented at Roswell — records adverse to the official line disappearing without disposition authority.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

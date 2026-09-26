@@ -1,0 +1,140 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-086ec3b805",
+"locator": null,
+"node": "virginia-coast-uap-2026",
+"nodeLabel": "Navy UAP event off the Virginia coast (reported July 2026)",
+"sourceText": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
+"text": "AARO is investigating a US Navy report of approximately 100 airborne UAP and two likely uncrewed surface systems off the Virginia coast; it is the sole maritime case among the 319 reports in the FY2025 annual report.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-408921c741",
+"locator": null,
+"node": "virginia-coast-uap-2026",
+"nodeLabel": "Navy UAP event off the Virginia coast (reported July 2026)",
+"sourceText": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
+"text": "AARO's stated constraint on the case: 'A lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-a28dfc2a3a",
+"locator": null,
+"node": "virginia-coast-uap-2026",
+"nodeLabel": "Navy UAP event off the Virginia coast (reported July 2026)",
+"sourceText": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
+"text": "No case number, incident date, hull or unit has been made public for an event involving roughly 100 objects in US home waters. Reasoning: DefenseScoop reported the Pentagon declined to provide additional information and the FY2025 report describes the case without identifiers.",
+"tier": 3
+}
+],
+"date": "2026-07-21",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "alexandro-wiggins",
+"label": "Alexandro Wiggins"
+},
+"b": {
+"cls": "event",
+"id": "virginia-coast-uap-2026",
+"label": "Navy UAP event off the Virginia coast (reported July 2026)"
+},
+"claimTier": 3,
+"id": "e-124763c832",
+"label": "two maritime cases, three years apart, both unresolved",
+"note": "The USS Jackson transmedium event of February 2023 and the roughly 100 objects with two uncrewed surface systems off Virginia are the two maritime anchors of the current record; neither has a public case number.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-ef2688dd48",
+"label": "Kosloski's office again rejected the recovered-material claims in July 2026",
+"note": "The FY2025 report denies possession of recovered UAP material while stating AARO is developing procedures for handling such material should any ever come into US government possession.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "virginia-coast-uap-2026",
+"label": "Navy UAP event off the Virginia coast (reported July 2026)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 2,
+"id": "e-9dc389691f",
+"label": "sole maritime case in the report",
+"note": "AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "virginia-coast-uap-2026",
+"label": "Navy UAP event off the Virginia coast (reported July 2026)"
+},
+"b": {
+"cls": "program",
+"id": "aaro-jwics-case-management-2025",
+"label": "AARO JWICS case management system (sources sought, May 2025)"
+},
+"claimTier": 3,
+"id": "e-e1e8a83868",
+"label": "a mass event against a case system still being procured",
+"note": "Roughly 100 objects and two uncrewed surface systems reported by Navy assets, in an office whose purpose-built case management system was still at the sources-sought stage in mid-2025.",
+"type": "research"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-84ca44ae",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+{
+"cls": "event",
+"id": "virginia-coast-uap-2026",
+"label": "Navy UAP event off the Virginia coast (reported July 2026)"
+}
+],
+"node": null,
+"title": "DefenseScoop, Navy UAP event off Virginia",
+"topics": [
+{
+"claims": [
+"c-086ec3b805",
+"c-a28dfc2a3a"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/"
+]
+}

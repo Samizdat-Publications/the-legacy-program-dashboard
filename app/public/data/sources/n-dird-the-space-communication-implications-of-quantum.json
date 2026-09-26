@@ -1,0 +1,175 @@
+{
+"archived": [
+"https://web.archive.org/web/20250319072822/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-a2f16a33ea",
+"locator": null,
+"node": "john-cramer",
+"nodeLabel": "John G. Cramer",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+"text": "The released DIRD is dated 30 March 2010, carries an Intelligence Cut-Off Date of 1 December 2009 and the document number DIA-08-1003-016, and sits in the Acquisition Threat Support series. The author line on the cover page is redacted under (b)(6).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cc15da099d",
+"locator": null,
+"node": "dird-the-space-communication-implications-of-quantum",
+"nodeLabel": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/",
+"text": "Defense Intelligence Reference Document titled \"The Space-Communication Implications of Quantum Entanglement and Nonlocality\", series \"Acquisition Threat Support\", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-016. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d5fa9a34a0",
+"locator": null,
+"node": "dird-the-space-communication-implications-of-quantum",
+"nodeLabel": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dc882f6a59",
+"locator": null,
+"node": "dird-the-space-communication-implications-of-quantum",
+"nodeLabel": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+"text": "The released cover page reads \"30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-016,\" series \"Acquisition Threat Support.\" The author line is redacted under (b)(6).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e81e028a93",
+"locator": null,
+"node": "dird-the-space-communication-implications-of-quantum",
+"nodeLabel": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+"claimTier": 1,
+"id": "e-2c2f69280d",
+"label": "FY2009 AAWSAP deliverable",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+"claimTier": 1,
+"id": "e-ab78d8c779",
+"label": "published by DIA as DIA-08-1003-016, Acquisition Threat Support series",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-cramer",
+"label": "John G. Cramer"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+"claimTier": 1,
+"id": "e-2681dff6d0",
+"label": "author of record on the DIA list",
+"note": "DIA list item 25: \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\" A mainstream university physicist, not a programme insider.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+"claimTier": 1,
+"id": "e-509d09fe18",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+"claimTier": 1,
+"id": "e-d3eab6bde4",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 30 March 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "n-dird-the-space-communication-implications-of-quantum",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "john-cramer",
+"label": "John G. Cramer"
+},
+{
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+}
+],
+"node": {
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality"
+},
+"title": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+]
+}

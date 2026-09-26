@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b099679775",
+"locator": null,
+"node": "fund-for-ufo-research",
+"nodeLabel": "Fund for UFO Research",
+"sourceText": "Rodeghier and Whiting (1992), cited in the 1997 Air Force report",
+"text": "Fred Whiting of the Fund for UFO Research co-authored 'The Plains of San Agustin Controversy' (1992) with Mark Rodeghier of CUFOS, concluding against the reliability of Gerald Anderson.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-fc01ecff3c",
+"locator": "titled 'The Plains of San Agustin Controversy'; note 123 of the 1997 Air Force report",
+"node": "gerald-anderson",
+"nodeLabel": "Gerald Anderson",
+"sourceText": "Rodeghier and Whiting, 'The Plains of San Agustin Controversy' (1992), cited at note 123 of the 1997 Air Force report",
+"text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, 'The Plains of San Agustin Controversy', concluding against Anderson's reliability.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-187582a417",
+"locator": "note 123 of the 1997 Air Force report",
+"node": "cufos",
+"nodeLabel": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+"sourceText": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
+"text": "CUFOS scientific director Mark Rodeghier co-authored 'The Plains of San Agustin Controversy' (1992) with Fred Whiting of the Fund for UFO Research.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-d3ce81eb80",
+"locator": "note 123 of the 1997 Air Force report",
+"node": "plains-san-agustin-1947",
+"nodeLabel": "Plains of San Agustin claim, July 1947",
+"sourceText": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
+"text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published 'The Plains of San Agustin Controversy' in 1992, an investigation by the two leading civilian research bodies that concluded against their own first-hand witness.",
+"tier": 2
+}
+],
+"date": "1992",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-4e7b396ac619",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Rodeghier and Whiting (1992",
+"topics": [
+{
+"claims": [
+"c-b099679775",
+"c-fc01ecff3c",
+"c-187582a417"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-fc01ecff3c",
+"c-d3ce81eb80"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "report",
+"urls": []
+}

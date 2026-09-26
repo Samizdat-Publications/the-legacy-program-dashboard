@@ -1,0 +1,93 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-8e2d48f66b",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "Tom Mahood, 'Element 115 tidbits', citing Seaborg, Scientific American, April 1969, pp 57-67, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18",
+"text": "THE PRIOR ART, WHICH CUTS AGAINST THE HOSTILE READING AS WELL AS THE CREDULOUS ONE. The island of stability near element 114 was mainstream, popularised physics well before 1989. Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, carried graphics of expected half-lives for superheavy elements, and a 1970 chemistry textbook described element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. A reader of popular science in the 1970s and 1980s had 114 and 115 available. The Seaborg article itself was not opened and is cited here only as Mahood cites it.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-91a6428e57",
+"locator": null,
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"sourceText": "Tom Mahood, 'Element 115 tidbits', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18",
+"text": "On element 115 his page assembles the prior art: Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, with graphics of expected half-lives for superheavy elements, and a 1970 textbook describing element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. The island of stability was published popular physics long before 1989.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+"claimTier": 2,
+"id": "e-151cfa6d24",
+"label": "The island of stability near element 114 was published popular physics from 1969",
+"note": "This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-otherhand-org-7fc25383",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+{
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+}
+],
+"node": null,
+"title": "Tom Mahood, 'Element 115 tidbits'",
+"topics": [
+{
+"claims": [
+"c-8e2d48f66b",
+"c-91a6428e57"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-8e2d48f66b"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-91a6428e57"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/"
+]
+}

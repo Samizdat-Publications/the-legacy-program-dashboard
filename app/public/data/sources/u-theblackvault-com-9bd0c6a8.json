@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+"claimTier": 1,
+"id": "e-65b61abccf",
+"label": "KONA BLUE was proposed by AAWSAP's contractor team after DIA cancelled the program",
+"note": "AARO records that when DIA cancelled AAWSAP/AATIP its supporters proposed a new version to DHS under a special access program, with lines of effort closely mirroring those the private sector organisation had conducted.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-9bd0c6a8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+}
+],
+"node": null,
+"title": "The Black Vault, 'DoD Releases KONA BLUE Documents'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/dod-releases-kona-blue-documents/"
+]
+}

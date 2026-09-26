@@ -24,32 +24,66 @@
 {
 "id": "c-322a8c2d86",
 "source": "https://armedservices.house.gov/about/members.htm",
+"sources": [
+{
+"id": "u-armedservices-house-gov-a25d0d2d",
+"locator": null,
+"title": "https://armedservices.house.gov/about/members.htm"
+}
+],
 "text": "Mike Rogers (R-AL 03) is listed as Chairman of the House Armed Services Committee on the committee's official members page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7d9cda15ef",
 "source": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
+"sources": [
+{
+"id": "u-armedservices-house-gov-68808510",
+"locator": null,
+"title": "armedservices.house.gov"
+}
+],
 "text": "Rogers was Chairman of the House Armed Services Committee in the 118th Congress, jointly announcing the committee's subcommittee rosters with Ranking Member Adam Smith.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-49cadbe4e1",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
+"sources": [],
 "text": "Rogers is named with Turner as leading efforts to eliminate or significantly alter the UAP Disclosure Act.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: No Debrief candidate on Rogers/Turner and the Disclosure Act found."
 },
 {
 "id": "c-c5258d6afa",
 "source": "P.L. 118-31, Sec. 1687, GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1687, GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1687 of P.L. 118-31 conditions UAP special-access funding on disclosure to 'the appropriate congressional committees and congressional leadership' — preserving committee-channel oversight rather than independent review.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-417febfb71",
 "source": "Inference from side-by-side comparison of S. 2226 Div. G with P.L. 118-31 Subtitle C and Secs. 1687/7343",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "The pattern of what was cut and what was kept is consistent with a jurisdictional defense of the armed services and intelligence committees rather than with substantive objection to disclosure: every removed mechanism operated outside those committees, and every retained mechanism reports into them.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

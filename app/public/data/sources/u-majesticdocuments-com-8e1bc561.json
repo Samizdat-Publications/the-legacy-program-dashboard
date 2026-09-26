@@ -1,0 +1,139 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4792e91435",
+"locator": "site structure, copyright notice, Authenticity Ratings scheme",
+"node": "robert-m-wood",
+"nodeLabel": "Dr. Robert M. Wood",
+"sourceText": "majesticdocuments.com site structure and copyright notice, retrieved 12 August 2026",
+"text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, and organises its holdings by date band with a published 'Authenticity Ratings' scheme, alongside sections for FOIA, NARA, Truman Library and British Public Record Office material.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-3b5de598e8",
+"locator": null,
+"node": "d-mj12",
+"nodeLabel": "Majestic-12 Corpus",
+"sourceText": "The Majestic Documents (Wood & Wood)",
+"text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-77ef492a47",
+"locator": "site structure, copyright notice, Authenticity Ratings scheme",
+"node": "majestic-documents-archive",
+"nodeLabel": "The Majestic Documents archive (Wood and Wood)",
+"sourceText": "majesticdocuments.com, site structure and copyright notice, retrieved 12 August 2026",
+"text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, publishes an 'Authenticity Ratings' scheme, and organises holdings by date band alongside sections for FOIA, NARA, Truman Library, British Public Record Office and NICAP material and for the Air Force/GAO investigations.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-m-wood",
+"label": "Dr. Robert M. Wood"
+},
+"b": {
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+},
+"claimTier": 1,
+"id": "e-c8f09a7e02",
+"label": "Co-principal of the document archive and its rating scheme",
+"note": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+},
+"b": {
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+},
+"claimTier": 1,
+"id": "e-7637a7be80",
+"label": "Co-principal of the document archive",
+"note": "Same copyright notice and About page attribution.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+},
+"claimTier": 1,
+"id": "e-a5debf93b7",
+"label": "The archive's core corpus entered the record through Moore's mailbox",
+"note": "The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-majesticdocuments-com-8e1bc561",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "majesticdocuments.com",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents"
+},
+{
+"cls": "person",
+"id": "robert-m-wood",
+"label": "Dr. Robert M. Wood"
+},
+{
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+{
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+},
+{
+"cls": "program",
+"id": "majestic-documents-archive",
+"label": "The Majestic Documents archive (Wood and Wood)"
+}
+],
+"node": null,
+"title": "The Majestic Documents (Wood & Wood)",
+"topics": [
+{
+"claims": [
+"c-4792e91435",
+"c-3b5de598e8",
+"c-77ef492a47"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
+"type": "web page",
+"urls": [
+"https://majesticdocuments.com/"
+]
+}

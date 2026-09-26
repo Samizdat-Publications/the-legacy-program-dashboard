@@ -7,26 +7,52 @@
 {
 "id": "c-901a862429",
 "source": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44, 9 September 2025",
+"sources": [],
 "text": "Letter dated 24 July 2025 to DoD asserting Grusch suffered reprisal including removal of his clearance, denial of promotion, and loss of medical retirement; listed in the hearing's index of documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:crane-dod-reprisal-letter) was rejected in review: string names the hearing record; candidate is one letter in it"
 },
 {
 "id": "c-4ece534b0d",
 "source": "Serial No. 119-44, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "Serial No. 119-44",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "As of 9 September 2025 DoD had not replied; Chairwoman Luna stated the Task Force would follow up.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-78ff5de083",
 "source": "GPO CHRG-119hhrg61718, Index of Documents",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "Index of Documents",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Listed in the hearing's Index of Documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-64136c0284",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Crane on the record: Grusch 'suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

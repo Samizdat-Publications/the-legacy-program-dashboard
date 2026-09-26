@@ -8,20 +8,38 @@
 {
 "id": "c-df8ddd0216",
 "source": "House Oversight Committee witness statements, 26 July 2023",
+"sources": [],
 "text": "The House Oversight Committee heard sworn testimony from David Grusch, David Fravor and Ryan Graves on 26 July 2023; written statements from Fravor and Graves are published on the committee's site.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Names testimony plus two separate written statements jointly."
 },
 {
 "id": "c-5acf451aca",
 "source": "DoD OIG DODIG-2023-109",
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
 "text": "The DoD Inspector General's DODIG-2023-109 evaluation was initiated following complaints from DoD personnel regarding UAP.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-84fa50f867",
 "source": "ODNI ICIG Urgent Concern Disclosure Form",
+"sources": [
+{
+"id": "u-dni-gov-beb9e259",
+"locator": null,
+"title": "ODNI ICIG - Disclosure of Urgent Concern Form"
+}
+],
 "text": "The ICIG publishes a Disclosure of Urgent Concern form, the formal channel through which an intelligence community employee makes a protected complaint.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",

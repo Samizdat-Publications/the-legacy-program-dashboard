@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+"claimTier": 2,
+"id": "e-3dea45016e",
+"label": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
+"note": "The distinction matters and is drawn by the University itself. UAlbany's release separates 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy' from 'Ben Kugielsky of UAPx, a non-profit scientific research organization'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from UAlbany.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-uapexpedition-org-bf118dc9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "uapexpedition.org",
+"listedOn": [],
+"node": null,
+"title": "UAPx - Dr. Kevin Knuth biography page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.uapexpedition.org/drkevinknuth"
+]
+}

@@ -1,0 +1,118 @@
+{
+"archived": [
+"https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-ab95172788",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
+"text": "Volume 2: 'MANUAL NUMBER 5205.07, Volume 2, November 24, 2015, Incorporating Change 2, Effective October 30, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Personnel Security.' Volume 3: 'MANUAL NUMBER 5205.07, Volume 3, April 23, 2015, Incorporating Change 2, Effective February 12, 2018. SUBJECT: DoD Special Access Program (SAP) Security Manual: Physical Security.' Volume 4: 'MANUAL NUMBER 5205.07, Volume 4, October 10, 2013, Incorporating Change 2, Effective September 8, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Marking.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"claimTier": 1,
+"id": "e-d027b6cf6f",
+"label": "defines and operates the carve-out",
+"note": "The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+"claimTier": 1,
+"id": "e-b88105dae1",
+"label": "relieves it of oversight",
+"note": "The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-45d3c17efb",
+"label": "assigns it the patent and inspection roles",
+"note": "Volume 1 Enclosure 4 para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' Volume 1 also routes inspections through the SAPCOs jointly with DSS where a programme is not carved out. Both are verbatim from this node's recorded quotations, and the patents provision is the one that matters most to this board: it is an explicit channel for intellectual property arising inside a special access programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "document",
+"id": "dodd-5205-07-2010",
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+},
+"claimTier": 1,
+"id": "e-6ba903bc02",
+"label": "",
+"note": "The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "dodm-5205-07-v4",
+"identifiers": [
+"DoDM 5205.07, Volume 4"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+}
+],
+"node": null,
+"title": "Special Access Program (SAP) Security Manual: Marking (DoDM 5205.07, Volume 4)",
+"topics": [
+{
+"claims": [
+"c-ab95172788"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "regulation",
+"urls": [
+"https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+]
+}

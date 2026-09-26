@@ -7,20 +7,38 @@
 {
 "id": "c-6e0fb78984",
 "source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md",
+"sources": [
+{
+"id": "u-youtube-com-551a1f41",
+"locator": null,
+"title": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions"
+}
+],
 "text": "The claim attached to this installation is that on 18 November 1977 at about 0100, security policemen Mario Woods and Michael Johnson of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth Minuteman field and encountered a large object and humanoid figures. Woods has told the account publicly since 1996; Johnson was located in June 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d8bc241e0d",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "NO AIR FORCE RECORD OF THE 18 NOVEMBER 1977 EVENT HAS EVER BEEN PRODUCED BY ANY PARTY, AND NO SERVICE RECORD FOR EITHER CLAIMANT HAS BEEN OPENED BY THIS BOARD. The node is admitted on notability under CLAUDE.md section 2a; its anchor is the dated artefact of the claim, not a record of the thing claimed.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-4ca7069538",
 "source": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
+"sources": [
+{
+"id": "u-politicalsaucer-substack-6f5f54ec",
+"locator": null,
+"title": "The Political Saucer, 'The Night at November-5: Two Missile Guards, Nine Lost Hours, and the Nuclear Security Incident the Air Force Never Explained', 12 September 2026"
+}
+],
 "text": "A second, independent write-up naming both men and the 44th Missile Security Squadron appeared on 12 September 2026, five days after the Michels episode. Its body is paywalled and only its header was read by this board.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "location",
@@ -180,7 +198,7 @@
 ],
 "sub": "SAC installation near Rapid City; 44th Strategic Missile Wing Minuteman field including Launch Facility November-5; hub of the 1977 security-police claim",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 892 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 891 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unverified": [
 "AARO Historical Record Report Volume I, which the board elsewhere cites at page 30 for interviews with officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977, was NOT OPENED by this pass: media.defense.gov returned HTTP 403 to WebFetch and to curl with browser headers and an aaro.mil referer. That citation stands on an earlier pass and is not re-verified here.",

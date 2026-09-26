@@ -1,0 +1,129 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8e1caa1937",
+"locator": "Attachment 32",
+"node": "richard-weaver-usaf",
+"nodeLabel": "Col. Richard L. Weaver",
+"sourceText": "The Roswell Report: Fact versus Fiction (1995), Attachment 32",
+"text": "Attachment 32 of the 1995 report is Lt. McAndrew's synopsis describing Project Mogul, the top-priority classified balloon-borne experiment programme advanced as the explanation for the Roswell Incident.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ef9208046f",
+"locator": "reproduces Ramey office photographs and Cavitt interview",
+"node": "jesse-marcel",
+"nodeLabel": "Jesse A. Marcel Sr.",
+"sourceText": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview",
+"text": "Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-80e07e978d",
+"locator": null,
+"node": "project-mogul",
+"nodeLabel": "Project MOGUL",
+"sourceText": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"text": "MOGUL was a then-classified top-priority programme of balloon-borne experiments, described at length in the Air Force's 881-page 1995 report by Col. Richard Weaver and 1st Lt. James McAndrew.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-64674e53df",
+"locator": null,
+"node": "roger-ramey",
+"nodeLabel": "Roger M. Ramey",
+"sourceText": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"text": "Ramey, with Col. Thomas DuBose and weather officer Irving Newton, publicly identified the Roswell material as a weather balloon with a radar reflector on 8 July 1947, retracting the RAAF announcement the same day.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-5024401247",
+"locator": null,
+"node": "roswell-1947",
+"nodeLabel": "Roswell Incident",
+"sourceText": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994)",
+"text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon explanation was a cover story.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-5147f84461",
+"locator": null,
+"node": "roswell-1947",
+"nodeLabel": "Roswell Incident",
+"sourceText": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"text": "The announcement was retracted the same day at Fort Worth by Brig. Gen. Roger Ramey, with Col. Thomas DuBose and weather officer Irving Newton identifying the material as a weather balloon with a radar reflector.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-40e65164d8",
+"locator": "Attachment 32",
+"node": "roswell-report-1995",
+"nodeLabel": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"sourceText": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), Attachment 32",
+"text": "Attachment 32, Lt. McAndrew's synopsis, describes Project Mogul, 'the top-priority classified project of balloon-borne experiments, which provides the explanation for the Roswell Incident.'",
+"tier": 1
+}
+],
+"date": "1994-07",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "n-roswell-report-1995",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "roswell-report-1995",
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+},
+"title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"topics": [
+{
+"claims": [
+"c-ef9208046f",
+"c-80e07e978d",
+"c-64674e53df",
+"c-5024401247",
+"c-5147f84461"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+},
+{
+"claims": [
+"c-80e07e978d",
+"c-5024401247",
+"c-5147f84461",
+"c-40e65164d8"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-5024401247"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-5024401247"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+}
+],
+"type": "report",
+"urls": []
+}

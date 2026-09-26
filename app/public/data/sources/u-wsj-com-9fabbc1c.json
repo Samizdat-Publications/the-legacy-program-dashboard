@@ -1,0 +1,106 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-9851a9518d",
+"locator": "OSD memorandum, spring 2023, halt order",
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "Wall Street Journal, 6 June 2025",
+"text": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the Yankee Blue findings would be included in Volume II, then scheduled for late 2025.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-52dd0ae38e",
+"locator": "OSD memorandum, spring 2023, halt order",
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "Wall Street Journal, 6 June 2025",
+"text": "The Office of the Secretary of Defense issued a memorandum in spring 2023 ordering the practice halted immediately.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-9e225ffcd3",
+"locator": null,
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "Wall Street Journal investigation, 6 June 2025",
+"text": "Air Force personnel in classified units were briefed into a fictitious programme called Yankee Blue involving reverse-engineering of alien spacecraft, shown flying-saucer photographs, bound by NDAs, and in some accounts threatened with severe penalties for disclosure.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-aa0c6a5ed9",
+"locator": "OSD memorandum, spring 2023, halt order",
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "Wall Street Journal, 6 June 2025",
+"text": "Officials briefed DNI Avril Haines that 'hundreds and hundreds' of personnel had been affected over decades.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-wsj-com-9fabbc1c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Wall Street Journal",
+"listedOn": [
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
+"node": null,
+"title": "Joel Schectman and Aruna Viswanatha, 'The Pentagon Disinformation That Fueled America's UFO Mythology', The Wall Street Journal, 6 June 2025. The canonical address is unreachable from this environment; the text was read in the To Vima republication at this URL.",
+"topics": [
+{
+"claims": [
+"c-52dd0ae38e",
+"c-9e225ffcd3",
+"c-aa0c6a5ed9"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-9851a9518d",
+"c-9e225ffcd3"
+],
+"id": "aaro-historical-record",
+"title": "AARO's historical record reports and their critics"
+},
+{
+"claims": [
+"c-9e225ffcd3"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-9e225ffcd3"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-9e225ffcd3"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "article",
+"urls": [
+"https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e"
+]
+}

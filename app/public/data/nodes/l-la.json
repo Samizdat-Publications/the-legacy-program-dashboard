@@ -7,20 +7,38 @@
 {
 "id": "c-428e168fcd",
 "source": "CIA U-2/OXCART history, released 25 June 2013; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Lockheed's Skunk Works at Burbank produced the U-2, A-12, HAVE BLUE and F-117, all of which were tested at Groom Lake rather than at Edwards or Palmdale because of programme secrecy.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:cia-overhead-reconnaissance-history-1992) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-2b4be98bd7",
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"sources": [
+{
+"id": "u-oversight-house-gov-68b6ff59",
+"locator": null,
+"title": "George Knapp written testimony (PDF)"
+}
+],
 "text": "Bigelow negotiated with a senior Lockheed executive to acquire unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity; the agreement was never completed.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-93432ab931",
 "source": "Army FOIA response to John Greenewald / The Black Vault",
+"sources": [
+{
+"id": "t-0d5ef6c5de2a",
+"locator": null,
+"title": "Army FOIA response to John Greenewald / The Black Vault"
+}
+],
 "text": "The Army withheld twenty-nine emails totalling a hundred pages of GVSC/TTSA correspondence in full in response to a Black Vault FOIA request filed from Los Angeles.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "location",

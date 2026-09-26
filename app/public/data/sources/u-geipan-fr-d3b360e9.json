@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-93b473a521",
+"locator": "dynamic statistics as at 11 August 2026",
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "GEIPAN, 'Statistiques', geipan.fr, 11 August 2026",
+"text": "GEIPAN dynamic statistics as at 11 August 2026: 3,381 cases total - A 28.1% (950), B 38.7% (1,310), C 30.0% (1,015), D 3.1% (106).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-geipan-fr-d3b360e9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CNES GEIPAN",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-france",
+"label": "France"
+},
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+{
+"cls": "domain",
+"id": "d-international",
+"label": "International & Allied Programs"
+}
+],
+"node": null,
+"title": "GEIPAN - Statistiques",
+"topics": [
+{
+"claims": [
+"c-93b473a521"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.geipan.fr/fr/stats"
+]
+}

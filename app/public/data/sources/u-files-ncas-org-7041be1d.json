@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-files-ncas-org-7041be1d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "files.ncas.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+}
+],
+"node": null,
+"title": "Condon Report, table of contents",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://files.ncas.org/condon/text/contents.htm"
+]
+}

@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-a063120ae0",
+"label": "Battelle Memorial Institute headquarters",
+"note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-projects-propublica-org-ce84aafb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "projects.propublica.org",
+"listedOn": [],
+"node": null,
+"title": "Battelle Memorial Institute IRS Form 990 filings, EIN 31-4379427 (ProPublica Nonprofit Explorer)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://projects.propublica.org/nonprofits/organizations/314379427"
+]
+}

@@ -30,26 +30,46 @@
 {
 "id": "c-94b2c6cfca",
 "source": "P.L. 118-31 as enacted, compared with S. 2226 as engrossed in the Senate, GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "The enacted FY2024 NDAA, P.L. 118-31, Subtitle C of Title XVIII, consists only of Secs. 1841, 1842 and 1843; the Senate-passed Secs. 9007-9011 and 9014 have no enacted counterpart.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c3da3e4042",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
+"sources": [],
 "text": "Daniel Sheehan states Turner 'first attacked those two elements' — the eminent domain provision and the Review Board's subpoena power — and demanded both be removed.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: No Debrief candidate on Rogers/Turner and the Disclosure Act found."
 },
 {
 "id": "c-af96a57681",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
+"sources": [],
 "text": "Turner and Rep. Mike Rogers are identified as leading the effort to eliminate or significantly alter the UAP Disclosure Act, with support from Sen. Mitch McConnell and Speaker Mike Johnson.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: No Debrief candidate on Rogers/Turner and the Disclosure Act found."
 },
 {
 "id": "c-447a197701",
 "source": "Turner, 30 July 2023, quoted in The Debrief",
+"sources": [
+{
+"id": "t-6aabe20319d0",
+"locator": null,
+"title": "Turner, 30 July 2023, quoted in The Debrief"
+}
+],
 "text": "'The most striking aspect of all the testimony was, repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

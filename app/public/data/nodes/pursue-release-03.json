@@ -7,32 +7,60 @@
 {
 "id": "c-260dc2b70b",
 "source": "war.gov/UFO, accessed 12 August 2026",
+"sources": [],
 "text": "The war.gov portal lists Release 03 dated 12 June 2026 with an 826MB document bundle and a 4.6GB video bundle.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: string names the portal page, not the bundle URLs node"
 },
 {
 "id": "c-6a782867ae",
 "source": "Disclosure Archives inventory of the Release 03 posting",
+"sources": [
+{
+"id": "u-disclosurearchives-com-3830ab44",
+"locator": "Release 03",
+"title": "Disclosure Archives - Department of War files index"
+}
+],
 "text": "Release 03 comprised 72 files - 53 documents, 10 images, 6 videos, 3 audio - with 29 files from the FBI.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e8011734e0",
 "source": "Disclosure Archives inventory of Release 03",
+"sources": [
+{
+"id": "u-disclosurearchives-com-3830ab44",
+"locator": "Release 03",
+"title": "Disclosure Archives - Department of War files index"
+}
+],
 "text": "The FBI orb corpus covers 2021-2025 and includes an FD-1057 documenting two FBI special agents' own first-hand observation.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-eaea88a30e",
 "source": "Disclosure Archives inventory of Release 03",
+"sources": [
+{
+"id": "u-disclosurearchives-com-3830ab44",
+"locator": "Release 03",
+"title": "Disclosure Archives - Department of War files index"
+}
+],
 "text": "Release 03 includes a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-93d697166c",
 "source": "Inference from the appearance of a less-redacted version in Release 03 against the long-standing public version in the CIA reading room",
+"sources": [],
 "text": "A less-redacted Robertson Panel record released in 2026 establishes that the CIA's own 1953 document had remained partly withheld for seventy-three years, and that the withholding was reversible by executive direction rather than by any change in the underlying equities.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",
@@ -213,7 +241,7 @@
 ],
 "sub": "12 June 2026; 72 files; FBI-dominated",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 201 of 1138, score 45). 4 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 200 of 1138, score 45). 4 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

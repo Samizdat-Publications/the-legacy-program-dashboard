@@ -1,0 +1,276 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-249b1f4c7e",
+"locator": "quote on operation commander and closure",
+"node": "uyrange-hollanda",
+"nodeLabel": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+"sourceText": "Wikipedia 'Operação Prato', citing ISTOÉ (22 July 2013) and Folha de S. Paulo (11 January 2009)",
+"text": "'The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima ... After approximately four months, the operation was closed after finding no unusual phenomena. The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-09b625e643",
+"locator": "infobox, operation dates",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Wikipedia 'Operação Prato' infobox, sourced to ISTOÉ, Folha de S. Paulo, Veja and O Estado de S. Paulo",
+"text": "Operation dates: first phase 20 October - 11 November 1977; second phase 25 November - 5 December 1977; executed by the Brazilian Air Force and the National Information Service; 'Operation found no unusual phenomena'.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-32cac62e8f",
+"locator": "documents obtainable from Arquivo Nacional",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Wikipedia 'Operação Prato', citing the Information System of the National Archive, Brazil",
+"text": "'The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"claimTier": 1,
+"id": "e-a1b5085ccb",
+"label": "",
+"note": "The Arquivo holds and serves the operation's files. Its own answer to a litigant, quoted verbatim in the 2023 federal judgment, reports that a SIAN search on the term 'operacao prato' returns six documents, none audiovisual. No SIAN item numbers were ever obtained and none are asserted here.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil"
+},
+"b": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"claimTier": 2,
+"id": "e-54a3ebc48d",
+"label": "Operação Prato was run on Colares, Pará, in northern Brazil",
+"note": "Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém'.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+"b": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"claimTier": 2,
+"id": "e-8362517ec9",
+"label": "Hollanda showed the operation's photographs and trajectory analyses to Vallee",
+"note": "The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer's access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible — Basterfield's account names only Ademar Gevaerd and Helio Loyola as the BAASS teams' Brazilian contacts.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+"b": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"claimTier": 2,
+"id": "e-3b90902a6e",
+"label": "commanded the operation",
+"note": "Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 2,
+"id": "e-f281dd672f",
+"label": "Hollanda's account to an American reporter is preserved in the Pratt file",
+"note": "Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+"claimTier": 1,
+"id": "e-6fce8aa41d",
+"label": "Hollanda was a serving FAB officer, not a civilian investigator",
+"note": "Uyrangê Hollanda commanded Operação Prato as a captain of the Brazilian Air Force and retired as a lieutenant colonel. Pratt's file: 'In 1997, long after he had retired as a lieutenant colonel, Hollanda decided he was no longer obligated to remain silent about Operação Prato and publicly discussed Operação Prato.' The institutional tie matters because his later account contradicts the service's official negative finding — the contradiction is internal to the FAB, not between the FAB and outsiders.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-bc4bf662a9",
+"label": "A DIA-funded US programme built a database of the Brazilian Air Force's own case wave",
+"note": "Chapter fifteen of Lacatski, Kelleher and Knapp's 'Inside the U.S. Government Covert UFO Program: Initial Revelations' describes the Project Colares database as a 'Data base containing all UAP sighting events related to the 1977-1978, Colares, Brazil, UAP flap. Total records 346. Event timeline 1977-1978.' The CAPELLA data warehouse, conceived by Jacques Vallee, held eleven data sets of which one was titled 'Brazil'. Tier 2: book-sourced, quoted by a named researcher; no contract document or DIA record obtained in this pass. This is the strongest outward link the Brazilian cluster has — the American programme did not ignore the Brazilian record, it ingested it.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 1,
+"id": "e-1a5c611de7",
+"label": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
+"note": "Arquivo Nacional's own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-f709769690",
+"label": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
+"note": "Basterfield and Cecotti's reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in 'Skinwalkers at the Pentagon' includes the BAASS March 2009 monthly report 'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler', the August 2009 monthly report 'Relations with South American organizations', and a July 2009 report 'Project Colares/Brazil, Outreach to South America'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said 'They wanted artifacts from UFOs, such as metamaterials'; Fortaleza researcher Helio Loyola said 'Here in Brazil they didn't do any research. They took and photographed what the ufologists saw and documented.' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"claimTier": 2,
+"id": "e-56585e150b",
+"label": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
+"note": "From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: \"...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato.\"' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 2,
+"id": "e-6808fbde97",
+"label": "COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial",
+"note": "COMPARISON EDGE — no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes — one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 2,
+"id": "e-67615cc44e",
+"label": "The American reporter's Prato dossier sits in Greenewald's archive",
+"note": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-10421026",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+{
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+}
+],
+"node": null,
+"title": "Operação Prato - Wikipedia",
+"topics": [
+{
+"claims": [
+"c-249b1f4c7e",
+"c-09b625e643"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+]
+}

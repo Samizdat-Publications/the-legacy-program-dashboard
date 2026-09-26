@@ -8,26 +8,52 @@
 {
 "id": "c-6a4f4a60ba",
 "source": "Robertson Panel report, declassified text, CUFON",
+"sources": [],
 "text": "The Robertson Panel report (17 January 1953) recommends stripping UFOs of their 'special status' through mass-media debunking and recommends that civilian UFO groups be 'watched because of their potentially great influence on mass thinking'.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf) was rejected in review: string names the CUFON copy; candidate is the Black Vault scan"
 },
 {
 "id": "c-fd2bc6b6d5",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": null,
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "CIA historian Gerald K. Haines, in Studies in Intelligence (1997), states that over half of all UFO reports in the late 1950s and 1960s were accounted for by U-2 and OXCART flights and that Air Force investigators knowingly provided false explanations to the public.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2864aade41",
 "source": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO (NSIAD-95-187, 28 July 1995) reported that Roswell Army Air Field outgoing messages for 1946-1949 were destroyed without a disposition authority or destruction certificate.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1e3fdc3b1e",
 "source": "Inference from the Robertson Panel report, the Haines article and GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "A concealment effort sustained across eight decades and multiple agencies requires standing institutional machinery - security classification guides, cover-story doctrine, and personnel whose job is the maintenance of the cover - rather than repeated ad hoc decisions. Reasoning: the documented 1953 recommendation, the documented 1950s-60s false-explanation practice and the documented 1990s record gaps span three distinct institutional generations with no continuity of individual actors.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "domain",

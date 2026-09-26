@@ -1,0 +1,70 @@
+{
+"archived": [
+"https://web.archive.org/web/20260518213308/https://www.norad.mil/Newsroom/Press-Releases/"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-20e7e3d924",
+"locator": null,
+"node": "norad-northcom",
+"nodeLabel": "NORAD and US Northern Command",
+"sourceText": "NORAD Newsroom press releases, 2026",
+"text": "NORAD continued issuing intercept press releases through 2026, including multiple temporary flight restriction violation intercepts in the Northeast and over New Jersey.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-b2e9a34b93",
+"label": "DoD installation; NORAD/USNORTHCOM response",
+"note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-norad-mil-a51feca3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "norad.mil",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+},
+{
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+}
+],
+"node": null,
+"title": "NORAD Newsroom",
+"topics": [
+{
+"claims": [
+"c-20e7e3d924"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.norad.mil/Newsroom/Press-Releases/"
+]
+}

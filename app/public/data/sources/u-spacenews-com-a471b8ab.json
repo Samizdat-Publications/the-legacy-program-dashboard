@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-9162e357c4",
+"label": "Staff Director, House Space and Aeronautics Subcommittee",
+"note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-spacenews-com-a471b8ab",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "spacenews.com",
+"listedOn": [],
+"node": null,
+"title": "https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/"
+]
+}

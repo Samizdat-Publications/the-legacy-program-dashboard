@@ -7,14 +7,24 @@
 {
 "id": "c-3aa927f4ec",
 "source": "Episode description, 11 January 2026",
+"sources": [
+{
+"id": "t-7f9872e3ac39",
+"locator": null,
+"title": "Episode description, 11 January 2026"
+}
+],
 "text": "American Alchemy's 11 January 2026 episode with UAP Gerb frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-9e726b4369",
 "source": "YouTube view counts retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "The 30 January 2025 Jake Barber episode has 1,010,989 views; the 11 January 2026 UAP Gerb episode 514,729; the 8 March 2026 Weinstein/Davis episode 766,314; the 21 February 2025 UAP Gerb episode 450,091; the 14 November 2024 Shellenberger episode 203,593.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Board's own aggregated view-count tally across several episodes, not one source."
 }
 ],
 "cls": "program",

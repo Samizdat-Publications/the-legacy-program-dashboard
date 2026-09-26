@@ -1,0 +1,187 @@
+{
+"archived": [
+"https://web.archive.org/web/20251222010232/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-341aa13b60",
+"locator": null,
+"node": "dird-concepts-for-extracting-energy-from-the",
+"nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5376064a20",
+"locator": null,
+"node": "dird-concepts-for-extracting-energy-from-the",
+"nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
+"text": "Defense Intelligence Reference Document titled \"Concepts for Extracting Energy From the Quantum Vacuum\", series \"Acquisition Threat Support\", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9764335717",
+"locator": null,
+"node": "dird-concepts-for-extracting-energy-from-the",
+"nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
+"text": "The released cover page carries the date 6 April 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1004-007, matching EarthTech's citation exactly.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a31395b4d1",
+"locator": null,
+"node": "dird-concepts-for-extracting-energy-from-the",
+"nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
+"text": "Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dc8d062ae8",
+"locator": null,
+"node": "dird-concepts-for-extracting-energy-from-the",
+"nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"claimTier": 1,
+"id": "e-6ad5eeda0b",
+"label": "commissioned under AAWSAP; Acquisition Support Division (DWO-3), Defense Warning Office",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-d061673a2d",
+"label": "produced at EarthTech International, Austin",
+"note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 1,
+"id": "e-5f64f65cea",
+"label": "authored by Eric W. Davis",
+"note": "Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"claimTier": 1,
+"id": "e-4ae4877705",
+"label": "subject domain: zero-point/vacuum energy extraction",
+"note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"claimTier": 1,
+"id": "e-069838b70c",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1004-007. Publication date 6 April 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"claimTier": 1,
+"id": "e-5bff3ecaa5",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "n-dird-concepts-for-extracting-energy-from-the",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+}
+],
+"node": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"title": "Concepts for Extracting Energy From the Quantum Vacuum",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+]
+}

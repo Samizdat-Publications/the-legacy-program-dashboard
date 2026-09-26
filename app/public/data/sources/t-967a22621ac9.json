@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-60bb36887d",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "GEIPAN, 'IPACO: Le logiciel d'authentification et de traitement d'images du GEIPAN', geipan.fr, 20 May 2025",
+"text": "GEIPAN uses IPACO as its preferred image and video authentication and processing software for investigations (news item, 20 May 2025).",
+"tier": 1
+}
+],
+"date": "2025-05-20",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-967a22621ac9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "GEIPAN",
+"listedOn": [],
+"node": null,
+"title": "IPACO: Le logiciel d'authentification et de traitement d'images du GEIPAN",
+"topics": [],
+"type": "web page",
+"urls": []
+}

@@ -1,0 +1,107 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-c747574d4d",
+"locator": null,
+"node": "washington-flap-1952",
+"nodeLabel": "1952 Washington DC Sightings",
+"sourceText": "Project Blue Book case files, NARA RG 341; NICAP document archive files 1952_07_19_US_DC_Radar_968_970.pdf and 1952_07_19_US_DC_radar_965_966.pdf",
+"text": "Blue Book case documentation for the 19 July 1952 Washington radar events survives in the declassified record.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6dfd6d4bec",
+"locator": null,
+"node": "edward-ruppelt",
+"nodeLabel": "Edward J. Ruppelt",
+"sourceText": "USAF Project Blue Book records, NARA RG 341; Condon Report Sec. V Ch. 2",
+"text": "Ruppelt directed Blue Book from March 1952 through August 1953, the period covering the Washington flap and the Robertson Panel.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9dda1a6777",
+"locator": null,
+"node": "j-allen-hynek",
+"nodeLabel": "J. Allen Hynek",
+"sourceText": "Project Blue Book administrative records, NARA RG 341; Condon Report Sec. V Ch. 2",
+"text": "Hynek served as scientific consultant across Project SIGN (1947-1949), Project GRUDGE (1949-1951) and Project Blue Book (1952-1969).",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-245bf88940",
+"locator": "microfilm T-1206",
+"node": "kenneth-arnold",
+"nodeLabel": "Kenneth Arnold",
+"sourceText": "NICAP document archive, 470624cascades_docs.pdf; Project Blue Book records, NARA RG 341, microfilm T-1206",
+"text": "Arnold's 24 June 1947 Cascades sighting generated an Army Air Forces investigative file that survives in the declassified record.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-8a730bdf60",
+"locator": null,
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"sourceText": "Project Blue Book administrative records, NARA RG 341",
+"text": "Blue Book directors were Edward J. Ruppelt (1952-1953), Charles Hardin (1954-1956), George T. Gregory (1956-1958), Robert J. Friend (1958-1963) and Hector Quintanilla (1963-1969).",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-9cccab40c1",
+"locator": null,
+"node": "project-sign",
+"nodeLabel": "Project SIGN",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956); Project Blue Book administrative records, NARA RG 341",
+"text": "SIGN operated under Air Materiel Command intelligence at Wright Field, with J. Allen Hynek retained as scientific consultant from 1948.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "nara-rg-341",
+"identifiers": [
+"NARA Record Group 341"
+],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [],
+"node": null,
+"title": "The Report on Unidentified Flying Objects (NARA Record Group 341)",
+"topics": [
+{
+"claims": [
+"c-c747574d4d",
+"c-6dfd6d4bec",
+"c-9dda1a6777",
+"c-8a730bdf60"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-245bf88940",
+"c-9cccab40c1"
+],
+"id": "sign-estimate",
+"title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
+},
+{
+"claims": [
+"c-245bf88940"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "archive index",
+"urls": []
+}

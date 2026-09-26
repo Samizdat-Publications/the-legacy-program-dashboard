@@ -7,20 +7,38 @@
 {
 "id": "c-747d096008",
 "source": "DefenseScoop, 8 March 2024",
+"sources": [
+{
+"id": "u-defensescoop-com-2fe9c66b",
+"locator": null,
+"title": "DefenseScoop - DOD developing 'Gremlin' capability to help personnel collect real-time UAP data"
+}
+],
 "text": "AARO disclosed GREMLIN, a prototype capability to collect real-time UAP data, at the Volume I rollout in March 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8daebc366a",
 "source": "Kosloski media roundtable, 14 November 2024; DefenseScoop",
+"sources": [],
 "text": "Kosloski said in November 2024 that GREMLIN was conducting a 90-day collection at a classified national security location to establish a baseline of normal activity.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/transcript-dr-jon-kosloski-director-aaro-m) was rejected in review: names two sources; DefenseScoop is not the candidate"
 },
 {
 "id": "c-adf807e52f",
 "source": "AARO FY2025 Consolidated Annual Report on UAP",
+"sources": [
+{
+"id": "n-aaro-fy2025-annual-report",
+"locator": null,
+"title": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
 "text": "The FY2025 annual report, published July 2026, still states that a lack of timely and actionable sensor data constrains AARO's ability to resolve cases.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "program",

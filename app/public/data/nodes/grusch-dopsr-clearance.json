@@ -7,20 +7,44 @@
 {
 "id": "c-84e2b2a2a5",
 "source": "DoD FOIA case 23-F-0946 release; The Debrief, 5 June 2023",
+"sources": [
+{
+"id": "foia-23-f-0946",
+"locator": null,
+"title": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+}
+],
 "text": "DOPSR cleared Grusch's submissions for open publication on 4 April 2023 and 6 April 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d2c08a8d21",
 "source": "DoD FOIA 23-F-0946 release, analyzed by The Black Vault",
+"sources": [
+{
+"id": "foia-23-f-0946",
+"locator": null,
+"title": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+}
+],
 "text": "Internal DOPSR correspondence: reviewer Michelle Whigham raised the sensitive-areas references; Don Kluzik responded that vague references of that kind are not a problem.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d9d3120744",
 "source": "House Oversight hearing transcript, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Grusch confirmed the clearance under oath: 'Correct, through DODSR - DoD Prepublication and Security Review.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

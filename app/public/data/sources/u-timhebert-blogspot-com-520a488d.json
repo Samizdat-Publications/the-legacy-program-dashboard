@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7ffc5950cc",
+"locator": null,
+"node": "tim-hebert",
+"nodeLabel": "Tim Hebert",
+"sourceText": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html and 'Engineering Change Proposal 1221', http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html , both opened 2026-09-19",
+"text": "Tim Hebert states he served as a Minuteman missile crew member with the 490th Strategic Missile Squadron at Malmstrom AFB from 1981 to 1985 and in the Wing Codes Division at Grand Forks AFB from 1985 to 1988, and later worked as a programme manager assigned to Air Force Systems Command handling engineering change proposals.",
+"tier": 2
+}
+],
+"date": "2012-10",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tim-hebert",
+"label": "Tim Hebert"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 2,
+"id": "e-ffd37b38ec",
+"label": "Published argument from the released paper that no UFO element is supported",
+"note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
+"type": "denial"
+}
+],
+"era": "2",
+"host": null,
+"id": "u-timhebert-blogspot-com-520a488d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "timhebert.blogspot.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+{
+"cls": "person",
+"id": "tim-hebert",
+"label": "Tim Hebert"
+}
+],
+"node": null,
+"title": "http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html",
+"topics": [],
+"type": "article",
+"urls": [
+"http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html"
+]
+}

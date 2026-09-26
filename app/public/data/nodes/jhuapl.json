@@ -7,14 +7,18 @@
 {
 "id": "c-33d27c220f",
 "source": "NSF NCSES Master Government List of FFRDCs (absence); DoD UARC designation records",
+"sources": [],
 "text": "JHU APL is a University Affiliated Research Center rather than an FFRDC, and does not appear on the NSF Master Government List of Federally Funded R&D Centers.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:ncses.nsf.gov/resource/master-gov-lists-ffrdc) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-66cc222b7e",
 "source": "Structural inference; explicitly not an allegation",
+"sources": [],
 "text": "The Navy-centric character of the modern UAP record, combined with APL's status as the Navy's principal technical adviser and its exemption from the FFRDC registration and sponsoring-agreement regime, makes UARCs a materially unexamined branch of the congressional contractor inquiry. Reasoning: institutional form plus service alignment; no evidence of APL involvement exists.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: board's own structural inference, not a source"
 }
 ],
 "cls": "institution",
@@ -88,7 +92,7 @@
 ],
 "sub": "University Affiliated Research Center (UARC), not an FFRDC; Laurel, MD; est. 1942; principal Navy technical adviser",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 889 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 888 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

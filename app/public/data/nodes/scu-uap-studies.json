@@ -7,26 +7,52 @@
 {
 "id": "c-a745f08c45",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"sources": [
+{
+"id": "u-doi-org-df1994a1",
+"locator": null,
+"title": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)"
+}
+],
 "text": "SCU published '2013 Aguadilla Puerto Rico UAP: The detailed analysis of an Unidentified Anomalous Phenomenon captured by the Department of Homeland Security' by Powell, Beall, Cates, Paulson and Hoffman.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4c7c52efec",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
+"sources": [
+{
+"id": "u-doi-org-61f4d7b4",
+"locator": null,
+"title": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)"
+}
+],
 "text": "SCU published 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena' by Powell, Little, Hancock, Hasan and Truong on 7 December 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b3c5a8446b",
 "source": "SCU Zenodo record, DOI 10.5281/zenodo.7758498 and DOI 10.5281/zenodo.16299623",
+"sources": [],
 "text": "SCU's Hancock, Porritt and Grosvenor series analysing UAP activity against the United States atomic warfare complex 1945-1975 runs from 2023 through 'UAP Operational Presence 1945-1975' in April 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:doi.org/10.5281/zenodo.7758498) was rejected in review: names two Zenodo records; candidate is only one"
 },
 {
 "id": "c-07ab10c974",
 "source": "explorescu.org",
+"sources": [
+{
+"id": "u-explorescu-org-25f668f4",
+"locator": null,
+"title": "Scientific Coalition for UAP Studies"
+}
+],
 "text": "SCU is a registered 501(c)(3) charitable organisation.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

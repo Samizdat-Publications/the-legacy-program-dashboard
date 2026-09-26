@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+},
+"b": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"claimTier": 1,
+"id": "e-5096558a18",
+"label": "NORAD-controlled fighters destroyed three unidentified objects in four days",
+"note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-ae3dacd247",
+"label": "Lake Huron engagement video withheld until the May 2026 PURSUE release",
+"note": "Infrared footage of the 12 February 2023 shootdown was released on 22 May 2026 via PURSUE, with the entry noting an unusual lack of substantiated chain of custody.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+},
+"b": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 2,
+"id": "e-2e22906aa4",
+"label": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
+"note": "Kirkpatrick: 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.' The Canadian Clerk of the Privy Council's Secret memo of 14 Feb 2023 records the Yukon object's function and propulsion as unverified.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-twz-com-d76de9e1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+}
+],
+"node": null,
+"title": "The War Zone - we finally see the object shot down over Lake Huron",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+]
+}

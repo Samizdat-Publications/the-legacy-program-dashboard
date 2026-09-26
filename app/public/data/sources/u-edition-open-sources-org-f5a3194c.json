@@ -1,0 +1,145 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f4e5e7cab3",
+"locator": null,
+"node": "joseph-weber",
+"nodeLabel": "Joseph Weber",
+"sourceText": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, 2011. https://edition-open-sources.org/sources/5/6/index.html",
+"text": "The conference report's participants list prints 'Weber, J. | University of Maryland'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-37a6c7469d",
+"locator": "eds. Rickles and DeWitt",
+"node": "louis-witten",
+"nodeLabel": "Louis Witten",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Rickles and DeWitt, participants list",
+"text": "The participants list of the January 1957 Chapel Hill conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore', directly above 'Bass, R.W. | RIAS , Inc., Baltimore'. Witten's contribution, with R. W. Bass, is 'Some Remarks on Cosmological Models'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a931f2dc0f",
+"locator": null,
+"node": "peter-bergmann",
+"nodeLabel": "Peter G. Bergmann",
+"sourceText": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011. https://edition-open-sources.org/sources/5/6/index.html",
+"text": "The conference report's participants list prints 'Bergmann, P. G. | Syracuse University'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6dc5a38fcc",
+"locator": null,
+"node": "rias-inc",
+"nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list",
+"text": "The participants list of the January 1957 Chapel Hill conference prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore', establishing RIAS as a corporate entity in Baltimore with staff at the conference.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "joseph-weber",
+"label": "Joseph Weber"
+},
+"b": {
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+"claimTier": 1,
+"id": "e-397aa273bc",
+"label": "Participant at the Institute's inaugural conference, January 1957",
+"note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "joseph-weber",
+"label": "Joseph Weber"
+},
+"b": {
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+"claimTier": 1,
+"id": "e-44a537068b",
+"label": "Both printed on the same forty-six-name participants list",
+"note": "Both are printed on the same forty-six-name participants list.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+},
+"b": {
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+"claimTier": 1,
+"id": "e-ef94fc0337",
+"label": "Witten represented RIAS at the 1957 Chapel Hill gravitation conference",
+"note": "The participants list prints 'Witten, L. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-edition-open-sources-org-f5a3194c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "edition-open-sources.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "joseph-weber",
+"label": "Joseph Weber"
+},
+{
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+{
+"cls": "person",
+"id": "peter-bergmann",
+"label": "Peter G. Bergmann"
+},
+{
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+}
+],
+"node": null,
+"title": "Chapel Hill conference participants list",
+"topics": [
+{
+"claims": [
+"c-f4e5e7cab3",
+"c-37a6c7469d",
+"c-a931f2dc0f",
+"c-6dc5a38fcc"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "book",
+"urls": [
+"https://edition-open-sources.org/sources/5/6/index.html"
+]
+}

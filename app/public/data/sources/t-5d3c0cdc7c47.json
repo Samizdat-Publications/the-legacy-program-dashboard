@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-2e887f4156",
+"locator": null,
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"sourceText": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
+"text": "Linda Moulton Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions.",
+"tier": 2
+}
+],
+"date": "2019-11-14",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-5d3c0cdc7c47",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [],
+"node": null,
+"title": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
+"topics": [
+{
+"claims": [
+"c-2e887f4156"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-2e887f4156"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "article",
+"urls": []
+}

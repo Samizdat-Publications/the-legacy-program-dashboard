@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-ac131749",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)"
+}
+],
+"node": null,
+"title": "Congressional Record, House, 23 May 1994, H.R. 3724 (Brien McMahon Federal Building)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CREC-1994-05-23/html/CREC-1994-05-23-pt1-PgH37.htm"
+]
+}

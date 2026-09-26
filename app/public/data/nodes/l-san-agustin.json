@@ -8,8 +8,16 @@
 {
 "id": "c-d88b1cc952",
 "source": "Inference from the Berlitz-Moore transmission chain and GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The San Agustin strand of the Roswell corpus rests entirely on second-hand and late-recalled testimony with no supporting primary document. Reasoning: the Barnett account reached print only in 1980 via intermediaries, and GAO found the contemporaneous message traffic destroyed.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "location",

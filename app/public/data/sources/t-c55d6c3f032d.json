@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f109798779",
+"locator": null,
+"node": "mark-milley",
+"nodeLabel": "Mark A. Milley",
+"sourceText": "Gen. Mark Milley, public remarks, 6 August 2023",
+"text": "Stated he had never encountered evidence supporting claims of alien craft or of a government coverup.",
+"tier": 2
+}
+],
+"date": "2023-08-06",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-c55d6c3f032d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Gen. Mark Milley, public remarks, 6 August 2023",
+"topics": [],
+"type": "transcript",
+"urls": []
+}

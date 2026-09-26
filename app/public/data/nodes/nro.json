@@ -7,32 +7,60 @@
 {
 "id": "c-2a32ef084c",
 "source": "House Committee on Oversight and Accountability hearing notice, 26 July 2023",
+"sources": [
+{
+"id": "u-oversight-house-gov-e0a0e77f",
+"locator": null,
+"title": "House Oversight - hearing page, 26 July 2023"
+}
+],
 "text": "David Grusch testified before the House Oversight Committee on 26 July 2023 with the official witness title 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0c7d2aa7b7",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "NRO is listed among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-85ac29193a",
 "source": "NRO About page, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-nro-gov-7ed1d46f",
+"locator": null,
+"title": "National Reconnaissance Office - About NRO"
+}
+],
 "text": "NRO's published leadership as of August 2026 is Acting Director William B. Adkins; the agency describes its workforce as 31% NRO cadre, 34% detailed government personnel and 35% military.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-52bcf8861c",
 "source": "NRO's own published declassified history and the 1992 DEPSECDEF disclosure decision",
+"sources": [],
 "text": "The fact of the NRO's existence was classified from its establishment in 1961 until its declassification in September 1992, a period of 31 years.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Generic reference to NRO's own history, no titled document."
 },
 {
 "id": "c-6ccb7dbbe8",
 "source": "Inference from the documented 1961-1992 concealment of the NRO's existence",
+"sources": [],
 "text": "The NRO precedent defeats the strongest a priori objection to a concealed legacy program - that 'someone would have talked'. Reasoning: an agency with tens of thousands of cleared personnel and a multi-billion-dollar annual budget sustained total public non-existence for 31 years, so the leak-rate argument is empirically falsified.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

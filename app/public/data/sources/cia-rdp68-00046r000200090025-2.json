@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3b363924c7",
+"locator": "Worcester Gazette, 1 June 1960",
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+"text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-72654f73ba",
+"locator": "Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin",
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12",
+"text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-0090ce15ca",
+"label": "first Director of Central Intelligence, May 1947 to October 1950",
+"note": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "cia-rdp68-00046r000200090025-2",
+"identifiers": [
+"CIA-RDP68-00046R000200090025-2"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+}
+],
+"node": null,
+"title": "Congressional Action: Ex-C.I.A. Chief Wants UFO Probe (CIA-RDP68-00046R000200090025-2)",
+"topics": [
+{
+"claims": [
+"c-3b363924c7",
+"c-72654f73ba"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-3b363924c7",
+"c-72654f73ba"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-3b363924c7",
+"c-72654f73ba"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2"
+]
+}

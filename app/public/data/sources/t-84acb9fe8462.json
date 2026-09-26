@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4f368059de",
+"locator": null,
+"node": "jason-advisory-group",
+"nodeLabel": "JASON",
+"sourceText": "Bloomberg Government, 1 December 2020",
+"text": "MITRE received $34.4 million in obligations for JASON program management work as the contract was ending, and MITRE currently holds the contract to administer JASON.",
+"tier": 1
+}
+],
+"date": "2020-12-01",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-84acb9fe8462",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Bloomberg Government",
+"listedOn": [],
+"node": null,
+"title": "Bloomberg Government, 1 December 2020",
+"topics": [],
+"type": "article",
+"urls": []
+}

@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-10a7fbfce8",
+"locator": null,
+"node": "d-contracting",
+"nodeLabel": "Federal Contracting Mechanics",
+"sourceText": "The Black Vault, 'Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material'",
+"text": "Secrecy around the Army-TTSA agreement deepened following initial disclosure, with subsequent records requests returning reduced material.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"b": {
+"cls": "institution",
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+},
+"claimTier": 1,
+"id": "e-6f2a363349",
+"label": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
+"note": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+},
+"b": {
+"cls": "person",
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
+"claimTier": 1,
+"id": "e-a2dbbb5b61",
+"label": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
+"note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-2fc7a630",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "person",
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+{
+"cls": "institution",
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+}
+],
+"node": null,
+"title": "The Black Vault — Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+]
+}

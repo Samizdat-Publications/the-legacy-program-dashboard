@@ -1,0 +1,110 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "barksdale-2026-incursions",
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+},
+"b": {
+"cls": "location",
+"id": "l-barksdale",
+"label": "Barksdale Air Force Base, Louisiana"
+},
+"claimTier": 1,
+"id": "e-f269ae85ea",
+"label": "Site of the March 2026 incursion waves and FPCON Charlie alert",
+"note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot"
+},
+"b": {
+"cls": "event",
+"id": "barksdale-2026-incursions",
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+},
+"claimTier": 2,
+"id": "e-d194f6627e",
+"label": "Confirmed year-on-year increase in detections over installations",
+"note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot"
+},
+"b": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"claimTier": 2,
+"id": "e-cf1225c914",
+"label": "Commander, NORAD and USNORTHCOM from February 2024",
+"note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "jiatf-401",
+"label": "Joint Interagency Task Force 401 (JIATF-401)"
+},
+"b": {
+"cls": "event",
+"id": "barksdale-2026-incursions",
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+},
+"claimTier": 2,
+"id": "e-baa1666c7f",
+"label": "The 2026 bomber-base incursions are the task force's live problem",
+"note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-twz-com-dd78f586",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "event",
+"id": "barksdale-2026-incursions",
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+},
+{
+"cls": "location",
+"id": "l-barksdale",
+"label": "Barksdale Air Force Base, Louisiana"
+},
+{
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot"
+},
+{
+"cls": "person",
+"id": "matt-ross",
+"label": "Matt Ross"
+}
+],
+"node": null,
+"title": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+]
+}

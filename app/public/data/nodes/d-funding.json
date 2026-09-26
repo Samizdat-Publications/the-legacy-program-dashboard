@@ -8,26 +8,58 @@
 {
 "id": "c-08dc49061d",
 "source": "50 U.S.C. 3510",
+"sources": [
+{
+"id": "usc-50-3510",
+"locator": null,
+"title": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+}
+],
 "text": "50 U.S.C. 3510 permits certain expenditures to be accounted for solely on the certificate of the agency head.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b50c0f271b",
 "source": "P.L. 119-75, DoD Appropriations Act 2026",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": "DoD Appropriations Act 2026",
+"title": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+}
+],
 "text": "The Department of Defense Appropriations Act for 2026 (P.L. 119-75) contains general transfer authority at Sections 8005-8009 permitting post-enactment movement of funds between accounts.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9ce090d6b5",
 "source": "DODIG-2016-113",
+"sources": [
+{
+"id": "n-dodig-2016-113",
+"locator": null,
+"title": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
+}
+],
 "text": "DoD OIG report DODIG-2016-113 found that Army General Fund adjustments were not adequately documented or supported.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a43f5bcbbf",
 "source": "DOWIG-2026-081",
+"sources": [
+{
+"id": "n-dowig-2026-081",
+"locator": null,
+"title": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
+}
+],
 "text": "The DoD Inspector General published its explanation of the FY2025 Department of War financial statement audit as report DOWIG-2026-081 in May 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",
@@ -525,7 +557,7 @@
 ],
 "sub": "Financial domain - how money reaches an unacknowledged programme and why it cannot be traced",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 77 of 1138, score 71). 12 connections, 10 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 78 of 1138, score 71). 12 connections, 10 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

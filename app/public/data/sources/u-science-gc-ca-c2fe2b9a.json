@@ -1,0 +1,343 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-23da8fd40a",
+"locator": null,
+"node": "canada-dot",
+"nodeLabel": "Canada Department of Transport",
+"sourceText": "OCSA, Sky Canada Project report, June 2025",
+"text": "Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings; the National Research Council of Canada separately collected and studied UAP reports from 1967 until the 1990s.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-370d37bdf6",
+"locator": null,
+"node": "canada-dot",
+"nodeLabel": "Canada Department of Transport",
+"sourceText": "OCSA, Sky Canada Project report, June 2025",
+"text": "In 1950 the Department of Transport granted its engineer Wilbert Smith permission to do part-time research into whether some UFOs could use the power of the Earth's magnetic field as a source of propulsion; this became Project Magnet, whose scope Smith expanded to investigating the validity of UFO observations, including launching a balloon over Ottawa to monitor public and media reaction and establishing a UFO observatory outside the capital.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-abdc585f26",
+"locator": null,
+"node": "canada-dot",
+"nodeLabel": "Canada Department of Transport",
+"sourceText": "OCSA, Sky Canada Project report, June 2025",
+"text": "The Sky Canada report recommends that Transport Canada, in collaboration with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation and analyse those reports to track trends.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-878f5e48b1",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+"text": "The Canadian government identifies SEFAA as one of three international models: 'In Chile, the SEFAA ... serves as the official body responsible for collecting, analyzing and scientifically studying UAPs. It operates within the General Directorate of Civil Aeronautics.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-90c3c0453a",
+"locator": null,
+"node": "mona-nemer",
+"nodeLabel": "Dr Mona Nemer",
+"sourceText": "Sky Canada Project report, June 2025",
+"text": "Report recommendation on international collaboration: 'The lead organization should establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-beb425dee7",
+"locator": "citing an Earnscliffe Strategies survey (2024)",
+"node": "mona-nemer",
+"nodeLabel": "Dr Mona Nemer",
+"sourceText": "Sky Canada Project report, June 2025, citing an Earnscliffe Strategies survey commissioned in 2024",
+"text": "Survey finding: 'one in four respondents say they have personally witnessed a UAP in their lifetime. However, only 10% reported their sightings and 40% of respondents would not know whom to contact for reporting.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ed7fa7e79b",
+"locator": "Recommendations",
+"node": "mona-nemer",
+"nodeLabel": "Dr Mona Nemer",
+"sourceText": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025, Recommendations",
+"text": "Report recommendation: 'Identify a lead: A federal department or agency responsible for managing public UAP data should be identified. Establish a dedicated service: This service would collect testimonies, investigate cases and post its analyses publicly.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b7f4575c4e",
+"locator": null,
+"node": "lac-ufo-collection",
+"nodeLabel": "Library and Archives Canada - UFO records collection",
+"sourceText": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+"text": "'The LAC's collection of government records on UAPs includes files from 1947 to 1995 primarily received from four federal organizations: the Department of National Defence; the Department of Transport; the National Research Council of Canada; and the Royal Canadian Mounted Police ... The entire LAC collection (over 15,000 pages) is publicly accessible ... A subset of the digitized records (around 9,500 pages) are directly available online.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-01c53c3647",
+"locator": "recommendations",
+"node": "ocsa-canada",
+"nodeLabel": "Office of the Chief Science Advisor of Canada",
+"sourceText": "Sky Canada Project report, recommendations",
+"text": "The report recommends identifying the department responsible for managing public UAP data, establishing a dedicated service to collect testimonies, investigate cases and post its analyses publicly, and having Transport Canada, with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-afb3f918f0",
+"locator": "section A",
+"node": "ocsa-canada",
+"nodeLabel": "Office of the Chief Science Advisor of Canada",
+"sourceText": "Sky Canada Project report, section A",
+"text": "OCSA states the project was spurred by increased public interest and by developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-adeac6ea5b",
+"locator": null,
+"node": "project-second-storey",
+"nodeLabel": "Project Second Storey (Canada)",
+"sourceText": "Sky Canada Project report, June 2025",
+"text": "'The Committee was chaired by the National Research Council of Canada (NRC) astronomer Dr. Peter Millman; it included members from various arms of the Canadian military intelligence and other government agencies. The committee did not investigate UFO sightings, but it developed a standardized form.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-fe06d11ebb",
+"locator": null,
+"node": "project-second-storey",
+"nodeLabel": "Project Second Storey (Canada)",
+"sourceText": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+"text": "'The committee held six meetings from 1952 to 1954 and concluded that UFOs neither posed a security threat, nor were of scientific interest. It recommended ending all investigations by the Canadian military.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-23fb21346a",
+"locator": null,
+"node": "sky-canada-project",
+"nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"sourceText": "Sky Canada Project report, June 2025",
+"text": "'Some public sources estimate that Canadians report somewhere between 600 and 1,000 UAP sightings annually.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-347138e688",
+"locator": "Key findings",
+"node": "sky-canada-project",
+"nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"sourceText": "Sky Canada Project report, June 2025, Key findings",
+"text": "'Currently, UAP reports are scattered across multiple government and non government organizations' and 'Most departments do not compile the reports they receive, making it difficult to provide information on the number of reports.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-43d63ae5ea",
+"locator": "Introduction",
+"node": "sky-canada-project",
+"nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"sourceText": "Sky Canada Project report, June 2025, Introduction",
+"text": "'The project was spurred by increased public interest and recent developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-658774a0c9",
+"locator": null,
+"node": "sky-canada-project",
+"nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"sourceText": "Sky Canada Project report, June 2025",
+"text": "On GEIPAN's operating model: 'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France ... GEIPAN's steering committee is chaired by an established aerospace expert and includes representatives of the country's civil and military authorities.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d879595bda",
+"locator": null,
+"node": "sky-canada-project",
+"nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"sourceText": "Sky Canada Project report, June 2025",
+"text": "On the RCMP: 'Currently, the RCMP does not have a formal policy for the collection or dissemination of UAP reports ... Such reports are typically categorized as non-offence (non-criminal) incidents under the Aeronautics Act - Other Activities ... It was therefore impossible for the RCMP to provide statistics about UAP reports.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-be1780838a",
+"locator": null,
+"node": "intl-uap-office-model",
+"nodeLabel": "The three-office model: GEIPAN, SEFAA, AARO",
+"sourceText": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+"text": "'While there is no single model or universally established operating standard, the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches to UAP reporting.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-c8fd5e565e",
+"locator": null,
+"node": "intl-uap-office-model",
+"nodeLabel": "The three-office model: GEIPAN, SEFAA, AARO",
+"sourceText": "Sky Canada Project report, June 2025",
+"text": "'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-a37188a394",
+"label": "AARO reviewed as a foreign model and named as a proposed partner",
+"note": "The Sky Canada report records that 'On June 1, 2024, AARO released its second report on 757 UAP reports from May 1, 2023, to June 1, 2024', of which '174 cases were resolved and found to be objects such as balloons, birds, unmanned aerial systems, satellites and aircraft', and cites AARO's Historical Record Report Volume I in its references. Its recommendation 13 directs the future Canadian lead organization to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "canada-dot",
+"label": "Canada Department of Transport"
+},
+"claimTier": 1,
+"id": "e-c221d0394a",
+"label": "Sky Canada Project audited and issued recommendations to Transport Canada",
+"note": "The report maps Transport Canada's Civil Aviation Daily Occurrence Reporting System as the federal channel where pilot and public sightings land: 'Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings', collecting reports 'from pilots, air traffic controllers and the public' on incidents 'involving Canadian-registered aircraft at Canadian airports, in Canadian sovereign airspace, and international airspace for which Canada has accepted responsibility'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-06a6b43e7f",
+"label": "Chile's civil-aviation UAP unit used as a model and proposed partner",
+"note": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-163ebdc95d",
+"label": "NASA's UAP study cited as precedent and named as a proposed partner",
+"note": "The report records that 'NASA released an independent study in September 2023 focused on how best to collect future UAP data to advance scientific study' and that 'following the release of this report, NASA announced the creation of a new position: Director of Unidentified Anomalous Phenomena Research'. NASA is one of the four international bodies its recommendation 13 names as partnership targets for the recommended Canadian lead organization.",
+"type": "research"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-ottawa",
+"label": "Ottawa, Ontario, Canada"
+},
+"b": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"claimTier": 1,
+"id": "e-db6ba893b9",
+"label": "Office of the Chief Science Advisor, Ottawa",
+"note": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-science-gc-ca-c2fe2b9a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Government of Canada",
+"listedOn": [],
+"node": null,
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025",
+"topics": [
+{
+"claims": [
+"c-23da8fd40a",
+"c-370d37bdf6",
+"c-abdc585f26",
+"c-90c3c0453a",
+"c-beb425dee7",
+"c-ed7fa7e79b",
+"c-b7f4575c4e",
+"c-01c53c3647",
+"c-afb3f918f0",
+"c-adeac6ea5b",
+"c-fe06d11ebb",
+"c-23fb21346a",
+"c-347138e688",
+"c-658774a0c9",
+"c-d879595bda"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+},
+{
+"claims": [
+"c-878f5e48b1",
+"c-658774a0c9",
+"c-be1780838a",
+"c-c8fd5e565e"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+},
+{
+"claims": [
+"c-878f5e48b1"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+},
+{
+"claims": [
+"c-01c53c3647"
+],
+"id": "nasa-uap-study",
+"title": "NASA's UAP independent study, 2022-23"
+}
+],
+"type": "document",
+"urls": [
+"https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+]
+}

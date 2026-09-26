@@ -1,0 +1,116 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-338f36edf9",
+"locator": "sec. 374.2, Guide to Federal Records in the National Archives",
+"node": "afswp",
+"nodeLabel": "Armed Forces Special Weapons Project",
+"sourceText": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.2, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
+"text": "The National Archives states the same establishment independently: 'AFSWP established as an interservice agency, effective December 31, 1946, by a joint letter of the Secretaries of War and the Navy, January 29, 1947, with responsibility for discharging all military functions relating to atomic energy in coordination with the Atomic Energy Commission'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-bfe7530fb3",
+"locator": "secs. 374.1 to 374.5",
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Records of the Defense Threat Reduction Agency, Record Group 374, secs. 374.1 to 374.5, https://www.archives.gov/research/guide-fed-records/groups/374.html",
+"text": "The Atomic Energy Commission's records are a different archive. Record Group 374 covers 1943-73 and holds AFSWP general records, headquarters organisation records, the AFSWP special detachments assigned to Atomic Energy Commission facilities 1943-52 and the joint task force records; its Related Records entry names 'Records of the Atomic Energy Commission, RG 326' as a separate group.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ef4fb44dd5",
+"locator": "sec. 374.1, Guide to Federal Records in the National Archives",
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.1, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
+"text": "The National Archives record group description states the establishment: 'Established: In the Department of Defense (DOD) as a combat support agency, effective October 1, 1998, by DOD Directive 5105.62, September 30, 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration, and elements of the Office of the Secretary of Defense concerned with arms control programs management.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-956b7eef41",
+"locator": "and 63 FR 68736",
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"sourceText": "Batch 17 file 03, 0:43;33-0:44;22, research/leads/area52-corpus-17.md; checked against RG 374, https://www.archives.gov/research/guide-fed-records/groups/374.html and 63 FR 68736, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb, relaying Dylan Borland's testimony, said that 'old Atomic Energy Commission records held within' DTRA concluded that some UFOs were of non-human origin. No title, number or date was given. Nothing opened for this node supports it: the AEC's own records are in a separate National Archives record group, and DTRA's published inventory of what it holds from that era is nuclear test participation, exposure and human radiation experimentation records.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "afswp",
+"label": "Armed Forces Special Weapons Project"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-d2d1f1abb5",
+"label": "Subsumed under the National Military Establishment in 1947 and the Department of Defense in 1949",
+"note": "The NARA record group description records AFSWP as an interservice agency from January to July 1947, under the National Military Establishment from July 1947 to August 1949, and under the Department of Defense from 1949 to 1959.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dtra",
+"label": "Defense Threat Reduction Agency"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-83b802c348",
+"label": "Established as a DoD combat support agency by DoD Directive 5105.62",
+"note": "Effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating DSWA, OSIA, DTSA and OSD arms control elements.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "nara-rg-374",
+"identifiers": [
+"NARA Record Group 374"
+],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "afswp",
+"label": "Armed Forces Special Weapons Project"
+},
+{
+"cls": "institution",
+"id": "dtra",
+"label": "Defense Threat Reduction Agency"
+}
+],
+"node": null,
+"title": "NARA Record Group 374",
+"topics": [
+{
+"claims": [
+"c-338f36edf9",
+"c-bfe7530fb3"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "archive index",
+"urls": []
+}

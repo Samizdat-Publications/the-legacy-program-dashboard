@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-0f989f4879",
+"locator": null,
+"node": "aaro-2026-posture",
+"nodeLabel": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
+"sourceText": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
+"text": "AARO sponsored an invite-only UAP research workshop in the Washington DC area in early August 2025, officially hosted by Associated Universities, Inc., with roughly 40 government, academic and independent researchers; Pentagon spokesperson Sue Gough said AARO recognises 'input from the scientific and academic community is critical to its work.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6f2957a7d0",
+"locator": null,
+"node": "aaro-aui-workshop-2025",
+"nodeLabel": "AARO invite-only UAP research workshop (early August 2025)",
+"sourceText": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
+"text": "Associated Universities, Inc. officially hosted the workshop, which was set up and sponsored by AARO; approximately 40 government, academic and independent researchers attended; DoD did not publish attendee lists or announce the event beforehand.",
+"tier": 2
+}
+],
+"date": "2026-03-16",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "aaro-aui-workshop-2025",
+"label": "AARO invite-only UAP research workshop (early August 2025)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 3,
+"id": "e-8b13112369",
+"label": "operational precursor",
+"note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
+"type": "programmatic"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-07620005",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
+{
+"cls": "event",
+"id": "aaro-aui-workshop-2025",
+"label": "AARO invite-only UAP research workshop (early August 2025)"
+}
+],
+"node": null,
+"title": "DefenseScoop, AARO invite-only workshop",
+"topics": [
+{
+"claims": [
+"c-6f2957a7d0"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/"
+]
+}

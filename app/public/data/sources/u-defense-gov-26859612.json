@@ -1,0 +1,68 @@
+{
+"archived": [
+"https://web.archive.org/web/20260710192152/https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-5c89b52f4e",
+"label": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+"note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-419c09f2bd",
+"label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-defense-gov-26859612",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "event",
+"id": "ev-chile-navy-flir-2014",
+"label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)"
+},
+{
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+}
+],
+"node": null,
+"title": "US DoD, Statement on the Release of Historical Navy Videos",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+]
+}

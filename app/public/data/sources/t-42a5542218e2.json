@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-d270c0fb5a",
+"locator": "1:25:17 and 1:26:06",
+"node": "jaric",
+"nodeLabel": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"sourceText": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 34, 18 April 2025, 1:25:17 and 1:26:06",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 34, 18 April 2025, at 1:25:17, Nick Pope said of the Calvine photographs: 'we had access to Jarrick, which was the joint air reconnaissance and intelligence center ... They looked at all this and they said, yeah, it's real. It's whatever it is. It's 75 feet across. It's a solid, structured craft, but we have no idea what it is.' At 1:26:06 he called it 'an official intelligence community analysis'. No JARIC assessment of these photographs has been opened, and the Ministry of Defence file covering the period is closed until 2076.",
+"tier": 2
+}
+],
+"date": "2025-04-18",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-42a5542218e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "AREA52 - DEBRIEFED with Chris Ramsay",
+"listedOn": [],
+"node": null,
+"title": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 34, 18 April 2025, 1:25:17 and 1:26:06",
+"topics": [
+{
+"claims": [
+"c-d270c0fb5a"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
+"type": "broadcast",
+"urls": []
+}

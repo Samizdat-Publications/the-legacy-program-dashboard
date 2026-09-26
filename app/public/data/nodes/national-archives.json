@@ -7,20 +7,44 @@
 {
 "id": "c-1789d34852",
 "source": "National Archives, archives.gov/uap",
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "NARA established Record Group 615, the Unidentified Anomalous Phenomena Records Collection, pursuant to Secs. 1841-1843 of P.L. 118-31.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1b6dd35e9a",
 "source": "P.L. 118-31, Sec. 1841(b)(2), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1841(b)(2), GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1841(b)(2) requires records to be available for inspection at the National Archives within 30 days of transmission and online within a further 180 days.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f762b2d463",
 "source": "National Archives, archives.gov/uap",
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "NARA states it will add UAP records to RG 615 'on an ongoing, rolling basis as they are received from federal agencies' — the transmission trigger rests with the agencies, not the Archivist.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

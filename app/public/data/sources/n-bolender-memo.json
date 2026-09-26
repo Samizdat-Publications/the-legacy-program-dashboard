@@ -1,0 +1,181 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-937c84ed51",
+"locator": null,
+"node": "bolender-memo",
+"nodeLabel": "Bolender Memorandum",
+"sourceText": "Bolender memorandum, 20 Oct 1969 (archived scan)",
+"text": "The memorandum is dated 20 October 1969 and signed by Brig. Gen. C. H. Bolender, USAF Deputy Director of Development.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-525b572fc9",
+"locator": null,
+"node": "carroll-bolender",
+"nodeLabel": "Carroll H. Bolender",
+"sourceText": "Bolender memorandum, 20 Oct 1969, scan in the NICAP document archive (file 1969_10_20_Bolender_Memo.pdf)",
+"text": "A memorandum dated 20 October 1969 by Brig. Gen. C. H. Bolender recommending termination of Project Blue Book exists and is preserved in scanned form in the public record.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c184d9c2d3",
+"locator": null,
+"node": "janap-146",
+"nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+"sourceText": "Bolender memorandum, 20 Oct 1969",
+"text": "The Bolender memorandum of 20 October 1969 states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system.",
+"tier": 1
+}
+],
+"date": "1969",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-b36e94bf20",
+"label": "Memo recommended termination; Blue Book closed two months later",
+"note": "Secretary of the Air Force Robert C. Seamans Jr. announced the termination on 17 December 1969, citing the Condon Report.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "carroll-bolender",
+"label": "Carroll H. Bolender"
+},
+"b": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"claimTier": 1,
+"id": "e-c134213fa8",
+"label": "Bolender authored the termination memorandum",
+"note": "Brig. Gen. Bolender, USAF Deputy Director of Development, signed the 20 October 1969 memorandum recommending Blue Book's closure and explaining why closure cost the Air Force nothing operationally.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"b": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"claimTier": 2,
+"id": "e-db9a42211f",
+"label": "Bolender names JANAP 146 as the channel Blue Book was not",
+"note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-bd9b6d6043",
+"label": "JANAP created a parallel reporting channel outside Blue Book",
+"note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"b": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"claimTier": 3,
+"id": "e-956bb67739",
+"label": "The public statistics are the residue of a filter, not the corpus",
+"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+"type": "denial"
+}
+],
+"era": "0",
+"host": null,
+"id": "n-bolender-memo",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+{
+"cls": "person",
+"id": "carroll-bolender",
+"label": "Carroll H. Bolender"
+},
+{
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+}
+],
+"node": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"title": "Bolender Memorandum",
+"topics": [
+{
+"claims": [
+"c-937c84ed51",
+"c-c184d9c2d3"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-937c84ed51",
+"c-c184d9c2d3"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-937c84ed51"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "document",
+"urls": [
+"https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+]
+}

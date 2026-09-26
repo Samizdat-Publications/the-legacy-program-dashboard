@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-294a417c86",
+"locator": null,
+"node": "baass-ten-month-report",
+"nodeLabel": "BAASS Ten Month Report (2009)",
+"sourceText": "Leaked BAASS Ten Month Report (2009), publicly circulated and analysed since 2020",
+"text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 integrating laboratory physics research with field investigation, case database construction and sustained operations at the Utah ranch.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-7ddfe738fe",
+"locator": null,
+"node": "mufon-sip",
+"nodeLabel": "BAASS–MUFON Star Team Impact Project (SIP)",
+"sourceText": "BAASS Ten Month Report (2009)",
+"text": "The BAASS Ten Month Report describes case collection and database construction consistent with an external civilian reporting pipeline.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-020d455dc8",
+"locator": "leaked copy, analysed publicly since 2020",
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "BAASS Ten Month Report (2009), leaked copy analysed publicly since 2020",
+"text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 covering field investigations, laboratory physics, and case database construction.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-3f7a7dcc16",
+"locator": null,
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "BAASS Ten Month Report (2009)",
+"text": "The BAASS Ten Month Report describes the Utah property as operating under 24/7 surveillance with rapid-response patrols as part of the DIA-funded effort.",
+"tier": 2
+}
+],
+"date": "2009",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "n-baass-ten-month-report",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "baass-ten-month-report",
+"label": "BAASS Ten Month Report (2009)"
+},
+"title": "BAASS Ten Month Report (2009)",
+"topics": [
+{
+"claims": [
+"c-294a417c86"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-3f7a7dcc16"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+}
+],
+"type": "document",
+"urls": []
+}

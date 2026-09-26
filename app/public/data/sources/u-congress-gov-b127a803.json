@@ -1,0 +1,88 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-918eb3fde5",
+"label": "Successive OUSD(I)/IC witnesses making the same structural allegation seven years apart",
+"note": "At the 13 November 2024 hearing Elizondo told Rep. Burchett he had worked with Grusch at US Space Force and answered 'Yes, sir' when asked whether he agreed with Grusch's multi-decade crash-retrieval testimony - a second former senior DoD official affirming the core claim under oath.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-e2f34eae92",
+"label": "sworn witness",
+"note": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-e40cabd8ed",
+"label": "Elicited Elizondo's corroboration of Grusch under oath",
+"note": "Burchett asked the direct question that produced the only sworn second-source affirmation of Grusch's central allegation in the congressional record.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-congress-gov-b127a803",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "House Oversight hearing record, Serial No. 118-140",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf"
+]
+}

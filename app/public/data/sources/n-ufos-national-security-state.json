@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-be27353d73",
+"locator": null,
+"node": "richard-dolan",
+"nodeLabel": "Richard M. Dolan",
+"sourceText": "Dolan, 'UFOs and the National Security State', vols. I and II",
+"text": "Dolan's two-volume 'UFOs and the National Security State' covers 1941-1973 (2002) and 1973-1991 (2009) and situates the UFO record within the documented growth of the US national security apparatus.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-0e472a2e3f",
+"locator": null,
+"node": "ufos-national-security-state",
+"nodeLabel": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+"sourceText": "Dolan, 'UFOs and the National Security State', vols. I and II",
+"text": "Volume I covers 1941-1973 and volume II covers 1973-1991, situating the UFO record within the documented development of the US national security apparatus.",
+"tier": 2
+}
+],
+"date": "2002",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "n-ufos-national-security-state",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "ufos-national-security-state",
+"label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)"
+},
+"title": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+"topics": [
+{
+"claims": [
+"c-be27353d73"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "document",
+"urls": []
+}

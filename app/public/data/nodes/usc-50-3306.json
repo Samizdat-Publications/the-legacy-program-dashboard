@@ -7,26 +7,58 @@
 {
 "id": "c-c5f0e7f758",
 "source": "https://www.law.cornell.edu/uscode/text/50/3306",
+"sources": [
+{
+"id": "usc-50-3306",
+"locator": null,
+"title": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+}
+],
 "text": "50 U.S.C. 3306(a) requires public disclosure of the aggregate NIP appropriations request at the time the President submits the budget.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-afe65bf40d",
 "source": "https://www.law.cornell.edu/uscode/text/50/3306",
+"sources": [
+{
+"id": "usc-50-3306",
+"locator": null,
+"title": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+}
+],
 "text": "50 U.S.C. 3306(b) requires the DNI to disclose the aggregate NIP appropriated amount within 30 days of the end of each fiscal year.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6543af6d04",
 "source": "https://www.law.cornell.edu/uscode/text/50/3306",
+"sources": [
+{
+"id": "usc-50-3306",
+"locator": null,
+"title": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+}
+],
 "text": "50 U.S.C. 3306(c) permits the President to waive or postpone either disclosure on submitting an unclassified damage statement and a reasons statement that may be classified.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bdc3596339",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 6102(b)(3)(A) of the FY2026 IAA identifies 50 U.S.C. 3306(a) as the sole affirmative exception to the bar on the President publicly disclosing any portion of the classified Schedule of Authorizations.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

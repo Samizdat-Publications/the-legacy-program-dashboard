@@ -1,0 +1,195 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-82d7da5773",
+"locator": null,
+"node": "nnsa",
+"nodeLabel": "National Nuclear Security Administration",
+"sourceText": "NNSA, About NNSA",
+"text": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', 'Established by Congress in 2000'.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-f9d836a6b9",
+"locator": null,
+"node": "d-nuclear",
+"nodeLabel": "Nuclear Security & Restricted Data",
+"sourceText": "NNSA, About NNSA",
+"text": "The National Nuclear Security Administration is a semi-autonomous agency within the Department of Energy responsible for the nuclear weapons stockpile and its associated information security regime.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-587a2dbcc6",
+"locator": null,
+"node": "doe",
+"nodeLabel": "United States Department of Energy",
+"sourceText": "NNSA, About NNSA",
+"text": "DOE's National Nuclear Security Administration was 'Established by Congress in 2000' as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 3,
+"id": "e-d59b128394",
+"label": "Both hold analytical capability that could resolve material claims and neither has been tasked publicly",
+"note": "NASA's report identifies the classification of military and intelligence data as the binding constraint; DOE laboratories hold the analytical instruments actually used by AARO. Reasoning: the capability exists and the tasking does not.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-80c710a4dd",
+"label": "Semi-autonomous agency within DOE established by Congress in 2000",
+"note": "NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"claimTier": 3,
+"id": "e-c60b581ef1",
+"label": "Restricted Data authority sits outside presidential EO declassification power",
+"note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "llnl",
+"label": "Lawrence Livermore National Laboratory"
+},
+"claimTier": 1,
+"id": "e-4051a852ce",
+"label": "DOE/NNSA management and operating contract; Lawrence Livermore",
+"note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"claimTier": 1,
+"id": "e-62e89f2da2",
+"label": "DOE/NNSA management and operating contract; Los Alamos",
+"note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 1,
+"id": "e-4ceb65dd27",
+"label": "DOE operating authority over the Nevada National Security Site",
+"note": "The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+"claimTier": 1,
+"id": "e-4a72281e24",
+"label": "DOE/NNSA management and operating contract; Sandia",
+"note": "Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-energy-gov-3c52f884",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of Energy",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+{
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+{
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+}
+],
+"node": null,
+"title": "NNSA - About NNSA",
+"topics": [
+{
+"claims": [
+"c-587a2dbcc6"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.energy.gov/nnsa/about-nnsa"
+]
+}

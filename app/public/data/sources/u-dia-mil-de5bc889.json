@@ -1,0 +1,188 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-bbc007fbf9",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/",
+"text": "DIA published solicitation HHM402-08-R-0211, 'ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM', as a Combined Synopsis/Solicitation on FedBizOpps, original posted date 18 August 2008, response date 05 September 2008 4:00pm Eastern, original archive date 31 October 2008. Set aside: Total Small Business. Classification Code 'B -- Special studies and analysis - not R&D'. NAICS 541330 Engineering Services, size standard $25 million. Issued by the Virginia Contracting Activity for 'engineering services in the Washington DC area'. 'One firm fixed price contract is anticipated to be awarded as a result of this' solicitation.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b8c10a68c8",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/",
+"text": "The solicitation was issued through the Virginia Contracting Activity (VCA), DIA's contracting arm, and coded 'B -- Special studies and analysis - not R&D' rather than as R&D. Combined with the Total Small Business set-aside on a $10M congressional add, this is a procurement structure that minimises public visibility: VCA awards are largely absent from public FPDS/USAspending data (confirmed: FPDS ATOM query for PIID HHM402-08-C-0072 returns an empty feed).",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-91256df644",
+"label": "",
+"note": "BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"claimTier": 1,
+"id": "e-2d91026357",
+"label": "",
+"note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-616b41aecf",
+"label": "the only case where money for a UAP programme has been traced from a classified appropriation to a named contract",
+"note": "Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain's proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-00dc3b6ebb",
+"label": "26 FY2009 + 12 FY2010 technical reports",
+"note": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-89af8634bf",
+"label": "a company stood up to hold a single government contract",
+"note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-ae2e5483cd",
+"label": "the instrument itself - competed, awarded, numbered and released",
+"note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-b88c5faf1b",
+"label": "the one instrument on the board where the appropriation-to-contract path is fully documented",
+"note": "The AAWSAP prime contract, awarded 22 September 2008 to BAASS off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity, and released through DIA FOIA together with modification P00001. It is the concrete artefact that turns 'money moved through a classified channel' into a document with a number on it, which is what this domain exists to collect.",
+"type": "funding"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dia-mil-de5bc889",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+}
+],
+"node": null,
+"title": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-bbc007fbf9",
+"c-b8c10a68c8"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-bbc007fbf9"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+]
+}

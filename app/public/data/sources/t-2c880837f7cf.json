@@ -1,0 +1,128 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-820f745085",
+"locator": null,
+"node": "italo-venturelli",
+"nodeLabel": "Dr Ítalo Venturelli",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "Venturelli said most other doctors are afraid to speak out because they have been threatened or fear damage to their careers.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-12f27e6951",
+"locator": null,
+"node": "jiatf-401",
+"nodeLabel": "Joint Interagency Task Force 401 (JIATF-401)",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "JIATF-401 was established in August 2025 and is directed by Brig. Gen. Matt Ross.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-56fb79086f",
+"locator": null,
+"node": "jiatf-401",
+"nodeLabel": "Joint Interagency Task Force 401 (JIATF-401)",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "Guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and granted commanders 'totality of circumstances' discretion.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9e4e2aea2f",
+"locator": null,
+"node": "matt-ross",
+"nodeLabel": "Matt Ross",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "Updated guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and gave commanders 'totality of circumstances' discretion.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3bd5a85d03",
+"locator": null,
+"node": "eduardo-girao",
+"nodeLabel": "Senador Eduardo Girão",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "Burlison asked Girão: 'Are there videos that you think you might be able to get access to, any other material evidence?' Girão replied: 'I'm going to try.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-14664ff8a5",
+"locator": null,
+"node": "ev-varginha-1996",
+"nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "An anonymous videotaped witness said he was in the army in 1996 and helped transport the being from the Varginha hospital to Três Corações and thence to Campinas, and that on returning 'there was talk the Americans had the creature, having transported it to an undisclosed location'.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-3f8245e871",
+"locator": null,
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "James Fox recounts asking AARO director Dr Jon T. Kosloski in 2024 whether there was a plan to inform the public 'what we are ultimately dealing with', and being told: 'I can't part my hair without the approval of the DOD. And you can quote me on that.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6315f9358f",
+"locator": null,
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "Claussen: a US cargo mission of this kind 'would require paperwork from Air Mobility Command at Scott AFB in Illinois and the Air Mobility Wing at Charleston AFB in South Carolina', plus refuelling records and an international flight plan; Brazilian air traffic controller Marco Feres reported that on or about 20 January 1996 a USAF cargo aircraft, most likely a C-17, landed at Viracopos airport in Campinas to collect an unusual cargo.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-b13ab76edf",
+"locator": null,
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"sourceText": "The Debrief, 30 January 2026",
+"text": "Burlison on evidence access: 'there are several government entities that are controlling this and some are willing to be more cooperative, so unfortunately we're not getting everything.'",
+"tier": 2
+}
+],
+"date": "2026-01-30",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-2c880837f7cf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "The Debrief, 30 January 2026",
+"topics": [
+{
+"claims": [
+"c-3bd5a85d03",
+"c-14664ff8a5",
+"c-6315f9358f"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+},
+{
+"claims": [
+"c-12f27e6951",
+"c-56fb79086f",
+"c-9e4e2aea2f"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

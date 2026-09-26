@@ -1,0 +1,105 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 2,
+"id": "e-3836222ed5",
+"label": "COMPARISON: publish the raw record and disclaim competence, versus publish the adjudicated case file",
+"note": "COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-63d1d7b5ec",
+"label": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
+"note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"claimTier": 1,
+"id": "e-a1b5085ccb",
+"label": "",
+"note": "The Arquivo holds and serves the operation's files. Its own answer to a litigant, quoted verbatim in the 2023 federal judgment, reports that a SIAN search on the term 'operacao prato' returns six documents, none audiovisual. No SIAN item numbers were ever obtained and none are asserted here.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"claimTier": 1,
+"id": "e-62bc0e3764",
+"label": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
+"note": "COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-gov-br-fa3e5a62",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Governo do Brasil",
+"listedOn": [
+{
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+{
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil"
+},
+{
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+}
+],
+"node": null,
+"title": "Arquivo Nacional - portal",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.gov.br/arquivonacional/pt-br"
+]
+}

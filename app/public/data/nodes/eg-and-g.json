@@ -7,50 +7,96 @@
 {
 "id": "c-b775ee8fd9",
 "source": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:08:54 to 0:09:47",
+"sources": [
+{
+"id": "u-mgln-ai-c3a0b8c8",
+"locator": "0:08:54-0:09:47",
+"title": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 21 February 2025, between 0:08:54 and 0:09:47, the guest Sammy, known as UAP Gerb, said of the retrieval teams described in the Jonathan Wigant account of Peru in 1997 and the Michael Herrera account of Indonesia in 2009 that 'I think this is likely a DOE NEST team, nuclear emergency search teams', which 'received help from contractors like EG&G'. Reasoning: he frames this explicitly as his own inference from the DOE-lettered rain jackets and hazmat suits the witnesses describe, not as a record.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-0ae84a7acb",
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:30:12",
+"sources": [
+{
+"id": "u-mgln-ai-d226638d",
+"locator": "1:30:12",
+"title": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account (ft. Logan Paul and Ammar Kandil)' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:30:12, Jake Barber said that 'the senior EG&G engineer described to my great uncle that it was egg shaped about the size of an SUV', that the team 'tried to penetrate the hull, tried to open it, they couldn't', and that from very small samples of the material they concluded the isotope ratio or mixture of elements was not of terrestrial manufacture. The account reaches Barber through his great uncle and the engineer is not named.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-1d84667900",
 "source": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:46:20, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
+"sources": [
+{
+"id": "u-mgln-ai-733a188d",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)' (episode audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 31 August 2025, at 0:46:20, Greg Rogers ruled EG&G out as the owner of the craft he describes at Cape Canaveral in 1992, naming instead 'something like Lockheed or Northrop, Boeing' or Raytheon, possibly in a consortium, and noting that Lockheed and Martin Marietta had not yet merged at that date. This is the same episode whose narration places EG&G at the centre of the story, and the two are recorded as they stand.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8f0324f172",
 "source": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:47:14",
+"sources": [
+{
+"id": "u-mgln-ai-733a188d",
+"locator": "0:47:14",
+"title": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)' (episode audio)"
+}
+],
 "text": "At 0:47:14 in the same episode Rogers gave his reason as a general rule about black-programme ownership, using Have Blue and the F-117: during the demonstrator phase 'the U.S. Air Force did not own that even though it had U.S. Air Force markings', and the Air Force took ownership only after it let the production contract. Air Force markings on an airframe are not, on this account, evidence of Air Force custody.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-454fd802cc",
 "source": "Presidential Determinations published in the Federal Register, 1995-2000 and annually thereafter",
+"sources": [],
 "text": "Every President from 1995 signed an annual determination exempting 'the Air Force's Operating Location Near Groom Lake, Nevada' from disclosure requirements of federal environmental law on national security grounds.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:groom-lake-presidential-determination) was rejected in review: does not name Groom Lake; many presidential determinations exist"
 },
 {
 "id": "c-6af33d36cb",
 "source": "Ninth Circuit opinion, 8 January 1998",
+"sources": [],
 "text": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998): claims arising from the Groom Lake facility were dismissed on state secrets and statutory exemption grounds; certiorari denied at 525 U.S. 967.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:courtlistener.com/opinion/7058198/kasza-v-browner) was rejected in review: case unnamed; candidate undated"
 },
 {
 "id": "c-e4199b12f0",
 "source": "George Knapp via Liberation Times, 28 February 2023; named to Congress under oath 9 September 2025",
+"sources": [],
 "text": "Alfred O'Donnell, described by Knapp as the first general manager of EG&G in Nevada, said 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-5) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-ac46d2d130",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records approximately $1.3 billion in prime contract obligations to EG&G-named recipient entities since FY2008, a small residue of the company's classified-era role after its services businesses were sold.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

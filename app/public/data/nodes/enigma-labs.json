@@ -8,26 +8,46 @@
 {
 "id": "c-6a6fa9c63d",
 "source": "enigmalabs.io/about (company self-description)",
+"sources": [
+{
+"id": "u-enigmalabs-io-9ffa040d",
+"locator": null,
+"title": "Enigma Labs - About (official)"
+}
+],
 "text": "Enigma Labs states it is a private company operating 'the world's first platform dedicated to Unidentified Anomalous Phenomena', with a searchable database of over 50,000 sighting reports, an interactive map, and more than 560,000 real-time sighting alerts sent to users.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-fdb545006d",
 "source": "enigmalabs.io/about",
+"sources": [
+{
+"id": "u-enigmalabs-io-9ffa040d",
+"locator": null,
+"title": "Enigma Labs - About (official)"
+}
+],
 "text": "The company states it remains neutral on the origins of the phenomenon and describes itself as an aggregator of people's sighting experiences.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c91928dd3b",
 "source": "Inference from enigmalabs.io/about",
+"sources": [],
 "text": "The published About material describes no verification, validation or de-duplication protocol, so the Enigma corpus should be treated as raw public intake with unknown signal-to-noise, valuable for volume and geography rather than for individual case strength. Reasoning: absence of any stated methodology on the company's own descriptive page.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-96ef0bbe17",
 "source": "Inference",
+"sources": [],
 "text": "A privately held report corpus of this size is structurally outside the reach of classification authority, which makes it the natural control set against which government-released datasets can be tested for omissions. Reasoning: from ownership structure, not from any audit performed here.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

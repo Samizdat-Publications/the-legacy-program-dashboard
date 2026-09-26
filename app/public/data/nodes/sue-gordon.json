@@ -42,20 +42,26 @@
 {
 "id": "c-c22d947d19",
 "source": "Potomac Officers Club, 31 October 2023",
+"sources": [],
 "text": "Gordon was elected vice chair of MITRE's Board of Trustees, announced 31 October 2023, having joined the board in 2021.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:potomacofficersclub.com/mitre-trustees-board-elects-former-national-intellig) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-9a87821960",
 "source": "Potomac Officers Club, 31 October 2023; ODNI public record",
+"sources": [],
 "text": "Gordon served as Principal Deputy Director of National Intelligence from 2017 to 2019 and as Deputy Director of NGA before that, after 27 years at CIA where she helped create In-Q-Tel.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:potomacofficersclub.com/mitre-trustees-board-elects-former-national-intellig) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-a2d60e8ce9",
 "source": "Inference from ODNI statutory role and MITRE corporate governance structure",
+"sources": [],
 "text": "Gordon's seat places a person with former community-wide access to unacknowledged and waived Special Access Programs in the governance chain that decides how MITRE answers a congressional records demand about exactly that category of programme. Reasoning: the PDDNI is a statutory position with visibility into IC SAP registries; MITRE's board approves corporate legal and disclosure posture.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

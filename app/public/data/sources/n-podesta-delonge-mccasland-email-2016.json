@@ -1,0 +1,145 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-110894251b",
+"locator": null,
+"node": "podesta-delonge-mccasland-email-2016",
+"nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"sourceText": "WikiLeaks, The Podesta Emails, email id 3099, https://wikileaks.org/podesta-emails/emailid/3099",
+"text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6cae43c392",
+"locator": null,
+"node": "podesta-delonge-mccasland-email-2016",
+"nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"sourceText": "WikiLeaks, The Podesta Emails, email id 3099, released 10 October 2016, https://wikileaks.org/podesta-emails/emailid/3099",
+"text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
+"tier": 1
+}
+],
+"date": "2016-01-25",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+},
+"b": {
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+"claimTier": 1,
+"id": "e-14448fc00e",
+"label": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
+"note": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+},
+"b": {
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+},
+"claimTier": 1,
+"id": "e-1c18092b07",
+"label": "Author of the email and of the surrounding correspondence",
+"note": "Thirteen emails in the Podesta release were sent from t.delonge@me.com, including this one, signed Tom DeLonge, Founder, To The Stars Media.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+},
+"b": {
+"cls": "person",
+"id": "william-mccasland",
+"label": "William Neil McCasland"
+},
+"claimTier": 2,
+"id": "e-3c5256284c",
+"label": "Subject of the email and party to the meeting thread, as 'General McCasland' and 'Neil McCasland'",
+"note": "The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-2ed1625018",
+"label": "DeLonge's written assertion that the Roswell material went to the Wright-Patterson laboratory",
+"note": "The email asserts to Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base' and that the general ran that laboratory until a couple of years earlier. The record establishes that DeLonge asserted this in writing in January 2016, not that it happened.",
+"type": "custody"
+}
+],
+"era": "2",
+"host": "WikiLeaks",
+"id": "n-podesta-delonge-mccasland-email-2016",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+}
+],
+"node": {
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+},
+"title": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"topics": [
+{
+"claims": [
+"c-110894251b",
+"c-6cae43c392"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-110894251b",
+"c-6cae43c392"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-110894251b",
+"c-6cae43c392"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "document",
+"urls": [
+"https://wikileaks.org/podesta-emails/emailid/3099"
+]
+}

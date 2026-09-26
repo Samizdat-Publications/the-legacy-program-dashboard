@@ -1,0 +1,97 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-4878df6507",
+"locator": "Serial No. 105-18",
+"node": "operation-laser-strike",
+"nodeLabel": "Operation Laser Strike",
+"sourceText": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"text": "Kramek told the same hearing: 'The IDA analysis is what led us to operation Laser Strike as you know it now. That is, they were able to show us where all the air tracks were occurring in the air bridge between Peru and Colombia.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-4878df6507",
+"locator": null,
+"node": "operation-laser-strike",
+"nodeLabel": "Operation Laser Strike",
+"sourceText": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"text": "Kramek told the same hearing: 'The IDA analysis is what led us to operation Laser Strike as you know it now. That is, they were able to show us where all the air tracks were occurring in the air bridge between Peru and Colombia.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-6b27b3bc4b",
+"locator": null,
+"node": "operation-laser-strike",
+"nodeLabel": "Operation Laser Strike",
+"sourceText": "Coast Guard Interdiction Efforts in the Transit Zone, hearing before the Subcommittee on National Security, International Affairs, and Criminal Justice, House Committee on Government Reform and Oversight, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"text": "Admiral Robert E. Kramek, Commandant of the Coast Guard, told the subcommittee on 10 March 1997 that the 1998 budget sought enough money 'to sustain that operation and to sustain Laser Strike, which you are familiar with in South America on the air bridge.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7424fe0c4a",
+"locator": "Serial No. 105-18",
+"node": "operation-laser-strike",
+"nodeLabel": "Operation Laser Strike",
+"sourceText": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"text": "LCDR Randy Forrester, US Coast Guard, testified at the same hearing that his Air Station Miami unit had two HU-25C aircraft deployed to Operation Laser Strike and two to Operation Frontier Shield, out of seven aircraft in the unit.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7424fe0c4a",
+"locator": null,
+"node": "operation-laser-strike",
+"nodeLabel": "Operation Laser Strike",
+"sourceText": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"text": "LCDR Randy Forrester, US Coast Guard, testified at the same hearing that his Air Station Miami unit had two HU-25C aircraft deployed to Operation Laser Strike and two to Operation Frontier Shield, out of seven aircraft in the unit.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "operation-laser-strike",
+"label": "Operation Laser Strike"
+},
+"b": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"claimTier": 2,
+"id": "e-2d15759ff5",
+"label": "Named the operation as the deployment framing for the Weygandt Peru account",
+"note": "Gerb is the investigator who brings Laser Strike to this corpus as the deployment framing for the Weygandt Peru account; the operation's own record says nothing about it.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "chrg-105hhrg41842",
+"identifiers": [
+"CHRG-105hhrg41842"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "event",
+"id": "operation-laser-strike",
+"label": "Operation Laser Strike"
+}
+],
+"node": null,
+"title": "CHRG-105hhrg41842",
+"topics": [],
+"type": "hearing record",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm"
+]
+}

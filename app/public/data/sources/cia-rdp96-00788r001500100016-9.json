@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "902d-mi-group",
+"label": "902d Military Intelligence Group, USAINSCOM"
+},
+"b": {
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE"
+},
+"claimTier": 1,
+"id": "e-4f85109602",
+"label": "Its Security Support Detachment was the CENTER LANE project office",
+"note": "The detachment's office symbol IAGPA-F-SD heads both the April 1984 GDIP submission signed by the CENTER LANE Project Manager and the July 1984 information paper on the project's cancellation.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00788r001500100016-9",
+"identifiers": [
+"CIA-RDP96-00788R001500100016-9"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+}
+],
+"node": null,
+"title": "CIA-RDP96-00788R001500100016-9",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100016-9/cia-rdp96-00788r001500100016-9_djvu.txt"
+]
+}

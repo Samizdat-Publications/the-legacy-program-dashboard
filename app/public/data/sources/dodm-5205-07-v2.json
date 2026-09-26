@@ -1,0 +1,39 @@
+{
+"archived": [
+"https://web.archive.org/web/20250305140253/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol2.pdf"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-5edc2fdac4",
+"locator": null,
+"node": "dodm-5205-07-series",
+"nodeLabel": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceText": "https://web.archive.org/web/20250305140253/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol2.pdf",
+"text": "DoDM 5205.07 Vol 2, para 5 (Polygraphs): 'The Deputy Secretary of Defense is the approval authority for the use of polygraph examination as a mandatory access determination requirement; the requirement must be consistently applied to all candidates in accordance with DoDI 5210.91. CI-Scope polygraph examination must not be used as the only basis for granting access to DoD SAPs. Exceptions to these requirements will only be granted by the Deputy Secretary of Defense. ... CI polygraph examinations are considered current when administered within the past 5 years.' Para 6 provides that 'CA SAPCOs may establish or authorize SAP billet structures or access quotas that assign individual access by organization and duty position to SAPs under their cognizance.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "dodm-5205-07-v2",
+"identifiers": [
+"DoDM 5205.07, Volume 2"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+}
+],
+"node": null,
+"title": "SAP Security Manual: Personnel Security (DoDM 5205.07, Volume 2)",
+"topics": [],
+"type": "regulation",
+"urls": []
+}

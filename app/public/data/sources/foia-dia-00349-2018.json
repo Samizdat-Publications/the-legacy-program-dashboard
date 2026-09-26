@@ -1,0 +1,239 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-605d8cc443",
+"locator": "13 October 2022",
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "DIA release FOIA-00349-2018, 13 October 2022",
+"text": "Contract HHM402-08-C-0072 was awarded 22 September 2008 to Bigelow Aerospace Advanced Space Studies, LLC, firm fixed price, $10,000,000 base with four option years.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-703406c3ba",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "DIA release FOIA-00349-2018",
+"text": "BAASS, of 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, is the named awardee of DIA firm-fixed-price contract HHM402-08-C-0072.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9359338dd0",
+"locator": null,
+"node": "dia",
+"nodeLabel": "Defense Intelligence Agency",
+"sourceText": "Jack Brewer, The UFO Trail, March 2022; DIA release FOIA-00349-2018",
+"text": "DIA withheld the AAWSAP contract awarded to BAASS in a 2011 FOIA response and did not release it until October 2022.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f2a0b9e9e5",
+"locator": "13 October 2022",
+"node": "aawsap-contract",
+"nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceText": "DIA release FOIA-00349-2018, 13 October 2022",
+"text": "Contract HHM402-08-C-0072, awarded 22 September 2008, firm fixed price, $10,000,000 base, to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fef1e54ecd",
+"locator": null,
+"node": "aawsap-contract",
+"nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceText": "DIA release FOIA-00349-2018",
+"text": "All key government personnel names — contracting officer, COR and Government Project Leader — are redacted in the released contract under 10 USC 424.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-c51e1eafc7",
+"locator": null,
+"node": "d-contracting",
+"nodeLabel": "Federal Contracting Mechanics",
+"sourceText": "DIA AAWSAP contract file, FOIA-00349-2018",
+"text": "DIA awarded the AAWSAP contract following solicitation HHM402-08-R-0211 and issued priced annual modifications, all released under FOIA.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-47aea4a8c4",
+"locator": null,
+"node": "d-foia",
+"nodeLabel": "Freedom of Information Practice",
+"sourceText": "DIA FOIA release FOIA-00349-2018",
+"text": "The DIA released the AAWSAP contract file under FOIA case FOIA-00349-2018, producing the statement of work, contract modifications and the Defense Intelligence Reference Documents.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b695fe2b49",
+"locator": "released 13 Oct 2022",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "DIA contract release FOIA-00349-2018, released 13 Oct 2022",
+"text": "Bigelow Aerospace Advanced Space Studies, LLC, 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, was awarded firm-fixed-price contract HHM402-08-C-0072 on 22 September 2008 with a base value of $10,000,000.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+"claimTier": 1,
+"id": "e-784bec93a2",
+"label": "BAASS LLC, North Las Vegas NV",
+"note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 1,
+"id": "e-e9b9e2537b",
+"label": "redacted the PM's name it had already published",
+"note": "Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release — a records posture aimed at breaking the link between office and person.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-ae6fbc8444",
+"label": "$10M base firm-fixed-price award to BAASS",
+"note": "Awarded 22 September 2008 to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7, base year plus four options.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "aawsap-solicitation",
+"label": "DIA Solicitation HHM402-08-R-0211"
+},
+"b": {
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"claimTier": 1,
+"id": "e-46952ba6c9",
+"label": "solicitation HHM402-08-R-0211 led to award HHM402-08-C-0072",
+"note": "Posted 18 August 2008, awarded 22 September 2008 — a five-week competition on an eleven-topic statement of work reaching to 2050.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "foia-dia-00349-2018",
+"identifiers": [
+"DIA FOIA-00349-2018"
+],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+{
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+}
+],
+"node": null,
+"title": "DIA release FOIA-00349-2018",
+"topics": [
+{
+"claims": [
+"c-605d8cc443",
+"c-fef1e54ecd",
+"c-b695fe2b49"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-f2a0b9e9e5",
+"c-fef1e54ecd",
+"c-c51e1eafc7"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-b695fe2b49"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-47aea4a8c4"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "document",
+"urls": []
+}

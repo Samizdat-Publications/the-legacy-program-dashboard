@@ -7,26 +7,68 @@
 {
 "id": "c-6c20444a03",
 "source": "Federal Register Doc 94-13966, 'Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public', effective 9 June 1994, https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents",
+"sources": [
+{
+"id": "frdoc-94-13966",
+"locator": "'Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public', effective 9 June 1994",
+"title": "Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public (Federal Register Doc. 94-13966)"
+},
+{
+"id": "frdoc-94-13966",
+"locator": null,
+"title": "Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public (Federal Register Doc. 94-13966)"
+}
+],
 "text": "The Department of the Navy final rule published on 9 June 1994, FR Doc 94-13966, amended 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-08ec1194e1",
 "source": "Federal Register Doc 94-13279, 1 June 1994, https://www.federalregister.gov/documents/full_text/text/1994/06/01/94-13279.txt",
+"sources": [
+{
+"id": "frdoc-94-13279",
+"locator": "1 June 1994",
+"title": "Federal Register Doc. 94-13279"
+},
+{
+"id": "frdoc-94-13279",
+"locator": null,
+"title": "Federal Register Doc. 94-13279"
+}
+],
 "text": "A Department of the Navy document published on 1 June 1994, FR Doc 94-13279, still lists 'Commander, Naval Investigative Service Command' among the officers it designates, so the former title was in current Federal Register use eight days before the substitution.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-13984f518f",
 "source": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09, transcript in dist/transcripts/md/",
+"sources": [
+{
+"id": "t-21a4d5ebec3c",
+"locator": "1:17:09",
+"title": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty"
+}
+],
 "text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 1:17:09, Richard Doty said that Jaime Shandera 'was an asset that was being used by the Naval Investigative Service, which is now Naval Criminal Investigative Service. Back then, it was just NIS', placing that relationship on a separate operation roughly two weeks before the MJ-12 document reached Shandera's mailbox.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-a9b9f1c742",
 "source": "FAS Navy Intelligence and Security Doctrine, SECNAVINST index, https://irp.fas.org/doddir/navy/secnavinst/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-7783b670",
+"locator": null,
+"title": "FAS Navy Intelligence and Security Doctrine, SECNAVINST index, listing SECNAVINST 5430.107"
+}
+],
 "text": "The date of the redesignation from Naval Investigative Service Command to Naval Criminal Investigative Service is an open question on this board. The Secretary of the Navy instruction that would fix it was not reachable: the FAS Navy directives index lists SECNAVINST 5430.107, 'Mission and Functions of the Naval Criminal Investigative Service', dated 28 December 2005 and running 20 pages, but the PDF returns a zero-byte HTTP 202 and ncis.navy.mil returns 403.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

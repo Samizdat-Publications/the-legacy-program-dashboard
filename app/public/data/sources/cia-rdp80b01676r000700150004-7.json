@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3c19c768fd",
+"locator": "25 October 1961",
+"node": "glenn-t-seaborg",
+"nodeLabel": "Glenn T. Seaborg",
+"sourceText": "CIA reading room document CIA-RDP80B01676R000700150004-7, 25 October 1961, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7",
+"text": "A second, earlier instance of the office runs the other way. On 25 October 1961 the Director of Central Intelligence wrote to 'The Honorable Glenn T. Seaborg, Chairman, Atomic Energy Commission', thanking him for his impressions of a conference in Vienna and saying 'I am showing your good report to a few of our interested people.' It is signed 'Allen W. Dulles, Director'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3c19c768fd",
+"locator": null,
+"node": "glenn-t-seaborg",
+"nodeLabel": "Glenn T. Seaborg",
+"sourceText": "CIA reading room document CIA-RDP80B01676R000700150004-7, 25 October 1961, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7",
+"text": "A second, earlier instance of the office runs the other way. On 25 October 1961 the Director of Central Intelligence wrote to 'The Honorable Glenn T. Seaborg, Chairman, Atomic Energy Commission', thanking him for his impressions of a conference in Vienna and saying 'I am showing your good report to a few of our interested people.' It is signed 'Allen W. Dulles, Director'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp80b01676r000700150004-7",
+"identifiers": [
+"CIA-RDP80B01676R000700150004-7"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "glenn-t-seaborg",
+"label": "Glenn T. Seaborg"
+}
+],
+"node": null,
+"title": "Letter to Glenn T. Seaborg from Allen W. Dulles, CIA-RDP80B01676R000700150004-7",
+"topics": [
+{
+"claims": [
+"c-3c19c768fd",
+"c-3c19c768fd"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7"
+]
+}

@@ -1,0 +1,39 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-5f32d356b6",
+"locator": null,
+"node": "l-detroit-arsenal",
+"nodeLabel": "Detroit Arsenal, Warren, Michigan",
+"sourceText": "Army FOIA response to John Greenewald / The Black Vault",
+"text": "The Army located twenty-nine emails totalling one hundred pages of Dr. Joseph Cannon's correspondence with TTSA and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5).",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-93432ab931",
+"locator": null,
+"node": "l-la",
+"nodeLabel": "Los Angeles and Burbank, California",
+"sourceText": "Army FOIA response to John Greenewald / The Black Vault",
+"text": "The Army withheld twenty-nine emails totalling a hundred pages of GVSC/TTSA correspondence in full in response to a Black Vault FOIA request filed from Los Angeles.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "t-0d5ef6c5de2a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [],
+"node": null,
+"title": "Army FOIA response to John Greenewald / The Black Vault",
+"topics": [],
+"type": "document",
+"urls": []
+}

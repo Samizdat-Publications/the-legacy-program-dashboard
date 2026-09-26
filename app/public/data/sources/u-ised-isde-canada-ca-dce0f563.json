@@ -1,0 +1,207 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a965d35f8e",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"text": "Canada's Office of the Chief Science Advisor: 'In Chile, the SEFAA ... serves as the official body responsible for collecting, analyzing and scientifically studying UAPs. It operates within the General Directorate of Civil Aeronautics.' It adds that 'SEFAA publishes monthly reports detailing the cases it has received, investigated, and closed'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-74210ec0b7",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"text": "The same report records that GEIPAN has 'a team of three full-time employees', that reports are investigated by 'over 20 trained volunteers throughout France', and that its guiding principles include 'low operational costs, public service, respect for witnesses and a commitment to transparency, neutrality and objective investigation'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7bc508ee22",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', 2025 - https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"text": "Canada's Office of the Chief Science Advisor: 'France's GEIPAN ... operates under the French space agency CNES ... since 1977. Its mission is to collect, investigate and archive UAP reports, and make its findings available to the public.' It records 'of the 3,188 cases collected by 2025, only 3.2% of cases remained unidentified after investigation. Furthermore, 31.4% of cases could not be explained due to insufficient data.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4f0eeff679",
+"locator": null,
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"sourceText": "Office of the Chief Science Advisor of Canada, Management of Public Reporting of Unidentified Aerial Phenomena in Canada, June 2025",
+"text": "Sky Canada Project report: 'In 1950, the Department of Transport granted one of their engineers, Wilbert Smith, permission to do part-time research to investigate whether some UFOs could use the power of Earth's magnetic field as a source of propulsion. This was called Project Magnet ... Unable to convince his colleagues of the merits of his research, Smith had to continue his work privately after the Department of Transport terminated Project Magnet in 1954.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-a37188a394",
+"label": "AARO reviewed as a foreign model and named as a proposed partner",
+"note": "The Sky Canada report records that 'On June 1, 2024, AARO released its second report on 757 UAP reports from May 1, 2023, to June 1, 2024', of which '174 cases were resolved and found to be objects such as balloons, birds, unmanned aerial systems, satellites and aircraft', and cites AARO's Historical Record Report Volume I in its references. Its recommendation 13 directs the future Canadian lead organization to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "canada-dot",
+"label": "Canada Department of Transport"
+},
+"claimTier": 1,
+"id": "e-c221d0394a",
+"label": "Sky Canada Project audited and issued recommendations to Transport Canada",
+"note": "The report maps Transport Canada's Civil Aviation Daily Occurrence Reporting System as the federal channel where pilot and public sightings land: 'Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings', collecting reports 'from pilots, air traffic controllers and the public' on incidents 'involving Canadian-registered aircraft at Canadian airports, in Canadian sovereign airspace, and international airspace for which Canada has accepted responsibility'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-06a6b43e7f",
+"label": "Chile's civil-aviation UAP unit used as a model and proposed partner",
+"note": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-163ebdc95d",
+"label": "NASA's UAP study cited as precedent and named as a proposed partner",
+"note": "The report records that 'NASA released an independent study in September 2023 focused on how best to collect future UAP data to advance scientific study' and that 'following the release of this report, NASA announced the creation of a new position: Director of Unidentified Anomalous Phenomena Research'. NASA is one of the four international bodies its recommendation 13 names as partnership targets for the recommended Canadian lead organization.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-c74ea5c24a",
+"label": "identifies SEFAA as a model and recommends partnership",
+"note": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 1,
+"id": "e-59e4315663",
+"label": "identifies GEIPAN as a model and recommends partnership",
+"note": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-ised-isde-canada-ca-dce0f563",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Government of Canada",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+}
+],
+"node": null,
+"title": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025",
+"topics": [
+{
+"claims": [
+"c-a965d35f8e",
+"c-7bc508ee22",
+"c-4f0eeff679"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+},
+{
+"claims": [
+"c-74210ec0b7",
+"c-7bc508ee22"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+},
+{
+"claims": [
+"c-a965d35f8e"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+},
+{
+"claims": [
+"c-7bc508ee22"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+}
+],
+"type": "web page",
+"urls": [
+"https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+]
+}

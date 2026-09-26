@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-a1360b1e48",
+"locator": null,
+"node": "uss-reagan-2004",
+"nodeLabel": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
+"sourceText": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022",
+"text": "Multiple USS Ronald Reagan watchstanders observed a round, orange, self-luminous object hovering above the flight deck and pacing the ship; witnesses include Karol Olesiak, Derek Smith and Patrick Gokey.",
+"tier": 2
+}
+],
+"date": "2022-05-09",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-f75d6493b6a3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022",
+"topics": [],
+"type": "article",
+"urls": []
+}

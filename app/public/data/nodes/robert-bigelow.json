@@ -119,68 +119,150 @@
 {
 "id": "c-b695fe2b49",
 "source": "DIA contract release FOIA-00349-2018, released 13 Oct 2022",
+"sources": [
+{
+"id": "foia-dia-00349-2018",
+"locator": "released 13 Oct 2022",
+"title": "DIA release FOIA-00349-2018"
+}
+],
 "text": "Bigelow Aerospace Advanced Space Studies, LLC, 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, was awarded firm-fixed-price contract HHM402-08-C-0072 on 22 September 2008 with a base value of $10,000,000.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f316a75ba6",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.23",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "DoD's own 2024 historical report states the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-339b959ceb",
 "source": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
+"sources": [
+{
+"id": "t-d099175d3a9c",
+"locator": null,
+"title": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017"
+}
+],
 "text": "Bigelow told CBS 60 Minutes he is 'absolutely convinced' of an extraterrestrial presence on Earth.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-1b4f4acb9c",
 "source": "Inference from the 11-topic statement of work in HHM402-08-R-0211 read against BAASS's NIDS-derived staffing",
+"sources": [],
 "text": "The choice of a Nevada contractor with no prior aerospace-intelligence prime history, on a sole-source-shaped solicitation written around capabilities BAASS uniquely held, indicates the requirement was built to fit the intended awardee rather than competed on the open market.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-abfc992dba",
 "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description",
+"sources": [
+{
+"id": "u-newyorker-com-433afd8b",
+"locator": "quoting NIDS' own description",
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+}
+],
 "text": "Bigelow founded NIDS in 1995 as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena,' and purchased Skinwalker Ranch the following year.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-476e5782f1",
 "source": "Zack Van Eyck, Deseret News, 10 Aug 1998",
+"sources": [
+{
+"id": "u-deseret-com-40c3143a",
+"locator": null,
+"title": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News"
+}
+],
 "text": "As a condition of the 1996 purchase the Shermans agreed to keep quiet about what they had witnessed on the property.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-3da352ed70",
 "source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
+"sources": [
+{
+"id": "u-deseret-com-40c3143a",
+"locator": null,
+"title": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News"
+}
+],
 "text": "Bigelow said in August 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property: 'We wouldn't be there just for the weather.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-cf75891a0d",
 "source": "The New Yorker, 10 May 2021",
+"sources": [
+{
+"id": "u-newyorker-com-433afd8b",
+"locator": null,
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+}
+],
 "text": "In 2007 Bigelow received a letter from a senior Defense Intelligence Agency official curious about Skinwalker, and connected him to Senator Harry Reid.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b4b0bc1c79",
-"source": "AARO, Historical Record Report Volume I, March 2024, Section on KONA BLUE",
+"source": "AARO, Historical Record Report Volume I, March 2024, Section on KONA BLUE - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "Section on KONA BLUE",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "BAASS was the prime contractor executing DIA's AAWSAP program, funded through a special appropriation; the contractor team conducted UAP and paranormal research at a property owned by the private sector organisation.",
-"tier": 1
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-996d594436",
 "source": "George Knapp, sworn testimony, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "sworn testimony of George Knapp",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin' for 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-6302371f81",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "Federal prime contract obligations to Bigelow Aerospace LLC total approximately $30 million since FY2008.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",
@@ -682,7 +764,7 @@
 "status": "active",
 "sub": "Founder, Budget Suites / Bigelow Aerospace / NIDS / BAASS",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 58 of 1138, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 63 of 1138, score 74). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

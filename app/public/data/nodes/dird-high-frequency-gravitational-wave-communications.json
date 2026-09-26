@@ -7,56 +7,128 @@
 {
 "id": "c-8b5163f799",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
+"sources": [
+{
+"id": "n-dird-high-frequency-gravitational-wave-communications",
+"locator": null,
+"title": "High-Frequency Gravitational Wave Communications"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"High-Frequency Gravitational Wave Communications\", series \"Acquisition Threat Support\", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-13dd90842d",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
+"sources": [
+{
+"id": "n-dird-high-frequency-gravitational-wave-communications",
+"locator": null,
+"title": "High-Frequency Gravitational Wave Communications"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-91a7d462e3",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
+"sources": [
+{
+"id": "n-dird-high-frequency-gravitational-wave-communications",
+"locator": null,
+"title": "High-Frequency Gravitational Wave Communications"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-42379c8da2",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
+"sources": [
+{
+"id": "n-dird-high-frequency-gravitational-wave-communications",
+"locator": null,
+"title": "High-Frequency Gravitational Wave Communications"
+}
+],
 "text": "Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-84204cdc79",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "n-dia-aatip-list-2019",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+}
+],
 "text": "The DIA letter of 9 January 2018 lists entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-13b9e8a1d2",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+"sources": [
+{
+"id": "n-dird-high-frequency-gravitational-wave-communications",
+"locator": null,
+"title": "High-Frequency Gravitational Wave Communications"
+}
+],
 "text": "The released cover page carries the date 6 April 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1004-005; the author field is redacted under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cd0e60dbe0",
 "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"sources": [
+{
+"id": "u-twz-com-37fb1a48",
+"locator": null,
+"title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded"
+}
+],
 "text": "In 2008 the JASON advisory group reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA nevertheless published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-319897c09f",
 "source": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+"sources": [
+{
+"id": "u-irp-fas-org-254ae6d3",
+"locator": null,
+"title": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf"
+}
+],
 "text": "The JASON review is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-86afcad1de",
 "source": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+"sources": [
+{
+"id": "u-drrobertbaker-com-c87c759e",
+"locator": null,
+"title": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf"
+}
+],
 "text": "Baker published an open-source counterpart in 2010, 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010, claiming HFGW applications in communications, surveillance, remote initiation of nuclear events and propulsion.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

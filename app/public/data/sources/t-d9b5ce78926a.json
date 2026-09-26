@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-211b359432",
+"locator": null,
+"node": "cia-overhead-reconnaissance-history-1992",
+"nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"sourceText": "Danny Jones Podcast, ep. 415, 20 July 2026, 0:07:39 to 0:08:29, mapped at research/leads/dannyjones-corpus-09.md",
+"text": "On the Danny Jones Podcast, episode 415, 20 July 2026, at 0:07:39 to 0:08:29, TD Barnes said the CIA's Area 51 records went to Norton Air Force Base after the 1979 handover, were lost there, and that the Agency had to rebuild its own history from a crowdsourced website he helped create. The Agency's published history of those programmes contains no Norton Air Force Base, was completed in 1992, and states that it was built from CIA record sets and classified interviews.",
+"tier": 2
+}
+],
+"date": "2026-07-20",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-d9b5ce78926a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 415, 20 July 2026, 0:07:39 to 0:08:29, mapped at research/leads/dannyjones-corpus-09.md",
+"topics": [
+{
+"claims": [
+"c-211b359432"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "broadcast",
+"urls": []
+}

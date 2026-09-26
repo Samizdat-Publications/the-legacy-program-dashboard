@@ -1,0 +1,68 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-372c9c571c",
+"locator": null,
+"node": "hr-5060-uap-whistleblower-protection-act",
+"nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sourceText": "DefenseScoop, 3 September 2025",
+"text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
+"tier": 2
+}
+],
+"date": "2025-09-03",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"claimTier": 2,
+"id": "e-faf96b3278",
+"label": "hearing findings underwrite the UAP Whistleblower Protection Act",
+"note": "The Task Force found witnesses face career damage and retaliation requiring congressional safeguards; the bill was on the agenda in the run-up to the hearing.",
+"type": "legislative"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-f27f9a90",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "DefenseScoop - Next UAP disclosure hearing set, as lawmakers consider new whistleblower protections",
+"topics": [
+{
+"claims": [
+"c-372c9c571c"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/"
+]
+}

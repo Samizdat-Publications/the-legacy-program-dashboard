@@ -7,20 +7,32 @@
 {
 "id": "c-effc1ef723",
 "source": "NSA UFO FOIA collection litigation records",
+"sources": [],
 "text": "CAUS was the plaintiff in Civil Action No. 80-1562, Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency, in which the presiding judge received in camera a Top Secret explanation for the withholding and ruled for NSA.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-coll) was rejected in review: NSA's collection; candidate is The Black Vault page"
 },
 {
 "id": "c-b007491a38",
 "source": "CourtListener case records",
+"sources": [],
 "text": "The D.C. Circuit decided the appeal on 3 November 1981; the Supreme Court denied certiorari on 8 March 1982.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-secur) was rejected in review: generic 'CourtListener case records'; cannot tell which"
 },
 {
 "id": "c-e3cab5cee0",
 "source": "GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO's 1995 Roswell records report lists NSA holdings of 'FOIA records, Citizens Against UFO Secrecy' among the record sets it searched.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

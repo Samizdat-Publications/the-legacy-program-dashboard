@@ -7,26 +7,40 @@
 {
 "id": "c-d442e74e30",
 "source": "House Oversight Committee release, 1 April 2026",
+"sources": [],
 "text": "Letter to Secretary of War Pete Hegseth requesting video files related to UAP sightings, sent after whistleblowers told the Task Force that AARO possesses additional video records of potential UAP sightings.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:oversight.house.gov/release/luna-continues-transparency-investigation-into-u) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-3ff1bf9e61",
 "source": "House Oversight Committee release, 1 April 2026",
+"sources": [],
 "text": "Luna: 'The presence of UAPs in and around the sensitive airspaces of U.S. military installations poses a threat to the security of the armed forces and their readiness.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:oversight.house.gov/release/luna-continues-transparency-investigation-into-u) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-362a326610",
 "source": "NewsNation, 17 April 2026",
+"sources": [
+{
+"id": "t-7dc8c34f3f02",
+"locator": null,
+"title": "NewsNation, 17 April 2026"
+}
+],
 "text": "The Pentagon missed the video deadline in mid-April 2026 and Luna publicly raised a subpoena.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-6c2bf86945",
 "source": "Inference from oversight.house.gov releases and press coverage through August 2026",
+"sources": [],
 "text": "No subpoena had issued as of 12 August 2026. Reasoning: no subpoena appears in House Oversight releases or in reporting located through that date.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

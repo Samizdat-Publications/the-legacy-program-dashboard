@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-cbe5620f21",
+"locator": null,
+"node": "john-callahan",
+"nodeLabel": "John Callahan",
+"sourceText": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt1', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter.html , opened 2026-09-19",
+"text": "HIS CLAIMED TITLE IS NOT CORROBORATED BY ANY AGENCY RECORD THAT HAS BEEN OPENED. Paul Dean, a proponent researcher writing in October 2015 for the express purpose of confirming him, reports his own negative finding verbatim: 'Worryingly, only a handful, and by that I mean literally four, referances came up for a John Callahan being at the FAA, and none of them really matched his claimed Accidents, Evaluations and Investigations area.' What Dean found in the public record instead was a 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the 'Associate Administrator for Air Traffic'.",
+"tier": 2
+}
+],
+"date": "2015-10",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+},
+"b": {
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+"claimTier": 2,
+"id": "e-799c409440",
+"label": "FAA Washington headquarters management post, mid-1980s; title disputed",
+"note": "Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'.",
+"type": "institutional"
+}
+],
+"era": "2",
+"host": null,
+"id": "u-theufochronicles-com-b2428875",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "theufochronicles.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+}
+],
+"node": null,
+"title": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt1', The UFO Chronicles",
+"topics": [
+{
+"claims": [
+"c-cbe5620f21"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+}
+],
+"type": "article",
+"urls": [
+"https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter.html"
+]
+}

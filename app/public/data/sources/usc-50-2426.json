@@ -1,0 +1,213 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-044b49906b",
+"locator": null,
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/2426",
+"text": "Title: 'Congressional oversight of special access programs.' Source credit: Pub. L. 106-65, div. C, title XXXII, sec. 3236, Oct. 5, 1999, 113 Stat. 962. Reports run from the NNSA Administrator to the congressional defense committees, annual report due 'Not later than February 1 of each year.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-7c65d5c042",
+"locator": null,
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/2426",
+"text": "The waiver mirrors 10 U.S.C. 119(e) exactly: 'The Administrator may waive any requirement under subsection (a), (b), or (c)' on a case-by-case adverse-national-security determination, after which the information and justification go 'jointly to the chairman and ranking minority member of each of the congressional defense committees.' A program may not be initiated until the defense committees are notified and 30 days elapse.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-85f88c74f5",
+"locator": "f",
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "50 U.S.C. 2426(f)",
+"text": "50 U.S.C. 2426(f) otherwise imposes the same 30-day report-and-wait as 10 U.S.C. 119(f): 'A special access program may not be initiated until - (1) the congressional defense committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8bfe5a0efb",
+"locator": "e)(1",
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "50 U.S.C. 2426(e)(1)",
+"text": "50 U.S.C. 2426(e)(1): 'The Administrator may waive any requirement under subsection (a), (b), or (c) ... The Administrator may waive the report-and-wait requirement in subsection (f) if the Administrator determines that compliance with such requirement would adversely affect the national security. Any waiver under this paragraph shall be made on a case-by-case basis.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-95276c6ba8",
+"locator": null,
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "Source credit, 50 U.S.C. 2426",
+"text": "Section 2426 was enacted by Pub. L. 106-65, div. C, title XXXII, sec. 3236, 5 October 1999, 113 Stat. 962, and amended by Pub. L. 113-291, sec. 3143(b), 19 December 2014.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-b29e5a6cf4",
+"locator": "e)(2",
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "50 U.S.C. 2426(e)(2)",
+"text": "50 U.S.C. 2426(e)(2) directs the waived information and justification 'jointly to the chairman and ranking minority member of each of the congressional defense committees.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-7215f466da",
+"locator": null,
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/2426",
+"text": "Two of the three SAP reporting statutes (10 U.S.C. 119 for DoD, 50 U.S.C. 2426 for NNSA) contain the eight-member waiver; the third (50 U.S.C. 3348) does not reduce the audience, and the newest (50 U.S.C. 3091a, IC) has no waiver at all. The waiver-to-four-committee-pairs mechanism therefore exists precisely and only where physical hardware programs and nuclear-adjacent research live. Reasoning stated by comparison of the four statutes.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-95f5f4acf4",
+"locator": "e)(1) compared with 10 U.S.C. 119(e)(1",
+"node": "usc-50-2426",
+"nodeLabel": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceText": "50 U.S.C. 2426(e)(1) compared with 10 U.S.C. 119(e)(1)",
+"text": "The NNSA Administrator can lawfully initiate a special access program with no advance notice to any congressional committee, because the waiver in 2426(e)(1) expressly reaches the report-and-wait requirement of 2426(f); the Secretary of Defense cannot, because 10 U.S.C. 119(e)(1) reaches only subsections (a), (b) and (c). Reasoning: direct textual comparison of the two waiver provisions.",
+"tier": 3
+},
+{
+"cls": "domain",
+"id": "c-65908c3cbb",
+"locator": "3348, 3091a",
+"node": "four-regime-map",
+"nodeLabel": "The four SAP reporting regimes and the seams between them",
+"sourceText": "10 U.S.C. 119; 50 U.S.C. 2426, 3348, 3091a",
+"text": "Four separate statutes govern SAP-type reporting: 10 U.S.C. 119 (DoD), 50 U.S.C. 2426 (NNSA), 50 U.S.C. 3348 (all other non-IC agencies) and 50 U.S.C. 3091a (IC controlled access programs).",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-87fc501654",
+"locator": "e), 50 U.S.C. 3348(e) and 50 U.S.C. 3091a",
+"node": "four-regime-map",
+"nodeLabel": "The four SAP reporting regimes and the seams between them",
+"sourceText": "Comparison of 10 U.S.C. 119(e), 50 U.S.C. 2426(e), 50 U.S.C. 3348(e) and 50 U.S.C. 3091a",
+"text": "Of the four regimes, only 10 U.S.C. 119(e)(2) and 50 U.S.C. 2426(e)(2) narrow the recipient of waived information to the chairman and ranking minority member; 50 U.S.C. 3348(e)(2) keeps the full oversight committees, and 50 U.S.C. 3091a has no waiver provision at all.",
+"tier": 1
+}
+],
+"date": "1999-10-05",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+"b": {
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+"claimTier": 1,
+"id": "e-9c5df0d1b1",
+"label": "The Administrator may waive both the reports and the 30-day clock",
+"note": "50 U.S.C. 2426(e)(1) permits waiver of subsections (a), (b) and (c) and, uniquely, of the report-and-wait requirement in subsection (f).",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-a90165910d",
+"label": "Governs special access programs of the nuclear weapons complex",
+"note": "50 U.S.C. 2426 imposes SAP reporting on the Administrator of the National Nuclear Security Administration, a semi-autonomous DOE agency.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "four-regime-map",
+"label": "The four SAP reporting regimes and the seams between them"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+"claimTier": 1,
+"id": "e-6c54f480fa",
+"label": "NNSA regime: the only waiver that reaches the 30-day report-and-wait",
+"note": "50 U.S.C. 2426(e)(1) expressly permits the Administrator to waive the report-and-wait requirement of subsection (f); 10 U.S.C. 119(e) does not.",
+"type": "legislative"
+}
+],
+"era": "1",
+"host": null,
+"id": "usc-50-2426",
+"identifiers": [
+"50 U.S.C. 2426"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+{
+"cls": "domain",
+"id": "four-regime-map",
+"label": "The four SAP reporting regimes and the seams between them"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+},
+"title": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"topics": [
+{
+"claims": [
+"c-044b49906b",
+"c-8bfe5a0efb",
+"c-b29e5a6cf4",
+"c-7215f466da",
+"c-65908c3cbb",
+"c-87fc501654"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+},
+{
+"claims": [
+"c-044b49906b",
+"c-8bfe5a0efb",
+"c-b29e5a6cf4"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2426&num=0&edition=prelim",
+"https://www.law.cornell.edu/uscode/text/50/2426"
+]
+}

@@ -1,0 +1,159 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-aea674a897",
+"locator": null,
+"node": "darpa",
+"nodeLabel": "Defense Advanced Research Projects Agency",
+"sourceText": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1c8630f1bd",
+"locator": null,
+"node": "neil-h-mcelroy",
+"nodeLabel": "Neil H. McElroy",
+"sourceText": "The Advanced Research Projects Agency, 1958-1974, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "The mandate is open-ended by design. The Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.' The directive is 'effective immediately'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7f6bd38d78",
+"locator": null,
+"node": "neil-h-mcelroy",
+"nodeLabel": "Neil H. McElroy",
+"sourceText": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "The founding instrument, reproduced in the agency's own commissioned history: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' The figure is captioned 'TEXT OF DOD DIRECTIVE NUMBER 5105.15, FEBRUARY 7, 1958 (Establishing ARPA)'. The scan is a poor one and renders ARPA as 'AREA' throughout; the readings given here are normalised from obvious OCR corruption.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f1720ff871",
+"locator": null,
+"node": "neil-h-mcelroy",
+"nodeLabel": "Neil H. McElroy",
+"sourceText": "House Appropriations Subcommittee on Defense Appropriations, 'The Ballistic Missile Program', Hearings, November 20-21, 1957, p. 25, quoted in The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "He proposed the agency in public before it had its name. Testifying on 20 November 1957 to the House Appropriations Subcommittee on Defense Appropriations he said: 'We plan to establish in the Department of Defense a special agency to handle our satellite and space research and development projects. Tentatively we are thinking of calling this ... the Special Projects Agency of the Department of Defense.' The history records that a member objected to that name as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fbaccf39c5",
+"locator": null,
+"node": "neil-h-mcelroy",
+"nodeLabel": "Neil H. McElroy",
+"sourceText": "Danny Jones Podcast #228, 11 March 2024, at 2:00:47 to 2:06:12; contradicted against The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "On the Danny Jones Podcast #228, 11 March 2024, at 2:00:47, Annie Jacobsen said ARPA was created around 1956 to 1957 and that its first director was Herb York. The opened records contradict both: the directive is dated 7 February 1958 and Roy W. Johnson was appointed Director the same day, while Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"b": {
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+"claimTier": 1,
+"id": "e-b13a738e83",
+"label": "Founded under the authority of the 1947 Act",
+"note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "neil-h-mcelroy",
+"label": "Neil H. McElroy"
+},
+"b": {
+"cls": "institution",
+"id": "afswp",
+"label": "Armed Forces Special Weapons Project"
+},
+"claimTier": 1,
+"id": "e-8494c52acb",
+"label": "Named AFSWP as the reason the new agency was renamed",
+"note": "The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "neil-h-mcelroy",
+"label": "Neil H. McElroy"
+},
+"b": {
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"claimTier": 1,
+"id": "e-ff1fa361fd",
+"label": "Issued the directive that established ARPA",
+"note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "neil-h-mcelroy",
+"label": "Neil H. McElroy"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-53b71680b9",
+"label": "Secretary of Defense",
+"note": "The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-476bd932",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+{
+"cls": "person",
+"id": "neil-h-mcelroy",
+"label": "Neil H. McElroy"
+}
+],
+"node": null,
+"title": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"topics": [
+{
+"claims": [
+"c-aea674a897"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+]
+}

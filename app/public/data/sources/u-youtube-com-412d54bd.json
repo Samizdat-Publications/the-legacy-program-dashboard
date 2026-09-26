@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"claimTier": 2,
+"id": "e-8cd6da1fe2",
+"label": "Michels platformed UAP Gerb twice for multi-hour structural interviews",
+"note": "Michels published 'UAPGerb: The New Area51 Is HERE in Utah!' on 21 February 2025 (450,091 views) and the three-hour structural episode 'The Pentagon's UFO Program Is Real [Here's How It Works!]' on 11 January 2026 (514,729 views). These two episodes are the primary public exposition of Gerb's structural model.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-412d54bd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+}
+],
+"node": null,
+"title": "American Alchemy - 'UAPGerb: The New Area51 Is HERE in Utah!'",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=nTiFs8LudUo"
+]
+}

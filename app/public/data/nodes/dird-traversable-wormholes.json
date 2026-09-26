@@ -7,20 +7,26 @@
 {
 "id": "c-d7ea3c1985",
 "source": "Cover pages of the released document",
+"sources": [],
 "text": "The document is numbered DIA-08-1004-004, dated 6 April 2010, with 'reOD: 1 December 2009', prepared by the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, DIA.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:dird-traversable-wormholes) was rejected in review: string does not identify which document"
 },
 {
 "id": "c-467dab9db1",
 "source": "Author block of the released document",
+"sources": [],
 "text": "The author is Eric W. Davis, Ph.D., of EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:dird-traversable-wormholes) was rejected in review: string does not identify which document"
 },
 {
 "id": "c-3a07610902",
 "source": "Administrative note of the released document",
+"sources": [],
 "text": "The administrative note names James T. Lacatski, D.Eng. as AAWSA Program Manager at DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:dird-traversable-wormholes) was rejected in review: string does not identify which document"
 }
 ],
 "cls": "document",

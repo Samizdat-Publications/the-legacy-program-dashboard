@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b3e224fc82",
+"locator": null,
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"sourceText": "CBC News, 13 October 2019 https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664",
+"text": "Friedman began donating his research collection to the Provincial Archives of New Brunswick in the months before his death. Archivist Joanna Aiton-Kerr told CBC the archives had received about 300 boxes -- roughly 60 metres laid end to end -- and expected several more cargo vans. This is where the primary material behind his Roswell and MJ-12 work now sits, and it is not online.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-cbc-ca-e8ff659b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cbc.ca",
+"listedOn": [
+{
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+}
+],
+"node": null,
+"title": "CBC News, 'Archivist delighted to comb through mountain of late UFO researcher's records', 13 October 2019",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664"
+]
+}

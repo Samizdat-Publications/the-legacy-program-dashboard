@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2d505af5b9",
+"locator": null,
+"node": "wayne-state-university",
+"nodeLabel": "Wayne State University",
+"sourceText": "wayne.edu/about",
+"text": "Wayne State University was founded in 1868 out of the Detroit Medical College, is located at 42 W. Warren Ave, Detroit, Michigan, and comprises thirteen schools and colleges, including the School of Medicine, serving over 24,000 students.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-wayne-edu-23663560",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "wayne.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+}
+],
+"node": null,
+"title": "Wayne State University - About (official)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://wayne.edu/about"
+]
+}

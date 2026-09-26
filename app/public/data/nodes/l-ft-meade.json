@@ -8,14 +8,30 @@
 {
 "id": "c-a998f65146",
 "source": "US Army Fort Meade installation page",
+"sources": [
+{
+"id": "u-home-army-mil-45755b19",
+"locator": null,
+"title": "U.S. Army Fort Meade"
+}
+],
 "text": "NSA is headquartered at Fort George G. Meade, Maryland.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2e9ff8eeec",
 "source": "DefenseScoop, 26 August 2024",
+"sources": [
+{
+"id": "u-defensescoop-com-d6bcef0f",
+"locator": null,
+"title": "DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub"
+}
+],
 "text": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "location",

@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-2af77236",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "don-schmitt",
+"label": "Donald R. Schmitt"
+},
+{
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+}
+],
+"node": null,
+"title": "UFO crash at Roswell (1991) - Internet Archive",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/ufocrashatroswel00rand"
+]
+}

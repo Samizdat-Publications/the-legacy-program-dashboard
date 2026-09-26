@@ -7,32 +7,60 @@
 {
 "id": "c-d326caa0f9",
 "source": "Disclosure Archives inventory compiled from the war.gov/UFO Release 01 posting",
+"sources": [
+{
+"id": "u-disclosurearchives-com-3830ab44",
+"locator": "Release 01",
+"title": "Disclosure Archives - Department of War files index"
+}
+],
 "text": "Release 01 comprised 160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-114e3b415b",
 "source": "war.gov/UFO, accessed 12 August 2026",
+"sources": [],
 "text": "The war.gov portal lists Release 01 dated 8 May 2026 with a 1.2GB document bundle and a 1.3GB video bundle.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: string names the portal page, not the bundle URLs node"
 },
 {
 "id": "c-673b761fbf",
 "source": "DefenseScoop, 14 May 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "At least 100 of the roughly 160 files contained redactions.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-1ef5e118ab",
 "source": "Aerotime, 9 May 2026; Disclosure Archives inventory",
+"sources": [],
 "text": "Contents include Apollo 12 and 17 records, FBI infrared imagery from the western US in September and December 2025, and a 2026 US Army report of a North American sighting.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:aerotime.aero/articles/us-releases-ufo-uap-files) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-0db075e81a",
 "source": "Disclosure Archives inventory of Release 01",
+"sources": [
+{
+"id": "u-disclosurearchives-com-3830ab44",
+"locator": "Release 01",
+"title": "Disclosure Archives - Department of War files index"
+}
+],
 "text": "FBI file 62-HQ-83894, the Bureau's master flying disc file spanning 1947-1968, was released as a single 101MB PDF.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "event",

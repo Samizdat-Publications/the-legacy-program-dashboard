@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-86afcad1de",
+"locator": null,
+"node": "dird-high-frequency-gravitational-wave-communications",
+"nodeLabel": "High-Frequency Gravitational Wave Communications",
+"sourceText": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+"text": "Baker published an open-source counterpart in 2010, 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010, claiming HFGW applications in communications, surveillance, remote initiation of nuclear events and propulsion.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a90d8e70a6",
+"locator": null,
+"node": "robert-baker",
+"nodeLabel": "Robert M. L. Baker, Jr.",
+"sourceText": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+"text": "Baker published an open-source version of the material in 2010: 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"b": {
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+"claimTier": 1,
+"id": "e-8303c3ddc9",
+"label": "subject domain: gravitational-wave communications and surveillance",
+"note": "Baker's open-source 2010 counterpart claims theoretical aerospace, military and civilian applications in 'communications, surveillance, remote initiation of nuclear events and propulsion, including moving space objects and missiles in flight and frustrating anti-missile and anti-satellite systems.' The breadth of that claim is precisely what JASON's 'no foreign threat in HFGW is credible' was rejecting.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-drrobertbaker-com-c87c759e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "drrobertbaker.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+{
+"cls": "person",
+"id": "robert-baker",
+"label": "Robert M. L. Baker, Jr."
+}
+],
+"node": null,
+"title": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+"topics": [],
+"type": "document",
+"urls": [
+"http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf"
+]
+}

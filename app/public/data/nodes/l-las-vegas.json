@@ -7,20 +7,38 @@
 {
 "id": "c-ca5a7ed4ce",
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"sources": [
+{
+"id": "u-oversight-house-gov-68b6ff59",
+"locator": null,
+"title": "George Knapp written testimony (PDF)"
+}
+],
 "text": "BAASS, headquartered in Las Vegas, was prime contractor for AAWSAP, recruited about 50 full-time investigators with top secret clearances, operated for 27 months, and produced more than three dozen preliminary reports and over 100 detailed research papers plus a 240,000-case data warehouse.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d09f5025ae",
 "source": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-54f89c6e",
+"locator": null,
+"title": "Wikipedia - Skinwalker Ranch"
+}
+],
 "text": "Robert Bigelow founded the National Institute for Discovery Science and purchased Skinwalker Ranch in 1996 for $200,000.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-529ddc26a5",
 "source": "KLAS-TV broadcast record; Wikipedia, Area 51",
+"sources": [],
 "text": "George Knapp broadcast the Robert Lazar interviews from KLAS-TV Las Vegas in May 1989.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:klas-lazar-broadcasts-1989) was rejected in review: names two sources; Wikipedia is not the candidate"
 }
 ],
 "cls": "location",

@@ -1,0 +1,184 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3c08b97863",
+"locator": null,
+"node": "church-committee",
+"nodeLabel": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"sourceText": "S. Rept. 94-755, Book I, Part I section C, 'The Focus and Scope of the Committee's Inquiry and Obstacles Encountered', https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The committee's own account of the obstacles it met: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' It adds that 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4dd55e60d3",
+"locator": null,
+"node": "church-committee",
+"nodeLabel": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"sourceText": "S. Rept. 94-755, Book I, title page and Part I section A, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "'On January 27, 1975, Senate Resolution 21 established a select committee \"to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.\"' Book I of the final report, Senate Report 94-755, was filed on 'APRIL 26 (legislative day, APRIL 14), 1976'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9c7d557987",
+"locator": null,
+"node": "church-committee",
+"nodeLabel": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"sourceText": "S. Rept. 94-755, Book I, committee page and Part I section C, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The committee was chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman, and had eleven members, six from the majority and five from the minority. 'The Committee staff of 100, including 60 professionals, has assisted the 11 members of the Committee in this indepth inquiry which involved more than 800 interviews, over 250 executive hearings, and documentation in excess of 110,000 pages.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d39d2420e8",
+"locator": null,
+"node": "church-committee",
+"nodeLabel": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"sourceText": "S. Rept. 94-755, Book I, NOTE following the Letter of Transmittal, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The report's own publication note records that it 'has been reviewed and declassified by the appropriate executive agencies' and that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' Two sections of the covert-action chapter and one section of the State Department chapter were also deleted at agency request.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e67b8a3bb3",
+"locator": null,
+"node": "church-committee",
+"nodeLabel": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"sourceText": "S. Rept. 94-755, Book I, Findings and Recommendations, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "Among its findings: 'The Committee finds that Congress has failed to provide the necessary statutory guidelines to ensure that intelligence agencies carry out their missions in accord with constitutional processes. Mechanisms for, and the practice of, congressional oversight have not been adequate.' And on money: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-058c776f01",
+"label": "Named by the committee as having limited its access to the full record",
+"note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+},
+"b": {
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"claimTier": 1,
+"id": "e-70731be5f4",
+"label": "The historical benchmark, and the source of the board's sharpest statement of the limit",
+"note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+},
+"b": {
+"cls": "institution",
+"id": "senate-intelligence",
+"label": "Senate Select Committee on Intelligence"
+},
+"claimTier": 2,
+"id": "e-2fcf8ea704",
+"label": "Recommended the permanent oversight committee that followed it",
+"note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+},
+"b": {
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026"
+},
+"claimTier": 1,
+"id": "e-ff867cbf01",
+"label": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
+"note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+},
+"b": {
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate"
+},
+"claimTier": 1,
+"id": "e-1d6f6f2abf",
+"label": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
+"note": "The report states the resolution, the date and the mandate in its own opening section.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-intelligence-senate-gov-47e82cd9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Select Committee on Intelligence",
+"listedOn": [
+{
+"cls": "institution",
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+}
+],
+"node": null,
+"title": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"topics": [
+{
+"claims": [
+"c-3c08b97863",
+"c-4dd55e60d3",
+"c-9c7d557987",
+"c-d39d2420e8",
+"c-e67b8a3bb3"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-3c08b97863",
+"c-d39d2420e8",
+"c-e67b8a3bb3"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+}
+],
+"type": "document",
+"urls": [
+"https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+]
+}

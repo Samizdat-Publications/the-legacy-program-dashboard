@@ -1,0 +1,914 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-bdc3596339",
+"locator": null,
+"node": "usc-50-3306",
+"nodeLabel": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6102(b)(3)(A) of the FY2026 IAA identifies 50 U.S.C. 3306(a) as the sole affirmative exception to the bar on the President publicly disclosing any portion of the classified Schedule of Authorizations.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7892db4a39",
+"locator": "GPO",
+"node": "controlled-disclosure-campaign-plan",
+"nodeLabel": "Controlled Disclosure Campaign Plan",
+"sourceText": "Full-text search of P.L. 118-31, P.L. 118-159 and P.L. 119-60, GPO",
+"text": "No enacted statute mentions a Controlled Disclosure Campaign Plan.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-215857bccb",
+"locator": "GPO",
+"node": "ndaa-fy2024-1687",
+"nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+"sourceText": "Full-text search of P.L. 118-159 and P.L. 119-60, GPO",
+"text": "Neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'; the limitation was not renewed.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-11c2717bfe",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PL 119-60 sec. 1672, 139 Stat. 1202",
+"text": "Sec. 1672(a) repeals sec. 413 of the IAA for FY2022 (50 U.S.C. 3373a). Sec. 1672(b) rewrites 50 U.S.C. 3373(f)(1)(A) to read: 'The Director of National Intelligence and the Secretary of Defense shall jointly require that each element of the intelligence community and component of the Department of Defense with data relating to unidentified anomalous phenomena makes such data available immediately to the Office in a manner that protects intelligence sources and methods.' The added qualifier 'in a manner that protects intelligence sources and methods' is new and was not in the repealed provision.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-13974e402c",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PL 119-60 sec. 1671(a), 139 Stat. 1201-1202",
+"text": "Sec. 1671(a) adds 50 U.S.C. 3373(l)(5): 'Each briefing under this subsection shall include, for the period covered by the briefing, details on any unidentified anomalous phenomena intercepts conducted by the North American Aerospace Defense Command or the United States Northern Command', with summaries of 'the number, location, and nature of such intercepts' and 'a description of the procedures and protocols followed during the intercepts, including any data collected or analyzed during such intercepts.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-283d68a12b",
+"locator": "GPO",
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "Full-text search of P.L. 118-159 and P.L. 119-60, GPO",
+"text": "The FY2024 funding limitations on undisclosed UAP special access programmes were not renewed in P.L. 118-159 or P.L. 119-60: neither Act contains the phrase 'special access or restricted access'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-29916d4653",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PL 119-60 sec. 1673, 139 Stat. 1202-1203",
+"text": "Sec. 1673(a), note '50 USC 3373 note', requires the Director of AARO within 180 days of enactment to 'make an accounting of security classification guides that apply to information used for reports and investigations of unidentified anomalous phenomena' and permits issuance of 'a consolidated security classification matrix for programs relating to unidentified anomalous phenomena to provide a resource for programs that support or may be affected by investigations relating to unidentified anomalous phenomena.' Sec. 1673(b) requires the results to be included in the 2026 annual report under 50 U.S.C. 3373(k).",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-2c502a5956",
+"locator": "GPO",
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "Full-text search of P.L. 119-60, GPO",
+"text": "P.L. 119-60 contains zero instances of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-34a25a7d2b",
+"locator": "GPO",
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "P.L. 119-60, GPO",
+"text": "P.L. 119-60 was approved 18 December 2025 and originated as S. 1071; its Subtitle E consists of Secs. 1671, 1672 and 1673.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-457fdfb4ac",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "Full-text search of P.L. 119-60 Division F, GPO",
+"text": "Division F of P.L. 119-60, the Intelligence Authorization Act for FY2026, contains no unidentified anomalous phenomena provisions.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8268b08be1",
+"locator": "Sec. 1671(b), GPO",
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "P.L. 119-60, Sec. 1671(b), GPO",
+"text": "Sec. 1671(b) requires the first NORAD/NORTHCOM intercept briefing to cover intercepts 'during the period beginning on January 1, 2004.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-98c810d3ff",
+"locator": "Sec. 1673, GPO",
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "P.L. 119-60, Sec. 1673, GPO",
+"text": "Sec. 1673 requires an accounting of security classification guides applying to UAP reports and investigations within 180 days, and permits a consolidated security classification matrix.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-b138ec4ff1",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PLAW-119publ60 enactment line",
+"text": "PL 119-60 was 'Approved December 18, 2025.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e2622a1184",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PL 119-60 sec. 1671(a), 139 Stat. 1202",
+"text": "Sec. 1671(a) new subparagraph (C) requires the Director of AARO to 'inform the appropriate congressional committees of any failure by the North American Aerospace Defense Command or the United States Northern Command to provide timely information on unidentified anomalous phenomena intercepts' - an anti-stonewalling clause written against two combatant commands by name.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f4dffbc000",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PL 119-60 sec. 1671(b), 139 Stat. 1202",
+"text": "Sec. 1671(b), note '50 USC 3373 note', imposes a retrospective look-back: the first briefing after enactment 'shall include details on any unidentified anomalous phenomena intercepts conducted by the North American Aerospace Defense Command or the United States Northern Command not previously provided that occurred during the period beginning on January 1, 2004, and ending on the last day of the period otherwise covered by the briefing.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-849dbf17b1",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PL 119-60 sec. 1671(b)",
+"text": "The 1 January 2004 look-back date in sec. 1671(b) is the month of the USS Nimitz / 'Tic Tac' encounters. Congress selected a start date that reaches back to the earliest incident in the modern public record rather than to AARO's creation, indicating the committees believe intercept records from that period exist and have not been briefed. Reasoning: no other event anchors that specific date in UAP legislative history.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-cd8787a6f8",
+"locator": null,
+"node": "ndaa-fy2026",
+"nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"sourceText": "PL 119-60 sec. 1673(a)",
+"text": "Sec. 1673's premise is that no one currently has a map of which classification guides control UAP information across the government - four years after AARO was created by statute. The authorisation of a 'consolidated security classification matrix' for 'programs relating to unidentified anomalous phenomena' is an admission in enacted law that a plurality of such programs exists and that their classification authorities are not centrally known. Reasoning: Congress does not order an accounting of guides that are already inventoried.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-bb09fa3a4f",
+"locator": null,
+"node": "iaa-2022",
+"nodeLabel": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
+"sourceText": "PL 119-60 sec. 1672(a), 139 Stat. 1202",
+"text": "Sec. 1672(a) of the FY2026 NDAA (PL 119-60) provides: 'Repeal.--Section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (division X of Public Law 117-103; 50 U.S.C. 3373a) is repealed.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-18c1d71b36",
+"locator": null,
+"node": "classified-programs-line",
+"nodeLabel": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Comparable totals computed from the enacted funding tables: FY2024 (P.L. 118-31) 22 rows, $86.574 billion requested / $86.912 billion authorized; FY2025 (P.L. 118-159) 24 rows, $89.566 billion / $88.682 billion; FY2026 (P.L. 119-60) 25 rows, $95.786 billion / $95.907 billion.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1957f520dc",
+"locator": null,
+"node": "classified-programs-line",
+"nodeLabel": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "FY2026 line 530A, Operation and Maintenance Defense-Wide, 'CLASSIFIED PROGRAMS': $22,750,830 thousand; line 590A, Operation and Maintenance Army: $2,385,523 thousand.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-397ba5f508",
+"locator": null,
+"node": "classified-programs-line",
+"nodeLabel": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Classified RDT&E appears under Program Element number 9999999999: FY2026 line 293A (Air Force) $22,264,031 thousand requested, $22,385,031 thousand authorized; line 259A (Navy) $2,554,769 thousand; line 298A $8,276,313 thousand.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8d35f0649c",
+"locator": null,
+"node": "classified-programs-line",
+"nodeLabel": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "FY2026 NDAA line 077A, Other Procurement, Air Force, 'CLASSIFIED PROGRAMS': $26,920,092 thousand requested and authorized; the adjacent line 077 'SPECIAL UPDATE PROGRAM' carries $1,178,397 thousand.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ab940c5c51",
+"locator": null,
+"node": "classified-programs-line",
+"nodeLabel": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "The FY2026 NDAA funding tables contain 25 line items titled 'CLASSIFIED PROGRAMS' totalling $95.786 billion requested and $95.907 billion authorized (computed directly from the enacted text, Division D).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bab11365fa",
+"locator": null,
+"node": "classified-programs-line",
+"nodeLabel": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "The $26.9 billion Other Procurement, Air Force classified line is the principal 'pass-through': it is carried on the Air Force's books and counted against the Air Force topline but is not the Air Force's money to spend. Reasoning: the sum vastly exceeds any plausible Air Force-controlled classified procurement requirement, the account has historically carried national reconnaissance funding, and the Air Force has repeatedly and publicly complained that its published topline overstates its actual resources by roughly this magnitude.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-26c2d51048",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 1673 directs the AARO Director, not later than 180 days after enactment, to make an accounting of security classification guides applying to UAP reports and investigations, and permits a consolidated security classification matrix.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-3e9cc27430",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 1671 requires briefings on intercepts of UAP by North American Aerospace Defense Command and United States Northern Command.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-44a4c7c822",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "The NDAA FY2026 (P.L. 119-60) was approved 18 December 2025.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-4d8186f1ee",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 1672 repeals section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373a) and amends 50 U.S.C. 3373(f)(1)(A) to require IC elements and DoD components with UAP data to make it available to AARO immediately.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-522daebaca",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "PLAW-119publ60 sec. 1672",
+"text": "Sec. 1672(a) repeals 50 U.S.C. 3373a (sec. 413 of the IAA for FY2022); sec. 1672(b) rewrites 50 U.S.C. 3373(f)(1)(A) and adds the new qualifier 'in a manner that protects intelligence sources and methods' to the immediate-data-availability mandate.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-772583fa78",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "PLAW-119publ60 sec. 1673(a)",
+"text": "Sec. 1673(a) requires the Director of AARO within 180 days to account for 'security classification guides that apply to information used for reports and investigations of unidentified anomalous phenomena' and permits a 'consolidated security classification matrix for programs relating to unidentified anomalous phenomena'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ae62fbcdd5",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "PLAW-119publ60 sec. 1671(b)",
+"text": "Sec. 1671(b) requires the first post-enactment briefing to cover NORAD/USNORTHCOM UAP intercepts 'not previously provided that occurred during the period beginning on January 1, 2004'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-bb1dbc6a36",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "PLAW-119publ60 table of contents and secs. 1671-1673",
+"text": "Public Law 119-60 (FY2026 NDAA, approved 18 December 2025), Div. A, Title XVI, secs. 1671-1673, 139 Stat. 1201-1203: sec. 1671 'Briefings on intercepts of unidentified anomalous phenomena by North American Aerospace Defense Command and United States Northern Command'; sec. 1672 'Elimination of duplicative reporting requirements relating to unidentified anomalous phenomena'; sec. 1673 'Accounting of security classification guides relating to unidentified anomalous phenomena'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-c87147d656",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Neither the FY2025 NDAA (P.L. 118-159) nor the FY2026 NDAA (P.L. 119-60) re-enacted the section 1687(a) prohibition on funding unreported UAP special access activity; a full-text search of both Acts returns no instance of the phrase 'restricted access limitation'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-87e2323463",
+"locator": null,
+"node": "roger-wicker",
+"nodeLabel": "Roger F. Wicker",
+"sourceText": "P.L. 119-60 full text, GPO",
+"text": "P.L. 119-60 Subtitle E consists of Secs. 1671, 1672 and 1673 only; the Act contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-48952e92f6",
+"locator": null,
+"node": "sec-1001-gta",
+"nodeLabel": "Section 1001 General Transfer Authority (annual NDAA)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 4001(c), NDAA FY2026: transfer or reprogramming of a funding-table amount 'shall not count against a ceiling on such transfers or reprogrammings under section 1001 of this Act or any other provision of law, unless such transfer or reprogramming would move funds between appropriation accounts.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-94398ba636",
+"locator": null,
+"node": "sec-1001-gta",
+"nodeLabel": "Section 1001 General Transfer Authority (annual NDAA)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 1001(d) requires only that 'The Secretary shall promptly notify Congress of each transfer made under subsection (a).'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-be1cebacbc",
+"locator": null,
+"node": "sec-1001-gta",
+"nodeLabel": "Section 1001 General Transfer Authority (annual NDAA)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 1001, NDAA FY2026: transfer authority on the Secretary's determination that action 'is necessary in the national interest', capped at $6,000,000,000, excluding military personnel transfers.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-979256098b",
+"locator": "GPO",
+"node": "uapda-sec-9010-eminent-domain",
+"nodeLabel": "Section 9010(a) - Exercise of Eminent Domain",
+"sourceText": "Full-text search of P.L. 118-31, P.L. 118-159 and P.L. 119-60, GPO",
+"text": "No enacted United States statute contains this language; P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ea5169808c",
+"locator": null,
+"node": "senate-intelligence",
+"nodeLabel": "Senate Select Committee on Intelligence",
+"sourceText": "Full-text search of P.L. 119-60 Division F, GPO",
+"text": "The Intelligence Authorization Act for FY2026, Division F of P.L. 119-60, contains no UAP provisions.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3baa1c7e77",
+"locator": null,
+"node": "classified-annex",
+"nodeLabel": "The Classified Annex (NDAA and Defense Appropriations)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 4001(d), NDAA FY2026: 'Applicability to Classified Annex.--This section applies to any classified annex that accompanies this Act', where section 4001(a) authorises obligation and expenditure of any dollar amount specified in a funding table.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-47106ac947",
+"locator": null,
+"node": "classified-annex",
+"nodeLabel": "The Classified Annex (NDAA and Defense Appropriations)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 5 of the NDAA FY2026 gives the joint explanatory statement printed in the Congressional Record on or about 10 December 2025 the same effect as a conference committee joint explanatory statement.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0326ff4923",
+"locator": null,
+"node": "classified-schedule-authorizations",
+"nodeLabel": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6101, IAA FY2026: 'Funds are hereby authorized to be appropriated for fiscal year 2026 for the conduct of the intelligence and intelligence-related activities of the Federal Government' - with no amount stated.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-29970f5393",
+"locator": null,
+"node": "classified-schedule-authorizations",
+"nodeLabel": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "The classified Schedule is made available only to the two Appropriations Committees and the President, who distributes it within the executive branch.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7815bef3fb",
+"locator": null,
+"node": "classified-schedule-authorizations",
+"nodeLabel": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6102(a): the amounts authorised 'are those specified in the classified Schedule of Authorizations prepared to accompany this division.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c6773dcf68",
+"locator": null,
+"node": "classified-schedule-authorizations",
+"nodeLabel": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6103 authorises $678,853,000 for the Intelligence Community Management Account in public text plus 'such additional amounts as are specified in the classified Schedule of Authorizations.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d34f10dfe9",
+"locator": null,
+"node": "classified-schedule-authorizations",
+"nodeLabel": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6102(b)(3): 'The President shall not publicly disclose the classified Schedule of Authorizations or any portion of such Schedule' except under 50 U.S.C. 3306(a), to the extent necessary to implement the budget, or as otherwise required by law.",
+"tier": 1
+}
+],
+"date": "2025",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 1,
+"id": "e-16460b18c3",
+"label": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+"note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2022-sec-1683",
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"claimTier": 1,
+"id": "e-2a92f59f3b",
+"label": "FY2026 amends Sec. 1683(l) to add intercept briefings",
+"note": "Sec. 1671 of P.L. 119-60 adds a new paragraph (5) requiring NORAD and NORTHCOM intercept detail in AARO briefings, reaching back to 1 January 2004.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"claimTier": 1,
+"id": "e-665099f158",
+"label": "Not renewed; the funding bar has lapsed since FY2024",
+"note": "Sec. 1687 restricts only funds authorised by the FY2024 Act; neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+"claimTier": 1,
+"id": "e-552f570493",
+"label": "The funding bar was not renewed; only the IR&D provision survives",
+"note": "Section 1687(a) applied only to funds authorised by the FY2024 Act; a full-text search of the FY2025 and FY2026 NDAAs returns no equivalent provision. Section 1687(b), codified as a 50 U.S.C. 3373 note, has no fiscal-year limit. Attested by the enacted texts of all three Acts.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+"claimTier": 1,
+"id": "e-c5c7bf205f",
+"label": "P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping",
+"note": "Approved 18 December 2025, with three UAP sections requiring that AARO briefings cover NORAD and NORTHCOM intercepts and accounting for UAP classification guides. Recording it in the enacted domain alongside the 2021-2023 provisions is what lets a reader see the trajectory of what Congress has actually been willing to enact.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"b": {
+"cls": "legislation",
+"id": "iaa-2022",
+"label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
+},
+"claimTier": 1,
+"id": "e-96a9c74f02",
+"label": "repeals 50 U.S.C. 3373a",
+"note": "PL 119-60 sec. 1672(a): 'Section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (division X of Public Law 117-103; 50 U.S.C. 3373a) is repealed.'",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 1,
+"id": "e-9af2694ee4",
+"label": "Third consecutive Act enacted without the Senate's own passed text",
+"note": "P.L. 119-60 contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-d9f8e9d29b",
+"label": "Congress set 1 January 2004 as the retroactive intercept floor",
+"note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"claimTier": 2,
+"id": "e-2a2cd0a682",
+"label": "Claims only the briefing-requirement update as her FY2026 UAP win",
+"note": "Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-programs-line",
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999"
+},
+"b": {
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)"
+},
+"claimTier": 3,
+"id": "e-adda1694f7",
+"label": "Published classified line items are where MIP and NIP money physically sits in the defense budget",
+"note": "The FY2026 funding tables carry roughly $95.9 billion in rows titled only 'CLASSIFIED PROGRAMS'; the published MIP request for FY2026 is $33.6 billion and the NIP request $81.9 billion, neither of which appears as a named line anywhere. The inference is that the classified rows are the appropriation vehicle. No document states the mapping.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-programs-line",
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 3,
+"id": "e-ef0b75bbbf",
+"label": "The $26.9 billion Other Procurement, Air Force classified line is the historical pass-through",
+"note": "FY2026 line 077A carries $26,920,092 thousand in Other Procurement, Air Force, an account long understood by budget analysts to carry national reconnaissance funding that the Air Force does not control. Inference from the size of the line, the account's history, and the Air Force's own repeated public complaints about a pass-through of this magnitude; no document confirms the recipient.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-programs-line",
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 1,
+"id": "e-b4a016d1a2",
+"label": "The one-word line item is the public face of the annex table",
+"note": "Section 4001 authorises obligation of amounts in the funding tables and applies to any classified annex accompanying the Act; the printed tables show only 'CLASSIFIED PROGRAMS' and a number, the annex shows the programme detail. Attested by the enacted text.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"claimTier": 1,
+"id": "e-daa0a085a2",
+"label": "Chaired SASC for the FY2026 authorization",
+"note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"claimTier": 1,
+"id": "e-f1224ef375",
+"label": "No enacted statute contains the eminent domain language",
+"note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"b": {
+"cls": "legislation",
+"id": "sec-1001-gta",
+"label": "Section 1001 General Transfer Authority (annual NDAA)"
+},
+"claimTier": 1,
+"id": "e-c0ad6e3ef2",
+"label": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
+"note": "Section 4001(c) of the FY2026 NDAA states transfers or reprogrammings of funding-table amounts shall not count against the section 1001 ceiling unless funds move between appropriation accounts; section 4001(d) applies the section to any classified annex. Attested by the enacted text.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-schedule-authorizations",
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-3306",
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+},
+"claimTier": 1,
+"id": "e-2478d39226",
+"label": "Section 3306(a) is the sole affirmative exception to the bar on disclosing the Schedule",
+"note": "Section 6102(b)(3)(A) names 50 U.S.C. 3306(a) as the one statutory route by which any portion of the classified Schedule may be publicly disclosed. Attested by the enacted text.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-schedule-authorizations",
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)"
+},
+"b": {
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+"claimTier": 1,
+"id": "e-32d352ce56",
+"label": "The Schedule is the instrument by which the entire NIP is authorised",
+"note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "document",
+"id": "classified-programs-line",
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999"
+},
+"claimTier": 1,
+"id": "e-a3f5cbdc15",
+"label": "The Department is the account holder for every published classified line",
+"note": "All 25 'CLASSIFIED PROGRAMS' rows in the FY2026 funding tables sit in Department of Defense appropriation accounts - Army, Navy, Air Force, Space Force, Defense-Wide and Special Operations. Attested by the enacted funding tables.",
+"type": "funding"
+}
+],
+"era": "3",
+"host": null,
+"id": "pl-119-60",
+"identifiers": [
+"Public Law 119-60"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-3306",
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+},
+{
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2024-1687",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+{
+"cls": "legislation",
+"id": "iaa-2022",
+"label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
+},
+{
+"cls": "document",
+"id": "classified-programs-line",
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999"
+},
+{
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+{
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+{
+"cls": "legislation",
+"id": "sec-1001-gta",
+"label": "Section 1001 General Transfer Authority (annual NDAA)"
+},
+{
+"cls": "institution",
+"id": "senate-intelligence",
+"label": "Senate Select Committee on Intelligence"
+},
+{
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+{
+"cls": "document",
+"id": "classified-schedule-authorizations",
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"topics": [
+{
+"claims": [
+"c-18c1d71b36",
+"c-397ba5f508",
+"c-8d35f0649c",
+"c-ab940c5c51",
+"c-bab11365fa",
+"c-48952e92f6",
+"c-94398ba636",
+"c-be1cebacbc",
+"c-3baa1c7e77",
+"c-0326ff4923",
+"c-29970f5393",
+"c-7815bef3fb",
+"c-c6773dcf68",
+"c-d34f10dfe9"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-11c2717bfe",
+"c-13974e402c",
+"c-29916d4653",
+"c-e2622a1184",
+"c-f4dffbc000",
+"c-bb1dbc6a36"
+],
+"id": "uap-statutes",
+"title": "UAP law in the NDAAs and IAAs, 2021-2026"
+},
+{
+"claims": [
+"c-ab940c5c51",
+"c-48952e92f6",
+"c-94398ba636",
+"c-be1cebacbc"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-3e9cc27430",
+"c-ae62fbcdd5",
+"c-bb1dbc6a36"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+},
+{
+"claims": [
+"c-7892db4a39"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+]
+}

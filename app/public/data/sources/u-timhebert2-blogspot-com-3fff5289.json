@@ -1,0 +1,158 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-295db42acf",
+"locator": null,
+"node": "eric-carlson",
+"nodeLabel": "Capt. Eric D. Carlson",
+"sourceText": "The UFO Chronicles, republishing Robert Hastings, June 2011, https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html , opened 2026-09-19; and Tim Hebert, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+"text": "Eric Carlson states that he received no UFO-related radio or Sensitive Information Network call about any of his launch facilities on 16 March 1967, that he was seated about two feet from Walter Figel when the call the UFO account depends on is said to have been received, and that he does not recall a subsequent debriefing.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-ecdbf7a98a",
+"locator": null,
+"node": "walter-figel",
+"nodeLabel": "Col. Walter Figel Jr.",
+"sourceText": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+"text": "Tim Hebert, himself a former Minuteman crew member at Malmstrom, writes that Figel's two Hastings interviews contradict each other on the location of the maintenance teams and on who reported the sighting, and that Figel declined to sign an affidavit for the 2010 National Press Club event.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4b1990b373",
+"locator": null,
+"node": "tim-hebert",
+"nodeLabel": "Tim Hebert",
+"sourceText": "Tim Hebert, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+"text": "His argument is that the 341st SMW unit history goes into detail on the launch crew's debriefing while never mentioning the maintenance teams at the launch facilities whose presence the UFO account requires, and that the engineering investigation centred on an electromagnetic-pulse-like noise pulse originating within the launch control centre rather than externally.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7ffc5950cc",
+"locator": null,
+"node": "tim-hebert",
+"nodeLabel": "Tim Hebert",
+"sourceText": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html and 'Engineering Change Proposal 1221', http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html , both opened 2026-09-19",
+"text": "Tim Hebert states he served as a Minuteman missile crew member with the 490th Strategic Missile Squadron at Malmstrom AFB from 1981 to 1985 and in the Wing Codes Division at Grand Forks AFB from 1985 to 1988, and later worked as a programme manager assigned to Air Force Systems Command handling engineering change proposals.",
+"tier": 2
+}
+],
+"date": "2011-08",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 2,
+"id": "e-205c0ea0fe",
+"label": "The on-duty crew commander denies any UFO report reached the capsule",
+"note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr."
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 2,
+"id": "e-3284ad4f28",
+"label": "Deputy crew commander on duty; the contested Echo Flight radio report",
+"note": "HIS ACCOUNT EXISTS ONLY AS ROBERT HASTINGS'S AUDIO RECORDINGS OF TELEPHONE CALLS IN 2008, 2009 AND 2010. HE DECLINED TO SIGN AN AFFIDAVIT FOR THE 2010 NATIONAL PRESS CLUB EVENT. NO PRE-CONTACT PUBLIC STATEMENT BY HIM HAS BEEN IDENTIFIED. James Carlson states he said the opposite.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-hebert",
+"label": "Tim Hebert"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 2,
+"id": "e-ffd37b38ec",
+"label": "Published argument from the released paper that no UFO element is supported",
+"note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
+"type": "denial"
+}
+],
+"era": "2",
+"host": null,
+"id": "u-timhebert2-blogspot-com-3fff5289",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "timhebert2.blogspot.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson"
+},
+{
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr."
+},
+{
+"cls": "person",
+"id": "james-carlson",
+"label": "James Carlson"
+},
+{
+"cls": "person",
+"id": "tim-hebert",
+"label": "Tim Hebert"
+}
+],
+"node": null,
+"title": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html",
+"topics": [
+{
+"claims": [
+"c-295db42acf",
+"c-ecdbf7a98a"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
+"c-295db42acf",
+"c-ecdbf7a98a"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+},
+{
+"claims": [
+"c-ecdbf7a98a"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "article",
+"urls": [
+"https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+]
+}

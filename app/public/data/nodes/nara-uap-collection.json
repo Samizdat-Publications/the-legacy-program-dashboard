@@ -7,254 +7,553 @@
 {
 "id": "c-40f2ebe135",
 "source": "National Archives press release nr25-07, 24 April 2025",
+"sources": [
+{
+"id": "u-archives-gov-d348fbea",
+"locator": null,
+"title": "National Archives press release nr25-07"
+}
+],
 "text": "NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e2ea01263c",
 "source": "National Archives press release nr25-07, 24 April 2025",
+"sources": [
+{
+"id": "u-archives-gov-d348fbea",
+"locator": null,
+"title": "National Archives press release nr25-07"
+}
+],
 "text": "NARA announced on 24 April 2025 the release of UAP records transferred from ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission, under sections 1841-1843 of the 2024 NDAA (Public Law 118-31), with rolling additions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-aeba84a2bd",
 "source": "National Archives press release nr25-07, 24 April 2025",
+"sources": [
+{
+"id": "u-archives-gov-d348fbea",
+"locator": null,
+"title": "National Archives press release nr25-07"
+}
+],
 "text": "NARA states it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fbd91d9ca4",
 "source": "NARA Catalog, Record Group 615",
+"sources": [
+{
+"id": "nara-rg-615",
+"locator": null,
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
+}
+],
 "text": "The collection is organised at NARA as Record Group 615.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f76b3388b5",
 "source": "Inference from comparing the nr25-07 transfer list with the contributor list in the 2021 ODNI Preliminary Assessment",
+"sources": [],
 "text": "The absence of CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments from the first statutory transfer is the most testable indicator on this board: either those agencies hold no UAP records, which is contradicted by ODNI's own 2021 contributor list, or they have not transferred them. Reasoning: ODNI named NRO, NGA, NSA, DIA, ONI and DARPA as contributors of UAP reporting in 2021, so responsive records demonstrably exist at agencies that produced nothing for the collection.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-eee402da5f",
 "source": "https://www.archives.gov/research/topics/uaps/rg-615; https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-archives-gov-84d9f25c",
+"locator": null,
+"title": "National Archives, Record Group 615"
+},
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and the first military department to appear as a contributor in its own right, as series 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena', National Archives Identifier 656595571.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-aec68e0fda",
 "source": "https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The Air Force series carries accession number TR-0615-2026-0003, was described from NARA descriptive file NAC_2026-08-27_23.116_DESC_0001.xml and entered the catalog index on 28 August 2026 at 08:30 UTC.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f1f7f264e4",
 "source": "https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The Air Force series holds 30 items with an extent of '30 Portable Document Format (PDF) files', inclusive dates 25 October 1945 to 31 December 1969, access restriction Unrestricted and use restriction Unrestricted, under disposition authority DAA-GRS-2024-0002-0001.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e797a84d82",
 "source": "https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c2db81885e",
 "source": "https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "All 30 items carry contiguous UAP Record Identifiers 342UAP00001 through 342UAP00030, and each has exactly one attached PDF digital object; all 30 object URLs were fetched on 28 August 2026 and returned PDF content.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-365533fc23",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-51e8ed10",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codified at 44 U.S.C. 2107 / Date: 5/05/2025 / Declassified in Full: X / Case Number: 342UAP00005', showing that the Air Force ran the transfer as a declassification action under the UAP records statute and used the UAP Record Identifier as the declassification case number.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b12f8af977",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-51e8ed10",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-55dd1b7621",
 "source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"sources": [
+{
+"id": "u-catalog-archives-gov-6004c76a",
+"locator": null,
+"title": "National Archives Catalog metadata export, NAID 493468575"
+}
+],
 "text": "The FAA series in this collection is withheld in part under a named statutory postponement code. The catalog's own metadata export for NAID 493468575 gives access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)' and a use restriction of 'Unrestricted'. The series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accessions TR-0615-2025-0006 and TR-0615-2025-0008, an extent of 575 portable document files, and is held at the National Archives at College Park, Electronic Records.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-145d863d41",
 "source": "https://www.archives.gov/uap",
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "Record Group 615 was established pursuant to sections 1841-1843 of the 2024 National Defense Authorization Act; UAP records received from federal agencies are accessioned into RG 615 and published in the National Archives Catalog on a rolling basis.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a568a2cef7",
 "source": "https://www.archives.gov/research/topics/uaps/rg-615",
+"sources": [
+{
+"id": "u-archives-gov-84d9f25c",
+"locator": null,
+"title": "National Archives, Record Group 615"
+}
+],
 "text": "Eight agencies appear as RG 615 contributors as of 28 August 2026: FAA (catalog ID 493468575), NRC (488808322), ODNI (493468579), OSD (493468580), NSA (580103959), Department of State (608806625), FBI (580705010) and the Department of the Air Force (656595571). The Air Force was added on 28 August 2026; the preceding seven were in place by 22 May 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bee8947675",
 "source": "https://www.archives.gov/research/topics/uaps/faqs",
+"sources": [
+{
+"id": "u-archives-gov-53c5ac59",
+"locator": null,
+"title": "National Archives, UAP Records FAQs"
+}
+],
 "text": "NARA guidance directed agencies with releasable UAP records to contact NARA to initiate transfers before 30 September 2025, in digital form with metadata per established guidance.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-04c6f0e280",
 "source": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download",
+"sources": [
+{
+"id": "u-archives-gov-086caba0",
+"locator": null,
+"title": "National Archives, UAP bulk downloads"
+}
+],
 "text": "Bulk-download electronic-records volumes as of the 24 April 2025 update: NRC 11.74MB, FAA 63.10MB, ODNI 1.29MB, OSD 103.37MB; against Project BLUE BOOK still pictures at 36.48GB, Roswell Reports moving images 16.25GB and sanitized Blue Book case files of roughly 379GB across ten files.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a6ced6009a",
 "source": "https://www.archives.gov/research/topics/uaps/rg-615",
+"sources": [
+{
+"id": "u-archives-gov-84d9f25c",
+"locator": null,
+"title": "National Archives, Record Group 615"
+}
+],
 "text": "CIA, DIA, DOE, NASA, NRO, NGA, DHS, the Army and the Navy still have no series in RG 615 as of 28 August 2026, and NARA publishes no compliance list or non-compliance statement. The Department of the Air Force, which was in this list until 28 August 2026, now has one. Reasoning: direct inspection of the RG 615 contributor list and the FAQ, which addresses the framework and is silent on implementation status.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-3267e26442",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-8a7d95cb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Item 342UAP00026, catalogued only as 'Correspondence Regarding Unidentified Flying Objects, 1947', is Fourth Air Force file 212.1, 'REPORTS GENERAL / REPORTS OF UNIDENTIFIED FLYING OBJECTS / YEAR 1947', 302 pages, indexed on Fourth AF Form No. 219 'LIST OF PAPERS' with at least 51 numbered serials running from 7 January 1947 to 22 December 1947.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d575226717",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-8a7d95cb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The Fourth Air Force 1947 index records liaison with the Federal Bureau of Investigation on flying-disc reports: serial 40 is an information letter from Headquarters Fourth Air Force dated 27 August 1947 to the FBI at San Francisco, and serial 51 is an incident report from the FBI at Phoenix, Arizona dated 23 October 1947 to the Special Agent in Charge, San Francisco.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-84fb243263",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-8a7d95cb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Serial 44 of the Fourth Air Force 1947 index is summarised in the file's own words as 'Rept, facts regarding Disc story, Fred Crisman, Harold Dahl & crashed B-25, Tacoma, Wash area', dated 22 August 1947 and directed to the Director, FBI. Related serials in the same index cover a request for a statement from Richard Harkins, a Western Union message from H. Dahl, TWX 150 on the crashed B-25, and newspaper clippings on the B-25 crash at Kelso, Washington.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-490c654aed",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-8a7d95cb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1e07b735df",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2ac38306",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Item 342UAP00024, catalogued only as 'I Once Saw A Flying Saucer - Project Blue Book, April 18, 1966', is a piece titled 'I Once Saw a Flying Saucer' by Ira C. Eaker. The catalog record does not name him. It opens on the 5 April 1966 appearance of Secretary of the Air Force Harold Brown and Chief of Staff General J.P. McConnell before the House Armed Services Committee, and states that in eighteen years more than 10,000 UFO sightings had been investigated with 663 listed as unexplained.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d9b6afa0d7",
 "source": "https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The Air Force RG 615 series runs to 8,093 pages across its 30 PDFs. The scans carry no OCR text layer: the only machine-readable text in the files is the page-header identifier stamped on each page during processing, so the series cannot be full-text searched as released.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-10e28adf60",
 "source": "https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-07d1ca7f67",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-ab9d3a79",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Item 342UAP00013, catalogued as '78th Fighter Wing, December, 1964', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6de16a0bbb",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-79be5ee7",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Item 342UAP00014, catalogued as '95th Bombardment Wing History, March, 1960', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force's UAP records transfer.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-529ed0e6df",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-79be5ee7",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp 'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-37c0875f5d",
 "source": "National Archives UAP Records Collection page, accessed 12 August 2026",
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "The collection was established under sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, and NARA created Record Group 615 to hold it.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9ec56ae4ed",
 "source": "National Archives UAP records page",
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-90864d5c83",
 "source": "National Archives UAP Records Collection and UAP research topic pages, accessed 12 August 2026",
+"sources": [],
 "text": "NARA publishes no list of which agencies have transferred records, no item or page counts by agency, and no transfer dates.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:archives.gov/uap) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-2a0d21bfb5",
 "source": "Department of War news story, 27 February 2026",
+"sources": [
+{
+"id": "t-93310bda244e",
+"locator": null,
+"title": "Department of War news story, 27 February 2026"
+}
+],
 "text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-7fc01b4321",
 "source": "Inference from NARA's rolling-basis statement against the disclosure architecture in the adopted FY2027 NDAA amendment",
+"sources": [],
 "text": "Without published agency-by-agency transfer accounting, no one outside government can distinguish a collection that agencies are populating from one they are ignoring - which is the specific defect the Burlison FY2027 amendment's statutory timelines and subpoena-empowered review board are designed to remove.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-61918613f4",
 "source": "National Archives, UAP records research topic page",
+"sources": [],
 "text": "NARA established the Unidentified Anomalous Phenomena Records Collection (Record Group 615) per sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:archives.gov/research/topics/uaps/rg-615) was rejected in review: topic page is not shown to be the RG 615 page"
 },
 {
 "id": "c-5e0ec65810",
 "source": "National Archives, UAP records research topic page",
+"sources": [],
 "text": "UAP records received by NARA from federal agencies under the 2024 NDAA are accessioned into RG 615 and added on a rolling basis as received.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:archives.gov/research/topics/uaps/rg-615) was rejected in review: topic page is not shown to be the RG 615 page"
 },
 {
 "id": "c-259e119539",
 "source": "National Archives, UAP records research topic page",
+"sources": [],
 "text": "NARA has been digitising historical UFO/UAP records from its existing holdings and releasing them through the online catalog; the topic page was last updated 24 April 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:archives.gov/research/topics/uaps/rg-615) was rejected in review: topic page is not shown to be the RG 615 page"
 },
 {
 "id": "c-490dd9f5fb",
 "source": "National Archives, Air Force UFO records page",
+"sources": [
+{
+"id": "u-archives-gov-fcf00d64",
+"locator": null,
+"title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+}
+],
 "text": "Existing legacy holdings include the Project Blue Book records: approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of OSI records on 94 rolls of microfilm (T-1206).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-04dc1d08a9",
 "source": "Inference from the described contents of RG 615 and NARA's Air Force UFO holdings description",
+"sources": [
+{
+"id": "nara-rg-615",
+"locator": null,
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
+}
+],
 "text": "No series corresponding to JANAP 146 CIRVIS national-security UFO reports, or to Air Materiel Command T-2 intelligence files for 1947-1951, has been identified in RG 615 accessions to date — the two series most likely to bear on a legacy recovery effort.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-a94175db29",
 "source": "National Archives, UAP records research page, archives.gov/uap",
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7c220f90a9",
 "source": "National Archives, UAP records research page, archives.gov/uap",
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9ea5163efd",
 "source": "P.L. 118-31, Sec. 1841(d)(2), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1841(d)(2), GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1841(d)(2) requires the NARA National Security Program Office, with the Information Security Oversight Office, to run a security programme for the postponed and yet-to-be-disclosed portion of the collection.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3fc830ac3a",
 "source": "Inference from the April 2025 guidance date against the deadline computed from the 22 December 2023 enactment date",
+"sources": [],
 "text": "That NARA's transfer guidance is dated April 2025, roughly six months after the statutory 300-day agency deadline of 17 October 2024, indicates the agency review requirement was not met on time.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

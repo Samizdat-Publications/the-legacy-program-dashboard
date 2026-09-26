@@ -1,0 +1,83 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-2e9ff8eeec",
+"locator": null,
+"node": "l-ft-meade",
+"nodeLabel": "Fort George G. Meade, Maryland",
+"sourceText": "DefenseScoop, 26 August 2024",
+"text": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-89d3f45984",
+"locator": null,
+"node": "d-signals",
+"nodeLabel": "Signals & Sensor Intelligence",
+"sourceText": "DefenseScoop, 26 August 2024",
+"text": "Jon Kosloski, a senior NSA researcher, was appointed to lead AARO in August 2024.",
+"tier": 1
+}
+],
+"date": "2024-08-26",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-0031c6245c",
+"label": "Director of AARO from August 2024",
+"note": "Kosloski was named AARO's full-time director in August 2024 and testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on 19 November 2024.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-d6bcef0f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-ft-meade",
+"label": "Fort George G. Meade, Maryland"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+{
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+}
+],
+"node": null,
+"title": "DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub",
+"topics": [
+{
+"claims": [
+"c-89d3f45984"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2024/08/26/leader-pentagon-uap-investigation-hub-jon-kosloski/"
+]
+}

@@ -1,0 +1,149 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3525ceca20",
+"locator": "justificação and item 2.4",
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "Câmara dos Deputados, RIC 679/2011, justificação and item 2.4, 22 June 2011, referencing RIC 4470/2009 answered by Minister Nelson Jobim via Ofício 4225-GM/Aspar-MD of 20 April 2010",
+"text": "Accession-by-accession structure is documented: a 2011 parliamentary requirement refers to 'o terceiro recolhimento do CENDOC (FAB) ao Arquivo Nacional (COREG)', citing 'envelope nº 2 do terceiro recolhimento', referring to the year 1981; and records that the Minister of Defence had stated CENDOC 'encerraria no dia 31 de agosto de 2010 a remessa de todo o seu acervo à Coordenação Regional do Arquivo Nacional no Distrito Federal (COREG)'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-1fa618e736",
+"locator": null,
+"node": "fab",
+"nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"sourceText": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)",
+"text": "DOU RECORD FOUND (by citation, not by page image). A Chamber of Deputies information requirement cites the underlying process 'citado no Diário Oficial da União de 10 de agosto de 2010, Seção I - página 101', and states that 'no dia 10 de agosto do ano passado a Força Aérea admitira e abrira oficialmente parte do seu esquema de procedimentos quanto ao assunto dos OVNIs, por meio da publicação no DOU da Portaria 551/GC3'. Publication is therefore attested by a primary parliamentary document independent of the FAB's own note: DOU of 10 August 2010, Seção 1, p. 101. The in.gov.br page image itself could not be retrieved.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-2bf23a0357",
+"locator": "item 1.2",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
+"text": "RIC 679/2011 records that material was withheld from the National Archives transfer: 'Estão faltando centenas de fotografias de um total de mais de 500 - só foram fornecidas aproximadamente 230 -, várias horas de filmes de OVNIs em películas super 8 e super 16 mm', and that the original I COMAR reports - 'bem mais detalhados do que o \"resumo de todos os casos de OVNIs de que o SINDACTA I participou\"' - were not sent to the Arquivo Nacional's Coordenação Regional no Distrito Federal (COREG).",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b17d99d464",
+"locator": "items 1.1 and 1.2",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Câmara dos Deputados, RIC 679/2011, items 1.1 and 1.2, 22 June 2011",
+"text": "Archival unit designation attested in a parliamentary document: the summary of SINDACTA I UFO cases sent to COMDABRA is recorded 'no Envelope nº. 10 da década de 1970'. The related petition is Processo nº 60.000.000026/2008-45 ('Dossiê UFO BRASIL'), filed at the Ministério da Defesa on 2 January 2008; the Operação Prato film material is its item 'j'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dadf9b557e",
+"locator": "item 1.2",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
+"text": "Brigadeiro Protázio Lopes de Oliveira is identified in the same parliamentary document as 'Chefe do I COMAR à época da Operação', placing the operation under the 1º Comando Aéreo Regional in Belém/PA, 1977-1978.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-ffccefc378",
+"locator": null,
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Câmara dos Deputados, Requerimento de Informações (RIC) 679/2011, Dep. Chico Alencar (PSOL/RJ), 22 June 2011, item 1.2 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)",
+"text": "The operation's commander is named in a Chamber of Deputies information requirement as 'coronel Uyrangê Bolivar Soares Nogueira de Hollanda Lima', described as having narrated the missing film and photographic material to ufologists 'antes de sua morte em 1997'. This fixes both the full name and the 1997 death in a primary parliamentary document.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 1,
+"id": "e-1f615df9cf",
+"label": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
+"note": "Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+},
+"b": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"claimTier": 1,
+"id": "e-1a5c611de7",
+"label": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
+"note": "Arquivo Nacional's own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-camara-leg-br-f691c19d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Camara dos Deputados (Brasil)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+{
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+{
+"cls": "program",
+"id": "operacao-prato",
+"label": "Operação Prato (Operation Saucer)"
+}
+],
+"node": null,
+"title": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 (",
+"topics": [
+{
+"claims": [
+"c-2bf23a0357",
+"c-dadf9b557e",
+"c-ffccefc378"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+},
+{
+"claims": [
+"c-2bf23a0357"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
+]
+}

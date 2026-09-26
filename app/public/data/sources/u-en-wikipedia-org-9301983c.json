@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-9301983c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-aztec",
+"label": "Aztec, New Mexico"
+}
+],
+"node": null,
+"title": "Aztec, New Mexico",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Aztec,_New_Mexico"
+]
+}

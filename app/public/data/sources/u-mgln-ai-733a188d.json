@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1d84667900",
+"locator": null,
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"sourceText": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:46:20, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
+"text": "On American Alchemy with Jesse Michels, 31 August 2025, at 0:46:20, Greg Rogers ruled EG&G out as the owner of the craft he describes at Cape Canaveral in 1992, naming instead 'something like Lockheed or Northrop, Boeing' or Raytheon, possibly in a consortium, and noting that Lockheed and Martin Marietta had not yet merged at that date. This is the same episode whose narration places EG&G at the centre of the story, and the two are recorded as they stand.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-8f0324f172",
+"locator": "0:47:14",
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"sourceText": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:47:14",
+"text": "At 0:47:14 in the same episode Rogers gave his reason as a general rule about black-programme ownership, using Have Blue and the F-117: during the demonstrator phase 'the U.S. Air Force did not own that even though it had U.S. Air Force markings', and the Air Force took ownership only after it let the production contract. Air Force markings on an airframe are not, on this account, evidence of Air Force custody.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f2d8158954",
+"locator": null,
+"node": "louis-witten",
+"nodeLabel": "Louis Witten",
+"sourceText": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 2:07:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
+"text": "On American Alchemy with Jesse Michels, 31 August 2025, at 2:07:12 and 2:08:06, Michels said that at the time of the Avro car project Wright Field also had 'a dedicated theoretical physics group' headed by a man the caption renders as 'Josh Goldberg', and that Agnew Bahnson, who ran the University of North Carolina's Institute of Field Physics with Bryce DeWitt, recorded in diaries found years later that he had been told to get in touch with Townsend Brown because he wanted to build a spaceship. Neither Goldberg nor Bahnson appears anywhere in the board's research files, the caption spells Bahnson 'Bonson', and no diary, archive or document is named on air.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-733a188d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-1d84667900"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+},
+{
+"claims": [
+"c-f2d8158954"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247"
+]
+}

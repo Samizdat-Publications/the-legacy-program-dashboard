@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-fasab-gov-6bad640e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "fasab.gov",
+"listedOn": [
+{
+"cls": "institution",
+"id": "fasab",
+"label": "Federal Accounting Standards Advisory Board (FASAB)"
+},
+{
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+}
+],
+"node": null,
+"title": "FASAB accounting standards",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://fasab.gov/accounting-standards/"
+]
+}

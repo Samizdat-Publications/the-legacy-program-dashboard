@@ -1,0 +1,57 @@
+{
+"archived": [
+"https://web.archive.org/web/20260522215233/https://www.oni.navy.mil/"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-57637664ff",
+"locator": null,
+"node": "oni",
+"nodeLabel": "Office of Naval Intelligence",
+"sourceText": "Office of Naval Intelligence, official website, retrieved 12 August 2026",
+"text": "ONI describes itself as established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"b": {
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+"claimTier": 1,
+"id": "e-e733340a1e",
+"label": "sited in the Department of the Navy with ONI involvement",
+"note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-oni-navy-mil-c55fcc50",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Navy",
+"listedOn": [
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+}
+],
+"node": null,
+"title": "Office of Naval Intelligence - homepage",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.oni.navy.mil/"
+]
+}

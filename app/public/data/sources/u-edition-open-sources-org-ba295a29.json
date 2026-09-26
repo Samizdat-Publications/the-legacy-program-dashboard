@@ -1,0 +1,144 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-02f076cf46",
+"locator": null,
+"node": "george-trimble",
+"nodeLabel": "George S. Trimble",
+"sourceText": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"text": "Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit further funding.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0f25d56469",
+"locator": null,
+"node": "george-trimble",
+"nodeLabel": "George S. Trimble",
+"sourceText": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"text": "Trimble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working in an industrial setting.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-6b934dcf5c",
+"locator": null,
+"node": "george-trimble",
+"nodeLabel": "George S. Trimble",
+"sourceText": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report",
+"text": "In a letter to Bryce DeWitt dated 10 June 1955, Trimble wrote: 'It occurred to us some time ago that our industry was vitally concerned with gravity. As time goes on we become more and more concerned because we feel certain that sooner or later man will invade space and we see it as our job to do everything possible to speed this event. At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7e0e84d3e1",
+"locator": null,
+"node": "louis-witten",
+"nodeLabel": "Louis Witten",
+"sourceText": "Dean Rickles, 'The Chapel Hill Conference in Context', in the Edition Open Sources edition of the 1957 conference report",
+"text": "A named historian on the record states that 'Louis Witten (the father of Ed Witten, and participant in the Chapel Hill conference) was the first researcher hired by RIAS, of the Glenn Martin Company.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-2f8dab4fee",
+"locator": null,
+"node": "rias-inc",
+"nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"sourceText": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"text": "Louis Witten 'was the first researcher hired by RIAS, of the Glenn Martin Company.' The institute was 'industry-sponsored, and not ensconced in a university', in deliberate contrast with the Institute of Field Physics placed inside the University of North Carolina.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-6565f681f1",
+"locator": null,
+"node": "rias-inc",
+"nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"sourceText": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 conference report",
+"text": "RIAS was proposed by George S. Trimble of the Glenn L. Martin Company as an 'industrial version of the Institute for Advanced Study', explicitly to study gravity, in a letter to Bryce DeWitt dated 10 June 1955.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+},
+"b": {
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+"claimTier": 2,
+"id": "e-a37eca98c8",
+"label": "Trimble proposed RIAS as an industrial institute for advanced study",
+"note": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 3,
+"id": "e-d52c23f842",
+"label": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
+"note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-edition-open-sources-org-ba295a29",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "edition-open-sources.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble"
+},
+{
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+{
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+}
+],
+"node": null,
+"title": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"topics": [
+{
+"claims": [
+"c-0f25d56469",
+"c-6b934dcf5c",
+"c-7e0e84d3e1",
+"c-2f8dab4fee",
+"c-6565f681f1"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "book",
+"urls": [
+"https://edition-open-sources.org/sources/5/3/index.html"
+]
+}

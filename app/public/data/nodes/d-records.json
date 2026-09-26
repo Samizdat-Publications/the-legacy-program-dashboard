@@ -8,26 +8,58 @@
 {
 "id": "c-0158753005",
 "source": "P.L. 118-31, NDAA for Fiscal Year 2024, Subtitle C",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "NDAA for Fiscal Year 2024, Subtitle C",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "NDAA FY2024 (P.L. 118-31), Subtitle C, Sections 1841-1843 establish the UAP Records Collection at NARA, the agency duty to review and transmit records, and the grounds for postponement of disclosure.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3521aa2e4a",
 "source": "H.R. 2670 as passed by the Senate, Division I",
+"sources": [
+{
+"id": "bills-118hr2670eas",
+"locator": "Division I",
+"title": "BILLS-118hr2670eas"
+}
+],
 "text": "The Senate-passed version of the FY2024 NDAA contained Division I, the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' (Sections 9001-9010), including a Review Board and eminent domain over recovered technologies of unknown origin.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6f95ce7b6e",
 "source": "P.L. 102-526, 106 Stat. 3443",
+"sources": [
+{
+"id": "pl-102-526",
+"locator": "106 Stat. 3443",
+"title": "Public Law 102-526"
+}
+],
 "text": "The President John F. Kennedy Assassination Records Collection Act of 1992 is the statutory template: a presumption of immediate disclosure, a defined collection at NARA, and an independent Review Board empowered to override agency withholding.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1f01fa942c",
 "source": "GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO reported in 1995 that Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority and no destruction certificate.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",
@@ -256,7 +288,7 @@
 ],
 "sub": "Legal-procedural domain - the statutory fight over custody, transfer and destruction of the paper",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 297 of 1138, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 299 of 1138, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": 2,

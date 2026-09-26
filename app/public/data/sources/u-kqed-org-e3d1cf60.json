@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-87216993fd",
+"locator": null,
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"sourceText": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
+"text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 2,
+"id": "e-f8c71a8068",
+"label": "Approached by unnamed government and aerospace-corporation representatives about casualty biology",
+"note": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"claimTier": 3,
+"id": "e-7a63ae249c",
+"label": "Same problem, twelve years apart: casualty biology as a route to propulsion characterisation",
+"note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-kqed-org-e3d1cf60",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "kqed.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "institution",
+"id": "stanford-nolan-lab",
+"label": "Nolan Laboratory, Stanford University School of Medicine"
+}
+],
+"node": null,
+"title": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+"topics": [
+{
+"claims": [
+"c-87216993fd"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-87216993fd"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+},
+{
+"claims": [
+"c-87216993fd"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+]
+}

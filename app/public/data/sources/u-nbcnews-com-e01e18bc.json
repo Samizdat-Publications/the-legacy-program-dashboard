@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-0304d8386b",
+"label": "MoD UFO desk held and released the Rendlesham file",
+"note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-61cd7d9b46",
+"label": "incident location: Rendlesham Forest, Suffolk",
+"note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-nbcnews-com-e01e18bc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nbcnews.com",
+"listedOn": [],
+"node": null,
+"title": "https://www.nbcnews.com/id/wbna32451823",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nbcnews.com/id/wbna32451823"
+]
+}

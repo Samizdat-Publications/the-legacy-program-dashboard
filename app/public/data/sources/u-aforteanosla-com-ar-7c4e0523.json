@@ -1,0 +1,156 @@
+{
+"archived": [
+"https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+],
+"claims": [
+{
+"cls": "program",
+"id": "c-bde3b1fd88",
+"locator": null,
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"sourceText": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program', Archivos Forteanos Latino Americanos",
+"text": "'A sharp increase in UFO activity in 1977-1978 (especially, the Petrozavodsk Case) had forced appropriate departments within the USSR Academy of Sciences to agree to a research program for anomalous atmospheric phenomena. The code name for this program was SETKA-AN ... The Soviet Ministry of Defense embarked on a similar program, dubbed SETKA-MO.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "ev-petrozavodsk-1977",
+"label": "Petrozavodsk phenomenon, 20 September 1977"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 2,
+"id": "e-c51002abfd",
+"label": "the 1977 event triggered the Soviet programmes",
+"note": "Stonehill and Mantle: the sharp increase in activity in 1977-78, 'especially, the Petrozavodsk Case', forced the Academy of Sciences to agree to the research programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"b": {
+"cls": "institution",
+"id": "institute-22",
+"label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation"
+},
+"claimTier": 3,
+"id": "e-a72ab03e2b",
+"label": "the same 1978-1991 apparatus under a Western naming convention",
+"note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-f2dc92bdf1",
+"label": "opposite reporting posture: mandated versus stigmatised",
+"note": "A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 2,
+"id": "e-142f04fd34",
+"label": "ran the parallel public ufology centre after censorship lifted",
+"note": "SOYUZUFOTSENTR was created in 1990 with Academy of Sciences institute rights, after the removal of censorship on the subject in 1989.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "yury-platov",
+"label": "Yury Viktorovich Platov"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 2,
+"id": "e-e19c9dd63e",
+"label": "chief executive for SETKA-AN at IZMIRAN",
+"note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-aforteanosla-com-ar-7c4e0523",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "aforteanosla.com.ar",
+"listedOn": [
+{
+"cls": "institution",
+"id": "institute-22",
+"label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation"
+},
+{
+"cls": "institution",
+"id": "izmiran",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism"
+},
+{
+"cls": "event",
+"id": "ev-petrozavodsk-1977",
+"label": "Petrozavodsk phenomenon, 20 September 1977"
+},
+{
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+{
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+},
+{
+"cls": "person",
+"id": "yury-platov",
+"label": "Yury Viktorovich Platov"
+}
+],
+"node": null,
+"title": "Stonehill & Mantle - Setka",
+"topics": [
+{
+"claims": [
+"c-bde3b1fd88"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+}
+],
+"type": "document",
+"urls": []
+}

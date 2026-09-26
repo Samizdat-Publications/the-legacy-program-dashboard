@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-09af935b0c",
+"locator": null,
+"node": "stic-usib",
+"nodeLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"sourceText": "Memorandum, Letter of Instruction, Scientific and Technical Intelligence Committee, 3 August 1975, CIA-RDP80M01133A000100210002-3, https://archive.org/download/cia-readingroom-document-cia-rdp80m01133a000100210002-3/cia-rdp80m01133a000100210002-3_djvu.txt",
+"text": "The committee was still operating in 1975 under a Letter of Instruction from the Deputy to the DCI for the Intelligence Community, which directed it to 'Complete the reorganization of the STIC and the transfer of subgroups to GMAIC during August 1975' and to coordinate all intelligence community activity on foreign science and technology that might lead to future threats to the US.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "stic-usib",
+"label": "Scientific and Technical Intelligence Committee (USIB)"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-c143641693",
+"label": "Chartered under the DCI structure; instructed by the Deputy to the DCI for the Intelligence Community",
+"note": "The 1974 charter takes effect when the appropriate DCID is approved, and the 1975 Letter of Instruction is addressed to the Deputy to the DCI for the Intelligence Community, placing the committee inside the DCI's community machinery.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "cia-rdp80m01133a000100210002-3",
+"identifiers": [
+"CIA-RDP80M01133A000100210002-3"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "stic-usib",
+"label": "Scientific and Technical Intelligence Committee (USIB)"
+}
+],
+"node": null,
+"title": "CIA-RDP80M01133A000100210002-3",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp80m01133a000100210002-3",
+"https://archive.org/download/cia-readingroom-document-cia-rdp80m01133a000100210002-3/cia-rdp80m01133a000100210002-3_djvu.txt"
+]
+}

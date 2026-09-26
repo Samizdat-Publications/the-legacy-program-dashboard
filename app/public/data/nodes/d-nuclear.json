@@ -8,38 +8,94 @@
 {
 "id": "c-0f30a87daa",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "THE PROVENANCE SPLIT, AND IT IS THE MOST IMPORTANT STRUCTURAL FACT THE 19 SEPTEMBER 2026 PASS FOUND. Of 47 named nuclear-facility witnesses assembled in that pass, 26 reached the record through CONTEMPORANEOUS OFFICIAL PAPER: message traffic, memoranda for the record, NORAD and base operations duty logs, AF Form 117 questionnaires, a Project Blue Book telephone log and a wing historian's file. 13 reached it through A RESEARCHER'S INTERVIEW PROGRAMME. Of those 13, at least four reached it through ONE MAN'S interviews: Walter Figel, Frederick Meiwald, Robert Jamison and Robert J. Kaminski, all via Robert Hastings or Robert Salas. The remaining handful published under their own names before anyone sought them out. Only four of the 47 were on this board before the pass.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-42d4c835f7",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "WHY THAT SPLIT IS THE QUERY THE BOARD SHOULD BE ABLE TO RUN. The triage rule of 19 September 2026 asks for two questions to be askable: show convergences where at least one leg is documented, and separately show clusters where every leg is Tier 2 and trace whether they share a source. The 26-versus-13 split is the index that makes the second one answerable in this domain. The 26 are a control group. The four who share one interviewer are the cluster the second query is designed to catch, and CLAUDE.md section 2 governs them: four witnesses sharing a single interviewer are one method applied four times, not four independent confirmations.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-b2a4354d03",
 "source": "http://www.nicap.org/reports/751027loring_1-6.htm ; https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; https://minotb52ufo.com/doc.php ; https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; http://www.nicap.org/articles/CI-Wurtsmith.htm ; all opened 2026-09-19",
+"sources": [
+{
+"id": "n-doc-nmcc-loring-1975",
+"locator": null,
+"title": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975"
+},
+{
+"id": "u-archive-org-8805ff8f",
+"locator": null,
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation"
+},
+{
+"id": "u-minotb52ufo-com-5e610ee9",
+"locator": null,
+"title": "https://minotb52ufo.com/doc.php"
+},
+{
+"id": "u-rr0-org-e4ade8f3",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+}
+],
 "text": "The contemporaneous-paper half of that split is real and checkable. It includes the National Military Command Center's Memorandum for Record of 29 October 1975 on the Loring penetration; the 24th NORAD Region Senior Director's Log for 7 to 19 November 1975; the Project Blue Book Minot file of October and November 1968 with seven AF Form 117 witness questionnaires; the Project Blue Book telephone log of 1 August 1965 for F. E. Warren; and the 379th Bombardment Wing historian's file of January 1979. All were opened by this board on 19 September 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f9d836a6b9",
 "source": "NNSA, About NNSA",
+"sources": [
+{
+"id": "u-energy-gov-3c52f884",
+"locator": null,
+"title": "NNSA - About NNSA"
+}
+],
 "text": "The National Nuclear Security Administration is a semi-autonomous agency within the Department of Energy responsible for the nuclear weapons stockpile and its associated information security regime.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3564f3fd59",
 "source": "AARO Aluminum Materials Analysis Supplement",
+"sources": [
+{
+"id": "n-aaro-ornl-materials-analyses",
+"locator": null,
+"title": "AARO / Oak Ridge National Laboratory materials analyses"
+}
+],
 "text": "AARO's January 2026 aluminium materials analysis was performed by Oak Ridge National Laboratory under contract to AARO beginning in 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6c39035b17",
 "source": "Inference from the Atomic Energy Act Restricted Data regime and 10 U.S.C. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Restricted Data provides a concealment channel structurally independent of the DoD special access programme system, with a different statutory basis, clearance system and oversight committees. Reasoning: the Atomic Energy Act classifies at creation, whereas DoD classification derives from executive order and is subject to 10 U.S.C. 119 notification.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "domain",
@@ -230,7 +286,7 @@
 ],
 "sub": "Legal-technical domain - the 'born classified' regime and its use as an alternative concealment channel",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 284 of 1138, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 286 of 1138, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unverified": []
 }

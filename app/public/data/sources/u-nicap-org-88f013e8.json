@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-nicap-org-88f013e8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+}
+],
+"node": null,
+"title": "Project Blue Book Special Reports 1-12 (searchable PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.nicap.org/docs/pbbsr/nicap_pbr1-12_srch.pdf"
+]
+}

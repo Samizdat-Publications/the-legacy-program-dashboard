@@ -7,38 +7,74 @@
 {
 "id": "c-d81a9b25b8",
 "source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"sources": [],
 "text": "The closed-door session took place on 15 January 2026 in Rep. Tim Burchett's office with Burchett, Anna Paulina Luna and Eric Burlison present; Jared Moskowitz and André Carson were invited but unable to attend.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-) was rejected in review: authors, outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-6315f9358f",
 "source": "The Debrief, 30 January 2026",
+"sources": [
+{
+"id": "t-2c880837f7cf",
+"locator": null,
+"title": "The Debrief, 30 January 2026"
+}
+],
 "text": "Claussen: a US cargo mission of this kind 'would require paperwork from Air Mobility Command at Scott AFB in Illinois and the Air Mobility Wing at Charleston AFB in South Carolina', plus refuelling records and an international flight plan; Brazilian air traffic controller Marco Feres reported that on or about 20 January 1996 a USAF cargo aircraft, most likely a C-17, landed at Viracopos airport in Campinas to collect an unusual cargo.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b13ab76edf",
 "source": "The Debrief, 30 January 2026",
+"sources": [
+{
+"id": "t-2c880837f7cf",
+"locator": null,
+"title": "The Debrief, 30 January 2026"
+}
+],
 "text": "Burlison on evidence access: 'there are several government entities that are controlling this and some are willing to be more cooperative, so unfortunately we're not getting everything.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-3f8245e871",
 "source": "The Debrief, 30 January 2026",
+"sources": [
+{
+"id": "t-2c880837f7cf",
+"locator": null,
+"title": "The Debrief, 30 January 2026"
+}
+],
 "text": "James Fox recounts asking AARO director Dr Jon T. Kosloski in 2024 whether there was a plan to inform the public 'what we are ultimately dealing with', and being told: 'I can't part my hair without the approval of the DOD. And you can quote me on that.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8ed11f562f",
 "source": "AARO 2024 report, quoted in The Debrief, 30 January 2026",
+"sources": [],
 "text": "AARO's 2024 report states that 'none of these investigations (including USG, foreign, and U.S. academic efforts) reached the conclusion that any of the UAP reports indicated extraterrestrial origin.'",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: ambiguous which 2024 AARO report (FY2024 annual report vs HRR Vol I)"
 },
 {
 "id": "c-6854ebcd40",
 "source": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
+"sources": [
+{
+"id": "u-newsnationnow-com-1f758090",
+"locator": null,
+"title": "NewsNation - Lawmaker asks FBI, CIA for info on Brazil's Roswell moment"
+}
+],
 "text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "event",
@@ -224,7 +260,7 @@
 ],
 "sub": "Brazilian witnesses brief three members of Congress on the 30th anniversary",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 635 of 1138, score 27). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 634 of 1138, score 27). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": 2,

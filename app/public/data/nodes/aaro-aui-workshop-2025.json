@@ -7,14 +7,30 @@
 {
 "id": "c-6f2957a7d0",
 "source": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
+"sources": [
+{
+"id": "u-defensescoop-com-07620005",
+"locator": null,
+"title": "DefenseScoop, AARO invite-only workshop"
+}
+],
 "text": "Associated Universities, Inc. officially hosted the workshop, which was set up and sponsored by AARO; approximately 40 government, academic and independent researchers attended; DoD did not publish attendee lists or announce the event beforehand.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-04928ec788",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"sources": [
+{
+"id": "u-defensescoop-com-50fc68fe",
+"locator": null,
+"title": "DefenseScoop, UAP Science Advisory Council"
+}
+],
 "text": "The workshop is the operational precursor to the June 2026 UAP Science Advisory Council. Reasoning: same subject matter (standardising UAP data capture and analysis), same sponsoring office, and an overlapping population of independent researchers, ten months apart.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "event",

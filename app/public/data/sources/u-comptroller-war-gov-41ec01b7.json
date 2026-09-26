@@ -1,0 +1,74 @@
+{
+"archived": [
+"https://web.archive.org/web/20260413163028/https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-ee133adb41",
+"locator": null,
+"node": "david-norquist",
+"nodeLabel": "David L. Norquist",
+"sourceText": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Norquist signed the FY2018 DoD Agency Financial Report message as Under Secretary of Defense (Comptroller)/Chief Financial Officer, writing: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-norquist",
+"label": "David L. Norquist"
+},
+"b": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"claimTier": 1,
+"id": "e-eb0a34f7e0",
+"label": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
+"note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"b": {
+"cls": "institution",
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+"claimTier": 1,
+"id": "e-902d4727c0",
+"label": "The OIG is the independent auditor issuing the annual opinion",
+"note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-comptroller-war-gov-41ec01b7",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-norquist",
+"label": "David L. Norquist"
+}
+],
+"node": null,
+"title": "DoD Agency Financial Report FY2018, Financial Section",
+"topics": [],
+"type": "document",
+"urls": [
+"https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+]
+}

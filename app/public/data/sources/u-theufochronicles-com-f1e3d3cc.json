@@ -1,0 +1,164 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-295db42acf",
+"locator": null,
+"node": "eric-carlson",
+"nodeLabel": "Capt. Eric D. Carlson",
+"sourceText": "The UFO Chronicles, republishing Robert Hastings, June 2011, https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html , opened 2026-09-19; and Tim Hebert, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+"text": "Eric Carlson states that he received no UFO-related radio or Sensitive Information Network call about any of his launch facilities on 16 March 1967, that he was seated about two feet from Walter Figel when the call the UFO account depends on is said to have been received, and that he does not recall a subsequent debriefing.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-70aea950c9",
+"locator": null,
+"node": "walter-figel",
+"nodeLabel": "Col. Walter Figel Jr.",
+"sourceText": "The UFO Chronicles, republishing Robert Hastings, June 2011, https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html , opened 2026-09-19",
+"text": "Robert Hastings states that Col. Walter Figel described, on audio tape, receiving a report of a large round object hovering above a missile silo at the moment the Echo Flight missiles went off alert. The account exists as Hastings's recordings of three telephone conversations in 2008, 2009 and 2010 and not as anything Figel has published, sworn or written.",
+"tier": 2
+}
+],
+"date": "2011-06",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 2,
+"id": "e-873e0f19ed",
+"label": "Echo Flight crew commander at Malmstrom",
+"note": "Attested by his son and by researchers, and not disputed by anyone, but not documented in any opened record.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 2,
+"id": "e-205c0ea0fe",
+"label": "The on-duty crew commander denies any UFO report reached the capsule",
+"note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr."
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 2,
+"id": "e-0f6b45b11d",
+"label": "Echo Flight deputy crew commander at Malmstrom",
+"note": "Attested by parties on both sides of the dispute; the released unit history names no launch officer.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr."
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 2,
+"id": "e-3284ad4f28",
+"label": "Deputy crew commander on duty; the contested Echo Flight radio report",
+"note": "HIS ACCOUNT EXISTS ONLY AS ROBERT HASTINGS'S AUDIO RECORDINGS OF TELEPHONE CALLS IN 2008, 2009 AND 2010. HE DECLINED TO SIGN AN AFFIDAVIT FOR THE 2010 NATIONAL PRESS CLUB EVENT. NO PRE-CONTACT PUBLIC STATEMENT BY HIM HAS BEEN IDENTIFIED. James Carlson states he said the opposite.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr."
+},
+"claimTier": 2,
+"id": "e-7be1e0e83f",
+"label": "Located and recorded him; the account exists only as Hastings's tapes",
+"note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Three telephone conversations in 2008, 2009 and 2010, recorded by and held by the interviewer. The recordings have not been published in full at any URL this board has opened.",
+"type": "research"
+}
+],
+"era": "2",
+"host": null,
+"id": "u-theufochronicles-com-f1e3d3cc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "theufochronicles.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson"
+},
+{
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr."
+},
+{
+"cls": "person",
+"id": "james-carlson",
+"label": "James Carlson"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+}
+],
+"node": null,
+"title": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html",
+"topics": [
+{
+"claims": [
+"c-295db42acf",
+"c-70aea950c9"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
+"c-295db42acf"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+}
+],
+"type": "article",
+"urls": [
+"https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+]
+}

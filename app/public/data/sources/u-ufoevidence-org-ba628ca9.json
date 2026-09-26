@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-ufoevidence-org-ba628ca9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufoevidence.org",
+"listedOn": [
+{
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+{
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+}
+],
+"node": null,
+"title": "UFO Evidence - Kirtland Air Force Base 1980 UFO Landing",
+"topics": [],
+"type": "web page",
+"urls": [
+"http://www.ufoevidence.org/cases/case218.htm"
+]
+}

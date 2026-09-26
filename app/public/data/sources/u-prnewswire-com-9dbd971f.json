@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-d8e5456391",
+"label": "Government principal investigator",
+"note": "Named in the agreement alongside Bean Soave and quoted in the announcement calling TTSA 'an exciting, non-traditional source for novel materials'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-092d740a3c",
+"label": "Executed CRADA with the U.S. Army, 10 October 2019, term to 30 September 2023",
+"note": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+"type": "funding"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-prnewswire-com-9dbd971f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "prnewswire.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "person",
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
+{
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice"
+}
+],
+"node": null,
+"title": "PR Newswire — CRADA announcement",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+]
+}

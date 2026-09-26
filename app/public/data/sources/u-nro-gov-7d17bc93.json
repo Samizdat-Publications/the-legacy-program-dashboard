@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 1,
+"id": "e-d858087fa9",
+"label": "Principal Deputy Director, then Acting Director, NRO",
+"note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-nro-gov-7d17bc93",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Reconnaissance Office",
+"listedOn": [],
+"node": null,
+"title": "https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf"
+]
+}

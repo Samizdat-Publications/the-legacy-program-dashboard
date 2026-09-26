@@ -61,50 +61,114 @@
 {
 "id": "c-724d246d81",
 "source": "GAO/NSIAD-95-187, letter of transmittal and scope section",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "letter of transmittal and scope section",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO conducted its Roswell records review at the request of Representative Steven H. Schiff, working from March 1994 to June 1995.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-09bb7ef2f3",
 "source": "GAO/NSIAD-95-187, p.3",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.3",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "'RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3c2a9fe358",
 "source": "GAO/NSIAD-95-187, p.3",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.3",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "'The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8bd12a656f",
 "source": "GAO/NSIAD-95-187, p.3",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.3",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "RAAF administrative records from March 1945 through December 1949 were also destroyed.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-701323c629",
 "source": "GAO/NSIAD-95-187, p.6",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.6",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The CIA's Executive Director told GAO that a search against the term 'Roswell, New Mexico' in all CIA databases produced no CIA documents related to the crash.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-692cffa671",
 "source": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,' 28 July 1995",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,' 28 July 1995",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO reported that RAAF administrative records (March 1945-December 1949) and RAAF outgoing messages (October 1946-December 1949) were destroyed, and that 'the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-56f7ae4e19",
 "source": "GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO's search for government records concerning the Roswell crash 'yielded two records originating in 1947.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a27caa3a37",
 "source": "GAO/NSIAD-95-187, appendix",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "appendix",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO's list of records searched includes 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

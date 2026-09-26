@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-28dbee21f7",
+"locator": "Blue Book termination 17 Dec 1969 conclusion quoted",
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "USAF Fact Sheet on UFOs and Project BLUE BOOK, Wright-Patterson AFB, January 1985, reproduced by the National Archives",
+"text": "The 1975 incursions occurred six years after the Air Force announced, on 17 December 1969, the termination of Project Blue Book on the stated conclusion that 'no UFO reported, investigated, and evaluated by the Air Force has ever given any indication of threat to our national security.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-a8277598fd",
+"locator": null,
+"node": "operation-blue-fly",
+"nodeLabel": "Operation BLUE FLY",
+"sourceText": "US Air Force Fact Sheet, Public Affairs Division, Wright-Patterson AFB, January 1985, reproduced by the National Archives",
+"text": "The USAF public fact sheet distributed by Wright-Patterson AFB in January 1985 states: 'Periodically, it is erroneously stated that the remains of extraterrestrial visitors are or have been stored at Wright-Patterson AFB. There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.'",
+"tier": 1
+}
+],
+"date": "1985-01",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-cd8cf3eca2a0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "US Air Force Fact Sheet, Public Affairs Division, Wright-Patterson AFB",
+"topics": [
+{
+"claims": [
+"c-28dbee21f7"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+},
+{
+"claims": [
+"c-a8277598fd"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "document",
+"urls": []
+}

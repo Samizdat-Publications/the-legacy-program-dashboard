@@ -29,26 +29,58 @@
 {
 "id": "c-89ba484471",
 "source": "S. 2226 as engrossed, Division M, Sec. 1102(d), GPO",
+"sources": [
+{
+"id": "n-iaa-fy2024-sec-1102",
+"locator": "Sec. 1102(d)",
+"title": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+}
+],
 "text": "Senate-passed IAA FY2024 Sec. 1102(d) required any current or former Federal contractor holding such material to notify the AARO Director within 60 days and within 180 days provide 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4c84f8b953",
 "source": "S. 2226 as engrossed, Division M, Sec. 1102(e), GPO",
+"sources": [
+{
+"id": "n-iaa-fy2024-sec-1102",
+"locator": "Sec. 1102(e)",
+"title": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+}
+],
 "text": "Sec. 1102(e) granted immunity: 'No criminal or civil action may lie or be maintained in any Federal or State court against any person for receiving material or information described in subsection (d) if that person complies.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1b0f7ed243",
 "source": "S. 2226 as engrossed, Division M, Sec. 1102(c)(6), GPO",
+"sources": [
+{
+"id": "n-iaa-fy2024-sec-1102",
+"locator": "Sec. 1102(c)(6)",
+"title": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+}
+],
 "text": "Sec. 1102(c)(6) reached 'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a96f91575b",
 "source": "P.L. 118-31, Sec. 7343, GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 7343, GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "The enacted counterpart, Sec. 7343 of P.L. 118-31, contains no subsection (d), no immunity clause and no enumerated activities.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

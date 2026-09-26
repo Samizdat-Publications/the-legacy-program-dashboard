@@ -7,26 +7,40 @@
 {
 "id": "c-04f04db444",
 "source": "Greensburg Tribune-Review, December 1965",
+"sources": [
+{
+"id": "t-f06c5546f832",
+"locator": null,
+"title": "Greensburg Tribune-Review, December 1965"
+}
+],
 "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1c31d7a369",
 "source": "NASA statement, December 2005",
+"sources": [],
 "text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in the 1980s.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: No December 2005 NASA statement candidate found; only a Wikipedia article on the incident."
 },
 {
 "id": "c-8e2dbcf506",
 "source": "NASA Space Science Data Coordinated Archive entry on Cosmos 96",
+"sources": [],
 "text": "NASA's later published position states that the fireball's atmospheric path was probably too steep to be consistent with a spacecraft re-entering from Earth orbit, that USAF tracking data indicate Cosmos 96's orbit decayed earlier than 21:43 UT on 9 December 1965, and that other analyses definitively indicate it could not have been Cosmos 96.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: No NSSDCA Cosmos 96 candidate found; only an unrelated NSSDCA record exists."
 },
 {
 "id": "c-3bf9c3b04b",
 "source": "Testimony in Kean v. NASA, reported October 2007",
+"sources": [],
 "text": "NASA public liaison officer Steve McConnell testified in the Kean litigation that two boxes of papers from the time of the Kecksburg incident were missing.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-admin) was rejected in review: reported testimony, not the court docket"
 }
 ],
 "cls": "event",

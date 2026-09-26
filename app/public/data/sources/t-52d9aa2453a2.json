@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-38a4e69cb3",
+"locator": null,
+"node": "gregory-guillot",
+"nodeLabel": "Gregory M. Guillot",
+"sourceText": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"text": "'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8295afa3b6",
+"locator": null,
+"node": "gregory-guillot",
+"nodeLabel": "Gregory M. Guillot",
+"sourceText": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-f0ebe93c18",
+"locator": null,
+"node": "langley-2023-incursions",
+"nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+"sourceText": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
+"tier": 2
+}
+],
+"date": "2024-10-30",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-52d9aa2453a2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"topics": [
+{
+"claims": [
+"c-38a4e69cb3",
+"c-8295afa3b6"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

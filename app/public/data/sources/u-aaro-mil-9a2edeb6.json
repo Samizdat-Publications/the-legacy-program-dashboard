@@ -1,0 +1,131 @@
+{
+"archived": [
+"https://web.archive.org/web/20260514112547/https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/"
+],
+"claims": [
+{
+"cls": "program",
+"id": "c-58e0a23795",
+"locator": null,
+"node": "aaro-official-uap-imagery",
+"nodeLabel": "AARO Official UAP Imagery releases (PR series)",
+"sourceText": "AARO Official UAP Imagery page, accessed 12 August 2026",
+"text": "AARO released PR-016, PR-017 and PR-018 on 4 December 2025, PR-012, PR-014 and PR-015 on 9 December 2025, and PR-011 and PR-013 on 6 January 2026, all European incidents from 2021-2024.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-722efb7982",
+"locator": null,
+"node": "aaro-official-uap-imagery",
+"nodeLabel": "AARO Official UAP Imagery releases (PR series)",
+"sourceText": "AARO Official UAP Imagery page",
+"text": "PR-016 was resolved as 'almost certainly (>95% likelihood) birds'; PR-017 was declared insufficient for AARO to render a determination; the remainder were assessed as physical objects with unremarkable characteristics and left unresolved.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-bd7f41cda2",
+"locator": null,
+"node": "aaro-official-uap-imagery",
+"nodeLabel": "AARO Official UAP Imagery releases (PR series)",
+"sourceText": "AARO Official UAP Imagery page",
+"text": "The 2013 Puerto Rico Customs and Border Protection infrared object was resolved as two objects travelling near each other at wind speed; Go Fast, GIMBAL and FLIR remain unresolved.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 3,
+"id": "e-e4f812ba24",
+"label": "Video releases began five weeks after testimony that AARO was withholding video",
+"note": "The timing and the scale together read as minimum compliance: seven short clips in response to sworn testimony that the office holds an unreleased video archive.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-1a6a539729",
+"label": "AARO's channel stops; the Secretary's channel starts",
+"note": "AARO's last imagery release is 6 January 2026; the Department's first tranche is 8 May 2026 with 29 videos, and AARO published nothing further.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"claimTier": 1,
+"id": "e-c5959f98cb",
+"label": "AARO's own small video release channel, Dec 2025 - Jan 2026",
+"note": "Seven numbered PR items released across five weeks, all short European clips, one resolved as birds - the office's entire video output before PURSUE.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-aaro-mil-9a2edeb6",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "AARO - Official UAP Imagery",
+"topics": [
+{
+"claims": [
+"c-58e0a23795",
+"c-722efb7982",
+"c-bd7f41cda2"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/"
+]
+}

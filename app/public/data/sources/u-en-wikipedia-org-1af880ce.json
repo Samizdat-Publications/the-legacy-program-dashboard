@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a822f17130",
+"locator": null,
+"node": "bryce-zabel",
+"nodeLabel": "Bryce Zabel",
+"sourceText": "Wikipedia, 'Bryce Zabel' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Zabel was showrunner of the UFO-conspiracy series Dark Skies (1996-1997) and was elected chairman and CEO of the Academy of Television Arts and Sciences in 2001.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-ce2f8704d9",
+"locator": null,
+"node": "bryce-zabel",
+"nodeLabel": "Bryce Zabel",
+"sourceText": "Wikipedia, 'Bryce Zabel', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Zabel co-authored A.D. (After Disclosure) with Richard Dolan, concerning an extraterrestrial presence covertly interacting with humans and governments and what develops when the fact is made public.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-1af880ce",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "bryce-zabel",
+"label": "Bryce Zabel"
+}
+],
+"node": null,
+"title": "Wikipedia - Bryce Zabel",
+"topics": [
+{
+"claims": [
+"c-a822f17130",
+"c-ce2f8704d9"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Bryce_Zabel"
+]
+}

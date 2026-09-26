@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-f0d9eb7b5e",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "Scully, 'Behind the Flying Saucers' (1950)",
+"text": "Scully's account, published in Variety in 1949 and in 'Behind the Flying Saucers' in 1950, placed the crash in March 1948 in Hart Canyon twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-51f2cfa20a",
+"locator": null,
+"node": "behind-the-flying-saucers",
+"nodeLabel": "Behind the Flying Saucers (Scully, 1950)",
+"sourceText": "Scully, 'Behind the Flying Saucers' (1950)",
+"text": "The book described a craft 99 feet in diameter containing sixteen humanoid bodies, said to have come from Venus and to work on magnetic principles, with every dimension divisible by nine.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-64b54d1f72",
+"locator": null,
+"node": "frank-scully",
+"nodeLabel": "Frank Scully",
+"sourceText": "Scully, 'Behind the Flying Saucers' (1950)",
+"text": "Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec, New Mexico, with a 99-foot craft and sixteen humanoid bodies.",
+"tier": 2
+}
+],
+"date": "1950",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "n-behind-the-flying-saucers",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "behind-the-flying-saucers",
+"label": "Behind the Flying Saucers (Scully, 1950)"
+},
+"title": "Behind the Flying Saucers (Scully, 1950)",
+"topics": [
+{
+"claims": [
+"c-f0d9eb7b5e",
+"c-51f2cfa20a",
+"c-64b54d1f72"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "document",
+"urls": []
+}

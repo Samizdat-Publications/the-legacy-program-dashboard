@@ -1,0 +1,196 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-16877ceb84",
+"locator": null,
+"node": "tehran-f4-intercept-1976",
+"nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"sourceText": "DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"text": "DIA's covering letter of 22 August 1996 to John Greenewald states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released 'with only administrative markings withheld'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-1b5efbcae0",
+"locator": null,
+"node": "tehran-f4-intercept-1976",
+"nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"sourceText": "DIA IR 6 846 0139 76, released under FOIA case U-80,597/PO/FOIA, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"text": "The report is IR 6 846 0139 76 from USDAO Tehran to DIA Washington, DTG 230530Z SEP 76, subject 'REPORTED UFO SIGHTING (U)', country Iran, dates '19 & 20 SEP 76', prepared by Frank B. McKenzie, Col, USAF, Defense Attache, and distributed to CJCS, the Joint Staff, NMCC, SECDEF, NMIC, State, CIA, NSA, the White House, CMC, CSAF, CNO and CSA.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-415c3849a9",
+"locator": null,
+"node": "tehran-f4-intercept-1976",
+"nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"sourceText": "DIA IR 6 846 0139 76, page 4, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"text": "The report names no Iranian aircrew. Its own comments field reads: 'ACTUAL INFORMATION CONTAINED IN THIS REPORT WAS OBTAINED FROM SOURCE IN CONVERSATION WITH A SUB-SOURCE, AND IIAF PILOT OF ONE OF THE F-4S. MORE INFORMATION WILL BE FORWARDED WHEN IT BECOMES AVAILABLE.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-9510292f4c",
+"locator": null,
+"node": "tehran-f4-intercept-1976",
+"nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"sourceText": "DIA IR 6 846 0139 76, page 4, with the DIA FOIA response of 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"text": "The report states that 'THE AIRCRAFT AND AREA WHERE THE OBJECT IS BELIEVED TO HAVE LANDED ARE BEING CHECKED FOR POSSIBLE RADIATION'; no result of that check is in DIA's release, and DIA's 1996 search located no further document.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-fa40088d17",
+"locator": null,
+"node": "tehran-f4-intercept-1976",
+"nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"sourceText": "DIA IR 6 846 0139 76, pages 2 and 3, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"text": "The report records that the command post called BG Yousefi, Assistant Deputy Commander of Operations, who decided to scramble an F-4 from Shahrokhi AFB; that at a range of 25 nm the first aircraft 'LOST ALL INSTRUMENTATION AND COMMUNICATIONS (UHF AND INTERCOM)' and broke off; and that a second F-4 launched at 0140 hrs acquired a radar lock at 27 nm before its pilot 'ATTEMPTED TO FIRE AN AIM-9 MISSILE AT THE OBJECT BUT AT THAT INSTANT HIS WEAPONS CONTROL PANEL WENT OFF'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976"
+},
+"b": {
+"cls": "event",
+"id": "belgian-af-f16-intercept-1990",
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+},
+"claimTier": 2,
+"id": "e-bb7cc24acd",
+"label": "The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file",
+"note": "The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service.",
+"type": "research"
+},
+{
+"a": {
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-f7ee2d265b",
+"label": "Addressee of the report and the agency whose 1996 search located it as the single responsive document",
+"note": "DIA is the addressee of the report and the agency whose 1996 records search located it as the single responsive document.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976"
+},
+"b": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"claimTier": 1,
+"id": "e-af45421874",
+"label": "Requester of the 1996 FOIA that produced the release",
+"note": "Greenewald's FOIA request of 11 August 1996 produced the release, and DIA's response to him is the record of how much DIA holds.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976"
+},
+"b": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"id": "e-92c9d0cb87",
+"label": "An information addressee on the report's own distribution list",
+"note": "NSA Washington is an information addressee on the report's own distribution list.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976"
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 1,
+"id": "e-00e5c2c7c6",
+"label": "Host of the released report and its covering letter",
+"note": "The Black Vault hosts the released document and its covering letter.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-theblackvault-com-be90db08",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976"
+}
+],
+"node": null,
+"title": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80, 597/PO/FOIA of 22 August 1996, hosted by The Black Vault",
+"topics": [
+{
+"claims": [
+"c-16877ceb84",
+"c-1b5efbcae0",
+"c-415c3849a9",
+"c-9510292f4c",
+"c-fa40088d17"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+},
+{
+"claims": [
+"c-16877ceb84",
+"c-1b5efbcae0",
+"c-415c3849a9",
+"c-9510292f4c",
+"c-fa40088d17"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-16877ceb84",
+"c-1b5efbcae0",
+"c-415c3849a9",
+"c-9510292f4c"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "document",
+"urls": [
+"https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+]
+}

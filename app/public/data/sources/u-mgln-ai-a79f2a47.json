@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4db2fff37f",
+"locator": "0:13:20-0:15:49",
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:13:20 to 0:15:49",
+"text": "On American Alchemy with Jesse Michels, 7 February 2025, between 0:13:20 and 0:14:59, Whitley Strieber said that Stanton Friedman introduced him to Sarbacher, that Sarbacher asked him to write his experience down and send it, that he did so by UPS overnight in 1986, and that the next morning the UPS driver told him 'we can't deliver it. The recipient has expired.' At 0:15:49 Strieber adds that he was told Sarbacher fell off his boat and that the death certificate says natural causes. This is Strieber's first-hand account of his own correspondence and no record of the letter or its return was opened.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-5240b98453",
+"locator": "0:18:16",
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:18:16",
+"text": "In the same episode, at 0:18:16, Michels said that when Thomas Townsend Brown 'finally achieved positive result with his anti-gravity experiments, this was in Paris', Brown flew back to the United States and 'Robert Sarbacher picks him up in his big Cadillac', attributing the account to Brown's daughter Linda and to the biographer Paul Shatzkin. This is a second-hand attribution, and neither the daughter's account nor the biography was opened.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-a79f2a47",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-sarbacher",
+"label": "Robert I. Sarbacher"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)' (audio)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE6390612252.mp3?updated=1751926843"
+]
+}

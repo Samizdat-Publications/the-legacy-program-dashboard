@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "the-hill",
+"label": "The Hill"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-1e1d0008c9",
+"label": "Covered the November 2024 House UAP secrecy hearing",
+"note": "The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline 'House panel hears of hidden UAP trove, secretive arms race', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR's same-day report.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thehill-com-685f71e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [],
+"node": null,
+"title": "https://thehill.com/video-clips/4988090-watch-live-house-convenes-hearing-on-ufos/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/video-clips/4988090-watch-live-house-convenes-hearing-on-ufos/"
+]
+}

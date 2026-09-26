@@ -1,0 +1,160 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-e1d0899824",
+"locator": null,
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "Scott interview notes transcript p 10, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , 1990-12-03; Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12; arvp.co.uk FLUX 1988 page, https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"text": "THE SIZES HAVE DRIFTED, AND THE DRIFT RUNS ONE WAY, across three opened documents. The 1990 interview notes give 'The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.' The April 2001 Briefing Document gives the smallest as 'about 24 feet in diameter at its widest part, right at the base', the next as '60 feet in diameter at the base', and 'the largest of these vehicles was about 120 to 130 feet in diameter'. The arvp.co.uk FLUX 1988 page, read 18 September 2026, gives 'one with a 130-foot diameter, another with a 60-foot diameter, and a smaller one measuring 24 feet in diameter', with no disclaimer. Each retelling is more precise than the last about a figure the witness explicitly refused to stand behind.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-39558cc826",
+"locator": null,
+"node": "arvp-fluxliner-project",
+"nodeLabel": "ARVP (arvp.co.uk), the Flux Liner project site",
+"sourceText": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"text": "The page states that the original McCandlish artwork could not be obtained: 'Fascinated by this story I tried to find an original copy of Mark's work to buy. Unfortunately, now that Mark has passed on it's impossible to get hold of. I imagine that Steven Greer may have it or at least a copy.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-3cde48e0ef",
+"locator": null,
+"node": "arvp-fluxliner-project",
+"nodeLabel": "ARVP (arvp.co.uk), the Flux Liner project site",
+"sourceText": "https://www.arvp.co.uk/flux-01/ and https://www.arvp.co.uk/shop/ , read 2026-09-18",
+"text": "The site names no owner, author or organisation anywhere on the pages opened. Its footer gives only 'Email: Flux_liners@icloud.com', a 'Privacy Policy' link and 'Site by Blueqube' pointing at https://blueqube.org.uk . It carries no copyright notice and no licence statement of any kind on the FLUX 1988, TECH or SHOP pages.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-cb27dc7efa",
+"locator": null,
+"node": "arvp-fluxliner-project",
+"nodeLabel": "ARVP (arvp.co.uk), the Flux Liner project site",
+"sourceText": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"text": "The 3D reconstruction is the site operator's own work, built from secondary material and not from the original drawing. The page states: 'This is my 3D recreation of the craft they described. I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos', and, for a second version, 'using measurements from the original sketches and information provided by Mark from online live streams and podcast apperences.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d37177e0fb",
+"locator": null,
+"node": "arvp-fluxliner-project",
+"nodeLabel": "ARVP (arvp.co.uk), the Flux Liner project site",
+"sourceText": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"text": "The site is the host of two of the three primary documents in this thread: the Scott 1990 interview notes, under the link text 'SORENSEN 1990 INTERVIEW' with a Download button, and the McCandlish coroner's file, under the link text 'Coroner's report on Mark MaCandlish's death' pointing at a Google Drive item named 'C21-0324 McCandlish.pdf'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f43187ab36",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"text": "The arvp.co.uk FLUX 1988 page links the film under the text 'Full Documentary Zero Point The Story of Mark McCandlish and the Fluxliner', pointing at https://www.youtube.com/watch?v=afLsRsd5roY&t=3629s . That video was not opened.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site"
+},
+"b": {
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"claimTier": 1,
+"id": "e-c72c263707",
+"label": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
+"note": "The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site"
+},
+"b": {
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+},
+"claimTier": 1,
+"id": "e-0cc477250c",
+"label": "Hosts his coroner's file and publishes a reconstruction built from his talks",
+"note": "The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "scott-sorensen-notes-1990",
+"label": "William B. Scott's interview notes on 'Brad', 3 December 1990"
+},
+"b": {
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site"
+},
+"claimTier": 1,
+"id": "e-1385f404f0",
+"label": "The only opened copy of the notes is the scan that site hosts",
+"note": "The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-arvp-co-uk-c635d5b6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "arvp.co.uk",
+"listedOn": [
+{
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+{
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site"
+},
+{
+"cls": "document",
+"id": "zero-point-documentary",
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner"
+}
+],
+"node": null,
+"title": "arvp.co.uk, FLUX 1988 page",
+"topics": [
+{
+"claims": [
+"c-e1d0899824",
+"c-3cde48e0ef",
+"c-cb27dc7efa",
+"c-d37177e0fb"
+],
+"id": "arv-fluxliner",
+"title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.arvp.co.uk/flux-01/"
+]
+}

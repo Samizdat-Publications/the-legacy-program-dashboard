@@ -7,14 +7,30 @@
 {
 "id": "c-54c1bb5d80",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": null,
+"title": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+}
+],
 "text": "Section 8084(b), DoD Appropriations Act 2026, conditions NIP reprogramming or transfer under 50 U.S.C. 3024(d) that cumulatively increases or decreases 'the levels specified in the classified annex accompanying the Act' on 30 days advance notice to the congressional intelligence committees.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-515ead0f22",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"sources": [
+{
+"id": "pl-119-75",
+"locator": null,
+"title": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+}
+],
 "text": "The same subsection provides that 'this notification period may be reduced for urgent national security requirements.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",
@@ -83,7 +99,7 @@
 ],
 "sub": "The one place the classified annex is named as the baseline for intelligence spending changes",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 633 of 1138, score 27). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 632 of 1138, score 27). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

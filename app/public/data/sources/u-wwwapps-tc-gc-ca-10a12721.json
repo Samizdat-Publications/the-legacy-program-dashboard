@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-wwwapps-tc-gc-ca-10a12721",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "wwwapps.tc.gc.ca",
+"listedOn": [
+{
+"cls": "institution",
+"id": "canada-dot",
+"label": "Canada Department of Transport"
+}
+],
+"node": null,
+"title": "Civil Aviation Daily Occurrence Reporting System (CADORS), Transport Canada (official database)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/"
+]
+}

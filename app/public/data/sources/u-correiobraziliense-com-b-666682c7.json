@@ -1,0 +1,140 @@
+{
+"archived": [],
+"claims": [],
+"date": "2026-05",
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil"
+},
+"b": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 2,
+"id": "e-ae7eaf4ee8",
+"label": "The minister's press conference was given from the capital",
+"note": "Moreira Lima convened the 23 May 1986 press conference as Minister of Aeronautics with the pilots and controllers present. Tier 2 on the location specifically: the sourcing confirms the press conference, the minister and the date, and the ministry sat in Brasília, but no source obtained in this pass names the room.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-3a69cf08ed",
+"label": "The 1986 engagement ranged across four Brazilian states",
+"note": "São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-0d6a5d9d9a",
+"label": "Commanded the air defence organisation whose engagement he then wrote up",
+"note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"b": {
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+},
+"claimTier": 2,
+"id": "e-8268e44c49",
+"label": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
+"note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+},
+"claimTier": 1,
+"id": "e-63d5904132",
+"label": "Pessoa Cavalcanti signed for the FAB's own Air Defence Command",
+"note": "José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 1,
+"id": "e-aa8f9075a2",
+"label": "Moreira Lima was Minister of Aeronautics, the FAB's own political head",
+"note": "Octávio Júlio Moreira Lima held the Ministério da Aeronáutica, the ministry of which the Força Aérea Brasileira was the service arm, at the time of the 19 May 1986 engagement and of the 23 May 1986 press conference at which he produced the intercept pilots and the controllers and said the armed forces had no technical explanation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+},
+"b": {
+"cls": "event",
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"claimTier": 1,
+"id": "e-97b79b87ed",
+"label": "The Air Force scrambled the interceptors on the Night of the UFOs",
+"note": "The 19 May 1986 engagement was executed by the FAB: fighters launched from Santa Cruz and Anápolis against radar plots held by the CINDACTA network. RQS 193/2022 describes it in the Senate's own words as the night 'quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato'. The event node previously connected only to the minister and to the report, not to the service that flew the sorties. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"type": "programmatic"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-correiobraziliense-com-b-666682c7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "correiobraziliense.com.br",
+"listedOn": [],
+"node": null,
+"title": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB'",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html"
+]
+}

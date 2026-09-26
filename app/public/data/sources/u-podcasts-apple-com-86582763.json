@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bryce-zabel",
+"label": "Bryce Zabel"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 2,
+"id": "e-324766245a",
+"label": "co-hosted 'Elizondo Unplugged' interview",
+"note": "Elizondo appeared with Coulthart and Zabel on the Need To Know episode 'Elizondo Unplugged' (13 September 2024), discussing his book Imminent, crash retrievals and non-human intelligence.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-podcasts-apple-com-86582763",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "podcasts.apple.com",
+"listedOn": [],
+"node": null,
+"title": "https://podcasts.apple.com/us/podcast/elizondo-unplugged/id1600409359?i=1000669382895",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://podcasts.apple.com/us/podcast/elizondo-unplugged/id1600409359?i=1000669382895"
+]
+}

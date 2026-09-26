@@ -1,0 +1,379 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a448c856c9",
+"locator": null,
+"node": "david-spergel",
+"nodeLabel": "David N. Spergel",
+"sourceText": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and applying AI/machine learning to curated datasets.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b7ca33de3d",
+"locator": null,
+"node": "david-spergel",
+"nodeLabel": "David N. Spergel",
+"sourceText": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cc675cd279",
+"locator": null,
+"node": "david-spergel",
+"nodeLabel": "David N. Spergel",
+"sourceText": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e2d983c5fd",
+"locator": null,
+"node": "david-spergel",
+"nodeLabel": "David N. Spergel",
+"sourceText": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The team's report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data is the principal obstacle, recommending a rigorous evidence-based approach using AI and citizen observation.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-8773ce7c9b",
+"locator": null,
+"node": "l-ames",
+"nodeLabel": "NASA Ames Research Center, Mountain View, California",
+"sourceText": "NASA UAP Independent Study Team Report, September 2023",
+"text": "The NASA UAP Independent Study Team report recommends applying NASA Earth-observing and commercial remote-sensing assets to UAP data collection.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-8f8d08e26f",
+"locator": null,
+"node": "nasa-uap-ist",
+"nodeLabel": "NASA UAP Independent Study Team",
+"sourceText": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-9aa45b3f05",
+"locator": null,
+"node": "nasa-uap-ist",
+"nodeLabel": "NASA UAP Independent Study Team",
+"sourceText": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f4dad98fe7",
+"locator": null,
+"node": "nasa-uap-ist",
+"nodeLabel": "NASA UAP Independent Study Team",
+"sourceText": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and developing crowdsourced smartphone-based citizen reporting.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-00ce56e65c",
+"locator": null,
+"node": "nasa",
+"nodeLabel": "National Aeronautics and Space Administration",
+"sourceText": "NASA UAP Independent Study Team Report, 14 September 2023",
+"text": "NASA published the 'Unidentified Anomalous Phenomena Independent Study Team Report' on 14 September 2023, from a 16-member panel chaired by Dr David Spergel and including Capt. Scott Kelly (USN, ret.), Dr Anamaria Berea, Dr Federica Bianco and Dr David Grinspoon.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-0c7ddfe66b",
+"locator": "foreword",
+"node": "nasa",
+"nodeLabel": "National Aeronautics and Space Administration",
+"sourceText": "NASA UAP Independent Study Team Report foreword, 14 September 2023",
+"text": "In the report's foreword, Associate Administrator Dr Nicola Fox states 'NASA is appointing a Director of UAP Research to centralize communications and leverage NASA's extensive resources and expertise to actively engage in the whole-of-government UAP initiative.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-25e043dc8e",
+"locator": null,
+"node": "nasa",
+"nodeLabel": "National Aeronautics and Space Administration",
+"sourceText": "NASA UAP Independent Study Team Report, 14 September 2023",
+"text": "The report acknowledges that 'much of the data collected by military sensors or intelligence satellites are classified'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8d9ccac095",
+"locator": null,
+"node": "nasa",
+"nodeLabel": "National Aeronautics and Space Administration",
+"sourceText": "NASA UAP Independent Study Team Report, 14 September 2023",
+"text": "The report recommends leveraging the Aviation Safety Reporting System, which NASA administers for the FAA and which receives approximately 100,000 reports annually, for UAP reporting.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-945995a887",
+"locator": null,
+"node": "d-plasma",
+"nodeLabel": "Plasma Physics & Atmospheric Electricity",
+"sourceText": "NASA UAP Independent Study Team Report",
+"text": "The NASA UAP Independent Study Team report (September 2023) identified poor sensor calibration and missing metadata as central obstacles to distinguishing atmospheric phenomena from anomalous objects.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-3c9c879242",
+"locator": null,
+"node": "d-research",
+"nodeLabel": "Scientific Research",
+"sourceText": "NASA UAP Independent Study Team Report",
+"text": "The NASA UAP Independent Study Team report (September 2023), chaired by David Spergel, found that UAP analysis is hampered by poor sensor calibration and missing metadata, and recommended NASA act to reduce reporting stigma.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 1,
+"id": "e-eac6f1a89c",
+"label": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
+"note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "blue-marble-space-institute",
+"label": "Blue Marble Space Institute of Science"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-4205b6b627",
+"label": "BMSIS research investigator seated on NASA's UAP independent study team",
+"note": "NASA's announcement of the 16-member independent study team describes Anamaria Berea as 'an associate professor of Computational and Data Science at George Mason University in Fairfax, Virginia', 'a research affiliate with the SETI Institute' and 'a research investigator with Blue Marble Space Institute of Science in Seattle'. Worth noting for anyone checking: the team's final report of September 2023 lists her affiliation as George Mason University alone, and does not mention Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's; the Blue Marble tie is in the announcement, not the report.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 1,
+"id": "e-d880ef5a6a",
+"label": "Chaired the NASA UAP Independent Study Team",
+"note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 1,
+"id": "e-033f7a4254",
+"label": "Member of the study team",
+"note": "Gold is listed among the team's members and later testified to Congress on its findings.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 3,
+"id": "e-74432a42eb",
+"label": "Concluded data was insufficient - having been given only the unclassified record",
+"note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-2fa947f072",
+"label": "Both diagnose the same evidentiary deficit",
+"note": "ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 2,
+"id": "e-e08a48e3fc",
+"label": "Metadata stripping defeats the study team's core recommendation",
+"note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "event",
+"id": "uss-jackson-2023",
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023"
+},
+"b": {
+"cls": "institution",
+"id": "uss-jackson",
+"label": "USS Jackson (LCS-6)"
+},
+"claimTier": 2,
+"id": "e-d13462e313",
+"label": "The ship whose EO/IR system produced the recording",
+"note": "The footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - precisely the metadata the NASA study team said government UAP holdings lack.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-science-nasa-gov-44f5288a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "institution",
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+{
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+{
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+{
+"cls": "location",
+"id": "l-ames",
+"label": "NASA Ames Research Center, Mountain View, California"
+},
+{
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+{
+"cls": "domain",
+"id": "d-plasma",
+"label": "Plasma Physics & Atmospheric Electricity"
+},
+{
+"cls": "domain",
+"id": "d-research",
+"label": "Scientific Research"
+}
+],
+"node": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)",
+"topics": [
+{
+"claims": [
+"c-a448c856c9",
+"c-b7ca33de3d",
+"c-cc675cd279",
+"c-8f8d08e26f",
+"c-9aa45b3f05",
+"c-f4dad98fe7",
+"c-00ce56e65c",
+"c-0c7ddfe66b",
+"c-25e043dc8e",
+"c-8d9ccac095"
+],
+"id": "nasa-uap-study",
+"title": "NASA's UAP independent study, 2022-23"
+},
+{
+"claims": [
+"c-3c9c879242"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-945995a887"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+},
+{
+"claims": [
+"c-f4dad98fe7"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-9aa45b3f05"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "document",
+"urls": [
+"https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+]
+}

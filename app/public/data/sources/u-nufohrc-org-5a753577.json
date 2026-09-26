@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-7a3199239d",
+"locator": null,
+"node": "nufohrc",
+"nodeLabel": "National UFO Historical Records Center",
+"sourceText": "National UFO Historical Records Center, team page, https://nufohrc.org/team/, read 2 September 2026",
+"text": "Its team page is headed 'DAVID MARLER, EXECUTIVE DIRECTOR', and a separate entry on the same page records that the UFO Newsclipping Service ran 505 monthly issues 'with David Marler serving as the last editor and publisher'. The Area 52 corpus renders the name Marlar; the custodian's own organisation spells it Marler.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-nufohrc-org-5a753577",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nufohrc.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nufohrc",
+"label": "National UFO Historical Records Center"
+}
+],
+"node": null,
+"title": "National UFO Historical Records Center, team page",
+"topics": [
+{
+"claims": [
+"c-7a3199239d"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "web page",
+"urls": [
+"https://nufohrc.org/team/"
+]
+}

@@ -1,0 +1,94 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-14a013a2d2",
+"locator": null,
+"node": "gordon-gray",
+"nodeLabel": "Gordon Gray",
+"sourceText": "Directive by the President to the Secretary of State, the Secretary of Defense (Marshall), and the Director of Central Intelligence (Smith), 4 April 1951, file 100.4-PSB/4-451, FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"text": "Truman established the Board by directive of 4 April 1951: 'It is the purpose of this directive to authorize and provide for the more effective planning, coordination and conduct, within the framework of approved national policies, of psychological operations.' The Board reports to the National Security Council and is composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6532c404d1",
+"locator": null,
+"node": "gordon-gray",
+"nodeLabel": "Gordon Gray",
+"sourceText": "FRUS 1951 vol. I doc. 16, footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"text": "Gray was the first Director. The directive's own editorial footnote reads: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a1073ea62b",
+"locator": null,
+"node": "gordon-gray",
+"nodeLabel": "Gordon Gray",
+"sourceText": "FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"text": "The Director's charter includes a standing claim on other departments: 'The participating departments and agencies shall afford to the Director and the staff such assistance and access to information as may be specifically requested by the Director in carrying out his assigned duties.' The same directive states: 'This directive does not authorize the Board nor the Director to perform any \"psychological operations\".'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+},
+"b": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"claimTier": 1,
+"id": "e-4784735fe2",
+"label": "First Director of the Psychological Strategy Board, appointed 1951",
+"note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-history-state-gov-bfbcfac9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+}
+],
+"node": null,
+"title": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3",
+"topics": [
+{
+"claims": [
+"c-14a013a2d2",
+"c-6532c404d1",
+"c-a1073ea62b"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-14a013a2d2",
+"c-6532c404d1",
+"c-a1073ea62b"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1951v01/d16"
+]
+}

@@ -24,6 +24,13 @@
     "text": "House Oversight hearing transcript, 26 July 2023",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+    }
+   ],
    "text": "Sworn, to Rep. Nancy Mace: 'biologics came with some of these recoveries. Yes.' Asked human or nonhuman: 'Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
    "tier": 1
   },
@@ -37,6 +44,13 @@
     "text": "S. 2226 as engrossed, Sec. 9003(5), GPO",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9003(5)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "The UAPDA defines 'controlling authority' to include any 'commercial company, academic institution, or private sector entity in physical possession of technologies of unknown origin or biological evidence of non-human intelligence.'",
    "tier": 1
   },
@@ -50,6 +64,13 @@
     "text": "Contents and body of the Green DIRD",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-green-clinical-medical",
+     "locator": null,
+     "title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+    }
+   ],
    "text": "The document draws on 42 relevant cases from the peer-reviewed medical literature plus roughly 300 unpublished cases, and includes appendices titled 'Schuessler Catalog', 'Green Morris Cases' and 'Green-Morris ICD Diagnostics'.",
    "tier": 1
   },
@@ -63,6 +84,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-biosensors-and-biomems-a-survey-of",
+     "locator": null,
+     "title": "Biosensors and BioMEMS: A Survey of the Present Field"
+    }
+   ],
    "text": "Defense Intelligence Reference Document titled \"Biosensors and BioMEMS: A Survey of the Present Field\", series \"Acquisition Threat Support\", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-020. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
    "tier": 1
   },
@@ -76,6 +104,7 @@
     "text": "Preface of the released document",
     "url": null
    },
+   "sourceRefs": [],
    "text": "It proposes a continuation effort evaluating 300 to 500 events in ICD-code diagnostics with decisions on investigation 'together with Sponsors'.",
    "tier": 1
   },
@@ -89,6 +118,13 @@
     "text": "https://irp.fas.org/dia/aatip-list.pdf",
     "url": "https://irp.fas.org/dia/aatip-list.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-list-2019",
+     "locator": null,
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    }
+   ],
    "text": "Entry 6 on the DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.'",
    "tier": 1
   },
@@ -102,6 +138,13 @@
     "text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
    },
+   "sourceRefs": [
+    {
+     "id": "u-ufos-scientificresearch--67d23c6a",
+     "locator": null,
+     "title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+    }
+   ],
    "text": "The title as printed on the released document, \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", is materially more specific than the title the DIA reported to the Senate Armed Services Committee, \"Field Effects on Biological Tissues\". The words \"Anomalous\" and \"Human\" were not in the version of the title given to Congress.",
    "tier": 2
   },
@@ -115,6 +158,13 @@
     "text": "Curt Collins, Cash-Landrum UFO Case Document Collection, note to the legal documents section",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-blueblurrylines-com-79754846",
+     "locator": "legal documents section",
+     "title": "Curt Collins, Cash-Landrum UFO Case Document Collection"
+    }
+   ],
    "text": "The Defense conducted an investigation into whether the object was a US military device; no documents from that investigation have surfaced.",
    "tier": 2
   },
@@ -128,6 +178,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dia-mil-3d058fd3",
+     "locator": null,
+     "title": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)"
+    }
+   ],
    "text": "Attribution to Dr. Christopher 'Kit' Green is not established by the DIA release (author redacted). Two of the DIRD peer reviews quoted in U-429-09 are written in a distinctly medical/intelligence register (BioMEMS, materials 'reverse engineer[ing]'), consistent with a reviewer of that background, but the reviewer names are also redacted. Wave-4 item.",
    "tier": 3
   },
@@ -141,6 +198,7 @@
     "text": "Cash-Landrum case document collection, index to the original case report",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Schuessler and Project VISIT filed a 35-page preliminary report on the Cash-Landrum case with MUFON dated 4 March 1981, following an on-site investigation dated 28 February 1981 and a taped hospital interview in early February 1981.",
    "tier": 1
   },
@@ -154,6 +212,7 @@
     "text": "Christopher Green, repeated on-record interviews and public statements",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Green has stated that during his CIA service he was the officer to whom UFO and anomalous-phenomena reporting was routed within the Office of Scientific Intelligence.",
    "tier": 2
   },
@@ -167,6 +226,7 @@
     "text": "Docket entry 2 and the docket sheet attorney block",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Peter A. Gersten was designated attorney in charge for plaintiffs by order under Local Rule 1; William C. Shead was designated local co-counsel; Frank A. Conforti appeared as Assistant US Attorney.",
    "tier": 1
   },
@@ -180,6 +240,18 @@
     "text": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-176",
+     "locator": "Office of Law Revision Counsel",
+     "title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+    },
+    {
+     "id": "usc-10-176",
+     "locator": null,
+     "title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+    }
+   ],
    "text": "10 U.S.C. 176 provides that 'There is in the Department of Defense an Institute to be known as the Armed Forces Institute of Pathology', a joint entity of the three military departments subject to the authority, direction and control of the Secretary of Defense, added by Pub. L. 94-361, title VIII, section 811(b), 14 July 1976, 90 Stat. 933.",
    "tier": 1
   },
@@ -193,6 +265,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-cognitive-limits-on-simultaneous-control-of",
+     "locator": null,
+     "title": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+    }
+   ],
    "text": "Defense Intelligence Reference Document titled \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft\", series \"Defense Futures\", published 2010-12-15 with an Intelligence Cut-Off Date (ICOD) of 2010-09-08, DIA document number DIA-08-1101-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
    "tier": 1
   },
@@ -206,6 +285,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-anomalous-acute-and-subacute-field-effects",
+     "locator": null,
+     "title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+    }
+   ],
    "text": "DIRD 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', Acquisition Threat Support series, 11 March 2010, ICOD 1 December 2009, 38 pages, exists in the DIA FOIA release. No DIA document number is printed on the released cover page and the author is withheld under (b)(6).",
    "tier": 1
   },
@@ -219,6 +305,7 @@
     "text": "Department of the Army Inspector General investigation, 1982; Sarran quoted in the case literature",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Lt. Col. George Sarran of the Office of the Inspector General of the US Army conducted the only thorough formal government investigation of the encounter in 1982 and found no evidence that the helicopters belonged to the US armed forces, while stating that Cash and Landrum were credible and that no one appeared to be exaggerating.",
    "tier": 2
   },
@@ -232,6 +319,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dia-mil-25bf2a13",
+     "locator": null,
+     "title": "DIA Talking Paper U-973-09, 'Senator Reid Visit to Director, DIA', 04 May 2009 (DIA FOIA release)"
+    }
+   ],
    "text": "DIA Talking Paper U-973-09 states the RFP broke the work into twelve technical areas: Lift; Propulsion; Control; Armament (radio-frequency and directed-energy weapons); Spatial/temporal Translation; Signature Reduction; Materials; Configuration/structure; Power Generation; Human Effects (of advanced tech on operators); Human Interface (i.e. pilot controls); Technology Integration.",
    "tier": 1
   },
@@ -245,6 +339,13 @@
     "text": "Order of Dismissal, Cash v. United States, No. H-84-348, filed 21 August 1986 (scan of clerk-stamped original)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-afu-se-1aaf6048",
+     "locator": null,
+     "title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal"
+    }
+   ],
    "text": "Order of Dismissal, clerk-stamped FILED AUG 21 1986, Jesse E. Clark, Clerk: 'CAME ON this day the Motion to Dismiss and/or for Summary Judgment filed by the United States ... IT IS HEREBY ORDERED that the above noted cause of action is DISMISSED pursuant to Federal Rule of Civil Procedure Rule 12(b)(1), Rule 12(b)(6) and Rule 56.'",
    "tier": 1
   },
@@ -258,6 +359,13 @@
     "text": "https://irp.fas.org/dia/aatip-list.pdf",
     "url": "https://irp.fas.org/dia/aatip-list.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-list-2019",
+     "locator": null,
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    }
+   ],
    "text": "This is the only DIRD in the 38 whose subject is injury to human beings, which is what makes it the load-bearing document for the board's medical-effects thread rather than a propulsion survey.",
    "tier": 3
   },
@@ -271,6 +379,13 @@
     "text": "AARO Memorandum for Record, 8 January 2024, released as FOIA 24-F-0266",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "foia-24-f-0266",
+     "locator": null,
+     "title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+    }
+   ],
    "text": "AARO documented at least eight distinct approaches to Grusch between June 2023 and January 2024 and concluded he had no intention of providing information.",
    "tier": 1
   },
@@ -284,6 +399,13 @@
     "text": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 3:21:29, transcript in dist/transcripts/md/",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-21a4d5ebec3c",
+     "locator": "3:21:29",
+     "title": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty"
+    }
+   ],
    "text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 3:21:29, Richard Doty said he knew of autopsies on recovered bodies 'from people like Kate Green and others that work for the Institute for Armed Force Institute for Pathology', then corrected himself within the same passage from 'green did autopsies' to 'he saw the aftermaths read reports'. No document opened here names any individual at the Institute.",
    "tier": 2
   },
@@ -297,6 +419,13 @@
     "text": "Gersten, quoted in the Houston Chronicle, Texas Magazine, 17 November 1996, p. 8",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-9909d040f05c",
+     "locator": null,
+     "title": "Houston Chronicle, Texas Magazine, 17 November 1996"
+    }
+   ],
    "text": "Attorney Peter Gersten later stated that the suit was a bluff, brought in the hope that the government would settle quietly and cover the medical expenses.",
    "tier": 2
   },
@@ -310,6 +439,7 @@
     "text": "Executive Summary of the released document",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Its executive summary states that reported incidents and acquired medical data 'support a hypothesis that some advanced systems are already deployed, and opaque to full US Intelligence understanding', and that the medical analyses 'do indicate the use of (to us) unconventional and advanced energy systems'.",
    "tier": 1
   },
@@ -323,6 +453,13 @@
     "text": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer, https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt",
     "url": "https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-77b5635e",
+     "locator": null,
+     "title": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer"
+    }
+   ],
    "text": "The 2005 Defense Base Closure and Realignment Commission's final report of 8 September 2005, recommendation 169 (Med 4) on Walter Reed Army Medical Center, directs the Department to 'disestablish all elements of the Armed Forces Institute of Pathology except the National Medical Museum and the Tissue Repository', with the Commission's amended version adding that AFIP capabilities not specified 'will be absorbed into other DoD, Federal, or civilian facilities, as necessary'.",
    "tier": 1
   },
@@ -336,6 +473,13 @@
     "text": "AARO Historical Record Report Volume I",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's Volume I report (February 2024) states it found no empirical evidence for claims of recovered extraterrestrial technology or associated material.",
    "tier": 1
   },
@@ -349,6 +493,7 @@
     "text": "Preface of the released document",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The document quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' regarding 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
    "tier": 1
   },
@@ -362,6 +507,13 @@
     "text": "Statutory note 'Establishment of Joint Pathology Center' to 10 U.S.C. 176, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-176",
+     "locator": null,
+     "title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+    }
+   ],
    "text": "Pub. L. 110-181, division A, title VII, section 722, 28 January 2008, 122 Stat. 199, provides that 'The President shall establish and maintain a Joint Pathology Center that shall function as the reference center in pathology for the Federal Government', established in the Department of Defense consistent with the 2005 BRAC recommendations, and providing for maintenance and continued modernization of the Tissue Repository.",
    "tier": 1
   },
@@ -375,6 +527,13 @@
     "text": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-kqed-org-e3d1cf60",
+     "locator": null,
+     "title": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED"
+    }
+   ],
    "text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
    "tier": 2
   },
@@ -388,6 +547,13 @@
     "text": "NASA UAP Independent Study Team Report",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-science-nasa-gov-44f5288a",
+     "locator": null,
+     "title": "NASA UAP Independent Study Team Final Report (PDF)"
+    }
+   ],
    "text": "The NASA UAP Independent Study Team report (September 2023) identified poor sensor calibration and missing metadata as central obstacles to distinguishing atmospheric phenomena from anomalous objects.",
    "tier": 1
   },
@@ -401,6 +567,7 @@
     "text": "Green interviews and public remarks, 2017-2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Green maintains a clinical case series of patients with unexplained injuries he associates with proximity to the phenomenon, drawn substantially from military and intelligence personnel.",
    "tier": 2
   },
@@ -414,6 +581,7 @@
     "text": "Contents and body of the released document",
     "url": null
    },
+   "sourceRefs": [],
    "text": "It draws on 42 peer-reviewed cases and approximately 300 unpublished cases, names the Cash-Landrum event, and includes 'Schuessler Catalog', 'Green Morris Cases' and 'Green-Morris ICD Diagnostics' appendices.",
    "tier": 1
   },
@@ -427,6 +595,7 @@
     "text": "Preface of the Green DIRD",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The DIRD's preface quotes a November 2007 proposal addressed to Puthoff/Hathaway stating that 'certain characteristics of the fields associated with exotic propulsion can with near certainty be gleaned from archival records of their effects on human physiology' and proposing outsourcing of the medical analysis.",
    "tier": 1
   },
@@ -440,6 +609,7 @@
     "text": "Inference from the DIRD's inclusion in a threat-assessment contract and Green's prior CIA role at the same intersection",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The commissioning of a human-injury paper inside an aerospace weapons study indicates the sponsors already possessed a body of injury cases needing a scientific frame, rather than that they were speculating about a hypothetical hazard.",
    "tier": 3
   },
@@ -453,6 +623,13 @@
     "text": "Philip J. Klass's analysis of Schuessler's published data, 1998",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-1b385113396c",
+     "locator": null,
+     "title": "Philip J. Klass's analysis of Schuessler's published data, 1998"
+    }
+   ],
    "text": "Schuessler found no radioactivity when he checked Betty Cash's car with a Geiger counter in early 1981.",
    "tier": 2
   },
@@ -466,6 +643,13 @@
     "text": "Condon Report, Section VI Chapter 7",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-843e9d84",
+     "locator": null,
+     "title": "Condon Report, Section VI Chapter 7 - Atmospheric Electricity and Plasma Interpretations of UFOs (Altschuler)"
+    }
+   ],
    "text": "The Condon Report contains a dedicated chapter by Martin D. Altschuler on atmospheric electricity and plasma interpretations of UFOs.",
    "tier": 1
   },
@@ -479,6 +663,18 @@
     "text": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim"
    },
+   "sourceRefs": [
+    {
+     "id": "usc-10-176",
+     "locator": "Office of Law Revision Counsel",
+     "title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+    },
+    {
+     "id": "usc-10-176",
+     "locator": null,
+     "title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+    }
+   ],
    "text": "The Office of Law Revision Counsel serves 10 U.S.C. 176 with the statement 'Text contains those laws in effect on September 1, 2026', so the section creating the Institute remains in force after the Institute itself was disestablished.",
    "tier": 1
   },
@@ -492,6 +688,13 @@
     "text": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex., Houston Div.)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-afu-se-1aaf6048",
+     "locator": null,
+     "title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal"
+    }
+   ],
    "text": "Docket sheet: plaintiffs Betty Cash, Vickie Landrum, Colby Landrum; defendant United States of America; Civil Action No. H-84-348; cause 28 U.S.C. 1346(b), 2671 et seq., airplane product liability; damages $5,000,000; Judge Ross N. Sterling; original complaint and two summonses filed January 1984.",
    "tier": 1
   },
@@ -505,6 +708,7 @@
     "text": "Inference from documented directed-energy research at Kirtland AFB and the Condon plasma analysis",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Directed-energy and plasma signature-control testing produces observables indistinguishable to an untrained observer from reported UAP, and is concentrated at facilities that also feature in this board's case record. Reasoning: the physics of plasma generation and confinement is common to both applications.",
    "tier": 3
   },
@@ -518,6 +722,7 @@
     "text": "Contemporary accounts and Schuessler's own report",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Vickie Landrum was directed to Schuessler after telephoning NASA about the incident.",
    "tier": 2
   },
@@ -531,6 +736,13 @@
     "text": "https://irp.fas.org/dia/aatip-list.pdf",
     "url": "https://irp.fas.org/dia/aatip-list.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-list-2019",
+     "locator": null,
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    }
+   ],
    "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 opens with entry 1: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.'",
    "tier": 1
   },
@@ -544,6 +756,7 @@
     "text": "Inference from documented biosafety and biodefence infrastructure requirements",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A sustained biological exploitation effort would require containment, pathology, genomics and tissue-banking infrastructure whose procurement, staffing and biosafety documentation are auditable independently of the material itself. Reasoning: this is the standard footprint of any high-containment biological programme.",
    "tier": 3
   },
@@ -557,6 +770,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-inertial-electrostatic-confinement-fusion",
+     "locator": null,
+     "title": "Inertial Electrostatic Confinement Fusion"
+    }
+   ],
    "text": "Defense Intelligence Reference Document titled \"Inertial Electrostatic Confinement Fusion\", series \"Acquisition Threat Support\", published 2010-03-10 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
    "tier": 1
   },
@@ -570,6 +790,7 @@
     "text": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
     "url": null
    },
+   "sourceRefs": [],
    "text": "David Grusch testified under oath on 26 July 2023 that non-human biologics were recovered alongside craft, stating the information came from individuals he interviewed and referred to the ICIG.",
    "tier": 2
   },
@@ -583,6 +804,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-anomalous-acute-and-subacute-field-effects",
+     "locator": null,
+     "title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+    }
+   ],
    "text": "Defense Intelligence Reference Document titled \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", series \"Acquisition Threat Support\", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
    "tier": 1
   },
@@ -596,6 +824,13 @@
     "text": "'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', cover and Preface",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-72dbd7cb19e5",
+     "locator": null,
+     "title": "Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues"
+    }
+   ],
    "text": "Green's AAWSAP DIRD carries the cover imprint 'Institute for Advanced Studies at Austin' and states as Hypothesis One that 'sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems'.",
    "tier": 1
   },
@@ -609,6 +844,7 @@
     "text": "Preface of the released document",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The document's Hypothesis One reads: 'Sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems.'",
    "tier": 1
   },
@@ -622,6 +858,13 @@
     "text": "DIRD 26, DIA release",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-anomalous-acute-and-subacute-field-effects",
+     "locator": null,
+     "title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+    }
+   ],
    "text": "DIA commissioned Defense Intelligence Reference Document 26, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', released under FOIA.",
    "tier": 1
   },
@@ -635,6 +878,7 @@
     "text": "Christopher Green to Tim McMillan, Popular Mechanics, 14 February 2020",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Green described the paper as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
    "tier": 2
   },
@@ -648,6 +892,13 @@
     "text": "CHRG-118hhrg53022, testimony of David Grusch",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": "testimony of David Grusch",
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+    }
+   ],
    "text": "Sworn testimony, 26 July 2023, on recovered biological material: asked by Rep. Mace whether the biologics recovered were 'human or nonhuman', Grusch answered 'Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
    "tier": 2
   },
@@ -661,6 +912,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-anomalous-acute-and-subacute-field-effects",
+     "locator": null,
+     "title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+    }
+   ],
    "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
    "tier": 1
   },
@@ -674,6 +932,13 @@
     "text": "Cash v. United States docket and Order of Dismissal",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-afu-se-1aaf6048",
+     "locator": null,
+     "title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal"
+    }
+   ],
    "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), brought over injuries attributed to a December 1980 encounter, was dismissed by order of 21 August 1986.",
    "tier": 1
   },
@@ -687,6 +952,13 @@
     "text": "https://irp.fas.org/dia/aatip-list.pdf",
     "url": "https://irp.fas.org/dia/aatip-list.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-list-2019",
+     "locator": null,
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    }
+   ],
    "text": "Authored by Dr Kit Green of Wayne State University, per the 9 January 2018 DIA list (item 12, listed there under the shorter title \"Field Effects on Biological Tissues\").",
    "tier": 1
   },
@@ -700,6 +972,13 @@
     "text": "https://irp.fas.org/dia/aatip-list.pdf",
     "url": "https://irp.fas.org/dia/aatip-list.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-list-2019",
+     "locator": null,
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    }
+   ],
    "text": "The DIA letter of 9 January 2018 attributes three DIRDs to 'Dr R Genik, Wayne State Univ', including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft.'",
    "tier": 1
   },
@@ -713,6 +992,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-anomalous-acute-and-subacute-field-effects",
+     "locator": null,
+     "title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+    }
+   ],
    "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
    "tier": 1
   },
@@ -726,6 +1012,7 @@
     "text": "DIA letter to SASC, 9 January 2018, item 12; DIA FOIA release DIRD 26",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Green authored the AAWSAP DIRD listed to Congress as 'Field Effects on Biological Tissues' and released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues'.",
    "tier": 1
   },
@@ -739,6 +1026,13 @@
     "text": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-deseret-com-40c3143a",
+     "locator": null,
+     "title": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News"
+    }
+   ],
    "text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
    "tier": 2
   },
@@ -752,6 +1046,13 @@
     "text": "S. 2226 as engrossed, Sec. 9003(11), GPO",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9003(11)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "The UAPDA defines 'legacy program' as reaching 'commercial industry, academic, and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin or examine biological evidence of living or deceased non-human intelligence.'",
    "tier": 1
   },
@@ -765,6 +1066,13 @@
     "text": "Executive Summary of the Green DIRD",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-dird-green-clinical-medical",
+     "locator": "executive summary",
+     "title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+    }
+   ],
    "text": "The DIRD's executive summary asserts that reported incidents and acquired medical data 'support a hypothesis that some advanced systems are already deployed, and opaque to full US Intelligence understanding'.",
    "tier": 1
   },
@@ -778,6 +1086,13 @@
     "text": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer, https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt",
     "url": "https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-77b5635e",
+     "locator": null,
+     "title": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer"
+    }
+   ],
    "text": "The same report records that the Commission found the Department 'failed to sufficiently address several AFIP functions, such as the Radiologic Pathology program, with the associated tissue repository, veterinary pathology and continuing medical education', and that the Secretary of Defense 'deviated substantially from final selection criteria 1, as well as from the Force Structure Plan'.",
    "tier": 1
   },
@@ -791,6 +1106,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-dia-mil-3d058fd3",
+     "locator": null,
+     "title": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)"
+    }
+   ],
    "text": "DIA Info Memo U-429-09 Enclosure 1 lists this study among the 26 FY2009 technical reports under the working title 'Field Effects on Biological Tissues'.",
    "tier": 1
   },

@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"claimTier": 1,
+"id": "e-ab3e841c6f",
+"label": "obtained and published",
+"note": "Burlison published the memorandum on 1 August 2026 after calling publicly on 29 July for ODNI to issue implementation guidance.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-burlison-house-gov-6ff70c58",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+{
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+}
+],
+"node": null,
+"title": "Rep. Eric Burlison, 'Rep. Burlison Releases Administration Memorandum on President Trump's UAP NDA Directive'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases/rep-burlison-releases-administration-memorandum-president-trumps-uap-nda"
+]
+}

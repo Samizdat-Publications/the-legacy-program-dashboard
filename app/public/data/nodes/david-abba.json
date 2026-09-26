@@ -24,8 +24,16 @@
 {
 "id": "c-311ab0bd98",
 "source": "DoD FOIA release 24-F-0266, AARO Invitations to Interview Mr. David Grusch",
+"sources": [
+{
+"id": "foia-24-f-0266",
+"locator": "AARO Invitations to Interview Mr. David Grusch",
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+}
+],
 "text": "Appears as signatory of the March 2023 DoD memorandum referenced in AARO's memorandum for record documenting its attempts to interview Grusch.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

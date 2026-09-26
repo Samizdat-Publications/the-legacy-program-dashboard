@@ -1,0 +1,206 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-f05f4016dc",
+"locator": null,
+"node": "senado-brasil",
+"nodeLabel": "Senado Federal do Brasil",
+"sourceText": "The Debrief, 'Landmark Brazilian UFO case reaches Capitol Hill as Varginha incident turns 30', 30 January 2026 (recorded on this board under eduardo-girao)",
+"text": "Girão has publicly pursued the Varginha file, and the case was brought to Capitol Hill around its thirtieth anniversary in 2026.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "italo-venturelli",
+"label": "Dr Ítalo Venturelli"
+},
+"b": {
+"cls": "event",
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+},
+"claimTier": 2,
+"id": "e-526824cfe2",
+"label": "gave the hospital custody account to members of Congress",
+"note": "Kean and Blumenthal had sole media access to the closed-door session and reported his testimony verbatim.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-03b4dc1205",
+"label": "Varginha discussed in a 2024 meeting with AARO staff",
+"note": "Filmmaker James Fox says that in 2024 he met AARO personnel to discuss video his team had obtained and that the Varginha incident was among the cases debated, with AARO director Dr Jon Kosloski entering the room. This rests solely on Fox's account as reported by The Debrief; AARO's own 2024 report states no investigation has concluded that any UAP report indicates extraterrestrial origin, and the Pentagon did not respond to requests for comment.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha"
+},
+"b": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"claimTier": 2,
+"id": "e-ae2530c648",
+"label": "Hospital duty neurosurgeon described the being to Luna on the Hill",
+"note": "At a closed-door 15 January 2026 meeting in Rep. Tim Burchett's Longworth office, Dr Italo Venturelli, who says he was on duty at the Hospital Regional de Varginha in January 1996, described examining a non-human being at the hospital. Rep. Anna Paulina Luna, chair of the House Task Force on the Declassification of Federal Secrets, questioned him directly and afterwards said Congress should seek Air Force flight records and landing authorisations to test the claimed US removal of the body. No medical record of the treatment exists, per Venturelli.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha"
+},
+"b": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"claimTier": 2,
+"id": "e-55af5adca8",
+"label": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
+"note": "Rep. Eric Burlison attended the 15 January 2026 closed meeting with the Varginha witnesses, asked whether other hospital staff could corroborate Venturelli's account and urged that they be brought forward, and spoke at the 20 January National Press Club event calling for international transparency.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha"
+},
+"b": {
+"cls": "event",
+"id": "ev-varginha-1996",
+"label": "Varginha incident, Minas Gerais, January 1996"
+},
+"claimTier": 2,
+"id": "e-fab97a3485",
+"label": "The hospital is a named custody point in the Varginha sequence",
+"note": "The facility registered in CNES as the Hospital Regional do Sul de Minas is the hospital named in the Varginha literature as a place to which an injured being was reportedly taken. Tier 2: the facility and its registry entry are verified fact, the custody sequence rests on witness testimony and journalism and on no hospital record obtained in this pass. The hospital node carried edges to the US congressional side of the story but, oddly, not to the 1996 event itself.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+"b": {
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha"
+},
+"claimTier": 2,
+"id": "e-35edaff45d",
+"label": "Girao backed Varginha hospital witnesses in Washington",
+"note": "Sen. Eduardo Girao, who presided over the 2022 Brazilian Senate UAP session, travelled to Washington for the 20 January 2026 National Press Club event and praised the Varginha witnesses, and discussed a joint Brazil-US evidence effort with Rep. Eric Burlison. The Debrief is explicit that Girao acted as a private citizen and was not officially representing the Brazilian Senate, so this is a personal rather than institutional linkage.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eduardo-girao",
+"label": "Senador Eduardo Girão"
+},
+"b": {
+"cls": "event",
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+},
+"claimTier": 2,
+"id": "e-7875c9af1a",
+"label": "Brazilian senator attended and discussed a joint evidence effort",
+"note": "Girão, who led a 2022 Brazilian Senate UAP hearing, met Rep. Eric Burlison for the first time at the National Press Club event.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "event",
+"id": "ev-varginha-1996",
+"label": "Varginha incident, Minas Gerais, January 1996"
+},
+"b": {
+"cls": "event",
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+},
+"claimTier": 2,
+"id": "e-e71299ed35",
+"label": "1996 witnesses testify to US legislators thirty years later",
+"note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-40009534c9",
+"label": "AARO's 2024 negative finding is the standing counter-position",
+"note": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated extraterrestrial origin; the Varginha witnesses were briefing Congress against that finding.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-d2a39378",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "italo-venturelli",
+"label": "Dr Ítalo Venturelli"
+},
+{
+"cls": "person",
+"id": "eduardo-girao",
+"label": "Senador Eduardo Girão"
+},
+{
+"cls": "event",
+"id": "ev-varginha-1996",
+"label": "Varginha incident, Minas Gerais, January 1996"
+},
+{
+"cls": "event",
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+}
+],
+"node": null,
+"title": "The Debrief",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+]
+}

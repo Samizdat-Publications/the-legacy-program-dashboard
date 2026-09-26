@@ -7,20 +7,38 @@
 {
 "id": "c-8e1531fe2f",
 "source": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"sources": [
+{
+"id": "n-aaro-kona-blue-release",
+"locator": null,
+"title": "AARO/DHS release: History and Origin of KONA BLUE"
+}
+],
 "text": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP'; the DHS Deputy Secretary disapproved and terminated it approximately six months later, and it was 'never approved or formally established'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-abadabc569",
 "source": "AARO Historical Record Report Volume I, p. 35",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.35",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO records that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-73a53a6b7b",
 "source": "Inference from the redaction pattern of the released AARO/DHS KONA BLUE paper",
+"sources": [],
 "text": "The names of the DHS Under Secretary for S&T who established KONA BLUE and the DHS Deputy Secretary who terminated it are withheld from the released paper and are the highest-value identifiable FOIA targets in the DHS record. Reasoning: both officials made a formal written determination about a compartment for recovered material, and those determinations are agency records.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

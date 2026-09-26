@@ -10,20 +10,44 @@
 {
 "id": "c-c501f75f33",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "n-dia-aatip-list-2019",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+}
+],
 "text": "The DIA letter of 9 January 2018 lists entry 6 as 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona' and entry 17 as 'Biomaterials, Dr Bruce Towe, Univ of Arizona.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1e08c15129",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"sources": [
+{
+"id": "n-dird-biosensors-and-biomems-a-survey-of",
+"locator": null,
+"title": "Biosensors and BioMEMS: A Survey of the Present Field"
+}
+],
 "text": "The released DIRD bears document number DIA-08-1003-020, publication date 31 March 2010 and Intelligence Cut-Off Date 1 December 2009.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7bb0ebc6ca",
 "source": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/",
+"sources": [
+{
+"id": "u-sbhse-engineering-asu-ed-35095dc8",
+"locator": null,
+"title": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/"
+}
+],
 "text": "Towe's documented academic home is Arizona State University's School of Biological and Health Systems Engineering, where he researches neurostimulation, implantable microelectronics and bioelectronics - not the University of Arizona as recorded on the DIA list.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

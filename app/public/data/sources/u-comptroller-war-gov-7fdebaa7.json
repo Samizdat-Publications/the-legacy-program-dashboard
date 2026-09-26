@@ -1,0 +1,57 @@
+{
+"archived": [
+"https://web.archive.org/web/20260811040145/https://comptroller.war.gov/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-b95dd664e6",
+"locator": null,
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"sourceText": "https://comptroller.war.gov/",
+"text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "michael-powers-comptroller",
+"label": "Michael Powers"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 3,
+"id": "e-4b0133aa9e",
+"label": "The Comptroller executes the annex",
+"note": "The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-comptroller-war-gov-7fdebaa7",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "michael-powers-comptroller",
+"label": "Michael Powers"
+}
+],
+"node": null,
+"title": "Department of War Comptroller",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://comptroller.war.gov/"
+]
+}

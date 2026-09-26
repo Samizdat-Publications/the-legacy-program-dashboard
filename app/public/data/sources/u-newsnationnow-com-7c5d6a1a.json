@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-75aaf7ab77",
+"label": "AARO concluded Grusch 'had no intention of providing AARO with information'",
+"note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-59b98114e2",
+"label": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment",
+"note": "AARO's own memorandum documents the sequence. Grusch has cited legal and security exposure; AARO makes the non-appearance the centerpiece of its impeachment. Both facts are in the same document.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-newsnationnow-com-7c5d6a1a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+}
+],
+"node": null,
+"title": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+]
+}

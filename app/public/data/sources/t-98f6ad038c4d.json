@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c363326dd9",
+"locator": null,
+"node": "senado-brasil",
+"nodeLabel": "Senado Federal do Brasil",
+"sourceText": "legis.senado.leg.br/dadosabertos/senador/lista/legislatura/56 and /57",
+"text": "Eduardo Girão (NOVO, Ceará) is recorded in the Senate's official parliamentarian register under member code 5976, listed in both the 56th and 57th legislatures, with an official Senate profile page.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "t-98f6ad038c4d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "legis.senado.leg.br/dadosabertos/senador/lista/legislatura/56 and /57",
+"topics": [],
+"type": "web page",
+"urls": []
+}

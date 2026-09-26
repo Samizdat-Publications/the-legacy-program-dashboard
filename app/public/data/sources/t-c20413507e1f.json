@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a0ef35b47f",
+"locator": null,
+"node": "gregory-guillot",
+"nodeLabel": "Gregory M. Guillot",
+"sourceText": "NORAD, via The War Zone, 30 October 2024",
+"text": "NORAD counted more than 600 drone reports above US military installations since 2022.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-f5c8abeab4",
+"locator": null,
+"node": "norad-northcom",
+"nodeLabel": "NORAD and US Northern Command",
+"sourceText": "NORAD via The War Zone, 30 October 2024",
+"text": "NORAD recorded more than 600 drone reports above US military installations since 2022.",
+"tier": 2
+}
+],
+"date": "2024-10-30",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-c20413507e1f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "NORAD, via The War Zone, 30 October 2024",
+"topics": [
+{
+"claims": [
+"c-a0ef35b47f"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

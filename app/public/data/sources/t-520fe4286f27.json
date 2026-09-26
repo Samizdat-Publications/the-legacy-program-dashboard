@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a754cfed2c",
+"locator": null,
+"node": "keith-kloor",
+"nodeLabel": "Keith Kloor",
+"sourceText": "Keith Kloor, Issues in Science and Technology, Spring 2019",
+"text": "Reported Elizondo's 2016 evaluation rated him 'exemplary', with his supervisor writing it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security', and that Elizondo described his AATIP role as 'making sure the Russians, the Chinese, our foreign adversaries, weren't penetrating' the program.",
+"tier": 2
+}
+],
+"date": "2019",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-520fe4286f27",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Issues in Science and Technology",
+"listedOn": [],
+"node": null,
+"title": "Keith Kloor, Issues in Science and Technology, Spring 2019",
+"topics": [
+{
+"claims": [
+"c-a754cfed2c"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "article",
+"urls": []
+}

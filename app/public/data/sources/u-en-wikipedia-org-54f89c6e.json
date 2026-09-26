@@ -1,0 +1,188 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-d09f5025ae",
+"locator": null,
+"node": "l-las-vegas",
+"nodeLabel": "Las Vegas, Nevada",
+"sourceText": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Robert Bigelow founded the National Institute for Discovery Science and purchased Skinwalker Ranch in 1996 for $200,000.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-31357c5dc3",
+"locator": "acreage, sale prices, Fugal purchase",
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch, citing property and press records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The ranch is approximately 512 acres in Uintah County, Utah; Bigelow purchased it for $200,000 in 1996 and sold it for approximately $500,000 in 2016 to Brandon Fugal, who announced ownership in March 2020 via Adamantium Real Estate LLC.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-e0c130514e",
+"locator": "Lacatski/Bigelow/Reid chain",
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch, citing Reid's and Lacatski's accounts",
+"text": "DIA official James Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker' and reported an experience at the ranch; Bigelow relayed this to Sen. Harry Reid, and Reid and Sen. Ted Stevens subsequently secured approximately $22 million in Defense appropriations to study unidentified aerial phenomena.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-e5b822008a",
+"locator": null,
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch",
+"text": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents at the ranch but acknowledged difficulty obtaining evidence consistent with scientific publication.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-ce71b31803",
+"locator": null,
+"node": "l-utah",
+"nodeLabel": "Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Skinwalker Ranch lies in Uintah County, Utah, southeast of Ballard, bordering the Uintah and Ouray Indian Reservation; UFO reports from the Uintah Basin were publicised beginning in the 1970s.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-6323f13b38",
+"label": "The AAWSAP appropriation followed the Lacatski visit to the ranch",
+"note": "Reid and Sen. Ted Stevens secured roughly $22 million in Defense appropriations after Bigelow relayed Lacatski's ranch experience. BAASS, headquartered in Las Vegas, won the contract.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-6fa87d8fea",
+"label": "Lacatski's visit is the documented link from the ranch to DIA",
+"note": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-83150b3c84",
+"label": "NIDS ran the field investigation at the ranch under Bigelow",
+"note": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents while conceding they could not obtain publishable evidence.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 1,
+"id": "e-c1faaa03ae",
+"label": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+"note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"b": {
+"cls": "location",
+"id": "l-utah",
+"label": "Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-eb4efc2c30",
+"label": "The ranch sits inside the Uintah Basin reporting region",
+"note": "The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, inside a region with a folk reporting record dating to the 1970s.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-54f89c6e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+{
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+{
+"cls": "location",
+"id": "l-utah",
+"label": "Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "Wikipedia - Skinwalker Ranch",
+"topics": [
+{
+"claims": [
+"c-31357c5dc3",
+"c-e0c130514e",
+"c-e5b822008a"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+]
+}

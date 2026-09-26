@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-64b2984489",
+"locator": null,
+"node": "walter-haut",
+"nodeLabel": "Walter Haut",
+"sourceText": "Walter Haut affidavit, executed 2002, released 2007",
+"text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
+"tier": 2
+}
+],
+"date": "2002",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "t-192ebf32ea44",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Walter Haut",
+"listedOn": [],
+"node": null,
+"title": "Walter Haut affidavit",
+"topics": [
+{
+"claims": [
+"c-64b2984489"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "document",
+"urls": []
+}

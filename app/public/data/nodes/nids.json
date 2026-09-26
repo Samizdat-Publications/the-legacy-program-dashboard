@@ -7,38 +7,68 @@
 {
 "id": "c-91cccc6a5a",
 "source": "National Institute for Discovery Science public record and publications, 1995-2004 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "NIDS was founded by Robert Bigelow in 1995 and operated until 2004 as a privately funded research institute investigating aerial phenomena, animal mutilations and the Utah ranch.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Generic reference to public record and publications, not one document."
 },
 {
 "id": "c-03670f4d31",
 "source": "The Debrief, 25 May 2023",
+"sources": [],
 "text": "Colm Kelleher led the NIDS science team at Skinwalker Ranch from 1996 to 2004 and carried that team structure into BAASS in 2008.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-e0e6726d30",
 "source": "Inference from the NIDS-to-BAASS personnel continuity",
+"sources": [],
 "text": "AAWSAP's field methodology, personnel and site were inherited wholesale from NIDS, meaning the government did not fund a new capability but bought access to an existing private one — which is why the contractor's UFO work began immediately on award.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-2603a6a718",
 "source": "The New Yorker, 10 May 2021, quoting NIDS' own description — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "u-newyorker-com-433afd8b",
+"locator": "quoting NIDS' own description",
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+}
+],
 "text": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena'; among the consultants Bigelow hired was Hal Puthoff.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f0a924457e",
 "source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "u-deseret-com-40c3143a",
+"locator": null,
+"title": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News"
+}
+],
 "text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-01d5a13970",
 "source": "The New Yorker, 10 May 2021",
+"sources": [
+{
+"id": "u-newyorker-com-433afd8b",
+"locator": null,
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+}
+],
 "text": "Bigelow shut NIDS down in 2004 but retained Skinwalker Ranch; in 2007 a senior DIA official wrote to him about the ranch, and the AAWSAP contract followed.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "program",

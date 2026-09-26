@@ -1,0 +1,341 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-b50c0f271b",
+"locator": "DoD Appropriations Act 2026",
+"node": "d-funding",
+"nodeLabel": "Funding Channels",
+"sourceText": "P.L. 119-75, DoD Appropriations Act 2026",
+"text": "The Department of Defense Appropriations Act for 2026 (P.L. 119-75) contains general transfer authority at Sections 8005-8009 permitting post-enactment movement of funds between accounts.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-10b27323c4",
+"locator": null,
+"node": "sec-8005-transfer",
+"nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8005 of the DoD Appropriations Act 2026 permits transfer of not to exceed $6,000,000,000 of working capital funds or funds made available in the Act for military functions between appropriations or funds or any subdivision thereof, with OMB approval.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-20e915f42c",
+"locator": null,
+"node": "sec-8005-transfer",
+"nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8006(b) provides that amounts in the explanatory-statement and classified-annex tables shall not be treated as subdivisions of appropriations for purposes of section 8005; section 8005 applies only when transfers occur between appropriation accounts.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-21326c3401",
+"locator": null,
+"node": "sec-8005-transfer",
+"nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8005 requires only that the Secretary 'notify the Congress promptly of all transfers made pursuant to this authority or any other authority in this Act' - notification after the fact, not prior approval.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-afd0386a92",
+"locator": null,
+"node": "sec-8005-transfer",
+"nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "The section 8006(b) carve-out means movements among classified-annex line items inside a single appropriation account are invisible both to the transfer ceiling and to the prompt-notification requirement. Reasoning: the notification duty in section 8005 attaches to transfers 'pursuant to this authority'; if the movement is not a section 8005 transfer because the annex tables are not subdivisions of appropriations, no section 8005 notice is triggered.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-c19ad93b66",
+"locator": null,
+"node": "sec-8009-sap-notice",
+"nodeLabel": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8009, DoD Appropriations Act 2026: 'Funds appropriated by this Act may not be used to initiate, or materially modify the scope of, a special access program without prior notification 30 calendar days in advance to the congressional defense committees.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-a2973c63d3",
+"locator": null,
+"node": "sec-8009-sap-notice",
+"nodeLabel": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8009 binds only funds appropriated by that Act, so it does not reach an activity financed through contractor independent research and development reimbursement, through unvouchered CIA funds under 50 U.S.C. 3510, or through prior-year balances. Reasoning: the prohibition is drafted as a limitation on the use of that Act's appropriations, not as a general prohibition on unnotified SAPs.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-515ead0f22",
+"locator": null,
+"node": "sec-8084-nip-reprogramming",
+"nodeLabel": "Section 8084 - NIP reprogramming notification against classified annex levels",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "The same subsection provides that 'this notification period may be reduced for urgent national security requirements.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-54c1bb5d80",
+"locator": null,
+"node": "sec-8084-nip-reprogramming",
+"nodeLabel": "Section 8084 - NIP reprogramming notification against classified annex levels",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8084(b), DoD Appropriations Act 2026, conditions NIP reprogramming or transfer under 50 U.S.C. 3024(d) that cumulatively increases or decreases 'the levels specified in the classified annex accompanying the Act' on 30 days advance notice to the congressional intelligence committees.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-89f93fe8f3",
+"locator": null,
+"node": "classified-annex",
+"nodeLabel": "The Classified Annex (NDAA and Defense Appropriations)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8006(a), DoD Appropriations Act 2026: the tables in the classified annex accompanying the Act are 'hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d4cd688150",
+"locator": null,
+"node": "classified-annex",
+"nodeLabel": "The Classified Annex (NDAA and Defense Appropriations)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8059, DoD Appropriations Act 2026, directs a continuing classified quarterly report to the Appropriations Defense subcommittees 'on certain matters as directed in the classified annex accompanying this Act.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-99c39116d0",
+"locator": null,
+"node": "classified-annex",
+"nodeLabel": "The Classified Annex (NDAA and Defense Appropriations)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "The classified annex is the single mechanism by which an activity can be simultaneously funded by law and absent from every public document, because the statutory text incorporates it by reference without reproducing it. Reasoning: section 8006(a) equates the annex tables to statutory text; no publication requirement attaches to the annex; therefore an appropriation with full legal force exists that has no public expression at any level of detail.",
+"tier": 3
+}
+],
+"date": "1970",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 1,
+"id": "e-16460b18c3",
+"label": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+"note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "irad-mechanism",
+"label": "Independent Research and Development (IR&D) as a funding channel"
+},
+"b": {
+"cls": "legislation",
+"id": "sec-8009-sap-notice",
+"label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program"
+},
+"claimTier": 3,
+"id": "e-c103bc5c27",
+"label": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
+"note": "Section 8009 attaches to funds appropriated by the Act; contractor IR&D is reimbursed as an allowable indirect cost across a contract portfolio rather than appropriated to a programme. Reasoned inference from the structure of both instruments.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "sec-8009-sap-notice",
+"label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-494c7e9c5b",
+"label": "The appropriations tripwire on initiating or modifying a special access programme",
+"note": "Section 8009 of the FY2026 Defense Appropriations Act bars use of that Act's funds to initiate or materially modify the scope of a SAP without 30 days advance notice to the congressional defense committees; DoD SAPCO is the office that administers the SAP enterprise under the Deputy Secretary. Attested by the statute.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "sec-8084-nip-reprogramming",
+"label": "Section 8084 - NIP reprogramming notification against classified annex levels"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 1,
+"id": "e-f0d4ac776f",
+"label": "NIP reprogramming is measured against levels that exist only in the annex",
+"note": "Section 8084(b) conditions NIP reprogramming notice on cumulative change to 'the levels specified in the classified annex accompanying the Act' - a public statute making the unpublished annex the operative baseline. Attested by the enacted text.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-43c27cf0b9",
+"label": "the second set of numbers, given the same legal force and not printed in the Statutes at Large",
+"note": "Sec. 8006 of the FY2026 DoD Appropriations Act (P.L. 119-75, 3 Feb 2026) provides that obligation and expenditure for the programs, projects and activities listed in the tables in the classified annex 'are hereby required by law to be carried out in the manner provided by such tables.' Money directed by a document the public cannot read, with statutory force, is the definitional case of an unaccounted fund.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"b": {
+"cls": "legislation",
+"id": "sec-8005-transfer",
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+},
+"claimTier": 1,
+"id": "e-b5c0392d90",
+"label": "Annex tables are exempted from the section 8005 transfer ceiling",
+"note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 2,
+"id": "e-b589cbbc34",
+"label": "four of the twelve seats are appropriations leadership",
+"note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
+"type": "funding"
+}
+],
+"era": "1",
+"host": null,
+"id": "pl-119-75",
+"identifiers": [
+"Public Law 119-75"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+{
+"cls": "legislation",
+"id": "sec-8005-transfer",
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+},
+{
+"cls": "legislation",
+"id": "sec-8009-sap-notice",
+"label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program"
+},
+{
+"cls": "legislation",
+"id": "sec-8084-nip-reprogramming",
+"label": "Section 8084 - NIP reprogramming notification against classified annex levels"
+},
+{
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "sec-8005-transfer",
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+},
+"title": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"topics": [
+{
+"claims": [
+"c-10b27323c4",
+"c-20e915f42c",
+"c-21326c3401",
+"c-afd0386a92",
+"c-c19ad93b66",
+"c-a2973c63d3",
+"c-515ead0f22",
+"c-54c1bb5d80",
+"c-89f93fe8f3",
+"c-d4cd688150",
+"c-99c39116d0"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-b50c0f271b",
+"c-10b27323c4",
+"c-20e915f42c",
+"c-21326c3401",
+"c-afd0386a92",
+"c-c19ad93b66",
+"c-515ead0f22",
+"c-54c1bb5d80",
+"c-89f93fe8f3"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-89f93fe8f3"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+},
+{
+"claims": [
+"c-c19ad93b66"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"https://www.govinfo.gov/content/pkg/PLAW-119publ75/pdf/PLAW-119publ75.pdf"
+]
+}

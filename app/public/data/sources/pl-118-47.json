@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-30cbcaae70",
+"locator": null,
+"node": "sec-8005-transfer",
+"nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm",
+"text": "The FY2024 DoD Appropriations Act (P.L. 118-47) carried the same $6,000,000,000 section 8005 ceiling and the same conditions.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "pl-118-47",
+"identifiers": [
+"Public Law 118-47"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "sec-8005-transfer",
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+}
+],
+"node": null,
+"title": "Public Law 118-47",
+"topics": [
+{
+"claims": [
+"c-30cbcaae70"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm"
+]
+}

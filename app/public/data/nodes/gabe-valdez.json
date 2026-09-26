@@ -10,20 +10,38 @@
 {
 "id": "c-2fcc1ab467",
 "source": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-santafenewmexican-com-9bb1f6e2",
+"locator": null,
+"title": "Tom Sharpe, The Santa Fe New Mexican, 'Book claims government behind cattle mutilations'"
+}
+],
 "text": "Gabe Valdez was a New Mexico State Police officer stationed in Dulce in 1976 when he began investigating the deaths of cattle and other animals found with soft tissue removed, and he led the criminal investigation into the unsolved New Mexico livestock mutilations of that decade.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-9ec58d0d87",
 "source": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-santafenewmexican-com-9bb1f6e2",
+"locator": null,
+"title": "Tom Sharpe, The Santa Fe New Mexican, 'Book claims government behind cattle mutilations'"
+}
+],
 "text": "The thesis of the 2013 book written from his case files by his son Greg Valdez, as reported by the newspaper, connects the animal deaths to testing for environmental contamination caused by nuclear work on Jicarilla Apache Nation land in the 1960s, and states that the reports began after Project Gasbuggy and ended around 1980 following an FBI report attributing the incidents to natural predators. This is the book's thesis, reported, and is not endorsed here.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-79c0b803f3",
 "source": "Inference from Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, opened 2026-09-19",
+"sources": [],
 "text": "STATED INFERENCE. The newspaper report carries no statement from Valdez that an underground facility exists at Dulce, although he is routinely cited in the Dulce literature as a supporting official voice. Reasoning: this is a statement about what the opened source does and does not contain, and a later pass should either find a dated statement from Valdez himself or the board should stop treating him as a source for the facility.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

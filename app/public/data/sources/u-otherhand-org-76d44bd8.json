@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-20948c1f9a",
+"locator": null,
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"sourceText": "otherhand.org, 'About me', https://otherhand.org/about-me/ , opened 2026-09-18",
+"text": "His own identification and background, on his site's about page: he is Tom Mahood, he worked as a civil engineer and traffic engineer for Orange County, California, later City Traffic Engineer for Orange, and he holds a Master's degree in physics from Cal State Fullerton.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-otherhand-org-76d44bd8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+}
+],
+"node": null,
+"title": "otherhand.org, 'About me', identifying the author",
+"topics": [
+{
+"claims": [
+"c-20948c1f9a"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/about-me/"
+]
+}

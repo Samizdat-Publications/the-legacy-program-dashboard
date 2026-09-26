@@ -1,0 +1,121 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-644f9ec8a2",
+"locator": null,
+"node": "laurance-rockefeller",
+"nodeLabel": "Laurance S. Rockefeller",
+"sourceText": "Clinton Digital Library collection finding aid, identifier 2006-0480-F",
+"text": "The Clinton Presidential Library holds a FOIA collection (2006-0480-F) consisting of correspondence between President Clinton and Laurance Rockefeller.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+"b": {
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+"claimTier": 3,
+"id": "e-bc1955e500",
+"label": "The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff",
+"note": "Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+"b": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"claimTier": 2,
+"id": "e-2b45f6aabf",
+"label": "Rockefeller financed and directed the 1993-1996 disclosure initiative",
+"note": "Rockefeller Family & Associates funded the effort, its briefing document and its distribution to officials and heads of state.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "marie-galbraith",
+"label": "Marie 'Bootsie' Galbraith"
+},
+"b": {
+"cls": "document",
+"id": "best-available-evidence",
+"label": "UFO Briefing Document: The Best Available Evidence (1995)"
+},
+"claimTier": 2,
+"id": "e-c8e8b97b87",
+"label": "Galbraith compiled 'The Best Available Evidence'",
+"note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"b": {
+"cls": "document",
+"id": "best-available-evidence",
+"label": "UFO Briefing Document: The Best Available Evidence (1995)"
+},
+"claimTier": 2,
+"id": "e-77559c56b0",
+"label": "The briefing document was the initiative's principal instrument",
+"note": "The document was deliberately written as a government-style assessment rather than a popular book.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-clinton-presidentiallibr-d3ddcd62",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Clinton Presidential Library",
+"listedOn": [
+{
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+{
+"cls": "person",
+"id": "marie-galbraith",
+"label": "Marie 'Bootsie' Galbraith"
+},
+{
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+{
+"cls": "document",
+"id": "best-available-evidence",
+"label": "UFO Briefing Document: The Best Available Evidence (1995)"
+}
+],
+"node": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://clinton.presidentiallibraries.us/items/show/36323"
+]
+}

@@ -1,0 +1,191 @@
+{
+"archived": [
+"https://web.archive.org/web/20260508180204/https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-01c6194133",
+"locator": null,
+"node": "flir1-video",
+"nodeLabel": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"sourceText": "AARO SASC open hearing case slides, 19 November 2024",
+"text": "No official assessment of FLIR1 has been published by AARO, unlike GO FAST, Aguadilla and Mt Etna. Reasoning: AARO's 19 Nov 2024 SASC case slides cover the latter three and not FLIR1; absence from a public case-slide deck is not proof no assessment exists, but it is the state of the public record.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-3b6cf1432c",
+"locator": null,
+"node": "gimbal-video",
+"nodeLabel": "GIMBAL (Navy ATFLIR video, January 2015)",
+"sourceText": "AARO SASC open hearing case slides, 19 November 2024",
+"text": "AARO's SASC case slides of 19 November 2024 present assessments of Aguadilla (2013), GO FAST (2015) and Mt Etna (2018); they do not include a GIMBAL case.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4ce6331d37",
+"locator": null,
+"node": "gofast-video",
+"nodeLabel": "GO FAST (Navy ATFLIR video, January 2015)",
+"sourceText": "AARO case slides, Senate Armed Services Committee open hearing, 19 November 2024",
+"text": "AARO assessed GO FAST as an object at approximately 13,000 feet travelling around 45 mph with 60-knot winds; it 'did not demonstrate any anomalous speeds or flight characteristics.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f5e2265055",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "AARO case slides, SASC open hearing, 19 November 2024",
+"text": "GO FAST (January 2015, off Florida's east coast): AARO assessed the object at approximately 13,000 feet travelling about 45 mph with 60-knot winds, concluding it 'did not demonstrate any anomalous speeds or flight characteristics.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "gimbal-video",
+"label": "GIMBAL (Navy ATFLIR video, January 2015)"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-0e1dacadf6",
+"label": "January 2015 ATFLIR artefact from the same operating environment",
+"note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-0705447e89",
+"label": "January 2015 ATFLIR artefact from the same operating environment",
+"note": "GO FAST is the video Gallaudet says was attached to the recalled Fleet Forces Command safety message, and the one AARO later reanalysed on parallax grounds.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "document",
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
+"claimTier": 1,
+"id": "e-a2a85adb8c",
+"label": "AARO parallax reanalysis: no anomalous speed or flight characteristics",
+"note": "AARO's SASC case slides place the object at roughly 13,000 feet at about 45 mph with 60-knot winds. The analysis addresses apparent speed; it does not address the recall of the fleet safety message built on the same footage.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"claimTier": 3,
+"id": "e-de3628391b",
+"label": "AARO's case work does not address the domestic incursion wave",
+"note": "Neither the published case slides nor the FY2025 report present an assessment of the Langley, New Jersey or Barksdale incursions, which are handled as a counter-UAS force-protection matter by NORTHCOM and JIATF-401 instead. Reasoning: absence across all published AARO products, not a stated jurisdictional ruling.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-aaro-mil-9c5f706a",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+{
+"cls": "document",
+"id": "gimbal-video",
+"label": "GIMBAL (Navy ATFLIR video, January 2015)"
+},
+{
+"cls": "document",
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "AARO - SASC open hearing case slides (PDF)",
+"topics": [
+{
+"claims": [
+"c-3b6cf1432c",
+"c-4ce6331d37",
+"c-f5e2265055"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-f5e2265055"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-4ce6331d37"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-4ce6331d37"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+},
+{
+"claims": [
+"c-01c6194133"
+],
+"id": "nimitz-2004",
+"title": "USS Nimitz, November 2004"
+}
+],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+]
+}

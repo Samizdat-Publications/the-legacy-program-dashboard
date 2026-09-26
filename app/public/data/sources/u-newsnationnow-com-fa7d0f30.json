@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-3e8eb6d13a",
+"label": "Broke Grusch's first on-camera whistleblower interview",
+"note": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation's senior special investigations correspondent.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-newsnationnow-com-fa7d0f30",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/"
+]
+}

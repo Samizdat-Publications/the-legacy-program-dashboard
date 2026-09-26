@@ -1,0 +1,104 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-174854b592",
+"locator": null,
+"node": "us-v-pelton-1986",
+"nodeLabel": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"sourceText": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General, https://www.justice.gov/osg/media/218076/dl",
+"text": "Pelton was convicted of conspiracy to commit espionage, espionage and attempted espionage, and unauthorized disclosure of classified information, in the United States District Court for the District of Maryland.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-555d77752f",
+"locator": null,
+"node": "us-v-pelton-1986",
+"nodeLabel": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"sourceText": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
+"text": "The government's brief describes the sentence as concurrent life terms on the espionage and conspiracy counts and a concurrent ten-year term on the unauthorized-disclosure count.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d9dedced37",
+"locator": null,
+"node": "us-v-pelton-1986",
+"nodeLabel": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"sourceText": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
+"text": "On what was compromised the brief says only that Pelton furnished the Soviets information about several classified NSA operations; it does not name any operation, codename, cable, sea area or submarine.",
+"tier": 1
+}
+],
+"date": "1986",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "us-v-pelton-1986",
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)"
+},
+"b": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"id": "e-1f3b80a632",
+"label": "Prosecution of a former NSA employee for compromising NSA operations",
+"note": "Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "us-v-pelton-1986",
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)"
+},
+"b": {
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+"claimTier": 1,
+"id": "e-46e3f4a011",
+"label": "States the fact of a compromise while naming no operation",
+"note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
+"type": "denial"
+}
+],
+"era": "1",
+"host": null,
+"id": "n-us-v-pelton-1986",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "justice.gov",
+"listedOn": [
+{
+"cls": "document",
+"id": "us-v-pelton-1986",
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)"
+}
+],
+"node": {
+"cls": "document",
+"id": "us-v-pelton-1986",
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)"
+},
+"title": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"topics": [
+{
+"claims": [
+"c-d9dedced37"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "document",
+"urls": [
+"https://www.justice.gov/osg/media/218076/dl"
+]
+}

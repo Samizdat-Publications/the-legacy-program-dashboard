@@ -1,0 +1,102 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2991f17faf",
+"locator": null,
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "Sean Kirkpatrick, statement reported by DefenseScoop, 31 July 2023",
+"text": "'The central source of those allegations has refused to speak with AARO' - posted after the 26 July 2023 hearing and authenticated by the Pentagon.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8265d45876",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
+"text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
+"tier": 1
+}
+],
+"date": "2023-07-31",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-1d686c431b",
+"label": "'The central source of those allegations has refused to speak with AARO'",
+"note": "Posted by Kirkpatrick after the 26 July 2023 hearing and authenticated by the Pentagon, calling the hearing insulting to DoD and IC officers. Signatory: Sean M. Kirkpatrick, then AARO director. It contradicts nothing Grusch swore to; it substitutes a procedural complaint for a substantive rebuttal.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-cdd6467e19",
+"label": "Post-hearing statement rebutting the harm claims",
+"note": "Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked.",
+"type": "denial"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-ba3255c2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses",
+"topics": [
+{
+"claims": [
+"c-8265d45876"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-8265d45876"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/"
+]
+}

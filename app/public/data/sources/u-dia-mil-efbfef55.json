@@ -1,0 +1,170 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-0114fb7e71",
+"locator": null,
+"node": "dird-aneutronic-fusion-propulsion",
+"nodeLabel": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2da325cdac",
+"locator": null,
+"node": "dird-aneutronic-fusion-propulsion",
+"nodeLabel": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
+"text": "Defense Intelligence Reference Document titled \"Aneutronic Fusion Propulsion\", series \"Defense Futures\", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-003. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e1a05126bd",
+"locator": null,
+"node": "dird-aneutronic-fusion-propulsion",
+"nodeLabel": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
+"text": "Released PDF is 50 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f5dcf54d2b",
+"locator": null,
+"node": "dird-aneutronic-fusion-propulsion",
+"nodeLabel": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+},
+"claimTier": 1,
+"id": "e-77a644f6e0",
+"label": "deliverable under AAWSAP",
+"note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+},
+"claimTier": 1,
+"id": "e-99b8cc33d1",
+"label": "published and holds; DIA-08-1011-003",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+},
+"claimTier": 1,
+"id": "e-dcbe220747",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1011-003. Publication date 01 November 2010 on the cover. 50 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+},
+"claimTier": 1,
+"id": "e-dd360f0aa0",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "vincent-teofilo",
+"label": "Vincent L. Teofilo"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-2ccc2917d3",
+"label": "commissioned subject-matter author",
+"note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth"
+},
+"b": {
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+},
+"claimTier": 2,
+"id": "e-86b3aad84e",
+"label": "authored (attribution by elimination, see note)",
+"note": "TIER 2 AND DELIBERATELY SO. The DIA list establishes at tier 1 that two aneutronic fusion DIRDs exist, one by V. Teofilo (Lockheed Martin) and one by W. Culbreth (UNLV). Which released document number belongs to which author is NOT stated on either cover, both of which redact the author under (b)(6). This document, DIA-08-1011-003, is assigned to Culbreth because the companion DIA-08-1011-004 carries a V. Teofilo self-citation at endnote 17 and Lockheed Martin content, while this one carries none of either and is instead saturated with Nevada Test Site, Project Rover and NERVA material plus nuclear engineering textbook citations. If the mapping is ever shown to be reversed, this edge and its partner must be swapped together.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dia-mil-efbfef55",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+}
+],
+"node": null,
+"title": "DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/"
+]
+}

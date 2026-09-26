@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-55fff6f14f",
+"locator": null,
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "DefenseScoop, 30 August 2023",
+"text": "AARO's director reports directly to the Deputy Secretary of Defense following a summer 2023 change from the USD(I&S) chain.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4a21dba56e",
+"locator": null,
+"node": "kathleen-hicks",
+"nodeLabel": "Kathleen H. Hicks",
+"sourceText": "DefenseScoop, 30 August 2023",
+"text": "In summer 2023 Hicks took direct oversight of AARO, repositioning its director to report to her rather than through USD(I&S).",
+"tier": 1
+}
+],
+"date": "2023-08-30",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kathleen-hicks",
+"label": "Kathleen H. Hicks"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-c6c919e0c5",
+"label": "took direct oversight; AARO director reports to her from summer 2023",
+"note": "Weeks after Grusch testified, Hicks pulled AARO out of the USD(I&S) chain and made its director report directly to the Deputy Secretary of Defense.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-c0cea468",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+{
+"cls": "person",
+"id": "kathleen-hicks",
+"label": "Kathleen H. Hicks"
+}
+],
+"node": null,
+"title": "DefenseScoop - Hicks takes direct oversight of Pentagon's UAP office",
+"topics": [
+{
+"claims": [
+"c-55fff6f14f"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2023/08/30/hicks-takes-direct-oversight-of-pentagons-uap-office-new-reporting-website-to-be-launched/"
+]
+}

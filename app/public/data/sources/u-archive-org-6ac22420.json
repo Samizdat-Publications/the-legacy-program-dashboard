@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-99acb0f550",
+"locator": null,
+"node": "john-lear",
+"nodeLabel": "John Olsen Lear",
+"sourceText": "John Lear's Dec. 29, 1987 Statement, Internet Archive item uploaded by Rich Geldreich 10 June 2023, https://archive.org/details/john-lear-statement-1987 , opened 2026-09-18",
+"text": "HIS OWN CLAIM DOCUMENT IS DATED AND PRECEDES LAZAR. A statement by Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation, survives in the BSRA/BSRF holdings at the Archives for the Unexplained and was, on the uploader's account, circulated on the ParaNet bulletin board in early 1988. This is roughly eighteen months before Lazar reached KLAS-TV. The item record was opened; the statement's text was not rendered by the fetch and no content from it is asserted.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-5071112b19",
+"label": "His dated 1987 statement reached the field through ParaNet in early 1988",
+"note": "Chronologically important: his public claim document predates Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. The statement's text was not rendered by the fetch and no content from it is asserted.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-6ac22420",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+}
+],
+"node": null,
+"title": "John Lear's Dec. 29, 1987 Statement, Internet Archive item record and provenance note",
+"topics": [
+{
+"claims": [
+"c-99acb0f550"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-99acb0f550"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/john-lear-statement-1987"
+]
+}

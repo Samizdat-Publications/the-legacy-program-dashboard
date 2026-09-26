@@ -7,20 +7,32 @@
 {
 "id": "c-17700a970f",
 "source": "FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault",
+"sources": [
+{
+"id": "n-hottel-memo",
+"locator": null,
+"title": "Guy Hottel memorandum, 22 March 1950"
+}
+],
 "text": "The memorandum is dated 22 March 1950, authored by Guy Hottel, special agent in charge of the FBI's Washington Field Office, and describes three circular craft of approximately fifty feet diameter recovered in New Mexico, each with three humanoid bodies three feet tall in metallic cloth, attributed to high-powered radar interference; it concludes 'No further evaluation was attempted.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f1f3c201e4",
 "source": "FBI public statements on the Hottel memorandum",
+"sources": [],
 "text": "The FBI has described the memo as relaying a second- or third-hand claim that the Bureau never investigated, and it became the most-viewed document on The Vault after that reading room launched in April 2011.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:vault.fbi.gov) was rejected in review: FBI statements, not the memo; candidate is Vault home"
 },
 {
 "id": "c-09e8f0a4be",
 "source": "Inference from the document's own closing line",
+"sources": [],
 "text": "The memo's evidentiary value is as a dated marker for the circulation of the multiple-disc recovery narrative in official channels before Scully's book was published, not as evidence of a recovery. Reasoning: the document self-reports that no evaluation was attempted, so it records a rumour's reach rather than a fact's verification.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

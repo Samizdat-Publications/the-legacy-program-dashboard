@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8e19cc8adb",
+"locator": null,
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "Lt Col Robert R. Hippler to Dr Edward U. Condon, 16 January 1967, Headquarters United States Air Force, pages 1 and 2, https://www.nicap.org/docs/HipplerLetters.pdf",
+"text": "Lt Col Robert R. Hippler of the Science Division, Directorate of Science and Technology, Headquarters USAF, wrote to Condon on 16 January 1967: 'When you have looked into some sightings and examined some Blue Book records and become acquainted with the true state of affairs, you must consider the cost of the Air Force program on UFOs, and determine if the taxpayer should support this for the next decade.' The letter calls itself informal, says it expresses Hippler's own opinion and 'is not binding on you', and names its second subject as 'an apparently obscure understanding of what the Air Force wants'. Two Michels speakers describe this memo from memory without producing it; this is the document.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e9e9bd9a87",
+"locator": null,
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"sourceText": "Robert J. Low to Lt Col Robert Hippler, 27 January 1967, University of Colorado, page 2, https://www.nicap.org/docs/HipplerLetters.pdf",
+"text": "Low replied to Hippler on 27 January 1967, copying Condon: 'On the second page, you indicate what you believe the Air Force wants of us, and I am very glad to have your opinion.' He adds that Hippler has 'answered quite directly the question that I asked' and that he had come back to that question a couple of times at their meeting on Thursday evening, 12 January. The project coordinator who wrote the 9 August 1966 trick memo is on the record five months later asking the Air Force what it wanted and thanking it for the answer.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-978369c13d",
+"locator": null,
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"sourceText": "Lt Col Robert R. Hippler to Dr Edward U. Condon, 16 January 1967, page 2, https://www.nicap.org/docs/HipplerLetters.pdf",
+"text": "The Air Force put the answer it wanted to the project in writing three months into the contract. Hippler's letter to Condon of 16 January 1967 continues: 'It will be at least that long before another independent study can be mounted to see if the Air Force can get out from under this program.' It closes by telling Condon that if the contract expires before the groundwork for a recommendation is laid, extending the contract 'would be less costly than another decade of operating Project Blue Book.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-nicap-org-bbecb434",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+{
+"cls": "person",
+"id": "robert-low",
+"label": "Robert J. Low"
+},
+{
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+}
+],
+"node": null,
+"title": "Hippler to Condon, 16 January 1967, with Low to Hippler, 27 January 1967 (NICAP document archive scan)",
+"topics": [
+{
+"claims": [
+"c-8e19cc8adb",
+"c-e9e9bd9a87",
+"c-978369c13d"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-978369c13d"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-978369c13d"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "document",
+"urls": [
+"https://www.nicap.org/docs/HipplerLetters.pdf"
+]
+}

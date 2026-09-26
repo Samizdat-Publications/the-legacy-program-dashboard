@@ -1,0 +1,61 @@
+{
+"archived": [],
+"claims": [],
+"date": "2009-05-21",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 2,
+"id": "e-ccbf092f20",
+"label": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
+"note": "The allegation rests on the coincidence of timing between the 1947 recovery, the 1948-49 Battelle NiTi work, and the absence of the reports from both archives. No document connects the two directly.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-a028df5723",
+"label": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
+"note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
+"type": "funding"
+}
+],
+"era": "2",
+"host": null,
+"id": "u-heraldtribune-com-08598bcd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "heraldtribune.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+}
+],
+"node": null,
+"title": "Sarasota Herald-Tribune - Memory-metal files are missing",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.heraldtribune.com/story/news/2009/05/21/memory-metal-files-are-missing/28868099007/"
+]
+}

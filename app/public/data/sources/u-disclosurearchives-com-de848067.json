@@ -1,0 +1,125 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6726b253e3",
+"locator": null,
+"node": "aaro-2025-workshop-white-paper",
+"nodeLabel": "AARO 2025 UAP workshop white paper (February 2026)",
+"sourceText": "https://disclosurearchives.com/aaro-releases",
+"text": "The August 2025 AARO data-standardisation workshop produced a white paper published in February 2026 recommending standardised metadata templates, AI with human oversight, and open narrative reporting.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-6af89f358d",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "Disclosure Archives AARO release chronology",
+"text": "AARO held a private workshop on UAP data standardisation with civilian researchers and academia on 1 August 2025.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-f44f24a7d1",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "Disclosure Archives AARO release chronology",
+"text": "A UAP Science Advisory Council formation was announced on 17 June 2026.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-2025-workshop-white-paper",
+"label": "AARO 2025 UAP workshop white paper (February 2026)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-e34fc1c2ae",
+"label": "recommendations the release programme did not adopt",
+"note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-2dc09b6bdd",
+"label": "Council announced 17 June 2026, between Releases 03 and 04",
+"note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-disclosurearchives-com-de848067",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "disclosurearchives.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-2025-workshop-white-paper",
+"label": "AARO 2025 UAP workshop white paper (February 2026)"
+},
+{
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+{
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+{
+"cls": "document",
+"id": "pursue-r05-identifiers",
+"label": "PURSUE Release 05 file identifiers (7 August 2026)"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "Disclosure Archives - AARO releases index",
+"topics": [
+{
+"claims": [
+"c-6af89f358d"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "web page",
+"urls": [
+"https://disclosurearchives.com/aaro-releases"
+]
+}

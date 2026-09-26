@@ -7,8 +7,10 @@
 {
 "id": "c-6edbcface9",
 "source": "Published institutional record",
+"sources": [],
 "text": "Loeb has directed the Institute for Theory and Computation at the Harvard-Smithsonian Center for Astrophysics since 2007; the Galileo Project's first telescope was installed at Harvard College Observatory in 2022.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:cfa.harvard.edu/research/galileo-project) was rejected in review: generic string names no specific page"
 }
 ],
 "cls": "institution",

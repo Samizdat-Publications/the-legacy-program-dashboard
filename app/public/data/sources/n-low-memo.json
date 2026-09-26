@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-81d21fa2fa",
+"locator": null,
+"node": "l-boulder-co",
+"nodeLabel": "Boulder, Colorado",
+"sourceText": "Robert J. Low memorandum, 9 August 1966, University of Colorado project files — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Low's memorandum of 9 August 1966 stated the study would be 'conducted almost entirely by non-believers' and would present 'the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer'; it became public in July 1967 when James E. McDonald found it in project files.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-9b105f3ec5",
+"locator": null,
+"node": "low-memo",
+"nodeLabel": "Low Memorandum (\"the trick would be...\")",
+"sourceText": "Robert J. Low memorandum to University of Colorado administrators, 9 August 1966",
+"text": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2cdcf61551",
+"locator": null,
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"sourceText": "Low memorandum, 9 Aug 1966",
+"text": "The same memo states the study 'would be conducted almost entirely by nonbelievers' who 'could and probably would add an impressive body of thick evidence that there is no reality to the observations.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e818b62e59",
+"locator": null,
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"sourceText": "Robert J. Low, internal memorandum to University of Colorado administrators, 9 Aug 1966",
+"text": "Low wrote on 9 August 1966: 'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-a599eab8b9",
+"locator": null,
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"sourceText": "Low memorandum, 9 Aug 1966, University of Colorado",
+"text": "Robert Low's memorandum of 9 August 1966 states 'the trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"tier": 1
+}
+],
+"date": "1966",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "n-low-memo",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"title": "Low Memorandum (\"the trick would be...\")",
+"topics": [
+{
+"claims": [
+"c-81d21fa2fa",
+"c-9b105f3ec5",
+"c-2cdcf61551"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-a599eab8b9"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "document",
+"urls": []
+}

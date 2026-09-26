@@ -7,8 +7,16 @@
 {
 "id": "c-8f1ebdd1b7",
 "source": "NSF NCSES Master Government List of FFRDCs, FY2026",
+"sources": [
+{
+"id": "u-ncses-nsf-gov-c5846988",
+"locator": null,
+"title": "NSF NCSES - Master Government List of Federally Funded R&D Centers"
+}
+],
 "text": "Project AIR FORCE, the Arroyo Center and the National Defense Research Institute are registered at Santa Monica, California; the Homeland Security Operational Analysis Center is at Arlington, Virginia.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "location",

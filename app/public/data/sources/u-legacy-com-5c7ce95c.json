@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b455e754a4",
+"locator": null,
+"node": "vincent-teofilo",
+"nodeLabel": "Vincent L. Teofilo",
+"sourceText": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
+"text": "Teofilo held a PhD in physics from New York University, taught at Princeton where he operated the university nuclear reactor, worked on fusion reactor development at Westinghouse, Pacific Northwest National Laboratory, Physics International and Bechtel, and spent 28 years at Lockheed Martin Space Systems. He died 10 January 2026, aged 81.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "vincent-teofilo",
+"label": "Vincent L. Teofilo"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-e899738000",
+"label": "physicist, Lockheed Martin Space Systems, 28 years",
+"note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-legacy-com-5c7ce95c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "legacy.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "vincent-teofilo",
+"label": "Vincent L. Teofilo"
+}
+],
+"node": null,
+"title": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077"
+]
+}

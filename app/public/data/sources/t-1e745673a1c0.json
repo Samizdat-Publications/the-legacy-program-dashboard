@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-ea97b984c9",
+"locator": null,
+"node": "shag-harbour-1967",
+"nodeLabel": "Shag Harbour incident, 4 October 1967",
+"sourceText": "Randle interviewed by Robert Sheaffer, Skeptical Inquirer",
+"text": "Kevin Randle, who has grown notably more sceptical about Roswell, has stated that Shag Harbour is one of the two cases he still regards as possibly involving a genuine crash.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "t-1e745673a1c0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Skeptical Inquirer",
+"listedOn": [],
+"node": null,
+"title": "Randle interviewed by Robert Sheaffer, Skeptical Inquirer",
+"topics": [
+{
+"claims": [
+"c-ea97b984c9"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
+"type": "article",
+"urls": []
+}

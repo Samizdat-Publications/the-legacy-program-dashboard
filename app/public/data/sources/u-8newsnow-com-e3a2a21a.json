@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-8a6969f493",
+"label": "constituent relationship behind the appropriation",
+"note": "Reid has said publicly that Bigelow's interest and briefings prompted him to pursue the funding; both men are Nevadans and the contract went to a Nevada firm.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-8newsnow-com-e3a2a21a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "KLAS 8 News Now",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "person",
+"id": "ted-stevens",
+"label": "Theodore F. Stevens"
+}
+],
+"node": null,
+"title": "KLAS 8 News Now — Former Sen. Harry Reid talks UFOs in sit-down interview",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.8newsnow.com/investigators/i-team-former-sen-harry-reid-talks-ufos-in-sit-down-interview/"
+]
+}

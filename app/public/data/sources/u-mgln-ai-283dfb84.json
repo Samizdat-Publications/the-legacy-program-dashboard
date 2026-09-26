@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5e831a1641",
+"locator": null,
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "American Alchemy with Jesse Michels, '\"There's A UFO Under the Ranch!\" - Skinwalker Owner Breaks Silence', 26 July 2026, 2:39:07 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+"text": "On American Alchemy with Jesse Michels, 26 July 2026, Skinwalker Ranch owner Brandon Fugal said that Kirkpatrick 'claimed that before 2022 he had no interest in these topics, that he'd never attended a briefing on Skinwalker Ranch', and that he had never met Fugal. Fugal said Kirkpatrick sat across from him for two and a half hours at a confidential briefing in April 2018 devoted to the investigation and findings at the ranch, and that after being challenged by Steven Greenstreet of the New York Post he published a photograph of Kirkpatrick in attendance to Twitter, LinkedIn, Instagram and Facebook (2:39:07 to 2:41:12).",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0c220a0c85",
+"locator": null,
+"node": "travis-taylor",
+"nodeLabel": "Travis S. Taylor",
+"sourceText": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:17:46 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+"text": "On American Alchemy with Jesse Michels, 26 July 2026, Brandon Fugal said the Skinwalker Ranch team did not know Taylor had been made chief scientist of the UAP Task Force while he was returning seasonally to work on the ranch investigation, that Taylor was under national security oaths and confidentiality and 'didn't breach that not even once', and that the team learned only once he had authorisation to disclose it. Fugal said members of his team, including his head of security, initially felt betrayed (2:17:46 to 2:18:44).",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-cd477a7d4a",
+"locator": null,
+"node": "travis-taylor",
+"nodeLabel": "Travis S. Taylor",
+"sourceText": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:19:37 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+"text": "In the same episode Fugal stated the direction of the connection: that the reason Taylor 'was called in and called to that position in large part was was really because of uh the work at' Skinwalker Ranch, and that before being brought to the ranch Taylor had no experience of the subject and was a vocal skeptic (2:16:52, 2:19:37).",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-283dfb84",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+{
+"cls": "person",
+"id": "travis-taylor",
+"label": "Travis S. Taylor"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, episode audio",
+"topics": [
+{
+"claims": [
+"c-5e831a1641",
+"c-0c220a0c85",
+"c-cd477a7d4a"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-5e831a1641"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3"
+]
+}

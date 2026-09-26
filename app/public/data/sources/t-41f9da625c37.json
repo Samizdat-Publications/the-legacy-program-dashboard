@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6d39e2420f",
+"locator": null,
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "John G. Fuller, 'Flying Saucer Fiasco', Look magazine, May 1968",
+"text": "Condon fired investigators David Saunders and Norman Levine after the Low memo was circulated; they contemplated legal action alleging an unscientific approach.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a1d5dc8a4c",
+"locator": null,
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"sourceText": "John G. Fuller, 'Flying Saucer Fiasco', Look, May 1968",
+"text": "Publication of the memo in Look magazine in May 1968 characterised the project as a '$500,000 trick' and precipitated the firing of Saunders and Levine.",
+"tier": 2
+}
+],
+"date": "1968-05",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "t-41f9da625c37",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Look magazine",
+"listedOn": [],
+"node": null,
+"title": "Flying Saucer Fiasco",
+"topics": [
+{
+"claims": [
+"c-6d39e2420f"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "article",
+"urls": []
+}

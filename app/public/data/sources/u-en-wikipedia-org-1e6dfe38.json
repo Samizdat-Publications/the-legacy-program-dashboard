@@ -1,0 +1,129 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-28668eb7e1",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)",
+"text": "In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at 'Hangar 18' at Wright-Patterson AFB, 'prompting official denials from the Air Force'; in later years 'many accounts, allegedly first-hand, of the Roswell crash contained the Aztec crash story'.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-41c5cda83e",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The story 'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-969e454d3e",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax and https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ",
+"text": "'The incident gave birth to the Aztec UFO Symposium, which was run by the Aztec, New Mexico, library as a fundraiser from 1997 until 2011.' Revisionist defences were published by Scott Ramsey, Suzanne Ramsey and Frank Thayer as 'The Aztec Incident: Recovery at Hart Canyon' and 'The Aztec UFO Incident'.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-e525a37b15",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and 'the military had taken the craft for secret research'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "location",
+"id": "l-aztec",
+"label": "Aztec, New Mexico"
+},
+"claimTier": 2,
+"id": "e-f4b689bd5b",
+"label": "alleged crash site",
+"note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 2,
+"id": "e-b06cb056e2",
+"label": "detail donor to later Roswell accounts",
+"note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-79d192179c",
+"label": "Air Force denials of Hangar 18 bodies",
+"note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-1e6dfe38",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+}
+],
+"node": null,
+"title": "citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)",
+"topics": [
+{
+"claims": [
+"c-28668eb7e1",
+"c-969e454d3e",
+"c-e525a37b15"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+]
+}

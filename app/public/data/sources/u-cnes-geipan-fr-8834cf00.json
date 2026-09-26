@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-ce12a5c8a7",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf",
+"text": "GEPAN's investigation of the Trans-en-Provence physical-trace case of 8 January 1981 was published as Note Technique n° 16, 'Analyse d'une trace', CNES Toulouse, and remains hosted on the GEIPAN site.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-cnes-geipan-fr-8834cf00",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CNES GEIPAN",
+"listedOn": [
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+}
+],
+"node": null,
+"title": "https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf",
+"topics": [
+{
+"claims": [
+"c-ce12a5c8a7"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "document",
+"urls": [
+"https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf"
+]
+}

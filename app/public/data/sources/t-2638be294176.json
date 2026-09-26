@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-46d7c5e1e9",
+"locator": null,
+"node": "gerald-ford",
+"nodeLabel": "Gerald R. Ford",
+"sourceText": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
+"text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress).",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-e9690c3480",
+"locator": null,
+"node": "hearing-1966-04-05",
+"nodeLabel": "House Armed Services Committee UFO Hearing",
+"sourceText": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
+"text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress) following Gerald Ford's call for an inquiry.",
+"tier": 2
+}
+],
+"date": "1966-04-05",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "t-2638be294176",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "US House Committee on Armed Services",
+"listedOn": [],
+"node": null,
+"title": "Unidentified Flying Objects', Hearing No. 55, 89th Congress",
+"topics": [
+{
+"claims": [
+"c-e9690c3480"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-e9690c3480"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "hearing record",
+"urls": []
+}

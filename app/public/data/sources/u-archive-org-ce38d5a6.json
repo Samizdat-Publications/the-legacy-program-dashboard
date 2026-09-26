@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d38fd72d69",
+"locator": null,
+"node": "walter-bedell-smith",
+"nodeLabel": "Walter Bedell Smith",
+"sourceText": "H. Marshall Chadwell, Memorandum to Director of Central Intelligence, subject: Flying Saucers, 2 October 1952, CIA document C00015339, para. 4 and routing page, https://archive.org/details/cia-readingroom-document-0005515933",
+"text": "He is named as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and on the released copy the approval was never recorded. The 2 October 1952 routing page reads 'ACTION BY APPROVING AUTHORITY: Date: ____ Approved (disapproved): ____ WALTER B. SMITH, Director'; both lines are blank. The recommendation itself is action (b): 'That the DCI discuss this subject with the Psychological Strategy Board. A memorandum to the Director, Psychological Strategy Board, is attached for signature as TAB C.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell"
+},
+"b": {
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+},
+"claimTier": 1,
+"id": "e-fff68adc9a",
+"label": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+"note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-archive-org-ce38d5a6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+}
+],
+"node": null,
+"title": "CIA document C00015339, Chadwell to the DCI, 2 October 1952",
+"topics": [
+{
+"claims": [
+"c-d38fd72d69"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-d38fd72d69"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-0005515933"
+]
+}

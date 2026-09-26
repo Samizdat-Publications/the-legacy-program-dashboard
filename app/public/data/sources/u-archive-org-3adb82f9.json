@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-70e77a8eb7",
+"locator": null,
+"node": "don-schmitt",
+"nodeLabel": "Donald R. Schmitt",
+"sourceText": "Library catalogue record, Internet Archive isbn_9780380778034",
+"text": "Schmitt is joint author of record on 'The truth about the UFO crash at Roswell' (1994); some printings misspell his name as 'Schmit' on the title page.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-3adb82f9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "don-schmitt",
+"label": "Donald R. Schmitt"
+}
+],
+"node": null,
+"title": "The truth about the UFO crash at Roswell - catalogue record",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/isbn_9780380778034"
+]
+}

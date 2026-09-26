@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6ca4eca509",
+"locator": null,
+"node": "cia-prepublication-classification-review-board",
+"nodeLabel": "CIA Prepublication Classification Review Board",
+"sourceText": "Declaration of Mark S. Zaid, Esq., Stillman v. Department of Energy, D.D.C. No. 01-01342 (EGS), 16 August 2001, https://sgp.fas.org/news/2001/08/zaid.html",
+"text": "Mark S. Zaid was attorney of record for the plaintiff in Danny B. Stillman v. Department of Energy, United States District Court for the District of Columbia, Civil Action No. 01-01342 (EGS), and stated in his declaration of 16 August 2001 that he specialises in litigating national security cases including those involving the First Amendment.",
+"tier": 1
+}
+],
+"date": "2001-08",
+"edges": [],
+"era": "2",
+"host": "Federation of American Scientists",
+"id": "u-sgp-fas-org-550d94b4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board"
+}
+],
+"node": null,
+"title": "Declaration of Mark S. Zaid, Esq., Stillman v. Department of Energy, D.D.C. Civil Action No. 01-01342 (EGS), 16 August 2001",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/news/2001/08/zaid.html"
+]
+}

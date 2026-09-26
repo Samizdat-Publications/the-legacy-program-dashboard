@@ -7,50 +7,113 @@
 {
 "id": "c-8a606a2db2",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": null,
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+}
+],
 "text": "Section 503 of the National Security Act of 1947. Subsection (c)(2) permits the President, on a determination that 'it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States,' to report a covert action finding only to the chairmen and ranking minority members of the intelligence committees, the Speaker and minority leader of the House, and the majority and minority leaders of the Senate -- the actual statutory Gang of Eight.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-34b61fa45b",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": null,
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+}
+],
 "text": "Subsection (c)(3) permits a finding not to be reported in advance at all in extraordinary circumstances, requiring only that the President thereafter report 'in a timely fashion' with 'a statement of the reasons for not giving prior notice.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c5ec263666",
 "source": "50 U.S.C. 3093(c)(2)",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": "c)(2",
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+}
+],
 "text": "50 U.S.C. 3093(c)(2) permits a covert action finding to be reported to 'the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-219a4b7267",
 "source": "50 U.S.C. 3093(c)(3)",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": "c)(3",
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+}
+],
 "text": "50 U.S.C. 3093(c)(3) permits a finding not to be reported in advance at all, requiring only that the President thereafter 'fully inform the congressional intelligence committees in a timely fashion' with 'a statement of the reasons for not giving prior notice'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a12fee7238",
 "source": "50 U.S.C. 3093(c)(5)(B)",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": "c)(5)(B",
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+}
+],
 "text": "50 U.S.C. 3093(c)(5)(B) requires that within 180 days of a statement of reasons for limited access the President ensure that all members of the intelligence committees get access, or submit a further statement of reasons.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ab5b73bd10",
 "source": "50 U.S.C. 3093(d)(2)",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": "d)(2",
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+}
+],
 "text": "50 U.S.C. 3093(d)(2) lists among the factors making an undertaking significant whether it 'requires an expansion of existing authorities, including authorities relating to research, development, or operations' and whether it 'results in the expenditure of significant funds or other resources'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1951dc465b",
 "source": "ICD 906, section C.3",
+"sources": [],
 "text": "ICD 906 section C.3 records that the IC controlled access program regime does not apply to 'special access programs under the purview of the National Security Council, such as covert action'.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:icd-906) was rejected in review: cited ICD supersedes the 2015 version the candidate dates"
 },
 {
 "id": "c-3ad0ef71bc",
 "source": "50 U.S.C. 3093(c) read against 10 U.S.C. 119(f)",
+"sources": [
+{
+"id": "usc-50-3093",
+"locator": "c) read against 10 U.S.C. 119(f",
+"title": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+},
+{
+"id": "usc-10-119",
+"locator": "f",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "An activity characterised as covert action is reportable to no defense committee at all, and under 3093(c)(3) need not be reported to anyone in advance - making it the only regime weaker on prior notice than a waived DoD special access program. Reasoning: 3093 runs solely to the intelligence committees or the Gang of Eight, and (c)(3) removes even that.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",
@@ -200,7 +263,7 @@
 ],
 "sub": "statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 285 of 1138, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 287 of 1138, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [],
 "unverified": []
 }

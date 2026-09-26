@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-ac32669243",
+"label": "First television interview; origin of the biologics and dead pilots statements",
+"note": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-newsnationnow-com-797df0b8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+}
+],
+"node": null,
+"title": "NewsNation - Military whistleblower claims US has UFO retrieval program",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/military-whistleblowe-us-ufo-retrieval-program/"
+]
+}

@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-29d7e08515",
+"locator": "source credit and amendment notes, Office of the Law Revision Counsel",
+"node": "janap-146",
+"nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+"sourceText": "18 U.S.C. 793, source credit and amendment notes, Office of the Law Revision Counsel; read against JANAP 146(C) and (E)",
+"text": "JANAP states no dollar figure and no term of imprisonment in any revision read. It incorporates 18 U.S.C. 793, whose penalty from the Act of June 25, 1948 until 1994 was a fine of not more than $10,000 or imprisonment of not more than ten years, or both: the amendment note records that 'Pub. L. 103-322 substituted fined under this title for fined not more than $10,000'. The $10,000 figure must be attributed to 18 U.S.C. 793, never to JANAP 146.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "usc-18-793",
+"identifiers": [
+"18 U.S.C. 793"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+}
+],
+"node": null,
+"title": "18 U.S.C. 793",
+"topics": [
+{
+"claims": [
+"c-29d7e08515"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section793&num=0&edition=prelim"
+]
+}

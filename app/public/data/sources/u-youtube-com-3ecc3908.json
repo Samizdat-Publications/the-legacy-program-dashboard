@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-83f11537c4",
+"locator": null,
+"node": "d-recovery",
+"nodeLabel": "Retrieval & Recovery Operations",
+"sourceText": "American Alchemy - Jake Barber interview, 30 January 2025",
+"text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "person",
+"id": "jake-barber",
+"label": "Jake Barber"
+},
+"claimTier": 2,
+"id": "e-ad78872750",
+"label": "Michels published Barber's crash-retrieval account",
+"note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-3ecc3908",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "jake-barber",
+"label": "Jake Barber"
+},
+{
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+{
+"cls": "domain",
+"id": "d-recovery",
+"label": "Retrieval & Recovery Operations"
+},
+{
+"cls": "institution",
+"id": "skywatcher",
+"label": "Skywatcher"
+}
+],
+"node": null,
+"title": "American Alchemy - Jake Barber interview",
+"topics": [
+{
+"claims": [
+"c-83f11537c4"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=dnnpyNuPdXs"
+]
+}

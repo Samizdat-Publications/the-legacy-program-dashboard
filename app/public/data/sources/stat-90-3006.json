@@ -1,0 +1,105 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-67bae85cc3",
+"locator": null,
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Eric Olson and Nils Olson v. United States of America, Civil Action No. 12-1924 (JEB), United States District Court for the District of Columbia, memorandum opinion filed 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
+"text": "The 2012 suit was brought in the District of Columbia, not Maryland, and was dismissed in 2013 without reaching the merits: 'Concluding that most of the allegations are both untimely and waived by a prior settlement agreement, and that any timely or preserved claims fall outside of the United States' waiver of sovereign immunity, the Court will grant the Government's Motion.' The same opinion records that 'the skeptical reader may wish to know that the public record supports many of the allegations that follow, farfetched as they may sound.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-9994754efa",
+"locator": "1976), quoted in full in Olson v. United States, No. 12-1924 (JEB), D.D.C., memorandum opinion of 17 July 2013",
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Private Law 94-126, 90 Stat. 3006 (1976), quoted in full in Olson v. United States, No. 12-1924 (JEB), D.D.C., memorandum opinion of 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
+"text": "Congress compensated the family by private statute. Private Law 94-126, 90 Stat. 3006 (1976), directs payment of 'the sum of $187,500 each to Alice W. Olson, Lisa Olson Hayward, Eric Olson, and Nils Olson, in full settlement of all of their claims against the United States arising out of the death of Doctor Frank R. Olson in November 1953, if all of them waive any and all rights arising out of such death.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-9994754efa",
+"locator": null,
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Private Law 94-126, 90 Stat. 3006 (1976), quoted in full in Olson v. United States, No. 12-1924 (JEB), D.D.C., memorandum opinion of 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
+"text": "Congress compensated the family by private statute. Private Law 94-126, 90 Stat. 3006 (1976), directs payment of 'the sum of $187,500 each to Alice W. Olson, Lisa Olson Hayward, Eric Olson, and Nils Olson, in full settlement of all of their claims against the United States arising out of the death of Doctor Frank R. Olson in November 1953, if all of them waive any and all rights arising out of such death.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+},
+"b": {
+"cls": "domain",
+"id": "d-litigation",
+"label": "Litigation"
+},
+"claimTier": 1,
+"id": "e-96ed08c5d6",
+"label": "2012 suit dismissed 2013 on the 1976 waiver, timeliness and sovereign immunity",
+"note": "The District of Columbia granted the Government's motion to dismiss without reaching the merits, while recording that the public record supports many of the allegations pleaded.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "stat-90-3006",
+"identifiers": [
+"90 Stat. 3006"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+}
+],
+"node": null,
+"title": "90 Stat. 3006",
+"topics": [
+{
+"claims": [
+"c-67bae85cc3",
+"c-9994754efa",
+"c-9994754efa"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-67bae85cc3",
+"c-9994754efa",
+"c-9994754efa"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-67bae85cc3",
+"c-9994754efa",
+"c-9994754efa"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
+]
+}

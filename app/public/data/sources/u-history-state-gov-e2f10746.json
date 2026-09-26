@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-28a9756da6",
+"locator": null,
+"node": "sidney-souers",
+"nodeLabel": "Rear Adm. Sidney W. Souers",
+"sourceText": "Minutes of the First Meeting of the National Security Council, 26 September 1947, NARA RG 273, NSC Minutes, 1st Meeting, Secret; FRUS, 1945-1950, Emergence of the Intelligence Establishment, Document 225, https://history.state.gov/historicaldocuments/frus1945-50Intel/d225",
+"text": "At the National Security Council's first meeting on 26 September 1947 he is listed among those present as 'Sidney W. Souers, Executive Secretary, National Security Council', alongside the Director of Central Intelligence. The Council's own first decisions route attendance and scheduling through the Executive Secretary, authorise him 'to control, supervise, and administer funds which have been or hereafter may be made available to the National Security Council, with full powers with respect thereto', and record that 'The affairs of the Council will be conducted with the utmost secrecy.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+},
+"b": {
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+},
+"claimTier": 1,
+"id": "e-7f55007a7e",
+"label": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
+"note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-history-state-gov-e2f10746",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+}
+],
+"node": null,
+"title": "FRUS 1945-50 Intel, Doc. 225 and List of Persons",
+"topics": [
+{
+"claims": [
+"c-28a9756da6"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1945-50Intel/d225"
+]
+}

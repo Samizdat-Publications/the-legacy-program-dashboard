@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "jiatf-401",
+"label": "Joint Interagency Task Force 401 (JIATF-401)"
+},
+"b": {
+"cls": "event",
+"id": "barksdale-2026-incursions",
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+},
+"claimTier": 2,
+"id": "e-baa1666c7f",
+"label": "The 2026 bomber-base incursions are the task force's live problem",
+"note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "jiatf-401",
+"label": "Joint Interagency Task Force 401 (JIATF-401)"
+},
+"b": {
+"cls": "event",
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"claimTier": 1,
+"id": "e-6a8f301936",
+"label": "Task force stood up in August 2025 after two years of unattributed incursions",
+"note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"claimTier": 3,
+"id": "e-de3628391b",
+"label": "AARO's case work does not address the domestic incursion wave",
+"note": "Neither the published case slides nor the FY2025 report present an assessment of the Langley, New Jersey or Barksdale incursions, which are handled as a counter-UAS force-protection matter by NORTHCOM and JIATF-401 instead. Reasoning: absence across all published AARO products, not a stated jurisdictional ruling.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "matt-ross",
+"label": "Matt Ross"
+},
+"b": {
+"cls": "institution",
+"id": "jiatf-401",
+"label": "Joint Interagency Task Force 401 (JIATF-401)"
+},
+"claimTier": 1,
+"id": "e-a805a28266",
+"label": "Director of JIATF-401 from its establishment",
+"note": "Brig. Gen. Matt Ross directs the counter-drone joint interagency task force established in August 2025.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-8c5ac693",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jiatf-401",
+"label": "Joint Interagency Task Force 401 (JIATF-401)"
+},
+{
+"cls": "person",
+"id": "matt-ross",
+"label": "Matt Ross"
+}
+],
+"node": null,
+"title": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+]
+}

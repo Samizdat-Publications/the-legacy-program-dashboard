@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-63a89ff51a",
+"locator": null,
+"node": "operation-laser-strike",
+"nodeLabel": "Operation Laser Strike",
+"sourceText": "United States Marine Corps, Lineage of Marine Air Control Group 28, https://www.usmcu.edu/Portals/218/MARINE%20AIR%20CONTROL%20GROUP%2028.pdf",
+"text": "The official lineage of Marine Air Control Group 28, certified by the Commandant of the Marine Corps on 28 September 2018, records no deployment to Peru or South America and no counter-narcotics operation of any kind between its 1967 redesignation and Desert Shield in 1990.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-usmcu-edu-6288e4b4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "usmcu.edu",
+"listedOn": [
+{
+"cls": "event",
+"id": "operation-laser-strike",
+"label": "Operation Laser Strike"
+}
+],
+"node": null,
+"title": "United States Marine Corps, Lineage of Marine Air Control Group 28",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.usmcu.edu/Portals/218/MARINE%20AIR%20CONTROL%20GROUP%2028.pdf"
+]
+}

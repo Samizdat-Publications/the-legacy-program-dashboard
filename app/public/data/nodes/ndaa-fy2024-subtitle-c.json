@@ -7,50 +7,113 @@
 {
 "id": "c-3c40cb48c7",
 "source": "PLAW-118publ31 Div. A Title XVIII Subtitle C",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Enacted as Public Law 118-31, Division A, Title XVIII, Subtitle C ('Unidentified Anomalous Phenomena'), secs. 1841-1843, 137 Stat. 699-707. Sec. 1841 carries the note '44 USC 2107 note'. Approved 22 December 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c12ce76b68",
 "source": "Comparison of BILLS-118s2226es Div. G with PLAW-118publ31 Subtitle C",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Subtitle C corresponds one-to-one to secs. 9004, 9005 and 9006 of the Senate-passed Division G. Senate secs. 9001-9003 and 9007-9015 - including the Review Board (9007-9009), eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence (9010), disclosure of other materials and additional study (9011), termination (9013) and authorization of appropriations (9014) - have no enacted counterpart.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6025e55e41",
 "source": "PLAW-118publ31 sec. 1841(a)(1)(C), 137 Stat. 699-700",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1841(a)(1)(C) puts the phrases 'technologies of unknown origin' and 'non-human intelligence' into enacted federal law as categories of record the Archivist must collect, '(or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects)'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e3d235c634",
 "source": "PLAW-118publ31 sec. 1842(g)(2)(D), 137 Stat. 704-705",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1842(g)(2)(D) requires full public disclosure of each UAP record within 25 years of its first creation unless the President personally certifies identifiable harm outweighing the public interest.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-630625b5fd",
 "source": "P.L. 118-31, Sec. 1843(a), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1843(a), GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1843(a) vests the postponement determination in 'the original classification authority' rather than in any independent reviewer.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0837837ed9",
 "source": "P.L. 118-31, Sec. 1843(b), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1843(b), GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1843(b) permits Senior Agency Officials to withdraw records from the Collection, with 60 days' notice to Congress, on their own determination that the records are unrelated and properly classified.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-26410e2ffc",
 "source": "P.L. 118-31, Sec. 1842(a)(2), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1842(a)(2), GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1842(a)(2) prohibits destruction, alteration or mutilation of any UAP record and bars reclassification of anything already publicly disclosed before enactment.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b8ef38c69e",
 "source": "Inference from comparison of Sec. 9009(c)(1) with Sec. 1843(a)",
+"sources": [],
 "text": "Retaining the 'clear and convincing evidence' standard while transferring its application from an independent board to the original classifier preserves the appearance of the Senate's regime while removing its effect.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "legislation",

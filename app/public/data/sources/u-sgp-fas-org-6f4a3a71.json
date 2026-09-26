@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-45719302b6",
+"locator": null,
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "Invention Secrecy Statistics, FAS Project on Government Secrecy, https://sgp.fas.org/othergov/invention/stats.html",
+"text": "The order count is published annually and is rising. The Federation of American Scientists' table, sourced to the Patent and Trademark Office, records secrecy orders in effect at fiscal year end of 5,976 (FY21), 6,057 (FY22), 6,155 (FY23), 6,471 (FY24) and 6,543 (FY25), with 356 new orders imposed in FY24 against 102 in FY25.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+"b": {
+"cls": "institution",
+"id": "fas",
+"label": "Federation of American Scientists"
+},
+"claimTier": 1,
+"id": "e-dc49dcfec5",
+"label": "FAS publishes the only public series on how often the Act is used",
+"note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "Federation of American Scientists",
+"id": "u-sgp-fas-org-6f4a3a71",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
+"node": null,
+"title": "Invention Secrecy Statistics, FAS Project on Government Secrecy",
+"topics": [
+{
+"claims": [
+"c-45719302b6"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-45719302b6"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-45719302b6"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/othergov/invention/stats.html"
+]
+}

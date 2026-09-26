@@ -1,0 +1,175 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-9c8bbc1e1c",
+"locator": null,
+"node": "dia",
+"nodeLabel": "Defense Intelligence Agency",
+"sourceText": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"text": "DIA's 30 October 2009 review memo records that 'all of the reviews were positive, some exceptionally so', with eight reviews by other report authors and five by outside reviewers including three Sandia National Laboratories staff, covering 26 FY09 technical reports.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-278488f816",
+"locator": null,
+"node": "dia-deliverables-review-2009",
+"nodeLabel": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"sourceText": "DIA memo U-429-09-DWO-IM",
+"text": "The AAWSAP program manager personally reviewed all papers and concurred with the reviewers' assessments.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5d550f3593",
+"locator": null,
+"node": "dia-deliverables-review-2009",
+"nodeLabel": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"sourceText": "DIA memo U-429-09-DWO-IM",
+"text": "Thirteen reviews were conducted on the 26 FY09 reports: eight by other report authors and five by outside reviewers, three of whom were Sandia National Laboratories staff.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fa16018246",
+"locator": null,
+"node": "dia-deliverables-review-2009",
+"nodeLabel": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"sourceText": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"text": "'All of the reviews were positive, some exceptionally so' and 'the quality hoped for in the reports was achieved'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-bf366ff395",
+"locator": null,
+"node": "sandia",
+"nodeLabel": "Sandia National Laboratories",
+"sourceText": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"text": "Three staff members of Sandia National Laboratories were among the five outside reviewers of the FY09 AAWSAP technical reports.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-773256a62e",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"text": "DIA's internal review found 'all of the reviews were positive, some exceptionally so' across the 26 FY09 reports, with five outside reviews including three by Sandia National Laboratories staff.",
+"tier": 1
+}
+],
+"date": "2009",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+},
+"claimTier": 3,
+"id": "e-d4f7a49355",
+"label": "2024 'lack of merit' contradicts DIA's 2009 quality finding",
+"note": "DIA in 2009: reviews 'positive, some exceptionally so'. AARO in 2024: terminated due to concerns about the project. Same department, opposite assessments, fifteen years apart.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-babf22fb71",
+"label": "formal DIA quality assessment of the 26 FY09 reports",
+"note": "Thirteen reviews: eight by other report authors, five external. Conclusion: the quality hoped for was achieved.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+"b": {
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+},
+"claimTier": 1,
+"id": "e-7ea004dd8e",
+"label": "three Sandia staff among the five outside reviewers",
+"note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
+"type": "institutional"
+}
+],
+"era": "2",
+"host": null,
+"id": "n-dia-deliverables-review-2009",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+{
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+{
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+}
+],
+"node": {
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+},
+"title": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"topics": [
+{
+"claims": [
+"c-278488f816",
+"c-5d550f3593",
+"c-fa16018246"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-773256a62e"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+]
+}

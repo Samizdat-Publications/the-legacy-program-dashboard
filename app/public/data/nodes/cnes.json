@@ -7,20 +7,44 @@
 {
 "id": "c-b96f376701",
 "source": "COMETA report, Norlain preface, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "n-doc-cometa-report",
+"locator": "Norlain preface",
+"title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+}
+],
 "text": "Norlain: the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-5bd260b49c",
 "source": "Wikipedia, 'COMETA report', citing Sillard et al. (2007)",
+"sources": [
+{
+"id": "u-en-wikipedia-org-d0df5144",
+"locator": null,
+"title": "COMETA report - Wikipedia"
+}
+],
 "text": "Yves Sillard, former CNES director general, edited Phénomènes aérospatiaux non identifiés: un défi pour la science (Le Cherche Midi, 2007) with Jacques Arnould, Pierre Marx, François Parmentier, Jacques Patenet, Dominique Weinstein and Jean-Claude Ribes.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-7c1145b5a1",
 "source": "Wikipedia, 'GEIPAN'",
+"sources": [
+{
+"id": "u-en-wikipedia-org-46121987",
+"locator": "'archives available online' from March 2007",
+"title": "GEIPAN - Wikipedia"
+}
+],
 "text": "'In March 2007, GEIPAN started to make its archives available online to the public.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

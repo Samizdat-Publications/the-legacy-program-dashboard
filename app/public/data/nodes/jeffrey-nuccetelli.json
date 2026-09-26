@@ -74,74 +74,158 @@
 {
 "id": "c-e8ad81d814",
 "source": "CHRG-119hhrg61718 CONTENTS",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-70f64fef92",
 "source": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
+"sources": [
+{
+"id": "u-oversight-house-gov-8ae9b6cf",
+"locator": null,
+"title": "House Oversight - Nuccetelli written testimony (PDF)"
+}
+],
 "text": "On 14 October 2003 Boeing contractors at Vandenberg AFB reported 'a massive, glowing red square silently hovering over two missile defense sites.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f473aae82f",
 "source": "Nuccetelli written testimony, 9 September 2025",
+"sources": [
+{
+"id": "u-oversight-house-gov-8ae9b6cf",
+"locator": null,
+"title": "House Oversight - Nuccetelli written testimony (PDF)"
+}
+],
 "text": "'Official Air Force records documenting it are now held by AARO and the FBI.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-07950a178f",
 "source": "Nuccetelli written testimony, 9 September 2025",
+"sources": [
+{
+"id": "u-oversight-house-gov-8ae9b6cf",
+"locator": null,
+"title": "House Oversight - Nuccetelli written testimony (PDF)"
+}
+],
 "text": "One witness 'was threatened and told to kept quiet about the incident.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-704b03a2e9",
 "source": "Nuccetelli, House Oversight hearing, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "testimony of Jeffrey Nuccetelli",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "'Transparency is the foundation of truth. Without it, witnesses like us are dismissed.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-986e9668cc",
 "source": "Jeffrey Nuccetelli, sworn testimony, House Oversight Task Force, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "sworn testimony of Jeffrey Nuccetelli",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain of command.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d7e7d73460",
 "source": "DefenseScoop, 9 September 2025; Nuccetelli written testimony",
+"sources": [],
 "text": "Described possible UAP incursions near Vandenberg Air Force Base between 2003 and 2005 during National Reconnaissance Office launches.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-3f47efebf2",
 "source": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop coverage same day",
+"sources": [],
 "text": "Nuccetelli testified to alleged UAP incidents near Vandenberg Space Force Base in 2003-2005 involving large objects behaving anomalously.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.) was rejected in review: oral testimony plus DefenseScoop; written testimony is a different document"
 },
 {
 "id": "c-e61e723fac",
 "source": "House Committee on Oversight and Government Reform hearing record, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "He appeared as a named witness at the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9227fd28a3",
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"sources": [
+{
+"id": "u-defensescoop-com-9d6513d4",
+"locator": null,
+"title": "DefenseScoop: Military whistleblowers share new evidence of alleged UAP at transparency hearing"
+}
+],
 "text": "Described multiple alleged UAP incursions at Vandenberg AFB in 2003-2005 during National Reconnaissance Office launches, objects 'like flying buildings' that 'pulsed and moved in strange ways.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-cb671da69a",
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"sources": [
+{
+"id": "u-defensescoop-com-9d6513d4",
+"locator": null,
+"title": "DefenseScoop: Military whistleblowers share new evidence of alleged UAP at transparency hearing"
+}
+],
 "text": "'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-10f54f333d",
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf",
+"sources": [
+{
+"id": "u-oversight-house-gov-8ae9b6cf",
+"locator": null,
+"title": "House Oversight - Nuccetelli written testimony (PDF)"
+}
+],
 "text": "Written testimony filed with the House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

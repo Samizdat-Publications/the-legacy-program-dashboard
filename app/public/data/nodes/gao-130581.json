@@ -7,44 +7,105 @@
 {
 "id": "c-4f2e1a3219",
 "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
+"sources": [
+{
+"id": "gao-accession-130581",
+"locator": "statement of Martin M. Ferber, 24 July 1986",
+"title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+}
+],
 "text": "Lockheed reported 1,460 discrepancies: 'The current inventory of all 53 document control substations has been completed, and Lockheed has reported 1,460 discrepancies.' The inventory 'consists of about 40,000 secret and top-secret items.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c6c9783d1c",
 "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
+"sources": [
+{
+"id": "gao-accession-130581",
+"locator": "statement of Martin M. Ferber, 24 July 1986",
+"title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+}
+],
 "text": "The unaccounted-for total is 11, not 17 or 46: 'Lockheed's reported results --which we have not yet had the opportunity to verify-- are that 224 documents were later accounted for, and 11 were unresolved ... Lockheed says 7 of the 11 unresolved documents were inadvertently destroyed and it could not locate the other 4.' The 46 destroyed and the 17 transferred out of the company are dispositions within the 224 accounted for.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8c72a404f4",
 "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
+"sources": [
+{
+"id": "gao-accession-130581",
+"locator": "statement of Martin M. Ferber, 24 July 1986",
+"title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+}
+],
 "text": "GAO states the exclusion as a standing policy decision: 'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0404bb4c01",
 "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
+"sources": [
+{
+"id": "gao-accession-130581",
+"locator": "statement of Martin M. Ferber, 24 July 1986",
+"title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+}
+],
 "text": "GAO explains the term: special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', and 'In 1983, we estimated that there probably were several thousand such contracts.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f38164a34b",
 "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
+"sources": [
+{
+"id": "gao-accession-130581",
+"locator": "statement of Martin M. Ferber, 24 July 1986",
+"title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+}
+],
 "text": "The testimony closes: 'In summary, it appears inconsistent to us to establish a special access program because of security considerations and then afford it less document protection than normal classified programs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0370130ffa",
 "source": "GAO/NSIAD-86-191, Information Security: Need for DOD Inspections of Special Access Contracts, 7 August 1986",
+"sources": [
+{
+"id": "gao-nsiad-86-191",
+"locator": "Information Security: Need for DOD Inspections of Special Access Contracts, 7 August 1986",
+"title": "GAO/NSIAD-86-191"
+}
+],
 "text": "The companion letter report GAO/NSIAD-86-191, B-223830, 7 August 1986, to the Secretary of Defense, signed Frank C. Conahan, states that 'the deterioration of document accountability for the special access contract at Lockheed may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-684de782d3",
 "source": "GAO/NSIAD-86-191, 7 August 1986; and GAO accession 130581, footnote",
+"sources": [
+{
+"id": "gao-nsiad-86-191",
+"locator": "7 August 1986",
+"title": "GAO/NSIAD-86-191"
+},
+{
+"id": "gao-accession-130581",
+"locator": "footnote",
+"title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+}
+],
 "text": "The companion report names 'the Lockheed/Burbank plant', which the testimony itself does not. The testimony carries a footnote explaining why: 'As part of DOD granting us access to the special access program to respond your request, we agreed not to identify the nature of the program or the specific DOD component or military service involved.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",
@@ -236,7 +297,7 @@
 ],
 "sub": "GAO testimony, 24 July 1986, House Energy and Commerce, Subcommittee on Oversight and Investigations",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 309 of 1138, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 310 of 1138, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

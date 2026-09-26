@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b580a2c181",
+"locator": null,
+"node": "jaric",
+"nodeLabel": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"sourceText": "The National Archives Discovery catalogue record for DEFE 24/1940, https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085",
+"text": "The Ministry of Defence UFO reports file covering the Calvine period is closed for another fifty years. DEFE 24/1940, 'UFO reports', 1 August 1990 to 31 January 1991, former reference D/Sec(AS)12/2 Part J, is held at Kew as a Public Record with closure code 84 under the closure criterion 'Personal information where the applicant is a 3rd party', a Freedom of Information Act exemption signed 7 June 2023, and a record opening date of 1 January 2076.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "jaric",
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)"
+},
+"b": {
+"cls": "document",
+"id": "uk-defe24",
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew"
+},
+"claimTier": 1,
+"id": "e-2af0a56a75",
+"label": "The Defence Secretariat file covering the claimed assessment is closed until 2076",
+"note": "DEFE 24/1940 is the UFO reports file for 1 August 1990 to 31 January 1991 and carries a record opening date of 1 January 2076 under a Freedom of Information Act exemption signed 7 June 2023; a redacted digital copy at DEFE 24/1940/1 has been open since 20 October 2008. The edge records where the assessment would sit, not that it is there.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-discovery-nationalarchiv-85ceaa78",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jaric",
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)"
+}
+],
+"node": null,
+"title": "The National Archives Discovery catalogue records for DEFE 24/1940 and DEFE 24/1940/1",
+"topics": [
+{
+"claims": [
+"c-b580a2c181"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
+"type": "web page",
+"urls": [
+"https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085"
+]
+}

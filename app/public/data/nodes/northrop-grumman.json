@@ -7,20 +7,32 @@
 {
 "id": "c-a3c1e487f5",
 "source": "DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations",
+"sources": [],
 "text": "National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Generic 'DOE/OSTI records' (plural, unspecified); only one OSTI record (Bechtel Nevada 2005) found, not one naming both organisations as cla"
 },
 {
 "id": "c-af09ced407",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-76384cbab4",
 "source": "George Knapp via Liberation Times, 28 February 2023",
+"sources": [],
 "text": "Senate Appropriations investigator Richard D'Amato is reported to have considered it 'entirely feasible' that the cover-up sat inside a private company such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: reported at second hand by George Knapp; D'Amato's own public statement says the inquiry found nothing meriting further investigation.",
-"tier": 3
+"tier": 3,
+"unresolved": "a proposed reading (url:liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-5) was rejected in review: outlet and date only; candidate undated"
 }
 ],
 "cls": "institution",

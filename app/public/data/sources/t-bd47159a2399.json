@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-da59522bfa",
+"locator": null,
+"node": "fab",
+"nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"sourceText": "EFE/Terra, 'FAB cria normas para pilotos em caso de contato com ovnis', 10 August 2010",
+"text": "On 10 August 2010 the Air Force created rules for pilots in case of contact with UFOs.",
+"tier": 2
+}
+],
+"date": "2010-08-10",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "t-bd47159a2399",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "EFE/Terra",
+"listedOn": [],
+"node": null,
+"title": "FAB cria normas para pilotos em caso de contato com ovnis",
+"topics": [],
+"type": "article",
+"urls": []
+}

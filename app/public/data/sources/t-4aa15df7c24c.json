@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ed53b4dc83",
+"locator": null,
+"node": "ross-coulthart",
+"nodeLabel": "Ross Coulthart",
+"sourceText": "NewsNation interview by Ross Coulthart, June 2023",
+"text": "Elicited Grusch's on-camera statements that the recovered objects are non-human origin technical vehicles and that dead pilots have been encountered.",
+"tier": 2
+}
+],
+"date": "2023-06",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-4aa15df7c24c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "NewsNation interview by Ross Coulthart, June 2023",
+"topics": [
+{
+"claims": [
+"c-ed53b4dc83"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "broadcast",
+"urls": []
+}

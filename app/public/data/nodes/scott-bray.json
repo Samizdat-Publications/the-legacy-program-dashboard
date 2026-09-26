@@ -10,8 +10,16 @@
 {
 "id": "c-6cf177f7b8",
 "source": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"sources": [
+{
+"id": "u-congress-gov-d6bb7d5d",
+"locator": null,
+"title": "HHRG-117-IG05-Transcript-20220517"
+}
+],
 "text": "Chairman Andre Carson addressed the two witnesses by name and title in his opening remarks at the 17 May 2022 hearing: 'Under Secretary Moultrie, Mr. Bray, thank you for coming today.' Bray appeared as Deputy Director of Naval Intelligence.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

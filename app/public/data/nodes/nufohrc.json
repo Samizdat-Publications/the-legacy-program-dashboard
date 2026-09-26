@@ -7,26 +7,58 @@
 {
 "id": "c-8842cfeaa7",
 "source": "National UFO Historical Records Center, home page, https://nufohrc.org/, read 2 September 2026",
+"sources": [
+{
+"id": "u-nufohrc-org-dfac9f57",
+"locator": null,
+"title": "National UFO Historical Records Center, home page"
+}
+],
 "text": "The Center states of itself: 'The National UFO Historical Records Center is a 501(c)(3) Nonprofit Corporation in the state of New Mexico that seeks to educate the public on the history of the UFO/UAP phenomenon, preserve and digitize historical documents and media, and promote scientific research into the topic.' Its published mailing address is P.O. Box 15541, Rio Rancho, NM 87174. No state or IRS record confirming either was reachable from this environment.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7a3199239d",
 "source": "National UFO Historical Records Center, team page, https://nufohrc.org/team/, read 2 September 2026",
+"sources": [
+{
+"id": "u-nufohrc-org-5a753577",
+"locator": null,
+"title": "National UFO Historical Records Center, team page"
+}
+],
 "text": "Its team page is headed 'DAVID MARLER, EXECUTIVE DIRECTOR', and a separate entry on the same page records that the UFO Newsclipping Service ran 505 monthly issues 'with David Marler serving as the last editor and publisher'. The Area 52 corpus renders the name Marlar; the custodian's own organisation spells it Marler.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2e5ad88020",
 "source": "National UFO Historical Records Center, collections page, https://nufohrc.org/collections/, read 2 September 2026",
+"sources": [
+{
+"id": "u-nufohrc-org-1dad58be",
+"locator": null,
+"title": "National UFO Historical Records Center, collections page"
+}
+],
 "text": "The Center names three collections as its major historical holdings of UFO case files: NICAP, 'founded on October 24, 1956, by inventor Thomas Townsend Brown'; the Center for UFO Studies, which it attributes to J. Allen Hynek in 1973; and 'The Aerial Phenonomena Research Organization (APRO)', started in January 1952 by Jim and Coral Lorenzen and active 'until late 1988'. This is the custodian's own statement of what it holds; no accession record or finding aid is published and none was opened.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-1ae3de39f1",
 "source": "National UFO Historical Records Center, collections page, https://nufohrc.org/collections/, read 2 September 2026",
+"sources": [
+{
+"id": "u-nufohrc-org-1dad58be",
+"locator": null,
+"title": "National UFO Historical Records Center, collections page"
+}
+],
 "text": "The Center states that its records include 'official and civilian case files, audio and video recordings, correspondence, photographs, books, magazines, news clippings, research notes, microfilm, and digital and physical artifacts'. It names no individual artefact, and neither Falcon Lake nor Stephen Michalak appears anywhere on its home, collections or team pages.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

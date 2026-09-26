@@ -66,50 +66,90 @@
 {
 "id": "c-cc917f1c22",
 "source": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
+"sources": [
+{
+"id": "t-ab2243148886",
+"locator": null,
+"title": "William L. Moore, address to the MUFON Symposium, Las Vegas"
+}
+],
 "text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-5fd1c56d80",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93",
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": "endnote 93",
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f7d1b58909",
 "source": "Inference recorded against the board's existing Tier 2 claims on william-l-moore, checked 2026-09-19",
+"sources": [],
 "text": "MOORE'S 1989 ADMISSION IS THE CLEAREST ADMISSION IN THE AFFAIR AND OUTRANKS ANYTHING DOTY HAS SAID, because it is from a civilian, about himself, in public, at a named event on a named date, and it is not later contradicted by its own author. The board already carries it; this session confirms nothing has emerged to weaken it and records that Doty's parallel statements have since been partly retracted by him while Moore's have not.",
-"tier": 2
+"tier": 2,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-df2a372bda",
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"sources": [
+{
+"id": "u-trenchantedges-com-ddf9c47c",
+"locator": null,
+"title": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'"
+}
+],
 "text": "A CAVEAT FOR ANY CLAIM ABOUT MOORE SOURCED TO GREG BISHOP'S PROJECT BETA. Stephen Fisher, writing 29 November 2025 and relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Moore. Project Beta is a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4dba859b2a",
 "source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
+"sources": [
+{
+"id": "dtic-ada326148",
+"locator": null,
+"title": "The Roswell Reports (USAF, 1994-1997)"
+}
+],
 "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-aa54289bab",
 "source": "Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement",
+"sources": [],
 "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:the-roswell-incident-1980) was rejected in review: catalogue records are not the book; names multiple sources"
 },
 {
 "id": "c-151fa79be0",
 "source": "Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials",
+"sources": [],
 "text": "Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: No candidate found for Moore's 1989 MUFON symposium statement."
 },
 {
 "id": "c-4f4c1e3b78",
 "source": "Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery",
+"sources": [],
 "text": "The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: board's own analytical overlay of two dates, not a document"
 }
 ],
 "cls": "person",

@@ -1,0 +1,169 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-8de9500e37",
+"locator": null,
+"node": "warren-1965",
+"nodeLabel": "F. E. Warren AFB sightings, 1 August 1965",
+"sourceText": "rr0.org, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
+"text": "The memorandum summarising those telephone calls was published in 1972 by Dr J. Allen Hynek, the civilian scientific consultant to Project Blue Book, in 'The UFO Experience: A Scientific Inquiry'. That publication is the dated artefact fixing when the claim entered the public record.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-9a77d2bbb0",
+"locator": null,
+"node": "warren-1965",
+"nodeLabel": "F. E. Warren AFB sightings, 1 August 1965",
+"sourceText": "rr0.org mirror of Hastings's Warren 1965 material, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
+"text": "Personnel at F. E. Warren AFB, including the base commander, telephoned Project Blue Book at Wright-Patterson AFB in the earliest hours of 1 August 1965 to report sightings over the Warren Minuteman missile sites. Lt. Anspaugh fielded and logged the calls between about 0130 and 0440. Named callers are Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Site designators recorded include E Site, G Flight, Quebec Flight, H-2 and B-4.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-98dfae4f96",
+"locator": null,
+"node": "l-warren",
+"nodeLabel": "F. E. Warren AFB, Wyoming",
+"sourceText": "rr0.org mirror of Hastings's F. E. Warren 1965 material, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
+"text": "A Project Blue Book telephone log kept by Lt. Anspaugh records calls between 0130 and 0440 on 1 August 1965 reporting objects over the F. E. Warren missile complex, from Capt. Snelling of the Air Force command post, from the base commander Col. Johnson, from Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and from Capt. Howell, referring to sites designated E Site, G Flight, Quebec Flight, H-2 and B-4. The memorandum summarising those calls was first published by Dr J. Allen Hynek, Blue Book's civilian scientific consultant, in 'The UFO Experience: A Scientific Inquiry' in 1972.",
+"tier": 2
+},
+{
+"cls": "domain",
+"id": "c-b2a4354d03",
+"locator": null,
+"node": "d-nuclear",
+"nodeLabel": "Nuclear Security & Restricted Data",
+"sourceText": "http://www.nicap.org/reports/751027loring_1-6.htm ; https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; https://minotb52ufo.com/doc.php ; https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; http://www.nicap.org/articles/CI-Wurtsmith.htm ; all opened 2026-09-19",
+"text": "The contemporaneous-paper half of that split is real and checkable. It includes the National Military Command Center's Memorandum for Record of 29 October 1975 on the Loring penetration; the 24th NORAD Region Senior Director's Log for 7 to 19 November 1975; the Project Blue Book Minot file of October and November 1968 with seven AF Form 117 witness questionnaires; the Project Blue Book telephone log of 1 August 1965 for F. E. Warren; and the 379th Bombardment Wing historian's file of January 1979. All were opened by this board on 19 September 2026.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9113af4936",
+"locator": null,
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"sourceText": "341st SMW histories, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf ; 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; F. E. Warren 1965 Blue Book log, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; all opened 2026-09-19",
+"text": "THE COUNTERWEIGHT, ON THE SAME NODE. His method is not testimony alone, and the documentary half of his output is checkable and largely checks out. This board independently opened and read in full the 341st Strategic Missile Wing histories he relies on, the 24th NORAD Region Senior Director's Log for November 1975 that he republishes, and the F. E. Warren AFB Project Blue Book telephone log of 1 August 1965 first published by J. Allen Hynek in 1972. All three are real, and say what he says they say. The board grades the document half and the interview half of his output differently inside the same node.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "warren-1965",
+"label": "F. E. Warren AFB sightings, 1 August 1965"
+},
+"b": {
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming"
+},
+"claimTier": 1,
+"id": "e-026e662e22",
+"label": "The 1 August 1965 reports were over this installation's Minuteman complex",
+"note": "The Blue Book telephone log names the base commander of F. E. Warren among its callers and names Warren missile sites.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming"
+},
+"b": {
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+},
+"claimTier": 1,
+"id": "e-0ae62d7e61",
+"label": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
+"note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming"
+},
+"claimTier": 2,
+"id": "e-d24e36eebc",
+"label": "Publishes the F. E. Warren 1 August 1965 material",
+"note": "Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-rr0-org-e4ade8f3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "rr0.org",
+"listedOn": [
+{
+"cls": "event",
+"id": "warren-1965",
+"label": "F. E. Warren AFB sightings, 1 August 1965"
+},
+{
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming"
+},
+{
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+}
+],
+"node": null,
+"title": "%201967%20NORAD%20logs_djvu.txt",
+"topics": [
+{
+"claims": [
+"c-9a77d2bbb0",
+"c-9113af4936"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-8de9500e37",
+"c-9a77d2bbb0"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
+"c-9a77d2bbb0",
+"c-9113af4936"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+}
+],
+"type": "web page",
+"urls": [
+"https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/"
+]
+}

@@ -7,26 +7,46 @@
 {
 "id": "c-13fee176f9",
 "source": "Wikipedia, Wright-Patterson Air Force Base, citing USAF historical records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-dff9356c",
+"locator": "1948 consolidation",
+"title": "Wikipedia - Wright-Patterson Air Force Base"
+}
+],
 "text": "Wright-Patterson AFB was formally established on 13 January 1948 by consolidating Wright Field, Patterson Field, Dayton Army Air Field and Clinton Army Air Field.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-66aa9e0c71",
 "source": "USAF fact sheet on Project Blue Book, as summarised in the Wright-Patterson AFB article — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "Project Blue Book operated at Wright-Patterson from 1952 to 1969, studying 12,618 sightings of which 701 remained unexplained at closure.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objec) was rejected in review: WPAFB article summarising the fact sheet, not the fact sheet"
 },
 {
 "id": "c-e206209d5a",
 "source": "Wikipedia, Wright-Patterson Air Force Base, tenant units — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-dff9356c",
+"locator": "NASIC tenant unit",
+"title": "Wikipedia - Wright-Patterson Air Force Base"
+}
+],
 "text": "The National Air and Space Intelligence Center, the direct institutional successor to ATIC and the Foreign Technology Division, is headquartered at Wright-Patterson AFB.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c6cad31a70",
 "source": "Inference from the ATIC/FTD/NASIC lineage and the absence of any identified T-2 declassification project",
+"sources": [],
 "text": "If any legacy recovery and exploitation effort existed, this installation is its institutional address: the United States assigned unidentified flying objects to the organisation whose mission is taking recovered foreign hardware apart, and that organisation's 1947-1951 files have never had a comprehensive declassification review. Reasoning: SIGN, GRUDGE and Blue Book were all hosted under AMC/ATIC here, and no FOIA release or NARA accession covering T-2's 1947-1951 intelligence series has been identified.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

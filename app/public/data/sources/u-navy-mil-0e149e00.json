@@ -1,0 +1,101 @@
+{
+"archived": [
+"https://web.archive.org/web/20260519012412/https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-e625bcff10",
+"locator": null,
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"sourceText": "US Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020",
+"text": "The UAP Task Force was formally approved by Deputy Secretary of Defense David L. Norquist on 4 August 2020 under the Department of the Navy, with OUSD(I&S) cognizance.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-norquist",
+"label": "David L. Norquist"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 1,
+"id": "e-eac0ebf2c8",
+"label": "approved establishment of the UAP Task Force",
+"note": "Norquist, as Deputy Secretary of Defense, formally approved the UAPTF on 4 August 2020; the Navy announced it on 14 August.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"b": {
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+"claimTier": 1,
+"id": "e-e733340a1e",
+"label": "sited in the Department of the Navy with ONI involvement",
+"note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 1,
+"id": "e-343e5049bc",
+"label": "Navy designated lead service for the UAP Task Force",
+"note": "'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'. The task force was disestablished two years later on the Deputy Secretary's direction when AARO stood up.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-navy-mil-0e149e00",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Navy",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-norquist",
+"label": "David L. Norquist"
+},
+{
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+{
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+}
+],
+"node": null,
+"title": "US Navy - Establishment of Unidentified Aerial Phenomena Task Force",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+]
+}

@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-d4f4b19e72",
+"locator": null,
+"node": "l-edwards-afb",
+"nodeLabel": "Edwards Air Force Base, California",
+"sourceText": "Wikipedia, Edwards Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from Muroc in December 1949 for Capt. Glen Edwards; it hosts the Air Force Test Center, the USAF Test Pilot School and NASA Armstrong Flight Research Center.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-edwards-afb",
+"label": "Edwards Air Force Base, California"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-2f40ed25b5",
+"label": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-77db68e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-edwards-afb",
+"label": "Edwards Air Force Base, California"
+}
+],
+"node": null,
+"title": "Wikipedia - Edwards Air Force Base",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
+]
+}

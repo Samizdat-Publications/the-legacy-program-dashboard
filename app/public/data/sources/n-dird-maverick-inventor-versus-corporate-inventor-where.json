@@ -1,0 +1,232 @@
+{
+"archived": [
+"https://web.archive.org/web/20250319072658/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-199d2f194c",
+"locator": null,
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf , opened 2026-09-19",
+"text": "HIS OWN DIA-FUNDED REFERENCE DOCUMENT DOES NOT MENTION THE HUTCHISON EFFECT. DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', cover-dated 30 March 2010, ICOD 1 December 2009, 20 pages as released, attributed on the DIA list of 9 January 2018 to Dr George Hathaway of Hathaway Consulting. Word counts over the whole released document: HUTCHISON 0, Pharos 0, levitation 0. Gravity occurs 12 times and antigravity 3. THE MAN WHO WROTE THE BOOK ON THE HUTCHISON EFFECT WROTE A DIA REFERENCE DOCUMENT ABOUT MAVERICK INVENTORS AND DID NOT MENTION IT. This is a fact about the document and is not a statement by him about the claim.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1e3a8642d9",
+"locator": null,
+"node": "dird-maverick-inventor-versus-corporate-inventor-where",
+"nodeLabel": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-271b0869bc",
+"locator": null,
+"node": "dird-maverick-inventor-versus-corporate-inventor-where",
+"nodeLabel": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"text": "Defense Intelligence Reference Document titled \"Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?\", series \"Acquisition Threat Support\", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-017. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5398a316ad",
+"locator": null,
+"node": "dird-maverick-inventor-versus-corporate-inventor-where",
+"nodeLabel": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5690bce521",
+"locator": null,
+"node": "dird-maverick-inventor-versus-corporate-inventor-where",
+"nodeLabel": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+"text": "Cover page reads: '30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-017 / Defense Intelligence Reference Document / Acquisition Threat Support / Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-99b38a94cf",
+"locator": null,
+"node": "dird-maverick-inventor-versus-corporate-inventor-where",
+"nodeLabel": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+"text": "Administrative note: 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.' Released copy runs 19 pages.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b5e1eba190",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf , opened 2026-09-19",
+"text": "A SECOND ZERO-COUNT IN THE SAME SERIES, on the Hutchison effect. DIRD DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, names HUTCHISON 0 times and Pharos 0 times. Hathaway is the author of the book 'Mindbending: The Hutchison Files'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"claimTier": 1,
+"id": "e-92e0e268ca",
+"label": "produced under the AAWSA/AAWSAP contract, FY 2009",
+"note": "The document's administrative note states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program'. Issued as DIA-08-1003-017 on 30 March 2010, ICOD 1 December 2009. It is not a physics paper: it is a research-culture argument about whether breakthrough invention originates with lone inventors or corporate laboratories, which is the clearest single illustration of how loosely the DIRD mandate was drawn in practice.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+"b": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"claimTier": 2,
+"id": "e-4541926bd7",
+"label": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
+"note": "THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-8c07f96e43",
+"label": "commissioned via the BAASS prime contract",
+"note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"b": {
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+"claimTier": 1,
+"id": "e-fedd3edc5c",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6).",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"claimTier": 1,
+"id": "e-1de2bf349a",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"claimTier": 1,
+"id": "e-cd7c031bde",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-017. Publication date 30 March 2010 on the cover. 20 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "n-dird-maverick-inventor-versus-corporate-inventor-where",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+{
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+}
+],
+"node": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"title": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"topics": [
+{
+"claims": [
+"c-199d2f194c"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+},
+{
+"claims": [
+"c-b5e1eba190"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "document",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+]
+}

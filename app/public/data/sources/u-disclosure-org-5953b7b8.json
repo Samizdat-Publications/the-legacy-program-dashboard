@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-disclosure-org-5953b7b8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "disclosure.org",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-astro",
+"label": "Astronomy & Astrophysics"
+},
+{
+"cls": "domain",
+"id": "d-policy",
+"label": "Executive Policy & Directives"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "Disclosure Foundation - Advisory Board Member Avi Loeb to Lead New UAP Science Advisory Council",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://disclosure.org/news/uap-science-advisory-council"
+]
+}

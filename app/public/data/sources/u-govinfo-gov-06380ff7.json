@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2389a8a180",
+"locator": null,
+"node": "arthur-e-exon",
+"nodeLabel": "Arthur E. Exon",
+"sourceText": "Wright-Patterson Air Force Base: The First Century, History Office, Air Force Life Cycle Management Center, Air Force Materiel Command, 2015, Appendix B, p. 44. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
+"text": "The Air Force's own base history lists the installation commanders in sequence: 'Colonel Glen McClernon August 1962 / Colonel Arthur E. Exon August 1964 / Colonel Jowell C. Wise December 1965'. Exon held the post as a colonel, from August 1964, and was succeeded in December 1965.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-510904c879",
+"locator": null,
+"node": "arthur-e-exon",
+"nodeLabel": "Arthur E. Exon",
+"sourceText": "Wright-Patterson Air Force Base: The First Century, 2015, searched in full. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
+"text": "The same 76-page installation history names Exon in no other place and records nothing about him beyond the appendix entry.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "arthur-e-exon",
+"label": "Arthur E. Exon"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-6419a92edb",
+"label": "Held the command as a Colonel, per the Air Force's own commander table",
+"note": "He held the command as a United States Air Force officer, listed as a colonel in the Air Force's own installation-commander table.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "arthur-e-exon",
+"label": "Arthur E. Exon"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-011f24b07d",
+"label": "Installation commander, August 1964 to December 1965",
+"note": "Exon was the installation commander of Wright-Patterson Air Force Base from August 1964 to December 1965 per the base's own published history.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-06380ff7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "arthur-e-exon",
+"label": "Arthur E. Exon"
+}
+],
+"node": null,
+"title": "Wright-Patterson Air Force Base: The First Century, 2015, searched in full.",
+"topics": [
+{
+"claims": [
+"c-2389a8a180",
+"c-510904c879"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf"
+]
+}

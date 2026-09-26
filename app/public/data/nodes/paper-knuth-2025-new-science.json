@@ -7,14 +7,24 @@
 {
 "id": "c-57379a933e",
 "source": "UAlbany News Center, 4 June 2025",
+"sources": [],
 "text": "Knuth is lead author; the article was co-written by Szydagis and more than thirty other researchers, and published in a special edition of Progress in Aerospace Sciences in June 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-0a378a3843",
 "source": "SCU press release, 27 June 2025",
+"sources": [
+{
+"id": "t-1eb21894e181",
+"locator": null,
+"title": "SCU press release, 27 June 2025"
+}
+],
 "text": "SCU records the paper as bringing together thirty-four authors, DOI 10.1016/j.paerosci.2025.101097.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

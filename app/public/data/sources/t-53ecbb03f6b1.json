@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5eda019de8",
+"locator": null,
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"sourceText": "Chemical Geology DOI 10.1016/j.chemgeo.2025.122628; Geophysical Journal International, March 2024",
+"text": "The IM1 spherule composition claims were contested in the peer-reviewed literature by Rudraswami, Singh & Pandey in Chemical Geology (March 2025) and by Fernando et al. in Geophysical Journal International (March 2024) on the seismic localisation.",
+"tier": 1
+}
+],
+"date": "2024-03",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-53ecbb03f6b1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Geophysical Journal International, March 2024",
+"topics": [
+{
+"claims": [
+"c-5eda019de8"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-5eda019de8"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
+"type": "article",
+"urls": []
+}

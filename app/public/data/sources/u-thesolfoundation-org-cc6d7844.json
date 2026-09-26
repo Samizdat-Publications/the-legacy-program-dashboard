@@ -1,0 +1,61 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7e697143d2",
+"locator": "retrieved 12 Aug 2026",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation, Policy page, retrieved 12 August 2026",
+"text": "Since 2023 the Sol Foundation has advised members and committees of the US Senate and House - including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee - and the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and the Office of the Chief Science Adviser to Canada.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-058188fba1",
+"locator": "retrieved 12 Aug 2026",
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation, Policy page, retrieved 12 August 2026",
+"text": "Since 2023 the Foundation has provided scientific and policy advice on UAP to members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee, and to the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and Canada's Chief Science Adviser.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-thesolfoundation-org-cc6d7844",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+}
+],
+"node": null,
+"title": "The Sol Foundation - Policy",
+"topics": [
+{
+"claims": [
+"c-7e697143d2",
+"c-058188fba1"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/policy/"
+]
+}

@@ -7,14 +7,30 @@
 {
 "id": "c-af59fc4bf9",
 "source": "https://solari.com/people/catherine-austin-fitts",
+"sources": [
+{
+"id": "u-solari-com-14d6a5ec",
+"locator": null,
+"title": "Solari, Catherine Austin Fitts"
+}
+],
 "text": "Solari, Inc. is founded by Catherine Austin Fitts and publishes the Solari Report.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-fbfdaaad2b",
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"sources": [
+{
+"id": "n-skidmore-fitts-report",
+"locator": null,
+"title": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)"
+}
+],
 "text": "The Missing Money archive hosts the Skidmore-Fitts summary report and preserves links to underlying OIG documents, noting that many original government URLs were disabled.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

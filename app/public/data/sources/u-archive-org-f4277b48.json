@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-f4277b48",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "james-mcandrew",
+"label": "Capt. James McAndrew"
+},
+{
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+}
+],
+"node": null,
+"title": "The Roswell report: case closed - catalogue record",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/roswellreportcas0000mcan"
+]
+}

@@ -1,0 +1,88 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-777e817bba",
+"locator": null,
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "https://en.wikipedia.org/wiki/David_Grusch",
+"text": "Helped organise the 9 June 2026 Capitol-steps press conference at which David Grusch described a continuum of alleged non-human life.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-79c39bc7a2",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "https://en.wikipedia.org/wiki/David_Grusch",
+"text": "Asked how many alien species he was aware of, Grusch referenced four different alien species at the 9 June 2026 press conference.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c96fc954ea",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "https://en.wikipedia.org/wiki/David_Grusch",
+"text": "'I certainly don't have the compendium it's a continuum from corporeal bipedal type life to what I would consider as sentient plasmoid life but there are several which the US government is aware of.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-6ced857eec",
+"label": "organised the platform for his June 2026 claims",
+"note": "Luna helped organise the Capitol-steps press conference at which Grusch described a continuum from corporeal bipedal life to sentient plasmoid life.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-1ed9c6aa",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+}
+],
+"node": null,
+"title": "en.wikipedia.org",
+"topics": [
+{
+"claims": [
+"c-c96fc954ea"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/David_Grusch"
+]
+}

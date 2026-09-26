@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-c76e938a0d",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "American Institutes for Research evaluation, 1995",
+"text": "The 1995 AIR evaluation concluded that 'the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence'; CIA terminated the roughly $20 million programme in 1995.",
+"tier": 1
+}
+],
+"date": "1995",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-c37d1cb1fd73",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "American Institutes for Research",
+"listedOn": [],
+"node": null,
+"title": "American Institutes for Research evaluation",
+"topics": [
+{
+"claims": [
+"c-c76e938a0d"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "report",
+"urls": []
+}

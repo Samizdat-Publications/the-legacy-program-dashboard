@@ -1,0 +1,155 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-609297854c",
+"locator": null,
+"node": "dulce-base",
+"nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"sourceText": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"text": "THE MOST-CIRCULATED PHYSICAL 'EVIDENCE' IS A MOVIE FRAME. The photograph of bodies in a chamber, distributed for years as Castello's leaked proof, was traced by John Greenewald on 1 April 2016 to the 2000 feature film The 6th Day: it 'is, in fact, a verifiable hoax'. Tier 1 because the identification is checkable by anyone against the film.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d2105fbf3e",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "The Black Vault case file, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"text": "Greenewald published a case file on 1 April 2016 stating 'There is no evidence that I have found, that shows that Thomas Costello even exists', and demonstrating that the photograph circulated as Castello's leaked evidence is a frame from the 2000 film The 6th Day: it 'is, in fact, a verifiable hoax'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7e661c61b8",
+"locator": null,
+"node": "thomas-castello",
+"nodeLabel": "Thomas Edwin Castello (fabricated)",
+"sourceText": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"text": "The photograph circulated for years as Castello's leaked evidence of bodies in a chamber at Dulce is a frame from the 2000 feature film The 6th Day. Greenewald: it 'is, in fact, a verifiable hoax', and 'You can see that the position of the bodies, inside the chamber, are a match.' Tier 1 because the identification is checkable by anyone against the film.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a019d16f24",
+"locator": null,
+"node": "thomas-castello",
+"nodeLabel": "Thomas Edwin Castello (fabricated)",
+"sourceText": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"text": "John Greenewald, publishing a case file on 1 April 2016, states: 'There is no evidence that I have found, that shows that Thomas Costello even exists.' Note the spelling variant Costello, which is how the viral posts carry the name.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-6bc30259df",
+"label": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
+"note": "The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "person",
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+},
+"claimTier": 2,
+"id": "e-8e00517764",
+"label": "'There is no evidence that I have found, that shows that Thomas Costello even exists'",
+"note": "A named researcher's published negative, dated, and consistent with the confession obtained independently by Gorightly. Note the Costello spelling, which is how the viral posts carry the name.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-aa1254949e",
+"label": "The claimed insider, whose author confessed the invention",
+"note": "The edge records that the claim was made and circulated under this name. The node it runs from records that the man who wrote the original articles says he invented the name. Both halves are needed: deleting the edge would leave the downstream literature unexplained, and leaving it untyped would let a fabricated witness read as a witness.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-9521d30d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "person",
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+}
+],
+"node": null,
+"title": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+"topics": [
+{
+"claims": [
+"c-609297854c",
+"c-7e661c61b8",
+"c-a019d16f24"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-609297854c",
+"c-7e661c61b8",
+"c-a019d16f24"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-d2105fbf3e"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+]
+}

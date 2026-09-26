@@ -1,0 +1,86 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-6fbde38b90",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "IUPAC, 'Discovery and assignment of elements with atomic numbers 113, 115, 117 and 118', 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , opened 2026-09-18",
+"text": "A PRECISION POINT USUALLY GOT WRONG IN BOTH DIRECTIONS. The International Union of Pure and Applied Chemistry assigned discovery priority for element 115 on 30 December 2015 to 'the Dubna-Livermore-Oak Ridge collaborations', and the basis given is work 'starting in 2010, and subsequently confirmed in 2012 and 2013, have met the criteria for discovery'. The priority statement therefore rests on the 2010 to 2013 work and not on the 2003 experiment. The Joint Working Party report is Karol, Barber, Sherrill, Vardaci and Yamazaki, Pure and Applied Chemistry 88 (2016) 155.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a0ae82d3e1",
+"locator": null,
+"node": "nnsa",
+"nodeLabel": "National Nuclear Security Administration",
+"sourceText": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 ; IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , both opened 2026-09-18",
+"text": "Element 115 was synthesised by a collaboration including Lawrence Livermore National Laboratory, a laboratory in the NNSA complex, working with the Joint Institute for Nuclear Research at Dubna, and reported in Physical Review C 69, 021601(R) on 2 February 2004. IUPAC assigned discovery priority to the Dubna-Livermore-Oak Ridge collaborations on 30 December 2015, on the basis of work starting in 2010 and confirmed in 2012 and 2013, and the name moscovium was approved on 28 November 2016. NOTHING ABOUT THE SYNTHESISED ELEMENT IS STABLE, MACHINABLE OR STORABLE: the isotopes are 287 and 288, produced one atom at a time at cross sections of roughly one and three picobarn. This claim is recorded here because Bob Lazar's element-115 account is regularly presented as having been vindicated by these events, and the record of the complex's own laboratories is what shows that it was not.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+"b": {
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+"claimTier": 1,
+"id": "e-86a7f2a334",
+"label": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
+"note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-iupac-org-e23dbbe9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "iupac.org",
+"listedOn": [
+{
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+{
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+}
+],
+"node": null,
+"title": "IUPAC, discovery and assignment of elements 113, 115, 117 and 118",
+"topics": [
+{
+"claims": [
+"c-6fbde38b90",
+"c-a0ae82d3e1"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-a0ae82d3e1"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "web page",
+"urls": [
+"https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/"
+]
+}

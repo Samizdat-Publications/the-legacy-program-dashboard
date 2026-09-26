@@ -1,0 +1,89 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b4bf6fa85d",
+"locator": "1:08:45",
+"node": "nnsa",
+"nodeLabel": "National Nuclear Security Administration",
+"sourceText": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 1:08:45",
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 1:08:45, Michels said that a Freedom of Information Act request was sent to the National Nuclear Security Administration for all records that 'mention or relate to' Starfish Prime together with UFO, AP, UAV, AAV or any acronym used by the Atomic Energy Commission at the time for unidentified flying objects, and that the NNSA reply of June 2022 reads 'it was determined that an additional review of your case by the subject matter expert with jurisdiction regarding responsive records was required'. The response letter itself was not opened from this environment and no case number is given on air.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-d12d404431",
+"locator": "0:57:51",
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"sourceText": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:57:51",
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:57:51, Michels said that 'in 1961, the RAND Corporation wrote a report called Some New Considerations Concerning the Nuclear Test Ban, which highlighted the susceptibility of the US ICBM re-entry vehicles to high-energy X-rays', and that this insight fed the Operation Dominic tests. The report was not opened: rand.org answers 403 to this environment and a search on the exact title returned nothing. If it exists it would place RAND in this material seven years before the 1968 Kocher draft with which the node's UFO record currently opens.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e8e501c109",
+"locator": "0:23:09 and 0:24:00",
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:23:09 and 0:24:00",
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:23:09, Michels said that Sarbacher told Stanton Friedman that MIT president Karl Compton 'was briefed on UFO technology at Wright Airfield in 1950', and at 0:24:00 that when John Greenewald used the Freedom of Information Act to retrieve Compton's records he received a reply in April 2014 stating that 'records which may have been responsive to your request were destroyed August 30th, 2006'. The FOIA response letter itself was not opened from this environment.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-06f34ffd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+{
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+{
+"cls": "person",
+"id": "robert-sarbacher",
+"label": "Robert I. Sarbacher"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)' (audio)",
+"topics": [
+{
+"claims": [
+"c-b4bf6fa85d"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-e8e501c109"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+},
+{
+"claims": [
+"c-d12d404431"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1090282889.mp3?updated=1752180350"
+]
+}

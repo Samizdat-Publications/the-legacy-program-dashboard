@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-fc23bec8bc",
+"locator": null,
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"sourceText": "Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52",
+"text": "On the Danny Jones Podcast, episode 330, 8 September 2025, at 0:23:00 to 0:23:52, Rebecca Lemov described MK-Ultra as run by Sidney Gottlieb from 1953, with about 149 subprojects in the surviving records, officially discontinued in 1963 or 1964. The subproject count and the 1953 to 1964 span match the 1977 hearing print exactly; no record opened here shows Gottlieb running the programme from 1953.",
+"tier": 2
+}
+],
+"date": "2025-09-08",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-e15b494ccb3a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52",
+"topics": [
+{
+"claims": [
+"c-fc23bec8bc"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "broadcast",
+"urls": []
+}

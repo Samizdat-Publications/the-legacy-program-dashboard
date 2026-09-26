@@ -7,38 +7,62 @@
 {
 "id": "c-d2181b6e8b",
 "source": "war.gov/UFO, accessed 12 August 2026",
+"sources": [],
 "text": "The war.gov portal lists Release 05 dated 7 August 2026 with a 130MB document bundle and a 513MB video bundle, spanning 1953 to 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: string names the portal page, not the bundle URLs node"
 },
 {
 "id": "c-636c00d5fe",
 "source": "EarthSky, 10 August 2026, on the fifth batch of Pentagon UAP files",
+"sources": [
+{
+"id": "u-earthsky-org-2122ed83",
+"locator": null,
+"title": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles"
+}
+],
 "text": "Release 05 comprised 41 files: 16 videos, 22 documents and 3 images.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-30dad76e28",
 "source": "EarthSky, 10 August 2026, summarising the Release 05 files",
+"sources": [
+{
+"id": "u-earthsky-org-2122ed83",
+"locator": null,
+"title": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles"
+}
+],
 "text": "Six videos from an AC-130J gunship and intelligence report DOW-UAP-D101 document approximately 25 instances of UAP in the Gulf of Oman on 8 September 2021: cold orbs about four feet in diameter, 250-1,300 mph, low altitude, reportedly reacting to cannon fire.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-64b1775fba",
 "source": "EarthSky, 10 August 2026, quoting the released 1953 document",
+"sources": [],
 "text": "A 1953 Navy Photographic Interpretation Center analysis of the 1950 Montana and 1952 Utah films assessed the objects as 'self-luminous, intelligently controlled' and inconsistent with 'natural phenomena or commonly known aerospace technologies' after over 1,000 hours of analysis.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-2e04db1305",
 "source": "EarthSky, 10 August 2026",
+"sources": [],
 "text": "FBI-UAP-D031 records a black triangular craft with a red light at each corner near a military base at Colorado Springs in October 2023; DOW-UAP-PR134 is a January 2025 video of a small orb over a Middle Eastern residential area.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-2e534128e5",
 "source": "Inference from the released 1953 Navy PIC document against the January 1953 Robertson Panel disposition of the Great Falls and Tremonton films",
+"sources": [],
 "text": "The 1953 Navy PIC assessment is the strongest affirmative government technical finding in the PURSUE corpus, and its 2026 release by the Department of War establishes that a positive analytic conclusion existed inside the Navy at the exact moment the Robertson Panel was concluding the opposite about the same films.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",

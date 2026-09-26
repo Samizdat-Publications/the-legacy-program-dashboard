@@ -1,0 +1,48 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-13ade2a986",
+"locator": null,
+"node": "jiatf-401",
+"nodeLabel": "Joint Interagency Task Force 401 (JIATF-401)",
+"sourceText": "DoD Inspector General, DODIG-2026-045, reported 30 January 2026",
+"text": "DODIG-2026-045 (21 January 2026) evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6b223c28c8",
+"locator": null,
+"node": "matt-ross",
+"nodeLabel": "Matt Ross",
+"sourceText": "DoD Office of Inspector General report DODIG-2026-045, reported 30 January 2026",
+"text": "DODIG-2026-045, dated 21 January 2026, evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies, finding inconsistent policies and approval processes that delayed counter-drone deployment.",
+"tier": 1
+}
+],
+"date": "2026-01-30",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-c7e35fc74952",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DoD Office of Inspector General",
+"listedOn": [],
+"node": null,
+"title": "DODIG-2026-045",
+"topics": [
+{
+"claims": [
+"c-13ade2a986",
+"c-6b223c28c8"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "report",
+"urls": []
+}

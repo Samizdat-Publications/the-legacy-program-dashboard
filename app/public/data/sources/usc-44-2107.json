@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-acbea3f36d",
+"locator": null,
+"node": "ndaa-fy2024",
+"nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"sourceText": "Public Law 118-31, Sec. 1841 (44 U.S.C. 2107 note), enacted 22 December 2023",
+"text": "The UAP Records Collection 'shall consist of record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence... which shall be transmitted to the National Archives.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-2c69bb8229",
+"locator": null,
+"node": "leidos",
+"nodeLabel": "Leidos Holdings, Inc.",
+"sourceText": "Public Law 118-31, Sec. 1841 (44 U.S.C. 2107 note)",
+"text": "The UAP Records Collection established by NDAA FY2024 Sec. 1841 consists of record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "usc-44-2107",
+"identifiers": [
+"44 U.S.C. 2107"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "44 U.S.C. 2107",
+"topics": [
+{
+"claims": [
+"c-2c69bb8229"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "statute",
+"urls": []
+}

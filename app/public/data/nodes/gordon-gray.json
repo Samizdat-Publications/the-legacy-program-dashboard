@@ -10,38 +10,86 @@
 {
 "id": "c-14a013a2d2",
 "source": "Directive by the President to the Secretary of State, the Secretary of Defense (Marshall), and the Director of Central Intelligence (Smith), 4 April 1951, file 100.4-PSB/4-451, FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"sources": [
+{
+"id": "u-history-state-gov-bfbcfac9",
+"locator": null,
+"title": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3"
+}
+],
 "text": "Truman established the Board by directive of 4 April 1951: 'It is the purpose of this directive to authorize and provide for the more effective planning, coordination and conduct, within the framework of approved national policies, of psychological operations.' The Board reports to the National Security Council and is composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6532c404d1",
 "source": "FRUS 1951 vol. I doc. 16, footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"sources": [
+{
+"id": "u-history-state-gov-bfbcfac9",
+"locator": null,
+"title": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3"
+}
+],
 "text": "Gray was the first Director. The directive's own editorial footnote reads: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a1073ea62b",
 "source": "FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"sources": [
+{
+"id": "u-history-state-gov-bfbcfac9",
+"locator": null,
+"title": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3"
+}
+],
 "text": "The Director's charter includes a standing claim on other departments: 'The participating departments and agencies shall afford to the Director and the staff such assistance and access to information as may be specifically requested by the Director in carrying out his assigned duties.' The same directive states: 'This directive does not authorize the Board nor the Director to perform any \"psychological operations\".'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4e2cf80743",
 "source": "Persons, FRUS 1950-1955, The Intelligence Community, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"sources": [
+{
+"id": "u-history-state-gov-849ead8a",
+"locator": null,
+"title": "FRUS 1950-1955, The Intelligence Community, List of Persons"
+}
+],
 "text": "Gray's offices and their dates, from the Office of the Historian's own persons list: 'Secretary of the Army from June 20, 1949 to April 12, 1950; Director of the Psychological Strategy Board from 1951 to 1952; ... Assistant Secretary of Defense for International Security Affairs from July 1955 to February 1957; Director of Defense Mobilization from March 1957 to July 1958; Special Assistant to the President for National Security Affairs from July 1958 to January 1961'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2bd9d4bb81",
 "source": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951, FRUS 1950-1955 The Intelligence Community doc. 82, https://history.state.gov/historicaldocuments/frus1950-55Intel/d82",
+"sources": [
+{
+"id": "u-history-state-gov-a07cbae3",
+"locator": null,
+"title": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951"
+}
+],
 "text": "He is recorded chairing the Board's business in its own minutes: PSB M-2 of 13 August 1951 lists 'Mr. Gordon Gray, Director, Psychological Strategy Board' present with the Director of Central Intelligence as acting chairman, the Under Secretary of State and the Deputy Secretary of Defense.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-72ba2615d3",
 "source": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:02",
+"sources": [
+{
+"id": "t-175196e08741",
+"locator": "0:16:02",
+"title": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58"
+}
+],
 "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:02, Ramsay read a prepared list describing Gray as having 'experience in managing information and propaganda during the cold war aligning with MJ12's need for controlling UFO related narratives' and as 'allegedly involved in developing policies to manage public perception of UFO phenomena'. No document opened for this node connects the Psychological Strategy Board to UFO matters.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

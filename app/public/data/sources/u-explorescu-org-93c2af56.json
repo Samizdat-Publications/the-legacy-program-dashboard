@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 2,
+"id": "e-e08a48e3fc",
+"label": "Metadata stripping defeats the study team's core recommendation",
+"note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-c34cbffa9d",
+"label": "Release volume without release quality",
+"note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-explorescu-org-93c2af56",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "explorescu.org",
+"listedOn": [],
+"node": null,
+"title": "SCU - PURSUE Release #1 falls short of scientific transparency",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.explorescu.org/post/scientific-coalition-for-uap-studies-finds-pursue-release-1-falls-short-of-scientific-transparency"
+]
+}

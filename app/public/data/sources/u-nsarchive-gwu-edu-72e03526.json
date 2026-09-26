@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-e267ce0f69",
+"locator": null,
+"node": "operation-northwoods",
+"nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"sourceText": "National Security Archive, Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, 'Justification for US Military Intervention in Cuba', https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
+"text": "It reached the public through a records statute, not through disclosure. The National Security Archive's posting gives the classification as TOP SECRET SPECIAL HANDLING NOFORN and the source as the John F. Kennedy Assassination Records Review Board.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "National Security Archive",
+"id": "u-nsarchive-gwu-edu-72e03526",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "operation-northwoods",
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+}
+],
+"node": null,
+"title": "National Security Archive posting of the same memorandum",
+"topics": [
+{
+"claims": [
+"c-e267ce0f69"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-e267ce0f69"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "web page",
+"urls": [
+"https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962"
+]
+}

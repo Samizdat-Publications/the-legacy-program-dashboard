@@ -1,0 +1,108 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-73cc187f20",
+"locator": null,
+"node": "larry-warren",
+"nodeLabel": "Larry Warren",
+"sourceText": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "HIS PUBLISHER WITHDREW THE BOOK. Cosimo, Inc., 17 October 2017, verbatim: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins.' The stated reason is that 'some of the experiences described in this book may be inaccurate or embellished' and that the publisher cannot presently confirm the book meets its standards.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-c6d95391bb",
+"locator": null,
+"node": "rendlesham-1980",
+"nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"sourceText": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins published a repudiation on 13 June 2017 alleging fabricated and altered documents, and Cosimo, Inc. announced on 17 October 2017 that it was 'suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins' because 'some of the experiences described in this book may be inaccurate or embellished'.",
+"tier": 2
+}
+],
+"date": "2017-10",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "larry-warren",
+"label": "Larry Warren"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 2,
+"id": "e-3c29956f3c",
+"label": "Claims presence at the December 1980 events; contested",
+"note": "TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-robbins",
+"label": "Peter Robbins"
+},
+"b": {
+"cls": "person",
+"id": "larry-warren",
+"label": "Larry Warren"
+},
+"claimTier": 2,
+"id": "e-0bb36c2a9b",
+"label": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
+"note": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home.",
+"type": "denial"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-cosimoblog-blogspot-com-71198734",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cosimoblog.blogspot.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "larry-warren",
+"label": "Larry Warren"
+},
+{
+"cls": "person",
+"id": "peter-robbins",
+"label": "Peter Robbins"
+},
+{
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+}
+],
+"node": null,
+"title": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
+"topics": [
+{
+"claims": [
+"c-73cc187f20",
+"c-c6d95391bb"
+],
+"id": "rendlesham-1980",
+"title": "Rendlesham Forest, December 1980"
+},
+{
+"claims": [
+"c-73cc187f20"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+}
+],
+"type": "article",
+"urls": [
+"http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+]
+}

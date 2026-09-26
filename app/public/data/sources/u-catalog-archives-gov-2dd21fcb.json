@@ -1,0 +1,130 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-10e28adf60",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/id/656595571",
+"text": "Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-aec68e0fda",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/id/656595571",
+"text": "The Air Force series carries accession number TR-0615-2026-0003, was described from NARA descriptive file NAC_2026-08-27_23.116_DESC_0001.xml and entered the catalog index on 28 August 2026 at 08:30 UTC.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c2db81885e",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/id/656595571",
+"text": "All 30 items carry contiguous UAP Record Identifiers 342UAP00001 through 342UAP00030, and each has exactly one attached PDF digital object; all 30 object URLs were fetched on 28 August 2026 and returned PDF content.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d9b6afa0d7",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/id/656595571",
+"text": "The Air Force RG 615 series runs to 8,093 pages across its 30 PDFs. The scans carry no OCR text layer: the only machine-readable text in the files is the page-header identifier stamped on each page during processing, so the series cannot be full-text searched as released.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e797a84d82",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/id/656595571",
+"text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-eee402da5f",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://www.archives.gov/research/topics/uaps/rg-615; https://catalog.archives.gov/id/656595571",
+"text": "The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and the first military department to appear as a contributor in its own right, as series 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena', National Archives Identifier 656595571.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f1f7f264e4",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/id/656595571",
+"text": "The Air Force series holds 30 items with an extent of '30 Portable Document Format (PDF) files', inclusive dates 25 October 1945 to 31 December 1969, access restriction Unrestricted and use restriction Unrestricted, under disposition authority DAA-GRS-2024-0002-0001.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-240b9b83f1",
+"locator": null,
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"sourceText": "https://catalog.archives.gov/id/656595571",
+"text": "The Department of the Air Force's first transfer into NARA Record Group 615 (series 656595571, 30 items, accessioned 28 August 2026) contains two RAND items sixteen years apart: item 342UAP00003, the Curtis LeMay Collection 1945-1947, which carries a 5 August 1947 report naming Project RAND; and item 342UAP00025, RAND Memorandum RM-3178-PR of March 1963.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-catalog-archives-gov-2dd21fcb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+{
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+}
+],
+"node": null,
+"title": "catalog.archives.gov",
+"topics": [
+{
+"claims": [
+"c-10e28adf60",
+"c-d9b6afa0d7",
+"c-eee402da5f",
+"c-f1f7f264e4"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+},
+{
+"claims": [
+"c-240b9b83f1"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
+"type": "web page",
+"urls": [
+"https://catalog.archives.gov/id/656595571"
+]
+}

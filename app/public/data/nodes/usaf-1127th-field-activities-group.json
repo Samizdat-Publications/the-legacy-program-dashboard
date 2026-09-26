@@ -7,38 +7,86 @@
 {
 "id": "c-011bc31f13",
 "source": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, contents page and title page",
+"sources": [
+{
+"id": "u-nsarchive2-gwu-edu-5dfa3172",
+"locator": "contents page and title page",
+"title": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67"
+}
+],
 "text": "The unit's own semiannual history, 'HISTORY / 1127 USAF FIELD ACTIVITIES GROUP (AFNIA) / 1 January - 30 June 1967', document number AFNIABA 014-67, lists under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29) and 'Project MOON DUST' (p.30). It was classified SECRET and bears the struck-through markings 'RODCA MATERIAL / SPECIAL ACCESS REQUIRED / NO FOREIGN DISSEMINATION'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-88aca962dc",
 "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29, Project BLUE FLY",
+"sources": [
+{
+"id": "u-nsarchive2-gwu-edu-5dfa3172",
+"locator": "p.29, Project BLUE FLY",
+"title": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67"
+}
+],
 "text": "Page 29 records that after the 7 April 1967 air battle, three MIG-21s that crashed in Jordan were exploited by 'personnel of Detachment 3, FTD', and that the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-72a327a886",
 "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29",
+"sources": [
+{
+"id": "u-nsarchive2-gwu-edu-5dfa3172",
+"locator": "p.29",
+"title": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67"
+}
+],
 "text": "The same page records that in February 1967 'the Joint Chiefs of Staff approved a one-year extension of the authority granted the USAF to apply Force/Activity Designator I (F/AD-I) priority to short-notice BLUE FLY airlift contingencies.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ebb95d67d6",
 "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30, Project MOON DUST",
+"sources": [
+{
+"id": "u-nsarchive2-gwu-edu-5dfa3172",
+"locator": "p.30, Project MOON DUST",
+"title": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67"
+}
+],
 "text": "Page 30 records that 'The 1st Aerospace Control Squadron (SPADATS), Ent AFB, Colorado, notified AFNIAA of the deorbit of 37 Soviet space objects consisting of rocket bodies, payloads, and space platforms.' A redaction follows; the accompanying US figure is illegible in the scan at 340 dpi and is not reported.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2bde929920",
 "source": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62",
+"sources": [
+{
+"id": "u-nsarchive2-gwu-edu-db6c18b5",
+"locator": "p.62",
+"title": "History of the Assistant Chief of Staff, Intelligence, July - December 1967"
+}
+],
 "text": "The companion 'History of the Assistant Chief of Staff, Intelligence, July - December 1967' states at page 62 that the Operations Plans Branch 'received from the 1st Aerospace Control Squadron (SPADATS) at Ent, AFB, Colorado, notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance.' These are notifications of deorbit received, NOT objects recovered.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d9a36546ca",
 "source": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.47",
+"sources": [
+{
+"id": "u-nsarchive2-gwu-edu-db6c18b5",
+"locator": "p.47",
+"title": "History of the Assistant Chief of Staff, Intelligence, July - December 1967"
+}
+],
 "text": "'Colonel Rudolph C. Koller, Jr., was Commander of the 1127 USAF Fld Acty Gp during the entire period of this report', with an authorised strength rising from 220 to 249 over the half-year.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -198,7 +246,7 @@
 ],
 "sub": "Air Force intelligence unit running Project BLUE FLY and Project MOON DUST under its Foreign Materiel Program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 144 of 1138, score 54). 4 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 143 of 1138, score 54). 4 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-eec4eeac64",
+"locator": null,
+"node": "eo-12829",
+"nodeLabel": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
+"sourceText": "https://www.law.cornell.edu/uscode/text/50/3161",
+"text": "Citation and date, verbatim from the notes to 50 U.S.C. 3161: 'Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479.' Section 101: 'There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-law-cornell-edu-02f8e31f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Legal Information Institute",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "eo-12829",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)"
+}
+],
+"node": null,
+"title": "Executive Order 12829, National Industrial Security Program, 6 Jan 1993, 58 FR 3479 — reproduced in the notes to 50 U.S.C. 3161 (Cornell LII)",
+"topics": [
+{
+"claims": [
+"c-eec4eeac64"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.law.cornell.edu/uscode/text/50/3161"
+]
+}

@@ -1,0 +1,159 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b57631f8aa",
+"locator": null,
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/",
+"text": "Chairs the House Oversight Task Force on the Declassification of Federal Secrets, with Jasmine Crockett as ranking member.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ce8890e7b7",
+"locator": null,
+"node": "maxwell-frost",
+"nodeLabel": "Maxwell Alejandro Frost",
+"sourceText": "oversight.house.gov Task Force membership page",
+"text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bc6e0d1fa6",
+"locator": null,
+"node": "raja-krishnamoorthi",
+"nodeLabel": "Subramanian Raja Krishnamoorthi",
+"sourceText": "oversight.house.gov Task Force membership page",
+"text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a023889128",
+"locator": null,
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"sourceText": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/",
+"text": "Task force membership: Chair Anna Paulina Luna (FL-13), Ranking Member Jasmine Crockett (TX-30); members Mace, Burchett, Boebert, Burlison, Crane, Gill, Krishnamoorthi, Lee, Min, Lynch, Frost.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 1,
+"id": "e-ab96dce1ff",
+"label": "Chairwoman",
+"note": "Luna chairs the task force; Jasmine Crockett is ranking member; Mace, Burchett, Boebert, Burlison, Crane and Gill sit on the majority side.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jasmine-crockett",
+"label": "Jasmine Felicia Crockett"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 1,
+"id": "e-a6e78f6f58",
+"label": "Ranking Member",
+"note": "Printed as Ranking Member in the roster of CHRG-119hhrg61718.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-2566981fdb",
+"label": "the panel with jurisdiction over the collection's non-contributors",
+"note": "The task force's declared remit is federal secrecy generally; the agencies absent from RG 615 - CIA, DIA, NRO, NGA, DOE - are the same agencies whose other files it has pursued.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-oversight-house-gov-78bf35a9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "document",
+"id": "comer-luna-agency-letters-2025",
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025"
+},
+{
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+{
+"cls": "person",
+"id": "jasmine-crockett",
+"label": "Jasmine Felicia Crockett"
+},
+{
+"cls": "person",
+"id": "lauren-boebert",
+"label": "Lauren Opal Boebert"
+},
+{
+"cls": "person",
+"id": "maxwell-frost",
+"label": "Maxwell Alejandro Frost"
+},
+{
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+{
+"cls": "person",
+"id": "raja-krishnamoorthi",
+"label": "Subramanian Raja Krishnamoorthi"
+},
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+}
+],
+"node": null,
+"title": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+]
+}

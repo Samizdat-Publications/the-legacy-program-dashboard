@@ -1,0 +1,152 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-5bd260b49c",
+"locator": null,
+"node": "cnes",
+"nodeLabel": "Centre National d'Études Spatiales (CNES)",
+"sourceText": "Wikipedia, 'COMETA report', citing Sillard et al. (2007)",
+"text": "Yves Sillard, former CNES director general, edited Phénomènes aérospatiaux non identifiés: un défi pour la science (Le Cherche Midi, 2007) with Jacques Arnould, Pierre Marx, François Parmentier, Jacques Patenet, Dominique Weinstein and Jean-Claude Ribes.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-c2b2acda8b",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "https://en.wikipedia.org/wiki/COMETA_report, citing Kragel & Couprie, 'OVNIS, Enquête sur un secret d'état' (Cherche Midi, 2010) and Rossoni, 'Les OVNI du CNES' (2005)",
+"text": "COMETA 'operated informally since 1996' and 'was officially registered as a non-profit association under the French law of 1901 on February 24, 1999'; it became dormant around 2006, and the report 'was not widely circulated due to copyright restrictions'. It was reissued in book form by Éditions du Rocher in 2003 (ISBN 2-268-04592-7), and an archive was made public in 2007 by GEIPAN.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-f433f9bd56",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "Wikipedia, 'COMETA report'",
+"text": "COMETA was registered under the French law of 1901 on 24 February 1999 and became dormant around 2006; the report itself was not widely circulated because of copyright restrictions.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-7b918f01b3",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "https://en.wikipedia.org/wiki/COMETA_report, citing Robert Roussel, 'Ovnis 1947-2017. Le choix du déni' (L'Harmattan, 2018), p. 214",
+"text": "According to Olivier Schrameck, chief of staff to Prime Minister Lionel Jospin, Jospin read and annotated the COMETA report 'to mark his interest' on receiving it; the French government made no official response beyond that.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-44162fd50d",
+"locator": null,
+"node": "denis-letty",
+"nodeLabel": "Général Denis Letty",
+"sourceText": "Wikipedia, 'COMETA report', citing Kragel and Couprie, OVNIS, Enquête sur un secret d'état (2010)",
+"text": "COMETA was 'officially registered as a non-profit association under the French law of 1901 on February 24, 1999' and was chaired by retired French Air Force General Denis Letty.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4038428864",
+"locator": "flagged as needing citation",
+"node": "jj-velasco",
+"nodeLabel": "Jean-Jacques Velasco",
+"sourceText": "Wikipedia, 'COMETA report' (flagged there as needing citation)",
+"text": "COMETA member Jean-Jacques Velasco personally handed the 90-page report to Prime Minister Lionel Jospin.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-684d64d54e",
+"locator": "p.214 of cited work",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "Wikipedia, 'COMETA report', citing Robert Roussel, Ovnis 1947-2017: Le choix du déni (2018), p.214",
+"text": "Olivier Schrameck, chief of staff to Prime Minister Lionel Jospin, said Jospin read and annotated the COMETA report 'to mark his interest'; the French government made no official response beyond that.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "location",
+"id": "l-france",
+"label": "France"
+},
+"claimTier": 2,
+"id": "e-607501aa64",
+"label": "French private defence committee",
+"note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "location",
+"id": "l-paris",
+"label": "Paris, France"
+},
+"claimTier": 3,
+"id": "e-e810053047",
+"label": "IHEDN origin; delivered to the Prime Minister",
+"note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-d0df5144",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+{
+"cls": "person",
+"id": "denis-letty",
+"label": "Général Denis Letty"
+},
+{
+"cls": "document",
+"id": "doc-cometa-report",
+"label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+}
+],
+"node": null,
+"title": "COMETA report - Wikipedia",
+"topics": [
+{
+"claims": [
+"c-c2b2acda8b",
+"c-4038428864",
+"c-684d64d54e"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/COMETA_report"
+]
+}

@@ -7,26 +7,40 @@
 {
 "id": "c-6d85344c46",
 "source": "D.D.C. civil docket, No. 1:03-cv-02509",
+"sources": [
+{
+"id": "u-courtlistener-com-c58ba8e3",
+"locator": null,
+"title": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.) - full docket"
+}
+],
 "text": "Case filed 9 December 2003; assigned to Judge Emmet G. Sullivan; nature of suit 895 Freedom of Information Act; jurisdiction type US Government Defendant; terminated 24 August 2009.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7c1188ffff",
 "source": "D.D.C. docket, minute orders of 22 February and 13 March 2007 and proceedings of 20 March 2007",
+"sources": [],
 "text": "On 22 February 2007 the court ordered NASA to submit its Exemption 5 withholdings to chambers for in camera review by 7 March 2007 and sua sponte scheduled a hearing; the hearing was heard on 20 March 2007 before Judge Sullivan, court reporter Elaine Merchant.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-admin) was rejected in review: docket orders without case name or number"
 },
 {
 "id": "c-27b1ead4c1",
 "source": "Order, Dkt. 44, 27 March 2007, and accompanying Memorandum Opinion, Dkt. 45",
+"sources": [],
 "text": "The 27 March 2007 order granted in part and denied in part without prejudice NASA's motion for summary judgment, denied Kean's cross-motions without prejudice, and required a joint proposal for search and documentation procedures.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106) was rejected in review: names Order Dkt 44 and Opinion Dkt 45; two documents"
 },
 {
 "id": "c-f547c4232a",
 "source": "D.D.C. docket entries 55, 56, 69 and the minute orders of 17 October 2007 and 24 August 2009",
+"sources": [],
 "text": "Stipulation of Settlement in Part signed 16 October 2007 and entered 17 October 2007, with joint status reports ordered every sixty days; case dismissed by minute order of 24 August 2009 granting the parties' joint motion, the court noting NASA's representations that it had met its obligations under the settlement.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-admin) was rejected in review: docket entries without case name or number"
 }
 ],
 "cls": "event",

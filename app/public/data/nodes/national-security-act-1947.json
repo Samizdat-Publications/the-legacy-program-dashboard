@@ -7,38 +7,106 @@
 {
 "id": "c-c8c2c7821b",
 "source": "61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+}
+],
 "text": "The enrolled text carries the sidenote 'July 26,1947 [S. 758] [Public Law 253]' and closes 'Approved July 26, 1947.' Its short title clause reads 'That this Act may be cited as the National Security Act of 1947.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fea5c38fa2",
 "source": "National Security Act of 1947 sec. 102(a), 61 Stat. 497, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-497",
+"locator": null,
+"title": "61 Stat. 497"
+},
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+}
+],
 "text": "Section 102(a): 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The Agency is created UNDER the Council, not beside it.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-91ce4e14b1",
 "source": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-498",
+"locator": null,
+"title": "61 Stat. 498"
+},
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+}
+],
 "text": "SECTION 102(d)(5) IS THE CLAUSE THAT MATTERS. It permits the Agency to perform such other functions and duties related to intelligence as the National Security Council may from time to time direct, and it is the authority expressly invoked by NSC 10/2 of 18 June 1948 and again by NSC 5412 of 15 March 1954. The United States covert-action programme rests on a residual clause in a reorganisation statute, not on a grant of authority written for it.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fa39ba5965",
 "source": "National Security Act of 1947 sec. 201(a), 61 Stat. 499, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-499",
+"locator": null,
+"title": "61 Stat. 499"
+},
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+}
+],
 "text": "THE ACT DID NOT CREATE THE DEPARTMENT OF DEFENSE, and the common claim that it did is wrong on the text. Section 201(a) reads 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof'. The renaming to Department of Defense came with the amendments of 10 August 1949, ch. 412, 63 Stat. 579.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-369397190e",
 "source": "National Security Act of 1947, 61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+}
+],
 "text": "The Act also creates the National Security Resources Board (sec. 103), the Departments of the Army, Navy and Air Force and the United States Air Force (secs. 205 to 208), the Joint Chiefs of Staff (sec. 211) and the Munitions Board (sec. 213).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0be21e2ad8",
 "source": "61 Stat. 495, absence of a signature line, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"sources": [
+{
+"id": "stat-61-495",
+"locator": "absence of a signature line",
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+{
+"id": "stat-61-495",
+"locator": null,
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+}
+],
 "text": "NOT VERIFIED, AND RECORDED AS UNVERIFIED RATHER THAN ASSUMED: the Statutes at Large prints only 'Approved July 26, 1947' and names no President. Truman's signature is universally reported and no primary signing document was opened for it in this pass.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

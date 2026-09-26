@@ -1,0 +1,134 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4830c6b335",
+"locator": null,
+"node": "faa",
+"nodeLabel": "Federal Aviation Administration",
+"sourceText": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The FAA series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accession numbers TR-0615-2025-0006 and TR-0615-2025-0008, has an extent of '575 portable document files (pdf)', an inclusive start date of 1 October 2023 and a coverage end date of 26 October 2024, and is held by the National Archives at College Park, Electronic Records.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-79178e95cd",
+"locator": null,
+"node": "faa",
+"nodeLabel": "Federal Aviation Administration",
+"sourceText": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The series carries access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)', and a use restriction of 'Unrestricted'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a4cb4794fa",
+"locator": null,
+"node": "faa",
+"nodeLabel": "Federal Aviation Administration",
+"sourceText": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The catalog's creator authority for the series is 'Department of Transportation. Federal Aviation Administration. (04/01/1967 - )', National Archives Identifier 10480916, with an establish date of 1 April 1967.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f997965b17",
+"locator": null,
+"node": "faa",
+"nodeLabel": "Federal Aviation Administration",
+"sourceText": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The series' finding aid note records that 'The agency provided a metadata list of all files in this series', with the source given as the Federal Aviation Administration.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-55dd1b7621",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The FAA series in this collection is withheld in part under a named statutory postponement code. The catalog's own metadata export for NAID 493468575 gives access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)' and a use restriction of 'Unrestricted'. The series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accessions TR-0615-2025-0006 and TR-0615-2025-0008, an extent of 575 portable document files, and is held at the National Archives at College Park, Electronic Records.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+"b": {
+"cls": "institution",
+"id": "national-archives",
+"label": "National Archives and Records Administration"
+},
+"claimTier": 1,
+"id": "e-9073ba103c",
+"label": "NARA holds and describes the FAA series at College Park, Electronic Records",
+"note": "NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-e195651a65",
+"label": "First-listed contributing agency; series NAID 493468575, 575 PDF files, restricted in part",
+"note": "The FAA's transferred UAP records sit in Record Group 615 as series NAID 493468575, one of eight agency series NARA lists in the collection.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-catalog-archives-gov-6004c76a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "National Archives Catalog metadata export, NAID 493468575",
+"topics": [
+{
+"claims": [
+"c-4830c6b335",
+"c-79178e95cd"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-79178e95cd",
+"c-55dd1b7621"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "web page",
+"urls": [
+"https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
+]
+}

@@ -1,0 +1,195 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e447cef602",
+"locator": null,
+"node": "eli-crane",
+"nodeLabel": "Elijah Crane",
+"sourceText": "Congress.gov, H.R. 5060 (119th Congress), cosponsor record",
+"text": "Cosponsor of H.R. 5060, the UAP Whistleblower Protection Act, introduced 29 August 2025.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8ca1eeb6a8",
+"locator": null,
+"node": "hr-5060-uap-whistleblower-protection-act",
+"nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sourceText": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
+"text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-1eaa9489b7",
+"locator": null,
+"node": "d-legal",
+"nodeLabel": "Legal Doctrine & Liability",
+"sourceText": "Congress.gov, H.R. 5060 (119th Congress)",
+"text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced in the 119th Congress on 29 August 2025, following H.R. 10111 in the 118th.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-79f48e7b0e",
+"locator": null,
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"sourceText": "Congress.gov, H.R. 5060, 119th Congress",
+"text": "Burchett introduced H.R. 5060, the UAP Whistleblower Protection Act, in the 119th Congress.",
+"tier": 1
+}
+],
+"date": "2025",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"claimTier": 1,
+"id": "e-a288b5a67f",
+"label": "Cosponsor",
+"note": "Congress.gov cosponsor record.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"claimTier": 1,
+"id": "e-213ee1bc4e",
+"label": "Cosponsor",
+"note": "Congress.gov cosponsor record; Crane also entered the Grusch reprisal letter into the record of the hearing that followed.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-072010735c",
+"label": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
+"note": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"claimTier": 1,
+"id": "e-88d8177da1",
+"label": "Sponsor of the reintroduced bill",
+"note": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
+"type": "legislative"
+}
+],
+"era": "3",
+"host": null,
+"id": "bills-119hr5060ih",
+"identifiers": [
+"BILLS-119hr5060ih"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+{
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+{
+"cls": "domain",
+"id": "d-legal",
+"label": "Legal Doctrine & Liability"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"title": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"topics": [
+{
+"claims": [
+"c-1eaa9489b7"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+},
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+},
+{
+"claims": [
+"c-8ca1eeb6a8"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.congress.gov/bill/119th-congress/house-bill/5060",
+"https://www.congress.gov/bill/119th-congress/house-bill/5060/text",
+"https://www.govinfo.gov/content/pkg/BILLS-119hr5060ih/html/BILLS-119hr5060ih.htm"
+]
+}

@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"b": {
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice"
+},
+"claimTier": 2,
+"id": "e-2e18001412",
+"label": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
+"note": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+"claimTier": 1,
+"id": "e-02e6600133",
+"label": "ADAM: acquisition and analysis of claimed exotic material",
+"note": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-vice-com-2b2e4f17",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+{
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+}
+],
+"node": null,
+"title": "M.J. Banias, 'Tom DeLonge's UFO Organization Says It's Obtained Exotic Metals Unknown to Science', Vice",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.vice.com/en/article/tom-delonges-ufo-organization-says-its-obtained-exotic-metals-unknown-to-science/"
+]
+}

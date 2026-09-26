@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c49875f40e",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "DIA talking paper DR_Reid_Mtg_Nov09, 19 Nov 2009",
+"text": "DIA scheduled a 19 Nov 2009 4:45pm briefing of Reid in SVC-217 to tell him the deliverables 'do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8945710e2f",
+"locator": null,
+"node": "william-lynn",
+"nodeLabel": "William J. Lynn III",
+"sourceText": "DIA talking paper DR_Reid_Mtg_Nov09",
+"text": "A DIA talking paper for a 19 November 2009 4:45pm meeting in SVC-217 records that the Deputy Secretary of Defense would tell Reid the AAWSAP deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 1,
+"id": "e-cec370253b",
+"label": "in-person refusal of the SAP request",
+"note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-documents2-theblackvault-446395e3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+}
+],
+"node": null,
+"title": "DIA talking paper — Senator Reid meeting, November 2009",
+"topics": [
+{
+"claims": [
+"c-c49875f40e"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+},
+{
+"claims": [
+"c-c49875f40e"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+}
+],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/DR_Reid_Mtg_Nov09.pdf"
+]
+}

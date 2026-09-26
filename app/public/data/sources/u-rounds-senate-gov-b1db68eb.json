@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "disclosure-symposium-2026",
+"label": "2026 Disclosure Symposium"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+"claimTier": 1,
+"id": "e-9c7f1a3fe7",
+"label": "Target vehicle contains no UAP provisions to amend",
+"note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-rounds-senate-gov-b1db68eb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Senate",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+{
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+}
+],
+"node": null,
+"title": "Sen. Rounds — FY2027 NDAA committee wins",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa"
+]
+}

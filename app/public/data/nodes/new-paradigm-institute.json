@@ -7,14 +7,24 @@
 {
 "id": "c-7adc95908e",
 "source": "New Paradigm Institute website, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-newparadigminstitute-org-d16a845e",
+"locator": null,
+"title": "New Paradigm Institute"
+}
+],
 "text": "The New Paradigm Institute runs a campaign stating 'The House Acted. Now Tell the Senate to Pass the UAPDA', plus a UAP Transparency Pledge for candidates and a Citizens for Disclosure programme.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f70e7aec3e",
 "source": "New Paradigm Institute website; Wikipedia, 'Daniel Sheehan (attorney)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Daniel Sheehan leads the organisation and represents Luis Elizondo in a case against the Department of Defense.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:newparadigminstitute.org) was rejected in review: names two sources; candidate is only one"
 }
 ],
 "cls": "institution",

@@ -1,0 +1,381 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-80237994c7",
+"locator": "17 January 1953",
+"node": "cia",
+"nodeLabel": "Central Intelligence Agency",
+"sourceText": "Robertson Panel report, declassified text, 17 January 1953",
+"text": "The Robertson Panel, convened by CIA in January 1953 under H. P. Robertson, recommended a programme of public education and debunking to strip UFOs of their 'aura of mystery', and the monitoring of civilian UFO groups because of their 'potentially great influence on mass thinking'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e82239d09d",
+"locator": null,
+"node": "frederick-durant",
+"nodeLabel": "Frederick C. Durant III",
+"sourceText": "Durant memorandum / Robertson Panel report text",
+"text": "The Durant record documents panel concern about 'the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior' and recommends monitoring civilian UFO groups.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-5aebd6dd9a",
+"locator": "declassified text",
+"node": "d-history",
+"nodeLabel": "Historiography",
+"sourceText": "Robertson Panel report, declassified text",
+"text": "The Robertson Panel report of January 1953 is a primary document in the official corpus and was itself declassified only in redacted stages.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5d9a16ee49",
+"locator": "membership list",
+"node": "howard-p-robertson",
+"nodeLabel": "Howard P. Robertson",
+"sourceText": "Robertson Panel report, membership list",
+"text": "Panel membership was Robertson (chair, Caltech), Luis W. Alvarez, Lloyd V. Berkner, Samuel A. Goudsmit and Thornton Page, with Frederick C. Durant as secretary.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7abf75a351",
+"locator": "Recommendations",
+"node": "howard-p-robertson",
+"nodeLabel": "Howard P. Robertson",
+"sourceText": "Robertson Panel report, Recommendations",
+"text": "The panel recommended a public education programme with 'training' and 'debunking' aims, stating 'this education could be accomplished by mass media such as television, motion pictures, and popular articles.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e34c163c52",
+"locator": "declassified text",
+"node": "howard-p-robertson",
+"nodeLabel": "Howard P. Robertson",
+"sourceText": "Robertson Panel report, declassified text",
+"text": "The panel report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA' and covers meetings of 14-18 January 1953.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-d0b49eaa86",
+"locator": null,
+"node": "d-ic",
+"nodeLabel": "Intelligence Community",
+"sourceText": "Robertson Panel report",
+"text": "CIA's Office of Scientific Intelligence convened the Robertson Panel in January 1953.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-ee72aa1431",
+"locator": "declassified text",
+"node": "d-psyop",
+"nodeLabel": "Psychological Operations & Perception Management",
+"sourceText": "Robertson Panel report, declassified text",
+"text": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-44158d9b9a",
+"locator": "Recommendations",
+"node": "robertson-panel",
+"nodeLabel": "Robertson Panel",
+"sourceText": "Robertson Panel report, Recommendations",
+"text": "The panel recommended a public education programme with 'training' and 'debunking' aims, to be accomplished 'by mass media such as television, motion pictures, and popular articles'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f32fd55072",
+"locator": "declassified text",
+"node": "robertson-panel",
+"nodeLabel": "Robertson Panel",
+"sourceText": "Robertson Panel report, declassified text",
+"text": "The panel was convened by the CIA Office of Scientific Intelligence and met 14-18 January 1953; its report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-05f5b852b7",
+"label": "CIA convened and sponsored the panel, and concealed that sponsorship",
+"note": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-3710978124",
+"label": "CIA convened and staffed the January 1953 scientific advisory panel",
+"note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 2,
+"id": "e-532901d7a2",
+"label": "Ruppelt attended the panel as Blue Book director and later described it",
+"note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "frederick-durant",
+"label": "Frederick C. Durant III"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-9d8f49cf11",
+"label": "Durant was panel secretary and wrote the proceedings record",
+"note": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "howard-p-robertson",
+"label": "Howard P. Robertson"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-3a568b8f37",
+"label": "Chaired the CIA-convened panel of January 1953",
+"note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "howard-p-robertson",
+"label": "Howard P. Robertson"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-1fcd561803",
+"label": "Robertson chaired the panel",
+"note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-ic",
+"label": "Intelligence Community"
+},
+"b": {
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"claimTier": 1,
+"id": "e-8853149ed8",
+"label": "CIA convened the panel that recommended debunking",
+"note": "The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 2,
+"id": "e-6ecac0ea84",
+"label": "Hynek presented to the panel but was not a member",
+"note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"b": {
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2"
+},
+"claimTier": 3,
+"id": "e-0cc4acb08e",
+"label": "Panel recommendations became binding Air Force regulation",
+"note": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"b": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"claimTier": 1,
+"id": "e-f84fed5a8b",
+"label": "Debunking recommended as a security measure",
+"note": "The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-documents-theblackvault--50710a63",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2"
+},
+{
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+{
+"cls": "person",
+"id": "frederick-durant",
+"label": "Frederick C. Durant III"
+},
+{
+"cls": "domain",
+"id": "d-history",
+"label": "Historiography"
+},
+{
+"cls": "person",
+"id": "howard-p-robertson",
+"label": "Howard P. Robertson"
+},
+{
+"cls": "domain",
+"id": "d-ic",
+"label": "Intelligence Community"
+},
+{
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+{
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+{
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+}
+],
+"node": null,
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+"topics": [
+{
+"claims": [
+"c-80237994c7",
+"c-e82239d09d",
+"c-5d9a16ee49",
+"c-7abf75a351",
+"c-e34c163c52",
+"c-44158d9b9a",
+"c-f32fd55072"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+},
+{
+"claims": [
+"c-44158d9b9a",
+"c-f32fd55072"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-80237994c7"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-ee72aa1431"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-d0b49eaa86"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "document",
+"urls": [
+"https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+]
+}

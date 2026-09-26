@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sue-gordon",
+"label": "Susan M. Gordon"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-8b16fbadbc",
+"label": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
+"note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-potomacofficersclub-com-8a17d874",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "potomacofficersclub.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "sue-gordon",
+"label": "Susan M. Gordon"
+}
+],
+"node": null,
+"title": "Potomac Officers Club",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.potomacofficersclub.com/mitre-trustees-board-elects-former-national-intelligence-deputy-director-as-vice-chair/"
+]
+}

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-26a0397b5c",
+"locator": null,
+"node": "fab",
+"nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"sourceText": "Câmara dos Deputados, CREDN, 'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito', 24/10/2012 (https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito); contrasted with Senado Federal RQS 193/2022",
+"text": "SPELLING RESOLVED - 'Juniti Saito' is correct; 'Junichi Saito' is an error originating in the Senate requerimento. The Câmara dos Deputados portal reproduces the Air Force Commander's own Ordem do Dia for Aviator's Day, signed in his own signature block: 'Tenente-Brigadeiro-do-Ar JUNITI SAITO / Comandante da Aeronáutica' (24/10/2012). The variant 'Junichi Saito' appears in the justificação of Senado RQS 193/2022, which also miscalls the Portaria a 'decreto'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-www2-camara-leg-br-702f8e72",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Camara dos Deputados (Brasil)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "fab",
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+}
+],
+"node": null,
+"title": "Câmara dos Deputados, CREDN, 'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito', 24/10/2012 ( contrasted with Senado Federal RQS 193/2022",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito"
+]
+}

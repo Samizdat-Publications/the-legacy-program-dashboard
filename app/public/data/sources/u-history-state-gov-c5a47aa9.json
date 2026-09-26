@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-history-state-gov-c5a47aa9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+}
+],
+"node": null,
+"title": "Editorial Note on the establishment of the Psychological Strategy Board, FRUS 1950-1955 The Intelligence Community doc. 60",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1950-55Intel/d60"
+]
+}

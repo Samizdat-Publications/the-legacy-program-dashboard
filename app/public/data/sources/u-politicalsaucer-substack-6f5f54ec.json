@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-4ca7069538",
+"locator": null,
+"node": "l-ellsworth",
+"nodeLabel": "Ellsworth AFB, South Dakota",
+"sourceText": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
+"text": "A second, independent write-up naming both men and the 44th Missile Security Squadron appeared on 12 September 2026, five days after the Michels episode. Its body is paywalled and only its header was read by this board.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-390dcc8e9f",
+"locator": null,
+"node": "mario-woods",
+"nodeLabel": "Mario Woods",
+"sourceText": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
+"text": "A second, independent write-up of the case appeared on 12 September 2026, five days after the Michels episode, naming both men and the 44th Missile Security Squadron. Its body is paywalled and only its header was read.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mario-woods",
+"label": "Mario Woods"
+},
+"b": {
+"cls": "event",
+"id": "ellsworth-1977",
+"label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977"
+},
+"claimTier": 2,
+"id": "e-3a8e29454f",
+"label": "The originating claimant, public since 1996",
+"note": "PUBLIC SINCE 1996 UNDER HIS OWN NAME, WITH MORE THAN FORTY CLAIMED MEDIA APPEARANCES IN WHICH HE NAMED MICHAEL JOHNSON ON AIR AND ASKED AUDIENCES TO FIND HIM. That is both why the 2026 reunion was possible and why the two accounts cannot be treated as independent. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-politicalsaucer-substack-6f5f54ec",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "politicalsaucer.substack.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "ellsworth-1977",
+"label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977"
+},
+{
+"cls": "location",
+"id": "l-ellsworth",
+"label": "Ellsworth AFB, South Dakota"
+},
+{
+"cls": "person",
+"id": "mario-woods",
+"label": "Mario Woods"
+},
+{
+"cls": "person",
+"id": "michael-johnson",
+"label": "Michael Johnson"
+}
+],
+"node": null,
+"title": "The Political Saucer, 'The Night at November-5: Two Missile Guards, Nine Lost Hours, and the Nuclear Security Incident the Air Force Never Explained', 12 September 2026",
+"topics": [],
+"type": "article",
+"urls": [
+"https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile"
+]
+}

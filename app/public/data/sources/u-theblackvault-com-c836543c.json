@@ -1,0 +1,109 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-efb3d4f85f",
+"locator": null,
+"node": "neill-tipton",
+"nodeLabel": "Neill Tipton",
+"sourceText": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
+"text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 2,
+"id": "e-51e6f50585",
+"label": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
+"note": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 1,
+"id": "e-041904e17a",
+"label": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
+"note": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+"b": {
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"claimTier": 1,
+"id": "e-6e9f689760",
+"label": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
+"note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-c836543c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+{
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+}
+],
+"node": null,
+"title": "The Black Vault",
+"topics": [
+{
+"claims": [
+"c-efb3d4f85f"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-efb3d4f85f"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+]
+}

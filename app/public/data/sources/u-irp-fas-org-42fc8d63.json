@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-3fef1fee56",
+"locator": null,
+"node": "eo-12356",
+"nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
+"sourceText": "EO 12356 sec. 6.2(d), and a 404 at https://irp.fas.org/offdocs/eo/eo-12356.htm",
+"text": "IT DID NOT REVOKE EO 11652, and the claim that it did is wrong. EO 12065 had already revoked 11652 in 1978. Also note that the Federation of American Scientists URL usually given for this order, irp.fas.org/offdocs/eo/eo-12356.htm, returns HTTP 404 and does not exist.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Federation of American Scientists",
+"id": "u-irp-fas-org-42fc8d63",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "legislation",
+"id": "eo-12356",
+"label": "Executive Order 12356 - National Security Information (2 April 1982)"
+}
+],
+"node": null,
+"title": "EO 12356 sec. 6.2(d), and a 404 at",
+"topics": [
+{
+"claims": [
+"c-3fef1fee56"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "web page",
+"urls": [
+"https://irp.fas.org/offdocs/eo/eo-12356.htm"
+]
+}

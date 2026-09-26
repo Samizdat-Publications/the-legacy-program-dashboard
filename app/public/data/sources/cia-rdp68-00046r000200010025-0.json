@@ -1,0 +1,39 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-d62f8e5da6",
+"locator": "Bob Considine, 'Generals Don't Fade Away', New York Journal-American, 17 January 1957",
+"node": "sperry-rand",
+"nodeLabel": "Sperry Rand Corporation",
+"sourceText": "CIA-RDP68-00046R000200010025-0, Bob Considine, 'Generals Don't Fade Away', New York Journal-American, 17 January 1957; declassified in part 2014-03-19",
+"text": "A New York Journal-American column of 17 January 1957, held in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.' The same column names Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil, Ennis Whitehead at Northrop and J. B. Montgomery at General Electric.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp68-00046r000200010025-0",
+"identifiers": [
+"CIA-RDP68-00046R000200010025-0"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "sperry-rand",
+"label": "Sperry Rand Corporation"
+}
+],
+"node": null,
+"title": "Generals Don (CIA-RDP68-00046R000200010025-0)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200010025-0"
+]
+}

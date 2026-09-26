@@ -7,26 +7,46 @@
 {
 "id": "c-9b105f3ec5",
 "source": "Robert J. Low memorandum to University of Colorado administrators, 9 August 1966",
+"sources": [
+{
+"id": "n-low-memo",
+"locator": null,
+"title": "Low Memorandum (\"the trick would be...\")"
+}
+],
 "text": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2f9b64f2dc",
 "source": "Low memorandum, 9 Aug 1966; Condon Report front matter on project formation",
+"sources": [],
 "text": "The memorandum is dated 9 August 1966, nearly two months before the project was formally established on 6 October 1966.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:low-memo) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-c98f15ca2f",
 "source": "John G. Fuller, Look magazine, May 1968",
+"sources": [
+{
+"id": "t-ab1f74905a28",
+"locator": null,
+"title": "John G. Fuller, Look magazine, May 1968"
+}
+],
 "text": "The memo was published by John G. Fuller in Look magazine in May 1968 as 'Flying Saucer Fiasco', describing the project as a '$500,000 trick'; Saunders and Levine were subsequently fired.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e52f79e74a",
 "source": "Inference from the memorandum's date and text",
+"sources": [],
 "text": "The memo does not prove the Condon Report's conclusions were dictated, but it does establish that the project's coordinator planned differential presentation to the public and to scientists before any data were examined.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",
@@ -207,7 +227,7 @@
 ],
 "sub": "Robert J. Low to University of Colorado administrators, 9 August 1966",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 653 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 652 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

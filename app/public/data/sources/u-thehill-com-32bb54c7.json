@@ -1,0 +1,288 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "andy-ogles",
+"label": "Andrew Ogles"
+},
+"b": {
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members"
+},
+"claimTier": 2,
+"id": "e-90e45bbece",
+"label": "Emerged describing 'a concerted effort to conceal as much information as possible'",
+"note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "andy-ogles",
+"label": "Andrew Ogles"
+},
+"b": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"claimTier": 2,
+"id": "e-633aa5a537",
+"label": "Caucus member without an Oversight Committee seat",
+"note": "Described by The Hill as 'part of the UAP Caucus but not the Oversight Committee.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"b": {
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members"
+},
+"claimTier": 2,
+"id": "e-ed03cf77b9",
+"label": "Caucus members attended the closed ICIG briefing",
+"note": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 1,
+"id": "e-428894ad19",
+"label": "the member bloc that forces briefings and carries amendments outside committee jurisdiction",
+"note": "Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-7d67c2383f",
+"label": "caucus membership confers no statutory access",
+"note": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "glenn-grothman",
+"label": "Glenn S. Grothman"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+},
+"claimTier": 2,
+"id": "e-6c1e565363",
+"label": "Republican co-lead",
+"note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+"b": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"claimTier": 2,
+"id": "e-ca2ea791ce",
+"label": "Caucus member; the Democratic anchor",
+"note": "Described by The Hill as 'a member of the UAP Caucus.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+},
+"claimTier": 1,
+"id": "e-d83ca4e935",
+"label": "Sponsor",
+"note": "Introduced 11 January 2024, the day before the ICIG briefing.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+},
+"claimTier": 3,
+"id": "e-9e4e6b2505",
+"label": "His hearing testimony on the reporting gap is the bill's origin",
+"note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "raja-krishnamoorthi",
+"label": "Subramanian Raja Krishnamoorthi"
+},
+"b": {
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members"
+},
+"claimTier": 2,
+"id": "e-c1690ad5b0",
+"label": "Emerged saying he did not get the answers he hoped for",
+"note": "Minority-side confirmation that the briefing produced no substance.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-hill",
+"label": "The Hill"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-f1a404a306",
+"label": "placement aimed at the congressional audience rather than original investigation",
+"note": "The Hill is read by congressional staff and has carried sustained UAP coverage and opinion aimed at that readership - the January 2024 classified briefing, the fight over the UAP amendment's inclusion in the FY2024 defence bill, and continuing coverage of Grusch. Graded Tier 2 because the sourced record shows placement and coverage, not original documentary investigation.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+},
+"b": {
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members"
+},
+"claimTier": 2,
+"id": "e-5ba30d802c",
+"label": "Briefed House Oversight members for about ninety minutes",
+"note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"claimTier": 2,
+"id": "e-18f061e431",
+"label": "Founded the caucus in August 2023 and led its letter to the ICIG",
+"note": "Burchett press release of 22 August 2023; The Hill records the caucus as bipartisan and formed 'last fall.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thehill-com-32bb54c7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "person",
+"id": "andy-ogles",
+"label": "Andrew Ogles"
+},
+{
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members"
+},
+{
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+{
+"cls": "legislation",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+{
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia"
+},
+{
+"cls": "person",
+"id": "raja-krishnamoorthi",
+"label": "Subramanian Raja Krishnamoorthi"
+},
+{
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+]
+}

@@ -7,20 +7,54 @@
 {
 "id": "c-d49c9fa7ee",
 "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-9c9859e2",
+"locator": null,
+"title": "Los Alamos Monitor, 27 June 1982, pages A1 and A8, by Terry England, reprinted by Tom Mahood"
+}
+],
 "text": "The artefact and its load-bearing sentence. Headline 'LA Man Joins The Jet Set - At 200 Miles An Hour', by Terry England, Monitor Staff Writer, Sunday 27 June 1982, Los Alamos Monitor, pages A1 and A8. The sentence, verbatim: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4c2999c90f",
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ ; Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , all opened 2026-09-18",
+"sources": [
+{
+"id": "u-theblackvault-com-6eca4304",
+"locator": null,
+"title": "Stanton T. Friedman, 'The Bob Lazar Fraud'"
+},
+{
+"id": "u-otherhand-org-ab5481f0",
+"locator": null,
+"title": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague"
+},
+{
+"id": "u-otherhand-org-c91396fe",
+"locator": null,
+"title": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'"
+}
+],
 "text": "THE QUALIFICATION, WHICH TRAVELS WITH THE ARTICLE AND IS ROUTINELY DROPPED. The description is what Lazar told the reporter, not an employment record. Stanton Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records that the page 'clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer'. A Los Alamos colleague interviewed on tape by Mark Farmer on 25 May 1996 said Lazar 'was a contractor' under 'Kirk Mayer' and that he 'claimed to be' a physicist. Tom Mahood's 2018 conclusion is that Lazar worked as an electronic technician for Kirk-Mayer and that the Monitor article misrepresented his position on the basis of what he told the reporter.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-7fd7489e03",
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and The Lazar Tape, 1991, captions at 35:48",
+"sources": [
+{
+"id": "u-otherhand-org-c91396fe",
+"locator": null,
+"title": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'"
+}
+],
 "text": "It is also the date peg for the Edward Teller anecdote, and it creates a discrepancy rather than resolving one. Tom Mahood's 2018 retrospective puts the article on 27 June 1982 with Teller lecturing at Los Alamos the following day, and calls the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

@@ -1,0 +1,179 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-9b30fbdcd1",
+"locator": "ch. 1, FOIA correspondence quoted",
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "Fawcett and Greenwood, 'Clear Intent' (1984), ch. 1, quoting the FOIA correspondence",
+"text": "CAUS filed a FOIA request on 26 December 1977 for case files from Loring (27, 28, 31 October 1975), Wurtsmith (30 October 1975) and Malmstrom (7 and 8 November 1975); a reply of 6 February 1978 from the Office of the Assistant Secretary of Defense identified twenty-four documents held by the Office of the Joint Chiefs of Staff, fifteen of which were initially resisted before Assistant Secretary of Defense Thomas Ross determined they should be released.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-09937cbcf0",
+"locator": null,
+"node": "clear-intent-1984",
+"nodeLabel": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"sourceText": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"text": "The book is built on documents obtained by Citizens Against UFO Secrecy under FOIA from the CIA, FBI, NSA, Air Force, NORAD and the Office of the Joint Chiefs of Staff, reproduced in facsimile and annotated.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2534628036",
+"locator": "Preface",
+"node": "clear-intent-1984",
+"nodeLabel": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"sourceText": "Fawcett and Greenwood, 'Clear Intent' (1984), Preface",
+"text": "The title derives from a Loring AFB teletype reporting that an unidentified object 'demonstrated a clear intent in the weapons storage area', a phrase the Air Force never explained.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-8be78b1e39",
+"locator": null,
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"sourceText": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"text": "Fawcett and Greenwood wrote in 1984 that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and confirmed on radar, that jet fighters were sent after it, and that later inquiries met with silence.",
+"tier": 2
+}
+],
+"date": "1984",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 1,
+"id": "e-ecfe237207",
+"label": "The 1975 wave returned to Malmstrom on documented record",
+"note": "The 24th NORAD Region Senior Director's log and the NMCC memorandum of 8 November 1975 place radar-tracked objects over Malmstrom missile sites eight years after the Echo Flight shutdown, this time with F-106 scrambles logged.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+},
+"b": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"claimTier": 1,
+"id": "e-0e72dd782f",
+"label": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
+"note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+},
+"b": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"claimTier": 3,
+"id": "e-961ad70ed1",
+"label": "Documentary method versus anonymous-testimony method",
+"note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+},
+"claimTier": 3,
+"id": "e-4752400e3d",
+"label": "Hastings extended the Fawcett-Greenwood documentary method with named witnesses",
+"note": "Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases.",
+"type": "research"
+}
+],
+"era": "1",
+"host": "Internet Archive",
+"id": "n-clear-intent-1984",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+{
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+},
+{
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+}
+],
+"node": {
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+},
+"title": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"topics": [
+{
+"claims": [
+"c-9b30fbdcd1",
+"c-09937cbcf0",
+"c-2534628036"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+},
+{
+"claims": [
+"c-8be78b1e39"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
+"c-09937cbcf0"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+}
+],
+"type": "statute",
+"urls": [
+"https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+]
+}

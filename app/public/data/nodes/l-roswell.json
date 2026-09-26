@@ -7,32 +7,66 @@
 {
 "id": "c-c2b8eec085",
 "source": "RAAF press release, 8 July 1947, issued by 1st Lt. Walter Haut",
+"sources": [
+{
+"id": "n-raaf-press-release-1947",
+"locator": null,
+"title": "RAAF Press Release, 8 July 1947"
+}
+],
 "text": "The 8 July 1947 RAAF press release stated that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-da443aad6a",
 "source": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
+"sources": [
+{
+"id": "t-5e3845b0ffa6",
+"locator": null,
+"title": "Fort Worth press conference photographs and wire copy"
+}
+],
 "text": "Brig. Gen. Roger M. Ramey retracted the statement at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dddb4cba29",
 "source": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994) and 'The Roswell Report: Case Closed' (1997)",
+"sources": [],
 "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4 and acknowledged the weather balloon explanation had been a cover story; 'The Roswell Report: Case Closed' (24 June 1997) attributed body accounts to anthropomorphic parachute test dummies.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:roswell-report-1995) was rejected in review: names two reports; only one is the candidate"
 },
 {
 "id": "c-3b51ca112a",
 "source": "GAO/NSIAD-95-187, July 1995",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "July 1995",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO/NSIAD-95-187 found that RAAF outgoing messages from October 1946 through December 1949 had been destroyed and that no disposition authority for the destruction could be located.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b05b2f7931",
 "source": "Inference from the 1994 USAF report and GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The most durable fact about Roswell is administrative, not physical: the government has conceded in writing that it lied publicly about the recovery, and the unit's message traffic for the relevant period no longer exists. Reasoning: the 1994 report concedes the cover story; GAO documents the record destruction; the two facts together establish deliberate concealment independent of what the debris was.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "location",
@@ -200,7 +234,7 @@
 ],
 "sub": "City in Chaves County; site of Roswell Army Air Field, home of the 509th Bomb Group; debris field ~75 mi NW near Corona",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 311 of 1138, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 312 of 1138, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [],
 "unverified": []
 }

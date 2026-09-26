@@ -7,50 +7,114 @@
 {
 "id": "c-e258ab5e11",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"sources": [
+{
+"id": "n-dird-detection-and-high-resolution-tracking-of",
+"locator": null,
+"title": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\", series \"Defense Futures\", published 2010-11-20 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1012-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bd542c1ceb",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"sources": [
+{
+"id": "n-dird-detection-and-high-resolution-tracking-of",
+"locator": null,
+"title": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8166c221b5",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"sources": [
+{
+"id": "n-dird-detection-and-high-resolution-tracking-of",
+"locator": null,
+"title": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-529d85dc84",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"sources": [
+{
+"id": "n-dird-detection-and-high-resolution-tracking-of",
+"locator": null,
+"title": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+}
+],
 "text": "Released PDF is 46 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8074f3f937",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "n-dia-aatip-list-2019",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+}
+],
 "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities, Dr W Culbreth, Univ of Nevada-Las Vegas.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bc8fd6777e",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+"sources": [
+{
+"id": "n-dird-detection-and-high-resolution-tracking-of",
+"locator": null,
+"title": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+}
+],
 "text": "The released cover page carries the date 20 November 2010, an Intelligence Cut-Off Date of 30 August 2010 and document number DIA-08-1012-001, in the 'Defense Futures' series; the author field is redacted under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4e87b1af0e",
 "source": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+"sources": [
+{
+"id": "u-silvarecord-com-19c12f98",
+"locator": null,
+"title": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/"
+}
+],
 "text": "George Knapp obtained and released this DIRD in mid-2019, making it the fifth AAWSAP deliverable in the public domain, nearly three years before DIA's bulk FOIA release of 25 March 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5bf198d155",
 "source": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"sources": [
+{
+"id": "u-silvarecord-com-dd11c777",
+"locator": null,
+"title": "Silva Record — 38th DIRD Title Surfaces With Letter Addressed To McCain"
+}
+],
 "text": "It is the sensor-side counterpart to the cloaking and signature-reduction strand of the survey: Puthoff described the DIA Broad Area Announcement as specifying twelve threat areas including 'lift, propulsion, signature reduction, human effects and so on.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

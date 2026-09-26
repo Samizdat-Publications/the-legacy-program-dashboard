@@ -7,26 +7,52 @@
 {
 "id": "c-c92cda2c16",
 "source": "JAI, DOI 10.1142/S2251171723400032",
+"sources": [
+{
+"id": "u-doi-org-64f43b1f",
+"locator": null,
+"title": "Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation"
+}
+],
 "text": "Loeb and Laukien published 'Overview of the Galileo Project' in the Journal of Astronomical Instrumentation on 13 February 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-66ee4ea921",
 "source": "JAI, DOI 10.1142/S2251171723400081",
+"sources": [
+{
+"id": "u-doi-org-45741a22",
+"locator": null,
+"title": "Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation"
+}
+],
 "text": "Cloete et al. published the project's 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)' in the Journal of Astronomical Instrumentation (2023).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-56f64bf9f4",
 "source": "GI, DOI 10.5194/gi-14-335-2025",
+"sources": [
+{
+"id": "u-doi-org-2f1e44a9",
+"locator": null,
+"title": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335"
+}
+],
 "text": "Vervelidou, Delacroix, Domine, Kelderman, Little and colleagues published the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in Geoscientific Instrumentation, Methods and Data Systems 14:335 (26 November 2025).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7da32ae413",
 "source": "Published project record",
+"sources": [],
 "text": "The project was founded on 26 July 2021, raised approximately $1.8 million in donations in its first year from donors including Frank Laukien and William A. Linton, and installed its first telescope at Harvard College Observatory in 2022.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:projects.iq.harvard.edu/galileo) was rejected in review: generic string names no specific page"
 }
 ],
 "cls": "program",

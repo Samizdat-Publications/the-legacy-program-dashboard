@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6361877a4f",
+"locator": null,
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "SEC EDGAR company filing index, CIK 0000104030, https://data.sec.gov/submissions/CIK0000104030.json ; The Wackenhut Corporation DEF 14A filed 31 March 1999, https://www.sec.gov/Archives/edgar/data/0000104030/000095014499003822/0000950144-99-003822.txt ; DEF 14A for the 1998 annual meeting and DEFM14A filed 10 April 2002, https://www.sec.gov/Archives/edgar/data/0000104030/000095014498003074/0000950144-98-003074.txt",
+"text": "He is not among the directors of The Wackenhut Corporation in any proxy statement EDGAR holds. The proxy for the annual meeting of 7 May 1999 lists twelve directors by name, age and year of first election, among them Julius W. Becton Jr., Benjamin R. Civiletti, Paul X. Kelley, Thomas P. Stafford and George R. Wackenhut, and the name Inman appears nowhere in it. It appears nowhere in the proxy for the 1998 annual meeting or in the 2002 merger proxy either. The corporation reported under CIK 0000104030, SIC 7381; its earliest filing of any kind is dated 24 March 1994 and its earliest proxy statement is a preliminary 14A of 24 March 1997, so no proxy exists on EDGAR for any earlier year and the board's composition before 1997 is unestablished in either direction.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-data-sec-gov-8c3ee37d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+}
+],
+"node": null,
+"title": "SEC EDGAR company filing index, CIK 0000104030 (The Wackenhut Corporation)",
+"topics": [
+{
+"claims": [
+"c-6361877a4f"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://data.sec.gov/submissions/CIK0000104030.json"
+]
+}

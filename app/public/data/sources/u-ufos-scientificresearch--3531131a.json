@@ -1,0 +1,103 @@
+{
+"archived": [],
+"claims": [],
+"date": "2018-08",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"b": {
+"cls": "person",
+"id": "robert-baker",
+"label": "Robert M. L. Baker, Jr."
+},
+"claimTier": 1,
+"id": "e-dbdb187cc4",
+"label": "authored by Robert M. L. Baker Jr., GravWave LLC",
+"note": "The DIA list of 9 January 2018 records entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave' - the earlier KLAS transcription rendered the title as 'Gravity Wave Communication'. The released PDF's author block is redacted under (b)(6). Baker confirmed to researcher Keith Basterfield that he published three related HFGW papers in 2010.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-dc62594a14",
+"label": "author's institutional affiliation at time of writing",
+"note": "Wayne State University is the affiliation recorded against this title on the DIA congressional list. Wayne State appears more than once on the list: it is also the affiliation given for Kit Green's human-tissue field-effects deliverable, so both the human-effects and human-interface strands of the AAWSAP deliverable set run through the same medical school.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+},
+"b": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"claimTier": 2,
+"id": "e-fa3cbb7ee2",
+"label": "co-affiliated AAWSAP authors at Wayne State University",
+"note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-ufos-scientificresearch--3531131a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufos-scientificresearch.blogspot.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"label": "Cockpits in the Era of Breakthrough Flight"
+},
+{
+"cls": "person",
+"id": "george-miley",
+"label": "George H. Miley"
+},
+{
+"cls": "document",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+{
+"cls": "person",
+"id": "james-wells",
+"label": "James Wells"
+},
+{
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+{
+"cls": "person",
+"id": "robert-baker",
+"label": "Robert M. L. Baker, Jr."
+}
+],
+"node": null,
+"title": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"topics": [],
+"type": "article",
+"urls": [
+"https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+]
+}

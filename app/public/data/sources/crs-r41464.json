@@ -1,0 +1,216 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-693e96acae",
+"locator": "16 July 2021",
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "The Air Force glide vehicle flew on decommissioned ICBM stages: the third HTV-2 vehicle was launched on a 'Minotaur IV rocket, in its \"lite\" configuration, with only the three Peacekeeper stages.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-693e96acae",
+"locator": null,
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "The Air Force glide vehicle flew on decommissioned ICBM stages: the third HTV-2 vehicle was launched on a 'Minotaur IV rocket, in its \"lite\" configuration, with only the three Peacekeeper stages.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-740735ef8b",
+"locator": "16 July 2021",
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "The programme has a documented start and a documented sponsor: 'In 2003, the Air Force and DARPA (the Defense Advanced Research Projects Agency) initiated a program, known as FALCON (force application and launch from continental United States).'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-740735ef8b",
+"locator": null,
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "The programme has a documented start and a documented sponsor: 'In 2003, the Air Force and DARPA (the Defense Advanced Research Projects Agency) initiated a program, known as FALCON (force application and launch from continental United States).'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-94a8e11b16",
+"locator": "16 July 2021",
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "The Army glide vehicle flew on a recycled submarine-missile stack: the Advanced Hypersonic Weapon 'used the strategic targets system (STARS) booster stack, which is derived from the Navy's Polaris ballistic missile.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-94a8e11b16",
+"locator": null,
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "The Army glide vehicle flew on a recycled submarine-missile stack: the Advanced Hypersonic Weapon 'used the strategic targets system (STARS) booster stack, which is derived from the Navy's Polaris ballistic missile.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d3bf7ccc3b",
+"locator": null,
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "Congressional Research Service, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "The mission and the timescale: 'The United States sought to develop systems with intermediate or long range, so that they could attack targets around the world in under an hour.' The report adds that 'The Air Force and Navy have both pursued programs that would lead to the deployment of conventional warheads on their long-range ballistic missiles.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dea98293dc",
+"locator": "16 July 2021",
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "It is funded on the visible budget: 'The Navy received $512 million for this program in FY2020 and requested $1.1 billion for FY2021; Congress appropriated $766.6 million for FY2021. The Navy has requested $1.4 billion for FY2022.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dea98293dc",
+"locator": null,
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"sourceText": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"text": "It is funded on the visible budget: 'The Navy received $512 million for this program in FY2020 and requested $1.1 billion for FY2021; Congress appropriated $766.6 million for FY2021. The Navy has requested $1.4 billion for FY2022.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike"
+},
+"b": {
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+"claimTier": 1,
+"id": "e-be36f16bee",
+"label": "Hypersonic boost-glide development across three services on appropriated funding",
+"note": "Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike"
+},
+"b": {
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+"claimTier": 2,
+"id": "e-c82e6a1f2d",
+"label": "Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it",
+"note": "Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike"
+},
+"b": {
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"claimTier": 1,
+"id": "e-230aacfe3e",
+"label": "DARPA and the Air Force initiated FALCON in 2003",
+"note": "DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike"
+},
+"b": {
+"cls": "domain",
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+},
+"claimTier": 1,
+"id": "e-48194974bf",
+"label": "Every booster traced to Trident II, Peacekeeper or Polaris derived stages",
+"note": "The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-21afaec830",
+"label": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
+"note": "The Air Force, Navy and Army each run a component of the effort, and the Pentagon renamed it from prompt global strike to prompt strike in 2012.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "crs-r41464",
+"identifiers": [
+"CRS R41464"
+],
+"interestedParty": false,
+"issuer": "Congressional Research Service",
+"listedOn": [
+{
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike"
+}
+],
+"node": null,
+"title": "CRS R41464",
+"topics": [
+{
+"claims": [
+"c-693e96acae",
+"c-693e96acae",
+"c-94a8e11b16",
+"c-94a8e11b16"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "report",
+"urls": [
+"https://www.everycrsreport.com/reports/R41464.html"
+]
+}

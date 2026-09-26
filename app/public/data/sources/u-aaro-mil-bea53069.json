@@ -1,0 +1,28 @@
+{
+"archived": [
+"https://web.archive.org/web/20260508180211/https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-aaro-mil-bea53069",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+}
+],
+"node": null,
+"title": "AARO Mission Brief 2025",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf"
+]
+}

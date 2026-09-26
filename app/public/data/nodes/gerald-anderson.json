@@ -31,26 +31,58 @@
 {
 "id": "c-b868065c8f",
 "source": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+"sources": [
+{
+"id": "dtic-ada326147",
+"locator": null,
+"title": "The Roswell Report: Case Closed (DTIC ADA326147)"
+}
+],
 "text": "The USAF's 'Case Closed' prints Gerald Anderson's interview in full as Appendix C, beginning at page 187, noting it was 'excerpted in their entirety from unedited interviews used to prepare the video, Recollections of Roswell, Part II (1993)' and appears courtesy of the Fund for UFO Research. The Air Force also quotes him directly on the alleged bodies: 'I thought they were plastic dolls.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7d7bf7e9f9",
 "source": "The Roswell Report: Case Closed (1997), Appendix C",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Appendix C",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "Anderson's interview transcript is reproduced at Appendix C, page 187, of the US Air Force's 1997 report.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1ab48b8c5b",
 "source": "The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.4 and Conclusion",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "Anderson described the bodies as 'I thought they were plastic dolls' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-fc01ecff3c",
 "source": "Rodeghier and Whiting, 'The Plains of San Agustin Controversy' (1992), cited at note 123 of the 1997 Air Force report",
+"sources": [
+{
+"id": "t-4e7b396ac619",
+"locator": "titled 'The Plains of San Agustin Controversy'; note 123 of the 1997 Air Force report",
+"title": "Rodeghier and Whiting (1992"
+}
+],
 "text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, 'The Plains of San Agustin Controversy', concluding against Anderson's reliability.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -46,32 +46,60 @@
 {
 "id": "c-0c220a0c85",
 "source": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:17:46 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+"sources": [
+{
+"id": "u-mgln-ai-283dfb84",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, episode audio"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 26 July 2026, Brandon Fugal said the Skinwalker Ranch team did not know Taylor had been made chief scientist of the UAP Task Force while he was returning seasonally to work on the ranch investigation, that Taylor was under national security oaths and confidentiality and 'didn't breach that not even once', and that the team learned only once he had authorisation to disclose it. Fugal said members of his team, including his head of security, initially felt betrayed (2:17:46 to 2:18:44).",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-cd477a7d4a",
 "source": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:19:37 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+"sources": [
+{
+"id": "u-mgln-ai-283dfb84",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, episode audio"
+}
+],
 "text": "In the same episode Fugal stated the direction of the connection: that the reason Taylor 'was called in and called to that position in large part was was really because of uh the work at' Skinwalker Ranch, and that before being brought to the ranch Taylor had no experience of the subject and was a vocal skeptic (2:16:52, 2:19:37).",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f35d1610f3",
 "source": "Science magazine, June 2022",
+"sources": [
+{
+"id": "t-9b5765e9a42e",
+"locator": null,
+"title": "Science magazine, June 2022"
+}
+],
 "text": "Taylor was the chief scientist on the Unidentified Aerial Phenomena Task Force.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-be24d2fe5f",
 "source": "Published professional biography",
+"sources": [],
 "text": "Taylor's pre-UAPTF federal work covered advanced propulsion concepts, space-based beamed energy systems, high-energy lasers, large space telescopes and multi-INT concept studies over more than sixteen years for DoD and NASA.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Generic 'published professional biography' description, no outlet or title named."
 },
 {
 "id": "c-d5d9077035",
 "source": "Inference from the overlapping dates; no document addresses the relationship",
+"sources": [],
 "text": "The overlap between Taylor's UAPTF chief-scientist tenure and his on-camera instrumented investigation of Skinwalker Ranch means the same individual was applying near-identical sensing methodology inside and outside the classified system in the same period, with no public account of what, if anything, crossed between them.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",
@@ -187,7 +215,7 @@
 "status": "active",
 "sub": "Aerospace engineer and optical scientist; Chief Scientist of the Unidentified Aerial Phenomena Task Force; Principal Research Scientist, Radiance Technologies",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 643 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 642 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

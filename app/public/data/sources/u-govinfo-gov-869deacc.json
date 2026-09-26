@@ -1,0 +1,112 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-843c9fd328",
+"locator": null,
+"node": "thad-cochran",
+"nodeLabel": "Thad Cochran",
+"sourceText": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"text": "The 111th Congress committee assignment publication lists Cochran as the senior Republican on the Senate Appropriations Committee, opposite Chairman Daniel K. Inouye.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8b4d3a3476",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"text": "2009 holders (111th Congress): SASC Chairman Carl Levin, Ranking Member John McCain; SAC Chairman Daniel K. Inouye, Ranking Member Thad Cochran; SAC Defense Subcommittee Chairman Daniel K. Inouye, Ranking Member Thad Cochran; HASC Chairman Ike Skelton, senior Republican Howard P. 'Buck' McKeon; HAC Chairman David R. Obey, Ranking Member Jerry Lewis; HAC Defense Subcommittee Chairman John P. Murtha, Ranking Member C. W. Bill Young.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-4355eb219d",
+"label": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+"note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+},
+"b": {
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"claimTier": 1,
+"id": "e-734d361ccf",
+"label": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
+"note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-b6511bfbb5",
+"label": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
+"note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-869deacc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"topics": [
+{
+"claims": [
+"c-8b4d3a3476"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+]
+}

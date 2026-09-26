@@ -25,14 +25,24 @@
 {
 "id": "c-5c705c5c7a",
 "source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "The ODNI Preliminary Assessment of 25 June 2021 reported 144 UAPTF incidents, of which only one was explained, and stated the data set was limited by inconsistent collection.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bc69eab0b7",
 "source": "Wall Street Journal reporting, 6 June 2025, as summarised in the Yankee Blue record",
+"sources": [],
 "text": "Officials briefed DNI Haines that 'hundreds and hundreds' of military personnel had been affected over decades by the fake alien-technology indoctrination practice.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:wsj.com/politics/national-security/ufo-us-disinformation-45376f7e) was rejected in review: a record summarising the article, not the article"
 }
 ],
 "cls": "person",

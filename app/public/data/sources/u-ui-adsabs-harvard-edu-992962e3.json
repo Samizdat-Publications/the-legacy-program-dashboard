@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-372f104742",
+"locator": null,
+"node": "friedwardt-winterberg",
+"nodeLabel": "Friedwardt Winterberg",
+"sourceText": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract",
+"text": "German-American theoretical physicist and research professor at the University of Nevada, Reno, publishing in general relativity, Planck-scale physics, nuclear fusion and plasma physics; published related negative-mass propulsion work in the Journal of the British Interplanetary Society (2011).",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion"
+},
+"b": {
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+},
+"claimTier": 1,
+"id": "e-48dcafb07e",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Negative Mass Propulsion' to 'Dr F Winterberg, Univ of Nevada-Reno'. Winterberg is also credited on the same list with 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and published related negative-mass propulsion work in the Journal of the British Interplanetary Society in 2011.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-ui-adsabs-harvard-edu-992962e3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ui.adsabs.harvard.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+}
+],
+"node": null,
+"title": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract"
+]
+}

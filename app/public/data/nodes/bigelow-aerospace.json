@@ -7,50 +7,96 @@
 {
 "id": "c-8c3489f89b",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
+"sources": [
+{
+"id": "u-dia-mil-6267d6a4",
+"locator": null,
+"title": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)"
+}
+],
 "text": "USD(I) memorandum to DEPSECDEF: 'The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas, NV.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-86ea0b00f6",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"sources": [
+{
+"id": "u-dia-mil-ce3242b6",
+"locator": null,
+"title": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)"
+}
+],
 "text": "DIA Info Memo U-10-2552: 'DIA awarded a contract to the Bigelow Aerospace Advanced Space Studies LLC (BAASS), the only bid, headquartered in North Las Vegas, Nevada.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e099c100d6",
 "source": "NASA BEAM program records, 2016",
+"sources": [],
 "text": "Bigelow Aerospace holds a NASA relationship including the Bigelow Expandable Activity Module attached to the ISS in 2016, establishing it as a genuine aerospace prime rather than a study contractor.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: No NASA BEAM candidate found."
 },
 {
 "id": "c-11c0246d80",
 "source": "DIA contract HHM402-08-C-0072 awardee block",
+"sources": [],
 "text": "The AAWSAP contract was held by the separately registered Bigelow Aerospace Advanced Space Studies, LLC, not by Bigelow Aerospace itself.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017) was rejected in review: contract awardee block, not the P00001 modification"
 },
 {
 "id": "c-f0cc4ae5ae",
 "source": "Inference from the distinct DUNS and CAGE codes on the DIA award",
+"sources": [],
 "text": "Maintaining BAASS as a distinct LLC from the ISS-contracting parent indicates deliberate corporate separation of the intelligence work from the NASA-facing business.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-96aec013a3",
-"source": "AARO, Historical Record Report Volume I, March 2024",
+"source": "AARO, Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AAWSAP/AATIP was 'funded through a special appropriation and executed by its primary contractor, a private sector organization'; the contractor team conducted UAP and paranormal research at a property owned by that organisation.",
-"tier": 1
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2bc2e6d173",
 "source": "George Knapp, sworn testimony, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "sworn testimony of George Knapp",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "BAASS was to receive 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ce136132e2",
 "source": "Luis Elizondo, sworn testimony, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "testimony of Luis Elizondo",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "The divestment of 1950s-collected material to Bigelow Aerospace 'was blocked'; a required Secretary of the Air Force memorandum never issued.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -305,7 +351,7 @@
 ],
 "sub": "contractor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 125 of 1138, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 130 of 1138, score 55). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

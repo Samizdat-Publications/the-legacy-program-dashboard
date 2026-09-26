@@ -7,44 +7,100 @@
 {
 "id": "c-433e152899",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/",
+"sources": [
+{
+"id": "n-dird-technological-approaches-to-controlling-external-devices",
+"locator": null,
+"title": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces\", series \"Acquisition Threat Support\", published 2010-03-23 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-012. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-451370d69a",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/",
+"sources": [
+{
+"id": "n-dird-technological-approaches-to-controlling-external-devices",
+"locator": null,
+"title": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-20410cf012",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/",
+"sources": [
+{
+"id": "n-dird-technological-approaches-to-controlling-external-devices",
+"locator": null,
+"title": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d542d009fe",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "Author of record per the DIA letter of 9 January 2018, item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8037ba7315",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+"sources": [
+{
+"id": "n-dird-technological-approaches-to-controlling-external-devices",
+"locator": null,
+"title": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces"
+}
+],
 "text": "The released cover page reads \"23 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-012,\" series \"Acquisition Threat Support.\" The author line is redacted under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-088cd90238",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The earlier KLAS-TV list of the same document, published 25 July 2018, titles it \"Brain-Machine Interfaces, Dr R Genik, Wayne State Univ.\" The DIA title and the KLAS title describe the same paper.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f0fdc638e3",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "One of three DIRDs written by Genik, and one of four DIRDs whose DIA-listed affiliation is Wayne State University, the fourth being Kit Green's \"Field Effects on Biological Tissues.\" The human-effects and human-interface strand of AAWSAP concentrated at that institution.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

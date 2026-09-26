@@ -1,0 +1,397 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-edc5b8f507",
+"locator": "Chapter 3, para 8",
+"node": "project-condign",
+"nodeLabel": "Project Condign",
+"sourceText": "Project Condign, Volume 3, Chapter 3, para 8",
+"text": "Volume 3 Chapter 3 is titled 'Potential for Exploitation of UAP-Associated Effects' and its 'Potential Applications' paragraph 8 states 'the radar detection aspects have shown that there are three possible related potential applications' - the applications themselves being redacted under exemption s.26 (defence).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-083a1aeefb",
+"locator": "Chapter 4, para 3",
+"node": "doc-condign-vol3",
+"nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 3",
+"text": "Volume 3, Chapter 4, para 3: 'Annex A summarises two russian scientific papers where, it appears, 20-30 scientists have pursued research for the prevention of air target detection' - followed by three redacted lines.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-23d77a15f2",
+"locator": "Chapter 4, para 1",
+"node": "doc-condign-vol3",
+"nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 1",
+"text": "Volume 3, Chapter 4, para 1: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2d7de3ba1e",
+"locator": "Chapter 4, para 8",
+"node": "doc-condign-vol3",
+"nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 8",
+"text": "Volume 3, Chapter 4, para 8 quotes Sokolov on Soviet aircraft incidents: 'We had 40 cases where pilots encountered UFOs. Initially they were commanded to chase, then shoot. When our pilots would engage the UFO it would speed-up, our aircraft would give chase, lose control and crash. That happened 3 times and twice the pilots died. After that the pilots were told to observe and change course and get out.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-42c878b96d",
+"locator": "Chapter 4, para 11",
+"node": "doc-condign-vol3",
+"nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 11",
+"text": "Volume 3, Chapter 4, para 11: 'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8d6a484b79",
+"locator": "Chapter 4, para 12",
+"node": "doc-condign-vol3",
+"nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 12 (released MoD copy, OCR)",
+"text": "Volume 3, Chapter 4, para 12: 'USA & CANADA. The USA's widely publicised activities were described and contrasted with the UK effort at the beginning of Volume 1 of this report. There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs.' - followed by approximately four lines of redaction.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-082f39db7e",
+"locator": "Chapter 4, para 1",
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "UK Defence Intelligence Staff assessment: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-6ca4e88ba3",
+"locator": "Chapter 4, para 4",
+"node": "soyuzufotsentr",
+"nodeLabel": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Condign Volume 3, Chapter 4, para 4: 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic. Unexplained imagery has reportedly been obtained including \"peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.\"'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-6e71efdc4a",
+"locator": "Chapter 4, para 1 (released 2006)",
+"node": "soyuzufotsentr",
+"nodeLabel": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 (released 2006) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Project Condign Volume 3, Chapter 4, para 1: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-06c38db319",
+"locator": "Chapter 4, para 11",
+"node": "spain-mod-ufo-files",
+"nodeLabel": "Spanish Ministry of Defence UFO file declassification",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 11, UK Ministry of Defence, 2000",
+"text": "'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2b561c11ea",
+"locator": "Chapter 4, para 1",
+"node": "vladimir-azhazha",
+"nodeLabel": "Vladimir Georgievich Azhazha",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 1",
+"text": "Condign records the school's terms of reference as to study 'ufology as a science of unidentified flying objects and their interrelations with the universe and, in particular, with the biotechnosphere of the earth'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-51f7f6c7e7",
+"locator": "Chapter 4, para 1",
+"node": "vladimir-azhazha",
+"nodeLabel": "Vladimir Georgievich Azhazha",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000",
+"text": "'A UFO Commission was created under the USSR Union of Scientific and Engineering Societies in 1989, together in 1990 with an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-77efef9b44",
+"locator": "Chapter 4, para 4",
+"node": "vladimir-azhazha",
+"nodeLabel": "Vladimir Georgievich Azhazha",
+"sourceText": "Project Condign, Volume 3, Chapter 4, para 4",
+"text": "Condign on Azhazha's claimed imagery: 'Unexplained imagery has reportedly been obtained including peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.'",
+"tier": 1
+}
+],
+"date": "2000",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 1,
+"id": "e-b9ea6901a5",
+"label": "assessed the Soviet programme as exploitation-driven",
+"note": "Condign Volume 3 chapter 4 states that Soviet study of UAP 'may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"b": {
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+"claimTier": 1,
+"id": "e-ee250d54a1",
+"label": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
+"note": "This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening 'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.' The same chapter runs on to Popovich's 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev's 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov's account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"b": {
+"cls": "document",
+"id": "spain-mod-ufo-files",
+"label": "Spanish Ministry of Defence UFO file declassification"
+},
+"claimTier": 1,
+"id": "e-785567ca81",
+"label": "records the Spanish release and DI55's non-access",
+"note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"b": {
+"cls": "institution",
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"claimTier": 1,
+"id": "e-011ee4dad4",
+"label": "records a flat denial of any US/Canada exchange, then redacts four lines",
+"note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"b": {
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+},
+"claimTier": 1,
+"id": "e-39baa9527c",
+"label": "names Azhazha as head of SOYUZUFOTSENTR",
+"note": "Condign identifies 'V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner' as head of the 1990 inter-industry ufology research centre.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-f2dc92bdf1",
+"label": "opposite reporting posture: mandated versus stigmatised",
+"note": "A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 3,
+"id": "e-9ca895cd06",
+"label": "INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure",
+"note": "READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled 'ran the parallel public ufology centre after censorship lifted'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+"b": {
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+},
+"claimTier": 1,
+"id": "e-6eca0372da",
+"label": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
+"note": "Project Condign Volume 3, Chapter 4 ('UAP Work in Other Countries'), para 1, verified against the released MoD OCR text: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign's own, and differs from the board's node label. Para 4 adds that under Azhazha 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic', and that claimed imagery of 'peculiar spheres, humanoid figures' has, 'if the imagery exists ... never been published'. This edge closes a gap that was already implicit in the board's own data: the vladimir-azhazha node has carried instId 'soyuzufotsentr' and affiliations ['soyuzufotsentr'] all along, with no edge written.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"claimTier": 1,
+"id": "e-7de8ba3f80",
+"label": "Volume 3 holds the material excluded from the RESTRICTED summary",
+"note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 2,
+"id": "e-142f04fd34",
+"label": "ran the parallel public ufology centre after censorship lifted",
+"note": "SOYUZUFOTSENTR was created in 1990 with Academy of Sciences institute rights, after the removal of censorship on the subject in 1989.",
+"type": "research"
+}
+],
+"era": "2",
+"host": "Internet Archive",
+"id": "n-doc-condign-vol3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+{
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+{
+"cls": "event",
+"id": "ev-rendlesham-files",
+"label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)"
+},
+{
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+{
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+{
+"cls": "document",
+"id": "spain-mod-ufo-files",
+"label": "Spanish Ministry of Defence UFO file declassification"
+},
+{
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+}
+],
+"node": {
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"title": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"topics": [
+{
+"claims": [
+"c-083a1aeefb",
+"c-23d77a15f2",
+"c-2d7de3ba1e",
+"c-6ca4e88ba3",
+"c-2b561c11ea",
+"c-51f7f6c7e7",
+"c-77efef9b44"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+},
+{
+"claims": [
+"c-edc5b8f507",
+"c-23d77a15f2",
+"c-2d7de3ba1e",
+"c-8d6a484b79",
+"c-6ca4e88ba3",
+"c-77efef9b44"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+},
+{
+"claims": [
+"c-42c878b96d",
+"c-8d6a484b79",
+"c-06c38db319"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+]
+}

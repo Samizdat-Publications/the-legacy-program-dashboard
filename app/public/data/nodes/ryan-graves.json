@@ -66,56 +66,122 @@
 {
 "id": "c-f3a60dcc9c",
 "source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Witness of record at the 26 July 2023 House Oversight hearing: 'Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ff78070af0",
 "source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"sources": [
+{
+"id": "u-congress-gov-c8421086",
+"locator": null,
+"title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023"
+}
+],
 "text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72, an exclusive block of airspace ten miles east of Virginia Beach' where 'one of the pilots saw a dark gray cube inside of a clear sphere' and 'The jets, only 100 feet apart, were forced to take evasive action.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7507e7aa84",
 "source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"sources": [
+{
+"id": "u-congress-gov-c8421086",
+"locator": null,
+"title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023"
+}
+],
 "text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a5e8af6329",
 "source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"sources": [
+{
+"id": "u-congress-gov-c8421086",
+"locator": null,
+"title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023"
+}
+],
 "text": "Americans for Safe Aerospace had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses' as of July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d69eb0a20e",
 "source": "Ryan Graves, CBS 60 Minutes, 16 May 2021",
+"sources": [
+{
+"id": "u-cbsnews-com-1e787f0a",
+"locator": null,
+"title": "CBS News, 60 Minutes, Bill Whitaker, 'Navy pilots describe encounters with UFOs'"
+}
+],
 "text": "Sightings occurred 'Every day. Every day for at least a couple years.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-aa5bb11e59",
 "source": "Ryan Graves to DefenseScoop, 14 May 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "'The most useful releases are not simply the clips that appear unusual. The real value is in records that include clear provenance, sensor context, metadata, chain of custody.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-9259fde427",
 "source": "DefenseScoop, 14 May 2026, quoting a War Department official",
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "A War Department official said of PURSUE: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9c4846f501",
 "source": "Inference from the Department's stated no-comment posture set against Graves's four-element test",
+"sources": [],
 "text": "The Department's stated refusal to assess or contextualise is functionally a decision to release material in the one form in which it cannot be independently validated, which converts a transparency act into an unfalsifiable one.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-8c82b472af",
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

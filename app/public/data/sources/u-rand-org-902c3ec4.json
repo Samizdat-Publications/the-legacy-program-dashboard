@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "george-kocher",
+"label": "George Kocher"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 1,
+"id": "e-86248b630b",
+"label": "RAND was documenting the case for instrumented study as Condon was closing it down",
+"note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-rand-org-902c3ec4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "RAND",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-kocher",
+"label": "George Kocher"
+}
+],
+"node": null,
+"title": "RAND DRU-1571 PDF",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.rand.org/content/dam/rand/pubs/drafts/2007/DRU1571.pdf"
+]
+}

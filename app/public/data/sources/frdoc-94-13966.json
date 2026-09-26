@@ -1,0 +1,68 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6c20444a03",
+"locator": "'Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public', effective 9 June 1994",
+"node": "naval-criminal-investigative-service",
+"nodeLabel": "Naval Criminal Investigative Service",
+"sourceText": "Federal Register Doc 94-13966, 'Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public', effective 9 June 1994, https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents",
+"text": "The Department of the Navy final rule published on 9 June 1994, FR Doc 94-13966, amended 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6c20444a03",
+"locator": null,
+"node": "naval-criminal-investigative-service",
+"nodeLabel": "Naval Criminal Investigative Service",
+"sourceText": "Federal Register Doc 94-13966, 'Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public', effective 9 June 1994, https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents",
+"text": "The Department of the Navy final rule published on 9 June 1994, FR Doc 94-13966, amended 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'.",
+"tier": 1
+}
+],
+"date": "1994-06-09",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "naval-criminal-investigative-service",
+"label": "Naval Criminal Investigative Service"
+},
+"b": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"claimTier": 1,
+"id": "e-7782380992",
+"label": "Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5",
+"note": "NCIS is a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701.",
+"type": "institutional"
+}
+],
+"era": "1",
+"host": null,
+"id": "frdoc-94-13966",
+"identifiers": [
+"Federal Register Doc. 94-13966"
+],
+"interestedParty": false,
+"issuer": "Federal Register",
+"listedOn": [
+{
+"cls": "institution",
+"id": "naval-criminal-investigative-service",
+"label": "Naval Criminal Investigative Service"
+}
+],
+"node": null,
+"title": "Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public (Federal Register Doc. 94-13966)",
+"topics": [],
+"type": "regulation",
+"urls": [
+"https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents",
+"https://www.federalregister.gov/documents/full_text/text/1994/06/09/94-13966.txt"
+]
+}

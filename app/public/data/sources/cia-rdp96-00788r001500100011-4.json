@@ -1,0 +1,98 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-6c4effe620",
+"locator": null,
+"node": "center-lane",
+"nodeLabel": "CENTER LANE",
+"sourceText": "Memorandum, INSCOM CENTER LANE Project (U), 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "The transfer to DIA was INSCOM's own recommendation, not a DIA rescue after a congressional petition. In July 1984 INSCOM's commanding general wrote that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intended 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The letter of 2 March 1985 then notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'. Nothing opened mentions Vorona or a petition to Congress.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4431d8670d",
+"locator": "and letter of 2 March 1985, CIA-RDP96-00789R002100120002-4",
+"node": "inscom",
+"nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+"sourceText": "Memorandum, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, and letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "INSCOM ended the work on its own recommendation and handed it to DIA. The commanding general wrote in July 1984 that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The 2 March 1985 letter notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-82c6c330fb",
+"locator": null,
+"node": "inscom",
+"nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+"sourceText": "Memorandum for Assistant Chief of Staff for Intelligence, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; disposition form IAFM-OPS-HUP, 'Reorganization of HQ INSCOM and CONUS Elements', 16 Nov 79, CIA-RDP96-00788R002000190002-9, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r002000190002-9/cia-rdp96-00788r002000190002-9_djvu.txt",
+"text": "INSCOM's own letterhead in this period reads 'DEPARTMENT OF THE ARMY / UNITED STATES ARMY INTELLIGENCE AND SECURITY COMMAND / ARLINGTON HALL STATION / ARLINGTON, VIRGINIA 22212', and a 1979 headquarters disposition form records that 'HQ INSCOM will be consolidated at AHS, VA' alongside the creation of a brigade at Fort George G. Meade.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+},
+"b": {
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE"
+},
+"claimTier": 1,
+"id": "e-a0cfe27be5",
+"label": "INSCOM ran CENTER LANE and ended it",
+"note": "The project's own paperwork is INSCOM paperwork: the July 1984 memorandum recommending discontinuance, the July 1984 cancellation information paper, and the 2 March 1985 deactivation letter are all signed inside INSCOM.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00788r001500100011-4",
+"identifiers": [
+"CIA-RDP96-00788R001500100011-4"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE"
+},
+{
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+}
+],
+"node": null,
+"title": "Reorganization of HQ INSCOM and CONUS Elements (CIA-RDP96-00788R001500100011-4)",
+"topics": [
+{
+"claims": [
+"c-6c4effe620",
+"c-4431d8670d"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+},
+{
+"claims": [
+"c-4431d8670d"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt"
+]
+}

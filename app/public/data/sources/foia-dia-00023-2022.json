@@ -1,0 +1,125 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6c433aa4fc",
+"locator": null,
+"node": "dia",
+"nodeLabel": "Defense Intelligence Agency",
+"sourceText": "DIA FOIA-00023-2022 and appeal APP-00031-2022",
+"text": "DIA reported no records located in response to a FOIA request for the 19 June 2007 Lacatski letter to Robert Bigelow described in 'Skinwalkers at the Pentagon'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-81c9b24315",
+"locator": null,
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"sourceText": "DIA FOIA-00023-2022 and APP-00031-2022, released via The Black Vault, 2023",
+"text": "DIA could locate no records responsive to a request for the 19 June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0918e2cae2",
+"locator": null,
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"sourceText": "Inference from the FOIA-00023-2022 no-records response set against the volume of AAWSAP material DIA did release",
+"text": "DIA's inability to find the 2007 Bigelow letter, combined with its redaction of Lacatski's name under 10 USC 424 in every post-2008 release, indicates the origin correspondence was either never filed as an official record or was removed from the searchable file — the reasoning being that DIA found and released far more marginal 2008-2010 paperwork from the same office.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-6fc345598b",
+"locator": "APP-00031-2022, and 2022 FOIA responses",
+"node": "skinwalkers-at-the-pentagon",
+"nodeLabel": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"sourceText": "DIA FOIA-00023-2022, APP-00031-2022, and 2022 FOIA responses",
+"text": "DIA reported no records located for the 19 June 2007 Lacatski letter to Bigelow described in the book, and no records for the 'Utah Ranch Investigation: August 2009-February 2010' report.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"claimTier": 1,
+"id": "e-30863a5c46",
+"label": "no records located for the documents the book describes",
+"note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"b": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"claimTier": 2,
+"id": "e-5b25da505b",
+"label": "2007 approach that originated the contract",
+"note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "foia-dia-00023-2022",
+"identifiers": [
+"DIA FOIA-00023-2022"
+],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+}
+],
+"node": null,
+"title": "DIA FOIA-00023-2022",
+"topics": [
+{
+"claims": [
+"c-81c9b24315",
+"c-6fc345598b"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-81c9b24315"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-81c9b24315"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "document",
+"urls": []
+}

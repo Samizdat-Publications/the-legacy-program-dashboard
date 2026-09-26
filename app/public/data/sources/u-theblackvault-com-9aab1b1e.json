@@ -1,0 +1,127 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 3,
+"id": "e-4e62005113",
+"label": "A documented precedent for institutional falsification about UFOs by the US Air Force",
+"note": "CIA's own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 3,
+"id": "e-4832d0ecc1",
+"label": "The Bennewitz method and the alleged YANKEE BLUE practice are the same technique at different scale",
+"note": "Doty's documented AFOSI activity - feeding fabricated alien-technology material to a target to protect classified programmes - is the same technique Yankee Blue applied internally to cleared personnel. The inference is about method, not about Doty's involvement in Yankee Blue.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"claimTier": 1,
+"id": "e-0fcbfaf5ff",
+"label": "AFOSI states it holds no records of any YANKEE BLUE investigation",
+"note": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-30c7342144",
+"label": "Pentagon spokesperson could not confirm the existence of the memo",
+"note": "Susan Gough, 1 October 2025: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"claimTier": 1,
+"id": "e-79738ec3c6",
+"label": "Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim",
+"note": "OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-9aab1b1e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+{
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
+"node": null,
+"title": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
+]
+}

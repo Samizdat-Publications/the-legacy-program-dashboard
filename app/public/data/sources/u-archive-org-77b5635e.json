@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-7d5fff36d6",
+"locator": null,
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer, https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt",
+"text": "The 2005 Defense Base Closure and Realignment Commission's final report of 8 September 2005, recommendation 169 (Med 4) on Walter Reed Army Medical Center, directs the Department to 'disestablish all elements of the Armed Forces Institute of Pathology except the National Medical Museum and the Tissue Repository', with the Commission's amended version adding that AFIP capabilities not specified 'will be absorbed into other DoD, Federal, or civilian facilities, as necessary'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-fa9e389e0c",
+"locator": null,
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer, https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt",
+"text": "The same report records that the Commission found the Department 'failed to sufficiently address several AFIP functions, such as the Radiologic Pathology program, with the associated tissue repository, veterinary pathology and continuing medical education', and that the Secretary of Defense 'deviated substantially from final selection criteria 1, as well as from the Force Structure Plan'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-77b5635e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "armed-forces-institute-of-pathology",
+"label": "Armed Forces Institute of Pathology"
+}
+],
+"node": null,
+"title": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer",
+"topics": [
+{
+"claims": [
+"c-7d5fff36d6",
+"c-fa9e389e0c"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt"
+]
+}

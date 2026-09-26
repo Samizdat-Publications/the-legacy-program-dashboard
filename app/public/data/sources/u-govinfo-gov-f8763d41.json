@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2030ae0005",
+"locator": null,
+"node": "jack-reed",
+"nodeLabel": "John F. Reed",
+"sourceText": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm",
+"text": "Reed was Ranking Member of the Senate Armed Services Committee in the 116th Congress, opposite Chairman James M. Inhofe.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-135562fde5",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm",
+"text": "2020 holders (116th Congress): SASC Chairman James M. Inhofe, Ranking Member Jack Reed; SAC Chairman Richard C. Shelby, senior Democrat Patrick J. Leahy; SAC Defense Subcommittee Chairman Richard C. Shelby, Ranking Member Richard J. Durbin.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-ffb1c0ae15",
+"label": "seat 2 of 12 - Ranking Member, Senate Armed Services",
+"note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-f8763d41",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm",
+"topics": [
+{
+"claims": [
+"c-135562fde5"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm"
+]
+}

@@ -7,50 +7,114 @@
 {
 "id": "c-8b66744d34",
 "source": "https://vimeo.com/channels/942663 , read 2026-09-18",
+"sources": [
+{
+"id": "u-vimeo-com-639b284c",
+"locator": null,
+"title": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'"
+}
+],
 "text": "A Vimeo channel titled 'Zero Point: The Story of Mark McCandlish and the Flux Liner', created by 'James Gladman', with 27 followers and no videos, carries the description verbatim: 'This Channel is dedicated the the film, and to the late Writer-Director James Allen.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f43187ab36",
 "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"sources": [
+{
+"id": "u-arvp-co-uk-c635d5b6",
+"locator": null,
+"title": "arvp.co.uk, FLUX 1988 page"
+}
+],
 "text": "The arvp.co.uk FLUX 1988 page links the film under the text 'Full Documentary Zero Point The Story of Mark McCandlish and the Fluxliner', pointing at https://www.youtube.com/watch?v=afLsRsd5roY&t=3629s . That video was not opened.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ea6917bb9e",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"sources": [
+{
+"id": "u-imdb-com-d4cd3c88",
+"locator": null,
+"title": "IMDb tt6111304, user-maintained listing"
+}
+],
 "text": "IMDb tt6111304 gives the title 'Zero Point: The Story of Mark McCandlish and the Flux Liner', the year 2013, a runtime of 1h 32m and the genre Documentary. IMDb is user-maintained and the film itself was not opened.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-fcaf0b9ca4",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"sources": [
+{
+"id": "u-imdb-com-d4cd3c88",
+"locator": null,
+"title": "IMDb tt6111304, user-maintained listing"
+}
+],
 "text": "IMDb tt6111304 gives a US release date of 2 June 2013. IMDb is user-maintained and the film itself was not opened.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-a4c6556883",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"sources": [
+{
+"id": "u-imdb-com-d4cd3c88",
+"locator": null,
+"title": "IMDb tt6111304, user-maintained listing"
+}
+],
 "text": "IMDb tt6111304 credits James Allen as both director and writer. IMDb is user-maintained and the film itself was not opened.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2449a963e8",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"sources": [
+{
+"id": "u-imdb-com-d4cd3c88",
+"locator": null,
+"title": "IMDb tt6111304, user-maintained listing"
+}
+],
 "text": "IMDb tt6111304 credits Mark McCandlish as 'Self - Guest', the only listed cast member. IMDb is user-maintained and the film itself was not opened.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-696ab2bf4d",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"sources": [
+{
+"id": "u-imdb-com-d4cd3c88",
+"locator": null,
+"title": "IMDb tt6111304, user-maintained listing"
+}
+],
 "text": "IMDb tt6111304 gives an estimated budget of $5,000. IMDb is user-maintained and the film itself was not opened.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-62c4827382",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"sources": [
+{
+"id": "u-imdb-com-d4cd3c88",
+"locator": null,
+"title": "IMDb tt6111304, user-maintained listing"
+}
+],
 "text": "IMDb tt6111304 showed a user rating of 8.3 out of 10 from 34 ratings as opened on 18 September 2026. IMDb is user-maintained, the rating is a user aggregate, and the film itself was not opened.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

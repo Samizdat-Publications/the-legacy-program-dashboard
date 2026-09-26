@@ -7,44 +7,130 @@
 {
 "id": "c-a633f4d28c",
 "source": "EO 11652 signature block and sec. 15, and the NARA disposition table, https://www.archives.gov/federal-register/executive-orders/1972.html",
+"sources": [
+{
+"id": "eo-11652",
+"locator": null,
+"title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+}
+],
 "text": "Signed by Richard Nixon on 8 March 1972, published at 37 FR 5209 on 10 March 1972, effective 1 June 1972 under section 15.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4258ba182e",
 "source": "EO 11652 sec. 14, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"sources": [
+{
+"id": "eo-11652",
+"locator": null,
+"title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+{
+"id": "u-irp-fas-org-a806118d",
+"locator": null,
+"title": "EO 11652 sec. 14"
+}
+],
 "text": "Section 14, headed 'Revocation of Executive Order No. 10501', SUPERSEDES rather than revokes: it supersedes EO 10501 as amended by EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382, as of the effective date. The heading and the operative verb do not match, which matters to anyone tracing the chain.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-287447c8d8",
 "source": "EO 11652 sec. 5(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"sources": [
+{
+"id": "eo-11652",
+"locator": null,
+"title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+{
+"id": "u-irp-fas-org-a806118d",
+"locator": null,
+"title": "EO 11652 sec. 14"
+}
+],
 "text": "Section 5(A) creates the General Declassification Schedule. Top Secret downgrades to Secret after 2 full calendar years, to Confidential after 4, and is declassified after 10. Secret downgrades to Confidential after 2 and is declassified after 8. Confidential is declassified after 6.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8af24c15fd",
 "source": "EO 11652 sec. 5(E), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"sources": [
+{
+"id": "eo-11652",
+"locator": null,
+"title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+{
+"id": "u-irp-fas-org-a806118d",
+"locator": null,
+"title": "EO 11652 sec. 14"
+}
+],
 "text": "Section 5(E)(1) is a thirty-year rule: material classified after the effective date is automatically declassified at 30 full calendar years unless the head of the originating Department personally determines in writing that continued protection is essential. Section 5(E)(2) puts pre-existing material over 30 years old under systematic review by the Archivist of the United States.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6699966445",
 "source": "EO 11652 sec. 7(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"sources": [
+{
+"id": "eo-11652",
+"locator": null,
+"title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+{
+"id": "u-irp-fas-org-a806118d",
+"locator": null,
+"title": "EO 11652 sec. 14"
+}
+],
 "text": "Section 7(A) lodges monitoring in the National Security Council and establishes an Interagency Classification Review Committee of representatives of State, Defense, Justice, the Atomic Energy Commission, CIA and the NSC Staff, chaired by a presidential designee. Under 7(A)(2) it receives and acts on complaints 'from persons within or without the government.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6ab9bfb8f7",
 "source": "EO 11652 sec. 1(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"sources": [
+{
+"id": "eo-11652",
+"locator": null,
+"title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+{
+"id": "u-irp-fas-org-a806118d",
+"locator": null,
+"title": "EO 11652 sec. 14"
+}
+],
 "text": "Section 1(A), on Top Secret: 'This classification shall be used with the utmost restraint.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f844ee821b",
 "source": "EO 11652 full text, absence of any such statement, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"sources": [
+{
+"id": "eo-11652",
+"locator": null,
+"title": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+},
+{
+"id": "u-irp-fas-org-a806118d",
+"locator": null,
+"title": "EO 11652 sec. 14"
+}
+],
 "text": "The common description of this order as the first major overhaul of classification since 1953 is a historians' framing and is not a claim the order makes. It is consistent with section 14, which supersedes EO 10501 and six amending orders, but the text does not say it.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-b7e05c8a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-london",
+"label": "London, United Kingdom"
+}
+],
+"node": null,
+"title": "Wikipedia - London",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/London"
+]
+}

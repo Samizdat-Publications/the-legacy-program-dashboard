@@ -7,32 +7,72 @@
 {
 "id": "c-6be5048e6a",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"sources": [
+{
+"id": "u-odni-gov-b68ec5e7",
+"locator": null,
+"title": "ODNI, Intelligence Community Budget"
+}
+],
 "text": "Section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (P.L. 110-53) requires the DNI to disclose the aggregate amount appropriated for the NIP within 30 days of the end of each fiscal year.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f12ed03966",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"sources": [
+{
+"id": "u-odni-gov-b68ec5e7",
+"locator": null,
+"title": "ODNI, Intelligence Community Budget"
+}
+],
 "text": "Section 364 of the Intelligence Authorization Act for Fiscal Year 2010 required disclosure of the aggregate NIP budget request; the first such release was in February 2011.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bd8fd87ec2",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"sources": [
+{
+"id": "u-odni-gov-b68ec5e7",
+"locator": null,
+"title": "ODNI, Intelligence Community Budget"
+}
+],
 "text": "Published NIP appropriated toplines: FY2007 $43.5bn, FY2008 $47.5bn, FY2009 $49.8bn, FY2010 $53.1bn, FY2011 $54.6bn, FY2012 $53.9bn, FY2013 $49.0bn, FY2014 $50.5bn, FY2015 $50.3bn, FY2016 $53.0bn, FY2017 $54.6bn, FY2018 $59.4bn, FY2019 $60.2bn, FY2020 $62.7bn, FY2021 $60.8bn, FY2022 $65.7bn, FY2023 $71.7bn, FY2024 $76.5bn, FY2025 $73.3bn.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9f57a49adb",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"sources": [
+{
+"id": "u-odni-gov-b68ec5e7",
+"locator": null,
+"title": "ODNI, Intelligence Community Budget"
+}
+],
 "text": "The FY2026 NIP budget request was $81.9 billion.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7d90dc9f81",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"sources": [
+{
+"id": "u-odni-gov-b68ec5e7",
+"locator": null,
+"title": "ODNI, Intelligence Community Budget"
+}
+],
 "text": "No breakdown of the NIP by agency, programme, discipline or appropriation account is published; the statutory disclosure is of the aggregate only.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "program",

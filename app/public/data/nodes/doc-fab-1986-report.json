@@ -7,20 +7,38 @@
 {
 "id": "c-7e737aa34e",
 "source": "Arquivo Nacional BR_DFANBSB_ARX_0_0_0249, page images",
+"sources": [
+{
+"id": "n-doc-fab-1986-report",
+"locator": "page images",
+"title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
 "text": "Document header: 'MINISTÉRIO DA AERONÁUTICA, COMANDO AÉREO DE DEFESA AÉREA ... Brasília-DF, 02 de Junho de 1986. Do Comandante. Ao Exmo Sr Comandante do Comando Geral do Ar. Assunto: Relatório de Ocorrência.' Classification marking [CONFIDENCIAL] on each page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e5f900ec1f",
 "source": "Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+"sources": [
+{
+"id": "n-doc-fab-1986-report",
+"locator": null,
+"title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
 "text": "Considerações Finais para 3: the Command's opinion that the phenomena 'são sólidos e refletem de certa forma inteligência ... não forçosamente tripulados'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9caed68dd5",
 "source": "BBC Brasil, 14 January 2022; Wikipedia '1986 Brazilian UFO incident'",
+"sources": [],
 "text": "The report was released on 25 September 2009.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:bbc.com/portuguese/brasil-59953278) was rejected in review: string names two or more sources; candidate is only one"
 }
 ],
 "cls": "document",

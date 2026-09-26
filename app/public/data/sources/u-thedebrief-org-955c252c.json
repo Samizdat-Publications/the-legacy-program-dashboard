@@ -1,0 +1,68 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-673ae3ac23",
+"locator": null,
+"node": "d-legislative",
+"nodeLabel": "Legislative Process (proposed and pending)",
+"sourceText": "The Debrief, 'A Dramatic Dilution', 22 December 2023",
+"text": "The dilution of the Schumer-Rounds disclosure language during the FY2024 conference was reported contemporaneously as a deliberate weakening rather than a drafting accident.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
+},
+"claimTier": 2,
+"id": "e-7f00597322",
+"label": "Publicly called the removal of the Review Board an outrage",
+"note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-955c252c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+}
+],
+"node": null,
+"title": "The Debrief — A Dramatic Dilution",
+"topics": [
+{
+"claims": [
+"c-673ae3ac23"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
+"type": "article",
+"urls": [
+"https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/"
+]
+}

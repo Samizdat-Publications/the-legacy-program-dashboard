@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-e80ce67392",
+"label": "Gerb analysed the PURSUE releases as they were published",
+"note": "Gerb ran a livestream on 'UFO File Drop 1' on 12 May 2026 and discussed the release programme in his 2 March 2026 livestream on Trump's announcement, making him one of the first analysts working the released record.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-b38cc1dd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "UAP Gerb Live - 'Air Force Hidden Wing, Admin & the UFO Files'",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=Gqw9tnuBrOM"
+]
+}

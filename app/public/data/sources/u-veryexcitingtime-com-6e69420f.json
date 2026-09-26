@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "karl-nell",
+"label": "Karl E. Nell"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-f85b013e3f",
+"label": "On-record corroboration: 'beyond reproach' and the arms race is 'fundamentally correct'",
+"note": "A named retired Army colonel who served as the Army's UAP Task Force liaison affirmed both Grusch's character and the substance of the eighty-year reverse-engineering allegation, in print, on the record, on 5 June 2023. AARO has never addressed this statement by name.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-veryexcitingtime-com-6e69420f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "veryexcitingtime.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "karl-nell",
+"label": "Karl E. Nell"
+}
+],
+"node": null,
+"title": "A Very Exciting Time - Karl Nell at SALT",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://veryexcitingtime.com/episodes/2024/45-nell-salt/"
+]
+}

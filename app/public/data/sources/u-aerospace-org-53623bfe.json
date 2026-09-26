@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-e7baae9755",
+"locator": null,
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"sourceText": "Aerospace Corporation corporate officers page, accessed 12 August 2026",
+"text": "The Aerospace Corporation's corporate officers page lists Tanya Pemberton as President and Chief Executive Officer.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-aerospace-org-53623bfe",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "aerospace.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "The Aerospace Corporation - Corporate Officers",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://aerospace.org/leadership/corporate-officers"
+]
+}

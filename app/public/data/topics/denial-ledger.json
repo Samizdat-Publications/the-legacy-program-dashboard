@@ -23,6 +23,13 @@
     "text": "Keith Kloor, The Intercept, 1 June 2019",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-theintercept-com-f6147715",
+     "locator": null,
+     "title": "The Intercept"
+    }
+   ],
    "text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
    "tier": 1
   },
@@ -36,6 +43,13 @@
     "text": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-8fa19f34fda1",
+     "locator": "as carried by Fox News and others",
+     "title": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others"
+    }
+   ],
    "text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
    "tier": 1
   },
@@ -49,6 +63,13 @@
     "text": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "n-operation-northwoods",
+     "locator": null,
+     "title": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    }
+   ],
    "text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
    "tier": 1
   },
@@ -62,6 +83,13 @@
     "text": "Susan Gough to John Greenewald, The Black Vault, 13 June 2019",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-584b2a30",
+     "locator": null,
+     "title": "The Black Vault"
+    }
+   ],
    "text": "On 13 June 2019 stated: 'I can confirm that the memo you're referring to is authentic... It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).'",
    "tier": 1
   },
@@ -75,6 +103,13 @@
     "text": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-cda2f816",
+     "locator": null,
+     "title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000"
+    }
+   ],
    "text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
    "tier": 2
   },
@@ -88,6 +123,7 @@
     "text": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Department stated it has no record of a programme called Immaculate Constellation.",
    "tier": 2
   },
@@ -101,6 +137,13 @@
     "text": "U.S. Navy statement, 10 September 2019",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-5c77e2cb046d",
+     "locator": null,
+     "title": "U.S. Navy statement"
+    }
+   ],
    "text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
    "tier": 1
   },
@@ -114,6 +157,13 @@
     "text": "AARO Historical Record Report Volume I, Section II",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "Section II",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's Volume I historical record report (February 2024) concludes there is 'no empirical evidence' for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.",
    "tier": 1
   },
@@ -127,6 +177,13 @@
     "text": "AARO Historical Record Report Volume I, Section IV",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "Section IV",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "Corporate denials in the report rest on voluntary on-the-record statements by executives and CTOs; no inspection of any contractor facility or holding is described anywhere in it.",
    "tier": 1
   },
@@ -140,6 +197,13 @@
     "text": "Susan Gough to The Black Vault, 13 June 2019",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-584b2a30",
+     "locator": null,
+     "title": "The Black Vault"
+    }
+   ],
    "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
    "tier": 1
   },
@@ -153,6 +217,7 @@
     "text": "NRO declassification record; FAS Intelligence Resource Program",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The existence of the National Reconnaissance Office was classified from its 1961 establishment until its declassification in September 1992, making official denial of its existence the required answer for thirty-one years.",
    "tier": 1
   },
@@ -166,6 +231,13 @@
     "text": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-95-187",
+     "locator": "Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+     "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+    }
+   ],
    "text": "GAO (NSIAD-95-187, 28 July 1995) reported that Roswell Army Air Field outgoing messages for 1946-1949 were destroyed without a disposition authority or destruction certificate.",
    "tier": 1
   },
@@ -179,6 +251,13 @@
     "text": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
     "url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-deseret-com-fd9fb718",
+     "locator": null,
+     "title": "Associated Press, Flares, not UFOs, caused light show, military says"
+    }
+   ],
    "text": "The explanation arrived four months late. The flares were dropped on 13 March 1997 and the Air National Guard statement is dated 26 July 1997.",
    "tier": 2
   },
@@ -192,6 +271,13 @@
     "text": "Report to the President by the Commission on CIA Activities within the United States, June 1975, chapter 16, pp. 227-228, https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf",
     "url": "https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-documents2-theblackvault-d883da06",
+     "locator": null,
+     "title": "Rockefeller Commission report, June 1975, p. 227"
+    }
+   ],
    "text": "The Rockefeller Commission's June 1975 report disclosed the death without naming him: 'on one occasion during the early phases of this program (in 1953), LSD was administered to an employee of the Department of the Army without his knowledge ... Several days later, he jumped from a tenth floor window of his room and died as a result.' Its footnote to that passage reads: 'There are indications in the few remaining Agency records that this individual may have had a history of emotional instability.'",
    "tier": 1
   },
@@ -205,6 +291,13 @@
     "text": "OSD FOIA release 21-F-0938, DoD FOIA Reading Room, Public Affairs",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "foia-21-f-0938",
+     "locator": "DoD FOIA Reading Room, Public Affairs",
+     "title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+    }
+   ],
    "text": "He wrote to Pentagon spokesperson Susan Gough on 3 June 2020: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
    "tier": 1
   },
@@ -218,6 +311,7 @@
     "text": "Inference from the September 2017 emails and the 9 August 2017 DD Form 1910, both released under FOIA",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Department's own record contains an unresolved contradiction: September 2017 emails show Elizondo drafting a memorandum for Neill Tipton to 'assume the new responsibilities for AATIP', and the August 2017 DD-1910 for the AATIP-associated videos was submitted by Elizondo. Something bearing the AATIP name was live inside OUSD(I) in 2017.",
    "tier": 3
   },
@@ -231,6 +325,13 @@
     "text": "TR-AC-47, page iii, Summary, Discussion, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-tr-ac-47-silver-bug",
+     "locator": null,
+     "title": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
+    }
+   ],
    "text": "The Summary's Discussion section states: 'This project should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance. The configuration was a result of an engineering investigation into the solution of a particular problem.' It names the contractor as 'AVRO Aircraft, Limited, a member of the Hawker-Siddley Group'.",
    "tier": 1
   },
@@ -244,6 +345,7 @@
     "text": "Inference from Gough's February 2026 figures set against the FY2024 and FY2025 report conclusions",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A holding in which roughly half the reports are unanalysed for want of data is a holding that cannot support the department's own repeated negative finding, since the negative finding is drawn only from the analysed half.",
    "tier": 3
   },
@@ -257,6 +359,7 @@
     "text": "Inference from the June 2019, December 2019 and May 2021 statements read in sequence",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The three-step sequence — flat denial that AATIP touched UAP, then partial concession that it did, with the denial of Elizondo's role held constant throughout — is the signature of a position maintained for reasons other than the facts. The variable that never moved is the one that would validate a named insider.",
    "tier": 3
   },
@@ -270,6 +373,7 @@
     "text": "Maj. Gen. Pat Ryder, Pentagon statement releasing AARO Historical Record Report Volume I, 8 March 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'AARO has approached this project with the widest possible aperture, thoroughly investigating these assertions and claims without any particular pre-conceived conclusion.'",
    "tier": 1
   },
@@ -283,6 +387,13 @@
     "text": "Christopher Sherwood to the New York Post, 22 May 2019",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-c0d8d1a240fa",
+     "locator": null,
+     "title": "New York Post"
+    }
+   ],
    "text": "Stated on 22 May 2019 that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
    "tier": 1
   },
@@ -296,6 +407,7 @@
     "text": "Susan Gough, DoD spokesperson, 7 June 2023",
     "url": null
    },
+   "sourceRefs": [],
    "text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
    "tier": 1
   },
@@ -309,6 +421,13 @@
     "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-175196e08741",
+     "locator": "0:16:58",
+     "title": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58"
+    }
+   ],
    "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:58, Ramsay read that 'in april 1986 stanton friedman was allowed access to menzel's papers at the harvard university archives he learned that menzel had a 30 year association with the nsa the national security agency and that he also had top secret ultra clearance with the cia'. The Harvard University Archives were not reached from this environment and no record supporting or refuting the finding was opened.",
    "tier": 2
   },
@@ -322,6 +441,13 @@
     "text": "Joseph Gradisher, U.S. Navy, 10 September 2019",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-51c3998ddbc7",
+     "locator": null,
+     "title": "Joseph Gradisher, U.S. Navy, 10 September 2019"
+    }
+   ],
    "text": "Stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
    "tier": 1
   },
@@ -335,6 +461,13 @@
     "text": "Joseph Gradisher, U.S. Navy, September 2019, via The Black Vault",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-8db27611",
+     "locator": null,
+     "title": "The Black Vault"
+    }
+   ],
    "text": "Stated that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
    "tier": 1
   },
@@ -348,6 +481,13 @@
     "text": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
     "url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b454aa7d",
+     "locator": null,
+     "title": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018"
+    }
+   ],
    "text": "Where the Board determines that a manuscript contains classified information, the guidance requires the author to return any and all versions of this work, in whatever form, for destruction and to remove those items from their hard drive, with CIA security personnel available to assist.",
    "tier": 1
   },
@@ -361,6 +501,13 @@
     "text": "Eric Olson and Nils Olson v. United States of America, Civil Action No. 12-1924 (JEB), United States District Court for the District of Columbia, memorandum opinion filed 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
     "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "stat-90-3006",
+     "locator": null,
+     "title": "90 Stat. 3006"
+    }
+   ],
    "text": "The 2012 suit was brought in the District of Columbia, not Maryland, and was dismissed in 2013 without reaching the merits: 'Concluding that most of the allegations are both untimely and waived by a prior settlement agreement, and that any timely or preserved claims fall outside of the United States' waiver of sovereign immunity, the Court will grant the Government's Motion.' The same opinion records that 'the skeptical reader may wish to know that the public record supports many of the allegations that follow, farfetched as they may sound.'",
    "tier": 1
   },
@@ -374,6 +521,13 @@
     "text": "AARO, Historical Record Report Volume I, 8 March 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "'AARO met with high-ranking officials, including executives and chief technology officers, of the named companies. All denied the existence of these programs, and attested to the truthfulness of their statements on the record.'",
    "tier": 1
   },
@@ -387,6 +541,7 @@
     "text": "Robertson Panel report, declassified text, CUFON",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Robertson Panel report (17 January 1953) recommends stripping UFOs of their 'special status' through mass-media debunking and recommends that civilian UFO groups be 'watched because of their potentially great influence on mass thinking'.",
    "tier": 1
   },
@@ -400,6 +555,13 @@
     "text": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-ba3255c2",
+     "locator": null,
+     "title": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses"
+    }
+   ],
    "text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
    "tier": 1
   },
@@ -413,6 +575,7 @@
     "text": "Textual analysis of the 13 June 2019 statement",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Gough's statement is a limited denial that concedes the program's existence, its DIA administration and Elizondo's contact with it, and contests only the word 'led' — a construction consistent with protecting an org-chart technicality rather than refuting the substance.",
    "tier": 3
   },
@@ -426,6 +589,13 @@
     "text": "Haines, Studies in Intelligence (1997)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-haines-cia-history",
+     "locator": null,
+     "title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    }
+   ],
    "text": "Air Force officers gave explanations to the public they knew to be false in order to protect U-2 and OXCART flight security, per CIA's own in-house history.",
    "tier": 2
   },
@@ -439,6 +609,13 @@
     "text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:28:33, mapped at research/leads/dannyjones-corpus-20.md",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-175dc4f8f6d3",
+     "locator": "0:28:33",
+     "title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:28:33, the guest who identifies himself only as UAP Gerb said Ivy Bells was an undersea cable tapping programme run under a National Underwater Reconnaissance Office. The federal filing opened for this node names no operation, no codename, no cable, no sea area and no submarine, and neither NURO nor National Underwater Reconnaissance occurs anywhere in the fifty released pages of the AZORIAN history.",
    "tier": 2
   },
@@ -452,6 +629,18 @@
     "text": "Private Law 94-126, 90 Stat. 3006 (1976), quoted in full in Olson v. United States, No. 12-1924 (JEB), D.D.C., memorandum opinion of 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
     "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "stat-90-3006",
+     "locator": "1976), quoted in full in Olson v. United States, No. 12-1924 (JEB), D.D.C., memorandum opinion of 17 July 2013",
+     "title": "90 Stat. 3006"
+    },
+    {
+     "id": "stat-90-3006",
+     "locator": null,
+     "title": "90 Stat. 3006"
+    }
+   ],
    "text": "Congress compensated the family by private statute. Private Law 94-126, 90 Stat. 3006 (1976), directs payment of 'the sum of $187,500 each to Alice W. Olson, Lisa Olson Hayward, Eric Olson, and Nils Olson, in full settlement of all of their claims against the United States arising out of the death of Doctor Frank R. Olson in November 1953, if all of them waive any and all rights arising out of such death.'",
    "tier": 1
   },
@@ -465,6 +654,13 @@
     "text": "Project MKULTRA joint hearing, 3 August 1977 (Turner statement and Appendix B); Rockefeller Commission report, June 1975; Ford signing statement, 12 October 1976; Olson v. United States, D.D.C., 17 July 2013, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-intelligence-senate-gov-6a334f1a",
+     "locator": null,
+     "title": "Project MKULTRA joint hearing, 3 August 1977"
+    }
+   ],
    "text": "The four opened records do not agree. The Rockefeller Commission and President Ford give a tenth floor window; the Church Committee text in the 1977 Senate print gives a tenth story window of the Statler Hotel and the death as 27 November 1953; Ford and the 2012 complaint give 28 November; the complaint gives thirteen stories at 2:30 a.m. The CIA told the Senate in 1977 that he 'leaped to his death from a hotel room window in New York City about a week after having unwittingly consumed LSD'.",
    "tier": 1
   },
@@ -478,6 +674,13 @@
     "text": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-blueblurrylines-com-d53d3834",
+     "locator": null,
+     "title": "Blue Blurry Lines — The Pentagon's Updated Statement: AATIP Studied UAPs"
+    }
+   ],
    "text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
    "tier": 1
   },
@@ -491,6 +694,13 @@
     "text": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-515aac39a8c7",
+     "locator": null,
+     "title": "Susan Gough, DoD statement to The Black Vault, 6 December 2019"
+    }
+   ],
    "text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
    "tier": 1
   },
@@ -504,6 +714,13 @@
     "text": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-59e38a39b1e8",
+     "locator": null,
+     "title": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 229, 18 March 2024, at 1:31:41 to 1:32:45, David Morehouse said Operation Snowbird, A-10 training out of Davis-Monthan, was the official explanation given at the time for the Phoenix lights, and that the Maryland Air National Guard confirmed it. The Air National Guard statement is real and dated; the words Operation Snowbird appear nowhere in the opened record, and no Air Force record connecting that deployment programme to the 13 March 1997 sorties was opened, because af.mil refuses this environment.",
    "tier": 2
   },
@@ -517,6 +734,13 @@
     "text": "CAUS v. NSA, D.C. Circuit (1981); cert. denied (1982)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-courtlistener-com-bc299077",
+     "locator": "cert. denied 1982",
+     "title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+    }
+   ],
    "text": "In Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562), NSA withheld its UFO-related holdings in full and supported the withholding with an in camera affidavit by Eugene F. Yeates, Chief of NSA's Office of Policy; the D.C. Circuit affirmed in 1981 and the Supreme Court denied certiorari in 1982.",
    "tier": 1
   },
@@ -530,6 +754,7 @@
     "text": "Inference from the establishment memorandum's reporting chain, DODIG-2023-109's findings on fragmented DoD UAP processes, and the consistent 'AARO has not discovered' construction of every official denial",
     "url": null
    },
+   "sourceRefs": [],
    "text": "An office without subpoena power, without independent counsel, and reporting to the deputy head of the department that would own any concealed programme cannot structurally resolve allegations of concealment within that department - its negative findings are bounded by its own access, which is precisely how every AARO denial is worded.",
    "tier": 3
   },
@@ -543,6 +768,13 @@
     "text": "Danny Jones Podcast, ep. 329, 5 September 2025, 0:05:01 to 0:08:16, mapped at research/leads/dannyjones-corpus-21.md",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-e57940f567e1",
+     "locator": null,
+     "title": "Danny Jones Podcast, ep. 329, 5 September 2025, 0:05:01 to 0:08:16, mapped at research/leads/dannyjones-corpus-21.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 329, 5 September 2025, at 0:05:01 to 0:08:16, Andrew Bustamante said his manuscript was submitted in 2021, declared classified by CIA in 2022, and approved roughly three weeks after suit was threatened. No CIA record of that review was opened for this node, and a book's own clearance page is not a record.",
    "tier": 2
   },
@@ -556,6 +788,13 @@
     "text": "OSD FOIA 21-F-0938 email release",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "foia-21-f-0938",
+     "locator": null,
+     "title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+    }
+   ],
    "text": "Received Elizondo's 3 June 2020 letter stating 'The truth, as everyone involved in the program knows, is that I ran the program,' and noting she had corrected the AATIP/UAP statement but never corrected the statement about his involvement.",
    "tier": 1
   },
@@ -569,6 +808,7 @@
     "text": "Reid memorandum, authenticated by Susan Gough on 13 June 2019; New York Times, 16 December 2017",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Senator Harry Reid sought Special Access Program status for it in a 24 July 2009 memorandum to Deputy Secretary of Defense William Lynn III; the request was denied.",
    "tier": 1
   },
@@ -582,6 +822,13 @@
     "text": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-liberationtimes-com-585cd37e",
+     "locator": null,
+     "title": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released"
+    }
+   ],
    "text": "Named in the unclassified version of Grusch's reprisal complaint among officials in the chain by which his identity and complaint were handled.",
    "tier": 2
   },
@@ -595,6 +842,13 @@
     "text": "OSD/WHS FOIA reading room, 21-F-0938",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "foia-21-f-0938",
+     "locator": null,
+     "title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+    }
+   ],
    "text": "Elizondo's 2017 resignation correspondence was addressed to OSD Public Affairs' Susan Gough and was released by the Department under FOIA case 21-F-0938.",
    "tier": 1
   },
@@ -608,6 +862,13 @@
     "text": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
     "url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-deseret-com-fd9fb718",
+     "locator": null,
+     "title": "Associated Press, Flares, not UFOs, caused light show, military says"
+    }
+   ],
    "text": "The statement has a named author: Capt. Drew Sullins, spokesman for the Maryland Air National Guard, who described the flares in the same report: 'The flares fall slowly by parachute and illuminate a wide area.'",
    "tier": 2
   },
@@ -621,6 +882,13 @@
     "text": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:00:49, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
     "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332"
    },
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-6e5b97d7",
+     "locator": null,
+     "title": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs' (episode audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:00:49, Michels said Gough was one of the primary sources of the Wall Street Journal article on Pentagon disinformation and UFO mythology, and alleged that her own LinkedIn profile 'along with independent sources' confirms a lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense, her self-professed skills including strategic communication and psychological operations. The allegation rests on the speaker's reading of a profile page. No employment record was opened in this pass and nothing in the board's files corroborates it.",
    "tier": 2
   },
@@ -634,6 +902,13 @@
     "text": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
     "url": "https://www.justice.gov/osg/media/218076/dl"
    },
+   "sourceRefs": [
+    {
+     "id": "n-us-v-pelton-1986",
+     "locator": null,
+     "title": "United States v. Ronald W. Pelton (D. Md. 1986)"
+    }
+   ],
    "text": "On what was compromised the brief says only that Pelton furnished the Soviets information about several classified NSA operations; it does not name any operation, codename, cable, sea area or submarine.",
    "tier": 1
   },
@@ -647,6 +922,13 @@
     "text": "National Security Archive, Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, 'Justification for US Military Intervention in Cuba', https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
     "url": "https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962"
    },
+   "sourceRefs": [
+    {
+     "id": "u-nsarchive-gwu-edu-72e03526",
+     "locator": null,
+     "title": "National Security Archive posting of the same memorandum"
+    }
+   ],
    "text": "It reached the public through a records statute, not through disclosure. The National Security Archive's posting gives the classification as TOP SECRET SPECIAL HANDLING NOFORN and the source as the John F. Kennedy Assassination Records Review Board.",
    "tier": 1
   },
@@ -660,6 +942,13 @@
     "text": "TR-AC-47, page iii, Summary, Purpose, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-tr-ac-47-silver-bug",
+     "locator": null,
+     "title": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
+    }
+   ],
    "text": "The report's Summary states its purpose: 'This report presents factual technical data on A. V. Roe, Canada, Limited, proposed development, Project Y2 (Secret)... The ultimate purpose of presenting this is two-fold; to correct the distorted picture presented in previous releases, both classified and unclassified, and to acquaint the intelligence community with the current state-of-the-art facts thereby alerting them to any air intelligence information which may become available indicating Soviet interest in this specialized field.'",
    "tier": 1
   },
@@ -673,6 +962,13 @@
     "text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
    "tier": 1
   },
@@ -686,6 +982,13 @@
     "text": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
     "url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b454aa7d",
+     "locator": null,
+     "title": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018"
+    }
+   ],
    "text": "The same guidance provides that if the Board upholds its decision on reconsideration the author may formally appeal in writing to the Board's Chairman within 30 days, and that such appeals go to the Agency's Associate Deputy Director for a final Agency decision.",
    "tier": 1
   },
@@ -699,6 +1002,13 @@
     "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
    },
+   "sourceRefs": [
+    {
+     "id": "n-dia-sap-denial-memo-2009",
+     "locator": null,
+     "title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+    }
+   ],
    "text": "The concealment-relevant fact is not that AATIP was fake but that it was administratively real and deliberately kept out of SAP channels. DIA's own recommendation against a SAP (Nov 2009) is what later allowed officials to characterise AATIP as low-significance: a program denied special protection leaves no SAP paper trail to point at.",
    "tier": 3
   },
@@ -712,6 +1022,13 @@
     "text": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-haines-cia-history",
+     "locator": null,
+     "title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    }
+   ],
    "text": "CIA historian Gerald K. Haines, in Studies in Intelligence (1997), states that over half of all UFO reports in the late 1950s and 1960s were accounted for by U-2 and OXCART flights and that Air Force investigators knowingly provided false explanations to the public.",
    "tier": 1
   },
@@ -725,6 +1042,7 @@
     "text": "Inference from the precise phrasing 'no assigned responsibilities' set against the DIA transfer memo",
     "url": null
    },
+   "sourceRefs": [],
    "text": "DoD's denial is constructed around the word 'assigned' — a term of art that would be technically true of duties performed collaterally or under a different program designation, which is exactly the arrangement the 2010 transition memo contemplates.",
    "tier": 3
   },
@@ -738,6 +1056,13 @@
     "text": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 2018/11/28, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
     "url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b454aa7d",
+     "locator": null,
+     "title": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018"
+    }
+   ],
    "text": "The Board's released guidance states: Please allow at least 30 working days for completion of the review process.",
    "tier": 1
   },

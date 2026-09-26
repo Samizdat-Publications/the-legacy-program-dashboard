@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-3aa2f1bc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+}
+],
+"node": null,
+"title": "Wikipedia - Washington, D.C.",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Washington,_D.C"
+]
+}

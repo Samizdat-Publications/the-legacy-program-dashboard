@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": "2024-01-03",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-2024",
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+"claimTier": 1,
+"id": "e-d871f5ca2f",
+"label": "Division G of P.L. 118-31 - enacted intelligence-side UAP provisions",
+"note": "Division G carries Sec. 7341, modifying the AARO reporting requirement, and Sec. 7343, the funding limitation. The section list published by the Senate Select Committee on Intelligence confirms both as part of the enacted division. Its separate membership of the funding domain rests on 7343's substance, not on its status as law.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-2024",
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-0d32f86756",
+"label": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
+"note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
+"type": "funding"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-intelligence-senate-gov-af45c1ec",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Select Committee on Intelligence",
+"listedOn": [],
+"node": null,
+"title": "Senate Select Committee on Intelligence, Intelligence Authorization Act for FY2024, Division G of the NDAA for FY2024 (text, incl. Secs. 7341 and 7343)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.intelligence.senate.gov/2024/01/03/legislation-intelligence-authorization-act-fiscal-year-2024-division-g-national-defense/"
+]
+}

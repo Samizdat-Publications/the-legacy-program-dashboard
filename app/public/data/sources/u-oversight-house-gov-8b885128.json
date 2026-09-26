@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-995607e5d4",
+"locator": null,
+"node": "missing-scientists-probe-2026",
+"nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"sourceText": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf ; the identical letter to Director Kash Patel, FBI, https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf",
+"text": "The Committee's own letters of 20 April 2026 say 'at least ten individuals', not eleven, and date the pattern to a year later than the board did: the letters carry the string 'began in 2023 with the death of Michael David Hicks'. Effectively identical letters went to NASA, the FBI, the Department of War and the Department of Energy over the signatures of Chairman James Comer and Subcommittee Chairman Eric Burlison, copied to Ranking Members Garcia and Frost, and set a response deadline of 27 April 2026.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-oversight-house-gov-8b885128",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+}
+],
+"node": null,
+"title": "The same letter to FBI Director Kash Patel, 20 April 2026",
+"topics": [
+{
+"claims": [
+"c-995607e5d4"
+],
+"id": "missing-scientists",
+"title": "Deaths and disappearances: the scientists probe"
+}
+],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf"
+]
+}

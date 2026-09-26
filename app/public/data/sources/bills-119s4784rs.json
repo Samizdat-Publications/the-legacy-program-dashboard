@@ -1,0 +1,195 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-281b74be13",
+"locator": null,
+"node": "ndaa-fy2027-s4784",
+"nodeLabel": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
+"sourceText": "S. 4784 (Reported in Senate) full text, GPO",
+"text": "S. 4784 as reported, Report No. 119-127, contains zero occurrences of 'unidentified', 'UAP', 'Anomaly Resolution' or a citation to 50 U.S.C. 3373.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-45aea027de",
+"locator": null,
+"node": "roger-wicker",
+"nodeLabel": "Roger F. Wicker",
+"sourceText": "S. 4784 (Reported in Senate), Report No. 119-127, GPO full text",
+"text": "S. 4784, the FY2027 NDAA as reported by the Armed Services Committee, contains no UAP provisions: zero occurrences of 'unidentified', 'UAP', or a citation to 50 U.S.C. 3373.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c0729699af",
+"locator": null,
+"node": "senate-armed-services",
+"nodeLabel": "Senate Armed Services Committee",
+"sourceText": "S. 4784 (Reported in Senate), GPO",
+"text": "The FY2027 NDAA reported by the committee, S. 4784, contains no UAP provisions.",
+"tier": 1
+}
+],
+"date": "2026",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "disclosure-symposium-2026",
+"label": "2026 Disclosure Symposium"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+"claimTier": 1,
+"id": "e-9c7f1a3fe7",
+"label": "Target vehicle contains no UAP provisions to amend",
+"note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+"b": {
+"cls": "event",
+"id": "disclosure-symposium-2026",
+"label": "2026 Disclosure Symposium"
+},
+"claimTier": 2,
+"id": "e-bbca18d026",
+"label": "Announces a fourth filing at an outside conference",
+"note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+"claimTier": 1,
+"id": "e-6f13dadfb7",
+"label": "Reported an FY2027 NDAA containing no UAP provisions",
+"note": "S. 4784 as reported returns zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-c41c35e467",
+"label": "seat 1 of 12 - Chairman, Senate Armed Services",
+"note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senate-armed-services",
+"label": "Senate Armed Services Committee"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 1,
+"id": "e-2e7774664d",
+"label": "owns the only vehicle the disclosure text has ever ridden, and has never reported it",
+"note": "Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "senate-armed-services",
+"label": "Senate Armed Services Committee"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 1,
+"id": "e-5da44eaee1",
+"label": "Never reported the Act; it existed only as a floor amendment",
+"note": "No standalone UAP disclosure bill exists in the Senate in the 118th or 119th Congress, and no committee has ever marked the text up.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "bills-119s4784rs",
+"identifiers": [
+"BILLS-119s4784rs"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "event",
+"id": "disclosure-symposium-2026",
+"label": "2026 Disclosure Symposium"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+{
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+{
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+{
+"cls": "institution",
+"id": "senate-armed-services",
+"label": "Senate Armed Services Committee"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "ndaa-fy2027-s4784",
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+},
+"title": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
+"topics": [
+{
+"claims": [
+"c-281b74be13"
+],
+"id": "uap-statutes",
+"title": "UAP law in the NDAAs and IAAs, 2021-2026"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.congress.gov/bill/119th-congress/senate-bill/4784",
+"https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+]
+}

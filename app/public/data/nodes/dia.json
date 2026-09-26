@@ -7,38 +7,80 @@
 {
 "id": "c-92c32ea7c7",
 "source": "DIA solicitation HHM402-08-R-0211",
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": null,
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "DIA's Virginia Contracting Activity (ZD50) issued solicitation HHM402-08-R-0211 on 18 August 2008 with contracting officer Jennifer Sylvestre and Government Project Leader Dr. James T. Lacatski.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9c8bbc1e1c",
 "source": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"sources": [
+{
+"id": "n-dia-deliverables-review-2009",
+"locator": null,
+"title": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+}
+],
 "text": "DIA's 30 October 2009 review memo records that 'all of the reviews were positive, some exceptionally so', with eight reviews by other report authors and five by outside reviewers including three Sandia National Laboratories staff, covering 26 FY09 technical reports.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-718435c1da",
 "source": "DIA memo U-09-2660CE-IM, 13 November 2009",
+"sources": [
+{
+"id": "n-dia-sap-denial-memo-2009",
+"locator": null,
+"title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+}
+],
 "text": "DIA's 13 November 2009 memorandum found 'insufficient grounds to classify this open program' and that the material is 'not owned by, produced by or for, or under control of the U.S. government'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6c433aa4fc",
 "source": "DIA FOIA-00023-2022 and appeal APP-00031-2022",
+"sources": [
+{
+"id": "foia-dia-00023-2022",
+"locator": null,
+"title": "DIA FOIA-00023-2022"
+}
+],
 "text": "DIA reported no records located in response to a FOIA request for the 19 June 2007 Lacatski letter to Robert Bigelow described in 'Skinwalkers at the Pentagon'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9359338dd0",
 "source": "Jack Brewer, The UFO Trail, March 2022; DIA release FOIA-00349-2018",
+"sources": [
+{
+"id": "foia-dia-00349-2018",
+"locator": null,
+"title": "DIA release FOIA-00349-2018"
+}
+],
 "text": "DIA withheld the AAWSAP contract awarded to BAASS in a 2011 FOIA response and did not release it until October 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a89ffb0ad3",
 "source": "Inference from comparing the unredacted solicitation to the redacted contract and memoranda releases",
+"sources": [],
 "text": "DIA's redaction of Lacatski's name under 10 USC 424 in post-award releases, when DIA itself had published that name in the public solicitation, indicates a records posture aimed at breaking the link between the program office and the person rather than protecting genuinely undisclosed information.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

@@ -1,0 +1,51 @@
+{
+"archived": [
+"https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf"
+],
+"claims": [],
+"date": "2024",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-information-papers",
+"label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)"
+},
+"claimTier": 1,
+"id": "e-d58e165218",
+"label": "Explanatory output on flaring, parallax, workshops and the NPS CTX issue",
+"note": "AARO publishes analytic methodology continuously while withholding Volume II and its video holdings.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "n-aaro-information-papers",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-information-papers",
+"label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)"
+}
+],
+"node": {
+"cls": "document",
+"id": "aaro-information-papers",
+"label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)"
+},
+"title": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf",
+"https://nps.edu/web/ecco/uap-special-ctx-issue"
+]
+}

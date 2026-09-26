@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-028dfc8001",
+"locator": "image server component",
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "Arquivo Nacional SIAN image server",
+"text": "Individual records are served with full archival references and page images, e.g. BR_DFANBSB_ARX_0_0_0249 for the 2 June 1986 Air Defence Command report.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-f17799c93c",
+"locator": null,
+"node": "l-brasilia",
+"nodeLabel": "Brasilia, Federal District, Brazil",
+"sourceText": "Arquivo Nacional information system",
+"text": "Brazilian military UFO records have been transferred into the Arquivo Nacional and are publicly accessible.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-3763566eb1",
+"locator": null,
+"node": "d-international",
+"nodeLabel": "International & Allied Programs",
+"sourceText": "Arquivo Nacional, Sistema de Informacoes do Arquivo Nacional",
+"text": "Brazilian military UFO records have been transferred to the Arquivo Nacional and are accessible through its information system, including material on the 1986 incident.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sian-an-gov-br-04c25bec",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Governo do Brasil",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil"
+},
+{
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+},
+{
+"cls": "domain",
+"id": "d-international",
+"label": "International & Allied Programs"
+},
+{
+"cls": "location",
+"id": "l-varginha",
+"label": "Varginha, Minas Gerais, Brazil"
+}
+],
+"node": null,
+"title": "Arquivo Nacional (Brazil) - Sistema de Informacoes do Arquivo Nacional",
+"topics": [
+{
+"claims": [
+"c-3763566eb1"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+}
+],
+"type": "web page",
+"urls": [
+"https://sian.an.gov.br/"
+]
+}

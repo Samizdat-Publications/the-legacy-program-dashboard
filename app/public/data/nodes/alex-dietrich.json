@@ -40,44 +40,88 @@
 {
 "id": "c-a11cbb8d85",
 "source": "Navy range fouler reports released via the Navy FOIA reading room, 13 January 2023, reported by The War Zone",
+"sources": [],
 "text": "Navy range fouler documentation on the 14 Nov 2004 incident names the F/A-18 aircrew as including Commander David Fravor and Lt. Cmdr. Alex Dietrich.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:navy-range-fouler-reports) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-0b40ad5d16",
 "source": "Alex Dietrich, CBS 60 Minutes, 16 May 2021",
+"sources": [],
 "text": "'I never wanted to be on national TV, no offense.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16) was rejected in review: two CBS 60 Minutes candidates share that date"
 },
 {
 "id": "c-dab6356024",
 "source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"sources": [
+{
+"id": "u-oversight-house-gov-e736d707",
+"locator": null,
+"title": "House Oversight - Gold written testimony (PDF)"
+}
+],
 "text": "Dietrich 'was mocked by her colleagues' and the incident 'went years without any investigation.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4c1b55f22b",
 "source": "https://www.colorado.edu/emp/people/alex-dietrich , opened 2026-09-18",
+"sources": [
+{
+"id": "u-colorado-edu-d72927d1",
+"locator": null,
+"title": "University of Colorado Boulder, Engineering Management Program, staff page for Alex Dietrich"
+}
+],
 "text": "The University of Colorado Boulder publishes her as a Lecturer in its Lockheed Martin Engineering Management Program, previously an adjunct instructor in the Engineering Leadership Program (2022) and Scholar in Residence to the Engineering Management Program (2023). The same page gives her career as a 20-year Naval career as an F/A-18F strike fighter pilot, with combat deployments supporting Operation Iraqi Freedom and Operation Enduring Freedom, a final yearlong assignment as an infrastructure reconstruction engineer in Ghazni, Afghanistan, and a Bronze Star and Air Combat Medal. Prior teaching posts: Naval Science instructor across a Washington DC consortium of Georgetown, George Washington, Howard and Catholic universities, and Military Professor at the US Naval Academy, Department of Leadership, Ethics and Law. Education: BS Civil Engineering, George Washington University; Defense Language Institute certification in Dari; MBA, GW School of Business. This is an employer's published biography of its own lecturer, not a service record.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ddc396cd20",
 "source": "https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/ , 2021-05-16",
+"sources": [
+{
+"id": "u-cbsnews-com-1e787f0a",
+"locator": null,
+"title": "CBS News, 60 Minutes, Bill Whitaker, 'Navy pilots describe encounters with UFOs'"
+}
+],
 "text": "CBS News, 60 Minutes, correspondent Bill Whitaker, published 16 May 2021, states that Dietrich, a former F/A-18F pilot, 'has never before spoken publicly about what she saw that day'. The same report quotes her: 'It was unidentified. And that's why it was so unsettling to us. Because we weren't expecting it. We couldn't classify it'; 'No predictable movement, no predictable trajectory'; and 'I felt the vulnerability of not having anything to defend ourselves. And then I felt confused when it disappeared.' This dates the start of her public record to 16 May 2021 on the network's own assertion.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3080230a51",
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ae35bedfc4",
 "source": "Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm , 2024-11-13",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

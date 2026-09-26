@@ -8,26 +8,52 @@
 {
 "id": "c-1eaa9489b7",
 "source": "Congress.gov, H.R. 5060 (119th Congress)",
+"sources": [
+{
+"id": "bills-119hr5060ih",
+"locator": null,
+"title": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+}
+],
 "text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced in the 119th Congress on 29 August 2025, following H.R. 10111 in the 118th.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dc5b564b5c",
 "source": "DoD OIG, DODIG-2023-109",
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
 "text": "The DoD Inspector General issued DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', with only an unclassified summary released publicly on 25 January 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cd5a378090",
 "source": "Christopher Sharp, Liberation Times, 24 June 2023",
+"sources": [],
 "text": "The Senate Select Committee on Intelligence's 2023 UAP language proposed an amnesty route for defence contractors holding non-earth origin or exotic materials.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:liberationtimes.com/home/senate-intelligence-committee-proposes-amnesty-to-d) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-dbe48c40b5",
 "source": "ODNI ICIG, Urgent Concern Disclosure Form",
+"sources": [
+{
+"id": "u-dni-gov-beb9e259",
+"locator": null,
+"title": "ODNI ICIG - Disclosure of Urgent Concern Form"
+}
+],
 "text": "The ODNI Intelligence Community Inspector General publishes a Disclosure of Urgent Concern form as the lawful channel for IC whistleblower complaints.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",

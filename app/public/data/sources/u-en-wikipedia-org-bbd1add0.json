@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-bbd1add0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+{
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+}
+],
+"node": null,
+"title": "Robert Salas - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Robert_Salas"
+]
+}

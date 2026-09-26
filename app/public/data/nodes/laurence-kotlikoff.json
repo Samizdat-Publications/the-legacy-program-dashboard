@@ -28,8 +28,16 @@
 {
 "id": "c-981042a3ed",
 "source": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"sources": [
+{
+"id": "u-mark-skidmore-com-d829c583",
+"locator": null,
+"title": "Mark Skidmore, research in finance and public finance"
+}
+],
 "text": "Kotlikoff co-authored three Forbes columns with Mark Skidmore on the $21 trillion unsupported adjustment aggregate, in December 2017, July 2018 and January 2019.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -7,26 +7,52 @@
 {
 "id": "c-0b2e4a7afa",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
+"sources": [
+{
+"id": "dtic-ada326148",
+"locator": null,
+"title": "The Roswell Reports (USAF, 1994-1997)"
+}
+],
 "text": "'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995, ~881 pp, DTIC ADA326148) was produced by Col. Weaver and 1st Lt. McAndrew in response to Rep. Steven H. Schiff's inquiry and attributes the debris to Project MOGUL.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-605afa7187",
 "source": "USAF, 'The Roswell Report: Case Closed' (1997), DTIC ADA326147",
+"sources": [
+{
+"id": "dtic-ada326147",
+"locator": null,
+"title": "The Roswell Report: Case Closed (DTIC ADA326147)"
+}
+],
 "text": "'The Roswell Report: Case Closed' (1997, 232 pp, DTIC ADA326147) concludes the recovered material 'was not the remnants of an extraterrestrial spacecraft'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f2ce17488a",
 "source": "USAF, 'The Roswell Report: Case Closed' (1997)",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": null,
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "'Case Closed' attributes witness reports of bodies to anthropomorphic test dummies used in high-altitude parachute tests conducted principally between 1953 and 1959.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c5815a6a1f",
 "source": "Inference from the 1997 report's chronology against the 1947 event date",
+"sources": [],
 "text": "An explanation requiring witnesses to have telescoped events six to twelve years later into July 1947 is a weaker reconstruction than the one it replaced, and it was produced only under congressional pressure forty-seven years after the fact.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

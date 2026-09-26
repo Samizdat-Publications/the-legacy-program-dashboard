@@ -7,26 +7,58 @@
 {
 "id": "c-e9c4237487",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"sources": [
+{
+"id": "u-theblackvault-com-49569d6f",
+"locator": null,
+"title": "The Black Vault, DoW OIG FOIA release"
+}
+],
 "text": "DoW OIG FOIA case DODIG-2021-000806 fourth interim release, five pages, with approximately 245 pages still pending review.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-79cbde141a",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"sources": [
+{
+"id": "u-theblackvault-com-49569d6f",
+"locator": null,
+"title": "The Black Vault, DoW OIG FOIA release"
+}
+],
 "text": "The 'Potential Benefit(s)' section was withheld under FOIA exemption (b)(1) citing military plans, weapons systems or operations and vulnerabilities or capabilities relating to national security; background sections marked (S) and (S//NF) were blacked out entirely.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9f31f9809f",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"sources": [
+{
+"id": "u-theblackvault-com-49569d6f",
+"locator": null,
+"title": "The Black Vault, DoW OIG FOIA release"
+}
+],
 "text": "Details and outcomes of an October 2020 meeting between Space, Intelligence, Engineering and Oversight leadership and the UAP Task Force Director were withheld entirely under exemption (b)(5) deliberative process; methodology steps 3-5 are classified SECRET/Five Eyes and steps 6-8 fully redacted.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-df1887e127",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"sources": [
+{
+"id": "u-theblackvault-com-49569d6f",
+"locator": null,
+"title": "The Black Vault, DoW OIG FOIA release"
+}
+],
 "text": "The Department's disclosure posture in mid-2026 releases imagery and withholds methodology. Reasoning: the same department published AC-130J gun-camera video of an unresolved engagement in August 2026 while in June 2026 withholding the description of its UAP evaluation methodology under (b)(1) national security.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-da15f2a0eb",
+"label": "22 May 2019: AATIP 'did pursue research and investigation into unidentified aerial phenomena'",
+"note": "The Department's first unambiguous acknowledgement that its aerospace-threat program looked at UAP. Repudiated by its own spokesperson six months later.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"id": "e-cf5d21dbe0",
+"label": "Recipient of the 13 June 2019 and 6 December 2019 statements",
+"note": "Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-c626fa7977",
+"label": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
+"note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "person",
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"claimTier": 1,
+"id": "e-a46c5f7e6b",
+"label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
+"note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-c24c909e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "The Black Vault",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+]
+}

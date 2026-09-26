@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-2738b071",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+{
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
+"node": null,
+"title": "UAP Gerb - YouTube channel",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/@UAPGerb/videos"
+]
+}

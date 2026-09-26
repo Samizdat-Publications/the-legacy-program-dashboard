@@ -7,14 +7,24 @@
 {
 "id": "c-fe00f676f0",
 "source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
+"sources": [
+{
+"id": "u-rounds-senate-gov-c6f398c0",
+"locator": null,
+"title": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026"
+}
+],
 "text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-90a04699ff",
 "source": "Inference from the newsletter's stated date range",
+"sources": [],
 "text": "The Thursday referred to in a newsletter covering 22-28 June 2026 is 25 June 2026.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",

@@ -36,20 +36,44 @@
 {
 "id": "c-e04c85dc04",
 "source": "Karl Nell to Leslie Kean and Ralph Blumenthal, The Debrief, 5 June 2023",
+"sources": [
+{
+"id": "n-debrief-2023-06-05",
+"locator": "Nell's on-record statement",
+"title": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+}
+],
 "text": "'Beyond reproach' - Nell's on-record characterization of Grusch.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-0903921692",
 "source": "Karl Nell, on the record, The Debrief, 5 June 2023",
+"sources": [
+{
+"id": "n-debrief-2023-06-05",
+"locator": null,
+"title": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+}
+],
 "text": "Grusch's assertion of an eighty-year sub rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and at least some of those technologies derive from non-human intelligence.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-5b18a9c6bd",
 "source": "Karl Nell, SALT iConnections conference, May 2024",
+"sources": [
+{
+"id": "t-41f93e23d98d",
+"locator": null,
+"title": "SALT iConnections conference, May 2024"
+}
+],
 "text": "'Non-human intelligence exists, non-human intelligence has been interacting with humanity. This interaction is not new, and it's been ongoing, and unelected people in the government are aware of that. There's zero doubt.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

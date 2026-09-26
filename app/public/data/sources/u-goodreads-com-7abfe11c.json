@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"claimTier": 1,
+"id": "e-d10cde3e69",
+"label": "co-author, contractor side of the account",
+"note": "Kelleher supplies the field-operations and human-effects record from the BAASS side.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-goodreads-com-7abfe11c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "goodreads.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+}
+],
+"node": null,
+"title": "Goodreads — Skinwalkers at the Pentagon",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.goodreads.com/book/show/59410596"
+]
+}

@@ -1,0 +1,210 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-7f6a762766",
+"locator": null,
+"node": "kirk-mayer",
+"nodeLabel": "Kirk-Mayer, Inc.",
+"sourceText": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"text": "Tom Mahood's 2018 conclusion on the same question: that Lazar worked as an electronic technician for Kirk-Mayer, a contractor supplying support staff, rather than as a physicist, and that his presence in the telephone directory reflected that contractor relationship and was marked with a 'K/M' notation.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-4c2999c90f",
+"locator": null,
+"node": "los-alamos-monitor-1982",
+"nodeLabel": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ ; Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , all opened 2026-09-18",
+"text": "THE QUALIFICATION, WHICH TRAVELS WITH THE ARTICLE AND IS ROUTINELY DROPPED. The description is what Lazar told the reporter, not an employment record. Stanton Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records that the page 'clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer'. A Los Alamos colleague interviewed on tape by Mark Farmer on 25 May 1996 said Lazar 'was a contractor' under 'Kirk Mayer' and that he 'claimed to be' a physicist. Tom Mahood's 2018 conclusion is that Lazar worked as an electronic technician for Kirk-Mayer and that the Monitor article misrepresented his position on the basis of what he told the reporter.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-7fd7489e03",
+"locator": null,
+"node": "los-alamos-monitor-1982",
+"nodeLabel": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"sourceText": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and The Lazar Tape, 1991, captions at 35:48",
+"text": "It is also the date peg for the Edward Teller anecdote, and it creates a discrepancy rather than resolving one. Tom Mahood's 2018 retrospective puts the article on 27 June 1982 with Teller lecturing at Los Alamos the following day, and calls the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-a64ba4a596",
+"locator": null,
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"sourceText": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 0:57:13 and 1:01:21 to 1:02:58, recorded 2026-07-20",
+"text": "THE SECOND-BEST FINDING IN THIS CLUSTER: TWO PEOPLE REACH THE SAME COUNTER-EXPLANATION BY UNRELATED ROUTES. Tom Mahood, a physics graduate who spent years on the documentary record, concludes in his 2018 retrospective that there is 'nothing at Papoose Lake' and that S-4 actually refers to a radar facility at the Tonopah Test Range. Separately, T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility that held captured Soviet equipment, that this and not an underground base is what Lazar referred to, and that a named retired Area 51 security chief confirmed to him that Lazar appears on no manifest. Neither route depends on the other: one is documentary and civilian, the other is recollection by a former range engineer. Shared conclusions from a shared method are not corroboration; these two do not share a method.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-13d8e1164c",
+"locator": null,
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"sourceText": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"text": "On the Los Alamos question he concludes that Lazar worked as an electronic technician for the contractor Kirk-Mayer rather than as a staff physicist, that the phone-directory listing reflects that contractor relationship, and that the Monitor article's description followed what Lazar told the reporter. He also accepts that the W-2 could be legitimate, representing a brief stint at Groom, while insisting 'it doesn't mean saucers exist at Papoose'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e5260345fb",
+"locator": null,
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"sourceText": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"text": "His 2018 retrospective concludes that there is 'nothing at Papoose Lake', that S-4 actually refers to a radar facility at the Tonopah Test Range, and that Lazar constructed the alien-craft narrative as a cover after security caught him bringing friends to watch classified tests in April 1989. It concedes in the same document that Lazar is 'amazingly believable', that Mahood initially found the story plausible before investigating the details, and that Lazar demonstrated real technical cleverness as a troubleshooter.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-862d2ce9d0",
+"locator": null,
+"node": "l-tonopah",
+"nodeLabel": "Tonopah Test Range, Nevada",
+"sourceText": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 1:01:21 to 1:02:58, recorded 2026-07-20",
+"text": "THE COUNTER-DESIGNATOR, AND THIS IS A DISPUTE RATHER THAN A LINK. Tom Mahood's 2018 retrospective states that there is nothing at Papoose Lake and that the designator 'S-4' actually refers to a radar facility at the Tonopah Test Range. T.D. Barnes, a former CIA and NASA engineer at Groom Lake, reaches the same conclusion by an unrelated route, describing the real Site 4 as a remote radar site holding captured Soviet equipment. Neither is claiming that Lazar's described facility is at Tonopah; both are claiming that the designator he used belongs somewhere else entirely.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-tonopah",
+"label": "Tonopah Test Range, Nevada"
+},
+"claimTier": 2,
+"id": "e-b55848e817",
+"label": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
+"note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 2,
+"id": "e-54e41e21e3",
+"label": "The most detailed documentary examination of the account, 1990s and 2018",
+"note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-df5bd159c5",
+"label": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
+"note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-otherhand-org-c91396fe",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "edward-teller",
+"label": "Edward Teller"
+},
+{
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+{
+"cls": "document",
+"id": "los-alamos-monitor-1982",
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'"
+},
+{
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+{
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+{
+"cls": "location",
+"id": "l-tonopah",
+"label": "Tonopah Test Range, Nevada"
+}
+],
+"node": null,
+"title": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"topics": [
+{
+"claims": [
+"c-7f6a762766",
+"c-7fd7489e03",
+"c-a64ba4a596",
+"c-e5260345fb",
+"c-862d2ce9d0"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-4c2999c90f",
+"c-13d8e1164c",
+"c-e5260345fb"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+},
+{
+"claims": [
+"c-a64ba4a596",
+"c-862d2ce9d0"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+},
+{
+"claims": [
+"c-a64ba4a596"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+]
+}

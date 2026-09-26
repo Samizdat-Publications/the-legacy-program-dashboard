@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6020a4e213",
+"locator": null,
+"node": "disclosure-project-witness-set",
+"nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+"sourceText": "Obituary of Karl R. Wolfe, Lansing Funeral Home, Lansing, New York, https://www.lansingfuneralhome.com/obituaries/karl-wolfe , opened 2026-09-19",
+"text": "Karl R. Wolfe died on 10 October 2018, born 19 April 1944, per his funeral home obituary at Lansing, New York. A NEGATIVE WORTH RECORDING: the obituary does not mention US Air Force service, an employer, an education or a career.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-lansingfuneralhome-com-5627a8d4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "lansingfuneralhome.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "disclosure-project-witness-set",
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)"
+}
+],
+"node": null,
+"title": "Obituary of Karl R. Wolfe, Lansing Funeral Home, Lansing, New York",
+"topics": [
+{
+"claims": [
+"c-6020a4e213"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.lansingfuneralhome.com/obituaries/karl-wolfe"
+]
+}

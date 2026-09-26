@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-e732a234e7",
+"label": "one of the two named channels through which US intelligence money is appropriated",
+"note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
+"type": "funding"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dni-gov-f6a414e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [],
+"node": null,
+"title": "ODNI press release, 'DNI Releases FY 2027 Budget Request Figure for the National Intelligence Program'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26"
+]
+}

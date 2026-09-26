@@ -1,0 +1,575 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-fcd7cf4554",
+"locator": "Release 03",
+"node": "cia-readingroom-ufo",
+"nodeLabel": "CIA FOIA Reading Room - UFO collection",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "PURSUE Release 03 included a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-1bd0137457",
+"locator": "Release 03",
+"node": "fbi-vault-ufo",
+"nodeLabel": "FBI Records: The Vault - UFO collection",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "PURSUE Release 03 contained 29 FBI files including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 documenting two FBI special agents' own observation.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-3d3e936e6d",
+"locator": "Release 01",
+"node": "fbi-vault-ufo",
+"nodeLabel": "FBI Records: The Vault - UFO collection",
+"sourceText": "Disclosure Archives inventory of Release 01",
+"text": "PURSUE Release 01 published FBI file 62-HQ-83894, the master flying disc file spanning 1947-1968, as a single 101MB PDF.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-bbcee28870",
+"locator": "Release 02",
+"node": "odni-uap-d001",
+"nodeLabel": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"sourceText": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"text": "ODNI-UAP-D001, released in PURSUE Release 02 on 22 May 2026, is a first-person narrative by a serving senior intelligence officer of a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-6acaacb1a6",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "https://disclosurearchives.com/department-of-war-files",
+"text": "The originator-prefixed numbering (DOW-, ODNI-, FBI-) indicates the tranches were assembled by pulling from multiple agencies' holdings under a single presidential tasking rather than compiled from one department's files. Reasoning: a single-department dump would not need agency prefixes, and ODNI-UAP-D001 is an ODNI-originated document published in a DoW release series.",
+"tier": 3
+},
+{
+"cls": "event",
+"id": "c-0db075e81a",
+"locator": "Release 01",
+"node": "pursue-release-01",
+"nodeLabel": "PURSUE Release 01",
+"sourceText": "Disclosure Archives inventory of Release 01",
+"text": "FBI file 62-HQ-83894, the Bureau's master flying disc file spanning 1947-1968, was released as a single 101MB PDF.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-d326caa0f9",
+"locator": "Release 01",
+"node": "pursue-release-01",
+"nodeLabel": "PURSUE Release 01",
+"sourceText": "Disclosure Archives inventory compiled from the war.gov/UFO Release 01 posting",
+"text": "Release 01 comprised 160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-3f514bb7b2",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of Release 02",
+"text": "DOW-UAP-PR051 shows a 2021 MQ-9 Reaper weapons-quality lock on an object exhibiting instantaneous acceleration; DOW-UAP-PR055 shows a spherical object over Afghanistan on 23 November 2020.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-637cee91d0",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of Release 02",
+"text": "ODNI-UAP-D001 is a first-person narrative by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6dc713b8d3",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of Release 02",
+"text": "Release 02 includes a March 2022 sequence of spheres entering and leaving the water near a surfaced US submarine and the February 2023 Lake Huron F-16C engagement.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-b6eddb831f",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of the Release 02 posting",
+"text": "Release 02 comprised 64 files: 51 sensor videos in a DOW-UAP-PR050 to PR099 series, 7 NASA crew audio files and 6 documents.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6a782867ae",
+"locator": "Release 03",
+"node": "pursue-release-03",
+"nodeLabel": "PURSUE Release 03",
+"sourceText": "Disclosure Archives inventory of the Release 03 posting",
+"text": "Release 03 comprised 72 files - 53 documents, 10 images, 6 videos, 3 audio - with 29 files from the FBI.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-e8011734e0",
+"locator": "Release 03",
+"node": "pursue-release-03",
+"nodeLabel": "PURSUE Release 03",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "The FBI orb corpus covers 2021-2025 and includes an FD-1057 documenting two FBI special agents' own first-hand observation.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-eaea88a30e",
+"locator": "Release 03",
+"node": "pursue-release-03",
+"nodeLabel": "PURSUE Release 03",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "Release 03 includes a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-14c782d787",
+"locator": "Release 04",
+"node": "pursue-release-04",
+"nodeLabel": "PURSUE Release 04",
+"sourceText": "Disclosure Archives inventory of the Release 04 posting",
+"text": "Release 04 contained previously unseen US military videos and historical documents dating to as early as the 1940s, including 1996 NASA STS-80 imagery and a 2019 eastern-US sighting by an observer with 28 years of Air Force and Navy experience.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a44f92868b",
+"locator": "Release 02",
+"node": "tulsi-gabbard",
+"nodeLabel": "Tulsi Gabbard",
+"sourceText": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"text": "PURSUE Release 02 includes ODNI-UAP-D001, a first-person account by a serving senior intelligence officer of a one-hour multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"claimTier": 3,
+"id": "e-26bf49d9f5",
+"label": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
+"note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"claimTier": 3,
+"id": "e-e1ce42aadf",
+"label": "letter said to be answered by the tranche",
+"note": "Release 02 is the only tranche with an identified congressional trigger - Luna's April 2026 letter - and the letter itself has not been published.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-c057bc0e2f",
+"label": "Hearing, then letter, then release - the causal spine of 2026",
+"note": "The sequence runs from sworn testimony that video was being withheld, through a subcommittee chair's letter to the Secretary, to a release channel that bypassed the office entirely.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+"b": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"claimTier": 3,
+"id": "e-a12a103706",
+"label": "same originator, two months apart",
+"note": "ODNI put a serving officer's encounter narrative into the PURSUE corpus in May and directed the whole IC to release its UAP holdings to the PURSUE Task Force by August.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 2,
+"id": "e-f290bb92cd",
+"label": "ODNI-originated document inside a Department of War release",
+"note": "The ODNI document numbering inside a war.gov tranche is the structural evidence that PURSUE is genuinely interagency rather than departmental.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+"claimTier": 1,
+"id": "e-3bda08c4ab",
+"label": "First tranche, 8 May 2026",
+"note": "160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, at least 100 carrying redactions.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"claimTier": 1,
+"id": "e-802a777535",
+"label": "Second tranche, 22 May 2026",
+"note": "64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series; the 5.6GB video bundle is the largest of the five.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+"claimTier": 1,
+"id": "e-0777cea2aa",
+"label": "Third tranche, 12 June 2026",
+"note": "72 files with the FBI the largest contributor at 29 files, including a less-redacted CIA Robertson Panel record.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+"claimTier": 1,
+"id": "e-75344f3b9a",
+"label": "Fourth tranche, 10 July 2026",
+"note": "227MB of documents and 1.4GB of video spanning the 1940s to 2026, published without any stated file count.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+"b": {
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+"claimTier": 2,
+"id": "e-90237c1685",
+"label": "Published FBI 62-HQ-83894, well beyond the Vault's 1947-1954 scope",
+"note": "The Bureau's master flying disc file covering 1947 to 1968 was released as a single 101MB PDF through war.gov rather than through the FBI's own reading room.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 2,
+"id": "e-259fb21e8d",
+"label": "Released Apollo 12 and Apollo 17 mission records",
+"note": "Apollo mission records including cockpit transcript describing 'very bright particles or fragments' appear in the first tranche.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"b": {
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+"claimTier": 1,
+"id": "e-5c6b8ba6d8",
+"label": "Published the serving officer's encounter narrative",
+"note": "A serving senior intelligence officer's first-person narrative of a one-hour, multi-witness encounter, published under an ODNI document number five months after the event.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+"b": {
+"cls": "document",
+"id": "cia-readingroom-ufo",
+"label": "CIA FOIA Reading Room - UFO collection"
+},
+"claimTier": 2,
+"id": "e-7fd38f3f7c",
+"label": "Released a less-redacted 1953 Robertson Panel record",
+"note": "A version of the Agency's own foundational UAP document less redacted than the one in its public reading room appeared seventy-three years later, by executive direction.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+"b": {
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+"claimTier": 2,
+"id": "e-d353ac476f",
+"label": "29 FBI files including a 2021-2025 orb corpus and an agents' own FD-1057",
+"note": "The tranche established the FBI as an active modern UAP collector, a posture invisible in its own Vault collection last modified in 2013.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 2,
+"id": "e-f0839c7145",
+"label": "Released NASA Gemini-era crew debriefings",
+"note": "Gemini crew debriefings and 1962 Cronkite-Cooper interview audio were published in the third tranche.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-673eed19d8",
+"label": "Assessment language reappears despite the no-comment posture",
+"note": "Release 04 material was characterised as consistent with balloons or sensor artefacts and as not clear evidence of unknown aircraft, reverting to the AARO idiom the release programme had disclaimed.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "tulsi-gabbard",
+"label": "Tulsi Gabbard"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-90f215c57a",
+"label": "ODNI coordinating authority for the release programme",
+"note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+"claimTier": 3,
+"id": "e-0411566395",
+"label": "By the fourth tranche the programme stopped stating what it released",
+"note": "Releases 01, 02, 03 and 05 have published file counts; Release 04 has none on the portal or in independent inventories.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-disclosurearchives-com-3830ab44",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "disclosurearchives.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+{
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "document",
+"id": "cia-readingroom-ufo",
+"label": "CIA FOIA Reading Room - UFO collection"
+},
+{
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+{
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+{
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+{
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+{
+"cls": "event",
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+{
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+{
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+{
+"cls": "person",
+"id": "tulsi-gabbard",
+"label": "Tulsi Gabbard"
+}
+],
+"node": null,
+"title": "Disclosure Archives - Department of War files index",
+"topics": [
+{
+"claims": [
+"c-0db075e81a",
+"c-d326caa0f9",
+"c-3f514bb7b2",
+"c-6dc713b8d3",
+"c-b6eddb831f",
+"c-6a782867ae",
+"c-e8011734e0",
+"c-eaea88a30e",
+"c-14c782d787"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-fcd7cf4554",
+"c-1bd0137457",
+"c-3d3e936e6d",
+"c-6a782867ae"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "web page",
+"urls": [
+"https://disclosurearchives.com/department-of-war-files"
+]
+}

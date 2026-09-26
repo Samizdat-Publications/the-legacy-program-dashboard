@@ -1,0 +1,266 @@
+{
+"archived": [
+"https://web.archive.org/web/20260706210652/https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-c6eb0265ed",
+"locator": null,
+"node": "bolender-memo",
+"nodeLabel": "Bolender Memorandum",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Blue Book was terminated on 17 December 1969, two months after the memorandum.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e1a0956512",
+"locator": null,
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior Air Force experience as the basis for terminating Blue Book on 17 December 1969.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-83de6d20e3",
+"locator": null,
+"node": "kenneth-arnold",
+"nodeLabel": "Kenneth Arnold",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Project Blue Book and its predecessors logged 12,618 sightings between 1947 and 1969, of which 701 were never identified.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-bfe7c31ee3",
+"locator": null,
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force gave three reasons for termination: no reported UFO was ever an indication of threat to national security; no evidence that unexplained sightings represented technological developments beyond current scientific knowledge; and no evidence that 'unidentified' sightings were extraterrestrial vehicles.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d4e3288d32",
+"locator": null,
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Blue Book recorded 12,618 sightings between 1947 and 1969, of which 701 remained unidentified; it was terminated on 17 December 1969.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-faec265a5b",
+"locator": null,
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force cited the Colorado study and a National Academy of Sciences review as the basis for terminating Project Blue Book on 17 December 1969.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-ea29bbf6b0",
+"label": "ATIC and every legacy UFO project were located at Wright-Patterson",
+"note": "SIGN, GRUDGE and Blue Book were all headquartered at Wright-Patterson AFB, the site of the Air Force's foreign materiel exploitation organisation and its successors.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-b36e94bf20",
+"label": "Memo recommended termination; Blue Book closed two months later",
+"note": "Secretary of the Air Force Robert C. Seamans Jr. announced the termination on 17 December 1969, citing the Condon Report.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "gerald-ford",
+"label": "Gerald R. Ford"
+},
+"b": {
+"cls": "event",
+"id": "hearing-1966-04-05",
+"label": "House Armed Services Committee UFO Hearing"
+},
+"claimTier": 2,
+"id": "e-15a76806cb",
+"label": "Ford forced the first congressional hearing on the subject",
+"note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"b": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"claimTier": 3,
+"id": "e-956bb67739",
+"label": "The public statistics are the residue of a filter, not the corpus",
+"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"b": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"claimTier": 1,
+"id": "e-1d9d8bd6f1",
+"label": "SIGN hosted by AMC intelligence at Wright Field, ATIC's predecessor",
+"note": "The first official UFO project was placed inside the foreign materiel exploitation organisation rather than a research or air defence body — the structural fact underlying this entire domain.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-7ddd01f57e",
+"label": "The Condon Report was the stated basis for terminating Blue Book",
+"note": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior experience in ending the program on 17 December 1969.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-af-mil-de312b60",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Air Force",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+{
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+{
+"cls": "person",
+"id": "carroll-bolender",
+"label": "Carroll H. Bolender"
+},
+{
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+{
+"cls": "person",
+"id": "gerald-ford",
+"label": "Gerald R. Ford"
+},
+{
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold"
+},
+{
+"cls": "person",
+"id": "nathan-twining",
+"label": "Nathan F. Twining"
+},
+{
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+{
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+}
+],
+"node": null,
+"title": "USAF Fact Sheet: Project Blue Book",
+"topics": [
+{
+"claims": [
+"c-c6eb0265ed",
+"c-bfe7c31ee3",
+"c-d4e3288d32"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-e1a0956512",
+"c-bfe7c31ee3",
+"c-faec265a5b"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-bfe7c31ee3",
+"c-d4e3288d32"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-faec265a5b"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+]
+}

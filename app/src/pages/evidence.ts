@@ -17,6 +17,7 @@
  * under it, so the table reads one claim per two or three lines.
  */
 import '../styles/evidence.css';
+import { claimSourceItems } from '../sources';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import { loadClaims, loadNode, clsColour, type ClaimRow, type NodeRecord } from '../data';
@@ -167,7 +168,7 @@ export async function renderEvidence(view: HTMLElement, q: URLSearchParams): Pro
 function chip(q: URLSearchParams, key: Key, item: Facet, f: Filters): HTMLElement {
   const on = f[key] === item.value;
   const label = key === 'domain' && item.value === NO_DOMAIN
-    ? 'no url in the source'
+    ? 'cited without a web address'
     : (item.label || 'no cluster');
   return h('a', {
     class: 'ev-chip' + (on ? ' on' : ''),
@@ -186,12 +187,11 @@ function row(r: ClaimRow, foia: FoiaFile): HTMLElement {
   tr.append(h('td', { class: 'c-node' }, h('a', { href: '#/n/' + r.node }, r.label)));
   tr.append(h('td', { class: 'c-claim' }, saidMark(saidKind(r.tier, r.text, src.text, src.url)), r.text));
 
+  /* phase 8: the source's Library page; unresolved, the citation as written */
   tr.append(h('td', { class: 'c-src' },
-    src.url
-      ? h('a', { href: src.url, rel: 'noreferrer', target: '_blank' }, src.text || src.url)
-      : (src.text
-          ? h('span', { class: 'dim' }, src.text)
-          : h('span', { class: 'faint' }, 'no citation on the row'))));
+    ...(src.text || (r.sources && r.sources.length)
+      ? claimSourceItems(r.sources, src.text, r.unresolved, 'ev-src')
+      : [h('span', { class: 'faint' }, 'no citation on the row')])));
 
   tr.append(h('td', { class: 'c-den' }, r.denied
     /* the flag is the node's (it is the object of some denial), never this claim's */

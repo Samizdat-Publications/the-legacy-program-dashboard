@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [],
+"date": "2023-12-14",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-30efca383e",
+"label": "carries the first enacted funding limitation aimed at unreported UAP activity",
+"note": "Beyond the Subtitle C records collection, P.L. 118-31 carries funding-side provisions that bar the obligation of funds for UAP activity protected under special or restricted access that has not been disclosed to the congressional committees, and bar charging UAP-related independent research and development as an allowable indirect contract expense. Congress legislating on the funding channel is the strongest available evidence that the channel is real.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-2024",
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+"claimTier": 1,
+"id": "e-d871f5ca2f",
+"label": "Division G of P.L. 118-31 - enacted intelligence-side UAP provisions",
+"note": "Division G carries Sec. 7341, modifying the AARO reporting requirement, and Sec. 7343, the funding limitation. The section list published by the Senate Select Committee on Intelligence confirms both as part of the enacted division. Its separate membership of the funding domain rests on 7343's substance, not on its status as law.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "iaa-2024",
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-0d32f86756",
+"label": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
+"note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
+"type": "funding"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-intelligence-senate-gov-533caabf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Select Committee on Intelligence",
+"listedOn": [],
+"node": null,
+"title": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/"
+]
+}

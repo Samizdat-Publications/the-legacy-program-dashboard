@@ -34,20 +34,44 @@
 {
 "id": "c-d416ac046f",
 "source": "The Astrophysical Journal, DOI 10.3847/1538-4357/ac8eac",
+"sources": [
+{
+"id": "u-doi-org-3d98521a",
+"locator": null,
+"title": "Siraj & Loeb, 'A Meteor of Apparent Interstellar Origin in the CNEOS Fireball Catalog', The Astrophysical Journal"
+}
+],
 "text": "Siraj and Loeb published 'A Meteor of Apparent Interstellar Origin in the CNEOS Fireball Catalog' in The Astrophysical Journal in November 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-58cbe26e24",
 "source": "Signals, DOI 10.3390/signals4040035",
+"sources": [
+{
+"id": "u-doi-org-1fc8f0ad",
+"locator": null,
+"title": "Siraj & Loeb, 'Localizing the First Interstellar Meteor with Seismometer Data', Signals"
+}
+],
 "text": "Siraj and Loeb published 'Localizing the First Interstellar Meteor with Seismometer Data' in Signals in September 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2ff1a20481",
 "source": "Geophysical Journal International, March 2024, as reported by The New York Times",
+"sources": [
+{
+"id": "t-c63ad0120439",
+"locator": null,
+"title": "Geophysical Journal International, March 2024, as reported by The New York Times"
+}
+],
 "text": "The seismic localisation was subsequently attributed by Fernando et al. in Geophysical Journal International (March 2024) to nearby truck traffic rather than an impact.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

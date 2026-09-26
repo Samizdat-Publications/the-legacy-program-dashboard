@@ -7,62 +7,118 @@
 {
 "id": "c-953874b965",
 "source": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 (https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html)",
+"sources": [
+{
+"id": "u-opovo-com-br-c9816d28",
+"locator": null,
+"title": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 ("
+}
+],
 "text": "Ministerial press conference record: on 23 May 1986 at 16h30 the Minister of Aeronautics, Brigadeiro Octávio Júlio Moreira Lima (1926-2011), convened the press to state that five FAB fighters had pursued 21 UFOs. His words as reported: 'Não se trata de acreditar ou não [em seres extraterrestres ou em discos voadores]. Só podemos dar informações técnicas. As suposições são várias. Tecnicamente, diria aos senhores que não temos explicação.' The five FAB pilots and the on-duty flight controllers attended.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-981bd03a48",
 "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
+"sources": [
+{
+"id": "u-opovo-com-br-c9816d28",
+"locator": null,
+"title": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 ("
+}
+],
 "text": "The 23-year delay: at the close of the 23 May 1986 press conference the Minister undertook to publish a complete dossier 'dentro de 30 dias'. The report - signed by the interim Comando da Aeronáutica (COMDA) commander José Pessoa Cavalcanti de Albuquerque and dated 2 June 1986 - was released only on 25 September 2009, 23 years later.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-287044e340",
 "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026. NOTE: prefix FAB-4913 for the Viriato Mirage and the 22h48 (not 22h50) departure time differ in detail from earlier board entries; Tier 1 confirmation requires the Relatório de Ocorrências itself in SIAN, which could not be machine-retrieved.",
+"sources": [
+{
+"id": "u-opovo-com-br-c9816d28",
+"locator": "note: prefix/time discrepancies flagged in string",
+"title": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 ("
+}
+],
 "text": "Full scramble order of battle, pilots, aircraft prefixes and bases: (1) F-5, prefix FAB-4848, Tenente Kleber Caldas Marinho, 22h34, from Base Aérea de Santa Cruz (RJ); (2) Mirage F-103, prefix 4913, Capitão Armindo Sousa Viriato de Freitas, 22h48, from Base Aérea de Anápolis (GO); (3) F-5, prefix FAB-4849, Capitão Márcio Brisolla Jordão, 22h50, from Santa Cruz (RJ); (4) Mirage, prefix FAB-4918, Capitão Rodolfo Silva e Souza, 23h17, Anápolis; (5) Mirage, prefix FAB-4917, Capitão Júlio Cézar Rozemberg, 23h46, Anápolis. The last two had no visual or radar contact. All three initial aircraft were given the same tasking: 'interceptação não agressiva'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-57e064955f",
 "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
+"sources": [
+{
+"id": "u-opovo-com-br-c9816d28",
+"locator": null,
+"title": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 ("
+}
+],
 "text": "Civil-aviation corroboration on the night: at 21h04 the São José dos Campos controller Sargento Sérgio Mota da Silva contacted the twin-engine Xingu, prefix PT-MBZ, returning from Brasília, carrying Coronel Ozires Silva (who took office as president of Petrobras the following day) and copilot Alcir Pereira da Silva. Sightings were also reported by a TAM Bandeirante on the Londrina-São Paulo route and a Transbrasil aircraft over Araxá (MG).",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-ef693c80e3",
 "source": "Senado Federal, RQS 193/2022, justificação; Diário do Senado Federal nº 32 de 2022; approved 24/06/2022",
+"sources": [],
 "text": "The 1986 event is named and characterised in a Senate document approved by the Plenary on 24 June 2022: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' This attests the legislative record of the event, not the physical claims within it.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&dispo) was rejected in review: locator adds a session-notes URL the string lacks"
 },
 {
 "id": "c-0ed33c1e0d",
 "source": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, 2 June 1986, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+"sources": [
+{
+"id": "n-doc-fab-1986-report",
+"locator": null,
+"title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
 "text": "The Air Defence Command's report records the interceptor sequence with Zulu timings, the 13 plots astern of the second Santa Cruz F-5, and the abandonment of pursuits at bingo fuel and on loss of contact.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-00759b4e0b",
 "source": "Relatório de Ocorrências, 2 June 1986, Considerações Iniciais",
+"sources": [
+{
+"id": "n-doc-fab-1986-report",
+"locator": "Considerações Iniciais",
+"title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
 "text": "The report records the technical limitation that Brazilian coverage rested on radars 'cuja finalidade primária é destinado ao controle de tráfego aéreo, não sendo portanto, específico para emprego em Defesa Aérea', making surveillance deficient.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-36e986ba83",
 "source": "André Bernardo, BBC Brasil, 14 January 2022",
+"sources": [],
 "text": "Pilot and aircraft identifications: Lt Kleber Caldas Marinho (F-5, FAB-4848, 22:34 from Santa Cruz); Capt Márcio Brisolla Jordão (F-5, FAB-4849, 22:50); Capt Armindo Sousa Viriato de Freitas (Mirage, Anápolis); Capt Rodolfo Silva e Souza (FAB-4918, 23:17); Capt Júlio Cézar Rozemberg (FAB-4917, 23:46).",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-) was rejected in review: names 2022 BBC original; candidate is 2026 O Povo republication"
 },
 {
 "id": "c-0f32dc3ebd",
 "source": "BBC Brasil, 14 January 2022, quoting the 1993 Globo Repórter interview",
+"sources": [],
 "text": "Captain Viriato, TV Globo 'Globo Repórter' interview, 1993, on the object that accelerated away from his Mirage at Mach 1.3: 'Se existe avião que possa desenvolver essa velocidade, eu desconheço.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:bbc.com/portuguese/brasil-59953278) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-f1d6c49d69",
 "source": "BBC Brasil, 14 January 2022, interview with Adenir Britto",
+"sources": [],
 "text": "A month after the event two officers of the Aerospace Technical Centre (CTA), accompanied by the American researcher James J. Hurtak, collected the photographic negatives taken by press photographer Adenir Britto from the newspaper Vale Paraibano, saying they would be analysed by NASA; they were never returned.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:bbc.com/portuguese/brasil-59953278) was rejected in review: outlet and date only; candidate row shows no date"
 }
 ],
 "cls": "event",

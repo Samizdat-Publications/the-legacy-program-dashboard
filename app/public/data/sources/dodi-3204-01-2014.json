@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-a2379cd6ec",
+"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
+"node": "dodi-3204-01",
+"nodeLabel": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"sourceText": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"text": "IR&D costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable'; reporting is required only of major contractors allocating over $11 million in IR&D and B&P costs, via project summaries reviewed for cost allowability.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-99dd57fc9c",
+"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
+"node": "mcdonnell-douglas",
+"nodeLabel": "McDonnell Douglas Corporation",
+"sourceText": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"text": "Corporate independent research and development is recoverable as an indirect expense on covered DoD contracts under DoD Instruction 3204.01, with project reporting required only of contractors allocating more than $11 million in IR&D and bid-and-proposal costs.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "dodi-3204-01-2014",
+"identifiers": [
+"DoDI 3204.01 (2014)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [],
+"node": null,
+"title": "DoDI 3204.01 (2014)",
+"topics": [
+{
+"claims": [
+"c-a2379cd6ec"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "regulation",
+"urls": []
+}

@@ -7,32 +7,82 @@
 {
 "id": "c-1c68ebc230",
 "source": "NICAP, 'Wurtsmith and Others', citing Cahill's Research Record of Events of 17 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+}
+],
 "text": "THE WING HISTORY OMITTED THE EVENT AND THE WING HISTORIAN RECORDED THE OMISSION. SSgt Paul J. Cahill, 379th Bombardment Wing historian, wrote in a Research Record of Events dated 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d5032be52e",
 "source": "NICAP, 'Wurtsmith and Others', citing Taylor's Memo for the Record of 18 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+}
+],
 "text": "Capt. Myron Taylor, instructor navigator, wrote a Memo for the Record to SSgt Cahill on 18 January 1979 giving the KC-135 crew's account: 'We followed the lights north out over Lake Huron and then the UFO swung south still over the lake toward the Saginaw Bay area of Michigan.' He names the crew as Major Frederick Pappas, aircraft commander; Capt. K. E. May, co-pilot; Capt. Rick Meier, navigator; Capt. Randy Higginbotham, instructor pilot; and Sergeant Steve Smith.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-be06e0fd25",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"id": "u-nicap-org-ed3c79f2",
+"locator": null,
+"title": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+}
+],
 "text": "The NORAD Senior Director's Log entry for 31 October 1975 reads: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.' A NORAD Command Director's Log entry timed 31 Oct 75/0445Z reports the incident at 0355Z.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-51ca19f14c",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+}
+],
 "text": "A Joint Chiefs of Staff operational report of 30 October 1975 records the conventional-explanation check: 'Upon information that the Dept. of Natural Resources sends out aircraft searching for hunters spotting deer, the Dept. of Natural Resources was contacted.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f91d854ede",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"id": "u-nicap-org-ed3c79f2",
+"locator": null,
+"title": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+}
+],
 "text": "Named ground witnesses at Wurtsmith are in the contemporaneous record: Airman Martin E. Tackabury at the Capehart housing area gate, Airman Michael J. Myers of Police Unit Seven at the motor pool, Sergeant Robert J. Anderson at the motor pool, Airman Roger Skipper at the main gate and Sergeant James A. Miller of the weapons storage area security police. Col. Boardman is named as wing commander.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "location",

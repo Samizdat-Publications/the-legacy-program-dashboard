@@ -1,0 +1,39 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-82c6c330fb",
+"locator": null,
+"node": "inscom",
+"nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+"sourceText": "Memorandum for Assistant Chief of Staff for Intelligence, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; disposition form IAFM-OPS-HUP, 'Reorganization of HQ INSCOM and CONUS Elements', 16 Nov 79, CIA-RDP96-00788R002000190002-9, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r002000190002-9/cia-rdp96-00788r002000190002-9_djvu.txt",
+"text": "INSCOM's own letterhead in this period reads 'DEPARTMENT OF THE ARMY / UNITED STATES ARMY INTELLIGENCE AND SECURITY COMMAND / ARLINGTON HALL STATION / ARLINGTON, VIRGINIA 22212', and a 1979 headquarters disposition form records that 'HQ INSCOM will be consolidated at AHS, VA' alongside the creation of a brigade at Fort George G. Meade.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00788r002000190002-9",
+"identifiers": [
+"CIA-RDP96-00788R002000190002-9"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+}
+],
+"node": null,
+"title": "Reorganization of HQ INSCOM and CONUS Elements (CIA-RDP96-00788R002000190002-9)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r002000190002-9/cia-rdp96-00788r002000190002-9_djvu.txt"
+]
+}

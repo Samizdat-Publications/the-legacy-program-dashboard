@@ -1,0 +1,114 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-f1f518b95b",
+"locator": null,
+"node": "nj-drone-incursions-2024",
+"nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"sourceText": "Joint federal statement, 17 December 2024, reported by The Debrief",
+"text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "jiatf-401",
+"label": "Joint Interagency Task Force 401 (JIATF-401)"
+},
+"b": {
+"cls": "event",
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"claimTier": 1,
+"id": "e-6a8f301936",
+"label": "Task force stood up in August 2025 after two years of unattributed incursions",
+"note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+"b": {
+"cls": "event",
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"claimTier": 1,
+"id": "e-6828c41d6e",
+"label": "Twelve months apart; the second wave was publicly resolved, the first never was",
+"note": "Langley produced no attribution and no public explanation; New Jersey produced a four-agency statement attributing 5,000 reports to hobbyists and misidentifications on the basis of about 100 leads.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-fa108b6c9c",
+"label": "Four-agency joint statement of 17 December 2024",
+"note": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk.' The same statement conceded limited sightings over restricted military airspace, contradicting earlier White House denials.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-732728df72",
+"label": "Wright-Patterson closed its airspace for nearly four hours during the wave",
+"note": "The 14-15 December 2024 airspace closure over unauthorized drone activity occurred days before the federal statement that nothing anomalous had been identified.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-868052e4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "event",
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+}
+],
+"node": null,
+"title": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"topics": [
+{
+"claims": [
+"c-f1f518b95b"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": [
+"https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+]
+}

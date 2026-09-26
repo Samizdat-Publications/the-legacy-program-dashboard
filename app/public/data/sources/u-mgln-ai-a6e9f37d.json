@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-22416ff2ca",
+"locator": null,
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, 5 August 2026, 1:58:28 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3",
+"text": "On American Alchemy with Jesse Michels, 5 August 2026, Dylan Borland said that AARO sent him a Memorandum for Record of his interview that he told them was wrong, that AARO acknowledged the error in an email and asked him to write corrections, that he made and signed the corrections and kept his email confirming their receipt, and that when he went to ODNI on 10 September 2025 the version AARO had transmitted was not the corrected one: 'Arrow had sent over a false MFR, said that was the true one.' He says he retained the corrected document (1:58:28 to 1:59:26).",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4828537919",
+"locator": null,
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, 5 August 2026, 2:23:27 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3",
+"text": "In the same episode Borland argued that because AARO holds no original classification authority it had to refer his account out to the intelligence community and to private companies for a classification determination, and that his triangle account coming back unclassified while other drawings were classified is therefore itself evidence about what was seen: 'they would have to be classified' (2:23:27). Nothing opened for this board establishes AARO's classification authority either way; this is recorded as his argument.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-a6e9f37d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, episode audio",
+"topics": [
+{
+"claims": [
+"c-22416ff2ca",
+"c-4828537919"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-22416ff2ca"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+},
+{
+"claims": [
+"c-22416ff2ca"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3"
+]
+}

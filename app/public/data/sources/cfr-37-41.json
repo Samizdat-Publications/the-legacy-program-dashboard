@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-23011a2d96",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+"text": "Two of the five papers the enablement argument rests on are Pais's own conference papers: 'A Hybrid Craft using an Inertial Mass Modification Device', AIAA SPACE Forum, Orlando, 12-14 September 2017, and 'High Frequency Gravitational Waves - Induced Propulsion', SAE International 2017-01-2040, 19 September 2017. The other three are third-party technical papers on piezoelectric materials, Q-factor estimation and plasma channels, none of which concerns inertial mass reduction. The corroboration invoked is therefore in part the inventor citing himself.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fc118a16f2",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+"text": "The Appeal Brief states the ownership position without qualification: 'The real party in interested is the United States Government represented by the Secretary of the Navy (The Department of the Navy). The inventor is a U.S.government employee who invented the invention during the course of his employment. As a result, Federal law provides all rights to this invention belong to the United States of America under 37 C.F.R. 501.6.' This is the Navy's own characterisation, in a filing signed by its Office of Counsel.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fd553fdbe7",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+"text": "The appeal was argued on burden of proof rather than on evidence of operability. The brief cites In re Rijckaert, 9 F.3d 1531 (Fed. Cir. 1993) and In re Oetiker, 977 F.2d 1443 (Fed. Cir. 1992) for the proposition that the burden of showing unpatentability rests on the Office and remains there even after a prima facie case. The Navy's legal position was that the examiner had not carried it, not that the device had been shown to work.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-aebf6489bc",
+"locator": null,
+"node": "pais-patent-imrd",
+"nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+"text": "The independent claim is narrow and mechanical. As summarised in the Appeal Brief, claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters; the emitters create high frequency electromagnetic waves throughout the resonant cavity, causing the outer wall to vibrate in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cfr-37-41",
+"identifiers": [
+"37 CFR part 41"
+],
+"interestedParty": false,
+"issuer": "Code of Federal Regulations",
+"listedOn": [],
+"node": null,
+"title": "37 CFR part 41",
+"topics": [
+{
+"claims": [
+"c-23011a2d96",
+"c-fc118a16f2",
+"c-fd553fdbe7",
+"c-aebf6489bc"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "regulation",
+"urls": []
+}

@@ -1,0 +1,186 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-25c2904425",
+"locator": null,
+"node": "catherine-austin-fitts",
+"nodeLabel": "Catherine Austin Fitts",
+"sourceText": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "She co-authored the September 2017 Summary Report on Unsupported Journal Voucher Adjustments with Mark Skidmore.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d86836ab09",
+"locator": null,
+"node": "mark-skidmore",
+"nodeLabel": "Mark Skidmore",
+"sourceText": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "Skidmore and Fitts compiled unsupported journal voucher adjustments reported in OIG and GAO documents for FY1998-FY2015, reaching roughly $21 trillion for DoD and $350 billion for HUD.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-fbfdaaad2b",
+"locator": null,
+"node": "solari",
+"nodeLabel": "Solari, Inc. / The Solari Report",
+"sourceText": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "The Missing Money archive hosts the Skidmore-Fitts summary report and preserves links to underlying OIG documents, noting that many original government URLs were disabled.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-539082e0af",
+"locator": null,
+"node": "skidmore-fitts-report",
+"nodeLabel": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+"sourceText": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "The authors state: 'The Inspector General's reports that are available to the public only provide summary information; thus it is impossible for us to conduct a detailed assessment of the nature of these unsupported adjustments and errors.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-d725340dc3",
+"locator": null,
+"node": "skidmore-fitts-report",
+"nodeLabel": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+"sourceText": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "The authors state they were unable to recover data for a number of years within the FY1998-FY2015 window.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-e7a4ea7277",
+"locator": null,
+"node": "skidmore-fitts-report",
+"nodeLabel": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+"sourceText": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "Skidmore and Fitts compiled publicly reported unsupported journal voucher adjustments from OIG and GAO documents for FY1998-FY2015 and arrived at roughly $21 trillion for DoD and roughly $350 billion for HUD.",
+"tier": 2
+}
+],
+"date": "2017-09",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "catherine-austin-fitts",
+"label": "Catherine Austin Fitts"
+},
+"b": {
+"cls": "document",
+"id": "skidmore-fitts-report",
+"label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)"
+},
+"claimTier": 2,
+"id": "e-ada7c1a068",
+"label": "Co-author; originated the inquiry",
+"note": "Fitts co-authored the summary report and the Missing Money archive that hosts it and its supporting documentation. Attested by the report and the Solari archive.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "mark-skidmore",
+"label": "Mark Skidmore"
+},
+"b": {
+"cls": "document",
+"id": "skidmore-fitts-report",
+"label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)"
+},
+"claimTier": 2,
+"id": "e-2ce4ac6e0f",
+"label": "Co-author and compiler",
+"note": "Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list.",
+"type": "research"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-michigan-state",
+"label": "Michigan State University, East Lansing, Michigan"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-e46d9ab69e",
+"label": "site of the DoD unsupported-adjustment study",
+"note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "skidmore-fitts-report",
+"label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)"
+},
+"b": {
+"cls": "document",
+"id": "dodig-2016-113",
+"label": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
+},
+"claimTier": 2,
+"id": "e-374b42a76a",
+"label": "The single largest figure in the $21 trillion compilation comes from this report",
+"note": "The Skidmore-Fitts compilation draws on published OIG reports including DODIG-2016-113, whose $6.5 trillion year-end unsupported adjustment figure is the largest single component. Attested by the authors' own supporting documentation index.",
+"type": "research"
+}
+],
+"era": "3",
+"host": null,
+"id": "n-skidmore-fitts-report",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "missingmoney.solari.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "catherine-austin-fitts",
+"label": "Catherine Austin Fitts"
+},
+{
+"cls": "person",
+"id": "mark-skidmore",
+"label": "Mark Skidmore"
+},
+{
+"cls": "institution",
+"id": "solari",
+"label": "Solari, Inc. / The Solari Report"
+},
+{
+"cls": "document",
+"id": "skidmore-fitts-report",
+"label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)"
+}
+],
+"node": {
+"cls": "document",
+"id": "skidmore-fitts-report",
+"label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)"
+},
+"title": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+"topics": [
+{
+"claims": [
+"c-fbfdaaad2b",
+"c-539082e0af",
+"c-d725340dc3",
+"c-e7a4ea7277"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "report",
+"urls": [
+"https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+]
+}

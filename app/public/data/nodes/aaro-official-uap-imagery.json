@@ -7,26 +7,52 @@
 {
 "id": "c-58e0a23795",
 "source": "AARO Official UAP Imagery page, accessed 12 August 2026",
+"sources": [
+{
+"id": "u-aaro-mil-9a2edeb6",
+"locator": null,
+"title": "AARO - Official UAP Imagery"
+}
+],
 "text": "AARO released PR-016, PR-017 and PR-018 on 4 December 2025, PR-012, PR-014 and PR-015 on 9 December 2025, and PR-011 and PR-013 on 6 January 2026, all European incidents from 2021-2024.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-722efb7982",
 "source": "AARO Official UAP Imagery page",
+"sources": [
+{
+"id": "u-aaro-mil-9a2edeb6",
+"locator": null,
+"title": "AARO - Official UAP Imagery"
+}
+],
 "text": "PR-016 was resolved as 'almost certainly (>95% likelihood) birds'; PR-017 was declared insufficient for AARO to render a determination; the remainder were assessed as physical objects with unremarkable characteristics and left unresolved.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bd7f41cda2",
 "source": "AARO Official UAP Imagery page",
+"sources": [
+{
+"id": "u-aaro-mil-9a2edeb6",
+"locator": null,
+"title": "AARO - Official UAP Imagery"
+}
+],
 "text": "The 2013 Puerto Rico Customs and Border Protection infrared object was resolved as two objects travelling near each other at wind speed; Go Fast, GIMBAL and FLIR remain unresolved.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-780ae981a0",
 "source": "Inference from the AARO imagery release dates against the 9 September 2025 hearing and the PURSUE video counts",
+"sources": [],
 "text": "AARO's own video releases began five weeks after congressional testimony that it was withholding video, ran to seven short European clips, and stopped four months before the Department released 96 sensor videos - a pattern consistent with minimum compliance rather than a declassification programme.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "program",

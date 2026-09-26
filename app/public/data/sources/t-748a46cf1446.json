@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-02856cf051",
+"locator": null,
+"node": "jesse-marcel",
+"nodeLabel": "Jesse A. Marcel Sr.",
+"sourceText": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
+"text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
+"tier": 2
+}
+],
+"date": "1978-02",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-748a46cf1446",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Stanton T. Friedman",
+"listedOn": [],
+"node": null,
+"title": "interview with Stanton T. Friedman, February 1978",
+"topics": [
+{
+"claims": [
+"c-02856cf051"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-02856cf051"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "broadcast",
+"urls": []
+}

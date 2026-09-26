@@ -590,7 +590,11 @@ def finalise_defaults(people, entities):
               f"from {bad}", file=sys.stderr)
 
 
-NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json", "_person_facets.json"}
+# phase 8: the source registry, the claim-to-source map and the reviewed decisions
+# behind them are side-cars too, written or read by tools/build_source_registry.py;
+# phase 9: the person facets
+NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json", "_person_facets.json",
+                      "_sources.json", "_claim_sources.json", "_source_decisions.json"}
 
 
 def _removed_aliases():
@@ -1286,8 +1290,15 @@ def tier1_cap_reason(c, urls):
         return "no attributed source"
     if not PRIMARY_URL_PAT.search(urls) and SECONDARY_PAT.search(urls):
         return "node carries no primary-record URL"
+    # About what the office said: the attribution words, a quotation of its
+    # publication (with or without a short lead-in, "Title page: '...'"), or the
+    # office or its document as the subject of an account verb. The last two
+    # arrived with phase 8 so that one rule grades a claim whether its source is
+    # read from its URL (here) or from the registry (remediate_interested_party_claims).
+    t = c.get("text") or ""
     if (INTERESTED_PARTY_PAT.search(src)
-            and not ATTRIBUTION_PAT.search(c.get("text") or "")):
+            and not ATTRIBUTION_PAT.search(t)
+            and not QUOTE_OPEN.match(t) and not OFFICE_ACCOUNT.search(t)):
         return ("sourced to an interested party (AARO/DoD) asserting an external "
                 "fact; primary record of the statement, not of the fact")
     return None
@@ -1312,6 +1323,78 @@ def remediate_tiers(people, entities):
                     c["source"] = f"{c['source']} — DEMOTED from Tier 1 ({why}); needs primary replacement"
                 demotions.append({"id": n["id"], "why": why, "claim": c["text"][:110]})
     return demotions
+
+
+QUOTE_OPEN = re.compile(r"^(?:[^'\"\u2018\u201c:]{0,60}:\s*)?['\"\u2018\u201c]")
+# The office, or one of its documents, as the subject of an account verb: "AARO
+# assessed ...", "AARO's 2024 historical report reaffirmed ...", "The memorandum
+# concludes ...". Such a claim is about what the office said or recorded, which is
+# what its own publication is a primary record of. The attribution words above
+# were written for strings and miss most of these ("assessed", "reaffirmed",
+# "released", "found"). tools/verify.py carries the same pattern, restated.
+OFFICE_ACCOUNT = re.compile(
+    r"\b(?:AARO|the office|the (?:same )?(?:report|memorandum|memo|volume|supplement|analysis|"
+    r"slides|page|synopsis|paper)|Volume I)\b[^.;:]{0,90}?\b(?:assess\w*|reaffirm\w*|report\w*|"
+    r"releas\w*|found|finds?|conclud\w*|confirm\w*|logged|treat\w*|anonymi[sz]\w*|present\w*|"
+    r"acknowledg\w*|stat\w*|says?|said|describ\w*|list\w*|record\w*|note\w*|attribut\w*|"
+    r"resolv\w*|judg\w*|declar\w*|determin\w*|characteri[sz]\w*|identif\w*|dismiss\w*|"
+    r"reject\w*|den(?:y|ies|ied)|publish\w*)\b", re.I)
+
+
+def remediate_interested_party_claims(people, entities):
+    """The interested-party cap, applied through the source registry (phase 8).
+
+    tier1_cap_reason() sees an interested party only when the claim's own string
+    carries its URL. A claim cited to "AARO Historical Record Report Volume 1,
+    p.22" names no aaro.mil URL, so until the registry existed the cap never
+    reached it: 68 such Tier 1 claims were found on the first pass. The registry
+    (research/_sources.json, research/_claim_sources.json, both written by
+    tools/build_source_registry.py from the previous build) knows which source a
+    string names and whether that source is the office's own.
+
+    So: a Tier 1 claim whose EVERY registry source is an interested party keeps
+    Tier 1 only when it is about what that party said (the attribution words
+    above, a claim that opens by quoting it, or the office or one of its documents
+    as the subject of an account verb), or when research/
+    _source_decisions.json `tierAdjudications` records why it stands. Otherwise
+    it is Tier 2, flagged in place like every other demotion. verify.py restates
+    the rule over the shipped registry."""
+    base = os.path.join(RESEARCH)
+    try:
+        with open(os.path.join(base, "_sources.json"), encoding="utf-8") as f:
+            ip = {x["id"] for x in json.load(f)["sources"] if x.get("interestedParty")}
+        with open(os.path.join(base, "_claim_sources.json"), encoding="utf-8") as f:
+            cmap = json.load(f).get("claims") or {}
+    except (OSError, ValueError, KeyError):
+        return 0
+    adj = {}
+    p = os.path.join(base, "_source_decisions.json")
+    if os.path.exists(p):
+        with open(p, encoding="utf-8") as f:
+            adj = json.load(f).get("tierAdjudications") or {}
+    n_dem = 0
+    for n in list(people.values()) + list(entities.values()):
+        for c in n.get("claims", []):
+            if c.get("tier") != 1:
+                continue
+            cid = claim_id(n["id"], c["text"])
+            rows = cmap.get(cid) or []
+            if not rows or not all(r.get("source") in ip for r in rows):
+                continue
+            t = c.get("text") or ""
+            if ATTRIBUTION_PAT.search(t) or QUOTE_OPEN.match(t) or OFFICE_ACCOUNT.search(t) \
+                    or cid in adj:
+                continue
+            why = ("sourced only to an interested party (AARO/DoD) in the source registry, "
+                   "asserting an external fact; primary record of the statement, not of the fact")
+            c["tier"] = 2
+            if "needs primary" not in c["source"].lower():
+                # a spaced hyphen, not the em dash the older passes wrote: the
+                # board carries no new em dash (DEMOTION_NOTE reads either)
+                c["source"] = f"{c['source']} - DEMOTED from Tier 1 ({why}); needs primary replacement"
+            demotions.append({"id": n["id"], "why": why, "claim": c["text"][:110]})
+            n_dem += 1
+    return n_dem
 
 
 edge_demotions = []
@@ -1757,6 +1840,7 @@ def main():
     board_notes = route_board_notes(people, entities)
     hoisted = hoist_claim_urls(people, entities)
     remediate_tiers(people, entities)
+    remediate_interested_party_claims(people, entities)
     remediate_edge_tiers(edges)
     remediate_interested_party_edges(edges, load_edge_adjudications())
     # Last, once every claim text and edge label is final: nothing after this

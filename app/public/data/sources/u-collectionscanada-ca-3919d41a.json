@@ -1,0 +1,90 @@
+{
+"archived": [
+"https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-40964eae2b",
+"locator": null,
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"sourceText": "Library and Archives Canada, online exhibition 'Canada's UFOs: The Search for the Unknown', Shirley's Bay / Project Magnet page, 2005",
+"text": "Library and Archives Canada quotes the memorandum: '...the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers.... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence' (Smith, Geo-Magnetics, Department of Transport, November 21, 1950).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 3,
+"id": "e-3f0fc0d1e2",
+"label": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
+"note": "Smith's 1952 report recommends 'acquisition of as much as possible of this technology'; Condign's own paragraph 7, 'Related Military Applications', is redacted in full under the defence exemption. Reasoning: both are government documents whose exploitation sections are the point at which the record becomes either explicit or withheld.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "wilbert-smith",
+"label": "Wilbert Brockhouse Smith"
+},
+"b": {
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+},
+"claimTier": 1,
+"id": "e-af568a786a",
+"label": "author of the request that created Project Magnet",
+"note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-collectionscanada-ca-3919d41a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "collectionscanada.ca",
+"listedOn": [
+{
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+},
+{
+"cls": "program",
+"id": "project-second-storey",
+"label": "Project Second Storey (Canada)"
+},
+{
+"cls": "person",
+"id": "wilbert-smith",
+"label": "Wilbert Brockhouse Smith"
+}
+],
+"node": null,
+"title": "Library and Archives Canada - Project Magnet page",
+"topics": [
+{
+"claims": [
+"c-40964eae2b"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
+"type": "web page",
+"urls": []
+}

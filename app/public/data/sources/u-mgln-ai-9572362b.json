@@ -1,0 +1,84 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-eedd300b20",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:07:12 to 0:08:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
+"text": "On American Alchemy with Jesse Michels, 13 December 2024, at 0:07:12, Eric Davis described three separate acts against Grusch after his whistleblower complaint and before his testimony: he 'got harassed by, by someone in the National Reconnaissance Office', then 'got physically harassed at his home and in his vehicles by people unknown', then somebody leaked a PTSD episode from his private medical files. Davis names an institution only for the first. The three have three different actors and should not be merged.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-6af94511e8",
+"locator": "0:19:28-0:20:19",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"sourceText": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:19:28 to 0:20:19",
+"text": "At 0:19:28 and 0:20:19 in the same episode Davis said he had no direct interaction with Gaffney but that the aerospace defence firm involved, and that firm's senior and executive vice presidents, did; and that Gaffney was 'very antagonistic' about that company releasing to them, under DIA classification, a collection of crash retrieval materials held by Bigelow Aerospace Advanced Space Studies and EarthTech since the 1989 shutdown. This is a second blocked transfer, distinct from the Lockheed to Bigelow transfer the node already carries.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-78cdcade4d",
+"locator": null,
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"sourceText": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:22:48, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
+"text": "On American Alchemy with Jesse Michels, 13 December 2024, at 0:22:48, Eric Davis said of Gaffney 'I think his title was deputy director of the CIA over the directorate of science and technology. And that's where the UAP portfolio is held.' Davis hedges the title himself. No record opened in this pass establishes either the title or the portfolio placement.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-9572362b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "glenn-gaffney",
+"label": "Glenn Gaffney"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-eedd300b20"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-eedd300b20"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+},
+{
+"claims": [
+"c-6af94511e8"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868"
+]
+}

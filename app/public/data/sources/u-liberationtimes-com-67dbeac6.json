@@ -1,0 +1,125 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "alfred-odonnell",
+"label": "Alfred 'Al' O'Donnell"
+},
+"b": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"claimTier": 2,
+"id": "e-4ae2da407f",
+"label": "O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada",
+"note": "His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "alfred-odonnell",
+"label": "Alfred 'Al' O'Donnell"
+},
+"b": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"claimTier": 2,
+"id": "e-3f73dec8a3",
+"label": "O'Donnell told Knapp a recovered saucer and a live being existed",
+"note": "Knapp reported the account publicly in February 2023 and named O'Donnell to Congress under oath in September 2025. The promised deathbed recording has never surfaced.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-damato",
+"label": "Richard D'Amato"
+},
+"b": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"claimTier": 2,
+"id": "e-be700049d5",
+"label": "D'Amato's Senate inquiry reached EG&G and stopped there",
+"note": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-damato",
+"label": "Richard D'Amato"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 3,
+"id": "e-d1429d73f2",
+"label": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
+"note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-liberationtimes-com-67dbeac6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [
+{
+"cls": "person",
+"id": "alfred-odonnell",
+"label": "Alfred 'Al' O'Donnell"
+},
+{
+"cls": "person",
+"id": "christopher-sharp",
+"label": "Christopher Sharp"
+},
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+{
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+},
+{
+"cls": "person",
+"id": "richard-damato",
+"label": "Richard D'Amato"
+}
+],
+"node": null,
+"title": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being, ' Liberation Times",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+]
+}

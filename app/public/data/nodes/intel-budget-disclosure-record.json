@@ -7,38 +7,86 @@
 {
 "id": "c-a0bfd8c01b",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "The 1997 disclosure of $26.6 billion for FY1997 was the first release of the total US intelligence budget in fifty years and followed FOIA litigation brought by FAS with the assistance of Kate Martin of the Center for National Security Studies.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-94acf6ad3c",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "The DCI disclosed $26.7 billion for FY1998 and then ceased disclosure; publication did not resume until the DNI released the FY2007 NIP figure.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-34bfa1daa8",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "MIP figures were first disclosed alongside NIP totals for FY2010.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fd19b92aab",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "Combined NIP+MIP totals by fiscal year: 2007 $63.5bn, 2008 $70.4bn, 2009 $76.2bn, 2010 $80.1bn, 2011 $78.6bn, 2012 $75.4bn, 2013 $71.9bn, 2014 $67.9bn, 2015 $66.8bn, 2016 $70.7bn, 2017 $73.0bn, 2018 $81.5bn, 2019 $81.7bn, 2020 $85.8bn, 2021 $84.1bn, 2022 $89.8bn, 2023 $99.6bn, 2024 $106.3bn, 2025 $101.1bn.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7548263483",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "The FY2026 request was $81.9 billion NIP and $33.6 billion MIP.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3540fe0a56",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"sources": [
+{
+"id": "u-odni-gov-b68ec5e7",
+"locator": null,
+"title": "ODNI, Intelligence Community Budget"
+}
+],
 "text": "The published intelligence aggregate cannot be reconciled to the published defense budget by any external party, because NIP and MIP money is appropriated inside Department of Defense accounts whose classified line items are not broken out. Reasoning: the only public defense-side classified figures are the 'CLASSIFIED PROGRAMS' rows in the funding tables, which total roughly $96 billion for FY2026 across all appropriations and are not identified as NIP, MIP or neither.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

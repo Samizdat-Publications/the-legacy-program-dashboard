@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-da9901aac6",
+"locator": null,
+"node": "lawrence-p-gise",
+"nodeLabel": "Lawrence P. Gise",
+"sourceText": "Official Register of the United States 1959, US Civil Service Commission, p.134, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf",
+"text": "The Official Register of the United States 1959 lists 'Lawrence P. Gise' as 'Assistant Director, Administration' of the ADVANCED RESEARCH PROJECTS AGENCY under DEPARTMENT OF DEFENSE, legal residence Va 10th, salary 17,500, at printed page 134, under a footnote reading 'Station is Washington, D.C. unless otherwise indicated.' The volume lists positions 'as of May 1, 1959'. The same page lists Roy W. Johnson as Director and William H. Godel as Director, Policy and Planning Division.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "lawrence-p-gise",
+"label": "Lawrence P. Gise"
+},
+"b": {
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"claimTier": 1,
+"id": "e-3d2c9cd650",
+"label": "Held the ARPA post of Assistant Director, Administration",
+"note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-7ddc3248",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "lawrence-p-gise",
+"label": "Lawrence P. Gise"
+}
+],
+"node": null,
+"title": "Official Register of the United States 1959, US Civil Service Commission",
+"topics": [
+{
+"claims": [
+"c-da9901aac6"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf"
+]
+}

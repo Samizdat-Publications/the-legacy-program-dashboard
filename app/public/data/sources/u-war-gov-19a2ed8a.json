@@ -1,0 +1,38 @@
+{
+"archived": [
+"https://web.archive.org/web/20260806084012/https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-war-gov-19a2ed8a",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "lincoln-lapaz",
+"label": "Lincoln LaPaz"
+},
+{
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+{
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+}
+],
+"node": null,
+"title": "Department of War PURSUE Release 01 - FBI file 62-HQ-83894 section 6 (Project Twinkle references)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+]
+}

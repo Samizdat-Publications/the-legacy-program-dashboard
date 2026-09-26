@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-8d6261fba1",
+"label": "Kean and Blumenthal broke Grusch's crash-retrieval claims",
+"note": "On 5 June 2023 they reported Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "person",
+"id": "ralph-blumenthal",
+"label": "Ralph Blumenthal"
+},
+"claimTier": 2,
+"id": "e-72969b3f34",
+"label": "Co-authors of both defining stories, 2017 and 2023",
+"note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-a08e6bb75a",
+"label": "The New York Times did not publish the 2023 Grusch story",
+"note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-36a4813a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+}
+],
+"node": null,
+"title": "Wikipedia - Leslie Kean",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Leslie_Kean"
+]
+}

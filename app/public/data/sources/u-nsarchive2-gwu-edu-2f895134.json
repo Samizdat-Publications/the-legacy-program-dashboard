@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "National Security Archive",
+"id": "u-nsarchive2-gwu-edu-2f895134",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer"
+}
+],
+"node": null,
+"title": "National Security Archive Electronic Briefing Book 305, posted 12 February 2010, recording the FOIA request of 12 December 2007",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://nsarchive2.gwu.edu/nukevault/ebb305/index.htm"
+]
+}

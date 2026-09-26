@@ -7,50 +7,114 @@
 {
 "id": "c-99fae7db06",
 "source": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nssdc-gsfc-nasa-gov-7710adab",
+"locator": null,
+"title": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)"
+}
+],
 "text": "Its own NSSDCA master catalogue states that 'The Lunar Orbiter program was managed by NASA Langley Research Center', with Lunar Orbiter 1 launched on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966, and readout occurred through September 14, 1966'. This is the agency record against which the Karl Wolfe claim, which places Lunar Orbiter imagery at an NSA facility on Langley Air Force Base, must be measured.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8d9b549810",
 "source": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-corporate-ford-com-6c825111",
+"locator": null,
+"title": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center'"
+}
+],
 "text": "Philco-Ford, the contractor named in the Donna Hare claim, is documented as a NASA Manned Spacecraft Center contractor by Ford Motor Company's own corporate history, which records that it won the Mission Control Center contract at Houston in 1963 against IBM, RCA, Lockheed, Hughes Aircraft and AT&T.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-402e422e50",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "n-millis-tm-2004-213082",
+"locator": null,
+"title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+}
+],
 "text": "NASA RAN THE ONLY PUBLIC, FUNDED, FEDERAL ASSESSMENT OF EXOTIC PROPULSION THIS BOARD HAS FOUND. From its own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.' Of sixteen incremental research tasks completed, 'about a third were found not to be viable'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b2e62a68ef",
 "source": "NASA/CR-2004-213312, Conclusions, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "n-canning-nasa-cr-2004-213312",
+"locator": null,
+"title": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
+}
+],
 "text": "NASA also paid for the experiment that settled the asymmetrical-capacitor question, published under its own report number as NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion', by Canning, Melcher and Winet of the Institute for Scientific Research, October 2004, which concluded that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-00ce56e65c",
 "source": "NASA UAP Independent Study Team Report, 14 September 2023",
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "NASA published the 'Unidentified Anomalous Phenomena Independent Study Team Report' on 14 September 2023, from a 16-member panel chaired by Dr David Spergel and including Capt. Scott Kelly (USN, ret.), Dr Anamaria Berea, Dr Federica Bianco and Dr David Grinspoon.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-25e043dc8e",
 "source": "NASA UAP Independent Study Team Report, 14 September 2023",
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "The report acknowledges that 'much of the data collected by military sensors or intelligence satellites are classified'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0c7ddfe66b",
 "source": "NASA UAP Independent Study Team Report foreword, 14 September 2023",
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": "foreword",
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "In the report's foreword, Associate Administrator Dr Nicola Fox states 'NASA is appointing a Director of UAP Research to centralize communications and leverage NASA's extensive resources and expertise to actively engage in the whole-of-government UAP initiative.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8d9ccac095",
 "source": "NASA UAP Independent Study Team Report, 14 September 2023",
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "The report recommends leveraging the Aviation Safety Reporting System, which NASA administers for the FAA and which receives approximately 100,000 reports annually, for UAP reporting.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

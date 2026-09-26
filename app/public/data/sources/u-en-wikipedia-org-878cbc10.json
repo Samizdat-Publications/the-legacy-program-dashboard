@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "ida",
+"label": "Institute for Defense Analyses"
+},
+"b": {
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+},
+"claimTier": 2,
+"id": "e-3ceeeb6e3a",
+"label": "IDA administered JASON from 1960 to 1973",
+"note": "JASON has never been housed inside the government: IDA, then SRI International, then MITRE. Continuity of the panel has always depended on an FFRDC operator's contract.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-878cbc10",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [],
+"node": null,
+"title": "JASON (advisory group) - archival correspondence records",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/JASON_(advisory_group)"
+]
+}

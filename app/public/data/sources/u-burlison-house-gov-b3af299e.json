@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7eca8afb25",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "https://burlison.house.gov/media/press-releases",
+"text": "Grusch's role as Special Advisor to Rep. Burlison places the 2023 whistleblower inside the office that generated the cycle's most aggressive records demands - the MITRE letter, the Varginha letters and the FY2027 NDAA amendment. Reasoning: the advisory role is recorded in wave-1 sourcing on this board and the four instruments are all Burlison products within fourteen months.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"claimTier": 1,
+"id": "e-30c7b9de6c",
+"label": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
+"note": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-burlison-house-gov-b3af299e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+}
+],
+"node": null,
+"title": "Rep. Eric Burlison press releases",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases"
+]
+}

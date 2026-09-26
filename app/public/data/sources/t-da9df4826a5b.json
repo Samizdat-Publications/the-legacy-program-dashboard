@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3177add837",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "GEIPAN news item, geipan.fr, 12 February 2024",
+"text": "GEIPAN announced 'Un nouveau responsable au GEIPAN à compter du 15 janvier 2024' on 12 February 2024.",
+"tier": 1
+}
+],
+"date": "2024-02-12",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-da9df4826a5b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "GEIPAN",
+"listedOn": [],
+"node": null,
+"title": "GEIPAN news item, geipan.fr, 12 February 2024",
+"topics": [],
+"type": "web page",
+"urls": []
+}

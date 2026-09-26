@@ -1,0 +1,114 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-23942641f5",
+"locator": null,
+"node": "grusch-icig-complaint",
+"nodeLabel": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+"sourceText": "Unclassified reprisal complaint reported by Liberation Times, 13 June 2023",
+"text": "The reprisal complaint alleges Grusch's identity and his DoD IG communications were disclosed to DoD and IC entities outside the IG's office.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d11e8a2953",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023",
+"text": "Named in the unclassified version of Grusch's reprisal complaint among officials in the chain by which his identity and complaint were handled.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"claimTier": 1,
+"id": "e-bbc013b4fe",
+"label": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
+"note": "Grusch testified he 'became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general.' The Debrief dates the filing 25 May 2022 and identifies counsel.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-68c5b48746",
+"label": "First protected disclosure to the DoD Inspector General, July 2021",
+"note": "The Debrief records that Grusch provided classified information to the DoD IG in July 2021 regarding the concealment of UAP-related material from Congress, ten months before the ICIG filing. The reprisal complaint alleges his identity and those communications were later disclosed outside the IG channel.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-liberationtimes-com-585cd37e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [
+{
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+{
+"cls": "person",
+"id": "charles-mccullough-iii",
+"label": "Irvin Charles McCullough III"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released",
+"topics": [
+{
+"claims": [
+"c-23942641f5"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-d11e8a2953"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+},
+{
+"claims": [
+"c-23942641f5"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+}
+],
+"type": "article",
+"urls": [
+"https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+]
+}

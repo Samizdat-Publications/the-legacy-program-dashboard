@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": "2018-03",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-0b21d24abe",
+"label": "The private field programme was re-federalised as a DIA contract without changing personnel",
+"note": "This is the structural pivot of the era: capability was privatised in 1995 and re-acquired by contract in 2008, meaning the government never had to stand up an acknowledged office.",
+"type": "funding"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-nymag-com-9c253298",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nymag.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+}
+],
+"node": null,
+"title": "'Harry Reid on What the Government Knows About UFOs', New York Magazine / Intelligencer",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://nymag.com/intelligencer/2018/03/harry-reid-on-what-the-government-knows-about-ufos.html"
+]
+}

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6b82b1dcc5",
+"locator": "cf. affidavit published by Hastings; 'Faded Giant' (2005)",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"sourceText": "Salas, Great Falls Tribune interview (1996); signed affidavit published by Robert Hastings; 'Faded Giant' (2005)",
+"text": "Salas states that while on duty in a Minuteman launch control capsule at Malmstrom in March 1967 he received a report from topside security police of a glowing red object over the front gate, and that his flight's missiles then went off alert.",
+"tier": 2
+}
+],
+"date": "1996",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-4fb7b5a4d233",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Great Falls Tribune",
+"listedOn": [],
+"node": null,
+"title": "Salas, Great Falls Tribune interview (1996",
+"topics": [
+{
+"claims": [
+"c-6b82b1dcc5"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+}
+],
+"type": "article",
+"urls": []
+}

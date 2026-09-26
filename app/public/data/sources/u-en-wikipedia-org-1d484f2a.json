@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c4f2fc4077",
+"locator": "p.351 of cited work",
+"node": "institute-22",
+"nodeLabel": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
+"sourceText": "Wikipedia, 'Institute 22', citing Timothy Good, Need to Know: UFOs, the Military, and Intelligence (Pegasus Books, 2007), p.351",
+"text": "'The Institute 22 organization was created in 1978, by the Academy of Sciences and the Ministry of Defense in the Soviet Union ... Institute 22 have investigated around 3000 UFO reports. About 5-10% of all cases remained unexplained when the organization dissolved.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"b": {
+"cls": "institution",
+"id": "institute-22",
+"label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation"
+},
+"claimTier": 3,
+"id": "e-a72ab03e2b",
+"label": "the same 1978-1991 apparatus under a Western naming convention",
+"note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-1d484f2a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "institution",
+"id": "institute-22",
+"label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation"
+}
+],
+"node": null,
+"title": "Institute 22 - Wikipedia",
+"topics": [
+{
+"claims": [
+"c-c4f2fc4077"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Institute_22"
+]
+}

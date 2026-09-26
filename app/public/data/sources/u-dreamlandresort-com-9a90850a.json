@@ -1,0 +1,131 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-3d3b561a6b",
+"locator": null,
+"node": "lazar-clark-county-1990",
+"nodeLabel": "Clark County, Nevada felony pandering file, 1990 and 1996",
+"sourceText": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood in a post of 14 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"text": "THE CREDENTIAL LIST AS A COURT DOCUMENT. Lazar's Pre-Sentence Report of 27 July 1990 records his reported education as '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. The document is Tier 1 for what it shows, which is what he reported about himself to a court, and it is the reason the credential question is evidence rather than rumour.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a1f38682fb",
+"locator": null,
+"node": "lazar-clark-county-1990",
+"nodeLabel": "Clark County, Nevada felony pandering file, 1990 and 1996",
+"sourceText": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"text": "The rebuttal, carried and not adopted. Gene Huff, replying on 15 May 1995 to Tom Mahood's post quoting the report, says the Pacifica entry is the probation officer's misinterpretation: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4492f7a172",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood in a post of 14 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"text": "THE CREDENTIAL CLAIM IS A COURT DOCUMENT, WHICH IS WHY IT IS TIER 1 RATHER THAN GOSSIP. Lazar's Pre-Sentence Report of 27 July 1990, produced for the Clark County court after his guilty plea, lists his reported education as '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. This is not a television boast that can be blamed on paraphrase; it is what he reported about himself to a court under sentence.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-339b6401fd",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"text": "Gene Huff's response the following day, 15 May 1995, is that the probation officer misunderstood: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, not a degree, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'. The board carries this rebuttal beside the report and does not adopt it.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "lazar-clark-county-1990",
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 1,
+"id": "e-6872b50eb3",
+"label": "The court file contradicts his own credential account, in his own reported words",
+"note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"cls": "document",
+"id": "lazar-clark-county-1990",
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996"
+},
+"claimTier": 1,
+"id": "e-21ade5f0bd",
+"label": "Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report",
+"note": "GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dreamlandresort-com-9a90850a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "dreamlandresort.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "lazar-clark-county-1990",
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996"
+},
+{
+"cls": "person",
+"id": "gene-huff",
+"label": "Gene Huff"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+}
+],
+"node": null,
+"title": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, with Gene Huff's reply of 15 May 1995",
+"topics": [
+{
+"claims": [
+"c-3d3b561a6b",
+"c-a1f38682fb",
+"c-4492f7a172",
+"c-339b6401fd"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-3d3b561a6b",
+"c-a1f38682fb"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+]
+}

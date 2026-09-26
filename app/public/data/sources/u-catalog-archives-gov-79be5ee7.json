@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-529ed0e6df",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
+"text": "The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp 'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6de16a0bbb",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
+"text": "Item 342UAP00014, catalogued as '95th Bombardment Wing History, March, 1960', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force's UAP records transfer.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-catalog-archives-gov-79be5ee7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "catalog.archives.gov",
+"topics": [
+{
+"claims": [
+"c-529ed0e6df"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "document",
+"urls": [
+"https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
+]
+}

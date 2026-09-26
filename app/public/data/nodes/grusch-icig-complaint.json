@@ -7,20 +7,38 @@
 {
 "id": "c-5ba9eae189",
 "source": "Grusch sworn testimony 26 July 2023; The Debrief 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
+"sources": [],
 "text": "Filed 25 May 2022 with the ICIG by counsel Charles McCullough III; found credible and urgent in July 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Bundles three distinct dated sources jointly; no single unambiguous match."
 },
 {
 "id": "c-1eb7df41a9",
 "source": "House Oversight hearing transcript, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Grusch's unclassified description of the complaint's subject: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with intelligence professionals that are actually doing step briefs to pilots.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-23942641f5",
 "source": "Unclassified reprisal complaint reported by Liberation Times, 13 June 2023",
+"sources": [
+{
+"id": "u-liberationtimes-com-585cd37e",
+"locator": null,
+"title": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released"
+}
+],
 "text": "The reprisal complaint alleges Grusch's identity and his DoD IG communications were disclosed to DoD and IC entities outside the IG's office.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

@@ -1,0 +1,33 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a0acb7fa20",
+"locator": null,
+"node": "jack-reed",
+"nodeLabel": "John F. Reed",
+"sourceText": "Congress.gov bill record, S. 2226, 118th Congress",
+"text": "Reed is the sponsor of S. 2226, introduced 11 July 2023.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "n-s2226-118",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "legislation",
+"id": "s2226-118",
+"label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act"
+},
+"title": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
+"topics": [],
+"type": "statute",
+"urls": []
+}

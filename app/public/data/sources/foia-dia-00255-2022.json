@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-fb4881957e",
+"locator": null,
+"node": "ousdi-atl-memo-2010",
+"nodeLabel": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+"sourceText": "DIA FOIA-00255-2022 release",
+"text": "A four-page version was released under FOIA-00255-2022 bearing the date 1 December 2010.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "foia-dia-00255-2022",
+"identifiers": [
+"DIA FOIA-00255-2022"
+],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "document",
+"id": "ousdi-atl-memo-2010",
+"label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)"
+}
+],
+"node": null,
+"title": "DIA FOIA-00255-2022 release",
+"topics": [
+{
+"claims": [
+"c-fb4881957e"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+}
+],
+"type": "document",
+"urls": []
+}

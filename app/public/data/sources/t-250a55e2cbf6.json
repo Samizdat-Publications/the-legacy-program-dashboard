@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-5ce5670256",
+"locator": "also cites The War Zone, 18 October 2019",
+"node": "d-contracting",
+"nodeLabel": "Federal Contracting Mechanics",
+"sourceText": "Bloomberg Government, 21 October 2019; The War Zone, 18 October 2019",
+"text": "The US Army entered a Cooperative Research and Development Agreement with To The Stars Academy in 2019 covering materials evaluation for future combat vehicles.",
+"tier": 1
+}
+],
+"date": "2019-10-21",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-250a55e2cbf6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Bloomberg Government",
+"listedOn": [],
+"node": null,
+"title": "Bloomberg Government, 21 October 2019",
+"topics": [
+{
+"claims": [
+"c-5ce5670256"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
+"type": "article",
+"urls": []
+}

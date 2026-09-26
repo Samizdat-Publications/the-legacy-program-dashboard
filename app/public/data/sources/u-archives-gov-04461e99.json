@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+"claimTier": 1,
+"id": "e-56487b35e7",
+"label": "P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted",
+"note": "What survived conference from the Senate-passed disclosure title was a records collection at NARA, a duty to transmit and a postponement regime, without the Review Board or the eminent domain provision. NARA's published guidance to federal agencies implementing the collection is the observable proof that this part is law and operating.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-archives-gov-04461e99",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [],
+"node": null,
+"title": "National Archives, 'Guidance to Federal Agencies on Unidentified Anomalous Phenomena Records Collection'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.archives.gov/records-mgmt/uap-guidance"
+]
+}

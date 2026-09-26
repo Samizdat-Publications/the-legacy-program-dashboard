@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-141ad1d08f",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Laingsburg Police Department report, 19 July 2017, published by The Black Vault 1 July 2019, updated 11 June 2020, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"text": "THE 2017 RAID IS A HOMICIDE FILE, NOT A UFO FILE. A two-page Laingsburg, Michigan police report, obtained under a state open-records request by Tim McMillan, records an 'Agency Assist' on 19 July 2017 supporting an FBI search of United Nuclear Scientific in aid of 'a homicide investigation out of Houghton, MI involving poison', and records that Lazar 'evidently waived his Fourth Amendment Rights and gave law enforcement permission to search the premise'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ec2444a1aa",
+"locator": null,
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"sourceText": "The Black Vault document archive and case files, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ and https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"text": "It is the custody point for three separate parts of the Lazar record: the FBI FOIA releases on United Nuclear Scientific Supplies, pursued from November 2018 and delivered in three releases of 55, 130 and 130 pages; the Laingsburg, Michigan police report on the 19 July 2017 search, obtained by Tim McMillan under a local open-records request; and Stanton Friedman's own 1997 article on Lazar, in the Stanton Friedman Collection.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a6fd5747f3",
+"locator": null,
+"node": "tim-mcmillan",
+"nodeLabel": "Tim McMillan",
+"sourceText": "Tim McMillan, Vice, 13 November 2019, and the Laingsburg Police Department report published by The Black Vault 1 July 2019, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"text": "He obtained, under a local open-records request, the two-page Laingsburg, Michigan police report documenting the 19 July 2017 FBI search of Bob Lazar's business United Nuclear Scientific, and established through his Vice reporting of 13 November 2019 that the search supported a homicide investigation out of Houghton, Michigan into the thallium death of Janel Sturzl, 31, on 22 December 2015, in which Lazar is not recorded as a suspect. This is the documentary correction to the claim that the raid was about recovering element 115.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-ff28e572",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+{
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+{
+"cls": "person",
+"id": "tim-mcmillan",
+"label": "Tim McMillan"
+}
+],
+"node": null,
+"title": "The Black Vault, 'Documents on 2017 Bob Lazar / United Nuclear Raid - Laingsburg Police Department'",
+"topics": [
+{
+"claims": [
+"c-141ad1d08f",
+"c-a6fd5747f3"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-ec2444a1aa"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-a6fd5747f3"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/"
+]
+}

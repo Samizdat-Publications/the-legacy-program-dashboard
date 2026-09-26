@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "sheffield-hallam",
+"label": "Sheffield Hallam University"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-53d8efbf33",
+"label": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
+"note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-drdavidclarke-co-uk-4c92e8b2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "drdavidclarke.co.uk",
+"listedOn": [],
+"node": null,
+"title": "Dr David Clarke, 'National Archives UFO Files'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://drdavidclarke.co.uk/national-archives-ufo-files-7/"
+]
+}

@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-7990ea3bad",
+"label": "AAWSAP contract performed from Las Vegas",
+"note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-ebecb2784f",
+"label": "BAASS base of operations",
+"note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-bigelowaerospace-com-7392b9ea",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "bigelowaerospace.com",
+"listedOn": [],
+"node": null,
+"title": "Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://bigelowaerospace.com/pages/contact/"
+]
+}

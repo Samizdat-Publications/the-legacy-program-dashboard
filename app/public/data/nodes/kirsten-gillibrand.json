@@ -67,50 +67,101 @@
 {
 "id": "c-89a05f7f63",
 "source": "CREC-2023-07-13-pt1-PgS2953",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7ddb66b0ac",
 "source": "P.L. 117-81, Sec. 1683, GPO",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": "Sec. 1683, GPO",
+"title": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+}
+],
 "text": "Sec. 1683 of the FY2022 NDAA (P.L. 117-81) directed establishment of the office within 180 days and is codified at 50 U.S.C. 3373.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-80f7b568e2",
 "source": "P.L. 117-263, Sec. 6802, GPO",
+"sources": [
+{
+"id": "pl-117-263",
+"locator": "Sec. 6802, GPO",
+"title": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports"
+}
+],
 "text": "IAA FY2023 Sec. 6802 rewrote Sec. 1683 to designate the 'All-domain Anomaly Resolution Office' and added subsection (j), the Historical Record Report, due 540 days after enactment.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8c212a3c9d",
 "source": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
+"sources": [
+{
+"id": "u-gillibrand-senate-gov-7cda156a",
+"locator": null,
+"title": "Gillibrand statement on release of UAP files"
+}
+],
 "text": "'Transparency is the only path to truth... I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-61c7245cc2",
 "source": "gillibrand.senate.gov, 15 July 2025",
+"sources": [],
 "text": "Her FY2026 defense bill announcement claims only 'language to update congressional briefing requirements for UAP' — matching Sec. 1671 of P.L. 119-60, not any disclosure mandate.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:gillibrand.senate.gov/news/press/release/gillibrand-announces-fy2026-defense) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-4b3461f034",
 "source": "Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": null,
+"title": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+{
+"id": "usc-50-3373",
+"locator": "k",
+"title": "50 U.S.C. 3373"
+}
+],
 "text": "AARO's legal authority and reporting obligations derive from the FY2022 NDAA (P.L. 117-81, 27 December 2021) and the FY2023 NDAA (P.L. 117-263, 23 December 2022), codified at 50 U.S.C. 3373.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4ac9356f39",
 "source": "Senate Armed Services Committee hearing record; congress.gov S.Hrg. 118-648",
+"sources": [],
 "text": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee hearing of 19 April 2023 on AARO's mission, activities, oversight and budget, published as S.Hrg. 118-648.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (id:chrg-118shrg60390) was rejected in review: string names congress.gov S.Hrg. 118-648, a separate registry row"
 },
 {
 "id": "c-66f404e0c9",
 "source": "Gillibrand opening statements, SASC UAP hearings 2023 and 2024",
+"sources": [],
 "text": "Gillibrand's standing criticism is that AARO has been under-resourced and slow-walked by the Department relative to its statutory mandate.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Names two separate hearings' statements jointly; no single dated source."
 }
 ],
 "cls": "person",

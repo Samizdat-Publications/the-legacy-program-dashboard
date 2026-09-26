@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy"
+},
+"b": {
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+"claimTier": 1,
+"id": "e-4789a8b0a6",
+"label": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
+"note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy"
+},
+"claimTier": 1,
+"id": "e-56d58ee0a3",
+"label": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
+"note": "Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-albany-edu-e3c6789b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "albany.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy"
+},
+{
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+}
+],
+"node": null,
+"title": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.albany.edu/physics/faculty/cecilia-levy"
+]
+}

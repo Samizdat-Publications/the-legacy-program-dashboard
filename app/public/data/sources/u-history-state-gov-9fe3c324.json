@@ -1,0 +1,161 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a5537d2bb9",
+"locator": null,
+"node": "cia-office-of-policy-coordination",
+"nodeLabel": "CIA Office of Policy Coordination",
+"sourceText": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "The operating name and the first officer come from the same volume's list of persons: 'Wisner, Frank G., Deputy Assistant Secretary of State for the Occupied Areas, 1947-1948; Assistant Director for Policy Coordination, Central Intelligence Agency, from September 1, 1948.' George F. Kennan and John Magruder are recorded as senior consultants to the Office of Policy Coordination representing the Secretary of State and the Secretary of Defense respectively, both from September 1948.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3db1853fc9",
+"locator": null,
+"node": "charles-p-cabell",
+"nodeLabel": "Gen. Charles P. Cabell",
+"sourceText": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "He held the Air Force post in the earlier period too. The 1945-1950 volume's list of persons carries him without dates as 'Director of Intelligence, Office of the Deputy Chief of Staff, U.S. Air Force; member, Intelligence Advisory Committee'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-699fb225f9",
+"locator": null,
+"node": "harry-s-truman",
+"nodeLabel": "Harry S. Truman",
+"sourceText": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "The Department of State's own list of persons gives the office and its start: 'Truman, Harry S., President of the United States from April 12, 1945'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-45f992c5de",
+"locator": null,
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"sourceText": "Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "His tenure is dated to the day in the Department of State's own editorial apparatus: 'Forrestal, James V., Secretary of the Navy until September 1947; Secretary of Defense, September 17, 1947-March 28, 1949.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d3532156e9",
+"locator": null,
+"node": "sidney-souers",
+"nodeLabel": "Rear Adm. Sidney W. Souers",
+"sourceText": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "The Department of State's own list of persons gives both offices with dates: 'Director of Central Intelligence, Central Intelligence Group, January 22, 1946-June 10, 1946; Executive Secretary, National Security Council, August 1947-January 1950; Special Consultant to the President from January 1950.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "james-v-forrestal",
+"label": "James V. Forrestal"
+},
+"b": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"claimTier": 1,
+"id": "e-bef526f571",
+"label": "Secretary of the Navy until September 1947",
+"note": "The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+},
+"b": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"claimTier": 3,
+"id": "e-963555a195",
+"label": "Named as a panel member inside the disputed document",
+"note": "Souers is named as an MJ-12 panel member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED, corpus map 02 file 02. No record opened for this node connects him to unidentified objects, recovered material or any such panel; the offices are the reason he is on the board.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-history-state-gov-9fe3c324",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+{
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+{
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+{
+"cls": "person",
+"id": "james-v-forrestal",
+"label": "James V. Forrestal"
+},
+{
+"cls": "person",
+"id": "leslie-r-groves",
+"label": "Lt. Gen. Leslie R. Groves"
+},
+{
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+}
+],
+"node": null,
+"title": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons",
+"topics": [
+{
+"claims": [
+"c-a5537d2bb9",
+"c-45f992c5de",
+"c-d3532156e9"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-a5537d2bb9"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-45f992c5de"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+]
+}

@@ -1,0 +1,59 @@
+{
+"archived": [
+"https://web.archive.org/web/20060515083956/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UapInTheUkAirDefenceRegionExecutiveSummary.htm"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-clarke-uk",
+"label": "Dr David Clarke"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-ef6bd7e00a",
+"label": "FOI request that forced the release",
+"note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-mod-uk-0a594aa0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "mod.uk",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-clarke-uk",
+"label": "Dr David Clarke"
+},
+{
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+{
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+{
+"cls": "institution",
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+}
+],
+"node": null,
+"title": "MoD Publication Scheme - Executive Summary record",
+"topics": [],
+"type": "web page",
+"urls": []
+}

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-d9728c70f2",
+"locator": null,
+"node": "shag-harbour-1967",
+"nodeLabel": "Shag Harbour incident, 4 October 1967",
+"sourceText": "Canadian Forces Fleet Diving Unit Atlantic search report, October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Divers from Fleet Diving Unit Atlantic searched the seafloor of the Gulf of Maine for three days beginning two days after the incident; the final report states no trace of an object was found.",
+"tier": 2
+}
+],
+"date": "1967-10",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "t-45d2c84c044f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Canadian Forces Fleet Diving Unit Atlantic",
+"listedOn": [],
+"node": null,
+"title": "Canadian Forces Fleet Diving Unit Atlantic search report",
+"topics": [
+{
+"claims": [
+"c-d9728c70f2"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
+"type": "report",
+"urls": []
+}

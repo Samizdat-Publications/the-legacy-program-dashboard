@@ -23,26 +23,52 @@
 {
 "id": "c-00cd4db259",
 "source": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), publisher's note; DTIC ADA326148 abstract",
+"sources": [
+{
+"id": "dtic-ada326148",
+"locator": null,
+"title": "The Roswell Reports (USAF, 1994-1997)"
+}
+],
 "text": "The 1995 report was written as a result of Col. Weaver's and Lt. McAndrew's efforts to locate records explaining the events of July 1947, and duplicates the information provided to the Secretary of the Air Force and to the General Accounting Office in response to Rep. Steven H. Schiff's request.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8e1caa1937",
 "source": "The Roswell Report: Fact versus Fiction (1995), Attachment 32",
+"sources": [
+{
+"id": "n-roswell-report-1995",
+"locator": "Attachment 32",
+"title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+}
+],
 "text": "Attachment 32 of the 1995 report is Lt. McAndrew's synopsis describing Project Mogul, the top-priority classified balloon-borne experiment programme advanced as the explanation for the Roswell Incident.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3503578221",
 "source": "Quoted in The Roswell Report: Case Closed (1997), Section 1.1",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.1",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The July 1994 report states that at the express written direction of the Secretary of the Air Force, former and retired Air Force members and civilian contract scientists were released from any nondisclosure agreements they may have entered into regarding the relevant past classified activities.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f9bc0c2a41",
 "source": "Inference from the tasking as described in the report itself",
+"sources": [],
 "text": "The Secretary's decision to route the Roswell inquiry to the Director of Security and Special Program Oversight rather than to Air Force History or Public Affairs indicates that the department expected any responsive material to sit inside special access channels. Reasoning: SAF oversight directorates exist to see into compartments that ordinary staff offices cannot.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

@@ -1,0 +1,117 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-029df03dbc",
+"locator": null,
+"node": "nsam-303",
+"nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"sourceText": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "IT CONTAINS NO SECRECY POLICY OF ANY KIND. There are no classification rules, no declassification rules and no subject-matter directives in the document. Where NSAM 303 is cited as governing or establishing secrecy policy, the citation is wrong on the face of the primary text, and the authority being described belongs to NSC 5412/2 of 28 December 1955.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ab7c304103",
+"locator": null,
+"node": "nsam-303",
+"nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"sourceText": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "The entire operative content is two sentences: 'Henceforth, the Special Group 5412 will be known as the 303 Committee.' and 'This change in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c7b437b634",
+"locator": null,
+"node": "nsam-303",
+"nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"sourceText": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "It is dated Washington, 2 June 1964, is signed by McGeorge Bundy and NOT by the President, and is addressed to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence. Top Secret. Source note: National Archives, RG 59, S/S-NSC Files: Lot 70 D 265.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fa4d45efa7",
+"locator": null,
+"node": "nsam-303",
+"nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"sourceText": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "No connection of any kind between NSAM 303 and unidentified aerial phenomena appears in the document, and a search of the text found none.",
+"tier": 1
+}
+],
+"date": "1964-06-02",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "nsam-303",
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)"
+},
+"b": {
+"cls": "institution",
+"id": "national-security-council",
+"label": "National Security Council"
+},
+"claimTier": 1,
+"id": "e-f0f41b78f3",
+"label": "Signed by the President's national security adviser, not by the President",
+"note": "McGeorge Bundy signs, addressed to the Secretaries of State and Defense and the DCI. Worth recording because the memo is often cited as a presidential instrument.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "nsam-303",
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)"
+},
+"b": {
+"cls": "document",
+"id": "nsc-5412",
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)"
+},
+"claimTier": 1,
+"id": "e-2fe5f372f1",
+"label": "Renames the body, and points at NSC 5412/2 for its authority",
+"note": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
+"type": "temporal"
+}
+],
+"era": "0",
+"host": null,
+"id": "n-nsam-303",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "document",
+"id": "nsam-303",
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)"
+}
+],
+"node": {
+"cls": "document",
+"id": "nsam-303",
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)"
+},
+"title": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"topics": [
+{
+"claims": [
+"c-029df03dbc",
+"c-ab7c304103",
+"c-c7b437b634",
+"c-fa4d45efa7"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "document",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+]
+}

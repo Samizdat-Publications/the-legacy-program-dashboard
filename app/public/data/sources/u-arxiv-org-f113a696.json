@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-52f57f85fb",
+"locator": null,
+"node": "canning-nasa-cr-2004-213312",
+"nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+"sourceText": "Thomas B. Bahder and Chris Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of the Army Research Laboratory report, submitted 31 October 2002, revised 12 March 2003, https://arxiv.org/abs/physics/0211001 , opened 2026-09-19; report number and NTIS order number as printed in reference 8 of NASA/CR-2004-213312",
+"text": "THE DISSENT, RECORDED SO THE BOARD DOES NOT OVERSTATE THE RECORD. The Army Research Laboratory's own study of the same effect, by Thomas B. Bahder and Chris Fazi, concluded from its calculations that 'ionic wind is at least three orders of magnitude too small to explain the magnitude of the observed force on the capacitor'. That rejects BALLISTIC ionic wind and prefers ionic drift, which is the mechanism NASA then modelled, so the two findings are not in flat contradiction and NEITHER INVOKES NEW PHYSICS. Tier 2 because the published report, ARL-TR-3005 / NTIS ADA416740, was NOT opened: apps.dtic.mil returned HTTP 403 and what was read was the authors' arXiv preprint.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-arxiv-org-f113a696",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "arXiv",
+"listedOn": [
+{
+"cls": "document",
+"id": "canning-nasa-cr-2004-213312",
+"label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
+}
+],
+"node": null,
+"title": "Bahder and Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of ARL-TR-3005",
+"topics": [
+{
+"claims": [
+"c-52f57f85fb"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+},
+{
+"claims": [
+"c-52f57f85fb"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "web page",
+"urls": [
+"https://arxiv.org/abs/physics/0211001"
+]
+}

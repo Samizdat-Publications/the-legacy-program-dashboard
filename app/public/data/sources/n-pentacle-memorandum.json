@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-0334ef50ea",
+"locator": null,
+"node": "howard-c-cross",
+"nodeLabel": "Howard C. Cross",
+"sourceText": "CUFON transcription of the Pentacle Memorandum",
+"text": "The memorandum proposes controlled experiments with observation posts in high-report areas and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-be4def201c",
+"locator": null,
+"node": "project-stork",
+"nodeLabel": "Project Stork (Project White Stork)",
+"sourceText": "CUFON transcription of the Pentacle Memorandum",
+"text": "The 9 January 1953 Cross memorandum was written under Project Stork and addressed to Miles E. Goll at Wright-Patterson AFB.",
+"tier": 1
+}
+],
+"date": "1953",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "n-pentacle-memorandum",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+},
+"title": "The Pentacle Memorandum",
+"topics": [
+{
+"claims": [
+"c-0334ef50ea"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+}
+],
+"type": "document",
+"urls": []
+}

@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c1730160ec",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
+"text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
+"tier": 2
+}
+],
+"date": "2020-10-20",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-ef6f37976a14",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "reported by MJ Banias, Vice",
+"listedOn": [],
+"node": null,
+"title": "The Phenomenon (2020",
+"topics": [
+{
+"claims": [
+"c-c1730160ec"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-c1730160ec"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+}
+],
+"type": "broadcast",
+"urls": []
+}

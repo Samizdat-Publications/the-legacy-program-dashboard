@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-virginia",
+"label": "Charlottesville and the Commonwealth of Virginia"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 2,
+"id": "e-a5579174dd",
+"label": "NRO headquarters, Westfields, Chantilly",
+"note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-cc4db79b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [],
+"node": null,
+"title": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/National_Reconnaissance_Office"
+]
+}

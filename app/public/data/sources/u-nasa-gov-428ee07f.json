@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-ames",
+"label": "NASA Ames Research Center, Mountain View, California"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-3f13cd4b8c",
+"label": "NASA field centre at Moffett Field",
+"note": "NASA describes Ames as 'one of ten NASA field centers ... located in the heart of California's Silicon Valley', gives its location as Moffett Field, California, and dates its establishment to 20 December 1939, before its absorption into NASA in 1958.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-nasa-gov-428ee07f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-ames",
+"label": "NASA Ames Research Center, Mountain View, California"
+}
+],
+"node": null,
+"title": "NASA Ames Research Center",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nasa.gov/ames/"
+]
+}

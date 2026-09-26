@@ -28,14 +28,30 @@
 {
 "id": "c-47c66f16a5",
 "source": "SEFAA (DGAC Chile), 'Historia'",
+"sources": [
+{
+"id": "u-sefaa-dgac-gob-cl-9e74d04c",
+"locator": null,
+"title": "SEFAA - Historia"
+}
+],
 "text": "'Quien inició la recopilación de los primeros reportes fue el entonces Director de esa Oficina ... Coronel de Aviación Sergio Bravo Flores, quien lideró la Comisión Chilena para Estudios de Fenómenos Espaciales No Identificados, que nació con el apoyo de la Sociedad Científica de Chile.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3403fd8114",
 "source": "SEFAA (DGAC Chile), 'Historia'",
+"sources": [
+{
+"id": "u-sefaa-dgac-gob-cl-9e74d04c",
+"locator": null,
+"title": "SEFAA - Historia"
+}
+],
 "text": "'con fecha 9 de julio de 1968 hizo llegar a 43 instalaciones aeronáuticas la primera circular oficial solicitando reportes ... Parte de ellos fueron enviados a la Universidad de Colorado, en Estados Unidos, en donde la una comisión de académicos (bautizada posteriormente como Comisión Condon) realizaba un detallado estudio.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

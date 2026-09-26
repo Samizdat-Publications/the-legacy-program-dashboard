@@ -7,44 +7,82 @@
 {
 "id": "c-30593919b4",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "ICD 906 D.9 names 'The Director of the ODNI Controlled Access Program Central Office (CAPCO)' as 'the accountable official responsible for the implementation of this policy and for issuing IC Standards (ICS), consistent with ICPG 101.2.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9c918bb544",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"sources": [
+{
+"id": "u-dni-gov-9f5ec4a0",
+"locator": null,
+"title": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025"
+}
+],
 "text": "CAPCO duties per ICD 906 E.4: serve as central point of contact for all CAP requirements; 'Maintain the CAP Registry, a list of all control systems, including all compartments and sub-compartments'; 'Deconflict all IC CAPs or all other programs'; issue IC Standards; coordinate CAP-related engagements including congressional briefings, ISOO requests, and the NSC; and ensure at least one records official is cleared to all CAPs.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-36618fa4ef",
 "source": "ICD 906, section D.9",
+"sources": [],
 "text": "ICD 906 section D.9: 'The Director of the ODNI Controlled Access Program Central Office (CAPCO) is the accountable official responsible for the implementation of this policy'.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:icd-906) was rejected in review: cited ICD supersedes the 2015 version the candidate dates"
 },
 {
 "id": "c-fb60316f75",
 "source": "ICD 906, section D.9.b",
+"sources": [],
 "text": "ICD 906 section D.9.b requires ODNI CAPCO to 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments' and to 'manage all compartment and sub compartment names, codenames, and any other pertinent information.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:icd-906) was rejected in review: cited ICD supersedes the 2015 version the candidate dates"
 },
 {
 "id": "c-aef17854a7",
 "source": "ICD 906, section D.9.c",
+"sources": [],
 "text": "ICD 906 section D.9.c makes CAPCO 'responsible for the coordination of CAP-related engagements, to include, but not limited to, congressional briefings, requests from the Information Security Oversight Office, and the National Security Council.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:icd-906) was rejected in review: cited ICD supersedes the 2015 version the candidate dates"
 },
 {
 "id": "c-2155aa466f",
 "source": "IC Authorized Classification and Control Markings Register and Manual v5.1, title page",
+"sources": [
+{
+"id": "n-capco-register",
+"locator": "title page",
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+}
+],
 "text": "CAPCO publishes the Intelligence Community Authorized Classification and Control Markings Register and Manual from Washington, DC 20511, with the contact address DNI-SSD-CAPCO@dni.ic.gov.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-64ee83d1c6",
 "source": "ICD 906 section D.9.c read with E.O. 13526 section 4.3(b)",
+"sources": [
+{
+"id": "eo-13526",
+"locator": null,
+"title": "Executive Order 13526 - Classified National Security Information"
+}
+],
 "text": "An ISOO request about an IC controlled access program is routed, by directive, through the office that administers the registry of those programs - so ISOO's independent oversight of IC CAPs is mediated by the entity it would be overseeing. Reasoning: ICD 906 D.9.c places ISOO requests inside CAPCO's coordination function.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -300,7 +338,7 @@
 ],
 "sub": "oversight-body",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 127 of 1138, score 56). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 126 of 1138, score 56). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

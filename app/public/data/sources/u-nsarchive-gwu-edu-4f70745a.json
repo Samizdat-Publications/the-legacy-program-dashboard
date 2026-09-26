@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-f499b43fd0",
+"locator": null,
+"node": "project-bluebird",
+"nodeLabel": "Project BLUEBIRD",
+"sourceText": "Memorandum for the Director of Central Intelligence, 'Successful Application of Narco-Hypnotic Interrogation (ARTICHOKE)', CIA Security Office, July 1952, National Security Archive John Marks Collection Box 6, https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf",
+"text": "By July 1952 the Security Office was reporting operational use to the Director: '(a) Subjects were Russian agents suspected of being doubled. (b) Cover was psychiatric-medical. (c) Control methods were by narcosis, by hypnosis, and by combination of both.' The attachment records one interrogation held for about an hour and forty minutes 'with a subsequent total amnesia produced by post-hypnotic suggestion'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "National Security Archive",
+"id": "u-nsarchive-gwu-edu-4f70745a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+}
+],
+"node": null,
+"title": "Memorandum for the Director of Central Intelligence, 'Successful Application of Narco-Hypnotic Interrogation (ARTICHOKE)', July 1952",
+"topics": [
+{
+"claims": [
+"c-f499b43fd0"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "document",
+"urls": [
+"https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf"
+]
+}

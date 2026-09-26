@@ -49,50 +49,108 @@
 {
 "id": "c-4c13caa67a",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"sources": [
+{
+"id": "n-dird-traversable-wormholes-stargates-and-negative-energy",
+"locator": null,
+"title": "Traversable Wormholes, Stargates, and Negative Energy"
+}
+],
 "text": "Every released DIRD carries the line: 'Comments or questions pertaining to this document should be addressed to [name redacted under (b)(3) 10 USC 424 and (b)(6)], AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100.' The AAWSAP program manager post is therefore documented in primary record; the incumbent's name is withheld in the DIA release.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b4ffe818d1",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"sources": [
+{
+"id": "u-dia-mil-3d058fd3",
+"locator": null,
+"title": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)"
+}
+],
 "text": "DIA Info Memo U-429-09 refers to 'The program manager, [redacted], has reviewed all of the papers and concurs with the reviews' — establishing a single named DIA officer who personally reviewed every FY2009 DIRD.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e588d31a86",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"sources": [
+{
+"id": "u-dia-mil-3d058fd3",
+"locator": null,
+"title": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)"
+}
+],
 "text": "Identification of the redacted AAWSA Program Manager as Dr. James T. Lacatski is not established by any primary document reached in this pass. It rests on his own published accounts and on secondary reporting. Treat the name as unconfirmed against the FOIA record until a document with the name unredacted (or a DIA org chart / personnel record) is located.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-e085ac1261",
 "source": "DIA solicitation HHM402-08-R-0211, posted 18 Aug 2008, released via The Black Vault",
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": null,
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "Lacatski is identified by name as 'Government Project Leader' on the DIA AAWSAP solicitation, the only unredacted appearance of the PM in the procurement record.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-81c9b24315",
 "source": "DIA FOIA-00023-2022 and APP-00031-2022, released via The Black Vault, 2023",
+"sources": [
+{
+"id": "foia-dia-00023-2022",
+"locator": null,
+"title": "DIA FOIA-00023-2022"
+}
+],
 "text": "DIA could locate no records responsive to a request for the 19 June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d9ac9f7dd5",
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); repeated in Knapp/Mystery Wire interviews",
+"sources": [],
 "text": "Lacatski states he personally entered a craft of unknown origin while working the program.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:skinwalkers-at-the-pentagon) was rejected in review: names two sources; Mystery Wire interviews are not the candidate"
 },
 {
 "id": "c-1fefbd7557",
 "source": "Lacatski to Jeremy Corbell, published 8 April 2026",
+"sources": [
+{
+"id": "t-124932fc0083",
+"locator": null,
+"title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+}
+],
 "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-0918e2cae2",
 "source": "Inference from the FOIA-00023-2022 no-records response set against the volume of AAWSAP material DIA did release",
+"sources": [
+{
+"id": "foia-dia-00023-2022",
+"locator": null,
+"title": "DIA FOIA-00023-2022"
+}
+],
 "text": "DIA's inability to find the 2007 Bigelow letter, combined with its redaction of Lacatski's name under 10 USC 424 in every post-2008 release, indicates the origin correspondence was either never filed as an official record or was removed from the searchable file — the reasoning being that DIA found and released far more marginal 2008-2010 paperwork from the same office.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

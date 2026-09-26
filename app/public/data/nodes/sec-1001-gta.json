@@ -7,26 +7,58 @@
 {
 "id": "c-be1cebacbc",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 1001, NDAA FY2026: transfer authority on the Secretary's determination that action 'is necessary in the national interest', capped at $6,000,000,000, excluding military personnel transfers.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-94398ba636",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 1001(d) requires only that 'The Secretary shall promptly notify Congress of each transfer made under subsection (a).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-57c8dd60ba",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+}
+],
 "text": "Section 1001 of the NDAA FY2025 (P.L. 118-159, enacted 23 December 2024) carried the identical $6,000,000,000 ceiling and identical conditions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-48952e92f6",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Section 4001(c), NDAA FY2026: transfer or reprogramming of a funding-table amount 'shall not count against a ceiling on such transfers or reprogrammings under section 1001 of this Act or any other provision of law, unless such transfer or reprogramming would move funds between appropriation accounts.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",
@@ -100,7 +132,7 @@
 ],
 "sub": "$6 billion of authorization-side transfer authority on a national-interest determination",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 632 of 1138, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 631 of 1138, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

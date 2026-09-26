@@ -7,68 +7,144 @@
 {
 "id": "c-604ab35821",
 "source": "DefenseScoop, 20 February 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Trump posted on Truth Social on 19-20 February 2026 that he would direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-dfa877dc23",
 "source": "DefenseScoop, 25 February 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-cda2f816",
+"locator": null,
+"title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000"
+}
+],
 "text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b8cfe517f7",
 "source": "DefenseScoop, 20 February 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4863956419",
 "source": "Inference from the absence of any cited EO number across the portal, AARO's materials and DefenseScoop's coverage",
+"sources": [],
 "text": "No executive order text establishing PURSUE has appeared on war.gov, aaro.mil or in the contemporaneous reporting; the programme appears to rest on informal direction, leaving its scope and continuation entirely discretionary.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-1a356a5c1f",
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Trump directed Hegseth and other departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-a64deafb9c",
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Sean Parnell: 'The department looks forward to working with the interagency to fulfill the president's directive.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-bfe3d5c8ae",
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b71b7ca926",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"sources": [
+{
+"id": "n-odni-memo-es-2026-00818",
+"locator": null,
+"title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+}
+],
 "text": "ODNI ES 2026-00818 grounds the NDA-waiver implementation on 'Presidential Direction' rather than on any cited executive order number.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-da44f655dd",
 "source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"sources": [
+{
+"id": "u-defensescoop-com-cda2f816",
+"locator": null,
+"title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000"
+}
+],
 "text": "No signed executive order on UAP declassification exists in the public record as of 12 August 2026, despite Hegseth referring on 23 February 2026 to 'that executive order'. Reasoning: contemporaneous reporting describes a Truth Social post; the ODNI implementing memorandum cites 'Presidential Direction' without an order number.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-01987c570c",
 "source": "Truth Social post, 20 February 2026, reported by Al Jazeera and others",
+"sources": [],
 "text": "Trump announced he would direct the Secretary of War and other departments and agencies to begin identifying and releasing files on alien and extraterrestrial life, UAP and UFOs.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-relea) was rejected in review: names the post and Al Jazeera 'and others'; not one source"
 },
 {
 "id": "c-88350e5df7",
 "source": "Al Jazeera, 20 February 2026",
+"sources": [
+{
+"id": "u-aljazeera-com-15b1ae21",
+"locator": null,
+"title": "Al Jazeera - Trump orders Pentagon, federal agencies to release files on UFOs and aliens"
+}
+],
 "text": "Rep. Anna Paulina Luna publicly thanked the President as chair of the task force that investigates the subject; Sen. John Fetterman called the decision fantastic.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

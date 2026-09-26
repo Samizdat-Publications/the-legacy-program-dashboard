@@ -7,8 +7,16 @@
 {
 "id": "c-31d173dad0",
 "source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"sources": [
+{
+"id": "n-sffas-56",
+"locator": null,
+"title": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+}
+],
 "text": "FASAB issued SFFAS 56 'Classified Activities' on 4 October 2018.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

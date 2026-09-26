@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-dca83a6635",
+"locator": null,
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"sourceText": "Tyler Rogoway, The War Zone, updated 13 April 2020, https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE LAKEBED HAS BEEN PHOTOGRAPHED FROM THE AIR, LEGALLY, AND THERE IS NOTHING ON IT. Tyler Rogoway of The War Zone published aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.' Rogoway states his own position in the same piece: 'No, I don't believe Bob's story, but I do think that it is one of the most entertaining tales ever told.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-twz-com-7e327f51",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+}
+],
+"node": null,
+"title": "Tyler Rogoway, The War Zone, aerial photographs of Papoose Lake taken on an authorised overflight",
+"topics": [
+{
+"claims": [
+"c-dca83a6635"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+},
+{
+"claims": [
+"c-dca83a6635"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+}
+],
+"type": "article",
+"urls": [
+"https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends"
+]
+}

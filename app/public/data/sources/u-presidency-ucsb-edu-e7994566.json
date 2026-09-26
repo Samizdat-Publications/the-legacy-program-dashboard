@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-8376727a91",
+"locator": null,
+"node": "research-development-board",
+"nodeLabel": "Research and Development Board",
+"sourceText": "Letter to Dr. Vannevar Bush Upon His Appointment as Chairman, Research and Development Board, 25 September 1947, Public Papers of the Presidents",
+"text": "Truman's letter to Vannevar Bush of 25 September 1947 records both the appointment and the predecessor body: 'I am happy to know that you are willing to continue in the public service as Chairman of the Research and Development Board created by the National Security Act of 1947 ... Since V-J Day you have continued to render valuable service as chairman of the Joint Research and Development Board set up by the Secretaries of War and Navy.' The commonly cited 1941 founding date is wrong by six years.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-presidency-ucsb-edu-e7994566",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "presidency.ucsb.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "research-development-board",
+"label": "Research and Development Board"
+}
+],
+"node": null,
+"title": "Letter to Dr. Vannevar Bush Upon His Appointment as Chairman, Research and Development Board, 25 September 1947",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.presidency.ucsb.edu/documents/letter-dr-vannevar-bush-upon-his-appointment-chairman-research-and-development-board"
+]
+}

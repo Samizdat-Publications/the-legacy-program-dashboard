@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [],
+"date": "2024-11-13",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-c664022655",
+"label": "Founder Shellenberger testified as a hearing witness",
+"note": "The transcript lists 'Mr. Michael Shellenberger, Founder of Public' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens 'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees' - a joint sitting of two subcommittees.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 1,
+"id": "e-ec7ca4f118",
+"label": "Published the whistleblower brief naming the program",
+"note": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "public-substack",
+"label": "Public"
+},
+"b": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"claimTier": 1,
+"id": "e-c6eb1a14f2",
+"label": "Immaculate Constellation document hosted on Mace's House site",
+"note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-hill",
+"label": "The Hill"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-1e1d0008c9",
+"label": "Covered the November 2024 House UAP secrecy hearing",
+"note": "The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline 'House panel hears of hidden UAP trove, secretive arms race', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR's same-day report.",
+"type": "investigative"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-npr-org-574cc34e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NPR",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+}
+],
+"node": null,
+"title": "NPR - UFOs and UAPs should be studied by the U.S., experts tell congressional hearing",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+]
+}

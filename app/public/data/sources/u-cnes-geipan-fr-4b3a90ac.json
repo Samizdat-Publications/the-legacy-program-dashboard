@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-cnes-geipan-fr-4b3a90ac",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CNES GEIPAN",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+}
+],
+"node": null,
+"title": "https://cnes-geipan.fr/en/documentation",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://cnes-geipan.fr/en/documentation"
+]
+}

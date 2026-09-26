@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c0d68ad569",
+"locator": null,
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "Full-text reading of DTIC ADA073468, ADA073475 and AD0460283; negative finding",
+"text": "Nothing in the UPSHOT-KNOTHOLE reports or the 1960 AFSWC report touches unidentified aerial phenomena, recovered materiel, reverse engineering, Henry Kissinger or Viktor Schauberger. Wang's documented role throughout is blast effects on structures. No document supporting an Austrian birth was located.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d64aa6e945",
+"locator": "acknowledgments",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "Operation UPSHOT-KNOTHOLE Project 3.5, DTIC ADA073475, acknowledgments; and Project 3.1, DTIC ADA073468",
+"text": "The printed name of the organisation is the Special Studies Office (also Special Studies Section), inside the Installations Division of Air Materiel Command -- not the 'Office of Special Studies'. The colleague's name is Arthur Stansel, whom the Project 3.5 report tracks onward to 'Landing Gear Development Section, Equipment Laboratory, Wright Air Development Center'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "dtic-ada073475",
+"identifiers": [
+"DTIC ADA073475"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-wang",
+"label": "Eric H. Wang"
+}
+],
+"node": null,
+"title": "Operation UPSHOT-KNOTHOLE, Project 3.5, DTIC ADA073475",
+"topics": [
+{
+"claims": [
+"c-c0d68ad569",
+"c-d64aa6e945"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_ADA073475"
+]
+}

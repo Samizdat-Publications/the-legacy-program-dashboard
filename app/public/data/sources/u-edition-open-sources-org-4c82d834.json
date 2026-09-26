@@ -1,0 +1,123 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-57b84ca027",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "Two different acts are recorded for the Institute and a node should not collapse them. The conference report's title page states: 'This conference was an activity of the North Carolina Project of the Institute of Field Physics, established in 1956 in the Department of Physics of the University of North Carolina, Chapel Hill.' The certificate of incorporation this node carries is dated 7 September 1955; the establishment inside the department is dated 1956 by the conference's own paper.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-daf1756b42",
+"locator": null,
+"node": "institute-of-field-physics",
+"nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c10f8025c0",
+"locator": null,
+"node": "louis-witten",
+"nodeLabel": "Louis Witten",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2376ac8099",
+"locator": null,
+"node": "peter-bergmann",
+"nodeLabel": "Peter G. Bergmann",
+"sourceText": "Foreword by Cecile M. DeWitt, Chapel Hill, 15 March 1957, printed with the report's title page. https://edition-open-sources.org/sources/5/5/index.html",
+"text": "Bergmann sat on the conference steering committee with F. J. Belinfante, Bryce S. DeWitt, Cecile M. DeWitt, Freeman J. Dyson and John A. Wheeler, and the Foreword's abstract records that 'A conference summary statement is presented by Professor P. G. Bergmann.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "peter-bergmann",
+"label": "Peter G. Bergmann"
+},
+"b": {
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+"claimTier": 1,
+"id": "e-5c454ec158",
+"label": "Steering committee of the Institute's inaugural conference, January 1957",
+"note": "The conference was, in the report's own words, an activity of the North Carolina Project of the Institute of Field Physics, and Bergmann sat on its steering committee.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-bergmann",
+"label": "Peter G. Bergmann"
+},
+"b": {
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+"claimTier": 1,
+"id": "e-02badd9af5",
+"label": "Both printed on the same forty-six-name participants list",
+"note": "Both are printed on the same forty-six-name participants list of the January 1957 Chapel Hill conference.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-edition-open-sources-org-4c82d834",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "edition-open-sources.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+},
+{
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten"
+},
+{
+"cls": "person",
+"id": "peter-bergmann",
+"label": "Peter G. Bergmann"
+}
+],
+"node": null,
+"title": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011, title page and Foreword",
+"topics": [
+{
+"claims": [
+"c-57b84ca027",
+"c-daf1756b42",
+"c-c10f8025c0",
+"c-2376ac8099"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "book",
+"urls": [
+"https://edition-open-sources.org/sources/5/5/index.html"
+]
+}

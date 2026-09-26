@@ -1,0 +1,180 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-2ced9755af",
+"label": "The disclosure event is constituted by the 13 November 2024 hearing",
+"note": "The report was delivered, described under oath and entered into the record at this hearing.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-e2f34eae92",
+"label": "sworn witness",
+"note": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-3bcfb851d4",
+"label": "sworn witness",
+"note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "hoc-subcommittee-cybersecurity-it",
+"label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-c2a398ac30",
+"label": "Co-chaired the 13 November 2024 joint hearing",
+"note": "Joint with the National Security subcommittee; Serial No. 118-135.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 1,
+"id": "e-bd1ad93ad6",
+"label": "sworn witness",
+"note": "Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.'",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-560cc814c8",
+"label": "All three modern UAP hearings were held on Capitol Hill",
+"note": "2154 Rayburn on 26 July 2023 and 13 November 2024; HVC-210 on 9 September 2025.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-oversight-house-gov-1c0d0e38",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "document",
+"id": "gallaudet-2015-email",
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)"
+},
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+{
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold"
+},
+{
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+{
+"cls": "institution",
+"id": "hoc-subcommittee-cybersecurity-it",
+"label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation"
+},
+{
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+{
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+{
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+}
+],
+"node": null,
+"title": "House Oversight Committee, hearing page: UAP: Exposing the Truth",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth",
+"https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+]
+}

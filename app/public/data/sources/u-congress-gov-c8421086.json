@@ -1,0 +1,207 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-cea4df5e9d",
+"locator": null,
+"node": "americans-for-safe-aerospace",
+"nodeLabel": "Americans for Safe Aerospace",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'We now have nearly 5,000 members and are actively working with more than 30 UAP witnesses who have approached us.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e4d9f3948e",
+"locator": null,
+"node": "americans-for-safe-aerospace",
+"nodeLabel": "Americans for Safe Aerospace",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7507e7aa84",
+"locator": null,
+"node": "ryan-graves",
+"nodeLabel": "Ryan Graves",
+"sourceText": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a5e8af6329",
+"locator": null,
+"node": "ryan-graves",
+"nodeLabel": "Ryan Graves",
+"sourceText": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"text": "Americans for Safe Aerospace had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses' as of July 2023.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ff78070af0",
+"locator": null,
+"node": "ryan-graves",
+"nodeLabel": "Ryan Graves",
+"sourceText": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72, an exclusive block of airspace ten miles east of Virginia Beach' where 'one of the pilots saw a dark gray cube inside of a clear sphere' and 'The jets, only 100 feet apart, were forced to take evasive action.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-16eeab99c6",
+"locator": null,
+"node": "vfa-11",
+"nodeLabel": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c6521d4478",
+"locator": null,
+"node": "vfa-11",
+"nodeLabel": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72 ... The jets, only 100 feet apart, were forced to take evasive action.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-a67e8481d0",
+"locator": null,
+"node": "roosevelt-2014-2015",
+"nodeLabel": "USS Theodore Roosevelt Encounters (2014-2015)",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "Two jets 'only 100 feet apart, were forced to take evasive action' in Warning Area W-72.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-c781a0575d",
+"locator": null,
+"node": "roosevelt-2014-2015",
+"nodeLabel": "USS Theodore Roosevelt Encounters (2014-2015)",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'It has been more than a decade since my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis.'",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-8854d82a41",
+"locator": null,
+"node": "l-w72",
+"nodeLabel": "Warning Area W-72, off Virginia Beach",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "W-72 is 'an exclusive block of airspace ten miles east of Virginia Beach.'",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-8f12b7f44c",
+"locator": null,
+"node": "l-w72",
+"nodeLabel": "Warning Area W-72, off Virginia Beach",
+"sourceText": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "A pilot 'saw a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point'; the jets, 100 feet apart, took evasive action.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+"claimTier": 1,
+"id": "e-e30228e583",
+"label": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+"note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-419c09f2bd",
+"label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-congress-gov-c8421086",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023",
+"topics": [
+{
+"claims": [
+"c-cea4df5e9d",
+"c-e4d9f3948e",
+"c-7507e7aa84",
+"c-ff78070af0",
+"c-16eeab99c6",
+"c-c6521d4478",
+"c-c781a0575d",
+"c-8854d82a41",
+"c-8f12b7f44c"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-7507e7aa84",
+"c-a5e8af6329",
+"c-ff78070af0"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-cea4df5e9d",
+"c-e4d9f3948e"
+],
+"id": "nasa-uap-study",
+"title": "NASA's UAP independent study, 2022-23"
+},
+{
+"claims": [
+"c-cea4df5e9d",
+"c-e4d9f3948e"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+}
+],
+"type": "document",
+"urls": [
+"https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf"
+]
+}

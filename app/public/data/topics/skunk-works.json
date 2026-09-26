@@ -22,6 +22,18 @@
     "text": "WikiLeaks, The Podesta Emails, corpus search, https://wikileaks.org/podesta-emails/?q=prometheus and https://wikileaks.org/podesta-emails/?q=moulton",
     "url": "https://wikileaks.org/podesta-emails/?q=prometheus"
    },
+   "sourceRefs": [
+    {
+     "id": "u-wikileaks-org-a448b150",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, corpus search, and"
+    },
+    {
+     "id": "u-wikileaks-org-0fa877e6",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, corpus search, and"
+    }
+   ],
    "text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to podesta@LAW.GEORGETOWN.EDU, and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from t.delonge@me.com and none of them is among either set.",
    "tier": 1
   },
@@ -35,6 +47,13 @@
     "text": "GAO/NSIAD-86-191, Information Security: Need for DOD Inspections of Special Access Contracts, 7 August 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-86-191",
+     "locator": "Information Security: Need for DOD Inspections of Special Access Contracts, 7 August 1986",
+     "title": "GAO/NSIAD-86-191"
+    }
+   ],
    "text": "The companion letter report GAO/NSIAD-86-191, B-223830, 7 August 1986, to the Secretary of Defense, signed Frank C. Conahan, states that 'the deterioration of document accountability for the special access contract at Lockheed may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
    "tier": 1
   },
@@ -48,6 +67,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "GAO explains the term: special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', and 'In 1983, we estimated that there probably were several thousand such contracts.'",
    "tier": 1
   },
@@ -61,6 +87,13 @@
     "text": "WikiLeaks, The Podesta Emails, email id 3099, https://wikileaks.org/podesta-emails/emailid/3099",
     "url": "https://wikileaks.org/podesta-emails/emailid/3099"
    },
+   "sourceRefs": [
+    {
+     "id": "n-podesta-delonge-mccasland-email-2016",
+     "locator": null,
+     "title": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+    }
+   ],
    "text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
    "tier": 1
   },
@@ -74,6 +107,7 @@
     "text": "Board inference from Knapp's 9 September 2025 testimony",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The unnamed 'facility in California' at which material was allegedly held is most plausibly a Lockheed cleared site in the Palmdale-Antelope Valley complex. Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated there. No witness has named a site.",
    "tier": 3
   },
@@ -87,6 +121,13 @@
     "text": "WikiLeaks, The Podesta Emails, email id 15486, https://wikileaks.org/podesta-emails/emailid/15486",
     "url": "https://wikileaks.org/podesta-emails/emailid/15486"
    },
+   "sourceRefs": [
+    {
+     "id": "u-wikileaks-org-ce2d6b35",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, email ids 51979 and 15486"
+    }
+   ],
    "text": "DeLonge names the Lockheed leg himself. On 22 February 2016, under the subject 'Advisors', he wrote to Podesta: 'Mr. Weiss from Lockheed SkunkWorks just emailed me asking if there were any updates. I am not expecting much, but if there is anything I can tell him and the General, however small, I would like to respectfully pass it along.'",
    "tier": 1
   },
@@ -100,6 +141,13 @@
     "text": "Haines, Studies in Intelligence (1997)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-haines-cia-history",
+     "locator": null,
+     "title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    }
+   ],
    "text": "CIA's own historical account confirms that U-2 and OXCART overflights were the source of a majority of UFO reports in the late 1950s and 1960s, and that false explanations were issued to protect them.",
    "tier": 1
   },
@@ -113,6 +161,13 @@
     "text": "CHRG-118hhrg57440, 13 November 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg57440",
+     "locator": "13 November 2024",
+     "title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+    }
+   ],
    "text": "Elizondo confirmed on the record that the reported Lockheed Martin - Bigelow Aerospace transfer 'was blocked,' and that a memorandum from the Secretary of the Air Force required to complete it never issued.",
    "tier": 2
   },
@@ -126,6 +181,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "Lockheed reported 1,460 discrepancies: 'The current inventory of all 53 document control substations has been completed, and Lockheed has reported 1,460 discrepancies.' The inventory 'consists of about 40,000 secret and top-secret items.'",
    "tier": 1
   },
@@ -139,6 +201,7 @@
     "text": "UAP Gerb, interviewed by Ross Coulthart, NewsNation Reality Check, premiered 4 August 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
    "tier": 2
   },
@@ -152,6 +215,13 @@
     "text": "Batch 18 file 01, 0:29:08-0:30:00, research/leads/area52-corpus-18.md; checked against https://wikileaks.org/podesta-emails/?q=prometheus",
     "url": "https://wikileaks.org/podesta-emails/?q=prometheus"
    },
+   "sourceRefs": [
+    {
+     "id": "u-wikileaks-org-a448b150",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, corpus search, and"
+    }
+   ],
    "text": "On Debriefed, episode 82, 3 April 2026, Michael Phillip said the Prometheus and Greek mythology framing reached him through 'the conversations between Podesta and McCaslin and dalong and then by way of dalong lavenda' in the WikiLeaks release, while stating in the same passage that 'I don't know verbatim what he actually said. I'm sort of regurgitating this from talking to lavenda.' The release contains the correspondence he names and does not contain the content he attributes to it.",
    "tier": 2
   },
@@ -162,11 +232,18 @@
    "nodeLabel": "Air Force Plant 42, Palmdale, California",
    "source": {
     "domain": null,
-    "text": "AARO Historical Record Report Volume I, March 2024",
+    "text": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "Lockheed Martin's Advanced Development Programs organisation operates at Palmdale; AARO cites its aircraft as sources of UAP misidentification.",
-   "tier": 1
+   "tier": 2
   },
   "c-684de782d3": {
    "id": "c-684de782d3",
@@ -178,6 +255,18 @@
     "text": "GAO/NSIAD-86-191, 7 August 1986; and GAO accession 130581, footnote",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-86-191",
+     "locator": "7 August 1986",
+     "title": "GAO/NSIAD-86-191"
+    },
+    {
+     "id": "gao-accession-130581",
+     "locator": "footnote",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "The companion report names 'the Lockheed/Burbank plant', which the testimony itself does not. The testimony carries a footnote explaining why: 'As part of DOD granting us access to the special access program to respond your request, we agreed not to identify the nature of the program or the specific DOD component or military service involved.'",
    "tier": 1
   },
@@ -191,6 +280,13 @@
     "text": "WikiLeaks, The Podesta Emails, email id 3099, released 10 October 2016, https://wikileaks.org/podesta-emails/emailid/3099",
     "url": "https://wikileaks.org/podesta-emails/emailid/3099"
    },
+   "sourceRefs": [
+    {
+     "id": "n-podesta-delonge-mccasland-email-2016",
+     "locator": null,
+     "title": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+    }
+   ],
    "text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
    "tier": 1
   },
@@ -204,6 +300,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "Special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', following a 1965 DoD decision that special access programs 'would be excluded from supervision by the Defense Investigative Service'.",
    "tier": 1
   },
@@ -217,6 +320,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "Lockheed Martin is the largest single recipient of Department of Defense prime contract obligations; USAspending recipient records for Lockheed Martin entities total in the hundreds of billions of dollars since FY2008.",
    "tier": 1
   },
@@ -230,6 +340,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "GAO states the exclusion as a standing policy decision: 'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
    "tier": 1
   },
@@ -243,6 +360,7 @@
     "text": "Board inference from the documented RQ-170 and F-117 concealment records",
     "url": null
    },
+   "sourceRefs": [],
    "text": "An organisation with demonstrated capability to fly unacknowledged hardware for years is the natural custodian for material whose existence the government intends to deny. Reasoning: capability and precedent, not a document tying Skunk Works to recovered material.",
    "tier": 3
   },
@@ -256,6 +374,13 @@
     "text": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed'",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b004b0cb",
+     "locator": null,
+     "title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+    }
+   ],
    "text": "Lockheed's Advanced Development Projects designed and flew the U-2, A-12/SR-71 and F-117 under security regimes in which the aircraft's existence was officially denied while operational.",
    "tier": 1
   },
@@ -269,6 +394,13 @@
     "text": "George Knapp, sworn testimony, 9 September 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-119hhrg61718",
+     "locator": "sworn testimony of George Knapp",
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+    }
+   ],
    "text": "Asked to name corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do.'",
    "tier": 2
   },
@@ -282,6 +414,13 @@
     "text": "AARO, Historical Record Report Volume I, March 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
    "tier": 1
   },
@@ -295,6 +434,13 @@
     "text": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "chrg-119hhrg61718",
+     "locator": "9 September 2025",
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+    }
+   ],
    "text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
    "tier": 2
   },
@@ -308,6 +454,13 @@
     "text": "Ben R. Rich and Leo Janos, 'Skunk Works' (1994)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b004b0cb",
+     "locator": null,
+     "title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+    }
+   ],
    "text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
    "tier": 1
   },
@@ -321,6 +474,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "The unaccounted-for total is 11, not 17 or 46: 'Lockheed's reported results --which we have not yet had the opportunity to verify-- are that 224 documents were later accounted for, and 11 were unresolved ... Lockheed says 7 of the 11 unresolved documents were inadvertently destroyed and it could not locate the other 4.' The 46 destroyed and the 17 transferred out of the company are dispositions within the 224 accounted for.",
    "tier": 1
   },
@@ -334,6 +494,18 @@
     "text": "WikiLeaks, The Podesta Emails, email ids 51979 and 9501, https://wikileaks.org/podesta-emails/emailid/51979 ; https://wikileaks.org/podesta-emails/emailid/9501",
     "url": "https://wikileaks.org/podesta-emails/emailid/51979"
    },
+   "sourceRefs": [
+    {
+     "id": "u-wikileaks-org-7dbd6b9a",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, email id 51979, 'Re: Invitation: DeLonge/Podesta Meeting'"
+    },
+    {
+     "id": "u-wikileaks-org-b1626ac7",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, email id 9501, same thread"
+    }
+   ],
    "text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and neilmcc79@gmail.com, who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to t.delonge@me.com, mfisher@hillaryclinton.com, rob.f.weiss@lmco.com and carey.mjd@gmail.com. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
    "tier": 1
   },
@@ -347,6 +519,13 @@
     "text": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Little, Brown, 1994)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b004b0cb",
+     "locator": null,
+     "title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+    }
+   ],
    "text": "Rich directed Lockheed's Advanced Development Projects from 1975 to 1991 and published a memoir describing how unacknowledged black programs were compartmented, staffed and funded at Burbank and Palmdale.",
    "tier": 1
   },
@@ -360,6 +539,13 @@
     "text": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2",
     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-e46db01f",
+     "locator": null,
+     "title": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2"
+    }
+   ],
    "text": "He found the site personally and on a dated flight: 'On 12 April 1955 Richard Bissell and Col. Osmund Ritland (the senior Air Force officer on the project staff) flew over Nevada with Kelly Johnson in a small Beechcraft plane piloted by Lockheed's chief test pilot, Tony LeVier. They spotted what appeared to be an airstrip by a salt flat known as Groom Lake, near the northeast corner of the Atomic Energy Commission's (AEC) Nevada Proving Ground.'",
    "tier": 1
   },
@@ -373,6 +559,13 @@
     "text": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "'AARO found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.'",
    "tier": 1
   },
@@ -386,6 +579,7 @@
     "text": "Secondhand recollections circulated by attendees of a 1993 UCLA alumni talk; no archival primary source located",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Rich is alleged to have stated in 1993 that the means to travel among the stars already exist inside black programs. The board grades this tier 3: the reasoning is that multiple independent attendees have recounted variants of the remark over three decades, but no primary artifact - recording, transcript, or letter - has been produced.",
    "tier": 3
   },
@@ -396,11 +590,18 @@
    "nodeLabel": "Lockheed Martin Advanced Development Programs (Skunk Works)",
    "source": {
     "domain": null,
-    "text": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics",
+    "text": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "Section on classified aeronautics",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the RQ-170 Sentinel and the DarkStar; AARO cites these programs as sources of UAP misidentification.",
-   "tier": 1
+   "tier": 2
   },
   "c-f38164a34b": {
    "id": "c-f38164a34b",
@@ -412,6 +613,13 @@
     "text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-accession-130581",
+     "locator": "statement of Martin M. Ferber, 24 July 1986",
+     "title": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+    }
+   ],
    "text": "The testimony closes: 'In summary, it appears inconsistent to us to establish a special access program because of security considerations and then afford it less document protection than normal classified programs.'",
    "tier": 1
   },
@@ -425,6 +633,13 @@
     "text": "AARO Historical Record Report Volume 1, pp.34-35",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "pp.34-35",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO states the program was never approved or stood up and that the material it was intended to protect 'was only assumed to exist'.",
    "tier": 1
   },

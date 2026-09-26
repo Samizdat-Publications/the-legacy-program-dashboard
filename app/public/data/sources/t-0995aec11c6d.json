@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-755754e2e6",
+"locator": null,
+"node": "uyrange-hollanda",
+"nodeLabel": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+"sourceText": "Fernando Rodrigues, 'SNI investigou óvnis durante a ditadura', Folha de S. Paulo, 11 January 2009, pp. A10-A11",
+"text": "Operação Prato was executed jointly by the Brazilian Air Force and the National Information Service (SNI), the dictatorship's intelligence agency; Folha de S. Paulo reported in January 2009 that 'SNI investigou óvnis durante a ditadura'.",
+"tier": 2
+}
+],
+"date": "2009-01-11",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "t-0995aec11c6d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Folha de S. Paulo",
+"listedOn": [],
+"node": null,
+"title": "SNI investigou óvnis durante a ditadura",
+"topics": [],
+"type": "article",
+"urls": []
+}

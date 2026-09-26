@@ -7,20 +7,38 @@
 {
 "id": "c-2874240153",
 "source": "Progress in Aerospace Sciences / Crossref record",
+"sources": [],
 "text": "The paper is Progress in Aerospace Sciences 128 (2022) article 100788, DOI 10.1016/j.paerosci.2021.100788, authored by Nolan, Vallee, Jiang and Lemke.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:paper-nolan-vallee-2022) was rejected in review: vague 'Crossref record'; paper not identified"
 },
 {
 "id": "c-a05bfe2b83",
 "source": "Sol Foundation Policy Briefing No. 3, April 2026",
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": null,
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "The analysis found no anomalous isotopic values but incomplete mixing of the metals in the once-molten mass, indicating an industrial process of unknown origin.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-54e8823326",
 "source": "Sol Foundation Policy Briefing No. 3, April 2026, summarising the paper",
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": "summarising the paper",
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "Meteorite, satellite/spacecraft debris, aircraft debris, dumped molten metal and thermite hypotheses were each examined and ruled out on physical grounds; the thermite exclusion rests on the absence of aluminium oxide in the SIMS diatomic analysis.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

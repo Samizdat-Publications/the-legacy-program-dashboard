@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "judicial-watch",
+"label": "Judicial Watch"
+},
+"claimTier": 2,
+"id": "e-d0c9d60aa6",
+"label": "May 2026 On Watch interview restating the concealment allegation",
+"note": "Interviewed by Chris Farrell for Judicial Watch's On Watch on 5 May 2026, restating that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed recovery and reverse-engineering programs. It is the immediate precursor to the June 2026 Capitol press conference.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-judicialwatch-org-91e14597",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "judicialwatch.org",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-bio",
+"label": "Biology & Non-Human Biologics"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "institution",
+"id": "judicial-watch",
+"label": "Judicial Watch"
+}
+],
+"node": null,
+"title": "Judicial Watch - UAP Whistleblower David Grusch on Non-human Biologics and Craft",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.judicialwatch.org/videos/uap-whistleblower-david-grusch-on-non-human-biologics-craft/"
+]
+}

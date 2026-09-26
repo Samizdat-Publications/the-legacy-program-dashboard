@@ -8,20 +8,38 @@
 {
 "id": "c-16a1f0f836",
 "source": "pogo.org/about",
+"sources": [
+{
+"id": "u-pogo-org-1e970cf2",
+"locator": null,
+"title": "Project On Government Oversight - About (official)"
+}
+],
 "text": "POGO is a nonpartisan independent watchdog founded in 1981, initially as a Pentagon watchdog, later expanded to monitor the entire federal government; it self-describes its mission as investigating and exposing systemic corruption, abuse of power and waste.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0609158738",
 "source": "pogo.org/about",
+"sources": [
+{
+"id": "u-pogo-org-1e970cf2",
+"locator": null,
+"title": "Project On Government Oversight - About (official)"
+}
+],
 "text": "POGO is donor-funded, publishes audited financials and holds four-star Charity Navigator, CharityWatch and Candid Platinum transparency ratings; it produces investigative reports, policy recommendations and congressional testimony, and maintains published whistleblower resources.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3dc1af9413",
 "source": "Inference from pogo.org/about",
+"sources": [],
 "text": "POGO's structural position - contractor-independent funding, a documented whistleblower intake and a direct line into congressional investigative staff - makes it a viable off-ramp for insiders bound by programme non-disclosure agreements who will not use the DoD internal channels. Reasoning: from its documented function, not from any specific UAP disclosure attributed to it here.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

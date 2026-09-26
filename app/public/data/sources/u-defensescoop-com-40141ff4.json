@@ -1,0 +1,241 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-796ef66e8f",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"text": "The FY2026 NDAA's UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-5cd6875836",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "DefenseScoop, 10 December 2025",
+"text": "The FY2026 NDAA requires AARO to account for the UAP-related security classification guides used in its reports and investigations.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-a3af507a59",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "DefenseScoop, 10 December 2025, on the FY2026 NDAA UAP provisions",
+"text": "The FY2026 NDAA requires AARO to brief Congress on UAP intercepts by NORAD and USNORTHCOM since 2004, including number, location, nature, procedures, protocols and data collected.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d7fe4abe31",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "DefenseScoop, 10 December 2025",
+"text": "The FY2026 NDAA streamlines federal agency data sharing with the Pentagon for AARO investigations and eliminates duplicative reporting requirements.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-4b9514f954",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "DefenseScoop, 10 December 2025",
+"text": "The FY2026 NDAA requires AARO to brief lawmakers on UAP intercepts by NORAD and U.S. Northern Command dating back to 2004, including 'the number, location, and nature' of intercepts and 'data collected or analyzed during such intercepts.'",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-6159d8065a",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"text": "A second provision requires AARO to account for UAP-related security classification guides affecting 'reports and investigations of such phenomena'; a third eliminates duplicative reporting requirements and streamlines agency data-sharing with AARO.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-7a8d86cc1d",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "DefenseScoop, 10 December 2025",
+"text": "Disclosure Foundation executive director Jordan Flowers called the provisions 'a meaningful, if incremental, step toward transparency and oversight,' noting two mirror recommendations championed by Christopher Mellon.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-810e80b7c3",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"text": "The provisions reflect recommendations from Christopher Mellon and the Disclosure Foundation.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-a8eb90db00",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "DefenseScoop, 10 December 2025",
+"text": "AARO must account for 'UAP-related security classification guides' used in reports and investigations, addressing overclassification and improper restrictions on releasing imagery or data.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-b183342e46",
+"locator": null,
+"node": "ndaa26-uap-provisions",
+"nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceText": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"text": "The conferenced FY2026 NDAA requires the AARO Director to brief Congress on operations since 2004 involving UAP intercepts by NORAD and US Northern Command, including the 'number, location, and nature' of intercepts and 'procedures and protocols followed during those operations, including any data collected or analyzed during such intercepts.'",
+"tier": 2
+},
+{
+"cls": "domain",
+"id": "c-30f2e001fa",
+"locator": null,
+"node": "d-signals",
+"nodeLabel": "Signals & Sensor Intelligence",
+"sourceText": "DefenseScoop, 10 December 2025",
+"text": "The FY2026 NDAA cycle included congressional demands for information on military UAP intercepts around North America.",
+"tier": 2
+}
+],
+"date": "2025-12-10",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+"claimTier": 2,
+"id": "e-3e5dd89692",
+"label": "recommendations reflected in statute",
+"note": "The FY2026 NDAA's three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+"claimTier": 2,
+"id": "e-fda7b978fe",
+"label": "Two of the three provisions mirror recommendations he championed",
+"note": "Per Disclosure Foundation executive director Jordan Flowers.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-ce74e0a46c",
+"label": "Directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and account for its classification guides",
+"note": "Congress required AARO to brief on NORAD/USNORTHCOM UAP intercepts since 2004 and to account for the security classification guides it uses - a legislative finding that the office has been withholding and overclassifying.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+"b": {
+"cls": "document",
+"id": "dodig-2023-109",
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+},
+"claimTier": 3,
+"id": "e-04968c55c9",
+"label": "the data-sharing streamlining provision answers the IG's 2023 reporting-requirement finding",
+"note": "The IG found components were not required to report to AARO; two years later Congress legislated to streamline agency data sharing into AARO investigations.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+"b": {
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"claimTier": 2,
+"id": "e-6f55bf24d3",
+"label": "demands an intercept history since 2004",
+"note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
+"type": "legislative"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-40141ff4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+},
+{
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+}
+],
+"node": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions",
+"topics": [
+{
+"claims": [
+"c-7a8d86cc1d"
+],
+"id": "uap-statutes",
+"title": "UAP law in the NDAAs and IAAs, 2021-2026"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/"
+]
+}

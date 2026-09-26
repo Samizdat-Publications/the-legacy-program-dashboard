@@ -8,32 +8,54 @@
 {
 "id": "c-c853319dd3",
 "source": "House Oversight Committee hearing pages and GPO hearing transcripts",
+"sources": [],
 "text": "The House Oversight Committee held UAP hearings on 26 July 2023, 13 November 2024 and 9 September 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Aggregate reference across three separate hearings, no single match."
 },
 {
 "id": "c-f48f388eef",
 "source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "ODNI published the Preliminary Assessment: Unidentified Aerial Phenomena on 25 June 2021.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f5b1158cf6",
 "source": "ICIG determination letter, 26 July 2022",
+"sources": [
+{
+"id": "t-922f05fc06f7",
+"locator": null,
+"title": "ICIG determination letter"
+}
+],
 "text": "The Intelligence Community Inspector General found David Grusch's complaint credible and urgent on 26 July 2022.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-288c25ec1d",
 "source": "Inference from the documented locus of the UAP Disclosure Act edits, the FOIA denials and the AARO reporting chain",
+"sources": [],
 "text": "The concealment is administrative rather than geographic: the instruments that maintain it - classification decisions, contract vehicles, FOIA exemptions, conference-committee edits - are all executed in this city by identifiable officeholders. Reasoning: every documented act of restriction in the modern record traces to a Washington signature, not to a field site.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-b90b4da1c5",
 "source": "Inference from reference counts in the research corpus",
+"sources": [],
 "text": "l-washington-dc and l-dc denote the same location and should be merged, with l-dc retained as canonical on volume of inbound references (142 versus 2). Reasoning: reference counts across the wave-1 corpus.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

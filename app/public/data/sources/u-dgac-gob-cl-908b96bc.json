@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c1687693b3",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/",
+"text": "As of October 2018 CEFAA comprised 'su Director, Hugo Camus Palacios y dos investigadores', supported by an external research committee of astronomers, geographers, physicists, psychologists, a nuclear chemist, aerospace medicine professionals, air traffic controllers, a meteorologist, aeronautical investigators, inspector pilots, aeronautical engineers, image analysts and armed forces representatives.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-dgac-gob-cl-908b96bc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DGAC Chile",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+}
+],
+"node": null,
+"title": "https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/",
+"topics": [
+{
+"claims": [
+"c-c1687693b3"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/"
+]
+}

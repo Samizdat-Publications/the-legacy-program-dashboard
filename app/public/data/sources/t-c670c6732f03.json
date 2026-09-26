@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-91e550252c",
+"locator": null,
+"node": "mit-lincoln-laboratory",
+"nodeLabel": "MIT Lincoln Laboratory",
+"sourceText": "The Hill/NewsNation, 16 May 2026",
+"text": "Founded in 1951 to build the SAGE air defense network; one of the oldest FFRDCs, a class of contractor with access to classified and proprietary information that for-profit contractors are legally barred from seeing.",
+"tier": 1
+}
+],
+"date": "2026-05-16",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-c670c6732f03",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill/NewsNation",
+"listedOn": [],
+"node": null,
+"title": "The Hill/NewsNation, 16 May 2026",
+"topics": [
+{
+"claims": [
+"c-91e550252c"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
+"type": "article",
+"urls": []
+}

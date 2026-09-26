@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-vault-fbi-gov-5a044b90",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FBI",
+"listedOn": [
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+}
+],
+"node": null,
+"title": "https://vault.fbi.gov/hottel_guy",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://vault.fbi.gov/hottel_guy"
+]
+}

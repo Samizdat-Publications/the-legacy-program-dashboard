@@ -10,38 +10,86 @@
 {
 "id": "c-d01d74d7e7",
 "source": "WikiLeaks, The Podesta Emails, email id 30433, 'Fwd: Leslie Kean book - DSP program', https://wikileaks.org/podesta-emails/emailid/30433",
+"sources": [
+{
+"id": "u-wikileaks-org-e06360a0",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 30433"
+}
+],
 "text": "In an email forwarded by Podesta to Leslie Kean on 6 March 2015 under the subject 'Leslie Kean book - DSP program', Bob Fish wrote: 'One of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2dc8e333e0",
 "source": "WikiLeaks, The Podesta Emails, email id 30433, https://wikileaks.org/podesta-emails/emailid/30433",
+"sources": [
+{
+"id": "u-wikileaks-org-e06360a0",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 30433"
+}
+],
 "text": "In the same email Fish qualifies the claim: 'While I was never fully briefed into the DSP operation directly, I was introduced to them as the US prepared for Operation Desert Shield and Desert Storm', and the Fastwalker detection he relays is a remark made to him at lunch by a member of that group.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1c02c52a8c",
 "source": "WikiLeaks, The Podesta Emails, email id 18724, 'Re: Leslie Kean book comment', https://wikileaks.org/podesta-emails/emailid/18724",
+"sources": [
+{
+"id": "u-wikileaks-org-d020b83a",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 18724"
+}
+],
 "text": "Podesta's own reply to Fish the previous day was declining and non-committal in full: 'Thx for the note. Hard for me follow up at this moment but I will keep your contact information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9c6827d11b",
 "source": "WikiLeaks, The Podesta Emails, email id 31721, 'Leslie Kean book - Blue Book', https://wikileaks.org/podesta-emails/emailid/31721",
+"sources": [
+{
+"id": "u-wikileaks-org-5457b3e1",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, email id 31721"
+}
+],
 "text": "In a separate email of 6 March 2015 Fish relays a claim that Project Blue Book continued after 1970, concluding 'if true, Blue Book was not disbanded - only the outer layer of the onion (the \"public information layer) was stripped away in 1970.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-620bfc4cf6",
 "source": "WikiLeaks, The Podesta Emails, corpus search for 'Bob Fish', https://wikileaks.org/podesta-emails/?q=%22Bob+Fish%22",
+"sources": [
+{
+"id": "u-wikileaks-org-61857e62",
+"locator": null,
+"title": "WikiLeaks, The Podesta Emails, corpus search for 'Bob Fish'"
+}
+],
 "text": "The exchange runs to six emails between 5 and 7 March 2015, ids 54211, 47433, 36957, 31721, 30433 and 18724, and no speed figure and no date in the 1980s appears in any of the three opened in full.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-658c25f287",
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md",
+"sources": [
+{
+"id": "t-175dc4f8f6d3",
+"locator": "0:52:23",
+"title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:52:23, the guest who identifies himself only as UAP Gerb cited the Fish and Podesta emails for the claim that the Defense Support Program tracked UFOs in the 1980s at 22,000 mph. The three emails opened in full carry no speed figure and no date in the 1980s: Fish dates the episode to the run-up to Desert Shield and Desert Storm and writes in March 2015 that it is now 24 years later, which puts it in 1990 or 1991, and he says of himself that he was never fully briefed into the DSP operation directly.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

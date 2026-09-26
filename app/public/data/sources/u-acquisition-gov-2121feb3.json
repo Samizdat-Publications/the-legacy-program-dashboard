@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"b": {
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"claimTier": 3,
+"id": "e-4c464af296",
+"label": "Contractor records are outside the statute",
+"note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 1,
+"id": "e-cb35a5f80f",
+"label": "The seam between government and industry",
+"note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-acquisition-gov-2121feb3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "acquisition.gov",
+"listedOn": [],
+"node": null,
+"title": "FAR 35.017, Federally Funded Research and Development Centers",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.acquisition.gov/far/35.017"
+]
+}

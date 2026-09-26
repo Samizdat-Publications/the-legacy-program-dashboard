@@ -1,0 +1,245 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"b": {
+"cls": "location",
+"id": "l-roswell",
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County"
+},
+"claimTier": 1,
+"id": "e-481ec79a14",
+"label": "GAO found the relevant RAAF records destroyed with no recorded authority",
+"note": "RAAF administrative records March 1945-December 1949 and outgoing messages October 1946-December 1949 were destroyed; the disposition form records neither who destroyed them nor under what authority.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-history",
+"label": "Historiography"
+},
+"b": {
+"cls": "domain",
+"id": "d-records",
+"label": "Records & Archives"
+},
+"claimTier": 1,
+"id": "e-98cb27a26b",
+"label": "The corpus is what survives the records fight",
+"note": "Almost every primary document in this field arrived through FOIA or archival release; historiography here is downstream of records law.",
+"type": "research"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-recovery",
+"label": "Retrieval & Recovery Operations"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 2,
+"id": "e-72773b3fd6",
+"label": "Site to container to shelf",
+"note": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+"b": {
+"cls": "location",
+"id": "l-fort-worth-tx",
+"label": "Fort Worth, Texas"
+},
+"claimTier": 1,
+"id": "e-7f8bdd03ff",
+"label": "Where the disc became a balloon",
+"note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+"b": {
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+"claimTier": 1,
+"id": "e-b22231a57f",
+"label": "Four official explanations for one event",
+"note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+"b": {
+"cls": "domain",
+"id": "d-recovery",
+"label": "Retrieval & Recovery Operations"
+},
+"claimTier": 1,
+"id": "e-55e8c88416",
+"label": "The founding case of the retrieval strand",
+"note": "Roswell is the origin of the crash-retrieval literature and the case against which every later retrieval claim is measured.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "steven-schiff",
+"label": "Steven H. Schiff"
+},
+"b": {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"claimTier": 1,
+"id": "e-9a707bbfad",
+"label": "Schiff tasked GAO after DoD refused to answer him",
+"note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"b": {
+"cls": "domain",
+"id": "d-records",
+"label": "Records & Archives"
+},
+"claimTier": 1,
+"id": "e-001786d34d",
+"label": "Record destruction as concealment",
+"note": "GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"b": {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"claimTier": 1,
+"id": "e-b4b15b96fc",
+"label": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
+"note": "The Clinton White House Roswell file (2006-0476-F) contains the July 1995 GAO report; the unclassified records audit is what the White House ended up holding.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-17fa4be0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "institution",
+"id": "caus",
+"label": "Citizens Against UFO Secrecy (CAUS)"
+},
+{
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)"
+},
+{
+"cls": "location",
+"id": "l-fort-worth-tx",
+"label": "Fort Worth, Texas"
+},
+{
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+{
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+{
+"cls": "person",
+"id": "peter-gersten",
+"label": "Peter A. Gersten"
+},
+{
+"cls": "location",
+"id": "l-san-agustin",
+"label": "Plains of San Agustin, New Mexico"
+},
+{
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+{
+"cls": "domain",
+"id": "d-records",
+"label": "Records & Archives"
+},
+{
+"cls": "domain",
+"id": "d-recovery",
+"label": "Retrieval & Recovery Operations"
+},
+{
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+{
+"cls": "person",
+"id": "steven-schiff",
+"label": "Steven H. Schiff"
+},
+{
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+{
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+}
+],
+"node": null,
+"title": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+]
+}

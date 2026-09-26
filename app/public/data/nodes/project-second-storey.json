@@ -7,26 +7,52 @@
 {
 "id": "c-fe06d11ebb",
 "source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": null,
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "'The committee held six meetings from 1952 to 1954 and concluded that UFOs neither posed a security threat, nor were of scientific interest. It recommended ending all investigations by the Canadian military.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-adeac6ea5b",
 "source": "Sky Canada Project report, June 2025",
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": null,
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "'The Committee was chaired by the National Research Council of Canada (NRC) astronomer Dr. Peter Millman; it included members from various arms of the Canadian military intelligence and other government agencies. The committee did not investigate UFO sightings, but it developed a standardized form.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dc05697ca7",
 "source": "Library and Archives Canada, 'Canada's UFOs' exhibition, 1952 Project Second Story document page",
+"sources": [
+{
+"id": "u-collectionscanada-ca-5bbb1d52",
+"locator": null,
+"title": "LAC - Project Second Story minutes document page"
+}
+],
 "text": "LAC archival citation for Project Second Story minutes: 'RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c93cc1f939",
 "source": "Library and Archives Canada exhibition, Project Magnet / Second Story page",
+"sources": [],
 "text": "Smith explained that most UFO sightings fit into two general types: 'those about which we know something, and those which we know very little.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:collectionscanada.ca/ufo/002029-1801-e.html) was rejected in review: ambiguous: names Magnet and Second Story pages; several candidates"
 }
 ],
 "cls": "program",

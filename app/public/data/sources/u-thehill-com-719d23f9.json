@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "the-hill",
+"label": "The Hill"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-f1a404a306",
+"label": "placement aimed at the congressional audience rather than original investigation",
+"note": "The Hill is read by congressional staff and has carried sustained UAP coverage and opinion aimed at that readership - the January 2024 classified briefing, the fight over the UAP amendment's inclusion in the FY2024 defence bill, and continuing coverage of Grusch. Graded Tier 2 because the sourced record shows placement and coverage, not original documentary investigation.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-hill",
+"label": "The Hill"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 2,
+"id": "e-89459c7a77",
+"label": "Reported the fight over the UAP amendment in the FY2024 defence bill",
+"note": "The Hill covered House members demanding transparency from leadership over whether the UAP Disclosure Act amendment would be retained in the FY2024 National Defense Authorization Act. The article page could not be retrieved directly (the site blocked automated fetch), so this edge rests on the indexed headline and URL rather than a verified full text; date left null for that reason.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"claimTier": 1,
+"id": "e-02fa2f1796",
+"label": "the chamber where the text was stripped in 2023 and where a successor passed in 2026",
+"note": "The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thehill-com-719d23f9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [],
+"node": null,
+"title": "The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill'",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/"
+]
+}

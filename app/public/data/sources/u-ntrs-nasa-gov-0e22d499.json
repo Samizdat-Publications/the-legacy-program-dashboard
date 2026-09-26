@@ -1,0 +1,183 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8cf2251854",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-81fc6eae00",
+"locator": null,
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"sourceText": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-41eb815ccd",
+"locator": null,
+"node": "l-columbus-oh",
+"nodeLabel": "Columbus, Ohio",
+"sourceText": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8eecca4508",
+"locator": null,
+"node": "naval-ordnance-laboratory",
+"nodeLabel": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"sourceText": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972, Chapter 1, p. 1. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"text": "NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-eb0fb0ce48",
+"locator": null,
+"node": "naval-ordnance-laboratory",
+"nodeLabel": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"sourceText": "NASA SP-5110, references 12 and 74, and Acknowledgments, p. iv. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"text": "The earliest Naval Ordnance Laboratory nitinol report cited anywhere in SP-5110's reference list is NOLTR 61-75 (AD 266607), Buehler and Wiley, 'The Properties of TiNi and Associated Phases', U.S. Naval Ordnance Laboratory, 3 August 1961. The report's own acknowledgments state that 'All the information in the report covers the period from 1955 to March 31, 1970.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-254500d618",
+"locator": null,
+"node": "gerb-battelle-investigation",
+"nodeLabel": "UAP Gerb - Battelle Memorial Institute investigation",
+"sourceText": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "naval-ordnance-laboratory",
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-46d2736566",
+"label": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
+"note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "naval-ordnance-laboratory",
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-4a2d971b55",
+"label": "NASA commissioned both federal reports that date and attribute the alloy",
+"note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "naval-ordnance-laboratory",
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)"
+},
+"b": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"claimTier": 1,
+"id": "e-4c244605ad",
+"label": "A Navy laboratory; the 55-Nitinol patent is assigned to the Secretary of the Navy",
+"note": "The Naval Ordnance Laboratory was a Navy laboratory; the 55-Nitinol patent is assigned to the United States as represented by the Secretary of the Navy.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-ntrs-nasa-gov-0e22d499",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+{
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio"
+},
+{
+"cls": "institution",
+"id": "naval-ordnance-laboratory",
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)"
+},
+{
+"cls": "document",
+"id": "gerb-battelle-investigation",
+"label": "UAP Gerb - Battelle Memorial Institute investigation"
+}
+],
+"node": null,
+"title": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972",
+"topics": [
+{
+"claims": [
+"c-81fc6eae00",
+"c-8eecca4508",
+"c-eb0fb0ce48"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+},
+{
+"claims": [
+"c-8cf2251854"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+},
+{
+"claims": [
+"c-81fc6eae00"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "document",
+"urls": [
+"https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+]
+}

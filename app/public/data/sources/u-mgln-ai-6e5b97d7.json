@@ -1,0 +1,74 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-297d456fa3",
+"locator": null,
+"node": "david-spergel",
+"nodeLabel": "David N. Spergel",
+"sourceText": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:15:15 and 0:16:09, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
+"text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:15:15, Michels said a Wall Street Journal journalist he names only as Lena told him that Spergel 'is their de facto advisor on UFOs' and that on his account the objects are all space trash, light reflections and temperature inversions. Michels retold the same anecdote to Ross Coulthart on 21 June 2025 at 0:43:31 and to Richard Dolan on 28 June 2025 at 1:42:04. All three are the same speaker relaying the same unnamed journalist, not three independent sources, and Michels says in the first telling 'I have no smoking gun'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d424a46df7",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:00:49, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
+"text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:00:49, Michels said Gough was one of the primary sources of the Wall Street Journal article on Pentagon disinformation and UFO mythology, and alleged that her own LinkedIn profile 'along with independent sources' confirms a lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense, her self-professed skills including strategic communication and psychological operations. The allegation rests on the speaker's reading of a profile page. No employment record was opened in this pass and nothing in the board's files corroborates it.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-6e5b97d7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs' (episode audio)",
+"topics": [
+{
+"claims": [
+"c-d424a46df7"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-297d456fa3"
+],
+"id": "nasa-uap-study",
+"title": "NASA's UAP independent study, 2022-23"
+},
+{
+"claims": [
+"c-d424a46df7"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332"
+]
+}

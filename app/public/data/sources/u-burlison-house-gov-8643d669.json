@@ -1,0 +1,174 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-110a5af891",
+"locator": null,
+"node": "aaron-lukas",
+"nodeLabel": "Aaron Lukas",
+"sourceText": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"text": "Burlison identified Lukas and ODNI as the source of the implementation guidance he had called for publicly on 29 July 2026.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9e907dd7f1",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"text": "'I strongly recommend that, in addition to an attorney, you request that either I or another member of Congress be present with you.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b7aa699203",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"text": "'if you are a current or former government employee or contractor interested in taking advantage of this directive, I am offering my office's assistance in contacting and getting your information to any agency.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-ca4fa52641",
+"locator": null,
+"node": "pursue-task-force",
+"nodeLabel": "PURSUE Task Force",
+"sourceText": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"text": "Burlison: 'Independent congressional oversight is a critical part of UAP disclosure, and we are uncertain whether the abrogation of NDAs will apply to testimony received by Congress before referral to the executive branch.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"claimTier": 1,
+"id": "e-ab3e841c6f",
+"label": "obtained and published",
+"note": "Burlison published the memorandum on 1 August 2026 after calling publicly on 29 July for ODNI to issue implementation guidance.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"claimTier": 1,
+"id": "e-605264769b",
+"label": "Offers his office as a disclosure channel with counsel and congressional presence",
+"note": "Burlison - whose Special Advisor is Grusch - recommends that anyone using the NDA waiver request congressional presence alongside legal counsel. That recommendation is a direct read-through of what happened to the last person who used executive channels alone.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-e086d2008f",
+"label": "The waiver reproduces the channel that failed Grusch",
+"note": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 3,
+"id": "e-ab47414775",
+"label": "the executive channel that competes with the congressional one",
+"note": "Burlison warned that it is uncertain whether the NDA abrogation applies to testimony given to Congress before referral to the executive branch - a witness routed to PURSUE may be routed away from a hearing room.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-burlison-house-gov-8643d669",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "person",
+"id": "aaron-lukas",
+"label": "Aaron Lukas"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+{
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+}
+],
+"node": null,
+"title": "Burlison statement on the UAP NDA directive",
+"topics": [
+{
+"claims": [
+"c-9e907dd7f1",
+"c-b7aa699203"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-ca4fa52641"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-ca4fa52641"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+]
+}

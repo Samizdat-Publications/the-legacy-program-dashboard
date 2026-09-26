@@ -1,0 +1,525 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f49783d6f8",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
+"text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3ba40ace44",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "Kean and Blumenthal, The Debrief, 5 June 2023",
+"text": "Recoveries 'of partial fragments through and up to intact vehicles have been made for decades through the present day by the government, its allies, and defense contractors.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0903921692",
+"locator": null,
+"node": "karl-nell",
+"nodeLabel": "Karl E. Nell",
+"sourceText": "Karl Nell, on the record, The Debrief, 5 June 2023",
+"text": "Grusch's assertion of an eighty-year sub rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and at least some of those technologies derive from non-human intelligence.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e04c85dc04",
+"locator": "Nell's on-record statement",
+"node": "karl-nell",
+"nodeLabel": "Karl E. Nell",
+"sourceText": "Karl Nell to Leslie Kean and Ralph Blumenthal, The Debrief, 5 June 2023",
+"text": "'Beyond reproach' - Nell's on-record characterization of Grusch.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9af44d8d5a",
+"locator": null,
+"node": "leslie-kean",
+"nodeLabel": "Leslie Kean",
+"sourceText": "The Debrief, 5 June 2023, bylined Leslie Kean and Ralph Blumenthal",
+"text": "Co-authored the 5 June 2023 Debrief article reporting Grusch's allegations, with on-record corroboration from Karl Nell, Christopher Mellon and the NASIC officer using the name Jonathan Grey.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-33570aa664",
+"locator": null,
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceText": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "Grusch, quoted in The Debrief on 5 June 2023: 'Individuals on these UAP programs approached me in my official capacity and disclosed their concerns regarding a multitude of wrongdoings, such as illegal contracting against the Federal Acquisition Regulations and other criminality and the suppression of information across a qualified industrial base and academia.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-a7877a98a7",
+"locator": null,
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceText": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "Charles McCullough III filed a Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf with the Intelligence Community Inspector General in May 2022.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-bddf3d9130",
+"locator": null,
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceText": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "The Intelligence Community Inspector General found the complaint 'credible and urgent' in July 2022.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-ddd10ee462",
+"locator": null,
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceText": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "The named mechanism in the allegation is procurement rather than appropriation: 'illegal contracting against the Federal Acquisition Regulations' describes government money reaching a contractor under an instrument that does not comply with the rules determining what the government gets for it - which is the precise legal condition under which recovered material could sit in private custody while having been paid for with federal funds. Reasoning: the FAR governs data rights, property title and cost allowability; contracting outside it is how title would fail to pass.",
+"tier": 3
+}
+],
+"date": "2023",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jonathan-grey",
+"label": "\"Jonathan Grey\" (pseudonym)"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-2b4e5fc9d0",
+"label": "Serving NASIC officer corroborates on the record under pseudonym",
+"note": "'The non-human intelligence phenomenon is real. We are not alone.' A currently serving Top Secret-cleared NASIC officer would corroborate but would not attach a name - itself evidence about the environment at Wright-Patterson.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jonathan-grey",
+"label": "\"Jonathan Grey\" (pseudonym)"
+},
+"b": {
+"cls": "institution",
+"id": "nasic",
+"label": "National Air and Space Intelligence Center"
+},
+"claimTier": 2,
+"id": "e-964d016ed7",
+"label": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
+"note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-aa4024d535",
+"label": "Corroborates the existence of a class of well-placed sources; facilitated congressional briefings",
+"note": "Grusch referred roughly 40 witnesses to the ICIG; Mellon independently states well-placed officials shared detailed information with him and has facilitated classified congressional briefings. Reasoning: the two streams are described separately in the same article, and no document establishes overlap - but they converge on the same committees.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2023",
+"label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO"
+},
+"claimTier": 2,
+"id": "e-3e4c215ab8",
+"label": "Helped draft the UAP whistleblower protection language",
+"note": "The Debrief reports Grusch helped draft the UAP language in the FY2023 NDAA, signed December 2022, which permits authorized UAP disclosures without retaliation regardless of prior nondisclosure agreements - written by the person who would then need it.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+"claimTier": 2,
+"id": "e-8aa865ce68",
+"label": "The named complainant, under oath and under an IG complaint",
+"note": "Grusch filed the ICIG urgent-concern complaint in May 2022 through counsel, was found credible and urgent in July 2022, went on the record in June 2023 and testified under oath on 26 July 2023. Attested by The Debrief reporting and the House Oversight hearing record.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-68c5b48746",
+"label": "First protected disclosure to the DoD Inspector General, July 2021",
+"note": "The Debrief records that Grusch provided classified information to the DoD IG in July 2021 regarding the concealment of UAP-related material from Congress, ten months before the ICIG filing. The reprisal complaint alleges his identity and those communications were later disclosed outside the IG channel.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 3,
+"id": "e-88fa685315",
+"label": "Corroborating NASIC officer sits at the installation at the center of the legacy custody claims",
+"note": "Grusch testified he knows the exact locations of held material and provided them to the Inspector General; the one corroborator whose duty station is public serves at NASIC, Wright-Patterson. Reasoning: the geography is suggestive and no document places Grusch's locations at Wright-Patterson.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "grusch-dopsr-clearance",
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+},
+"b": {
+"cls": "document",
+"id": "debrief-2023-06-05",
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+},
+"claimTier": 1,
+"id": "e-b3c6f6cfaf",
+"label": "Clearance preceded publication by two months",
+"note": "DOPSR approvals of 4 and 6 April 2023 preceded the 5 June 2023 Debrief publication. Kean and Blumenthal confirmed the clearance before publishing, which is why the Pentagon's response contested substantiation rather than authorization.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-769d9ca402",
+"label": "Fourteen months from urgent-concern determination to public testimony",
+"note": "The ICIG found the complaint credible and urgent in July 2022; Grusch testified publicly in July 2023 only after leaving government and clearing his statements through DOPSR. The intervening year is the period the reprisal complaint covers.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+"b": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"claimTier": 1,
+"id": "e-83b775741d",
+"label": "Determined the complaint credible and urgent, July 2022",
+"note": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-mccullough-iii",
+"label": "Irvin Charles McCullough III"
+},
+"b": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"claimTier": 1,
+"id": "e-a0dfc37ff4",
+"label": "Filed the complaint as counsel; former ICIG filing with the ICIG",
+"note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-mccullough-iii",
+"label": "Irvin Charles McCullough III"
+},
+"b": {
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+"claimTier": 2,
+"id": "e-7497b9f92e",
+"label": "Counsel who filed the ICIG disclosure of urgent concern",
+"note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "karl-nell",
+"label": "Karl E. Nell"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-f85b013e3f",
+"label": "On-record corroboration: 'beyond reproach' and the arms race is 'fundamentally correct'",
+"note": "A named retired Army colonel who served as the Army's UAP Task Force liaison affirmed both Grusch's character and the substance of the eighty-year reverse-engineering allegation, in print, on the record, on 5 June 2023. AARO has never addressed this statement by name.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "karl-nell",
+"label": "Karl E. Nell"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 2,
+"id": "e-40af12a2c9",
+"label": "Army liaison to the UAP Task Force, 2021-2022",
+"note": "Nell's Task Force role is what converts his corroboration from opinion into positional testimony: he sat inside the same organization Grusch reported to.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+"b": {
+"cls": "document",
+"id": "debrief-2023-06-05",
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+},
+"claimTier": 1,
+"id": "e-4826b5f3aa",
+"label": "Co-author; vetted Grusch through Nell and the NASIC officer",
+"note": "Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "ralph-blumenthal",
+"label": "Ralph Blumenthal"
+},
+"b": {
+"cls": "document",
+"id": "debrief-2023-06-05",
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+},
+"claimTier": 1,
+"id": "e-7da3a4b393",
+"label": "Co-author",
+"note": "Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+"b": {
+"cls": "program",
+"id": "irad-mechanism",
+"label": "Independent Research and Development (IR&D) as a funding channel"
+},
+"claimTier": 3,
+"id": "e-2c0ac19e10",
+"label": "The allegation of illegal contracting and the statute that names IR&D",
+"note": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
+"type": "funding"
+}
+],
+"era": "3",
+"host": null,
+"id": "n-debrief-2023-06-05",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "jonathan-grey",
+"label": "\"Jonathan Grey\" (pseudonym)"
+},
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "institution",
+"id": "compass-rose-legal-group",
+"label": "Compass Rose Legal Group"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "person",
+"id": "charles-mccullough-iii",
+"label": "Irvin Charles McCullough III"
+},
+{
+"cls": "person",
+"id": "karl-nell",
+"label": "Karl E. Nell"
+},
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+{
+"cls": "institution",
+"id": "nasic",
+"label": "National Air and Space Intelligence Center"
+},
+{
+"cls": "person",
+"id": "ralph-blumenthal",
+"label": "Ralph Blumenthal"
+},
+{
+"cls": "document",
+"id": "debrief-2023-06-05",
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+},
+{
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+{
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+}
+],
+"node": {
+"cls": "document",
+"id": "debrief-2023-06-05",
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+},
+"title": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"topics": [
+{
+"claims": [
+"c-f49783d6f8",
+"c-0903921692",
+"c-e04c85dc04",
+"c-9af44d8d5a",
+"c-33570aa664"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-33570aa664",
+"c-a7877a98a7",
+"c-bddf3d9130",
+"c-ddd10ee462"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-f49783d6f8",
+"c-0903921692"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-0903921692",
+"c-e04c85dc04"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+},
+{
+"claims": [
+"c-33570aa664",
+"c-bddf3d9130"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+},
+{
+"claims": [
+"c-0903921692",
+"c-e04c85dc04"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "document",
+"urls": [
+"https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+]
+}

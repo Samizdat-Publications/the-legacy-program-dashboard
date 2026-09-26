@@ -1,0 +1,81 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 2,
+"id": "e-c78de3ea69",
+"label": "Davis among the interviewees",
+"note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitting Secretary of State and a former Director of National Intelligence.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 2,
+"id": "e-2da46dd783",
+"label": "Puthoff among 34 on-camera interviewees",
+"note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force chief scientist and the Stanford materials analyst.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-8178fdf2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+},
+{
+"cls": "person",
+"id": "travis-taylor",
+"label": "Travis S. Taylor"
+}
+],
+"node": null,
+"title": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+]
+}

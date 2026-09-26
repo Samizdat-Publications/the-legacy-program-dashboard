@@ -7,20 +7,32 @@
 {
 "id": "c-883ef79918",
 "source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"sources": [
+{
+"id": "crs-r44629",
+"locator": null,
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
+}
+],
 "text": "LLNL is a DOE FFRDC administered by Lawrence Livermore National Security, LLC since 1 October 2007 and was funded at approximately $2,188.8 million in FY2024.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5113d6829a",
 "source": "LLNL institutional history",
+"sources": [],
 "text": "Edward Teller was a co-founder of the Livermore laboratory in 1952 and its director from 1958 to 1960.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Generic reference, no specific document or page named."
 },
 {
 "id": "c-9123e4ded9",
 "source": "Structural inference from US classification law",
+"sources": [],
 "text": "Restricted Data classification under the Atomic Energy Act is statutory rather than executive-order-derived, so material in that category is not released by a presidential declassification directive of the kind driving the 2026 PURSUE releases - making the DOE weapons laboratories the most durable remaining shelter for concealed technical work. Reasoning: legal structure of the Atomic Energy Act versus E.O. 13526; no evidence is offered that UAP material is so classified.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: board's own structural inference from classification law, not a source"
 }
 ],
 "cls": "institution",

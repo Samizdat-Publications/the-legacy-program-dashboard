@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7be573d587",
+"locator": "specification head, read off the USPTO image server at",
+"node": "andrija-puharich",
+"nodeLabel": "Andrija (Henry K.) Puharich",
+"sourceText": "US Patent 2,995,633, specification head, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
+"text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, 30 East End Ave., and Joseph L. Lawrence, 570 Fort Washington Ave., both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7be573d587",
+"locator": null,
+"node": "andrija-puharich",
+"nodeLabel": "Andrija (Henry K.) Puharich",
+"sourceText": "US Patent 2,995,633, specification head, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
+"text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, 30 East End Ave., and Joseph L. Lawrence, 570 Fort Washington Ave., both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e50088482a",
+"locator": "columns 1 and 2",
+"node": "andrija-puharich",
+"nodeLabel": "Andrija (Henry K.) Puharich",
+"sourceText": "US Patent 2,995,633, columns 1 and 2, https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
+"text": "The 1961 patent describes the invention as effecting 'the transmission of sound signals through the dental structure and facial nervous system of the user', and states that 'in its most advantageous and practical form, the device of the invention comprises means, in the form of a dental prosthetic device, for imparting or transmitting to viable nerves of a tooth electrical signals which, when transmitted to the brain, will give rise to sound sensations.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e50088482a",
+"locator": null,
+"node": "andrija-puharich",
+"nodeLabel": "Andrija (Henry K.) Puharich",
+"sourceText": "US Patent 2,995,633, columns 1 and 2, https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
+"text": "The 1961 patent describes the invention as effecting 'the transmission of sound signals through the dental structure and facial nervous system of the user', and states that 'in its most advantageous and practical form, the device of the invention comprises means, in the form of a dental prosthetic device, for imparting or transmitting to viable nerves of a tooth electrical signals which, when transmitted to the brain, will give rise to sound sensations.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "andrija-puharich",
+"label": "Andrija (Henry K.) Puharich"
+},
+"b": {
+"cls": "domain",
+"id": "d-consciousness",
+"label": "Consciousness & Observer Effects"
+},
+"claimTier": 1,
+"id": "e-777269001e",
+"label": "The subject on which a federal agency file names him",
+"note": "The FBI file that carries him is a release of cross references to extra-sensory perception, and his own patents are about routing sound into the nervous system without the ear.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "us-patent-2995633",
+"identifiers": [
+"US Patent 2,995,633"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "andrija-puharich",
+"label": "Andrija (Henry K.) Puharich"
+}
+],
+"node": null,
+"title": "US Patent 2,995,633",
+"topics": [],
+"type": "document",
+"urls": [
+"https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633"
+]
+}

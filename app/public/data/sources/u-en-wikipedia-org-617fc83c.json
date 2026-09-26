@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7a0cf3dbb9",
+"locator": "1950 NARBA/Sarbacher account",
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"sourceText": "Wikipedia, 'Wilbert Brockhouse Smith', citing the Smith-Sarbacher interview record",
+"text": "'At the 1950 NARBA conference, Smith learned from US scientist Dr. Robert Sarbacher that Americans believed flying saucers were real and their investigations of them, led by Dr. Vannevar Bush, were more highly classified than information about the hydrogen bomb. After his return to Canada, Smith wrote a memo dated November 21, 1950 which became classified Top Secret until being downgraded to Confidential in 1969.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a9c5cf8cec",
+"locator": "Arthur Bray fonds",
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"sourceText": "Wikipedia, 'Wilbert Brockhouse Smith', citing University of Ottawa Archives and Special Collections",
+"text": "Smith's other papers were acquired by retired Canadian military pilot Arthur Bray and later donated to the University of Ottawa (Arthur Bray fonds).",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-617fc83c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "wilbert-smith",
+"label": "Wilbert Brockhouse Smith"
+}
+],
+"node": null,
+"title": "Wilbert Brockhouse Smith - Wikipedia",
+"topics": [
+{
+"claims": [
+"c-7a0cf3dbb9"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Wilbert_Brockhouse_Smith"
+]
+}

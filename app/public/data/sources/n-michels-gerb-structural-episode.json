@@ -1,0 +1,235 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b1f9269629",
+"locator": null,
+"node": "jesse-michels",
+"nodeLabel": "Jesse Michels",
+"sourceText": "Jesse Michels, American Alchemy episode description, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb', published 11 January 2026",
+"text": "Michels frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"tier": 2
+}
+],
+"date": "2026",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "program",
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"claimTier": 2,
+"id": "e-ebe4cad463",
+"label": "The episode's thesis is the Manhattan Project 2.0 architecture",
+"note": "The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-61952410a6",
+"label": "Dedicated chapter 'The Office of Global Access' at 43:04",
+"note": "The Office of Global Access, an element associated with CIA's Directorate of Science and Technology, is given a named chapter; Gerb separately links CIA OGA to NRO, MITRE and the Executive branch in his NRO investigation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-44a5610df8",
+"label": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
+"note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"id": "e-bf54df0ff7",
+"label": "Dedicated chapter 'The Role of MITRE' at 51:28",
+"note": "MITRE is given a named chapter inside the structural episode, seven months before Gerb published his full MITRE investigation - establishing that MITRE was already central to the model in January 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 2,
+"id": "e-f04d022388",
+"label": "Dedicated chapter 'The DOE NEST' at 1:22:01",
+"note": "The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"claimTier": 2,
+"id": "e-5bafccf490",
+"label": "Gerb is the sole interviewee and source of the structural model",
+"note": "The episode is a single-guest exposition in which Gerb lays out the contractor pyramid, the alleged modern control group, the Office of Global Access, MITRE's role, the DOE NEST and the 1954 Atomic Energy Agreement as the architecture of the effort.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"claimTier": 2,
+"id": "e-19201b74d1",
+"label": "Michels produced and hosted the structural episode",
+"note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"claimTier": 2,
+"id": "e-8cd6da1fe2",
+"label": "Michels platformed UAP Gerb twice for multi-hour structural interviews",
+"note": "Michels published 'UAPGerb: The New Area51 Is HERE in Utah!' on 21 February 2025 (450,091 views) and the three-hour structural episode 'The Pentagon's UFO Program Is Real [Here's How It Works!]' on 11 January 2026 (514,729 views). These two episodes are the primary public exposition of Gerb's structural model.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+},
+"b": {
+"cls": "program",
+"id": "american-alchemy",
+"label": "American Alchemy"
+},
+"claimTier": 2,
+"id": "e-01ec7bd604",
+"label": "Creator and host",
+"note": "American Alchemy is Michels' series and the venue for every episode in this domain.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 3,
+"id": "e-8418e9fd3a",
+"label": "The structural discipline is a product of the independent-media substrate",
+"note": "The office-symbol-level structural work exists because a format existed that could carry two- and three-hour document-dense expositions. No broadcast or print outlet would have published it; the format created the discipline.",
+"type": "temporal"
+}
+],
+"era": "3",
+"host": "YouTube",
+"id": "n-michels-gerb-structural-episode",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+{
+"cls": "program",
+"id": "american-alchemy",
+"label": "American Alchemy"
+},
+{
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+{
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels"
+}
+],
+"node": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"title": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"topics": [
+{
+"claims": [
+"c-b1f9269629"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "document",
+"urls": [
+"https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+]
+}

@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5b22d52338",
+"locator": null,
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "The Sol Foundation biography of Kirk McConnell",
+"text": "McConnell spent 37 years on Capitol Hill, primarily on defence and intelligence, including service with the Senate Armed Services Committee and both the House and Senate intelligence committees, retiring in March 2024; his UAP work began after the 2017 New York Times disclosures and included participation in UAP investigations and development of related legislation.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+"b": {
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+"claimTier": 3,
+"id": "e-63ae0cc411",
+"label": "Delivered to the SASC professional staff cohort McConnell belonged to",
+"note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-a8c100cbf3",
+"label": "Senior Legislative Affairs Officer after 37 years on SASC",
+"note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thesolfoundation-org-97a09db6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+}
+],
+"node": null,
+"title": "The Sol Foundation - Kirk McConnell",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/people/kirk-mcconnell/"
+]
+}

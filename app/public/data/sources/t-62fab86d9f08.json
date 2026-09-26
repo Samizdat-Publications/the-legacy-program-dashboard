@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-0fc3700724",
+"locator": null,
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"sourceText": "National Academy of Sciences review of the Colorado report, 1969",
+"text": "A National Academy of Sciences panel chaired by Gerald M. Clemence concluded extraterrestrial visitation was 'the least likely explanation' and that no high priority for UFO investigation was warranted.",
+"tier": 2
+}
+],
+"date": "1969",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "t-62fab86d9f08",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Academy of Sciences",
+"listedOn": [],
+"node": null,
+"title": "National Academy of Sciences review of the Colorado report",
+"topics": [
+{
+"claims": [
+"c-0fc3700724"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-0fc3700724"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-0fc3700724"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "report",
+"urls": []
+}

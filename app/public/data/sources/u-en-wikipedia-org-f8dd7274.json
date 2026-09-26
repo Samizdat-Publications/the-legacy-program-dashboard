@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-16514c0a3f",
+"locator": null,
+"node": "cseti",
+"nodeLabel": "CSETI / The Disclosure Project",
+"sourceText": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for government whistleblowers willing to violate security oaths.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3c184582f6",
+"locator": null,
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"sourceText": "Wikipedia, 'Steven M. Greer' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-68242b2489",
+"locator": null,
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"sourceText": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-f8dd7274",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cseti",
+"label": "CSETI / The Disclosure Project"
+},
+{
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+}
+],
+"node": null,
+"title": "Wikipedia - Steven M. Greer",
+"topics": [
+{
+"claims": [
+"c-16514c0a3f",
+"c-68242b2489"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Steven_M._Greer"
+]
+}

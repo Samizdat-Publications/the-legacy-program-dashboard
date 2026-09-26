@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1fb781da03",
+"locator": null,
+"node": "italo-venturelli",
+"nodeLabel": "Dr Ítalo Venturelli",
+"sourceText": "Venturelli to members of Congress, 15 January 2026, per The Debrief",
+"text": "'It looked like a seven-year-old child. Its eyes were lilac color. Both eyes and the cranium were teardrop-shaped. It transmitted calm and tranquility.'",
+"tier": 2
+}
+],
+"date": "2026-01-15",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-d19f1e4107fd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Venturelli to members of Congress",
+"topics": [],
+"type": "document",
+"urls": []
+}

@@ -7,26 +7,40 @@
 {
 "id": "c-f82e72750d",
 "source": "war.gov/UFO, accessed 12 August 2026",
+"sources": [],
 "text": "The war.gov portal lists Release 04 dated 10 July 2026 with a 227MB document bundle and a 1.4GB video bundle.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: string names the portal page, not the bundle URLs node"
 },
 {
 "id": "c-14c782d787",
 "source": "Disclosure Archives inventory of the Release 04 posting",
+"sources": [
+{
+"id": "u-disclosurearchives-com-3830ab44",
+"locator": "Release 04",
+"title": "Disclosure Archives - Department of War files index"
+}
+],
 "text": "Release 04 contained previously unseen US military videos and historical documents dating to as early as the 1940s, including 1996 NASA STS-80 imagery and a 2019 eastern-US sighting by an observer with 28 years of Air Force and Navy experience.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-7af4403ef4",
 "source": "Disclosure Archives summary of the Release 04 announcement",
+"sources": [],
 "text": "Several Release 04 videos were assessed as consistent with balloons or sensor artefacts, and none as clear evidence of objects attributable to unknown aircraft.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:disclosurearchives.com/department-of-war-files) was rejected in review: summary of announcement may be a separate post, not index"
 },
 {
 "id": "c-d8a6fd449e",
 "source": "Inference from the absence of counts on war.gov/UFO and in the Disclosure Archives inventory for R04 alone",
+"sources": [],
 "text": "No official or independent file count for Release 04 has been published, unlike Releases 01, 02, 03 and 05 - the programme's own accounting of itself degraded at the fourth tranche.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",

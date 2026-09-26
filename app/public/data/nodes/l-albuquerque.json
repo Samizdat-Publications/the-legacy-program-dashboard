@@ -7,20 +7,44 @@
 {
 "id": "c-a7f5713602",
 "source": "Wikipedia, Kirtland Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-6734793c",
+"locator": null,
+"title": "Wikipedia - Kirtland Air Force Base"
+}
+],
 "text": "Sandia National Laboratories, descended from the Manhattan Project Z Division, is adjacent to Kirtland AFB in Albuquerque; the AFRL Directed Energy Directorate is a Kirtland tenant.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4e41a6f2c6",
 "source": "GAO/NSIAD-95-187, 'Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "'Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO/NSIAD-95-187 was produced at the request of Rep. Steven H. Schiff of New Mexico after the Defense Department declined to answer his Roswell inquiries.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bf18546b0a",
 "source": "Wikipedia, Paul Bennewitz, citing an April 1981 Albuquerque Tribune profile — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-ee09daef",
+"locator": "Thunder Scientific founding, 1966",
+"title": "Wikipedia - Paul Bennewitz"
+}
+],
 "text": "Bennewitz founded Thunder Scientific in 1966 after acquiring humidity sensor rights from Sandia National Laboratories.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "location",

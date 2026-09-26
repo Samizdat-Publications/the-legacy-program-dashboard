@@ -7,38 +7,96 @@
 {
 "id": "c-3a9659e67b",
 "source": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-10-176",
+"locator": "Office of Law Revision Counsel",
+"title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+},
+{
+"id": "usc-10-176",
+"locator": null,
+"title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+}
+],
 "text": "10 U.S.C. 176 provides that 'There is in the Department of Defense an Institute to be known as the Armed Forces Institute of Pathology', a joint entity of the three military departments subject to the authority, direction and control of the Secretary of Defense, added by Pub. L. 94-361, title VIII, section 811(b), 14 July 1976, 90 Stat. 933.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a811583841",
 "source": "10 U.S.C. 176, Office of Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-10-176",
+"locator": "Office of Law Revision Counsel",
+"title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+},
+{
+"id": "usc-10-176",
+"locator": null,
+"title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+}
+],
 "text": "The Office of Law Revision Counsel serves 10 U.S.C. 176 with the statement 'Text contains those laws in effect on September 1, 2026', so the section creating the Institute remains in force after the Institute itself was disestablished.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7d5fff36d6",
 "source": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer, https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt",
+"sources": [
+{
+"id": "u-archive-org-77b5635e",
+"locator": null,
+"title": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer"
+}
+],
 "text": "The 2005 Defense Base Closure and Realignment Commission's final report of 8 September 2005, recommendation 169 (Med 4) on Walter Reed Army Medical Center, directs the Department to 'disestablish all elements of the Armed Forces Institute of Pathology except the National Medical Museum and the Tissue Repository', with the Commission's amended version adding that AFIP capabilities not specified 'will be absorbed into other DoD, Federal, or civilian facilities, as necessary'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fa9e389e0c",
 "source": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer, https://archive.org/download/DTIC_ADA466177/DTIC_ADA466177_djvu.txt",
+"sources": [
+{
+"id": "u-archive-org-77b5635e",
+"locator": null,
+"title": "2005 Defense Base Closure and Realignment Commission Report, Volume 1, DTIC AD-A466177, OCR text layer"
+}
+],
 "text": "The same report records that the Commission found the Department 'failed to sufficiently address several AFIP functions, such as the Radiologic Pathology program, with the associated tissue repository, veterinary pathology and continuing medical education', and that the Secretary of Defense 'deviated substantially from final selection criteria 1, as well as from the Force Structure Plan'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8630afeb8d",
 "source": "Statutory note 'Establishment of Joint Pathology Center' to 10 U.S.C. 176, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-10-176",
+"locator": null,
+"title": "Establishment of Joint Pathology Center (10 U.S.C. 176)"
+}
+],
 "text": "Pub. L. 110-181, division A, title VII, section 722, 28 January 2008, 122 Stat. 199, provides that 'The President shall establish and maintain a Joint Pathology Center that shall function as the reference center in pathology for the Federal Government', established in the Department of Defense consistent with the 2005 BRAC recommendations, and providing for maintenance and continued modernization of the Tissue Repository.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-57bdccc137",
 "source": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 3:21:29, transcript in dist/transcripts/md/",
+"sources": [
+{
+"id": "t-21a4d5ebec3c",
+"locator": "3:21:29",
+"title": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty"
+}
+],
 "text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 3:21:29, Richard Doty said he knew of autopsies on recovered bodies 'from people like Kate Green and others that work for the Institute for Armed Force Institute for Pathology', then corrected himself within the same passage from 'green did autopsies' to 'he saw the aftermaths read reports'. No document opened here names any individual at the Institute.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

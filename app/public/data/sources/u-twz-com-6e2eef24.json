@@ -1,0 +1,434 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-eb24f486d7",
+"label": "Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes",
+"note": "Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "chad-underwood",
+"label": "Chad Underwood"
+},
+"b": {
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+"claimTier": 3,
+"id": "e-841812283a",
+"label": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
+"note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+"claimTier": 1,
+"id": "e-e24499bdbf",
+"label": "Section lead and wingman on the same intercept",
+"note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day"
+},
+"claimTier": 1,
+"id": "e-ab211e3da1",
+"label": "Direct conflict over whether data was taken",
+"note": "Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-4f30a6321e",
+"label": "Intercepted the object as CO of VFA-41 on 14 Nov 2004",
+"note": "Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "gary-voorhis",
+"label": "Gary Voorhis"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 3,
+"id": "e-6df1206402",
+"label": "Voorhis describes removal or wiping of Princeton recording media",
+"note": "Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "gary-voorhis",
+"label": "Gary Voorhis"
+},
+"b": {
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+"claimTier": 2,
+"id": "e-1c7770bb23",
+"label": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
+"note": "Voorhis's technical billet placed him at the node where the encounter's recorded machine data physically lived.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "gary-voorhis",
+"label": "Gary Voorhis"
+},
+"b": {
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+"claimTier": 3,
+"id": "e-73d1ba7279",
+"label": "Says recording media were surrendered or wiped after 14 Nov 2004",
+"note": "The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "jason-turner",
+"label": "Jason Turner"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 3,
+"id": "e-06b6b97b02",
+"label": "Turner independently corroborates the confiscation window",
+"note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "jason-turner",
+"label": "Jason Turner"
+},
+"b": {
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+"claimTier": 3,
+"id": "e-e82489065f",
+"label": "Crewman aboard USS Princeton, Nov 2004",
+"note": "Turner is one of several Princeton enlisted crew who have publicly described the post-encounter arrival of outside personnel; his rate and division are not established from primary records.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-99b6e49833",
+"label": "Same operating areas, fifteen years apart, same failure to attribute",
+"note": "Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day"
+},
+"b": {
+"cls": "person",
+"id": "gary-voorhis",
+"label": "Gary Voorhis"
+},
+"claimTier": 3,
+"id": "e-6cb10296fa",
+"label": "Independent shipmate corroboration of the post-encounter data collection",
+"note": "Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "navy-range-fouler-reports",
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+},
+"b": {
+"cls": "document",
+"id": "gallaudet-2015-email",
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)"
+},
+"claimTier": 2,
+"id": "e-9ecfe6f85f",
+"label": "Two independent traces of the same suppression at fleet level",
+"note": "The range fouler set records reporting terminating at Third Fleet with no dissemination process; Gallaudet records a Fleet Forces Command safety message deleted within a day.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "navy-range-fouler-reports",
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 1,
+"id": "e-319485e757",
+"label": "Reporting volume tracks the existence of a channel, not the phenomenon",
+"note": "The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent from 2021 alone - the year after the Task Force was stood up.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "document",
+"id": "navy-range-fouler-reports",
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+},
+"claimTier": 1,
+"id": "e-e7108b95d5",
+"label": "Two decades of aviator records released only under external pressure",
+"note": "The 2023 range fouler release came via FOIA; the 2026 PURSUE releases came via presidential directive. Neither came from the reporting system that was supposed to surface them.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "vfa-41",
+"label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-d4bfb2b551",
+"label": "Squadron that flew the intercept and produced the FLIR1 footage",
+"note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "uss-jackson-2023",
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 2,
+"id": "e-9c209c896b",
+"label": "Same warning-area complex, same object morphology, nineteen years later",
+"note": "A transmedium tic-tac-shaped object in W-291 in February 2023 repeats the November 2004 description in the same Southern California naval training space, with no published government assessment of either sensor record.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"b": {
+"cls": "document",
+"id": "navy-range-fouler-reports",
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+},
+"claimTier": 1,
+"id": "e-a6b2741ac6",
+"label": "The 2004 incident is formally documented in the Navy's own range fouler reporting",
+"note": "The January 2023 FOIA release proves the encounter was reported inside the Navy through intelligence personnel and then died at Third Fleet with no dissemination process.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"b": {
+"cls": "location",
+"id": "l-socal-oparea",
+"label": "Southern California Operating Areas (W-291 and Baja approaches)"
+},
+"claimTier": 1,
+"id": "e-5f8cf9740d",
+"label": "The encounters occurred in the Southern California operating areas",
+"note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-74535c77a4",
+"label": "Generated the primary sensor record of the encounter; no such data has ever been released",
+"note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "uss-reagan-2004",
+"label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 2,
+"id": "e-a750f13b93",
+"label": "Same year, opposite ocean, same record-destruction behaviour",
+"note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-twz-com-6e2eef24",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+{
+"cls": "person",
+"id": "chad-underwood",
+"label": "Chad Underwood"
+},
+{
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+{
+"cls": "person",
+"id": "gary-voorhis",
+"label": "Gary Voorhis"
+},
+{
+"cls": "person",
+"id": "jason-turner",
+"label": "Jason Turner"
+},
+{
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day"
+},
+{
+"cls": "document",
+"id": "navy-range-fouler-reports",
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+},
+{
+"cls": "location",
+"id": "l-socal-oparea",
+"label": "Southern California Operating Areas (W-291 and Baja approaches)"
+},
+{
+"cls": "institution",
+"id": "vfa-41",
+"label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)"
+},
+{
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+{
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+}
+],
+"node": null,
+"title": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+]
+}

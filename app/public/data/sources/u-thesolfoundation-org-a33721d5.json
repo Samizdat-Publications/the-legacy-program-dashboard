@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-f29e7147c3",
+"label": "Sol issued press statements on each major PURSUE release",
+"note": "Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the PURSUE releases, positioning itself as the interpretive authority on the released record.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thesolfoundation-org-a33721d5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "The Sol Foundation - News & Events",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/news-and-events/"
+]
+}

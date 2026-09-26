@@ -8,20 +8,26 @@
 {
 "id": "c-c4bc2f94fe",
 "source": "Nature, 18 October 1974",
+"sources": [],
 "text": "Targ and Puthoff published 'Information transmission under conditions of sensory shielding' in Nature 251:602-607 on 18 October 1974.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:nature.com/articles/251602a0) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-0b5fbd5f9a",
 "source": "FAS Intelligence Resource Program, Star Gate documentation; CIA FOIA Reading Room",
+"sources": [],
 "text": "The Star Gate programme documentation, including protocols and operational records, is held in the CIA electronic reading room and catalogued by FAS.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:irp.fas.org/program/collect/stargate.htm) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-976bcb7a16",
 "source": "Declassified SRI protocol, via The Black Vault",
+"sources": [],
 "text": "The 'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, dated November 1978, was subsequently declassified.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-tar) was rejected in review: vague 'SRI protocol'; string cannot identify which document"
 }
 ],
 "cls": "domain",

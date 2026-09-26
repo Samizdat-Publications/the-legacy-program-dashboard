@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-c67c8b2372",
+"locator": null,
+"node": "tna-ufo-release",
+"nodeLabel": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+"sourceText": "The National Archives UFO files page, August 2011",
+"text": "August 2011 tranche note: 'Seven files in this tranche (DEFE 31/182/1-188/1) contain copies of numerous UFO reports made by members of the public and submitted to MoD between April 1993 and July 1996. These reports are duplicates of papers from tranche #4 of the UFO files, released by The National Archives in August 2009.'",
+"tier": 1
+}
+],
+"date": "2011-08",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "t-9f1de31f5ccf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives",
+"listedOn": [],
+"node": null,
+"title": "The National Archives UFO files page, August 2011",
+"topics": [],
+"type": "web page",
+"urls": []
+}

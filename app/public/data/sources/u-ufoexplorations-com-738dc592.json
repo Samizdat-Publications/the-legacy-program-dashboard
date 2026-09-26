@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 2,
+"id": "e-a028df5723",
+"label": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
+"note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
+"type": "funding"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-ufoexplorations-com-738dc592",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufoexplorations.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+}
+],
+"node": null,
+"title": "UFO Explorations",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.ufoexplorations.com/roswell-battelle-memory-metal-revel"
+]
+}

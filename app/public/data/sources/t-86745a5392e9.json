@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4a5485ad49",
+"locator": null,
+"node": "the-debrief",
+"nodeLabel": "The Debrief",
+"sourceText": "The Debrief archive, retrieved 12 August 2026",
+"text": "The Debrief has published sustained coverage of the disclosure fight including 'Immaculate Constellation: UAP Bombshell or Disinformation?', 'The 2024 AARO Report', 'Where The Second UAP Disclosure Act Failure May Now Steer The Ark of Human History' and 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'.",
+"tier": 1
+}
+],
+"date": "2026-08-12",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-86745a5392e9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "The Debrief archive",
+"topics": [
+{
+"claims": [
+"c-4a5485ad49"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "archive index",
+"urls": []
+}

@@ -1,0 +1,68 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-8a9f50409a",
+"locator": "National Security Archive John Marks Collection Box 9",
+"node": "project-bluebird",
+"nodeLabel": "Project BLUEBIRD",
+"sourceText": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The founding proposal names its own irregularity: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fda70a865b",
+"locator": "National Security Archive John Marks Collection Box 9",
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The founding proposal for Project BLUEBIRD went to him as Director of Central Intelligence. The memorandum of 5 April 1950 from the Chief of the CIA's Inspection and Security Staff is addressed to the Director of Central Intelligence and says on its face: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.' It asks him for approval and for an allocation of $65,515.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp83-01042r000800010003-1",
+"identifiers": [
+"CIA-RDP83-01042R000800010003-1"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+{
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+}
+],
+"node": null,
+"title": "Project Bluebird (CIA-RDP83-01042R000800010003-1)",
+"topics": [
+{
+"claims": [
+"c-8a9f50409a",
+"c-fda70a865b"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-8a9f50409a"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "document",
+"urls": []
+}

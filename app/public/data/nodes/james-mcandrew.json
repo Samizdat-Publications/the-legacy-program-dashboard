@@ -24,20 +24,38 @@
 {
 "id": "c-94e8d1c178",
 "source": "Library catalogue record and GPO imprint; Internet Archive AFD-101027-030 and roswellreportcas0000mcan",
+"sources": [],
 "text": "'The Roswell Report: Case Closed' (1997) is authored by James McAndrew, published in Washington DC by Headquarters United States Air Force for sale by the Superintendent of Documents, and runs to xii + 231 pages with bibliography and index.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:roswell-report-case-closed) was rejected in review: names several sources; catalogue record and imprint are not the report"
 },
 {
 "id": "c-d9a2d00a4c",
 "source": "The Roswell Report: Case Closed (1997), Introduction, 'The conclusions of the additional research are'",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Introduction, quote 'The conclusions of the additional research are'",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The report's conclusions are that Air Force activities spanning many years were consolidated into two or three days of July 1947; that the 'aliens' were probably anthropomorphic test dummies carried aloft by high altitude balloons; that the 'unusual' military activity was balloon launch and recovery; and that the hospital-bodies claims most likely combine a 1956 KC-97 crash in which eleven airmen died with a 1959 manned balloon mishap injuring two pilots.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-12c2694ba7",
 "source": "The Roswell Report: Case Closed (1997), Appendices B and C",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Appendices B and C",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The report prints sworn witness statements from ten named Air Force personnel at Appendix B, including Col. Joseph W. Kittinger Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg and Lt. Col. Raymond A. Madson, and full interview transcripts of five pro-UFO witnesses at Appendix C.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

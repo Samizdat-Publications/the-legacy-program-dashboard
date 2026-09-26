@@ -7,14 +7,30 @@
 {
 "id": "c-0d9e65cbcb",
 "source": "DoD statement, 27 April 2020",
+"sources": [
+{
+"id": "n-dod-video-release-2020",
+"locator": null,
+"title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+}
+],
 "text": "Characterises the videos' prior public appearance as the product of 'unauthorized releases in 2007 and 2017'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c7312e1e9c",
 "source": "DoD statement, 27 April 2020",
+"sources": [
+{
+"id": "n-dod-video-release-2020",
+"locator": null,
+"title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+}
+],
 "text": "States 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

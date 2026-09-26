@@ -10,20 +10,44 @@
 {
 "id": "c-a931f2dc0f",
 "source": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011. https://edition-open-sources.org/sources/5/6/index.html",
+"sources": [
+{
+"id": "u-edition-open-sources-org-f5a3194c",
+"locator": null,
+"title": "Chapel Hill conference participants list"
+}
+],
 "text": "The conference report's participants list prints 'Bergmann, P. G. | Syracuse University'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2376ac8099",
 "source": "Foreword by Cecile M. DeWitt, Chapel Hill, 15 March 1957, printed with the report's title page. https://edition-open-sources.org/sources/5/5/index.html",
+"sources": [
+{
+"id": "u-edition-open-sources-org-4c82d834",
+"locator": null,
+"title": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011, title page and Foreword"
+}
+],
 "text": "Bergmann sat on the conference steering committee with F. J. Belinfante, Bryce S. DeWitt, Cecile M. DeWitt, Freeman J. Dyson and John A. Wheeler, and the Foreword's abstract records that 'A conference summary statement is presented by Professor P. G. Bergmann.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a04a3ec2cc",
 "source": "Danny Jones Podcast, ep. 287, 24 February 2025, 2:38:20, mapped at research/leads/dannyjones-corpus-16.md",
+"sources": [
+{
+"id": "t-c4f9c69604f1",
+"locator": null,
+"title": "Danny Jones Podcast, ep. 287, 24 February 2025, 2:38:20, mapped at research/leads/dannyjones-corpus-16.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 287, 24 February 2025, at 2:38:20, Jesse Michels named Bergmann among the attendees of the 1957 Chapel Hill conference, alongside John Wheeler and Freeman Dyson, and described the conference as convened by Agnew Bahnson through the Institute of Field Physics. The conference report confirms his attendance and his steering-committee role and carries nothing else the transcript attributes to him.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

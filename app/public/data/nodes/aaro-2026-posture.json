@@ -7,26 +7,58 @@
 {
 "id": "c-33c2d87a12",
 "source": "https://www.aaro.mil/About/Leaders/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "u-aaro-mil-a1ea4ef7",
+"locator": null,
+"title": "AARO Leaders page"
+}
+],
 "text": "Dr. Jon T. Kosloski is Director of AARO; his background is technical and leadership positions within the Research Directorate of the National Security Agency, with a Johns Hopkins PhD in electrical engineering focused on quantum optics devices for receiving weak phase-encoded signals.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b2872ef380",
 "source": "https://www.aaro.mil/",
+"sources": [
+{
+"id": "u-aaro-mil-1c878677",
+"locator": null,
+"title": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)"
+}
+],
 "text": "AARO's homepage carries a banner for 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' linking to war.gov/UFO, and a banner for 'UAP Records from NARA'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0f989f4879",
 "source": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
+"sources": [
+{
+"id": "u-defensescoop-com-07620005",
+"locator": null,
+"title": "DefenseScoop, AARO invite-only workshop"
+}
+],
 "text": "AARO sponsored an invite-only UAP research workshop in the Washington DC area in early August 2025, officially hosted by Associated Universities, Inc., with roughly 40 government, academic and independent researchers; Pentagon spokesperson Sue Gough said AARO recognises 'input from the scientific and academic community is critical to its work.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b876ca9781",
 "source": "https://www.aaro.mil/About/Leaders/",
+"sources": [
+{
+"id": "u-aaro-mil-a1ea4ef7",
+"locator": null,
+"title": "AARO Leaders page"
+}
+],
 "text": "AARO's Leaders page names only the Director; no deputy director, chief scientist or historian is publicly identified as of 12 August 2026. Reasoning: direct inspection of aaro.mil/About/Leaders/.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

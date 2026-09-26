@@ -7,20 +7,44 @@
 {
 "id": "c-d208600d24",
 "source": "Sol Foundation Science and Policy Briefings No. 3, Executive Summary",
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": "Executive Summary",
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "The briefing states that the SIMS and MIBI analyses found no anomalous isotopic values but that the metals in the once-molten mass were mixed incompletely, 'indicating an industrial process of unknown, and potentially perplexing, origin'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-da78f036bc",
 "source": "Notes 11 and 12, Sol Foundation Briefing No. 3",
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": "Notes 11 and 12",
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "The briefing states that iron meteorites contain 5-40% nickel while the Council Bluffs sample had only trace amounts, and that aluminium oxide - the necessary byproduct of a thermite reaction - would have been observed as a diatomic in the SIMS analysis and was not.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f0fd2afa48",
 "source": "Section 3, Sol Foundation Briefing No. 3",
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": "Section 3",
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "The briefing records that no foundries in the region were operating on the day of the incident and that no airports or military facilities in the region reported aviation incidents before, during or after.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

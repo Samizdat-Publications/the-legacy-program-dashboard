@@ -7,20 +7,44 @@
 {
 "id": "c-8f8957d0f1",
 "source": "OSD FOIA 21-F-0938, DoD FOIA Reading Room",
+"sources": [
+{
+"id": "foia-21-f-0938",
+"locator": "DoD FOIA Reading Room",
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+}
+],
 "text": "Contains Elizondo's 3 June 2020 statement to Gough: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dc57ed3b7b",
 "source": "OSD FOIA 21-F-0938",
+"sources": [
+{
+"id": "foia-21-f-0938",
+"locator": null,
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+}
+],
 "text": "Records Elizondo's assertion that Gough initially claimed 'Neither AATIP nor AAWSAP were UAP related', later corrected that, but never corrected the statement about his involvement.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0f190eb969",
 "source": "OSD FOIA 21-F-0938",
+"sources": [
+{
+"id": "foia-21-f-0938",
+"locator": null,
+"title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+}
+],
 "text": "Records Elizondo's assertion that a DoD Press Secretary verified in 2017 that he was an OUSD(I) staff member, and that Sherwood had indicated the Department would release an exonerating statement.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

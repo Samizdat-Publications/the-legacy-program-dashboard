@@ -35,38 +35,74 @@
 {
 "id": "c-a0694114d1",
 "source": "CREC-2023-07-13-pt1-PgS2953; congress.gov S.Amdt.797",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Sponsor of record of S.Amdt. 797 to S. 2226: congress.gov lists 'Sponsor: Sen. Schumer, Charles E. [D-NY] (Submitted 07/13/2023)'. The Congressional Record entry reads 'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8c97c04493",
 "source": "BILLS-118s2226es Div. G",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "The amendment Schumer submitted is the text enacted in the Senate as Division G of S. 2226, secs. 9001-9015, containing the eminent-domain provision (sec. 9010) and the nine-member Review Board (sec. 9007).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d811c134b4",
 "source": "Congress.gov amendment record, S.Amdt. 797, 118th Congress; text printed 169 Cong. Rec. S2953 (13 July 2023)",
+"sources": [
+{
+"id": "n-samdt-797",
+"locator": "169 Cong. Rec. S2953",
+"title": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+}
+],
 "text": "Schumer is the sponsor of S.Amdt. 797 to S. 2226, submitted 13 July 2023, with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2b7e5be518",
 "source": "S. 2226 as engrossed in the Senate, Division G, Sec. 9010(a), GPO",
+"sources": [
+{
+"id": "n-uapda-sec-9010-eminent-domain",
+"locator": null,
+"title": "Section 9010(a) - Exercise of Eminent Domain"
+}
+],
 "text": "The text he submitted commands the Federal Government to 'exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dba0a53327",
 "source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"sources": [],
 "text": "'Americans have a right to learn about technologies of unknown origins, non-human intelligence, and unexplainable phenomena.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schum) was rejected in review: author and date not in candidate row; cannot confirm same article"
 },
 {
 "id": "c-b7de57002b",
 "source": "Schumer, quoted in J.P. Hague, The Debrief, 22 December 2023",
+"sources": [],
 "text": "'It is really an outrage the House didn't work with us on adopting our proposal for a review board.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-sho) was rejected in review: author and date not in candidate row; cannot confirm same article"
 }
 ],
 "cls": "person",

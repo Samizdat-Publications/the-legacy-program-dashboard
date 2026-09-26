@@ -1,0 +1,227 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-4ebf08e986",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "George Knapp, written testimony, 9 September 2025",
+"text": "BAASS was prime contractor for AAWSAP, recruited about 50 cleared investigators, ran 27 months, produced more than three dozen preliminary reports and over 100 research papers, and built a 240,000-case data warehouse designed by Jacques Vallee; most of the papers remain unreleased by DIA.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-ca5a7ed4ce",
+"locator": null,
+"node": "l-las-vegas",
+"nodeLabel": "Las Vegas, Nevada",
+"sourceText": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "BAASS, headquartered in Las Vegas, was prime contractor for AAWSAP, recruited about 50 full-time investigators with top secret clearances, operated for 27 months, and produced more than three dozen preliminary reports and over 100 detailed research papers plus a 240,000-case data warehouse.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-2b4be98bd7",
+"locator": null,
+"node": "l-la",
+"nodeLabel": "Los Angeles and Burbank, California",
+"sourceText": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "Bigelow negotiated with a senior Lockheed executive to acquire unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity; the agreement was never completed.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-d85b2e59e5",
+"locator": null,
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "BAASS recruited about 50 full-time investigators with top secret clearances, operated for 27 months, generated more than three dozen preliminary reports and over 100 detailed research papers, and built a data warehouse of over 240,000 UFO case files designed by Jacques Vallee that reportedly remains in use by US agencies; most of the research papers remain unreleased by DIA.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-6323f13b38",
+"label": "The AAWSAP appropriation followed the Lacatski visit to the ranch",
+"note": "Reid and Sen. Ted Stevens secured roughly $22 million in Defense appropriations after Bigelow relayed Lacatski's ranch experience. BAASS, headquartered in Las Vegas, won the contract.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"claimTier": 2,
+"id": "e-a23109893a",
+"label": "BAASS ran the AAWSAP field effort from Las Vegas",
+"note": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-6216782e12",
+"label": "sworn witness",
+"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-46b9a6871e",
+"label": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
+"note": "Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 1,
+"id": "e-6aefd1a019",
+"label": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
+"note": "Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-3b995b6c32",
+"label": "Knapp testified as KLAS-TV chief investigative reporter",
+"note": "Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 1,
+"id": "e-341424584a",
+"label": "Knapp co-authored two books with the AAWSAP originator",
+"note": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-la",
+"label": "Los Angeles and Burbank, California"
+},
+"claimTier": 2,
+"id": "e-c90c7f9c2c",
+"label": "The most-repeated custody allegation names Lockheed and California",
+"note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-oversight-house-gov-68b6ff59",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+{
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+{
+"cls": "location",
+"id": "l-la",
+"label": "Los Angeles and Burbank, California"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "George Knapp written testimony (PDF)",
+"topics": [
+{
+"claims": [
+"c-d85b2e59e5"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+}
+],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+]
+}

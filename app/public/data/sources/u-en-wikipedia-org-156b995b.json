@@ -1,0 +1,93 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 2,
+"id": "e-d593c53b63",
+"label": "Founder, 26 July 2021",
+"note": "Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-cambridge",
+"label": "Cambridge, Massachusetts"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 2,
+"id": "e-7b948d063a",
+"label": "first Galileo Observatory, Harvard College Observatory roof",
+"note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 2,
+"id": "e-b94a321123",
+"label": "Founded in direct response to the June 2021 ODNI assessment",
+"note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-156b995b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "event",
+"id": "im1-pacific-expedition-2023",
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023"
+},
+{
+"cls": "institution",
+"id": "harvard-cfa",
+"label": "Harvard-Smithsonian Center for Astrophysics"
+},
+{
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+}
+],
+"node": null,
+"title": "Wikipedia: The Galileo Project",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/The_Galileo_Project"
+]
+}

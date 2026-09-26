@@ -10,14 +10,30 @@
 {
 "id": "c-d61e419733",
 "source": "https://armedservices.house.gov/about/members.htm",
+"sources": [
+{
+"id": "u-armedservices-house-gov-a25d0d2d",
+"locator": null,
+"title": "https://armedservices.house.gov/about/members.htm"
+}
+],
 "text": "Adam Smith (D-WA 09) is listed as Ranking Member of the House Armed Services Committee on the committee's official members page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-94d5b5b884",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"sources": [
+{
+"id": "u-govinfo-gov-3a14c055",
+"locator": null,
+"title": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
+}
+],
 "text": "Smith was Chairman of the House Armed Services Committee in the 116th Congress, with Mac Thornberry as the senior Republican.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

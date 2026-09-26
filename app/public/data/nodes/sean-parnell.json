@@ -19,14 +19,30 @@
 {
 "id": "c-5fa734778e",
 "source": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
+"sources": [
+{
+"id": "u-war-gov-e68b83a4",
+"locator": null,
+"title": "Department of War release, 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’', 18 March 2026"
+}
+],
 "text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6b2b1b989b",
 "source": "Sean Parnell, quoted by DefenseScoop, 20 February 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "The department 'looks forward to working with the interagency to fulfill the president's directive.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

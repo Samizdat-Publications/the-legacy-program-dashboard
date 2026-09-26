@@ -1,0 +1,197 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-5bf198d155",
+"locator": null,
+"node": "dird-detection-and-high-resolution-tracking-of",
+"nodeLabel": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+"sourceText": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"text": "It is the sensor-side counterpart to the cloaking and signature-reduction strand of the survey: Puthoff described the DIA Broad Area Announcement as specifying twelve threat areas including 'lift, propulsion, signature reduction, human effects and so on.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e099f75f17",
+"locator": null,
+"node": "dird-inertial-electrostatic-confinement-fusion",
+"nodeLabel": "Inertial Electrostatic Confinement Fusion",
+"sourceText": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"text": "Puthoff named 'IEC fusion as a compact energy source' among the studies he commissioned, in his June 2018 Society for Scientific Exploration account of letting 38 contracts over a two-year period.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5057529e87",
+"locator": null,
+"node": "ulf-leonhardt",
+"nodeLabel": "Ulf Leonhardt",
+"sourceText": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"text": "Puthoff, describing the commission at the June 2018 Society for Scientific Exploration conference, named 'invisibility cloaking' among the papers he let contracts for.",
+"tier": 1
+}
+],
+"date": "2019-01-17",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"label": "Biosensors and BioMEMS: A Survey of the Present Field"
+},
+"claimTier": 1,
+"id": "e-414eb66c47",
+"label": "commissioned under AAWSAP, FY2009 series",
+"note": "The document's own administrative note states it 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program', with comments directed to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100. Hal Puthoff, subcontracting to BAASS through EarthTech International, has stated he let the 38 contracts himself, acting as a surrogate so DIA would not have to expose its interest.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+},
+"claimTier": 1,
+"id": "e-d5916966be",
+"label": "commissioned under AAWSAP; latest document number in the released set",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+"claimTier": 1,
+"id": "e-2e1ec628d0",
+"label": "commissioned under AAWSAP; 'Defense Futures' series",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+"claimTier": 1,
+"id": "e-60e682ebe3",
+"label": "commissioned under AAWSAP as a compact energy source study",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"label": "Invisibility Cloaking: Theory and Experiments"
+},
+"claimTier": 1,
+"id": "e-0f012748ee",
+"label": "commissioned under AAWSAP; lowest DIA document number in the released set",
+"note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-d061673a2d",
+"label": "produced at EarthTech International, Austin",
+"note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"label": "Invisibility Cloaking: Theory and Experiments"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 1,
+"id": "e-20a5e5c39e",
+"label": "subject domain: transformation optics, metamaterials and signature reduction",
+"note": "Contents run Camouflage, Transparency, Cloaking. The paper is the signature-reduction leg of the survey, sitting alongside Shvets's 'Metamaterials for Aerospace Applications' and against Culbreth's hypersonic detection paper. Puthoff listed signature reduction among the twelve threat areas DIA specified in the Broad Area Announcement.",
+"type": "research"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-silvarecord-com-dd11c777",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "silvarecord.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities"
+},
+{
+"cls": "document",
+"id": "dia-aatip-letter-2018",
+"label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+},
+{
+"cls": "document",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"label": "Inertial Electrostatic Confinement Fusion"
+},
+{
+"cls": "document",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"label": "Invisibility Cloaking: Theory and Experiments"
+},
+{
+"cls": "person",
+"id": "ulf-leonhardt",
+"label": "Ulf Leonhardt"
+}
+],
+"node": null,
+"title": "Silva Record — 38th DIRD Title Surfaces With Letter Addressed To McCain",
+"topics": [],
+"type": "article",
+"urls": [
+"https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+]
+}

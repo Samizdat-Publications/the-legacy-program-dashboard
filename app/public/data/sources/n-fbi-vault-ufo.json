@@ -1,0 +1,104 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-c37236f18e",
+"locator": null,
+"node": "fbi-vault-ufo",
+"nodeLabel": "FBI Records: The Vault - UFO collection",
+"sourceText": "vault.fbi.gov/UFO, accessed 12 August 2026",
+"text": "The FBI Vault UFO collection comprises 16 parts covering the Bureau's role in investigating flying object reports between 1947 and 1954, released 30 November 2010 and last modified 25 July 2013.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5c533eeab1",
+"locator": null,
+"node": "raaf-press-release-1947",
+"nodeLabel": "RAAF Press Release, 8 July 1947",
+"sourceText": "FBI Records: The Vault, UFO files",
+"text": "FBI records on flying discs from 1947-1954 are publicly released in sixteen parts through the Bureau's electronic reading room.",
+"tier": 1
+}
+],
+"date": "2010",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+"b": {
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+"claimTier": 2,
+"id": "e-90237c1685",
+"label": "Published FBI 62-HQ-83894, well beyond the Vault's 1947-1954 scope",
+"note": "The Bureau's master flying disc file covering 1947 to 1968 was released as a single 101MB PDF through war.gov rather than through the FBI's own reading room.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+"b": {
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+"claimTier": 2,
+"id": "e-d353ac476f",
+"label": "29 FBI files including a 2021-2025 orb corpus and an agents' own FD-1057",
+"note": "The tranche established the FBI as an active modern UAP collector, a posture invisible in its own Vault collection last modified in 2013.",
+"type": "custody"
+}
+],
+"era": "2",
+"host": null,
+"id": "n-fbi-vault-ufo",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FBI",
+"listedOn": [
+{
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+{
+"cls": "person",
+"id": "george-schulgen",
+"label": "George F. Schulgen"
+},
+{
+"cls": "document",
+"id": "raaf-press-release-1947",
+"label": "RAAF Press Release, 8 July 1947"
+}
+],
+"node": {
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+"title": "FBI Records: The Vault - UFO collection",
+"topics": [
+{
+"claims": [
+"c-c37236f18e"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "document",
+"urls": [
+"https://vault.fbi.gov/UFO"
+]
+}

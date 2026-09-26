@@ -7,38 +7,85 @@
 {
 "id": "c-e85aba791d",
 "source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-d4772d11",
+"locator": null,
+"title": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr."
+}
+],
 "text": "It recovered the federal file on Japan Air Lines flight 1628 after seventeen years, having been told by the FAA in a letter of 27 June 2001 that the records would be destroyed within thirty days and again in 2009 that they had been destroyed. The file was located at the National Archives in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against the FAA's initial estimate of approximately 107.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0a151c41b9",
 "source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-a88020df",
+"locator": null,
+"title": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'"
+}
+],
 "text": "Its archive of that file itemises 1,569 pages across thirty-five or more documents and publishes them individually, including the FAA's own forms, Captain Terauchi's written statement in Japanese and in English translation, and dated January 1987 interview transcripts with all three crew members.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-499c8b5e32",
 "source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"sources": [
+{
+"id": "u-theblackvault-com-d4772d11",
+"locator": null,
+"title": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr."
+}
+],
 "text": "It states its own reservation about the best-known witness to the case: 'Callahan's dramatic account is unconfirmed by other sources', while recording that he preserved copies of the data.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c3e7fc5d7f",
 "source": "The Black Vault document archive and case files",
+"sources": [],
 "text": "Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:theblackvault.com) was rejected in review: site home page; names no specific document"
 },
 {
 "id": "c-ec2444a1aa",
 "source": "The Black Vault document archive and case files, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ and https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-theblackvault-com-3d84f989",
+"locator": null,
+"title": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear'"
+},
+{
+"id": "u-theblackvault-com-ff28e572",
+"locator": null,
+"title": "The Black Vault, 'Documents on 2017 Bob Lazar / United Nuclear Raid - Laingsburg Police Department'"
+}
+],
 "text": "It is the custody point for three separate parts of the Lazar record: the FBI FOIA releases on United Nuclear Scientific Supplies, pursued from November 2018 and delivered in three releases of 55, 130 and 130 pages; the Laingsburg, Michigan police report on the 19 July 2017 search, obtained by Tim McMillan under a local open-records request; and Stanton Friedman's own 1997 article on Lazar, in the Stanton Friedman Collection.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ee41ef3e9d",
 "source": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-theblackvault-com-3d84f989",
+"locator": null,
+"title": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear'"
+}
+],
 "text": "A negative FOIA result it records and flags: 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', with the site's own observation that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -458,7 +505,7 @@
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 208 of 1138, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 207 of 1138, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

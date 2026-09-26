@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-60a31813b6",
+"locator": null,
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10 and 1:51:51, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281",
+"text": "On American Alchemy with Jesse Michels, 24 December 2024, at 1:49:10, Robert Hastings said that in January 2023 McConnell, whom he describes as 'a retired Senate Armed Service Committee investigator', contacted him and asked him to gather veterans with experiences at nuclear weapons sites for AARO to interview, and at 1:51:51 that 'it was 11 of roughly 20 who agreed to speak' with the office. The transcript renders the name Kurt McConnell throughout.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f985a32aad",
+"locator": "1:49:10",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10",
+"text": "In the same passage Hastings said McConnell emailed him in about March 2023 saying he had driven a veteran to that veteran's AARO interview, and relayed what the veteran said he had told AARO's then director about where a particular film was held. Hastings gives the account at two removes and names no document.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-2e926282",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)' (episode audio)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281"
+]
+}

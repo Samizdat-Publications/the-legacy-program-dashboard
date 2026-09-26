@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-46e5f91b71",
+"locator": "full-text search of the 66-page proposal",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "Project Winterhaven, full-text search of the 66-page proposal",
+"text": "The words 'saucer', 'interceptor', 'Mach' and 'Air Force' do not appear anywhere in the 66-page Project Winterhaven proposal. The description of Winterhaven as proposing a saucer designated a USAF interceptor originates in the 1956 Aviation Studies (International) report, not in the proposal.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4c1a4ef804",
+"locator": "biographical sketch bound into the proposal",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "Project Winterhaven, biographical sketch -- a self-description",
+"text": "Brown's own biographical sketch bound into Project Winterhaven gives his birth as Zanesville, Ohio, 18 March 1905, and lists Naval Research Laboratory 1930-33, the International Gravity Expedition to the West Indies 1932, Bureau of Ships acoustic and magnetic minesweeping 1940-41, Materials and Processes Engineer at Glenn L. Martin, and radar consultant at Lockheed. Only the Lockheed item is corroborated by a second document, the assignment line of US 2,417,347.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-58a46e58",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "Project Winterhaven, Townsend Brown Foundation (private upload, no institutional custody)",
+"topics": [
+{
+"claims": [
+"c-46e5f91b71",
+"c-4c1a4ef804"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/projectwinterhaven"
+]
+}

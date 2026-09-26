@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cseti",
+"label": "CSETI / The Disclosure Project"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 3,
+"id": "e-ea7dc5a78f",
+"label": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
+"note": "CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of 'Project Starlight', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer's published account was distorted. Both accounts are on the record; the relationship is contested.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-drstevengreer-com-ce9a7834",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "drstevengreer.com",
+"listedOn": [],
+"node": null,
+"title": "https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/"
+]
+}

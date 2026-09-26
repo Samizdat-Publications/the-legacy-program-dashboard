@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-burlison-house-gov-22f45c8d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+}
+],
+"node": null,
+"title": "Comer and Burlison Seek Information on Missing Nuclear and Rocket Scientists, press release carrying links to all four letters",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists"
+]
+}

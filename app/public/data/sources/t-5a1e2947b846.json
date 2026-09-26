@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-fcf3886e8f",
+"locator": null,
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"sourceText": "Doty's repeated on-the-record statements, including to HuffPost, 13 May 2014",
+"text": "Doty has stated on the record that he passed fabricated documents concerning crash retrievals and an alleged programme called AQUARIUS to Paul Bennewitz while serving as an AFOSI special agent at Kirtland AFB.",
+"tier": 2
+}
+],
+"date": "2014-05-13",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "t-5a1e2947b846",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "HuffPost",
+"listedOn": [],
+"node": null,
+"title": "Doty's repeated on-the-record statements, including to HuffPost, 13 May 2014",
+"topics": [
+{
+"claims": [
+"c-fcf3886e8f"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "article",
+"urls": []
+}

@@ -1,0 +1,110 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-eebcd6bd4b",
+"locator": null,
+"node": "jack-reed",
+"nodeLabel": "John F. Reed",
+"sourceText": "https://www.armed-services.senate.gov/about/membership",
+"text": "Jack Reed (D-RI) is listed as Ranking Member of the Senate Armed Services Committee on the committee's official membership page.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-36b2147fa7",
+"locator": null,
+"node": "roger-wicker",
+"nodeLabel": "Roger F. Wicker",
+"sourceText": "https://www.armed-services.senate.gov/about/membership",
+"text": "Roger F. Wicker (R-MS) is listed as Chairman of the Senate Armed Services Committee on the committee's official membership page.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-be9d8fb85e",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://www.armed-services.senate.gov/about/membership",
+"text": "August 2026 holders of the twelve offices: Roger F. Wicker (SASC Chairman) and Jack Reed (SASC Ranking Member); Susan Collins (SAC Chair) and Patty Murray (SAC Vice Chair); Mitch McConnell (SAC Defense Subcommittee Chair) and Christopher A. Coons (SAC Defense Subcommittee Ranking Member); Mike Rogers of Alabama (HASC Chairman) and Adam Smith (HASC Ranking Member); Tom Cole (HAC Chairman) and Rosa L. DeLauro (HAC Ranking Member); Ken Calvert (HAC Defense Subcommittee Chair) and Betty McCollum (HAC Defense Subcommittee Ranking Member).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-ffb1c0ae15",
+"label": "seat 2 of 12 - Ranking Member, Senate Armed Services",
+"note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-c41c35e467",
+"label": "seat 1 of 12 - Chairman, Senate Armed Services",
+"note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-armed-services-senate-go-dcc4431c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Armed Services Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+{
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "armed-services.senate.gov",
+"topics": [
+{
+"claims": [
+"c-be9d8fb85e"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.armed-services.senate.gov/about/membership"
+]
+}

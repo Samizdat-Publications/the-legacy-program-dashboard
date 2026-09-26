@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "document",
+"id": "baass-ten-month-report",
+"label": "BAASS Ten Month Report (2009)"
+},
+"claimTier": 2,
+"id": "e-62a2ff3408",
+"label": "delivered the 494-page report to DIA",
+"note": "The deliverable that shows the program's actual shape: physics, field teams, case database, ranch operations, human effects. Never released by DIA.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-metabunk-org-d25e1dc5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Metabunk",
+"listedOn": [
+{
+"cls": "document",
+"id": "baass-ten-month-report",
+"label": "BAASS Ten Month Report (2009)"
+}
+],
+"node": null,
+"title": "Metabunk — BAASS Ten Month Report thread",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/"
+]
+}

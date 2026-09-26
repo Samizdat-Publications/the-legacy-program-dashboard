@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-4b413d014c",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/",
+"text": "DIA Talking Paper U-973-09 states the RFP broke the work into twelve technical areas: Lift; Propulsion; Control; Armament (radio-frequency and directed-energy weapons); Spatial/temporal Translation; Signature Reduction; Materials; Configuration/structure; Power Generation; Human Effects (of advanced tech on operators); Human Interface (i.e. pilot controls); Technology Integration.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-816b6b4968",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/",
+"text": "DIA Talking Paper: 'Senator Reid has a deep interest in the potential threat posed by unconventional aerospace technologies; that is, technologies that are a radical departure to those used in current advanced aerospace vehicles. He is interested in what technological \"leaps\" are feasible and their implications to US national defense.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-11d10924b7",
+"label": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
+"note": "'On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dia-mil-25bf2a13",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+}
+],
+"node": null,
+"title": "DIA Talking Paper U-973-09, 'Senator Reid Visit to Director, DIA', 04 May 2009 (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-4b413d014c"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-4b413d014c"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/"
+]
+}

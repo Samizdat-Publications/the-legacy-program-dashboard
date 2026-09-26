@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-461ada2a80",
+"locator": null,
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"sourceText": "OTA, 'A History of the Department of Defense Federally Funded Research and Development Centers', 1995",
+"text": "The Office of Technology Assessment's 1995 history records that the Air Force specifically insisted on restrictions in the Aerospace Corporation charter that it had not imposed on earlier FFRDCs.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 2,
+"id": "e-09edc06a2f",
+"label": "MITRE was created on the RAND model as the Air Force's systems engineering counterpart",
+"note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-princeton-edu-cb2b4013",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "princeton.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "OTA - A History of DoD FFRDCs",
+"topics": [
+{
+"claims": [
+"c-461ada2a80"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
+"type": "document",
+"urls": [
+"https://www.princeton.edu/~ota/disk1/1995/9501/950110.PDF"
+]
+}

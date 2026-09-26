@@ -1,0 +1,105 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-2fcad4b3b2",
+"locator": "legal documents section",
+"node": "cash-v-united-states",
+"nodeLabel": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"sourceText": "Curt Collins, Cash-Landrum UFO Case Document Collection, note to the legal documents section",
+"text": "The Defense conducted an investigation into whether the object was a US military device; no documents from that investigation have surfaced.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-schuessler",
+"label": "John F. Schuessler"
+},
+"b": {
+"cls": "person",
+"id": "betty-cash",
+"label": "Betty Cash"
+},
+"claimTier": 1,
+"id": "e-da40cd6ba6",
+"label": "Investigator of record from February 1981",
+"note": "Schuessler and Project VISIT taped the hospital interview in early February 1981, conducted the on-site investigation on 28 February 1981 and filed a 35-page report with MUFON on 4 March 1981; he published the case file in 1998.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-schuessler",
+"label": "John F. Schuessler"
+},
+"b": {
+"cls": "institution",
+"id": "mufon",
+"label": "Mutual UFO Network (MUFON)"
+},
+"claimTier": 2,
+"id": "e-31145fb101",
+"label": "MUFON International Director 2000-2006 and case investigator",
+"note": "Schuessler investigated Cash-Landrum for MUFON from 1981 and served as its International Director from 2000 to 2006.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-blueblurrylines-com-79754846",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "blueblurrylines.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "betty-cash",
+"label": "Betty Cash"
+},
+{
+"cls": "event",
+"id": "cash-v-united-states",
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
+},
+{
+"cls": "location",
+"id": "l-huffman-tx",
+"label": "Huffman / Dayton, Texas"
+},
+{
+"cls": "institution",
+"id": "cufos",
+"label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+},
+{
+"cls": "person",
+"id": "john-schuessler",
+"label": "John F. Schuessler"
+},
+{
+"cls": "institution",
+"id": "mufon",
+"label": "Mutual UFO Network (MUFON)"
+}
+],
+"node": null,
+"title": "Curt Collins, Cash-Landrum UFO Case Document Collection",
+"topics": [
+{
+"claims": [
+"c-2fcad4b3b2"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"
+]
+}

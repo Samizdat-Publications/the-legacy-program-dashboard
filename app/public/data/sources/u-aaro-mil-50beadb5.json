@@ -1,0 +1,61 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-9cf0569b0d",
+"label": "Volume I surfaced Kona Blue and framed it as the origin of crash-retrieval belief",
+"note": "AARO disclosed the DHS prospective SAP and used it to argue that witnesses mistook a rejected proposal for an operating programme.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"claimTier": 1,
+"id": "e-af331898aa",
+"label": "DHS prospective special access program, terminated 10 February 2012",
+"note": "DHS Acting Deputy Secretary Kristie Canegallo transmitted the declassified Kona Blue records to the Deputy Secretary of Defense on 5 February 2024.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-aaro-mil-50beadb5",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+}
+],
+"node": null,
+"title": "AARO DHS Kona Blue package",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/UAP_Records_Research/AARO_DHS_Kona_Blue.pdf"
+]
+}

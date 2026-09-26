@@ -7,20 +7,44 @@
 {
 "id": "c-3c08e4a22c",
 "source": "Janice Charette, Clerk of the Privy Council, Secret memo to PM Trudeau, 14 February 2023",
+"sources": [
+{
+"id": "n-charette-memo-2023",
+"locator": null,
+"title": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+}
+],
 "text": "'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-456e67d7ae",
 "source": "Charette memo, 14 February 2023",
+"sources": [
+{
+"id": "n-charette-memo-2023",
+"locator": null,
+"title": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+}
+],
 "text": "UAP #23 (the Yukon object) 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-938ec34ef8",
 "source": "Charette memo, 14 February 2023",
+"sources": [
+{
+"id": "n-charette-memo-2023",
+"locator": null,
+"title": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+}
+],
 "text": "'It is unknown whether it poses an armed threat or has intelligence collection capabilities.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

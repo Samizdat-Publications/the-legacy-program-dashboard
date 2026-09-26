@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c45f2ed745",
+"locator": null,
+"node": "limina-journal",
+"nodeLabel": "Limina - The Journal of UAP Studies",
+"sourceText": "Crossref records for DOI prefix 10.59661",
+"text": "Limina publishes peer-reviewed UAP studies under DOI prefix 10.59661, including Ammon (January 2024), Szydagis (March 2025), Grosvenor, Hancock & Porritt on the US atomic warfare complex (March 2025) and Houran on government-sourced UAP data (July 2026).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "t-97167d17b2f5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Crossref",
+"listedOn": [],
+"node": null,
+"title": "Crossref records for DOI prefix 10.59661",
+"topics": [
+{
+"claims": [
+"c-c45f2ed745"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "web page",
+"urls": []
+}

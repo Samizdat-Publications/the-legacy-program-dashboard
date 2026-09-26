@@ -1,0 +1,89 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-558cac61bc",
+"label": "CIA officer detailed to NRO advanced systems",
+"note": "The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-9162e357c4",
+"label": "Staff Director, House Space and Aeronautics Subcommittee",
+"note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 1,
+"id": "e-d858087fa9",
+"label": "Principal Deputy Director, then Acting Director, NRO",
+"note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 1,
+"id": "e-eacf29aa11",
+"label": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+"note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-nro-gov-630bfe04",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Reconnaissance Office",
+"listedOn": [],
+"node": null,
+"title": "National Reconnaissance Office, leadership biography of William B. Adkins",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+]
+}

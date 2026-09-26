@@ -1,0 +1,87 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2c5d74b65c",
+"locator": null,
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"sourceText": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-034eb78877",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"text": "Sol Foundation Science and Policy Briefing No. 3 (April 2026), by Marik von Rennenkampff, presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, associated with Garry Nolan.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+"claimTier": 3,
+"id": "e-1710267de7",
+"label": "competing materials programme",
+"note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "marik-von-rennenkampff",
+"label": "Marik von Rennenkampff"
+},
+"b": {
+"cls": "document",
+"id": "sol-briefing-3-2026",
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+},
+"claimTier": 1,
+"id": "e-94c6878bb2",
+"label": "author of Sol Science and Policy Briefing No. 3",
+"note": "Von Rennenkampff is the named author of 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies,' The Sol Foundation Science and Policy Briefings No. 3, April 2026.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thesolfoundation-org-0e6cf6ba",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+}
+],
+"node": null,
+"title": "The Sol Foundation, Science and Policy Briefing No. 3 (Marik von Rennenkampff, April 2026)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+]
+}

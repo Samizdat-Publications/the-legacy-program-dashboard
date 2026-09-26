@@ -1,0 +1,132 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-d62441efb9",
+"label": "The memo pages entered public circulation from Green's document holdings",
+"note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "christopher-sharp",
+"label": "Christopher Sharp"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 2,
+"id": "e-9568535650",
+"label": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
+"note": "Burlison attributed the reporting to Sharp by name on 13 November 2024 and Elizondo confirmed the block, making this the rare case of independent journalism validated on the record by the relevant witness.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-pax-river",
+"label": "Naval Air Station Patuxent River, Maryland"
+},
+"claimTier": 2,
+"id": "e-9190046bcf",
+"label": "Lockheed Martin is named among the contractors supporting NAVAIR work at the site alleged to store an exotic vehicle",
+"note": "Liberation Times reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included Lockheed Martin and MITRE.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "location",
+"id": "l-pax-river",
+"label": "Naval Air Station Patuxent River, Maryland"
+},
+"claimTier": 2,
+"id": "e-68119aee15",
+"label": "Elizondo placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer",
+"note": "Reported from his written congressional testimony: a hangar at the base was allegedly designed to facilitate movement of material by air and by river.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-pax-river",
+"label": "Naval Air Station Patuxent River, Maryland"
+},
+"claimTier": 2,
+"id": "e-c3fc1d3808",
+"label": "MITRE is named among the FFRDC and contractor ecosystem supporting NAVAIR programs at Pax River",
+"note": "The FFRDC form grants privileged long-term access to classified holdings while barring manufacturing and competition; no allegation of custody attaches to MITRE.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-liberationtimes-com-3ed24c76",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "person",
+"id": "christopher-sharp",
+"label": "Christopher Sharp"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "location",
+"id": "l-pax-river",
+"label": "Naval Air Station Patuxent River, Maryland"
+},
+{
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+}
+],
+"node": null,
+"title": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface, ' Liberation Times",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+]
+}

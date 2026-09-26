@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "reckoning-book",
+"label": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now"
+},
+"claimTier": 2,
+"id": "e-23fed027b7",
+"label": "Second book scheduled 27 August 2026",
+"note": "HarperCollins promises 'previously undisclosed evidence'. Whether it went through DOPSR, and what was struck, is not yet public.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-uapdigest-com-cd8fd368",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "uapdigest.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "reckoning-book",
+"label": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now"
+}
+],
+"node": null,
+"title": "UAP Digest",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.uapdigest.com/luis-elizondos-new-book-reckoning-promises-undisclosed-evidence-on-ufos/"
+]
+}

@@ -1,0 +1,231 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-207f1a9a9f",
+"locator": null,
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "Contents and body of the Green DIRD",
+"text": "The document draws on 42 relevant cases from the peer-reviewed medical literature plus roughly 300 unpublished cases, and includes appendices titled 'Schuessler Catalog', 'Green Morris Cases' and 'Green-Morris ICD Diagnostics'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f6c3db215a",
+"locator": "executive summary",
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "Executive Summary of the Green DIRD",
+"text": "The DIRD's executive summary asserts that reported incidents and acquired medical data 'support a hypothesis that some advanced systems are already deployed, and opaque to full US Intelligence understanding'.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-0670819d54",
+"locator": null,
+"node": "d-consciousness",
+"nodeLabel": "Consciousness & Observer Effects",
+"sourceText": "Kit Green DIRD, via The Black Vault",
+"text": "DIA commissioned a DIRD on clinical medical acute and subacute field effects on human dermal and neurological tissues, authored by Christopher Green.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c27c359945",
+"locator": "cover page",
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "Cover page of the Green DIRD",
+"text": "The Institute for Advanced Studies at Austin imprint appears on the cover of Christopher Green's AAWSAP medical DIRD.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-edfec7dae1",
+"locator": "cover page",
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "Cover page of 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"text": "The IASA imprint appears on the cover of the AAWSAP medical DIRD authored by Christopher Green, M.D., Ph.D.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c32ff9901c",
+"locator": "cover and preface",
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "Cover and preface, 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', Christopher Green, M.D., Ph.D.",
+"text": "The Institute for Advanced Studies at Austin - Puthoff's institute - appears as the producing imprint on the cover of Christopher Green's AAWSAP medical DIRD, and that document's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' for analysis of 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-2abc85c16b",
+"locator": null,
+"node": "d-medical",
+"nodeLabel": "Medical & Injury Effects",
+"sourceText": "Kit Green DIRD, via The Black Vault",
+"text": "Christopher Green of the Institute for Advanced Studies at Austin authored a DIRD on 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'.",
+"tier": 1
+}
+],
+"date": "2009",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-f5202bc8bd",
+"label": "Life Sciences Division, Office of Scientific Intelligence",
+"note": "Green was the agency analyst to whom biological anomalies were routed, including oversight of the SRI remote-viewing work, before writing the AAWSAP injury study two decades later.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+"claimTier": 1,
+"id": "e-72d320eaff",
+"label": "Author of the AAWSAP human-injury reference document",
+"note": "Green, a physician-neuroscientist and former CIA life-sciences analyst, wrote the study of injuries attributed to proximity to anomalous craft; released publicly by Popular Mechanics on 14 February 2020.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-02c70e3391",
+"label": "Produced under the Institute for Advanced Studies at Austin imprint",
+"note": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 1,
+"id": "e-e17e4dea1a",
+"label": "Preface quotes a November 2007 proposal on 'Probable ET Generated' emissions addressed to Puthoff/Hathaway",
+"note": "This is the earliest dated documentary link between Puthoff and a US-sponsored effort to characterise fields associated with 'exotic propulsion' - nine months before the AAWSAP contract was awarded to BAASS.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"claimTier": 3,
+"id": "e-7a63ae249c",
+"label": "Same problem, twelve years apart: casualty biology as a route to propulsion characterisation",
+"note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
+"type": "programmatic"
+}
+],
+"era": "2",
+"host": "The Black Vault",
+"id": "n-dird-green-clinical-medical",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap-dird-series",
+"label": "AAWSAP Defense Intelligence Reference Document series"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "domain",
+"id": "d-consciousness",
+"label": "Consciousness & Observer Effects"
+},
+{
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "domain",
+"id": "d-medical",
+"label": "Medical & Injury Effects"
+},
+{
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+}
+],
+"node": {
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"topics": [
+{
+"claims": [
+"c-207f1a9a9f",
+"c-f6c3db215a"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "document",
+"urls": [
+"https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+]
+}

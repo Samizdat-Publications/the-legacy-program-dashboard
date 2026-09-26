@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-85e20619f1",
+"locator": null,
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"sourceText": "Joynes Funeral Home, Inc., obituary record published 27 February 2025, https://www.joynesfuneralhome.com/obituary/Harald-Malmgren",
+"text": "He died on 13 February 2025. The funeral home's published record reads: 'Harald B. Malmgren death notice and obituary, Thursday February 13, 2025. Joynes Funeral Home, Inc. Warrenton, VA 20188.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-joynesfuneralhome-com-4440d20d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "joynesfuneralhome.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "harald-b-malmgren",
+"label": "Harald B. Malmgren"
+}
+],
+"node": null,
+"title": "Joynes Funeral Home, Inc., obituary record for Harald B. Malmgren",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.joynesfuneralhome.com/obituary/Harald-Malmgren"
+]
+}

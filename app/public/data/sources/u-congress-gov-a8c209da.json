@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+},
+"claimTier": 1,
+"id": "e-0674cccc32",
+"label": "Lead sponsor of the 2024 refiling",
+"note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-congress-gov-a8c209da",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+{
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+{
+"cls": "legislation",
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+}
+],
+"node": null,
+"title": "Congress.gov — S.Amdt. 2610",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/amendment/118th-congress/senate-amendment/2610"
+]
+}

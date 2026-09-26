@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-18e8f83d44",
+"locator": null,
+"node": "l-groom-lake",
+"nodeLabel": "Groom Lake, Nevada",
+"sourceText": "National Security Archive Electronic Briefing Book 443, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443 by Jeffrey T. Richelson on 29 October 2013. This is a statement about Groom Lake. It is NOT a statement about Papoose Lake, and the board's s-4-papoose-lake node exists partly to keep the two from being blurred.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-05db4e45b3",
+"locator": null,
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"sourceText": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE DOCUMENTED HALF OF THE GEOGRAPHY, WHICH IS ABOUT GROOM LAKE AND NOT ABOUT PAPOOSE LAKE. The Groom Lake facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443, edited by Jeffrey T. Richelson on 29 October 2013.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "National Security Archive",
+"id": "u-nsarchive-gwu-edu-8b908003",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+{
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+}
+],
+"node": null,
+"title": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, on the declassified CIA U-2 and OXCART history",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://nsarchive.gwu.edu/node/3324"
+]
+}

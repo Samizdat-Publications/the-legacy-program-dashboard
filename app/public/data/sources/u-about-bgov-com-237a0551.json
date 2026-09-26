@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+},
+"claimTier": 1,
+"id": "e-b7588a393c",
+"label": "MITRE has administered JASON since 2002",
+"note": "MITRE provides management and logistics for the government's most sensitive standing scientific advisory panel; the contract was saved by an NNSA sole-source award in April 2019 after DoD declined renewal.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-about-bgov-com-237a0551",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "about.bgov.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+}
+],
+"node": null,
+"title": "Bloomberg Government",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://about.bgov.com/insights/news/pentagons-advisory-group-jason-survives-another-competition/"
+]
+}

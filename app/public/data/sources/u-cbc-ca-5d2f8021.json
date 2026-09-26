@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-fa4b901528",
+"locator": null,
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"sourceText": "CBC News, 14 May 2019 https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588",
+"text": "CBC News reports that Friedman died suddenly at Toronto Pearson Airport on the Monday night of 13 May 2019, aged 84, while returning from a speaking engagement in Columbus, Ohio, and describes him as 'a nuclear physicist by training' who 'had devoted his life to researching and investigating UFOs since the late 1960s'. The City of Fredericton declared 27 August 2007 Stanton Friedman Day.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-cbc-ca-5d2f8021",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cbc.ca",
+"listedOn": [
+{
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+}
+],
+"node": null,
+"title": "CBC News, 'Stanton Friedman, famed UFO researcher, dead at 84', 14 May 2019",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588"
+]
+}

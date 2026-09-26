@@ -7,92 +7,212 @@
 {
 "id": "c-fdf20940d0",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "THE CONTRACTOR CARVE-OUT, in regulation. 32 CFR 117.6(b) (responsibilities of the Director, DCSA) verbatim: 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, \"DoD SAP Policy\".' The preceding sentence establishes what is being relieved: DCSA 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-81330177af",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "The carve-out is therefore not a classification device but an INSPECTION device: it removes the one federal agency that would otherwise physically visit, inspect, and record a cleared contractor facility performing the classified work. Nothing else in Part 117 substitutes an alternative external inspector; oversight reverts inside the SAP's own chain.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-148a97616f",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.3(b) defines ACCM verbatim: 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.' ACCM is thus a SAP-like access control that by definition sits outside the SAP reporting statutes.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4fe2a93b39",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.3(b) defines SAP verbatim: 'SAP means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c5d8a9694b",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.23 is titled 'Supplement to this rule: Security Requirements for Alternative Compensatory Control Measures (ACCM), Special Access Programs (SAPs), Sensitive Compartmented Information (SCI), Restricted Data (RD), Formerly Restricted Data (FRD), Transclassified Foreign Nuclear Information (TFNI), and Naval Nuclear Propulsion Information (NNPI).' 117.23(a)(1) verbatim: 'The contractor will comply with the security measures reflected in this section and other documents specifically referenced, when applied by the GCA or designee as part of a contract. Acceptance of the contract security measures is a prerequisite to any negotiations leading to program participation and an area accreditation (e.g., an SCI facility or SAP facility accreditation).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-db2aa89ceb",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.6(b) cites, as the controlling authority for the carve-out, the pre-2024 version of DoDD 5205.07 at the URL https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf?ver=2020-02-04-142942-827 — i.e. the 1 July 2010 directive as amended. The regulation has not been updated to cite the 12 September 2024 reissuance.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a6be0f559c",
 "source": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.6(b)(3) provides verbatim: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" The relief of the oversight body is therefore codified in the Code of Federal Regulations, not confined to DoD internal issuances.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9b1e75e76c",
 "source": "32 CFR part 117 authority citation, eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "The authority citation for the part reads: 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458; Title 42 U.S.C. 2011 et seq.; Title 50 U.S.C. Chapter 44; Title 50 U.S.C. 3501 et seq.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-21d25e9992",
 "source": "32 CFR part 117 source note, eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "The rule's source line is '85 FR 83312, Dec. 21, 2020', which dates the codified carve-out provision to the December 2020 NISPOM rulemaking.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c3e34a26ec",
 "source": "32 CFR 117.3(b)",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.3(b): 'SAP means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information. A SAP can be created or continued only as authorized by a senior agency official delegated such authority pursuant to E.O. 13526.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-aedb9acb26",
 "source": "32 CFR 117.3(b), definition of proscribed information",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.3(b) lists SAP information as 'proscribed information' together with TOP SECRET information, COMSEC information, Restricted Data and SCI.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-17b09ece88",
 "source": "32 CFR 117.23(d)(1)",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.23(d)(1): 'DoD SAP contracts. Contractors will implement the security requirements for SAPs codified in SAP-related policy, when established by contract. These documents include, but are not limited to, statutes, E.O.s, CSA directives, instructions, manuals, regulations, standards, memorandums, and other SAP security related policy documents.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-00c7c1dd26",
 "source": "32 CFR 117.23(a)(2)",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.23(a)(2) provides that where a CSA-created program requires measures exceeding the rule's standards, 'the CSA-imposed higher standards specifically detailed in the contract or conveyed through other applicable directives will be binding on USG and contractor participants.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b407704cc2",
 "source": "32 CFR 117.3(b), definition of ACCM",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "32 CFR 117.3(b) defines ACCM as 'security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-54dbf881c0",
 "source": "32 CFR 117.23(d)(1)",
+"sources": [
+{
+"id": "cfr-32-117",
+"locator": null,
+"title": "32 CFR Part 117 - NISPOM Rule"
+}
+],
 "text": "Because 117.23(d)(1) exports the substantive SAP security requirements into contract documents, the actual rules governing a contractor holding SAP material are not published anywhere in the Code of Federal Regulations and are not obtainable without the contract. Reasoning: the regulation defers to unspecified 'SAP security related policy documents' established by contract.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",
@@ -382,7 +502,7 @@
 ],
 "sub": "regulation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 61 of 1138, score 75). 8 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 60 of 1138, score 75). 8 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

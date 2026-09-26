@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-f6ecaab6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+}
+],
+"node": null,
+"title": "Wikipedia - Langley Air Force Base",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Langley_Air_Force_Base"
+]
+}

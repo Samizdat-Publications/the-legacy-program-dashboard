@@ -1,0 +1,180 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-898c3d9028",
+"locator": "Division I",
+"node": "d-legislative",
+"nodeLabel": "Legislative Process (proposed and pending)",
+"sourceText": "H.R. 2670 (EAS), Division I",
+"text": "Division I of H.R. 2670 as passed by the Senate on 27 July 2023 was the 'Unidentified Anomalous Phenomena Disclosure Act of 2023', Sections 9001-9010, including a Review Board and eminent domain over recovered technologies of unknown origin.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-3521aa2e4a",
+"locator": "Division I",
+"node": "d-records",
+"nodeLabel": "Records & Archives",
+"sourceText": "H.R. 2670 as passed by the Senate, Division I",
+"text": "The Senate-passed version of the FY2024 NDAA contained Division I, the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' (Sections 9001-9010), including a Review Board and eminent domain over recovered technologies of unknown origin.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-1430a59069",
+"locator": null,
+"node": "uapda-2023",
+"nodeLabel": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"sourceText": "Comparison of BILLS-118hr2670eas with Public Law 118-31",
+"text": "Section 9010 and the Review Board did not survive conference; the enacted Public Law 118-31 retains only the UAP Records Collection at Sections 1841-1843 and the funding limitations at 1687 and 7343.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d373917e2b",
+"locator": "Division I Sec. 9010(a)",
+"node": "uapda-2023",
+"nodeLabel": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"sourceText": "H.R. 2670 as passed by the Senate, 27 July 2023, Division I Sec. 9010(a)",
+"text": "'The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e64cb88033",
+"locator": "Division I Sec. 9001(11)",
+"node": "uapda-2023",
+"nodeLabel": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"sourceText": "H.R. 2670 as passed by the Senate, Division I Sec. 9001(11)",
+"text": "'Legacy program' is defined to include 'commercial industry, academic, and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 3,
+"id": "e-6e71962f2c",
+"label": "The 'outside of government so the technology could remain proprietary' formulation is what the eminent domain provision was written to defeat",
+"note": "Section 9010 asserts federal eminent domain over recovered technologies 'controlled by private persons or entities.' Reasoning: the legislative remedy matches the mechanism AARO records interviewees describing; no drafting record ties the two documents.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+"claimTier": 1,
+"id": "e-c89c1d3bd4",
+"label": "Proposal versus enactment",
+"note": "Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"claimTier": 1,
+"id": "e-354f6b405e",
+"label": "reduced to secs. 1841-1843 in conference",
+"note": "Public Law 118-31 contains no eminent domain clause, no Review Board and no contractor inspection authority. Congress asserted jurisdiction over the paper and left the objects where they are.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-691c07e14a",
+"label": "The Senate voted to seize privately held recovered technology by eminent domain",
+"note": "The Senate passed Division I of the NDAA on 27 July 2023 including Sec. 9010, and defined 'legacy program' to include 'commercial industry... and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin.' No named company is in the text; the provision only has meaning if some entity holds something.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "bills-118hr2670eas",
+"identifiers": [
+"BILLS-118hr2670eas"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)"
+},
+{
+"cls": "domain",
+"id": "d-records",
+"label": "Records & Archives"
+},
+{
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
+"node": null,
+"title": "BILLS-118hr2670eas",
+"topics": [
+{
+"claims": [
+"c-898c3d9028",
+"c-1430a59069",
+"c-e64cb88033"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+},
+{
+"claims": [
+"c-3521aa2e4a"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+]
+}

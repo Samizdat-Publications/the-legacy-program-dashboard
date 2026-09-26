@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-af41014f9e",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
+"text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
+"tier": 1
+}
+],
+"date": "2019-12-06",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-515aac39a8c7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Black Vault",
+"listedOn": [],
+"node": null,
+"title": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
+"topics": [
+{
+"claims": [
+"c-af41014f9e"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-af41014f9e"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "article",
+"urls": []
+}

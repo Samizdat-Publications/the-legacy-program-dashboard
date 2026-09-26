@@ -7,62 +7,136 @@
 {
 "id": "c-d12d404431",
 "source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:57:51",
+"sources": [
+{
+"id": "u-mgln-ai-06f34ffd",
+"locator": "0:57:51",
+"title": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:57:51, Michels said that 'in 1961, the RAND Corporation wrote a report called Some New Considerations Concerning the Nuclear Test Ban, which highlighted the susceptibility of the US ICBM re-entry vehicles to high-energy X-rays', and that this insight fed the Operation Dominic tests. The report was not opened: rand.org answers 403 to this environment and a search on the exact title returned nothing. If it exists it would place RAND in this material seven years before the 1968 Kocher draft with which the node's UFO record currently opens.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-db77bf1e4b",
 "source": "NSF NCSES Master Government List of FFRDCs, FY2026",
+"sources": [
+{
+"id": "u-ncses-nsf-gov-c5846988",
+"locator": null,
+"title": "NSF NCSES - Master Government List of Federally Funded R&D Centers"
+}
+],
 "text": "RAND operates four FFRDCs - Project AIR FORCE (Air Force), Arroyo Center (Army), National Defense Research Institute (USD A&S), and the Homeland Security Operational Analysis Center (DHS S&T).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a4f8acbf30",
 "source": "RAND publication page and PDF, DRU-1571",
+"sources": [
+{
+"id": "u-rand-org-583abfe0",
+"locator": "PDF companion also cited",
+"title": "RAND DRU-1571"
+}
+],
 "text": "RAND published George Kocher's 'UFOs: What To Do?' as draft DRU-1571 in November 1968.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-95dba0730b",
 "source": "RAND report RRA2475-1",
+"sources": [
+{
+"id": "u-rand-org-75d696d4",
+"locator": null,
+"title": "RAND - Mapping Public Reports of Unidentified Aerial Phenomena Across America (RRA2475-1)"
+}
+],
 "text": "RAND published 'Mapping Public Reports of Unidentified Aerial Phenomena Across America' (RRA2475-1) on 25 July 2023, citing Kocher's DRU-1571.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6c9e67d66d",
 "source": "USAspending.gov federal award records",
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "RAND's FFRDC contracts recorded on USAspending include FA701406C0001 (Project AIR FORCE, approx. $467 million), W74V8H06C0001 (Arroyo, approx. $328 million) and W74V8H06C0002 (NDRI, approx. $308 million), with current NDRI task orders HQ003422F0012, HQ003423F0005 and HQ003424F0003.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f69a4b8000",
 "source": "MITRE corporate history; UAP Gerb investigation, 7 August 2026, restating the same point",
+"sources": [],
 "text": "MITRE was founded as the Air Force's systems engineering counterpart modelled on the RAND Corporation.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:gerb-mitre-investigation) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-240b9b83f1",
 "source": "https://catalog.archives.gov/id/656595571",
+"sources": [
+{
+"id": "u-catalog-archives-gov-2dd21fcb",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The Department of the Air Force's first transfer into NARA Record Group 615 (series 656595571, 30 items, accessioned 28 August 2026) contains two RAND items sixteen years apart: item 342UAP00003, the Curtis LeMay Collection 1945-1947, which carries a 5 August 1947 report naming Project RAND; and item 342UAP00025, RAND Memorandum RM-3178-PR of March 1963.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dadf466596",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-fecd9c41",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "A report headed 'Report on Evaluation of Military Worth Activities (Reports Control Symbol WDCSO-(OT)-50)', Operations Analysis AC/AS-3, dated 5 August 1947 and directed to the Deputy Chief of Air Staff for Research and Development, states that 'The principal AAF activity in this particular field is Project RAND (AAF Project MX-791).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-05cc67d78c",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-fecd9c41",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "The same 5 August 1947 report gives estimated man-days of work performed on Project RAND during June 1947 as: military personnel 30, civilian 10, contractor's personnel RAND proper 2,200 and RAND subcontractors 1,400, total 3,600 -- so contractor effort was roughly ninety times government effort at the point RAND was still inside Douglas Aircraft.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-14aa7f58d8",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00907058_A_Survey_of_Exobiology.pdf",
+"sources": [
+{
+"id": "u-catalog-archives-gov-5497d51b",
+"locator": null,
+"title": "catalog.archives.gov"
+}
+],
 "text": "Item 342UAP00025 of the Air Force RG 615 transfer is RAND Memorandum RM-3178-PR, 'A Survey of Exobiology' by Paul G. Seybold, March 1963, marked UNCLASSIFIED and 'PREPARED FOR: UNITED STATES AIR FORCE PROJECT RAND', bearing an Aerospace Studies Institute Archives Branch return stamp for Maxwell AFB, Alabama.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

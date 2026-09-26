@@ -7,20 +7,38 @@
 {
 "id": "c-a0636b3cac",
 "source": "NSA UFO FOIA collection, litigation records including the Yeates Affidavit",
+"sources": [],
 "text": "In Civil Action No. 80-1562 the judge was given in camera Top Secret access to NSA's explanation of why the UFO documentation was being withheld and ruled in NSA's favour, allowing the information to remain classified.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:yeates-affidavit) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-c533a552eb",
 "source": "The Black Vault, NSA UFO collection provenance",
+"sources": [
+{
+"id": "u-theblackvault-com-434b4049",
+"locator": "provenance section",
+"title": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records"
+}
+],
 "text": "NSA released the COMINT records with most pages having only a few words visible, redacted using white-out; a July 2013 Mandatory Declassification Review was required to obtain further release.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6fa2e3cce0",
 "source": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency",
+"sources": [
+{
+"id": "u-courtlistener-com-bc299077",
+"locator": null,
+"title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+}
+],
 "text": "The D.C. Circuit affirmed on 3 November 1981; certiorari was denied on 8 March 1982.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "event",
@@ -253,7 +271,7 @@
 ],
 "sub": "FOIA litigation, D.D.C. 1980 - D.C. Cir. 1981 - cert. denied 1982",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 307 of 1138, score 39). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 308 of 1138, score 39). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

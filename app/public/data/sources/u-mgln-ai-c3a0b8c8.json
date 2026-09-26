@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b775ee8fd9",
+"locator": "0:08:54-0:09:47",
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"sourceText": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:08:54 to 0:09:47",
+"text": "On American Alchemy with Jesse Michels, 21 February 2025, between 0:08:54 and 0:09:47, the guest Sammy, known as UAP Gerb, said of the retrieval teams described in the Jonathan Wigant account of Peru in 1997 and the Michael Herrera account of Indonesia in 2009 that 'I think this is likely a DOE NEST team, nuclear emergency search teams', which 'received help from contractors like EG&G'. Reasoning: he frames this explicitly as his own inference from the DOE-lettered rain jackets and hazmat suits the witnesses describe, not as a record.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-b87817d7ba",
+"locator": "1:33:30",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 1:33:30",
+"text": "On American Alchemy with Jesse Michels, 21 February 2025, at 1:33:30, the guest Sammy, known as UAP Gerb, said that 'Eric Henry Wang, who ran special projects at Wright-Patterson, or Wright Airfield at the time, was taken to Kirtland Air Force Base', and that 'Wang was also talked about by primary Kingman witness, Arthur Stancil Jr.' The board's own DTIC reading establishes Wang's move to Kirtland and names Arthur Stansel as his colleague; it establishes nothing about Kingman.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-2c179df4d9",
+"locator": "0:24:35",
+"node": "sperry-rand",
+"nodeLabel": "Sperry Rand Corporation",
+"sourceText": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:24:35",
+"text": "On American Alchemy with Jesse Michels, 21 February 2025, at 0:24:35, the guest Sammy, known as UAP Gerb, said that on Philip J. Corso's account Roswell-derived material was distributed for civil and commercial use through 'Bell Labs, Sperry Rand', and thence through its divisions to 'Northrop, Lockheed, Martin, Raytheon, and others'. This is a report of what Corso wrote, not a document, and no contemporaneous record naming Sperry Rand in that role was opened.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-c3a0b8c8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "person",
+"id": "eric-wang",
+"label": "Eric H. Wang"
+},
+{
+"cls": "institution",
+"id": "sperry-rand",
+"label": "Sperry Rand Corporation"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World' (audio)",
+"topics": [
+{
+"claims": [
+"c-b775ee8fd9"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE8993457707.mp3?updated=1751590849"
+]
+}

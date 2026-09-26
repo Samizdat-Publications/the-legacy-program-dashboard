@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"claimTier": 2,
+"id": "e-fe5b13f2bd",
+"label": "Named as a target of his records investigation",
+"note": "Aerospace holds the technical judgement on national security space sensing; no letter to Aerospace has been made public as of 12 August 2026.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-newsnationnow-com-9fe846ab",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [
+{
+"cls": "person",
+"id": "charles-a-richard",
+"label": "Charles A. Richard"
+},
+{
+"cls": "institution",
+"id": "ida",
+"label": "Institute for Defense Analyses"
+},
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "NewsNation - Lawmaker requests UFO talk from private contractor",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/ufo/lawmaker-ufo-talk-private-contractor/"
+]
+}

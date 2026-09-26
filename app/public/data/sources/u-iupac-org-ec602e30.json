@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-4c4251eab6",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "IUPAC, 'IUPAC announces the names of the elements 113, 115, 117 and 118', 30 November 2016, https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/ , opened 2026-09-18",
+"text": "The name moscovium, symbol Mc, was formally approved on 28 November 2016 and announced on 30 November 2016: 'Moscovium with the symbol Mc for element 115... proposed by the discoverers at the Joint Institute for Nuclear Research, Dubna (Russia), Oak Ridge National Laboratory (USA), Vanderbilt University (USA) and Lawrence Livermore National Laboratory (USA)', in recognition of the Moscow region.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+"b": {
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+"claimTier": 1,
+"id": "e-86a7f2a334",
+"label": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
+"note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-iupac-org-ec602e30",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "iupac.org",
+"listedOn": [
+{
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+}
+],
+"node": null,
+"title": "IUPAC announces the names of the elements 113, 115, 117 and 118",
+"topics": [
+{
+"claims": [
+"c-4c4251eab6"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+}
+],
+"type": "web page",
+"urls": [
+"https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/"
+]
+}

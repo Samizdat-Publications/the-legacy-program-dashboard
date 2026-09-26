@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-e270ce5dc6",
+"locator": null,
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "Department of War FOIA appellate decision, December 2025",
+"text": "On 15 December 2025 a FOIA appellate decision remanded the case to the Department for additional searches, granting the appeal that argued a search limited to the Correspondence Management Division was inadequate under Oglesby v. U.S. Dep't of Army, 920 F.2d 57 (D.C. Cir. 1990).",
+"tier": 1
+}
+],
+"date": "2025-12",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-7e55602233d2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of War",
+"listedOn": [],
+"node": null,
+"title": "Department of War FOIA appellate decision, December 2025",
+"topics": [
+{
+"claims": [
+"c-e270ce5dc6"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
+"type": "document",
+"urls": []
+}

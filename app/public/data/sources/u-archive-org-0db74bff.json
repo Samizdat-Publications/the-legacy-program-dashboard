@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-0db74bff",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "eric-wang",
+"label": "Eric H. Wang"
+}
+],
+"node": null,
+"title": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283, full text",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/stream/DTIC_AD0460283/DTIC_AD0460283_djvu.txt"
+]
+}

@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c459b33f5e",
+"locator": "metadata fields quoted (Author DAS; Owner MoD)",
+"node": "uk-mod",
+"nodeLabel": "United Kingdom Ministry of Defence",
+"sourceText": "UK MoD Publication Scheme, 15 May 2006",
+"text": "MoD publication scheme metadata for the Condign executive summary: 'Author: DAS; Owner: Ministry of Defence; Freedom of Information Organisation area: Directorate of Air Staff; Freedom of Information Information class: Unidentified Flying Objects.'",
+"tier": 1
+}
+],
+"date": "2006-05-15",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "t-9422c03f9408",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "UK MoD Publication Scheme, 15 May 2006",
+"topics": [],
+"type": "web page",
+"urls": []
+}

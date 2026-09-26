@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+"b": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"claimTier": 2,
+"id": "e-f9ed07ffe6",
+"label": "Directed the NDA waiver in July 2026",
+"note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-4166ab222b",
+"label": "NDA waiver regime addresses the exact obstacle Grusch's witnesses faced",
+"note": "Grusch swore in 2023 that witnesses would come forward only behind closed doors and with assurances that breaking NDAs would not be prosecuted. The July 2026 directive waives UAP-related NDAs for disclosures to cleared AARO or PURSUE officials. Reasoning: the directive's mechanism maps directly onto the barrier Grusch described under oath, though no document ties the two.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-e086d2008f",
+"label": "The waiver reproduces the channel that failed Grusch",
+"note": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-74c9ca2665",
+"label": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
+"note": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-foxnews-com-8909644e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fox News",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+{
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+}
+],
+"node": null,
+"title": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+]
+}

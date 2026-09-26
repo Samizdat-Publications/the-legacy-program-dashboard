@@ -7,20 +7,38 @@
 {
 "id": "c-4aa992e258",
 "source": "OSD/JS FOIA 18-F-0324",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": null,
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "Contains the passage: 'Despite overwhelming evidence at both the unclassified and classified levels, certain individuals in the Department remain staunchly opposed to further research on what could be tactical threats.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5df4646487",
 "source": "OSD/JS FOIA 18-F-0324",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": null,
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "Contains: 'The Department must take seriously the many accounts by the Navy and other services of unusual aerial systems interfering with military weapon platforms and displaying beyond next generation capabilities.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fafdfa9627",
 "source": "Helene Cooper, Ralph Blumenthal, Leslie Kean, New York Times, 16 December 2017",
+"sources": [],
 "text": "Reported by the New York Times as addressed to Defense Secretary Jim Mattis and as asking 'Why aren't we spending more time and effort on this issue?'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:nicap.org/reports2/2004_20171216_NYTArt_1.pdf) was rejected in review: cannot tell which 16 Dec 2017 NYT article the NICAP copy is"
 }
 ],
 "cls": "document",
@@ -126,7 +144,7 @@
 ],
 "sub": "Memorandum saluted 'Mr. Secretary', hand-delivered after departure",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 651 of 1138, score 26). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 650 of 1138, score 26). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

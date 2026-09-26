@@ -7,20 +7,44 @@
 {
 "id": "c-5d28828837",
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"sources": [
+{
+"id": "n-gerb-hidden-wing",
+"locator": null,
+"title": "UAP Gerb - 'The Hidden Wing' (USAF structure)"
+}
+],
 "text": "Alleged USAF legacy involvement is concentrated in SAF/AQ (with SAF/AQX, SAF/AQL Special Programs and SAF/AQR), SAF/AA, AF/TE and AFOSI.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4a61c13c2f",
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"sources": [
+{
+"id": "n-gerb-hidden-wing",
+"locator": null,
+"title": "UAP Gerb - 'The Hidden Wing' (USAF structure)"
+}
+],
 "text": "SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure likely serve as the Air Force SES-2 gatekeeper mentioned by Christopher Mellon.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-1cf6dd04be",
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"sources": [
+{
+"id": "n-gerb-hidden-wing",
+"locator": null,
+"title": "UAP Gerb - 'The Hidden Wing' (USAF structure)"
+}
+],
 "text": "AFOSI/PJ (Office of Special Projects) and its former director Terry Phillips, now Northrop Grumman VP for Security, are alleged operative nodes.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",

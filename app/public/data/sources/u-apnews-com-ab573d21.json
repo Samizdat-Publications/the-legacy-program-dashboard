@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-128c545f8c",
+"label": "Chair, appointed June 2026",
+"note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 2,
+"id": "e-bf549df459",
+"label": "No budget, no classified access - constitutionally unable to reach the material",
+"note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-apnews-com-ab573d21",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "apnews.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85"
+]
+}

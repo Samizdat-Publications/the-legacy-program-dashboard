@@ -10,14 +10,30 @@
 {
 "id": "c-53a79bf488",
 "source": "https://www.appropriations.senate.gov/subcommittees/defense",
+"sources": [
+{
+"id": "u-appropriations-senate-go-1b72df64",
+"locator": null,
+"title": "appropriations.senate.gov"
+}
+],
 "text": "Christopher A. Coons (D-DE) is listed as Ranking Member of the Defense Subcommittee of the Senate Appropriations Committee on the subcommittee's official page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6264360caf",
 "source": "https://www.appropriations.senate.gov/subcommittees/defense",
+"sources": [
+{
+"id": "u-appropriations-senate-go-1b72df64",
+"locator": null,
+"title": "appropriations.senate.gov"
+}
+],
 "text": "The published jurisdiction of the Senate Appropriations Defense Subcommittee includes the Central Intelligence Agency, the Defense Intelligence Agency, the National Reconnaissance Office, the National Security Agency and the National Geospatial and Intelligence Agency alongside the military departments.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

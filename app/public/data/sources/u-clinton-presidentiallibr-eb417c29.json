@@ -1,0 +1,157 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8b9dfccdc0",
+"locator": null,
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"sourceText": "Clinton Digital Library collection finding aid, identifier 2006-0474-F",
+"text": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-4d7b35acd7",
+"locator": null,
+"node": "disclosure-project",
+"nodeLabel": "The Disclosure Project",
+"sourceText": "Clinton Digital Library collection finding aid 2006-0474-F",
+"text": "The Clinton White House's principal UFO FOIA collection (2006-0474-F) consists in the majority of documents sent to the White House by Steven M. Greer of CSETI.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+"b": {
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
+"claimTier": 2,
+"id": "e-b27b0e0584",
+"label": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
+"note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+"b": {
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+"claimTier": 3,
+"id": "e-bc1955e500",
+"label": "The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff",
+"note": "Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+"b": {
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+"claimTier": 1,
+"id": "e-a387ccf61b",
+"label": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
+"note": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+"b": {
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
+"claimTier": 2,
+"id": "e-43cfdcf1ce",
+"label": "Greer founded and led the Disclosure Project",
+"note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
+"b": {
+"cls": "person",
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"claimTier": 3,
+"id": "e-dd096990f4",
+"label": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
+"note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-clinton-presidentiallibr-eb417c29",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Clinton Presidential Library",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-virginia",
+"label": "Charlottesville and the Commonwealth of Virginia"
+},
+{
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+{
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+{
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+}
+],
+"node": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"topics": [
+{
+"claims": [
+"c-8b9dfccdc0",
+"c-4d7b35acd7"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+}
+],
+"type": "web page",
+"urls": [
+"https://clinton.presidentiallibraries.us/items/show/36386"
+]
+}

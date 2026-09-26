@@ -1,0 +1,136 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-6c8bf1ccb8",
+"locator": null,
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceText": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
+"text": "Grusch's written testimony to the House Oversight Committee contains no discussion of funding mechanisms, budget lines, or contractor financial arrangements; the financial specifics were reserved for classified session.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-5abd0cfa1a",
+"locator": null,
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceText": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
+"text": "Grusch's written testimony states he was 'informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program' to which he was denied access, and refers to 'Non-Human Reverse Engineering Programs'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "booz-allen",
+"label": "Booz Allen Hamilton"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-88aa441c78",
+"label": "The access architecture that denied Grusch his read-ons is largely contractor-built and contractor-maintained",
+"note": "Grusch was tasked to inventory the SAPs and CAPs relevant to the Task Force's congressional mandate and was refused. The billet lists, access rosters and classification guides that execute such refusals are administered in substantial part by security-support primes. No committee has requested those rosters.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-09073d7b15",
+"label": "sworn witness",
+"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-27ab4f3f8b",
+"label": "Same hearing paired the aviator record with the recovery-program allegations",
+"note": "The committee deliberately seated two aviator witnesses beside a whistleblower alleging a concealed retrieval program, framing the observational record as the visible surface of a hidden effort.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-oversight-house-gov-90cec54c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "institution",
+"id": "booz-allen",
+"label": "Booz Allen Hamilton"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+{
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+}
+],
+"node": null,
+"title": "David Grusch, written statement to the House Committee on Oversight and Accountability",
+"topics": [
+{
+"claims": [
+"c-6c8bf1ccb8"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-6c8bf1ccb8"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-6c8bf1ccb8"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+]
+}

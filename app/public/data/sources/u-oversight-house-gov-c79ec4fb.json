@@ -1,0 +1,333 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4d1e44e465",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4e6f45d8d5",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a605d34de0",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
+"text": "'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-13ba256c52",
+"locator": null,
+"node": "hearing-2023-07-26",
+"nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"sourceText": "David Fravor, written statement, 26 July 2023",
+"text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-450cee6c03",
+"locator": null,
+"node": "vfa-41",
+"nodeLabel": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-b26a6549fc",
+"locator": null,
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'They had been observing these objects on their Aegis combat system for the previous 2 weeks,' descending from above 80,000 ft rapidly down to 20,000 ft.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-faa0f5bfd8",
+"locator": null,
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-01fc0691e3",
+"locator": null,
+"node": "uss-princeton",
+"nodeLabel": "USS Princeton (CG-59)",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "Princeton tracked the objects on Aegis for roughly two weeks before 14 Nov 2004, observing descents from above 80,000 ft to 20,000 ft.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-513670d490",
+"label": "sworn witness",
+"note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day"
+},
+"claimTier": 1,
+"id": "e-ab211e3da1",
+"label": "Direct conflict over whether data was taken",
+"note": "Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-4f30a6321e",
+"label": "Intercepted the object as CO of VFA-41 on 14 Nov 2004",
+"note": "Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 2,
+"id": "e-f8987b3cf1",
+"label": "Ran the Princeton air picture and vectored the intercept",
+"note": "As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day"
+},
+"b": {
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+"claimTier": 2,
+"id": "e-435a682964",
+"label": "Senior Chief Operations Specialist aboard USS Princeton, Nov 2004",
+"note": "Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"claimTier": 1,
+"id": "e-1129541b03",
+"label": "Fravor testified to the 2004 encounter under oath in 2023",
+"note": "Fravor's written statement placed on the record that the incident was never investigated, no crew were questioned and no tapes were taken.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"b": {
+"cls": "location",
+"id": "l-socal-oparea",
+"label": "Southern California Operating Areas (W-291 and Baja approaches)"
+},
+"claimTier": 1,
+"id": "e-5f8cf9740d",
+"label": "The encounters occurred in the Southern California operating areas",
+"note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-523fabda6a",
+"label": "Princeton's SPY-1B held the tracks and vectored the intercept",
+"note": "Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-74535c77a4",
+"label": "Generated the primary sensor record of the encounter; no such data has ever been released",
+"note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-oversight-house-gov-c79ec4fb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Committee on Oversight",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+{
+"cls": "domain",
+"id": "d-disclosure",
+"label": "Disclosure Movement"
+},
+{
+"cls": "person",
+"id": "gary-voorhis",
+"label": "Gary Voorhis"
+},
+{
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+{
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day"
+},
+{
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+{
+"cls": "institution",
+"id": "vfa-41",
+"label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)"
+},
+{
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+{
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)"
+},
+{
+"cls": "domain",
+"id": "d-witness",
+"label": "Witness Chain"
+}
+],
+"node": null,
+"title": "House Oversight - Fravor written statement (PDF)",
+"topics": [
+{
+"claims": [
+"c-4d1e44e465",
+"c-a605d34de0",
+"c-b26a6549fc",
+"c-faa0f5bfd8"
+],
+"id": "nimitz-2004",
+"title": "USS Nimitz, November 2004"
+},
+{
+"claims": [
+"c-4d1e44e465",
+"c-a605d34de0",
+"c-13ba256c52"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-faa0f5bfd8"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+}
+],
+"type": "document",
+"urls": [
+"https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+]
+}

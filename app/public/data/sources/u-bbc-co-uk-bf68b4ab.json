@@ -1,0 +1,120 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "halt-memo",
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-a59a07bb03",
+"label": "The memo is the primary official record of the incident",
+"note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jim-penniston",
+"label": "James W. Penniston"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 2,
+"id": "e-2febb4fdd5",
+"label": "First responder, 26 December 1980",
+"note": "Penniston was the senior security police NCO who entered the forest; his notebook records 'craft of unknown origin' and he signed a USAF witness statement.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-burroughs",
+"label": "John Burroughs"
+},
+"b": {
+"cls": "location",
+"id": "l-raf-woodbridge",
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England"
+},
+"claimTier": 2,
+"id": "e-5dbd78ac8d",
+"label": "Service medical records for the incident window could not be produced",
+"note": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-burroughs",
+"label": "John Burroughs"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 2,
+"id": "e-17bb4393bb",
+"label": "First responder, 26 December 1980",
+"note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-bbc-co-uk-bf68b4ab",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "BBC",
+"listedOn": [
+{
+"cls": "person",
+"id": "charles-halt",
+"label": "Charles I. Halt"
+},
+{
+"cls": "document",
+"id": "halt-memo",
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+},
+{
+"cls": "person",
+"id": "jim-penniston",
+"label": "James W. Penniston"
+},
+{
+"cls": "person",
+"id": "john-burroughs",
+"label": "John Burroughs"
+},
+{
+"cls": "location",
+"id": "l-raf-woodbridge",
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England"
+},
+{
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+}
+],
+"node": null,
+"title": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+]
+}

@@ -7,8 +7,16 @@
 {
 "id": "c-8cb31106c6",
 "source": "OSD/JS FOIA 18-F-0324, final response 17 August 2022",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": "final response 17 August 2022",
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "Reads in part: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

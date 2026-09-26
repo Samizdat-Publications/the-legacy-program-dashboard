@@ -7,44 +7,76 @@
 {
 "id": "c-bf79874311",
 "source": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "Bylined Helene Cooper, Ralph Blumenthal and Leslie Kean and published 16 December 2017; reported AATIP's roughly $22 million funding from late 2008 through 2011 to Bigelow Aerospace and Harry Reid's origination of the program in 2007.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:nicap.org/reports2/2004_20171216_NYTArt_1.pdf) was rejected in review: two NYT articles that date; not shown which"
 },
 {
 "id": "c-5d35465562",
 "source": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "Reported that Elizondo ran AATIP from the Pentagon's fifth floor, resigned on 4 October in a letter to Defense Secretary Jim Mattis, and had joined To The Stars Academy with Puthoff and Mellon.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:nicap.org/reports2/2004_20171216_NYTArt_1.pdf) was rejected in review: two NYT articles that date; not shown which"
 },
 {
 "id": "c-5987c053b3",
 "source": "New York Times, 16 December 2017",
+"sources": [],
 "text": "Quoted Robert Bigelow saying he had modified Las Vegas buildings for storing recovered metal alloys, and 'Internationally, we are the most backward country on this.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:nicap.org/reports2/2004_20171216_NYTArt_1.pdf) was rejected in review: two NYT articles that date; not shown which"
 },
 {
 "id": "c-947b2fc1ee",
 "source": "The New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "u-nytimes-com-ae0a5d22",
+"locator": null,
+"title": "The New York Times - Glowing Auras and Black Money"
+}
+],
 "text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean, revealing AATIP, a $22 million appropriation over 2007-2012 arranged by Sen. Harry Reid, and Navy infrared videos.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-da1fa78261",
 "source": "Bryan Bender, Politico, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "t-bd6502c8fcd1",
+"locator": null,
+"title": "Bryan Bender"
+}
+],
 "text": "Pentagon spokeswoman Dana White confirmed to Politico that Luis Elizondo directed AATIP.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b556629330",
 "source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
+"sources": [
+{
+"id": "u-oversight-house-gov-bcaf006d",
+"locator": "reporting his whistleblower source",
+"title": "Michael Shellenberger, written testimony, House Oversight"
+}
+],
 "text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d915fd61bf",
 "source": "Inference from the post-2017 chronology",
+"sources": [],
 "text": "The story changed the subject's institutional status without adding physical evidence; the Navy designation, DoD release, UAP Task Force, ODNI assessment, AARO and the three House hearings all follow it in sequence. Reasoning: chronological review of official actions after 16 December 2017.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",
@@ -711,7 +743,7 @@
 ],
 "sub": "Published 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 142 of 1138, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 141 of 1138, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

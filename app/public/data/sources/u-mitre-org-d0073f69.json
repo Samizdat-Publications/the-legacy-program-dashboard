@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-c1cd2658cc",
+"locator": null,
+"node": "ffrdc-mechanism",
+"nodeLabel": "The FFRDC / UARC / GOCO mechanism",
+"sourceText": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health and cybersecurity, and describes itself as providing long-term strategic partnership and stability to government sponsors.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-2015ddbadf",
+"locator": null,
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"sourceText": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "MITRE operates six FFRDCs: the National Security Engineering Center; the Center for Advanced Aviation System Development; the Center for Enterprise Modernization; the Homeland Security Systems Engineering and Development Institute; the Health FFRDC; and the National Cybersecurity FFRDC.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"id": "e-34181e2d17",
+"label": "MITRE is the exemplar instance of the mechanism",
+"note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-mitre-org-d0073f69",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+},
+{
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
+"node": null,
+"title": "MITRE Corporation - official site",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/"
+]
+}

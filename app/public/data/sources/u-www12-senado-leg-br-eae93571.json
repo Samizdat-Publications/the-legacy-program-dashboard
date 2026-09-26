@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-www12-senado-leg-br-eae93571",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "www12.senado.leg.br",
+"listedOn": [
+{
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+}
+],
+"node": null,
+"title": "Senado Federal - institutional portal",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www12.senado.leg.br/institucional"
+]
+}

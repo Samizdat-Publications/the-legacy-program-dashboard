@@ -24,7 +24,7 @@
  * marked (the first when none is), Escape clears the field and closes the list.
  *
  * Every result is a route: #/topic/<id>, #/<directory>, #/n/<id>, #/t/<id>,
- * #/source/<id> once phase 8 has shipped that page, and for an event that names
+ * #/s/<id> (phase 8's source page), and for an event that names
  * no node, its era on the timeline.
  */
 import { saidKind, saidMark } from './attrib';
@@ -120,7 +120,7 @@ function askAll(rerun: () => void): void {
     for (const p of Object.values(f.people)) for (const r of p.roles) roleCounts[r] = (roleCounts[r] || 0) + 1;
     rerun();
   }, () => { roleCounts = {}; });
-  /* phase 8's library: a no-op until /data/sources.json is served */
+  /* phase 8's Library, /data/sources.json */
   loadSourcesIfAny().then((rows) => { sources = rows; if (rows.length) rerun(); });
 }
 
@@ -282,16 +282,17 @@ function render(panel: HTMLElement, raw: string, rerun: () => void): void {
     count('thread', n);
   }
 
-  /* sources, from phase 8's library when it is served */
+  /* sources, from phase 8's Library: matched on the title, the identifiers
+     (a report or bill number) and the id; each row opens its source page */
   if (sources && sources.length) {
     let n = 0;
     for (const r of sources) {
-      const title = r.title || r.label || r.name || r.url || r.id;
-      const s = nameScore(title, r.url || '', r.id, q, flat, terms);
+      const title = r.title || r.id;
+      const s = nameScore(title, (r.identifiers || []).join(' '), r.id, q, flat, terms);
       if (s < 0) continue;
       if (++n > MAX_NODE_HITS) continue;
-      hits.push({ s, kind: KIND.source, tie: 0, el: h('a', { class: 'res source', href: '#/source/' + r.id, 'data-type': 'source' },
-        badge('SOURCE', null), h('span', { class: 'label' }, title), h('span', { class: 'meta' }, r.kind || '')) });
+      hits.push({ s, kind: KIND.source, tie: 0, el: h('a', { class: 'res source', href: '#/s/' + r.id, 'data-type': 'source' },
+        badge('SOURCE', null), h('span', { class: 'label' }, title), h('span', { class: 'meta' }, r.type || '')) });
     }
     count('source', n);
   }

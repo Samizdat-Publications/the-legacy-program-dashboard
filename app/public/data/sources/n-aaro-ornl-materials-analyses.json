@@ -1,0 +1,185 @@
+{
+"archived": [
+"https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf",
+"https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf"
+],
+"claims": [
+{
+"cls": "domain",
+"id": "c-53962f4042",
+"locator": null,
+"node": "d-chem",
+"nodeLabel": "Chemistry & Isotopics",
+"sourceText": "AARO Aluminum Materials Analysis Supplement",
+"text": "AARO's January 2026 aluminium analysis found composition matching Aluminum Association reference alloys 369.1 and A413.1, a conventional result.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-4915b47989",
+"locator": null,
+"node": "d-materials",
+"nodeLabel": "Materials and custody analysis",
+"sourceText": "AARO Aluminum Materials Analysis Supplement, January 2026",
+"text": "AARO's January 2026 Aluminum Materials Analysis Supplement (26-P-0218) reports ORNL analysis of a specimen recovered near Flint Ridge State Park, Ohio, finding it similar to Aluminum Association reference alloys 369.1 and A413.1 with no radioactive emissions.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-3564f3fd59",
+"locator": null,
+"node": "d-nuclear",
+"nodeLabel": "Nuclear Security & Restricted Data",
+"sourceText": "AARO Aluminum Materials Analysis Supplement",
+"text": "AARO's January 2026 aluminium materials analysis was performed by Oak Ridge National Laboratory under contract to AARO beginning in 2024.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-43e0daeb69",
+"locator": "doc ref 26-P-0218",
+"node": "d-reverse-engineering",
+"nodeLabel": "Reverse Engineering",
+"sourceText": "AARO Aluminum Materials Analysis Supplement, document 26-P-0218",
+"text": "AARO's January 2026 Aluminum Materials Analysis Supplement reports that Oak Ridge National Laboratory analysis of a specimen recovered near Flint Ridge, Ohio found it consistent with conventional aluminium-silicon casting alloys, with no radioactive emissions detected.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-73a044aa27",
+"locator": null,
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf",
+"text": "The former AARO director is a senior technology executive at the national laboratory that performed both of AARO's published specimen analyses, including the January 2026 aluminium analysis. Reasoning: his ORNL role dates from December 2023 and the ORNL/AARO aluminium supplement is dated January 2026.",
+"tier": 3
+}
+],
+"date": "2024",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+"claimTier": 1,
+"id": "e-d398b4bc8c",
+"label": "The materials line of effort and its published scope",
+"note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-reverse-engineering",
+"label": "Reverse Engineering"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 1,
+"id": "e-93f13856ef",
+"label": "Exploitation begins with characterisation",
+"note": "Materials characterisation is the first step of any exploitation workflow and the only step whose outputs have been released - so far all conventional.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+"claimTier": 3,
+"id": "e-fe0196fcd3",
+"label": "former director at the laboratory that tests the specimens",
+"note": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
+"type": "research"
+}
+],
+"era": "3",
+"host": null,
+"id": "n-aaro-ornl-materials-analyses",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+{
+"cls": "domain",
+"id": "d-chem",
+"label": "Chemistry & Isotopics"
+},
+{
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+{
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+{
+"cls": "domain",
+"id": "d-reverse-engineering",
+"label": "Reverse Engineering"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": {
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+"title": "AARO / Oak Ridge National Laboratory materials analyses",
+"topics": [
+{
+"claims": [
+"c-53962f4042",
+"c-4915b47989"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-3564f3fd59"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-43e0daeb69"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf",
+"https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf"
+]
+}

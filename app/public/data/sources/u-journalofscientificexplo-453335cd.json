@@ -1,0 +1,131 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5489fb7da7",
+"locator": null,
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"sourceText": "Barry Greenwood, review, Journal of Scientific Exploration 37(1), 2 May 2023",
+"text": "'Skinwalkers at the Pentagon' is co-authored by the DIA official who conceived and managed AAWSAP, James Lacatski, together with Kelleher and Knapp.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-a19002d61f",
+"label": "Kelleher was NIDS deputy administrator and ran field operations",
+"note": "Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-9478dc5bcb",
+"label": "NIDS scientist before the federal contract",
+"note": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-0b21d24abe",
+"label": "The private field programme was re-federalised as a DIA contract without changing personnel",
+"note": "This is the structural pivot of the era: capability was privatised in 1995 and re-acquired by contract in 2008, meaning the government never had to stand up an acknowledged office.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-3334b97519",
+"label": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
+"note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-journalofscientificexplo-453335cd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "journalofscientificexploration.org",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+]
+}

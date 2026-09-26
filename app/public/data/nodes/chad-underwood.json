@@ -29,20 +29,38 @@
 {
 "id": "c-9dd27adf5d",
 "source": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"sources": [
+{
+"id": "n-dod-video-release-2020",
+"locator": null,
+"title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+}
+],
 "text": "The Department of Defense authorized release of three unclassified Navy videos filmed in November 2004 and January 2015, stating 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3f1300179d",
 "source": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023",
+"sources": [
+{
+"id": "n-navy-range-fouler-reports",
+"locator": "14 Nov 2004 incident",
+"title": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+}
+],
 "text": "The Navy's range fouler report on the 14 Nov 2004 incident describes the object as 'solid white, smooth, with no edges ... uniformly colored with no nacelles, pylons, or wings ... approximately 46 feet in length.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-da9969b8af",
 "source": "Widely reported; primary/archival URL not verified as of Aug 2026",
+"sources": [],
 "text": "Underwood was the weapons systems officer who acquired the object on ATFLIR and produced the FLIR1 tape. Reasoning: consistently reported across national outlets since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: Generic, explicitly unverified; no specific source named."
 }
 ],
 "cls": "person",

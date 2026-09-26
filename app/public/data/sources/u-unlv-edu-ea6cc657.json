@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6e9eb9e6b3",
+"locator": null,
+"node": "william-culbreth",
+"nodeLabel": "William Culbreth",
+"sourceText": "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab",
+"text": "William Culbreth is a retired UNLV mechanical engineering professor who started the UNLV Nuclear Engineering Lab, now led by Alexander Barzilov.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 3,
+"id": "e-aafc2f51af",
+"label": "UNLV academic in the prime contractor's home city",
+"note": "TIER 3, INFERENTIAL. AAWSAP was executed by BAASS out of southern Nevada, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas faculty member credited with two of them. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one. Both DIRDs cited here have their author field redacted under FOIA exemption (b)(6), so even the crediting rests on DIA's separate list of deliverables rather than on the documents themselves.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-unlv-edu-ea6cc657",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "unlv.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth"
+}
+],
+"node": null,
+"title": "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab"
+]
+}

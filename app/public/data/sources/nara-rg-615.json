@@ -1,0 +1,263 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-11440a1ad4",
+"locator": null,
+"node": "bolender-memo",
+"nodeLabel": "Bolender Memorandum",
+"sourceText": "Inference from the absence of any such series in NARA's Air Force UFO holdings description and in the RG 615 accessioning notices",
+"text": "No records series corresponding to the JANAP 146 national-security UFO reports has ever been identified, accessioned by NARA, or searched under any subsequent disclosure statute.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-63622b7928",
+"locator": "Unidentified Anomalous Phenomena Records Collection'",
+"node": "faa",
+"nodeLabel": "Federal Aviation Administration",
+"sourceText": "National Archives, 'Record Group 615: Unidentified Anomalous Phenomena Records Collection', https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "NARA's Record Group 615 page, last reviewed 28 August 2026, lists the Federal Aviation Administration first among eight contributing agencies, at National Archives Identifier 493468575.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-fbd91d9ca4",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "NARA Catalog, Record Group 615",
+"text": "The collection is organised at NARA as Record Group 615.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-04dc1d08a9",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "Inference from the described contents of RG 615 and NARA's Air Force UFO holdings description",
+"text": "No series corresponding to JANAP 146 CIRVIS national-security UFO reports, or to Air Materiel Command T-2 intelligence files for 1947-1951, has been identified in RG 615 accessions to date — the two series most likely to bear on a legacy recovery effort.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-e195651a65",
+"label": "First-listed contributing agency; series NAID 493468575, 575 PDF files, restricted in part",
+"note": "The FAA's transferred UAP records sit in Record Group 615 as series NAID 493468575, one of eight agency series NARA lists in the collection.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "document",
+"id": "fbi-vault-ufo",
+"label": "FBI Records: The Vault - UFO collection"
+},
+"claimTier": 1,
+"id": "e-bce3600bac",
+"label": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
+"note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 3,
+"id": "e-e64cb62474",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Central Intelligence Agency is an addressee of the ODNI NDA-waiver memorandum and the CIA has no series in Record Group 615, whose transfer deadline passed on 30 September 2025.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 3,
+"id": "e-7e3a5abbb2",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-b074fa5409",
+"label": "names the agencies absent from the statutory archive",
+"note": "The memorandum's distribution list includes CIA, DIA, NRO, NGA, DOE and every military department - none of which has a series in Record Group 615. The same agencies are simultaneously addressees of a UAP release directive and absentees from the statutory collection.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 3,
+"id": "e-741a4b62f4",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 3,
+"id": "e-22854f548b",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Office of Intelligence and Counterintelligence, Department of Energy, is an addressee of ES 2026-00818; DOE has no RG 615 series.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-2269b0b17b",
+"label": "ODNI transferred UAP records into the statutory collection",
+"note": "NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-2566981fdb",
+"label": "the panel with jurisdiction over the collection's non-contributors",
+"note": "The task force's declared remit is federal secrecy generally; the agencies absent from RG 615 - CIA, DIA, NRO, NGA, DOE - are the same agencies whose other files it has pursued.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "nara-rg-615",
+"identifiers": [
+"NARA Record Group 615"
+],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"topics": [
+{
+"claims": [
+"c-11440a1ad4",
+"c-04dc1d08a9"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+},
+{
+"claims": [
+"c-fbd91d9ca4"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-63622b7928"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-11440a1ad4"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-11440a1ad4"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "archive index",
+"urls": []
+}

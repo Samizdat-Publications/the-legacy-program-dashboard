@@ -34,20 +34,26 @@
 {
 "id": "c-7d8964cae3",
 "source": "David Fravor, written statement to House Oversight, 26 July 2023 (corroborating the Princeton radar picture Day ran)",
+"sources": [],
 "text": "Princeton tracked the objects on Aegis for roughly two weeks before the intercept, observing descents from above 80,000 ft to 20,000 ft.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-Ho) was rejected in review: locator adds first name 'Kevin', absent from string"
 },
 {
 "id": "c-be23209229",
 "source": "Navy range fouler reports released via Navy FOIA reading room 13 Jan 2023, quoted by The War Zone, 14 Jan 2023",
+"sources": [],
 "text": "The Navy's own range fouler report on the 14 Nov 2004 incident states 'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:navy-range-fouler-reports) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-f76bf27268",
 "source": "Kevin Day, public documentary and broadcast interviews, 2018-2019; no primary record located as of Aug 2026",
+"sources": [],
 "text": "Recording media documenting the Princeton radar tracks were removed by personnel who did not identify themselves within roughly 48 hours of the intercept. Reasoning: the account is consistent across Day's public interviews and with Gary Voorhis's independent account of being ordered to reformat/hand over data, and it is compatible with - not contradicted by - Fravor's statement that no tapes were taken from his aircrew, since the two men describe collection aimed at different platforms. It remains inference until a visit log, message, or FOIA release names the personnel.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: String itself states no primary record was located."
 }
 ],
 "cls": "person",

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-f210c05af7",
+"locator": null,
+"node": "project-bluebird",
+"nodeLabel": "Project BLUEBIRD",
+"sourceText": "Danny Jones Podcast, ep. 295, 7 April 2025, 2:39:56",
+"text": "On the Danny Jones Podcast, episode 295, 7 April 2025, at 2:39:56, Jason Jorjani said Project Bluebird was developed by Nazi psychologists brought to the United States under Paperclip, involved experiments on children, and became MK-Ultra in the 1960s. The founding document is dated 5 April 1950, is signed by the Chief of the CIA's own Inspection and Security Staff, names defectors and agents rather than children, and the programme was renamed ARTICHOKE in August 1951, before MKULTRA was authorized in April 1953.",
+"tier": 2
+}
+],
+"date": "2025-04-07",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-d8884ade5992",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 295, 7 April 2025, 2:39:56",
+"topics": [
+{
+"claims": [
+"c-f210c05af7"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "broadcast",
+"urls": []
+}

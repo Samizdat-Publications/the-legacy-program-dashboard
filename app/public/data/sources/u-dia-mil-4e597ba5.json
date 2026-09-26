@@ -1,0 +1,36 @@
+{
+"archived": [
+"https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-dia-mil-4e597ba5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+}
+],
+"node": null,
+"title": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"topics": [],
+"type": "web page",
+"urls": []
+}

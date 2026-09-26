@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6f6359cd05",
+"locator": null,
+"node": "tom-cole",
+"nodeLabel": "Tom Cole",
+"sourceText": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+"text": "A statement from Congressman Tom Cole's office dated 10 April 2024 records that 'the full House Republican Conference ratified him as Chairman of the House Appropriations Committee.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3cecab6f4f",
+"locator": null,
+"node": "tom-cole",
+"nodeLabel": "Tom Cole",
+"sourceText": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+"text": "Because Cole's chairmanship began on 10 April 2024, Kay Granger and not Cole held the House Appropriations 119(e)(2) seat on 26 July 2023, the date of the Grusch testimony.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 1,
+"id": "e-2d84da5d4e",
+"label": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
+"note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-e7956f36fd",
+"label": "Chairman, House Appropriations Committee",
+"note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-cole-house-gov-498a641d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cole.house.gov",
+"listedOn": [
+{
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+}
+],
+"node": null,
+"title": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+"topics": [
+{
+"claims": [
+"c-6f6359cd05"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations"
+]
+}

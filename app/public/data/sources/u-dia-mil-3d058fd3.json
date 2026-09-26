@@ -1,0 +1,195 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3e7aab8733",
+"locator": null,
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "DIA Info Memo U-429-09: 'Each research report ... was written by world-class technical experts in industry and/or academia', with reviews performed by 'other authors listed in the table' and by 'outside reviewers including three research staff members at Sandia National Laboratories'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-feb310d125",
+"locator": null,
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "DIA Info Memo U-429-09 Enclosure 1 lists this study among the 26 FY2009 technical reports under the working title 'Field Effects on Biological Tissues'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-300af3cd3d",
+"locator": null,
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "Attribution to Dr. Christopher 'Kit' Green is not established by the DIA release (author redacted). Two of the DIRD peer reviews quoted in U-429-09 are written in a distinctly medical/intelligence register (BioMEMS, materials 'reverse engineer[ing]'), consistent with a reviewer of that background, but the reviewer names are also redacted. Wave-4 item.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-b4ffe818d1",
+"locator": null,
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "DIA Info Memo U-429-09 refers to 'The program manager, [redacted], has reviewed all of the papers and concurs with the reviews' — establishing a single named DIA officer who personally reviewed every FY2009 DIRD.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e588d31a86",
+"locator": null,
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "Identification of the redacted AAWSA Program Manager as Dr. James T. Lacatski is not established by any primary document reached in this pass. It rests on his own published accounts and on secondary reporting. Treat the name as unconfirmed against the FOIA record until a document with the name unredacted (or a DIA org chart / personnel record) is located.",
+"tier": 3
+},
+{
+"cls": "event",
+"id": "c-73fa1cf5cd",
+"locator": null,
+"node": "reid-dia-meetings-2008-2009",
+"nodeLabel": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "15 May 2009: DIA Info Memo U-429-09 states the review of deliverables was requested 'during a 15 May 2009 meeting with you after your meeting with Senator Harry Reid'. Talking Paper U-973-09 dated 04 May 2009 prepared for 'Senator Reid Visit to Director, DIA'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-55f65f2f1c",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "In the DIA-released copies every DIRD author is withheld under FOIA exemption (b)(6) and the 'Prepared by' office under (b)(3) 10 USC 424. Two author surnames survive uncensored inside the review excerpts of Info Memo U-429-09: 'Hathaway' (The Role of Superconductors in Gravity Research) and 'Tsoi' (Metallic Spintronics).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c103151f78",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "DIA Info Memo U-429-09 Enclosure 1 lists the 26 FY2009 technical reports by working title (not final DIRD title), including several never released as DIRDs under those names: 'Pulse-Power-Based Weaponry', 'Space-Time Modifications for Spaceflight Applications', 'Novel MEMS-Based Biosensors', 'Metamaterials for Aerospace Applications', 'Metallic Glasses', 'Metallic Spintronics', 'Materials for Advanced Aerospace Platforms', 'Wormholes in Space Time', 'Gravity Wave Communication', 'Vacuum Energy Applications', 'Improved Statistical Approach to Drake Equation', 'Maverick vs. Corporate Research Cultures', 'Warp Drives', 'Controlling Devices Without Limb-Operated Interfaces', 'Field Effects on Biological Tissues', 'High-Energy Laser Weapon', 'Quantum Entanglement Communications', 'Space Access: Where Been, Where Go', 'Advanced Nuclear Propulsion for Deep Space', 'Inertial Electrostatic Confinement Fusion', 'Theory and Experiments of Invisibility Cloaking', 'Superconductors in Gravity Research', 'Antigravity for Aerospace Applications', 'Positron Aerospace Propulsion', 'Biosensors and BioMEMS', 'Programmable Matter'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-88c674b699",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "That two surnames survive the redaction pass in U-429-09 while every cover page is scrubbed indicates redaction was applied by template rather than by review, and that DIA's own reviewers wrote about these authors by name in internal correspondence. Author identities are therefore recoverable from the released corpus itself, not only from leaks.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 2,
+"id": "e-5cc5316eb0",
+"label": "Wayne State clinician authored the AAWSAP human-effects reference document",
+"note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dia-mil-3d058fd3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+{
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+}
+],
+"node": null,
+"title": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)",
+"topics": [
+{
+"claims": [
+"c-300af3cd3d",
+"c-55f65f2f1c",
+"c-c103151f78",
+"c-88c674b699"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+},
+{
+"claims": [
+"c-3e7aab8733",
+"c-e588d31a86",
+"c-73fa1cf5cd"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-feb310d125",
+"c-300af3cd3d"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+},
+{
+"claims": [
+"c-e588d31a86"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+]
+}

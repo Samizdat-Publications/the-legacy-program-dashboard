@@ -1,0 +1,123 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-7661b20b92",
+"locator": "B-223830, 7 August 1986, signed Frank C. Conahan",
+"node": "defense-investigative-service",
+"nodeLabel": "Defense Investigative Service",
+"sourceText": "GAO/NSIAD-86-191, B-223830, 7 August 1986, signed Frank C. Conahan",
+"text": "GAO told the Secretary of Defense that the Lockheed document-accountability failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed' -- establishing that DIS inspected Lockheed's non-special-access work while excluded from the special access contract at the same company.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0370130ffa",
+"locator": "Information Security: Need for DOD Inspections of Special Access Contracts, 7 August 1986",
+"node": "gao-130581",
+"nodeLabel": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"sourceText": "GAO/NSIAD-86-191, Information Security: Need for DOD Inspections of Special Access Contracts, 7 August 1986",
+"text": "The companion letter report GAO/NSIAD-86-191, B-223830, 7 August 1986, to the Secretary of Defense, signed Frank C. Conahan, states that 'the deterioration of document accountability for the special access contract at Lockheed may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-684de782d3",
+"locator": "7 August 1986",
+"node": "gao-130581",
+"nodeLabel": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"sourceText": "GAO/NSIAD-86-191, 7 August 1986; and GAO accession 130581, footnote",
+"text": "The companion report names 'the Lockheed/Burbank plant', which the testimony itself does not. The testimony carries a footnote explaining why: 'As part of DOD granting us access to the special access program to respond your request, we agreed not to identify the nature of the program or the specific DOD component or military service involved.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "defense-investigative-service",
+"label": "Defense Investigative Service"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-843215b95d",
+"label": "inspected Lockheed's other contracts while excluded from its special access contract",
+"note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gao-130581",
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+"claimTier": 1,
+"id": "e-e63034fe9f",
+"label": "the companion report names the Lockheed/Burbank plant the testimony would not",
+"note": "GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "gao-nsiad-86-191",
+"identifiers": [
+"GAO/NSIAD-86-191"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "institution",
+"id": "defense-investigative-service",
+"label": "Defense Investigative Service"
+},
+{
+"cls": "document",
+"id": "gao-130581",
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation"
+}
+],
+"node": null,
+"title": "GAO/NSIAD-86-191",
+"topics": [
+{
+"claims": [
+"c-0370130ffa",
+"c-684de782d3"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-7661b20b92"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-684de782d3"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "report",
+"urls": [
+"https://www.gao.gov/assets/nsiad-86-191.pdf",
+"https://www.gao.gov/products/nsiad-86-191"
+]
+}

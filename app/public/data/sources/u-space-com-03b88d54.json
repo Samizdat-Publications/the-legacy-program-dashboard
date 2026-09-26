@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-space-com-03b88d54",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Space.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+}
+],
+"node": null,
+"title": "Space.com — Aliens Have Visited Earth, Robert Bigelow Believes",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.space.com/37062-aliens-have-visited-earth-robert-bigelow-says.html"
+]
+}

@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-58d5ad5275",
+"locator": null,
+"node": "e-systems-inc",
+"nodeLabel": "E-Systems, Inc.",
+"sourceText": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Exhibit (a)(9), accession 0000950130-95-000863, filed 1 May 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt",
+"text": "Raytheon Company, through RTN Acquisition Corporation, offered $64.00 per share in cash for all E-Systems shares under an Agreement and Plan of Merger dated as of 2 April 1995; the offer expired on 28 April 1995 with approximately 96.46 per cent of shares tendered, and Raytheon's press release of 1 May 1995 announced completion of a transaction 'valued at $2.3 billion'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "e-systems-inc",
+"label": "E-Systems, Inc."
+},
+"b": {
+"cls": "institution",
+"id": "raytheon",
+"label": "Raytheon (RTX Corporation)"
+},
+"claimTier": 1,
+"id": "e-1dc83a77fa",
+"label": "Raytheon acquired E-Systems outright, completed 1 May 1995",
+"note": "Raytheon acquired E-Systems outright on 1 May 1995, taking its reconnaissance, surveillance and intelligence-collection business lines into the Raytheon node the board already carries.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-a0856f12",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "e-systems-inc",
+"label": "E-Systems, Inc."
+}
+],
+"node": null,
+"title": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Exhibit (a)(9), accession 0000950130-95-000863",
+"topics": [
+{
+"claims": [
+"c-58d5ad5275"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt"
+]
+}

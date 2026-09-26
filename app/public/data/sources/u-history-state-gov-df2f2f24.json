@@ -1,0 +1,166 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-0d4a926e57",
+"locator": null,
+"node": "harry-s-truman",
+"nodeLabel": "Harry S. Truman",
+"sourceText": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+"text": "The same directive draws the domestic line the board's later argument keeps testing: 'No police, law enforcement or internal security functions shall be exercised under this directive', and it makes the Authority and the Director 'responsible for fully protecting intelligence sources and methods'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-327919feb5",
+"locator": null,
+"node": "harry-s-truman",
+"nodeLabel": "Harry S. Truman",
+"sourceText": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+"text": "The 22 January 1946 directive is signed by him and creates the office by fiat: 'It is my desire, and I hereby direct, that all Federal foreign intelligence activities be planned, developed and coordinated so as to assure the most effective accomplishment of the intelligence mission related to the national security.' The Director of Central Intelligence 'shall be designated by me'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f002e7ddc8",
+"locator": null,
+"node": "sidney-souers",
+"nodeLabel": "Rear Adm. Sidney W. Souers",
+"sourceText": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, Foreign Relations of the United States, 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+"text": "The office he first held was created on 22 January 1946: personnel assigned from State, War and the Navy 'shall collectively form a Central Intelligence Group and shall, under the direction of a Director of Central Intelligence, assist the National Intelligence Authority. The Director of Central Intelligence shall be designated by me, shall be responsible to the National Intelligence Authority, and shall sit as a non-voting member thereof.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-082272061a",
+"label": "Signed the statute that created the Agency",
+"note": "Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+"b": {
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+},
+"claimTier": 1,
+"id": "e-ce38f7546c",
+"label": "Designated the first Director of Central Intelligence",
+"note": "The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+"b": {
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+},
+"claimTier": 2,
+"id": "e-0774622dfd",
+"label": "Appointed the first Director of Central Intelligence of the CIA",
+"note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-61f3e41ce0",
+"label": "Signed the statute that created the Department of the Air Force",
+"note": "Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-c96466a27e",
+"label": "Signed the statute that created the National Military Establishment",
+"note": "Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-history-state-gov-df2f2f24",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+{
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+}
+],
+"node": null,
+"title": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+"topics": [
+{
+"claims": [
+"c-0d4a926e57",
+"c-327919feb5",
+"c-f002e7ddc8"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-0d4a926e57",
+"c-327919feb5"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+]
+}

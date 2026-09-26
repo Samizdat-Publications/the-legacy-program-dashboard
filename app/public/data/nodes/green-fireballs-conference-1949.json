@@ -7,20 +7,26 @@
 {
 "id": "c-97d1751a65",
 "source": "Los Alamos National Laboratory, 18 November 2024",
+"sources": [],
 "text": "A conference was organised at Los Alamos on 16 February 1949 attended by Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and US military representatives; the National Security Research Center holds the conference minutes.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-sec) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-847fdb2ce5",
 "source": "Los Alamos National Laboratory, 18 November 2024",
+"sources": [],
 "text": "The conference ultimately dismissed the notion that the green fireballs were a significant national security threat.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-sec) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-d9613a8e53",
 "source": "Contemporaneous Air Force records; FBI file 62-HQ-83894 material released in the Department of War PURSUE Release 01",
+"sources": [],
 "text": "In December 1949 Project Twinkle, a network of green fireball observation and photographic stations, was established but never fully implemented.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf) was rejected in review: string names two or more sources; candidate is only one"
 }
 ],
 "cls": "event",

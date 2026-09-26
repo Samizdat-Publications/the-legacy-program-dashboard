@@ -1,0 +1,110 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-217aaba3b6",
+"locator": "LEADS section",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section",
+"text": "The same FBI referral instructs a review 'at the Patent Office' of 'patents No. 1,974,483 (U. S. Electrostatic motor) and No. 2,207,576' to determine what Brown had patented that was pertinent to the inquiry.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8557ab17bb",
+"locator": "Hoover memorandum, 6 December 1950",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, Hoover memorandum of 6 December 1950",
+"text": "A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission records Brown as an appointee to the Industrial Relations Department, Pearl Harbor Naval Shipyard, notes a 1943 Navy resignation 'accepted for the good of the service', and reports 'no information of disloyal nature.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8a65db74fd",
+"locator": "LEADS section, report of 25 March 1953, Cincinnati",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section, referring to the report of 25 March 1953, Cincinnati",
+"text": "Brown's FBI file directs the Washington Field Office that Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven', anticipates 'a contract of approximately a million dollars', and instructs the office to 'determine any possible violation of the [F]AG Statute in this matter' -- the Fraud Against the Government statute.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8f0a1d04c0",
+"locator": "enclosure",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, enclosure",
+"text": "The FBI file reproduces a letter of 23 December 1948 from the head of the Photometry Section, Optics Division, Naval Research Laboratory, stating that 'The radiation recorder of THOMAS TOWNSEND BROWN. . . was installed in this laboratory about 1931', adding 'I did not attend it or attempt to analyze the results.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c80a1b8025",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full-text search https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt",
+"text": "The released FBI file on Brown, FOI/PA# 1496195-000, contains no statement that Brown knew more about radar detection than any individual in the US Navy. Its only two references to radar are a Los Angeles Times article of 4 July 1948 reporting that 'During World War II he headed the U. S. Navy's Atlantic Fleet Radar School', and an informant's account that 'BROWN claims to have been a lieutenant commander in the Navy during the war, one of his principal jobs being the administration of the Atlantic Fleet Radar School.' Three American Alchemy episodes attribute the radar superlative to a 1942 or 1943 FBI file; it is not in the file this board cites.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ed996a48a1",
+"locator": "informant statement",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, informant statement",
+"text": "A named former president of Lake States Securities Corporation told the FBI that Brown's 'flying saucers' apparatus 'was identical to the old stock market predicting machine except that it operated in the atmosphere rather than in an oil bath and it was much larger', and that he was 'confident this flying saucer thing is a phony'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f8edd1703a",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, investigative summary https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt",
+"text": "The same file summarises the 1942 Navy separation as follows: 'The current investigation has developed much information on BROWN, including that he was dismissed from the U. S. Navy Reserve in 1942 \"for the good of the Service and to escape general court martial\".'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-archive-org-379f97a2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FBI",
+"listedOn": [
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full text",
+"topics": [
+{
+"claims": [
+"c-217aaba3b6",
+"c-8557ab17bb",
+"c-8a65db74fd",
+"c-c80a1b8025",
+"c-ed996a48a1",
+"c-f8edd1703a"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt"
+]
+}

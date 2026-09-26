@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2a5a1c726c",
+"locator": null,
+"node": "sidney-gottlieb",
+"nodeLabel": "Sidney Gottlieb",
+"sourceText": "CIA Reading Room document 00017441, MKULTRA SUBPROJECT 43 (18 documents, pubdates 550321 to 560308), Internet Archive mirror, https://archive.org/details/cia-readingroom-document-00017441",
+"text": "Gottlieb signed the money. The released MKULTRA Subproject 43 file carries invoice certifications over the signature 'SIDNEY GOTTLIEB, Chief, TSS/CD' attesting 'that performance is satisfactory, that the services are being accomplished in accordance with mutual agreements, that a detailed agenda of the payments and receipts is on file in TSS/CD'. Invoice No. 1 is dated 31 March 1955 and Invoice No. 2 is dated 28 June 1955.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "sidney-gottlieb",
+"label": "Sidney Gottlieb"
+},
+"b": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"claimTier": 1,
+"id": "e-8f94d80b28",
+"label": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
+"note": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-archive-org-0f7dab7e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "sidney-gottlieb",
+"label": "Sidney Gottlieb"
+}
+],
+"node": null,
+"title": "CIA Reading Room 00017441 and the Project MKULTRA joint hearing, 3 August 1977",
+"topics": [
+{
+"claims": [
+"c-2a5a1c726c"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-00017441"
+]
+}

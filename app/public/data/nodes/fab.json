@@ -7,44 +7,94 @@
 {
 "id": "c-062619bd03",
 "source": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)",
+"sources": [
+{
+"id": "u-migalhas-com-br-68726963",
+"locator": null,
+"title": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 ("
+}
+],
 "text": "Full operative text of Portaria nº 551/GC3, de 9 de agosto de 2010, transcribed in a federal court judgment. Legal basis: 'inciso XIV do art. 23 da Estrutura Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de 2009', and Processo nº 67000.001974/2010-61. Art. 1º: 'As atividades do Comando da Aeronáutica (COMAER) relativas ao assunto \"objetos voadores não identificados\" (OVNI) restringem-se ao registro de ocorrências e ao seu trâmite para o Arquivo Nacional.' Art. 2º assigns COMDABRA to receive and catalogue. Art. 3º assigns CENDOC to copy, bind, archive and periodically forward originals to the Arquivo Nacional. Art. 6º: 'Revoga-se a Nota Nº C-002/MIN/ADM, de 13 de abril de 1978 e o Aviso Nº S-001/MIN, de 28 de fevereiro de 1989.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1fa618e736",
 "source": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)",
+"sources": [
+{
+"id": "u-camara-leg-br-f691c19d",
+"locator": null,
+"title": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 ("
+}
+],
 "text": "DOU RECORD FOUND (by citation, not by page image). A Chamber of Deputies information requirement cites the underlying process 'citado no Diário Oficial da União de 10 de agosto de 2010, Seção I - página 101', and states that 'no dia 10 de agosto do ano passado a Força Aérea admitira e abrira oficialmente parte do seu esquema de procedimentos quanto ao assunto dos OVNIs, por meio da publicação no DOU da Portaria 551/GC3'. Publication is therefore attested by a primary parliamentary document independent of the FAB's own note: DOU of 10 August 2010, Seção 1, p. 101. The in.gov.br page image itself could not be retrieved.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-26a0397b5c",
 "source": "Câmara dos Deputados, CREDN, 'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito', 24/10/2012 (https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito); contrasted with Senado Federal RQS 193/2022",
+"sources": [
+{
+"id": "u-www2-camara-leg-br-702f8e72",
+"locator": null,
+"title": "Câmara dos Deputados, CREDN, 'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito', 24/10/2012 ( contrasted with Senado Federal RQS 193/2022"
+}
+],
 "text": "SPELLING RESOLVED - 'Juniti Saito' is correct; 'Junichi Saito' is an error originating in the Senate requerimento. The Câmara dos Deputados portal reproduces the Air Force Commander's own Ordem do Dia for Aviator's Day, signed in his own signature block: 'Tenente-Brigadeiro-do-Ar JUNITI SAITO / Comandante da Aeronáutica' (24/10/2012). The variant 'Junichi Saito' appears in the justificação of Senado RQS 193/2022, which also miscalls the Portaria a 'decreto'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1807acfd58",
 "source": "Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
+"sources": [
+{
+"id": "u-cnnbrasil-com-br-fc5dc033",
+"locator": null,
+"title": "André Rigue and Lauryn Amaral, CNN Brasil, 'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025', 12 August 2026, updated 14 August 2026 ("
+}
+],
 "text": "FAB's current stated coverage runs to 2025, contradicting the Arquivo Nacional's 2018 description. Official Air Force note: 'A Força Aérea Brasileira (FAB) informa que todos os documentos, vídeos, fotografias, relatos, entre outros, disponíveis, no âmbito do Comando da Aeronáutica, sobre fenômenos aéreos não identificados, no período de 1952 a 2025, já foram transferidos para o Arquivo Nacional, onde são de domínio público.' The same note cites Portaria 551/GC3 and names COMAE (not COMDABRA) as the receiving command, reflecting the post-2017 reorganisation.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-eeaae985a7",
 "source": "Relatório de Ocorrências, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+"sources": [
+{
+"id": "n-doc-fab-1986-report",
+"locator": null,
+"title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
 "text": "Air Defence Command finding, 2 June 1986: the phenomena 'são sólidos e refletem de certa forma inteligência'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-baee476d5a",
 "source": "BBC Brasil, 14 January 2022",
+"sources": [],
 "text": "Air Force note to BBC Brasil: all available UFO material has been sent to the Arquivo Nacional and the force 'não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo'.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:bbc.com/portuguese/brasil-59953278) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-da59522bfa",
 "source": "EFE/Terra, 'FAB cria normas para pilotos em caso de contato com ovnis', 10 August 2010",
+"sources": [
+{
+"id": "t-bd47159a2399",
+"locator": null,
+"title": "FAB cria normas para pilotos em caso de contato com ovnis"
+}
+],
 "text": "On 10 August 2010 the Air Force created rules for pilots in case of contact with UFOs.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

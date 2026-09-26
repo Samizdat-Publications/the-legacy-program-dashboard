@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"b": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"claimTier": 1,
+"id": "e-f9230732b3",
+"label": "Green's academic base for UAP-injury neuroimaging work",
+"note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thebulletin-org-79592850",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "thebulletin.org",
+"listedOn": [],
+"node": null,
+"title": "Bulletin of the Atomic Scientists biography, Christopher Green",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://thebulletin.org/biography/christopher-green/"
+]
+}

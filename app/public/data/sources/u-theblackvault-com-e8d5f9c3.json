@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-34009e3b1c",
+"locator": null,
+"node": "defense-support-program",
+"nodeLabel": "Defense Support Program (DSP) missile early warning satellites",
+"sourceText": "John Greenewald, 'Space Force Says Documents on \"Fastwalkers\" and \"Slowwalkers\" All \"Exempt from Disclosure\"', The Black Vault, 22 December 2023, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
+"text": "The Black Vault reports that the US Space Force, responding on 19 December 2023 to a July 2023 request for all procedures and manuals referencing 'Fastwalkers' and 'Slowwalkers', withheld the material in full under FOIA Exemption 1 and section 1.1(a) of Executive Order 13526. The response letter itself was not opened for this record.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"b": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"claimTier": 1,
+"id": "e-d939e2eded",
+"label": "Both refusals rest on the same executive order",
+"note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 1,
+"id": "e-7981069a36",
+"label": "Both refusals on this designation are public only because of The Black Vault",
+"note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-e8d5f9c3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+}
+],
+"node": null,
+"title": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+"topics": [
+{
+"claims": [
+"c-34009e3b1c"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+]
+}

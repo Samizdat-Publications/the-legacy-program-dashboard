@@ -1,0 +1,218 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-521d09585b",
+"locator": "retrieved 12 Aug 2026",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Kirk McConnell is Senior Legislative Affairs Officer at The Sol Foundation and retired from Congress after 37 years with the Senate Armed Services Committee.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-71da2a4c28",
+"locator": "retrieved 12 Aug 2026",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "The Sol Foundation employs Kirk McConnell, who retired from Congress after 37 years with the Senate Armed Services Committee, as Senior Legislative Affairs Officer.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7d7bcfabee",
+"locator": "retrieved 12 Aug 2026",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Skafish is Executive Director of The Sol Foundation and Secretary of its Board; Garry Nolan is Executive Director of the Board.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ac844d9bf4",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation people page",
+"text": "Kirk McConnell, a 37-year Capitol Hill defence and intelligence staffer who served with the Senate Armed Services Committee and both intelligence committees, is the foundation's Senior Legislative Affairs Officer.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ccbe4a0317",
+"locator": "retrieved 12 Aug 2026",
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Advisory board members include Eric Davis, Tim Gallaudet, Jeffrey J. Kripal, Avi Loeb, Jacob Haqq Misra, Diana Pasulka, Jim Semivan, Jacques Vallee (Emeritus), Beatriz Villarroel and Alexander Wendt.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-3dcb60b4ee",
+"label": "Co-founder and Executive Director of the Board",
+"note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jim-semivan",
+"label": "James 'Jim' Semivan"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-7637de0fa4",
+"label": "Continuity from TTSA into the successor policy institution",
+"note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-a8c100cbf3",
+"label": "Senior Legislative Affairs Officer after 37 years on SASC",
+"note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-a42c1b3a90",
+"label": "Co-founder, Executive Director and Secretary of the Board",
+"note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 1,
+"id": "e-520be31762",
+"label": "Eric Davis sits on Sol's Natural Sciences Advisory Board",
+"note": "Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"claimTier": 1,
+"id": "e-72e0cba2e6",
+"label": "Vallee is Emeritus Advisor",
+"note": "Named on the Sol Foundation People page.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"claimTier": 1,
+"id": "e-44522fc0cf",
+"label": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
+"note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thesolfoundation-org-49b17e57",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+}
+],
+"node": null,
+"title": "The Sol Foundation - People",
+"topics": [
+{
+"claims": [
+"c-521d09585b",
+"c-7d7bcfabee",
+"c-ac844d9bf4",
+"c-ccbe4a0317"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/people/"
+]
+}

@@ -18,11 +18,18 @@
    "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
    "source": {
     "domain": "media.defense.gov",
-    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
-   "tier": 2
+   "tier": 1
   },
   "c-0e701fc335": {
    "id": "c-0e701fc335",
@@ -34,6 +41,13 @@
     "text": "AFOSI, About Us",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-osi-af-mil-7930849e",
+     "locator": null,
+     "title": "AFOSI - About Us"
+    }
+   ],
    "text": "The Air Force Office of Special Investigations is chartered for both criminal investigation and counterintelligence, giving a single service jurisdiction over programme security and over personnel who disclose.",
    "tier": 1
   },
@@ -47,6 +61,13 @@
     "text": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "n-operation-northwoods",
+     "locator": null,
+     "title": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    }
+   ],
    "text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
    "tier": 1
   },
@@ -60,6 +81,13 @@
     "text": "Directive by the President to the Secretary of State, the Secretary of Defense (Marshall), and the Director of Central Intelligence (Smith), 4 April 1951, file 100.4-PSB/4-451, FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
     "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-bfbcfac9",
+     "locator": null,
+     "title": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3"
+    }
+   ],
    "text": "Truman established the Board by directive of 4 April 1951: 'It is the purpose of this directive to authorize and provide for the more effective planning, coordination and conduct, within the framework of approved national policies, of psychological operations.' The Board reports to the National Security Council and is composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence.",
    "tier": 1
   },
@@ -73,6 +101,13 @@
     "text": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "n-operation-northwoods",
+     "locator": null,
+     "title": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    }
+   ],
    "text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
    "tier": 1
   },
@@ -86,6 +121,13 @@
     "text": "CIA Center for the Study of Intelligence, Studies in Intelligence 1997",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-haines-cia-history",
+     "locator": null,
+     "title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    }
+   ],
    "text": "CIA's in-house historian Gerald K. Haines published 'CIA's Role in the Study of UFOs, 1947-1990' in Studies in Intelligence in 1997, an eighteen-page account acknowledging the Agency's Office of Scientific Intelligence effort and the Robertson Panel.",
    "tier": 1
   },
@@ -99,6 +141,13 @@
     "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "The absence of any Kirtland/AFOSI/'Yankee Blue' passage in Volume I means that node cannot be sourced to Volume I. The public record for Yankee Blue rests on the June 2025 WSJ reporting plus AARO officials' on-the-record statements, and on a DoD FOIA response that first denied the memo existed and was later reopened - i.e. Tier 2 at best, with the underlying memo unreleased. Reasoning: direct full-text search of the authoritative PDF.",
    "tier": 3
   },
@@ -112,6 +161,13 @@
     "text": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
     "url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
    },
+   "sourceRefs": [
+    {
+     "id": "u-youtube-com-0ffdcbde",
+     "locator": null,
+     "title": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full"
+    }
+   ],
    "text": "The former agent most associated with the Kirtland file has publicly denied the account of harm usually attributed to the operation. Answering George Knapp on camera, Doty said of the story that he drove Bennewitz mad: 'none of it's true every every aspect of that is false'. The board should carry this alongside, and not instead of, the admissions already recorded on this node.",
    "tier": 2
   },
@@ -125,6 +181,13 @@
     "text": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951, FRUS 1950-1955 The Intelligence Community doc. 82, https://history.state.gov/historicaldocuments/frus1950-55Intel/d82",
     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-a07cbae3",
+     "locator": null,
+     "title": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951"
+    }
+   ],
    "text": "He is recorded chairing the Board's business in its own minutes: PSB M-2 of 13 August 1951 lists 'Mr. Gordon Gray, Director, Psychological Strategy Board' present with the Director of Central Intelligence as acting chairman, the Under Secretary of State and the Deputy Secretary of Defense.",
    "tier": 1
   },
@@ -138,6 +201,13 @@
     "text": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "n-operation-northwoods",
+     "locator": null,
+     "title": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    }
+   ],
    "text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
    "tier": 1
   },
@@ -151,6 +221,13 @@
     "text": "Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-skepticalinquirer-org-f0aaf6f2",
+     "locator": null,
+     "title": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer"
+    }
+   ],
    "text": "Philip J. Klass published a detailed forensic critique of the MJ-12 documents in Skeptical Inquirer in 1988, identifying typographic and formatting anomalies.",
    "tier": 2
   },
@@ -164,6 +241,13 @@
     "text": "The Black Vault, Richard Doty Personnel File - New Mexico State Police",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-doty-personnel-file",
+     "locator": null,
+     "title": "Richard Doty New Mexico State Police Personnel File [321 pages]"
+    }
+   ],
    "text": "Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived.",
    "tier": 1
   },
@@ -177,6 +261,7 @@
     "text": "Inference from the documented MJ-12 controversy",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The circulation of fabricated documents produces an evidentiary tax on all genuine documents in the same subject area, which is a benefit accruing specifically to the party concealing genuine records. Reasoning: no other party gains from the contamination.",
    "tier": 3
   },
@@ -190,6 +275,13 @@
     "text": "OSD FOIA response, case 25-F-3514, September 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "foia-25-f-3514",
+     "locator": "September 2025",
+     "title": "OSD FOIA response, case 25-F-3514, September 2025"
+    }
+   ],
    "text": "OSD's final response in FOIA case 25-F-3514 (September 2025) stated that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged spring 2023 cessation memo.",
    "tier": 1
   },
@@ -203,6 +295,13 @@
     "text": "NICAP, 1980 Kirtland AFB FOIA document files",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-afosi-kirtland-file",
+     "locator": null,
+     "title": "AFOSI Kirtland AFB UFO File (1980-1983)"
+    }
+   ],
    "text": "AFOSI documents relating to the 1980 Kirtland AFB incident were released under FOIA and are publicly archived.",
    "tier": 1
   },
@@ -216,6 +315,13 @@
     "text": "AARO Historical Record Report Volume I, p.30 and scope statement",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "p.30 and scope statement",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "The report states AARO found 'no NDAs that contain information related to UAP' and defers unresolved allegations to a Volume II covering 1 November 2023 to 15 April 2024.",
    "tier": 1
   },
@@ -229,6 +335,13 @@
     "text": "Persons, FRUS 1950-1955, The Intelligence Community, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-849ead8a",
+     "locator": null,
+     "title": "FRUS 1950-1955, The Intelligence Community, List of Persons"
+    }
+   ],
    "text": "Gray's offices and their dates, from the Office of the Historian's own persons list: 'Secretary of the Army from June 20, 1949 to April 12, 1950; Director of the Psychological Strategy Board from 1951 to 1952; ... Assistant Secretary of Defense for International Security Affairs from July 1955 to February 1957; Director of Defense Mobilization from March 1957 to July 1958; Special Assistant to the President for National Security Affairs from July 1958 to January 1961'.",
    "tier": 1
   },
@@ -242,6 +355,13 @@
     "text": "Wall Street Journal, 6 June 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-wsj-com-9fabbc1c",
+     "locator": "OSD memorandum, spring 2023, halt order",
+     "title": "Joel Schectman and Aruna Viswanatha, 'The Pentagon Disinformation That Fueled America's UFO Mythology', The Wall Street Journal, 6 June 2025. The canonical address is unreachable from this environment; the text was read in the To Vima republication at this URL."
+    }
+   ],
    "text": "The Office of the Secretary of Defense issued a memorandum in spring 2023 ordering the practice halted immediately.",
    "tier": 2
   },
@@ -255,6 +375,13 @@
     "text": "NSC 10/2, 18 June 1948, paragraph 5, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-bec92ed7",
+     "locator": null,
+     "title": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)"
+    }
+   ],
    "text": "The definition is a definition of deniability. Covert operations are those 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them', and the named categories are 'propaganda, economic warfare; preventive direct action, including sabotage, anti-sabotage, demolition and evacuation measures; subversion against hostile states'. Espionage, counter-espionage and 'cover and deception for military operations' are expressly excluded.",
    "tier": 1
   },
@@ -268,6 +395,7 @@
     "text": "DoD spokeswoman Susan Gough to the Wall Street Journal, June 2025",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A DoD spokeswoman confirmed the findings were not complete when Volume I was released and would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
    "tier": 2
   },
@@ -281,6 +409,13 @@
     "text": "FRUS 1951 vol. I doc. 16, footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16",
     "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-bfbcfac9",
+     "locator": null,
+     "title": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3"
+    }
+   ],
    "text": "Gray was the first Director. The directive's own editorial footnote reads: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.'",
    "tier": 1
   },
@@ -294,6 +429,13 @@
     "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:02",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-175196e08741",
+     "locator": "0:16:02",
+     "title": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58"
+    }
+   ],
    "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:02, Ramsay read a prepared list describing Gray as having 'experience in managing information and propaganda during the cold war aligning with MJ12's need for controlling UFO related narratives' and as 'allegedly involved in developing policies to manage public perception of UFO phenomena'. No document opened for this node connects the Psychological Strategy Board to UFO matters.",
    "tier": 2
   },
@@ -307,6 +449,13 @@
     "text": "AARO Historical Record Report Volume I, February 2024, p.30",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "p.30",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's Historical Record Report Volume I states that AARO found 'no NDAs that contain information related to UAP.'",
    "tier": 1
   },
@@ -320,6 +469,7 @@
     "text": "Wall Street Journal reporting, June 2025, as summarised in FOIA appeal filings",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Wall Street Journal reported in June 2025 that the practice convinced 'hundreds and hundreds of people' they were working on a reverse-engineering programme for alien technology, and that DNI Avril Haines was briefed and described as stunned.",
    "tier": 2
   },
@@ -333,6 +483,7 @@
     "text": "Susan Gough, Department of War, statement of 1 Oct 2025",
     "url": null
    },
+   "sourceRefs": [],
    "text": "On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article. You may want to ask the Air Force or other military services whether they put out such a memo to their personnel.'",
    "tier": 1
   },
@@ -346,6 +497,7 @@
     "text": "The Debrief, 13 April 2022",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Pentagon's head of counterintelligence and security, Garry Reid, was reported in 2022 to have been ousted amid controversy touching the UAP task force's handling; the reporting names him directly.",
    "tier": 2
   },
@@ -359,6 +511,13 @@
     "text": "NICAP, 1980 Kirtland AFB, NM FOIA document files",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-afosi-kirtland-file",
+     "locator": null,
+     "title": "AFOSI Kirtland AFB UFO File (1980-1983)"
+    }
+   ],
    "text": "The AFOSI Kirtland AFB UFO file covering the 1980-1983 Manzano Weapons Storage Area period was released under FOIA and is archived in full by NICAP.",
    "tier": 1
   },
@@ -372,6 +531,13 @@
     "text": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-en-wikipedia-org-ee09daef",
+     "locator": "Moore's 1989 MUFON admission",
+     "title": "Wikipedia - Paul Bennewitz"
+    }
+   ],
    "text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
    "tier": 2
   },
@@ -385,6 +551,13 @@
     "text": "Wall Street Journal investigation, 6 June 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-wsj-com-9fabbc1c",
+     "locator": null,
+     "title": "Joel Schectman and Aruna Viswanatha, 'The Pentagon Disinformation That Fueled America's UFO Mythology', The Wall Street Journal, 6 June 2025. The canonical address is unreachable from this environment; the text was read in the To Vima republication at this URL."
+    }
+   ],
    "text": "Air Force personnel in classified units were briefed into a fictitious programme called Yankee Blue involving reverse-engineering of alien spacecraft, shown flying-saucer photographs, bound by NDAs, and in some accounts threatened with severe penalties for disclosure.",
    "tier": 2
   },
@@ -398,6 +571,13 @@
     "text": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "n-operation-northwoods",
+     "locator": null,
+     "title": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    }
+   ],
    "text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
    "tier": 1
   },
@@ -411,6 +591,13 @@
     "text": "FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
     "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-bfbcfac9",
+     "locator": null,
+     "title": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3"
+    }
+   ],
    "text": "The Director's charter includes a standing claim on other departments: 'The participating departments and agencies shall afford to the Director and the staff such assistance and access to information as may be specifically requested by the Director in carrying out his assigned duties.' The same directive states: 'This directive does not authorize the Board nor the Director to perform any \"psychological operations\".'",
    "tier": 1
   },
@@ -424,6 +611,7 @@
     "text": "Doty's own public statements as summarised in the Paul Bennewitz article",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",
    "tier": 2
   },
@@ -437,6 +625,13 @@
     "text": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-9fe3c324",
+     "locator": null,
+     "title": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons"
+    }
+   ],
    "text": "The operating name and the first officer come from the same volume's list of persons: 'Wisner, Frank G., Deputy Assistant Secretary of State for the Occupied Areas, 1947-1948; Assistant Director for Policy Coordination, Central Intelligence Agency, from September 1, 1948.' George F. Kennan and John Magruder are recorded as senior consultants to the Office of Policy Coordination representing the Secretary of State and the Secretary of Defense respectively, both from September 1948.",
    "tier": 1
   },
@@ -450,6 +645,13 @@
     "text": "FBI Records: The Vault - 'Majestic 12'",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-vault-fbi-gov-deebc0de",
+     "locator": null,
+     "title": "FBI Records: The Vault - 'Majestic 12'"
+    }
+   ],
    "text": "The FBI maintains a public file on the Majestic 12 documents, released through its Vault reading room, recording the investigation of their authenticity.",
    "tier": 1
   },
@@ -463,6 +665,7 @@
     "text": "war.gov/UFO release index and AARO publication listings, accessed August 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "As of 12 August 2026 no Volume II appears in AARO's or the Department of War's published release index.",
    "tier": 1
   },
@@ -476,6 +679,7 @@
     "text": "Inference from Alejandro Rojas, HuffPost, 13 May 2014 and Mystery Wire YouTube 9TLfM5VKX3M, both opened 2026-09-19",
     "url": null
    },
+   "sourceRefs": [],
    "text": "STATED INFERENCE ABOUT THE DOMAIN'S BEST-KNOWN CASE. The Bennewitz operation is carried across this board on the strength of admissions, and the principal admitting officer has since denied on the record that the operation did the harm attributed to it, while the civilian who admitted the same conduct in 1989 has not retracted. Reasoning: where a domain rests on self-description by deceivers, its strongest claims should be the ones with a documentary spine, here the 1980 complaint form, and its weakest should be the ones resting only on what a deceiver later said about himself.",
    "tier": 3
   },
@@ -489,6 +693,13 @@
     "text": "Wall Street Journal, 6 June 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-wsj-com-9fabbc1c",
+     "locator": "OSD memorandum, spring 2023, halt order",
+     "title": "Joel Schectman and Aruna Viswanatha, 'The Pentagon Disinformation That Fueled America's UFO Mythology', The Wall Street Journal, 6 June 2025. The canonical address is unreachable from this environment; the text was read in the To Vima republication at this URL."
+    }
+   ],
    "text": "Officials briefed DNI Avril Haines that 'hundreds and hundreds' of personnel had been affected over decades.",
    "tier": 2
   },
@@ -502,6 +713,13 @@
     "text": "NSC 10/2, National Security Council Directive on Office of Special Projects, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
    },
+   "sourceRefs": [
+    {
+     "id": "u-history-state-gov-bec92ed7",
+     "locator": null,
+     "title": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)"
+    }
+   ],
    "text": "The charter creates the office by that name: 'A new Office of Special Projects shall be created within the Central Intelligence Agency to plan and conduct covert operations; and in coordination with the Joint Chiefs of Staff to plan and prepare for the conduct of such operations in wartime.'",
    "tier": 1
   },
@@ -515,6 +733,13 @@
     "text": "Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-garberfiles-substack-com-817d5614",
+     "locator": null,
+     "title": "Garber Files - From Mirage Men to Military Deception"
+    }
+   ],
    "text": "Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception.",
    "tier": 2
   },
@@ -528,6 +753,7 @@
     "text": "Inference from Haines, 'CIA's Role in the Study of UFOs, 1947-1990'",
     "url": null
    },
+   "sourceRefs": [],
    "text": "CIA's stated U-2/OXCART explanation is an admission of deliberate false attribution: the Agency states that it knew a substantial fraction of reports were its own aircraft and permitted the Air Force to issue natural-phenomena explanations instead. Reasoning: the explanation only works if the Agency withheld the true cause from the public explanation channel it was coordinating with.",
    "tier": 3
   },
@@ -541,6 +767,7 @@
     "text": "Wall Street Journal reporting, 6 June 2025, as summarised in the Yankee Blue record",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Officials briefed DNI Haines that 'hundreds and hundreds' of military personnel had been affected over decades by the fake alien-technology indoctrination practice.",
    "tier": 2
   },
@@ -554,6 +781,13 @@
     "text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
     "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
    },
+   "sourceRefs": [
+    {
+     "id": "u-noriohayakawa-wordpress--76c9d3fa",
+     "locator": null,
+     "title": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'"
+    }
+   ],
    "text": "THE DOMAIN'S CLEANEST WORKED EXAMPLE OF MANUFACTURED CORROBORATION. Tal Levesque, author of the two original Dulce Base articles, told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was 'a creation. A MYTH', and described the distribution: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' The many later sources that agree about Dulce agree because they were seeded from one origin.",
    "tier": 2
   },
@@ -567,6 +801,13 @@
     "text": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
     "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
    },
+   "sourceRefs": [
+    {
+     "id": "pl-117-263",
+     "locator": null,
+     "title": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports"
+    }
+   ],
    "text": "The deadline AARO invokes is fixed by Sec. 6802(j)(1)(A) of Pub. L. 117-263: 'Not later than 540 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023...'. Enactment was 23 December 2022, placing the statutory deadline at 15 June 2024. Volume II has not been published as of 12 August 2026 - roughly 26 months past that date.",
    "tier": 1
   },
@@ -580,6 +821,13 @@
     "text": "National Security Archive, Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, 'Justification for US Military Intervention in Cuba', https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
     "url": "https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962"
    },
+   "sourceRefs": [
+    {
+     "id": "u-nsarchive-gwu-edu-72e03526",
+     "locator": null,
+     "title": "National Security Archive posting of the same memorandum"
+    }
+   ],
    "text": "It reached the public through a records statute, not through disclosure. The National Security Archive's posting gives the classification as TOP SECRET SPECIAL HANDLING NOFORN and the source as the John F. Kennedy Assassination Records Review Board.",
    "tier": 1
   },
@@ -593,6 +841,13 @@
     "text": "Department of War FOIA appellate decision, December 2025",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "t-7e55602233d2",
+     "locator": null,
+     "title": "Department of War FOIA appellate decision, December 2025"
+    }
+   ],
    "text": "On 15 December 2025 a FOIA appellate decision remanded the case to the Department for additional searches, granting the appeal that argued a search limited to the Correspondence Management Division was inadequate under Oglesby v. U.S. Dep't of Army, 920 F.2d 57 (D.C. Cir. 1990).",
    "tier": 1
   },
@@ -606,6 +861,13 @@
     "text": "Robertson Panel report, declassified text",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-documents-theblackvault--50710a63",
+     "locator": "declassified text",
+     "title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+    }
+   ],
    "text": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched.",
    "tier": 1
   },
@@ -619,6 +881,13 @@
     "text": "AFSWC TR-59-39 Vol I, Chapter I, Introduction, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
     "url": "https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "dtic-ad0425380",
+     "locator": null,
+     "title": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959"
+    }
+   ],
    "text": "The introduction states the political motive in the report's own words: 'The motivation for such a detonation is clearly threefold: scientific, military and political... Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability. It is also certain that, unless the climate of world opinion were well-prepared in advance, a considerable negative reaction could be stimulated.'",
    "tier": 1
   },
@@ -632,6 +901,13 @@
     "text": "AFSWC TR-59-39 Vol I, title page and report page, DDC AD 425380, https://archive.org/details/DTIC_AD0425380",
     "url": "https://archive.org/details/DTIC_AD0425380"
    },
+   "sourceRefs": [
+    {
+     "id": "dtic-ad0425380",
+     "locator": null,
+     "title": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959"
+    }
+   ],
    "text": "The report is 'AFSWC-TR-59-39, TR 59-39 Vol I, A STUDY OF LUNAR RESEARCH FLIGHTS', issued by 'HEADQUARTERS AIR FORCE SPECIAL WEAPONS CENTER, AIR RESEARCH AND DEVELOPMENT COMMAND, KIRTLAND AIR FORCE BASE, NEW MEXICO', authored by L. Reiffel of the Armour Research Foundation, Illinois Institute of Technology, dated 19 June 1959, under Project Number 5776-57853 and Contract AF 29(601)-1164. Its title page marks the title '(Unclassified Title)'. The string 'A119' appears nowhere in the report.",
    "tier": 1
   },
@@ -645,6 +921,13 @@
     "text": "AFSWC TR-59-39 Vol I, Abstract, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
     "url": "https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
    },
+   "sourceRefs": [
+    {
+     "id": "dtic-ad0425380",
+     "locator": null,
+     "title": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959"
+    }
+   ],
    "text": "The abstract opens: 'Nuclear detonations in the vicinity of the moon are considered in this report along with scientific information which might be obtained from such explosions. The military aspect is aided by investigation of space environment, detection of nuclear device testing, and capability of weapons in space.'",
    "tier": 1
   },

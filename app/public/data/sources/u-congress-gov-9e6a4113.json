@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-congress-gov-9e6a4113",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+}
+],
+"node": null,
+"title": "Congress.gov - H.R.10111, UAP Whistleblower Protection Act (118th Congress)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.congress.gov/bill/118th-congress/house-bill/10111/text/ih?overview=closed&format=txt"
+]
+}

@@ -1,0 +1,74 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-044c9f5722",
+"locator": "Enquirer, 4 March 1960",
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
+"text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8dd63537ea",
+"locator": "Enquirer, 4 March 1960, editorial 'Flying Saucers Again'",
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960, editorial 'Flying Saucers Again'; declassified in part 2014-06-12",
+"text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp68-00046r000200090028-9",
+"identifiers": [
+"CIA-RDP68-00046R000200090028-9"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+}
+],
+"node": null,
+"title": "Flying Saucers Again (CIA-RDP68-00046R000200090028-9)",
+"topics": [
+{
+"claims": [
+"c-044c9f5722",
+"c-8dd63537ea"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-044c9f5722",
+"c-8dd63537ea"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-044c9f5722",
+"c-8dd63537ea"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090028-9"
+]
+}

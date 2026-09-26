@@ -7,32 +7,72 @@
 {
 "id": "c-b7470eb4ff",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "GPO source credit for 10 U.S.C. 119: 'Added Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), Dec. 4, 1987, 101 Stat. 1151.' The waiver in subsection (e) was present in that original enactment and has never been amended.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-25db1a1683",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Statutory note, 'Initial Reports on Special Access Programs': 'Pub. L. 100-180, div. A, title XI, sec. 1132(b), (c), Dec. 4, 1987, 101 Stat. 1152, required that the first report under subsec. (a) of this section set forth the amount that had been requested in the President's budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.' Congress in 1987 expressly required a one-time backward-looking census of all EXISTING SAPs -- so a program in being before December 1987 was supposed to be captured, subject only to the section 119(e) waiver.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e67eae2431",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Subsection (f)'s 30-day pre-initiation bar was NOT in the 1987 enactment: the GPO amendment notes record 'Subsec. (f). Pub. L. 101-510, sec. 1482(a)(2), added subsec. (f)', effective 1 October 1991 per Pub. L. 101-510 sec. 1482(d). Between 4 Dec 1987 and 1 Oct 1991 there was no statutory waiting period before a DoD SAP could begin.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-faff1bfcdf",
 "source": "Source credit to 10 U.S.C. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119 was 'Added Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), Dec. 4, 1987, 101 Stat. 1151'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8471052f80",
 "source": "Structural reading of 10 U.S.C. 119(b) and (f) against their 1987 enactment date",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "b) and (f) against their 1987 enactment date",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "A DoD special access program initiated before 4 December 1987 and never re-designated would fall outside the subsection (b) 'new special access program' notice regime and outside the subsection (f) 30-day pre-initiation notice, both of which operate prospectively. Reasoning: neither provision contains retroactive language, and (b)(3) defines the trigger by reference to prior notice under a subsection that did not exist.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

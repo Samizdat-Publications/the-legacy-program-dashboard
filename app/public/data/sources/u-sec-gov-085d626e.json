@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-099b4cdf24",
+"locator": null,
+"node": "trw-inc",
+"nodeLabel": "TRW Inc.",
+"sourceText": "Northrop Grumman Corporation, Form 8-K filed 13 December 2002, Item 5(b), https://www.sec.gov/Archives/edgar/data/1133421/000089843002004481/d8k.htm",
+"text": "The merger required an antitrust consent: on 11 December 2002 the United States filed a complaint, a proposed final judgment and a stipulation and order against Northrop Grumman and TRW, which the court entered the same day and which became effective on the closing of the merger.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-085d626e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+}
+],
+"node": null,
+"title": "Northrop Grumman Corporation, Form 8-K filed 13 December 2002 (consent decree)",
+"topics": [
+{
+"claims": [
+"c-099b4cdf24"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/1133421/000089843002004481/d8k.htm"
+]
+}

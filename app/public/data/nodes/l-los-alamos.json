@@ -7,26 +7,40 @@
 {
 "id": "c-41802a082d",
 "source": "Los Alamos National Laboratory, 18 November 2024",
+"sources": [],
 "text": "The 16 February 1949 green fireballs conference was held at Los Alamos Scientific Laboratory and its minutes are held by the National Security Research Center.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-sec) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-7d82067f86",
 "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-9c9859e2",
+"locator": null,
+"title": "Los Alamos Monitor, 27 June 1982, pages A1 and A8, by Terry England, reprinted by Tom Mahood"
+}
+],
 "text": "The Los Alamos Monitor of Sunday 27 June 1982 carried a front-page story by staff writer Terry England, 'LA Man Joins The Jet Set - At 200 Miles An Hour', pages A1 and A8, about a jet-powered Honda built by Bob Lazar, describing him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. This is the earliest dated artefact in the Lazar cluster and it predates the UFO claim by seven years.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2332455d50",
 "source": "Los Alamos National Laboratory historical account",
+"sources": [],
 "text": "A conference on the green fireballs was convened at Los Alamos on 16 February 1949; Edward Teller was among the attendees.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:lanl.gov) was rejected in review: vague LANL account; candidate is lanl.gov home"
 },
 {
 "id": "c-f8002bdfdc",
 "source": "Inference from DOE laboratory capability and the absence of any primary record",
+"sources": [],
 "text": "Los Alamos is one of a very small set of US institutions holding both the compartmentation architecture and the materials characterisation capability a concealed exploitation programme would need; no primary document places it inside one. Reasoning: capability inference stated as such, with the evidentiary gap declared.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "location",

@@ -1,0 +1,120 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3d3cb12544",
+"locator": "Articles 201 and 308",
+"node": "carroll-bolender",
+"nodeLabel": "Carroll H. Bolender",
+"sourceText": "JANAP 146(C), 10 March 1954, Articles 201 and 308",
+"text": "JANAP 146 did in fact establish a separate CIRVIS reporting channel requiring airborne and shipborne personnel to report unidentified flying objects, with unauthorised disclosure prohibited under the espionage statutes.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-065fa9a5f1",
+"locator": "letter of promulgation",
+"node": "janap-146",
+"nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+"sourceText": "JANAP 146(C), 10 March 1954, letter of promulgation",
+"text": "JANAP 146(C), 10 March 1954, was issued by the Joint Chiefs of Staff, Joint Communications-Electronics Committee, is 'an unclassified publication', and its letter of promulgation states that it 'supersedes JANAP 146 (B) ... and all other conflicting instructions. JANAP 146(B) shall be destroyed by burning.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8875d910d9",
+"locator": "Article 308(a)",
+"node": "janap-146",
+"nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+"sourceText": "JANAP 146(C), Article 308(a)",
+"text": "Article 308(a) states 'The unauthorized transmission or revelation of the contents of MERINT reports in any manner is prohibited' and references 18 U.S. Code sections 793 and 794.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d38a2907a1",
+"locator": "Article 201(1)(c)",
+"node": "janap-146",
+"nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+"sourceText": "JANAP 146(C), Article 201(1)(c)",
+"text": "JANAP 146(C), dated 10 March 1954, requires airborne personnel to report 'Unidentified flying objects' under CIRVIS while in flight, except over foreign territory.",
+"tier": 1
+}
+],
+"date": "1954",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"b": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"claimTier": 2,
+"id": "e-db9a42211f",
+"label": "Bolender names JANAP 146 as the channel Blue Book was not",
+"note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-bd9b6d6043",
+"label": "JANAP created a parallel reporting channel outside Blue Book",
+"note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
+"type": "institutional"
+}
+],
+"era": "0",
+"host": null,
+"id": "n-janap-146",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "person",
+"id": "carroll-bolender",
+"label": "Carroll H. Bolender"
+},
+{
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+}
+],
+"node": {
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"title": "JANAP 146 (CIRVIS/MERINT reporting)",
+"topics": [
+{
+"claims": [
+"c-8875d910d9",
+"c-d38a2907a1"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "document",
+"urls": [
+"https://www.nicap.org/janp146c.htm"
+]
+}

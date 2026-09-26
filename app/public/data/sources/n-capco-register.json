@@ -1,0 +1,160 @@
+{
+"archived": [
+"https://web.archive.org/web/20241230231438/https://www.dni.gov/files/documents/FOIA/Public_CAPCO_Register%20and%20Manual%20v5.1.pdf"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-3278908750",
+"locator": "title page",
+"node": "capco-register",
+"nodeLabel": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"sourceText": "CAPCO Register and Manual v5.1, title page",
+"text": "CAPCO Register v5.1 title page: 'Intelligence Community Authorized Classification and Control Markings Register and Manual, Volume 5, Edition 1 (Version 5.1) (Effective: 30 December 2011), Administrative Update, 30 March 2012, Controlled Access Program Coordination Office (CAPCO), Washington, DC 20511.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-440bb4aeaf",
+"locator": "Special Access Program Markings section",
+"node": "capco-register",
+"nodeLabel": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"sourceText": "CAPCO Register and Manual v5.1, Special Access Program Markings",
+"text": "CAPCO Register v5.1: 'The first value in the SAP category is the SAP category indicator either \"SPECIAL ACCESS REQUIRED-\" or \"SAR-\" (the authorized abbreviation) ... Following the SAP category indicator shall be the SAP program indicator which is the program's nickname or authorized digraph or trigraph.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c017c5f107",
+"locator": "change log",
+"node": "capco-register",
+"nodeLabel": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"sourceText": "CAPCO Register and Manual v5.1, change log",
+"text": "CAPCO Register v5.1 change log records that the edition 'Moved the Special Access Required (SAR) marking from the Non-Intelligence Community Dissemination Control Markings category to a new category called Special Access Program Markings.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f41951138f",
+"locator": "title page",
+"node": "capco-register",
+"nodeLabel": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"sourceText": "CAPCO Register and Manual v5.1, title page",
+"text": "CAPCO Register v5.1 title page: 'Certain security markings were removed due to classified content. These markings have been compiled in separate classified addenda.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3aa7c574e8",
+"locator": "title page note",
+"node": "capco-register",
+"nodeLabel": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"sourceText": "CAPCO Register and Manual v5.1, title page note",
+"text": "The existence of classified addenda to the marking register means that a document could bear a compartment marking that is not listed in any public authority, so a researcher holding a released document cannot always determine from public sources what control system it belongs to. Reasoning: the register itself states that markings were removed for classification and compiled separately.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-2155aa466f",
+"locator": "title page",
+"node": "odni-capco",
+"nodeLabel": "ODNI Controlled Access Program Coordination Office (CAPCO)",
+"sourceText": "IC Authorized Classification and Control Markings Register and Manual v5.1, title page",
+"text": "CAPCO publishes the Intelligence Community Authorized Classification and Control Markings Register and Manual from Washington, DC 20511, with the contact address DNI-SSD-CAPCO@dni.ic.gov.",
+"tier": 1
+}
+],
+"date": "2011-12-30",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "capco-register",
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+},
+"b": {
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+"claimTier": 1,
+"id": "e-53d66f00fb",
+"label": "Gives special access programs their own marking category in the banner line",
+"note": "CAPCO Register v5.1 moved the Special Access Required marking into a new Special Access Program Markings category following the SCI control markings, with the indicator 'SPECIAL ACCESS REQUIRED-' or 'SAR-'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "capco-register",
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+},
+"b": {
+"cls": "institution",
+"id": "isoo",
+"label": "Information Security Oversight Office"
+},
+"claimTier": 1,
+"id": "e-20f97512a9",
+"label": "ISOO advises the working group that produces the marking standard",
+"note": "The CAPCO Register v5.1 lists NARA/Information Security Oversight Office among the IC Classification Markings Implementation Working Group advisors.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "odni-capco",
+"label": "ODNI Controlled Access Program Coordination Office (CAPCO)"
+},
+"b": {
+"cls": "document",
+"id": "capco-register",
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+},
+"claimTier": 1,
+"id": "e-f73422cd2e",
+"label": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
+"note": "The IC Authorized Classification and Control Markings Register and Manual v5.1 is issued by the Controlled Access Program Coordination Office, Washington DC 20511.",
+"type": "institutional"
+}
+],
+"era": "2",
+"host": null,
+"id": "n-capco-register",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [
+{
+"cls": "document",
+"id": "capco-register",
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+},
+{
+"cls": "institution",
+"id": "odni-capco",
+"label": "ODNI Controlled Access Program Coordination Office (CAPCO)"
+}
+],
+"node": {
+"cls": "document",
+"id": "capco-register",
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+},
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"topics": [
+{
+"claims": [
+"c-3278908750",
+"c-440bb4aeaf",
+"c-c017c5f107",
+"c-f41951138f",
+"c-2155aa466f"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "document",
+"urls": []
+}

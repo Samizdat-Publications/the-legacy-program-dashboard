@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-3bee01484c",
+"locator": null,
+"node": "l-barksdale",
+"nodeLabel": "Barksdale Air Force Base, Louisiana",
+"sourceText": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026",
+"text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
+"tier": 1
+}
+],
+"date": "2026-03-09",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-ae1a08eaa5a1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Capt. Hunter Rininger, Barksdale AFB Public Affairs",
+"listedOn": [],
+"node": null,
+"title": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026",
+"topics": [
+{
+"claims": [
+"c-3bee01484c"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

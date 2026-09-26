@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-6b127e1755",
+"label": "Luna's 2026 records demand ran in parallel with the delayed annual report",
+"note": "She wrote to the Secretary of War on 31 March 2026 demanding more than 46 UAP videos by 14 April; the deadline passed with an offer of a future briefing, and the FY2025 report appeared in July.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-liberationtimes-com-7accc8d5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "Christopher Sharp, 'War Department Says White House Coordinating Release Of Never-Before-Seen UFO Material, ' Liberation Times",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.liberationtimes.com/home/war-department-says-white-house-coordinating-release-of-never-before-seen-ufo-material"
+]
+}

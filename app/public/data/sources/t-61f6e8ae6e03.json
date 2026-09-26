@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-f1668b6955",
+"locator": "received videos in Pentagon parking lot",
+"node": "l-pentagon",
+"nodeLabel": "The Pentagon, Arlington, Virginia",
+"sourceText": "Christopher Mellon in The Phenomenon (2020), via Vice",
+"text": "Christopher Mellon received the three video files 'in the Pentagon parking lot from a Defense Department official'.",
+"tier": 2
+}
+],
+"date": "2020-10-20",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-61f6e8ae6e03",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "via Vice",
+"listedOn": [],
+"node": null,
+"title": "The Phenomenon (2020",
+"topics": [],
+"type": "broadcast",
+"urls": []
+}

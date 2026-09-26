@@ -1,0 +1,92 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3fda52b3f4",
+"locator": null,
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "EarthTech International, About page",
+"text": "The Institute for Advanced Studies at Austin was founded by Puthoff in 1985 and incorporated under EarthTech International Inc. in 1991.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-05d925f30f",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "EarthTech International, About page",
+"text": "EarthTech International Inc., Austin, was founded by Puthoff in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin (est. 1985).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-austin",
+"label": "Austin, Texas - 11855 Research Blvd"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-6752ca6d3a",
+"label": "11855 Research Blvd - the address printed on a DIA reference document",
+"note": "The single street address connecting the DIA Defense Warning Office to the AAWSAP propulsion and medical documents and thence to the To The Stars metamaterials work.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 3,
+"id": "e-bb87a8970e",
+"label": "Private, non-FOIA-able laboratory sitting between a government programme and a public company",
+"note": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-earthtech-org-5f60f5b7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "earthtech.org",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-austin",
+"label": "Austin, Texas - 11855 Research Blvd"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+}
+],
+"node": null,
+"title": "EarthTech International / Institute for Advanced Studies at Austin",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.earthtech.org/about/"
+]
+}

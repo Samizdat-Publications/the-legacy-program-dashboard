@@ -8,26 +8,58 @@
 {
 "id": "c-b51a3753ac",
 "source": "GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "GAO reviewed classified and unclassified records from July 1947 through the 1950s held by military organisations in New Mexico and by the FBI, CIA and National Security Council, reporting in GAO/NSIAD-95-187, issued 28 July 1995.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-991aefb24b",
 "source": "GAO/NSIAD-95-187, quoting the 509th BG/RAAF July 1947 unit history",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "quoting the 509th BG/RAAF July 1947 unit history",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The July 1947 history report of the 509th Bomb Group and Roswell Army Air Field records that the RAAF public information office 'was kept quite busy ... answering inquiries on the flying disc' and states that the object 'turned out to be a radar tracking balloon'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6959243edc",
 "source": "GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "RAAF administrative records covering March 1945 to December 1949, and RAAF outgoing messages covering October 1946 to December 1949, were destroyed; the document disposition form does not indicate what organisation or person destroyed the records, when, or under what authority.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-18b4100792",
 "source": "Inference from GAO/NSIAD-95-187",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "Unaccounted destruction of four years of administrative files and message traffic at the base hosting the world's only atomic-capable combat unit is not ordinary records management. Reasoning: routine disposition under schedule leaves an accountable authority and a date on the disposition form, and GAO found neither.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-62714d0eae",
+"locator": "Art. 3º",
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "Portaria nº 551/GC3, de 9 de agosto de 2010, Art. 3º, transcribed in Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023",
+"text": "The mechanism that makes the fund open-ended is written into the governing order: Portaria 551/GC3 Art. 3 requires CENDOC to 'copiar, encadernar, arquivar cópias dos registros encaminhados pelo COMDABRA e enviar, periodicamente, os originais ao Arquivo Nacional.' The fund therefore grows by periodic recolhimentos; a fixed terminal year is structurally impossible while the Portaria is in force.",
+"tier": 1
+}
+],
+"date": "2010-08-09",
+"edges": [],
+"era": "2",
+"host": null,
+"id": "t-81e0c999beee",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Portaria nº 551/GC3, de 9 de agosto de 2010",
+"topics": [
+{
+"claims": [
+"c-62714d0eae"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
+"type": "regulation",
+"urls": []
+}

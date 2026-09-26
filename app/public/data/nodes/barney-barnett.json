@@ -33,20 +33,38 @@
 {
 "id": "c-1f28b6904f",
 "source": "The Roswell Report: Case Closed (1997), Section 1.4, quoting FUFOR footage",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.4, quoting FUFOR footage",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "Vern Maltais and Alice Knight, who knew Barnett, related his account on camera for the Fund for UFO Research video 'Recollections of Roswell Part II'; Knight stated 'I don't recall the date.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-7efd04f46f",
 "source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.1",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The Air Force's 1997 report states that the San Agustin claim rests on three testimonies - two second-hand (Maltais, Knight) and one first-hand (Gerald Anderson) - and that Barnett, the original alleged eyewitness, is deceased.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-58d903696b",
 "source": "Inference from the state of the record",
+"sources": [],
 "text": "The San Agustin strand is unfalsifiable in its current form and should be treated as a research target rather than as evidence. Reasoning: no first-hand statement by Barnett exists in any medium, and the only first-hand claimant, Gerald Anderson, was shown to have submitted a forged document.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

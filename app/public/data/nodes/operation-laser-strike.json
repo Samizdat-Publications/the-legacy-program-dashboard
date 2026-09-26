@@ -7,32 +7,82 @@
 {
 "id": "c-6b27b3bc4b",
 "source": "Coast Guard Interdiction Efforts in the Transit Zone, hearing before the Subcommittee on National Security, International Affairs, and Criminal Justice, House Committee on Government Reform and Oversight, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"sources": [
+{
+"id": "chrg-105hhrg41842",
+"locator": null,
+"title": "CHRG-105hhrg41842"
+}
+],
 "text": "Admiral Robert E. Kramek, Commandant of the Coast Guard, told the subcommittee on 10 March 1997 that the 1998 budget sought enough money 'to sustain that operation and to sustain Laser Strike, which you are familiar with in South America on the air bridge.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4878df6507",
 "source": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"sources": [
+{
+"id": "chrg-105hhrg41842",
+"locator": "Serial No. 105-18",
+"title": "CHRG-105hhrg41842"
+},
+{
+"id": "chrg-105hhrg41842",
+"locator": null,
+"title": "CHRG-105hhrg41842"
+}
+],
 "text": "Kramek told the same hearing: 'The IDA analysis is what led us to operation Laser Strike as you know it now. That is, they were able to show us where all the air tracks were occurring in the air bridge between Peru and Colombia.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7424fe0c4a",
 "source": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"sources": [
+{
+"id": "chrg-105hhrg41842",
+"locator": "Serial No. 105-18",
+"title": "CHRG-105hhrg41842"
+},
+{
+"id": "chrg-105hhrg41842",
+"locator": null,
+"title": "CHRG-105hhrg41842"
+}
+],
 "text": "LCDR Randy Forrester, US Coast Guard, testified at the same hearing that his Air Station Miami unit had two HU-25C aircraft deployed to Operation Laser Strike and two to Operation Frontier Shield, out of seven aircraft in the unit.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-63a89ff51a",
 "source": "United States Marine Corps, Lineage of Marine Air Control Group 28, https://www.usmcu.edu/Portals/218/MARINE%20AIR%20CONTROL%20GROUP%2028.pdf",
+"sources": [
+{
+"id": "u-usmcu-edu-6288e4b4",
+"locator": null,
+"title": "United States Marine Corps, Lineage of Marine Air Control Group 28"
+}
+],
 "text": "The official lineage of Marine Air Control Group 28, certified by the Commandant of the Marine Corps on 28 September 2018, records no deployment to Peru or South America and no counter-narcotics operation of any kind between its 1967 redesignation and Desert Shield in 1990.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7dacf100fd",
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:01:40, mapped at research/leads/dannyjones-corpus-20.md and research/leads/dannyjones-triage-4.md rows 5 and 6",
+"sources": [
+{
+"id": "t-175dc4f8f6d3",
+"locator": null,
+"title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:01:40, the investigator who identifies himself only as UAP Gerb described Laser Strike as the operation under which a Marine Air Control Group 28 detachment was in Peru in 1997, and as the cover for the Jonathan Weygandt crash-retrieval account. No record opened for this node places any Marine unit in Peru, and the unit's own lineage certificate carries no Peru entry. Tier 3 rather than Tier 2 because the speaker does not give his legal name on air and because the claim is a chain of inferences no opened document supports at any link.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "event",

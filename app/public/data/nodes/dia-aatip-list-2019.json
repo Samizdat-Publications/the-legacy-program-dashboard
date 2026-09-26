@@ -7,8 +7,10 @@
 {
 "id": "c-a1b107a1b3",
 "source": "Federation of American Scientists, 'AATIP List'; DIA letter to Aftergood",
+"sources": [],
 "text": "DIA released a 38-title list of AATIP research products to FAS on 16 January 2019, covering work funded 2007-2012 at approximately $22 million; the list had been provided to Congress in January 2018.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:dia-aatip-list-2019) was rejected in review: names two sources; candidate is only one"
 }
 ],
 "cls": "document",

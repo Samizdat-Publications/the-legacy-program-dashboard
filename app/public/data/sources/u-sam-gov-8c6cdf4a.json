@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-3f5acc7cfd",
+"locator": null,
+"node": "aaro-jwics-case-management-2025",
+"nodeLabel": "AARO JWICS case management system (sources sought, May 2025)",
+"sourceText": "https://sam.gov/opp/f58ef2bc419345999cb8cb483d97a838/view",
+"text": "AARO issued a Sources Sought Notice on SAM.gov (notice f58ef2bc419345999cb8cb483d97a838) for a custom case management system hosted on JWICS, with capabilities statements due 9 June 2025.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sam-gov-8c6cdf4a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "sam.gov",
+"listedOn": [
+{
+"cls": "program",
+"id": "aaro-jwics-case-management-2025",
+"label": "AARO JWICS case management system (sources sought, May 2025)"
+}
+],
+"node": null,
+"title": "SAM.gov Sources Sought Notice (AARO case management system)",
+"topics": [
+{
+"claims": [
+"c-3f5acc7cfd"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-3f5acc7cfd"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+}
+],
+"type": "web page",
+"urls": [
+"https://sam.gov/opp/f58ef2bc419345999cb8cb483d97a838/view"
+]
+}

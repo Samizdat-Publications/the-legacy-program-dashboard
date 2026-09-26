@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b8a7daca77",
+"locator": null,
+"node": "trw-inc",
+"nodeLabel": "TRW Inc.",
+"sourceText": "SEC EDGAR company record, CIK 0000100030, https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TRW+INC",
+"text": "EDGAR carries the transition on the company's own registration: CIK 0000100030 is listed as NORTHROP GRUMMAN SPACE & MISSION SYSTEMS CORP, 'formerly: TRW INC (filings through 2002-12-23)'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-6c446a0e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+}
+],
+"node": null,
+"title": "SEC EDGAR company record, CIK 0000100030, formerly TRW INC",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TRW+INC"
+]
+}

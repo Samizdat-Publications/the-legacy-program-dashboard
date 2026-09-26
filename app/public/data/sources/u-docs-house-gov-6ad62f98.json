@@ -1,0 +1,112 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-efb7a87f76",
+"locator": null,
+"node": "hearing-2023-07-26",
+"nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"sourceText": "docs.house.gov Committee Repository, EventID 116282, document list",
+"text": "The House Committee Repository record for event 116282 (docs.house.gov/meetings/GO/GO06/20230726/116282) holds the notice, memo, member roster, attendance sheet, each witness's written statement, Truth in Testimony form and bio, the official transcript (HHRG-118-GO06-Transcript-20230726.pdf, posted 8 September 2023), and materials submitted for the record by Reps. Burchett and Luna, including the Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-34e28a9688",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+"text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2be28349d4",
+"locator": "DIRD and Corbell report submitted for the record",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"sourceText": "docs.house.gov EventID 116282 document list",
+"text": "Submitted for the record of the 26 July 2023 hearing the Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', Jeremy Corbell's report 'The UAP Puzzle', and a statement for the record by George Knapp; all are filed under docs.house.gov event 116282.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-docs-house-gov-6ad62f98",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. House of Representatives",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+{
+"cls": "event",
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+{
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "docs.house.gov meeting repository, House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Event 116282 (26 July 2023) - witness statements, Truth in Testimony forms, official transcript",
+"topics": [
+{
+"claims": [
+"c-efb7a87f76",
+"c-2be28349d4"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-34e28a9688"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "web page",
+"urls": [
+"https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+]
+}

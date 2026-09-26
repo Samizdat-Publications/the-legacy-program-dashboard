@@ -111,8 +111,8 @@
  ],
  "counts": {
   "claims": {
-   "1": 3780,
-   "2": 1700,
+   "1": 3786,
+   "2": 1694,
    "3": 580
   },
   "edges": 2788,
@@ -367,8 +367,8 @@
    "D": 2,
    "band": null,
    "claims": [
-    5,
-    2,
+    7,
+    0,
     2
    ],
    "cls": "document",
@@ -391,8 +391,8 @@
    "D": 2,
    "band": "oversight",
    "claims": [
-    10,
-    4,
+    13,
+    1,
     1
    ],
    "cls": "document",
@@ -415,8 +415,8 @@
    "D": 3,
    "band": "research",
    "claims": [
-    31,
-    7,
+    36,
+    2,
     4
    ],
    "cls": "document",
@@ -463,8 +463,8 @@
    "D": 3,
    "band": "oversight",
    "claims": [
-    36,
-    6,
+    38,
+    4,
     6
    ],
    "cls": "document",
@@ -487,8 +487,8 @@
    "D": 3,
    "band": "research",
    "claims": [
-    8,
-    5,
+    9,
+    4,
     2
    ],
    "cls": "document",
@@ -2383,8 +2383,8 @@
    "D": 1,
    "band": null,
    "claims": [
-    4,
     3,
+    4,
     1
    ],
    "cls": "institution",
@@ -5671,8 +5671,8 @@
    "D": 1,
    "band": null,
    "claims": [
-    1,
-    1,
+    0,
+    2,
     1
    ],
    "cls": "person",
@@ -6223,8 +6223,8 @@
    "D": 2,
    "band": null,
    "claims": [
-    4,
-    0,
+    3,
+    1,
     1
    ],
    "cls": "institution",
@@ -7615,8 +7615,8 @@
    "D": 3,
    "band": "funding",
    "claims": [
-    2,
-    4,
+    3,
+    3,
     1
    ],
    "cls": "program",
@@ -7879,8 +7879,8 @@
    "D": 3,
    "band": null,
    "claims": [
-    11,
-    2,
+    12,
+    1,
     3
    ],
    "cls": "document",
@@ -8911,8 +8911,8 @@
    "D": 3,
    "band": null,
    "claims": [
-    9,
-    9,
+    8,
+    10,
     3
    ],
    "cls": "person",
@@ -14623,8 +14623,8 @@
    "D": 3,
    "band": "reverse-engineering",
    "claims": [
-    11,
-    4,
+    8,
+    7,
     3
    ],
    "cls": "program",
@@ -15823,8 +15823,8 @@
    "D": 0,
    "band": null,
    "claims": [
-    1,
     0,
+    1,
     1
    ],
    "cls": "location",
@@ -16927,8 +16927,8 @@
    "D": 0,
    "band": "custody",
    "claims": [
-    2,
-    0,
+    1,
+    1,
     1
    ],
    "cls": "institution",
@@ -21655,8 +21655,8 @@
    "D": 3,
    "band": "custody",
    "claims": [
-    7,
-    13,
+    8,
+    12,
     3
    ],
    "cls": "program",
@@ -22279,8 +22279,8 @@
    "D": 2,
    "band": null,
    "claims": [
-    5,
-    5,
+    4,
+    6,
     1
    ],
    "cls": "person",
@@ -27482,5 +27482,5 @@
    "tier": "C"
   }
  ],
- "source": "a86cea605f44"
+ "source": "f688ad003d39"
 }

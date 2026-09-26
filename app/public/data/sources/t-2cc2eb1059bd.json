@@ -1,0 +1,61 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6770406ef5",
+"locator": null,
+"node": "talbert-gravity-series-1955",
+"nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"sourceText": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:34:20 to 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
+"text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:34:20 to 2:35:18, Jason Reza Jorjani dated the Herald Tribune reporting to 1953, attributed it to Martin's chief executive, and said the executive claimed Manhattan-Project-scale funding could put such engines into production in a few years. The articles are dated November 1955, the speaker in them is a vice-president in charge of advanced design planning, and the comparison he draws is to the time the first atom bomb took rather than to its funding.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-22ae65b2b2",
+"locator": "2:35:18",
+"node": "bell-aircraft-corporation",
+"nodeLabel": "Bell Aircraft Corporation",
+"sourceText": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
+"text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:35:18, Jason Reza Jorjani named Bell alongside Martin as a second company making the same public electrogravitics claims, and dated the claims to 1953. The opened articles are dated November 1955, and the words attributed to Bell in them do not use the term electrogravitics.",
+"tier": 2
+}
+],
+"date": "2024-07-08",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-2cc2eb1059bd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
+"topics": [
+{
+"claims": [
+"c-6770406ef5"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+},
+{
+"claims": [
+"c-22ae65b2b2"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-6770406ef5"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "broadcast",
+"urls": []
+}

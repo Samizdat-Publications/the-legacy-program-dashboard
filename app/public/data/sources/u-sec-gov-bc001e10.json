@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-38ee278542",
+"locator": "IMS header, former conformed name Burroughs Corp",
+"node": "sperry-rand",
+"nodeLabel": "Sperry Rand Corporation",
+"sourceText": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838, with SEC IMS header",
+"text": "SEC's own IMS header on the Unisys Form 10-K records 'FORMER CONFORMED NAME: BURROUGHS CORP /DE/ ... DATE OF NAME CHANGE: 19861204'. The same filing shows Unisys carrying the Sperry Corporation Pension Plan for Outside Directors by incorporation from Sperry Corporation's own Form 10-K for the fiscal year ended 31 March 1984 (File No. 1-3908), and discusses 'its sale of the Sperry Aerospace Group in December 1986'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-bc001e10",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "sperry-rand",
+"label": "Sperry Rand Corporation"
+}
+],
+"node": null,
+"title": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/746838/0000746838-94-000005.txt"
+]
+}

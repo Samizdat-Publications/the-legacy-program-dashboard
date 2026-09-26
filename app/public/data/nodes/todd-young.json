@@ -19,20 +19,44 @@
 {
 "id": "c-fa176f9934",
 "source": "CREC-2023-07-13-pt1-PgS2953",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bba80f88f9",
 "source": "Congress.gov cosponsor record, S.Amdt. 797",
+"sources": [
+{
+"id": "n-samdt-797",
+"locator": null,
+"title": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+}
+],
 "text": "Young is recorded as an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-da4ff7f7f9",
 "source": "Congressional Record, 11 July 2024, caption to SA 2610",
+"sources": [
+{
+"id": "n-uapda-2024-samdt-2610",
+"locator": "caption",
+"title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+}
+],
 "text": "He does not appear as a cosponsor on the 2024 refiling, S.Amdt. 2610, which carries only Rounds and Schumer.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

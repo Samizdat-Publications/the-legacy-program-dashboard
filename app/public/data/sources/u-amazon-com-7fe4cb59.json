@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-amazon-com-7fe4cb59",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "amazon.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "lacatski-book-series",
+"label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+}
+],
+"node": null,
+"title": "Inside the U.S. Government Covert UFO Program: New Insights (2025)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.amazon.com/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC"
+]
+}

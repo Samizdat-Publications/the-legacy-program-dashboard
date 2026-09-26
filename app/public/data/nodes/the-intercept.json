@@ -8,20 +8,38 @@
 {
 "id": "c-36a28d1773",
 "source": "theintercept.com/about",
+"sources": [
+{
+"id": "u-theintercept-com-6d4ca60f",
+"locator": null,
+"title": "The Intercept - About (official)"
+}
+],
 "text": "The Intercept was established in 2014 as an investigative journalism organisation focused on national security, civil liberties, criminal justice, politics and technology, self-described as investigating powerful individuals and institutions to expose corruption and injustice.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3f06578c09",
 "source": "theintercept.com/about",
+"sources": [
+{
+"id": "u-theintercept-com-6d4ca60f",
+"locator": null,
+"title": "The Intercept - About (official)"
+}
+],
 "text": "It operates as a non-profit funded primarily by reader and listener donations, accepts no advertising, and publishes impact reports and audited financial statements; leadership listed as editor-in-chief Ben Muessig and CEO Annie Chabel.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1f96344456",
 "source": "Inference from theintercept.com/about",
+"sources": [],
 "text": "Its founding purpose - publishing leaked classified material with the underlying documents attached - and its advertiser-free funding make it a low-friction destination for compartmented-programme documents. Reasoning: from its stated editorial model and ownership structure.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

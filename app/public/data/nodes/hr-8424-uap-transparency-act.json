@@ -7,8 +7,16 @@
 {
 "id": "c-2d6224160f",
 "source": "Congress.gov H.R. 8424 (118th)",
+"sources": [
+{
+"id": "n-hr-8424-uap-transparency-act",
+"locator": null,
+"title": "H.R. 8424 - UAP Transparency Act (118th Congress)"
+}
+],
 "text": "Introduced 16 May 2024 by Rep. Tim Burchett; died in referral at the end of the 118th Congress.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

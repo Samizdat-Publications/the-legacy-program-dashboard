@@ -1,0 +1,41 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-e54b52158e",
+"locator": null,
+"node": "yeates-affidavit",
+"nodeLabel": "Yeates Affidavit (NSA, 1980)",
+"sourceText": "NSA UFO FOIA collection, 'Yeates Affidavit'",
+"text": "The Yeates Affidavit is published in NSA's UFO FOIA release, and NSA's litigation position in Civil Action No. 80-1562 was that responsive UFO records existed but could not be disclosed.",
+"tier": 1
+}
+],
+"date": "1980",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "n-yeates-affidavit",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+},
+"title": "Yeates Affidavit (NSA, 1980)",
+"topics": [
+{
+"claims": [
+"c-e54b52158e"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "document",
+"urls": []
+}

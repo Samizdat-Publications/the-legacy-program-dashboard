@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "raytheon",
+"label": "Raytheon (RTX Corporation)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-bc73ec646e",
+"label": "Raytheon-built ATFLIR pod produced the FLIR1 record",
+"note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-uapedia-ai-7b039f6a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "uapedia.ai",
+"listedOn": [],
+"node": null,
+"title": "https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/"
+]
+}

@@ -1,0 +1,85 @@
+{
+"archived": [
+"https://web.archive.org/web/20260807085102/https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+],
+"claims": [],
+"date": "2025-09",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+"b": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"claimTier": 1,
+"id": "e-ebdd78b62d",
+"label": "Signed EO 14347 and issued the 2026 UAP release directives",
+"note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-4f55dfef84",
+"label": "EO 14347 renamed the department by presidential signature",
+"note": "Executive Order 14347 authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on permanent statutory renaming.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"claimTier": 3,
+"id": "e-c60b581ef1",
+"label": "Restricted Data authority sits outside presidential EO declassification power",
+"note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-whitehouse-gov-becad408",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "whitehouse.gov",
+"listedOn": [
+{
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+{
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+}
+],
+"node": null,
+"title": "Executive Order 14347, Restoring the United States Department of War",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+]
+}

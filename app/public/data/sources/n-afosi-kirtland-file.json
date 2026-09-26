@@ -1,0 +1,388 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-1e880141ae",
+"locator": "10 Nov 1980 complaint-form entry",
+"node": "afosi-kirtland-file",
+"nodeLabel": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"sourceText": "AFOSI Kirtland AFB complaint-form record, 10 Nov 1980, released under FOIA",
+"text": "An AFOSI record dated 10 November 1980 documents Kirtland AFB security police observations of unexplained aerial objects in the Coyote Canyon / Manzano Weapons Storage Area and notes Paul Bennewitz's photographic and reporting activity.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a4ed39d82a",
+"locator": null,
+"node": "afosi-kirtland-file",
+"nodeLabel": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"sourceText": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "The complaint form is reproduced in full by NICAP from the CUFON archive and carries on its face: AFOSI Det 1700, Kirtland AFB, New Mexico; District File No. 8017D93-0/29; and 'Richard C Doty, SA'. Named observers with units and clock times: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier, all 1608 Security Police Squadron, at approximately 2350 hrs on 8 August 1980; an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity; three further security policemen on 22 August 1980; and a New Mexico State Patrolman on 10 August 1980.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a9fd584890",
+"locator": null,
+"node": "afosi-kirtland-file",
+"nodeLabel": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"sourceText": "Comparison of the board's existing claim with the NICAP reproduction, https://www.nicap.org/foia_003.htm , checked 2026-09-19",
+"text": "A DATE DISCREPANCY THAT SHOULD BE RESOLVED RATHER THAN SILENTLY PICKED. The board's existing Tier 1 claim gives the complaint form's date as 9 September 1980. The NICAP page as rendered to this session gives '2-9 Sept 80'. The file number, the agent and the observers match exactly in both. The original scan was not read. Reasoning: two dates for one artefact is a defect a later pass should close by reading the image, not by preferring one.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-97eae7db5d",
+"locator": null,
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"sourceText": "NICAP, 1980 Kirtland AFB, NM FOIA document files",
+"text": "The AFOSI Kirtland AFB UFO file covering the 1980-1983 Manzano Weapons Storage Area period was released under FOIA and is archived in full by NICAP.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ca5e1efc6e",
+"locator": null,
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"sourceText": "AFOSI complaint form, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "The 1980 Kirtland complaint form reproduced by NICAP carries AFOSI Det 1700, Kirtland AFB, New Mexico, District File No. 8017D93-0/29, and names Richard C Doty as the special agent on it. This is the primary documentary source for AFOSI's presence in the Bennewitz affair and for Doty's service in it.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-4a25745281",
+"locator": null,
+"node": "d-counterintel",
+"nodeLabel": "Counterintelligence",
+"sourceText": "NICAP, 1980 Kirtland AFB FOIA document files",
+"text": "AFOSI documents relating to the 1980 Kirtland AFB incident were released under FOIA and are publicly archived.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7dd9bb531b",
+"locator": null,
+"node": "kirtland-manzano-1980",
+"nodeLabel": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"sourceText": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "Independently confirmed this session from the NICAP reproduction of the AFOSI complaint form: the named 1608 Security Police Squadron observers, the Sandia security guard who requested anonymity, and the clock times of 8 to 9 August 1980, together with further observations on 22 August 1980 and a New Mexico State Patrolman on 10 August 1980. The form establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that AFOSI opened a file. IT ESTABLISHES NOTHING ABOUT WHAT THE OBJECTS WERE.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-29e8bc56cc",
+"locator": null,
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sourceText": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "The 1980 AFOSI complaint form for the Coyote Canyon and Manzano observations is reproduced in full and openable, with its file number, its agent and its named 1608 Security Police Squadron observers, which fixes the Kirtland end of the Bennewitz affair in a primary record rather than in anyone's recollection.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-33caa41964",
+"locator": null,
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"sourceText": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "INDEPENDENT CONFIRMATION OF THE 1980 AFOSI RECORD. The complaint form reproduced by NICAP from the CUFON archive carries AFOSI Det 1700 at Kirtland AFB, District File No. 8017D93-0/29, and Richard C Doty, SA, on its face, together with named 1608 Security Police Squadron observers: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier at approximately 2350 hrs on 8 August 1980, and an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9929196a0c",
+"locator": "10 Nov 1980 complaint-form entry",
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"sourceText": "AFOSI complaint-form record, Kirtland AFB, 10 Nov 1980, released under FOIA",
+"text": "An AFOSI record dated 10 November 1980 documents that Kirtland AFB security police observed unexplained aerial objects over the Coyote Canyon/Manzano area and that Bennewitz's reporting was under official notice.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0fcabc5b72",
+"locator": null,
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"sourceText": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "HIS AFOSI SERVICE IS DOCUMENTED BY THE FILE ITSELF AND NEEDS NO INTERVIEW TO SUPPORT IT. The 1980 AFOSI complaint form reproduced by NICAP carries 'Richard C Doty, SA' on its face, under AFOSI Det 1700, Kirtland AFB, New Mexico, District File No. 8017D93-0/29. Every claim of his service should be sourced here rather than to any of his own later accounts.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-0015d05fb4",
+"locator": null,
+"node": "sandia",
+"nodeLabel": "Sandia National Laboratories",
+"sourceText": "Reading of the AFOSI complaint form as archived by NICAP",
+"text": "The 1980 Kirtland incident file is the clearest documented convergence of a contractor-operated national laboratory, an Air Force counterintelligence office and a nuclear weapons storage site in a single anomalous-object case. Reasoning: the AFOSI complaint form names all three in one document; no claim is made that Sandia investigated the object.",
+"tier": 3
+}
+],
+"date": "1980",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"b": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"claimTier": 1,
+"id": "e-98f2a0d120",
+"label": "AFOSI is the originating agency of the released Kirtland UFO file",
+"note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"b": {
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+"claimTier": 1,
+"id": "e-32a9162402",
+"label": "AFOSI investigated the 1980 intrusions at the nuclear weapons storage area",
+"note": "The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 1,
+"id": "e-3a8fc01d43",
+"label": "Occurred at the Manzano Weapons Storage Area and Coyote Canyon",
+"note": "Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 1,
+"id": "e-6e1600f9b8",
+"label": "AFOSI opened a file covering the observations Bennewitz was reporting",
+"note": "Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+"b": {
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+"claimTier": 1,
+"id": "e-d706b72f95",
+"label": "A Sandia security guard is a named reporting party in the AFOSI file",
+"note": "A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"claimTier": 1,
+"id": "e-7364a6e9c7",
+"label": "Named on the complaint form as the special agent who filed it",
+"note": "The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"claimTier": 1,
+"id": "e-0a6163a5ef",
+"label": "Documented AFOSI special agent at Kirtland, 1980",
+"note": "Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+"claimTier": 1,
+"id": "e-36e2bf1fd5",
+"label": "Filed the AFOSI complaint form documenting the incident",
+"note": "Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-2290621189",
+"label": "Two-sided: the reported admission, and his own recorded denial of harm",
+"note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+"claimTier": 1,
+"id": "e-0fcbfaf5ff",
+"label": "AFOSI states it holds no records of any YANKEE BLUE investigation",
+"note": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
+"type": "denial"
+}
+],
+"era": "1",
+"host": null,
+"id": "n-afosi-kirtland-file",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+{
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+{
+"cls": "domain",
+"id": "d-counterintel",
+"label": "Counterintelligence"
+},
+{
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident"
+},
+{
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+{
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+{
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+}
+],
+"node": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"title": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"topics": [
+{
+"claims": [
+"c-1e880141ae",
+"c-a4ed39d82a",
+"c-a9fd584890",
+"c-97eae7db5d",
+"c-ca5e1efc6e",
+"c-7dd9bb531b",
+"c-9929196a0c"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-33caa41964",
+"c-9929196a0c",
+"c-0fcabc5b72"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-97eae7db5d",
+"c-4a25745281"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
+"type": "document",
+"urls": [
+"https://www.nicap.org/foia_003.htm"
+]
+}

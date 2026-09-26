@@ -1,0 +1,284 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-b99f8aab80",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "DIA solicitation HHM402-08-R-0211, released via The Black Vault",
+"text": "DIA solicitation HHM402-08-R-0211, posted 18 August 2008 by the Virginia Contracting Activity (ZD50), sought advanced aerospace weapon system studies across eleven technical areas with a stated horizon of 2050, naming Dr. James T. Lacatski as Government Project Leader.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-92c32ea7c7",
+"locator": null,
+"node": "dia",
+"nodeLabel": "Defense Intelligence Agency",
+"sourceText": "DIA solicitation HHM402-08-R-0211",
+"text": "DIA's Virginia Contracting Activity (ZD50) issued solicitation HHM402-08-R-0211 on 18 August 2008 with contracting officer Jennifer Sylvestre and Government Project Leader Dr. James T. Lacatski.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6f04a62857",
+"locator": null,
+"node": "aawsap-solicitation",
+"nodeLabel": "DIA Solicitation HHM402-08-R-0211",
+"sourceText": "DIA solicitation HHM402-08-R-0211, v.3, released via The Black Vault",
+"text": "Solicitation number HHM402-08-R-0211, posted 18 August 2008 by DIA Virginia Contracting Activity (ZD50), contracting officer Jennifer Sylvestre, Government Project Leader Dr. James T. Lacatski.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8bac906d64",
+"locator": "statement of work",
+"node": "aawsap-solicitation",
+"nodeLabel": "DIA Solicitation HHM402-08-R-0211",
+"sourceText": "HHM402-08-R-0211 statement of work",
+"text": "'The objective of this program is to understand the physics and engineering of these applications as they apply to the foreign threat out to the far term, i.e., from now through the year 2050.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e12db74401",
+"locator": "statement of work",
+"node": "aawsap-solicitation",
+"nodeLabel": "DIA Solicitation HHM402-08-R-0211",
+"sourceText": "HHM402-08-R-0211 statement of work",
+"text": "The statement of work specifies eleven technical areas including 'spatial/temporal translation', 'signature reduction', 'human interface' and 'human effects'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e085ac1261",
+"locator": null,
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"sourceText": "DIA solicitation HHM402-08-R-0211, posted 18 Aug 2008, released via The Black Vault",
+"text": "Lacatski is identified by name as 'Government Project Leader' on the DIA AAWSAP solicitation, the only unredacted appearance of the PM in the procurement record.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-50f5d9f1a3",
+"locator": null,
+"node": "d-program",
+"nodeLabel": "Program Structure & Management",
+"sourceText": "AAWSAP solicitation full text (v.3), via The Black Vault",
+"text": "DIA solicitation HHM402-08-R-0211 for the Advanced Aerospace Weapon System Applications Program was issued in August 2008 and the full text is public.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-636dd87d0d",
+"locator": null,
+"node": "d-program",
+"nodeLabel": "Program Structure & Management",
+"sourceText": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
+"text": "The AAWSAP statement of work, dated 22 August 2008, specifies the required advanced aerospace research areas.",
+"tier": 1
+}
+],
+"date": "2008",
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+"b": {
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+},
+"claimTier": 1,
+"id": "e-82220cdaac",
+"label": "Anomalous phenomena inside a defence contract",
+"note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 1,
+"id": "e-e9b9e2537b",
+"label": "redacted the PM's name it had already published",
+"note": "Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release — a records posture aimed at breaking the link between office and person.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "aawsap-solicitation",
+"label": "DIA Solicitation HHM402-08-R-0211"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 3,
+"id": "e-bda6bc5604",
+"label": "requirement written to a capability only BAASS held",
+"note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"b": {
+"cls": "domain",
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+},
+"claimTier": 1,
+"id": "e-e51342ce2c",
+"label": "Field physics is the propulsion answer",
+"note": "DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-ed83fe1423",
+"label": "Government Project Leader",
+"note": "Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+},
+"b": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"claimTier": 1,
+"id": "e-fdd5e298e1",
+"label": "Tasking reveals expectation",
+"note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+"b": {
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+"claimTier": 2,
+"id": "e-77bd94a8fa",
+"label": "Same investigators, later contract",
+"note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
+"type": "programmatic"
+}
+],
+"era": "2",
+"host": null,
+"id": "n-aawsap-solicitation",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "domain",
+"id": "d-paranormal",
+"label": "Anomalous Phenomena Adjacent to UAP"
+},
+{
+"cls": "document",
+"id": "aawsap-solicitation",
+"label": "DIA Solicitation HHM402-08-R-0211"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+{
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+{
+"cls": "domain",
+"id": "d-program",
+"label": "Program Structure & Management"
+}
+],
+"node": {
+"cls": "document",
+"id": "aawsap-solicitation",
+"label": "DIA Solicitation HHM402-08-R-0211"
+},
+"title": "DIA Solicitation HHM402-08-R-0211",
+"topics": [
+{
+"claims": [
+"c-6f04a62857",
+"c-8bac906d64",
+"c-e12db74401",
+"c-e085ac1261"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-50f5d9f1a3",
+"c-636dd87d0d"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+},
+{
+"claims": [
+"c-e085ac1261"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf",
+"https://documents2.theblackvault.com/documents/dia/HHM402-08-R-0211v3.pdf",
+"https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+]
+}

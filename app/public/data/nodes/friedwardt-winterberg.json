@@ -10,38 +10,86 @@
 {
 "id": "c-3a32ba5249",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "n-dia-aatip-list-2019",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+}
+],
 "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 credits item 2, \"Advanced Nuclear Propulsion for Manned Deep Space Missions\", to \"Dr F Winterberg, Univ of Nevada-Reno\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-91a405bf62",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The same DIA list credits item 36, \"Negative Mass Propulsion\", to Dr F Winterberg, University of Nevada-Reno.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-41decbd64f",
 "source": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community",
+"sources": [
+{
+"id": "u-unr-edu-e8a1d76f",
+"locator": null,
+"title": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community"
+}
+],
 "text": "Winterberg is a research professor at the University of Nevada, Reno who received his PhD under Werner Heisenberg at the Max Planck Institute, Goettingen, and whose nuclear rocket propulsion work was recognised with the 1979 Hermann Oberth Gold Medal.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a0b07ab847",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "n-dia-aatip-list-2019",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+}
+],
 "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Negative Mass Propulsion', affiliation University of Nevada, Reno.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8b56080b91",
 "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"sources": [
+{
+"id": "u-theblackvault-com-16bfe4ef",
+"locator": null,
+"title": "theblackvault.com"
+}
+],
 "text": "Named on the same DIA list as author of item 2, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', affiliation University of Nevada, Reno — making him a two-deliverable AAWSAP contributor.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-372f104742",
 "source": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract",
+"sources": [
+{
+"id": "u-ui-adsabs-harvard-edu-992962e3",
+"locator": null,
+"title": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract"
+}
+],
 "text": "German-American theoretical physicist and research professor at the University of Nevada, Reno, publishing in general relativity, Planck-scale physics, nuclear fusion and plasma physics; published related negative-mass propulsion work in the Journal of the British Interplanetary Society (2011).",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

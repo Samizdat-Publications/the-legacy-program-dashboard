@@ -1,0 +1,192 @@
+{
+"archived": [
+"https://web.archive.org/web/20250710022522/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-57fede991c",
+"locator": null,
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-654dfa48e7",
+"locator": null,
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+"text": "The released cover page reads \"23 March 2010 / ICOD: 1 December 2010 / DIA-08-1003-013,\" series \"Acquisition Threat Support.\" The printed Intelligence Cut-Off Date is later than the printed publication date, which is anomalous; every other DIRD in this batch from the same March 2010 tranche carries ICOD 1 December 2009. The reading is recorded as printed and flagged.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-68562e606f",
+"locator": null,
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+"text": "The author line on the released cover page is redacted under (b)(6); the inside cover carries the standard AAWSA FY2009 administrative note.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6c1f335691",
+"locator": null,
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/",
+"text": "Defense Intelligence Reference Document titled \"The Role of Superconductors in Gravity Research\", series \"Acquisition Threat Support\", published 2010-03-23 with an Intelligence Cut-Off Date (ICOD) of 2010-12-01, DIA document number DIA-08-1003-013. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e49491957e",
+"locator": null,
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"claimTier": 1,
+"id": "e-40dd59598d",
+"label": "FY2009 AAWSAP deliverable",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"claimTier": 1,
+"id": "e-2510472b03",
+"label": "published by DIA as DIA-08-1003-013, Acquisition Threat Support series",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"claimTier": 1,
+"id": "e-9037c18b0f",
+"label": "author of record on the DIA list",
+"note": "DIA list item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"claimTier": 1,
+"id": "e-1d63e0d69c",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 23 March 2010 on the cover. 17 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"claimTier": 1,
+"id": "e-e42eb264ec",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 1,
+"id": "e-60abb7e447",
+"label": "subject domain: superconducting materials and claimed gravitational coupling",
+"note": "The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "n-dird-the-role-of-superconductors-in-gravity",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+{
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+}
+],
+"node": {
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research"
+},
+"title": "The Role of Superconductors in Gravity Research",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/",
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+]
+}

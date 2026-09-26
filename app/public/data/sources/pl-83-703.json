@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-f662c9a6f9",
+"locator": "68 Stat. 919, sec. 25",
+"node": "atomic-energy-commission",
+"nodeLabel": "Atomic Energy Commission",
+"sourceText": "Atomic Energy Act of 1946, sec. 2(a)(4)(B), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf ; Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919, sec. 25, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"text": "A Division of Military Application under a serving officer was in the Commission from the start: the 1946 Act establishes it alongside Research, Production and Engineering and provides that 'The Director of the Division of Military Application shall be a member of the armed forces.' The 1954 Act carries it forward at section 25 with the Director required to be 'an active member of the Armed Forces.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "pl-83-703",
+"identifiers": [
+"Public Law 83-703"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atomic-energy-commission",
+"label": "Atomic Energy Commission"
+}
+],
+"node": null,
+"title": "Public Law 83-703",
+"topics": [
+{
+"claims": [
+"c-f662c9a6f9"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "statute",
+"urls": []
+}

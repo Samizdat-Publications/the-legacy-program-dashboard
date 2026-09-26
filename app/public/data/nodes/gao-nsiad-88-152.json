@@ -7,32 +7,97 @@
 {
 "id": "c-cee85d9b58",
 "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"sources": [
+{
+"id": "gao-nsiad-88-152",
+"locator": "B-230522, 24 May 1988, transmittal letter",
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+{
+"id": "gao-nsiad-88-152",
+"locator": null,
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+}
+],
 "text": "The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-73526a3692",
 "source": "GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"sources": [
+{
+"id": "gao-nsiad-88-152",
+"locator": "transmittal letter",
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+{
+"id": "gao-nsiad-88-152",
+"locator": null,
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+}
+],
 "text": "GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-835365fdc4",
 "source": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"sources": [
+{
+"id": "gao-nsiad-88-152",
+"locator": "Results in Brief",
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+{
+"id": "gao-nsiad-88-152",
+"locator": null,
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+}
+],
 "text": "Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-925b4c639c",
 "source": "GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"sources": [
+{
+"id": "gao-nsiad-88-152",
+"locator": "Recommendations section",
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+{
+"id": "gao-nsiad-88-152",
+"locator": null,
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+}
+],
 "text": "The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cb297fc745",
 "source": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"sources": [
+{
+"id": "gao-nsiad-88-152",
+"locator": "Results in Brief",
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+},
+{
+"id": "gao-nsiad-88-152",
+"locator": null,
+"title": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+}
+],
 "text": "Creation authority is held by four people: 'Only the three service secretaries and Deputy Under Secretary of Defense for Policy are authorized to establish special access programs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

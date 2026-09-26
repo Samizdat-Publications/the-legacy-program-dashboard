@@ -1,0 +1,61 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "mitre-caasd",
+"label": "Center for Advanced Aviation System Development (CAASD)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-b70c93f4a0",
+"label": "FAA surveillance data - engineered by a MITRE FFRDC - is a named AARO data source",
+"note": "AARO draws on FAA radar and reporting; the systems engineering authority over that data belongs to MITRE's CAASD. No claim of filtering is made; the dependency is the point.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "program",
+"id": "mitre-caasd",
+"label": "Center for Advanced Aviation System Development (CAASD)"
+},
+"claimTier": 1,
+"id": "e-1b7d50c0fe",
+"label": "MITRE operates CAASD for the FAA",
+"note": "CAASD gives MITRE the engineering authority over the civil air surveillance picture, under contracts DTFAWA10C00080 and 693KA822C00001.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-mitre-org-d5dc0c92",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "program",
+"id": "mitre-caasd",
+"label": "Center for Advanced Aviation System Development (CAASD)"
+}
+],
+"node": null,
+"title": "MITRE CAASD",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/our-impact/rd-centers/center-advanced-aviation-system-development"
+]
+}

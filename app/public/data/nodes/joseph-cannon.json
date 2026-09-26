@@ -28,20 +28,32 @@
 {
 "id": "c-3d4bcdf994",
 "source": "CRADA document released by U.S. Army CCDC, 18 October 2019",
+"sources": [
+{
+"id": "n-ttsa-army-crada",
+"locator": null,
+"title": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+}
+],
 "text": "Named as the U.S. Government principal investigator on the TTSA CRADA alongside Bean Soave.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-92b1525902",
 "source": "PR Newswire, 17 October 2019",
+"sources": [],
 "text": "Quoted: 'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-709ded35b5",
 "source": "CCDC FOIA response to The Black Vault, 21 February 2020",
+"sources": [],
 "text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton wrote that 'there are twenty-nine (29) emails totaling one hundred (100) pages' of Cannon's TTSA correspondence, all withheld under exemptions (b)(4) and (b)(5).",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-) was rejected in review: FOIA response letter vs Black Vault archive page; cannot tell"
 }
 ],
 "cls": "person",

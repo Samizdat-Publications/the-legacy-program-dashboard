@@ -18,6 +18,9 @@
  *   #/people #/orgs #/programmes #/laws #/places #/events
  *                               the directories (redesign phase 9), filters in the query
  *   #/timeline                  also ?strand= ?topic= (redesign phase 9)
+ *   #/library                   the Library of sources (redesign phase 8)
+ *                               ?type=&issuer=&era=&ip=1|0&q=&sort=
+ *   #/s/<id>                    one source (redesign phase 8)
  *
  * Anything else is not-found, and the not-found page names the route it was given.
  * Every route is shareable; back always works because every state is a hash.
@@ -41,6 +44,8 @@ export type Route =
   | { kind: 'atlas' }
   | { kind: 'topic'; id: string }
   | { kind: 'directory'; dir: string; q: URLSearchParams }
+  | { kind: 'library'; q: URLSearchParams }
+  | { kind: 'source'; id: string }
   | { kind: 'notfound'; raw: string };
 
 /* The six directories of redesign phase 9, by route word. */
@@ -116,6 +121,16 @@ export function parseRoute(hash: string): Route {
   if (DIRECTORIES.indexOf(p[0]) >= 0) {
     if (p.length !== 1) return bad();
     return { kind: 'directory', dir: p[0], q };
+  }
+
+  if (p[0] === 'library') {
+    if (p.length !== 1) return bad();
+    return { kind: 'library', q };
+  }
+
+  if (p[0] === 's') {
+    if (p.length !== 2 || !ID.test(p[1])) return bad();
+    return { kind: 'source', id: p[1] };
   }
 
   if (p[0] === 'report') {

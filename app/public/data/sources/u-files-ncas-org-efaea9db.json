@@ -1,0 +1,596 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-551daa6c3d",
+"locator": null,
+"node": "donald-h-menzel",
+"nodeLabel": "Donald H. Menzel",
+"sourceText": "Condon Report, Section V chapter 2, references, https://files.ncas.org/condon/text/s5chap02.htm",
+"text": "The Condon Report's bibliography for that chapter carries two Menzel items: 'Menzel, Donald H. Flying Saucers, Cambridge: Harvard University Press, 1953' and 'Menzel, Donald H. \"Do Flying Saucers Move in Straight Lines?\" Flying Saucer Review, 10, 2, (1964), 3.' Condon records the 1964 paper as the criticism that triggered the orthoteny controversy.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c8a95e1e59",
+"locator": null,
+"node": "donald-h-menzel",
+"nodeLabel": "Donald H. Menzel",
+"sourceText": "Scientific Study of Unidentified Flying Objects (Condon Report), Section V chapter 2, 'UFOs: 1947-1968', by E. U. Condon, https://files.ncas.org/condon/text/s5chap02.htm",
+"text": "Condon named his office and praised his book in the study's own history chapter: 'In 1953, Donald H. Menzel, then director of the Harvard College Observatory published an excellent book (Menzel, 1953). It emphasizes the optical mirage aspects of the subject ... and is generally regarded as \"debunking\" and \"negative.\"'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6a161fb2f7",
+"locator": null,
+"node": "edward-ruppelt",
+"nodeLabel": "Edward J. Ruppelt",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "The Condon Report, produced under USAF contract, independently records that the Estimate was prepared, rejected by Vandenberg and destroyed.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4ced5b4633",
+"locator": null,
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "The Condon Report itself documents the 1948 Estimate of the Situation, its rejection by Vandenberg and the destruction of copies — a disclosure buried in Section V Chapter 2 while the conclusions at the front declared the subject unworthy of study.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1b56ca861a",
+"locator": null,
+"node": "estimate-of-the-situation",
+"nodeLabel": "Estimate of the Situation (1948)",
+"sourceText": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
+"text": "'Staff members prepared a classified Estimate of the Situation in July 1948 asserting UFOs were interplanetary vehicles. Air Force Chief of Staff Gen. Vandenberg rejected it for lacking proof, and copies were destroyed.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-568fc6f7d8",
+"locator": null,
+"node": "hoyt-vandenberg",
+"nodeLabel": "Hoyt S. Vandenberg",
+"sourceText": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
+"text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Vandenberg rejected it for lacking proof and copies were destroyed.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f9cc2c3e07",
+"locator": null,
+"node": "hoyt-vandenberg",
+"nodeLabel": "Hoyt S. Vandenberg",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "Project SIGN was reconstituted as Project GRUDGE on 11 February 1949 with a conclusion that reports were misinterpretation, mass hysteria and hoaxes posing 'no direct threat to national security.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d26d3f74dc",
+"locator": "reconstruction of 25 June 1947 wire coverage",
+"node": "kenneth-arnold",
+"nodeLabel": "Kenneth Arnold",
+"sourceText": "Contemporaneous wire coverage, 25 June 1947, as reconstructed in the Condon Report Sec. V Ch. 2",
+"text": "The term 'flying saucer' derives from press paraphrase of Arnold's description of the objects' motion, not their shape.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-61e3816095",
+"locator": null,
+"node": "nathan-twining",
+"nodeLabel": "Nathan F. Twining",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "Twining's 23 September 1947 letter directed the establishment of a study of UFOs, which became Project SIGN.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c514fdbbdf",
+"locator": "quoting the Twining letter",
+"node": "nathan-twining",
+"nodeLabel": "Nathan F. Twining",
+"sourceText": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968', quoting the Twining letter",
+"text": "The same memo directed that consideration be given to the possibility the objects were 'of domestic origin -- the product of some high security project' unknown to Air Force intelligence or to AMC.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-626b22f8d5",
+"locator": "summarising the Grudge Report",
+"node": "project-grudge",
+"nodeLabel": "Project GRUDGE",
+"sourceText": "Condon Report, Section V Chapter 2, summarising the Grudge Report",
+"text": "The Grudge Report concluded UFO reports resulted from 'misinterpretation of various conventional objects', 'mass-hysteria', hoaxes or psychological factors, recommended reducing the scope of investigation, and found no direct threat to national security.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d069fdd870",
+"locator": null,
+"node": "project-grudge",
+"nodeLabel": "Project GRUDGE",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-60993a8e28",
+"locator": null,
+"node": "project-sign",
+"nodeLabel": "Project SIGN",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "Twining's letter of 23 September 1947 directed the establishment of a study of UFOs, and the project received priority designation in a December 1947 letter.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-88f88df17e",
+"locator": null,
+"node": "project-sign",
+"nodeLabel": "Project SIGN",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Gen. Vandenberg rejected it for lacking proof and copies were destroyed.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b9fdda1f78",
+"locator": null,
+"node": "project-sign",
+"nodeLabel": "Project SIGN",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d6bdb652a8",
+"locator": null,
+"node": "twining-memo",
+"nodeLabel": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "The memo recommended a priority project, which was directed on 30 December 1947 as Project SIGN.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d9d7140369",
+"locator": "quoting the Twining letter",
+"node": "twining-memo",
+"nodeLabel": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+"sourceText": "Condon Report, Section V Chapter 2, quoting the Twining letter",
+"text": "The memo directs consideration of the possibility that the objects 'are of domestic origin -- the product of some high security project' not known to Air Force intelligence or to Air Materiel Command.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-0ee887a427",
+"locator": null,
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"sourceText": "Condon Report, Section V Chapter 2",
+"text": "The report's Section V Chapter 2 records that a classified 'Estimate of the Situation' was prepared in 1948, rejected by Gen. Vandenberg for lacking proof, and that copies were destroyed.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+},
+"b": {
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+"claimTier": 1,
+"id": "e-6a7962d86b",
+"label": "Condon praised him by name in the study he directed",
+"note": "The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+},
+"b": {
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+"claimTier": 1,
+"id": "e-38a9bb8999",
+"label": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
+"note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 1,
+"id": "e-a225fc597a",
+"label": "The Colorado project's own history chapter endorses his debunking book",
+"note": "Section V chapter 2 of the report, written by Condon, calls Menzel's 1953 Flying Saucers 'an excellent book' and notes it is 'generally regarded as \"debunking\" and \"negative.\"' Menzel wrote no chapter of the report; he appears in its text and its bibliographies.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 2,
+"id": "e-c127ed2081",
+"label": "Ruppelt is the origin of public knowledge of the Estimate",
+"note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"b": {
+"cls": "program",
+"id": "project-grudge",
+"label": "Project GRUDGE"
+},
+"claimTier": 1,
+"id": "e-11d1e76e40",
+"label": "Destruction of the Estimate preceded GRUDGE's dismissive posture by six months",
+"note": "SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "howard-mccoy",
+"label": "Howard M. McCoy"
+},
+"b": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"claimTier": 2,
+"id": "e-2ac7244aad",
+"label": "McCoy ran AMC/T-2 intelligence, the exploitation node",
+"note": "As Chief of Intelligence at Air Materiel Command, McCoy headed the organisation that received and exploited recovered foreign materiel and that hosted Project SIGN. Any 1947 recovery would have been processed here.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-8a10216428",
+"label": "Vandenberg was DCI before becoming Air Force Chief of Staff",
+"note": "He directed Central Intelligence in 1946-1947 and then held the top Air Force post from 1948, arriving at the destruction decision already fluent in compartmentation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 1,
+"id": "e-308d3519b3",
+"label": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-87ecd564c3",
+"label": "Hynek was scientific consultant across SIGN, GRUDGE and Blue Book",
+"note": "Twenty-one continuous years as the Air Force's own astronomer on the problem — longer than any other participant in the legacy system.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 1,
+"id": "e-5f7f5d2b52",
+"label": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
+"note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "nathan-twining",
+"label": "Nathan F. Twining"
+},
+"b": {
+"cls": "document",
+"id": "twining-memo",
+"label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+},
+"claimTier": 1,
+"id": "e-cb3abae399",
+"label": "Twining authored the founding 1947 assessment",
+"note": "Lt. Gen. Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command. The document survives in scanned form and is quoted in the Condon Report.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-grudge",
+"label": "Project GRUDGE"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-4cb9a68112",
+"label": "GRUDGE renamed Blue Book under Ruppelt in March 1952",
+"note": "Ruppelt was placed in charge of the reconstituted GRUDGE in late 1951 and the project was renamed Project Blue Book in March 1952.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"b": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"claimTier": 1,
+"id": "e-1d9d8bd6f1",
+"label": "SIGN hosted by AMC intelligence at Wright Field, ATIC's predecessor",
+"note": "The first official UFO project was placed inside the foreign materiel exploitation organisation rather than a research or air defence body — the structural fact underlying this entire domain.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 1,
+"id": "e-31805154ed",
+"label": "SIGN staff produced the 1948 Estimate",
+"note": "Project SIGN personnel wrote a Top Secret estimate concluding the objects were interplanetary. The Condon Report, written under Air Force contract, records that it was prepared.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "schulgen-memo",
+"label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+},
+"b": {
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"claimTier": 2,
+"id": "e-0aa5d57e05",
+"label": "Collection requirement fed the project that began weeks later",
+"note": "The 30 October 1947 collection tasking and the 30 December 1947 direction of Project SIGN are two steps of a single sequence initiated by the Twining memo.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "twining-memo",
+"label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+},
+"b": {
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"claimTier": 1,
+"id": "e-2e1cfa4760",
+"label": "Memo's recommendation produced Project SIGN",
+"note": "The Condon Report states Twining's 23 September 1947 letter directed establishment of a study of UFOs, which received priority designation in December 1947 and began as Project SIGN.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 1,
+"id": "e-d0784cf6e4",
+"label": "The Condon Report is the primary documentary record of the Estimate's destruction",
+"note": "Section V Chapter 2 records the estimate's preparation, Vandenberg's rejection and the destruction of copies — the Air Force paying to put its own suppression on the record.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-files-ncas-org-efaea9db",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "files.ncas.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+},
+{
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+{
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon"
+},
+{
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+{
+"cls": "person",
+"id": "howard-mccoy",
+"label": "Howard M. McCoy"
+},
+{
+"cls": "person",
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+{
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek"
+},
+{
+"cls": "person",
+"id": "nathan-twining",
+"label": "Nathan F. Twining"
+},
+{
+"cls": "program",
+"id": "project-grudge",
+"label": "Project GRUDGE"
+},
+{
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+{
+"cls": "document",
+"id": "twining-memo",
+"label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+},
+{
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+}
+],
+"node": null,
+"title": "Condon Report Sec. V Ch. 2",
+"topics": [
+{
+"claims": [
+"c-1b56ca861a",
+"c-568fc6f7d8",
+"c-f9cc2c3e07",
+"c-d26d3f74dc",
+"c-61e3816095",
+"c-626b22f8d5",
+"c-60993a8e28",
+"c-88f88df17e",
+"c-b9fdda1f78",
+"c-d6bdb652a8",
+"c-d9d7140369"
+],
+"id": "sign-estimate",
+"title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
+},
+{
+"claims": [
+"c-6a161fb2f7",
+"c-626b22f8d5",
+"c-d069fdd870"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-c8a95e1e59",
+"c-1b56ca861a",
+"c-0ee887a427"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-551daa6c3d",
+"c-c8a95e1e59"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://files.ncas.org/condon/text/s5chap02.htm"
+]
+}

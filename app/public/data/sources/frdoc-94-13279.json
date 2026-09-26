@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-08ec1194e1",
+"locator": "1 June 1994",
+"node": "naval-criminal-investigative-service",
+"nodeLabel": "Naval Criminal Investigative Service",
+"sourceText": "Federal Register Doc 94-13279, 1 June 1994, https://www.federalregister.gov/documents/full_text/text/1994/06/01/94-13279.txt",
+"text": "A Department of the Navy document published on 1 June 1994, FR Doc 94-13279, still lists 'Commander, Naval Investigative Service Command' among the officers it designates, so the former title was in current Federal Register use eight days before the substitution.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-08ec1194e1",
+"locator": null,
+"node": "naval-criminal-investigative-service",
+"nodeLabel": "Naval Criminal Investigative Service",
+"sourceText": "Federal Register Doc 94-13279, 1 June 1994, https://www.federalregister.gov/documents/full_text/text/1994/06/01/94-13279.txt",
+"text": "A Department of the Navy document published on 1 June 1994, FR Doc 94-13279, still lists 'Commander, Naval Investigative Service Command' among the officers it designates, so the former title was in current Federal Register use eight days before the substitution.",
+"tier": 1
+}
+],
+"date": "1994-06-01",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "frdoc-94-13279",
+"identifiers": [
+"Federal Register Doc. 94-13279"
+],
+"interestedParty": false,
+"issuer": "Federal Register",
+"listedOn": [
+{
+"cls": "institution",
+"id": "naval-criminal-investigative-service",
+"label": "Naval Criminal Investigative Service"
+}
+],
+"node": null,
+"title": "Federal Register Doc. 94-13279",
+"topics": [],
+"type": "regulation",
+"urls": [
+"https://www.federalregister.gov/documents/full_text/text/1994/06/01/94-13279.txt"
+]
+}

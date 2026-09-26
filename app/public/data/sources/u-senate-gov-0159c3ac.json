@@ -1,0 +1,429 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "adam-smith",
+"label": "Adam Smith"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-d169e0dc18",
+"label": "seat 8 of 12 - Ranking Member, House Armed Services",
+"note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-465eaee615",
+"label": "no statutory entitlement; not a defense committee chair or ranking member",
+"note": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "betty-mccollum",
+"label": "Betty McCollum"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-8ad0120fc7",
+"label": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
+"note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "chris-coons",
+"label": "Christopher A. Coons"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-9f7a8da114",
+"label": "seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee",
+"note": "As ranking member of the Defense Subcommittee of Senate Appropriations he holds one of the twelve seats. 10 U.S.C. 119(g) names that subcommittee separately from the full Appropriations Committee, which is precisely why the count is twelve and not eight. The subcommittee's published jurisdiction includes the CIA, DIA and NSA.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-3573062eba",
+"label": "no statutory entitlement; not a defense committee chair or ranking member",
+"note": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-4355eb219d",
+"label": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+"note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "buck-mckeon",
+"label": "Howard P. \"Buck\" McKeon"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-623e2bf31b",
+"label": "Ranking Member then Chairman, House Armed Services Committee",
+"note": "Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-ffb1c0ae15",
+"label": "seat 2 of 12 - Ranking Member, Senate Armed Services",
+"note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 2,
+"id": "e-eb791960aa",
+"label": "Representative, New York 23rd district, until 21 September 2009",
+"note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-69044cbc2f",
+"label": "Ranking Member, House Armed Services Committee",
+"note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ken-calvert",
+"label": "Ken Calvert"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-f0ff699d82",
+"label": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
+"note": "In the group in 2020 as ranking member and from 2023 as chair.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-0a45b4e393",
+"label": "seat 7 of 12 - Chairman, House Armed Services",
+"note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-5c8a363f4e",
+"label": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+"note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-a08330f2e8",
+"label": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
+"note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "patty-murray",
+"label": "Patty Murray"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-d8c412038c",
+"label": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
+"note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "roger-wicker",
+"label": "Roger F. Wicker"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-c41c35e467",
+"label": "seat 1 of 12 - Chairman, Senate Armed Services",
+"note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "rosa-delauro",
+"label": "Rosa L. DeLauro"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-f8b9e9cab1",
+"label": "seat 10 of 12 - Ranking Member, House Appropriations",
+"note": "In the group continuously across the 118th and 119th Congresses.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-collins",
+"label": "Susan M. Collins"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-7c1a543371",
+"label": "seat 3 of 12 - Chair, Senate Appropriations",
+"note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+},
+"b": {
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"claimTier": 1,
+"id": "e-734d361ccf",
+"label": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
+"note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-b6511bfbb5",
+"label": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
+"note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-e7956f36fd",
+"label": "Chairman, House Appropriations Committee",
+"note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-senate-gov-0159c3ac",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Senate",
+"listedOn": [
+{
+"cls": "person",
+"id": "adam-smith",
+"label": "Adam Smith"
+},
+{
+"cls": "person",
+"id": "betty-mccollum",
+"label": "Betty McCollum"
+},
+{
+"cls": "person",
+"id": "chris-coons",
+"label": "Christopher A. Coons"
+},
+{
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh"
+},
+{
+"cls": "person",
+"id": "ken-calvert",
+"label": "Ken Calvert"
+},
+{
+"cls": "person",
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+{
+"cls": "person",
+"id": "patty-murray",
+"label": "Patty Murray"
+},
+{
+"cls": "person",
+"id": "rosa-delauro",
+"label": "Rosa L. DeLauro"
+},
+{
+"cls": "person",
+"id": "susan-collins",
+"label": "Susan M. Collins"
+},
+{
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran"
+}
+],
+"node": null,
+"title": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+]
+}

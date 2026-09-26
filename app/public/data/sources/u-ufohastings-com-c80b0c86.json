@@ -1,0 +1,408 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-29eec9d7e3",
+"locator": null,
+"node": "bruce-fenstermacher",
+"nodeLabel": "Capt. Bruce Fenstermacher",
+"sourceText": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Bruce Fenstermacher, Captain USAF, was a missile combat crew commander at F. E. Warren AFB, Wyoming from 1974 to 1977, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-dadb934d39",
+"locator": null,
+"node": "robert-jamison",
+"nodeLabel": "Capt. Robert Jamison",
+"sourceText": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Robert Jamison was a US Air Force 1st Lieutenant commanding an ICBM Combat Targeting Team at Malmstrom AFB, Montana, from January 1965 to October 1967, then a missile targeting instructor at Chanute AFB, Illinois, and separated from active duty as a Captain in July 1972. He executed an affidavit and appeared at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-ce797c4d12",
+"locator": null,
+"node": "l-warren",
+"nodeLabel": "F. E. Warren AFB, Wyoming",
+"sourceText": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Two of the seven US Air Force veterans at the 27 September 2010 National Press Club event served at F. E. Warren: Capt. Bruce Fenstermacher, missile combat crew commander, 1974 to 1977, and Patrick McDonough, geodetic surveyor, 1962 to 1966, with worldwide temporary duty surveying Atlas, Titan, Minuteman, Mace and Matador sites.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8787df72b6",
+"locator": null,
+"node": "jerry-nelson",
+"nodeLabel": "Jerry (Jerome) Nelson",
+"sourceText": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Jerry Nelson served as a deputy missile crew commander with the 579th Strategic Missile Squadron at Walker AFB, Roswell, New Mexico from 1962 to 1965, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-87776ea760",
+"locator": null,
+"node": "dwynne-arneson",
+"nodeLabel": "Lt Col Dwynne Arneson",
+"sourceText": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Dwynne Arneson, Lt Col USAF, served with the 28th Air Division at Malmstrom AFB, Montana in 1967, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2975352b99",
+"locator": null,
+"node": "patrick-mcdonough",
+"nodeLabel": "Patrick McDonough",
+"sourceText": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Patrick McDonough served in the US Air Force as a geodetic surveyor from 1962 to 1966 and, from F. E. Warren AFB at Cheyenne, Wyoming, performed temporary duty worldwide relating to surveys for Atlas, Titan, Minuteman, Mace and Matador missile sites. He executed an affidavit and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-57d8201cba",
+"locator": null,
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"sourceText": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+"text": "THE COUNT IS NOT STABLE ON HIS OWN SITE. His press-conference article states 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' His biographical page, opened the same day, states 'To date, Hastings has interviewed more than 150 military veterans.' The board records both figures with their pages rather than a round number, because the count is itself the principal evidence for the scale of the claim.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-55c24fcbd3",
+"locator": null,
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"sourceText": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "The roster with ranks, units and periods, from Hastings's own page: Dwynne Arneson, Lt Col, 28th Air Division, Malmstrom AFB, 1967; Bruce Fenstermacher, Capt, missile combat crew commander, F. E. Warren AFB, 1974 to 1977; Charles Halt, Lt Col and later Col, RAF Bentwaters and Woodbridge and later Kunsan AB; Robert Jamison, Capt, ICBM combat targeting team, Malmstrom AFB, January 1965 to October 1967; Patrick McDonough, geodetic surveyor, F. E. Warren AFB, 1962 to 1966; Jerry Nelson, deputy missile crew commander, 579th Strategic Missile Squadron, Walker AFB, Roswell; and Robert Salas, Capt, Malmstrom AFB. The page names McDonough, Salas, Jamison, Arneson, Fenstermacher and Halt as having executed affidavits.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-fb6088351b",
+"locator": null,
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"sourceText": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+"text": "The witness count Hastings gives on this page differs from the one on his own biographical page. Here: 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' There: 'To date, Hastings has interviewed more than 150 military veterans.' Both pages were opened on the same day.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bruce-fenstermacher",
+"label": "Capt. Bruce Fenstermacher"
+},
+"b": {
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming"
+},
+"claimTier": 2,
+"id": "e-f825ea2399",
+"label": "Missile combat crew commander at F. E. Warren, 1974 to 1977",
+"note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "bruce-fenstermacher",
+"label": "Capt. Bruce Fenstermacher"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-50bc674b0b",
+"label": "Spoke on the record with a signed affidavit",
+"note": "No dated public statement by him before this event has been identified.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-jamison",
+"label": "Capt. Robert Jamison"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 2,
+"id": "e-4f0c45bdc3",
+"label": "ICBM combat targeting team commander at Malmstrom, 1965 to 1967",
+"note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-jamison",
+"label": "Capt. Robert Jamison"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"claimTier": 2,
+"id": "e-ea24d246c2",
+"label": "Retargeting team commander; the source of the 24 March 1967 date",
+"note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-jamison",
+"label": "Capt. Robert Jamison"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-3a24b858c5",
+"label": "Spoke on the record with a signed affidavit",
+"note": "Named on Hastings's own page among the six men said to have executed affidavits.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "charles-halt",
+"label": "Charles I. Halt"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-0339e8e354",
+"label": "Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981",
+"note": "His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jerry-nelson",
+"label": "Jerry (Jerome) Nelson"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-cce55fe0a4",
+"label": "Spoke on the record; not among the six named affiants on the opened page",
+"note": "Whether he executed an affidavit is not established: the page names six affiants and he is not among them, which may be an omission on the page rather than a fact about him.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "dwynne-arneson",
+"label": "Lt Col Dwynne Arneson"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 2,
+"id": "e-2ed9f04b7e",
+"label": "Communications officer, 28th Air Division, Malmstrom, 1967",
+"note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "dwynne-arneson",
+"label": "Lt Col Dwynne Arneson"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-9f69c70ea3",
+"label": "Spoke on the record with a signed affidavit",
+"note": "No dated public statement by him before this event has been identified.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "patrick-mcdonough",
+"label": "Patrick McDonough"
+},
+"b": {
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming"
+},
+"claimTier": 2,
+"id": "e-afa32fa24e",
+"label": "Geodetic surveyor based at F. E. Warren, 1962 to 1966",
+"note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "patrick-mcdonough",
+"label": "Patrick McDonough"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-761afa6dbd",
+"label": "Spoke on the record with a signed affidavit",
+"note": "No dated public statement by him before this event has been identified.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "person",
+"id": "robert-jamison",
+"label": "Capt. Robert Jamison"
+},
+"claimTier": 2,
+"id": "e-77daca48cd",
+"label": "Interviewed him; his recollection supplies the 24 March 1967 date",
+"note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-ufohastings-com-c80b0c86",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufohastings.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "bruce-fenstermacher",
+"label": "Capt. Bruce Fenstermacher"
+},
+{
+"cls": "person",
+"id": "robert-jamison",
+"label": "Capt. Robert Jamison"
+},
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+{
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr."
+},
+{
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming"
+},
+{
+"cls": "person",
+"id": "jerry-nelson",
+"label": "Jerry (Jerome) Nelson"
+},
+{
+"cls": "person",
+"id": "dwynne-arneson",
+"label": "Lt Col Dwynne Arneson"
+},
+{
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+{
+"cls": "person",
+"id": "patrick-mcdonough",
+"label": "Patrick McDonough"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+{
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+}
+],
+"node": null,
+"title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference",
+"topics": [
+{
+"claims": [
+"c-29eec9d7e3",
+"c-dadb934d39",
+"c-8787df72b6",
+"c-87776ea760",
+"c-2975352b99",
+"c-57d8201cba",
+"c-55c24fcbd3",
+"c-fb6088351b"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+},
+{
+"claims": [
+"c-57d8201cba"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-57d8201cba"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-dadb934d39"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+}
+],
+"type": "web page",
+"urls": [
+"https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+]
+}

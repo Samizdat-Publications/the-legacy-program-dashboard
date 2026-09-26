@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-933c22c1b1",
+"label": "NIDS operated a permanently instrumented field station at the ranch",
+"note": "Bigelow moved in a research team, surveillance equipment and full-time caretakers immediately after the purchase.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 1,
+"id": "e-c1faaa03ae",
+"label": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+"note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-deseret-com-8508ce99",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Deseret News",
+"listedOn": [
+{
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "Zack Van Eyck, 'Frequent Fliers?', Deseret News",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.deseret.com/1996/6/30/19251541/frequent-fliers"
+]
+}

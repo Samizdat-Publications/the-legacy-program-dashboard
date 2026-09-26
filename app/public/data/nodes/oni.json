@@ -7,38 +7,79 @@
 {
 "id": "c-4c1982cdb8",
 "source": "American Alchemy with Jesse Michels, 'The Man That Hacked NASA and Found UFOs [Interview w/ Gary McKinnon]', 1 March 2026, 0:56:22 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6287765066.mp3?updated=1772392329",
+"sources": [
+{
+"id": "u-mgln-ai-d5a98fcf",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'The Man That Hacked NASA and Found UFOs [Interview w/ Gary McKinnon]', episode audio"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 1 March 2026, Gary McKinnon said that on his arrest 'all my data was taken to O&I, Office of Naval Intelligence', that ONI still holds his hard drives, and that he has tried to recover them for years and been told it is an ongoing investigation (0:56:22).",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-9de5ebee5b",
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; and The Lazar Tape, 1991, captions at 2:19, https://archive.org/details/antigravity , both opened 2026-09-18",
+"sources": [
+{
+"id": "u-theblackvault-com-6eca4304",
+"locator": null,
+"title": "Stanton T. Friedman, 'The Bob Lazar Fraud'"
+},
+{
+"id": "n-lazar-tape-1991",
+"locator": null,
+"title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
+}
+],
 "text": "A DISCREPANCY, NOT A RELATIONSHIP. The W-2 form in the Lazar literature is described as naming a 'Department of Naval Intelligence', which is not an entity that exists: the Office of Naval Intelligence sits inside the Department of the Navy. Stanton Friedman, who had seen the form, describes it only as 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' Lazar's own 1991 narration says something different again: 'for the duration of my employment at S4 I was paid by the United States Navy'. THE FORM ITSELF WAS NOT OPENED BY THIS BOARD AND NO EMPLOYER IDENTIFICATION NUMBER, ZIP CODE OR BOX CONTENT IS ASSERTED ANYWHERE.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-57637664ff",
 "source": "Office of Naval Intelligence, official website, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-oni-navy-mil-c55fcc50",
+"locator": null,
+"title": "Office of Naval Intelligence - homepage"
+}
+],
 "text": "ONI describes itself as established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-81a7acd50d",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "ODNI's 2021 Preliminary Assessment lists 'Navy/ONI' among the contributing elements.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7b4b06a9a7",
 "source": "ONI FOIA responses to John Greenewald Jr. / The Black Vault, as published",
+"sources": [],
 "text": "ONI has responded to FOIA requests concerning the 2004 Nimitz encounter by asserting that responsive briefing material and video are classified TOP SECRET/SCI and withholding them in full.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Generic reference to FOIA responses, no single document found."
 },
 {
 "id": "c-dea6d19a06",
 "source": "Inference from the August 2020 DEPSECDEF establishment of the UAPTF under Navy lead",
+"sources": [],
 "text": "The Navy's designation as lead for the UAP Task Force in August 2020 placed the government's UAP effort inside a service intelligence organisation with no acquisition equity in any legacy exploitation program, which is why the Task Force's product was releasable at all. Reasoning: the offices with custody equity had, on the whistleblower account, every incentive to keep it; the Navy did not.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

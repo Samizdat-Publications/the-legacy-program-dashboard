@@ -7,26 +7,58 @@
 {
 "id": "c-9f4001a928",
 "source": "GAO/NSIAD-95-187, p.5, quoting the USAF report; USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.5, quoting the USAF report",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The Air Force's 1994-1995 report concluded 'the most likely source of the wreckage recovered was one of the project MOGUL balloon trains.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-80e07e978d",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"sources": [
+{
+"id": "n-roswell-report-1995",
+"locator": null,
+"title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+}
+],
 "text": "MOGUL was a then-classified top-priority programme of balloon-borne experiments, described at length in the Air Force's 881-page 1995 report by Col. Richard Weaver and 1st Lt. James McAndrew.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d2901ec4c5",
 "source": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's 2024 historical report reaffirmed that materials recovered near Roswell 'were consistent with a balloon of the type used in the then-classified Project Mogul'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-aaad0ad1f7",
 "source": "Inference from GAO/NSIAD-95-187 p.3 read against the 1995 USAF report's methodology",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": null,
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The MOGUL attribution cannot be verified against the base's own message traffic because that traffic was destroyed without disposition authority, so the explanation rests entirely on reconstruction rather than on the contemporaneous record.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "program",

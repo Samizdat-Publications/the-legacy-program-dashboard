@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-3f5531879f",
+"locator": null,
+"node": "center-lane",
+"nodeLabel": "CENTER LANE",
+"sourceText": "CENTER LANE security classification guide item, eight pages exempt, CIA-RDP96-00788R001500120046-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500120046-4/cia-rdp96-00788r001500120046-4_djvu.txt",
+"text": "The security classification guide this node argues from is indexed and withheld. The reading-room item releases a human-use requirements annex and states 'Next 8 Page(s) In Document Exempt'; the guide's own text has not been released.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00788r001500120046-4",
+"identifiers": [
+"CIA-RDP96-00788R001500120046-4"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE"
+},
+{
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+}
+],
+"node": null,
+"title": "CENTER LANE security classification guide item, eight pages exempt, CIA-RDP96-00788R001500120046-4",
+"topics": [
+{
+"claims": [
+"c-3f5531879f"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500120046-4/cia-rdp96-00788r001500120046-4_djvu.txt"
+]
+}

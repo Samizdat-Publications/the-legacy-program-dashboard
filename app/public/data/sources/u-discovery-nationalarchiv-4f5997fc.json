@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a56ee572ad",
+"locator": null,
+"node": "jaric",
+"nodeLabel": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"sourceText": "The National Archives Discovery catalogue, search API, https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=%22Joint%20Air%20Reconnaissance%20Intelligence%20Centre%22",
+"text": "The unit's record trail is continuous and official. The National Archives catalogue holds Operations Record Books for the Joint Air Reconnaissance Intelligence Centre (United Kingdom) from AIR 29/1361, RAF Station Nuneham Park, September to December 1950, to AIR 29/5764, RAF Brampton, 1992, in the series 'Air Ministry and Ministry of Defence: Operations Record Books, Miscellaneous Units', with 'JARIC (UK): administrative history', 1962-1972, at AIR 14/4103.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "jaric",
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)"
+},
+"b": {
+"cls": "institution",
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"claimTier": 1,
+"id": "e-a396398a21",
+"label": "Ministry of Defence imagery-intelligence unit with Operations Record Books at Kew, 1950-1992",
+"note": "The unit's Operations Record Books are catalogued in the Air Ministry and Ministry of Defence series AIR 29, from RAF Nuneham Park in 1950 to RAF Brampton in 1992, with a separate administrative history at AIR 14/4103.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-discovery-nationalarchiv-4f5997fc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jaric",
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)"
+}
+],
+"node": null,
+"title": "The National Archives Discovery catalogue",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=%22Joint%20Air%20Reconnaissance%20Intelligence%20Centre%22"
+]
+}

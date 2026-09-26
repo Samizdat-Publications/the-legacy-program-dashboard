@@ -7,32 +7,66 @@
 {
 "id": "c-8eef6362b8",
 "source": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026",
+"sources": [
+{
+"id": "t-ac035d6ba4a5",
+"locator": null,
+"title": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026"
+}
+],
 "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b906cb945c",
 "source": "The Debrief, 9 March 2026",
+"sources": [],
 "text": "Barksdale raised force protection to FPCON Charlie and issued a shelter-in-place order via text alert on 9 March 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:thedebrief.org/u-s-officials-investigating-mystery-drone-incident-over-barks) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-125bc71b66",
 "source": "The War Zone, 25 March 2026",
+"sources": [
+{
+"id": "t-2b4334174b31",
+"locator": null,
+"title": "The War Zone, 25 March 2026"
+}
+],
 "text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line during the week of 9 March 2026; drones showed non-commercial signal characteristics and resistance to jamming.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-878017e4ba",
 "source": "The War Zone, 25 March 2026",
+"sources": [
+{
+"id": "t-2b4334174b31",
+"locator": null,
+"title": "The War Zone, 25 March 2026"
+}
+],
 "text": "The incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran involving B-52, B-1 and B-2 aircraft.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-714b17fcc8",
 "source": "The War Zone, 25 March 2026",
+"sources": [
+{
+"id": "t-2b4334174b31",
+"locator": null,
+"title": "The War Zone, 25 March 2026"
+}
+],
 "text": "A NORTHCOM spokesman on 25 March 2026 declined to specify affected base locations for operational security and confirmed jamming protocols were deployed.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "event",

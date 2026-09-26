@@ -1,0 +1,305 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-26be797620",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021",
+"text": "Puthoff was among the consultants Bigelow hired for the National Institute for Discovery Science in 1995, his prior work dating back to the CIA's Stargate programme.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-01d5a13970",
+"locator": null,
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"sourceText": "The New Yorker, 10 May 2021",
+"text": "Bigelow shut NIDS down in 2004 but retained Skinwalker Ranch; in 2007 a senior DIA official wrote to him about the ranch, and the AAWSAP contract followed.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-2603a6a718",
+"locator": "quoting NIDS' own description",
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"sourceText": "The New Yorker, 10 May 2021, quoting NIDS' own description — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena'; among the consultants Bigelow hired was Hal Puthoff.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-abfc992dba",
+"locator": "quoting NIDS' own description",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description",
+"text": "Bigelow founded NIDS in 1995 as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena,' and purchased Skinwalker Ranch the following year.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cf75891a0d",
+"locator": null,
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "The New Yorker, 10 May 2021",
+"text": "In 2007 Bigelow received a letter from a senior Defense Intelligence Agency official curious about Skinwalker, and connected him to Senator Harry Reid.",
+"tier": 2
+}
+],
+"date": "2021-05-10",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-9478dc5bcb",
+"label": "NIDS scientist before the federal contract",
+"note": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-464837384a",
+"label": "author of the notes at the centre of the custody claim",
+"note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 1,
+"id": "e-a529a230ea",
+"label": "Puthoff was among the consultants Bigelow hired at NIDS in 1995",
+"note": "The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-8adaa21ec8",
+"label": "Vallee served on the NIDS advisory board",
+"note": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-b-alexander",
+"label": "John B. Alexander"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-d891e06070",
+"label": "Alexander sat on the NIDS board from its founding",
+"note": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-0b21d24abe",
+"label": "The private field programme was re-federalised as a DIA contract without changing personnel",
+"note": "This is the structural pivot of the era: capability was privatised in 1995 and re-acquired by contract in 2008, meaning the government never had to stand up an acknowledged office.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 2,
+"id": "e-3334b97519",
+"label": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
+"note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-581497930d",
+"label": "founded and privately funded NIDS 1995-2004",
+"note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "sun-streak",
+"label": "SUN STREAK"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-832f8bc50a",
+"label": "DIA sponsored the remote-viewing effort 1986-1995",
+"note": "DIA's prior experience running an unacknowledged programme in a ridiculed domain is the institutional precedent for its 2008 AAWSAP contract.",
+"type": "funding"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-newyorker-com-433afd8b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The New Yorker",
+"listedOn": [
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+{
+"cls": "person",
+"id": "john-b-alexander",
+"label": "John B. Alexander"
+},
+{
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+{
+"cls": "program",
+"id": "sun-streak",
+"label": "SUN STREAK"
+},
+{
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+}
+],
+"node": null,
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"topics": [
+{
+"claims": [
+"c-01d5a13970",
+"c-2603a6a718",
+"c-abfc992dba"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-abfc992dba"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-abfc992dba"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "article",
+"urls": [
+"https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+]
+}

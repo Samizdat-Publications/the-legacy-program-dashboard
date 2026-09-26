@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-f4464f999b",
+"label": "Standing DoD denial: AARO has not discovered any verifiable information",
+"note": "Issued 7 June 2023, two days after The Debrief, and recycled since. Signatory: Susan Gough, DoD spokesperson. Note the boundary of the sentence: it asserts what one office has discovered, not what exists, and is silent on holdings outside AARO's access.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-foxnews-com-a9fb4d84",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fox News",
+"listedOn": [
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+}
+],
+"node": null,
+"title": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell"
+]
+}

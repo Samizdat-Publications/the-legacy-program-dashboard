@@ -1,0 +1,116 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3ff0406dab",
+"locator": null,
+"node": "walter-bedell-smith",
+"nodeLabel": "Walter Bedell Smith",
+"sourceText": "H. Marshall Chadwell, Memorandum for Director of Central Intelligence, subject: Unidentified Flying Objects, 2 December 1952, CIA document C00015340, para. 1, https://archive.org/details/cia-readingroom-document-0005515935",
+"text": "Smith personally started the intelligence-community effort. Chadwell's 2 December 1952 memorandum to the DCI opens: 'On 20 August, the DCI, after a briefing by OSI on the above subject, directed the preparation of an NSCID for submission to the Council stating the need for investigation and directing agencies concerned to cooperate in such investigations.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-47c5c94dcc",
+"locator": null,
+"node": "walter-bedell-smith",
+"nodeLabel": "Walter Bedell Smith",
+"sourceText": "Draft Memorandum to the Executive Secretary, National Security Council, subject: Unidentified Flying Objects (Flying Saucers), attached to CIA document C00015340, 2 December 1952, para. 2, https://archive.org/details/cia-readingroom-document-0005515935",
+"text": "A memorandum to the National Security Council was drafted over his name proposing research, not exploitation: 'It is my view that this situation has possible implications for our national security which transcend the interests of a single service. A broader, coordinated effort should be initiated to develop a firm scientific understanding of the several phenomena which apparently are involved in these reports, and to assure ourselves that the incidents will not hamper our present efforts in the Cold War or confuse our early warning system in case of an attack.' The typed signature block reads 'Walter B. Smith / Director'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell"
+},
+"b": {
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+},
+"claimTier": 1,
+"id": "e-fff68adc9a",
+"label": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+"note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+},
+"b": {
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings"
+},
+"claimTier": 1,
+"id": "e-cc7cf2ed28",
+"label": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
+"note": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-55f06b164c",
+"label": "Director of Central Intelligence",
+"note": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-3e9820fc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+}
+],
+"node": null,
+"title": "Chadwell memorandum for the DCI, subject: Unidentified Flying Objects, 2 December 1952, with draft NSC memorandum and draft NSC directive (CIA C00015340)",
+"topics": [
+{
+"claims": [
+"c-3ff0406dab",
+"c-47c5c94dcc"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-3ff0406dab",
+"c-47c5c94dcc"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-0005515935"
+]
+}

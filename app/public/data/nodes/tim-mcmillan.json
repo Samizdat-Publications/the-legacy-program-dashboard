@@ -18,14 +18,30 @@
 {
 "id": "c-a6fd5747f3",
 "source": "Tim McMillan, Vice, 13 November 2019, and the Laingsburg Police Department report published by The Black Vault 1 July 2019, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-theblackvault-com-ff28e572",
+"locator": null,
+"title": "The Black Vault, 'Documents on 2017 Bob Lazar / United Nuclear Raid - Laingsburg Police Department'"
+}
+],
 "text": "He obtained, under a local open-records request, the two-page Laingsburg, Michigan police report documenting the 19 July 2017 FBI search of Bob Lazar's business United Nuclear Scientific, and established through his Vice reporting of 13 November 2019 that the search supported a homicide investigation out of Houghton, Michigan into the thallium death of Janel Sturzl, 31, on 22 December 2015, in which Lazar is not recorded as a suspect. This is the documentary correction to the claim that the raid was about recovering element 115.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0995c26e6e",
 "source": "The Debrief, About page, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-thedebrief-org-8aa419c7",
+"locator": "retrieved 12 Aug 2026",
+"title": "The Debrief - About"
+}
+],
 "text": "Tim McMillan is a co-founder and Executive Director of The Debrief; Micah Hanks is co-founder and Editor-in-Chief; MJ Banias is co-founder and Content Director.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

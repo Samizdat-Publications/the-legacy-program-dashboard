@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mark-peters",
+"label": "Mark Todd Peters"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-79750c2513",
+"label": "Came to MITRE directly from Battelle's executive suite",
+"note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-virginiabusiness-com-1e6f77bf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "virginiabusiness.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "mark-peters",
+"label": "Mark Todd Peters"
+}
+],
+"node": null,
+"title": "Virginia Business",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://virginiabusiness.com/mclean-based-mitre-names-new-president-and-ceo/"
+]
+}

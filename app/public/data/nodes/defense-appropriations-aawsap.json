@@ -7,20 +7,38 @@
 {
 "id": "c-5c8bccc803",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.22",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b2cdd2d783",
 "source": "Honolulu Civil Beat, 13 June 2021",
+"sources": [
+{
+"id": "u-civilbeat-org-8a18ad5d",
+"locator": null,
+"title": "Honolulu Civil Beat — How Hawaii Sen. Dan Inouye Helped Set The Stage For UFO Research"
+}
+],
 "text": "The funds were routed through the classified black budget with Inouye's agreement, bypassing Senate floor debate about the allocation.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b4fba9f3ab",
 "source": "Inference from the appropriations mechanism and the January 2018 DIA letter",
+"sources": [],
 "text": "Because the appropriation was never matched by an authorization, the Armed Services Committees had no jurisdictional hook to review the program, which is why DIA had to introduce it to them by letter in January 2018 — six years after termination.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "legislation",

@@ -1,0 +1,79 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-3de83b3b89",
+"locator": null,
+"node": "ev-chile-navy-flir-2014",
+"nodeLabel": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+"sourceText": "New York Post, 'Chilean navy admits it can't explain UFO', 9 January 2017",
+"text": "'A military helicopter captured the incredible footage in November 2014 during a routine coastal patrol ... The pilots tracked the craft from around 40 miles away and tried several times to communicate with it. After receiving no response, they reported it to a pair of nearby radar stations. But shockingly, neither of them were able to see it on their screens - despite being able to detect the navy choppers. Air traffic controllers also confirmed that no aircraft had been authorized to fly in the area.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6dc1db8977",
+"locator": null,
+"node": "ev-chile-navy-flir-2014",
+"nodeLabel": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+"sourceText": "New York Post, 9 January 2017",
+"text": "'Chilean government agency the CEFAA, which investigates UFO sightings, has been probing the incident for two years.'",
+"tier": 2
+}
+],
+"date": "2017-01-09",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "event",
+"id": "ev-chile-navy-flir-2014",
+"label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)"
+},
+"claimTier": 2,
+"id": "e-2802d88f97",
+"label": "analysed the Navy FLIR case for two years then released it",
+"note": "The Chilean office published the raw sensor product without an explanation, three years before the US DoD authorised release of the Navy videos.",
+"type": "investigative"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-nypost-com-a2bd1271",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nypost.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "ev-chile-navy-flir-2014",
+"label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)"
+},
+{
+"cls": "location",
+"id": "l-santiago",
+"label": "Santiago, Chile"
+}
+],
+"node": null,
+"title": "New York Post",
+"topics": [
+{
+"claims": [
+"c-3de83b3b89",
+"c-6dc1db8977"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+}
+],
+"type": "article",
+"urls": [
+"https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/"
+]
+}

@@ -1,0 +1,143 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-94d5b5b884",
+"locator": null,
+"node": "adam-smith",
+"nodeLabel": "Adam Smith",
+"sourceText": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"text": "Smith was Chairman of the House Armed Services Committee in the 116th Congress, with Mac Thornberry as the senior Republican.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2ee26fa954",
+"locator": null,
+"node": "betty-mccollum",
+"nodeLabel": "Betty McCollum",
+"sourceText": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"text": "In the 116th Congress McCollum was Vice Chair of the House Appropriations Defense Subcommittee, not its chair or ranking minority member, and therefore did not hold a 119(e)(2) seat in 2020.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-586178bd47",
+"locator": null,
+"node": "ken-calvert",
+"nodeLabel": "Ken Calvert",
+"sourceText": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"text": "Calvert was the senior Republican on the House Appropriations Defense Subcommittee in the 116th Congress, when Peter J. Visclosky chaired it.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-1e10b09d91",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"text": "2020 holders (116th Congress), House: HASC Chairman Adam Smith, Ranking Member Mac Thornberry; HAC Chair Nita M. Lowey, Ranking Member Kay Granger; HAC Defense Subcommittee Chairman Peter J. Visclosky, Ranking Member Ken Calvert.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "adam-smith",
+"label": "Adam Smith"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-d169e0dc18",
+"label": "seat 8 of 12 - Ranking Member, House Armed Services",
+"note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "betty-mccollum",
+"label": "Betty McCollum"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-8ad0120fc7",
+"label": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
+"note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ken-calvert",
+"label": "Ken Calvert"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-f0ff699d82",
+"label": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
+"note": "In the group in 2020 as ranking member and from 2023 as chair.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-3a14c055",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "adam-smith",
+"label": "Adam Smith"
+},
+{
+"cls": "person",
+"id": "betty-mccollum",
+"label": "Betty McCollum"
+},
+{
+"cls": "person",
+"id": "ken-calvert",
+"label": "Ken Calvert"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"topics": [
+{
+"claims": [
+"c-2ee26fa954",
+"c-1e10b09d91"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
+]
+}

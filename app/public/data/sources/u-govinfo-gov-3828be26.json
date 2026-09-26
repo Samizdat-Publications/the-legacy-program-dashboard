@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3e9e9eb46c",
+"locator": null,
+"node": "lawrence-p-gise",
+"nodeLabel": "Lawrence P. Gise",
+"sourceText": "DNA 6005F, PLUMBBOB SERIES 1957, references 153 and 202, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf",
+"text": "The same reference list names the Manager of the Albuquerque Operations Office in 1957 as Hertford, at reference 202, 'Hertford, K., Manager, Albuquerque Operations'. Gise's own 1957 memorandum is addressed to that office from AEC headquarters, not written from it.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-85b48772b3",
+"locator": null,
+"node": "lawrence-p-gise",
+"nodeLabel": "Lawrence P. Gise",
+"sourceText": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency, references 152 and 153, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf",
+"text": "DNA 6005F, the Defense Nuclear Agency's Nuclear Test Personnel Review volume on Operation PLUMBBOB, cites at reference 153 'Gise, L.P., Ass't Director, DMA. [Memo to: R.F. Hertford, Manager, ALOO, Subject: USAF-AEC Agreement on Use of Lookout Mountain Lab at (29-2)-383, w/encl.] Washington, DC: Atomic Energy Commission, DMA. 04/30/57. 29 pages. AT292383.' Reference 152 cites a further Gise memorandum for the Test Manager, subject 'AEC Unofficial Observers', dated 08/27/57.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-3828be26",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "lawrence-p-gise",
+"label": "Lawrence P. Gise"
+}
+],
+"node": null,
+"title": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency",
+"topics": [
+{
+"claims": [
+"c-3e9e9eb46c",
+"c-85b48772b3"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf"
+]
+}

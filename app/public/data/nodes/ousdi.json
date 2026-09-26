@@ -7,32 +7,54 @@
 {
 "id": "c-6ea53c64b3",
 "source": "Packet presented to DEPSECDEF, 17 November 2009",
+"sources": [
+{
+"id": "n-depsecdef-sap-packet-2009",
+"locator": null,
+"title": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+}
+],
 "text": "USD(I) James Clapper recommended against establishing a Special Access Program for the program in November 2009.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8e70eb29fa",
 "source": "Susan Gough, 13 June 2019",
+"sources": [],
 "text": "DoD states 'Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-n) was rejected in review: names no outlet; statement not tied to this Black Vault page"
 },
 {
 "id": "c-ded8b88a4c",
 "source": "Inference from the absence of any such document across a decade of FOIA litigation and requests",
+"sources": [],
 "text": "No AATIP charter, tasking document or organisational chart covering the post-2010 period has ever been released by OUSD(I), which means DoD's denial of Elizondo's role rests entirely on press guidance rather than on any producible record.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-0c96e4918d",
 "source": "Elizondo resignation letter, OSD/JS FOIA 18-F-0324",
+"sources": [
+{
+"id": "foia-18-f-0324",
+"locator": null,
+"title": "OSD/JS FOIA Case 18-F-0324"
+}
+],
 "text": "Elizondo's title within OUSD(I) at resignation was Director, National Programs Special Management Staff, effective date of resignation 4 October 2017.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8a30e91e1e",
 "source": "DoD emails released under FOIA via The Black Vault",
+"sources": [],
 "text": "OUSD(I) officials coordinated public messaging on Elizondo and AATIP in May 2019, with an internal warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:foia-21-f-0938) was rejected in review: generic DoD emails; not shown to be FOIA 21-F-0938"
 }
 ],
 "cls": "institution",
@@ -443,7 +465,7 @@
 ],
 "sub": "OSD staff element with authority over defence intelligence programs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 203 of 1138, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 202 of 1138, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

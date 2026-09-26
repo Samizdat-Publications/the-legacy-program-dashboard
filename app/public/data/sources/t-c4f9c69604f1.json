@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a04a3ec2cc",
+"locator": null,
+"node": "peter-bergmann",
+"nodeLabel": "Peter G. Bergmann",
+"sourceText": "Danny Jones Podcast, ep. 287, 24 February 2025, 2:38:20, mapped at research/leads/dannyjones-corpus-16.md",
+"text": "On the Danny Jones Podcast, episode 287, 24 February 2025, at 2:38:20, Jesse Michels named Bergmann among the attendees of the 1957 Chapel Hill conference, alongside John Wheeler and Freeman Dyson, and described the conference as convened by Agnew Bahnson through the Institute of Field Physics. The conference report confirms his attendance and his steering-committee role and carries nothing else the transcript attributes to him.",
+"tier": 2
+}
+],
+"date": "2025-02-24",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-c4f9c69604f1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 287, 24 February 2025, 2:38:20, mapped at research/leads/dannyjones-corpus-16.md",
+"topics": [
+{
+"claims": [
+"c-a04a3ec2cc"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "broadcast",
+"urls": []
+}

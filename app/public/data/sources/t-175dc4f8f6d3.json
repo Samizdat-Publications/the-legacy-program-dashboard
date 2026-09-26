@@ -1,0 +1,98 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-0fc61c6f33",
+"locator": "2:06:30",
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "Danny Jones Podcast, ep. 320, 4 August 2025, 2:06:30, mapped at research/leads/dannyjones-corpus-20.md",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 2:06:30, the guest who identifies himself only as UAP Gerb said Bobby Ray Inman was a Wackenhut board member. The corporation's own proxy statements for 1997 to 2002 do not name him.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-658c25f287",
+"locator": "0:52:23",
+"node": "bob-fish",
+"nodeLabel": "Bob Fish",
+"sourceText": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:52:23, the guest who identifies himself only as UAP Gerb cited the Fish and Podesta emails for the claim that the Defense Support Program tracked UFOs in the 1980s at 22,000 mph. The three emails opened in full carry no speed figure and no date in the 1980s: Fish dates the episode to the run-up to Desert Shield and Desert Storm and writes in March 2015 that it is now 24 years later, which puts it in 1990 or 1991, and he says of himself that he was never fully briefed into the DSP operation directly.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-7dacf100fd",
+"locator": null,
+"node": "operation-laser-strike",
+"nodeLabel": "Operation Laser Strike",
+"sourceText": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:01:40, mapped at research/leads/dannyjones-corpus-20.md and research/leads/dannyjones-triage-4.md rows 5 and 6",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:01:40, the investigator who identifies himself only as UAP Gerb described Laser Strike as the operation under which a Marine Air Control Group 28 detachment was in Peru in 1997, and as the cover for the Jonathan Weygandt crash-retrieval account. No record opened for this node places any Marine unit in Peru, and the unit's own lineage certificate carries no Peru entry. Tier 3 rather than Tier 2 because the speaker does not give his legal name on air and because the claim is a chain of inferences no opened document supports at any link.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-0d0224cc36",
+"locator": "0:26:45 to 0:29:24",
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceText": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-9723974b85",
+"locator": "0:28:33",
+"node": "us-v-pelton-1986",
+"nodeLabel": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"sourceText": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:28:33, mapped at research/leads/dannyjones-corpus-20.md",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:28:33, the guest who identifies himself only as UAP Gerb said Ivy Bells was an undersea cable tapping programme run under a National Underwater Reconnaissance Office. The federal filing opened for this node names no operation, no codename, no cable, no sea area and no submarine, and neither NURO nor National Underwater Reconnaissance occurs anywhere in the fifty released pages of the AZORIAN history.",
+"tier": 2
+}
+],
+"date": "2025-08-04",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-175dc4f8f6d3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md",
+"topics": [
+{
+"claims": [
+"c-0d0224cc36"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-0fc61c6f33"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-0d0224cc36"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+},
+{
+"claims": [
+"c-9723974b85"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "broadcast",
+"urls": []
+}

@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-447a197701",
+"locator": null,
+"node": "mike-turner",
+"nodeLabel": "Michael R. Turner",
+"sourceText": "Turner, 30 July 2023, quoted in The Debrief",
+"text": "'The most striking aspect of all the testimony was, repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
+"tier": 2
+}
+],
+"date": "2023-07-30",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-6aabe20319d0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "Turner, 30 July 2023, quoted in The Debrief",
+"topics": [
+{
+"claims": [
+"c-447a197701"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
+"type": "article",
+"urls": []
+}

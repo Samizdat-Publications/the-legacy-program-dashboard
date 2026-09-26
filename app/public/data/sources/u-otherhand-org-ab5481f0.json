@@ -1,0 +1,123 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b15ca3dc91",
+"locator": null,
+"node": "kirk-mayer",
+"nodeLabel": "Kirk-Mayer, Inc.",
+"sourceText": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18",
+"text": "A Los Alamos colleague of Lazar's, interviewed on tape by Mark Farmer on 25 May 1996 and anonymised at his own request, confirmed Lazar worked at the laboratory and said he 'was a contractor' under someone named Kirk Mayer.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-4c2999c90f",
+"locator": null,
+"node": "los-alamos-monitor-1982",
+"nodeLabel": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ ; Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , all opened 2026-09-18",
+"text": "THE QUALIFICATION, WHICH TRAVELS WITH THE ARTICLE AND IS ROUTINELY DROPPED. The description is what Lazar told the reporter, not an employment record. Stanton Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records that the page 'clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer'. A Los Alamos colleague interviewed on tape by Mark Farmer on 25 May 1996 said Lazar 'was a contractor' under 'Kirk Mayer' and that he 'claimed to be' a physicist. Tom Mahood's 2018 conclusion is that Lazar worked as an electronic technician for Kirk-Mayer and that the Monitor article misrepresented his position on the basis of what he told the reporter.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-cf640bc7fd",
+"locator": null,
+"node": "lanl",
+"nodeLabel": "Los Alamos National Laboratory",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , both opened 2026-09-18",
+"text": "Bob Lazar's connection to the laboratory must be stated as 'named in a directory', never as 'employed by'. He appears in a 1982 Los Alamos telephone directory whose own text states that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and the laboratory later said it held no records for him. The Los Alamos Monitor of 27 June 1982 described him in the newspaper's own voice as 'a physicist at the Los Alamos Meson Physics Facility', which is what he told the reporter.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-9e5e2bd84c",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18",
+"text": "A Los Alamos colleague of Lazar's, interviewed on tape by Mark Farmer on 25 May 1996 and anonymised at his own request, said Lazar did work at the laboratory but 'was a contractor' under 'Kirk Mayer', and that Lazar 'claimed to be' a physicist with a degree from 'either Cal Tech or MIT or something like that, but I don't think that that was ever substantiated that he had a degree'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+"claimTier": 2,
+"id": "e-6b80bf3a68",
+"label": "The contractor he actually worked for at Los Alamos in 1982",
+"note": "Supported from three directions that do not share a source: the directory page's own scope statement, the 1996 taped colleague interview, and Gene Huff writing in Lazar's defence.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-otherhand-org-ab5481f0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+{
+"cls": "document",
+"id": "los-alamos-monitor-1982",
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'"
+},
+{
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+}
+],
+"node": null,
+"title": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague",
+"topics": [
+{
+"claims": [
+"c-cf640bc7fd",
+"c-9e5e2bd84c"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-9e5e2bd84c"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-4c2999c90f"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/"
+]
+}

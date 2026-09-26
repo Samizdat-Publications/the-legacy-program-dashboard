@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c004dd1cb4",
+"locator": null,
+"node": "edward-ruppelt",
+"nodeLabel": "Edward J. Ruppelt",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects', 2nd edition, 1960",
+"text": "Ruppelt added sceptical chapters to the 1960 edition of his book, reversing tone shortly before his death.",
+"tier": 2
+}
+],
+"date": "1960",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "t-461566932485",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "The Report on Unidentified Flying Objects', 2nd edition",
+"topics": [
+{
+"claims": [
+"c-c004dd1cb4"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "book",
+"urls": []
+}

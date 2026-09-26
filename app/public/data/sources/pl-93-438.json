@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-08d84d4c84",
+"locator": "88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974",
+"node": "atomic-energy-commission",
+"nodeLabel": "Atomic Energy Commission",
+"sourceText": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974, https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf",
+"text": "The Commission was abolished by statute: 'The Atomic Energy Commission is hereby abolished.' Its functions vested in the Administrator of the Energy Research and Development Administration, and the Act took effect 120 days after enactment or on an earlier date the President might prescribe.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "pl-93-438",
+"identifiers": [
+"Public Law 93-438"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atomic-energy-commission",
+"label": "Atomic Energy Commission"
+}
+],
+"node": null,
+"title": "Public Law 93-438",
+"topics": [
+{
+"claims": [
+"c-08d84d4c84"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "statute",
+"urls": []
+}

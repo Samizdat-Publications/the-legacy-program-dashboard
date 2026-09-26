@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c2b7ec8a8b",
+"locator": null,
+"node": "rosa-delauro",
+"nodeLabel": "Rosa L. DeLauro",
+"sourceText": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
+"text": "DeLauro was Ranking Member of the House Appropriations Committee during the 118th Congress, serving opposite Chairwoman Kay Granger.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-c905efd658",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
+"text": "2023 holders (118th Congress), House Appropriations: Chairwoman Kay Granger and Ranking Member Rosa DeLauro.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-democrats-appropriations-d6ef75a0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "House Appropriations Committee",
+"listedOn": [
+{
+"cls": "person",
+"id": "rosa-delauro",
+"label": "Rosa L. DeLauro"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+}
+],
+"node": null,
+"title": "democrats-appropriations.house.gov",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career"
+]
+}

@@ -1,0 +1,269 @@
+{
+"archived": [
+"https://web.archive.org/web/20260612141626/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-1786f3dd2c",
+"locator": null,
+"node": "aaro-grusch-interview-memo",
+"nodeLabel": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"sourceText": "AARO Memorandum for Record, FOIA 24-F-0266",
+"text": "The memorandum concludes that 'Mr. Grusch had no intention of providing AARO with information.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-19b75f5fb6",
+"locator": null,
+"node": "aaro-grusch-interview-memo",
+"nodeLabel": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"sourceText": "AARO Memorandum for Record, FOIA 24-F-0266",
+"text": "An ODNI memorandum dated 8 January 2024 affirmed AARO's legal authority to receive classified UAP-related disclosures.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1ed966424b",
+"locator": null,
+"node": "aaro-grusch-interview-memo",
+"nodeLabel": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"sourceText": "DoD FOIA 24-F-0266",
+"text": "Grusch agreed on 10 November 2023 to a 14 November 2023 interview in Arlington, VA and did not appear; a 19 November email invitation citing legal authority was declined on security grounds.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-58b4ffae67",
+"locator": "AARO Invitations to Interview Mr. David Grusch",
+"node": "aaro-grusch-interview-memo",
+"nodeLabel": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"sourceText": "DoD FOIA 24-F-0266, AARO Invitations to Interview Mr. David Grusch",
+"text": "AARO logged nine contacts or contact attempts between 8 June 2023 and 8 January 2024 seeking a Grusch interview, most routed through intermediaries or Senate Intelligence Committee staff.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b919cdaa5e",
+"locator": null,
+"node": "aaro-grusch-interview-memo",
+"nodeLabel": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"sourceText": "AARO Memorandum for Record, FOIA 24-F-0266",
+"text": "AARO's memorandum for record of 8 January 2024 documents at least eight distinct approaches to Grusch between 8 June 2023 and 19 November 2023 and a scheduled 14 November 2023 interview he did not attend.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d229031ce2",
+"locator": null,
+"node": "aaro-grusch-interview-memo",
+"nodeLabel": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"sourceText": "DoD FOIA 24-F-0266",
+"text": "A March 2023 DoD memorandum signed by Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, is cited in the file as the access authority AARO invoked.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-55e352d752",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "AARO Memorandum for Record, 8 January 2024, released as FOIA 24-F-0266",
+"text": "AARO documented at least eight distinct approaches to Grusch between June 2023 and January 2024 and concluded he had no intention of providing information.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-311ab0bd98",
+"locator": "AARO Invitations to Interview Mr. David Grusch",
+"node": "david-abba",
+"nodeLabel": "David W. Abba",
+"sourceText": "DoD FOIA release 24-F-0266, AARO Invitations to Interview Mr. David Grusch",
+"text": "Appears as signatory of the March 2023 DoD memorandum referenced in AARO's memorandum for record documenting its attempts to interview Grusch.",
+"tier": 1
+}
+],
+"date": "2023",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-75aaf7ab77",
+"label": "AARO concluded Grusch 'had no intention of providing AARO with information'",
+"note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-9c868f4cb4",
+"label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished",
+"note": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"claimTier": 1,
+"id": "e-28c40cd38e",
+"label": "AARO's own record of nine interview attempts, June 2023 - January 2024",
+"note": "Released under DoD FOIA case 24-F-0266. It documents both the refusals AARO cites and the fact that AARO worked through intermediaries and Senate staff for five months before making direct contact.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"claimTier": 1,
+"id": "e-e75d281aae",
+"label": "built a documentary record of its attempts to interview Grusch",
+"note": "The memorandum for record of 8 January 2024 logs eight approaches between June 2023 and November 2023 and a missed 14 November interview.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-59b98114e2",
+"label": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment",
+"note": "AARO's own memorandum documents the sequence. Grusch has cited legal and security exposure; AARO makes the non-appearance the centerpiece of its impeachment. Both facts are in the same document.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-abba",
+"label": "David W. Abba"
+},
+"b": {
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"claimTier": 1,
+"id": "e-8b98192939",
+"label": "SAPCO director's March 2023 memorandum cited as AARO's access authority",
+"note": "Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, signed the memorandum AARO invoked in its invitations. SAPCO is the one office that could resolve the read-on denial and has never publicly addressed it.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "foia-24-f-0266",
+"identifiers": [
+"FOIA case 24-F-0266"
+],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "david-abba",
+"label": "David W. Abba"
+}
+],
+"node": {
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"topics": [
+{
+"claims": [
+"c-1786f3dd2c",
+"c-19b75f5fb6",
+"c-1ed966424b",
+"c-58b4ffae67",
+"c-b919cdaa5e",
+"c-d229031ce2"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-55e352d752"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+},
+{
+"claims": [
+"c-55e352d752"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-55e352d752"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+},
+{
+"claims": [
+"c-55e352d752"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "document",
+"urls": [
+"https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+]
+}

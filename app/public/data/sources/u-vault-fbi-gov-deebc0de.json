@@ -1,0 +1,184 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-a76860cc55",
+"locator": null,
+"node": "d-disinformation",
+"nodeLabel": "Disinformation & Fabricated Documents",
+"sourceText": "FBI Records: The Vault - 'Majestic 12'",
+"text": "The FBI maintains a public file on the Majestic 12 documents, released through its Vault reading room, recording the investigation of their authenticity.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-f63540a234",
+"locator": null,
+"node": "d-mj12",
+"nodeLabel": "Majestic-12 Corpus",
+"sourceText": "FBI Records: The Vault - 'Majestic 12'",
+"text": "The FBI maintains a public file on the Majestic 12 documents in its Vault reading room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f9f2738638",
+"locator": null,
+"node": "mj-12-documents",
+"nodeLabel": "MJ-12 / Operation Majestic-12 Documents",
+"sourceText": "FBI Records: The Vault, 'Majestic 12'",
+"text": "The FBI states: 'In 1988, two FBI offices received similar versions of a memo titled \"Operation Majestic-12...\" claiming to be highly classified government document... An Air Force investigation determined the document to be a fake.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents"
+},
+"b": {
+"cls": "domain",
+"id": "d-mj12",
+"label": "Majestic-12 Corpus"
+},
+"claimTier": 1,
+"id": "e-56a64a5dda",
+"label": "The largest disputed document corpus",
+"note": "The FBI's Majestic 12 file records the investigation into the corpus's authenticity, making MJ-12 the principal case study for the disinformation domain.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jaime-shandera",
+"label": "Jaime H. Shandera"
+},
+"b": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"claimTier": 2,
+"id": "e-7a2d61cfb7",
+"label": "Received the anonymous 35mm film on 11 December 1984",
+"note": "The film arrived at Shandera's Los Angeles home postmarked Albuquerque, New Mexico - the same city as the AFOSI operation running against Bennewitz.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-2009a16f8b",
+"label": "AARO's 2024 review does not address MJ-12 or AQUARIUS",
+"note": "Two of the most persistent alleged programme names in the historical record are absent from the report tasked with resolving the historical record.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+"b": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"claimTier": 3,
+"id": "e-2e31afa36a",
+"label": "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within 20 months",
+"note": "The AQUARIUS paper was shown at Kirtland in April 1983; the MJ-12 film arrived postmarked Albuquerque in December 1984. Both channels ran through people in contact with AFOSI.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"claimTier": 1,
+"id": "e-d0563484da",
+"label": "Moore controlled the MJ-12 material's release with Shandera and Friedman",
+"note": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-vault-fbi-gov-deebc0de",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FBI",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents"
+},
+{
+"cls": "person",
+"id": "jaime-shandera",
+"label": "Jaime H. Shandera"
+},
+{
+"cls": "domain",
+"id": "d-mj12",
+"label": "Majestic-12 Corpus"
+},
+{
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+{
+"cls": "program",
+"id": "project-aquarius",
+"label": "Project AQUARIUS (alleged)"
+},
+{
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+}
+],
+"node": null,
+"title": "FBI Records: The Vault - 'Majestic 12'",
+"topics": [
+{
+"claims": [
+"c-f63540a234",
+"c-f9f2738638"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+},
+{
+"claims": [
+"c-a76860cc55"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
+"type": "web page",
+"urls": [
+"https://vault.fbi.gov/Majestic%2012"
+]
+}

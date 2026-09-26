@@ -1,0 +1,128 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-208b6994cc",
+"locator": null,
+"node": "alien-rapture-1998",
+"nodeLabel": "Alien Rapture: The Chosen, Galde Press, 1998",
+"sourceText": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+"text": "The same record gives the full imprint: title 'Alien rapture', subtitle 'the chosen'; names 'Fouche, Edgar Rothschild, 1948-' (usage primary) and 'Steiger, Brad.'; place 'Lakeville, Minn'; agent 'Galde Press'; dateIssued 1998; edition '1st ed.'; extent 'xii, 275 p. ; 23 cm.'; ISBN 1880090503 and 9781880090503. Its recordContentSource is DLC and its recordCreationDate is 980204, that is 4 February 1998, which precedes both the book's publication and the August 1998 presentation.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-751df00dfa",
+"locator": null,
+"node": "alien-rapture-1998",
+"nodeLabel": "Alien Rapture: The Chosen, Galde Press, 1998",
+"sourceText": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+"text": "THE CATALOGUING, AND IT IS THE POINT OF THIS NODE. Library of Congress record LCCN 98002961 carries, under the gsafd genre authority, the genre element 'Science fiction.' Its Library of Congress subject heading is 'Alien abduction - Fiction'. Its LC classification is PS3556.O779 A79 1998, American literature, individual authors, 1961 onward, and its Dewey 21 classification is 813/.54, American fiction. The Library of Congress catalogues Alien Rapture: The Chosen as a novel.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c92d372f38",
+"locator": null,
+"node": "brad-steiger",
+"nodeLabel": "Brad Steiger",
+"sourceText": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+"text": "The Library of Congress catalogue record LCCN 98002961 names two personal authors for Alien rapture: the chosen, 'Fouche, Edgar Rothschild, 1948-' with usage primary, and 'Steiger, Brad.' The statement of responsibility on the same record reads 'Edgar Rothschild Fouche and Brad Steiger.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-eda306a400",
+"locator": null,
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"sourceText": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+"text": "The Library of Congress name authority attached to LCCN 98002961 gives the author as 'Fouche, Edgar Rothschild, 1948-', independently fixing the birth year against a national bibliographic authority rather than against his own account.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "brad-steiger",
+"label": "Brad Steiger"
+},
+"b": {
+"cls": "document",
+"id": "alien-rapture-1998",
+"label": "Alien Rapture: The Chosen, Galde Press, 1998"
+},
+"claimTier": 1,
+"id": "e-8fac7a136f",
+"label": "Co-author of Alien Rapture: The Chosen",
+"note": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+},
+"b": {
+"cls": "document",
+"id": "alien-rapture-1998",
+"label": "Alien Rapture: The Chosen, Galde Press, 1998"
+},
+"claimTier": 1,
+"id": "e-fbd0e36dfd",
+"label": "Primary author of Alien Rapture: The Chosen",
+"note": "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.'",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-lx2-loc-gov-bfcf1108",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "lx2.loc.gov",
+"listedOn": [
+{
+"cls": "document",
+"id": "alien-rapture-1998",
+"label": "Alien Rapture: The Chosen, Galde Press, 1998"
+},
+{
+"cls": "person",
+"id": "brad-steiger",
+"label": "Brad Steiger"
+},
+{
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+},
+{
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+}
+],
+"node": null,
+"title": "Library of Congress catalogue record LCCN 98002961, retrieved through the SRU endpoint with query bath.isbn=1880090503 in MODS schema",
+"topics": [
+{
+"claims": [
+"c-208b6994cc",
+"c-751df00dfa",
+"c-c92d372f38",
+"c-eda306a400"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "web page",
+"urls": [
+"http://lx2.loc.gov:210/lcdb"
+]
+}

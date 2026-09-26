@@ -26,14 +26,24 @@
 {
 "id": "c-64c5a78548",
 "source": "Rep. Raja Krishnamoorthi after the 12 January 2024 closed ICIG briefing, quoted by The Hill",
+"sources": [],
 "text": "'Let's just say that all of us were very interested in the substance of his claims, and unfortunately, I didn't get the answers that I was hoping for.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mix) was rejected in review: two Hill articles on this briefing; string does not pick one"
 },
 {
 "id": "c-bc6e0d1fa6",
 "source": "oversight.house.gov Task Force membership page",
+"sources": [
+{
+"id": "u-oversight-house-gov-78bf35a9",
+"locator": null,
+"title": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page"
+}
+],
 "text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

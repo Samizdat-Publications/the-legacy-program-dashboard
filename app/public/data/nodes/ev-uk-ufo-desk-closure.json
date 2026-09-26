@@ -7,20 +7,32 @@
 {
 "id": "c-46f6eed8fc",
 "source": "The National Archives, UFO files page, June 2013",
+"sources": [],
 "text": "The final released tranche covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and its stated highlights include 'the reasons behind the closure of the UFO desk' and 'the handling of the largest number of UFO sighting reports received in 30 years'.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf) was rejected in review: string names the web page; candidate is a PDF research guide"
 },
 {
 "id": "c-2db779360c",
 "source": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"sources": [
+{
+"id": "u-history-co-uk-8928a8ef",
+"locator": null,
+"title": "Sky HISTORY"
+}
+],
 "text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d94495f476",
 "source": "Inference from Condign Executive Summary para 15 and the TNA description of the closure files",
+"sources": [],
 "text": "The closure is the delayed execution of Condign's key recommendation rather than an independent 2009 judgement. Reasoning: Condign's key recommendation in 2000 was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed that database was wound up in 2009 on the same stated ground of no defence value.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",

@@ -102,56 +102,98 @@
 {
 "id": "c-9af44d8d5a",
 "source": "The Debrief, 5 June 2023, bylined Leslie Kean and Ralph Blumenthal",
+"sources": [
+{
+"id": "n-debrief-2023-06-05",
+"locator": null,
+"title": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+}
+],
 "text": "Co-authored the 5 June 2023 Debrief article reporting Grusch's allegations, with on-record corroboration from Karl Nell, Christopher Mellon and the NASIC officer using the name Jonathan Grey.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8caa990ac8",
 "source": "Contemporaneous reporting on the article's provenance, June 2023",
+"sources": [],
 "text": "The story was offered to and declined by major national outlets before The Debrief published it.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: generic reference, no outlet named"
 },
 {
 "id": "c-794679f1f7",
 "source": "Wikipedia, 'Leslie Kean'; New York Times, 16 December 2017 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "Kean co-authored the 16 December 2017 New York Times article revealing the $22.5M AATIP programme.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html) was rejected in review: names two sources; Wikipedia entry is not the candidate"
 },
 {
 "id": "c-dd521ec6b3",
 "source": "Wikipedia, 'Leslie Kean'; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "On 5 June 2023 Kean and Blumenthal reported David Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:debrief-2023-06-05) was rejected in review: names two sources; Wikipedia entry is not the candidate"
 },
 {
 "id": "c-8fc353b9ab",
 "source": "The Sol Foundation, inaugural conference speaker list",
+"sources": [
+{
+"id": "u-thesolfoundation-org-56326cc6",
+"locator": "speaker list",
+"title": "The Sol Foundation - Inaugural Conference"
+}
+],
 "text": "Kean was a named speaker at the inaugural Sol Foundation conference, Stanford University, 17-18 November 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b872c20871",
 "source": "Federal court docket, D.D.C., via CourtListener/RECAP",
+"sources": [],
 "text": "Kean v. National Aeronautics and Space Administration, No. 1:03-cv-02509 (D.D.C.), was filed 9 December 2003, assigned to Judge Emmet G. Sullivan, cause '05:552 Freedom of Information Act', and terminated 24 August 2009.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-admin) was rejected in review: string names no case"
 },
 {
 "id": "c-734bdb982c",
 "source": "Memorandum Opinion, Kean v. NASA, Dkt. 45, 27 March 2007, pp. 1-2 and Conclusion",
+"sources": [
+{
+"id": "u-storage-courtlistener-co-09be541d",
+"locator": "pp. 1-2 and Conclusion",
+"title": "Memorandum Opinion, Kean v. NASA, 27 March 2007"
+}
+],
 "text": "The court's 27 March 2007 memorandum opinion states that NASA admits its first two searches were inadequate, and holds that the agency 'has not yet met its burden of demonstrating that the search for documents was adequate', denying summary judgment in part.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-40b1e9c2fe",
 "source": "Memorandum Opinion, Kean v. NASA, 27 March 2007, Background section",
+"sources": [
+{
+"id": "u-storage-courtlistener-co-09be541d",
+"locator": "Background section",
+"title": "Memorandum Opinion, Kean v. NASA, 27 March 2007"
+}
+],
 "text": "Her FOIA request of 31 January 2003 sought documents on Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962 to 1967, Richard M. Schulherr, Project Moon Dust and 'Cosmos 96'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dffdda149b",
 "source": "Docket entries 55, 56 and the minute orders of 17 October 2007 and 24 August 2009",
+"sources": [],
 "text": "On 17 October 2007 Judge Sullivan entered a Stipulation of Settlement in Part and ordered joint status reports every sixty days; the case was dismissed 24 August 2009 on the parties' representation that NASA had met its obligations.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-admin) was rejected in review: string names no case"
 }
 ],
 "cls": "person",

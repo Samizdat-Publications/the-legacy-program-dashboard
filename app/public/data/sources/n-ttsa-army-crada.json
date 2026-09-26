@@ -1,0 +1,166 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-5ad7f70ff2",
+"locator": null,
+"node": "ttsa-army-crada",
+"nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"sourceText": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
+"text": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, with named government principal investigators and TACOM IP counsel, was filed as SEC Exhibit 6.28.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-776379452d",
+"locator": null,
+"node": "l-detroit-arsenal",
+"nodeLabel": "Detroit Arsenal, Warren, Michigan",
+"sourceText": "Executed CRADA between CCDC GVSC and TTSA, 10 October 2019",
+"text": "GVSC Director Jeffery Langhout signed a CRADA with To The Stars Academy dated 10 October 2019; the agreement text was released by the Army on 18 October 2019.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3d4bcdf994",
+"locator": null,
+"node": "joseph-cannon",
+"nodeLabel": "Dr. Joseph Cannon",
+"sourceText": "CRADA document released by U.S. Army CCDC, 18 October 2019",
+"text": "Named as the U.S. Government principal investigator on the TTSA CRADA alongside Bean Soave.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-0bfc61e298",
+"locator": null,
+"node": "ttsa",
+"nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"sourceText": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
+"text": "CRADA 19-15, 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, was filed with the SEC as Exhibit 6.28 to TTSA's Form 1-A.",
+"tier": 1
+}
+],
+"date": "2019",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"b": {
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"claimTier": 1,
+"id": "e-a770d67d68",
+"label": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
+"note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-294b61f23d",
+"label": "Co-founder, President, interim CEO and controlling shareholder",
+"note": "TTSA was a Regulation A public reporting issuer, which is why its holdings and agreements had to be filed with the SEC rather than remaining private.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"claimTier": 1,
+"id": "e-317633eccd",
+"label": "TTSA executed a federal exploitation agreement over material it claimed was of unknown origin",
+"note": "CRADA 19-15 'Novel & Emerging Technology Exploitation' with the US Army CCDC Ground Vehicle Systems Center was filed as Exhibit 6.28 to TTSA's Form 1-A, naming Army principal investigators and TACOM intellectual property counsel.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "institution",
+"id": "general-atomics",
+"label": "General Atomics"
+},
+"claimTier": 3,
+"id": "e-cc83b60f31",
+"label": "Securities disclosure is why the TTSA arrangement is visible and a privately held prime's would not be",
+"note": "TTSA's Reg A reporting obligations forced the CRADA into the public record. A privately held prime such as General Atomics has no equivalent obligation, which is the structural reason the documented case is a small company rather than a large one.",
+"type": "behavioral"
+}
+],
+"era": "3",
+"host": null,
+"id": "n-ttsa-army-crada",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "institution",
+"id": "general-atomics",
+"label": "General Atomics"
+},
+{
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+}
+],
+"node": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"title": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"topics": [
+{
+"claims": [
+"c-5ad7f70ff2",
+"c-3d4bcdf994"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-5ad7f70ff2"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
+"type": "document",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+]
+}

@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f322c938bf",
+"locator": null,
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "NewsNation/The Hill, 9 June 2026",
+"text": "Called on the White House in June 2026 to grant immunity to whistleblowers who come forward with information including the locations of UAP craft and advanced technology.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-1f6f285457",
+"locator": null,
+"node": "capitol-disclosure-event-2026-06-09",
+"nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+"sourceText": "NewsNation/The Hill, 9 June 2026",
+"text": "David Grusch: 'Political appointees have not complied with the disclosure law.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-35af88b5ee",
+"locator": null,
+"node": "capitol-disclosure-event-2026-06-09",
+"nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+"sourceText": "NewsNation/The Hill, 9 June 2026",
+"text": "Rep. Luna said lawmakers are requesting that the White House grant immunity to whistleblowers who come forward with information, including the locations of UFOs and advanced technology.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-cec0113c13",
+"locator": null,
+"node": "capitol-disclosure-event-2026-06-09",
+"nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+"sourceText": "NewsNation/The Hill, 9 June 2026",
+"text": "Rep. Moskowitz: 'Disclosure today, disclosure tomorrow. The American people deserve to know.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-dd2db84562",
+"locator": null,
+"node": "capitol-disclosure-event-2026-06-09",
+"nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+"sourceText": "NewsNation/The Hill, 9 June 2026",
+"text": "Rep. Burlison: 'For decades, the American people have been treated like children, told there are government secrets they just don't get to know,' and called on President Trump to waive all NDAs for UFO whistleblowers.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f1c323e939",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "NewsNation/The Hill, 9 June 2026",
+"text": "Described receiving a 'Tom Clancy-style dead drop' of UAP information at his office and called on President Trump to waive all NDAs for UAP whistleblowers.",
+"tier": 2
+}
+],
+"date": "2026-06-09",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-274c20b4c668",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation/The Hill",
+"listedOn": [],
+"node": null,
+"title": "NewsNation/The Hill, 9 June 2026",
+"topics": [
+{
+"claims": [
+"c-1f6f285457",
+"c-35af88b5ee",
+"c-cec0113c13",
+"c-dd2db84562",
+"c-f1c323e939"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
+"type": "article",
+"urls": []
+}

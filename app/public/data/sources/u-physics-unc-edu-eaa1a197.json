@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-physics-unc-edu-eaa1a197",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "physics.unc.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "institute-of-field-physics",
+"label": "Institute of Field Physics (UNC Chapel Hill)"
+}
+],
+"node": null,
+"title": "UNC Chapel Hill Department of Physics and Astronomy, Department History contents",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://physics.unc.edu/home/department-history/"
+]
+}

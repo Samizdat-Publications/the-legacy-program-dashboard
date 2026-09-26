@@ -1,0 +1,287 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-fdb7c32269",
+"locator": null,
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "P.L. 117-81; P.L. 117-263; AARO FY2024 and FY2025 annual reports cite 50 U.S.C. 3373(k)",
+"text": "AARO's statutory authority and annual reporting requirement are codified at 50 U.S.C. 3373, enacted through the FY2022 and FY2023 NDAAs.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8b056bc5b3",
+"locator": null,
+"node": "ndaa-fy2022-sec-1683",
+"nodeLabel": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+"sourceText": "PLAW-117publ81 sec. 1683(f), 135 Stat. 2120-2121",
+"text": "Sec. 1683(f) requires a science plan for phenomena 'that exceed the known state of the art in science or technology, including in the areas of propulsion, aerodynamic control, signatures, structures, materials, sensors, countermeasures, weapons, electronics, and power generation' and to 'provide the foundation for potential future investments to replicate any such advanced characteristics and performance.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d82b15e961",
+"locator": null,
+"node": "ndaa-fy2022-sec-1683",
+"nodeLabel": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+"sourceText": "PLAW-117publ81 sec. 1683",
+"text": "PL 117-81 sec. 1683 carries the statutory note '50 USC 3373'; enacted title 'ESTABLISHMENT OF OFFICE, ORGANIZATIONAL STRUCTURE, AND AUTHORITIES TO ADDRESS UNIDENTIFIED AERIAL PHENOMENA'; 135 Stat. 2118-2123. Approved 27 December 2021.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-daf7dbc61f",
+"locator": "Sec. 1683(a), GPO",
+"node": "ndaa-fy2022-sec-1683",
+"nodeLabel": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+"sourceText": "P.L. 117-81, Sec. 1683(a), GPO",
+"text": "Sec. 1683 of P.L. 117-81 is codified at 50 U.S.C. 3373 and required establishment of the office within 180 days of 27 December 2021.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-002490dfce",
+"locator": null,
+"node": "ndaa-fy2022",
+"nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceText": "PL 117-81 sec. 1683(e)(1)(B), 135 Stat. 2120",
+"text": "Sec. 1683(e)(1)(B) requires that DoD and IC military, civilian AND CONTRACTOR personnel 'have access to procedures by which the personnel shall report incidents or information, including adverse physiological effects, involving or associated with unidentified aerial phenomena directly to the Office'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-1948ea680e",
+"locator": null,
+"node": "ndaa-fy2022",
+"nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceText": "PL 117-81 sec. 1683(e)(2), 135 Stat. 2120",
+"text": "Sec. 1683(e)(2) requires an intelligence collection and analysis plan 'to gain as much knowledge as possible regarding the technical and operational characteristics, origins, and intentions of unidentified aerial phenomena'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-30d78b14d8",
+"locator": null,
+"node": "ndaa-fy2022",
+"nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceText": "PLAW-117publ81 enactment line",
+"text": "PL 117-81 was 'Approved December 27, 2021.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-4df969851f",
+"locator": null,
+"node": "ndaa-fy2022",
+"nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceText": "PL 117-81 sec. 1683(c), 135 Stat. 2119",
+"text": "Sec. 1683(c) requires the Secretary and DNI to designate 'one or more line organizations within the Department of Defense and the intelligence community that possess appropriate expertise, authorities, accesses, data, systems, platforms, and capabilities to rapidly respond to, and conduct field investigations of, incidents involving unidentified aerial phenomena' and to ensure those organizations have 'adequate personnel with the requisite expertise, equipment, transportation, and other resources necessary to respond rapidly'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-73702e6a81",
+"locator": null,
+"node": "ndaa-fy2022",
+"nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceText": "PL 117-81 sec. 1683(f), 135 Stat. 2120-2121",
+"text": "Sec. 1683(f) requires a science plan to 'account for characteristics and performance of unidentified aerial phenomena that exceed the known state of the art in science or technology, including in the areas of propulsion, aerodynamic control, signatures, structures, materials, sensors, countermeasures, weapons, electronics, and power generation' and to 'provide the foundation for potential future investments to replicate any such advanced characteristics and performance.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-de7ea874d7",
+"locator": null,
+"node": "ndaa-fy2022",
+"nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceText": "PL 117-81 sec. 1683(a), 135 Stat. 2118-2119",
+"text": "Sec. 1683 carries the note '50 USC 3373' and is titled 'ESTABLISHMENT OF OFFICE, ORGANIZATIONAL STRUCTURE, AND AUTHORITIES TO ADDRESS UNIDENTIFIED AERIAL PHENOMENA'. Sec. 1683(a) required the Secretary of Defense, in coordination with the DNI, within 180 days of enactment, to establish an office 'to carry out the duties of the Unidentified Aerial Phenomena Task Force, as in effect on the day before the date of enactment of this Act'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e249e4d20c",
+"locator": null,
+"node": "ndaa-fy2022",
+"nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceText": "PL 117-81 sec. 1683(d), 135 Stat. 2119-2120",
+"text": "Sec. 1683(d)(1) directs designation of line organizations 'primarily responsible for scientific, technical, and operational analysis of data gathered by field investigations ... including with respect to the testing of materials, medical studies, and development of theoretical models'. Sec. 1683(d)(2) requires directives ensuring each such organization 'has authority to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-05030f7b1c",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "P.L. 117-81 approval date, GPO; public record of Reid's death",
+"text": "Reid died on 28 December 2021, one day after the enactment of P.L. 117-81, which created the office at 50 U.S.C. 3373.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4b3461f034",
+"locator": null,
+"node": "kirsten-gillibrand",
+"nodeLabel": "Kirsten E. Gillibrand",
+"sourceText": "Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)",
+"text": "AARO's legal authority and reporting obligations derive from the FY2022 NDAA (P.L. 117-81, 27 December 2021) and the FY2023 NDAA (P.L. 117-263, 23 December 2022), codified at 50 U.S.C. 3373.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7ddb66b0ac",
+"locator": "Sec. 1683, GPO",
+"node": "kirsten-gillibrand",
+"nodeLabel": "Kirsten E. Gillibrand",
+"sourceText": "P.L. 117-81, Sec. 1683, GPO",
+"text": "Sec. 1683 of the FY2022 NDAA (P.L. 117-81) directed establishment of the office within 180 days and is codified at 50 U.S.C. 3373.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2022-sec-1683",
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+"claimTier": 1,
+"id": "e-da9b57d936",
+"label": "the statutory root of the modern apparatus, codified at 50 U.S.C. 3373",
+"note": "Sec. 1683 of P.L. 117-81, signed 27 December 2021, directed establishment within 180 days of an office to carry out the duties of the UAP Task Force, with enumerated duties reaching beyond analysis into governance. Everything later in the enacted corpus amends or builds on what this section created.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2022-sec-1683",
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2026",
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+},
+"claimTier": 1,
+"id": "e-2a92f59f3b",
+"label": "FY2026 amends Sec. 1683(l) to add intercept briefings",
+"note": "Sec. 1671 of P.L. 119-60 adds a new paragraph (5) requiring NORAD and NORTHCOM intercept detail in AARO briefings, reaching back to 1 January 2004.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2022-sec-1683",
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)"
+},
+"claimTier": 1,
+"id": "e-5ee871d791",
+"label": "Sec. 1683 is the UAP-office provision of P.L. 117-81",
+"note": "Section 1683 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81, enacted 27 December 2021) is titled 'Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena', and sits in Title XVI, Subtitle E. It is the provision the board's section node is filed under.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2022-sec-1683",
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)"
+},
+"claimTier": 1,
+"id": "e-96d8f18afc",
+"label": "Author of the founding AARO authority",
+"note": "Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "pl-117-81",
+"identifiers": [
+"Public Law 117-81"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "ndaa-fy2022-sec-1683",
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+"title": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"topics": [
+{
+"claims": [
+"c-d82b15e961",
+"c-daf7dbc61f",
+"c-4df969851f",
+"c-73702e6a81",
+"c-de7ea874d7"
+],
+"id": "uap-statutes",
+"title": "UAP law in the NDAAs and IAAs, 2021-2026"
+},
+{
+"claims": [
+"c-4df969851f",
+"c-73702e6a81",
+"c-de7ea874d7",
+"c-e249e4d20c"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+},
+{
+"claims": [
+"c-fdb7c32269"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/app/details/PLAW-117publ81",
+"https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm"
+]
+}

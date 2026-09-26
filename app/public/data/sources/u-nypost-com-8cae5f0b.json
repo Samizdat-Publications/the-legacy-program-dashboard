@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f6da2bc26a",
+"locator": null,
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"sourceText": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
+"text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
+"tier": 2
+}
+],
+"date": "2023-05-23",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "u-nypost-com-8cae5f0b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nypost.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+}
+],
+"node": null,
+"title": "Isabel Keane, 'Stanford prof Garry Nolan says aliens are 100% living among us', New York Post",
+"topics": [
+{
+"claims": [
+"c-f6da2bc26a"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-f6da2bc26a"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "article",
+"urls": [
+"https://nypost.com/2023/05/23/stanford-prof-says-aliens-are-100-living-among-us/"
+]
+}

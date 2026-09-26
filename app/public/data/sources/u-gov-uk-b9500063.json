@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-gov-uk-b9500063",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "gov.uk",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-london",
+"label": "London, United Kingdom"
+},
+{
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+},
+{
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom"
+}
+],
+"node": null,
+"title": "UK Government - Ministry of Defence",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.gov.uk/government/organisations/ministry-of-defence"
+]
+}

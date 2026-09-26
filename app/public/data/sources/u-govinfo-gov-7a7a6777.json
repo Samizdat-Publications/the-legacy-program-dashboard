@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-a6353744ae",
+"locator": null,
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "Explanatory Statement on the Intelligence Authorization Act for Fiscal Year 2024, printed by Sen. Warner, Congressional Record, Vol. 169, No. 206 (14 December 2023), pp. S5990-S5991 - https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgS5990.htm",
+"text": "ENACTED SUCCESSOR IDENTIFIED AND CONFIRMED FROM A PRIMARY SOURCE. The provision was enacted as Section 7343 of Division G of the National Defense Authorization Act for Fiscal Year 2024, Pub. L. 118-31. The Explanatory Statement to accompany the Intelligence Authorization Act for Fiscal Year 2024, printed in the Congressional Record by Sen. Warner on 14 December 2023 and given the same effect as a joint explanatory statement of a conference committee, states verbatim: 'Section 7343 of the Act provides for funding limitations relating to unidentified anomalous phenomena because of perceptions of insufficient transparency in this area. Section 7343 is also intended to avoid technology and security stovepipes and expand awareness regarding any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes if they are shown to exist. Section 7343 further provides a limitation regarding independent research and development funding to ensure that certain indirect expenses are prohibited.' The explanatory statement says nothing whatever about a 60-day contractor turn-in, a list of non-earth origin material, or a make-available mandate to AARO.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-7a7a6777",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "iaa-fy2024-sec-1102",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+}
+],
+"node": null,
+"title": "Explanatory Statement on the Intelligence Authorization Act for Fiscal Year 2024, printed by Sen. Warner, Congressional Record, Vol. 169, No. 206 (14 December 2023), pp. S5990-S5991",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgS5990.htm"
+]
+}

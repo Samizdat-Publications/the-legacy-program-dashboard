@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5d239af600",
+"locator": "title page, fourth printing September 1944",
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "Hyper and Ultrahigh Frequency Engineering, Sarbacher and Edson, John Wiley & Sons 1943, fourth printing September 1944, title page",
+"text": "The title page of Hyper and Ultrahigh Frequency Engineering, John Wiley & Sons, copyright 1943, names 'Robert I. Sarbacher, Sc.D., Associate Professor of Electrical Engineering, Illinois Institute of Technology', with William A. Edson as co-author.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-2351af08",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-sarbacher",
+"label": "Robert I. Sarbacher"
+}
+],
+"node": null,
+"title": "Hyper and Ultrahigh Frequency Engineering, Sarbacher and Edson, John Wiley & Sons 1943",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/dli.ernet.14512"
+]
+}

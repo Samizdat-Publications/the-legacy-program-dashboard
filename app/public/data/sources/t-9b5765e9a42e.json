@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f35d1610f3",
+"locator": null,
+"node": "travis-taylor",
+"nodeLabel": "Travis S. Taylor",
+"sourceText": "Science magazine, June 2022",
+"text": "Taylor was the chief scientist on the Unidentified Aerial Phenomena Task Force.",
+"tier": 2
+}
+],
+"date": "2022-06",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-9b5765e9a42e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Science",
+"listedOn": [],
+"node": null,
+"title": "Science magazine, June 2022",
+"topics": [
+{
+"claims": [
+"c-f35d1610f3"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-f35d1610f3"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+}
+],
+"type": "article",
+"urls": []
+}

@@ -1,0 +1,279 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d1c98cde76",
+"locator": null,
+"node": "bradford-runyon",
+"nodeLabel": "Capt. Bradford Runyon",
+"sourceText": "Documentation index for the 24 October 1968 Minot AFB case, https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "Capt. Bradford Runyon is named as co-pilot in the debriefing record of the 24 October 1968 Minot AFB case, with radar navigator Maj. Charles Richey, navigator Capt. Patrick McCaslin, electronic warfare officer Capt. Thomas Goduto and gunner TSgt Arlie Judd. The case file includes a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control, thirteen ASQ-38 radarscope photographs, and Lt Col Arthur J. Werlich's Basic Reporting Data of 28 October 1968.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cb48071832",
+"locator": null,
+"node": "bradford-runyon",
+"nodeLabel": "Capt. Bradford Runyon",
+"sourceText": "Minot B-52 UFO case investigation material, https://minotb52ufo.com/doc.php and the case investigation narrative, opened 2026-09-19",
+"text": "The modern investigation of the Minot 1968 case began when Runyon contacted the Center for UFO Studies in 2000 and completed a CUFOS UFO questionnaire on his own initiative. He was not located or recruited by a researcher.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-a26724a896",
+"locator": null,
+"node": "minot-1968",
+"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
+"sourceText": "https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "The seven AF Form 117 respondents are named in the file: A1C Lloyd M. Isley and A1C Robert Michael O'Connor of the 91st MIMS; A1C Joseph Patrick Jablonski, A1C Gregory Adams, SSgt James Frederick Bond and SSgt William E. Smith Jr. of the 862nd SPS; and Major James A. Partin, pilot, 23rd Bomb Squadron, 5th Bomb Wing. The B-52H crew at the debriefing was co-pilot Capt. Bradford Runyon, radar navigator Maj. Charles Richey, navigator Capt. Patrick McCaslin, electronic warfare officer Capt. Thomas Goduto and gunner TSgt Arlie Judd.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-f0a907c1e1",
+"locator": null,
+"node": "minot-1968",
+"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
+"sourceText": "https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "The file is a coordinated set rather than a single report, and the node should cite it item by item: Blue Book final case report, 13 November 1968, twelve pages; Basic Reporting Data, 28 October 1968, eight pages, prepared by Lt Col Arthur J. Werlich, 862nd Combat Support Group Operations Division; the 91st Strategic Missile Wing Security Controller's summary of UFO observers at Launch Control Facilities with sighting times; the Base Operations Dispatcher's Log for 0800 to 1010Z recording ground reports from site N-7; seven AF Form 117 questionnaires; thirteen B-52 ASQ-38 radarscope photographs at 8x10 with data plates; the Werlich overlay map at 1:200,000; upper-air rawinsonde data; and a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-31013cb2ac",
+"locator": null,
+"node": "minot-1968",
+"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
+"sourceText": "https://minotb52ufo.com/doc.php and the case investigation narrative, opened 2026-09-19",
+"text": "SECTION 2a PROVENANCE, AND THIS CASE IS THE CONTROL GROUP FOR THE WHOLE CLUSTER. The modern investigation exists because one of the B-52 crew, Capt. Bradford Runyon, contacted the Center for UFO Studies in 2000 on his own initiative and completed a CUFOS questionnaire. A witness approached a research body; a research body did not recruit a witness. That is the opposite of the pattern that dominates the Malmstrom material, and it is why this case carries the weight it does.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-ca1b731653",
+"locator": null,
+"node": "l-minot",
+"nodeLabel": "Minot AFB, North Dakota",
+"sourceText": "https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "Seven airmen completed AF Form 117 questionnaires in 1968, which places their statements in the contemporaneous official record rather than in any later interview: A1C Lloyd M. Isley and A1C Robert Michael O'Connor of the 91st MIMS; A1C Joseph Patrick Jablonski, A1C Gregory Adams, SSgt James Frederick Bond and SSgt William E. Smith Jr. of the 862nd SPS; and Major James A. Partin, pilot, 23rd Bomb Squadron, 5th Bomb Wing.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-f618c61645",
+"locator": null,
+"node": "l-minot",
+"nodeLabel": "Minot AFB, North Dakota",
+"sourceText": "Documentation index for the 24 October 1968 Minot AFB case, https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "The 24 October 1968 case generated a dense primary file: Project Blue Book's final case report of 13 November 1968, twelve pages; Basic Reporting Data of 28 October 1968, eight pages, prepared by Lt Col Arthur J. Werlich of the 862nd Combat Support Group Operations Division; the 91st Strategic Missile Wing Security Controller's summary listing UFO observers at Launch Control Facilities with sighting times; the Base Operations Dispatcher's Log for 0800 to 1010Z recording ground reports from site N-7; seven AF Form 117 witness questionnaires; thirteen B-52 ASQ-38 radarscope photographs with data plates; the Werlich overlay map at 1:200,000; and a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-b2a4354d03",
+"locator": null,
+"node": "d-nuclear",
+"nodeLabel": "Nuclear Security & Restricted Data",
+"sourceText": "http://www.nicap.org/reports/751027loring_1-6.htm ; https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; https://minotb52ufo.com/doc.php ; https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; http://www.nicap.org/articles/CI-Wurtsmith.htm ; all opened 2026-09-19",
+"text": "The contemporaneous-paper half of that split is real and checkable. It includes the National Military Command Center's Memorandum for Record of 29 October 1975 on the Loring penetration; the 24th NORAD Region Senior Director's Log for 7 to 19 November 1975; the Project Blue Book Minot file of October and November 1968 with seven AF Form 117 witness questionnaires; the Project Blue Book telephone log of 1 August 1965 for F. E. Warren; and the 379th Bombardment Wing historian's file of January 1979. All were opened by this board on 19 September 2026.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2124f29127",
+"locator": null,
+"node": "doc-minot-1968-blue-book",
+"nodeLabel": "Project Blue Book case file, Minot AFB, 24 October 1968",
+"sourceText": "Documentation index for the 24 October 1968 Minot AFB case, https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "The file comprises, among other items: the Blue Book final case report of 13 November 1968, twelve pages; Basic Reporting Data of 28 October 1968, eight pages, prepared by Lt Col Arthur J. Werlich, 862nd Combat Support Group Operations Division; the 91st Strategic Missile Wing Security Controller's summary; the Base Operations Dispatcher's Log for 0800 to 1010Z recording reports from site N-7 of a brilliant light like the sun; seven AF Form 117 questionnaires; thirteen B-52 ASQ-38 radarscope photographs with data plates; the Werlich overlay map at 1:200,000; upper-air rawinsonde data; and a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b7336d0e26",
+"locator": null,
+"node": "doc-minot-1968-blue-book",
+"nodeLabel": "Project Blue Book case file, Minot AFB, 24 October 1968",
+"sourceText": "https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "The seven AF Form 117 questionnaires were completed by A1C Lloyd M. Isley and A1C Robert Michael O'Connor of the 91st MIMS; A1C Joseph Patrick Jablonski, A1C Gregory Adams, SSgt James Frederick Bond and SSgt William E. Smith Jr. of the 862nd SPS; and Major James A. Partin, pilot, 23rd Bomb Squadron, 5th Bomb Wing.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bradford-runyon",
+"label": "Capt. Bradford Runyon"
+},
+"b": {
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"claimTier": 1,
+"id": "e-a46b86d7b9",
+"label": "B-52H co-pilot, JAG-31, named in the contemporaneous debriefing record",
+"note": "Tier 1 for his presence, which is in the Air Force's own 1968 file, not in any later interview. HE APPROACHED THE CENTER FOR UFO STUDIES HIMSELF IN 2000. The direction of contact is the opposite of the Malmstrom pattern and is the control case for this cluster.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "bradford-runyon",
+"label": "Capt. Bradford Runyon"
+},
+"b": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"claimTier": 1,
+"id": "e-2dabc29ad5",
+"label": "B-52H co-pilot based at Minot AFB",
+"note": "His presence is in the Air Force's own 1968 debriefing record.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"b": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"claimTier": 1,
+"id": "e-86ddc6c30d",
+"label": "The B-52 and missile-field events were at and around this installation",
+"note": "The Blue Book file is built on 91st SMW, 862nd Combat Support Group and 5th Bomb Wing records at Minot AFB.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+"b": {
+"cls": "institution",
+"id": "strategic-air-command",
+"label": "Strategic Air Command (SAC)"
+},
+"claimTier": 1,
+"id": "e-bf5d1f1ed5",
+"label": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing",
+"note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-minot-1968-blue-book",
+"label": "Project Blue Book case file, Minot AFB, 24 October 1968"
+},
+"b": {
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"claimTier": 1,
+"id": "e-a389e61911",
+"label": "The Air Force's own investigative file on the event",
+"note": "Werlich's Basic Reporting Data, the FTD final report, seven AF Form 117 questionnaires, thirteen radarscope photographs and the overlay map.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-minot-1968-blue-book",
+"label": "Project Blue Book case file, Minot AFB, 24 October 1968"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-cc98b4a6e5",
+"label": "A Project Blue Book case file, evaluated by the Foreign Technology Division",
+"note": "The final case report of 13 November 1968 is the FTD's conclusions on the data submitted from Minot.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-minotb52ufo-com-5e610ee9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "minotb52ufo.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "bradford-runyon",
+"label": "Capt. Bradford Runyon"
+},
+{
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+{
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota"
+},
+{
+"cls": "domain",
+"id": "d-nuclear",
+"label": "Nuclear Security & Restricted Data"
+},
+{
+"cls": "document",
+"id": "doc-minot-1968-blue-book",
+"label": "Project Blue Book case file, Minot AFB, 24 October 1968"
+}
+],
+"node": null,
+"title": "https://minotb52ufo.com/doc.php",
+"topics": [
+{
+"claims": [
+"c-d1c98cde76",
+"c-cb48071832",
+"c-a26724a896",
+"c-f0a907c1e1",
+"c-31013cb2ac",
+"c-2124f29127"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
+"c-d1c98cde76",
+"c-cb48071832"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-d1c98cde76",
+"c-cb48071832"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+}
+],
+"type": "web page",
+"urls": [
+"https://minotb52ufo.com/doc.php"
+]
+}

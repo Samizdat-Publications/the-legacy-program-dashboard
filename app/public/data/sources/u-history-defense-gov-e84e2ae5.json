@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-36d9e64d81",
+"locator": null,
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"sourceText": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
+"text": "The OSD Historical Office's Key Officials list of 7 July 2026 records Michael Powers as Acting Under Secretary of War (Comptroller)/Chief Financial Officer from 20 May 2026 to present, succeeding Jules W. Hurst III, who performed the duties of the office from 5 September 2025 to 20 May 2026.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-af7a70645d",
+"locator": null,
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"sourceText": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
+"text": "The same list records Powers as Deputy Under Secretary of Defense (Comptroller) from 23 December 2025 to present, so he holds the deputy office and the acting principal office at once.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-history-defense-gov-e84e2ae5",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "michael-powers-comptroller",
+"label": "Michael Powers"
+}
+],
+"node": null,
+"title": "OSD Historical Office, 'Department of Defense Key Officials, September 1947 - July 2026' (7 July 2026), Under Secretaries of Defense (Comptroller)",
+"topics": [
+{
+"claims": [
+"c-36d9e64d81",
+"c-af7a70645d"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-36d9e64d81"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-36d9e64d81"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "document",
+"urls": [
+"https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf"
+]
+}

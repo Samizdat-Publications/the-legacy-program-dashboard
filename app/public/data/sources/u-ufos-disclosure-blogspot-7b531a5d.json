@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [],
+"date": "2026-04",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "lacatski-book-series",
+"label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-0119334d0c",
+"label": "claims a data warehouse of 100+ reports beyond the 38 DIRDs",
+"note": "If accurate, the released deliverable set is a small fraction of what the appropriation produced, and the rest has no public custody trail.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"b": {
+"cls": "document",
+"id": "lacatski-book-series",
+"label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)"
+},
+"claimTier": 2,
+"id": "e-4261f8418f",
+"label": "releasing AAWSAP material through trade publication",
+"note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.",
+"type": "behavioral"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-ufos-disclosure-blogspot-7b531a5d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufos-disclosure.blogspot.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "lacatski-book-series",
+"label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+{
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+}
+],
+"node": null,
+"title": "UFOs-Disclosure — Dr. James Lacatski: This Is UFO Disclosure, As Far As It Can Go",
+"topics": [],
+"type": "article",
+"urls": [
+"https://ufos-disclosure.blogspot.com/2026/04/dr-james-lacatski-this-is-ufo.html"
+]
+}

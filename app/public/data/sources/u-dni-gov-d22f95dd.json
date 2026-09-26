@@ -1,0 +1,61 @@
+{
+"archived": [
+"https://web.archive.org/web/20160928160132/https://www.dni.gov/files/documents/ICD/ICD906.pdf"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "capco-register",
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+},
+"b": {
+"cls": "institution",
+"id": "odni-capco",
+"label": "ODNI Controlled Access Program Coordination Office (CAPCO)"
+},
+"claimTier": 1,
+"id": "e-d6bdae4a26",
+"label": "",
+"note": "The register exists because the directive orders this office to keep it. ICD 906 D.9.b requires CAPCO to 'Manage a CAP Registry that maintains a list of all control systems', and E.4 restates the duty to 'Maintain the CAP Registry, a list of all control systems'. The office is the custodian, not merely the publisher.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "icd-906",
+"label": "ICD 906 - Controlled Access Programs (ODNI)"
+},
+"b": {
+"cls": "institution",
+"id": "odni-capco",
+"label": "ODNI Controlled Access Program Coordination Office (CAPCO)"
+},
+"claimTier": 1,
+"id": "e-98e3e59267",
+"label": "",
+"note": "The directive creates the office's duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dni-gov-d22f95dd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [
+{
+"cls": "document",
+"id": "icd-906",
+"label": "ICD 906 - Controlled Access Programs (ODNI)"
+}
+],
+"node": null,
+"title": "ICD 906, 'Controlled Access Programs', signed 17 October 2015 (Internet Archive capture of dni.gov, 28 Sep 2016)",
+"topics": [],
+"type": "document",
+"urls": []
+}

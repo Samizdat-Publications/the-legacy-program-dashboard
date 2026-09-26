@@ -7,20 +7,32 @@
 {
 "id": "c-2cbc0614c6",
 "source": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
+"sources": [
+{
+"id": "u-gillibrand-senate-gov-7cda156a",
+"locator": null,
+"title": "Gillibrand statement on release of UAP files"
+}
+],
 "text": "Gillibrand: 'I am encouraged that the administration has finally heard my call and the call of millions of Americans to begin unsealing these files. This is another important step, but there is much more work to do. I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-42660bd70c",
 "source": "Hyperlink on gillibrand.senate.gov statement page to war.gov news release article 4480582 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [],
 "text": "Gillibrand's statement links directly to a Department of War release headed 'Department of War Releases Unidentified Anomalous Phenomena Files.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-uni) was rejected in review: source is the hyperlink on Gillibrand's page, not the release"
 },
 {
 "id": "c-e05e5b5007",
 "source": "Inference from Gillibrand's 8 May 2026 statement read against the 17 October 2024 deadline in Sec. 1842(c)(1)",
+"sources": [],
 "text": "A release characterised by the statute's own author as the administration only beginning to meet a 'legal obligation' nineteen months after the statutory deadline is evidence that Secs. 1841-1843 do not compel performance on their own.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "event",

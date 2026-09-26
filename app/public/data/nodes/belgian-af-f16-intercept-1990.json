@@ -7,38 +7,86 @@
 {
 "id": "c-43b4957821",
 "source": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, section 'UFOs reported over Belgium - 1989-1990', https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"sources": [
+{
+"id": "u-cdn-nationalarchives-gov-7c68fd57",
+"locator": null,
+"title": "TNA Highlights Guide, August 2009 tranche"
+}
+],
 "text": "The National Archives' guide to the MoD UFO files opened on 17 August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1ec235b0a2",
 "source": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"sources": [
+{
+"id": "u-cdn-nationalarchives-gov-7c68fd57",
+"locator": null,
+"title": "TNA Highlights Guide, August 2009 tranche"
+}
+],
 "text": "The same guide places a four-page account in DEFE 24/1960 at pages 320 to 324 and describes it: 'The account, from General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff confirms that F-16 pilots obtained \"lock-ons\" with their radars but were unable to explain the phenomena.' It records the UFOs as 'detected by NATO radars and F-16 fighters over Belgium in 1990, which remain unexplained.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-25485f069d",
 "source": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"sources": [
+{
+"id": "u-cdn-nationalarchives-gov-7c68fd57",
+"locator": null,
+"title": "TNA Highlights Guide, August 2009 tranche"
+}
+],
 "text": "The Belgian Air Force put its own account into British hands three and a half years later: 'An official statement from the Belgian Air Force sent to the MoD in November 1993 is at DEFE 24/1970 p86-87.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2319675fc5",
 "source": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"sources": [
+{
+"id": "u-cdn-nationalarchives-gov-7c68fd57",
+"locator": null,
+"title": "TNA Highlights Guide, August 2009 tranche"
+}
+],
 "text": "The UK's own position is in the same file series: 'A letter from Malcolm Rifkind to Lord Hill-Norton explains the MoD was not informed of the incident at the time and concluded there was no threat to the UK DEFE 24/1970 p58-59.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b8b67475ac",
 "source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', Volume 2, OCR text, https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt",
+"sources": [
+{
+"id": "u-archive-org-c3f4dd3e",
+"locator": null,
+"title": "Project Condign Volume 2 OCR text"
+}
+],
 "text": "The UK Defence Intelligence Staff carried Belgian imagery of the event inside its own classified study: Project Condign Volume 2's figure list includes 'FIGURE 34: VIDEO FRAME - BELGIUM 31 MARCH 1990' and 'FIGURE 35: SHAPE UK, RUSSIA, BELGIUM', alongside a figure captioned for the Belgian location Eupen.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1df492425a",
 "source": "AREA52 - DEBRIEFED, batch 14 file 03, 0:50:36-1:00:04, per research/leads/area52-corpus-14.md, read against The National Archives' August 2009 Highlights Guide, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"sources": [
+{
+"id": "u-cdn-nationalarchives-gov-7c68fd57",
+"locator": null,
+"title": "TNA Highlights Guide, August 2009 tranche"
+}
+],
 "text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), the host's own narration says General Wilfred De Brouwer deployed F-16s on the night of 30-31 March 1990 and publicly rejected the mass-hysteria explanation. No record opened for this pass supports the rank, the office as given, or any such public statement; the record that names him gives 'Wilfried de Brouwer, Chief of Operations, Belgian Air Staff'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "event",

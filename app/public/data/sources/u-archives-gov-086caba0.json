@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-04c6f0e280",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download",
+"text": "Bulk-download electronic-records volumes as of the 24 April 2025 update: NRC 11.74MB, FAA 63.10MB, ODNI 1.29MB, OSD 103.37MB; against Project BLUE BOOK still pictures at 36.48GB, Roswell Reports moving images 16.25GB and sanitized Blue Book case files of roughly 379GB across ten files.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-2269b0b17b",
+"label": "ODNI transferred UAP records into the statutory collection",
+"note": "NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-archives-gov-086caba0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "National Archives, UAP bulk downloads",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
+]
+}

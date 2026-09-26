@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-615595731a",
+"locator": null,
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"sourceText": "Burchett to Newsmax, 1 April 2026, as reported by Newsweek 8 April 2026",
+"text": "Burchett said publicly on 1 April 2026 that he had been briefed roughly two weeks earlier on an issue that 'would've set the earth on - this country would've come unglued.'",
+"tier": 2
+}
+],
+"date": "2026-04-01",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-c8d4664034bf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Newsmax",
+"listedOn": [],
+"node": null,
+"title": "Burchett to Newsmax",
+"topics": [],
+"type": "broadcast",
+"urls": []
+}

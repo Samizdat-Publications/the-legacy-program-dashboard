@@ -34,26 +34,61 @@
 {
 "id": "c-5d9d2b673f",
 "source": "GPO CHRG-118hhrg53022 and CHRG-119hhrg61718",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+},
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Chairman of the Committee on Oversight and Accountability at the 26 July 2023 hearing and of the Committee on Oversight and Government Reform at the 9 September 2025 hearing; appears in the printed member roster of both.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-745854b098",
 "source": "The Hill (opinion), 18 February 2025",
+"sources": [],
 "text": "On 11 February 2025 announced the establishment of the Task Force on the Declassification of Federal Secrets under Rep. Luna, and joined her in letters to Rubio, Hegseth and Ratcliffe requesting a briefing on all UAP-related records in their possession.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-t) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-f9d79c4b2f",
 "source": "Fox News, 21 April 2026",
+"sources": [],
 "text": "With Rep. Burlison, launched the House Oversight probe into missing and dead scientists on 20-21 April 2026 after the disappearance of Gen. William Neil McCasland, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disa) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-44c910089d",
 "source": "Inference from CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718 and oversight.house.gov releases",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "CHRG-118hhrg57440, CHRG-119hhrg61718 and oversight.house.gov releases",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+},
+{
+"id": "chrg-118hhrg57440",
+"locator": "CHRG-119hhrg61718 and oversight.house.gov releases",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+},
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "No UAP-related subpoena has been issued by the Committee under Comer's chairmanship despite repeated member requests on the record (Gaetz 2023, Gallaudet 2024, Luna 2026). Reasoning: no subpoena appears in the printed indexes of the three hearing records or in committee releases located through August 2026.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

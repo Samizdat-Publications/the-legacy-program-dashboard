@@ -1,0 +1,83 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6eb313ff59",
+"locator": "filed 12 March 1996, CIK 0000870763",
+"node": "bdm-international",
+"nodeLabel": "BDM International, Inc.",
+"sourceText": "BDM International, Inc., Form 10-K for FY1995, filed 12 March 1996, CIK 0000870763",
+"text": "'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ab59037683",
+"locator": "SEC file number 000-23966",
+"node": "bdm-international",
+"nodeLabel": "BDM International, Inc.",
+"sourceText": "BDM International, Inc., Form 10-K for FY1995, SEC file number 000-23966",
+"text": "Its registered address is 1501 BDM Way, McLean, Virginia. In 1995 its revenue mix was approximately 37 per cent Department of Defense, 25 per cent international defence agencies, 23 per cent civil government and 15 per cent commercial. Vinnell Corporation is named among its subsidiaries.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-acc27d4f11",
+"locator": null,
+"node": "bdm-international",
+"nodeLabel": "BDM International, Inc.",
+"sourceText": "BDM International, Inc., Form 10-K for FY1995",
+"text": "BDM was publicly held 1980-1988, 'when Ford Aerospace Corporation, then a wholly owned subsidiary of Ford Motor Company, acquired all of the outstanding stock of the Predecessor Company'; and 'In October 1990, on behalf of certain investors, The Carlyle Group, L.P. ... formed BDM Holdings, Inc.', which acquired substantially all the assets.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "bdm-international",
+"label": "BDM International, Inc."
+},
+"b": {
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia"
+},
+"claimTier": 1,
+"id": "e-eb1e357ad6",
+"label": "headquartered at 1501 BDM Way, McLean, Virginia",
+"note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-d8f48c2b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bdm-international",
+"label": "BDM International, Inc."
+}
+],
+"node": null,
+"title": "BDM International, Inc., Form 10-K for FY1995",
+"topics": [
+{
+"claims": [
+"c-6eb313ff59"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt"
+]
+}

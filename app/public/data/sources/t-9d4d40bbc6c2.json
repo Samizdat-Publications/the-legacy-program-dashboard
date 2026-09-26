@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5f1c2a62da",
+"locator": null,
+"node": "nick-pope",
+"nodeLabel": "Nick Pope",
+"sourceText": "Nick Pope, social media statement, February 2026, quoted by Sky HISTORY, 2 May 2026",
+"text": "February 2026 statement: 'A while ago, following some digestive issues, I was diagnosed with oesophageal cancer. Unfortunately, it's Stage 4 and has metastasized to my liver' - adding a reference to 'the secrets I've been privy to'.",
+"tier": 2
+}
+],
+"date": "2026-05-02",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-9d4d40bbc6c2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Sky HISTORY",
+"listedOn": [],
+"node": null,
+"title": "Nick Pope, social media statement, February 2026, quoted by Sky HISTORY, 2 May 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

@@ -7,44 +7,100 @@
 {
 "id": "c-ad937732c1",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
+"sources": [
+{
+"id": "n-dird-space-access-where-we-ve-been",
+"locator": null,
+"title": "Space Access: Where We've Been and Where We Could Go"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Space Access: Where We've Been and Where We Could Go\", series \"Acquisition Threat Support\", published 2010-03-08 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1001-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2815d7c58c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
+"sources": [
+{
+"id": "n-dird-space-access-where-we-ve-been",
+"locator": null,
+"title": "Space Access: Where We've Been and Where We Could Go"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d7562738a0",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
+"sources": [
+{
+"id": "n-dird-space-access-where-we-ve-been",
+"locator": null,
+"title": "Space Access: Where We've Been and Where We Could Go"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5c670ba125",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "Author of record per the DIA letter of 9 January 2018 to the Senate Armed Services Committee, item 4: \"Space Access, Dr P Czysz, HyperTech.\"",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d4c7dda74b",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"sources": [
+{
+"id": "n-dird-space-access-where-we-ve-been",
+"locator": null,
+"title": "Space Access: Where We've Been and Where We Could Go"
+}
+],
 "text": "The released cover page reads \"March 2010 / ICOD: 1 December 2009 / DIA-08-1001-006,\" series \"Acquisition Threat Support,\" full title \"Space Access: Where We've Been ... and Where We Could Go.\"",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d9a77af951",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"sources": [
+{
+"id": "n-dird-space-access-where-we-ve-been",
+"locator": null,
+"title": "Space Access: Where We've Been and Where We Could Go"
+}
+],
 "text": "Inside cover administrative note: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\" The author line reads \"Author: [redacted (b)(6)].\"",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cfcd1c2b3d",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"sources": [
+{
+"id": "n-dird-space-access-where-we-ve-been",
+"locator": null,
+"title": "Space Access: Where We've Been and Where We Could Go"
+}
+],
 "text": "Contents are conventional hypersonics and launch engineering: propulsion perspective, hypersonic configuration concepts, thermodynamics and materials, rocket propulsion, launch options, atmospheric variations, and appendices on transatmospheric vehicle operational costs and landing ellipses for hypersonic gliders. No anomalous-physics content.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

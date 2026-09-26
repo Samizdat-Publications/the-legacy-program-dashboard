@@ -44,26 +44,58 @@
 {
 "id": "c-9f893b5607",
 "source": "The Roswell Report: Case Closed (1997), Section 2.1, 'The Missing Nurse and the Pediatrician' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 2.1, 'The Missing Nurse and the Pediatrician'",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "A search of Roswell AAF Station Hospital morning reports and rosters, and of the National Personnel Records Center in St. Louis, found no record that a person named Naomi Maria Selff had ever served at Roswell AAF or in any branch of the US armed forces.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d4e73dc23b",
 "source": "The Roswell Report: Case Closed (1997), Section 2.1, citing 427th AAFBU Squadron M morning reports — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 2.1, citing 427th AAFBU Squadron M morning reports",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The certified morning reports of the 427th AAF Base Unit Squadron 'M' show five Army Nurse Corps nurses at Roswell AAF in July 1947; none reassigned on 8 or 9 July 1947; one reassigned 23 July 1947 to Fort Worth AAF by normal rotation and on active duty there until March 1949; none transferred overseas or killed in a plane crash.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-9236b650a1",
 "source": "The Roswell Report: Case Closed (1997), Section 2.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 2.1",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The Air Force identified 1st Lt. Eileen M. Fanton - assigned to the Roswell AAF Station Hospital 26 December 1946 to 4 September 1947, single, 5'1\", 100 lb, black hair, dark eyes, Roman Catholic, later assigned to the 7510th USAF Hospital, APO 240 New York, in England from June 1952 to April 1955 - as matching Dennis's description of the 'missing nurse' in every particular except the name.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-65ca0c2db7",
 "source": "Carey and Schmitt, 'Witness to Roswell' (2007)",
+"sources": [
+{
+"id": "t-b7e8a58c643d",
+"locator": null,
+"title": "Witness to Roswell"
+}
+],
 "text": "Dennis admitted to Carey and Schmitt that he had deliberately given investigators a false name for the nurse; they wrote that he 'must technically stand impeached as a witness'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

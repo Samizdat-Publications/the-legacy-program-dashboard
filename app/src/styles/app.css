@@ -733,3 +733,20 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
   .results a.res .badge { grid-column: 1 / -1; }
   .results a.res .hit { grid-column: 1 / -1; }
 }
+
+/* ---- phase 8: a claim's sources and web addresses, on every surface ------ */
+.url { overflow-wrap: normal; word-break: normal; }
+
+/* ---- a claim's sources, on every surface -------------------------------- */
+.src-link .src-loc { color: var(--dim); }
+.src-demoted { color: var(--amber); }
+
+/* ---- node page: the claim's sources sit under the claim ------------------ */
+.claim .csrcs { grid-column: 2 / -1; display: flex; flex-wrap: wrap; gap: 2px 14px; min-width: 0; }
+.claim .csrcs .csrc { white-space: normal; overflow-wrap: break-word; min-width: 0; }
+.ev-src { display: block; overflow-wrap: break-word; }
+.ev-src + .ev-src { margin-top: 3px; }
+
+
+/* a tier count never splits from its number ("3 at Tier / 3", critic p8 round 3) */
+.sechead .t1, .sechead .t2, .sechead .t3 { white-space: nowrap; }

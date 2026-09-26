@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+},
+"b": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"claimTier": 2,
+"id": "e-5e66467b04",
+"label": "Coulthart platformed Gerb on Reality Check and endorsed his claims on air",
+"note": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-a2f15edf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "newsnation-reality-check",
+"label": "Reality Check with Ross Coulthart (NewsNation)"
+},
+{
+"cls": "person",
+"id": "ross-coulthart",
+"label": "Ross Coulthart"
+}
+],
+"node": null,
+"title": "NewsNation - 'Ross Coulthart on UAP Gerb's claims: I think he's on the money'",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=z4tCLZc37cg"
+]
+}

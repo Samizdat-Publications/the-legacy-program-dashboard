@@ -1,0 +1,129 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"b": {
+"cls": "location",
+"id": "l-detroit-arsenal",
+"label": "Detroit Arsenal, Warren, Michigan"
+},
+"claimTier": 1,
+"id": "e-751c8f94ee",
+"label": "The CRADA was executed at Detroit Arsenal",
+"note": "GVSC Director Jeffery Langhout signed the agreement on 10 October 2019; the Army released the text on 18 October 2019.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-detroit-arsenal",
+"label": "Detroit Arsenal, Warren, Michigan"
+},
+"b": {
+"cls": "location",
+"id": "l-detroit",
+"label": "Detroit, Michigan"
+},
+"claimTier": 1,
+"id": "e-a7a4e46b7e",
+"label": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
+"note": "The installation sits in Warren, Michigan, within the Detroit metropolitan area that also holds Kit Green's post-agency academic base at Wayne State.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
+"b": {
+"cls": "location",
+"id": "l-detroit-arsenal",
+"label": "Detroit Arsenal, Warren, Michigan"
+},
+"claimTier": 1,
+"id": "e-68acd832a6",
+"label": "Cannon was the named government principal investigator at GVSC",
+"note": "The Army located twenty-nine emails totalling a hundred pages of Cannon's TTSA correspondence and withheld all of them under FOIA exemptions (b)(4) and (b)(5).",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 1,
+"id": "e-d0c3d3a987",
+"label": "Ran the SRI International half of the government's psychoenergetics effort",
+"note": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeffery-langhout",
+"label": "Jeffery Langhout"
+},
+"b": {
+"cls": "location",
+"id": "l-detroit-arsenal",
+"label": "Detroit Arsenal, Warren, Michigan"
+},
+"claimTier": 1,
+"id": "e-3ff511cdad",
+"label": "Langhout signed as GVSC Director",
+"note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"b": {
+"cls": "location",
+"id": "l-la",
+"label": "Los Angeles and Burbank, California"
+},
+"claimTier": 1,
+"id": "e-50b25bdfa1",
+"label": "The Black Vault runs the private FOIA archive from Los Angeles",
+"note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-documents2-theblackvault-68acd925",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "location",
+"id": "l-detroit-arsenal",
+"label": "Detroit Arsenal, Warren, Michigan"
+}
+],
+"node": null,
+"title": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+]
+}

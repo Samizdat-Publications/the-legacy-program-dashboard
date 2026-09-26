@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e860bb278d",
+"locator": null,
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"sourceText": "Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt , opened 2026-09-18",
+"text": "He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-e0cb3584",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+},
+{
+"cls": "document",
+"id": "fouche-iufoc-1998",
+"label": "Fouche's presentation transcript, August 1998"
+},
+{
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+}
+],
+"node": null,
+"title": "Independent second copy of the same text in the archive.org compilation item 'Top Secret TR-3B Astra Documents'",
+"topics": [
+{
+"claims": [
+"c-e860bb278d"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt"
+]
+}

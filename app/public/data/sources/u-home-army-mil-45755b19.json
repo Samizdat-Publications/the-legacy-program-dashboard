@@ -1,0 +1,39 @@
+{
+"archived": [
+"https://web.archive.org/web/20260714170223/https://home.army.mil/meade/"
+],
+"claims": [
+{
+"cls": "location",
+"id": "c-a998f65146",
+"locator": null,
+"node": "l-ft-meade",
+"nodeLabel": "Fort George G. Meade, Maryland",
+"sourceText": "US Army Fort Meade installation page",
+"text": "NSA is headquartered at Fort George G. Meade, Maryland.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-home-army-mil-45755b19",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Army",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-ft-meade",
+"label": "Fort George G. Meade, Maryland"
+}
+],
+"node": null,
+"title": "U.S. Army Fort Meade",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://home.army.mil/meade/"
+]
+}

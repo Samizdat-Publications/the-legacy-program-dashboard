@@ -7,74 +7,140 @@
 {
 "id": "c-d9b8616040",
 "source": "DIA letter to SASC, 9 January 2018, items 5, 8, 11, 14, 31, 34",
+"sources": [
+{
+"id": "n-dia-aatip-letter-2018",
+"locator": "items 5, 8, 11, 14, 31, 34",
+"title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+}
+],
 "text": "EarthTech International personnel authored six of the 38 AAWSAP DIRDs: Puthoff on spacetime metric engineering and Davis on wormholes, antigravity, quantum vacuum energy, laser lightcraft nanosatellites and quantum tomography of negative energy states.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-38f6009f34",
 "source": "The War Zone, 18 January 2019",
+"sources": [],
 "text": "EarthTech's DIRD output was characterised in mainstream defence reporting as relying on borderline fringe science.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-a81af414a3",
 "source": "Inference from the DIRD authorship distribution",
+"sources": [],
 "text": "The concentration of six deliverables on exotic propulsion physics in one small private firm indicates a directed requirement rather than a competitive distribution of scientific topics.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-1c248fc4ca",
 "source": "SEC EDGAR, TTSA Regulation A offering exhibit, 24 July 2020",
+"sources": [],
 "text": "Named in TTSA's SEC offering materials as the research partner for the ADAM Research Project.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.ht) was rejected in review: does not name which exhibit of the filing"
 },
 {
 "id": "c-912593e22f",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "Harold Puthoff has been President and CEO of EarthTech International since 1985.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a4e203bed4",
 "source": "Cover page and administrative note, DIA-08-1004-004",
+"sources": [
+{
+"id": "n-dird-traversable-wormholes",
+"locator": null,
+"title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+}
+],
 "text": "EarthTech International Inc., 11855 Research Blvd, Austin TX 78759, is named on the cover of DIA-08-1004-004 as the author's organisation for an FY2009 product of the DIA Defense Warning Office AAWSA programme.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3fda52b3f4",
 "source": "EarthTech International, About page",
+"sources": [
+{
+"id": "u-earthtech-org-5f60f5b7",
+"locator": null,
+"title": "EarthTech International / Institute for Advanced Studies at Austin"
+}
+],
 "text": "The Institute for Advanced Studies at Austin was founded by Puthoff in 1985 and incorporated under EarthTech International Inc. in 1991.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c27c359945",
 "source": "Cover page of the Green DIRD",
+"sources": [
+{
+"id": "n-dird-green-clinical-medical",
+"locator": "cover page",
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+}
+],
 "text": "The Institute for Advanced Studies at Austin imprint appears on the cover of Christopher Green's AAWSAP medical DIRD.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4eaed235a6",
 "source": "Daniel Oberhaus, Vice, 15 October 2018",
+"sources": [
+{
+"id": "t-489dfbf2791e",
+"locator": null,
+"title": "Daniel Oberhaus, Vice, 15 October 2018"
+}
+],
 "text": "To The Stars Academy 'partnered with research labs founded by Puthoff' to study the ADAM Research Project materials.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-72766a26b5",
 "source": "Inference from its corporate form and the absence of any published analytical output on held samples",
+"sources": [],
 "text": "EarthTech is the structural weak point in every published custody chain in this domain: as a private corporation it is outside FOIA, it has released no analytical reports on the samples it holds, and it sits between a government programme upstream and a public company downstream.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-edfec7dae1",
 "source": "Cover page of 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"sources": [
+{
+"id": "n-dird-green-clinical-medical",
+"locator": "cover page",
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+}
+],
 "text": "The IASA imprint appears on the cover of the AAWSAP medical DIRD authored by Christopher Green, M.D., Ph.D.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ed2264504c",
 "source": "Preface of the Green DIRD",
+"sources": [],
 "text": "The DIRD's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' proposing outsourcing of a medical analysis of archival data on physiological effects of 'exotic propulsion' fields.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: No proper title given for 'the Green DIRD' in the string, and no matching candidate found."
 }
 ],
 "cls": "institution",

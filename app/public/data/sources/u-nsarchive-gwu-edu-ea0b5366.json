@@ -1,0 +1,60 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-53778ecf3d",
+"locator": null,
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum, https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency",
+"text": "The Director on that date was Hillenkoetter. The memorandum itself names only the office; the National Security Archive's catalogue record for it names him as the recipient, and this node already dates his tenure as DCI from May 1947 to October 1950 on a CIA-held clipping. The identification is Tier 2 because the document does not make it.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+"b": {
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+},
+"claimTier": 1,
+"id": "e-ae3e08795c",
+"label": "Submitted directly to the DCI, 5 April 1950",
+"note": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "National Security Archive",
+"id": "u-nsarchive-gwu-edu-ea0b5366",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+{
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter"
+}
+],
+"node": null,
+"title": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
+]
+}

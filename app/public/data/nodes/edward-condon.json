@@ -45,56 +45,122 @@
 {
 "id": "c-705372c2d3",
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:39:03, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"sources": [
+{
+"id": "u-mgln-ai-3ef68ca7",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?' (episode audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:39:03, Michels said Condon 'wrote the McMahon Secrecy Act of 1946, which is the precursor to the Atomic Energy Act of 1954'. The authorship attribution is the speaker's own and is offered without a citation. Neither the McMahon Act nor an authorship claim about it is on this board.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-3b63ff6346",
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:39:52, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:37:53",
+"sources": [],
 "text": "At 0:39:52 in the same episode Michels said Condon was 'in close coordination with Air Force kernels like Robert Hippler', and that a written memo exists in which Hippler tells Condon to show that UFO research was a waste of money. On 12 July 2025 at 0:37:53 Robert Salas independently described letters between an Air Force colonel, rendered by the caption as 'Robert Hitler', and Condon to the same effect. Two speakers, two episodes, one alleged memo, which neither of them produces.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated) was rejected in review: names two episodes; candidate is one"
 },
 {
 "id": "c-8de07fdd20",
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:07:14 to 1:10:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"sources": [
+{
+"id": "u-mgln-ai-a7db3370",
+"locator": null,
+"title": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 12 July 2025, at 1:07:14 and 1:08:25, Robert Salas said that in 1949 J. Edgar Hoover wrote a letter to Congress identifying Condon as, in Salas's own paraphrase, nothing less than a Russian spy; that he holds a copy; that Condon had earlier been asked to resign from the Manhattan Project over an unspecified security issue; and, at 1:09:15 to 1:10:08, that Lewis Branscomb urged Condon in about 1966 to take the Air Force UFO study as a route back to a security clearance. Salas twice says he does not know the details.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-09b44547d7",
 "source": "Los Alamos National Laboratory, 'The Los Alamos Primer', National Security Science https://www.lanl.gov/media/publications/national-security-science/0723-the-los-alamos-primer",
+"sources": [
+{
+"id": "u-lanl-gov-7e3a5b59",
+"locator": null,
+"title": "Los Alamos National Laboratory, 'The Los Alamos Primer', National Security Science"
+}
+],
 "text": "Los Alamos National Laboratory's own account of the Los Alamos Primer states: 'Physicist Edward Condon transcribed the lectures and compiled the notes into the first official Los Alamos technical report, or LA-1.' The lectures were Robert Serber's, given in April 1943, and LA-1 was declassified in 1965. Three American Alchemy episodes describe Condon as having written the Primer; the laboratory's account gives him the transcribing and compiling role and gives the lectures to Serber.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8e19cc8adb",
 "source": "Lt Col Robert R. Hippler to Dr Edward U. Condon, 16 January 1967, Headquarters United States Air Force, pages 1 and 2, https://www.nicap.org/docs/HipplerLetters.pdf",
+"sources": [
+{
+"id": "u-nicap-org-bbecb434",
+"locator": null,
+"title": "Hippler to Condon, 16 January 1967, with Low to Hippler, 27 January 1967 (NICAP document archive scan)"
+}
+],
 "text": "Lt Col Robert R. Hippler of the Science Division, Directorate of Science and Technology, Headquarters USAF, wrote to Condon on 16 January 1967: 'When you have looked into some sightings and examined some Blue Book records and become acquainted with the true state of affairs, you must consider the cost of the Air Force program on UFOs, and determine if the taxpayer should support this for the next decade.' The letter calls itself informal, says it expresses Hippler's own opinion and 'is not binding on you', and names its second subject as 'an apparently obscure understanding of what the Air Force wants'. Two Michels speakers describe this memo from memory without producing it; this is the document.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5537d2e5ab",
 "source": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968, title page and letter of transmittal",
+"sources": [
+{
+"id": "u-files-ncas-org-e5f381eb",
+"locator": "title page and letter of transmittal",
+"title": "Scientific Study of Unidentified Flying Objects (Condon Report)"
+}
+],
 "text": "The report was produced under US Air Force contract 44620-67-C-0035 with the University of Colorado, with Condon as scientific director.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e1a0956512",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"sources": [
+{
+"id": "u-af-mil-de312b60",
+"locator": null,
+"title": "USAF Fact Sheet: Project Blue Book"
+}
+],
 "text": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior Air Force experience as the basis for terminating Blue Book on 17 December 1969.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4ced5b4633",
 "source": "Condon Report, Section V Chapter 2",
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": null,
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "The Condon Report itself documents the 1948 Estimate of the Situation, its rejection by Vandenberg and the destruction of copies — a disclosure buried in Section V Chapter 2 while the conclusions at the front declared the subject unworthy of study.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6d39e2420f",
 "source": "John G. Fuller, 'Flying Saucer Fiasco', Look magazine, May 1968",
+"sources": [
+{
+"id": "t-41f9da625c37",
+"locator": null,
+"title": "Flying Saucer Fiasco"
+}
+],
 "text": "Condon fired investigators David Saunders and Norman Levine after the Low memo was circulated; they contemplated legal action alleging an unscientific approach.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

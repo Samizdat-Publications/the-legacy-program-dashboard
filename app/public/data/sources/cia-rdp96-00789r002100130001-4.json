@@ -1,0 +1,47 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-ea02501d4d",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4",
+"text": "A seventh cryptonym belongs in the sequence. The DIA SUN STREAK Project's FY 86 congressional budget justification book line is given as 'identified as DRAGOON ABSORB' in the memorandum of 8 April 1985 recommending a twelve-person prototype operational group.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00789r002100130001-4",
+"identifiers": [
+"CIA-RDP96-00789R002100130001-4"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4",
+"topics": [
+{
+"claims": [
+"c-ea02501d4d"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4"
+]
+}

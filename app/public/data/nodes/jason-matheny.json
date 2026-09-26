@@ -36,20 +36,26 @@
 {
 "id": "c-dcbabdfe26",
 "source": "RAND Corporation profile page",
+"sources": [],
 "text": "Matheny is president and CEO of RAND; his prior posts include Director of IARPA and Deputy Assistant to the President for Technology and National Security with the Office of Science and Technology Policy.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:rand.org/about/people/m/matheny_jason.html) was rejected in review: generic string does not name whose profile"
 },
 {
 "id": "c-5762899738",
 "source": "RAND publication pages for DRU-1571 and RRA2475-1",
+"sources": [],
 "text": "RAND published George Kocher's 'UFOs: What To Do?' as draft DRU-1571 in November 1968, and cited it again in its own 2023 report RRA2475-1 on public UAP reports.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:rand.org/pubs/drafts/DRU1571.html) was rejected in review: names two RAND documents; candidate is only one"
 },
 {
 "id": "c-15906049c1",
 "source": "Rep. Eric Burlison, quoted by Cybernews, 25 June 2026, and NewsNation, 15 May 2026",
+"sources": [],
 "text": "Burlison has stated that his investigation is 'following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:cybernews.com/news/burlison-ufo-uap-project-blue) was rejected in review: names Cybernews and NewsNation; two sources"
 }
 ],
 "cls": "person",
@@ -135,7 +141,7 @@
 "status": "active",
 "sub": "President and CEO, RAND Corporation; former Director, IARPA; former Deputy Assistant to the President for Technology and National Security and Deputy Director, OSTP",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 877 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 876 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

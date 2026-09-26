@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5b18a9c6bd",
+"locator": null,
+"node": "karl-nell",
+"nodeLabel": "Karl E. Nell",
+"sourceText": "Karl Nell, SALT iConnections conference, May 2024",
+"text": "'Non-human intelligence exists, non-human intelligence has been interacting with humanity. This interaction is not new, and it's been ongoing, and unelected people in the government are aware of that. There's zero doubt.'",
+"tier": 2
+}
+],
+"date": "2024-05",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-41f93e23d98d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SALT iConnections",
+"listedOn": [],
+"node": null,
+"title": "SALT iConnections conference, May 2024",
+"topics": [
+{
+"claims": [
+"c-5b18a9c6bd"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "broadcast",
+"urls": []
+}

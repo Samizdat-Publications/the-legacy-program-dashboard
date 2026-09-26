@@ -7,44 +7,94 @@
 {
 "id": "c-58b4ffae67",
 "source": "DoD FOIA 24-F-0266, AARO Invitations to Interview Mr. David Grusch",
+"sources": [
+{
+"id": "foia-24-f-0266",
+"locator": "AARO Invitations to Interview Mr. David Grusch",
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+}
+],
 "text": "AARO logged nine contacts or contact attempts between 8 June 2023 and 8 January 2024 seeking a Grusch interview, most routed through intermediaries or Senate Intelligence Committee staff.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1ed966424b",
 "source": "DoD FOIA 24-F-0266",
+"sources": [
+{
+"id": "foia-24-f-0266",
+"locator": null,
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+}
+],
 "text": "Grusch agreed on 10 November 2023 to a 14 November 2023 interview in Arlington, VA and did not appear; a 19 November email invitation citing legal authority was declined on security grounds.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d229031ce2",
 "source": "DoD FOIA 24-F-0266",
+"sources": [
+{
+"id": "foia-24-f-0266",
+"locator": null,
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+}
+],
 "text": "A March 2023 DoD memorandum signed by Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, is cited in the file as the access authority AARO invoked.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b919cdaa5e",
 "source": "AARO Memorandum for Record, FOIA 24-F-0266",
+"sources": [
+{
+"id": "foia-24-f-0266",
+"locator": null,
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+}
+],
 "text": "AARO's memorandum for record of 8 January 2024 documents at least eight distinct approaches to Grusch between 8 June 2023 and 19 November 2023 and a scheduled 14 November 2023 interview he did not attend.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1786f3dd2c",
 "source": "AARO Memorandum for Record, FOIA 24-F-0266",
+"sources": [
+{
+"id": "foia-24-f-0266",
+"locator": null,
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+}
+],
 "text": "The memorandum concludes that 'Mr. Grusch had no intention of providing AARO with information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-19b75f5fb6",
 "source": "AARO Memorandum for Record, FOIA 24-F-0266",
+"sources": [
+{
+"id": "foia-24-f-0266",
+"locator": null,
+"title": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+}
+],
 "text": "An ODNI memorandum dated 8 January 2024 affirmed AARO's legal authority to receive classified UAP-related disclosures.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1cc46ecdf3",
 "source": "Inference from the memorandum's own itemised contact log",
+"sources": [],
 "text": "The memorandum records no offer to interview Grusch in a venue with ICIG or congressional counsel present, which is the only venue consistent with the PPD-19 process he had already invoked; the file therefore documents persistence, not accommodation.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

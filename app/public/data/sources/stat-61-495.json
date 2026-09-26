@@ -1,0 +1,326 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-962303bc69",
+"locator": null,
+"node": "harry-s-truman",
+"nodeLabel": "Harry S. Truman",
+"sourceText": "National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "Section 102(d)(5) of the same Act is the residual authority every later covert-action directive is written under: the Agency is 'to perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d042156617",
+"locator": null,
+"node": "harry-s-truman",
+"nodeLabel": "Harry S. Truman",
+"sourceText": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, secs. 101(a), 102(a), 201(a), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The statute approved on 26 July 1947 creates, in one instrument, the Council, the Agency and the military establishment: 'There is hereby established a council to be known as the National Security Council'; 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence, who shall be the head thereof'; 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bb974d22b7",
+"locator": "sec. 202(a",
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"sourceText": "National Security Act of 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The same section makes the office the President's principal national-security assistant, with duties to 'Establish general policies and programs for the National Military Establishment and for all of the departments and agencies therein' and to 'Exercise general direction, authority, and control over such departments and agencies'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bb974d22b7",
+"locator": null,
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"sourceText": "National Security Act of 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The same section makes the office the President's principal national-security assistant, with duties to 'Establish general policies and programs for the National Military Establishment and for all of the departments and agencies therein' and to 'Exercise general direction, authority, and control over such departments and agencies'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-dd8c9bc261",
+"locator": "sec. 202(a",
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"sourceText": "National Security Act of 1947, Chapter 343, approved 26 July 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The office he held first was created by statute, and its holder must be a civilian: 'There shall be a Secretary of Defense, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate: Provided, That a person who has within ten years been on active duty as a commissioned officer in a Regular component of the armed services shall not be eligible for appointment as Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-dd8c9bc261",
+"locator": null,
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"sourceText": "National Security Act of 1947, Chapter 343, approved 26 July 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The office he held first was created by statute, and its holder must be a civilian: 'There shall be a Secretary of Defense, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate: Provided, That a person who has within ten years been on active duty as a commissioned officer in a Regular component of the armed services shall not be eligible for appointment as Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c26feaec5b",
+"locator": "sec. 202(a",
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"sourceText": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 20, 3 January 2025, 0:12:27; National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 20, 3 January 2025, at 0:12:27, Ramsay read aloud from John Lear's 1987 statement that 'several committed suicide, the most prominent of which was General James V. Forestall who jumped to his death from a 16th story hospital window. General Forestall's medical records are sealed to this day.' The document's rank is wrong: the statute creating the office he held requires a civilian appointee and bars any commissioned officer on active duty within the previous ten years.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-369397190e",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "National Security Act of 1947, 61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The Act also creates the National Security Resources Board (sec. 103), the Departments of the Army, Navy and Air Force and the United States Air Force (secs. 205 to 208), the Joint Chiefs of Staff (sec. 211) and the Munitions Board (sec. 213).",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-91ce4e14b1",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "SECTION 102(d)(5) IS THE CLAUSE THAT MATTERS. It permits the Agency to perform such other functions and duties related to intelligence as the National Security Council may from time to time direct, and it is the authority expressly invoked by NSC 10/2 of 18 June 1948 and again by NSC 5412 of 15 March 1954. The United States covert-action programme rests on a residual clause in a reorganisation statute, not on a grant of authority written for it.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-c8c2c7821b",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The enrolled text carries the sidenote 'July 26,1947 [S. 758] [Public Law 253]' and closes 'Approved July 26, 1947.' Its short title clause reads 'That this Act may be cited as the National Security Act of 1947.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-fa39ba5965",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "National Security Act of 1947 sec. 201(a), 61 Stat. 499, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "THE ACT DID NOT CREATE THE DEPARTMENT OF DEFENSE, and the common claim that it did is wrong on the text. Section 201(a) reads 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof'. The renaming to Department of Defense came with the amendments of 10 August 1949, ch. 412, 63 Stat. 579.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-fea5c38fa2",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "National Security Act of 1947 sec. 102(a), 61 Stat. 497, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "Section 102(a): 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The Agency is created UNDER the Council, not beside it.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-0be21e2ad8",
+"locator": "absence of a signature line",
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "61 Stat. 495, absence of a signature line, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "NOT VERIFIED, AND RECORDED AS UNVERIFIED RATHER THAN ASSUMED: the Statutes at Large prints only 'Approved July 26, 1947' and names no President. Truman's signature is universally reported and no primary signing document was opened for it in this pass.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-0be21e2ad8",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "61 Stat. 495, absence of a signature line, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "NOT VERIFIED, AND RECORDED AS UNVERIFIED RATHER THAN ASSUMED: the Statutes at Large prints only 'Approved July 26, 1947' and names no President. Truman's signature is universally reported and no primary signing document was opened for it in this pass.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-14b71b2e9b",
+"locator": null,
+"node": "sidney-souers",
+"nodeLabel": "Rear Adm. Sidney W. Souers",
+"sourceText": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, sec. 101(c), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The second office is statutory. Section 101(c) of the National Security Act of 1947: 'The Council shall have a staff to be headed by a civilian executive secretary who shall be appointed by the President, and who shall receive compensation at the rate of $10,000 a year.'",
+"tier": 1
+}
+],
+"date": "1947-07-26",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+"b": {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+"claimTier": 1,
+"id": "e-cee2233a45",
+"label": "Chartered under the residual clause, section 102(d)(5)",
+"note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-v-forrestal",
+"label": "James V. Forrestal"
+},
+"b": {
+"cls": "domain",
+"id": "d-mj12",
+"label": "Majestic-12 Corpus"
+},
+"claimTier": 2,
+"id": "e-55ecd6c9c8",
+"label": "The 1987 Lear document gives him a military rank his own office forbade",
+"note": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-v-forrestal",
+"label": "James V. Forrestal"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-b16a0fe6c7",
+"label": "First Secretary of Defense, 17 September 1947 to 28 March 1949",
+"note": "The National Security Act of 1947 created the office at section 202(a) and required its holder to be appointed from civilian life; the Office of the Historian's persons list dates his tenure to the day.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-fdc6a7ab1c",
+"label": "Section 102(a) creates the Agency, under the Council",
+"note": "'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The preposition is the point: the Agency sits under the Council.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+"b": {
+"cls": "institution",
+"id": "national-security-council",
+"label": "National Security Council"
+},
+"claimTier": 1,
+"id": "e-4a1c824bec",
+"label": "Section 101 creates the Council",
+"note": "The Council is a creature of statute, not of executive practice. 50 U.S.C. 3021's source credit traces it to title I, section 101 of the Act at 61 Stat. 496.",
+"type": "legislative"
+}
+],
+"era": "0",
+"host": null,
+"id": "stat-61-495",
+"identifiers": [
+"61 Stat. 495"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination"
+},
+{
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman"
+},
+{
+"cls": "person",
+"id": "james-v-forrestal",
+"label": "James V. Forrestal"
+},
+{
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+{
+"cls": "person",
+"id": "sidney-souers",
+"label": "Rear Adm. Sidney W. Souers"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+},
+"title": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"topics": [
+{
+"claims": [
+"c-962303bc69",
+"c-d042156617",
+"c-bb974d22b7",
+"c-bb974d22b7",
+"c-dd8c9bc261",
+"c-dd8c9bc261",
+"c-c26feaec5b",
+"c-369397190e",
+"c-91ce4e14b1",
+"c-c8c2c7821b",
+"c-fa39ba5965",
+"c-fea5c38fa2",
+"c-0be21e2ad8",
+"c-0be21e2ad8",
+"c-14b71b2e9b"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-962303bc69",
+"c-d042156617"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-c26feaec5b"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+]
+}

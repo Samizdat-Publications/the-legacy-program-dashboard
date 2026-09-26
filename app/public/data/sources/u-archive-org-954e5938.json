@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-831f19c872",
+"locator": null,
+"node": "d-nuc",
+"nodeLabel": "Nuclear Weapons Complex Nexus",
+"sourceText": "CNN coverage, National Press Club, 27 September 2010",
+"text": "Robert Salas and other former missile officers stated publicly at a National Press Club event on 27 September 2010 that UFOs were observed in connection with nuclear missile disruptions.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-b55f2bd900",
+"label": "Spoke on the record and has a signed affidavit on file",
+"note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-defa418c6c",
+"label": "Convened and hosted the National Press Club event",
+"note": "Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-954e5938",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+{
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+}
+],
+"node": null,
+"title": "CNN coverage, National Press Club, 27 September 2010",
+"topics": [
+{
+"claims": [
+"c-831f19c872"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+]
+}

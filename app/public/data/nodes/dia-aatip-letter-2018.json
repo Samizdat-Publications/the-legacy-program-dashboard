@@ -7,26 +7,52 @@
 {
 "id": "c-186d26209b",
 "source": "DIA letter to SASC, 9 January 2018",
+"sources": [
+{
+"id": "n-dia-aatip-letter-2018",
+"locator": null,
+"title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+}
+],
 "text": "DIA wrote to Senators John McCain and Jack Reed on 9 January 2018, over the signature of Brian L. Jenkins, Chief of Records Management and Information Services, enclosing a list of all 38 products produced under AATIP.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-82e9a28dc8",
 "source": "DIA letter to SASC, 9 January 2018",
+"sources": [
+{
+"id": "n-dia-aatip-letter-2018",
+"locator": null,
+"title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+}
+],
 "text": "'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ccd80da90f",
 "source": "DIA letter to SASC, 9 January 2018",
+"sources": [
+{
+"id": "n-dia-aatip-letter-2018",
+"locator": null,
+"title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+}
+],
 "text": "The list identifies items 37 and 38 as two versions of the same high-energy laser weapons paper, one SECRET/NOFORN and one UNCLASSIFIED//FOUO.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-06922cd142",
 "source": "Inference from the letter's date, addressees and introductory framing",
+"sources": [],
 "text": "The need for DIA to introduce the program to the Senate Armed Services Committee by letter in January 2018 establishes that the committee had not been briefed on it during its ten-year life, which is the direct structural consequence of funding it through the classified appropriation rather than the authorization.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

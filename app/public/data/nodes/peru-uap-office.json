@@ -7,32 +7,60 @@
 {
 "id": "c-4a6ceea41b",
 "source": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+"sources": [
+{
+"id": "u-andina-pe-6b4ed234",
+"locator": null,
+"title": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013"
+}
+],
 "text": "The office is named Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA) and sits under the Dirección de Intereses Aéreos Espaciales (DINAE) of the Fuerza Aérea del Perú. Its reopening and a public reporting channel were announced on 18 October 2013 by the head of DINAE, Coronel FAP Julio Vucetich Abanto, who said the service was acting on an increase in sightings being reported to the media: 'Nos interesa que la población que observa fenómenos aparentemente no convencionales, que le causan extrañeza o preocupación, conozca que existe una institución que hará un adecuado estudio e investigación de su información para darles una respuesta. Esto no ocurría antes.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d2894f633a",
 "source": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+"sources": [
+{
+"id": "u-andina-pe-6b4ed234",
+"locator": null,
+"title": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013"
+}
+],
 "text": "DIFAA had been closed for five years before the 2013 reopening, 'a causa de problemas administrativos'. The reopening was announced at an FAP-organised 'Encuentro sobre Fenómenos Aéreos Anómalos' addressed to the Nazca Lines question, at which the invited archaeologist Manuel Aguirre Morales said there is no evidence linking the Nazca lines to UFOs or extraterrestrial presence.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e8123b0a47",
 "source": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+"sources": [
+{
+"id": "u-andina-pe-6b4ed234",
+"locator": null,
+"title": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013"
+}
+],
 "text": "Andina framed the reopening regionally: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9fe6a3e428",
 "source": "Negative finding of this pass",
+"sources": [],
 "text": "Not established in this pass: DIFAA's founding legal instrument, its current name and reporting line, its case output, whether it publishes findings, and whether it has ever had contact with any United States body. No US-Peru link was found and none is asserted.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: Board's own negative finding, not a source."
 },
 {
 "id": "c-f8006a652b",
 "source": "BBC Mundo, 5 February 2014, indexed via Google News",
+"sources": [],
 "text": "BBC Mundo reported on 5 February 2014 under the headline 'Por qué Perú reabrió la oficina de búsqueda de ovnis' that Peru had reopened its official UFO investigation office.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:bbc.com/mundo) was rejected in review: candidate URL is BBC Mundo home page; outlet and date only"
 }
 ],
 "cls": "institution",

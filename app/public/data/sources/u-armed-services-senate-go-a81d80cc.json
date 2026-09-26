@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-armed-services-senate-go-a81d80cc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Armed Services Committee",
+"listedOn": [
+{
+"cls": "event",
+"id": "hearing-2024-11-19",
+"label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office"
+}
+],
+"node": null,
+"title": "Senate Armed Services - AARO opening remarks 11/19/24",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.armed-services.senate.gov/imo/media/doc/aaro_opening_remarks.pdf"
+]
+}

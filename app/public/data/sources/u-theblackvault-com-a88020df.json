@@ -1,0 +1,174 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-7a48858a2d",
+"locator": null,
+"node": "faa",
+"nodeLabel": "Federal Aviation Administration",
+"sourceText": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "The surviving file records the agency's own process in dated documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, and transcripts of interviews with the three JAL crew members on 2, 5 and 15 January 1987.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-26a4ae8121",
+"locator": null,
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sourceText": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "The archive itemises 1,569 pages across thirty-five or more documents, including FAA Form 8020-5 Aircraft Incident Record; FAA Form 3112 Inspection and Surveillance Record; FAA Form 1600-32-1 notes of interviews with three crew members; a written statement by Capt. Terauchi in Japanese, 18 pages, and in English translation, 13 pages; a transcript of an interview with Capt. Terauchi dated 2 January 1987; with First Officer Tamefugi dated 5 January 1987; with Flight Engineer Tsukuba dated 15 January 1987; radar data and computer plots; and a 40-page folder of 'Klass and Haines inquires and responses'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-ca6b9bee55",
+"locator": null,
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sourceText": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "STATED LIMITATION. NO PAGE OF THIS FILE WAS READ BY THIS BOARD. One document was downloaded, 2.8 MB, and is a scan with no text layer; the National Archives catalogue is a JavaScript application the fetch tool could not render. The file's existence, extent and itemisation are established; its contents are known only through Klass's quotations and The Black Vault's description.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-c6c924d1b0",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "He located the federal file on Japan Air Lines flight 1628 at the National Archives after being told twice by the FAA that it had been or would be destroyed. In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!' The file is in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against an initial FAA estimate of 107.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-0a151c41b9",
+"locator": null,
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"sourceText": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "Its archive of that file itemises 1,569 pages across thirty-five or more documents and publishes them individually, including the FAA's own forms, Captain Terauchi's written statement in Japanese and in English translation, and dated January 1987 interview transcripts with all three crew members.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+"b": {
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+"claimTier": 1,
+"id": "e-8aec7286c7",
+"label": "A civil-aviation case with a crew, an ATC transcript and a radar record",
+"note": "The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 1,
+"id": "e-fc29e7ebf3",
+"label": "Federal file recovered after seventeen years and two destruction notices",
+"note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+"claimTier": 1,
+"id": "e-1a96f85ad5",
+"label": "Requester and locator of the National Archives file",
+"note": "In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!'",
+"type": "research"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-a88020df",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "faa",
+"label": "Federal Aviation Administration"
+},
+{
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986"
+},
+{
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+}
+],
+"node": null,
+"title": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"topics": [
+{
+"claims": [
+"c-7a48858a2d",
+"c-26a4ae8121",
+"c-ca6b9bee55",
+"c-0a151c41b9"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-c6c924d1b0"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-c6c924d1b0"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+]
+}

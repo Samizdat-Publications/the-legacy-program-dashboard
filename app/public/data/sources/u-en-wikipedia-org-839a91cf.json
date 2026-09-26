@@ -1,0 +1,77 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-eeb3f713b0",
+"locator": null,
+"node": "l-white-sands",
+"nodeLabel": "White Sands Missile Range, New Mexico",
+"sourceText": "Wikipedia, White Sands Missile Range, citing Army range histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "White Sands Proving Ground was established 9 July 1945; the Trinity test occurred 16 July 1945 near its northern boundary; 67 of 100 captured V-2 rockets were fired here 1946-1951 and 35 Operation Paperclip scientists were working at the proving ground by 1946.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference"
+},
+"b": {
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+"claimTier": 2,
+"id": "e-bf6a67e3cf",
+"label": "The green fireballs conference was convened at Los Alamos",
+"note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat.",
+"type": "research"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+"b": {
+"cls": "location",
+"id": "l-white-sands",
+"label": "White Sands Missile Range, New Mexico"
+},
+"claimTier": 2,
+"id": "e-ae3ccf63e9",
+"label": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
+"note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-839a91cf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico"
+},
+{
+"cls": "location",
+"id": "l-white-sands",
+"label": "White Sands Missile Range, New Mexico"
+}
+],
+"node": null,
+"title": "Wikipedia - White Sands Missile Range",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
+]
+}

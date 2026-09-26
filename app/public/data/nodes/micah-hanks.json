@@ -19,14 +19,24 @@
 {
 "id": "c-55734bd54d",
 "source": "The Debrief, About page, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-thedebrief-org-8aa419c7",
+"locator": "retrieved 12 Aug 2026",
+"title": "The Debrief - About"
+}
+],
 "text": "Micah Hanks is Co-Founder/Creator and Editor-in-Chief of The Debrief.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4abc42a8c5",
 "source": "The Debrief byline and dateline, 17 October 2024",
+"sources": [],
 "text": "Hanks authored The Debrief's 17 October 2024 report on Immaculate Constellation.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation) was rejected in review: outlet and date only; candidate row shows no date"
 }
 ],
 "cls": "person",

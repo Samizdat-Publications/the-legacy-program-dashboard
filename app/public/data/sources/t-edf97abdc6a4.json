@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-f969636124",
+"locator": null,
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "National Military Command Center Memorandum for the Record, 8 November 1975",
+"text": "The NMCC Memorandum for the Record of 8 November 1975, subject 'Unidentified Sightings', records seven height-finder radar cuts at Malmstrom at 0253 EST between 9,500 and 15,500 feet, simultaneous ground observation of lights and jet noise, FAA cross-tell showing no jet aircraft within 100 NM, and two F-106s scrambled at 0254 EST and airborne at 0257 EST; at 0344 EST the objects could not be intercepted.",
+"tier": 1
+}
+],
+"date": "1975-11-08",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-edf97abdc6a4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Military Command Center",
+"listedOn": [],
+"node": null,
+"title": "National Military Command Center Memorandum for the Record",
+"topics": [
+{
+"claims": [
+"c-f969636124"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+}
+],
+"type": "document",
+"urls": []
+}

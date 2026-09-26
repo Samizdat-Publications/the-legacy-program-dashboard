@@ -1,0 +1,82 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4ec1e2635b",
+"locator": null,
+"node": "donald-kerr",
+"nodeLabel": "Donald M. Kerr",
+"sourceText": "WashingtonExec, 6 November 2018",
+"text": "MITRE's Board of Trustees elected former Principal Deputy Director of National Intelligence Donald Kerr as chairman, reported 6 November 2018, at the same meeting that elected former Rep. Mike Rogers, ex-chairman of the House Permanent Select Committee on Intelligence, as vice chairman.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fa90c80e3f",
+"locator": "coverage of the 2018 MITRE trustee election",
+"node": "donald-kerr",
+"nodeLabel": "Donald M. Kerr",
+"sourceText": "Public ODNI and NRO biographical record, as summarised in WashingtonExec's 2018 report on his MITRE election",
+"text": "Kerr previously directed Los Alamos National Laboratory and the National Reconnaissance Office before becoming PDDNI.",
+"tier": 2
+}
+],
+"date": "2018-11",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr"
+},
+"b": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"claimTier": 2,
+"id": "e-09d5295695",
+"label": "Directed Los Alamos before the NRO and ODNI",
+"note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 1,
+"id": "e-48f682bb07",
+"label": "Chairman of MITRE's Board of Trustees from November 2018",
+"note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-washingtonexec-com-7b03448f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "washingtonexec.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr"
+}
+],
+"node": null,
+"title": "WashingtonExec",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/"
+]
+}

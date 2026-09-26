@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3be18f726d",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "American Alchemy with Jesse Michels, 'The CIA Scientist Who Cracked Antigravity (Townsend Brown Documentary)', 5 October 2024, 0:22:15 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4979487868.mp3?updated=1751926015",
+"text": "On American Alchemy with Jesse Michels, 5 October 2024, the narration of the Townsend Brown documentary said that when Tom Valone of the Integrity Research Institute tried to locate a copy of a 1952 Naval Research Laboratory appraisal of Brown's experiments titled 'The TT Brown Electrogravity Device', the laboratory no longer had it (0:22:15).",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-4dba9712",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'The CIA Scientist Who Cracked Antigravity (Townsend Brown Documentary)', episode audio",
+"topics": [
+{
+"claims": [
+"c-3be18f726d"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4979487868.mp3?updated=1751926015"
+]
+}

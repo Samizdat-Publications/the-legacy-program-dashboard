@@ -7,26 +7,58 @@
 {
 "id": "c-9476ef4048",
 "source": "OASD FOIA release, case 97-F-1677, September 1997",
+"sources": [
+{
+"id": "foia-97-f-1677",
+"locator": "September 1997",
+"title": "Unexplained Lights, (FOIA case 97-F-1677)"
+}
+],
 "text": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB in November 1975 and record that they could not be intercepted by multiple F-106 fighters.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8e66f1924e",
 "source": "24th NORAD Region Senior Directors Log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"sources": [
+{
+"id": "u-archive-org-8805ff8f",
+"locator": null,
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation"
+}
+],
 "text": "The 1975 record at this installation is a continuous operational log, not a report. The 24th NORAD Region Senior Director's Log covers 7 to 19 November 1975 with timed entries naming missile sites M-1, L-3, Lima, L-6, K-1, K-4, L-1, E-1, M-8, R-3 and R-4, the Harlowton launch control facility, radar track J330, and two F-106s scrambled at 0754Z on 8 November. Its final entry is marked in the original as the last pertaining to these incidents.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a7d9f2e7c3",
 "source": "24th NORAD Region Senior Directors Log, 8 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"sources": [
+{
+"id": "u-archive-org-8805ff8f",
+"locator": null,
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation"
+}
+],
 "text": "The non-interception detail that the board's existing claim attributes to FOIA case 97-F-1677 is independently corroborated by the log's own words: '8 Nov 75 (0905Z) - From SAC CP: L-sites had fighters and objects; fighters did not get down to objects.' and '8 Nov 75 (0915Z) - From SAC CP: From four different points: Observed objects and fighters; when fighters arrived in the area, the lights went out; when fighters departed, the lights came back on; to NCOC.' Note that The Black Vault's landing page for 97-F-1677 reproduces no document text, so the log is the better citation for this claim.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eb6ec9b42c",
 "source": "341st SMW history, Jan-Mar 1967, pp 20-21, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "n-doc-341-smw-history-1967",
+"locator": null,
+"title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
+}
+],
 "text": "Malmstrom sits on both sides of the 1967 engineering question as well as the 1975 sighting record. The 341st SMW history records that a power-switching test was conducted at Malmstrom with the Montana Power Company on 28 March 1967 at the request of OOAMA as part of the Echo Flight investigation, on the 50 kV line between the Harlowton and Glengarry substations, and that after the tests commercial power switching was ruled out as the cause.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "location",

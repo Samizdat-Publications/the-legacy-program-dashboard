@@ -1,0 +1,71 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"claimTier": 1,
+"id": "e-30c7b9de6c",
+"label": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
+"note": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+},
+"claimTier": 1,
+"id": "e-0c1e37ec0b",
+"label": "Serves the Task Force via the Burlison advisory role",
+"note": "Burlison's announcement states Grusch's role includes serving on the Task Force on the Declassification of Federal Secrets, the body that held the September 2025 UAP hearing and hosted the June 2026 press conference.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-burlison-house-gov-39e36367",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "institution",
+"id": "task-force-declassification-federal-secrets",
+"label": "Task Force on the Declassification of Federal Secrets"
+}
+],
+"node": null,
+"title": "Rep. Burlison press release",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+]
+}

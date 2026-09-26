@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "walter-haut",
+"label": "Walter Haut"
+},
+"b": {
+"cls": "person",
+"id": "don-schmitt",
+"label": "Donald R. Schmitt"
+},
+"claimTier": 2,
+"id": "e-bd781c8cb0",
+"label": "Schmitt drafted and embargoed the 2002 Haut affidavit",
+"note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-haut",
+"label": "Walter Haut"
+},
+"b": {
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"claimTier": 2,
+"id": "e-ee4ca9a907",
+"label": "Haut's 8 July 1947 press release named Marcel as the recovering officer",
+"note": "The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-47abf481",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "document",
+"id": "the-roswell-incident-1980",
+"label": "The Roswell Incident (Berlitz and Moore, 1980)"
+},
+{
+"cls": "person",
+"id": "walter-haut",
+"label": "Walter Haut"
+}
+],
+"node": null,
+"title": "Walter Haut - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Walter_Haut"
+]
+}

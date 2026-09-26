@@ -1,0 +1,128 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-79cbde141a",
+"locator": null,
+"node": "dodig-2021-000806-foia",
+"nodeLabel": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
+"sourceText": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"text": "The 'Potential Benefit(s)' section was withheld under FOIA exemption (b)(1) citing military plans, weapons systems or operations and vulnerabilities or capabilities relating to national security; background sections marked (S) and (S//NF) were blacked out entirely.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9f31f9809f",
+"locator": null,
+"node": "dodig-2021-000806-foia",
+"nodeLabel": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
+"sourceText": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"text": "Details and outcomes of an October 2020 meeting between Space, Intelligence, Engineering and Oversight leadership and the UAP Task Force Director were withheld entirely under exemption (b)(5) deliberative process; methodology steps 3-5 are classified SECRET/Five Eyes and steps 6-8 fully redacted.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e9c4237487",
+"locator": null,
+"node": "dodig-2021-000806-foia",
+"nodeLabel": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
+"sourceText": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"text": "DoW OIG FOIA case DODIG-2021-000806 fourth interim release, five pages, with approximately 245 pages still pending review.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-df1887e127",
+"locator": null,
+"node": "dodig-2021-000806-foia",
+"nodeLabel": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
+"sourceText": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"text": "The Department's disclosure posture in mid-2026 releases imagery and withholds methodology. Reasoning: the same department published AC-130J gun-camera video of an unresolved engagement in August 2026 while in June 2026 withholding the description of its UAP evaluation methodology under (b)(1) national security.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-9cd38dd538",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"text": "Requester of record in Department of War OIG FOIA case DODIG-2021-000806, whose fourth interim release of five pages was published 16 June 2026 with approximately 245 pages still pending.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dodig-2021-000806-foia",
+"label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-37c43f146f",
+"label": "imagery released, methodology withheld",
+"note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "document",
+"id": "dodig-2021-000806-foia",
+"label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology"
+},
+"claimTier": 1,
+"id": "e-e84d8ea2bb",
+"label": "FOIA requester of record",
+"note": "The fourth interim release of five pages, with approximately 245 pages still pending, shows the Department withholding its own UAP evaluation methodology.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-49569d6f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "dodig-2021-000806-foia",
+"label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+}
+],
+"node": null,
+"title": "The Black Vault, DoW OIG FOIA release",
+"topics": [
+{
+"claims": [
+"c-79cbde141a",
+"c-9f31f9809f",
+"c-e9c4237487",
+"c-df1887e127"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/"
+]
+}

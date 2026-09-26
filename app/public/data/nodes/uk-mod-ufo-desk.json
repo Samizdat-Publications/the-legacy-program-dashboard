@@ -7,20 +7,38 @@
 {
 "id": "c-21abe5bd88",
 "source": "The National Archives, UFO files release page, June 2013",
+"sources": [],
 "text": "The final tranche of released files covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and documents 'the reasons behind the closure of the UFO desk, the handling of the largest number of UFO sighting reports received in 30 years and the disclosure campaign for the truth, which was sparked by the closure of the UFO Desk'.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf) was rejected in review: string names the release page; candidate is a PDF research guide"
 },
 {
 "id": "c-3538600d4f",
 "source": "The National Archives, UFO files release page, July 2012",
+"sources": [
+{
+"id": "t-2ae8271327dc",
+"locator": null,
+"title": "The National Archives, UFO files release page, July 2012"
+}
+],
 "text": "The July 2012 tranche is described as showing 'the role of the UFO Desk Officers, what they really thought of alien visitors, their ideas to harness alien technology as a weapon, and their briefings to Tony Blair on UFO policy'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2615fd633b",
 "source": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"sources": [
+{
+"id": "u-history-co-uk-8928a8ef",
+"locator": null,
+"title": "Sky HISTORY"
+}
+],
 "text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

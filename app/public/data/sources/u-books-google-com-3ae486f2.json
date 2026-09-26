@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-969e454d3e",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax and https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ",
+"text": "'The incident gave birth to the Aztec UFO Symposium, which was run by the Aztec, New Mexico, library as a fundraiser from 1997 until 2011.' Revisionist defences were published by Scott Ramsey, Suzanne Ramsey and Frank Thayer as 'The Aztec Incident: Recovery at Hart Canyon' and 'The Aztec UFO Incident'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-books-google-com-3ae486f2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "books.google.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+}
+],
+"node": null,
+"title": "https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ",
+"topics": [
+{
+"claims": [
+"c-969e454d3e"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "web page",
+"urls": [
+"https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ"
+]
+}

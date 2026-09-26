@@ -1,0 +1,40 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-60a074ea5c",
+"label": "eight consecutive disclaimers of opinion are the measurable size of the gap this domain is about",
+"note": "The Department has undergone full-scope financial statement audits since FY2018 and has received a disclaimer of opinion every year through FY2025 - eight in a row. A disclaimer means the auditors could not obtain sufficient appropriate evidence to form an opinion, which is the auditable fact that defines the boundary of what can be traced from appropriation to expenditure. This is the single hardest, least deniable member of this domain.",
+"type": "funding"
+}
+],
+"era": "nd",
+"host": null,
+"id": "crs-if12627",
+"identifiers": [
+"CRS IF12627"
+],
+"interestedParty": false,
+"issuer": "Congressional Research Service",
+"listedOn": [],
+"node": null,
+"title": "Defense Primer: FY2025 Department of Defense Audit Results (CRS IF12627)",
+"topics": [],
+"type": "report",
+"urls": [
+"https://www.congress.gov/crs-product/IF12627"
+]
+}

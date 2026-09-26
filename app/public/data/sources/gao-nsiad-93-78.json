@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-b8658d10cc",
+"locator": "'Defense Acquisition: Oversight of Special Access Programs Has Increased', 21 December 1992",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "GAO/NSIAD-93-78, 'Defense Acquisition: Oversight of Special Access Programs Has Increased', 21 December 1992 - https://www.gao.gov/assets/nsiad-93-78.pdf",
+"text": "GAO HAS DESCRIBED THE WAIVER MECHANISM BUT HAS NEVER PUBLICLY REPORTED AN INSTANCE OF ITS USE. GAO/NSIAD-93-78, the unclassified summary of a classified report, describes the mechanism verbatim: 'Section 119, 10 U.S. Code, enacted in 1987, requires DOD to submit annual reports to the congressional defense committees on special access programs. Under the law, the Secretary of Defense may waive the requirement that certain information on special access programs be included in the annual report if he determines that the inclusion would adversely affect national security. However, he must provide the excluded information to the chairman and ranking minority member of each of the congressional defense committees.' The report then never returns to the subject. Its findings on waivers are about a different thing entirely - 'DOD used waivers and exemptions to limit review, documentation, and reporting requirements' refers to Defense Acquisition Board reviews, competition requirements and Selected Acquisition Reports, not to Section 119(e). Do not let these two senses of 'waiver' be conflated on the board.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b8658d10cc",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "GAO/NSIAD-93-78, 'Defense Acquisition: Oversight of Special Access Programs Has Increased', 21 December 1992 - https://www.gao.gov/assets/nsiad-93-78.pdf",
+"text": "GAO HAS DESCRIBED THE WAIVER MECHANISM BUT HAS NEVER PUBLICLY REPORTED AN INSTANCE OF ITS USE. GAO/NSIAD-93-78, the unclassified summary of a classified report, describes the mechanism verbatim: 'Section 119, 10 U.S. Code, enacted in 1987, requires DOD to submit annual reports to the congressional defense committees on special access programs. Under the law, the Secretary of Defense may waive the requirement that certain information on special access programs be included in the annual report if he determines that the inclusion would adversely affect national security. However, he must provide the excluded information to the chairman and ranking minority member of each of the congressional defense committees.' The report then never returns to the subject. Its findings on waivers are about a different thing entirely - 'DOD used waivers and exemptions to limit review, documentation, and reporting requirements' refers to Defense Acquisition Board reviews, competition requirements and Selected Acquisition Reports, not to Section 119(e). Do not let these two senses of 'waiver' be conflated on the board.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "gao-nsiad-93-78",
+"identifiers": [
+"GAO/NSIAD-93-78"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+}
+],
+"node": null,
+"title": "Defense Acquisition: Oversight of Special Access Programs Has Increased (GAO/NSIAD-93-78)",
+"topics": [
+{
+"claims": [
+"c-b8658d10cc",
+"c-b8658d10cc"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "report",
+"urls": [
+"https://www.gao.gov/assets/nsiad-93-78.pdf"
+]
+}

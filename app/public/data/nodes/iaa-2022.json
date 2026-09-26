@@ -7,32 +7,72 @@
 {
 "id": "c-d2793443a1",
 "source": "PL 117-103, Div. X, sec. 413(a), 136 Stat. 976",
+"sources": [
+{
+"id": "pl-117-103",
+"locator": "Div. X, sec. 413(a), 136 Stat. 976",
+"title": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
+}
+],
 "text": "Sec. 413 carries the note '50 USC 3373a' and is titled 'SUPPORT FOR AND OVERSIGHT OF UNIDENTIFIED AERIAL PHENOMENA TASK FORCE'. Subsection (a): 'The Director of National Intelligence and the Secretary of Defense shall jointly require that each element of the intelligence community and component of the Department of Defense with data relating to unidentified aerial phenomena makes such data available immediately to the Unidentified Aerial Phenomena Task Force, or successor entity, and to the National Air and Space Intelligence Center.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f6cf20574d",
 "source": "PL 117-103, Div. X, sec. 413(b), 136 Stat. 976-977",
+"sources": [
+{
+"id": "pl-117-103",
+"locator": "Div. X, sec. 413(b), 136 Stat. 976-977",
+"title": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
+}
+],
 "text": "Sec. 413(b) requires quarterly reports to the congressional intelligence committees and both Armed Services Committees listing 'All reported unidentified aerial phenomena-related events that occurred during the period covered by the report' and all such events from earlier periods not previously reported; sec. 413(b)(3) requires each report to be 'submitted in classified form.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c7b501ec51",
 "source": "PL 117-103, Div. X, sec. 413(c)(2), 136 Stat. 977",
+"sources": [
+{
+"id": "pl-117-103",
+"locator": "Div. X, sec. 413(c)(2), 136 Stat. 977",
+"title": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
+}
+],
 "text": "Sec. 413(c)(2) fixes the UAP Task Force in statute as 'the task force established by the Department of Defense on August 4, 2020, to be led by the Department of the Navy, under the Office of the Under Secretary of Defense for Intelligence and Security.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8eb65b34cf",
 "source": "PLAW-117publ103 enactment line",
+"sources": [
+{
+"id": "pl-117-103",
+"locator": null,
+"title": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
+}
+],
 "text": "PL 117-103 was 'Approved March 15, 2022.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bb09fa3a4f",
 "source": "PL 119-60 sec. 1672(a), 139 Stat. 1202",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Sec. 1672(a) of the FY2026 NDAA (PL 119-60) provides: 'Repeal.--Section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (division X of Public Law 117-103; 50 U.S.C. 3373a) is repealed.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

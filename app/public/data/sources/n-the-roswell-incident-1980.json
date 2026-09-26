@@ -1,0 +1,99 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-ea5fbff86d",
+"locator": null,
+"node": "d-roswell",
+"nodeLabel": "Roswell",
+"sourceText": "Berlitz and Moore, 'The Roswell Incident' (1980)",
+"text": "The 1980 Berlitz and Moore book 'The Roswell Incident' reopened the case publicly and is the origin of the modern witness corpus.",
+"tier": 2
+}
+],
+"date": "1980",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"b": {
+"cls": "document",
+"id": "the-roswell-incident-1980",
+"label": "The Roswell Incident (Berlitz and Moore, 1980)"
+},
+"claimTier": 2,
+"id": "e-3bd6422e43",
+"label": "Marcel's account is the spine of the 1980 book",
+"note": "Berlitz and Moore built 'The Roswell Incident' on Friedman's Marcel material together with the second-hand Barney Barnett account.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"b": {
+"cls": "document",
+"id": "the-roswell-incident-1980",
+"label": "The Roswell Incident (Berlitz and Moore, 1980)"
+},
+"claimTier": 1,
+"id": "e-6e1d327b8f",
+"label": "Co-authored the founding Roswell book",
+"note": "Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992.",
+"type": "research"
+}
+],
+"era": "1",
+"host": "Internet Archive",
+"id": "n-the-roswell-incident-1980",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "location",
+"id": "l-san-agustin",
+"label": "Plains of San Agustin, New Mexico"
+},
+{
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+{
+"cls": "document",
+"id": "the-roswell-incident-1980",
+"label": "The Roswell Incident (Berlitz and Moore, 1980)"
+},
+{
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+}
+],
+"node": {
+"cls": "document",
+"id": "the-roswell-incident-1980",
+"label": "The Roswell Incident (Berlitz and Moore, 1980)"
+},
+"title": "The Roswell Incident (Berlitz and Moore, 1980)",
+"topics": [
+{
+"claims": [
+"c-ea5fbff86d"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+]
+}

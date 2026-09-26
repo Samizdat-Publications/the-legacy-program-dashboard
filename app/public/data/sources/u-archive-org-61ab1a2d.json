@@ -1,0 +1,42 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f353d40537",
+"locator": null,
+"node": "charles-p-cabell",
+"nodeLabel": "Gen. Charles P. Cabell",
+"sourceText": "CIA reading room document 0000015305, https://archive.org/details/cia-readingroom-document-0000015305",
+"text": "The board already cites a letter he sent to Donald Keyhoe. The reading room's own catalogue entry for it reads 'UNTITLED (TO DONALD KEYHOE FROM C P CABELL ACKNOWLEDGING HIS LETTER OF MARCH 1', reading-room date 5 February 1958. The scan's OCR is close to unusable: the signature block resolves only far enough to read C. P. Cabell over the title Deputy Director, and no sentence of the body is legible. Nothing is quoted from it here.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-archive-org-61ab1a2d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+{
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+}
+],
+"node": null,
+"title": "CIA reading room document 0000015305, letter to Donald Keyhoe from C. P. Cabell",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-0000015305"
+]
+}

@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "betty-sapp",
+"label": "Betty J. Sapp"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-7edc019ab1",
+"label": "The DNI must concur in the appointment to the office she held",
+"note": "The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense's recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "usc-50-3041",
+"identifiers": [
+"50 U.S.C. 3041"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "50 U.S.C. 3041",
+"topics": [],
+"type": "statute",
+"urls": []
+}

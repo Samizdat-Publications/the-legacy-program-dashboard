@@ -7,26 +7,46 @@
 {
 "id": "c-decd0fa511",
 "source": "AARO UAP Records / Information Papers listings, accessed 12 August 2026",
+"sources": [],
 "text": "AARO published an ORNL synopsis analysing a metallic (magnesium) specimen in April 2024 with an AARO supplement, and an ORNL analysis of an aluminium specimen with an AARO supplement dated January 2026.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:aaro-information-papers) was rejected in review: listing page is not the node; claim concerns another paper"
 },
 {
 "id": "c-e3ce3f022d",
 "source": "AARO Historical Record Report Volume I",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "Volume I determined that an alleged extraterrestrial spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6dbef477f9",
 "source": "AARO FY2025 Consolidated Annual Report on UAP",
+"sources": [
+{
+"id": "n-aaro-fy2025-annual-report",
+"locator": null,
+"title": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
 "text": "The FY2025 report states no entity has ever captured or exploited UAP-derived materials while noting AARO is developing procedures for handling such materials should they come into USG possession.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1ea247310f",
 "source": "Inference from the scope of the ORNL analyses against Volume I's reliance on voluntary corporate denials",
+"sources": [],
 "text": "Two laboratory characterisations of voluntarily surrendered specimens cannot bear the weight of a general negative on custody, because the allegation concerns holdings AARO has never inspected and has no authority to compel.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

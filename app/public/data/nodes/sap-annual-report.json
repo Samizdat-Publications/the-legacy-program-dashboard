@@ -7,56 +7,133 @@
 {
 "id": "c-f5f13b7579",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Required by 10 U.S.C. 119(a)(1) 'Not later than March 1 of each year'; contents fixed by (a)(2). The new-program notice under (b)(1) is due separately 'Not later than February 1 of each year'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-92c0161b65",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "Special Access Program (SAP) Policy (DoDD 5205.07)"
+}
+],
 "text": "Production chain, DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c) [10 U.S.C. 119].' Every component's submission passes through a single office answering to the Deputy Secretary of Defense.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-effa055b1e",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"sources": [
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "Special Access Program (SAP) Policy (DoDD 5205.07)"
+}
+],
 "text": "CUSTODY. DoDD 5205.07 (2010) para 4.h: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' The waived annex of the annual report never leaves the department.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dd79d09480",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "SUNSET. The GPO text of section 119 carries a 'Termination of Reporting Requirements' note: the requirements in subsecs. (a) and (b) to submit an annual report to Congress terminated effective December 31, 2021 under section 1061 of Pub. L. 114-328.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7a16e203ca",
 "source": "10 U.S.C. 119(a)",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "a",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119(a)(1)-(2) require the annual SAP report by 1 March with the total amount requested and, for each SAP in the budget, a brief description, major milestones, actual prior-year costs and six years of cost estimates.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f44dece71a",
 "source": "DoDD 5205.07 (2010), Enclosure 2, para 6",
+"sources": [
+{
+"id": "dodd-5205-07-2010",
+"locator": "2010), Enclosure 2, para 6",
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+}
+],
 "text": "DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c).'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8a7013e8ef",
 "source": "DoDI 5205.11, para 6",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "para 6",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 para 6 records that the SAP report 'is submitted to Congress in accordance with section 119 of Title 10, United States Code ... and is coordinated with the Assistant Secretary of Defense for Legislative Affairs in accordance with the procedures in DoDI 5545.02.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-de37b2cee7",
 "source": "DoDI 5205.11, para 5.d",
+"sources": [
+{
+"id": "dodi-5205-11",
+"locator": "para 5.d",
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b3bb681466",
 "source": "10 U.S.C. 119(a)(1) as enacted in 1987; DoDI 5205.11 Enclosure 3",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "a)(1) as enacted in 1987",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+{
+"id": "dodi-5205-11",
+"locator": null,
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+}
+],
 "text": "The annual SAP report has existed as a recurring agency record since the first one was due on 1 February 1988 under the original text of 10 U.S.C. 119(a)(1), and its accuracy is certified annually by two named standing bodies - which makes 'nobody knows how many SAPs there are' a false statement about a document that exists in roughly forty annual editions. Reasoning: the statutory deadline plus the SRG and SAPOC validation functions.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

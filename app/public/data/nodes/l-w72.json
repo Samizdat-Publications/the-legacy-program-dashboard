@@ -7,14 +7,30 @@
 {
 "id": "c-8854d82a41",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"sources": [
+{
+"id": "u-congress-gov-c8421086",
+"locator": null,
+"title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023"
+}
+],
 "text": "W-72 is 'an exclusive block of airspace ten miles east of Virginia Beach.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8f12b7f44c",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"sources": [
+{
+"id": "u-congress-gov-c8421086",
+"locator": null,
+"title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023"
+}
+],
 "text": "A pilot 'saw a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point'; the jets, 100 feet apart, took evasive action.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "location",

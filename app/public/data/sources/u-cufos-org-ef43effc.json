@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-a063120ae0",
+"label": "Battelle Memorial Institute headquarters",
+"note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-a03abd6c70",
+"label": "Project Stork / Blue Book Special Report No. 14 produced here",
+"note": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-cufos-org-ef43effc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "cufos.org",
+"listedOn": [],
+"node": null,
+"title": "https://cufos.org/resources/project-blue-book/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://cufos.org/resources/project-blue-book/"
+]
+}

@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": "2026-04-25",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"b": {
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell"
+},
+"claimTier": 2,
+"id": "e-451a2f225d",
+"label": "'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief",
+"note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
+"type": "investigative"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-nypost-com-a74faaab",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nypost.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+}
+],
+"node": null,
+"title": "New York Post",
+"topics": [],
+"type": "article",
+"urls": [
+"https://nypost.com/2026/04/25/us-news/trove-of-leaked-documents-show-us-lab-where-two-missing-scientists-worked-studied-ufos-film/"
+]
+}

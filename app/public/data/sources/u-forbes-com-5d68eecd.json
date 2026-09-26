@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": "2017-12-08",
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-michigan-state",
+"label": "Michigan State University, East Lansing, Michigan"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-e46d9ab69e",
+"label": "site of the DoD unsupported-adjustment study",
+"note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+"type": "geographic"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-forbes-com-5d68eecd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "forbes.com",
+"listedOn": [],
+"node": null,
+"title": "https://www.forbes.com/sites/kotlikoff/2017/12/08/has-our-government-spent-21-trillion-of-our-money-without-telling-us/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.forbes.com/sites/kotlikoff/2017/12/08/has-our-government-spent-21-trillion-of-our-money-without-telling-us/"
+]
+}

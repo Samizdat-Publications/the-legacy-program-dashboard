@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-3c08e4a22c",
+"locator": null,
+"node": "charette-memo-2023",
+"nodeLabel": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"sourceText": "Janice Charette, Clerk of the Privy Council, Secret memo to PM Trudeau, 14 February 2023",
+"text": "'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-456e67d7ae",
+"locator": null,
+"node": "charette-memo-2023",
+"nodeLabel": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"sourceText": "Charette memo, 14 February 2023",
+"text": "UAP #23 (the Yukon object) 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-938ec34ef8",
+"locator": null,
+"node": "charette-memo-2023",
+"nodeLabel": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"sourceText": "Charette memo, 14 February 2023",
+"text": "'It is unknown whether it poses an armed threat or has intelligence collection capabilities.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-9072cecd8e",
+"locator": null,
+"node": "shootdowns-feb-2023",
+"nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+"sourceText": "Charette memo, 14 February 2023",
+"text": "The Yukon object, UAP #23, 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
+"tier": 1
+}
+],
+"date": "2023",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "n-charette-memo-2023",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "charette-memo-2023",
+"label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+},
+"title": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"topics": [
+{
+"claims": [
+"c-3c08e4a22c",
+"c-456e67d7ae",
+"c-938ec34ef8"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+},
+{
+"claims": [
+"c-9072cecd8e"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "document",
+"urls": []
+}

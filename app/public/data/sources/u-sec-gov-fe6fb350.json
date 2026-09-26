@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-29e30434b5",
+"locator": null,
+"node": "e-systems-inc",
+"nodeLabel": "E-Systems, Inc.",
+"sourceText": "Schedule 14D-1 submission header, Raytheon Company and RTN Acquisition Corporation for E Systems Inc, accession 0000950109-95-001096, filed 3 April 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001096.txt",
+"text": "SEC EDGAR records E Systems Inc at central index key 0000030875, incorporated in Delaware, SIC 3812, with two former conformed names: LTV ELECTROSYSTEMS INC, date of name change 16 May 1972, and LTV ELECTROSYSTEMS INC GREENVILLE EMPLOY, date of name change 21 June 1973.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-fe6fb350",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "e-systems-inc",
+"label": "E-Systems, Inc."
+}
+],
+"node": null,
+"title": "Schedule 14D-1, Raytheon Company and RTN Acquisition Corporation for E Systems Inc, accession 0000950109-95-001096",
+"topics": [
+{
+"claims": [
+"c-29e30434b5"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001096.txt"
+]
+}

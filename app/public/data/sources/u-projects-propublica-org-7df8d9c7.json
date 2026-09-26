@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-projects-propublica-org-7df8d9c7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "projects.propublica.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+}
+],
+"node": null,
+"title": "ProPublica Nonprofit Explorer - The Mitre Corporation (Form 990 filings)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://projects.propublica.org/nonprofits/organizations/42239742"
+]
+}

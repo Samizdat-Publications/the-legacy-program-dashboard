@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-93299842a7",
+"locator": null,
+"node": "e-systems-inc",
+"nodeLabel": "E-Systems, Inc.",
+"sourceText": "Schedule 14D-9, E-Systems Inc, accession 0000950109-95-001097, filed 3 April 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001097.txt",
+"text": "The ten directors of E-Systems listed in the Schedule 14D-9 information statement of 3 April 1995 are James A. Bitonti, S. Lee Kling, David R. Tacke, E. F. Buehring, Charles A. Gabriel, A. Lowell Lawson, C. Roland Haden, Martin R. Hoffmann, E. Gene Keiffer and Francine I. Neff. Edward C. Aldridge is not among them.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-43f25468",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "e-systems-inc",
+"label": "E-Systems, Inc."
+}
+],
+"node": null,
+"title": "Schedule 14D-9, E-Systems Inc, accession 0000950109-95-001097",
+"topics": [
+{
+"claims": [
+"c-93299842a7"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001097.txt"
+]
+}

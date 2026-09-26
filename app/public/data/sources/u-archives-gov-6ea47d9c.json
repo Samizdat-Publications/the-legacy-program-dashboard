@@ -1,0 +1,254 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1789d34852",
+"locator": null,
+"node": "national-archives",
+"nodeLabel": "National Archives and Records Administration",
+"sourceText": "National Archives, archives.gov/uap",
+"text": "NARA established Record Group 615, the Unidentified Anomalous Phenomena Records Collection, pursuant to Secs. 1841-1843 of P.L. 118-31.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f762b2d463",
+"locator": null,
+"node": "national-archives",
+"nodeLabel": "National Archives and Records Administration",
+"sourceText": "National Archives, archives.gov/uap",
+"text": "NARA states it will add UAP records to RG 615 'on an ongoing, rolling basis as they are received from federal agencies' — the transmission trigger rests with the agencies, not the Archivist.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-145d863d41",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://www.archives.gov/uap",
+"text": "Record Group 615 was established pursuant to sections 1841-1843 of the 2024 National Defense Authorization Act; UAP records received from federal agencies are accessioned into RG 615 and published in the National Archives Catalog on a rolling basis.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-37c0875f5d",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives UAP Records Collection page, accessed 12 August 2026",
+"text": "The collection was established under sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, and NARA created Record Group 615 to hold it.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7c220f90a9",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives, UAP records research page, archives.gov/uap",
+"text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9ec56ae4ed",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives UAP records page",
+"text": "'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a94175db29",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives, UAP records research page, archives.gov/uap",
+"text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "national-archives",
+"label": "National Archives and Records Administration"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-b4645c5bd0",
+"label": "NARA is custodian without power to compel transmission",
+"note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "event",
+"id": "dow-uap-file-release-2026",
+"label": "Department of War release of UAP files"
+},
+"claimTier": 3,
+"id": "e-36dba3239e",
+"label": "Agency compliance ran nineteen months past the statutory deadline",
+"note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"claimTier": 1,
+"id": "e-5dcddccee4",
+"label": "Collection created by sections 1841-1843 of the FY2024 NDAA",
+"note": "The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-801ac9379f",
+"label": "No agency-by-agency compliance accounting is published",
+"note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-1d0af34824",
+"label": "Secs. 1841-1843 created RG 615 at the National Archives",
+"note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-11516343fa",
+"label": "Two parallel release architectures, only one statutory",
+"note": "PURSUE publishes at will through the Secretary's website with no FOIA case numbers or exemption citations, while the statutory NARA collection publishes no compliance accounting - neither channel can be audited.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"claimTier": 3,
+"id": "e-d7142c396c",
+"label": "Restores the enforcement architecture stripped from the FY2024 sections",
+"note": "Sections 1841-1843 created a records collection without a review board, subpoena power or contractor reach; the 2026 amendment reintroduces all three.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 1,
+"id": "e-c638681998",
+"label": "Would impose statutory transfer timelines on the NARA collection",
+"note": "The amendment requires agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline and creates a Senate-confirmed Records Review Board with subpoena authority.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-archives-gov-6ea47d9c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+{
+"cls": "institution",
+"id": "national-archives",
+"label": "National Archives and Records Administration"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)",
+"topics": [
+{
+"claims": [
+"c-1789d34852",
+"c-145d863d41",
+"c-7c220f90a9"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "archive index",
+"urls": [
+"https://www.archives.gov/uap"
+]
+}

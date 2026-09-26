@@ -7,38 +7,86 @@
 {
 "id": "c-29e30434b5",
 "source": "Schedule 14D-1 submission header, Raytheon Company and RTN Acquisition Corporation for E Systems Inc, accession 0000950109-95-001096, filed 3 April 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001096.txt",
+"sources": [
+{
+"id": "u-sec-gov-fe6fb350",
+"locator": null,
+"title": "Schedule 14D-1, Raytheon Company and RTN Acquisition Corporation for E Systems Inc, accession 0000950109-95-001096"
+}
+],
 "text": "SEC EDGAR records E Systems Inc at central index key 0000030875, incorporated in Delaware, SIC 3812, with two former conformed names: LTV ELECTROSYSTEMS INC, date of name change 16 May 1972, and LTV ELECTROSYSTEMS INC GREENVILLE EMPLOY, date of name change 21 June 1973.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4db32218ef",
 "source": "E Systems Inc Form 10-K, accession 0000912057-95-001713, filed 27 March 1995, https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt",
+"sources": [
+{
+"id": "u-sec-gov-b0a8d6aa",
+"locator": null,
+"title": "E Systems Inc Form 10-K for fiscal 1994, accession 0000912057-95-001713"
+}
+],
 "text": "E-Systems' Form 10-K for fiscal 1994 states that 'The Company was incorporated in Delaware in 1964' and, in its environmental disclosures, refers to 'the Company and its predecessor corporation, LTV'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c67f58fa52",
 "source": "E Systems Inc Form 10-K, accession 0000912057-95-001713, filed 27 March 1995, https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt",
+"sources": [
+{
+"id": "u-sec-gov-b0a8d6aa",
+"locator": null,
+"title": "E Systems Inc Form 10-K for fiscal 1994, accession 0000912057-95-001713"
+}
+],
 "text": "The Form 10-K business description states that reconnaissance and surveillance systems and command, control and communications systems 'represented approximately 75% of the Company's sales in 1994', and that the company also designed and manufactured intelligence collection and processing systems.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-58d5ad5275",
 "source": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Exhibit (a)(9), accession 0000950130-95-000863, filed 1 May 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt",
+"sources": [
+{
+"id": "u-sec-gov-a0856f12",
+"locator": null,
+"title": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Exhibit (a)(9), accession 0000950130-95-000863"
+}
+],
 "text": "Raytheon Company, through RTN Acquisition Corporation, offered $64.00 per share in cash for all E-Systems shares under an Agreement and Plan of Merger dated as of 2 April 1995; the offer expired on 28 April 1995 with approximately 96.46 per cent of shares tendered, and Raytheon's press release of 1 May 1995 announced completion of a transaction 'valued at $2.3 billion'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-93299842a7",
 "source": "Schedule 14D-9, E-Systems Inc, accession 0000950109-95-001097, filed 3 April 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001097.txt",
+"sources": [
+{
+"id": "u-sec-gov-43f25468",
+"locator": null,
+"title": "Schedule 14D-9, E-Systems Inc, accession 0000950109-95-001097"
+}
+],
 "text": "The ten directors of E-Systems listed in the Schedule 14D-9 information statement of 3 April 1995 are James A. Bitonti, S. Lee Kling, David R. Tacke, E. F. Buehring, Charles A. Gabriel, A. Lowell Lawson, C. Roland Haden, Martin R. Hoffmann, E. Gene Keiffer and Francine I. Neff. Edward C. Aldridge is not among them.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f77dc3c4cc",
 "source": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 0:55:31, transcript in dist/transcripts/md/",
+"sources": [
+{
+"id": "t-331b62cfff5d",
+"locator": "0:55:31",
+"title": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner"
+}
+],
 "text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 0:55:31, a panel speaker who self-identifies at 0:58:00 as the maker of 'my Air Force video' said of Edward C. 'Pete' Aldridge that 'He was a senior, I think, board member at LTV Aerospace, which was eventually transitioned to E systems, which was a CIA show company and then bought up by Raytheon.' The opened SEC filings name LTV Electrosystems, not LTV Aerospace, as the predecessor, list ten directors none of whom is Aldridge, and describe a listed NYSE contractor rather than a proprietary.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

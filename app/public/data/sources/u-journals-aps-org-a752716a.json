@@ -1,0 +1,86 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-49272b9cb9",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 , opened 2026-09-18",
+"text": "WHAT WAS ACTUALLY SYNTHESISED. Element 115 was first reported in Oganessian et al., 'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115', Physical Review C volume 69, article 021601(R), published 2 February 2004, a Dubna and Lawrence Livermore collaboration. The abstract reads: 'With a beam dose of 4.3x10^18 248-MeV Ca48 projectiles, we observed three similar decay chains consisting of five consecutive alpha decays, all detected in time intervals of about 20s and terminated at a later time by a spontaneous fission with a high-energy release (total kinetic energy ~220MeV). At a higher bombarding energy of 253MeV, with an equal Ca48 beam dose, we registered a different decay chain of four consecutive alpha decays detected in a time interval of about 0.5s, also terminated by spontaneous fission.' The isotopes are 288 and 287, at cross sections of roughly 3 picobarn and 1 picobarn.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a0ae82d3e1",
+"locator": null,
+"node": "nnsa",
+"nodeLabel": "National Nuclear Security Administration",
+"sourceText": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 ; IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , both opened 2026-09-18",
+"text": "Element 115 was synthesised by a collaboration including Lawrence Livermore National Laboratory, a laboratory in the NNSA complex, working with the Joint Institute for Nuclear Research at Dubna, and reported in Physical Review C 69, 021601(R) on 2 February 2004. IUPAC assigned discovery priority to the Dubna-Livermore-Oak Ridge collaborations on 30 December 2015, on the basis of work starting in 2010 and confirmed in 2012 and 2013, and the name moscovium was approved on 28 November 2016. NOTHING ABOUT THE SYNTHESISED ELEMENT IS STABLE, MACHINABLE OR STORABLE: the isotopes are 287 and 288, produced one atom at a time at cross sections of roughly one and three picobarn. This claim is recorded here because Bob Lazar's element-115 account is regularly presented as having been vindicated by these events, and the record of the complex's own laboratories is what shows that it was not.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+"b": {
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+"claimTier": 1,
+"id": "e-86a7f2a334",
+"label": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
+"note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-journals-aps-org-a752716a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "journals.aps.org",
+"listedOn": [
+{
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
+{
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+}
+],
+"node": null,
+"title": "Oganessian et al., Physical Review C 69, 021601(R)",
+"topics": [
+{
+"claims": [
+"c-49272b9cb9",
+"c-a0ae82d3e1"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-a0ae82d3e1"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "web page",
+"urls": [
+"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601"
+]
+}

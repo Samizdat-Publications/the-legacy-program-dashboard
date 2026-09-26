@@ -7,26 +7,58 @@
 {
 "id": "c-1823f93ae9",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "The FAS Intelligence Resource Program hosts 'National Intelligence Program Summary for FY2013 (excerpts) (TS/SI/TK/NOFORN)', released via the Washington Post.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0af698a069",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "The officially disclosed FY2013 NIP figure was $52.7 billion requested, reduced to $49.0 billion by sequestration.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eb3d06a9f3",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "FAS also indexes redacted Congressional Budget Justifications obtained by FOIA for ODNI (FY2008-FY2014), NRO (FY2006-FY2014), NGA (FY2009-FY2016) and the Military Intelligence Program (FY2007-FY2010, FY2016).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ea2cc29036",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "The 2013 excerpts remain the only public view of the interior of the intelligence budget; every other public figure is an aggregate. Reasoning: no subsequent leak or FOIA release has produced a comparable programme-level NIP summary, and the statutory disclosure regime at 50 U.S.C. 3306 requires only aggregates.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

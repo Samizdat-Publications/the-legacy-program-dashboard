@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-8197",
+"label": "H.R. 8197 (119th Congress) - bill to abolish AARO"
+},
+"claimTier": 1,
+"id": "e-4e180b7f13",
+"label": "introduced the bill to abolish AARO, 6 April 2026",
+"note": "Four pages; abolishes the office, bars any successor, redistributes functions to the military departments, repeals the enabling statutes. Referred to HASC and HPSCI.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-newsweek-com-da0cb88f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Newsweek",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-8197",
+"label": "H.R. 8197 (119th Congress) - bill to abolish AARO"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "Newsweek - Pentagon's UFO Office to Be Eliminated Under New Tim Burchett Bill",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsweek.com/pentagon-ufo-office-elimination-bill-burchett-uap-11801961"
+]
+}

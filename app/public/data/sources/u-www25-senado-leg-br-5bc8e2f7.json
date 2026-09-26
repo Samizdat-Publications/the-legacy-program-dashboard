@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-095b75c37e",
+"locator": null,
+"node": "eduardo-girao",
+"nodeLabel": "Senador Eduardo Girão",
+"sourceText": "Senado Federal, perfil do Senador Eduardo Girão https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+"text": "The Senado Federal's own profile gives his civil name as 'Luis Eduardo Grangeiro Girão', born 25/09/1972 in Fortaleza, Ceará, serving the period 2019-2027 for Ceará.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f1835f0f6f",
+"locator": null,
+"node": "eduardo-girao",
+"nodeLabel": "Senador Eduardo Girão",
+"sourceText": "Senado Federal, perfil do Senador Eduardo Girão, checked 25 August 2026 https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+"text": "As of the date this was checked the Senate lists him as 'Fora de Exercício' - on leave with a substitute convened, his seat held by first substitute Sargento Reginauro. Any present-tense claim on this board about him acting as a sitting senator should be read against that.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-www25-senado-leg-br-5bc8e2f7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "www25.senado.leg.br",
+"listedOn": [
+{
+"cls": "institution",
+"id": "senado-brasil",
+"label": "Senado Federal do Brasil"
+},
+{
+"cls": "person",
+"id": "eduardo-girao",
+"label": "Senador Eduardo Girão"
+}
+],
+"node": null,
+"title": "Senado Federal, perfil do Senador Eduardo Girão (CE)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976"
+]
+}

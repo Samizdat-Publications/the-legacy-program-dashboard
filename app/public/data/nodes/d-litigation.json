@@ -8,20 +8,44 @@
 {
 "id": "c-b2e909b80b",
 "source": "CourtListener, CAUS v. NSA",
+"sources": [
+{
+"id": "u-courtlistener-com-bc299077",
+"locator": null,
+"title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+}
+],
 "text": "Citizens Against UFO Secrecy v. NSA was decided by the D.C. Circuit in November 1981; the Supreme Court denied certiorari on 8 March 1982.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d07aaab5ed",
 "source": "CourtListener, CAUS v. DoD (9th Cir.)",
+"sources": [
+{
+"id": "u-courtlistener-com-a262239e",
+"locator": null,
+"title": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)"
+}
+],
 "text": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense reached the Ninth Circuit, decided 14 November 2001.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-787d65e5a7",
 "source": "Cash v. United States docket and Order of Dismissal",
+"sources": [
+{
+"id": "u-files-afu-se-1aaf6048",
+"locator": null,
+"title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal"
+}
+],
 "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), the Cash-Landrum tort suit, was dismissed by order dated 21 August 1986.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",

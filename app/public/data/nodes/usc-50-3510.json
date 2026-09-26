@@ -7,14 +7,30 @@
 {
 "id": "c-756dce4048",
 "source": "https://www.law.cornell.edu/uscode/text/50/3510",
+"sources": [
+{
+"id": "usc-50-3510",
+"locator": null,
+"title": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+}
+],
 "text": "50 U.S.C. 3510(b): 'The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eb94c3d87e",
 "source": "https://www.law.cornell.edu/uscode/text/50/3510",
+"sources": [
+{
+"id": "usc-50-3510",
+"locator": null,
+"title": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+}
+],
 "text": "The provision originates as section 8 of the Central Intelligence Agency Act of 1949, enacted 20 June 1949.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

@@ -35,20 +35,32 @@
 {
 "id": "c-0bfb596de1",
 "source": "DIA/OSD packet presented to DEPSECDEF, 17 November 2009, released via FOIA",
+"sources": [],
 "text": "Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time', citing insufficient justification based on FY09 deliverables and anticipated FY10 work.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660) was rejected in review: packet named; candidate is one USD(I) memo, not the packet"
 },
 {
 "id": "c-bfefbb388c",
 "source": "DIA memo U-09-2660CE-IM, 13 November 2009",
+"sources": [
+{
+"id": "n-dia-sap-denial-memo-2009",
+"locator": null,
+"title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+}
+],
 "text": "The supporting DIA memorandum of 13 November 2009 found 'insufficient grounds to classify this open program' and stated no report contained information 'sufficiently sensitive and vulnerable to require extra protection'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4167d2aefe",
 "source": "Inference from the SAP denial documents read against the fact that 37 of 38 DIRDs were ultimately released unclassified",
+"sources": [],
 "text": "Refusing SAP status kept AAWSAP's deliverables in an unclassified/FOUO regime that could later be released in full to Congress and the public, while any genuinely compartmented material remained in programs the SAP request would have formally connected to the Reid appropriation — the practical effect was to sever the paper link between the appropriation and any waived-unacknowledged effort.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

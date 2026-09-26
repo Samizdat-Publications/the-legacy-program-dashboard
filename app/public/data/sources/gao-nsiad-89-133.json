@@ -1,0 +1,58 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-a54cf2978d",
+"locator": "'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements', 4 May 1989",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "GAO/NSIAD-89-133, 'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements', 4 May 1989 - https://www.gao.gov/assets/nsiad-89-133.pdf",
+"text": "The earlier GAO report in the same series, GAO/NSIAD-89-133, covering the period immediately after Section 119 took effect and prepared at the request of Rep. Barbara Boxer, examines DoD compliance with special access program oversight requirements in detail and does not mention the Section 119(e) waiver authority at all. Its only reference to waived requirements is to DoD Directive 5205.7's January 1989 revision requiring 'listings by the responsible program officer of all DOD regulations for which compliance has been waived' - again a different mechanism.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-a54cf2978d",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "GAO/NSIAD-89-133, 'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements', 4 May 1989 - https://www.gao.gov/assets/nsiad-89-133.pdf",
+"text": "The earlier GAO report in the same series, GAO/NSIAD-89-133, covering the period immediately after Section 119 took effect and prepared at the request of Rep. Barbara Boxer, examines DoD compliance with special access program oversight requirements in detail and does not mention the Section 119(e) waiver authority at all. Its only reference to waived requirements is to DoD Directive 5205.7's January 1989 revision requiring 'listings by the responsible program officer of all DOD regulations for which compliance has been waived' - again a different mechanism.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "gao-nsiad-89-133",
+"identifiers": [
+"GAO/NSIAD-89-133"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+}
+],
+"node": null,
+"title": "Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements (GAO/NSIAD-89-133)",
+"topics": [
+{
+"claims": [
+"c-a54cf2978d",
+"c-a54cf2978d"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "report",
+"urls": [
+"https://www.gao.gov/assets/nsiad-89-133.pdf"
+]
+}

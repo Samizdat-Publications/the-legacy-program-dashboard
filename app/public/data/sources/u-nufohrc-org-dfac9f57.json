@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-8842cfeaa7",
+"locator": null,
+"node": "nufohrc",
+"nodeLabel": "National UFO Historical Records Center",
+"sourceText": "National UFO Historical Records Center, home page, https://nufohrc.org/, read 2 September 2026",
+"text": "The Center states of itself: 'The National UFO Historical Records Center is a 501(c)(3) Nonprofit Corporation in the state of New Mexico that seeks to educate the public on the history of the UFO/UAP phenomenon, preserve and digitize historical documents and media, and promote scientific research into the topic.' Its published mailing address is P.O. Box 15541, Rio Rancho, NM 87174. No state or IRS record confirming either was reachable from this environment.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-nufohrc-org-dfac9f57",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nufohrc.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nufohrc",
+"label": "National UFO Historical Records Center"
+}
+],
+"node": null,
+"title": "National UFO Historical Records Center, home page",
+"topics": [
+{
+"claims": [
+"c-8842cfeaa7"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "web page",
+"urls": [
+"https://nufohrc.org/"
+]
+}

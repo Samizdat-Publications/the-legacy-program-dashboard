@@ -1,0 +1,202 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-34a7cabf51",
+"locator": null,
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, searched in full, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "This node's unresolved line on a National Underwater Reconnaissance Office stays as written. A third corpus running has failed to open any record of the office: nro.gov and nsa.gov returned HTTP 403, irp.fas.org has no NURO page, the govinfo search API returned a count of zero for the phrase, and the strings NURO and National Underwater Reconnaissance occur nowhere in the fifty released pages of the CIA's own AZORIAN history.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-047e85bc72",
+"locator": null,
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceText": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The article's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana, and Royal Dutch Shell, are readying the Hughes Glomar Explorer for use in deep-ocean mining operations to begin late in the fall of 1978.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-1cd423dc70",
+"locator": null,
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceText": "CIA reading-room document 0005301269, full text searched by this session, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The strings NURO and National Underwater Reconnaissance do not occur anywhere in the 50-page released history.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-20b405889c",
+"locator": null,
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceText": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The same note states that the continuing prohibition applies particularly to the specific purpose of the AZORIAN mission, the degree of success, operational details, participation of other contractors, government organizations, and individuals, classified technology, and project funding matters.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-47496ed0dc",
+"locator": null,
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceText": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 01-04-2010, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The released history opens: In March 1968 a Soviet submarine of the G-II class was lost with all hands, 16,500 feet below the surface of the Pacific Ocean.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-80a5d72c03",
+"locator": null,
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceText": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The article's publication note records that facts about the project had been acknowledged in court in continuing litigation concerning California State tax liability, Freedom of Information Act matters, and a patent infringement claim, and that the acknowledged facts include CIA sponsorship for intelligence collection purposes and the participation of Hughes Tool Company, the Summa Corporation and Global Marine, Inc.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d7ffce06ef",
+"locator": null,
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceText": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The same page states: On 8 August 1974, that submarine was brought to the surface in a recovery system designed and developed specifically for that mission.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-2d9df9cd76",
+"label": "CIA programme, on the Agency's own account of it",
+"note": "The released history is the Agency's own account and states CIA sponsorship of the project for intelligence collection purposes.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 1,
+"id": "e-b0990e2ba9",
+"label": "Covert recovery of foreign hardware under a named commercial cover",
+"note": "Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer"
+},
+"b": {
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"claimTier": 1,
+"id": "e-c4eb4ebd60",
+"label": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
+"note": "The history names Freedom of Information Act matters among the litigation that forced the first official acknowledgements, which is the doctrine the board already carries in d-foia prose.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 2,
+"id": "e-1300378a96",
+"label": "The 1978 mining consortium names Lockheed, the predecessor of this node",
+"note": "The released history's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell, was readying the Hughes Glomar Explorer for deep-ocean mining operations to begin late in the fall of 1978. The document names Lockheed and not Lockheed Martin, and the transcript's twenty-year lease to Lockheed Martin is not what the record says. Tier 2 because identifying the 1978 firm with this node is an identification across the 1995 merger that the document does not make.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-cade6027",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+},
+{
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer"
+}
+],
+"node": null,
+"title": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"topics": [
+{
+"claims": [
+"c-047e85bc72",
+"c-1cd423dc70",
+"c-20b405889c",
+"c-47496ed0dc",
+"c-80a5d72c03",
+"c-d7ffce06ef"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-047e85bc72",
+"c-20b405889c",
+"c-47496ed0dc",
+"c-80a5d72c03",
+"c-d7ffce06ef"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+},
+{
+"claims": [
+"c-34a7cabf51"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+]
+}

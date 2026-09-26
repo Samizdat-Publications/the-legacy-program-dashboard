@@ -1,0 +1,110 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+"b": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"claimTier": 2,
+"id": "e-b84969d2ea",
+"label": "Advanced projects shops are the industrial home",
+"note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+"b": {
+"cls": "document",
+"id": "gao-04-332",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+},
+"claimTier": 1,
+"id": "e-384b6b43d6",
+"label": "GAO found DoD could not assure adequate industrial security oversight - and excluded SAPs",
+"note": "GAO-04-332 title states the finding; its footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"b": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"claimTier": 2,
+"id": "e-bb0911a8d7",
+"label": "Analysis follows possession",
+"note": "Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"b": {
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"claimTier": 3,
+"id": "e-4c464af296",
+"label": "Contractor records are outside the statute",
+"note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-e4299f5c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+{
+"cls": "document",
+"id": "gao-04-332",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+},
+{
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+{
+"cls": "domain",
+"id": "d-secrecy-architecture",
+"label": "Secrecy Architecture"
+}
+],
+"node": null,
+"title": "GAO-04-332, Industrial Security",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+]
+}

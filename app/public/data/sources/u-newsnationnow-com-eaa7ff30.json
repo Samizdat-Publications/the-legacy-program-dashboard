@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "newsnation",
+"label": "NewsNation"
+},
+"b": {
+"cls": "institution",
+"id": "skywatcher",
+"label": "Skywatcher"
+},
+"claimTier": 2,
+"id": "e-d434732cb5",
+"label": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+"note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-newsnationnow-com-eaa7ff30",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/"
+]
+}

@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ab736b05e1",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "TTSA Regulation A offering materials, SEC EDGAR exhibit, July 2020",
+"text": "TTSA's ADAM Research Project was conducted in partnership with EarthTech International of Austin, Texas.",
+"tier": 1
+}
+],
+"date": "2020-07",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-14443803e20f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "TTSA Regulation A offering materials, SEC EDGAR exhibit",
+"topics": [],
+"type": "document",
+"urls": []
+}

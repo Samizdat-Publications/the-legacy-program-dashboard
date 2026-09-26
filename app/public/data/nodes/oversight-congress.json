@@ -7,26 +7,68 @@
 {
 "id": "c-845d418d05",
 "source": "10 U.S.C. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119 requires an annual SAP report to the defense committees not later than 1 March, notification of newly designated SAPs by 1 February, and 30 days notice before a new SAP is initiated.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-be0e75b386",
 "source": "10 U.S.C. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "Where the Secretary of Defense waives SAP reporting, the statute requires the information and the justification to be provided 'jointly to the chairman and ranking minority member of each of the defense committees' rather than to the full committees.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4c9097fa32",
 "source": "DoD Directive 5205.07, 12 September 2024",
+"sources": [
+{
+"id": "dodd-5205-07-2024",
+"locator": "12 September 2024",
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+}
+],
 "text": "DoDD 5205.07 requires notification to the Director, DoD SAPCO and OA SAPCO directors before briefing Congress or congressional staff with SAP material, and bars contractors from providing SAP material to Congress without specific approval.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3104436903",
 "source": "Inference from the composition of 10 U.S.C. 119(e), DoDD 5205.07 and the read-in practice described in CHRG-119hhrg61718",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": "e), DoDD 5205.07 and the read-in practice described in CHRG-119hhrg61718",
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+{
+"id": "dodd-5205-07",
+"locator": null,
+"title": "Special Access Program (SAP) Policy (DoDD 5205.07)"
+},
+{
+"id": "chrg-119hhrg61718",
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "The combination of the 10 U.S.C. 119 waiver, the DoDD 5205.07 notification requirement and the HASC/HAC-D read-in gate produces a lawful architecture in which a program can be concealed from 527 of 535 members of Congress indefinitely. Reasoning: each element is individually lawful and the composition has never been tested against a UAP-specific demand.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

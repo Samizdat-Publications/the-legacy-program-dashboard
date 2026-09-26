@@ -8,38 +8,74 @@
 {
 "id": "c-5bfcd43634",
 "source": "research/leads/verified-propulsion-2026-09-19.md, strand table, built over documents opened 2026-09-19",
+"sources": [],
 "text": "THE DOMAIN'S ORGANISING FINDING AFTER THE PROPULSION STRAND OF 19 SEPTEMBER 2026, and it is a stated inference over documents rather than a claim about physics. For each propulsion mechanism the literature invokes, a document is named; when the document is opened it says less than is claimed for it, and usually something else entirely. Brown's two patents contain the word 'gravity' zero times. Alcubierre's 1994 paper contains the word 'device' zero times and states in its own abstract that exotic matter will be needed. King's 1967 patent contains 'scalar' zero times and has no assignee and no government interest. DIA's own antigravity survey does not mention Brown. THE STRAND RECORDS THE GAP BETWEEN CITATIONS AND DOCUMENTS AND TAKES NO POSITION ON WHETHER EXOTIC PROPULSION IS POSSIBLE.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: The board's own inference/strand table."
 },
 {
 "id": "c-099ebf3b69",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "n-millis-tm-2004-213082",
+"locator": null,
+"title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+}
+],
 "text": "The domain's best single published adjudication, and it is openable by anyone: NASA/TM-2004-213082, by the manager of NASA's Breakthrough Propulsion Physics Project, which rules on Biefeld-Brown and its variants in section 3.2.7, on metric engineering in section 3.3.1, and on high frequency gravitational waves in section 3.3.2.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d5135cc003",
 "source": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP collection",
+"sources": [],
 "text": "DIA commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, subsequently released under FOIA.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/the-advanced-aviation-threat-identificatio) was rejected in review: DIA reading room is not the Black Vault page"
 },
 {
 "id": "c-a82a5255cf",
 "source": "DIRD 15, DIA release via The Black Vault",
+"sources": [
+{
+"id": "n-dird-advanced-space-propulsion-based-on-vacuum",
+"locator": null,
+"title": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+}
+],
 "text": "DIRD 15 is 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d5288e36b8",
 "source": "DIRD 18 / DIA-08-1004-004",
+"sources": [
+{
+"id": "n-dird-traversable-wormholes",
+"locator": null,
+"title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+}
+],
 "text": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', was authored by Eric W. Davis of EarthTech International and dated 6 April 2010.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-90f26a63bf",
 "source": "DIRD 19, DIA release via The Black Vault",
+"sources": [
+{
+"id": "n-dird-antigravity-for-aerospace-applications",
+"locator": null,
+"title": "Antigravity for Aerospace Applications"
+}
+],
 "text": "DIRD 19 is 'Antigravity for Aerospace Applications'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",
@@ -306,7 +342,7 @@
 ],
 "sub": "Technical domain - the physics that would be required, and who was paid to study it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 294 of 1138, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 296 of 1138, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": 1,

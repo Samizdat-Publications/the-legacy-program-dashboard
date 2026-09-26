@@ -1,0 +1,108 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-edea5d8b5d",
+"locator": null,
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "Nomination of Admiral B.R. Inman, hearing before the Senate Select Committee on Intelligence, 97th Congress 1st session, 3 February 1981, GPO print 74-227 O, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+"text": "He gave his own career to the Senate: 'Subsequent assignments included service as the fleet intelligence officer on the staff of the commander, 7th Fleet; attendance at the National War College; executive assistant and senior aide to the Vice Chief of Naval Operations; assistant chief of staff for intelligence to the commander in chief, U.S. Pacific Fleet; Director of Naval Intelligence; and Vice Director for Plans, Operations, and Support of the Defense Intelligence Agency.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fbd33f161a",
+"locator": null,
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "Nomination of Admiral B.R. Inman, Senate Select Committee on Intelligence, 3 February 1981, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+"text": "He dates the NSA directorship himself and states the nomination: 'since July 5, 1977, I have had the pleasure of serving as Director, National Security Agency', and 'I have been nominated by the President to serve as the Deputy Director of Central Intelligence.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-eb620b89e7",
+"label": "Nominated and heard as Deputy Director of Central Intelligence, 3 February 1981",
+"note": "Nominated and heard on 3 February 1981 to be Deputy Director of Central Intelligence, the post SAIC's own proxy later lists among his government service.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-baa8b22e93",
+"label": "Vice Director for Plans, Operations and Support of DIA",
+"note": "Vice Director for Plans, Operations and Support of the Defense Intelligence Agency before the NSA directorship, in his own testimony.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+},
+"b": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"id": "e-53d5cd6bf6",
+"label": "Director of the National Security Agency from 5 July 1977",
+"note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-intelligence-senate-gov-e8cf2870",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Select Committee on Intelligence",
+"listedOn": [
+{
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+}
+],
+"node": null,
+"title": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+"topics": [
+{
+"claims": [
+"c-edea5d8b5d",
+"c-fbd33f161a"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "document",
+"urls": [
+"https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+]
+}

@@ -1,0 +1,88 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+},
+"b": {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"claimTier": 2,
+"id": "e-c581aaba16",
+"label": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
+"note": "The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+},
+"b": {
+"cls": "location",
+"id": "l-area51",
+"label": "Area 51 (Homey Airport / Groom Lake operating location)"
+},
+"claimTier": 1,
+"id": "e-dea6bbd861",
+"label": "The Agency's own account of the establishment and use of the Groom Lake site",
+"note": "It is the Agency's own account of the establishment and use of the Groom Lake site, and the 2013 release is the version in which the Area 51 references were left intact.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-19864b3591",
+"label": "Written by the CIA History Staff in 1992 and released by the Agency in 2013",
+"note": "Written by the CIA History Staff in 1992 and released by the Agency on 25 June 2013.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "National Security Archive",
+"id": "u-nsarchive2-gwu-edu-f9cc2ce1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "location",
+"id": "l-area51",
+"label": "Area 51 (Homey Airport / Groom Lake operating location)"
+},
+{
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+{
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+}
+],
+"node": null,
+"title": "National Security Archive - CIA OXCART/U-2 history release",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+]
+}

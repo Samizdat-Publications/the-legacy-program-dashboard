@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": "1993-01-06",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "eo-12829",
+"identifiers": [
+"Executive Order 12829"
+],
+"interestedParty": false,
+"issuer": "The President",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "eo-12829",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "eo-12829",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)"
+},
+"title": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
+"topics": [],
+"type": "regulation",
+"urls": []
+}

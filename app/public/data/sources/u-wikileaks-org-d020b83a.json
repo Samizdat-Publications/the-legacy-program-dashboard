@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1c02c52a8c",
+"locator": null,
+"node": "bob-fish",
+"nodeLabel": "Bob Fish",
+"sourceText": "WikiLeaks, The Podesta Emails, email id 18724, 'Re: Leslie Kean book comment', https://wikileaks.org/podesta-emails/emailid/18724",
+"text": "Podesta's own reply to Fish the previous day was declining and non-committal in full: 'Thx for the note. Hard for me follow up at this moment but I will keep your contact information.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "WikiLeaks",
+"id": "u-wikileaks-org-d020b83a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish"
+}
+],
+"node": null,
+"title": "WikiLeaks, The Podesta Emails, email id 18724",
+"topics": [
+{
+"claims": [
+"c-1c02c52a8c"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "web page",
+"urls": [
+"https://wikileaks.org/podesta-emails/emailid/18724"
+]
+}

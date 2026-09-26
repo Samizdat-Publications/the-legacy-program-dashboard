@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": "2025-03-14",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "steve-feinberg",
+"label": "Stephen A. Feinberg"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-f754cfafd2",
+"label": "Deputy Secretary of Defense",
+"note": "The Senate voted 59-40 on 14 March 2025 to confirm Stephen A. Feinberg as Deputy Secretary of Defense, the department's number-two official and the office that has historically signed the memoranda standing up DoD UAP bodies. No sourced UAP, AARO or PURSUE role for Feinberg personally was found.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-263e9a83",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [],
+"node": null,
+"title": "https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/"
+]
+}

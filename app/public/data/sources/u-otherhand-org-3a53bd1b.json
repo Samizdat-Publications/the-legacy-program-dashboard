@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-4a8dbf2f79",
+"locator": null,
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"sourceText": "Dr David L. Morgan, 'A Physicist's Critique', 26 August 1996, revised April 2001, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/a-physicists-critique/ , opened 2026-09-18",
+"text": "THE PHYSICS OBJECTIONS, NAMED AND DATED. Dr David L. Morgan, a particle physicist, in 'A Physicist's Critique' of 26 August 1996, revised April 2001, makes three. First, on identifying gravity with the strong force: 'The strong nuclear force has NOTHING TO DO WITH GRAVITY... The equations and coupling strengths which describe the two forces are totally different and unrelated.' Second, on the force reaching outside the atom: 'The nuclear force extends out to about the same distance away from a nucleus NO MATTER HOW MASSIVE THE NUCLEUS IS. This fact is fundamental to the science of nuclear physics.' Third, and the one that does not depend on any model of gravity, an energy-conservation objection: if the antimatter must be manufactured on board by bombarding 115 with protons, the energy required equals the energy released on annihilation, so 'If you have to MAKE your own antimatter on board, your system produces NO NET ENERGY AT ALL!!'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-otherhand-org-3a53bd1b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "program",
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+}
+],
+"node": null,
+"title": "Dr David L. Morgan, 'A Physicist's Critique', hosted by Tom Mahood",
+"topics": [
+{
+"claims": [
+"c-4a8dbf2f79"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/a-physicists-critique/"
+]
+}

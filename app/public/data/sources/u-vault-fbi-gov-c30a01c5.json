@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-25cc9f8aef",
+"locator": null,
+"node": "andrija-puharich",
+"nodeLabel": "Andrija (Henry K.) Puharich",
+"sourceText": "FBI Vault release 'Extra-Sensory Perception Part 01 (Final)', PDF pages 13 and 14, https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view",
+"text": "An FBI Office Memorandum from R. R. Roach to A. H. Belmont, dated 6 September 1957, file 62-4036, subject 'EXTRA SENSORY PERCEPTION DEMONSTRATION BY MR. WILLIAM FOOS, AUGUST 8, 1957', records: 'Attached hereto also is a copy of a memorandum furnished by Colonel Downie relative to Dr. Henry K. Puharich, Round Table Foundation, Glen Cove, Maine. While Dr. Puharich's work is not exactly in the field of extra sensory perception, Colonel Downie stated that the Army is interested in determining the possibilities of his techniques.' Colonel Downie is identified in the same memorandum as 'Lieutenant Colonel John Downie, Special Operations Branch, ACSI'. The memorandum was classified CONFIDENTIAL and carries a handwritten declassification annotation dated 16 February 1988.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "andrija-puharich",
+"label": "Andrija (Henry K.) Puharich"
+},
+"b": {
+"cls": "domain",
+"id": "d-consciousness",
+"label": "Consciousness & Observer Effects"
+},
+"claimTier": 1,
+"id": "e-777269001e",
+"label": "The subject on which a federal agency file names him",
+"note": "The FBI file that carries him is a release of cross references to extra-sensory perception, and his own patents are about routing sound into the nervous system without the ear.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "andrija-puharich",
+"label": "Andrija (Henry K.) Puharich"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-8635d630c3",
+"label": "The Army's intelligence staff recorded an interest in his techniques in 1957",
+"note": "The FBI memorandum of 6 September 1957 attributes the interest to Lieutenant Colonel John Downie of the Special Operations Branch, Assistant Chief of Staff, Intelligence, Department of the Army; the enclosure Downie furnished is not in the release.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-vault-fbi-gov-c30a01c5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "FBI",
+"listedOn": [
+{
+"cls": "person",
+"id": "andrija-puharich",
+"label": "Andrija (Henry K.) Puharich"
+}
+],
+"node": null,
+"title": "FBI Vault, Extra-Sensory Perception Part 01 (Final)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view"
+]
+}

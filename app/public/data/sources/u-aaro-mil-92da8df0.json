@@ -1,0 +1,86 @@
+{
+"archived": [
+"https://web.archive.org/web/20260508180208/https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-751a333e5a",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "Statement for the Record, Dr. Jon Kosloski, Director AARO, SASC Emerging Threats and Capabilities Subcommittee, 19 November 2024",
+"text": "Kosloski told the Senate Armed Services subcommittee on 19 November 2024 that 'to date, AARO has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-934d6f9f49",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "Dr. Jon Kosloski, Statement for the Record, Senate Armed Services Committee open hearing, 19 November 2024",
+"text": "'AARO has over 1,600 UAP reports in its holdings from across the U.S. government' and 'to date, AARO has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-53e609b7bd",
+"locator": null,
+"node": "hearing-2024-11-19",
+"nodeLabel": "SASC hearing: Activities of the All-domain Anomaly Resolution Office",
+"sourceText": "Statement for the Record, Dr. Jon Kosloski, SASC ETC Subcommittee, 19 November 2024",
+"text": "Kosloski testified on 19 November 2024 that AARO holds over 1,600 UAP reports and has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-0031c6245c",
+"label": "Director of AARO from August 2024",
+"note": "Kosloski was named AARO's full-time director in August 2024 and testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on 19 November 2024.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-aaro-mil-92da8df0",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "AARO - Kosloski Statement for the Record, SASC (PDF)",
+"topics": [
+{
+"claims": [
+"c-934d6f9f49",
+"c-53e609b7bd"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf"
+]
+}

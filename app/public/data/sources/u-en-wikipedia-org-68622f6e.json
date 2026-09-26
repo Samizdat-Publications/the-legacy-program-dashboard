@@ -1,0 +1,42 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-f91611b493",
+"locator": "approval 2 Dec 1950 quote",
+"node": "project-magnet",
+"nodeLabel": "Project Magnet (Canada)",
+"sourceText": "Wikipedia, 'Project Magnet (Canada)', citing Library and Archives Canada",
+"text": "'The project was formally approved on 2 December 1950 ... A small-scale undertaking, the project used DOT facilities, with some assistance from personnel at the Defence Research Board (DRB) and the National Research Council.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-68622f6e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-ottawa",
+"label": "Ottawa, Ontario, Canada"
+},
+{
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+}
+],
+"node": null,
+"title": "Project Magnet (Canada) - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Project_Magnet_(Canada)"
+]
+}

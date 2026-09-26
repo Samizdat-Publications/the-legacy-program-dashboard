@@ -7,26 +7,58 @@
 {
 "id": "c-dcf87b6931",
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-theblackvault-com-6eca4304",
+"locator": null,
+"title": "Stanton T. Friedman, 'The Bob Lazar Fraud'"
+}
+],
 "text": "The directory page bearing Lazar's name states its own scope, per Stanton Friedman, who obtained it: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The company name is rendered 'Kirk Meyer' by Friedman and 'Kirk Mayer' or 'Kirk-Mayer' elsewhere; this node uses the kebab-case id kirk-mayer and records the spelling variance.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b15ca3dc91",
 "source": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-ab5481f0",
+"locator": null,
+"title": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague"
+}
+],
 "text": "A Los Alamos colleague of Lazar's, interviewed on tape by Mark Farmer on 25 May 1996 and anonymised at his own request, confirmed Lazar worked at the laboratory and said he 'was a contractor' under someone named Kirk Mayer.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-3fd09f3aab",
 "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"sources": [
+{
+"id": "u-dreamlandresort-com-1ae249f4",
+"locator": null,
+"title": "Gene Huff, synopsis posted to alt.conspiracy.area51"
+}
+],
 "text": "Gene Huff, writing in Lazar's defence rather than against him, records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both Los Alamos National Laboratory and Kirk-Mayer subsequently said they held no employment records for him.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-7f6a762766",
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-c91396fe",
+"locator": null,
+"title": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'"
+}
+],
 "text": "Tom Mahood's 2018 conclusion on the same question: that Lazar worked as an electronic technician for Kirk-Mayer, a contractor supplying support staff, rather than as a physicist, and that his presence in the telephone directory reflected that contractor relationship and was marked with a 'K/M' notation.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "institution",

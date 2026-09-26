@@ -7,20 +7,44 @@
 {
 "id": "c-1671cff26a",
 "source": "DD Form 1910 released under FOIA, published by Blue Blurry Lines, 17 August 2019",
+"sources": [
+{
+"id": "n-dd-form-1910-2017",
+"locator": null,
+"title": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+}
+],
 "text": "Submitted by Luis D. Elizondo, Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved 24 August 2017, covering three .mpg files: GoFast, Gimbal and FLIR.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-31277f4a05",
 "source": "DD Form 1910, FOIA release",
+"sources": [
+{
+"id": "n-dd-form-1910-2017",
+"locator": null,
+"title": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+}
+],
 "text": "States the purpose as 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ebead5afee",
 "source": "Blue Blurry Lines, 17 August 2019",
+"sources": [
+{
+"id": "u-blueblurrylines-com-a99d7535",
+"locator": null,
+"title": "Blue Blurry Lines"
+}
+],
 "text": "The version originally published by George Knapp had Elizondo's name and DoD title redacted; the unredacted FOIA copy identifies him.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "document",
@@ -206,7 +230,7 @@
 ],
 "sub": "Clearance request submitted 9 August 2017, approved 24 August 2017",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 209 of 1138, score 45). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 208 of 1138, score 45). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

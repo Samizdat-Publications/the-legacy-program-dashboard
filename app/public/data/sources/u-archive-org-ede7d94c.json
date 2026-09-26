@@ -1,0 +1,232 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+},
+"b": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"claimTier": 3,
+"id": "e-961ad70ed1",
+"label": "Documentary method versus anonymous-testimony method",
+"note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fund-for-ufo-research",
+"label": "Fund for UFO Research"
+},
+"b": {
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+"claimTier": 1,
+"id": "e-673a287189",
+"label": "FUFOR funded Stringfield's later Status Reports",
+"note": "Stringfield names the Fund for UFO Research first in the Status Report VII acknowledgements, thanking it for past funding.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cufos",
+"label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+},
+"b": {
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+"claimTier": 1,
+"id": "e-f056e360b1",
+"label": "CUFOS cooperated with and advised the Status Report series",
+"note": "Stringfield acknowledges CUFOS cooperation in Status Report VII and records consulting its scientific director on 6 November 1993 about the Roswell body count.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+"b": {
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"claimTier": 3,
+"id": "e-8dfef71261",
+"label": "Randle's case-by-case surveys audit Stringfield's corpus",
+"note": "'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+"b": {
+"cls": "institution",
+"id": "mufon",
+"label": "Mutual UFO Network (MUFON)"
+},
+"claimTier": 1,
+"id": "e-f390ae24fb",
+"label": "MUFON symposium platform and publisher for Reports I and II",
+"note": "Report I was delivered at the ninth annual MUFON Symposium in Dayton on 29 July 1978; Report II was published by MUFON in January 1980. Stringfield served as MUFON's director of public relations.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+"b": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"claimTier": 1,
+"id": "e-574a5fe3bd",
+"label": "Authored the seven-part Status Report series",
+"note": "Stringfield wrote and self-published or placed all seven Status Reports between July 1978 and February 1994. Title and copyright pages of the original printings attest authorship, dates and, for Report VI, the Cincinnati imprint.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+"b": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"claimTier": 3,
+"id": "e-6a1cbaf42c",
+"label": "The catalogue inherits Stringfield's case base",
+"note": "A substantial share of 'Majic Eyes Only' entries trace back through Stringfield's anonymised Status Report cases, so the catalogue inherits their provenance limits. Reasoning: an index cannot be graded above its sources.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"b": {
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"claimTier": 2,
+"id": "e-2c96872b66",
+"label": "Stringfield revived Aztec as a real retrieval in the late 1970s",
+"note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"b": {
+"cls": "event",
+"id": "del-rio-1950",
+"label": "Del Rio / Mexican border claim, 1948 or 1950"
+},
+"claimTier": 2,
+"id": "e-44b0b9ec96",
+"label": "Status Report chronology indexes Del Rio as Item B-7",
+"note": "The consolidated chronology in Status Report III lists Item B-7 of Status Report II as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"b": {
+"cls": "event",
+"id": "kingman-1953",
+"label": "Kingman, Arizona claim, 1953"
+},
+"claimTier": 2,
+"id": "e-192e936ba5",
+"label": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
+"note": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-ede7d94c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "event",
+"id": "del-rio-1950",
+"label": "Del Rio / Mexican border claim, 1948 or 1950"
+},
+{
+"cls": "institution",
+"id": "fund-for-ufo-research",
+"label": "Fund for UFO Research"
+},
+{
+"cls": "institution",
+"id": "cufos",
+"label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+},
+{
+"cls": "event",
+"id": "kingman-1953",
+"label": "Kingman, Arizona claim, 1953"
+},
+{
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+{
+"cls": "institution",
+"id": "mufon",
+"label": "Mutual UFO Network (MUFON)"
+},
+{
+"cls": "event",
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+{
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+}
+],
+"node": null,
+"title": "Stringfield Status Reports 1-7 (scans)",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+]
+}

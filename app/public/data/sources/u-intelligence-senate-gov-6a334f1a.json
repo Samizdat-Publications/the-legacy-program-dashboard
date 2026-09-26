@@ -1,0 +1,416 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-9c4271a309",
+"locator": null,
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Project MKULTRA joint hearing, 3 August 1977 (Turner statement and Appendix B); Rockefeller Commission report, June 1975; Ford signing statement, 12 October 1976; Olson v. United States, D.D.C., 17 July 2013, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The four opened records do not agree. The Rockefeller Commission and President Ford give a tenth floor window; the Church Committee text in the 1977 Senate print gives a tenth story window of the Statler Hotel and the death as 27 November 1953; Ford and the 2012 complaint give 28 November; the complaint gives thirteen stories at 2:30 a.m. The CIA told the Senate in 1977 that he 'leaped to his death from a hotel room window in New York City about a week after having unwittingly consumed LSD'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1db463ff4c",
+"locator": null,
+"node": "john-marks-foia-f-76-374",
+"nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"sourceText": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The same memorandum records that the case was in litigation and sets the order of notification: 'The MARKS case is in litigation and we are committed to advise Mr. Marks of the existence of these files shortly, and to deliver the releasable material to his attorneys by 31 July.' Its recommended actions are to release sanitized material to his attorneys as required by FOIA litigation and to 'Inform the Senate Select Committee of the existence of the recently located records prior to informing Mr. Marks' attorneys.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4825f978b9",
+"locator": null,
+"node": "john-marks-foia-f-76-374",
+"nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"sourceText": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The Agency's own memorandum names the request and the mechanism: 'As a result of John Marks FOIA request (F-76-374), all of the MKULTRA material in OTS possession was reviewed for possible release to him. Following that review, the OTS material in the Retired Records Center was searched. It was during that latter search that the subproject files were located among the retired records of the OTS Budget and Fiscal Section.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-52cbf91664",
+"locator": null,
+"node": "john-marks-foia-f-76-374",
+"nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"sourceText": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The recovered boxes included the programme's founding paper. The 22 June 1977 memorandum notes that 'the original memorandum setting up MKULTRA, signed [by] Mr. Dulles, is also among these documents.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d95dfb90d0",
+"locator": null,
+"node": "john-marks-foia-f-76-374",
+"nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"sourceText": "Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The Senate said the same thing without the name: 'Then one individual, through a Freedom of Information request, accomplished what two U.S. Senate committees could not. He spurred the agency into finding additional records pertaining to the CIA's program of experimentation with human subjects.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-9fc5e532ba",
+"locator": null,
+"node": "project-bluebird",
+"nodeLabel": "Project BLUEBIRD",
+"sourceText": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, section 2, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The programme's lineage is in the 1977 Senate print: 'The earliest of the CIA's major programs involving the use of chemical and biological agents, Project BLUEBIRD, was approved by the Director in 1950 ... In August 1951, the project was renamed ARTICHOKE.' Responsibility passed in 1952 from the Office of Scientific Intelligence to the Inspection and Security Office, which the same text reads as a shift from studying hostile powers to using the techniques.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-0f60717ed8",
+"locator": null,
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"sourceText": "Project MKULTRA joint hearing, 3 August 1977, opening statement and testimony of Admiral Turner, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The recovered material covers 149 numbered subprojects plus two boxes of audit reports and financial statements from cut-out funding mechanisms and 33 further subprojects unrelated to behavioural work. Turner told the committee the new identities were 'the names of 185 nongovernment researchers and assistants' and 'names of 80 institutions', comprising 44 colleges or universities, 15 research foundations or chemical or pharmaceutical companies, 12 hospitals or clinics and 3 penal institutions. The hearing's own opening statement gives a different figure, 'Eighty-six universities or institutions were involved.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-2ce75a8a2e",
+"locator": null,
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"sourceText": "Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-42b62fb7d5",
+"locator": null,
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"sourceText": "Project MKULTRA, The CIA's Program of Research in Behavioral Modification, joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The Church Committee text reprinted in the hearing print records the destruction and the chain behind it: 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dd772efb5c",
+"locator": null,
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"sourceText": "Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3d3522d4d5",
+"locator": null,
+"node": "sidney-gottlieb",
+"nodeLabel": "Sidney Gottlieb",
+"sourceText": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, from David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "A CIA memorandum of 22 June 1977 reprinted in the hearing print explains why the 1973 searches missed the finance folders: 'Because Dr. Gottlieb retrieved and destroyed all the MKULTRA documents he was able to locate, it is not surprising that the earlier search for MKULTRA documents, directed at areas where they were most likely to be found, was unsuccessful.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-77631bea22",
+"locator": null,
+"node": "sidney-gottlieb",
+"nodeLabel": "Sidney Gottlieb",
+"sourceText": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "He is one of the two officers named as running the experiment that killed Frank Olson: 'The drug had been placed in the bottle by a CIA officer, Dr. Robert Lashbrook, as part of an experiment he and Dr. Sidney Gottlieb performed at a meeting of Army and CIA scientists.' The same text records that neither the Chief of TSS nor the Deputy Director for Plans specifically authorized that experiment.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8cd45018d5",
+"locator": null,
+"node": "sidney-gottlieb",
+"nodeLabel": "Sidney Gottlieb",
+"sourceText": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "He gave the destruction order. 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+"b": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"claimTier": 1,
+"id": "e-6d5a02a3cd",
+"label": "Authorized MKULTRA as DCI, 13 April 1953",
+"note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+},
+"b": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"claimTier": 1,
+"id": "e-6a34d78aeb",
+"label": "The death that made the cryptonym public",
+"note": "DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+},
+"b": {
+"cls": "person",
+"id": "sidney-gottlieb",
+"label": "Sidney Gottlieb"
+},
+"claimTier": 1,
+"id": "e-f68c1794c2",
+"label": "Named with Lashbrook as running the experiment",
+"note": "The Church Committee text reprinted in the 1977 hearing print states the drug was placed in the bottle by Robert Lashbrook as part of an experiment he and Sidney Gottlieb performed at a meeting of Army and CIA scientists.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2026-06-30",
+"label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026"
+},
+"b": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"claimTier": 1,
+"id": "e-6f72b68362",
+"label": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
+"note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "john-marks-foia-f-76-374",
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file"
+},
+"b": {
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"claimTier": 1,
+"id": "e-081b48d000",
+"label": "A FOIA request that defeated a records-destruction order",
+"note": "The Senate's own framing is that one individual, through a Freedom of Information request, accomplished what two Senate committees could not.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "john-marks-foia-f-76-374",
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file"
+},
+"b": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"claimTier": 1,
+"id": "e-ecbd1ca66a",
+"label": "The FOIA request that caused the recovery of the surviving MKULTRA file",
+"note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "john-marks-foia-f-76-374",
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file"
+},
+"b": {
+"cls": "institution",
+"id": "senate-intelligence",
+"label": "Senate Select Committee on Intelligence"
+},
+"claimTier": 1,
+"id": "e-08b8a6f2de",
+"label": "CIA advised to notify the Senate Select Committee before the requester's attorneys",
+"note": "The 22 June 1977 memorandum's second recommended action is to inform the Senate Select Committee of the recently located records prior to informing Mr. Marks' attorneys; the joint hearing followed on 3 August.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-ccee279bac",
+"label": "CIA interrogation-team programme, 1950 to 1951, then ARTICHOKE",
+"note": "Proposed by the Chief of the Agency's Inspection and Security Staff for the operational support of OSO and OPC, and renamed ARTICHOKE in August 1951 per the Church Committee text reprinted in the 1977 Senate print.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+"b": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"claimTier": 1,
+"id": "e-7fcf81429f",
+"label": "The 1950 predecessor of the 1953 programme",
+"note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"b": {
+"cls": "domain",
+"id": "d-records",
+"label": "Records & Archives"
+},
+"claimTier": 1,
+"id": "e-004efa6509",
+"label": "Records destroyed January 1973; a misfiled finance set survived",
+"note": "The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+},
+"b": {
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+"claimTier": 1,
+"id": "e-6f05b81bb7",
+"label": "Investigated MKULTRA in 1975 without the finance file",
+"note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "sidney-gottlieb",
+"label": "Sidney Gottlieb"
+},
+"b": {
+"cls": "domain",
+"id": "d-records",
+"label": "Records & Archives"
+},
+"claimTier": 1,
+"id": "e-190fca4c68",
+"label": "Ordered the destruction of the MKULTRA files, January 1973",
+"note": "The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-intelligence-senate-gov-6a334f1a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Senate Select Committee on Intelligence",
+"listedOn": [
+{
+"cls": "event",
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+},
+{
+"cls": "document",
+"id": "john-marks-foia-f-76-374",
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file"
+},
+{
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD"
+},
+{
+"cls": "program",
+"id": "mkultra",
+"label": "Project MKULTRA"
+},
+{
+"cls": "person",
+"id": "sidney-gottlieb",
+"label": "Sidney Gottlieb"
+}
+],
+"node": null,
+"title": "Project MKULTRA joint hearing, 3 August 1977",
+"topics": [
+{
+"claims": [
+"c-9c4271a309",
+"c-1db463ff4c",
+"c-4825f978b9",
+"c-52cbf91664",
+"c-d95dfb90d0",
+"c-9fc5e532ba",
+"c-0f60717ed8",
+"c-2ce75a8a2e",
+"c-42b62fb7d5",
+"c-dd772efb5c",
+"c-3d3522d4d5",
+"c-77631bea22",
+"c-8cd45018d5"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-9c4271a309"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-9c4271a309"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "document",
+"urls": [
+"https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+]
+}

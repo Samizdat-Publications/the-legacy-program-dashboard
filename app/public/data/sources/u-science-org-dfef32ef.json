@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-5602b65df4",
+"label": "NNSA rescued and now sponsors JASON after DoD declined renewal",
+"note": "On 25-26 April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE for JASON management and logistics support, two weeks after OUSD(R&E) confirmed it was ending the contract.",
+"type": "funding"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-science-org-dfef32ef",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "science.org",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+}
+],
+"node": null,
+"title": "Science (AAAS)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.science.org/content/article/jason-advisory-group-prepares-shut-down-us-contract-extension-seems-unlikely"
+]
+}

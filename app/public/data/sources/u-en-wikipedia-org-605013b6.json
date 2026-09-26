@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-605013b6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+{
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+}
+],
+"node": null,
+"title": "Leonard Stringfield - Wikipedia",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Leonard_Stringfield"
+]
+}

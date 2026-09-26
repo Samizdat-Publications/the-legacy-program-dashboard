@@ -38,20 +38,38 @@
 {
 "id": "c-0042691a25",
 "source": "NSA UFO FOIA collection, litigation records and the Yeates Affidavit",
+"sources": [],
 "text": "In 1980 NSA was a defendant in Civil Action No. 80-1562, 'Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency'; the presiding judge was given in camera access to a Top Secret explanation of why the UFO records were being withheld and ruled for NSA.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:yeates-affidavit) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-3869c21a7d",
 "source": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency (D.C. Cir. 1981; cert. denied 1982)",
+"sources": [
+{
+"id": "u-courtlistener-com-bc299077",
+"locator": null,
+"title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+}
+],
 "text": "The D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c15531ba41",
 "source": "The Black Vault, 'UFOs: The National Security Agency (NSA) Collection'",
+"sources": [
+{
+"id": "u-theblackvault-com-434b4049",
+"locator": null,
+"title": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records"
+}
+],
 "text": "NSA's UFO holdings were released only with most pages carrying a few visible words, using white-out redaction; a 2013 Mandatory Declassification Review was required to force further release.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

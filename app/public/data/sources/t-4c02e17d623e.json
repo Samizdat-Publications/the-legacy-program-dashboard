@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-3b192829bf",
+"locator": null,
+"node": "japan-uap-2026",
+"nodeLabel": "Japan's review of the 2026 US UAP file releases",
+"sourceText": "International Business Times UK, 13 May 2026, indexed via Google News",
+"text": "International Business Times UK headline, 13 May 2026: 'Japan Confirms Possession of UAP Footage After Reviewing Pentagon Videos Near Japanese Airspace.'",
+"tier": 2
+}
+],
+"date": "2026-05-13",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-4c02e17d623e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "International Business Times UK",
+"listedOn": [],
+"node": null,
+"title": "International Business Times UK, 13 May 2026",
+"topics": [
+{
+"claims": [
+"c-3b192829bf"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+}
+],
+"type": "article",
+"urls": []
+}

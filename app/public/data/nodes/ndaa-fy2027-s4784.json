@@ -7,20 +7,38 @@
 {
 "id": "c-281b74be13",
 "source": "S. 4784 (Reported in Senate) full text, GPO",
+"sources": [
+{
+"id": "bills-119s4784rs",
+"locator": null,
+"title": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+}
+],
 "text": "S. 4784 as reported, Report No. 119-127, contains zero occurrences of 'unidentified', 'UAP', 'Anomaly Resolution' or a citation to 50 U.S.C. 3373.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-506f51e08c",
 "source": "rounds.senate.gov press release, 16 June 2026",
+"sources": [],
 "text": "Rounds's 16 June 2026 announcement of provisions secured in the SASC-reported FY2027 NDAA contains no UAP provision.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-vi) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-2fbc95ef1f",
 "source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026",
+"sources": [
+{
+"id": "u-rounds-senate-gov-c6f398c0",
+"locator": null,
+"title": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026"
+}
+],
 "text": "Rounds stated in his newsletter for 22-28 June 2026 that he is 'once again cosponsoring' the UAP Disclosure Act as an NDAA amendment.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "legislation",
@@ -168,7 +186,7 @@
 ],
 "sub": "Reported by SASC June 2026; contains no UAP provisions",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 888 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 887 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": 1,

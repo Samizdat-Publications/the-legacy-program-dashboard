@@ -1,0 +1,149 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "event",
+"id": "capitol-disclosure-event-2026-06-09",
+"label": "Capitol UAP disclosure event, 9 June 2026"
+},
+"claimTier": 2,
+"id": "e-de4829fd15",
+"label": "Asked the White House to grant immunity to whistleblowers who disclose locations of craft and technology",
+"note": "The immunity ask is the caucus's response to the failure of the whistleblower bills to move.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "event",
+"id": "capitol-disclosure-event-2026-06-09",
+"label": "Capitol UAP disclosure event, 9 June 2026"
+},
+"claimTier": 2,
+"id": "e-a855b2c07a",
+"label": "Returned to Capitol Hill and said political appointees have not complied with the disclosure law",
+"note": "His first Capitol appearance with lawmakers since the 2023 testimony.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "event",
+"id": "capitol-disclosure-event-2026-06-09",
+"label": "Capitol UAP disclosure event, 9 June 2026"
+},
+"claimTier": 2,
+"id": "e-10fe5006c9",
+"label": "Called on the President to waive all NDAs for UAP whistleblowers; described a dead drop to his office",
+"note": "'For decades, the American people have been treated like children.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+"b": {
+"cls": "event",
+"id": "capitol-disclosure-event-2026-06-09",
+"label": "Capitol UAP disclosure event, 9 June 2026"
+},
+"claimTier": 2,
+"id": "e-5d54a26bc0",
+"label": "'Disclosure today, disclosure tomorrow'",
+"note": "Keeps the 2026 push bipartisan.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "the-hill",
+"label": "The Hill"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-04e011f37a",
+"label": "Continuing coverage of Grusch and congressional UAP transparency push",
+"note": "The Hill has carried repeated reporting on Grusch's claims and on lawmakers' efforts to get him into a classified setting, including 'Congress continues to seek answers on UFOs' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "event",
+"id": "capitol-disclosure-event-2026-06-09",
+"label": "Capitol UAP disclosure event, 9 June 2026"
+},
+"claimTier": 2,
+"id": "e-4b6abdfd74",
+"label": "Said an Area 51 tour would yield a T-shirt because the government would move everything else",
+"note": "A restatement of his 2023 line to Grusch about moving vans.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thehill-com-1ec40955",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "event",
+"id": "capitol-disclosure-event-2026-06-09",
+"label": "Capitol UAP disclosure event, 9 June 2026"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "The Hill: Government aware of 'several' kinds of aliens — UFO whistleblower",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+]
+}

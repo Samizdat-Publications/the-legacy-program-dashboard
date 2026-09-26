@@ -19,8 +19,16 @@
 {
 "id": "c-9c07dbbf38",
 "source": "Alejandro Rojas to DefenseScoop, 14 May 2026",
+"sources": [
+{
+"id": "t-365ad58d7592",
+"locator": null,
+"title": "Alejandro Rojas"
+}
+],
 "text": "'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

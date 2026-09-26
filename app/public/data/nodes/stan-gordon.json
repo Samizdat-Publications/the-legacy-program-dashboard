@@ -33,20 +33,38 @@
 {
 "id": "c-92df74e779",
 "source": "Unsolved Mysteries (NBC, 1990); 'The New Roswell: Kecksburg Exposed' (Sci Fi Channel, 2003)",
+"sources": [
+{
+"id": "t-da60f57416d1",
+"locator": null,
+"title": "Unsolved Mysteries (NBC, 1990); 'The New Roswell: Kecksburg Exposed' (Sci Fi Channel, 2003"
+}
+],
 "text": "Kecksburg residents interviewed over four decades describe an object shaped like an acorn and about the size of a Volkswagen bearing writing resembling hieroglyphs, removed from the woods by a military operation; resident John Hays has stated since 1990 that as a ten-year-old he saw a flat-bed truck emerging from the site carrying something 'the size of a VW'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-d25b37ea61",
 "source": "Greensburg Tribune-Review, December 1965",
+"sources": [
+{
+"id": "t-f06c5546f832",
+"locator": null,
+"title": "Greensburg Tribune-Review, December 1965"
+}
+],
 "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection, and that state police ordered the area roped off pending the arrival of Army engineers and possibly civilian scientists; a subsequent edition ran the headline 'Searchers Fail to Find Object'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0b8419cdf4",
 "source": "Inference from the Tribune-Review reporting set against the Kean v. NASA record",
+"sources": [],
 "text": "The Kecksburg record is the domain's clearest instance of a documented cordon with an undocumented object: the sealing of the area is in the contemporary press, and the disposition of whatever was inside the cordon is in no released record of any agency. Reasoning: the cordon is tier 1, the object is tier 2 at best, and NASA has been judicially found not to have adequately searched for the difference.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

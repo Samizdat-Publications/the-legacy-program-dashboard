@@ -7,44 +7,94 @@
 {
 "id": "c-a3b77d59e9",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+"sources": [
+{
+"id": "n-disclosure-project-briefing-2001",
+"locator": null,
+"title": "Disclosure Project Briefing Document, April 2001"
+}
+],
 "text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c6d95391bb",
 "source": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-cosimoblog-blogspot-com-71198734",
+"locator": null,
+"title": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'"
+}
+],
 "text": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins published a repudiation on 13 June 2017 alleging fabricated and altered documents, and Cosimo, Inc. announced on 17 October 2017 that it was 'suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins' because 'some of the experiences described in this book may be inaccurate or embellished'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2a308907d7",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+"sources": [
+{
+"id": "u-cdn-centerforinquiry-org-97e272f4",
+"locator": null,
+"title": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'"
+}
+],
 "text": "A SECOND AND SEPARATE CLAIM ON THIS EVENT COMES FROM CLIFFORD STONE, AND IT FAILS ON AN ACT OF HIS OWN. Stone told the Disclosure Project that an Army team took him to Bentwaters in late December 1980. Klass records that on 23 December 1983 Stone filed a FOIA request with the USAF for information on the same incident, 'used his home address and did not show that he was an Army sergeant'. Klass also notes the incident 'was not reported to higher officials until roughly two weeks after Stone says his team arrived'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f7872eb603",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+"sources": [
+{
+"id": "n-disclosure-project-briefing-2001",
+"locator": null,
+"title": "Disclosure Project Briefing Document, April 2001"
+}
+],
 "text": "STATED INFERENCE ABOUT A SOURCE. The Briefing Document's editorial header asserts that Warren's testimony is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone. Two of those three are witnesses inside the same document and one of them is Stone. The corroboration offered for this event by that source is internal to it.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-243fc2ca5f",
 "source": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81",
+"sources": [
+{
+"id": "n-halt-memo",
+"locator": null,
+"title": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+}
+],
 "text": "Halt's memorandum records that on the day after the first sighting 'three depressions 1 1/2\" deep and 7\" in diameter were found where the object had been sighted on the ground' and that 'Beta/Gamma readings of 0.1 milliroentgens were recorded with peak reading in the three depressions and near the center of the triangle formed by the depressions.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-35dcb7286a",
 "source": "The Black Vault provenance statement on the Halt memo release",
+"sources": [
+{
+"id": "n-halt-memo",
+"locator": null,
+"title": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+}
+],
 "text": "The memo was released by the Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office, under FOIA case 97-F-1677 in September 1997, having been released to other researchers earlier.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-36a772fac0",
 "source": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?', 26 Dec 2020; David Clarke, 40th-anniversary account with the MoD desk officer, 26 Dec 2020",
+"sources": [],
 "text": "Forty years on, the incident's American witnesses have maintained their accounts publicly while the UK Ministry of Defence's original assessment of 'no defence significance' has been shown to have been reached without interviewing them.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:bbc.co.uk/news/uk-england-suffolk-54649675) was rejected in review: string names two or more sources; candidate is only one"
 }
 ],
 "cls": "event",

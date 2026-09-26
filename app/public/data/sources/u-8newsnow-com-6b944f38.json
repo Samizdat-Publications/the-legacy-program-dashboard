@@ -1,0 +1,83 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"claimTier": 2,
+"id": "e-36f3c13c6b",
+"label": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract",
+"note": "Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"claimTier": 1,
+"id": "e-80de8e635d",
+"label": "co-author with the program manager and the contractor's deputy",
+"note": "Knapp moves from reporter to co-author of the DOPSR-cleared insider account — and his earlier book is the proximate cause of the contract.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"b": {
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"claimTier": 2,
+"id": "e-b77acf7fa3",
+"label": "co-author; states he entered a craft of unknown origin",
+"note": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-8newsnow-com-6b944f38",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "KLAS 8 News Now",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+}
+],
+"node": null,
+"title": "KLAS Mystery Wire",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+]
+}

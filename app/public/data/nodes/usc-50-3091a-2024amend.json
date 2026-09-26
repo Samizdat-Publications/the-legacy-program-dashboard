@@ -7,26 +7,58 @@
 {
 "id": "c-fdf29ec57d",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+}
+],
 "text": "Sec. 6602 inserts a new 50 U.S.C. 3091a(c), verbatim: 'Limitation on Spending.--Funds authorized to be appropriated for the National Intelligence Program may not be obligated or expended for any controlled access program, or a compartment or subcompartment therein, until the head of the element of the intelligence community responsible for the establishment of such program, compartment, or subcompartment, submits the notification required by subsection (b).' Applies only to CAPs 'established on or after the date of the enactment of this Act.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-255631b086",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+}
+],
 "text": "THE CAP-TO-SAP LAUNDERING BAR. Sec. 6603 adds 50 U.S.C. 3091a(b)(2)(A), verbatim: 'Except as provided in subparagraph (B), a head of an element of the intelligence community may not transfer a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in section 1152(g) of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 3348(g))), or to anything else outside the controlled access program, until the head submits to the appropriate congressional committees and congressional leadership notice of the intent of the head to make such transfer.' Text at 138 STAT. 2507-2508.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9b58073b84",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+}
+],
 "text": "THE TWO EXITS. Sec. 6603 adds subparagraph (B), verbatim: 'Exception.--The head of an element of the intelligence community may make a transfer described in subparagraph (A) without prior congressional notification if the head determines that doing so-- (i) is required to mitigate an urgent counterintelligence issue; or (ii) is necessary to maintain access in the event of an organizational restructuring.' Neither exception carries a deadline for after-the-fact notice, a reporting requirement, or a time limit.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-13d328740b",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+}
+],
 "text": "Congress in December 2024 wrote an express statutory prohibition on moving a capability out of an IC controlled access program and into a DoD-style special access program without notice. That prohibition only makes sense as a response to a believed or feared practice; the statute is itself evidence that the CAP-to-SAP transfer route was live enough to legislate against. The two exceptions -- 'urgent counterintelligence issue' and 'organizational restructuring' -- are self-certified by the same official making the transfer and are exactly the two rationales a program seeking to move would assert. Reasoning stated from the text of 3091a(b)(2).",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "legislation",

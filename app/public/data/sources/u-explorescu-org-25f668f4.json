@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-07ab10c974",
+"locator": null,
+"node": "scu-uap-studies",
+"nodeLabel": "Scientific Coalition for UAP Studies (SCU)",
+"sourceText": "explorescu.org",
+"text": "SCU is a registered 501(c)(3) charitable organisation.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+"b": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"claimTier": 1,
+"id": "e-39c5dc1d26",
+"label": "Founding board member; author of the Stephenville and Aguadilla studies",
+"note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 1,
+"id": "e-ba554f18c9",
+"label": "Builds the documentary counterpart to the physical-sample record",
+"note": "SCU's Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex runs in parallel to the VASCO plate work on the same period.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-explorescu-org-25f668f4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "explorescu.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+{
+"cls": "person",
+"id": "sarah-little",
+"label": "Sarah Little"
+},
+{
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+}
+],
+"node": null,
+"title": "Scientific Coalition for UAP Studies",
+"topics": [
+{
+"claims": [
+"c-07ab10c974"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.explorescu.org/"
+]
+}

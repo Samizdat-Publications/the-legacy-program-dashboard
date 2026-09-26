@@ -1,0 +1,195 @@
+{
+"archived": [
+"https://web.archive.org/web/20260522165323/https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-202c40f72a",
+"locator": null,
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Mansfield testified on 13 May 2026 that unsupported adjustments totalled 'over $859 billion in the last two quarters of FY 25'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-30d9b16898",
+"locator": null,
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "He stated material weaknesses declined from 28 in FY2024 to 26 in FY2025, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cd39934a29",
+"locator": null,
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "He stated the Department manages more than $4.7 trillion in assets.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ea4e357529",
+"locator": null,
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "He stated that reporting entities will consolidate from 22 to 7 in FY2027 and that an independent public accounting firm will assume the group auditor role with OIG oversight.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6a6f9c5e1b",
+"locator": null,
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Consolidating 22 separately opined reporting entities into 7 and transferring the group auditor role to a contracted firm both reduce the granularity and the government-held provenance of the annual public audit record. Reasoning: fewer entities means fewer separate opinions published; a contractor group auditor holds the working papers under a commercial engagement rather than as federal records held by an Inspector General.",
+"tier": 3
+},
+{
+"cls": "event",
+"id": "c-6434210bbe",
+"locator": null,
+"node": "dow-financial-mgmt-hearing-2026",
+"nodeLabel": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Mansfield announced consolidation of reporting entities from 22 to 7 in FY2027 and transfer of the group auditor role to an independent public accounting firm with OIG oversight.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-84189a36fe",
+"locator": null,
+"node": "dow-financial-mgmt-hearing-2026",
+"nodeLabel": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Mansfield's statement records unsupported adjustments of 'over $859 billion in the last two quarters of FY 25' and more than $4.7 trillion in assets under management.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-86c8ca9dc8",
+"locator": null,
+"node": "dow-financial-mgmt-hearing-2026",
+"nodeLabel": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The hearing 'DoW Financial Management: Examining Progress and New Audit Approaches' was held by the House Committee on Oversight and Government Reform on 13 May 2026, with Deputy Inspector General Brett A. Mansfield testifying.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-5d8e0bb9ed",
+"locator": null,
+"node": "dow-financial-mgmt-hearing-2026",
+"nodeLabel": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"sourceText": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "The House Oversight Committee has now received, in the same Congress, both the allegation of funds moved outside its oversight and the auditor's admission that the Department cannot document $859 billion of adjustments in two quarters, without any member publicly connecting them. Reasoning: the two proceedings are separately documented on the committee's and the OIG's own sites, and no published question or letter joins them.",
+"tier": 3
+}
+],
+"date": "2026-05-22",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "brett-mansfield",
+"label": "Brett A. Mansfield"
+},
+"b": {
+"cls": "program",
+"id": "dod-agencywide-audit",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+},
+"claimTier": 1,
+"id": "e-004292d479",
+"label": "Testified to the current figures on the congressional record",
+"note": "Deputy Inspector General Mansfield told the House Committee on Oversight and Government Reform on 13 May 2026 that unsupported adjustments exceeded $859 billion in the last two quarters of FY2025. Attested by his published oral statement.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "brett-mansfield",
+"label": "Brett A. Mansfield"
+},
+"b": {
+"cls": "event",
+"id": "dow-financial-mgmt-hearing-2026",
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)"
+},
+"claimTier": 1,
+"id": "e-3309777289",
+"label": "Witness at the 13 May 2026 hearing",
+"note": "Mansfield was the Office of Inspector General witness at 'DoW Financial Management: Examining Progress and New Audit Approaches'. Attested by the OIG's publication of his statement.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "dow-financial-mgmt-hearing-2026",
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)"
+},
+"b": {
+"cls": "institution",
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"claimTier": 1,
+"id": "e-d96ba23777",
+"label": "Same committee, 13 May 2026",
+"note": "The House Committee on Oversight and Government Reform held the DoW financial management hearing at which Deputy IG Mansfield testified. Attested by the OIG's publication of his statement.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-media-defense-gov-f7c4683f",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "brett-mansfield",
+"label": "Brett A. Mansfield"
+},
+{
+"cls": "event",
+"id": "dow-financial-mgmt-hearing-2026",
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)"
+},
+{
+"cls": "document",
+"id": "reprogramming-dd1415",
+"label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)"
+}
+],
+"node": null,
+"title": "Mansfield oral statement",
+"topics": [
+{
+"claims": [
+"c-202c40f72a",
+"c-30d9b16898",
+"c-cd39934a29",
+"c-ea4e357529",
+"c-6a6f9c5e1b",
+"c-84189a36fe",
+"c-5d8e0bb9ed"
+],
+"id": "unauditable-ledger",
+"title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+}
+],
+"type": "document",
+"urls": [
+"https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+]
+}

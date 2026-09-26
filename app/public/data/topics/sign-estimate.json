@@ -24,6 +24,13 @@
     "text": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-gutenberg-org-c14b8c35",
+     "locator": null,
+     "title": "Ruppelt, The Report on Unidentified Flying Objects"
+    }
+   ],
    "text": "Ruppelt first published the existence, content and destruction of the Estimate in 1956 based on his tenure as Blue Book director.",
    "tier": 2
   },
@@ -37,6 +44,13 @@
     "text": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "'Staff members prepared a classified Estimate of the Situation in July 1948 asserting UFOs were interplanetary vehicles. Air Force Chief of Staff Gen. Vandenberg rejected it for lacking proof, and copies were destroyed.'",
    "tier": 1
   },
@@ -50,6 +64,13 @@
     "text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
     "url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
    },
+   "sourceRefs": [
+    {
+     "id": "u-catalog-archives-gov-8a7d95cb",
+     "locator": null,
+     "title": "catalog.archives.gov"
+    }
+   ],
    "text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
    "tier": 1
   },
@@ -63,6 +84,13 @@
     "text": "NICAP document archive, 470624cascades_docs.pdf; Project Blue Book records, NARA RG 341, microfilm T-1206",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "nara-rg-341",
+     "locator": "microfilm T-1206",
+     "title": "The Report on Unidentified Flying Objects (NARA Record Group 341)"
+    }
+   ],
    "text": "Arnold's 24 June 1947 Cascades sighting generated an Army Air Forces investigative file that survives in the declassified record.",
    "tier": 1
   },
@@ -76,6 +104,7 @@
     "text": "Same document, propulsion section",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The memorandum lists 'Nuclear propulsion (atomic energy)' among the propulsion systems collectors were to investigate.",
    "tier": 1
   },
@@ -89,6 +118,7 @@
     "text": "Inference from the eleven-month sequence documented in Condon Sec. V Ch. 2",
     "url": null
    },
+   "sourceRefs": [],
    "text": "GRUDGE's founding conclusions were produced within months of the destruction of the SIGN Estimate and read as a corrective to it rather than as an independent analytical finding.",
    "tier": 3
   },
@@ -102,6 +132,7 @@
     "text": "Inference from the text of the Twining memo; no primary record identifying such a compartment has been released",
     "url": null
    },
+   "sourceRefs": [],
    "text": "An AMC commander writing that a 'high security project not known to this Command' may be responsible implies awareness in September 1947 that compartments existed above the Air Force's own technical intelligence chain — the structural precondition for a waived, unacknowledged program.",
    "tier": 3
   },
@@ -115,6 +146,7 @@
     "text": "Los Alamos National Laboratory, 18 November 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The 16 February 1949 green fireballs conference was held at Los Alamos Scientific Laboratory and its minutes are held by the National Security Research Center.",
    "tier": 1
   },
@@ -128,6 +160,7 @@
     "text": "Same document, design origins section",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The stated working hypothesis was Soviet exploitation of German Horten brothers designs, and collectors were asked to establish the Hortens' current whereabouts.",
    "tier": 1
   },
@@ -141,6 +174,13 @@
     "text": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Vandenberg rejected it for lacking proof and copies were destroyed.",
    "tier": 1
   },
@@ -154,6 +194,7 @@
     "text": "Inference from the two documents read in sequence",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The Horten framing functions as a collection cover story: the requirements describe capabilities no flying wing possessed, and the same office had received the Twining memo five weeks earlier stating the phenomenon was real.",
    "tier": 3
   },
@@ -167,6 +208,13 @@
     "text": "Schulgen draft collection memorandum, 1947, declassified text",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-schulgen-memo",
+     "locator": "declassified text",
+     "title": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+    }
+   ],
    "text": "The document is titled 'Intelligence Requirements on Flying Saucer Type Aircraft', signed by Brig. Gen. George F. Schulgen, Chief, Air Intelligence Requirements Division, dated 28 October 1947 and distributed 30 October 1947.",
    "tier": 1
   },
@@ -180,6 +228,7 @@
     "text": "Inference from the collection requirements text",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Asking field collectors about atomic propulsion in October 1947 is not consistent with a genuine belief that the objects were Soviet flying wings; it is consistent with an internal assessment that the performance envelope exceeded any known airframe.",
    "tier": 3
   },
@@ -193,6 +242,7 @@
     "text": "Los Alamos National Laboratory, 18 November 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "LANL states that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena, and that the NSRC does not appear to hold materials on Project Twinkle.",
    "tier": 1
   },
@@ -206,6 +256,13 @@
     "text": "Condon Report, Section V Chapter 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "Twining's letter of 23 September 1947 directed the establishment of a study of UFOs, and the project received priority designation in a December 1947 letter.",
    "tier": 1
   },
@@ -219,6 +276,13 @@
     "text": "Condon Report, Section V Chapter 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "Twining's 23 September 1947 letter directed the establishment of a study of UFOs, which became Project SIGN.",
    "tier": 1
   },
@@ -232,6 +296,13 @@
     "text": "Condon Report, Section V Chapter 2, summarising the Grudge Report",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": "summarising the Grudge Report",
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "The Grudge Report concluded UFO reports resulted from 'misinterpretation of various conventional objects', 'mass-hysteria', hoaxes or psychological factors, recommended reducing the scope of investigation, and found no direct threat to national security.",
    "tier": 1
   },
@@ -245,6 +316,7 @@
     "text": "Condon Report Sec. V Ch. 2 and Ruppelt, 'The Report on Unidentified Flying Objects' (1956), on the AMC/ATIC chain",
     "url": null
    },
+   "sourceRefs": [],
    "text": "McCoy was Chief of Intelligence at Air Materiel Command, the organisation that would have received any recovered material, and was the operational supervisor of Project SIGN.",
    "tier": 2
   },
@@ -258,6 +330,13 @@
     "text": "Schulgen collection memorandum, design origins section",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-schulgen-memo",
+     "locator": "design origins section",
+     "title": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+    }
+   ],
    "text": "The memorandum frames the objects as potentially manned aircraft of Russian origin derived from German Horten brothers designs and asks for the Hortens' current whereabouts.",
    "tier": 1
   },
@@ -271,6 +350,7 @@
     "text": "Congressional and Air Force statements catalogued in the secondary literature on Project SIGN",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Air Force representatives and Rep. L. Mendel Rivers have asserted that no such Estimate ever existed.",
    "tier": 2
   },
@@ -284,6 +364,13 @@
     "text": "Edward J. Ruppelt, The Report on Unidentified Flying Objects, chapter on green fireballs and Project Twinkle",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-gutenberg-org-c14b8c35",
+     "locator": "chapter on green fireballs and Project Twinkle",
+     "title": "Ruppelt, The Report on Unidentified Flying Objects"
+    }
+   ],
    "text": "Kirtland intelligence officers called in LaPaz because the fireballs resembled meteors, and he concluded they did not behave as meteors would.",
    "tier": 2
   },
@@ -297,6 +384,13 @@
     "text": "Inference linking Condon Sec. V Ch. 2 to GAO/NSIAD-95-187",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-95-187",
+     "locator": null,
+     "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+    }
+   ],
    "text": "The 1948 destruction is the earliest identifiable instance of the pattern the 1995 GAO report later documented at Roswell — records adverse to the official line disappearing without disposition authority.",
    "tier": 3
   },
@@ -310,6 +404,7 @@
     "text": "Los Alamos National Laboratory, 18 November 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The conference ultimately dismissed the notion that the green fireballs were a significant national security threat.",
    "tier": 1
   },
@@ -323,6 +418,7 @@
     "text": "Twining memorandum, 23 Sep 1947 (archived scan); Condon Report Sec. V Ch. 2",
     "url": null
    },
+   "sourceRefs": [],
    "text": "The memo is dated 23 September 1947, from Lt. Gen. Nathan Twining, Commanding General Air Materiel Command, to Brig. Gen. George Schulgen, subject 'AMC Opinion Concerning \"Flying Discs\"'.",
    "tier": 1
   },
@@ -336,6 +432,13 @@
     "text": "Condon Report, Section V Chapter 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Gen. Vandenberg rejected it for lacking proof and copies were destroyed.",
    "tier": 1
   },
@@ -349,6 +452,7 @@
     "text": "Inference from the conflict between Condon Sec. V Ch. 2 and later official denials",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A government-contracted official report and official denials cannot both be correct; the contracted report was written with access to Air Force files and the denials were made publicly, which favours the report.",
    "tier": 3
   },
@@ -362,6 +466,7 @@
     "text": "Los Alamos National Laboratory, 18 November 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "A conference was organised at Los Alamos on 16 February 1949 attended by Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and US military representatives; the National Security Research Center holds the conference minutes.",
    "tier": 1
   },
@@ -375,6 +480,13 @@
     "text": "Twining memorandum, 23 Sep 1947, paragraph 2a",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-twining-memo",
+     "locator": "paragraph 2a",
+     "title": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+    }
+   ],
    "text": "'The phenomenon reported is something real and not visionary or fictitious.'",
    "tier": 1
   },
@@ -388,6 +500,13 @@
     "text": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956); Project Blue Book administrative records, NARA RG 341",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "nara-rg-341",
+     "locator": null,
+     "title": "The Report on Unidentified Flying Objects (NARA Record Group 341)"
+    }
+   ],
    "text": "SIGN operated under Air Materiel Command intelligence at Wright Field, with J. Allen Hynek retained as scientific consultant from 1948.",
    "tier": 2
   },
@@ -401,6 +520,7 @@
     "text": "Newsweek, 10 July 2026; KLAS/Mystery Wire, 13 July 2026",
     "url": null
    },
+   "sourceRefs": [],
    "text": "Newly declassified records detailing the 1949 Los Alamos green fireballs conference were released and reported in July 2026.",
    "tier": 2
   },
@@ -414,6 +534,13 @@
     "text": "Condon Report, Section V Chapter 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
    "tier": 1
   },
@@ -427,6 +554,13 @@
     "text": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-lanl-gov-b738e76f",
+     "locator": null,
+     "title": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center"
+    }
+   ],
    "text": "LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes.",
    "tier": 1
   },
@@ -440,6 +574,13 @@
     "text": "Inference from the scope limits of GAO/NSIAD-95-187, which searched RAAF and headquarters records, not AMC T-2 holdings",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "gao-nsiad-95-187",
+     "locator": "which searched RAAF and headquarters records, not AMC T-2 holdings",
+     "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+    }
+   ],
    "text": "AMC T-2 intelligence files for 1947-1949 are the single most likely surviving custody record for any recovered materiel, and no comprehensive declassification review of that series has ever been reported.",
    "tier": 3
   },
@@ -453,6 +594,13 @@
     "text": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:26:46, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
     "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
    },
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-a8e0916c",
+     "locator": null,
+     "title": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100, 000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:26:46 and 0:27:36, Michels said in narration that a military-funded project to search for small natural satellites of the Earth began at White Sands Missile Range in 1953, that LaPaz and Clyde Tombaugh were the two scientists in charge of it, and that LaPaz came to it from Project Twinkle. Neither Tombaugh nor the White Sands satellite search appears anywhere in the board's research files.",
    "tier": 2
   },
@@ -466,6 +614,13 @@
     "text": "Contemporaneous wire coverage, 25 June 1947, as reconstructed in the Condon Report Sec. V Ch. 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": "reconstruction of 25 June 1947 wire coverage",
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "The term 'flying saucer' derives from press paraphrase of Arnold's description of the objects' motion, not their shape.",
    "tier": 2
   },
@@ -479,6 +634,7 @@
     "text": "Los Alamos National Laboratory, 18 November 2024",
     "url": null
    },
+   "sourceRefs": [],
    "text": "LANL states that its National Security Research Center does not appear to hold materials on Project Twinkle, although not all of the millions of items in its collections are searchable.",
    "tier": 1
   },
@@ -492,6 +648,13 @@
     "text": "Condon Report, Section V Chapter 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "The memo recommended a priority project, which was directed on 30 December 1947 as Project SIGN.",
    "tier": 1
   },
@@ -505,6 +668,13 @@
     "text": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:28:29",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-a8e0916c",
+     "locator": "0:28:29",
+     "title": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100, 000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)"
+    }
+   ],
    "text": "In the same narration at 0:28:29 Michels said that on 23 August 1954 Aviation Week and Space Technology published a statement from LaPaz confirming two unknown objects in low Earth orbit while simultaneously describing them as fully identified natural asteroids captured by the Earth's gravity. The magazine issue was not opened in this pass, so the date and the wording are the speaker's and not the record's; the issue is named here so a later pass can pull it.",
    "tier": 2
   },
@@ -518,6 +688,13 @@
     "text": "Schulgen collection memorandum, propulsion section",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-schulgen-memo",
+     "locator": "propulsion section",
+     "title": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+    }
+   ],
    "text": "'Nuclear propulsion (atomic energy)' is listed among the propulsion systems collectors were to investigate.",
    "tier": 1
   },
@@ -531,6 +708,7 @@
     "text": "Contemporaneous Air Force records; FBI file 62-HQ-83894 material released in the Department of War PURSUE Release 01",
     "url": null
    },
+   "sourceRefs": [],
    "text": "In December 1949 Project Twinkle, a network of green fireball observation and photographic stations, was established but never fully implemented.",
    "tier": 2
   },
@@ -544,6 +722,13 @@
     "text": "Condon Report, Section V Chapter 2, quoting the Twining letter",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": "quoting the Twining letter",
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "The memo directs consideration of the possibility that the objects 'are of domestic origin -- the product of some high security project' not known to Air Force intelligence or to Air Materiel Command.",
    "tier": 1
   },
@@ -557,6 +742,13 @@
     "text": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-gutenberg-org-c14b8c35",
+     "locator": null,
+     "title": "Ruppelt, The Report on Unidentified Flying Objects"
+    }
+   ],
    "text": "The Estimate's existence and destruction were first published by Edward Ruppelt, the first Blue Book director, in 1956.",
    "tier": 2
   },
@@ -570,6 +762,13 @@
     "text": "NICAP document archive, file 471124_McCoy_to_Chief_of_Staff.pdf, indexed in the public NICAP /docs/ directory",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-nicap-org-2f211b82",
+     "locator": null,
+     "title": "AMC letter to Chief of Staff, 24 November 1947 (scan)"
+    }
+   ],
    "text": "A 24 November 1947 letter from AMC intelligence to the Air Force Chief of Staff on the flying disc problem exists and is preserved in scanned form.",
    "tier": 1
   },
@@ -583,6 +782,13 @@
     "text": "Twining memorandum, 23 Sep 1947, as reproduced in the standard declassified text",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-twining-memo",
+     "locator": "as reproduced in the standard declassified text",
+     "title": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+    }
+   ],
    "text": "The memo also records that the lack of physical evidence in the form of crash-recovered exhibits was a constraint on AMC's analysis.",
    "tier": 2
   },
@@ -596,6 +802,13 @@
     "text": "Condon Report, Section V Chapter 2",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "u-files-ncas-org-efaea9db",
+     "locator": null,
+     "title": "Condon Report Sec. V Ch. 2"
+    }
+   ],
    "text": "Project SIGN was reconstituted as Project GRUDGE on 11 February 1949 with a conclusion that reports were misinterpretation, mass hysteria and hoaxes posing 'no direct threat to national security.'",
    "tier": 1
   },
@@ -609,6 +822,13 @@
     "text": "Schulgen collection memorandum, observable features section",
     "url": null
    },
+   "sourceRefs": [
+    {
+     "id": "n-schulgen-memo",
+     "locator": "observable features section",
+     "title": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+    }
+   ],
    "text": "Collectors were directed to report on 'extreme maneuverability and apparent ability to almost hover', a 'relatively flat bottom with extreme light-reflecting ability', and an oval or disc plan form with a dome.",
    "tier": 1
   },

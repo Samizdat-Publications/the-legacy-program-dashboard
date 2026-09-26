@@ -8,20 +8,38 @@
 {
 "id": "c-c8a3e4f8ac",
 "source": "bmsis.org/about",
+"sources": [
+{
+"id": "u-bmsis-org-896e25b1",
+"locator": null,
+"title": "Blue Marble Space Institute of Science - About (official)"
+}
+],
 "text": "BMSIS is a non-profit public charity organised under section 501(c)(3) of the US Internal Revenue Code, self-described as an international community engaged in building a sustainable future and nurturing scientific interest among the public.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-121adf222e",
 "source": "bmsis.org/about",
+"sources": [
+{
+"id": "u-bmsis-org-896e25b1",
+"locator": null,
+"title": "Blue Marble Space Institute of Science - About (official)"
+}
+],
 "text": "Its research programme spans planetary habitability, origin of life, space biology, climate change, sustainable development, human spaceflight and solar system exploration, published in academic journals and disseminated through podcasts, seminars and the SAGANet network; all projects must include educational outreach.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2a5c0971e1",
 "source": "Inference",
+"sources": [],
 "text": "BMSIS's board significance is derivative rather than programmatic: it supplies an academically legitimate, government-independent affiliation for Jacob Haqq-Misra, allowing UAP-adjacent anomaly-search methodology to be published under an astrobiology institute's name. Reasoning: from the institute's stated remit combined with Haqq-Misra's recorded affiliation elsewhere on this board.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",

@@ -1,0 +1,149 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"claimTier": 2,
+"id": "e-580bcb118e",
+"label": "Caucus member",
+"note": "Described as a member of the caucus in March 2024 and again in June 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "program",
+"id": "uap-select-committee-proposal",
+"label": "Proposed House Select Committee on UAP"
+},
+"claimTier": 2,
+"id": "e-8d3b7ed08b",
+"label": "Led the March 2024 call for a select committee focused on expenditures",
+"note": "Burlison said he had the support of Comer, Burchett and Moskowitz but had not raised it with Speaker Johnson.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+"b": {
+"cls": "program",
+"id": "uap-select-committee-proposal",
+"label": "Proposed House Select Committee on UAP"
+},
+"claimTier": 2,
+"id": "e-dc7b31d087",
+"label": "Reported to support the proposed select committee; never created one",
+"note": "Burlison named Comer's support publicly on 12 March 2024.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"b": {
+"cls": "program",
+"id": "uap-select-committee-proposal",
+"label": "Proposed House Select Committee on UAP"
+},
+"claimTier": 3,
+"id": "e-683323e5df",
+"label": "A select committee is the instrument that would route around the read-in gate",
+"note": "Reasoning: a select committee carries its own clearance posture and subpoena authority and is not subject to another committee's read-in approval. Burlison's stated rationale was that DoD 'weren't transparent to us in a SCIF setting.'",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"claimTier": 2,
+"id": "e-18f061e431",
+"label": "Founded the caucus in August 2023 and led its letter to the ICIG",
+"note": "Burchett press release of 22 August 2023; The Hill records the caucus as bipartisan and formed 'last fall.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "program",
+"id": "uap-select-committee-proposal",
+"label": "Proposed House Select Committee on UAP"
+},
+"claimTier": 2,
+"id": "e-5e8fb8dce7",
+"label": "Led the earlier select committee effort under Speaker McCarthy",
+"note": "The effort was lost when McCarthy lost the speakership.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thehill-com-1dead966",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+{
+"cls": "person",
+"id": "james-comer",
+"label": "James Comer Jr."
+},
+{
+"cls": "program",
+"id": "uap-select-committee-proposal",
+"label": "Proposed House Select Committee on UAP"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "The Hill: GOP lawmaker calls for House to form committee on UAPs",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/"
+]
+}

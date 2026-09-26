@@ -24,14 +24,24 @@
 {
 "id": "c-e3218ad4c5",
 "source": "Ryan S. Wood, 'Majic Eyes Only' (2005); copy indexed at the Internet Archive",
+"sources": [
+{
+"id": "n-majic-eyes-only",
+"locator": null,
+"title": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+}
+],
 "text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-b43f8d39ea",
 "source": "Inference from the book's stated method",
+"sources": [],
 "text": "The credibility weightings in 'Majic Eyes Only' are not independently reproducible because the weighting function is not published in auditable form, so the catalogue's value is as an index of claims and first-claimants rather than as a ranking. Reasoning: a scoring scheme that cannot be re-run by a third party on the same inputs is a summary, not a metric.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

@@ -1,0 +1,98 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-f32eab81cf",
+"locator": null,
+"node": "imminent-book",
+"nodeLabel": "Imminent: Inside the Pentagon's Hunt for UFOs",
+"sourceText": "Wikipedia, Luis Elizondo, citing publisher and contemporaneous reviews",
+"text": "Published August 2024 and debuted at number one on the New York Times bestseller list; claims include recovery of non-human bodies and a decades-long secret retrieval programme.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4ce7c4da4b",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "https://en.wikipedia.org/wiki/Luis_Elizondo",
+"text": "At a May 2025 UAP Disclosure Fund hearing Elizondo presented an image he described as a disc-shaped object 600-1,000 feet in diameter; analysts including Mick West identified it as an irrigation circle.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c53b393407",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "https://en.wikipedia.org/wiki/Luis_Elizondo",
+"text": "His second memoir, 'Reckoning: The Unspoken Truth about UFOs and the Urgency of Now', is scheduled for publication by HarperCollins' Mudlark imprint in August 2026.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"claimTier": 3,
+"id": "e-eecd9ab45f",
+"label": "the paradigm case the waiver addresses",
+"note": "Elizondo is the archetype of a former official constrained by prepublication review and secrecy obligations; the ODNI memorandum waives 'agreements, oaths, or commitments' for disclosure to government investigators, not to publishers.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-b2454470",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "document",
+"id": "imminent-book",
+"label": "Imminent: Inside the Pentagon's Hunt for UFOs"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+}
+],
+"node": null,
+"title": "Wikipedia, Luis Elizondo",
+"topics": [
+{
+"claims": [
+"c-f32eab81cf",
+"c-4ce7c4da4b",
+"c-c53b393407"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-f32eab81cf",
+"c-4ce7c4da4b"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+}
+],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Luis_Elizondo"
+]
+}

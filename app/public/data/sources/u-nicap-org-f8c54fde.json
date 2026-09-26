@@ -1,0 +1,116 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-06ff8536c6",
+"locator": null,
+"node": "foreign-technology-division",
+"nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+"sourceText": "Air Force Regulation 80-17, 19 September 1966, https://nicap.org/afr80-17.htm",
+"text": "FTD, not a base, was the terminal analytical office: 'FTD will: (1) Analyze and evaluate all information and evidence reported to bases on those UFOs which are not identified at the base level', and 'FTD, Wright-Patterson AFB, Ohio, will prepare a final case report on each sighting reported to it.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-30ac5bc3f0",
+"locator": null,
+"node": "foreign-technology-division",
+"nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+"sourceText": "Air Force Regulation 80-17, 'Research and Development - UNIDENTIFIED FLYING OBJECTS (UFO)', Department of the Air Force, 19 September 1966, https://nicap.org/afr80-17.htm",
+"text": "The Blue Book effort was assigned to FTD by regulation: 'The Air Force Systems Command will support the program with current resources within the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio, to continue Blue Book effort.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-f254bc0f90",
+"label": "Held the Blue Book effort by regulation from 19 September 1966",
+"note": "AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"id": "e-99113b8b3c",
+"label": "Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme",
+"note": "AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+},
+"b": {
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"claimTier": 1,
+"id": "e-c39e3965b6",
+"label": "Stationed at Wright-Patterson AFB, Ohio",
+"note": "AFR 80-17 names the station in the assignment itself: 'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio'.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-nicap-org-f8c54fde",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB"
+}
+],
+"node": null,
+"title": "AFR 80-17, 19 September 1966",
+"topics": [
+{
+"claims": [
+"c-06ff8536c6",
+"c-30ac5bc3f0"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-06ff8536c6",
+"c-30ac5bc3f0"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "web page",
+"urls": [
+"https://nicap.org/afr80-17.htm"
+]
+}

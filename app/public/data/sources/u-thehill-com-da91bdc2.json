@@ -1,0 +1,64 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+"b": {
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members"
+},
+"claimTier": 2,
+"id": "e-ed03cf77b9",
+"label": "Caucus members attended the closed ICIG briefing",
+"note": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thehill-com-da91bdc2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "person",
+"id": "alexandria-ocasio-cortez",
+"label": "Alexandria Ocasio-Cortez"
+},
+{
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members"
+},
+{
+"cls": "institution",
+"id": "congressional-uap-caucus",
+"label": "Congressional UAP Caucus"
+},
+{
+"cls": "person",
+"id": "thomas-monheim",
+"label": "Thomas A. Monheim"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+]
+}

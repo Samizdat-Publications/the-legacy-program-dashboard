@@ -1,0 +1,112 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-aa786f1ebb",
+"locator": null,
+"node": "d-aerospace",
+"nodeLabel": "Aerospace Engineering & Advanced Projects",
+"sourceText": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed'",
+"text": "Lockheed's Advanced Development Projects designed and flew the U-2, A-12/SR-71 and F-117 under security regimes in which the aircraft's existence was officially denied while operational.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cae789235f",
+"locator": null,
+"node": "ben-rich",
+"nodeLabel": "Ben R. Rich",
+"sourceText": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Little, Brown, 1994)",
+"text": "Rich directed Lockheed's Advanced Development Projects from 1975 to 1991 and published a memoir describing how unacknowledged black programs were compartmented, staffed and funded at Burbank and Palmdale.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-be278e3122",
+"locator": null,
+"node": "lockheed-skunk-works",
+"nodeLabel": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"sourceText": "Ben R. Rich and Leo Janos, 'Skunk Works' (1994)",
+"text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "ben-rich",
+"label": "Ben R. Rich"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+"claimTier": 1,
+"id": "e-f8077c0748",
+"label": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
+"note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "ben-rich",
+"label": "Ben R. Rich"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 3,
+"id": "e-e8881e930c",
+"label": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
+"note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-b004b0cb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+{
+"cls": "person",
+"id": "ben-rich",
+"label": "Ben R. Rich"
+},
+{
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+}
+],
+"node": null,
+"title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"topics": [
+{
+"claims": [
+"c-aa786f1ebb",
+"c-cae789235f",
+"c-be278e3122"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/skunkworks00benr"
+]
+}

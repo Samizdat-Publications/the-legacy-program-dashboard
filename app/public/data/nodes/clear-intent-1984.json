@@ -7,20 +7,44 @@
 {
 "id": "c-09937cbcf0",
 "source": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"sources": [
+{
+"id": "n-clear-intent-1984",
+"locator": null,
+"title": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+}
+],
 "text": "The book is built on documents obtained by Citizens Against UFO Secrecy under FOIA from the CIA, FBI, NSA, Air Force, NORAD and the Office of the Joint Chiefs of Staff, reproduced in facsimile and annotated.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2534628036",
 "source": "Fawcett and Greenwood, 'Clear Intent' (1984), Preface",
+"sources": [
+{
+"id": "n-clear-intent-1984",
+"locator": "Preface",
+"title": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+}
+],
 "text": "The title derives from a Loring AFB teletype reporting that an unidentified object 'demonstrated a clear intent in the weapons storage area', a phrase the Air Force never explained.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-588f165208",
 "source": "Library catalogue record, ufocoverupwhatgo0000fawc",
+"sources": [
+{
+"id": "u-archive-org-f5e7bfb6",
+"locator": null,
+"title": "The UFO cover-up: what the government won't say (1992 reissue)"
+}
+],
 "text": "The book was reissued in 1992 as 'The UFO Cover-Up: What the Government Won't Say', with the title page verso noting 'Originally published as Clear intent.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",
@@ -158,7 +182,7 @@
 ],
 "sub": "Lawrence Fawcett and Barry J. Greenwood; Prentice-Hall Spectrum, 1984",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 900 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 899 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

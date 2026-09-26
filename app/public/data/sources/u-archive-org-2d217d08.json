@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7a991138ca",
+"locator": null,
+"node": "donald-h-menzel",
+"nodeLabel": "Donald H. Menzel",
+"sourceText": "Internet Archive catalogue records for works by Menzel, returned by https://archive.org/advancedsearch.php with creator 'Menzel, Donald H.', and item metadata at https://archive.org/metadata/ufoenigmadefinit0000menz_f0a5",
+"text": "He is one man with two names in the corpus. The Internet Archive's catalogue records give the authorised form of his name on every work as 'Menzel, Donald H. (Donald Howard), 1901-1976', which resolves the batch 05 caption 'Howard Menzel' to the batch 02 'Donald Menzel'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-2d217d08",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+}
+],
+"node": null,
+"title": "Internet Archive catalogue records for works by Menzel, returned by with creator 'Menzel, Donald H.', and item metadata at",
+"topics": [
+{
+"claims": [
+"c-7a991138ca"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://archive.org/advancedsearch.php"
+]
+}

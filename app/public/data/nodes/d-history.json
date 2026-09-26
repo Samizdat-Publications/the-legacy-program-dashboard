@@ -8,20 +8,44 @@
 {
 "id": "c-d0bb364d87",
 "source": "AARO Historical Record Report Volume I",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's Volume I report reconstructs USG UAP investigatory programmes since 1945 and assesses interviewee claims of hidden programmes in Sections IV through VII.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b71d752140",
 "source": "Condon Report, University of Colorado",
+"sources": [
+{
+"id": "u-files-ncas-org-e5f381eb",
+"locator": null,
+"title": "Scientific Study of Unidentified Flying Objects (Condon Report)"
+}
+],
 "text": "The Condon Report, 'Scientific Study of Unidentified Flying Objects', was published in November 1968 and led directly to the termination of Project Blue Book.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5aebd6dd9a",
 "source": "Robertson Panel report, declassified text",
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "declassified text",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The Robertson Panel report of January 1953 is a primary document in the official corpus and was itself declassified only in redacted stages.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",

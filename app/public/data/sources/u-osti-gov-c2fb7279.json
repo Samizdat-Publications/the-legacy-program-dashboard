@@ -1,0 +1,134 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a533456e7c",
+"locator": null,
+"node": "bechtel-nevada",
+"nodeLabel": "Bechtel Nevada Corporation",
+"sourceText": "OSTI.GOV record, Nevada Test Site Environmental Report 2005",
+"text": "Bechtel Nevada is the research organisation of record on DOE Nevada Test Site technical and environmental reports through 2006, succeeded by National Security Technologies, LLC.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-b3ba5d9c80",
+"locator": null,
+"node": "l-nevada-test-site",
+"nodeLabel": "Nevada Test Site / Nevada National Security Site",
+"sourceText": "OSTI.GOV, Nevada Test Site Environmental Report 2005",
+"text": "Bechtel Nevada and subsequently National Security Technologies, LLC appear as the management and operating research organisations of record on DOE Nevada Test Site technical reports.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "bechtel-nevada",
+"label": "Bechtel Nevada Corporation"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 3,
+"id": "e-bfb79d4a7a",
+"label": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
+"note": "Atomic Energy Act Restricted Data authorities are a separate statutory classification scheme; material held under them by a DOE management and operating contractor is not reachable by the Sec. 119 reporting obligations Congress relies on. No document places UAP material under DOE authority.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "bechtel-nevada",
+"label": "Bechtel Nevada Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 1,
+"id": "e-939a1c4be9",
+"label": "Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006",
+"note": "DOE technical reports list Bechtel Nevada as research organisation of record through 2006, succeeded by National Security Technologies, LLC.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 2,
+"id": "e-d307be49cb",
+"label": "EG&G was the classified services contractor for the Nevada complex in the testing era",
+"note": "Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 1,
+"id": "e-a9e2b1ee93",
+"label": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
+"note": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-osti-gov-c2fb7279",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of Energy",
+"listedOn": [
+{
+"cls": "institution",
+"id": "bechtel-nevada",
+"label": "Bechtel Nevada Corporation"
+},
+{
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+{
+"cls": "institution",
+"id": "northrop-grumman",
+"label": "Northrop Grumman Corporation"
+}
+],
+"node": null,
+"title": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
+"topics": [
+{
+"claims": [
+"c-a533456e7c"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.osti.gov/biblio/892135"
+]
+}

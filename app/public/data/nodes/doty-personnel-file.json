@@ -7,8 +7,16 @@
 {
 "id": "c-642f07e2b2",
 "source": "The Black Vault release of the Doty personnel file, 20 May 2021",
+"sources": [
+{
+"id": "n-doty-personnel-file",
+"locator": "released 20 May 2021",
+"title": "Richard Doty New Mexico State Police Personnel File [321 pages]"
+}
+],
 "text": "Doty's complete releasable New Mexico State Police personnel file runs to 321 pages and was obtained under NMSA 14-2-1 et seq., with redactions applied by the New Mexico Department of Public Safety.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

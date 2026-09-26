@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2539a47738",
+"locator": null,
+"node": "matt-ross",
+"nodeLabel": "Matt Ross",
+"sourceText": "The Debrief reporting on the January 2026 counter-drone policy change, 30 January 2026",
+"text": "Joint Interagency Task Force 401 (JIATF-401) was established in August 2025 and is directed by Brigadier General Matt Ross.",
+"tier": 1
+}
+],
+"date": "2026-01-30",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-6855626d592d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "The Debrief reporting on the January 2026 counter-drone policy change, 30 January 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

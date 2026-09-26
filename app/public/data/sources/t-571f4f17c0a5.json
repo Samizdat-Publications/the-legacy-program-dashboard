@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-fcd7f330a5",
+"locator": null,
+"node": "kirkpatrick-sciam-oped-2024",
+"nodeLabel": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
+"sourceText": "Kirkpatrick interview with Peter Bergen, 23 January 2024",
+"text": "In a follow-on interview, suggested Grusch may have misinterpreted information or fallen under the influence of believers, and called the situation a self-licking ice cream cone.",
+"tier": 2
+}
+],
+"date": "2024-01-23",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-571f4f17c0a5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Peter Bergen",
+"listedOn": [],
+"node": null,
+"title": "interview with Peter Bergen",
+"topics": [],
+"type": "broadcast",
+"urls": []
+}

@@ -1,0 +1,288 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6353a6c817",
+"locator": "slide 5",
+"node": "pax-205-disclosure",
+"nodeLabel": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"sourceText": "NAVAIR FOIA release 2021-003244, slide 5",
+"text": "The briefing answers 'Is there the potential for commercial use' with 'YES', citing the design of energy generation machinery with power output levels much higher than those currently achievable by conventional means.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-883ff48610",
+"locator": "slide 4",
+"node": "pax-205-disclosure",
+"nodeLabel": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"sourceText": "NAVAIR FOIA release 2021-003244, slide 4",
+"text": "Its 'Description of Invention' slide asserts that 'It is possible to reduce the inertial mass and hence the gravitational mass, of a system/object in motion, by an abrupt perturbation of the non-linear background of local Spacetime', with the mechanism attributed to negative pressure in a polarized local vacuum energy state achieved by coupling accelerated high frequency vibration with accelerated high frequency axial spin of an electrically charged object.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8d8130857a",
+"locator": null,
+"node": "pax-205-disclosure",
+"nodeLabel": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"sourceText": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+"text": "The document is a six-page Navy briefing headed 'INERTIAL MASS REDUCTION DEVICE, Navy Case PAX 205', released by NAVAIR under FOIA case 2021-003244.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-312007a6ab",
+"locator": "slide 3",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 3",
+"text": "The PAX 205 briefing opens by quoting VADM Paul Grosklags, Commander NAVAIR, dated 11-19-2015, and frames the device as delivering 'Battlefield Supremacy, against all foes'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7f52552c6c",
+"locator": "slides 4 and 5",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 5",
+"text": "The PAX 205 briefing states the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a Vacuum plasma bubble/sheath', and that 'Energy flux values of 10^33 Watts/m^2 (and beyond) are possible.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-96c3f17a55",
+"locator": "slide 5",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
+"text": "The PAX 205 briefing states that 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)', that this 'has tremendous air and space military implications and applications (both offensive and defensive in nature)', and that 'Local spacetime modification on a grand scale (planetary-size disruption) is thus feasible.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9b368b9f03",
+"locator": "slide 5",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
+"text": "The PAX 205 briefing states the invention 'makes possible the design of a hybrid aerospace / undersea craft (HAUC), which due to the physical mechanisms enabled with the Inertial Mass Reduction Device (IMRD), can function as a submersible craft capable of extreme aerial and underwater speeds (lack of air/water-skin friction) and enhanced stealth capabilities (non-linear scattering of RF and sonar signals).'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a4201d5a70",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE', p. 1, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+"text": "The Navy invention-disclosure briefing for Navy Case PAX 205 identifies its author as 'Salvatore Cezar Pais, Ph.D., Department of Defense / Department of the Navy, Naval Air Systems Command / NAWCAD, NAS Patuxent River Maryland 20670', with competency code 4.4.5.1 and a salvatore.pais@navy.mil address.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b25431bf87",
+"locator": "slide 6",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 6",
+"text": "The PAX 205 briefing proposes Section 219 NISE funding of 250,000 USD in anticipated labour and 250,000 USD in anticipated NAWCAD facility cost for experimental investigation of the concept, under a slide headed 'EXPERIMENT TRUMPS THEORY EVERYTIME!'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-aab537f28f",
+"locator": "slides 4-5; the board's inference from it",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, compared against the reported characteristics on this board",
+"text": "The PAX 205 description of a single craft combining transmedium air/space/water travel, extreme speed without skin friction, and low observability through non-linear scattering of RF and sonar tracks the flight characteristics reported by Navy aircrew in the same period more closely than any other document in the federal patent record. Reasoning: direct comparison of the briefing's own capability list against the reported characteristics; the correspondence is a matter of textual overlap and does not establish a causal direction in either direction.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-7e67183956",
+"locator": null,
+"node": "five-observables",
+"nodeLabel": "The five observables (UAP performance taxonomy)",
+"sourceText": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE', slides 4-5, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+"text": "Four of the five are itemised as design goals in a United States Navy invention-disclosure briefing released under FOIA. The PAX 205 briefing describes a 'hybrid aerospace / undersea craft (HAUC)' that 'would move with great ease through the air / space / water mediums' (trans-medium travel), enclosed in a 'Vacuum plasma bubble/sheath' giving extreme speed without skin friction (hypersonic velocity), with non-linear scattering of radio frequency and sonar signals (low observability), by means of an inertial mass reduction device (lift without flight surfaces). This is the whole reason the taxonomy is on this board.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dd203b1035",
+"locator": "slides 4-5; the board's inference from it",
+"node": "five-observables",
+"nodeLabel": "The five observables (UAP performance taxonomy)",
+"sourceText": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, read against the five as published",
+"text": "The fifth observable, sudden and instantaneous acceleration, is NOT itemised as a design goal in the PAX 205 briefing. The briefing speaks of operating the device 'under rapid acceleration transients' as a means of generating the field, which is a statement about how the machine is driven rather than a claimed flight characteristic of the craft. Recorded because four out of five is the accurate figure and five would be the easy overclaim.",
+"tier": 1
+}
+],
+"date": "2015-03-06",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "pax-205-disclosure",
+"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+},
+"b": {
+"cls": "document",
+"id": "pais-patent-imrd",
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+},
+"claimTier": 1,
+"id": "e-2bf2582793",
+"label": "Internal disclosure underlying the granted patent",
+"note": "Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+"b": {
+"cls": "document",
+"id": "pax-205-disclosure",
+"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+},
+"claimTier": 1,
+"id": "e-90d5a4103d",
+"label": "Author of the Navy invention disclosure",
+"note": "The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+"b": {
+"cls": "location",
+"id": "l-pax-river",
+"label": "Naval Air Station Patuxent River, Maryland"
+},
+"claimTier": 1,
+"id": "e-16ebae69c7",
+"label": "NAWCAD, NAS Patuxent River, at the time of filing",
+"note": "The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "five-observables",
+"label": "The five observables (UAP performance taxonomy)"
+},
+"b": {
+"cls": "document",
+"id": "pax-205-disclosure",
+"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+},
+"claimTier": 2,
+"id": "e-ab522e8de8",
+"label": "Four of five itemised as design goals",
+"note": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "five-observables",
+"label": "The five observables (UAP performance taxonomy)"
+},
+"b": {
+"cls": "document",
+"id": "pais-patent-imrd",
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+},
+"claimTier": 2,
+"id": "e-5ea45d9614",
+"label": "The craft claimed to deliver them",
+"note": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "pais-patent-imrd",
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+},
+"b": {
+"cls": "document",
+"id": "pais-patent-hfgw",
+"label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+},
+"claimTier": 1,
+"id": "e-e85cdcada8",
+"label": "The disclosure says the IMRD enables the gravitational wave generator",
+"note": "PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'.",
+"type": "programmatic"
+}
+],
+"era": "2",
+"host": null,
+"id": "n-pax-205-disclosure",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Navy",
+"listedOn": [
+{
+"cls": "document",
+"id": "pax-205-disclosure",
+"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+},
+{
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+{
+"cls": "document",
+"id": "five-observables",
+"label": "The five observables (UAP performance taxonomy)"
+}
+],
+"node": {
+"cls": "document",
+"id": "pax-205-disclosure",
+"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+},
+"title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"topics": [
+{
+"claims": [
+"c-8d8130857a",
+"c-7f52552c6c",
+"c-96c3f17a55",
+"c-9b368b9f03",
+"c-a4201d5a70",
+"c-b25431bf87",
+"c-aab537f28f",
+"c-7e67183956",
+"c-dd203b1035"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+},
+{
+"claims": [
+"c-7e67183956",
+"c-dd203b1035"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+}
+],
+"type": "document",
+"urls": [
+"https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+]
+}

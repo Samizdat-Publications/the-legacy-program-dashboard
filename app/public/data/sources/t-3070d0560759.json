@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7c157d2895",
+"locator": null,
+"node": "walter-haut",
+"nodeLabel": "Walter Haut",
+"sourceText": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
+"text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
+"tier": 2
+}
+],
+"date": "1993-05-14",
+"edges": [],
+"era": "1",
+"host": null,
+"id": "t-3070d0560759",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fund for UFO Research",
+"listedOn": [],
+"node": null,
+"title": "Haut affidavit",
+"topics": [
+{
+"claims": [
+"c-7c157d2895"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "document",
+"urls": []
+}

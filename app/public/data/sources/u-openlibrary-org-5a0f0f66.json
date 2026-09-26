@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-fe23487dec",
+"locator": null,
+"node": "greg-bishop",
+"nodeLabel": "Greg Bishop",
+"sourceText": "Open Library bibliographic record, https://openlibrary.org/books/OL7950835M/Project_Beta , opened 2026-09-19",
+"text": "Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth, by Greg Bishop, published by Paraview Pocket Books on 8 February 2005, ISBN 9780743470926 and 0743470923, 288 pages, LCCN 2005297375, OCLC 57678877.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-52c4155470",
+"locator": null,
+"node": "project-beta-bishop-2005",
+"nodeLabel": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
+"sourceText": "Open Library bibliographic record, https://openlibrary.org/books/OL7950835M/Project_Beta , opened 2026-09-19",
+"text": "Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth, Greg Bishop, Paraview Pocket Books, 8 February 2005, ISBN 9780743470926 and 0743470923, 288 pages, LCCN 2005297375, OCLC 57678877.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "greg-bishop",
+"label": "Greg Bishop"
+},
+"b": {
+"cls": "document",
+"id": "project-beta-bishop-2005",
+"label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)"
+},
+"claimTier": 1,
+"id": "e-bdf5445365",
+"label": "Author of Project Beta (2005)",
+"note": "Authorship, typed research by rule. Bibliographic record is Tier 1: Paraview Pocket Books, 8 February 2005, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "project-beta-bishop-2005",
+"label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 1,
+"id": "e-dc974594df",
+"label": "The principal documented account of the affair",
+"note": "Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop's undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore's conduct, it does not degrade the record of the book's existence.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-openlibrary-org-5a0f0f66",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "openlibrary.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "greg-bishop",
+"label": "Greg Bishop"
+},
+{
+"cls": "document",
+"id": "project-beta-bishop-2005",
+"label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)"
+},
+{
+"cls": "person",
+"id": "william-l-moore",
+"label": "William L. Moore"
+}
+],
+"node": null,
+"title": "Open Library bibliographic record for Greg Bishop, 'Project Beta', Paraview Pocket Books, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877",
+"topics": [
+{
+"claims": [
+"c-52c4155470"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "book",
+"urls": [
+"https://openlibrary.org/books/OL7950835M/Project_Beta"
+]
+}

@@ -1,0 +1,89 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ba4e7a162b",
+"locator": null,
+"node": "mona-nemer",
+"nodeLabel": "Dr Mona Nemer",
+"sourceText": "Office of the Chief Science Advisor of Canada, Sky Canada Project page, updated 3 December 2025",
+"text": "Report disclaimer: the project 'is not intended to access and collect first-hand data (like photos, testimonies, etc.) ... nor is it meant to prove or disprove the existence of extraterrestrial life or extraterrestrial visitors.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-71cd41ccff",
+"locator": null,
+"node": "ocsa-canada",
+"nodeLabel": "Office of the Chief Science Advisor of Canada",
+"sourceText": "science.gc.ca, Sky Canada Project",
+"text": "OCSA records a published disclaimer that the project is not intended to collect first-hand data, not to make OCSA the main point of contact for reporting, and not to prove or disprove the existence of extraterrestrial life or visitors.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-cac28df7a6",
+"locator": null,
+"node": "ocsa-canada",
+"nodeLabel": "Office of the Chief Science Advisor of Canada",
+"sourceText": "science.gc.ca, Sky Canada Project",
+"text": "OCSA led the Sky Canada Project to review current practices surrounding public reporting of unidentified aerial phenomena in Canada, and published its report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025 (59 pages, also issued as PDF).",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-science-gc-ca-a5f5d3a1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Government of Canada",
+"listedOn": [
+{
+"cls": "person",
+"id": "mona-nemer",
+"label": "Dr Mona Nemer"
+},
+{
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+{
+"cls": "location",
+"id": "l-ottawa",
+"label": "Ottawa, Ontario, Canada"
+},
+{
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+}
+],
+"node": null,
+"title": "Sky Canada Project landing page",
+"topics": [
+{
+"claims": [
+"c-ba4e7a162b",
+"c-71cd41ccff",
+"c-cac28df7a6"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+},
+{
+"claims": [
+"c-cac28df7a6"
+],
+"id": "nasa-uap-study",
+"title": "NASA's UAP independent study, 2022-23"
+}
+],
+"type": "web page",
+"urls": [
+"https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project"
+]
+}

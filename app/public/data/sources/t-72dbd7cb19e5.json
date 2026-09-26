@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c2dc45ec5f",
+"locator": null,
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', cover and Preface",
+"text": "Green's AAWSAP DIRD carries the cover imprint 'Institute for Advanced Studies at Austin' and states as Hypothesis One that 'sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "t-72dbd7cb19e5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues",
+"topics": [
+{
+"claims": [
+"c-c2dc45ec5f"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "document",
+"urls": []
+}

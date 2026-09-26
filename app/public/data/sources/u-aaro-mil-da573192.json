@@ -1,0 +1,65 @@
+{
+"archived": [
+"https://web.archive.org/web/20251118010135/https://www.aaro.mil/Portals/136/PDFs/Phillips_Timothy_Bio-DEC%202023-(Acting_Director_Ver)_508.pdf"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-d4591cd070",
+"locator": null,
+"node": "tim-phillips",
+"nodeLabel": "Timothy A. Phillips",
+"sourceText": "AARO official biography, Timothy A. Phillips, Deputy Director (Acting Director version), December 2023",
+"text": "Phillips served as AARO Acting Director from December 2023 to August 2024 while remaining Deputy Director, on assignment from ODNI.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tim-phillips",
+"label": "Timothy A. Phillips"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-e21d7a8876",
+"label": "Deputy Director from Oct 2023; Acting Director Dec 2023 - Aug 2024",
+"note": "Phillips came to AARO on assignment from ODNI and ran the office between Kirkpatrick and Kosloski.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-aaro-mil-da573192",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "person",
+"id": "tim-phillips",
+"label": "Timothy A. Phillips"
+}
+],
+"node": null,
+"title": "AARO - Timothy A. Phillips biography (Acting Director version)",
+"topics": [
+{
+"claims": [
+"c-d4591cd070"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
+"type": "document",
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/Phillips_Timothy_Bio-DEC%202023-(Acting_Director_Ver)_508.pdf"
+]
+}

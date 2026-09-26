@@ -7,32 +7,72 @@
 {
 "id": "c-e70e3a86a7",
 "source": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO Center for the Study of National Reconnaissance, May 2019, foreword and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-10c79b88",
+"locator": null,
+"title": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019"
+}
+],
 "text": "The cover and the mission are described by the agency itself. The NRO's volume says MOL was 'open \"white\" world, but maintained a highly-classified \"black\" mission', with the reconnaissance mission 'codenamed Dorian in the BYEMAN security system', and its foreword calls Dorian 'a deeply classified program managed by the then darkly hidden agency of the Intelligence Community, the National Reconnaissance Office'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-57c422baf7",
 "source": "Spies in Space, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-10c79b88",
+"locator": null,
+"title": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019"
+}
+],
 "text": "The declassification is dated and quantified in the NRO's own words: on 22 October 2015 the CSNR held a panel at the National Museum of the United States Air Force 'on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program. There were over 850 documents with some 22,000 pages and 280 photographs.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-4632847fe2",
 "source": "Spies in Space, NRO CSNR, May 2019, introduction and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-10c79b88",
+"locator": null,
+"title": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019"
+}
+],
 "text": "Seventeen officers were trained and none flew: 'Between 1965 and 1969, quietly and without fanfare, 17 non-NASA individuals were astronaut-trained in order to meet the reconnaissance needs of the United States.' The camera is dated and designated: 'In 1969, the Dorian camera system was designated KH-10 within the Talent-Keyhole community.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0ee5ad44a4",
 "source": "Spies in Space, NRO CSNR, May 2019, chapter 4, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"sources": [
+{
+"id": "u-govinfo-gov-10c79b88",
+"locator": null,
+"title": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019"
+}
+],
 "text": "The scale of the clearance at termination: 'On 10 June 1969, 13,187 contractor personnel were cleared on MOL and faced reassignment.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-727646145a",
 "source": "John Uri, '55 Years Ago: Manned Orbiting Laboratory Cancellation', NASA, 11 June 2024, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
+"sources": [
+{
+"id": "u-nasa-gov-1cd50bb1",
+"locator": null,
+"title": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA"
+}
+],
 "text": "NASA's history office dates the programme's public and classified halves: announced by Defense Secretary Robert S. McNamara in December 1963, formally approved by President Johnson in August 1965, 17 pilots selected in three groups on 12 November 1965, 17 June 1966 and 30 June 1967, flown on the Titan-IIIM from Vandenberg into polar orbit, cancelled 10 June 1969, and 'not declassified by the NRO until October 2015'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "program",

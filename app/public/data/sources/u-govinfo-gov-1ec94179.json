@@ -1,0 +1,78 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-8e2e3b90d0",
+"locator": null,
+"node": "afswc-tr-59-39",
+"nodeLabel": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"sourceText": "AFSWC TR-59-39 Vol I, command page and publication review page, and Official Register of the United States 1957, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+"text": "The command page names 'Colonel Carey L. O'Bryan, Jr., Deputy Commander' of the Air Force Special Weapons Center, and the publication review page carries his name over 'USAF' and 'Deputy Commander'. The same officer is listed in the Official Register of the United States 1957, page 629, as Deputy Director of the Atomic Energy Commission's Division of Military Application, on the line directly above Gise's.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-015776367a",
+"locator": null,
+"node": "lawrence-p-gise",
+"nodeLabel": "Lawrence P. Gise",
+"sourceText": "Official Register of the United States 1957, US Civil Service Commission, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+"text": "The Official Register of the United States 1957 lists 'Lawrence P. Gise' as 'Assistant Director' of the UNITED STATES ATOMIC ENERGY COMMISSION, DIVISION OF MILITARY APPLICATION, legal residence Va 10th, salary 14,190, at printed page 629. The volume states it lists persons in administrative and supervisory positions 'as of May 1, 1957'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "lawrence-p-gise",
+"label": "Lawrence P. Gise"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 2,
+"id": "e-e4003ee975",
+"label": "Held an AEC headquarters post in the line the DOE node records itself as succeeding",
+"note": "The Register documents the AEC Division of Military Application post at Tier 1; the succession from AEC to DOE is the board's own doe node, so the edge itself is an inference and is graded accordingly.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-1ec94179",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "document",
+"id": "afswc-tr-59-39",
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959"
+},
+{
+"cls": "person",
+"id": "lawrence-p-gise",
+"label": "Lawrence P. Gise"
+}
+],
+"node": null,
+"title": "Official Register of the United States 1957, US Civil Service Commission",
+"topics": [
+{
+"claims": [
+"c-015776367a"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "document",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf"
+]
+}

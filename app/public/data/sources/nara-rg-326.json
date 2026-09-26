@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "atomic-energy-commission",
+"label": "Atomic Energy Commission"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-771cf1b726",
+"label": "Abolished 1974; functions passed through ERDA to the Department of Energy",
+"note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "nara-rg-326",
+"identifiers": [
+"NARA Record Group 326"
+],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atomic-energy-commission",
+"label": "Atomic Energy Commission"
+}
+],
+"node": null,
+"title": "NARA Record Group 326",
+"topics": [],
+"type": "archive index",
+"urls": []
+}

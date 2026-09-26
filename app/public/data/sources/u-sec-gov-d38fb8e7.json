@@ -1,0 +1,63 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-22c486967e",
+"locator": null,
+"node": "trw-inc",
+"nodeLabel": "TRW Inc.",
+"sourceText": "BDM International, Inc., Schedule 14D-9, filed 26 November 1997, CIK 0000870763, https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt",
+"text": "TRW agreed to acquire BDM in November 1997: 'on November 20, 1997, BDM International, Inc. entered into a Merger Agreement with TRW Inc. and Systems Acquisition Inc., a wholly owned subsidiary of TRW, pursuant to which that subsidiary has commenced a tender offer (the \"Offer\") to purchase all of the outstanding shares of BDM's common stock for a cash price of $29.50 per share.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+},
+"b": {
+"cls": "institution",
+"id": "bdm-international",
+"label": "BDM International, Inc."
+},
+"claimTier": 1,
+"id": "e-d684acecdc",
+"label": "TRW acquired BDM by cash tender offer, 1997",
+"note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-d38fb8e7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "institution",
+"id": "trw-inc",
+"label": "TRW Inc."
+}
+],
+"node": null,
+"title": "BDM International, Inc., Schedule 14D-9, 26 November 1997",
+"topics": [
+{
+"claims": [
+"c-22c486967e"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt"
+]
+}

@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-2ba673f3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London"
+}
+],
+"node": null,
+"title": "Wikipedia - Ministry of Defence Main Building",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Ministry_of_Defence_Main_Building"
+]
+}

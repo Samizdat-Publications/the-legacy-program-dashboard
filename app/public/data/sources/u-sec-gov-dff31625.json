@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-162c17c6b0",
+"locator": null,
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
+"text": "SAIC's own proxy records the relationship: 'B.R. Inman, age 72, Director, Director since 1982. Admiral Inman, USN (Ret.) joined the Company in 1990 as a part-time employee and, in that capacity, advises the Company on a wide variety of strategic planning issues.' He is listed as Chairperson of the Executive Committee and a member of the Nominating Committee, and received $132,129 of compensation under the part-time employee arrangement in fiscal 2003.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-be6d4ed42c",
+"locator": null,
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"sourceText": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
+"text": "He did not head SAIC. The same proxy names 'J.R. Beyster, age 78, Chairman of the Board, Chief Executive Officer and President, Director since 1969' and records that Beyster 'founded the Company in 1969 and has served as Chairman of the Board and Chief Executive Officer since that time'. The Michels corpus at corpus 12 file 3, 0:19:28 says Inman headed SAIC; the company's own proxy statement contradicts it.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-eb620b89e7",
+"label": "Nominated and heard as Deputy Director of Central Intelligence, 3 February 1981",
+"note": "Nominated and heard on 3 February 1981 to be Deputy Director of Central Intelligence, the post SAIC's own proxy later lists among his government service.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+},
+"b": {
+"cls": "institution",
+"id": "saic",
+"label": "Science Applications International Corporation"
+},
+"claimTier": 1,
+"id": "e-19c8d53c8b",
+"label": "Director of SAIC since 1982 and a paid part-time employee since 1990",
+"note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-dff31625",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman"
+}
+],
+"node": null,
+"title": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+"topics": [
+{
+"claims": [
+"c-162c17c6b0",
+"c-be6d4ed42c"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
+]
+}

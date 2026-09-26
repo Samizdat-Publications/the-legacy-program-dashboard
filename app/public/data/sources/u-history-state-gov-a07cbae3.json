@@ -1,0 +1,70 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2bd9d4bb81",
+"locator": null,
+"node": "gordon-gray",
+"nodeLabel": "Gordon Gray",
+"sourceText": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951, FRUS 1950-1955 The Intelligence Community doc. 82, https://history.state.gov/historicaldocuments/frus1950-55Intel/d82",
+"text": "He is recorded chairing the Board's business in its own minutes: PSB M-2 of 13 August 1951 lists 'Mr. Gordon Gray, Director, Psychological Strategy Board' present with the Director of Central Intelligence as acting chairman, the Under Secretary of State and the Deputy Secretary of Defense.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-8b36f8d849",
+"label": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
+"note": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-history-state-gov-a07cbae3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of State",
+"listedOn": [
+{
+"cls": "person",
+"id": "gordon-gray",
+"label": "Gordon Gray"
+}
+],
+"node": null,
+"title": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951",
+"topics": [
+{
+"claims": [
+"c-2bd9d4bb81"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-2bd9d4bb81"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "web page",
+"urls": [
+"https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
+]
+}

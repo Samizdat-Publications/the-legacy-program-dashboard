@@ -1,0 +1,56 @@
+{
+"archived": [
+"https://web.archive.org/web/20260729024353/https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dodig-2023-109",
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-af4812909f",
+"label": "The IG found no department-wide UAP policy and component-level stovepipes",
+"note": "Eighteen months after AARO was made the Department's authoritative UAP office, the Inspector General found no requirement that components report to it - which makes AARO's holdings a self-selected sample.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dodig-mil-e3ee568d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DoD Inspector General",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-oversight",
+"label": "Congressional Oversight"
+},
+{
+"cls": "institution",
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+{
+"cls": "document",
+"id": "dodig-2023-109",
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
+"node": null,
+"title": "DoD OIG press release - Evaluation of the DoD's Actions Regarding UAP",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/"
+]
+}

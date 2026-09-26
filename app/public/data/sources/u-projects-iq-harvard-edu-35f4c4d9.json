@@ -1,0 +1,59 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+"claimTier": 2,
+"id": "e-d593c53b63",
+"label": "Founder, 26 July 2021",
+"note": "Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-projects-iq-harvard-edu-35f4c4d9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "projects.iq.harvard.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "institution",
+"id": "harvard-cfa",
+"label": "Harvard-Smithsonian Center for Astrophysics"
+},
+{
+"cls": "program",
+"id": "galileo-project",
+"label": "The Galileo Project"
+},
+{
+"cls": "person",
+"id": "wesley-watters",
+"label": "Wesley A. Watters"
+}
+],
+"node": null,
+"title": "The Galileo Project, Harvard University",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://projects.iq.harvard.edu/galileo"
+]
+}

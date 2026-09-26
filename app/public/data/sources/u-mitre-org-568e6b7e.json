@@ -1,0 +1,85 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b3951ac80d",
+"locator": null,
+"node": "dana-keoki-jackson",
+"nodeLabel": "Dana (Keoki) Jackson",
+"sourceText": "MITRE - Our Leadership page, accessed 12 August 2026",
+"text": "Jackson is Senior Vice President and General Manager of MITRE National Security, the unit encompassing MITRE's defense and intelligence work.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "dana-keoki-jackson",
+"label": "Dana (Keoki) Jackson"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+"claimTier": 2,
+"id": "e-c98553b2ee",
+"label": "Arrived at MITRE from Lockheed Martin's chief technology office",
+"note": "The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "dana-keoki-jackson",
+"label": "Dana (Keoki) Jackson"
+},
+"b": {
+"cls": "program",
+"id": "mitre-nsec",
+"label": "National Security Engineering Center (NSEC)"
+},
+"claimTier": 1,
+"id": "e-b363c2a62a",
+"label": "Runs MITRE National Security, the organisation containing NSEC",
+"note": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-mitre-org-568e6b7e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "MITRE",
+"listedOn": [
+{
+"cls": "person",
+"id": "dana-keoki-jackson",
+"label": "Dana (Keoki) Jackson"
+},
+{
+"cls": "person",
+"id": "sue-gordon",
+"label": "Susan M. Gordon"
+}
+],
+"node": null,
+"title": "MITRE - Our Leadership",
+"topics": [
+{
+"claims": [
+"c-b3951ac80d"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.mitre.org/who-we-are/our-people/our-leadership"
+]
+}

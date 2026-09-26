@@ -7,32 +7,92 @@
 {
 "id": "c-f1d3089285",
 "source": "66 Stat. 3, Statutes at Large volume 66, govinfo, https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+"sources": [
+{
+"id": "usc-35-181",
+"locator": "Statutes at Large volume 66, govinfo",
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+{
+"id": "usc-35-181",
+"locator": null,
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
 "text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-16d9fd7beb",
 "source": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-35-181",
+"locator": "Office of the Law Revision Counsel",
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+{
+"id": "usc-35-181",
+"locator": null,
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
 "text": "The current codification descends from that Act by way of a second one. The Historical and Revision Notes to 35 U.S.C. 181 read: 'Based on Title 35, U.S.C., 1946 ed., 151 (Feb. 1, 1952, ch. 4, 1, 66 Stat. 3, 4).' The section's source credit is 'July 19, 1952, ch. 950, 66 Stat. 805'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b315ec417b",
 "source": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-35-181",
+"locator": "Office of the Law Revision Counsel",
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+{
+"id": "usc-35-181",
+"locator": null,
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
 "text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7f0e66ba39",
 "source": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"sources": [
+{
+"id": "usc-35-181",
+"locator": "Office of the Law Revision Counsel",
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+{
+"id": "usc-35-181",
+"locator": null,
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+}
+],
 "text": "An order is indefinite by renewal, and wartime orders outlast the war. Section 181: 'An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year', renewable annually on an affirmative determination that 'the national interest continues so to require'; an order in effect during a time when the United States is at war 'shall remain in effect for the duration of hostilities and one year following cessation of hostilities.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-45719302b6",
 "source": "Invention Secrecy Statistics, FAS Project on Government Secrecy, https://sgp.fas.org/othergov/invention/stats.html",
+"sources": [
+{
+"id": "u-sgp-fas-org-6f4a3a71",
+"locator": null,
+"title": "Invention Secrecy Statistics, FAS Project on Government Secrecy"
+}
+],
 "text": "The order count is published annually and is rising. The Federation of American Scientists' table, sourced to the Patent and Trademark Office, records secrecy orders in effect at fiscal year end of 5,976 (FY21), 6,057 (FY22), 6,155 (FY23), 6,471 (FY24) and 6,543 (FY25), with 356 new orders imposed in FY24 against 102 in FY25.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": "2018-07-21",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "u-forbes-com-c07a8170",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "forbes.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "laurence-kotlikoff",
+"label": "Laurence J. Kotlikoff"
+}
+],
+"node": null,
+"title": "Forbes, 'Is Our Government Intentionally Hiding $21 Trillion in Spending?'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.forbes.com/sites/kotlikoff/2018/07/21/is-our-government-intentionally-hiding-21-trillion-in-spending/"
+]
+}

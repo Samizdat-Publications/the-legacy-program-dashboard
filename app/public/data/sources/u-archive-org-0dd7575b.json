@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6cd5d75d60",
+"locator": null,
+"node": "donald-h-menzel",
+"nodeLabel": "Donald H. Menzel",
+"sourceText": "Internet Archive catalogue record, https://archive.org/metadata/ufoenigmadefinit0000menz_f0a5",
+"text": "His last debunking book appeared a year after his death: 'The UFO enigma: the definitive explanation of the UFO phenomenon', Garden City, N.Y.: Doubleday, 1977, ISBN 0385035969.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7a991138ca",
+"locator": null,
+"node": "donald-h-menzel",
+"nodeLabel": "Donald H. Menzel",
+"sourceText": "Internet Archive catalogue records for works by Menzel, returned by https://archive.org/advancedsearch.php with creator 'Menzel, Donald H.', and item metadata at https://archive.org/metadata/ufoenigmadefinit0000menz_f0a5",
+"text": "He is one man with two names in the corpus. The Internet Archive's catalogue records give the authorised form of his name on every work as 'Menzel, Donald H. (Donald Howard), 1901-1976', which resolves the batch 05 caption 'Howard Menzel' to the batch 02 'Donald Menzel'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-0dd7575b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+}
+],
+"node": null,
+"title": "Internet Archive catalogue record, The UFO Enigma (Doubleday, 1977)",
+"topics": [
+{
+"claims": [
+"c-6cd5d75d60",
+"c-7a991138ca"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://archive.org/metadata/ufoenigmadefinit0000menz_f0a5"
+]
+}

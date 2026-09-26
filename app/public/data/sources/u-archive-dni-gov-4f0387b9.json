@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-765d165a11",
+"label": "AARO has never publicly addressed the alleged programme entered into the congressional record",
+"note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, nor any of the five PURSUE tranches between 8 May and 7 August 2026, addresses a programme name that sits in the Congressional Record. Reasoning: review of the published AARO product set and release indexes.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2024-11-19",
+"label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 1,
+"id": "e-ce2dbe2b68",
+"label": "Kosloski's statement for the record does not mention Immaculate Constellation",
+"note": "The alleged programme had been entered into the congressional record weeks earlier and described in an ODNI unclassified press item of 22 October 2024; AARO's director addressed the Senate six days after the House hearing without naming it.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-archive-dni-gov-4f0387b9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [],
+"node": null,
+"title": "ODNI FOIA DF-2025-00021 - Immaculate Constellation description from unclassified press",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.dni.gov/files/documents/FOIA/DF-2025-00021-Immaculate-Constellation-descrp-from-UNCLASS-Press-22-Oct-2024.pdf"
+]
+}

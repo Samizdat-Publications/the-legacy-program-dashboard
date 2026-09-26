@@ -1,0 +1,83 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-911d534477",
+"label": "EG&G provided the classified site services and personnel transport for the Groom Lake operating location",
+"note": "The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 2,
+"id": "e-d307be49cb",
+"label": "EG&G was the classified services contractor for the Nevada complex in the testing era",
+"note": "Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+},
+"b": {
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+"claimTier": 1,
+"id": "e-e87b058131",
+"label": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
+"note": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-courtlistener-com-1bc0c336",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CourtListener",
+"listedOn": [
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "document",
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+}
+],
+"node": null,
+"title": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.courtlistener.com/opinion/7058198/kasza-v-browner/"
+]
+}

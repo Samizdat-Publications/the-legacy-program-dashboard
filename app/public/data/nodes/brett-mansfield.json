@@ -19,32 +19,72 @@
 {
 "id": "c-202c40f72a",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "Mansfield testified on 13 May 2026 that unsupported adjustments totalled 'over $859 billion in the last two quarters of FY 25'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cd39934a29",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "He stated the Department manages more than $4.7 trillion in assets.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-30d9b16898",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "He stated material weaknesses declined from 28 in FY2024 to 26 in FY2025, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ea4e357529",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "He stated that reporting entities will consolidate from 22 to 7 in FY2027 and that an independent public accounting firm will assume the group auditor role with OIG oversight.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6a6f9c5e1b",
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"sources": [
+{
+"id": "u-media-defense-gov-f7c4683f",
+"locator": null,
+"title": "Mansfield oral statement"
+}
+],
 "text": "Consolidating 22 separately opined reporting entities into 7 and transferring the group auditor role to a contracted firm both reduce the granularity and the government-held provenance of the annual public audit record. Reasoning: fewer entities means fewer separate opinions published; a contractor group auditor holds the working papers under a commercial engagement rather than as federal records held by an Inspector General.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

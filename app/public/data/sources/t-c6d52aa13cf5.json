@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-57b0d4e735",
+"locator": null,
+"node": "lac-ufo-collection",
+"nodeLabel": "Library and Archives Canada - UFO records collection",
+"sourceText": "Library and Archives Canada, 'Canada's UFOs' timeline, 1961 entry",
+"text": "LAC records a 1961 DND memo to the Deputy Minister's office listing the typical questions put to the department, opening with 'Question 1: Are unsolved UFO reports in Canada kept from the Press and general public?'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "t-c6d52aa13cf5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Library and Archives Canada",
+"listedOn": [],
+"node": null,
+"title": "Canada's UFOs' timeline, 1961 entry",
+"topics": [
+{
+"claims": [
+"c-57b0d4e735"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
+"type": "web page",
+"urls": []
+}

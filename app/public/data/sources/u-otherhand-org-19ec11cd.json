@@ -1,0 +1,117 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-9943137fe1",
+"locator": null,
+"node": "l-nevada-test-site",
+"nodeLabel": "Nevada Test Site / Nevada National Security Site",
+"sourceText": "Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18",
+"text": "THE EARLIER GEOGRAPHY OF THE LAZAR CLAIM, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990, reporting his sentencing, describes his claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a Department of Energy site, and it is a different named place from Papoose Lake on the Air Force range, where the claim later settled.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-491b56539e",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Las Vegas Review-Journal, 21 August 1990, p 2C, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18",
+"text": "A Las Vegas Review-Journal report of Tuesday 21 August 1990, page 2C, by Warren Bates, headed 'Judge gives UFO witness Lazar probation on pandering charge', records District Judge Jack Lehman sentencing him to probation with 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', and one year of psychotherapy, the judge saying he 'could not make a determination regarding his claims'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-69c4dbbdd6",
+"locator": "p 2C",
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Las Vegas Review-Journal, 21 August 1990, p 2C, reprinted at otherhand.org, opened 2026-09-18",
+"text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The same 21 August 1990 report describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range, and the board records the discrepancy rather than smoothing it.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-700b351e38",
+"locator": null,
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"sourceText": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990 describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range. The board carries the discrepancy on the hub rather than smoothing it into the later settled version.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"b": {
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+"claimTier": 1,
+"id": "e-8e8108c2cf",
+"label": "The claim's earlier geography, as reported contemporaneously in August 1990",
+"note": "Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-otherhand-org-19ec11cd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "document",
+"id": "lazar-clark-county-1990",
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996"
+},
+{
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+{
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+}
+],
+"node": null,
+"title": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+"topics": [
+{
+"claims": [
+"c-9943137fe1",
+"c-491b56539e",
+"c-69c4dbbdd6"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-9943137fe1"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+]
+}

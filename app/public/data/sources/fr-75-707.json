@@ -1,0 +1,98 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-836aa302fe",
+"locator": null,
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(a) permits establishment only where 'required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient', and directs that these officials 'shall keep the number of these programs at an absolute minimum'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-bb69175471",
+"locator": null,
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "EO 13526 sec. 4.3(a): 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.' For programmes pertaining to intelligence sources and methods, but not military operational, strategic and tactical programmes, the function is the DNI's.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-e10d06a134",
+"locator": null,
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(b)(4)-(5), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(4) requires that 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order', and (b)(5) that 'Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-eeb5db9b0f",
+"locator": null,
+"node": "eo-13526",
+"nodeLabel": "Executive Order 13526 - Classified National Security Information",
+"sourceText": "EO 13526 sec. 4.3(b)(3), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "THE EXECUTIVE-SIDE NARROWING. Sec. 4.3(b)(3): 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The oversight body's access to an extraordinarily sensitive SAP can therefore be reduced to a single person, at the agency head's discretion.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 1,
+"id": "e-00963cff71",
+"label": "creates what the statute must report",
+"note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "fr-75-707",
+"identifiers": [
+"75 FR 707"
+],
+"interestedParty": false,
+"issuer": "Federal Register",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)"
+},
+{
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+}
+],
+"node": null,
+"title": "75 FR 707",
+"topics": [
+{
+"claims": [
+"c-836aa302fe"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "regulation",
+"urls": []
+}

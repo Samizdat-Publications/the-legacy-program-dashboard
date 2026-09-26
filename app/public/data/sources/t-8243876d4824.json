@@ -1,0 +1,29 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1ca1bc4d7e",
+"locator": null,
+"node": "doe",
+"nodeLabel": "United States Department of Energy",
+"sourceText": "Atomic Energy Act of 1954, as amended, and DOE classification policy",
+"text": "Restricted Data and Formerly Restricted Data under the Atomic Energy Act of 1954 are classified by statute rather than by executive order, and are administered jointly by DOE and DoD outside the EO 13526 declassification framework.",
+"tier": 2
+}
+],
+"date": "1954",
+"edges": [],
+"era": "0",
+"host": null,
+"id": "t-8243876d4824",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Atomic Energy Act of 1954, as amended",
+"topics": [],
+"type": "statute",
+"urls": []
+}

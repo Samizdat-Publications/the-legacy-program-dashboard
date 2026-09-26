@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-28aca5a2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+{
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+}
+],
+"node": null,
+"title": "IAC-D-67, Intelligence Advisory Committee: Unidentified Flying Objects, 18 February 1953",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-0000015454"
+]
+}

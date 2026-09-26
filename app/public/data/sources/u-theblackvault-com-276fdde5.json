@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-5c89b52f4e",
+"label": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+"note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-276fdde5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/"
+]
+}

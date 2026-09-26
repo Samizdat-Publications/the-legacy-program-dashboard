@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-a4bed22d1d",
+"locator": null,
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"sourceText": "Wikipedia article on Papoose Lake, opened only to read its citation, https://en.wikipedia.org/wiki/Papoose_Lake , opened 2026-09-18 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "THE PLACE IS REAL AND THE FACILITY IS NOT DOCUMENTED. Papoose Lake is a dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. The only source cited for it is the USGS Geographic Names Information System, which this session did not open, so no feature identifier and no coordinates are asserted anywhere on this node.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-c68ac474",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+}
+],
+"node": null,
+"title": "https://en.wikipedia.org/wiki/Papoose_Lake",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Papoose_Lake"
+]
+}

@@ -8,20 +8,44 @@
 {
 "id": "c-ff7871db92",
 "source": "P.L. 118-31",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "P.L. 118-31, Subtitle C, Sections 1841-1843 are the enacted UAP records provisions: collection at NARA, agency review and transmission duty, and grounds for postponement.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f81a2b2de2",
 "source": "P.L. 118-159",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+}
+],
 "text": "P.L. 118-159 Section 6802 sunsets requirements relating to audits of the UAP historical record report.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-dad388b18b",
 "source": "H.R. 2670 (EAS) compared with P.L. 118-31",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "The Unidentified Anomalous Phenomena Disclosure Act's Review Board and eminent domain provisions passed the Senate as Division I of H.R. 2670 but were not enacted.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "domain",
@@ -356,7 +380,7 @@
 ],
 "sub": "Legal domain - the provisions that actually became binding law (alias of d-legislative for enacted text)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 636 of 1138, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 635 of 1138, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

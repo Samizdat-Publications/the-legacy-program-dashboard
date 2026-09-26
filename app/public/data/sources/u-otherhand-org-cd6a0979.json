@@ -1,0 +1,150 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b02b5d2fcb",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "Tom Mahood's timeline records that Knapp began interviewing Lazar in March 1989, that the silhouetted interviews under the pseudonym 'Dennis' aired in May 1989, that KLAS-TV identified and interviewed him publicly on 10 November 1989, and that Lazar appeared on Knapp's KLAS programme 'On The Record' on 9 December 1989. No 1989-dated artefact was opened by this session and these dates are carried at Tier 3.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-13a9f4bc48",
+"locator": null,
+"node": "john-lear",
+"nodeLabel": "John Olsen Lear",
+"sourceText": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "Lear and Lazar had met by 1988. Lear was present at the first and third of the three Wednesday-night desert viewings, on 22 March 1989 and 5 April 1989, and Mahood's timeline records that at the first of those 'only Lear saw the elliptical shape through a telescope'. On 5 April 1989 the group, including Lear, was detained by the Lincoln County Sheriff after guards discovered them.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-520d7ab35a",
+"locator": null,
+"node": "klas-lazar-broadcasts-1989",
+"nodeLabel": "The KLAS-TV Lazar broadcasts, 1989",
+"sourceText": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "Two further dated 1989 appearances are recorded by the same timeline and are useful chiefly as artefacts a later session could try to open: 'Billy Goodman Happening' radio with Lazar and Gene Huff on 21 November 1989, and the same programme again on 20 December 1989.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-a8d7fa2569",
+"locator": null,
+"node": "klas-lazar-broadcasts-1989",
+"nodeLabel": "The KLAS-TV Lazar broadcasts, 1989",
+"sourceText": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "THE AIR DATES ARE TIER 3 AND MUST STAY THERE UNTIL AN ARTEFACT IS OPENED. Tom Mahood's timeline records that George Knapp began interviewing Lazar in March 1989 'for safekeeping purposes'; that in May 1989 'his silhouetted interviews with Knapp aired on KLAS-TV using the pseudonym Dennis'; that on 10 November 1989 'KLAS-TV identified and interviewed RL publicly'; and that on 9 December 1989 Lazar appeared on 'On The Record', hosted by Knapp on KLAS-TV. Some accounts give 11 November rather than 10 November for the named interview. No 1989-dated artefact was opened by this board.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 2,
+"id": "e-85b5add0b1",
+"label": "Met by 1988; present at two of the three 1989 desert viewings",
+"note": "THIS EDGE DOES NOT SAY LEAR INTRODUCED LAZAR TO KNAPP. That is universally repeated and it is in nothing this board opened.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 3,
+"id": "e-fbfa3432a7",
+"label": "Carrier of the claim, not an eyewitness to the claimed site",
+"note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "klas-lazar-broadcasts-1989",
+"label": "The KLAS-TV Lazar broadcasts, 1989"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 3,
+"id": "e-077e74214f",
+"label": "The original broadcast artefact of the claim",
+"note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-otherhand-org-cd6a0979",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "otherhand.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+},
+{
+"cls": "document",
+"id": "klas-lazar-broadcasts-1989",
+"label": "The KLAS-TV Lazar broadcasts, 1989"
+},
+{
+"cls": "person",
+"id": "tom-mahood",
+"label": "Tom Mahood"
+}
+],
+"node": null,
+"title": "Tom Mahood, 'The Robert Lazar Timeline'",
+"topics": [
+{
+"claims": [
+"c-13a9f4bc48",
+"c-a8d7fa2569"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-a8d7fa2569"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "web page",
+"urls": [
+"https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+]
+}

@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-955c5a41f6",
+"locator": null,
+"node": "gerald-smith",
+"nodeLabel": "Gerald A. Smith",
+"sourceText": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
+"text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"b": {
+"cls": "person",
+"id": "gerald-smith",
+"label": "Gerald A. Smith"
+},
+"claimTier": 1,
+"id": "e-792c277271",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Positron Aerospace Propulsion' to 'Dr Gerald Smith, Positronics Research'. Smith is a Yale physics Ph.D., former Penn State physics department head, and developer of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap for NASA Marshall; the DIRD subject matter tracks his own NASA Institute for Advanced Concepts study on positron-propelled vehicles.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-niac-usra-edu-55d956bb",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "niac.usra.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "gerald-smith",
+"label": "Gerald A. Smith"
+}
+],
+"node": null,
+"title": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf"
+]
+}

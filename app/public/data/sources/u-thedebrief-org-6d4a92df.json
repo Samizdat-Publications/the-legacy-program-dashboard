@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-3dcb60b4ee",
+"label": "Co-founder and Executive Director of the Board",
+"note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-6d4a92df",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+}
+],
+"node": null,
+"title": "Micah Hanks, 'The Sol Foundation: How a New Think Tank of Academics is Applying Cutting-Edge Research to the UAP Mystery', The Debrief",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/the-sol-foundation-how-a-new-think-tank-of-academics-is-applying-cutting-edge-research-the-uap-mystery/"
+]
+}

@@ -1,0 +1,155 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5462df1b17",
+"locator": null,
+"node": "peter-merlin",
+"nodeLabel": "Peter W. Merlin",
+"sourceText": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+"text": "On the aircraft photograph Fouche captioned 'Early static prototype of a very Top Secret F-117 at the very classified Groom AB. We called it Have Blue back then': 'This is not HAVE BLUE. It is the first YF-117A SENIOR TREND prototype.' Merlin adds that a former Lockheed employee he spoke with identified the man Fouche names as 'CMSgt. Billy Snodgrass' as 'Roy Wilson, structures mechanic'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7fbcbbf34a",
+"locator": null,
+"node": "peter-merlin",
+"nodeLabel": "Peter W. Merlin",
+"sourceText": "Peter Merlin, quoted between (QUOTE) and (UNQUOTE) markers in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax', 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+"text": "His general position, quoted verbatim: 'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9035eba139",
+"locator": null,
+"node": "peter-merlin",
+"nodeLabel": "Peter W. Merlin",
+"sourceText": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+"text": "On Fouche's claim, posted to the Open Minds forum on 17 October 2010, that 'Steve Stenson (ex-AFFTC Edwards AFB Base Commander - Retired Colonel) was the Site Manager': 'No such person as Steve Stenson was ever commander of AFFTC.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-ab63864c8d",
+"locator": null,
+"node": "peter-merlin",
+"nodeLabel": "Peter W. Merlin",
+"sourceText": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+"text": "On Fouche's claim that 'All the Russian passport, flight cloth badge, KGB badge, the letter from Kiev Russia from the Station Chief, were mine and issued to me for a TS operation': 'The KGB passport is fake. The cloth badge and the metal badge are also fake, and both are widely available at many Army-Navy surplus stores.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c844aea9b1",
+"locator": null,
+"node": "peter-merlin",
+"nodeLabel": "Peter W. Merlin",
+"sourceText": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+"text": "On the document Fouche calls the SAC-DARPA Classified Document: 'This letter is UNCLASSIFIED. It was never marked as classified material (no classification markings, no control number, no Copy X of Y). There is nothing unusual about the letterhead. Use of the DoD seal is standard. The letter was signed by the NCO in Charge, Airman Aircraft Maintenance Assignments Section, Office of the Directorate of Assignments, Deputy Chief of Staff for Personnel... Where it says REPLY TO: DARPA, this might be a five-letter office code (such as DPAQR, the Command Records Branch at SAC HQ). This letter simply indicates that the Air Force Manpower and Personnel Center (AFMPC) has approved an After Action Review (or Report)'. The page image opened by this research corroborates the absence of any classification marking and the signature block he describes.",
+"tier": 2
+}
+],
+"date": "2016-03-19",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"b": {
+"cls": "document",
+"id": "fouche-military-documents",
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+},
+"claimTier": 2,
+"id": "e-921a06bda3",
+"label": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
+"note": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"b": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"claimTier": 2,
+"id": "e-303c689167",
+"label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
+"note": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"b": {
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"claimTier": 1,
+"id": "e-3ac5085e75",
+"label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+"note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
+"type": "denial"
+}
+],
+"era": "2",
+"host": null,
+"id": "u-noriohayakawa-wordpress--6614f5e9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "noriohayakawa.wordpress.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "fouche-military-documents",
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+},
+{
+"cls": "person",
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+}
+],
+"node": null,
+"title": "Peter Merlin's reading of the same letter, quoted verbatim",
+"topics": [
+{
+"claims": [
+"c-5462df1b17",
+"c-7fbcbbf34a",
+"c-9035eba139",
+"c-ab63864c8d",
+"c-c844aea9b1"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+},
+{
+"claims": [
+"c-5462df1b17",
+"c-7fbcbbf34a",
+"c-9035eba139"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "article",
+"urls": [
+"https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+]
+}

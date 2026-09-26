@@ -78,44 +78,76 @@
 {
 "id": "c-ef9208046f",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview",
+"sources": [
+{
+"id": "n-roswell-report-1995",
+"locator": "reproduces Ramey office photographs and Cavitt interview",
+"title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+}
+],
 "text": "Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-02856cf051",
 "source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
+"sources": [
+{
+"id": "t-748a46cf1446",
+"locator": null,
+"title": "interview with Stanton T. Friedman, February 1978"
+}
+],
 "text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c2598b0818",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995) and 'The Roswell Report: Case Closed' (1997)",
+"sources": [],
 "text": "The Air Force's own 1995 and 1997 reports concluded the recovered material was from Project MOGUL balloon trains, directly contradicting Marcel.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:roswell-report-1995) was rejected in review: names two reports; only one is the candidate"
 },
 {
 "id": "c-9a61a1fd4a",
 "source": "Inference from GAO/NSIAD-95-187, p.3",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "p.3",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "The GAO's finding that the relevant RAAF messages and administrative records were destroyed without disposition authority means Marcel's account cannot be checked against the primary record — which is itself the point.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-1d06de57b6",
 "source": "RAAF press release and Fort Worth AAF press photographs, July 1947; reproduced in the 1995 Air Force report as Fig. 4, 'Maj. Jesse Marcel With Flying Disc Debris'",
+"sources": [],
 "text": "Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:roswell-report-1995) was rejected in review: names press release and photographs, not the report; candidate date disagrees"
 },
 {
 "id": "c-d494a510da",
 "source": "Friedman's account of the 1978 interview; repeated in Berlitz and Moore (1980) and in Marcel's own filmed interviews",
+"sources": [],
 "text": "Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Compound citation (Friedman's account + Berlitz/Moore 1980 + Marcel's own filmed interviews); no single specific document named."
 },
 {
 "id": "c-6c5847725e",
 "source": "Inference from his service chronology",
+"sources": [],
 "text": "Marcel's silence from 1947 to 1978 is more probative than his 1978 statement: a career intelligence officer who believed he had been publicly humiliated by a substitution had thirty-one years and a reserve pension's worth of reasons to say nothing, and did. Reasoning: the timing of his disclosure tracks his retirement and the death of the officers senior to him, not the arrival of a book contract.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",
@@ -466,7 +498,7 @@
 "status": "dead",
 "sub": "Intelligence officer, 509th Bomb Group",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 146 of 1138, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 145 of 1138, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

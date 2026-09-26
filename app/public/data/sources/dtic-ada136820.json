@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "dtic-ada136820",
+"identifiers": [
+"DTIC ADA136820"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime"
+}
+],
+"node": null,
+"title": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency / Kaman Tempo, report date 1 February 1983, DTIC ADA136820",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_ADA136820"
+]
+}

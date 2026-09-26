@@ -1,0 +1,52 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2e0f6f2253",
+"locator": null,
+"node": "five-observables",
+"nodeLabel": "The five observables (UAP performance taxonomy)",
+"sourceText": "'Five Characteristics Unique to UAP's', To The Stars, https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps, read 28 August 2026",
+"text": "To The Stars, the company Elizondo joined after leaving the Pentagon, publishes the same five under the heading 'Five Characteristics Unique to UAP's', worded: 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability', 'Trans-medium travel' and 'Positive lift'. The page carries no author, no date and no attribution to Elizondo or to AATIP.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-tothestars-media-5fa7fa1f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "tothestars.media",
+"listedOn": [
+{
+"cls": "document",
+"id": "five-observables",
+"label": "The five observables (UAP performance taxonomy)"
+}
+],
+"node": null,
+"title": "To The Stars, 'Five Characteristics Unique to UAP's'",
+"topics": [
+{
+"claims": [
+"c-2e0f6f2253"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-2e0f6f2253"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "web page",
+"urls": [
+"https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps"
+]
+}

@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+"claimTier": 2,
+"id": "e-98f38e4602",
+"label": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
+"note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-baltimoresun-com-77e3bed6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "baltimoresun.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "Same NYT report republished, The Baltimore Sun",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-pentagon-ufo-unit-20200723-b3akzzy44zdgxc3bmhgko6nkgm-story.html"
+]
+}

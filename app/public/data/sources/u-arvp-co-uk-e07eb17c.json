@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site"
+},
+"b": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"claimTier": 1,
+"id": "e-d651ca6910",
+"label": "ARVP carries a TR-3B page and routes its readers to the Fouche file",
+"note": "Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-arvp-co-uk-e07eb17c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "arvp.co.uk",
+"listedOn": [],
+"node": null,
+"title": "ARVP, 'Black Triangle (TR3b)', the page named in research/leads/CANDIDATES-2026-09-18-ARVP.md",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.arvp.co.uk/black-triangle-tr3b/"
+]
+}

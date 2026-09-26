@@ -1,0 +1,102 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1c599db43a",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://sefaa.dgac.gob.cl/quienes-somos/",
+"text": "Remit: 'Apoyar la seguridad de las operaciones aéreas en el territorio nacional, y en el espacio aéreo de responsabilidad de la Dirección General de Aeronáutica Civil de Chile', an airspace that 'se extiende por 32 millones de kilómetros cuadrados, desde Arica, por el norte, entre los 120º y los 131º grados oeste, hasta el Polo Sur.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9c292e789a",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/ and https://sefaa.dgac.gob.cl/quienes-somos/",
+"text": "Publication practice: 'Desde el año 2020, se publican en el sitio www.cefaa.gob.cl los casos investigados y resueltos. Esos informes están a disposición del público trimestralmente y entregan una completa descripción de los fenómenos reportados y la conclusión a la que se llegó.' Resolved-case indexes remain published by year from 2018 through 2026.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a35d10f191",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "https://sefaa.dgac.gob.cl/quienes-somos/",
+"text": "'El 3 de octubre de 1997 se creó el Comité de Estudios de Fenómenos Aéreos Anómalos (CEFAA), a través de la Resolución Exenta N° 01599. Sin embargo, el 18 de octubre de 2021 la mencionada Resolución fue derogada, y por Resolución Exenta N° 04 / 3 / 0113 / 1385 el nombre de la oficina fue cambiado a Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA), pasando a depender del Subdepartamento Comunicacional de la DGAC.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-f9d2786974",
+"label": "created and housed by the DGAC",
+"note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"b": {
+"cls": "location",
+"id": "l-santiago",
+"label": "Santiago, Chile"
+},
+"claimTier": 1,
+"id": "e-f3382952ba",
+"label": "sited in Santiago since 1997",
+"note": "Chile's DGAC dates CEFAA's establishment to 3 October 1997 and traces the reporting lineage back to 1968 at the old Oficina Meteorologica de Chile in the Complejo Aeronautico Quinta Normal, Avenida Diego Portales 3450, Santiago. After the 2021 reorganisation the successor body SEFAA sits at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-sefaa-dgac-gob-cl-3691ae01",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DGAC Chile",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+}
+],
+"node": null,
+"title": "https://sefaa.dgac.gob.cl/quienes-somos/",
+"topics": [
+{
+"claims": [
+"c-1c599db43a",
+"c-9c292e789a",
+"c-a35d10f191"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+}
+],
+"type": "web page",
+"urls": [
+"https://sefaa.dgac.gob.cl/quienes-somos/"
+]
+}

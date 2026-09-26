@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-cia-gov-b463279c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+{
+"cls": "domain",
+"id": "d-remote-viewing",
+"label": "Remote Viewing & Anomalous Cognition"
+},
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "CIA FOIA Reading Room",
+"topics": [],
+"type": "archive index",
+"urls": [
+"https://www.cia.gov/readingroom/"
+]
+}

@@ -1,0 +1,164 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-33448904f5",
+"locator": "a)(1",
+"node": "usc-50-3091",
+"nodeLabel": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceText": "50 U.S.C. 3091(a)(1)",
+"text": "50 U.S.C. 3091(a)(1): 'The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-4484e6d614",
+"locator": "b",
+"node": "usc-50-3091",
+"nodeLabel": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceText": "50 U.S.C. 3091(b)",
+"text": "50 U.S.C. 3091(b) requires that any illegal intelligence activity be reported promptly to the congressional intelligence committees together with corrective action taken or planned.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-61d5a78c87",
+"locator": "e",
+"node": "usc-50-3091",
+"nodeLabel": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceText": "50 U.S.C. 3091(e)",
+"text": "50 U.S.C. 3091(e): 'Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-a9ec90156a",
+"locator": null,
+"node": "usc-50-3091",
+"nodeLabel": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm",
+"text": "(a)(1) verbatim: 'The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.' (a)(2): 'Nothing in this subchapter shall be construed as requiring the approval of the congressional intelligence committees as a condition precedent to the initiation of any significant anticipated intelligence activity.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d3d873e60e",
+"locator": null,
+"node": "usc-50-3091",
+"nodeLabel": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceText": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm",
+"text": "(b) verbatim: 'The President shall ensure that any illegal intelligence activity is reported promptly to the congressional intelligence committees, as well as any corrective action that has been taken or is planned in connection with such illegal activity.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d71ce6c9f6",
+"locator": "f",
+"node": "usc-50-3091",
+"nodeLabel": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceText": "50 U.S.C. 3091(f)",
+"text": "50 U.S.C. 3091(f) provides that 'intelligence activities' includes covert actions as defined in section 3093(e) and financial intelligence activities.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d14eb72ebb",
+"locator": "a) and (f",
+"node": "usc-50-3091",
+"nodeLabel": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceText": "50 U.S.C. 3091(a) and (f)",
+"text": "Section 3091(e) forbids using classification as a reason to withhold from the intelligence committees, but it operates only on 'intelligence activities' and only for those committees, so a DoD operations and support or acquisition special access program is outside its reach entirely. Reasoning: the duty is defined by the subject matter 'intelligence activities' and the audience 'congressional intelligence committees'.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-5af8ac1f4b",
+"locator": "e",
+"node": "gang-of-eight",
+"nodeLabel": "The Gang of Eight and the limited-notification convention",
+"sourceText": "50 U.S.C. 3091(e)",
+"text": "50 U.S.C. 3091(e): 'Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.'",
+"tier": 1
+}
+],
+"date": "1991-08-14",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3091",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-50-3093",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+},
+"claimTier": 1,
+"id": "e-fd4f2ad12e",
+"label": "The general 'fully and currently informed' duty and its covert action exception",
+"note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "usc-50-3091",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)"
+},
+"b": {
+"cls": "domain",
+"id": "four-regime-map",
+"label": "The four SAP reporting regimes and the seams between them"
+},
+"claimTier": 3,
+"id": "e-c5e8524143",
+"label": "The anti-withholding rule does not reach DoD special access programs",
+"note": "50 U.S.C. 3091(e) bars withholding from the intelligence committees on classification grounds, but binds only as to 'intelligence activities' and only for those committees, leaving DoD acquisition and operations and support SAPs outside it.",
+"type": "legislative"
+}
+],
+"era": "1",
+"host": null,
+"id": "usc-50-3091",
+"identifiers": [
+"50 U.S.C. 3091"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-3091",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)"
+},
+{
+"cls": "institution",
+"id": "gang-of-eight",
+"label": "The Gang of Eight and the limited-notification convention"
+}
+],
+"node": {
+"cls": "legislation",
+"id": "usc-50-3091",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)"
+},
+"title": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"topics": [
+{
+"claims": [
+"c-61d5a78c87",
+"c-a9ec90156a",
+"c-d3d873e60e"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "statute",
+"urls": [
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim",
+"https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm"
+]
+}

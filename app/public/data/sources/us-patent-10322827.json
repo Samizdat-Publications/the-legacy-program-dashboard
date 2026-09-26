@@ -1,0 +1,85 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-fb7370e586",
+"locator": "US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+"text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-00d9699447",
+"locator": null,
+"node": "pais-patent-hfgw",
+"nodeLabel": "US Patent 10,322,827 - High frequency gravitational wave generator",
+"sourceText": "https://www.freepatentsonline.com/10322827.html",
+"text": "US Patent 10,322,827, 'High frequency gravitational wave generator', application 15/431823, filed 14 February 2017, published 18 June 2019, assignee 'The United States of America as represented by the Secretary of the Navy'.",
+"tier": 2
+}
+],
+"date": "2017-02-14",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+"b": {
+"cls": "document",
+"id": "pais-patent-hfgw",
+"label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+},
+"claimTier": 2,
+"id": "e-b9e8ff5af0",
+"label": "Named inventor",
+"note": "Application 15/431823, assigned to the Secretary of the Navy.",
+"type": "programmatic"
+}
+],
+"era": "3",
+"host": null,
+"id": "us-patent-10322827",
+"identifiers": [
+"US Patent 10,322,827"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "salvatore-pais",
+"label": "Salvatore Cezar Pais"
+},
+{
+"cls": "document",
+"id": "pais-patent-hfgw",
+"label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+}
+],
+"node": {
+"cls": "document",
+"id": "pais-patent-hfgw",
+"label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+},
+"title": "US Patent 10,322,827 - High frequency gravitational wave generator",
+"topics": [
+{
+"claims": [
+"c-fb7370e586",
+"c-00d9699447"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
+"type": "document",
+"urls": [
+"https://www.freepatentsonline.com/10322827.html"
+]
+}

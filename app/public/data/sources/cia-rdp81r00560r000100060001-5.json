@@ -1,0 +1,334 @@
+{
+"archived": [
+"https://web.archive.org/web/20260723073603/https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-fa327a2e32",
+"locator": "title page",
+"node": "atic",
+"nodeLabel": "Air Technical Intelligence Center",
+"sourceText": "Project Blue Book Special Report No. 14, ATIC, 5 May 1955, title page",
+"text": "ATIC issued Project Blue Book Special Report No. 14 on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-29d25292ab",
+"locator": null,
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"sourceText": "Primary document, released via CIA CREST (CIA-RDP81R00560R000100060001-5) and in the Department of War PURSUE Release 03",
+"text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, dated 5 May 1955, was produced for the Air Force by Battelle Memorial Institute.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5c8e17f022",
+"locator": "statistical results",
+"node": "blue-book-special-report-14",
+"nodeLabel": "Project Blue Book Special Report No. 14",
+"sourceText": "Project Blue Book Special Report No. 14, statistical results",
+"text": "Approximately 4,000 reports were collected; the final statistical study covered 2,199 objects, of which 434 (19.7 per cent) were evaluated as 'Unknown'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-68ac379062",
+"locator": null,
+"node": "blue-book-special-report-14",
+"nodeLabel": "Project Blue Book Special Report No. 14",
+"sourceText": "Primary document via CIA CREST, CIA-RDP81R00560R000100060001-5",
+"text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, is dated 5 May 1955 and marked FOR OFFICIAL USE ONLY.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6d7775681d",
+"locator": "title page",
+"node": "blue-book-special-report-14",
+"nodeLabel": "Project Blue Book Special Report No. 14",
+"sourceText": "Project Blue Book Special Report No. 14, title page",
+"text": "Special Report No. 14 was issued by the Air Technical Intelligence Center on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-861321d9dc",
+"locator": "full-text search (six terms)",
+"node": "blue-book-special-report-14",
+"nodeLabel": "Project Blue Book Special Report No. 14",
+"sourceText": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing",
+"text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e559a1aeb3",
+"locator": "cover",
+"node": "blue-book-special-report-14",
+"nodeLabel": "Project Blue Book Special Report No. 14",
+"sourceText": "Project Blue Book Special Report No. 14, 5 May 1955, cover",
+"text": "The report's cover reads 'STUDY NO. 102-EL-55/2-79 / ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS / PROJECT NO. 10073 / 5 MAY 1955 / SPECIAL REPORT NO. 14', and it states 'No copyright material is contained in this publication.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fe034b76a0",
+"locator": "quality-of-report cross-tabulations",
+"node": "blue-book-special-report-14",
+"nodeLabel": "Project Blue Book Special Report No. 14",
+"sourceText": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
+"text": "The report's data show a higher proportion of unknowns among the highest-quality reports than among the poorest, and statistically significant differences between knowns and unknowns.",
+"tier": 2
+}
+],
+"date": "1955",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"claimTier": 2,
+"id": "e-5091e6585a",
+"label": "Battelle performed the statistical analysis under contract",
+"note": "Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+},
+"claimTier": 1,
+"id": "e-ae8b3ba82c",
+"label": "Battelle held the Air Force contract designated Project Stork",
+"note": "Under Stork, Battelle performed the statistical analysis of Project Blue Book's case files that became Special Report No. 14.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 3,
+"id": "e-cf61c445f9",
+"label": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
+"note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-a03abd6c70",
+"label": "Project Stork / Blue Book Special Report No. 14 produced here",
+"note": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"claimTier": 1,
+"id": "e-5c6dff3fc3",
+"label": "ATIC issued Special Report No. 14",
+"note": "Issued 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79 — the largest statistical study of UFO reports the US government ever produced.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-c46cc80ccf",
+"label": "19.7 per cent of analysed objects were unknowns, rising with report quality",
+"note": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-54740bc2ba",
+"label": "Republished by the Department of War as CIA-UAP-015 in PURSUE Release 03",
+"note": "The same 1955 Battelle report has now been published by the government three times across seventy years without the underlying case data ever being independently reanalysed.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"b": {
+"cls": "program",
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 3,
+"id": "e-780a0151a2",
+"label": "Both official studies buried an unexplained residue under dismissive conclusions",
+"note": "SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-2967ca26d2",
+"label": "Stork was Blue Book's contracted analytical arm",
+"note": "The Air Force's public UFO project outsourced its own analytical methodology to a private nonprofit, whose records were never federal records.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+},
+"b": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"claimTier": 1,
+"id": "e-65eba90528",
+"label": "Stork produced Special Report No. 14, 5 May 1955",
+"note": "A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100.",
+"type": "programmatic"
+}
+],
+"era": "0",
+"host": null,
+"id": "cia-rdp81r00560r000100060001-5",
+"identifiers": [
+"CIA-RDP81R00560R000100060001-5"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+{
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+{
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)"
+}
+],
+"node": {
+"cls": "document",
+"id": "blue-book-special-report-14",
+"label": "Project Blue Book Special Report No. 14"
+},
+"title": "Project Blue Book Special Report No. 14",
+"topics": [
+{
+"claims": [
+"c-5c8e17f022",
+"c-6d7775681d",
+"c-861321d9dc",
+"c-fe034b76a0"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-5c8e17f022",
+"c-6d7775681d",
+"c-861321d9dc"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+},
+{
+"claims": [
+"c-fa327a2e32"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "report",
+"urls": [
+"https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf",
+"http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf",
+"https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
+"https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt",
+"https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt",
+"https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf",
+"https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/"
+]
+}

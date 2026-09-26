@@ -10,26 +10,34 @@
 {
 "id": "c-6792a476b6",
 "source": "University at Albany, Department of Physics faculty page",
+"sources": [],
 "text": "Levy is an Associate Professor in the Department of Physics at the University at Albany, with a PhD from the University of Muenster on XENON100 and postdoctoral work at RPI (XENON1T) and Albany (LUX/LZ).",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:albany.edu/physics/faculty/cecilia-levy) was rejected in review: string does not say whose faculty page; several candidates"
 },
 {
 "id": "c-52d506d565",
 "source": "UAlbany News Center, 4 June 2025",
+"sources": [],
 "text": "UAlbany's news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences UAPx field-expedition paper: 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx'.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-dfe46c2ed6",
 "source": "University at Albany faculty page publication list",
+"sources": [],
 "text": "She co-authored the Snowball Chamber paper with Szydagis: 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018).",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:albany.edu/physics/faculty/cecilia-levy) was rejected in review: string does not say whose faculty page; several candidates"
 },
 {
 "id": "c-47126574ed",
 "source": "Comparison of the two UAlbany Department of Physics faculty pages, retrieved 21 August 2026",
+"sources": [],
 "text": "Her UAlbany faculty page lists no UAP research interest, in contrast to Szydagis's page, which does. Her UAP involvement is documented through co-authorship and the university press office only.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: board's own comparison of two pages, neither individually catalogued"
 }
 ],
 "cls": "person",

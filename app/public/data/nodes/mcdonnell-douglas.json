@@ -7,14 +7,24 @@
 {
 "id": "c-6f952410e5",
 "source": "Robert M. Wood's own repeated public account",
+"sources": [],
 "text": "Robert M. Wood conducted a company-funded study of unidentified craft at McDonnell Douglas Astronautics, Huntington Beach, in the late 1960s.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Generic reference to repeated public statements, no specific interview or document named."
 },
 {
 "id": "c-99dd57fc9c",
 "source": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"sources": [
+{
+"id": "dodi-3204-01-2014",
+"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
+"title": "DoDI 3204.01 (2014)"
+}
+],
 "text": "Corporate independent research and development is recoverable as an indirect expense on covered DoD contracts under DoD Instruction 3204.01, with project reporting required only of contractors allocating more than $11 million in IR&D and bid-and-proposal costs.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

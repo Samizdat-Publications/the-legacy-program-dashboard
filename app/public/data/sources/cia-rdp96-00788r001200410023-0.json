@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-926c6c1202",
+"locator": null,
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "Talking paper, INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt ; Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "The Army staff started the work and paid for the first contract in 1978, and INSCOM dates its own entry to 1977. A talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year'. The 1984 GDIP memorandum states: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8132c28e28",
+"locator": null,
+"node": "inscom",
+"nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+"sourceText": "Talking paper, 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME)', with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt",
+"text": "The Army staff started it and paid for the contract: a 1978 talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year', the money to train a project manager and three INSCOM subjects, the contract let via AMSAA.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+},
+"b": {
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)"
+},
+"claimTier": 1,
+"id": "e-de643cfc77",
+"label": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
+"note": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
+"type": "funding"
+}
+],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00788r001200410023-0",
+"identifiers": [
+"CIA-RDP96-00788R001200410023-0"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+{
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+}
+],
+"node": null,
+"title": "INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME) (CIA-RDP96-00788R001200410023-0)",
+"topics": [
+{
+"claims": [
+"c-8132c28e28"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+]
+}

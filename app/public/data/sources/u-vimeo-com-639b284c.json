@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-8b66744d34",
+"locator": null,
+"node": "zero-point-documentary",
+"nodeLabel": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceText": "https://vimeo.com/channels/942663 , read 2026-09-18",
+"text": "A Vimeo channel titled 'Zero Point: The Story of Mark McCandlish and the Flux Liner', created by 'James Gladman', with 27 followers and no videos, carries the description verbatim: 'This Channel is dedicated the the film, and to the late Writer-Director James Allen.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "zero-point-documentary",
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner"
+},
+"b": {
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"claimTier": 2,
+"id": "e-9c7f8f9791",
+"label": "A feature documentary carrying the claim to a later audience",
+"note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "zero-point-documentary",
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner"
+},
+"b": {
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+},
+"claimTier": 1,
+"id": "e-509f666d13",
+"label": "The film is about him and names him in its title",
+"note": "The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-vimeo-com-639b284c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "vimeo.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "zero-point-documentary",
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner"
+}
+],
+"node": null,
+"title": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'",
+"topics": [
+{
+"claims": [
+"c-8b66744d34"
+],
+"id": "arv-fluxliner",
+"title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+}
+],
+"type": "web page",
+"urls": [
+"https://vimeo.com/channels/942663"
+]
+}

@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+"claimTier": 1,
+"id": "e-4fd4acceea",
+"label": "Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest",
+"note": "The department's own faculty page for Szydagis lists his research interests as 'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-albany-edu-b6e5cdb7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "albany.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+}
+],
+"node": null,
+"title": "University at Albany, Department of Physics - Matthew Szydagis faculty page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.albany.edu/physics/faculty/matthew-szydagis"
+]
+}

@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-5e80435f23",
+"label": "Schumer names Reid as the legacy he is continuing",
+"note": "Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-cfd6ece2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+}
+],
+"node": null,
+"title": "The Debrief — 'The UAP Disclosure Act of 2023'",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/"
+]
+}

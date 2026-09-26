@@ -7,14 +7,24 @@
 {
 "id": "c-f1668b6955",
 "source": "Christopher Mellon in The Phenomenon (2020), via Vice",
+"sources": [
+{
+"id": "t-61f6e8ae6e03",
+"locator": "received videos in Pentagon parking lot",
+"title": "The Phenomenon (2020"
+}
+],
 "text": "Christopher Mellon received the three video files 'in the Pentagon parking lot from a Defense Department official'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c387bda3c2",
 "source": "Department of War website, verified August 2026",
+"sources": [],
 "text": "Department of Defense press releases from 2020, including the 27 April 2020 video release statement, now resolve to war.gov following the Department's renaming.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Describes the board's own verification action (checking that old DoD URLs resolve to war.gov), not a specific external document."
 }
 ],
 "cls": "location",

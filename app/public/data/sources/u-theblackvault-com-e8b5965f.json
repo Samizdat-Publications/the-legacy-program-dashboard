@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-e8b5965f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+}
+],
+"node": null,
+"title": "The Black Vault - FOIA documents reveal AARO's authorized and repeated attempts to engage with David Grusch",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/foia-documents-reveal-aaros-authorized-and-repeated-attempts-to-engage-with-david-grusch/"
+]
+}

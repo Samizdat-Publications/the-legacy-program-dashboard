@@ -1,0 +1,45 @@
+{
+"archived": [
+"https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-2000-e.html"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-9f55169560",
+"locator": null,
+"node": "lac-ufo-collection",
+"nodeLabel": "Library and Archives Canada - UFO records collection",
+"sourceText": "Library and Archives Canada, 'Canada's UFOs' timeline, 1959-1960 entry",
+"text": "LAC records the 1959-1960 Canada-US joint reporting arrangement: 'An agreement was finalized between the United States and Canada to institute a joint reporting system of UFOs. The Cirvis/Merint reporting system was created to extend the early warning coverage for the defence of North America ... and to extend the reporting of vital intelligence during peacetime.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-collectionscanada-ca-675780c8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "collectionscanada.ca",
+"listedOn": [
+{
+"cls": "institution",
+"id": "lac-ufo-collection",
+"label": "Library and Archives Canada - UFO records collection"
+}
+],
+"node": null,
+"title": "LAC - 1959-1960 CIRVIS/MERINT entry",
+"topics": [
+{
+"claims": [
+"c-9f55169560"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
+"type": "web page",
+"urls": []
+}

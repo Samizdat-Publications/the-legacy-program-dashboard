@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-b80bcc7d3e",
+"locator": "2:10:37 to 2:11:31",
+"node": "frank-olson-death-1953",
+"nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceText": "Danny Jones Podcast, ep. 100, 1 July 2021, 2:10:37 to 2:11:31",
+"text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 2:10:37, Tom O'Neill said Eric Olson has spent his life arguing his father was thrown from a window at the 'Statler Hilton' in New York in 1953 rather than having jumped, and that the government's own position is that Olson was used in an experiment but died by suicide. The opened records name the Statler Hotel, and the murder allegation is the 2012 complaint's, dismissed in 2013 on timeliness, waiver and sovereign immunity rather than on its truth.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-6416daadcd",
+"locator": "1:11:04 to 1:12:46",
+"node": "john-marks-foia-f-76-374",
+"nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"sourceText": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:11:04 to 1:12:46",
+"text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:11:04 to 1:12:46, Tom O'Neill described John Marks as a State Department official who found MKULTRA's surviving financial records, blew the whistle and went to Congress. The CIA memorandum reprinted in the 1977 hearing print says the search and the finding were done inside the Agency in response to his FOIA request, and that the Agency was advised to inform the Senate Select Committee before informing his attorneys.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-95da124da9",
+"locator": null,
+"node": "sidney-gottlieb",
+"nodeLabel": "Sidney Gottlieb",
+"sourceText": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:08:19 to 1:10:07",
+"text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:08:19 to 1:10:07, Tom O'Neill described Gottlieb as Louis Jolyon West's handler, said their correspondence began at Lackland Air Force Base and said Gottlieb offered West an operational alias which West declined as more conspicuous. No record opened for this node bears on any of it, and the released Subproject 43 file names no researcher.",
+"tier": 2
+}
+],
+"date": "2021-07-01",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-27ba6393f31d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:11:04 to 1:12:46",
+"topics": [
+{
+"claims": [
+"c-b80bcc7d3e",
+"c-6416daadcd",
+"c-95da124da9"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-b80bcc7d3e"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "broadcast",
+"urls": []
+}

@@ -7,26 +7,52 @@
 {
 "id": "c-0d3afd319b",
 "source": "AARO Declassification Information Paper, September 2025",
+"sources": [
+{
+"id": "n-aaro-declassification-info-paper-2025",
+"locator": null,
+"title": "AARO Declassification Information Paper (September 2025)"
+}
+],
 "text": "AARO states it cannot declassify information independently and must request declassification review from the originating offices, with DOPSR reviewing redactions before public release.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a2d5a69c06",
 "source": "AARO Declassification Information Paper, September 2025",
+"sources": [
+{
+"id": "n-aaro-declassification-info-paper-2025",
+"locator": null,
+"title": "AARO Declassification Information Paper (September 2025)"
+}
+],
 "text": "'Information must remain classified when its disclosure could reasonably be expected to cause damage, serious damage, or exceptionally grave damage to national security.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d23a82cce6",
 "source": "AARO Declassification Information Paper, September 2025",
+"sources": [
+{
+"id": "n-aaro-declassification-info-paper-2025",
+"locator": null,
+"title": "AARO Declassification Information Paper (September 2025)"
+}
+],
 "text": "The paper states that classified UAP imagery protects platform capabilities, locations and collection methods, and that even footage of prosaic objects remains classified when derived from sensitive sources.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-5b9821f664",
 "source": "Inference from the September 2025 paper against the May-August 2026 PURSUE release record",
+"sources": [],
 "text": "The paper's account of an immovable process was falsified within eight months by its own department, which cleared five tranches and over a hundred sensor videos once directed to at cabinet level.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

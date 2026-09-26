@@ -1,0 +1,113 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2aad522b90",
+"locator": null,
+"node": "andy-ogles",
+"nodeLabel": "Andrew Ogles",
+"sourceText": "The Hill, 12 January 2024",
+"text": "After the 12 January 2024 ICIG briefing: what 'most Americans fear is true' - there is 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' 'I asked very specific questions and was unable to get specific answers.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-566d8272dd",
+"locator": null,
+"node": "icig-briefing-2024-01-12",
+"nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+"sourceText": "The Hill, 12 January 2024",
+"text": "Ogles emerged saying what 'most Americans fear is true,' describing 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-8512998988",
+"locator": null,
+"node": "icig-briefing-2024-01-12",
+"nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+"sourceText": "The Hill, 12 January 2024",
+"text": "Closed-door briefing at the Capitol lasting about 90 minutes at which ICIG Thomas Monheim spoke with House Oversight and Accountability Committee members, intended to improve transparency around the government's knowledge of UAP.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-16c5e426ae",
+"locator": null,
+"node": "hr-6967-safe-airspace-for-americans-act",
+"nodeLabel": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"sourceText": "The Hill, 12 January 2024",
+"text": "Intended to close the gap in UAP reporting by enabling civilian pilots and personnel to report encounters to the FAA, which would send reports to AARO, in exchange for legal safeguards.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3a426771c4",
+"locator": null,
+"node": "robert-garcia",
+"nodeLabel": "Robert Garcia",
+"sourceText": "The Hill, 12 January 2024",
+"text": "After the 12 January 2024 ICIG briefing: it is reasonable to contend that 'everyone that was in the room received probably new information.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-eef58397b5",
+"locator": null,
+"node": "thomas-monheim",
+"nodeLabel": "Thomas A. Monheim",
+"sourceText": "The Hill, 12 January 2024",
+"text": "Briefed House Oversight and Accountability Committee members in a closed-door session at the Capitol on 12 January 2024 for about ninety minutes, intended to improve transparency around the government's knowledge of UAP.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-699ae8fa76",
+"locator": null,
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"sourceText": "The Hill, 12 January 2024",
+"text": "'It's very compartmentalized; it's like looking down the barrel of a .22 rifle. All they know is just right in that little circle. Now it's just whack-a-mole.' - after the 12 Jan 2024 ICIG briefing.",
+"tier": 2
+}
+],
+"date": "2024-01-12",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-ddf4d30558cf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [],
+"node": null,
+"title": "The Hill, 12 January 2024",
+"topics": [
+{
+"claims": [
+"c-566d8272dd",
+"c-8512998988",
+"c-699ae8fa76"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+},
+{
+"claims": [
+"c-16c5e426ae"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-2aad522b90"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "article",
+"urls": []
+}

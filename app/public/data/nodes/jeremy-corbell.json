@@ -24,32 +24,82 @@
 {
 "id": "c-c8776d9891",
 "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-letterboxd-com-18474e51",
+"locator": null,
+"title": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers"
+}
+],
 "text": "He directed Bob Lazar: Area 51 and Flying Saucers, 2018, 97 minutes, narrated by Mickey Rourke and featuring Bob Lazar, George Knapp and Joy White. It is the artefact that returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is how the July 2017 search of United Nuclear entered the UFO literature.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b6e9a34c47",
 "source": "Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-93647653",
+"locator": null,
+"title": "Wikipedia - Jeremy Corbell"
+}
+],
 "text": "Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-6164b54d64",
 "source": "Wikipedia, 'Jeremy Corbell' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-93647653",
+"locator": null,
+"title": "Wikipedia - Jeremy Corbell"
+}
+],
 "text": "Corbell directed Hunt for the Skinwalker, based on the book by George Knapp and Colm Kelleher.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8f4645bce9",
 "source": "CHRG-118hhrg53022, Index of Documents https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "Index of Documents",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+},
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Corbell's report 'The UAP Puzzle' was entered into the record of the 26 July 2023 House Oversight hearing by Rep. Tim Burchett, and appears in the hearing's Index of Documents as 'Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7c12ceacfd",
 "source": "CHRG-118hhrg53022, Rep. Burchett https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "Rep. Burchett",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+},
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Burchett on the record at that hearing: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' The unanimous consent was granted without objection.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

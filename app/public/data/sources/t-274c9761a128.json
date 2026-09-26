@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-d8c531f3ae",
+"locator": null,
+"node": "press-conf-2026-06-09",
+"nodeLabel": "Capitol UAP Disclosure Press Conference",
+"sourceText": "NewsNation coverage of the 9 June 2026 press conference",
+"text": "Grusch stated the US government is aware of several kinds of non-human intelligence and called for declassification including records on the 1996 Varginha incident.",
+"tier": 2
+}
+],
+"date": "2026-06-09",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-274c9761a128",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "NewsNation coverage of the 9 June 2026 press conference",
+"topics": [
+{
+"claims": [
+"c-d8c531f3ae"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
+"type": "broadcast",
+"urls": []
+}

@@ -1,0 +1,166 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-2db779360c",
+"locator": null,
+"node": "ev-uk-ufo-desk-closure",
+"nodeLabel": "Closure of the MoD UFO Desk, 1 December 2009",
+"sourceText": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-2615fd633b",
+"locator": null,
+"node": "uk-mod-ufo-desk",
+"nodeLabel": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+"sourceText": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-13e82ce123",
+"locator": null,
+"node": "nick-pope",
+"nodeLabel": "Nick Pope",
+"sourceText": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"text": "The British UFO programme 'lacked its own formal, catchy name, unlike its equivalent in the United States, Project Blue Book ... because the UK government wanted to play down the true extent of its own interest in investigating UFO sightings'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4222dcfdf1",
+"locator": null,
+"node": "nick-pope",
+"nodeLabel": "Nick Pope",
+"sourceText": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"text": "Pope joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying at the UFO desk for three years, 'scrutinising UFO reports to identify potential defence risks to the UK'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-cb827446c0",
+"locator": null,
+"node": "nick-pope",
+"nodeLabel": "Nick Pope",
+"sourceText": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"text": "Elizabeth Weiss announced on 6 April 2026: 'My heart is breaking. Nick passed away this afternoon at our home.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mona-nemer",
+"label": "Dr Mona Nemer"
+},
+"b": {
+"cls": "person",
+"id": "nick-pope",
+"label": "Nick Pope"
+},
+"claimTier": 3,
+"id": "e-5b727f09a5",
+"label": "2025 Canadian recommendation versus the 2009 British closure",
+"note": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "nick-pope",
+"label": "Nick Pope"
+},
+"b": {
+"cls": "event",
+"id": "ev-uk-ufo-desk-closure",
+"label": "Closure of the MoD UFO Desk, 1 December 2009"
+},
+"claimTier": 2,
+"id": "e-fdea9baa08",
+"label": "principal public critic of the 2009 closure",
+"note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "nick-pope",
+"label": "Nick Pope"
+},
+"b": {
+"cls": "institution",
+"id": "uk-mod-ufo-desk",
+"label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)"
+},
+"claimTier": 2,
+"id": "e-eedbbb393b",
+"label": "ran the UFO desk 1991-1994",
+"note": "Sky HISTORY, the broadcaster he worked for, records that he joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying three years.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "nick-pope",
+"label": "Nick Pope"
+},
+"b": {
+"cls": "program",
+"id": "tna-ufo-release",
+"label": "The National Archives / MoD UFO File Release Programme (2008-2013)"
+},
+"claimTier": 2,
+"id": "e-4ec169d9a2",
+"label": "fronted the publicity for the file releases",
+"note": "The MoD approached Pope to help with the publicity drive when it decided to declassify and release the files; he became, in the broadcaster's phrase, the face of the Ministry's new-found transparency.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-history-co-uk-8928a8ef",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "history.co.uk",
+"listedOn": [
+{
+"cls": "event",
+"id": "ev-uk-ufo-desk-closure",
+"label": "Closure of the MoD UFO Desk, 1 December 2009"
+},
+{
+"cls": "institution",
+"id": "uk-mod-ufo-desk",
+"label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)"
+},
+{
+"cls": "person",
+"id": "nick-pope",
+"label": "Nick Pope"
+}
+],
+"node": null,
+"title": "Sky HISTORY",
+"topics": [
+{
+"claims": [
+"c-2db779360c",
+"c-13e82ce123",
+"c-cb827446c0"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.history.co.uk/articles/remembering-nick-pope"
+]
+}

@@ -39,20 +39,44 @@
 {
 "id": "c-c1bd19fdc7",
 "source": "Entropy, DOI 10.3390/e21100939",
+"sources": [
+{
+"id": "n-paper-knuth-powell-reali-2019",
+"locator": null,
+"title": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+}
+],
 "text": "Powell is co-author of 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939 (2019).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-76c7b08659",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"sources": [
+{
+"id": "u-doi-org-df1994a1",
+"locator": null,
+"title": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)"
+}
+],
 "text": "Powell led the SCU analysis of the April 2013 Aguadilla, Puerto Rico thermal-imagery event recorded by a Department of Homeland Security aircraft.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fe5d9d017e",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
+"sources": [
+{
+"id": "u-doi-org-61f4d7b4",
+"locator": null,
+"title": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)"
+}
+],
 "text": "Powell is lead author of the 2023 SCU study 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', with Sarah Little, Larry Hancock and others.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

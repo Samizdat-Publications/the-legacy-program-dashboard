@@ -24,32 +24,72 @@
 {
 "id": "c-45aea027de",
 "source": "S. 4784 (Reported in Senate), Report No. 119-127, GPO full text",
+"sources": [
+{
+"id": "bills-119s4784rs",
+"locator": null,
+"title": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+}
+],
 "text": "S. 4784, the FY2027 NDAA as reported by the Armed Services Committee, contains no UAP provisions: zero occurrences of 'unidentified', 'UAP', or a citation to 50 U.S.C. 3373.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b4da580860",
 "source": "Congress.gov bill actions and amendment record, S. 1071, 119th Congress",
+"sources": [
+{
+"id": "u-congress-gov-2fe5330d",
+"locator": null,
+"title": "Congress.gov — S. 1071"
+}
+],
 "text": "The FY2026 NDAA, S. 1071, was disposed of with 17 amendments total, of which the only Senate floor amendment proposed was SA 3961 by Senator Thune 'to improve the bill' on 11 December 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-87e2323463",
 "source": "P.L. 119-60 full text, GPO",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "P.L. 119-60 Subtitle E consists of Secs. 1671, 1672 and 1673 only; the Act contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-36b2147fa7",
 "source": "https://www.armed-services.senate.gov/about/membership",
+"sources": [
+{
+"id": "u-armed-services-senate-go-dcc4431c",
+"locator": null,
+"title": "armed-services.senate.gov"
+}
+],
 "text": "Roger F. Wicker (R-MS) is listed as Chairman of the Senate Armed Services Committee on the committee's official membership page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1e439d98a1",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"sources": [
+{
+"id": "u-govinfo-gov-9630a066",
+"locator": null,
+"title": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+}
+],
 "text": "Wicker was Ranking Member of the Senate Armed Services Committee in the 118th Congress, opposite Chairman Jack Reed.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",
@@ -231,7 +271,7 @@
 "status": "active",
 "sub": "R-MS; SASC Chairman (2025- ); sponsor of the FY2027 NDAA",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 313 of 1138, score 38). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 314 of 1138, score 38). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

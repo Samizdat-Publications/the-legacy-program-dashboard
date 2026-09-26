@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-44a5610df8",
+"label": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
+"note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-podcasts-apple-com-fb0cece7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "podcasts.apple.com",
+"listedOn": [],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' (Apple Podcasts listing)",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+]
+}

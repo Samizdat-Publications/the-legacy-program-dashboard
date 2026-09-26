@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c82e6df5f0",
+"locator": null,
+"node": "jason-advisory-group",
+"nodeLabel": "JASON",
+"sourceText": "HigherGov contract opportunity listing, Sources Sought for JASON Recompete",
+"text": "A JASON program management and logistics recompete was in the market in 2026 with MITRE as the confirmed incumbent.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-highergov-com-ad544e2b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "highergov.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+}
+],
+"node": null,
+"title": "HigherGov - Sources Sought for JASON Recompete",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.highergov.com/contract-opportunity/sources-sought-for-jason-recompete-db050620260745-r-97265/"
+]
+}

@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-629fe91555",
+"locator": null,
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"sourceText": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection, https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm , read 2026-09-18, event date 1988-11-12",
+"text": "An air show was held at Norton Air Force Base on 12 November 1988, and an SR-71A flew at it. A private photographic collection of Blackbird aircraft carries a section headed 'Norton Air Force Base Airshow, November 12, 1988' with captions including 'SR-71A 61-7962 at Norton AFB on November 12, 1988' and 'The crew of SR-71A 61-7962 shake hands before departing the November 12, 1988 Norton Air Force Base airshow'. This is the only opened record that dates the air show independently of the ARV account.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "norton-afb-airshow-1988",
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit"
+},
+"b": {
+"cls": "location",
+"id": "l-norton-afb",
+"label": "Norton Air Force Base, San Bernardino, California"
+},
+"claimTier": 1,
+"id": "e-dcac53bb5e",
+"label": "The event is at the base",
+"note": "Both primary documents place the account at Norton AFB, and the air show itself is dated at the base independently by a Blackbird photographic collection.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "event",
+"id": "norton-afb-airshow-1988",
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 2,
+"id": "e-9d898a94af",
+"label": "Air Force open house; the 1990 notes describe Air Force briefers",
+"note": "The air show is an Air Force open house and is documented as such. The briefers inside the alleged exhibit are described only in the witness's words: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'. No Air Force record of the exhibit was opened.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-air-and-space-com-39a9f947",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "air-and-space.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "norton-afb-airshow-1988",
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit"
+}
+],
+"node": null,
+"title": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection",
+"topics": [
+{
+"claims": [
+"c-629fe91555"
+],
+"id": "arv-fluxliner",
+"title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm"
+]
+}

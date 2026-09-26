@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-08d84d4c84",
+"locator": null,
+"node": "atomic-energy-commission",
+"nodeLabel": "Atomic Energy Commission",
+"sourceText": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974, https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf",
+"text": "The Commission was abolished by statute: 'The Atomic Energy Commission is hereby abolished.' Its functions vested in the Administrator of the Energy Research and Development Administration, and the Act took effect 120 days after enactment or on an earlier date the President might prescribe.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "atomic-energy-commission",
+"label": "Atomic Energy Commission"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"id": "e-771cf1b726",
+"label": "Abolished 1974; functions passed through ERDA to the Department of Energy",
+"note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "stat-88-1233",
+"identifiers": [
+"88 Stat. 1233"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "institution",
+"id": "atomic-energy-commission",
+"label": "Atomic Energy Commission"
+}
+],
+"node": null,
+"title": "88 Stat. 1233",
+"topics": [
+{
+"claims": [
+"c-08d84d4c84"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
+"type": "statute",
+"urls": [
+"https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf"
+]
+}

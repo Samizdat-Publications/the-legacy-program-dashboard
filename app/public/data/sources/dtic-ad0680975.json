@@ -1,0 +1,74 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ae840d4eb1",
+"locator": null,
+"node": "james-mcdonald",
+"nodeLabel": "James E. McDonald",
+"sourceText": "Condon Report, Volume 1 https://archive.org/details/DTIC_AD0680975",
+"text": "The report records that 'in August 1967 Prof. James McDonald of Arizona made a 20-day trip to Australia, Tasmania and New Zealand in the course of which he interviewed some 80 persons who had made UFO reports there', and that on his return he briefed the Colorado project on what he found.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b4004d496e",
+"locator": null,
+"node": "james-mcdonald",
+"nodeLabel": "James E. McDonald",
+"sourceText": "Condon Report, Volume 1, acknowledgements https://archive.org/details/DTIC_AD0680975",
+"text": "The Condon Report acknowledges McDonald directly: 'The help of Dr. McDonald, Institute for Atmospheric Physics, University of Arizona, who conducted a study of UFO phenomena concurrently with this study, was invaluable in bringing a number of cases to our attention.' The board's description of him as a senior atmospheric physicist is the project's own.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2e40657272",
+"locator": null,
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"sourceText": "Condon Report, Volume 1, introductory account of the project's formation https://archive.org/details/DTIC_AD0680975",
+"text": "The Condon Report states verbatim: 'Assistant Dean Robert J. Low of the Graduate School was appointed project coordinator.' The same passage names Condon as scientific director and Stuart Cook and Franklin E. Roach as principal investigators, placing Low's role in the project's own account of its structure.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "dtic-ad0680975",
+"identifiers": [
+"DTIC AD0680975"
+],
+"interestedParty": false,
+"issuer": "Defense Technical Information Center",
+"listedOn": [
+{
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald"
+},
+{
+"cls": "person",
+"id": "robert-low",
+"label": "Robert J. Low"
+}
+],
+"node": null,
+"title": "Scientific Study of Unidentified Flying Objects (DTIC AD0680975)",
+"topics": [
+{
+"claims": [
+"c-ae840d4eb1",
+"c-b4004d496e",
+"c-2e40657272"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/DTIC_AD0680975"
+]
+}

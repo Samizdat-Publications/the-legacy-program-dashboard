@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Federation of American Scientists",
+"id": "u-sgp-fas-org-25e3a4bf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994"
+}
+],
+"node": null,
+"title": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sgp.fas.org/library/jsc/index.html"
+]
+}

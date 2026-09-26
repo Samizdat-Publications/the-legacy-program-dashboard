@@ -1,0 +1,176 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-db67d7eeb5",
+"locator": null,
+"node": "mip",
+"nodeLabel": "Military Intelligence Program (MIP)",
+"sourceText": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "The NIP/MIP division creates a jurisdictional seam between the intelligence committees and the armed services committees that a single activity scored across both can be described to each committee without either receiving a complete account. Reasoning: the two programmes have different controlling officials (DNI and SECDEF) and different primary oversight committees, and no statute requires a reconciled cross-programme presentation to any single body.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-6be5048e6a",
+"locator": null,
+"node": "nip",
+"nodeLabel": "National Intelligence Program (NIP)",
+"sourceText": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "Section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (P.L. 110-53) requires the DNI to disclose the aggregate amount appropriated for the NIP within 30 days of the end of each fiscal year.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-7d90dc9f81",
+"locator": null,
+"node": "nip",
+"nodeLabel": "National Intelligence Program (NIP)",
+"sourceText": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "No breakdown of the NIP by agency, programme, discipline or appropriation account is published; the statutory disclosure is of the aggregate only.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-9f57a49adb",
+"locator": null,
+"node": "nip",
+"nodeLabel": "National Intelligence Program (NIP)",
+"sourceText": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "The FY2026 NIP budget request was $81.9 billion.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-bd8fd87ec2",
+"locator": null,
+"node": "nip",
+"nodeLabel": "National Intelligence Program (NIP)",
+"sourceText": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "Published NIP appropriated toplines: FY2007 $43.5bn, FY2008 $47.5bn, FY2009 $49.8bn, FY2010 $53.1bn, FY2011 $54.6bn, FY2012 $53.9bn, FY2013 $49.0bn, FY2014 $50.5bn, FY2015 $50.3bn, FY2016 $53.0bn, FY2017 $54.6bn, FY2018 $59.4bn, FY2019 $60.2bn, FY2020 $62.7bn, FY2021 $60.8bn, FY2022 $65.7bn, FY2023 $71.7bn, FY2024 $76.5bn, FY2025 $73.3bn.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f12ed03966",
+"locator": null,
+"node": "nip",
+"nodeLabel": "National Intelligence Program (NIP)",
+"sourceText": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "Section 364 of the Intelligence Authorization Act for Fiscal Year 2010 required disclosure of the aggregate NIP budget request; the first such release was in February 2011.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3540fe0a56",
+"locator": null,
+"node": "intel-budget-disclosure-record",
+"nodeLabel": "The intelligence budget disclosure record, FY1997-FY2026",
+"sourceText": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "The published intelligence aggregate cannot be reconciled to the published defense budget by any external party, because NIP and MIP money is appropriated inside Department of Defense accounts whose classified line items are not broken out. Reasoning: the only public defense-side classified figures are the 'CLASSIFIED PROGRAMS' rows in the funding tables, which total roughly $96 billion for FY2026 across all appropriations and are not identified as NIP, MIP or neither.",
+"tier": 3
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-c27d92ff11",
+"label": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
+"note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 1,
+"id": "e-e732a234e7",
+"label": "one of the two named channels through which US intelligence money is appropriated",
+"note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+"b": {
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)"
+},
+"claimTier": 1,
+"id": "e-f4f28417a3",
+"label": "The two-programme split that divides intelligence money between DNI and SECDEF control",
+"note": "The NIP is controlled by the Director of National Intelligence and the MIP by the Secretary of Defense; both are published only as annual aggregates. Attested by ODNI's own budget page and the FAS compilation.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-odni-gov-b68ec5e7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "usc-50-3306",
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts"
+},
+{
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)"
+},
+{
+"cls": "program",
+"id": "nip",
+"label": "National Intelligence Program (NIP)"
+},
+{
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026"
+}
+],
+"node": null,
+"title": "ODNI, Intelligence Community Budget",
+"topics": [
+{
+"claims": [
+"c-db67d7eeb5",
+"c-7d90dc9f81",
+"c-9f57a49adb",
+"c-bd8fd87ec2",
+"c-3540fe0a56"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.odni.gov/index.php/what-we-do/ic-budget"
+]
+}

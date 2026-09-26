@@ -7,14 +7,24 @@
 {
 "id": "c-729ee7fab2",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records approximately $97 billion in prime contract obligations to Booz Allen Hamilton recipient entities since FY2008.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b48c8cda88",
 "source": "David Grusch, written statement and testimony, House Oversight Committee, 26 July 2023",
+"sources": [],
 "text": "Grusch testified that he was tasked to identify the special access and controlled access programs needed to satisfy the UAP Task Force's congressional mandate and was denied the read-ons he requested.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_T) was rejected in review: names statement and testimony; candidate is the statement only"
 }
 ],
 "cls": "institution",

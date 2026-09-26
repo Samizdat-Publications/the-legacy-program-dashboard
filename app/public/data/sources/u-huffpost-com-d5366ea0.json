@@ -1,0 +1,90 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-71af595aa6",
+"locator": null,
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"sourceText": "Alejandro Rojas, HuffPost Weird News, 13 May 2014, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650 , opened 2026-09-19",
+"text": "THE ADMISSION SIDE, AND IT IS WEAKER THAN IT LOOKS. A dated named-outlet report states that Doty says he was tasked with hoaxing documents and feeding false information to UFO researchers while an AFOSI special agent at Kirtland, that he was ordered to make Paul Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him. It also records that the Air Force 'refuses to comment' and did not answer the author's letter.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"b": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"claimTier": 2,
+"id": "e-c711784f2e",
+"label": "Downstream of the Kirtland operation, which is this domain's best-known case",
+"note": "The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-2290621189",
+"label": "Two-sided: the reported admission, and his own recorded denial of harm",
+"note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
+"type": "behavioral"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-huffpost-com-d5366ea0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "huffpost.com",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+{
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+}
+],
+"node": null,
+"title": "Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies'",
+"topics": [
+{
+"claims": [
+"c-71af595aa6"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "article",
+"urls": [
+"https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+]
+}

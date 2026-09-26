@@ -60,74 +60,152 @@
 {
 "id": "c-961ee028e3",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"sources": [
+{
+"id": "n-reid-sap-letter-2009",
+"locator": null,
+"title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+}
+],
 "text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e712955c7c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"sources": [
+{
+"id": "u-dia-mil-ce3242b6",
+"locator": null,
+"title": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)"
+}
+],
 "text": "DIA records him as co-sponsor with Senator Daniel Inouye (D-HI) of the language in the July 2008 Supplemental Appropriation bill directing DIA to investigate foreign advanced aerospace weapon threats 'from the present out to 40 years in the future' — a $10 million add.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-816b6b4968",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/",
+"sources": [
+{
+"id": "u-dia-mil-25bf2a13",
+"locator": null,
+"title": "DIA Talking Paper U-973-09, 'Senator Reid Visit to Director, DIA', 04 May 2009 (DIA FOIA release)"
+}
+],
 "text": "DIA Talking Paper: 'Senator Reid has a deep interest in the potential threat posed by unconventional aerospace technologies; that is, technologies that are a radical departure to those used in current advanced aerospace vehicles. He is interested in what technological \"leaps\" are feasible and their implications to US national defense.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-46e2032646",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+"sources": [
+{
+"id": "u-dia-mil-c8227584",
+"locator": null,
+"title": "DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)"
+}
+],
 "text": "Met DIA leadership on the program at least four documented times: 13 Nov 2008 (with the DIA Director), 5 Jan 2009, mid-May 2009, and 19 Nov 2009 at Senate Visitor Center SVC-217 with the Deputy Secretary of Defense present.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1470af8c01",
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO Vol. I attributes the FY2008/FY2010 $22M appropriations to his direction as Senate Majority Leader.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6ebd6ee9ad",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.22",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-362c06e9f1",
 "source": "Reid to DEPSECDEF William J. Lynn III, 24 June 2009, DIA FOIA release",
+"sources": [
+{
+"id": "n-reid-sap-letter-2009",
+"locator": null,
+"title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+}
+],
 "text": "Reid requested a 'Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c49875f40e",
 "source": "DIA talking paper DR_Reid_Mtg_Nov09, 19 Nov 2009",
+"sources": [
+{
+"id": "u-documents2-theblackvault-446395e3",
+"locator": null,
+"title": "DIA talking paper — Senator Reid meeting, November 2009"
+}
+],
 "text": "DIA scheduled a 19 Nov 2009 4:45pm briefing of Reid in SVC-217 to tell him the deliverables 'do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-65761a45c6",
 "source": "Harry Reid interview, Vice/KLAS Mystery Wire, 2019-2021",
+"sources": [],
 "text": "Reid said $22 million was not enough and that if the US government is not studying the subject it is malpractice.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Vague date range across two possible outlets, no single match."
 },
 {
 "id": "c-65bc345d51",
 "source": "Inference from the 24 June 2009 Reid letter read against DIA's 13 Nov 2009 SAP review memo",
+"sources": [],
 "text": "Reid's insistence on a bigoted access list for 'engineering advanced technologies' and 'involvement of private contractors' indicates he had been told something about reverse-engineering activity that does not appear anywhere in the unclassified DIRD deliverables — the reasoning being that no SAP is needed to protect 38 unclassified academic literature reviews, and DIA said exactly that in refusing him.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-2bad419819",
 "source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"sources": [],
 "text": "Schumer: 'I am honored to carry on the legacy of my mentor and dear friend Harry Reid and fight for the transparency that the public has long demanded surrounding these unexplained phenomena.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schum) was rejected in review: author and date not in candidate row; cannot confirm same article"
 },
 {
 "id": "c-05030f7b1c",
 "source": "P.L. 117-81 approval date, GPO; public record of Reid's death",
+"sources": [
+{
+"id": "pl-117-81",
+"locator": null,
+"title": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+}
+],
 "text": "Reid died on 28 December 2021, one day after the enactment of P.L. 117-81, which created the office at 50 U.S.C. 3373.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

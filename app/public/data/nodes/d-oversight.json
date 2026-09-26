@@ -8,20 +8,38 @@
 {
 "id": "c-8bf65c86ff",
 "source": "10 U.S.C. Sec. 119",
+"sources": [
+{
+"id": "usc-10-119",
+"locator": null,
+"title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+}
+],
 "text": "10 U.S.C. 119 permits the Secretary of Defense to waive SAP congressional notification, limiting reporting to the chairmen and ranking members of the defence committees.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1142db799e",
 "source": "DoD OIG, DODIG-2023-109 unclassified summary",
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
 "text": "The DoD Inspector General published an unclassified summary of DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', on 25 January 2024.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6ded7dacbd",
 "source": "House Oversight Committee hearing page",
+"sources": [],
 "text": "The House Committee on Oversight and Government Reform held a hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-) was rejected in review: no date or title; cannot tell which hearing page"
 }
 ],
 "cls": "domain",

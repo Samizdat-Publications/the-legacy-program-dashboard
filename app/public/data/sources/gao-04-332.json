@@ -1,0 +1,237 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4e4442d69b",
+"locator": "3 March 2004",
+"node": "dcsa-nisp",
+"nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
+"sourceText": "GAO-04-332, 3 March 2004",
+"text": "GAO-04-332 (3 March 2004) is titled 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information' and found that DSS 'has not always followed required procedures when contractors have reported security violations and possible compromises of classified information.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-bd57da2dc6",
+"locator": "footnote 2",
+"node": "dcsa-nisp",
+"nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
+"sourceText": "GAO-04-332, footnote 2",
+"text": "GAO-04-332 footnote 2: 'As agreed with committee staff, our review was limited to DSS's oversight of contractor facilities' protection of Confidential, Secret, and Top Secret information as defined in Executive Order no. 12958, as amended, and did not include DSS's oversight of special access programs at contractor facilities.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ed675dd4b0",
+"locator": null,
+"node": "dcsa-nisp",
+"nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
+"sourceText": "GAO-04-332 footnote 2; search of the govinfo GAOREPORTS collection, 12 August 2026",
+"text": "The only published GAO audit of DoD's industrial security oversight of contractors carved special access programs out of its own scope by agreement with the requesting committee - meaning no public audit exists of the inspection regime for contractor SAPs, carved out or not. Reasoning: GAO-04-332 footnote 2 states the exclusion, and no later GAO product in the govinfo GAOREPORTS collection covers contractor SAP oversight.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-039b9c6b34",
+"locator": "cover summary",
+"node": "gao-04-332",
+"nodeLabel": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"sourceText": "GAO-04-332, cover summary",
+"text": "GAO-04-332 was produced 'In response to a Senate report accompanying the National Defense Authorization Act for Fiscal Year 2004' and assessed DSS's oversight of 11,000-plus contractor facilities.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0d453dcf92",
+"locator": null,
+"node": "gao-04-332",
+"nodeLabel": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"sourceText": "GAO-04-332",
+"text": "GAO-04-332 found 'DSS has not always followed required procedures when contractors have reported security violations and possible compromises of classified information.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5d84160138",
+"locator": null,
+"node": "gao-04-332",
+"nodeLabel": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"sourceText": "https://www.gao.gov/products/gao-04-332",
+"text": "Scope figure: DSS 'monitors whether 11,000-plus contractor facilities' security programs meet NISP requirements.' GAO found DSS could not demonstrate that its oversight reduced the risk of compromise and issued seven recommendations, including establishing results-oriented performance goals, identifying information needed to detect systemic vulnerabilities, regular trend analysis, time-based criteria for compromise determinations and notifications, and accountability mechanisms for identifying the government customer.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-65681511bf",
+"locator": null,
+"node": "gao-04-332",
+"nodeLabel": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"sourceText": "https://www.gao.gov/products/gao-04-332",
+"text": "Exact title and number: GAO-04-332, 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information', dated March 3, 2004. GAO states the study was conducted 'In response to a Senate report accompanying the National Defense Authorization Act for Fiscal Year 2004.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dacd5627a3",
+"locator": "footnote 2",
+"node": "gao-04-332",
+"nodeLabel": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"sourceText": "GAO-04-332, footnote 2",
+"text": "GAO-04-332 footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d1fd465816",
+"locator": null,
+"node": "gao-04-332",
+"nodeLabel": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"sourceText": "https://www.gao.gov/products/gao-04-332",
+"text": "GAO-04-332 audited the very oversight function that the carve-out provision switches off. Its finding that DSS could not assure adequate oversight of the 11,000+ facilities it DID inspect is a floor, not a ceiling, for facilities where a SecDef/DepSecDef carve-out had removed DSS entirely -- those sites are outside the population GAO could even sample. Reasoning stated. GAO's own SAP access is separately gated by DoDI 5205.11 para 7.2.g.",
+"tier": 3
+},
+{
+"cls": "domain",
+"id": "c-65dd46bffa",
+"locator": "Industrial Security",
+"node": "d-contractor",
+"nodeLabel": "Prime Contractor Custody",
+"sourceText": "GAO-04-332, Industrial Security",
+"text": "GAO-04-332 found that DoD could not provide adequate assurances that its oversight ensures the protection of classified information at contractor facilities.",
+"tier": 1
+}
+],
+"date": "2004-03-03",
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+"b": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"claimTier": 2,
+"id": "e-b84969d2ea",
+"label": "Advanced projects shops are the industrial home",
+"note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+"b": {
+"cls": "document",
+"id": "gao-04-332",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+},
+"claimTier": 1,
+"id": "e-384b6b43d6",
+"label": "GAO found DoD could not assure adequate industrial security oversight - and excluded SAPs",
+"note": "GAO-04-332 title states the finding; its footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"b": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"claimTier": 2,
+"id": "e-bb0911a8d7",
+"label": "Analysis follows possession",
+"note": "Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"b": {
+"cls": "domain",
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"claimTier": 3,
+"id": "e-4c464af296",
+"label": "Contractor records are outside the statute",
+"note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
+"type": "denial"
+}
+],
+"era": "2",
+"host": null,
+"id": "gao-04-332",
+"identifiers": [
+"GAO-04-332"
+],
+"interestedParty": false,
+"issuer": "Government Accountability Office",
+"listedOn": [
+{
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+{
+"cls": "document",
+"id": "gao-04-332",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+},
+{
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+{
+"cls": "domain",
+"id": "d-secrecy-architecture",
+"label": "Secrecy Architecture"
+}
+],
+"node": {
+"cls": "document",
+"id": "gao-04-332",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+},
+"title": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"topics": [
+{
+"claims": [
+"c-bd57da2dc6",
+"c-ed675dd4b0",
+"c-0d453dcf92",
+"c-5d84160138",
+"c-65681511bf",
+"c-d1fd465816"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-65dd46bffa"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "report",
+"urls": [
+"https://www.gao.gov/products/gao-04-332"
+]
+}

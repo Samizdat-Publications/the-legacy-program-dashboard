@@ -1,0 +1,286 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 2,
+"id": "e-3836222ed5",
+"label": "COMPARISON: publish the raw record and disclaim competence, versus publish the adjudicated case file",
+"note": "COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "arquivo-nacional-ufo",
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+},
+"b": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"claimTier": 1,
+"id": "e-62bc0e3764",
+"label": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
+"note": "COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "mona-nemer",
+"label": "Dr Mona Nemer"
+},
+"b": {
+"cls": "person",
+"id": "nick-pope",
+"label": "Nick Pope"
+},
+"claimTier": 3,
+"id": "e-5b727f09a5",
+"label": "2025 Canadian recommendation versus the 2009 British closure",
+"note": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "mona-nemer",
+"label": "Dr Mona Nemer"
+},
+"b": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"claimTier": 1,
+"id": "e-1283a7aeb3",
+"label": "Chief Science Advisor whose office produced the report",
+"note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"b": {
+"cls": "domain",
+"id": "intl-uap-office-model",
+"label": "The three-office model: GEIPAN, SEFAA, AARO"
+},
+"claimTier": 1,
+"id": "e-5626217b95",
+"label": "the reference implementation of a civil state UAP office",
+"note": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "peru-uap-office",
+"label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 2,
+"id": "e-a1e62ba125",
+"label": "COMPARISON: the military-host model against the space-agency-host model",
+"note": "COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: 'a country has an office' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA's founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-39d654645f",
+"label": "identifies AARO as a model and recommends partnership",
+"note": "The report treats the US, France and Chile as the only coordinated, transparent, scientifically driven approaches it found.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+"claimTier": 1,
+"id": "e-c74ea5c24a",
+"label": "identifies SEFAA as a model and recommends partnership",
+"note": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 1,
+"id": "e-59e4315663",
+"label": "identifies GEIPAN as a model and recommends partnership",
+"note": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "institution",
+"id": "lac-ufo-collection",
+"label": "Library and Archives Canada - UFO records collection"
+},
+"claimTier": 1,
+"id": "e-3690351afc",
+"label": "2025 report is the first federal review to work the LAC holding",
+"note": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+"b": {
+"cls": "domain",
+"id": "intl-uap-office-model",
+"label": "The three-office model: GEIPAN, SEFAA, AARO"
+},
+"claimTier": 1,
+"id": "e-f48b2b0d7c",
+"label": "the report is the source of the three-office model",
+"note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "wilbert-smith",
+"label": "Wilbert Brockhouse Smith"
+},
+"b": {
+"cls": "program",
+"id": "project-second-storey",
+"label": "Project Second Storey (Canada)"
+},
+"claimTier": 2,
+"id": "e-539965ff3e",
+"label": "appointed to the Defence Research Board committee in 1952",
+"note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-science-gc-ca-dcf76f47",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Government of Canada",
+"listedOn": [
+{
+"cls": "institution",
+"id": "canada-dot",
+"label": "Canada Department of Transport"
+},
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+},
+{
+"cls": "institution",
+"id": "dgac-chile",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+},
+{
+"cls": "person",
+"id": "mona-nemer",
+"label": "Dr Mona Nemer"
+},
+{
+"cls": "person",
+"id": "ricardo-bermudez",
+"label": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza"
+},
+{
+"cls": "institution",
+"id": "lac-ufo-collection",
+"label": "Library and Archives Canada - UFO records collection"
+},
+{
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada"
+},
+{
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+},
+{
+"cls": "program",
+"id": "project-second-storey",
+"label": "Project Second Storey (Canada)"
+},
+{
+"cls": "program",
+"id": "sky-canada-project",
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+},
+{
+"cls": "domain",
+"id": "intl-uap-office-model",
+"label": "The three-office model: GEIPAN, SEFAA, AARO"
+},
+{
+"cls": "person",
+"id": "wilbert-smith",
+"label": "Wilbert Brockhouse Smith"
+}
+],
+"node": null,
+"title": "Sky Canada Project report",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+]
+}

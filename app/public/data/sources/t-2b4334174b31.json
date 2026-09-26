@@ -1,0 +1,69 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-125bc71b66",
+"locator": null,
+"node": "barksdale-2026-incursions",
+"nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"sourceText": "The War Zone, 25 March 2026",
+"text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line during the week of 9 March 2026; drones showed non-commercial signal characteristics and resistance to jamming.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-714b17fcc8",
+"locator": null,
+"node": "barksdale-2026-incursions",
+"nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"sourceText": "The War Zone, 25 March 2026",
+"text": "A NORTHCOM spokesman on 25 March 2026 declined to specify affected base locations for operational security and confirmed jamming protocols were deployed.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-878017e4ba",
+"locator": null,
+"node": "barksdale-2026-incursions",
+"nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"sourceText": "The War Zone, 25 March 2026",
+"text": "The incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran involving B-52, B-1 and B-2 aircraft.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-6c05d8d45a",
+"locator": null,
+"node": "l-barksdale",
+"nodeLabel": "Barksdale Air Force Base, Louisiana",
+"sourceText": "The War Zone, 25 March 2026",
+"text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line; drones resisted jamming and showed non-commercial signal characteristics.",
+"tier": 2
+}
+],
+"date": "2026-03-25",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-2b4334174b31",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "The War Zone, 25 March 2026",
+"topics": [
+{
+"claims": [
+"c-125bc71b66",
+"c-714b17fcc8",
+"c-878017e4ba"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

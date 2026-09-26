@@ -1,0 +1,86 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9b1ac16505",
+"locator": "20 March 1963",
+"node": "glenn-t-seaborg",
+"nodeLabel": "Glenn T. Seaborg",
+"sourceText": "CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7",
+"text": "He is in the office on Commission letterhead in 1963, writing to the man he succeeded at the AEC, now at CIA: 'It is with pleasure that I forward to you a copy of the Commission's Annual Report to Congress for 1962', signed 'Glenn T. Seaborg, Chairman', addressed to 'Honorable John A. McCone, Director, Central Intelligence Agency'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9b1ac16505",
+"locator": null,
+"node": "glenn-t-seaborg",
+"nodeLabel": "Glenn T. Seaborg",
+"sourceText": "CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7",
+"text": "He is in the office on Commission letterhead in 1963, writing to the man he succeeded at the AEC, now at CIA: 'It is with pleasure that I forward to you a copy of the Commission's Annual Report to Congress for 1962', signed 'Glenn T. Seaborg, Chairman', addressed to 'Honorable John A. McCone, Director, Central Intelligence Agency'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e933181042",
+"locator": "20 March 1963",
+"node": "glenn-t-seaborg",
+"nodeLabel": "Glenn T. Seaborg",
+"sourceText": "CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7",
+"text": "The same letter points the Director of Central Intelligence at the report's fallout material: 'In connection with the Military Applications section, you may find Appendix 15--Environmental Contamination from Nuclear Explosives--of interest, since it concerns fallout data obtained from recent nuclear detonations.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e933181042",
+"locator": null,
+"node": "glenn-t-seaborg",
+"nodeLabel": "Glenn T. Seaborg",
+"sourceText": "CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7",
+"text": "The same letter points the Director of Central Intelligence at the report's fallout material: 'In connection with the Military Applications section, you may find Appendix 15--Environmental Contamination from Nuclear Explosives--of interest, since it concerns fallout data obtained from recent nuclear detonations.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "cia-rdp80b01676r002800020014-7",
+"identifiers": [
+"CIA-RDP80B01676R002800020014-7"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "glenn-t-seaborg",
+"label": "Glenn T. Seaborg"
+}
+],
+"node": null,
+"title": "Letter to John A. McCone from Glenn T. Seaborg, CIA-RDP80B01676R002800020014-7",
+"topics": [
+{
+"claims": [
+"c-9b1ac16505",
+"c-9b1ac16505"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-9b1ac16505",
+"c-9b1ac16505"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7"
+]
+}

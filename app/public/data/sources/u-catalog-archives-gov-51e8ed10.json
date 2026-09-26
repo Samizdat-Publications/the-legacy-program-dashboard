@@ -1,0 +1,56 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-365533fc23",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"text": "The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codified at 44 U.S.C. 2107 / Date: 5/05/2025 / Declassified in Full: X / Case Number: 342UAP00005', showing that the Air Force ran the transfer as a declassification action under the UAP records statute and used the UAP Record Identifier as the declassification case number.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b12f8af977",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-catalog-archives-gov-51e8ed10",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "catalog.archives.gov",
+"topics": [
+{
+"claims": [
+"c-365533fc23",
+"c-b12f8af977"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "document",
+"urls": [
+"https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf"
+]
+}

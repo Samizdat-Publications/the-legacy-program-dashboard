@@ -10,26 +10,57 @@
 {
 "id": "c-6ed65ba810",
 "source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"sources": [
+{
+"id": "u-ufohastings-com-30d064f4",
+"locator": null,
+"title": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+}
+],
 "text": "Robert Salas located his former missile commander Frederick Meiwald in the summer of 1996, and Meiwald wrote to him about the March 1967 incident on 1 October 1996. Robert Hastings additionally states that he tape-recorded a telephone conversation with Meiwald in August 1996 and spoke with him again on 6 May 2011.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-043a461873",
 "source": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents and https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-ufohastings-com-30d064f4",
+"locator": null,
+"title": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"id": "u-metabunk-org-a8bafc20",
+"locator": null,
+"title": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+}
+],
 "text": "THE CONTENTS OF THE 1 OCTOBER 1996 LETTER ARE DISPUTED AND THE BOARD HAS NOT READ IT. Salas and Hastings present it as elaborating and supporting the Oscar Flight account. Sceptical sources quote it as recording that Meiwald's recollection differs from Salas's and that he regrets being unable to help Salas establish his claims. Both characterisations are recorded; neither is adopted.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 },
 {
 "id": "c-e7dbb378ad",
 "source": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
+"sources": [
+{
+"id": "u-kevinrandle-blogspot-com-f5c6740b",
+"locator": null,
+"title": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+}
+],
 "text": "Kevin Randle records a discrepancy of substance between the two men rather than a disagreement about whether anything happened: Salas placing all ten missiles off alert and Meiwald four or five. Randle nonetheless assesses Meiwald as having confirmed what Salas said.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-6c30ee87b2",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"sources": [],
 "text": "SECTION 2a PROVENANCE. Nothing Meiwald said about this event reached the public before an interested party contacted him. He was found by Robert Salas, the claimant, in 1996. His letter was published by Salas. His recorded interviews were made and are held by Robert Hastings. No pre-contact statement by him exists in anything opened by this board.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "person",

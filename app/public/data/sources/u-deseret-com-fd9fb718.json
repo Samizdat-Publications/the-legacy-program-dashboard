@@ -1,0 +1,110 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2a0e96af60",
+"locator": null,
+"node": "mdang-flare-statement-1997",
+"nodeLabel": "Maryland Air National Guard flare statement, 26 July 1997",
+"sourceText": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"text": "The explanation arrived four months late. The flares were dropped on 13 March 1997 and the Air National Guard statement is dated 26 July 1997.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-8ba66552f3",
+"locator": null,
+"node": "mdang-flare-statement-1997",
+"nodeLabel": "Maryland Air National Guard flare statement, 26 July 1997",
+"sourceText": "Associated Press, 'Flares, not UFOs, caused light show, military says', Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"text": "The unit, the aircraft and the range are named on the record: eight Maryland Air National Guard A-10 ground-attack jets flew training missions on the night of 13 March 1997 over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix, dropping high-intensity flares.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-d3ff0e69e6",
+"locator": null,
+"node": "mdang-flare-statement-1997",
+"nodeLabel": "Maryland Air National Guard flare statement, 26 July 1997",
+"sourceText": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"text": "The statement has a named author: Capt. Drew Sullins, spokesman for the Maryland Air National Guard, who described the flares in the same report: 'The flares fall slowly by parachute and illuminate a wide area.'",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "mdang-flare-statement-1997",
+"label": "Maryland Air National Guard flare statement, 26 July 1997"
+},
+"b": {
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+"claimTier": 2,
+"id": "e-f1be4015f6",
+"label": "An official explanation offered four months after the event",
+"note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "mdang-flare-statement-1997",
+"label": "Maryland Air National Guard flare statement, 26 July 1997"
+},
+"b": {
+"cls": "institution",
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 2,
+"id": "e-107be96d7f",
+"label": "An Air National Guard statement about its own unit's sorties",
+"note": "The statement is an Air National Guard one, made by a named unit spokesman about his own unit's sorties.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-deseret-com-fd9fb718",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Deseret News",
+"listedOn": [
+{
+"cls": "document",
+"id": "mdang-flare-statement-1997",
+"label": "Maryland Air National Guard flare statement, 26 July 1997"
+}
+],
+"node": null,
+"title": "Associated Press, Flares, not UFOs, caused light show, military says",
+"topics": [
+{
+"claims": [
+"c-2a0e96af60",
+"c-8ba66552f3",
+"c-d3ff0e69e6"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-2a0e96af60",
+"c-d3ff0e69e6"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "article",
+"urls": [
+"https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+]
+}

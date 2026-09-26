@@ -1,0 +1,51 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-51ac5bb1d9",
+"locator": "gave videos to New York Times",
+"node": "navy-flir-gimbal-gofast-videos",
+"nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"sourceText": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
+"text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
+"tier": 2
+}
+],
+"date": "2020-10-20",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-23f3a8793b9d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "reported by Vice",
+"listedOn": [],
+"node": null,
+"title": "The Phenomenon (2020",
+"topics": [
+{
+"claims": [
+"c-51ac5bb1d9"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-51ac5bb1d9"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-51ac5bb1d9"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+}
+],
+"type": "broadcast",
+"urls": []
+}

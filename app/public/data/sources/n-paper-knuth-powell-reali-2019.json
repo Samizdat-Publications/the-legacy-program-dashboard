@@ -1,0 +1,139 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1f4159f165",
+"locator": null,
+"node": "kevin-knuth",
+"nodeLabel": "Kevin H. Knuth",
+"sourceText": "Entropy, DOI 10.3390/e21100939",
+"text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' in Entropy 21(10):939 on 25 September 2019.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c1bd19fdc7",
+"locator": null,
+"node": "robert-powell",
+"nodeLabel": "Robert M. Powell",
+"sourceText": "Entropy, DOI 10.3390/e21100939",
+"text": "Powell is co-author of 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939 (2019).",
+"tier": 1
+}
+],
+"date": "2019",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+"claimTier": 1,
+"id": "e-d709bb9915",
+"label": "Lead author of the Entropy kinematics paper",
+"note": "Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+"b": {
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+"claimTier": 2,
+"id": "e-896d81813e",
+"label": "Vice President of UAPx and co-author of the 2025 paper",
+"note": "Knuth links UAPx to the Galileo Project, where he is a research affiliate, and to SCU through the Entropy collaboration with Powell.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-4e00f1c429",
+"label": "Nimitz encounter analysed quantitatively in a peer-reviewed physics journal",
+"note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+"claimTier": 1,
+"id": "e-a23e414d4f",
+"label": "Co-author; brought the SCU case reconstructions",
+"note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
+"type": "investigative"
+}
+],
+"era": "3",
+"host": null,
+"id": "n-paper-knuth-powell-reali-2019",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+{
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+{
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+}
+],
+"node": {
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+"title": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"topics": [
+{
+"claims": [
+"c-1f4159f165",
+"c-c1bd19fdc7"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "document",
+"urls": [
+"https://doi.org/10.3390/e21100939"
+]
+}

@@ -91,62 +91,130 @@
 {
 "id": "c-54ac781716",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c1730160ec",
 "source": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
+"sources": [
+{
+"id": "t-ef6f37976a14",
+"locator": null,
+"title": "The Phenomenon (2020"
+}
+],
 "text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f49783d6f8",
 "source": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
+"sources": [
+{
+"id": "n-debrief-2023-06-05",
+"locator": null,
+"title": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+}
+],
 "text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-c26dfeafaf",
 "source": "Mellon, quoted in House Oversight release on the 9 September 2025 UAP transparency hearing",
+"sources": [],
 "text": "Characterized an AARO report as 'the most error-ridden and unsatisfactory government report I can recall reading.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (id:chrg-119hhrg61718) was rejected in review: press release quote, not the hearing record"
 },
 {
 "id": "c-8537261071",
 "source": "Christopher Mellon to DefenseScoop, 14 May 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "'For years the public was told there was little to see. The scale of what exists is itself a revelation. That said, data alone is not disclosure.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-5cf5fcea27",
 "source": "Christopher Mellon to DefenseScoop, 20 February 2026",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "'This might be a consequential moment, but the impact will depend on the follow-through.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-29b0d6e484",
 "source": "Inference from the Mellon quote against the file counts published at war.gov/UFO",
+"sources": [],
 "text": "Mellon's 'scale of what exists is itself a revelation' is the single most load-bearing inference available from PURSUE: the volume of retained material is an admission against interest, independent of what any individual file shows.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 },
 {
 "id": "c-877ed75e05",
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4f5e2969ad",
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-796ef66e8f",
 "source": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The FY2026 NDAA's UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",
@@ -632,7 +700,7 @@
 "status": "active",
 "sub": "Former Deputy Assistant Secretary of Defense for Intelligence; TTSA National Security Affairs Advisor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 89 of 1138, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 90 of 1138, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

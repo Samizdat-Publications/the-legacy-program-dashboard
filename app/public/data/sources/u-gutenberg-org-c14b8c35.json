@@ -1,0 +1,184 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6d8b74d97e",
+"locator": null,
+"node": "edward-ruppelt",
+"nodeLabel": "Edward J. Ruppelt",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-17b195e696",
+"locator": null,
+"node": "estimate-of-the-situation",
+"nodeLabel": "Estimate of the Situation (1948)",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "Ruppelt first published the existence, content and destruction of the Estimate in 1956 based on his tenure as Blue Book director.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e15b1e7d18",
+"locator": null,
+"node": "hoyt-vandenberg",
+"nodeLabel": "Hoyt S. Vandenberg",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "The Estimate's existence and destruction were first published by Edward Ruppelt, the first Blue Book director, in 1956.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7089c04f1d",
+"locator": "chapter on green fireballs and Project Twinkle",
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"sourceText": "Edward J. Ruppelt, The Report on Unidentified Flying Objects, chapter on green fireballs and Project Twinkle",
+"text": "Kirtland intelligence officers called in LaPaz because the fireballs resembled meteors, and he concluded they did not behave as meteors would.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-3f25efbff4",
+"locator": null,
+"node": "project-grudge",
+"nodeLabel": "Project GRUDGE",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956)",
+"text": "Under GRUDGE the project was reduced to a token effort until Ruppelt was placed in charge in late 1951.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 2,
+"id": "e-c127ed2081",
+"label": "Ruppelt is the origin of public knowledge of the Estimate",
+"note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-0454c9715c",
+"label": "Ruppelt was Blue Book's first director",
+"note": "Ruppelt directed the project from March 1952 to August 1953, covering the Washington flap and the Robertson Panel, and later published the only insider account of the period.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 2,
+"id": "e-532901d7a2",
+"label": "Ruppelt attended the panel as Blue Book director and later described it",
+"note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"b": {
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"claimTier": 1,
+"id": "e-308d3519b3",
+"label": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-gutenberg-org-c14b8c35",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "gutenberg.org",
+"listedOn": [
+{
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt"
+},
+{
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+{
+"cls": "person",
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+{
+"cls": "program",
+"id": "project-grudge",
+"label": "Project GRUDGE"
+},
+{
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+}
+],
+"node": null,
+"title": "Ruppelt, The Report on Unidentified Flying Objects",
+"topics": [
+{
+"claims": [
+"c-17b195e696",
+"c-e15b1e7d18",
+"c-7089c04f1d"
+],
+"id": "sign-estimate",
+"title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
+},
+{
+"claims": [
+"c-6d8b74d97e",
+"c-3f25efbff4"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "book",
+"urls": [
+"https://www.gutenberg.org/ebooks/17346"
+]
+}

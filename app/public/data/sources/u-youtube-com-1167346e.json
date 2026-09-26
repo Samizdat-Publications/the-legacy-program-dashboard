@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-9db1fbc705",
+"locator": null,
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ , published 2024-12-12, opened 18 September 2026; content recorded at research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00",
+"text": "The case against, from inside the classification line. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said that no ARV exists and none has ever been built, that the Northrop Grumman and Area 51 ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The episode is identified here by video id and not by title: research/leads/michels-corpus-03.md file 04 recorded it as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on the channel 'American Alchemy', and as opened on 18 September 2026 the same video id carries the title 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. The corpus timestamp 0:36:24 to 0:38:00 falls inside the video's 52:45 runtime.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"claimTier": 2,
+"id": "e-c1325a6e0d",
+"label": "Says no such craft exists and none has ever been built",
+"note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 2,
+"id": "e-f9d39ff51a",
+"label": "Davis says the ARV claims are myth",
+"note": "On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-1167346e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+}
+],
+"node": null,
+"title": "Jesse Michels, video id LnAiNChnuEQ",
+"topics": [
+{
+"claims": [
+"c-9db1fbc705"
+],
+"id": "arv-fluxliner",
+"title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+}
+],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=LnAiNChnuEQ"
+]
+}

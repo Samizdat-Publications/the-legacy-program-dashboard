@@ -1,0 +1,97 @@
+{
+"archived": [
+"https://web.archive.org/web/20260810202005/https://www.war.gov/About/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-82082c8689",
+"locator": null,
+"node": "steve-feinberg",
+"nodeLabel": "Stephen A. Feinberg",
+"sourceText": "war.gov About page, retrieved 12 August 2026",
+"text": "The Department lists Steve Feinberg as Deputy Secretary of Defense under Secretary Pete Hegseth.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-25a7a6a834",
+"locator": null,
+"node": "dod",
+"nodeLabel": "United States Department of Defense (secondary designation: Department of War)",
+"sourceText": "war.gov About page, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "DoD self-reports a budget of $841.4 billion, 3.4 million personnel and 4,800 sites in over 160 countries, with Pete Hegseth as Secretary and Steve Feinberg as Deputy Secretary.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "steve-feinberg",
+"label": "Stephen A. Feinberg"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-f754cfafd2",
+"label": "Deputy Secretary of Defense",
+"note": "The Senate voted 59-40 on 14 March 2025 to confirm Stephen A. Feinberg as Deputy Secretary of Defense, the department's number-two official and the office that has historically signed the memoranda standing up DoD UAP bodies. No sourced UAP, AARO or PURSUE role for Feinberg personally was found.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-919ea9c6a2",
+"label": "Secretary of Defense is the notifying authority under 119(e)",
+"note": "The waiver decision under 119(e)(1) belongs to the Secretary of Defense personally and must be made case by case on a determination that inclusion would adversely affect the national security. The statute prescribes no review of that determination.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-war-gov-e34fc1a4",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "steve-feinberg",
+"label": "Stephen A. Feinberg"
+},
+{
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+}
+],
+"node": null,
+"title": "Department of War (Department of Defense) - About",
+"topics": [
+{
+"claims": [
+"c-82082c8689"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.war.gov/About/"
+]
+}

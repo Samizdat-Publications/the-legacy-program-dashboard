@@ -1,0 +1,109 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-a7f5713602",
+"locator": null,
+"node": "l-albuquerque",
+"nodeLabel": "Albuquerque, New Mexico",
+"sourceText": "Wikipedia, Kirtland Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Sandia National Laboratories, descended from the Manhattan Project Z Division, is adjacent to Kirtland AFB in Albuquerque; the AFRL Directed Energy Directorate is a Kirtland tenant.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-c829be5a10",
+"locator": "acreage, KUMMSC activation",
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sourceText": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 2,
+"id": "e-3ab5364c97",
+"label": "The AFOSI Kirtland file is the documentary residue of the Bennewitz operation",
+"note": "The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"b": {
+"cls": "location",
+"id": "l-albuquerque",
+"label": "Albuquerque, New Mexico"
+},
+"claimTier": 2,
+"id": "e-af1d0af165",
+"label": "Kirtland AFB lies inside the Albuquerque city limits",
+"note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 2,
+"id": "e-6a1fe3f35c",
+"label": "Sandia National Laboratories is adjacent to Kirtland AFB",
+"note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-6734793c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-albuquerque",
+"label": "Albuquerque, New Mexico"
+},
+{
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+{
+"cls": "domain",
+"id": "d-plasma",
+"label": "Plasma Physics & Atmospheric Electricity"
+}
+],
+"node": null,
+"title": "Wikipedia - Kirtland Air Force Base",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+]
+}

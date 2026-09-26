@@ -1,0 +1,219 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-f8c2b391ec",
+"locator": "Status Report III, p.125 ff., chronology reprint of Status Report II",
+"node": "del-rio-1950",
+"nodeLabel": "Del Rio / Mexican border claim, 1948 or 1950",
+"sourceText": "Stringfield, Status Report III, 'Chronology of cases reported in the UFO Crash/Retrieval Syndrome, Status Report II', p. 125 ff.",
+"text": "Stringfield's consolidated chronology lists as Item B-7 of Status Report II: '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-9adf323e4b",
+"locator": "Status Report VII, acknowledgements",
+"node": "fund-for-ufo-research",
+"nodeLabel": "Fund for UFO Research",
+"sourceText": "Stringfield, Status Report VII, acknowledgements",
+"text": "Stringfield acknowledges past funding from the Fund for UFO Research in the acknowledgements to Status Report VII, February 1994.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-392def65f6",
+"locator": "Status Report VII, acknowledgements and Roswell update",
+"node": "cufos",
+"nodeLabel": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+"sourceText": "Stringfield, Status Report VII, acknowledgements and Roswell update",
+"text": "Stringfield acknowledges the cooperation of the J. Allen Hynek Center for UFO Studies in Status Report VII (February 1994) and records consulting its scientific director on 6 November 1993 about the Roswell retrieval body count.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-557138e0b5",
+"locator": "Status Report III, Kingman case notes",
+"node": "kingman-1953",
+"nodeLabel": "Kingman, Arizona claim, 1953",
+"sourceText": "Stringfield, Status Report III, Kingman case notes",
+"text": "Kingman, Arizona 1953 was first investigated and reported by Raymond Fowler; Stringfield referenced it at pages 178-185 of 'Situation Red, The UFO Siege' (Doubleday, 1977) and as Abstract 6 of 'Retrievals of the Third Kind' (1978).",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-ac7e216e82",
+"locator": "Status Report III, Kingman Q&A",
+"node": "kingman-1953",
+"nodeLabel": "Kingman, Arizona claim, 1953",
+"sourceText": "Stringfield, Status Report III, Kingman Q&A",
+"text": "Stringfield wrote to Fowler on 11 August 1980 seeking permission to question Fowler's source 'Fritz Werner' (pseudonym); Werner's written answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-cfdb9f052a",
+"locator": "Status Report III, verbatim Q&A dated 2 Sept 1980",
+"node": "kingman-1953",
+"nodeLabel": "Kingman, Arizona claim, 1953",
+"sourceText": "Stringfield, Status Report III, verbatim Q&A dated 2 September 1980",
+"text": "Asked in 1980 for facial detail on the entity, 'Werner' answered: 'Since it's been 27 years, details like this are pretty foggy and I may even be influenced by other descriptions I've seen or heard in the interim.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-10e21db891",
+"locator": "Status Report IV, title page and abstract (scan)",
+"node": "leonard-stringfield",
+"nodeLabel": "Leonard H. Stringfield",
+"sourceText": "Stringfield, Status Report IV, title page and abstract (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report IV is dated June 1985 and is titled 'UFO CRASH RETRIEVALS STATUS REPORT IV: THE FATAL ENCOUNTER AT FT. DIX-MCGUIRE', concerning an alleged 18 January 1978 incident at McGuire AFB / Fort Dix reported by a USAF Security Police sergeant first published as Case A3 in Status Report III.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-88c21893dc",
+"locator": "Status Report IV, 'Prologue: The Burden of Proof' (scan)",
+"node": "leonard-stringfield",
+"nodeLabel": "Leonard H. Stringfield",
+"sourceText": "Stringfield, Status Report IV, 'Prologue: The Burden of Proof' (scan)",
+"text": "Stringfield stated in Status Report IV that public UFO research does not possess proof, and that affidavits, leaked government documents and photographs do not constitute proof - an unusually explicit self-assessment by the field's founding retrieval researcher.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c6132fd5d3",
+"locator": "Status Report VI, title and copyright page (scan)",
+"node": "leonard-stringfield",
+"nodeLabel": "Leonard H. Stringfield",
+"sourceText": "Stringfield, Status Report VI, title and copyright page (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, 4412 Grove Avenue, Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-599a28123c",
+"locator": "Status Reports I and II, title pages and header notes",
+"node": "mufon",
+"nodeLabel": "Mutual UFO Network (MUFON)",
+"sourceText": "Stringfield, Status Reports I and II, title pages and header notes",
+"text": "Stringfield delivered Status Report I at MUFON's ninth annual Symposium in Dayton, Ohio on 29 July 1978, and MUFON published Status Report II in January 1980.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-206b95e21a",
+"locator": "Status Report VII (Feb 1994), Roswell Crash/Retrieval Update",
+"node": "plains-san-agustin-1947",
+"nodeLabel": "Plains of San Agustin claim, July 1947",
+"sourceText": "Stringfield, Status Report VII (February 1994), Roswell Crash/Retrieval Update",
+"text": "Stringfield's Status Report VII records a source placing the 1947 event just north of Roswell and not on the Plains of San Augustin.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-2b12ea1f7e",
+"locator": "Status Report III, case notes on Kingman",
+"node": "stringfield-status-reports",
+"nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"sourceText": "Stringfield, Status Report III, case notes on Kingman",
+"text": "Status Report III records that Kingman, Arizona, 1953 was first investigated and reported by Raymond Fowler, that Stringfield wrote to Fowler on 11 August 1980 seeking access to Fowler's source 'Fritz Werner' (pseudonym), and that Werner's written answers are dated 2 September 1980.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-5c7940c741",
+"locator": "Status Report VII, acknowledgements, Feb 1994",
+"node": "stringfield-status-reports",
+"nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"sourceText": "Stringfield, Status Report VII, acknowledgements, February 1994 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report VII acknowledges past funding from the Fund for UFO Research and the cooperation of MUFON, the J. Allen Hynek Center for UFO Studies and the Mid-Ohio Research Associates.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-6e9b27f62a",
+"locator": "Status Report III, p. 125",
+"node": "stringfield-status-reports",
+"nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"sourceText": "Stringfield, Status Report III, p. 125 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report III carries the imprimatur of Dr. Peter Rank, Chief of Radiology, Methodist Hospital, and Richard H. Hall, former Assistant Director of NICAP 1958-1967 and editor of the MUFON UFO Journal, and prints a consolidated chronology of cases reported in Status Report II.",
+"tier": 2
+}
+],
+"date": "1978-07-29",
+"edges": [],
+"era": "1",
+"host": "Internet Archive",
+"id": "n-stringfield-status-reports",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield"
+},
+{
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+}
+],
+"node": {
+"cls": "document",
+"id": "stringfield-status-reports",
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+},
+"title": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"topics": [
+{
+"claims": [
+"c-f8c2b391ec",
+"c-9adf323e4b",
+"c-392def65f6",
+"c-557138e0b5",
+"c-ac7e216e82",
+"c-cfdb9f052a",
+"c-88c21893dc",
+"c-599a28123c",
+"c-206b95e21a",
+"c-2b12ea1f7e"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+},
+{
+"claims": [
+"c-9adf323e4b",
+"c-392def65f6",
+"c-10e21db891",
+"c-88c21893dc",
+"c-599a28123c",
+"c-6e9b27f62a"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-206b95e21a"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-88c21893dc"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/leonard-stringfield-retrievals-of-the-third-kind"
+]
+}

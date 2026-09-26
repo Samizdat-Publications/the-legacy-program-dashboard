@@ -29,32 +29,72 @@
 {
 "id": "c-a0acb7fa20",
 "source": "Congress.gov bill record, S. 2226, 118th Congress",
+"sources": [
+{
+"id": "n-s2226-118",
+"locator": null,
+"title": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act"
+}
+],
 "text": "Reed is the sponsor of S. 2226, introduced 11 July 2023.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8dc34d99ff",
 "source": "Congressional Record granules for Senate NDAA consideration, 7-12 December 2023, GPO",
+"sources": [
+{
+"id": "t-5de017ad3036",
+"locator": null,
+"title": "Congressional Record granules for Senate NDAA consideration, 7-12 December 2023"
+}
+],
 "text": "No transcribed Senate remarks during the December 2023 final consideration of the FY2024 NDAA use the word 'anomalous'; the removal was not debated aloud in the Senate.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eebcd6bd4b",
 "source": "https://www.armed-services.senate.gov/about/membership",
+"sources": [
+{
+"id": "u-armed-services-senate-go-dcc4431c",
+"locator": null,
+"title": "armed-services.senate.gov"
+}
+],
 "text": "Jack Reed (D-RI) is listed as Ranking Member of the Senate Armed Services Committee on the committee's official membership page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ccff45cfe6",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"sources": [
+{
+"id": "u-govinfo-gov-9630a066",
+"locator": null,
+"title": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+}
+],
 "text": "Reed was Chairman of the Senate Armed Services Committee in the 118th Congress.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2030ae0005",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm",
+"sources": [
+{
+"id": "u-govinfo-gov-f8763d41",
+"locator": null,
+"title": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm"
+}
+],
 "text": "Reed was Ranking Member of the Senate Armed Services Committee in the 116th Congress, opposite Chairman James M. Inhofe.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

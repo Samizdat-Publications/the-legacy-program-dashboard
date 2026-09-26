@@ -18,20 +18,44 @@
 {
 "id": "c-d1af831d40",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"sources": [
+{
+"id": "n-odni-memo-es-2026-00818",
+"locator": null,
+"title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+}
+],
 "text": "Signed ODNI memorandum ES 2026-00818, 'Preliminary Guidance for Implementation of NDA Waiver', as Principal Deputy Director of National Intelligence.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-2f979c2729",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"sources": [
+{
+"id": "n-odni-memo-es-2026-00818",
+"locator": null,
+"title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+}
+],
 "text": "The memorandum directs all IC members to establish a PURSUE designee within 30 days in coordination with ODNI and to inform their workforces that prior NDAs barring disclosure to the President or designees like PURSUE are no longer in force.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-110a5af891",
 "source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"sources": [
+{
+"id": "u-burlison-house-gov-8643d669",
+"locator": null,
+"title": "Burlison statement on the UAP NDA directive"
+}
+],
 "text": "Burlison identified Lukas and ODNI as the source of the implementation guidance he had called for publicly on 29 July 2026.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

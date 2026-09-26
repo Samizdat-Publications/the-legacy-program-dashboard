@@ -1,0 +1,221 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8b56080b91",
+"locator": null,
+"node": "friedwardt-winterberg",
+"nodeLabel": "Friedwardt Winterberg",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Named on the same DIA list as author of item 2, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', affiliation University of Nevada, Reno — making him a two-deliverable AAWSAP contributor.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1bf6d51825",
+"locator": null,
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Named on the same DIA list as author of item 10, 'Role of Superconductors in Gravity Research', affiliation Hathaway Consulting, making him a two-deliverable AAWSAP contributor.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cc77ebe81e",
+"locator": null,
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Graduated from the Department of Electrical Engineering, University of Toronto, 1974; Registered Professional Engineer; founder and principal of his consulting firm; consultant on 'novel and exotic materials, energy production and propulsion concepts'; author of 'Mindbending: The Hutchison Files'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d2c956fad1",
+"locator": null,
+"node": "gerald-smith",
+"nodeLabel": "Gerald A. Smith",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Ph.D. Yale 1961; assistant professor under Luis Alvarez at Berkeley 1961-66; Associate Laboratory Director for High Energy Physics at Argonne 1978; Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State from 1983; Professor Emeritus 2000; founded Positronics Research LLC in 2001.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-4fc16f0380",
+"locator": null,
+"node": "dird-pulsed-high-power-microwave-source-technology",
+"nodeLabel": "Pulsed High-Power Microwave Source Technology",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Released copy runs 37 pages. Note the DIA document number prefix 0912, indicating a December 2009 assignment, earlier than any other document in this batch.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7b306f2967",
+"locator": null,
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"sourceText": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Named on the same DIA list as author of item 20, 'Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces', affiliation Wayne State University — making him a multi-deliverable AAWSAP contributor.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"claimTier": 1,
+"id": "e-f26c5baedc",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"claimTier": 1,
+"id": "e-49bda181b1",
+"label": "published, numbered and released by DIA as DIA-08-0912-005",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+"b": {
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+"claimTier": 1,
+"id": "e-fedd3edc5c",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6).",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+"b": {
+"cls": "person",
+"id": "gerald-smith",
+"label": "Gerald A. Smith"
+},
+"claimTier": 1,
+"id": "e-792c277271",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Positron Aerospace Propulsion' to 'Dr Gerald Smith, Positronics Research'. Smith is a Yale physics Ph.D., former Penn State physics department head, and developer of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap for NASA Marshall; the DIRD subject matter tracks his own NASA Institute for Advanced Concepts study on positron-propelled vehicles.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"b": {
+"cls": "person",
+"id": "james-wells",
+"label": "James Wells"
+},
+"claimTier": 1,
+"id": "e-3b0c60af92",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-16bfe4ef",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "friedwardt-winterberg",
+"label": "Friedwardt Winterberg"
+},
+{
+"cls": "person",
+"id": "george-hathaway",
+"label": "George D. Hathaway"
+},
+{
+"cls": "person",
+"id": "gerald-smith",
+"label": "Gerald A. Smith"
+},
+{
+"cls": "person",
+"id": "james-wells",
+"label": "James Wells"
+},
+{
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+},
+{
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion"
+},
+{
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+{
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+{
+"cls": "person",
+"id": "richard-genik",
+"label": "Richard J. Genik II"
+}
+],
+"node": null,
+"title": "theblackvault.com",
+"topics": [
+{
+"claims": [
+"c-1bf6d51825"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+]
+}

@@ -1,0 +1,30 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "n-paper-knuth-2025-new-science",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "sciencedirect.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+}
+],
+"node": {
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+},
+"title": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"topics": [],
+"type": "document",
+"urls": [
+"https://www.sciencedirect.com/science/article/pii/S0376042125000235"
+]
+}

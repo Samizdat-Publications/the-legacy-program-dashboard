@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "vanderbilt-university",
+"label": "Vanderbilt University"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"id": "e-2763c6397d",
+"label": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
+"note": "Vanderbilt University Medical Center reports that Stephen Bruehl, PhD, professor of Anesthesiology, 'was invited to attend a Pentagon-sponsored meeting for discussions with UAP experts from the government and academia' in August 2025, as his cluster analysis of 216 well-documented UAP cases (1947-2016) neared publication in World Futures. The sponsoring office is not named in the source.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-tandfonline-com-d64a674b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "tandfonline.com",
+"listedOn": [],
+"node": null,
+"title": "Stephen Bruehl, cluster-analysis study of 216 UAP cases, World Futures, published online October 1, 2025 (title not given in the VUMC source)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.tandfonline.com/doi/full/10.1080/02604027.2025.2561724"
+]
+}

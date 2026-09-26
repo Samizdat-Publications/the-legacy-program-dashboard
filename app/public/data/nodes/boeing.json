@@ -7,20 +7,43 @@
 {
 "id": "c-4653de7b6b",
 "source": "Ryan Graves, CHRG-118hhrg53022, 26 July 2023; Jeffrey Nuccetelli, CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "26 July 2023",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+},
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Boeing contractors at Vandenberg were the observers in the October 2003 'red square' incident described in sworn testimony at both the 2023 and 2025 hearings.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-20e57af2a2",
 "source": "CHRG-118hhrg53022, exchange with Rep. Ocasio-Cortez, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "exchange with Rep. Ocasio-Cortez, 26 July 2023",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Asked whether contractors are required to report UAP sightings, Grusch answered 'In terms of the contractors? Not that I am aware of.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ddaad79408",
 "source": "Corporate merger record; McDonnell Douglas ceased independent existence in 1997",
+"sources": [],
 "text": "Boeing acquired McDonnell Douglas in 1997, inheriting its astronautics organisation and records.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: generic 'corporate merger record', no specific document named"
 }
 ],
 "cls": "institution",

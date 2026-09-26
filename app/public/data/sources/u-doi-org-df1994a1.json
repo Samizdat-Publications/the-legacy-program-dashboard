@@ -1,0 +1,96 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-76c7b08659",
+"locator": null,
+"node": "robert-powell",
+"nodeLabel": "Robert M. Powell",
+"sourceText": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"text": "Powell led the SCU analysis of the April 2013 Aguadilla, Puerto Rico thermal-imagery event recorded by a Department of Homeland Security aircraft.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a745f08c45",
+"locator": null,
+"node": "scu-uap-studies",
+"nodeLabel": "Scientific Coalition for UAP Studies (SCU)",
+"sourceText": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"text": "SCU published '2013 Aguadilla Puerto Rico UAP: The detailed analysis of an Unidentified Anomalous Phenomenon captured by the Department of Homeland Security' by Powell, Beall, Cates, Paulson and Hoffman.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+},
+"claimTier": 1,
+"id": "e-a23e414d4f",
+"label": "Co-author; brought the SCU case reconstructions",
+"note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+"b": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"claimTier": 1,
+"id": "e-39c5dc1d26",
+"label": "Founding board member; author of the Stephenville and Aguadilla studies",
+"note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-doi-org-df1994a1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "robert-powell",
+"label": "Robert M. Powell"
+},
+{
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+}
+],
+"node": null,
+"title": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"topics": [
+{
+"claims": [
+"c-76c7b08659",
+"c-a745f08c45"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "web page",
+"urls": [
+"https://doi.org/10.5281/zenodo.7844175"
+]
+}

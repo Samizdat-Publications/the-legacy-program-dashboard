@@ -1,0 +1,148 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-0790deb5d0",
+"locator": null,
+"node": "corbell-lazar-2018",
+"nodeLabel": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"sourceText": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "The artefact: 'Bob Lazar: Area 51 and Flying Saucers', 2018, 97 minutes, directed by Jeremy Kenyon Lockyer Corbell, narrated by Mickey Rourke, featuring Bob Lazar, George Knapp and Joy White.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7beb8c1804",
+"locator": null,
+"node": "corbell-lazar-2018",
+"nodeLabel": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"sourceText": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "A CORRECTION TO THE DATE IN GENERAL CIRCULATION. Letterboxd lists three release dates across two territories and two formats: United States digital, 1 November 2018; United Kingdom physical, 4 December 2018; United States physical, 8 December 2018. The widely repeated '4 December 2018' is the United Kingdom physical date, not the release. IMDb returned HTTP 403 to this board on 18 September 2026 and no distributor record was opened, so the node asserts a range and not a single date.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-98d714c923",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "He appears in and is credited on Jeremy Corbell's 2018 documentary Bob Lazar: Area 51 and Flying Saucers, alongside Lazar himself and Joy White.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c8776d9891",
+"locator": null,
+"node": "jeremy-corbell",
+"nodeLabel": "Jeremy Kenyon Lockyer Corbell",
+"sourceText": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "He directed Bob Lazar: Area 51 and Flying Saucers, 2018, 97 minutes, narrated by Mickey Rourke and featuring Bob Lazar, George Knapp and Joy White. It is the artefact that returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is how the July 2017 search of United Nuclear entered the UFO literature.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "corbell-lazar-2018",
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-b460e9a8a8",
+"label": "2018 documentary that returned the claim to mass circulation",
+"note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+"b": {
+"cls": "document",
+"id": "corbell-lazar-2018",
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)"
+},
+"claimTier": 1,
+"id": "e-a0d33e96a3",
+"label": "Appears in and is credited on the 2018 documentary",
+"note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell"
+},
+"b": {
+"cls": "document",
+"id": "corbell-lazar-2018",
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)"
+},
+"claimTier": 1,
+"id": "e-6ea67adbda",
+"label": "Director of the 2018 documentary",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-letterboxd-com-18474e51",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "letterboxd.com",
+"listedOn": [
+{
+"cls": "document",
+"id": "corbell-lazar-2018",
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)"
+},
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp"
+},
+{
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell"
+}
+],
+"node": null,
+"title": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"topics": [
+{
+"claims": [
+"c-0790deb5d0",
+"c-7beb8c1804",
+"c-c8776d9891"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-0790deb5d0",
+"c-7beb8c1804",
+"c-c8776d9891"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "web page",
+"urls": [
+"https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+]
+}

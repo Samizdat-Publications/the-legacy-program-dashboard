@@ -1,0 +1,192 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-02fb486473",
+"locator": null,
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"sourceText": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+"text": "ABC News reports his account, given at that event, of being shown UFO photographs bearing 'alien writing symbols' in the National Archives during the Carter administration, which he traced onto a legal pad. TIER 2: this is a named person on the record describing his own action, with no document produced.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-dd6aabf23d",
+"locator": null,
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"sourceText": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. ABC News, reporting the same day, names him as the Washington lawyer serving as counsel to the Disclosure Project.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-38a2d16a4b",
+"locator": null,
+"node": "national-press-club-2001",
+"nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+"sourceText": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+"text": "ABC News, reporting on the day under the headline 'Group Calls for Disclosure of UFO Info', 9 May 2001: Steven Greer 'organized the program at the National Press Club in Washington', at which about 20 former government workers, many of them military and security officials, came forward.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6f8abecb2f",
+"locator": null,
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"sourceText": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+"text": "ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-3cafffd09c",
+"locator": null,
+"node": "disclosure-project",
+"nodeLabel": "The Disclosure Project",
+"sourceText": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+"text": "It held a press conference at the National Press Club in Washington DC on 9 May 2001, confirmed the same day by ABC News and within weeks by a hostile contemporaneous newsletter.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+"b": {
+"cls": "event",
+"id": "national-press-club-2001",
+"label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+},
+"claimTier": 2,
+"id": "e-ce4ab35e03",
+"label": "Counsel to the Project, at the podium on 9 May 2001",
+"note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "national-press-club-2001",
+"label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 2,
+"id": "e-c67a3fb71e",
+"label": "A press event whose purpose was coverage, covered the same day by a national broadcaster",
+"note": "ABC News reported it on 9 May 2001 with a sceptical comment from its own space consultant. The far larger audience figures that circulate come from the Project's own publicity and are not carried.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "national-press-club-2001",
+"label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+},
+"b": {
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
+"claimTier": 1,
+"id": "e-2fde4013a2",
+"label": "The Project's press conference, 9 May 2001",
+"note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+"b": {
+"cls": "event",
+"id": "national-press-club-2001",
+"label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+},
+"claimTier": 1,
+"id": "e-988cac308a",
+"label": "Organiser of the event",
+"note": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-abcnews-com-2238dd0a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ABC News",
+"listedOn": [
+{
+"cls": "person",
+"id": "daniel-sheehan",
+"label": "Daniel P. Sheehan"
+},
+{
+"cls": "event",
+"id": "national-press-club-2001",
+"label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+},
+{
+"cls": "person",
+"id": "john-callahan",
+"label": "John Callahan"
+},
+{
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+{
+"cls": "program",
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+}
+],
+"node": null,
+"title": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
+"topics": [
+{
+"claims": [
+"c-02fb486473",
+"c-dd6aabf23d",
+"c-38a2d16a4b",
+"c-6f8abecb2f",
+"c-3cafffd09c"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-6f8abecb2f"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-38a2d16a4b"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "article",
+"urls": [
+"https://abcnews.com/Technology/story?id=98572&page=1"
+]
+}

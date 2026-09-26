@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-ee9752666e",
+"locator": "USS Kidd deck log, UAVs first spotted 2200 14 Jul 2019",
+"node": "kidd-russell-2019",
+"nodeLabel": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
+"sourceText": "US Navy deck logs obtained via FOIA, reported by The War Zone, 2021",
+"text": "USS Kidd deck logs record UAVs first spotted around 2200 on 14 July 2019; by 2120 on 15 July 2019 the log records 'Multiple UAVs around ship.'",
+"tier": 1
+}
+],
+"date": "2021",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-c2e975b19cf5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "US Navy deck logs",
+"topics": [
+{
+"claims": [
+"c-ee9752666e"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+},
+{
+"claims": [
+"c-ee9752666e"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+}
+],
+"type": "article",
+"urls": []
+}

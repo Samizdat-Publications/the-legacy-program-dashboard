@@ -7,8 +7,16 @@
 {
 "id": "c-80b8dfebce",
 "source": "Author block, DIA-08-1004-004",
+"sources": [
+{
+"id": "n-dird-traversable-wormholes",
+"locator": "author block",
+"title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+}
+],
 "text": "DIA-08-1004-004 gives the author's address as EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "location",

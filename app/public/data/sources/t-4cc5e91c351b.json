@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-042e400d03",
+"locator": null,
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"sourceText": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
+"text": "Sheehan states Turner 'first attacked those two elements' — eminent domain and the Review Board's subpoena power — saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.'",
+"tier": 2
+}
+],
+"date": "2023-11-27",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-4cc5e91c351b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
+"topics": [
+{
+"claims": [
+"c-042e400d03"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
+"type": "article",
+"urls": []
+}

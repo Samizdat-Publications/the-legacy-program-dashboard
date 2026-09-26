@@ -1,0 +1,135 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-b57e1d1a93",
+"label": "Deputy administrator of BAASS, the AAWSAP performer",
+"note": "Kelleher ran the operational science side of the contract that produced the DIRD series, having previously managed NIDS field investigations for the same principal, Robert Bigelow.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 2,
+"id": "e-f2aaaa8e50",
+"label": "Kelleher's 2005 book led Lacatski to Bigelow and thence to the AAWSAP contract",
+"note": "DIA official James Lacatski read 'Hunt for the Skinwalker' by Kelleher and George Knapp, contacted Bigelow, visited the ranch, and relayed the experience to Sen. Harry Reid; the two later co-authored 'Skinwalkers at the Pentagon' (2021).",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 2,
+"id": "e-4969cf7445",
+"label": "Davis worked under Puthoff at EarthTech before and during the AAWSAP period",
+"note": "Davis is repeatedly identified in the record as a former employee of Puthoff's EarthTech International; both authored DIRDs in the same series.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+},
+"claimTier": 1,
+"id": "e-d0c3d3a987",
+"label": "Ran the SRI International half of the government's psychoenergetics effort",
+"note": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-372a76b8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap-dird-series",
+"label": "AAWSAP Defense Intelligence Reference Document series"
+},
+{
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+{
+"cls": "document",
+"id": "dia-aatip-list-2019",
+"label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+},
+{
+"cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+},
+{
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+}
+],
+"node": null,
+"title": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+]
+}

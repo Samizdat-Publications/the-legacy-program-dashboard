@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-9df1b20100",
+"locator": null,
+"node": "kidd-russell-2019",
+"nodeLabel": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
+"sourceText": "US Navy deck logs / The War Zone",
+"text": "The cruise ship Carnival Imagination reported seeing five or six drones during the 15 July 2019 event.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "t-3faa92158d43",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "US Navy deck logs",
+"topics": [
+{
+"claims": [
+"c-9df1b20100"
+],
+"id": "military-encounters-2019",
+"title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+}
+],
+"type": "article",
+"urls": []
+}

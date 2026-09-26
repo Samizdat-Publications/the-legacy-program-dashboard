@@ -7,44 +7,100 @@
 {
 "id": "c-2d7076f875",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"sources": [
+{
+"id": "n-dird-aerospace-applications-of-programmable-matter",
+"locator": null,
+"title": "Aerospace Applications of Programmable Matter"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Aerospace Applications of Programmable Matter\", series \"Acquisition Threat Support\", published 2009-12-14 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-0911-016. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ddf7984c53",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"sources": [
+{
+"id": "n-dird-aerospace-applications-of-programmable-matter",
+"locator": null,
+"title": "Aerospace Applications of Programmable Matter"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-3fa94756de",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"sources": [
+{
+"id": "n-dird-aerospace-applications-of-programmable-matter",
+"locator": null,
+"title": "Aerospace Applications of Programmable Matter"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d47ef79079",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"sources": [
+{
+"id": "n-dird-aerospace-applications-of-programmable-matter",
+"locator": null,
+"title": "Aerospace Applications of Programmable Matter"
+}
+],
 "text": "Released PDF is 20 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7f6214d35f",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "n-dia-aatip-list-2019",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+}
+],
 "text": "Authored by Dr W. McCarthy of the Programmable Matter Corporation, per the 9 January 2018 DIA list (item 23).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-edba736b9b",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+"sources": [
+{
+"id": "n-dird-aerospace-applications-of-programmable-matter",
+"locator": null,
+"title": "Aerospace Applications of Programmable Matter"
+}
+],
 "text": "Cover page reads: \"14 December 2009 / ICOD: 1 December 2009 / DIA-08-0911-016\", series \"Acquisition Threat Support\". This is the earliest publication date and the lowest DIA document number of the eight documents in this batch.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7a73809a16",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"sources": [
+{
+"id": "n-dird-aerospace-applications-of-programmable-matter",
+"locator": null,
+"title": "Aerospace Applications of Programmable Matter"
+}
+],
 "text": "DIA released the document in its FOIA Electronic Reading Room as a 20-page PDF; it discusses programmable material whose effective atoms can be changed on demand, permitting a bounded but very large range of material properties to be summoned or dismissed at will.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

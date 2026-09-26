@@ -1,0 +1,83 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-b4c8092bde",
+"locator": null,
+"node": "majic-eyes-only",
+"nodeLabel": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"sourceText": "Ryan S. Wood, 'Majic Eyes Only' (2005)",
+"text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e3218ad4c5",
+"locator": null,
+"node": "ryan-wood",
+"nodeLabel": "Ryan S. Wood",
+"sourceText": "Ryan S. Wood, 'Majic Eyes Only' (2005); copy indexed at the Internet Archive",
+"text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
+"tier": 2
+}
+],
+"date": "2005",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+},
+"b": {
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+"claimTier": 2,
+"id": "e-909515bf6f",
+"label": "Compiled the crash-retrieval catalogue",
+"note": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
+"type": "research"
+}
+],
+"era": "2",
+"host": "Internet Archive",
+"id": "n-majic-eyes-only",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+{
+"cls": "person",
+"id": "ryan-wood",
+"label": "Ryan S. Wood"
+}
+],
+"node": {
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+},
+"title": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"topics": [
+{
+"claims": [
+"c-b4c8092bde",
+"c-e3218ad4c5"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/majic-eyes-only-earths-encounters-with-extraterrestrial-ryan-s-wood-1st-edition-"
+]
+}

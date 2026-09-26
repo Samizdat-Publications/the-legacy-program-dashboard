@@ -1,0 +1,270 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-dcf87b6931",
+"locator": null,
+"node": "kirk-mayer",
+"nodeLabel": "Kirk-Mayer, Inc.",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"text": "The directory page bearing Lazar's name states its own scope, per Stanton Friedman, who obtained it: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The company name is rendered 'Kirk Meyer' by Friedman and 'Kirk Mayer' or 'Kirk-Mayer' elsewhere; this node uses the kebab-case id kirk-mayer and records the spelling variance.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-4c2999c90f",
+"locator": null,
+"node": "los-alamos-monitor-1982",
+"nodeLabel": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ ; Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , all opened 2026-09-18",
+"text": "THE QUALIFICATION, WHICH TRAVELS WITH THE ARTICLE AND IS ROUTINELY DROPPED. The description is what Lazar told the reporter, not an employment record. Stanton Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records that the page 'clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer'. A Los Alamos colleague interviewed on tape by Mark Farmer on 25 May 1996 said Lazar 'was a contractor' under 'Kirk Mayer' and that he 'claimed to be' a physicist. Tom Mahood's 2018 conclusion is that Lazar worked as an electronic technician for Kirk-Mayer and that the Monitor article misrepresented his position on the basis of what he told the reporter.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-cf640bc7fd",
+"locator": null,
+"node": "lanl",
+"nodeLabel": "Los Alamos National Laboratory",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , both opened 2026-09-18",
+"text": "Bob Lazar's connection to the laboratory must be stated as 'named in a directory', never as 'employed by'. He appears in a 1982 Los Alamos telephone directory whose own text states that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and the laboratory later said it held no records for him. The Los Alamos Monitor of 27 June 1982 described him in the newspaper's own voice as 'a physicist at the Los Alamos Meson Physics Facility', which is what he told the reporter.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-9de5ebee5b",
+"locator": null,
+"node": "oni",
+"nodeLabel": "Office of Naval Intelligence",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; and The Lazar Tape, 1991, captions at 2:19, https://archive.org/details/antigravity , both opened 2026-09-18",
+"text": "A DISCREPANCY, NOT A RELATIONSHIP. The W-2 form in the Lazar literature is described as naming a 'Department of Naval Intelligence', which is not an entity that exists: the Office of Naval Intelligence sits inside the Department of the Navy. Stanton Friedman, who had seen the form, describes it only as 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' Lazar's own 1991 narration says something different again: 'for the duration of my employment at S4 I was paid by the United States Navy'. THE FORM ITSELF WAS NOT OPENED BY THIS BOARD AND NO EMPLOYER IDENTIFICATION NUMBER, ZIP CODE OR BOX CONTENT IS ASSERTED ANYWHERE.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-29b63f4052",
+"locator": null,
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"text": "Stanton T. Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records what the page says about its own scope: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The listing is real and it is not a laboratory staff listing. This qualification is routinely dropped when the directory is cited.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8968698b7d",
+"locator": null,
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"text": "On the two documents most often cited in Lazar's favour, Friedman, who had seen both, records what they actually show. On the W-2: 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' On the Los Alamos directory: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' On element 115: 'It has a very short half life so there is no way to accumulate pounds of it.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b2e2382bc8",
+"locator": null,
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"sourceText": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"text": "THE CREDENTIAL CASE AGAINST LAZAR WAS MADE BY A UFO PROPONENT, NOT A DEBUNKER, AND THAT IS THE PART THE LITERATURE LOSES. Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, wrote 'The Bob Lazar Fraud' in December 1997, updated January 2011: 'No diplomas, no resumes, no transcripts, no memberships in professional organizations, no papers, no pages from MIT or Caltech yearbooks.' On the schools: 'Pierce said he had taken electronics courses in the late 1970s. The other three schools never heard of him.' On the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman that Lazar had taken at least one of his Pierce classes in the late 1970s.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+"b": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"claimTier": 2,
+"id": "e-2f66568372",
+"label": "Support-services contractor at the laboratory",
+"note": "The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+"b": {
+"cls": "domain",
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"claimTier": 1,
+"id": "e-d23792cec9",
+"label": "Named support-services contractor at a national laboratory",
+"note": "The contractor spine this pass was asked to begin. The directory page itself names Kirk-Mayer as the outside contractor whose staff it covers.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+"claimTier": 3,
+"id": "e-99ff421d34",
+"label": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
+"note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"b": {
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+"claimTier": 3,
+"id": "e-d6616a4b82",
+"label": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
+"note": "THE EDGE CARRIES A DISCREPANCY AND NOTHING MORE. There is no 'Department of Naval Intelligence'; the Office of Naval Intelligence sits inside the Department of the Navy. THE W-2 WAS NOT OPENED BY THIS BOARD and no employer identification number, zip code or box content is asserted anywhere.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"claimTier": 2,
+"id": "e-e0f55e62f5",
+"label": "Credential investigation: located Duxler at Pierce, found no institutional record",
+"note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"cls": "location",
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-6603a7de74",
+"label": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
+"note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-6eca4304",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc."
+},
+{
+"cls": "document",
+"id": "los-alamos-monitor-1982",
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'"
+},
+{
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory"
+},
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+{
+"cls": "person",
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+{
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+}
+],
+"node": null,
+"title": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
+"topics": [
+{
+"claims": [
+"c-9de5ebee5b",
+"c-29b63f4052",
+"c-8968698b7d",
+"c-b2e2382bc8"
+],
+"id": "lazar-s4",
+"title": "Bob Lazar's account of S-4 and element 115"
+},
+{
+"claims": [
+"c-8968698b7d",
+"c-b2e2382bc8"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-cf640bc7fd"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-dcf87b6931"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-4c2999c90f"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+]
+}

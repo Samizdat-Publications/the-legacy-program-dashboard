@@ -8,14 +8,18 @@
 {
 "id": "c-b4c9a41786",
 "source": "Wikipedia entries for Leslie Kean and Ralph Blumenthal; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [],
 "text": "The 2017 AATIP story ran in the New York Times; the 2023 Grusch story by the same authors ran in The Debrief.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:debrief-2023-06-05) was rejected in review: names two sources; Wikipedia entries are not the candidate"
 },
 {
 "id": "c-29845700c5",
 "source": "Inference from the monetisation disclosed in the episode descriptions themselves.",
+"sources": [],
 "text": "The commercial structure of independent long-form media - sponsorship reads, membership tiers, merchandise and tour revenue attached to episodes making structural allegations - creates an escalation incentive that must be weighed against the format's genuine advantage in allowing claims to be laid out at length and indexed.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "domain",

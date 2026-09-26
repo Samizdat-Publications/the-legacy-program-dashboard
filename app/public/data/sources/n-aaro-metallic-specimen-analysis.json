@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-21cce3f392",
+"locator": null,
+"node": "aaro-metallic-specimen-analysis",
+"nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"sourceText": "AARO/ORNL Synopsis, July 2024",
+"text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5868af5613",
+"locator": null,
+"node": "aaro-metallic-specimen-analysis",
+"nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"sourceText": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
+"text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-daf03ad37b",
+"locator": null,
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"sourceText": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
+"text": "AARO contracted Oak Ridge National Laboratory, operated by UT-Battelle, in 2022 to conduct materials testing on the magnesium alloy specimen alleged to be from a 1947 crash.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-154ffec676",
+"locator": null,
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
+"text": "AARO acquired the alleged crash-recovered magnesium specimen from a private UAP organisation and the US Army and contracted Oak Ridge National Laboratory, which assessed it terrestrial in origin and incapable of functioning as a terahertz waveguide.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-51199b16f0",
+"locator": null,
+"node": "ttsa",
+"nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"sourceText": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
+"text": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
+"tier": 1
+}
+],
+"date": "2024",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "n-aaro-metallic-specimen-analysis",
+"identifiers": [],
+"interestedParty": true,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"topics": [
+{
+"claims": [
+"c-21cce3f392",
+"c-5868af5613",
+"c-daf03ad37b"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+},
+{
+"claims": [
+"c-21cce3f392",
+"c-5868af5613",
+"c-51199b16f0"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-21cce3f392",
+"c-5868af5613"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
+"type": "document",
+"urls": []
+}

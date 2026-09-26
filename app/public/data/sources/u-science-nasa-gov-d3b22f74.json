@@ -1,0 +1,41 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-science-nasa-gov-d3b22f74",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+{
+"cls": "person",
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
+{
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+{
+"cls": "person",
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+}
+],
+"node": null,
+"title": "NASA - UAP program page",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://science.nasa.gov/uap/"
+]
+}

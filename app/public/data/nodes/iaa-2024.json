@@ -7,14 +7,30 @@
 {
 "id": "c-277723752b",
 "source": "PL 118-31 sec. 7343(a), 137 Stat. 1063-1064",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 7343(a) defines 'appropriate committees of Congress' as the Senate Select Intelligence, Armed Services and Appropriations Committees and the House Permanent Select Intelligence, Armed Services and Appropriations Committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and House minority leader; 'unidentified anomalous phenomena' takes the meaning in 50 U.S.C. 3373(n).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6e166510f8",
 "source": "PL 118-31 sec. 7343(b), 137 Stat. 1064",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 7343(b) bars obligation or expenditure of Division G funds 'in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' absent DNI disclosure of the details to those committees and leadership.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "legislation",

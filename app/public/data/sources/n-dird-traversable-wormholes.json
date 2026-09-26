@@ -1,0 +1,225 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-3abfde0cf8",
+"locator": "administrative note",
+"node": "aawsap-dird-series",
+"nodeLabel": "AAWSAP Defense Intelligence Reference Document series",
+"sourceText": "Administrative note, DIA-08-1004-004",
+"text": "DIA-08-1004-004 states that its product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program', with questions to be addressed to James T. Lacatski, D.Eng., AAWSA Program Manager, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-80b8dfebce",
+"locator": "author block",
+"node": "l-austin",
+"nodeLabel": "Austin, Texas - 11855 Research Blvd",
+"sourceText": "Author block, DIA-08-1004-004",
+"text": "DIA-08-1004-004 gives the author's address as EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a4e203bed4",
+"locator": null,
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "Cover page and administrative note, DIA-08-1004-004",
+"text": "EarthTech International Inc., 11855 Research Blvd, Austin TX 78759, is named on the cover of DIA-08-1004-004 as the author's organisation for an FY2009 product of the DIA Defense Warning Office AAWSA programme.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d1bb0cdd75",
+"locator": null,
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "Cover and administrative note of DIA-08-1004-004 (released copy)",
+"text": "DIA reference document DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names Eric W. Davis, Ph.D., of EarthTech International Inc. as author and states it was produced in FY2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications programme, with James T. Lacatski, D.Eng. as programme manager.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-d5288e36b8",
+"locator": null,
+"node": "d-exotic",
+"nodeLabel": "Exotic Technology & Physics",
+"sourceText": "DIRD 18 / DIA-08-1004-004",
+"text": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', was authored by Eric W. Davis of EarthTech International and dated 6 April 2010.",
+"tier": 1
+}
+],
+"date": "2010",
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap-dird-series",
+"label": "AAWSAP Defense Intelligence Reference Document series"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-9cee5b8658",
+"label": "The DIRDs are the documentary output of the AAWSAP contract",
+"note": "Each released DIRD states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-austin",
+"label": "Austin, Texas - 11855 Research Blvd"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-6752ca6d3a",
+"label": "11855 Research Blvd - the address printed on a DIA reference document",
+"note": "The single street address connecting the DIA Defense Warning Office to the AAWSAP propulsion and medical documents and thence to the To The Stars metamaterials work.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-traversable-wormholes",
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-aabb308ceb",
+"label": "Contractor of record: EarthTech International Inc., 11855 Research Blvd, Austin TX",
+"note": "The author block on the released DIRD gives EarthTech's full street address, which makes the corporate performer identifiable and locatable rather than a generic 'contractor'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-traversable-wormholes",
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+},
+"b": {
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski"
+},
+"claimTier": 1,
+"id": "e-af8e09ff89",
+"label": "Lacatski named as AAWSA Program Manager on the document's administrative note",
+"note": "The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-traversable-wormholes",
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+},
+"claimTier": 1,
+"id": "e-4a31104e65",
+"label": "Named author of DIA-08-1004-004",
+"note": "The cover of the released document names Eric W. Davis, Ph.D., of EarthTech International Inc. as author, with a DIA control number, a Defense Warning Office preparing office and an FY2009 production year.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 2,
+"id": "e-4969cf7445",
+"label": "Davis worked under Puthoff at EarthTech before and during the AAWSAP period",
+"note": "Davis is repeatedly identified in the record as a former employee of Puthoff's EarthTech International; both authored DIRDs in the same series.",
+"type": "institutional"
+}
+],
+"era": "2",
+"host": "The Black Vault",
+"id": "n-dird-traversable-wormholes",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap-dird-series",
+"label": "AAWSAP Defense Intelligence Reference Document series"
+},
+{
+"cls": "location",
+"id": "l-austin",
+"label": "Austin, Texas - 11855 Research Blvd"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes",
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+}
+],
+"node": {
+"cls": "document",
+"id": "dird-traversable-wormholes",
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+},
+"title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"topics": [
+{
+"claims": [
+"c-3abfde0cf8",
+"c-d1bb0cdd75"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+},
+{
+"claims": [
+"c-d1bb0cdd75"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+}
+],
+"type": "document",
+"urls": [
+"https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+]
+}

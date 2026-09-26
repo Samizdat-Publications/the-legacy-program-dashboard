@@ -24,14 +24,24 @@
 {
 "id": "c-a7b5740dba",
 "source": "JAI, DOI 10.1142/S2251171723400081",
+"sources": [
+{
+"id": "u-doi-org-45741a22",
+"locator": null,
+"title": "Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation"
+}
+],
 "text": "Cloete is lead author of 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation (2023).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-98b2e46a28",
 "source": "Avi Loeb, Medium, 29 June 2026; Skeptics Society, 15 June 2026",
+"sources": [],
 "text": "Cloete was named to the UAP Science Advisory Council with responsibility for data analysis and AI tools.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df) was rejected in review: string names two or more sources; candidate is only one"
 }
 ],
 "cls": "person",

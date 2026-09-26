@@ -1,0 +1,572 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-12c2694ba7",
+"locator": "Appendices B and C",
+"node": "james-mcandrew",
+"nodeLabel": "Capt. James McAndrew",
+"sourceText": "The Roswell Report: Case Closed (1997), Appendices B and C",
+"text": "The report prints sworn witness statements from ten named Air Force personnel at Appendix B, including Col. Joseph W. Kittinger Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg and Lt. Col. Raymond A. Madson, and full interview transcripts of five pro-UFO witnesses at Appendix C.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d9a2d00a4c",
+"locator": "Introduction, quote 'The conclusions of the additional research are'",
+"node": "james-mcandrew",
+"nodeLabel": "Capt. James McAndrew",
+"sourceText": "The Roswell Report: Case Closed (1997), Introduction, 'The conclusions of the additional research are'",
+"text": "The report's conclusions are that Air Force activities spanning many years were consolidated into two or three days of July 1947; that the 'aliens' were probably anthropomorphic test dummies carried aloft by high altitude balloons; that the 'unusual' military activity was balloon launch and recovery; and that the hospital-bodies claims most likely combine a 1956 KC-97 crash in which eleven airmen died with a 1959 manned balloon mishap injuring two pilots.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3503578221",
+"locator": "Section 1.1",
+"node": "richard-weaver-usaf",
+"nodeLabel": "Col. Richard L. Weaver",
+"sourceText": "Quoted in The Roswell Report: Case Closed (1997), Section 1.1",
+"text": "The July 1994 report states that at the express written direction of the Secretary of the Air Force, former and retired Air Force members and civilian contract scientists were released from any nondisclosure agreements they may have entered into regarding the relevant past classified activities.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6420135655",
+"locator": "Section 1.4",
+"node": "fund-for-ufo-research",
+"nodeLabel": "Fund for UFO Research",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.4",
+"text": "The Air Force's 1997 report drew the Vern Maltais and Alice Knight statements it analysed from footage used to prepare the Fund for UFO Research video 'Recollections of Roswell Part II'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7d7bf7e9f9",
+"locator": "Appendix C",
+"node": "gerald-anderson",
+"nodeLabel": "Gerald Anderson",
+"sourceText": "The Roswell Report: Case Closed (1997), Appendix C",
+"text": "Anderson's interview transcript is reproduced at Appendix C, page 187, of the US Air Force's 1997 report.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1ab48b8c5b",
+"locator": "Section 1.4 and Conclusion",
+"node": "gerald-anderson",
+"nodeLabel": "Gerald Anderson",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion",
+"text": "Anderson described the bodies as 'I thought they were plastic dolls' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-1f28b6904f",
+"locator": "Section 1.4, quoting FUFOR footage",
+"node": "barney-barnett",
+"nodeLabel": "Grady L. 'Barney' Barnett",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.4, quoting FUFOR footage",
+"text": "Vern Maltais and Alice Knight, who knew Barnett, related his account on camera for the Fund for UFO Research video 'Recollections of Roswell Part II'; Knight stated 'I don't recall the date.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7efd04f46f",
+"locator": "Section 1.1",
+"node": "barney-barnett",
+"nodeLabel": "Grady L. 'Barney' Barnett",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Air Force's 1997 report states that the San Agustin claim rests on three testimonies - two second-hand (Maltais, Knight) and one first-hand (Gerald Anderson) - and that Barnett, the original alleged eyewitness, is deceased.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f3ac43f5c9",
+"locator": "Appendix C",
+"node": "jim-ragsdale",
+"nodeLabel": "James Ragsdale",
+"sourceText": "The Roswell Report: Case Closed (1997), Appendix C",
+"text": "Ragsdale's interview transcript is reproduced at Appendix C, page 215, of the US Air Force's 1997 report 'The Roswell Report: Case Closed'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5cbc2d7368",
+"locator": "Section 1.4, note 13",
+"node": "jim-ragsdale",
+"nodeLabel": "James Ragsdale",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.4, note 13",
+"text": "Ragsdale is quoted in the Air Force report describing the objects at the alleged site as 'They were using dummies in those damned things.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-8bb99172df",
+"locator": "Section 1.4",
+"node": "plains-san-agustin-1947",
+"nodeLabel": "Plains of San Agustin claim, July 1947",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The report proposes that the witnesses may have confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak, areas just outside White Sands Missile Range and the Jornada Test Range where numerous anthropomorphic dummy balloon flights terminated and were recovered.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-e9b7e5fac1",
+"locator": "Section 1.1",
+"node": "plains-san-agustin-1947",
+"nodeLabel": "Plains of San Agustin claim, July 1947",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Air Force's 1997 report states the San Agustin claim is supported by three principal testimonies, two second-hand (Maltais, Knight) and one first-hand (Anderson), and that the original alleged eyewitness Grady L. Barnett is deceased.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-672b5c42db",
+"locator": "24 June 1997",
+"node": "roswell-1947",
+"nodeLabel": "Roswell Incident",
+"sourceText": "USAF, 'The Roswell Report: Case Closed', 24 June 1997",
+"text": "'The Roswell Report: Case Closed' (24 June 1997) attributed accounts of recovered bodies to anthropomorphic parachute test dummies.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-28218a43cd",
+"locator": "Section 1.1, p.12 pull quote",
+"node": "roswell-report-case-closed",
+"nodeLabel": "The Roswell Report: Case Closed (1997)",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 1.1, pull quote at p. 12",
+"text": "The report states: 'It must be emphasized that the claims of bodies only became part of the Roswell Incident after 1978, when they were erroneously linked to the July 1947 retrieval of Project Mogul components.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9557635606",
+"locator": "Appendix B",
+"node": "roswell-report-case-closed",
+"nodeLabel": "The Roswell Report: Case Closed (1997)",
+"sourceText": "The Roswell Report: Case Closed (1997), Appendix B",
+"text": "Appendix B prints sworn witness statements from Charles E. Clouthier, Col. Charles A. Coltman Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg, MSgt Ole Jorgeson, Lt. Col. William C. Kaufman, Col. Joseph W. Kittinger Jr., CMSgt Roland H. Lutz, Lt. Col. Raymond A. Madson and Dr. Frank B. Nordstrom.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-afeadfedf4",
+"locator": "Introduction",
+"node": "roswell-report-case-closed",
+"nodeLabel": "The Roswell Report: Case Closed (1997)",
+"sourceText": "The Roswell Report: Case Closed (1997), Introduction",
+"text": "The report identifies its four conclusions as consolidation of many years of Air Force activity into July 1947; anthropomorphic test dummies as the 'aliens'; high-altitude balloon launch and recovery as the 'unusual' military activity; and a 1956 KC-97 accident plus a 1959 manned balloon mishap as the source of the hospital bodies accounts.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bf1721d271",
+"locator": "Guide for Readers and Appendix C",
+"node": "roswell-report-case-closed",
+"nodeLabel": "The Roswell Report: Case Closed (1997)",
+"sourceText": "The Roswell Report: Case Closed (1997), Guide for Readers and Appendix C",
+"text": "Appendix C prints full interview transcripts of Gerald Anderson (p. 187), Glenn Dennis (p. 197), Alice Knight (p. 213), Vern Maltais (p. 214) and James Ragsdale (p. 215); the Dennis interview was provided by the interviewer, Karl T. Pflock.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-eaa7edebca",
+"locator": "Section 1.1 (verbatim quotation)",
+"node": "roswell-report-1995",
+"nodeLabel": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"sourceText": "Quoted verbatim in The Roswell Report: Case Closed (1997), Section 1.1",
+"text": "The July 1994 report concluded that the US Army Air Forces did not recover an extraterrestrial vehicle and alien crew, based on review of classified and unclassified holdings at record depositories, archives, libraries and research facilities nationwide, and stated that of the millions of pages reviewed there was no mention of any activity tangentially suggesting such an event.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f2ce17488a",
+"locator": null,
+"node": "usaf-roswell-reports",
+"nodeLabel": "The Roswell Reports (USAF, 1994-1997)",
+"sourceText": "USAF, 'The Roswell Report: Case Closed' (1997)",
+"text": "'Case Closed' attributes witness reports of bodies to anthropomorphic test dummies used in high-altitude parachute tests conducted principally between 1953 and 1959.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9236b650a1",
+"locator": "Section 2.1",
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 2.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Air Force identified 1st Lt. Eileen M. Fanton - assigned to the Roswell AAF Station Hospital 26 December 1946 to 4 September 1947, single, 5'1\", 100 lb, black hair, dark eyes, Roman Catholic, later assigned to the 7510th USAF Hospital, APO 240 New York, in England from June 1952 to April 1955 - as matching Dennis's description of the 'missing nurse' in every particular except the name.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9f893b5607",
+"locator": "Section 2.1, 'The Missing Nurse and the Pediatrician'",
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 2.1, 'The Missing Nurse and the Pediatrician' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "A search of Roswell AAF Station Hospital morning reports and rosters, and of the National Personnel Records Center in St. Louis, found no record that a person named Naomi Maria Selff had ever served at Roswell AAF or in any branch of the US armed forces.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d4e73dc23b",
+"locator": "Section 2.1, citing 427th AAFBU Squadron M morning reports",
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"sourceText": "The Roswell Report: Case Closed (1997), Section 2.1, citing 427th AAFBU Squadron M morning reports — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The certified morning reports of the 427th AAF Base Unit Squadron 'M' show five Army Nurse Corps nurses at Roswell AAF in July 1947; none reassigned on 8 or 9 July 1947; one reassigned 23 July 1947 to Fort Worth AAF by normal rotation and on active duty there until March 1949; none transferred overseas or killed in a plane crash.",
+"tier": 2
+}
+],
+"date": "1997",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "james-mcandrew",
+"label": "Capt. James McAndrew"
+},
+"b": {
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"id": "e-d0423c963d",
+"label": "Sole author of the 1997 bodies report",
+"note": "Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-weaver-usaf",
+"label": "Col. Richard L. Weaver"
+},
+"b": {
+"cls": "person",
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"claimTier": 3,
+"id": "e-62b6651927",
+"label": "The Air Force reports were the institutional response to the Randle-Schmitt books",
+"note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "fund-for-ufo-research",
+"label": "Fund for UFO Research"
+},
+"b": {
+"cls": "person",
+"id": "gerald-anderson",
+"label": "Gerald Anderson"
+},
+"claimTier": 2,
+"id": "e-69b2c6399e",
+"label": "FUFOR co-authored the report against its own first-hand witness",
+"note": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "gerald-anderson",
+"label": "Gerald Anderson"
+},
+"b": {
+"cls": "institution",
+"id": "cufos",
+"label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+},
+"claimTier": 2,
+"id": "e-4e68d81031",
+"label": "CUFOS and FUFOR investigated and discredited their own witness",
+"note": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "gerald-anderson",
+"label": "Gerald Anderson"
+},
+"b": {
+"cls": "event",
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+"claimTier": 2,
+"id": "e-8c895f37ef",
+"label": "Sole claimed first-hand witness to the San Agustin site",
+"note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "barney-barnett",
+"label": "Grady L. 'Barney' Barnett"
+},
+"b": {
+"cls": "event",
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+"claimTier": 3,
+"id": "e-69c2259327",
+"label": "Originating but never-interviewed eyewitness",
+"note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jim-ragsdale",
+"label": "James Ragsdale"
+},
+"b": {
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"id": "e-3ad5253090",
+"label": "Ragsdale's own words were used to support the dummy explanation",
+"note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"b": {
+"cls": "person",
+"id": "jesse-marcel-jr",
+"label": "Dr. Jesse A. Marcel Jr."
+},
+"claimTier": 2,
+"id": "e-b6691fd7f8",
+"label": "Father showed son the debris in July 1947",
+"note": "Marcel Jr. testified by affidavit and repeatedly on the record that his father woke him at night and laid the recovered material out on the kitchen floor.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"b": {
+"cls": "event",
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+"claimTier": 1,
+"id": "e-1b4c97fb5e",
+"label": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
+"note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"b": {
+"cls": "document",
+"id": "roswell-report-1995",
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+},
+"claimTier": 1,
+"id": "e-8beec30846",
+"label": "The 1997 report completes what the 1994-1995 report left open",
+"note": "The 1994 report addressed the debris and did not address the bodies claims; the 1997 report was produced to close that gap.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "ev-varginha-1996",
+"label": "Varginha incident, Minas Gerais, January 1996"
+},
+"b": {
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 3,
+"id": "e-99adbb28a9",
+"label": "Two official inquiries that explained the recovery activity without producing the logs",
+"note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "glenn-dennis",
+"label": "W. Glenn Dennis"
+},
+"b": {
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"id": "e-5e10e35301",
+"label": "The 1997 report dismantled the 'missing nurse' account by name",
+"note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"type": "denial"
+}
+],
+"era": "1",
+"host": "Internet Archive",
+"id": "n-roswell-report-case-closed",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "james-mcandrew",
+"label": "Capt. James McAndrew"
+},
+{
+"cls": "person",
+"id": "richard-weaver-usaf",
+"label": "Col. Richard L. Weaver"
+},
+{
+"cls": "person",
+"id": "jesse-marcel-jr",
+"label": "Dr. Jesse A. Marcel Jr."
+},
+{
+"cls": "institution",
+"id": "fund-for-ufo-research",
+"label": "Fund for UFO Research"
+},
+{
+"cls": "person",
+"id": "gerald-anderson",
+"label": "Gerald Anderson"
+},
+{
+"cls": "person",
+"id": "barney-barnett",
+"label": "Grady L. 'Barney' Barnett"
+},
+{
+"cls": "institution",
+"id": "cufos",
+"label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+},
+{
+"cls": "person",
+"id": "jim-ragsdale",
+"label": "James Ragsdale"
+},
+{
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+{
+"cls": "event",
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+{
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+{
+"cls": "document",
+"id": "roswell-report-1995",
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+},
+{
+"cls": "person",
+"id": "glenn-dennis",
+"label": "W. Glenn Dennis"
+}
+],
+"node": {
+"cls": "document",
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"title": "The Roswell Report: Case Closed (1997)",
+"topics": [
+{
+"claims": [
+"c-d9a2d00a4c",
+"c-3503578221",
+"c-28218a43cd",
+"c-9557635606",
+"c-afeadfedf4",
+"c-bf1721d271",
+"c-eaa7edebca",
+"c-f2ce17488a"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-5cbc2d7368",
+"c-672b5c42db",
+"c-28218a43cd",
+"c-afeadfedf4",
+"c-f2ce17488a",
+"c-9236b650a1",
+"c-9f893b5607",
+"c-d4e73dc23b"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+},
+{
+"claims": [
+"c-6420135655",
+"c-7d7bf7e9f9",
+"c-1ab48b8c5b",
+"c-1f28b6904f",
+"c-8bb99172df",
+"c-e9b7e5fac1"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+},
+{
+"claims": [
+"c-6420135655",
+"c-1ab48b8c5b"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-f2ce17488a"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/AFD-101027-030"
+]
+}

@@ -1,0 +1,253 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-081c8e6fc6",
+"locator": null,
+"node": "davis-sasc-briefing-2019",
+"nodeLabel": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"sourceText": "Harry Reid quoted in The New York Times, 23 July 2020",
+"text": "Harry Reid told the same reporter that it is 'extremely important that information about the discovery of physical materials or retrieved craft come out'.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-a716c92bc3",
+"locator": "on Davis's own account",
+"node": "davis-sasc-briefing-2019",
+"nodeLabel": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"sourceText": "Ralph Blumenthal, The New York Times, 23 July 2020, on Davis's own account",
+"text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-f5b82c2811",
+"locator": null,
+"node": "davis-sasc-briefing-2019",
+"nodeLabel": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"sourceText": "The New York Times, 23 July 2020",
+"text": "Davis said he gave a classified briefing to a Defense Department agency as recently as March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2451f39f83",
+"locator": "quoting Davis on the record",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
+"text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-337b9b8425",
+"locator": "quote from Eric W. Davis",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "Eric W. Davis quoted in The New York Times, 23 July 2020",
+"text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-993d987c29",
+"locator": null,
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020",
+"text": "Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-c20eb7c8b7",
+"locator": null,
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"sourceText": "Ralph Blumenthal, The New York Times, 23 July 2020",
+"text": "Eric W. Davis was working for The Aerospace Corporation at the time of the July 2020 New York Times report describing his classified briefings on retrievals.",
+"tier": 2
+}
+],
+"date": "2020-07-23",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+"b": {
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+"claimTier": 3,
+"id": "e-63ae0cc411",
+"label": "Delivered to the SASC professional staff cohort McConnell belonged to",
+"note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 2,
+"id": "e-515432576e",
+"label": "'We couldn't make it ourselves' - a custody claim with no public chain",
+"note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+"claimTier": 2,
+"id": "e-98f38e4602",
+"label": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
+"note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-6d600853f7",
+"label": "Same report carried Reid's statement on retrieved materials",
+"note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"claimTier": 2,
+"id": "e-9c9d5b18c9",
+"label": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
+"note": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-a5e9907bdd",
+"label": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
+"note": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
+"type": "custody"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-nytimes-com-b748f28f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The New York Times",
+"listedOn": [
+{
+"cls": "event",
+"id": "davis-sasc-briefing-2019",
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell"
+},
+{
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+}
+],
+"node": null,
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"topics": [
+{
+"claims": [
+"c-2451f39f83",
+"c-337b9b8425",
+"c-993d987c29"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+},
+{
+"claims": [
+"c-2451f39f83",
+"c-337b9b8425"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+},
+{
+"claims": [
+"c-2451f39f83",
+"c-337b9b8425"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+},
+{
+"claims": [
+"c-c20eb7c8b7"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
+"type": "article",
+"urls": [
+"https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+]
+}

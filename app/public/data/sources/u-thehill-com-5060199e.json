@@ -1,0 +1,66 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+},
+"claimTier": 3,
+"id": "e-1cca3ef322",
+"label": "The reprisal case the bill is designed to cover",
+"note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 1,
+"id": "e-aeedb1f378",
+"label": "sworn witness",
+"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thehill-com-5060199e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland"
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+}
+],
+"node": null,
+"title": "The Hill: Moskowitz accuses the US government of lying about UAP",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/"
+]
+}

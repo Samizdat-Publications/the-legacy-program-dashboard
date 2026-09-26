@@ -1,0 +1,1334 @@
+{
+"archived": [
+"https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+],
+"claims": [
+{
+"cls": "domain",
+"id": "c-127bc39a52",
+"locator": null,
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 para 1.2.f makes the nesting operative: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' Waived is a strict subset of unacknowledged; there is no such thing as a waived acknowledged SAP.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-31436fb01c",
+"locator": "Glossary Part II",
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "DoDI 5205.11, Glossary Part II",
+"text": "DoDI 5205.11 Glossary: 'waived SAP. A SAP for which the SecDef has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-4d4cce859c",
+"locator": "Glossary Part II",
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "DoDI 5205.11, Glossary Part II",
+"text": "DoDI 5205.11 Glossary: 'unacknowledged SAP. A SAP having enhanced security measures ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-8c9bd67fdf",
+"locator": "Glossary Part II",
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "DoDI 5205.11, Glossary Part II",
+"text": "DoDI 5205.11 Glossary: 'umbrella. A SAP may also be referred to as an \"umbrella\" if the SAP has subordinate elements, referred as compartments, sub-compartments, or projects.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-a7cc1515a8",
+"locator": null,
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 (2024) glossary: 'acknowledged SAP: A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details are classified.' 'unacknowledged SAP: A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged.' 'waived SAP: A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-fa8f5f4f53",
+"locator": "Glossary Part II",
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "DoDI 5205.11, Glossary Part II",
+"text": "DoDI 5205.11 Glossary: 'acknowledged SAP. A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details (technologies, materials, techniques, etc.,) are classified as specified in the applicable SCG.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-7696eb3d6d",
+"locator": null,
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 (12 Sep 2024) glossary defines it: 'carve out: A provision approved by the Secretary of Defense or Deputy Secretary of Defense that relieves DCSA of its National Industrial Security Program obligation.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-985c40f1fd",
+"locator": null,
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "MAJOR CHANGE, 2024. DoDI 5205.11 para 1.2.i.: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.' The 2024 policy therefore schedules a blanket, enterprise-wide withdrawal of DCSA from DoD SAP industrial security by July 2029, rather than a case-by-case carve-out.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-a9245d34b7",
+"locator": "Enclosure 2, para 2.k",
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "DoDI 5205.11, Enclosure 2, para 2.k",
+"text": "DoDI 5205.11 requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions', which means a list of carved-out facilities exists as an agency record.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dde0a32054",
+"locator": "Enclosure 6, para 5.a(8",
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "DoDI 5205.11, Enclosure 6, para 5.a(8)",
+"text": "DoDI 5205.11 Enclosure 6 lists 'Proposals to relieve DSS of NISP security oversight responsibilities (carve-out) when required' among the actions that must be coordinated through the DoD SAPCO to the Deputy Secretary of Defense for decision.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-00dcac644e",
+"locator": null,
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "A programmed phase-out of DCSA oversight across the DoD SAP enterprise by July 2029 converts the carve-out from an exception requiring SecDef/DepSecDef signature into the default state. If accurate, after that date no independent DoD agency holds a routine inspection right at SAP contractor facilities, and the record of which facilities host which programs stops accumulating in DCSA's system. Reasoning stated from 1.2.i.",
+"tier": 3
+},
+{
+"cls": "domain",
+"id": "c-d4a6af4168",
+"locator": "para 5.d",
+"node": "sap-cover-mechanisms",
+"nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceText": "DoDI 5205.11, para 5.d",
+"text": "DoDI 5205.11 para 5.d: 'All DoD SAPs must be assigned an unclassified nickname generated in accordance with Chairman of the Joint Chiefs of Staff Manual 3150.29D ... Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-dbc5949cd2",
+"locator": null,
+"node": "dcsa-nisp",
+"nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 para 1.2.i: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f1f772aebb",
+"locator": "Enclosure 2, para 2.k",
+"node": "dod-sapco",
+"nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+"sourceText": "DoDI 5205.11, Enclosure 2, para 2.k",
+"text": "DoDI 5205.11 Enclosure 2 para 2.k: DoD SAPCO 'Establishes policies and applicable procedures to satisfy reporting requirements for DSS carve-outs, CFIUS, and treaty matters. Provides DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-220bbc2a45",
+"locator": null,
+"node": "dod-sapco",
+"nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+"sourceText": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
+"text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-018ed45bf9",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Glossary definitions verbatim: 'acknowledged SAP: A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details are classified.' 'unacknowledged SAP: A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged.' 'waived SAP: A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-218588ce4d",
+"locator": "Appendix 3 to Enclosure 6, Figure 4",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, Appendix 3 to Enclosure 6, Figure 4",
+"text": "DoDI 5205.11 Appendix 3 to Enclosure 6, sample action memo to the Deputy Secretary of Defense: 'The Defense Security Service will be carved out from its normal industrial security oversight responsibilities.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-283986b2a2",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "PERIODIC REVIEW OF WAIVED STATUS EXISTS. Para 3.5.a.(3)(d) makes the SAPOC annual review cover 'All waived DoD SAPs to determine the need for continued waived status,' as part of the 3.5.a.(3) mandate to 'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2c4cc10bb0",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "WHO GETS TOLD. Para 7.2.a.(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs.' Para 7.2.b.: 'Members of Congress assigned to the defense and intelligence committees are authorized access to all DoD SAPs within the respective committee's SAP oversight jurisdiction, except for waived programs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-30b945cefe",
+"locator": "Enclosure 7, para 1.a",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, Enclosure 7, para 1.a",
+"text": "DoDI 5205.11 Enclosure 7 requires each SAP record file to include 'Written approval by SecDef or DepSecDef of carve-out status when DSS is relieved of industrial security oversight responsibilities' and 'The identification of SAP facilities (or identification of the SAPCO-approved database that contains the information) that have been carved-out based upon this authority.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-5624905102",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Para 4.1.a.(2): 'Within 45 calendar days of creation of the SAP project, the CA will submit' the required documentation — establishing an internal 45-day paper deadline for new SAP projects, distinct from the statutory 30-day congressional pre-initiation notice under 10 U.S.C. 119(f).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-691e24b5c6",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "BUDGET PAPER TRAIL. Para 7.2.h. (congressional budget justification materials): waived program justification material goes only to committee staff directors, not to the committees as bodies.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-791e1d600a",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Para 5.1.e.(1): 'The use of a polygraph examination as a mandatory access determination requirement must be approved by the Secretary of Defense.' Mandatory-polygraph SAP access is a Secretary-level decision, which makes the presence of a polygraph requirement a marker of a program that reached the top of the department.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-79deadfcaa",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Para 7.1.: 'All DoD employees accessed to DoD SAPs will coordinate with and notify the DoD and OA SAPCOs through the CA SAPCO when intending to brief or provide DoD SAP material to any appropriately accessed members of Congress or professional staff member.' A cleared DoD employee cannot lawfully brief even an accessed member of Congress without first routing notice through the SAP's own control office.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7df53f436b",
+"locator": "Appendix 2 to Enclosure 6, Figure 3",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, Appendix 2 to Enclosure 6, Figure 3",
+"text": "DoDI 5205.11 SAP Approval Package Checklist item 2: 'Type, Category, and Classification of SAP. If unacknowledged and reporting requirements are to be waived, attach justification to waive the requirements of Volumes 2A and 2B of DoD 7000.14-R.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9144d83ac2",
+"locator": "Appendix 1 to Enclosure 6, Figure 2",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, Appendix 1 to Enclosure 6, Figure 2",
+"text": "DoDI 5205.11 Enclosure 6 PSAP timeline: 'NLT P+180 - DepSecDef decision. Congressional notification or PSAP termination as appropriate. NLT P+210 - End of 30-day period without Congressional decision.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a574d44ca1",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Header: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs'; effective September 12, 2024; reissues and cancels DoDI 5205.11, February 6, 2013, as amended; also incorporates and cancels the Deputy Secretary of Defense Memorandum, 'Integrated Joint Special Technical Operations (IJSTO) Policy', April 5, 2021; approved by Kathleen H. Hicks, Deputy Secretary of Defense.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ae02beb384",
+"locator": "Enclosure 2, para 2.k",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, Enclosure 2, para 2.k",
+"text": "DoDI 5205.11 Enclosure 2 requires the Director, DoD SAPCO to establish 'policies and applicable procedures to satisfy reporting requirements for DSS carve-outs' and to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c233aa6ccb",
+"locator": "para 5.d",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, para 5.d",
+"text": "DoDI 5205.11 para 5.d requires every DoD SAP to be assigned an unclassified nickname generated under CJCSM 3150.29D, and provides that 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c4f6e35b0b",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "WHAT MAKES A PROGRAM WAIVED, in DoD's own words. Para 1.2.f.: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' The waiver therefore attaches only to programs that are ALREADY unacknowledged; waived is a subset of unacknowledged, not a parallel category.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c8c3b85b12",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "TIER ARCHITECTURE. DoDI 5205.11 establishes a tiered SAP structure: umbrellas at tier 1, compartments at tier 2, sub-compartments at tier 3 and below; only the Secretary or Deputy Secretary of Defense may alter tier 1 structures. It distinguishes 'structural SAP: A SAP that provides organization to the architecture and does not protect discrete CPI' from 'content SAP: A SAP that protects discrete CPI.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cd6d4ece49",
+"locator": "Glossary Part II",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, Glossary Part II",
+"text": "DoDI 5205.11 Glossary: 'waived SAP. A SAP for which the SecDef has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d4ef50f3c6",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Para 7.2.f. verbatim: 'The personal staff of a member of Congress will not be granted access to DoD SAPs.' Non-committee members and staff may be granted access only to NON-waived SAPs, and only 'by the Director, DoD SAPCO following consultation with the respective chamber' (7.2.d.). Senate and House leadership may each nominate one professional staff member for access to all DoD SAPs (7.2.e.).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dbdbc7a823",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "GAO ACCESS IS GATED. Para 7.2.g.: authorized access approval authorities may grant SAP access to GAO staff for specific projects only after the Director, DoD SAPCO consults with the chairman and ranking defense committee members. Congress's own audit arm cannot reach a DoD SAP without the audited department's SAPCO first clearing it with four members.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e00ba05798",
+"locator": "Appendix 3 to Enclosure 6, Figure 4",
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11, Appendix 3 to Enclosure 6, Figure 4",
+"text": "DoDI 5205.11 sample action memo recommendation: 'That you approve GTE as an unacknowledged SAP and authorize carve-out status and the mandatory administration of CI polygraphs, and that you sign the notification letters to Congress (TAB C) identifying GREEN TREE as a new SAP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-81b2d1541b",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "The structural/content distinction is load-bearing for any search of SAP nomenclature: a structural SAP is a container with a codeword and no content of its own, so a program name appearing in budget or security documentation may correspond to no discrete body of protected information at all. Conversely, discrete CPI can be moved between compartments under an unchanged tier-1 umbrella name without any tier-1 action reaching the Secretary. Reasoning stated from the 1.2 tier description.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-dcd357a60c",
+"locator": null,
+"node": "dodi-5205-11",
+"nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"sourceText": "DoDI 5205.11 para 5.d read against 10 U.S.C. 119(a)(2)(B)(i)",
+"text": "Because the annual SAP report to Congress uses only unclassified nicknames, a member reading the list sees a word, not a mission. Reasoning: DoDI 5205.11 para 5.d expressly directs nickname use in the annual report and leaves the codeword optional and classified.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-00b041b877",
+"locator": null,
+"node": "sswg",
+"nodeLabel": "SAP Senior Working Group (SSWG)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 para 4.1.a.(2) sets the front-end clock for a new program: 'Within 45 calendar days of creation of the SAP project, the CA will submit' the required governance documentation.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b083617cef",
+"locator": "Appendix 1 to Enclosure 6",
+"node": "sswg",
+"nodeLabel": "SAP Senior Working Group (SSWG)",
+"sourceText": "DoDI 5205.11, Appendix 1 to Enclosure 6",
+"text": "DoDI 5205.11 PSAP timeline: 'NLT P+14 - SSWG reviews PSAP - Programmatic deconfliction - Validation - Written recommendation.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b1348f6480",
+"locator": "Enclosure 3, para 4",
+"node": "sswg",
+"nodeLabel": "SAP Senior Working Group (SSWG)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 4",
+"text": "DoDI 5205.11 Enclosure 3 para 4: 'The SSWG serves as the senior program protection forum to coordinate, deconflict, and integrate special programs; address SAP policy, oversight, and management; and provide recommendations to the SRG.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b5c725961e",
+"locator": "Enclosure 3, para 4.a",
+"node": "sswg",
+"nodeLabel": "SAP Senior Working Group (SSWG)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 4.a",
+"text": "DoDI 5205.11 Enclosure 3 para 4.a: SSWG membership is the Director, DoD SAPCO as Chair, plus the SAPCO Directors of USD(I), USD(P), USD(AT&L), Army, Air Force, Navy, Marine Corps, the Joint Staff, the Defense Advanced Research Projects Agency and the Missile Defense Agency, and representatives of DCAPE, DoD CIO, USD(C)/CFO and GC DoD.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-291c220139",
+"locator": "Enclosure 3, para 3.b(1",
+"node": "srg-dod",
+"nodeLabel": "Senior Review Group (DoD SAP governance)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 3.b(1)",
+"text": "DoDI 5205.11 Enclosure 3 para 3.b(1) lists SRG review of proposals to establish or disestablish SAPs, designation of oversight and cognizant authorities, removal of programs from special access controls, IJSTO apportionment, alteration of a SAP's scope, category or type, and review of foreign access and participation.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4bad42ffc3",
+"locator": "Enclosure 3, para 3",
+"node": "srg-dod",
+"nodeLabel": "Senior Review Group (DoD SAP governance)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 3",
+"text": "DoDI 5205.11 Enclosure 3 para 3: 'The SRG is the principal working-level body executing the governance process and performing oversight and management of DoD SAPs. Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-906dc47db3",
+"locator": "Enclosure 3",
+"node": "srg-dod",
+"nodeLabel": "Senior Review Group (DoD SAP governance)",
+"sourceText": "DoDI 5205.11, Enclosure 3",
+"text": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-cf23cd1c79",
+"locator": "Enclosure 3, para 3.a",
+"node": "srg-dod",
+"nodeLabel": "Senior Review Group (DoD SAP governance)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 3.a",
+"text": "DoDI 5205.11 Enclosure 3 para 3.a: SRG Chair is the Principal Deputy Under Secretary of Defense for AT&L; Vice Chair the Director, DoD SAPCO; Executive Secretary the Deputy Director, DoD SAPCO.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f985cd9414",
+"locator": null,
+"node": "srg-dod",
+"nodeLabel": "Senior Review Group (DoD SAP governance)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 (2024) governs SRG procedure; para 3.6.b: 'CA SAPCOs will submit proposed SAP governance actions to the Director' -- proposals to establish, modify or disestablish reach the Deputy Secretary only through the DoD SAPCO-chaired governance chain. Para 4.2.b: 'Proposals to disestablish SAP umbrellas will be submitted to the Deputy Secretary.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-22ceb980de",
+"locator": "Enclosure 3, para 2.a",
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 2.a",
+"text": "DoDI 5205.11 Enclosure 3: SAPOC membership is Chair - the Deputy Secretary of Defense; Vice-Chair - USD(AT&L); Executive Secretary - Director, DoD SAPCO; with general membership USD(P), USD(C)/CFO, USD(I), USD(P&R), the Vice Chairman of the Joint Chiefs of Staff, DoD CIO, GC DoD, DCAPE, the Under Secretaries of the Army, Navy and Air Force, the Vice Chiefs of Staff of the Army and Air Force, the Vice Chief of Naval Operations and the Assistant Commandant of the Marine Corps.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-2ca09d2f5c",
+"locator": null,
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 para 3.5.a.(3): the SAPOC shall 'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07', and para 3.5.a.(3)(d) extends that review to 'All waived DoD SAPs to determine the need for continued waived status.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-bc8ee81018",
+"locator": "Enclosure 3, para 2.b(3",
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 2.b(3)",
+"text": "DoDI 5205.11 Enclosure 3 para 2.b(3): the SAPOC convenes at the direction of the Deputy Secretary of Defense to 'Conduct an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a946b87240",
+"locator": null,
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "DoDI 5205.11 Enclosure 3 read against 10 U.S.C. 119",
+"text": "Because the SAPOC both validates the congressional SAP report and sits under the official who approves carve-outs and waivers, the Department's account of its own special access programs is produced entirely inside the compartment it describes, with no external validator at any point. Reasoning: DoDI 5205.11 Enclosure 3 gives the annual validation to the SAPOC and no issuance assigns any external body a concurrent validation role.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-8a7013e8ef",
+"locator": "para 6",
+"node": "sap-annual-report",
+"nodeLabel": "The annual DoD special access program report to Congress",
+"sourceText": "DoDI 5205.11, para 6",
+"text": "DoDI 5205.11 para 6 records that the SAP report 'is submitted to Congress in accordance with section 119 of Title 10, United States Code ... and is coordinated with the Assistant Secretary of Defense for Legislative Affairs in accordance with the procedures in DoDI 5545.02.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-de37b2cee7",
+"locator": "para 5.d",
+"node": "sap-annual-report",
+"nodeLabel": "The annual DoD special access program report to Congress",
+"sourceText": "DoDI 5205.11, para 5.d",
+"text": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b3bb681466",
+"locator": null,
+"node": "sap-annual-report",
+"nodeLabel": "The annual DoD special access program report to Congress",
+"sourceText": "10 U.S.C. 119(a)(1) as enacted in 1987; DoDI 5205.11 Enclosure 3",
+"text": "The annual SAP report has existed as a recurring agency record since the first one was due on 1 February 1988 under the original text of 10 U.S.C. 119(a)(1), and its accuracy is certified annually by two named standing bodies - which makes 'nobody knows how many SAPs there are' a false statement about a document that exists in roughly forty annual editions. Reasoning: the statutory deadline plus the SRG and SAPOC validation functions.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-2c76a75481",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Umbrella access does not carry down into waived compartments. DoDI 5205.11 paragraph 7.2.a.(2) reads verbatim: 'When a member of Congress or a professional staff member is given access to a SAP umbrella, that member of Congress or professional staff member will also be given access to all compartments and sub-compartments that fall under the respective SAP umbrella, with the exception of waived sub-compartments as described in Paragraph 7.2.a.(3).' A waived sub-compartment can therefore sit inside an umbrella a member is fully read into, invisibly to that member.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-2c76a75481",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Umbrella access does not carry down into waived compartments. DoDI 5205.11 paragraph 7.2.a.(2) reads verbatim: 'When a member of Congress or a professional staff member is given access to a SAP umbrella, that member of Congress or professional staff member will also be given access to all compartments and sub-compartments that fall under the respective SAP umbrella, with the exception of waived sub-compartments as described in Paragraph 7.2.a.(3).' A waived sub-compartment can therefore sit inside an umbrella a member is fully read into, invisibly to that member.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-446c7fc975",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "The exclusion of ordinary committee members from waived programs is stated flatly. DoDI 5205.11 paragraph 7.2.b reads verbatim: 'Members of Congress assigned to the defense and intelligence committees are authorized access to all DoD SAPs within the respective committee's SAP oversight jurisdiction, except for waived programs as described previously. The intelligence committees are authorized access only to those DoD SAPs designated by the Secretary of Defense or Deputy Secretary of Defense as intelligence or intelligence related.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-446c7fc975",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "The exclusion of ordinary committee members from waived programs is stated flatly. DoDI 5205.11 paragraph 7.2.b reads verbatim: 'Members of Congress assigned to the defense and intelligence committees are authorized access to all DoD SAPs within the respective committee's SAP oversight jurisdiction, except for waived programs as described previously. The intelligence committees are authorized access only to those DoD SAPs designated by the Secretary of Defense or Deputy Secretary of Defense as intelligence or intelligence related.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4f44214c93",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "GAO's own access is gated through the same two seats. DoDI 5205.11 paragraph 7.2.g provides that GAO access runs through 'the chairman and ranking defense committee members, unless the GAO is already tasked with a SAP-related action in existing legislation.' This is the structural reason GAO's published special access program work has never been able to report on the waiver's use.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4f44214c93",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "GAO's own access is gated through the same two seats. DoDI 5205.11 paragraph 7.2.g provides that GAO access runs through 'the chairman and ranking defense committee members, unless the GAO is already tasked with a SAP-related action in existing legislation.' This is the structural reason GAO's published special access program work has never been able to report on the waiver's use.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ac3f8c09d6",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "THE BUDGET PAPER FOR A WAIVED PROGRAM GOES TO STAFF, NOT TO MEMBERS. DoDI 5205.11 paragraph 7.2.h reads verbatim: 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is a distinct and narrower channel than the 119(e)(2) delivery to chairs and ranking members, and it means the written justification material for a waived program is routed to two staff directors per committee rather than to the twelve statutory seats.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ac3f8c09d6",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "THE BUDGET PAPER FOR A WAIVED PROGRAM GOES TO STAFF, NOT TO MEMBERS. DoDI 5205.11 paragraph 7.2.h reads verbatim: 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is a distinct and narrower channel than the 119(e)(2) delivery to chairs and ranking members, and it means the written justification material for a waived program is routed to two staff directors per committee rather than to the twelve statutory seats.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b9b20705ad",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; and DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "THE STATUTORY GROUP AND THE DEPARTMENT'S GROUP ARE NOT THE SAME, AND THE DEPARTMENT'S IS WIDER. The statute, 10 U.S.C. 119(e)(2), names only 'the chairman and ranking minority member of each of the defense committees' - twelve seats across six committee entities, and no staff. DoD Instruction 5205.11, paragraph 7.2.a.(3), states verbatim: 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' The Department therefore adds two staff categories the statute does not name, and extends the group to the two intelligence committees, which Section 119(g) does not include. Whether that is a lawful gloss or an administrative expansion is a live question the board can put on the record.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b9b20705ad",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; and DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "THE STATUTORY GROUP AND THE DEPARTMENT'S GROUP ARE NOT THE SAME, AND THE DEPARTMENT'S IS WIDER. The statute, 10 U.S.C. 119(e)(2), names only 'the chairman and ranking minority member of each of the defense committees' - twelve seats across six committee entities, and no staff. DoD Instruction 5205.11, paragraph 7.2.a.(3), states verbatim: 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' The Department therefore adds two staff categories the statute does not name, and extends the group to the two intelligence committees, which Section 119(g) does not include. Whether that is a lawful gloss or an administrative expansion is a live question the board can put on the record.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-eaabecd113",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Professional staff members are cut out of waived programs entirely. DoDI 5205.11 paragraph 7.2.c.(1) reads verbatim: 'One professional staff member for both the majority and the minority party of the defense and intelligence committees may be granted access to all non-waived SAPs within the respective committee's SAP oversight jurisdiction.' Paragraph 7.2.d applies the same limit to non-committee members: 'Members of Congress and professional staff members not assigned to the defense or intelligence committees may be granted access to non-waived DoD SAPs by the Director, DoD SAPCO following consultation with the respective chamber of Congress chair and ranking defense committee members.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-eaabecd113",
+"locator": null,
+"node": "waived-sap-notification-group",
+"nodeLabel": "Waived SAP Notification Group",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Professional staff members are cut out of waived programs entirely. DoDI 5205.11 paragraph 7.2.c.(1) reads verbatim: 'One professional staff member for both the majority and the minority party of the defense and intelligence committees may be granted access to all non-waived SAPs within the respective committee's SAP oversight jurisdiction.' Paragraph 7.2.d applies the same limit to non-committee members: 'Members of Congress and professional staff members not assigned to the defense or intelligence committees may be granted access to non-waived DoD SAPs by the Director, DoD SAPCO following consultation with the respective chamber of Congress chair and ranking defense committee members.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-023551515a",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf ; Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
+"text": "WHAT SHOULD EXIST IF THE WAIVER WERE BEING USED, AND WHY NONE OF IT IS PUBLIC. Four artefacts are implied by the statute and the DoD instruction: (i) the underlying 119(a), (b) or (c) report itself, which is classified and, for (a) and (b), no longer statutorily required after 31 December 2021; (ii) the Secretary's case-by-case determination that inclusion would adversely affect national security, which 119(e)(1) requires to be made but does not require to be recorded in any publicly indexed form; (iii) the withheld information plus a written justification delivered jointly to twelve named members, which by the Moynihan Commission's account has historically been delivered orally; and (iv) the SAPOC annual review record of whether each waived program should retain that status, which is internal to the Department. None of the four is a public document class. There is no statutory requirement anywhere in Section 119 to report the NUMBER of waivers exercised, the fact that any waiver was exercised, or an aggregate count, to anyone outside those twelve seats. The absence of a public instance is therefore fully explained by the design of the mechanism and is NOT evidence of concealment beyond what the statute itself authorises.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-023551515a",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf ; Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
+"text": "WHAT SHOULD EXIST IF THE WAIVER WERE BEING USED, AND WHY NONE OF IT IS PUBLIC. Four artefacts are implied by the statute and the DoD instruction: (i) the underlying 119(a), (b) or (c) report itself, which is classified and, for (a) and (b), no longer statutorily required after 31 December 2021; (ii) the Secretary's case-by-case determination that inclusion would adversely affect national security, which 119(e)(1) requires to be made but does not require to be recorded in any publicly indexed form; (iii) the withheld information plus a written justification delivered jointly to twelve named members, which by the Moynihan Commission's account has historically been delivered orally; and (iv) the SAPOC annual review record of whether each waived program should retain that status, which is internal to the Department. None of the four is a public document class. There is no statutory requirement anywhere in Section 119 to report the NUMBER of waivers exercised, the fact that any waiver was exercised, or an aggregate count, to anyone outside those twelve seats. The absence of a public instance is therefore fully explained by the design of the mechanism and is NOT evidence of concealment beyond what the statute itself authorises.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-728443976f",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Administrative plumbing specific to waived programs exists in the same instruction, which again indicates live use rather than dormant authority. Footnote 5 reads verbatim: 'CA and OA SAPCO Directors may delegate AAA for non-waived SAPs to the DoD Component's SAPCO staff. AAA for waived SAPs may be delegated to the SAPCO Deputy Director or alternate designee.' Footnote 6 reads verbatim: 'DoD SAPCO will coordinate on PARs for judicial and other federal agency personnel for waived programs.' A department does not write delegation rules and a judicial-access coordination rule for an empty set.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-728443976f",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "Administrative plumbing specific to waived programs exists in the same instruction, which again indicates live use rather than dormant authority. Footnote 5 reads verbatim: 'CA and OA SAPCO Directors may delegate AAA for non-waived SAPs to the DoD Component's SAPCO staff. AAA for waived SAPs may be delegated to the SAPCO Deputy Director or alternate designee.' Footnote 6 reads verbatim: 'DoD SAPCO will coordinate on PARs for judicial and other federal agency personnel for waived programs.' A department does not write delegation rules and a judicial-access coordination rule for an empty set.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-a126591e23",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "THE STRONGEST SINGLE PIECE OF EVIDENCE THAT THE POPULATION IS NON-EMPTY IS A RECURRING REVIEW REQUIREMENT. DoDI 5205.11 requires that in its annual review the Special Access Program Oversight Committee - chaired by the Deputy Secretary of Defense - shall assess, among four listed items, '(d) All waived DoD SAPs to determine the need for continued waived status.' A standing annual agenda item to decide whether waived programs should REMAIN waived is only drafted if waived programs exist. This is a 2024 document, so the finding is current, not historical.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-a126591e23",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "THE STRONGEST SINGLE PIECE OF EVIDENCE THAT THE POPULATION IS NON-EMPTY IS A RECURRING REVIEW REQUIREMENT. DoDI 5205.11 requires that in its annual review the Special Access Program Oversight Committee - chaired by the Deputy Secretary of Defense - shall assess, among four listed items, '(d) All waived DoD SAPs to determine the need for continued waived status.' A standing annual agenda item to decide whether waived programs should REMAIN waived is only drafted if waived programs exist. This is a 2024 document, so the finding is current, not historical.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b3a2a6e2c8",
+"locator": "Enclosure 3, para 3.b(5",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 3.b(5)",
+"text": "DoDI 5205.11 Enclosure 3 provides that the SRG 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b73f7fa113",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "The Department's own definition, from the DoDI 5205.11 glossary, verbatim: 'waived SAP - A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' And, adjacent to it: 'unacknowledged SAP - A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.' A waived SAP is therefore a proper subset of the unacknowledged SAPs, distinguished precisely by the exercise of the Section 119(e)(1) waiver.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b73f7fa113",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "The Department's own definition, from the DoDI 5205.11 glossary, verbatim: 'waived SAP - A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' And, adjacent to it: 'unacknowledged SAP - A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.' A waived SAP is therefore a proper subset of the unacknowledged SAPs, distinguished precisely by the exercise of the Section 119(e)(1) waiver.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-c456336c62",
+"locator": "Enclosure 3, para 3.b(4",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoDI 5205.11, Enclosure 3, para 3.b(4)",
+"text": "DoDI 5205.11 Enclosure 3 provides that the Senior Review Group 'Reviews all waived DoD SAPs annually. Provides recommendations to the SAPOC concerning continued waived status.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dec5b4f44d",
+"locator": "'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "VERDICT ON THE BOARD'S QUESTION: the waiver has been exercised, and the Department of Defense says so in a currently effective, publicly released instruction - but no public document identifies a single specific instance, a count, a date, a program, or any connection to unidentified anomalous phenomena. DoD Instruction 5205.11, effective 12 September 2024, paragraph 1.2.f, states verbatim: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' This is not a hypothetical authority described in the abstract; the rest of the instruction is written around an existing population of such programs.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dec5b4f44d",
+"locator": null,
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "VERDICT ON THE BOARD'S QUESTION: the waiver has been exercised, and the Department of Defense says so in a currently effective, publicly released instruction - but no public document identifies a single specific instance, a count, a date, a program, or any connection to unidentified anomalous phenomena. DoD Instruction 5205.11, effective 12 September 2024, paragraph 1.2.f, states verbatim: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' This is not a hypothetical authority described in the abstract; the rest of the instruction is written around an existing population of such programs.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-e32ddd5318",
+"locator": "Enclosure 2, para 2.m",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoDI 5205.11, Enclosure 2, para 2.m",
+"text": "DoDI 5205.11 Enclosure 2 requires DoD SAPCO to establish 'the criteria for annual reviews of waived DoD SAPs by the SSWG and SRG.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b96e7d9045",
+"locator": "Enclosure 3",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoDI 5205.11, Enclosure 3",
+"text": "A complete list of waived DoD SAPs demonstrably exists in documentary form, is reviewed at least annually by the Senior Review Group, and is validated by the SAPOC - which means the answer to 'how many waived programs are there' is a retrievable agency record and not an unknowable. Reasoning: DoDI 5205.11 Enclosure 3 assigns the annual review of all waived SAPs and the accuracy of the congressional SAP list to a named standing body.",
+"tier": 3
+}
+],
+"date": "2024-09-12",
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-3f4081218b",
+"label": "Waived is the terminal state of the taxonomy",
+"note": "DoDI 5205.11 defines a waived SAP as 'An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-c6630de025",
+"label": "DoD SAPCO holds the list of carved-out facilities",
+"note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"claimTier": 1,
+"id": "e-136ae96711",
+"label": "Requested on the SAP approval checklist and recorded in the program file",
+"note": "DoDI 5205.11 Appendix 2 to Enclosure 6 item 11.d requires a 'Contract strategy (carve-out justification if applicable)'; Enclosure 7 requires the signed carve-out approval and the list of carved-out facilities in the program record file.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"claimTier": 1,
+"id": "e-baf54d6a54",
+"label": "the provision that removes a contractor facility from the government's own industrial security oversight",
+"note": "Defined in DoD Directive 5205.07 and DoD Manual 5205.07 Volume 1 as a provision approved by the Secretary or Deputy Secretary of Defense relieving the defence security agency of its National Industrial Security Program oversight responsibilities at a contractor facility. It is the structural seam at which a programme held at a company stops being visible to any government security official outside the programme.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+"b": {
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+"claimTier": 1,
+"id": "e-7f3091a8d6",
+"label": "Congress receives nicknames, not missions",
+"note": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"claimTier": 1,
+"id": "e-51e6ce2365",
+"label": "the office that holds the Department's SAP portfolio and is its single point of contact to Congress",
+"note": "Established by DoD Directive 5205.07 (reissued 12 September 2024) 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general or flag officer or SES equivalent, and designated the primary DoD liaison with the Executive Branch and Congress on all DoD SAP issues. Any structural map of where a legacy programme could sit starts at this node.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "document",
+"id": "classified-annex",
+"label": "The Classified Annex (NDAA and Defense Appropriations)"
+},
+"claimTier": 1,
+"id": "e-16460b18c3",
+"label": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+"note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-aeaf681082",
+"label": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
+"note": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs,' effective 12 September 2024, para. 7.2.a(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction 'except for waived programs.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-b22909a990",
+"label": "DoDI 5205.11 retains the acknowledged / unacknowledged / waived taxonomy the 2024 directive omitted",
+"note": "DoDI 5205.11 para. 1.2.f, effective the same day as the reissued DoDD 5205.07: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' The glossary retains definitions of acknowledged SAP, unacknowledged SAP, SAP type and waived SAP, the last defined as 'A SAP for which the Secretary of Defense has waived applicable ... An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' The taxonomy was therefore not retired in September 2024; it was moved down one level from the directive into the instruction. Para. 3 further requires the SAP Oversight Committee's annual review to assess 'All waived DoD SAPs to determine the need for continued waived status' - an internal executive-branch review with no congressional trigger and no analogue in section 119.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"claimTier": 1,
+"id": "e-9b7f1fe3a0",
+"label": "DoDI 5205.11 glossary definition of 'carve out'",
+"note": "",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"claimTier": 1,
+"id": "e-baff3ef5cb",
+"label": "the issuance that documents the approval and oversight chain this domain is trying to map",
+"note": "DoDI 5205.11 (effective 12 September 2024) sets out the prospective SAP approval sequence in days from establishment, the review bodies (SSWG, Senior Review Group, SAPOC) and the oversight roles. It is the only public document that walks the whole chain end to end, which makes it the domain's primary methodological source rather than merely one of its members.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "institution",
+"id": "sswg",
+"label": "SAP Senior Working Group (SSWG)"
+},
+"claimTier": 1,
+"id": "e-924a3f0aaa",
+"label": "Chairs the deconfliction forum at the DoD SAPCO director level",
+"note": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+"claimTier": 1,
+"id": "e-4621acfb67",
+"label": "Makes the SRG the working-level body that reviews every waived program annually",
+"note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+"claimTier": 1,
+"id": "e-bd900046fa",
+"label": "Sets SAPOC membership and its annual validation of the congressional report",
+"note": "DoDI 5205.11 Enclosure 3 para 2 lists the eighteen SAPOC positions and assigns it 'an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-672f106657",
+"label": "para 1.2.f designates select unacknowledged SAPs as waived",
+"note": "",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-6891d31193",
+"label": "the DoD-side implementation",
+"note": "The statute permits the waiver; this Instruction is where the Department operates it. Para 1.2.f. is DoD's own designation authority - the Secretary 'may designate select unacknowledged SAPs as \"waived\"' - and Enclosure 3 tasks the Senior Review Group with reviewing 'all waived DoD SAPs' annually and advising the SAPOC. Para 7.2.a.(3) then sets who is told, and it is wider than the statute's twelve: the chair, the ranking member, the staff directors and one designated security manager of the defense AND intelligence committees. Quotations are the verbatim ones already recorded on this node from the Instruction itself.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+"claimTier": 3,
+"id": "e-42c168569d",
+"label": "AARO's search for a concealed program ran against a document AARO did not control",
+"note": "The annual SAP report and the waived-program list are produced by cognizant authorities through DoD SAPCO and validated by the SRG and SAPOC; no AARO authority in statute or directive gives it access to the waived list.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+"b": {
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+"claimTier": 1,
+"id": "e-9cf77b75e0",
+"label": "Unanimous SRG recommendations bypass the SAPOC entirely",
+"note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"b": {
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels"
+},
+"claimTier": 2,
+"id": "e-1aa8aaf0bb",
+"label": "the access category whose costs reach four members rather than four committees",
+"note": "Unacknowledged existence (DoDI 5205.11 glossary), waived congressional reporting under 10 U.S.C. 119(e), and carve-out relief from industrial security oversight combine to produce an activity that is funded but not reconcilable from any public document. Every element is sourced to a statute or a DoD issuance rather than to an allegation; the inference that a legacy programme uses this stack is not.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"b": {
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+"claimTier": 1,
+"id": "e-5a5b3fe5e3",
+"label": "Every waived program is reviewed once a year by a named standing body",
+"note": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "dodi-5205-11",
+"identifiers": [
+"DoDI 5205.11"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+{
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+{
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+{
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+{
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+{
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+{
+"cls": "institution",
+"id": "sswg",
+"label": "SAP Senior Working Group (SSWG)"
+},
+{
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+{
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+{
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+{
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+{
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+}
+],
+"node": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"topics": [
+{
+"claims": [
+"c-220bbc2a45",
+"c-018ed45bf9",
+"c-283986b2a2",
+"c-2c4cc10bb0",
+"c-5624905102",
+"c-791e1d600a",
+"c-79deadfcaa",
+"c-7df53f436b",
+"c-9144d83ac2",
+"c-a574d44ca1",
+"c-c233aa6ccb",
+"c-c4f6e35b0b",
+"c-c8c3b85b12",
+"c-d4ef50f3c6",
+"c-dbdbc7a823",
+"c-81b2d1541b",
+"c-dcd357a60c",
+"c-b083617cef",
+"c-b1348f6480",
+"c-b5c725961e",
+"c-291c220139",
+"c-4bad42ffc3",
+"c-906dc47db3",
+"c-cf23cd1c79",
+"c-22ceb980de",
+"c-2ca09d2f5c",
+"c-bc8ee81018",
+"c-a946b87240"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+},
+{
+"claims": [
+"c-127bc39a52",
+"c-31436fb01c",
+"c-4d4cce859c",
+"c-fa8f5f4f53",
+"c-d4a6af4168",
+"c-728443976f",
+"c-728443976f",
+"c-a126591e23",
+"c-a126591e23",
+"c-b3a2a6e2c8",
+"c-c456336c62",
+"c-dec5b4f44d",
+"c-dec5b4f44d",
+"c-e32ddd5318",
+"c-b96e7d9045"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+},
+{
+"claims": [
+"c-7696eb3d6d",
+"c-985c40f1fd",
+"c-a9245d34b7",
+"c-dde0a32054",
+"c-00dcac644e",
+"c-220bbc2a45",
+"c-218588ce4d",
+"c-30b945cefe",
+"c-9144d83ac2",
+"c-c4f6e35b0b",
+"c-e00ba05798",
+"c-b083617cef",
+"c-4bad42ffc3"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-c233aa6ccb",
+"c-2c76a75481",
+"c-2c76a75481",
+"c-446c7fc975",
+"c-446c7fc975",
+"c-4f44214c93",
+"c-4f44214c93",
+"c-ac3f8c09d6",
+"c-ac3f8c09d6",
+"c-b9b20705ad",
+"c-b9b20705ad",
+"c-eaabecd113",
+"c-eaabecd113"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+},
+{
+"claims": [
+"c-ac3f8c09d6",
+"c-ac3f8c09d6",
+"c-b9b20705ad",
+"c-b9b20705ad"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+},
+{
+"claims": [
+"c-b9b20705ad",
+"c-b9b20705ad"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
+"type": "regulation",
+"urls": [
+"https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+]
+}

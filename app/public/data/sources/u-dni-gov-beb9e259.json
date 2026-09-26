@@ -1,0 +1,79 @@
+{
+"archived": [
+"https://web.archive.org/web/20260807214055/https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+],
+"claims": [
+{
+"cls": "domain",
+"id": "c-dbe48c40b5",
+"locator": null,
+"node": "d-legal",
+"nodeLabel": "Legal Doctrine & Liability",
+"sourceText": "ODNI ICIG, Urgent Concern Disclosure Form",
+"text": "The ODNI Intelligence Community Inspector General publishes a Disclosure of Urgent Concern form as the lawful channel for IC whistleblower complaints.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-84fa50f867",
+"locator": null,
+"node": "d-witness",
+"nodeLabel": "Witness Chain",
+"sourceText": "ODNI ICIG Urgent Concern Disclosure Form",
+"text": "The ICIG publishes a Disclosure of Urgent Concern form, the formal channel through which an intelligence community employee makes a protected complaint.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-dni-gov-beb9e259",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [
+{
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+{
+"cls": "institution",
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+{
+"cls": "domain",
+"id": "d-legal",
+"label": "Legal Doctrine & Liability"
+},
+{
+"cls": "domain",
+"id": "d-witness",
+"label": "Witness Chain"
+}
+],
+"node": null,
+"title": "ODNI ICIG - Disclosure of Urgent Concern Form",
+"topics": [
+{
+"claims": [
+"c-dbe48c40b5"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-84fa50f867"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "document",
+"urls": [
+"https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+]
+}

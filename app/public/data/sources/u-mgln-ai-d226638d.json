@@ -1,0 +1,111 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-0ae84a7acb",
+"locator": "1:30:12",
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"sourceText": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:30:12",
+"text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:30:12, Jake Barber said that 'the senior EG&G engineer described to my great uncle that it was egg shaped about the size of an SUV', that the team 'tried to penetrate the hull, tried to open it, they couldn't', and that from very small samples of the material they concluded the isotope ratio or mixture of elements was not of terrestrial manufacture. The account reaches Barber through his great uncle and the engineer is not named.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3ddb0bb503",
+"locator": "0:32:53",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"sourceText": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:32:53",
+"text": "On American Alchemy with Jesse Michels, 30 January 2025, at 0:32:53, Jake Barber said that after 2001 he worked as a contractor for the intelligence community and that 'we had a cover contract through the BIA, which is the Bureau of Indian Affairs at a sovereign nation close to White Sands Missile Range in New Mexico'. He gives no contract number and names no company.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-660ea60885",
+"locator": "2:04:48-2:06:33",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"sourceText": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 2:04:48 to 2:06:33",
+"text": "In the same episode, between 2:04:48 and 2:06:33, Barber said that he and colleagues wrote a 120,000 word historical-fiction manuscript with a hired ghost writer and submitted it to the DOPSR review process in pieces, beginning with the first twenty pages, in order to 'red team the DOPSR process to expose who subject matter experts are' and to map who controls which information. He describes seeding the manuscript with four deliberately chosen categories of information as the probe.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e4b2370224",
+"locator": "0:54:51-0:55:41",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"sourceText": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:54:51 to 0:55:41",
+"text": "In the same episode, between 0:54:51 and 0:55:41, Barber said that everything he was describing had been given to AARO and that it 'has been shared with Congress in a SCIF, in a top secret SCI environment, where I've given testimony'. He does not name the committee in this passage.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0f9d6aa3df",
+"locator": "1:28:12",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:28:12",
+"text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:28:12, Jake Barber said that the Michael Herrera incident and his own additional information were presented to AARO under Sean Kirkpatrick, that Kirkpatrick 'patently denied it and wrote it off', and that 'I know for a fact that Sean Kirkpatrick has admitted outside of the office of AARO directly to members of the Senate Intelligence Committee that it did in fact happen exactly as reported by Michael Herrera'. This is a claim about what an AARO director is said to have said in private, not a claim sourced to AARO, and no record of either the denial or the private confirmation was opened.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-d226638d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "institution",
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
+{
+"cls": "person",
+"id": "jake-barber",
+"label": "Jake Barber"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account (ft. Logan Paul and Ammar Kandil)' (audio)",
+"topics": [
+{
+"claims": [
+"c-3ddb0bb503",
+"c-660ea60885",
+"c-e4b2370224"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-0f9d6aa3df"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-0ae84a7acb"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9340057376.mp3?updated=1751590405"
+]
+}

@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-f6be221bb7",
+"locator": "1:13:18-1:49:19",
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "American Alchemy with Jesse Michels, 'CIA Psychic Spy: Mars Used To Have Alien Life', published 2 March 2025, at 1:13:18 to 1:49:19",
+"text": "On American Alchemy with Jesse Michels, 2 March 2025, between 1:13:18 and 1:49:19, Joseph McMoneagle described his own route into the programme as a chain of individual postings rather than a fixed bureaucratic assignment: a chance contact on an Army base, intelligence school, Vietnam service, a red-team task at an Allied intelligence facility in Germany, an order to headquarters by a three-star general, a diversion into Mandarin training at the Defense Language Institute, and an abrupt reassignment by a different general to look at Grill Flame at SRI before being absorbed at Fort Meade. He presents this as evidence that the programme moved by the personal patronage of particular general officers.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "mgln.ai",
+"id": "u-mgln-ai-3979cd39",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "event",
+"id": "stargate-program",
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+}
+],
+"node": null,
+"title": "American Alchemy with Jesse Michels, 'CIA Psychic Spy: Mars Used To Have Alien Life' (audio)",
+"topics": [
+{
+"claims": [
+"c-f6be221bb7"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
+"type": "web page",
+"urls": [
+"https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9049615871.mp3?updated=1751593011"
+]
+}

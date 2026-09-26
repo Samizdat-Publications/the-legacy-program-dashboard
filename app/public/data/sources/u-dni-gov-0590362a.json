@@ -1,0 +1,51 @@
+{
+"archived": [
+"https://web.archive.org/web/20260701023120/https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena"
+],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avril-haines",
+"label": "Avril D. Haines"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-0fc68b0385",
+"label": "DNI who transmitted the assessment to Congress",
+"note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-dni-gov-0590362a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ODNI",
+"listedOn": [
+{
+"cls": "person",
+"id": "avril-haines",
+"label": "Avril D. Haines"
+},
+{
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
+"node": null,
+"title": "ODNI newsroom - Preliminary Assessment: Unidentified Aerial Phenomena",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena"
+]
+}

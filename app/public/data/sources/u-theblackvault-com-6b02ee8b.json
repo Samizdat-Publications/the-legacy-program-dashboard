@@ -1,0 +1,156 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-078fbacb5c",
+"locator": null,
+"node": "malmstrom-1975",
+"nodeLabel": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+"sourceText": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/ , opened 2026-09-19",
+"text": "The Black Vault's landing page for OASD FOIA case 97-F-1677, released September 1997, describes records of numerous unidentified craft over Malmstrom AFB in November 1975 that could not be intercepted by multiple F-106 fighters. THE PAGE ITSELF REPRODUCES NO DOCUMENT TEXT, so the non-interception claim is corroborated here by the NORAD log rather than by that page.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-7ff96d159f",
+"label": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights",
+"note": "A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)"
+},
+"claimTier": 2,
+"id": "e-07db791118",
+"label": "1975 NORAD and command-post message traffic circulated by CUFON",
+"note": "CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"claimTier": 1,
+"id": "e-2501ad2c53",
+"label": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
+"note": "The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+"claimTier": 1,
+"id": "e-ec622db182",
+"label": "Malmstrom AFB and its Minuteman fields were among the installations overflown",
+"note": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-5feec0f487",
+"label": "Occurred six years after the Air Force closed Blue Book on a no-threat finding",
+"note": "The USAF fact sheet states Blue Book was terminated on 17 December 1969 on the conclusion that no UFO had ever indicated a threat to national security. The 1975 records document unidentified objects over nuclear weapons installations.",
+"type": "temporal"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-6b02ee8b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana"
+},
+{
+"cls": "event",
+"id": "malmstrom-1975",
+"label": "Malmstrom missile-field overflights, 7 to 19 November 1975"
+},
+{
+"cls": "domain",
+"id": "d-nuc",
+"label": "Nuclear Weapons Complex Nexus"
+}
+],
+"node": null,
+"title": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"topics": [
+{
+"claims": [
+"c-078fbacb5c"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+]
+}

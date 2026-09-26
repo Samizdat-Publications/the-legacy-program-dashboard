@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5211b93f9c",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "HHRG-118-GO06-Bio-FravorD-20230726.pdf, http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-FravorD-20230726.pdf , 2023-07-26",
+"text": "The biography Fravor filed with the subcommittee for the 26 July 2023 hearing, held in the House Committee Repository under event 116282, reads in full: 'David Fravor is a retired naval pilot and Commander of VFA-41 also known as The Black Aces. He is one of the primary witness in the 2004 USS Nimitz UFO incident. He was featured in the 2008 PBS documentary Carrier and has been interviewed on Joe Rogan's podcast The Joe Rogan Experience. Fravor joined the military at the age of 17. He has a career spanning 24 years, 18 of which was as a Navy pilot. He had completed five tours to the Persian Gulf starting after Operation Desert Storm. He commanded a squadron of 12 airplanes consisting of 330 people. Fravor retired in 2006.' The grammatical slip 'one of the primary witness' is in the original. This is a document filed with a committee and held in its repository, which is what makes it Tier 1. It is a witness-supplied biography, not a Navy service record.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-docs-house-gov-738a81b9",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. House of Representatives",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+}
+],
+"node": null,
+"title": "Biography filed with the House Oversight subcommittee for the 26 July 2023 hearing, held in the Committee Repository under event 116282",
+"topics": [],
+"type": "document",
+"urls": [
+"http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-FravorD-20230726.pdf"
+]
+}

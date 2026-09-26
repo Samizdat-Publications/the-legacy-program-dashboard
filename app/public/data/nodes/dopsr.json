@@ -7,32 +7,66 @@
 {
 "id": "c-c98ac5e49b",
 "source": "Joseph Gradisher, U.S. Navy, via The Black Vault",
+"sources": [],
 "text": "The Navy stated in September 2019 that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentifi) was rejected in review: no date; Gradisher gave The Black Vault several statements"
 },
 {
 "id": "c-3edb01eb4b",
 "source": "Luis Elizondo, sworn testimony, 13 November 2024",
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "testimony of Luis Elizondo",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "Reviewed Elizondo's Imminent for approximately one year prior to its August 2024 publication.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-467123052d",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's Historical Record Report Volume 1 carries the prepublication review number DOPSR-2024-0263.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ee195ea6e0",
 "source": "DoD FOIA 23-F-0946 release; The Debrief, 5 June 2023",
+"sources": [
+{
+"id": "foia-23-f-0946",
+"locator": null,
+"title": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)"
+}
+],
 "text": "Cleared Grusch's two submissions for open publication on 4 April and 6 April 2023 (FOIA case 23-F-0946).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bd70eefc48",
 "source": "House Oversight hearing transcript, 26 July 2023",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Grusch under oath: DOPSR review is a security review only - 'These are my own personal views and opinions, not the Department's.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-4be2b23799",
+"locator": null,
+"node": "im1-pacific-expedition-2023",
+"nodeLabel": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+"sourceText": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122628",
+"text": "Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "im1-pacific-expedition-2023",
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 3,
+"id": "e-f9175cdfd1",
+"label": "The control case: what a public physical-recovery attempt looks like, failures included",
+"note": "Claim, rebuttal and re-analysis all appeared in the peer-reviewed literature within eighteen months. That is the benchmark against which seventy years of unpublished government custody should be judged.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-doi-org-936c549f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "event",
+"id": "im1-pacific-expedition-2023",
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023"
+}
+],
+"node": null,
+"title": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
+"topics": [
+{
+"claims": [
+"c-4be2b23799"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-4be2b23799"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
+"type": "web page",
+"urls": [
+"https://doi.org/10.1016/j.chemgeo.2025.122628"
+]
+}

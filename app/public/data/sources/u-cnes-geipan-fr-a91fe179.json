@@ -1,0 +1,118 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-19d8ee4735",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"text": "GEIPAN is steered by a comité de pilotage 'composé de représentants des autorités civiles et militaires du pays (Gendarmerie nationale, Aviation civile, Météo, Armée de l'air, Recherche scientifique) et du CNES', supported by a collège d'experts of 'une trentaine de bénévoles' and volunteer field investigators across France.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-5940700193",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"text": "'L'équipe du GEIPAN est constituée de deux agents CNES à temps plein: le responsable et son assistante', with external support for case study, statistics, anonymisation and archiving; its budget comes from the general public-service subsidy received by CNES rather than a dedicated allocation.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-819c9d9652",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"text": "'Fin 2001, la Direction générale du CNES commande un audit pour statuer sur l'avenir de l'activité. En 2005, à la suite d'un audit, le Président du CNES décide la restructuration de l'activité et le GEIPAN ... se substitue au SEPRA, avec une recommandation importante d'informer le public en toute transparence.' The 'I' in GEIPAN stands for Information, and the recommendation was implemented through publication of the archives 'entamée en 2007'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d449509d26",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"text": "Classification is by consistency (C) and residual strangeness (E), producing categories A (perfectly identified), B (probably identified), C (unidentified due to lack of data) and D (unidentified after investigation); C and D cases may be revisited if new information is supplied.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-fb06cb19fc",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"text": "GEIPAN's FAQ states it is 'a technical department of CNES', that it 'does not involve in a security topic nor a sky and space awareness or alert service', and that 'contrary to popular belief, GEIPAN is not a research group on UFOs and extraterrestrial life, or other paranormal phenomena', using 'only recognized scientific knowledge, without speculation or unverified hypotheses'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-fc9aa7d62a",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"text": "'Le CNES étudie les PAN depuis 1977, date de la création du GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non identifiés). En 1988, le GEPAN est remplacé par le SEPRA (Service d'Études des Phénomènes de Rentrées Atmosphériques).'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"b": {
+"cls": "location",
+"id": "l-france",
+"label": "France"
+},
+"claimTier": 1,
+"id": "e-fd1c239a20",
+"label": "French national UAP office, CNES Toulouse",
+"note": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-cnes-geipan-fr-a91fe179",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CNES GEIPAN",
+"listedOn": [
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+}
+],
+"node": null,
+"title": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"topics": [
+{
+"claims": [
+"c-19d8ee4735",
+"c-5940700193",
+"c-819c9d9652",
+"c-d449509d26",
+"c-fb06cb19fc",
+"c-fc9aa7d62a"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "web page",
+"urls": [
+"https://cnes-geipan.fr/en/histoire-du-geipan"
+]
+}

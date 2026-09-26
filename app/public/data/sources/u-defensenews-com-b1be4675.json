@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": "2019-04-25",
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+},
+"claimTier": 1,
+"id": "e-b7588a393c",
+"label": "MITRE has administered JASON since 2002",
+"note": "MITRE provides management and logistics for the government's most sensitive standing scientific advisory panel; the contract was saved by an NNSA sole-source award in April 2019 after DoD declined renewal.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensenews-com-b1be4675",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "defensenews.com",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON"
+}
+],
+"node": null,
+"title": "Defense News, 25 April 2019",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.defensenews.com/smr/nuclear-arsenal/2019/04/25/nuclear-weapons-agency-moves-to-save-jason-advisory-group/"
+]
+}

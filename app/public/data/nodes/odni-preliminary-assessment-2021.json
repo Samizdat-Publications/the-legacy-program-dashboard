@@ -7,68 +7,156 @@
 {
 "id": "c-4da601c655",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "Title page: 'OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE / Preliminary Assessment: Unidentified Aerial Phenomena / 25 June 2021'. Document is 9 pages, marked UNCLASSIFIED, PDF CreationDate 25 June 2021 19:24 UTC.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fec3aec560",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "Statutory basis, stated in the Scope section: 'This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021, that the DNI, in consultation with the Secretary of Defense (SECDEF), is to submit an intelligence assessment of the threat posed by unidentified aerial phenomena (UAP) and the progress the Department of Defense Unidentified Aerial Phenomena Task Force (UAPTF) has made in understanding this threat.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-04ff2ea411",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "Dataset and resolution rate: '144 reports originated from USG sources. Of these, 80 reports involved observation with multiple sensors.' The report states 'We were able to identify one reported UAP with high confidence. In that case, we identified the object as a large, deflating balloon. The others remain unexplained.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-08cf5b4ddb",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "Anomalous-performance finding: 'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics. Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion. In a small number of cases, military aircraft systems processed radio frequency (RF) energy associated with UAP sightings.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-907acdd90b",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "The report declines a single explanation, offering instead 'five potential explanatory categories: airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catchall \"other\" bin.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-0dcff29521",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "The report names stigma as a collection obstacle: 'Sociocultural stigmas and sensor limitations remain obstacles to collecting data on UAP.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-59fb10e394",
 "source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "The assessment reported 144 UAP incidents from USG sources, of which only one could be explained with high confidence.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f98843763f",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "It reported that in 18 incidents observers described unusual movement or flight characteristics.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-99742da659",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "It attributed the inability to resolve cases to limited and inconsistent data collection and reporting rather than to any positive identification.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ebf51aa056",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "It reported that in 18 incidents observers described unusual movement or flight characteristics, including apparent stationarity in winds aloft, movement against the wind, abrupt manoeuvres and considerable speed without discernible propulsion.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1939db02a7",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "It attributed the inability to resolve cases to limited and inconsistent data collection and reporting, not to any positive identification.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

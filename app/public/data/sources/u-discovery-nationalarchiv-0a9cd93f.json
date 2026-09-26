@@ -1,0 +1,45 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-9f53efd21d",
+"locator": null,
+"node": "jaric",
+"nodeLabel": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"sourceText": "The National Archives Discovery catalogue record for DEFE 24/1940/1, https://discovery.nationalarchives.gov.uk/API/records/v1/details/C10130124",
+"text": "A redacted digital copy of the file has been open since 2008. DEFE 24/1940/1, 'Digital copy of DEFE 24/1940: UFO reports; with redactions', 1 August 1990 to 31 January 1991, is closure status open, flagged digitised, with a record opening date of 20 October 2008.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-discovery-nationalarchiv-0a9cd93f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [
+{
+"cls": "institution",
+"id": "jaric",
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)"
+}
+],
+"node": null,
+"title": "The National Archives Discovery catalogue record, DEFE 24/1940/1, digital copy with redactions",
+"topics": [
+{
+"claims": [
+"c-9f53efd21d"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
+"type": "web page",
+"urls": [
+"https://discovery.nationalarchives.gov.uk/API/records/v1/details/C10130124"
+]
+}

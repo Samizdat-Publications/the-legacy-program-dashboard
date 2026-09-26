@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-liberationtimes-com-10d3f35d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [
+{
+"cls": "person",
+"id": "christopher-sharp",
+"label": "Christopher Sharp"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "Christopher Sharp, 'US Establishes New Interagency UAP Governance Board To Coordinate Investigations And Declassification, ' Liberation Times",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.liberationtimes.com/home/us-establishes-new-interagency-uap-governance-board-to-coordinate-investigations-and-declassification"
+]
+}

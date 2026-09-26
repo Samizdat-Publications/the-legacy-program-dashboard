@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mark-milley",
+"label": "Mark A. Milley"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-dba8386fcd",
+"label": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup",
+"note": "Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-294914f8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean"
+},
+{
+"cls": "person",
+"id": "mark-milley",
+"label": "Mark A. Milley"
+}
+],
+"node": null,
+"title": "Wikipedia - David Grusch UFO whistleblower claims (sourcing and publication history)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"
+]
+}

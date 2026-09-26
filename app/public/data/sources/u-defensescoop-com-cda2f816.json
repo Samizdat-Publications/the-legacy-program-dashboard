@@ -1,0 +1,268 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-401e1ba440",
+"locator": null,
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"sourceText": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Hegseth: 'I don't want to over-promise and under-deliver. So, we're going to take a little time.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-c60f8a3aec",
+"locator": null,
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"sourceText": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Pentagon spokesperson Sue Gough confirmed AARO has examined over 2,000 UAP cases, with approximately 1,000 reports lacking sufficient data retained in an Active Archive.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-ff2ad25955",
+"locator": null,
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"sourceText": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-c958c68b92",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Kosloski is not publicly quoted in any of the 2026 disclosure reporting - the presidential direction, Hegseth's statements, the PURSUE releases, the NDA-waiver memorandum or the Science Advisory Council announcement. Reasoning: across the DefenseScoop, war.gov, Black Vault and Sol Foundation reporting reviewed for this domain, the Department's spokespeople (Parnell, Gough, Wilson) speak and the AARO director does not.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-2f334000a3",
+"locator": null,
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"sourceText": "DefenseScoop, 25 February 2026",
+"text": "Hegseth committed the Department to work closely with ODNI to implement the release effort.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8e3e0cf993",
+"locator": null,
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"sourceText": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
+"text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-dfa877dc23",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "DefenseScoop, 25 February 2026",
+"text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-da44f655dd",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "No signed executive order on UAP declassification exists in the public record as of 12 August 2026, despite Hegseth referring on 23 February 2026 to 'that executive order'. Reasoning: contemporaneous reporting describes a Truth Social post; the ODNI implementing memorandum cites 'Presidential Direction' without an order number.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-138447a3b5",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
+"text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2af2487930",
+"locator": null,
+"node": "tulsi-gabbard",
+"nodeLabel": "Tulsi Gabbard",
+"sourceText": "DefenseScoop, 25 February 2026",
+"text": "Hegseth stated the Department would work closely with ODNI to implement the release effort.",
+"tier": 2
+}
+],
+"date": "2026-02-25",
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "hegseth-uap-statements-2026",
+"label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 3,
+"id": "e-2795b20cb0",
+"label": "characterises a social-media post as an executive order",
+"note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 2,
+"id": "e-dfd399cc1a",
+"label": "Named implementer; called it 'that executive order'",
+"note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-91af0f2574",
+"label": "Releasing authority; signed transparency statement on the portal",
+"note": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-fe98664395",
+"label": "OSD Public Affairs handled AARO press matters; the office had no dedicated spokesperson",
+"note": "Gough's February 2026 figures mean roughly half of AARO's holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"claimTier": 2,
+"id": "e-944d113463",
+"label": "Department says it has no record of the programme",
+"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"type": "denial"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-cda2f816",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+{
+"cls": "event",
+"id": "hegseth-uap-statements-2026",
+"label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+{
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+{
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+{
+"cls": "person",
+"id": "tulsi-gabbard",
+"label": "Tulsi Gabbard"
+}
+],
+"node": null,
+"title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000",
+"topics": [
+{
+"claims": [
+"c-401e1ba440",
+"c-ff2ad25955",
+"c-8e3e0cf993"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-dfa877dc23",
+"c-da44f655dd"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-138447a3b5"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+]
+}

@@ -10,32 +10,66 @@
 {
 "id": "c-0678c85bf3",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The DIA letter of 9 January 2018 lists the high-energy laser weapons paper twice: item 37, \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the unclassified version by the same author.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4dfd1e9f67",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-ufos-scientificresearch--67d23c6a",
+"locator": null,
+"title": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment"
+}
+],
 "text": "The earlier KLAS-TV list gave item 25 as \"Laser Weapons, J Albertine, M.S., Directed Technologies\" and left the 38th DIRD as \"Redacted.\" The DIA letter resolved the redacted item as the classified version of the same laser paper.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-dac271563e",
 "source": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full",
+"sources": [
+{
+"id": "u-spiedigitallibrary-org-9f609c57",
+"locator": null,
+"title": "John R. Albertine, \"Special Section Guest Editorial: High-Energy Laser Systems and Components, \" Optical Engineering 52(2), 021001 (biographical note)"
+}
+],
 "text": "John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's in applied physics from Johns Hopkins; he was a senior staff physicist at the Johns Hopkins Applied Physics Laboratory Space Division and from 1976 to 1997 worked in the US Navy High Energy Laser Program Office, consulting afterwards for OSD, the Air Force, ONR and the Navy HEL programme office.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8bebdb71dc",
 "source": "No attributed source on file",
+"sources": [],
 "text": "The identification of the DIA-listed \"J Albertine, M.S., Directed Technologies\" with John R. Albertine of the Navy HEL programme is an inference from the shared field, the matching M.S. credential and the consulting career, not a documented match. No source consulted names John R. Albertine as an employee of Directed Technologies or as an AAWSAP author.",
-"tier": 3
+"tier": 3,
+"unresolved": "no source recorded"
 },
 {
 "id": "c-edc1b30444",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+"sources": [
+{
+"id": "n-dird-state-of-the-art-and-evolution",
+"locator": null,
+"title": "State of the Art and Evolution of High-Energy Laser Weapons"
+}
+],
 "text": "The released unclassified version reads \"31 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-019,\" Acquisition Threat Support series, author line redacted under (b)(6). Note that the DIA list title reads \"Evaluation\" where the released document reads \"Evolution.\"",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

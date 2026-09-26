@@ -7,26 +7,58 @@
 {
 "id": "c-f2a88a8c93",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"sources": [
+{
+"id": "n-odni-memo-es-2026-00818",
+"locator": null,
+"title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+}
+],
 "text": "ODNI ES 2026-00818 names a 'PURSUE Task Force' with a 'review and declassification' function to which all IC UAP information is to be released.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-80efea5936",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"sources": [
+{
+"id": "n-odni-memo-es-2026-00818",
+"locator": null,
+"title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+}
+],
 "text": "Every IC element must establish a 'PURSUE designee' within 30 days in coordination with ODNI; witnesses are told to report to AARO 'or to an authorized PURSUE representative.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ca4fa52641",
 "source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"sources": [
+{
+"id": "u-burlison-house-gov-8643d669",
+"locator": null,
+"title": "Burlison statement on the UAP NDA directive"
+}
+],
 "text": "Burlison: 'Independent congressional oversight is a critical part of UAP disclosure, and we are uncertain whether the abrogation of NDAs will apply to testimony received by Congress before referral to the executive branch.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e0c8062314",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"sources": [
+{
+"id": "n-odni-memo-es-2026-00818",
+"locator": null,
+"title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+}
+],
 "text": "No charter, executive order, roster, chair, budget line or location for the PURSUE Task Force is public as of 12 August 2026. Reasoning: it appears in the ODNI memorandum and in derivative reporting, and on no published organisational instrument at war.gov, aaro.mil, dni.gov or whitehouse.gov.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

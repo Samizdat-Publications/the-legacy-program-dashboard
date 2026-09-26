@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-documents2-theblackvault-b597f1cf",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+}
+],
+"node": null,
+"title": "DIRD bulk download (DIRDs 1-37)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/AAWSAP-DIRDs-1-37.zip"
+]
+}

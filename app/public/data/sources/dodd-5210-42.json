@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "dodd-5210-42",
+"identifiers": [
+"DoDD 5210.42"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "program",
+"id": "prp-nuclear-weapon",
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)"
+}
+],
+"node": null,
+"title": "DoDD 5210.42",
+"topics": [],
+"type": "regulation",
+"urls": []
+}

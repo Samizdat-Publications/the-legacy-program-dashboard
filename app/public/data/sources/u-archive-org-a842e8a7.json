@@ -1,0 +1,37 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-46c4989b48",
+"locator": null,
+"node": "bluegill-triple-prime",
+"nodeLabel": "Bluegill Triple Prime",
+"sourceText": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency, https://archive.org/download/DTIC_ADA122341/DTIC_ADA122341_djvu.txt",
+"text": "DNA 6039F is not the FISHBOWL report. Its cover and Report Documentation Page both read 'OPERATION ARGUS 1958'. FISHBOWL appears instead in DNA 6040F's own keyword list.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-a842e8a7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime"
+}
+],
+"node": null,
+"title": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/download/DTIC_ADA122341/DTIC_ADA122341_djvu.txt"
+]
+}

@@ -7,38 +7,50 @@
 {
 "id": "c-79bb1bb7f3",
 "source": "Fox News, 21 July 2026",
+"sources": [],
 "text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorized investigators; a senior official said prior NDAs can be abrogated for those cooperating through proper channels.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-form) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-645d940fc6",
 "source": "Fox News, 21 July 2026",
+"sources": [],
 "text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-form) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-8ddd221f0e",
 "source": "Rep. Eric Burlison official press release, 29 July 2026",
+"sources": [],
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - with an offer of assistance and a recommendation that participants request congressional presence and counsel.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement) was rejected in review: date only; candidate lacks date, two NDA-directive releases exist"
 },
 {
 "id": "c-d5eacacf83",
 "source": "Fox News, 21 July 2026",
+"sources": [],
 "text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-form) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-28a5a795e0",
 "source": "Rep. Eric Burlison official press release, 29 July 2026",
+"sources": [],
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - Burlison, offering his office as a channel and recommending congressional presence and counsel.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement) was rejected in review: date only; candidate lacks date, two NDA-directive releases exist"
 },
 {
 "id": "c-9177d5f4a4",
 "source": "Inference from the directive's stated mechanism against the documented outcome of Grusch's ICIG-channel disclosure",
+"sources": [],
 "text": "A waiver that runs only to cleared government investigators reproduces the exact structure that failed in the Grusch case: the witness is unbound only inside the channel controlled by the institution the witness is accusing.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",
@@ -263,7 +275,7 @@
 ],
 "sub": "Reported July 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 289 of 1138, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 291 of 1138, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

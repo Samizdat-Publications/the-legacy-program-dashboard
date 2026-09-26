@@ -1,0 +1,103 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+"b": {
+"cls": "document",
+"id": "odni-preliminary-assessment-2021",
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+},
+"claimTier": 1,
+"id": "e-8b2b7fe763",
+"label": "Sixteen years of silence is the stigma the assessment describes",
+"note": "Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.'",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-eb24f486d7",
+"label": "Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes",
+"note": "Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+"b": {
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+"claimTier": 1,
+"id": "e-e24499bdbf",
+"label": "Section lead and wingman on the same intercept",
+"note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-cbsnews-com-9efe6423",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CBS News",
+"listedOn": [
+{
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich"
+},
+{
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor"
+},
+{
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+{
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+{
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+}
+],
+"node": null,
+"title": "CBS News / 60 Minutes",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+]
+}

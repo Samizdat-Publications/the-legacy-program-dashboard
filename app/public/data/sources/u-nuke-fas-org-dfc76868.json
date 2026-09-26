@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-nuke-fas-org-dfc76868",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "program",
+"id": "prp-nuclear-weapon",
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)"
+}
+],
+"node": null,
+"title": "DoD Directive 5210.42 through Change 2, FAS transcription",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://nuke.fas.org/guide/usa/doctrine/dod/dodd-5210_42.htm"
+]
+}

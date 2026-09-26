@@ -7,26 +7,68 @@
 {
 "id": "c-ba5de57c5f",
 "source": "S. 2226 as engrossed, Sec. 9009(c)(3)(B), GPO",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": "Sec. 9009(c)(3)(B)",
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Sec. 9009(c)(3) required a 'benchmark-driven plan... recommending precise requirements for periodic review, downgrading, and declassification as well as the exact time or specified occurrence following which each postponed item may be appropriately disclosed to the public.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e740b10fbc",
 "source": "S. 2226 as engrossed, Sec. 9009(c)(3), GPO",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": "Sec. 9009(c)(3)",
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "The Plan expressly covered postponed 'recovered technologies of unknown origin, and biological evidence for non-human intelligence,' not merely records.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a34cb5c858",
 "source": "S. 2226 as engrossed, Sec. 9009(b)(5)-(6), GPO",
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": "Sec. 9009(b)(5)-(6)",
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Sec. 9009(b)(6) required the Review Board to brief the All-domain Anomaly Resolution Office on the Plan at least 90 days before terminating.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7892db4a39",
 "source": "Full-text search of P.L. 118-31, P.L. 118-159 and P.L. 119-60, GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "P.L. 118-159 and P.L. 119-60, GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+{
+"id": "pl-118-159",
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+},
+{
+"id": "pl-119-60",
+"locator": "GPO",
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "No enacted statute mentions a Controlled Disclosure Campaign Plan.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

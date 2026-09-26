@@ -1,0 +1,85 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c1611be2e0",
+"locator": null,
+"node": "arthur-g-trudeau",
+"nodeLabel": "Lt. Gen. Arthur G. Trudeau",
+"sourceText": "DA Form 66, Officer's Qualification Record, Philip J. Corso, already carried on this board at philip-corso",
+"text": "Corso's own DA Form 66 records 'Chief Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, a period falling entirely inside Trudeau's documented tenure as Chief of Research and Development.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-23bc941c7b",
+"locator": "Record of Assignments",
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "DA Form 66, Officer's Qualification Record, Philip J. Corso, Record of Assignments",
+"text": "The same form places Corso at 'The Ground Gen Sch, Ft Riley, Kansas' from 21 April 1947, and records 'Intel Staff O ... 8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954 to 1957.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-620c52e8ee",
+"locator": null,
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "DA Form 66, Officer's Qualification Record, Philip J. Corso, released by US Army Reserve Personnel Command April 1998; signed by Corso 20 October 1966",
+"text": "Corso's DA Form 66 records 'Chief, Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, and a move to 'Staff O, Plans Div' on 18 July 1962 -- a three-month chieftaincy, following a year as a staff officer in the same division from 20 July 1961.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "philip-corso",
+"label": "Philip J. Corso"
+},
+"b": {
+"cls": "location",
+"id": "l-dc",
+"label": "Washington, D.C."
+},
+"claimTier": 1,
+"id": "e-637132b95a",
+"label": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
+"note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-f0eebc18",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "philip-corso",
+"label": "Philip J. Corso"
+}
+],
+"node": null,
+"title": "DA Form 66, Officer's Qualification Record, Philip J. Corso",
+"topics": [
+{
+"claims": [
+"c-c1611be2e0",
+"c-23bc941c7b",
+"c-620c52e8ee"
+],
+"id": "corso-day-after",
+"title": "Philip Corso's account"
+}
+],
+"type": "document",
+"urls": [
+"https://www.theblackvault.com/documents/ufos/corso/corso.pdf"
+]
+}

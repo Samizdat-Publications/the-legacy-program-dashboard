@@ -7,26 +7,63 @@
 {
 "id": "c-98da3cd848",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+}
+],
 "text": "THE WING HISTORY DID NOT RECORD IT AND THE WING HISTORIAN SAID SO IN WRITING. SSgt Paul J. Cahill, 379th Bombardment Wing historian, Research Record of Events, 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cb0d7857b7",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"id": "u-nicap-org-ed3c79f2",
+"locator": null,
+"title": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+}
+],
 "text": "Capt. Myron Taylor's Memo for the Record of 18 January 1979 to SSgt Cahill gives the KC-135 crew's account and names the crew. Taylor: 'We followed the lights north out over Lake Huron and then the UFO swung south still over the lake toward the Saginaw Bay area of Michigan.' He records flashing lights similar to strobes flashing irregularly, two objects, and a separation speed estimated at about 1,000 knots.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-816a1da507",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+}
+],
 "text": "The NORAD Senior Director's Log for 31 October 1975 records: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b46d7c2e5e",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"sources": [
+{
+"id": "u-nicap-org-2b935c42",
+"locator": null,
+"title": "%201967%20NORAD%20logs_djvu.txt"
+}
+],
 "text": "An Air Force Intelligence Service Alert Officer's Log entry of 31 October 1975 records: 'Contacted DIA OPS center and informed them of unidentified flight activity over two SAC bases near Canadian border.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "event",

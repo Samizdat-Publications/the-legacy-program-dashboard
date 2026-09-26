@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-95afef1bbe",
+"locator": null,
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"sourceText": "Deadline, HarperCollins Acquires Rights To Bombshell Memoir From Jay Stratton, September 2024",
+"text": "HarperCollins imprint William Morrow acquired the memoir rights of the former director of the UAP Task Force in September 2024.",
+"tier": 1
+}
+],
+"date": "2024-09",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-d5e9c28c92",
+"label": "UAP Task Force Director tasked Grusch to identify all SAPs and CAPs (2019)",
+"note": "Grusch swore that in 2019 'the UAP Task Force Director asked me to identify all special access programs and controlled access programs... we needed to satisfy our congressionally mandated mission.' Stratton is the individual publicly identified as directing that effort in that period. Grusch has never made the identification himself, so this is a reasoned inference, not a documented one.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 2,
+"id": "e-fb726a3759",
+"label": "director of the UAP Task Force, 2020-2021",
+"note": "Stratton is publicly identified as UAPTF director in its operative period, including in his own public statements and in the 2024 announcement of his memoir.",
+"type": "institutional"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-deadline-com-1c2bcc07",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "deadline.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+}
+],
+"node": null,
+"title": "Deadline - HarperCollins Acquires Rights To Bombshell Memoir From Jay Stratton",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://deadline.com/2024/09/jay-stratton-uap-memoir-william-morrow-farah-films-acquire-rights-1236083182/"
+]
+}

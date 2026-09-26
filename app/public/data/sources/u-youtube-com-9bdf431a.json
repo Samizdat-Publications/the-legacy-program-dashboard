@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "dan-farah",
+"label": "Dan Farah"
+},
+"b": {
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+},
+"claimTier": 2,
+"id": "e-114f26be3a",
+"label": "Director and producer",
+"note": "Farah directed and produced the film that premiered at SXSW on 9 March 2025.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": "YouTube",
+"id": "u-youtube-com-9bdf431a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "dan-farah",
+"label": "Dan Farah"
+},
+{
+"cls": "document",
+"id": "age-of-disclosure",
+"label": "The Age of Disclosure (documentary, 2025)"
+}
+],
+"node": null,
+"title": "The Age of Disclosure - Official Trailer (2025)",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://www.youtube.com/watch?v=DkU7ZqbADRs"
+]
+}

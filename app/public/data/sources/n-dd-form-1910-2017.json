@@ -1,0 +1,84 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-1671cff26a",
+"locator": null,
+"node": "dd-form-1910-2017",
+"nodeLabel": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"sourceText": "DD Form 1910 released under FOIA, published by Blue Blurry Lines, 17 August 2019",
+"text": "Submitted by Luis D. Elizondo, Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved 24 August 2017, covering three .mpg files: GoFast, Gimbal and FLIR.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-31277f4a05",
+"locator": null,
+"node": "dd-form-1910-2017",
+"nodeLabel": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"sourceText": "DD Form 1910, FOIA release",
+"text": "States the purpose as 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-073d29b678",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019",
+"text": "He personally submitted the DD Form 1910 on 9 August 2017 requesting clearance of the GoFast, Gimbal and FLIR video files; it was approved 24 August 2017. The stated purpose was 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
+"tier": 1
+}
+],
+"date": "2017",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "n-dd-form-1910-2017",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": {
+"cls": "document",
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+"title": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"topics": [
+{
+"claims": [
+"c-1671cff26a",
+"c-31277f4a05"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-1671cff26a",
+"c-31277f4a05"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-073d29b678"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-073d29b678"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+}
+],
+"type": "document",
+"urls": []
+}

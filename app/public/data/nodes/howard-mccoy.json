@@ -29,20 +29,38 @@
 {
 "id": "c-f35d9da38e",
 "source": "NICAP document archive, file 471124_McCoy_to_Chief_of_Staff.pdf, indexed in the public NICAP /docs/ directory",
+"sources": [
+{
+"id": "u-nicap-org-2f211b82",
+"locator": null,
+"title": "AMC letter to Chief of Staff, 24 November 1947 (scan)"
+}
+],
 "text": "A 24 November 1947 letter from AMC intelligence to the Air Force Chief of Staff on the flying disc problem exists and is preserved in scanned form.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-6507e8606c",
 "source": "Condon Report Sec. V Ch. 2 and Ruppelt, 'The Report on Unidentified Flying Objects' (1956), on the AMC/ATIC chain",
+"sources": [],
 "text": "McCoy was Chief of Intelligence at Air Materiel Command, the organisation that would have received any recovered material, and was the operational supervisor of Project SIGN.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: compound citation of two separate publications, Ruppelt book not catalogued"
 },
 {
 "id": "c-c3a89b98bc",
 "source": "Inference from the scope limits of GAO/NSIAD-95-187, which searched RAAF and headquarters records, not AMC T-2 holdings",
+"sources": [
+{
+"id": "gao-nsiad-95-187",
+"locator": "which searched RAAF and headquarters records, not AMC T-2 holdings",
+"title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+}
+],
 "text": "AMC T-2 intelligence files for 1947-1949 are the single most likely surviving custody record for any recovered materiel, and no comprehensive declassification review of that series has ever been reported.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "person",

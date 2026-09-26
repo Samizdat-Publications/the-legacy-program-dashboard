@@ -1,0 +1,146 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7f61a286bd",
+"locator": null,
+"node": "allen-w-dulles",
+"nodeLabel": "Allen W. Dulles",
+"sourceText": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET / Security Information, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+"text": "The same letters distance the Agency from the subject in the same breath: 'Although this Agency does not consider problems arising from sightings of \"flying saucers\" primarily its concern, we shall be pleased to assist in any appropriate action that you deem advisable.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9433a9eae1",
+"locator": "044-8 and -045-7",
+"node": "allen-w-dulles",
+"nodeLabel": "Allen W. Dulles",
+"sourceText": "Allen W. Dulles, three letters of 13 March 1953, CIA-RDP80B01676R001000160043-9, -044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+"text": "On 13 March 1953 Dulles forwarded the Robertson Panel report to three agencies over his own signature, describing it as pointing out 'certain potential dangers to national security which are related to the subject and suggest ways of their elimination.' The three addressees are the Secretary of Defense, the Acting Administrator of the Federal Civil Defense Administration and the Vice Chairman of the National Security Resources Board, which are exactly the three IAC-D-67 had proposed on 18 February 1953.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9433a9eae1",
+"locator": null,
+"node": "allen-w-dulles",
+"nodeLabel": "Allen W. Dulles",
+"sourceText": "Allen W. Dulles, three letters of 13 March 1953, CIA-RDP80B01676R001000160043-9, -044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+"text": "On 13 March 1953 Dulles forwarded the Robertson Panel report to three agencies over his own signature, describing it as pointing out 'certain potential dangers to national security which are related to the subject and suggest ways of their elimination.' The three addressees are the Secretary of Defense, the Acting Administrator of the Federal Civil Defense Administration and the Vice Chairman of the National Security Resources Board, which are exactly the three IAC-D-67 had proposed on 18 February 1953.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c88d9b880b",
+"locator": null,
+"node": "walter-bedell-smith",
+"nodeLabel": "Walter Bedell Smith",
+"sourceText": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+"text": "The CIA attributed the Robertson Panel to him in writing. Allen W. Dulles, transmitting the panel report on 13 March 1953: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-e3b6e1564e",
+"label": "Director of Central Intelligence, signing as Director on Office of the Director paper",
+"note": "All three 13 March 1953 letters are on Central Intelligence Agency, Office of the Director letterhead and are signed 'Allen W. Dulles, Director'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-69e7342db5",
+"label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+"note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 1,
+"id": "e-895ded2e05",
+"label": "Convened at his direction",
+"note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "cia-rdp80b01676r001000160043-9",
+"identifiers": [
+"CIA-RDP80B01676R001000160043-9"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+{
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith"
+}
+],
+"node": null,
+"title": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
+"topics": [
+{
+"claims": [
+"c-7f61a286bd",
+"c-9433a9eae1",
+"c-9433a9eae1",
+"c-c88d9b880b"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+},
+{
+"claims": [
+"c-7f61a286bd",
+"c-9433a9eae1",
+"c-9433a9eae1"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+]
+}

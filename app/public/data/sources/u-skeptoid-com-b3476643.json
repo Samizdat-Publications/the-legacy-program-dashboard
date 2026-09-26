@@ -1,0 +1,50 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-9928f94b6c",
+"locator": null,
+"node": "dulce-base",
+"nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"sourceText": "Brian Dunning, Skeptoid 391, 3 December 2013, https://skeptoid.com/episodes/4391 , opened 2026-09-19",
+"text": "THE IMAGERY NEGATIVE, DATED. Brian Dunning, Skeptoid episode 391 of 3 December 2013: 'It's trivial to study Google Earth images of Archuleta Mesa and see that there's nothing there at all, certainly nothing like Schneider's elaborate descriptions.' He classifies the base as fictional. Its own reference list for Dulce is a single blog post, which bounds how much weight the episode can carry.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-skeptoid-com-b3476643",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "skeptoid.com",
+"listedOn": [
+{
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+{
+"cls": "person",
+"id": "phil-schneider",
+"label": "Philip Schneider"
+}
+],
+"node": null,
+"title": "Brian Dunning, Skeptoid episode 391, '8 Secret bases: Real or fictional'",
+"topics": [
+{
+"claims": [
+"c-9928f94b6c"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+}
+],
+"type": "web page",
+"urls": [
+"https://skeptoid.com/episodes/4391"
+]
+}

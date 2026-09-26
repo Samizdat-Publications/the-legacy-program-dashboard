@@ -1,0 +1,91 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-63019abb86",
+"locator": null,
+"node": "minot-1968",
+"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
+"sourceText": "NICAP/Project 1947 RADCAT case directory, citing the Blue Book file and unit reporting",
+"text": "Minuteman ICBM sites of N, O, J and M Flights, 91st Strategic Missile Wing, reported sightings and electromagnetic effects including security alarms activated at outer and inner silo rings, an outer door opened and the combination lock of an inner door moved.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-80553bc19f",
+"locator": "Fran Ridge editorial note",
+"node": "minot-1968",
+"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
+"sourceText": "NICAP/Project 1947 RADCAT case directory, Fran Ridge editorial note, updated 24 November 2010",
+"text": "Dan Wilson located 108 documents on the case for RADCAT; NARCAP identified 141; Project Blue Book did not send field investigators despite the interest of Strategic Air Command generals including 15th Air Force's Maj. Gen. Nichols.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 1,
+"id": "e-cf9252015a",
+"label": "Minot 1968 extends the pattern with instrumented detection",
+"note": "Where Malmstrom 1967 is a documented shutdown with contested causation, Minot 1968 adds ground radar, airborne radar, weather radar, visual observation, a four-minute radio failure and physical security alarms at Minuteman silos.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-3ad3b3a25b",
+"label": "Blue Book declined to field-investigate an instrumented nuclear-site case",
+"note": "The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-nicap-org-45f62db0",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+}
+],
+"node": null,
+"title": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
+"topics": [
+{
+"claims": [
+"c-63019abb86",
+"c-80553bc19f"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.nicap.org/681024minot_dir.htm"
+]
+}

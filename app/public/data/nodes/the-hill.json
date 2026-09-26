@@ -7,8 +7,16 @@
 {
 "id": "c-5eab078062",
 "source": "The Hill search index, retrieved 12 August 2026",
+"sources": [
+{
+"id": "t-9994817a3a50",
+"locator": null,
+"title": "The Hill search index"
+}
+],
 "text": "The Hill has published a run of UAP opinion pieces in its national security and technology sections, with live URLs confirmed via The Hill's own search index.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",

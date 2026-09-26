@@ -1,0 +1,250 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-51bb71006f",
+"locator": null,
+"node": "dulce-base",
+"nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"sourceText": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "THE NAMED LOCAL NEGATIVE. Norio Hayakawa, who has worked the Dulce question since 1988 and is a proponent of investigating the subject rather than a professional debunker, states on his own site: 'it does not seem to exist'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e9d4278181",
+"locator": null,
+"node": "john-lear",
+"nodeLabel": "John Olsen Lear",
+"sourceText": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Lear heard of Dulce from a woman named as 'Ann West' and developed his Dulce hypothesis in 1988, in the dated chronology of the cluster's originators. The same name appears in Tal Levesque's November 2015 confession as the raw material from which he composed the two original Dulce Base articles.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-238bf61aa6",
+"locator": null,
+"node": "norio-hayakawa",
+"nodeLabel": "Norio Hayakawa",
+"sourceText": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "THE DATED CHRONOLOGY OF THE CLUSTER'S ORIGINATORS. Bennewitz from about 1979; Myrna Hansen's 1980 claim, which Bennewitz later connected to Dulce; Tom Adams in the early 1980s through cattle-mutilation work around 1981; John Lear in 1988, who heard of Dulce from 'Ann West'; and Phil Schneider, not part of the initial rumours, emerging only in 1995.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2ea824b8be",
+"locator": null,
+"node": "norio-hayakawa",
+"nodeLabel": "Norio Hayakawa",
+"sourceText": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Hayakawa's own stated conclusion about the alleged Dulce facility, on his own site: 'it does not seem to exist'. He has worked the question since 1988.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-938811e50f",
+"locator": null,
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"sourceText": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Bennewitz is the origin point of the Dulce claim, from about 1979, in the dated chronology of the cluster's originators. Myrna Hansen's 1980 abduction claim was connected to Dulce by Bennewitz after he had begun to suspect a facility there.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-92f3a14e6d",
+"locator": null,
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"sourceText": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Schneider was not part of the initial Dulce rumours and emerged only in 1995, according to Norio Hayakawa's dated chronology of the cluster's originators, which places the initial rumours between about 1979 and the early 1980s.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-55bb6e414a",
+"locator": null,
+"node": "thomas-castello",
+"nodeLabel": "Thomas Edwin Castello (fabricated)",
+"sourceText": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "A further negative exists and is recorded here only so that it is not later mistaken for a check. Norio Hayakawa wrote on 29 August 2016 that an 'alleged' retired Air Force colonel told him no Thomas Edwin Castello was ever employed as security personnel at Dulce. The source is anonymous and Hayakawa brackets him in his own quotation marks.",
+"tier": 3
+}
+],
+"date": "2016-08-29",
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"b": {
+"cls": "location",
+"id": "l-dulce",
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico"
+},
+"claimTier": 3,
+"id": "e-a428cada6b",
+"label": "The claim points at real ground",
+"note": "Tier 3 because the siting is the claim's own assertion and nothing else. The place node is kept separate from the claim node deliberately, and no archuleta-mesa node should be created: the mesa is carried in the location node's label.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"b": {
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management"
+},
+"claimTier": 2,
+"id": "e-c711784f2e",
+"label": "Downstream of the Kirtland operation, which is this domain's best-known case",
+"note": "The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-553a492ddb",
+"label": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
+"note": "Hayakawa's chronology dates Lear's hypothesis to 1988 and names his source as Ann West, the same name Levesque gives as the raw material of the original articles. Two entry points into the literature appear to run back through one person.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "norio-hayakawa",
+"label": "Norio Hayakawa"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-8dceeb037c",
+"label": "Thirty-eight years on the question, concluding 'it does not seem to exist'",
+"note": "Typed investigative rather than denial because it is a researcher's negative finding rather than an interested party's rebuttal. Hayakawa is a proponent of investigating the subject, not a professional debunker of it, which is what makes the negative worth more than a debunker's. Self-published, so Tier 2.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-020103d0b1",
+"label": "Origin point of the Dulce claim, from about 1979",
+"note": "Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster's originators, and he connected Myrna Hansen's 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "phil-schneider",
+"label": "Philip Schneider"
+},
+"b": {
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"claimTier": 2,
+"id": "e-6077c17591",
+"label": "Supplies every specific number in the modern claim, 8 May 1995",
+"note": "Seven levels, over 2.5 miles deep, a firefight in which he says he shot two aliens and roughly seventy people died. He was not part of the initial rumours and arrived about fifteen years after they began. Transcript hosted without a named transcriber; the lecture recording carries no captions.",
+"type": "witness-chain"
+}
+],
+"era": "2",
+"host": null,
+"id": "u-noriohayakawa-wordpress--9f82f444",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "noriohayakawa.wordpress.com",
+"listedOn": [
+{
+"cls": "location",
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+{
+"cls": "person",
+"id": "john-lear",
+"label": "John Olsen Lear"
+},
+{
+"cls": "person",
+"id": "norio-hayakawa",
+"label": "Norio Hayakawa"
+},
+{
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+{
+"cls": "person",
+"id": "phil-schneider",
+"label": "Philip Schneider"
+},
+{
+"cls": "person",
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+{
+"cls": "person",
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+}
+],
+"node": null,
+"title": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"topics": [
+{
+"claims": [
+"c-51bb71006f",
+"c-e9d4278181",
+"c-238bf61aa6",
+"c-2ea824b8be",
+"c-938811e50f",
+"c-55bb6e414a"
+],
+"id": "dulce",
+"title": "Dulce Base: an allegation and its origins"
+},
+{
+"claims": [
+"c-51bb71006f"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "article",
+"urls": [
+"https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+]
+}

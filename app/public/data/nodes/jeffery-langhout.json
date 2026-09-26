@@ -18,20 +18,38 @@
 {
 "id": "c-8592babaf2",
 "source": "CRADA document released by U.S. Army CCDC, reported by The War Zone, 18 October 2019",
+"sources": [],
 "text": "Signed the TTSA CRADA on 10 October 2019 as Director of the Army Ground Vehicle Systems Center.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:ttsa-army-crada) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-8c3059d6c7",
 "source": "U.S. Army, 17 January 2021 https://www.army.mil/article/242480/langhout_returns_to_helm_aviation_missile_center",
+"sources": [
+{
+"id": "u-army-mil-083d760d",
+"locator": null,
+"title": "U.S. Army, 'Langhout returns to helm Aviation, Missile Center', 17 January 2021"
+}
+],
 "text": "The Army's own announcement records that Langhout 'served in a variety of leadership roles at AvMC from April 2013 to October 2018, when he became the director of the DEVCOM Ground Vehicle Systems Center in Warren, Michigan' (the article prints his surname as 'Langout' at that point), and that he 'assumed the duties of DEVCOM Aviation & Missile Center director Jan. 17' 2021.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d2c009a076",
 "source": "U.S. Army, 17 January 2021 https://www.army.mil/article/242480/langhout_returns_to_helm_aviation_missile_center ; CRADA itself per the existing twz.com citation",
+"sources": [
+{
+"id": "u-army-mil-083d760d",
+"locator": null,
+"title": "U.S. Army, 'Langhout returns to helm Aviation, Missile Center', 17 January 2021"
+}
+],
 "text": "His AvMC leadership from April 2013 spans the October 2017 CRADA with To The Stars Academy, which the board records him signing for the Army. The Army article does not mention the CRADA; it establishes only that he held leadership roles there across that period.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

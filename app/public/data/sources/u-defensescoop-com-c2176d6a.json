@@ -1,0 +1,74 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-1aaf5bc83f",
+"locator": null,
+"node": "alien-gov-domains-2026",
+"nodeLabel": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"sourceText": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"text": "White House spokeswoman Anna Kelly's comment on the registrations: 'Stay tuned!' with an alien emoji. CISA's Chris Butera: 'CISA does not generally review or audit how government organizations use their registered domains.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-680997bc65",
+"locator": null,
+"node": "alien-gov-domains-2026",
+"nodeLabel": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"sourceText": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"text": "alien.gov and aliens.gov were registered by the White House on the evening of 17 March 2026; neither was connected to an active website as of 18 March 2026.",
+"tier": 2
+}
+],
+"date": "2026-03-18",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "alien-gov-domains-2026",
+"label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-8c0f7b4070",
+"label": "contemplated branding not used",
+"note": "The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War's estate instead.",
+"type": "temporal"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-c2176d6a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "document",
+"id": "alien-gov-domains-2026",
+"label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)"
+}
+],
+"node": null,
+"title": "DefenseScoop, alien .gov domains",
+"topics": [
+{
+"claims": [
+"c-1aaf5bc83f",
+"c-680997bc65"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+}
+],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/"
+]
+}

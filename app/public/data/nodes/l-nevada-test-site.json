@@ -7,20 +7,38 @@
 {
 "id": "c-9943137fe1",
 "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-19ec11cd",
+"locator": null,
+"title": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood"
+}
+],
 "text": "THE EARLIER GEOGRAPHY OF THE LAZAR CLAIM, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990, reporting his sentencing, describes his claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a Department of Energy site, and it is a different named place from Papoose Lake on the Air Force range, where the claim later settled.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b3ba5d9c80",
 "source": "OSTI.GOV, Nevada Test Site Environmental Report 2005",
+"sources": [
+{
+"id": "u-osti-gov-c2fb7279",
+"locator": null,
+"title": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada"
+}
+],
 "text": "Bechtel Nevada and subsequently National Security Technologies, LLC appear as the management and operating research organisations of record on DOE Nevada Test Site technical reports.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9bb50adbc4",
 "source": "George Knapp, sworn testimony 9 September 2025 and Liberation Times, 28 February 2023",
+"sources": [],
 "text": "Al O'Donnell, described as the first general manager of EG&G in Nevada 'which managed the Nevada test site,' is the source of the recovered-saucer and live-being account.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-5) was rejected in review: names two sources; candidate is only one"
 }
 ],
 "cls": "location",

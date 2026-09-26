@@ -1,0 +1,39 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-fa39ba5965",
+"locator": null,
+"node": "national-security-act-1947",
+"nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceText": "National Security Act of 1947 sec. 201(a), 61 Stat. 499, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "THE ACT DID NOT CREATE THE DEPARTMENT OF DEFENSE, and the common claim that it did is wrong on the text. Section 201(a) reads 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof'. The renaming to Department of Defense came with the amendments of 10 August 1949, ch. 412, 63 Stat. 579.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "stat-61-499",
+"identifiers": [
+"61 Stat. 499"
+],
+"interestedParty": false,
+"issuer": "U.S. Congress",
+"listedOn": [],
+"node": null,
+"title": "61 Stat. 499",
+"topics": [
+{
+"claims": [
+"c-fa39ba5965"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "statute",
+"urls": []
+}

@@ -7,44 +7,100 @@
 {
 "id": "c-ab940c5c51",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "The FY2026 NDAA funding tables contain 25 line items titled 'CLASSIFIED PROGRAMS' totalling $95.786 billion requested and $95.907 billion authorized (computed directly from the enacted text, Division D).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-8d35f0649c",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "FY2026 NDAA line 077A, Other Procurement, Air Force, 'CLASSIFIED PROGRAMS': $26,920,092 thousand requested and authorized; the adjacent line 077 'SPECIAL UPDATE PROGRAM' carries $1,178,397 thousand.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-397ba5f508",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Classified RDT&E appears under Program Element number 9999999999: FY2026 line 293A (Air Force) $22,264,031 thousand requested, $22,385,031 thousand authorized; line 259A (Navy) $2,554,769 thousand; line 298A $8,276,313 thousand.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1957f520dc",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "FY2026 line 530A, Operation and Maintenance Defense-Wide, 'CLASSIFIED PROGRAMS': $22,750,830 thousand; line 590A, Operation and Maintenance Army: $2,385,523 thousand.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-18c1d71b36",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "Comparable totals computed from the enacted funding tables: FY2024 (P.L. 118-31) 22 rows, $86.574 billion requested / $86.912 billion authorized; FY2025 (P.L. 118-159) 24 rows, $89.566 billion / $88.682 billion; FY2026 (P.L. 119-60) 25 rows, $95.786 billion / $95.907 billion.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e218c5e35d",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "The FY2024 equivalent of the Air Force Other Procurement classified line was line 072A at $25,456,490 thousand; the FY2025 equivalent was line 064A at $25,476,312 thousand requested and $25,048,079 thousand authorized.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bab11365fa",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"sources": [
+{
+"id": "pl-119-60",
+"locator": null,
+"title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
+}
+],
 "text": "The $26.9 billion Other Procurement, Air Force classified line is the principal 'pass-through': it is carried on the Air Force's books and counted against the Air Force topline but is not the Air Force's money to spend. Reasoning: the sum vastly exceeds any plausible Air Force-controlled classified procurement requirement, the account has historically carried national reconnaissance funding, and the Air Force has repeatedly and publicly complained that its published topline overstates its actual resources by roughly this magnitude.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",

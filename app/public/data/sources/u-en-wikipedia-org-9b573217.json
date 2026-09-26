@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom"
+},
+"b": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"claimTier": 1,
+"id": "e-61cd7d9b46",
+"label": "incident location: Rendlesham Forest, Suffolk",
+"note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-en-wikipedia-org-9b573217",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Wikipedia",
+"listedOn": [],
+"node": null,
+"title": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://en.wikipedia.org/wiki/Rendlesham_Forest_incident"
+]
+}

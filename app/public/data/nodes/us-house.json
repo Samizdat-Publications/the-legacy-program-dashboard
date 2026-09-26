@@ -7,26 +7,58 @@
 {
 "id": "c-1ac30f5fe1",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Chairwoman Anna Paulina Luna stated on 9 September 2025: 'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-b2e834c6bd",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Representative Nancy Mace stated at the same hearing: 'only certain people know the name of the program, and if you do not know it, you cannot get the information.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7ff5893738",
 "source": "CHRG-119hhrg61718, 9 September 2025",
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "9 September 2025",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Chairwoman Luna stated: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fcd876daf1",
 "source": "House Oversight Committee hearing notice and transcript CHRG-118hhrg53022",
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "The 26 July 2023 House Oversight hearing took testimony from David Grusch, David Fravor and Ryan Graves before the Subcommittee on National Security, the Border, and Foreign Affairs in 2154 Rayburn.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -678,7 +710,7 @@
 ],
 "sub": "Lower chamber; venue of every public UAP hearing since 2023",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 295 of 1138, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 297 of 1138, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [],
 "unverified": []
 }

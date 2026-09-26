@@ -1,0 +1,41 @@
+{
+"archived": [
+"https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/"
+],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-dia-mil-d221c4c2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Defense Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+}
+],
+"node": null,
+"title": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)",
+"topics": [],
+"type": "web page",
+"urls": []
+}

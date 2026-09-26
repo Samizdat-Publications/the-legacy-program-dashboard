@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-twz-com-e610761d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [
+{
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)"
+},
+{
+"cls": "location",
+"id": "l-langley-afb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+}
+],
+"node": null,
+"title": "The War Zone - protective nets eyed for F-22s",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.twz.com/air/protective-nets-to-shield-f-22s-eyed-for-airbase-swarmed-by-mystery-drones"
+]
+}

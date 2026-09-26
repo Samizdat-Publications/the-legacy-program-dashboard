@@ -7,14 +7,30 @@
 {
 "id": "c-6070f27aaf",
 "source": "https://www.dodig.mil/reports.html/Article/4484312/the-fy-2025-dow-financial-statement-audit-explained-report-no-dowig-2026-081/",
+"sources": [
+{
+"id": "n-dowig-2026-081",
+"locator": null,
+"title": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
+}
+],
 "text": "DOWIG-2026-081 was published 12 May 2026 and summarises FY2025 audit results, identifying the organisations that most contributed to each material weakness.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-601da71d07",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"sources": [
+{
+"id": "n-dowig-2026-081",
+"locator": null,
+"title": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
+}
+],
 "text": "The report states 'In the last two quarters of FY 2025, the DoW's adjustments totaled more than $859 billion' without adequate supporting documentation, attributing contributions to Army, Air Force, Navy and DLA across general and working capital funds.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

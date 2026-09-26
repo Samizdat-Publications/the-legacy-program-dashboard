@@ -7,20 +7,38 @@
 {
 "id": "c-3a5c080b8c",
 "source": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+"sources": [
+{
+"id": "u-docs-house-gov-933b1a5f",
+"locator": null,
+"title": "HHRG-118-GO12 transcript"
+}
+],
 "text": "Cleared through the Defense Office of Prepublication and Security Review over approximately one year, per Elizondo's sworn testimony: 'what is in the book is what I was told I am allowed to talk about.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f32eab81cf",
 "source": "Wikipedia, Luis Elizondo, citing publisher and contemporaneous reviews",
+"sources": [
+{
+"id": "u-en-wikipedia-org-b2454470",
+"locator": null,
+"title": "Wikipedia, Luis Elizondo"
+}
+],
 "text": "Published August 2024 and debuted at number one on the New York Times bestseller list; claims include recovery of non-human bodies and a decades-long secret retrieval programme.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8396bdf916",
 "source": "Inference from the nature of DOPSR review and the Department's post-publication response",
+"sources": [],
 "text": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental decision that these specific assertions are not classified. Either the assertions are false, or they are true and unclassified — and the Department has never explained which.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "document",

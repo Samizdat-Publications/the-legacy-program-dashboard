@@ -10,32 +10,72 @@
 {
 "id": "c-20948c1f9a",
 "source": "otherhand.org, 'About me', https://otherhand.org/about-me/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-76d44bd8",
+"locator": null,
+"title": "otherhand.org, 'About me', identifying the author"
+}
+],
 "text": "His own identification and background, on his site's about page: he is Tom Mahood, he worked as a civil engineer and traffic engineer for Orange County, California, later City Traffic Engineer for Orange, and he holds a Master's degree in physics from Cal State Fullerton.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e69301fcde",
 "source": "Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-8d41f5af",
+"locator": null,
+"title": "Tom Mahood, 'Lazar Flaws - Education'"
+}
+],
 "text": "His conclusion on the credentials: 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' His investigation records that 'Standard inquiries have been made by George Knapp and Stanton Friedman and turned up nothing'; that Glenn Campbell in 1993 found no Lazar 'in any MIT student directory between 1978 and 1990'; and that Natalie Gilmore of Caltech Graduate Studies stated that Caltech 'does not currently have, nor has it ever had any sort of graduate degree in electronics or electronic technology'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-e5260345fb",
 "source": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-c91396fe",
+"locator": null,
+"title": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'"
+}
+],
 "text": "His 2018 retrospective concludes that there is 'nothing at Papoose Lake', that S-4 actually refers to a radar facility at the Tonopah Test Range, and that Lazar constructed the alien-craft narrative as a cover after security caught him bringing friends to watch classified tests in April 1989. It concedes in the same document that Lazar is 'amazingly believable', that Mahood initially found the story plausible before investigating the details, and that Lazar demonstrated real technical cleverness as a troubleshooter.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-13d8e1164c",
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-c91396fe",
+"locator": null,
+"title": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'"
+}
+],
 "text": "On the Los Alamos question he concludes that Lazar worked as an electronic technician for the contractor Kirk-Mayer rather than as a staff physicist, that the phone-directory listing reflects that contractor relationship, and that the Monitor article's description followed what Lazar told the reporter. He also accepts that the W-2 could be legitimate, representing a brief stint at Groom, while insisting 'it doesn't mean saucers exist at Papoose'.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-91a6428e57",
 "source": "Tom Mahood, 'Element 115 tidbits', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18",
+"sources": [
+{
+"id": "u-otherhand-org-7fc25383",
+"locator": null,
+"title": "Tom Mahood, 'Element 115 tidbits'"
+}
+],
 "text": "On element 115 his page assembles the prior art: Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, with graphics of expected half-lives for superheavy elements, and a 1970 textbook describing element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. The island of stability was published popular physics long before 1989.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",
@@ -337,7 +377,7 @@
 "status": "alive",
 "sub": "Retired civil and traffic engineer with an MS in physics; author of the otherhand.org Lazar investigation, the most detailed documentary examination of the account in existence",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 314 of 1138, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 315 of 1138, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

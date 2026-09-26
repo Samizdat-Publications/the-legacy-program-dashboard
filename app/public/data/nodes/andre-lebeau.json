@@ -19,26 +19,52 @@
 {
 "id": "c-a51e581778",
 "source": "CNES CP009-2013, 28 February 2013 https://cnes.fr/sites/default/files/migration/automne/pPressReleases/2013_02/r7125_81_cp009-2013_-_hommage_andre_lebeau.pdf",
+"sources": [
+{
+"id": "u-cnes-fr-c381ad24",
+"locator": null,
+"title": "CNES, communiqué de presse CP009-2013, 'Le CNES rend hommage à André Lebeau', 28 février 2013"
+}
+],
 "text": "CNES's own press release on Lebeau's death gives his career: he founded and directed the Groupe de recherches ionosphériques from 1961, became 'Directeur des programmes et du plan du CNES' in 1965 and then 'Directeur général adjoint, chargé des programmes et de la politique industrielle', joined ESA in 1975 rising to Deputy Director General, was Directeur de la Météorologie Nationale and then Directeur général de Météo France, President of Eumetsat from 1990, Vice-President of the World Meteorological Organization 1991-1994, and 'président du CNES (1995-1996)'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-7bb78c2db6",
 "source": "CNES CP009-2013, 28 February 2013 https://cnes.fr/sites/default/files/migration/automne/pPressReleases/2013_02/r7125_81_cp009-2013_-_hommage_andre_lebeau.pdf",
+"sources": [
+{
+"id": "u-cnes-fr-c381ad24",
+"locator": null,
+"title": "CNES, communiqué de presse CP009-2013, 'Le CNES rend hommage à André Lebeau', 28 février 2013"
+}
+],
 "text": "The same release records that he took part in the second French Antarctic expedition in 1958, building the Dumont d'Urville base in Adélie Land, was an alumnus of the École Normale Supérieure (Ulm), agrégé de sciences physiques and docteur ès sciences, held the chair of Space Techniques and Programmes at the CNAM for many years, and died aged 80 on 26 February 2013.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-50451eb2e9",
 "source": "COMETA report (English edition), forward by Professor André Lebeau, 1999",
+"sources": [],
 "text": "Lebeau's forward is titled 'Stripping the UFO phenomenon of its irrational layer' and is signed 'Former chairman of the Centre National d'Etudes Spatiales (CNES)'.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:doc-cometa-report) was rejected in review: names English edition; node is the French original"
 },
 {
 "id": "c-1c1585b19e",
 "source": "COMETA report, Letty foreword, 1999",
+"sources": [
+{
+"id": "n-doc-cometa-report",
+"locator": "Letty foreword",
+"title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+}
+],
 "text": "Letty: COMETA would not have been born without General Bernard Norlain and 'Mr. Andre Lebeau, former chairman of the Centre National d'Etudes Spatiales'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "person",

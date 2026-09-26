@@ -7,32 +7,66 @@
 {
 "id": "c-5ac243ca28",
 "source": "DHS, About DHS, retrieved 12 August 2026",
+"sources": [
+{
+"id": "u-dhs-gov-e92c691b",
+"locator": null,
+"title": "DHS - About DHS"
+}
+],
 "text": "DHS was 'established in 2002, combining 22 different federal departments and agencies into a unified, integrated Cabinet agency' and employs 'more than 260,000 employees'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-1777ff44ba",
-"source": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"source": "AARO/DHS, 'History and Origin of KONA BLUE' - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-kona-blue-release",
+"locator": null,
+"title": "AARO/DHS release: History and Origin of KONA BLUE"
+}
+],
 "text": "In 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a Prospective Special Access Program; approximately six months later the DHS Deputy Secretary disapproved and terminated it. KONA BLUE was 'never approved or formally established'.",
-"tier": 1
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4d02194aff",
 "source": "AARO Historical Record Report Volume I, pp. 34-35",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "pp.34-35",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO states that interviewees claimed KONA BLUE 'was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics', and that after DIA cancelled AAWSAP/AATIP in 2012 'its supporters proposed to DHS that they create and fund a new version'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-89704028c3",
 "source": "AARO Historical Record Report Volume I, p. 34",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.34",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO states it partnered with 'the Special Access Program Control Offices for the DoD, IC, and DHS' to review programs identified in interviews by name or description.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9b11b503ac",
 "source": "Inference from AARO/DHS, 'History and Origin of KONA BLUE'",
+"sources": [],
 "text": "The KONA BLUE record establishes that a US department was formally asked, at Under Secretary level and with the support of two sitting senators, to create a compartment for the exploitation of recovered non-human material. Whether the material existed is a separate question from whether the request was made; the request is documented. Reasoning: the AARO/DHS paper is itself the government's admission of the request.",
-"tier": 3
+"tier": 3,
+"unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
 "cls": "institution",
@@ -318,7 +352,7 @@
 ],
 "sub": "Cabinet department created 2002; the department that stood up and then killed KONA BLUE",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 138 of 1138, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 149 of 1138, score 53). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -7,26 +7,58 @@
 {
 "id": "c-afeadfedf4",
 "source": "The Roswell Report: Case Closed (1997), Introduction",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Introduction",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The report identifies its four conclusions as consolidation of many years of Air Force activity into July 1947; anthropomorphic test dummies as the 'aliens'; high-altitude balloon launch and recovery as the 'unusual' military activity; and a 1956 KC-97 accident plus a 1959 manned balloon mishap as the source of the hospital bodies accounts.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-bf1721d271",
 "source": "The Roswell Report: Case Closed (1997), Guide for Readers and Appendix C",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Guide for Readers and Appendix C",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "Appendix C prints full interview transcripts of Gerald Anderson (p. 187), Glenn Dennis (p. 197), Alice Knight (p. 213), Vern Maltais (p. 214) and James Ragsdale (p. 215); the Dennis interview was provided by the interviewer, Karl T. Pflock.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9557635606",
 "source": "The Roswell Report: Case Closed (1997), Appendix B",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Appendix B",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "Appendix B prints sworn witness statements from Charles E. Clouthier, Col. Charles A. Coltman Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg, MSgt Ole Jorgeson, Lt. Col. William C. Kaufman, Col. Joseph W. Kittinger Jr., CMSgt Roland H. Lutz, Lt. Col. Raymond A. Madson and Dr. Frank B. Nordstrom.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-28218a43cd",
 "source": "The Roswell Report: Case Closed (1997), Section 1.1, pull quote at p. 12",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.1, p.12 pull quote",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The report states: 'It must be emphasized that the claims of bodies only became part of the Roswell Incident after 1978, when they were erroneously linked to the July 1947 retrieval of Project Mogul components.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

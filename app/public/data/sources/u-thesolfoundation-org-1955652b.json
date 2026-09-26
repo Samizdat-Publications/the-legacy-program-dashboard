@@ -1,0 +1,369 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8e419391d3",
+"locator": null,
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"sourceText": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "All data shared with the council will be unclassified.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7392a2a789",
+"locator": null,
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"sourceText": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Named to the UAP Science Advisory Council alongside co-founder Peter Skafish in June 2026.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-bd86395c0b",
+"locator": null,
+"node": "jacob-haqq-misra",
+"nodeLabel": "Jacob Haqq-Misra",
+"sourceText": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"text": "Haqq-Misra, an astrobiologist and Sol Foundation advisory board member, was named to the UAP Science Advisory Council in June 2026.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e730186495",
+"locator": "22 June 2026",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation, 'Sol Foundation Co-Founders Named to U.S. Government's UAP Science Advisory Council', 22 June 2026",
+"text": "On 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to a higher-level interagency UAP Governance Board; Nolan, Skafish, Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it, and all data shared with the council is to be unclassified.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-13ff9228d9",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "'All data shared with the council will be unclassified.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-1e4302f3ea",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"text": "In June 2026 the foundation announced that its co-founders Nolan and Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard had been named to the fourteen-member UAP Science Advisory Council, which reports to a higher-level UAP Governance Board and works only with unclassified data.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-e6fe23cd65",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Sol Foundation co-founders Garry Nolan and Peter Skafish were named to the UAP Science Advisory Council; the foundation states the council was announced by the Office of the Director of National Intelligence with the support of the FBI and reports to an interagency UAP Governance Board.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"claimTier": 2,
+"id": "e-2269b797a0",
+"label": "Chair and member of the same 2026 advisory council",
+"note": "The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-128c545f8c",
+"label": "Chair, appointed June 2026",
+"note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-2dc09b6bdd",
+"label": "Council announced 17 June 2026, between Releases 03 and 04",
+"note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-875e305d82",
+"label": "Named as the council's molecular biologist",
+"note": "The scientist who published the first peer-reviewed UAP materials analysis is seated on a body with no access to the government's own materials.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jacob-haqq-misra",
+"label": "Jacob Haqq-Misra"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-128ed396de",
+"label": "Astrobiology seat, via the Sol Foundation advisory board",
+"note": "One of five Sol-affiliated appointments announced by the foundation in June 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"id": "e-9676c01851",
+"label": "Named as the council's cultural anthropologist",
+"note": "Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"claimTier": 1,
+"id": "e-44522fc0cf",
+"label": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
+"note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"b": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 1,
+"id": "e-15f84f692e",
+"label": "Sol leadership named to the ODNI/FBI council, 22 June 2026",
+"note": "Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"claimTier": 2,
+"id": "e-bf549df459",
+"label": "No budget, no classified access - constitutionally unable to reach the material",
+"note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 1,
+"id": "e-a804d0395f",
+"label": "Established by ODNI with FBI support",
+"note": "ODNI announced the council following the PURSUE records releases; the FBI is named as supporting.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-ae2c9f517d",
+"label": "Council established following the PURSUE releases",
+"note": "Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"claimTier": 1,
+"id": "e-f247c853c8",
+"label": "Advisory seat conditioned on unclassified-only access",
+"note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+"claimTier": 2,
+"id": "e-d85ecad08d",
+"label": "Gallaudet named to the council as its oceanographer",
+"note": "A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "institution",
+"id": "uap-governance-board",
+"label": "UAP Governance Board"
+},
+"claimTier": 2,
+"id": "e-71ae56d603",
+"label": "reports to",
+"note": "The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thesolfoundation-org-1955652b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Sol Foundation",
+"listedOn": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "person",
+"id": "jacob-haqq-misra",
+"label": "Jacob Haqq-Misra"
+},
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish"
+},
+{
+"cls": "institution",
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+{
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+}
+],
+"node": null,
+"title": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"topics": [
+{
+"claims": [
+"c-e730186495"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
+"type": "web page",
+"urls": [
+"https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+]
+}

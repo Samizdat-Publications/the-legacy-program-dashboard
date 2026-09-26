@@ -7,20 +7,44 @@
 {
 "id": "c-b0a41babe0",
 "source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"sources": [
+{
+"id": "u-theblackvault-com-6caad905",
+"locator": null,
+"title": "The Black Vault searchable PURSUE archive"
+}
+],
 "text": "Many PDFs in the Department of War release were password-protected, preventing OCR processing and rendering documents poorly searchable or entirely unsearchable; The Black Vault removed the restrictions and processed the files into a usable format.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-dd847383ea",
 "source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"sources": [
+{
+"id": "u-theblackvault-com-6caad905",
+"locator": null,
+"title": "The Black Vault searchable PURSUE archive"
+}
+],
 "text": "The Black Vault archive includes searchable PDFs, videos, images, OCR-generated text, transcripts and video subtitles, agency categorisation and related-record linking, with a 2.0GB bulk download.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-46334b4ab7",
 "source": "https://www.war.gov/UFO/",
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "The operative public index of the PURSUE corpus is a private mirror rather than the releasing authority's portal. Reasoning: war.gov/UFO publishes only paired ZIP bundles with no manifest, index or search.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "institution",

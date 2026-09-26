@@ -1,0 +1,235 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-f0a924457e",
+"locator": null,
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"sourceText": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3da352ed70",
+"locator": null,
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
+"text": "Bigelow said in August 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property: 'We wouldn't be there just for the weather.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-476e5782f1",
+"locator": null,
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "Zack Van Eyck, Deseret News, 10 Aug 1998",
+"text": "As a condition of the 1996 purchase the Shermans agreed to keep quiet about what they had witnessed on the property.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-a19002d61f",
+"label": "Kelleher was NIDS deputy administrator and ran field operations",
+"note": "Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 1,
+"id": "e-a529a230ea",
+"label": "Puthoff was among the consultants Bigelow hired at NIDS in 1995",
+"note": "The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-8adaa21ec8",
+"label": "Vallee served on the NIDS advisory board",
+"note": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-b-alexander",
+"label": "John B. Alexander"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-d891e06070",
+"label": "Alexander sat on the NIDS board from its founding",
+"note": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-6b3afc6508",
+"label": "NIDS headquarters 1995-2004",
+"note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 2,
+"id": "e-933c22c1b1",
+"label": "NIDS operated a permanently instrumented field station at the ranch",
+"note": "Bigelow moved in a research team, surveillance equipment and full-time caretakers immediately after the purchase.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+"claimTier": 2,
+"id": "e-581497930d",
+"label": "founded and privately funded NIDS 1995-2004",
+"note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 1,
+"id": "e-c1faaa03ae",
+"label": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+"note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-deseret-com-40c3143a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Deseret News",
+"listedOn": [
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+{
+"cls": "person",
+"id": "john-b-alexander",
+"label": "John B. Alexander"
+},
+{
+"cls": "program",
+"id": "nids",
+"label": "National Institute for Discovery Science (NIDS)"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"topics": [
+{
+"claims": [
+"c-f0a924457e",
+"c-3da352ed70"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-f0a924457e"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "article",
+"urls": [
+"https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+]
+}

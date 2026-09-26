@@ -8,26 +8,58 @@
 {
 "id": "c-898c3d9028",
 "source": "H.R. 2670 (EAS), Division I",
+"sources": [
+{
+"id": "bills-118hr2670eas",
+"locator": "Division I",
+"title": "BILLS-118hr2670eas"
+}
+],
 "text": "Division I of H.R. 2670 as passed by the Senate on 27 July 2023 was the 'Unidentified Anomalous Phenomena Disclosure Act of 2023', Sections 9001-9010, including a Review Board and eminent domain over recovered technologies of unknown origin.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-39f558d5ba",
 "source": "P.L. 118-31",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "The enacted FY2024 NDAA (P.L. 118-31) contains Subtitle C, Sections 1841-1843, establishing the UAP Records Collection at NARA without the Review Board or eminent domain provisions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9e616a0485",
 "source": "P.L. 118-159, Sec. 6802",
+"sources": [
+{
+"id": "pl-118-159",
+"locator": "Sec. 6802",
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
+}
+],
 "text": "NDAA FY2025 (P.L. 118-159) Section 6802 is titled 'Sunset of requirements relating to audits of unidentified anomalous phenomena historical record report'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-673ae3ac23",
 "source": "The Debrief, 'A Dramatic Dilution', 22 December 2023",
+"sources": [
+{
+"id": "u-thedebrief-org-955c252c",
+"locator": null,
+"title": "The Debrief — A Dramatic Dilution"
+}
+],
 "text": "The dilution of the Schumer-Rounds disclosure language during the FY2024 conference was reported contemporaneously as a deliberate weakening rather than a drafting accident.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "domain",

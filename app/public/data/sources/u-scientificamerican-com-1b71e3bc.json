@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "location",
+"id": "l-cambridge",
+"label": "Cambridge, Massachusetts"
+},
+"b": {
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb"
+},
+"claimTier": 1,
+"id": "e-fbe50159d6",
+"label": "Loeb's Harvard base; launched the project from here",
+"note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-scientificamerican-com-1b71e3bc",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Scientific American",
+"listedOn": [],
+"node": null,
+"title": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/"
+]
+}

@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-tothestars-media-99d76199",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "tothestars.media",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+{
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+}
+],
+"node": null,
+"title": "To The Stars Academy press release - Groundbreaking Metamaterials Acquisition",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition"
+]
+}

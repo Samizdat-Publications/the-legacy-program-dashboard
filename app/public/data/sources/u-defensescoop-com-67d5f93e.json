@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": "2024-11-14",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-03d06bee05",
+"label": "the office has not published the volume it committed to for over two years",
+"note": "Promised in Volume I, deferred by the Pentagon in August 2024, promised 'within months' by Kosloski in November 2024, scheduled for late 2025 in the Department's June 2025 statement, and absent as of August 2026.",
+"type": "denial"
+}
+],
+"era": "3",
+"host": null,
+"id": "u-defensescoop-com-67d5f93e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+{
+"cls": "program",
+"id": "gremlin-program",
+"label": "GREMLIN"
+},
+{
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+}
+],
+"node": null,
+"title": "DefenseScoop - New AARO chief unveils Pentagon's annual UAP caseload analysis, new efforts",
+"topics": [],
+"type": "article",
+"urls": [
+"https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/"
+]
+}

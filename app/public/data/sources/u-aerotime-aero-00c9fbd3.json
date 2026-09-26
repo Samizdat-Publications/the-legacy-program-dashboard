@@ -1,0 +1,93 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 2,
+"id": "e-f290bb92cd",
+"label": "ODNI-originated document inside a Department of War release",
+"note": "The ODNI document numbering inside a war.gov tranche is the structural evidence that PURSUE is genuinely interagency rather than departmental.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 2,
+"id": "e-259fb21e8d",
+"label": "Released Apollo 12 and Apollo 17 mission records",
+"note": "Apollo mission records including cockpit transcript describing 'very bright particles or fragments' appear in the first tranche.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "tulsi-gabbard",
+"label": "Tulsi Gabbard"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 2,
+"id": "e-90f215c57a",
+"label": "ODNI coordinating authority for the release programme",
+"note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-aerotime-aero-00c9fbd3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "aerotime.aero",
+"listedOn": [
+{
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+{
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+{
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+{
+"cls": "person",
+"id": "tulsi-gabbard",
+"label": "Tulsi Gabbard"
+}
+],
+"node": null,
+"title": "Aerotime - US releases UFO files in UAP transparency push",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.aerotime.aero/articles/us-releases-ufo-uap-files"
+]
+}

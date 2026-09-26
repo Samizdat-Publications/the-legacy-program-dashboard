@@ -7,32 +7,72 @@
 {
 "id": "c-1b5efbcae0",
 "source": "DIA IR 6 846 0139 76, released under FOIA case U-80,597/PO/FOIA, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"sources": [
+{
+"id": "u-theblackvault-com-be90db08",
+"locator": null,
+"title": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80, 597/PO/FOIA of 22 August 1996, hosted by The Black Vault"
+}
+],
 "text": "The report is IR 6 846 0139 76 from USDAO Tehran to DIA Washington, DTG 230530Z SEP 76, subject 'REPORTED UFO SIGHTING (U)', country Iran, dates '19 & 20 SEP 76', prepared by Frank B. McKenzie, Col, USAF, Defense Attache, and distributed to CJCS, the Joint Staff, NMCC, SECDEF, NMIC, State, CIA, NSA, the White House, CMC, CSAF, CNO and CSA.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-16877ceb84",
 "source": "DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"sources": [
+{
+"id": "u-theblackvault-com-be90db08",
+"locator": null,
+"title": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80, 597/PO/FOIA of 22 August 1996, hosted by The Black Vault"
+}
+],
 "text": "DIA's covering letter of 22 August 1996 to John Greenewald states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released 'with only administrative markings withheld'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-fa40088d17",
 "source": "DIA IR 6 846 0139 76, pages 2 and 3, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"sources": [
+{
+"id": "u-theblackvault-com-be90db08",
+"locator": null,
+"title": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80, 597/PO/FOIA of 22 August 1996, hosted by The Black Vault"
+}
+],
 "text": "The report records that the command post called BG Yousefi, Assistant Deputy Commander of Operations, who decided to scramble an F-4 from Shahrokhi AFB; that at a range of 25 nm the first aircraft 'LOST ALL INSTRUMENTATION AND COMMUNICATIONS (UHF AND INTERCOM)' and broke off; and that a second F-4 launched at 0140 hrs acquired a radar lock at 27 nm before its pilot 'ATTEMPTED TO FIRE AN AIM-9 MISSILE AT THE OBJECT BUT AT THAT INSTANT HIS WEAPONS CONTROL PANEL WENT OFF'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-415c3849a9",
 "source": "DIA IR 6 846 0139 76, page 4, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"sources": [
+{
+"id": "u-theblackvault-com-be90db08",
+"locator": null,
+"title": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80, 597/PO/FOIA of 22 August 1996, hosted by The Black Vault"
+}
+],
 "text": "The report names no Iranian aircrew. Its own comments field reads: 'ACTUAL INFORMATION CONTAINED IN THIS REPORT WAS OBTAINED FROM SOURCE IN CONVERSATION WITH A SUB-SOURCE, AND IIAF PILOT OF ONE OF THE F-4S. MORE INFORMATION WILL BE FORWARDED WHEN IT BECOMES AVAILABLE.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-9510292f4c",
 "source": "DIA IR 6 846 0139 76, page 4, with the DIA FOIA response of 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"sources": [
+{
+"id": "u-theblackvault-com-be90db08",
+"locator": null,
+"title": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80, 597/PO/FOIA of 22 August 1996, hosted by The Black Vault"
+}
+],
 "text": "The report states that 'THE AIRCRAFT AND AREA WHERE THE OBJECT IS BELIEVED TO HAVE LANDED ARE BEING CHECKED FOR POSSIBLE RADIATION'; no result of that check is in DIA's release, and DIA's 1996 search located no further document.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "event",
@@ -209,7 +249,7 @@
 ],
 "sub": "Two Imperial Iranian Air Force F-4 intercepts over Tehran, 19 and 20 September 1976, documented in DIA IR 6 846 0139 76",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 287 of 1138, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 289 of 1138, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

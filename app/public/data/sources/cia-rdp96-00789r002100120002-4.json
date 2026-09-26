@@ -1,0 +1,128 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-6c4effe620",
+"locator": null,
+"node": "center-lane",
+"nodeLabel": "CENTER LANE",
+"sourceText": "Memorandum, INSCOM CENTER LANE Project (U), 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "The transfer to DIA was INSCOM's own recommendation, not a DIA rescue after a congressional petition. In July 1984 INSCOM's commanding general wrote that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intended 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The letter of 2 March 1985 then notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'. Nothing opened mentions Vorona or a petition to Congress.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-ef17562c23",
+"locator": null,
+"node": "center-lane",
+"nodeLabel": "CENTER LANE",
+"sourceText": "Letter, Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "The special access designation was the Secretary of the Army's, above INSCOM. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-263f08beaa",
+"locator": null,
+"node": "inscom",
+"nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+"sourceText": "Letter, 'Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U)', 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "The special access designation was the Secretary of the Army's, not INSCOM's. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4431d8670d",
+"locator": null,
+"node": "inscom",
+"nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+"sourceText": "Memorandum, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, and letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "INSCOM ended the work on its own recommendation and handed it to DIA. The commanding general wrote in July 1984 that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The 2 March 1985 letter notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-d429fabffa",
+"label": "CENTER LANE assets and resources attached OPCON to DIA, 2 March 1985",
+"note": "INSCOM's letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 3,
+"id": "e-36c03e7cc0",
+"label": "A ridiculed subject held inside service-secretary-level access controls",
+"note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "cia-rdp96-00789r002100120002-4",
+"identifiers": [
+"CIA-RDP96-00789R002100120002-4"
+],
+"interestedParty": false,
+"issuer": "Central Intelligence Agency",
+"listedOn": [
+{
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE"
+},
+{
+"cls": "institution",
+"id": "inscom",
+"label": "US Army Intelligence and Security Command (INSCOM)"
+}
+],
+"node": null,
+"title": "Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U) (CIA-RDP96-00789R002100120002-4)",
+"topics": [
+{
+"claims": [
+"c-6c4effe620",
+"c-ef17562c23",
+"c-263f08beaa",
+"c-4431d8670d"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+},
+{
+"claims": [
+"c-263f08beaa",
+"c-4431d8670d"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+}
+],
+"type": "document",
+"urls": [
+"https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+]
+}

@@ -45,26 +45,46 @@
 {
 "id": "c-b1f9269629",
 "source": "Jesse Michels, American Alchemy episode description, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb', published 11 January 2026",
+"sources": [
+{
+"id": "n-michels-gerb-structural-episode",
+"locator": null,
+"title": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+}
+],
 "text": "Michels frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-8de183aa89",
 "source": "Jesse Michels, American Alchemy episode description, 11 January 2026",
+"sources": [],
 "text": "Michels states in the same episode description that former Vice President Dick Cheney is 'implicated in the American UFO reverse engineering program.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (node:michels-gerb-structural-episode) was rejected in review: outlet and date only; candidate row shows no exact date"
 },
 {
 "id": "c-89083cafed",
 "source": "Chapter list, American Alchemy episode 11 January 2026 (timestamps 43:04, 51:28, 1:22:01, 1:30:25, 1:32:56)",
+"sources": [
+{
+"id": "t-177b12ed90c2",
+"locator": null,
+"title": "American Alchemy episode 11 January 2026"
+}
+],
 "text": "Michels' episode structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement as load-bearing components of the architecture.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-4a90aceab6",
 "source": "Infinite Loops podcast episode 145 description; NASJAQ Ep.18 description",
+"sources": [],
 "text": "Michels is an investor at Thiel Capital and creator/host of American Alchemy.",
-"tier": 2
+"tier": 2,
+"unresolved": "read in review as naming no single source: Names two distinct podcast episodes jointly; no single match, neither registered."
 }
 ],
 "cls": "person",

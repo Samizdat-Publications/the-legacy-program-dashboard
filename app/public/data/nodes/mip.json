@@ -7,20 +7,44 @@
 {
 "id": "c-34afe03eee",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "Published MIP appropriated toplines: FY2007 $20.0bn, FY2008 $22.9bn, FY2009 $26.4bn, FY2010 $27.0bn, FY2011 $24.0bn, FY2012 $21.5bn, FY2013 $19.2bn, FY2014 $17.4bn, FY2015 $16.5bn, FY2016 $17.7bn, FY2017 $18.4bn, FY2018 $22.1bn, FY2019 $21.5bn, FY2020 $23.1bn, FY2021 $23.3bn, FY2022 $24.1bn, FY2023 $27.9bn, FY2024 $29.8bn, FY2025 $27.8bn; the FY2026 request was $33.6bn.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-ee20849a83",
 "source": "https://irp.fas.org/budget/index.html",
+"sources": [
+{
+"id": "u-irp-fas-org-4816fb2e",
+"locator": null,
+"title": "FAS Intelligence Resource Program, Intelligence Budget Data"
+}
+],
 "text": "MIP figures were first disclosed publicly alongside NIP totals for FY2010; the Department publishes only an aggregate topline and states that other MIP budget details remain classified.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-db67d7eeb5",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"sources": [
+{
+"id": "u-odni-gov-b68ec5e7",
+"locator": null,
+"title": "ODNI, Intelligence Community Budget"
+}
+],
 "text": "The NIP/MIP division creates a jurisdictional seam between the intelligence committees and the armed services committees that a single activity scored across both can be described to each committee without either receiving a complete account. Reasoning: the two programmes have different controlling officials (DNI and SECDEF) and different primary oversight committees, and no statute requires a reconciled cross-programme presentation to any single body.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "program",

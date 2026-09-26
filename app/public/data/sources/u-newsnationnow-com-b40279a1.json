@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-81bd5375b8",
+"label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+"note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-newsnationnow-com-b40279a1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+{
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+}
+],
+"node": null,
+"title": "NewsNation - UAP metal fragment not alien in origin: AARO",
+"topics": [],
+"type": "article",
+"urls": [
+"https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+]
+}

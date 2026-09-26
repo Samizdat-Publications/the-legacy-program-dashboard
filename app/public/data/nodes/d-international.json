@@ -8,20 +8,32 @@
 {
 "id": "c-75d55786ba",
 "source": "GEIPAN classification and statistics pages",
+"sources": [],
 "text": "GEIPAN, established within CNES in 1977 and based at Toulouse, publishes its case classification scheme and statistics publicly.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Generic 'classification and statistics pages' bundles at least two distinct GEIPAN pages; cannot reduce to one without guessing."
 },
 {
 "id": "c-3763566eb1",
 "source": "Arquivo Nacional, Sistema de Informacoes do Arquivo Nacional",
+"sources": [
+{
+"id": "u-sian-an-gov-br-04c25bec",
+"locator": null,
+"title": "Arquivo Nacional (Brazil) - Sistema de Informacoes do Arquivo Nacional"
+}
+],
 "text": "Brazilian military UFO records have been transferred to the Arquivo Nacional and are accessible through its information system, including material on the 1986 incident.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-a152b756bc",
 "source": "NewsNation, 15 July 2026",
+"sources": [],
 "text": "In July 2026 a US lawmaker formally asked the FBI and CIA for information relating to the 1996 Varginha incident in Brazil.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:newsnationnow.com/space/ufo/varginha-burlison-fbi-cia) was rejected in review: outlet and date only; candidate undated"
 }
 ],
 "cls": "domain",

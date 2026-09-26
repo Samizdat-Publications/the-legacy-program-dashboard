@@ -8,26 +8,46 @@
 {
 "id": "c-b6ae2b4fee",
 "source": "DoD statement on release of historical Navy videos",
+"sources": [
+{
+"id": "n-dod-video-release-2020",
+"locator": null,
+"title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+}
+],
 "text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f5bb63d461",
 "source": "House Oversight Committee witness statements",
+"sources": [],
 "text": "David Fravor and Ryan Graves submitted written statements to the House Oversight Committee for the 26 July 2023 hearing.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Names two witnesses' separate written statements jointly; no single match."
 },
 {
 "id": "c-4b4cd9ef1f",
 "source": "House Oversight Committee hearing page",
+"sources": [],
 "text": "The House Oversight Committee held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-) was rejected in review: no date or title; cannot tell which hearing page"
 },
 {
 "id": "c-afe33002f8",
 "source": "NewsTalk KZRG, 23 July 2026",
+"sources": [
+{
+"id": "u-newstalkkzrg-com-4fd1da4b",
+"locator": null,
+"title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure"
+}
+],
 "text": "In July 2026 the House approved a Burlison amendment creating a framework for UAP records disclosure.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "domain",

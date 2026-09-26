@@ -1,0 +1,256 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-cb832607da",
+"locator": "item af_teletype_1967-03-17_loss_of_strategic_alert",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"sourceText": "ufohastings.com document archive, item af_teletype_1967-03-17_loss_of_strategic_alert",
+"text": "An Air Force teletype dated 17 March 1967 reporting loss of strategic alert at Malmstrom AFB is published in facsimile in the UFOs & Nukes document archive under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-1d81a6a858",
+"locator": "item af_teletype_1967-03-17_loss_of_strategic_alert",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"sourceText": "ufohastings.com document archive, af_teletype_1967-03-17_loss_of_strategic_alert",
+"text": "An Air Force teletype dated 17 March 1967 concerning loss of strategic alert at Malmstrom AFB is published in facsimile under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-bc33b802ad",
+"locator": "items minot_afb_1966-08-25_01 to _03, Minot_Daily_News_1/2",
+"node": "minot-1966",
+"nodeLabel": "Minot AFB incursions, 1966",
+"sourceText": "ufohastings.com document archive, items minot_afb_1966-08-25_01 to _03 and Minot_Daily_News_1 and _2",
+"text": "Three Air Force documents dated 25 August 1966 concerning Minot AFB, and Minot Daily News coverage of 6 December 1966, are published in facsimile in the UFOs & Nukes document archive.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-c4637db476",
+"locator": "items FE_Warren_1965_1 to _4",
+"node": "minot-1966",
+"nodeLabel": "Minot AFB incursions, 1966",
+"sourceText": "ufohastings.com document archive, items FE_Warren_1965_1 to _4",
+"text": "Four Air Force documents dated 1 August 1965 concerning F. E. Warren AFB, Wyoming, are similarly published, establishing the pattern a year earlier at a different missile wing.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6a82f2733a",
+"locator": null,
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"sourceText": "ufohastings.com document archive, retrieved 12 August 2026",
+"text": "Hastings publishes the primary documents underlying his cases, including FBI memoranda on Los Alamos (December 1948) and Los Alamos/Sandia (August 1950), F. E. Warren AFB documents of 1 August 1965, Minot AFB documents of 25 August 1966 and 6 December 1966, an Air Force teletype of 17 March 1967 headed loss of strategic alert, and 1975 Malmstrom material.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 2,
+"id": "e-ae27181db3",
+"label": "Principal named witness to the March 1967 shutdown",
+"note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-b55f2bd900",
+"label": "Spoke on the record and has a signed affidavit on file",
+"note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"b": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"claimTier": 1,
+"id": "e-d2b70dec63",
+"label": "Hastings holds and publishes the 17 March 1967 teletype",
+"note": "The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966"
+},
+"b": {
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"claimTier": 1,
+"id": "e-a1e8f8dd93",
+"label": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
+"note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-dolan",
+"label": "Richard M. Dolan"
+},
+"b": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"claimTier": 3,
+"id": "e-6f87df078f",
+"label": "Dolan's institutional frame and Hastings's nuclear casework are complementary",
+"note": "Dolan argues concealment from the documented secrecy architecture; Hastings supplies the best-documented category of incident occurring inside the most heavily compartmented part of that architecture. Reasoning: the nuclear weapons complex is where SAP density and incident documentation coincide.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+},
+"claimTier": 3,
+"id": "e-4752400e3d",
+"label": "Hastings extended the Fawcett-Greenwood documentary method with named witnesses",
+"note": "Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966"
+},
+"claimTier": 1,
+"id": "e-abc6efc425",
+"label": "Publishes the 25 August 1966 Minot documents in facsimile",
+"note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+"b": {
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+},
+"claimTier": 2,
+"id": "e-defa418c6c",
+"label": "Convened and hosted the National Press Club event",
+"note": "Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-ufohastings-com-1ca28766",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufohastings.com",
+"listedOn": [
+{
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+{
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+{
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+{
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+}
+],
+"node": null,
+"title": "UFOs & Nukes document archive",
+"topics": [
+{
+"claims": [
+"c-1d81a6a858",
+"c-bc33b802ad",
+"c-c4637db476"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
+"c-6a82f2733a"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.ufohastings.com/documents"
+]
+}

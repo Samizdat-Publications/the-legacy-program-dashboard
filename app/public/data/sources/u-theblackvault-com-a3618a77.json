@@ -1,0 +1,100 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 1,
+"id": "e-94a53da296",
+"label": "one private FOIA operation supplies the documentary base the rest of the substrate runs on",
+"note": "Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+},
+"claimTier": 1,
+"id": "e-cbcc74c6a8",
+"label": "Founder and operator of the archive that produced the primary record",
+"note": "Nearly every document in this domain arrived through his requests.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-ebecb2784f",
+"label": "BAASS base of operations",
+"note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-99ac06bc11",
+"label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+"note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+"type": "geographic"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-a3618a77",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "institution",
+"id": "the-black-vault",
+"label": "The Black Vault"
+}
+],
+"node": null,
+"title": "The Black Vault — AATIP, Tom DeLonge, Luis Elizondo and the Claims of To The Stars Academy (case file)",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+]
+}

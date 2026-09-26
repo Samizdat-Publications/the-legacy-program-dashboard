@@ -1,0 +1,44 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 1,
+"id": "e-bdaea677e8",
+"label": "Battelle co-operates ORNL through UT-Battelle, LLC",
+"note": "Contract DEAC0500OR22725, recorded at approximately $42.3 billion, running 1999-2030.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-usaspending-gov-8d23f9be",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "USAspending.gov",
+"listedOn": [
+{
+"cls": "location",
+"id": "l-huntsville",
+"label": "Huntsville, Alabama"
+}
+],
+"node": null,
+"title": "USAspending.gov",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.usaspending.gov/"
+]
+}

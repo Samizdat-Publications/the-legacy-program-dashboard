@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-govinfo-gov-2c72d880",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+}
+],
+"node": null,
+"title": "GAO/NSIAD-94-253, National Space Issues: Observations on Defense Space Programs and Activities",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-94-253/html/GAOREPORTS-NSIAD-94-253.htm"
+]
+}

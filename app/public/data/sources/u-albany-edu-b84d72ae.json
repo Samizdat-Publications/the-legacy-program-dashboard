@@ -1,0 +1,173 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy"
+},
+"b": {
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+"claimTier": 1,
+"id": "e-4789a8b0a6",
+"label": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
+"note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy"
+},
+"b": {
+"cls": "document",
+"id": "paper-uapx-2025",
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+},
+"claimTier": 1,
+"id": "e-3f23a72242",
+"label": "Co-author of the UAPx field-expedition results",
+"note": "Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+},
+"claimTier": 1,
+"id": "e-e03253c9b2",
+"label": "Lead author of the 34-author UAP review",
+"note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+},
+"claimTier": 1,
+"id": "e-7b03c034f4",
+"label": "Co-author of the 34-author UAP review",
+"note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy"
+},
+"claimTier": 1,
+"id": "e-56d58ee0a3",
+"label": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
+"note": "Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+},
+"claimTier": 1,
+"id": "e-c216fb66c6",
+"label": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
+"note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "document",
+"id": "paper-uapx-2025",
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+},
+"claimTier": 1,
+"id": "e-2e75fc55f4",
+"label": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
+"note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+"claimTier": 2,
+"id": "e-3dea45016e",
+"label": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
+"note": "The distinction matters and is drawn by the University itself. UAlbany's release separates 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy' from 'Ben Kugielsky of UAPx, a non-profit scientific research organization'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from UAlbany.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-albany-edu-b84d72ae",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "albany.edu",
+"listedOn": [
+{
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy"
+},
+{
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences"
+},
+{
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+}
+],
+"node": null,
+"title": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+]
+}

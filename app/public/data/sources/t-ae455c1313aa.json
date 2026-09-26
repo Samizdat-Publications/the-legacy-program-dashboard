@@ -1,0 +1,61 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-83c29b1bf8",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "AFOSI FOIA response, case 2025-06002-F, 2025",
+"text": "In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-6e9c02b106",
+"locator": null,
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "AFOSI FOIA response, case 2025-06002-F, 2025",
+"text": "In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.'",
+"tier": 1
+}
+],
+"date": "2025",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-ae455c1313aa",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "AFOSI",
+"listedOn": [],
+"node": null,
+"title": "AFOSI FOIA response, case 2025-06002-F",
+"topics": [
+{
+"claims": [
+"c-6e9c02b106"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-83c29b1bf8"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-6e9c02b106"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "document",
+"urls": []
+}

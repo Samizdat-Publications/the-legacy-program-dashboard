@@ -36,14 +36,24 @@
 {
 "id": "c-e213371b5e",
 "source": "The Debrief byline, 5 June 2023 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"sources": [],
 "text": "Co-author of the 5 June 2023 Debrief article on Grusch's allegations.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-73aa1c8a81",
 "source": "Wikipedia, 'Ralph Blumenthal', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"sources": [
+{
+"id": "u-en-wikipedia-org-02283131",
+"locator": null,
+"title": "Wikipedia - Ralph Blumenthal"
+}
+],
 "text": "Blumenthal was a New York Times staff reporter from 1964 to 2009 and co-authored both the 2017 AATIP story and the 2023 Grusch story.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

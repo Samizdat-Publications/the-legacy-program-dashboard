@@ -1,0 +1,72 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9bf4a89ef7",
+"locator": "header page",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "US Patent 2,417,347, header page",
+"text": "US Patent 2,417,347, 'VIBRATION DAMPER', issued 11 March 1947, prints its inventor line as 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-a3349f8440",
+"label": "US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation",
+"note": "The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates.",
+"type": "research"
+}
+],
+"era": "nd",
+"host": null,
+"id": "us-patent-2417347",
+"identifiers": [
+"US Patent 2,417,347"
+],
+"interestedParty": false,
+"issuer": "U.S. Patent and Trademark Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+}
+],
+"node": null,
+"title": "US Patent 2,417,347",
+"topics": [
+{
+"claims": [
+"c-9bf4a89ef7"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+},
+{
+"claims": [
+"c-9bf4a89ef7"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+}
+],
+"type": "document",
+"urls": [
+"https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347"
+]
+}

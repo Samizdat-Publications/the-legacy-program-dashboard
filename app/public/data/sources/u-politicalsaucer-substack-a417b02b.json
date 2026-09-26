@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "hr-8197",
+"label": "H.R. 8197 (119th Congress) - bill to abolish AARO"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 2,
+"id": "e-2d1a1241c6",
+"label": "would abolish AARO outright and bar any successor entity",
+"note": "The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of concealment rather than a remedy for it.",
+"type": "legislative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-politicalsaucer-substack-a417b02b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "politicalsaucer.substack.com",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-8197",
+"label": "H.R. 8197 (119th Congress) - bill to abolish AARO"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
+"node": null,
+"title": "Political Saucer - AARO: Four Years. Tens of Millions of Dollars. Two Thousand Open Cases. This Bill Will Shut it down.",
+"topics": [],
+"type": "article",
+"urls": [
+"https://politicalsaucer.substack.com/p/all-domain-anomaly-resolution-office"
+]
+}

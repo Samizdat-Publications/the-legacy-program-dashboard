@@ -29,14 +29,24 @@
 {
 "id": "c-70e77a8eb7",
 "source": "Library catalogue record, Internet Archive isbn_9780380778034",
+"sources": [
+{
+"id": "u-archive-org-3adb82f9",
+"locator": null,
+"title": "The truth about the UFO crash at Roswell - catalogue record"
+}
+],
 "text": "Schmitt is joint author of record on 'The truth about the UFO crash at Roswell' (1994); some printings misspell his name as 'Schmit' on the title page.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f77916cd1d",
 "source": "Comparison of the two books' published scenarios",
+"sources": [],
 "text": "The divergence between the 1991 and 1994 Randle-Schmitt crash scenarios is evidence that the Roswell witness pool was being over-fitted: the same authors, working the same case three years apart, produced materially different impact sites and timelines. Reasoning: scenario instability of that magnitude across a single research team indicates witness supply exceeding witness quality.",
-"tier": 3
+"tier": 3,
+"unresolved": "read in review as naming no single source: board's own comparative analysis, not a document"
 }
 ],
 "cls": "person",

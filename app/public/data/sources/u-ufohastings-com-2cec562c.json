@@ -1,0 +1,80 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-57d8201cba",
+"locator": null,
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"sourceText": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+"text": "THE COUNT IS NOT STABLE ON HIS OWN SITE. His press-conference article states 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' His biographical page, opened the same day, states 'To date, Hastings has interviewed more than 150 military veterans.' The board records both figures with their pages rather than a round number, because the count is itself the principal evidence for the scale of the claim.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-fb6088351b",
+"locator": null,
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"sourceText": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+"text": "The witness count Hastings gives on this page differs from the one on his own biographical page. Here: 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' There: 'To date, Hastings has interviewed more than 150 military veterans.' Both pages were opened on the same day.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-ufohastings-com-2cec562c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ufohastings.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "patrick-mcdonough",
+"label": "Patrick McDonough"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings"
+},
+{
+"cls": "event",
+"id": "npc-2010-ufos-nukes",
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010"
+}
+],
+"node": null,
+"title": "https://ufohastings.com/about",
+"topics": [
+{
+"claims": [
+"c-57d8201cba",
+"c-fb6088351b"
+],
+"id": "nuclear-witnesses",
+"title": "UFOs and nuclear weapons: the witness register"
+},
+{
+"claims": [
+"c-57d8201cba"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-57d8201cba"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
+"type": "web page",
+"urls": [
+"https://ufohastings.com/about"
+]
+}

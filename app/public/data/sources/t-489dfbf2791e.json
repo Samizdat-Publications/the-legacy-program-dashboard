@@ -1,0 +1,39 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4eaed235a6",
+"locator": null,
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "Daniel Oberhaus, Vice, 15 October 2018",
+"text": "To The Stars Academy 'partnered with research labs founded by Puthoff' to study the ADAM Research Project materials.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b3ddc6f08e",
+"locator": null,
+"node": "tom-delonge",
+"nodeLabel": "Thomas Matthew DeLonge",
+"sourceText": "Daniel Oberhaus, Vice, 15 October 2018",
+"text": "TTSA's SEC filing covering the period to June 2018 showed a $37.4 million accumulated deficit and $129,000 cash, with auditors flagging doubt about the company's ability to continue as a going concern.",
+"tier": 2
+}
+],
+"date": "2018-10-15",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "t-489dfbf2791e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [],
+"node": null,
+"title": "Daniel Oberhaus, Vice, 15 October 2018",
+"topics": [],
+"type": "article",
+"urls": []
+}

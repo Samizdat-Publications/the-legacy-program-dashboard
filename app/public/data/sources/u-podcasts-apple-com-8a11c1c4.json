@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "bryce-zabel",
+"label": "Bryce Zabel"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-3126911038",
+"label": "co-host holding an unaired Grusch 'pre-interview'",
+"note": "In the Need To Know episode 'David Grusch: He's Still Here' (24 June 2023), hosted by Zabel with Ross Coulthart, the episode note states: 'And Bryce adds: there's a second interview - actually the pre-interview - that Need to Know controls.'",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-podcasts-apple-com-8a11c1c4",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "podcasts.apple.com",
+"listedOn": [],
+"node": null,
+"title": "https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003",
+"topics": [],
+"type": "broadcast",
+"urls": [
+"https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003"
+]
+}

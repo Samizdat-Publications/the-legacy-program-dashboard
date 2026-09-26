@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "limina-journal",
+"label": "Limina - The Journal of UAP Studies"
+},
+"b": {
+"cls": "institution",
+"id": "scu-uap-studies",
+"label": "Scientific Coalition for UAP Studies (SCU)"
+},
+"claimTier": 1,
+"id": "e-a4a3cb084a",
+"label": "Publishes the SCU atomic-warfare-complex analyses",
+"note": "Grosvenor, Hancock and Porritt's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' appeared in Limina in March 2025 with a DOI.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-doi-org-885a6b0e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "institution",
+"id": "limina-journal",
+"label": "Limina - The Journal of UAP Studies"
+},
+{
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+{
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+}
+],
+"node": null,
+"title": "Matthew Szydagis, 'How much time do we have before catastrophic disclosure occurs?', Limina - The Journal of UAP Studies",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://doi.org/10.59661/001c.131700"
+]
+}

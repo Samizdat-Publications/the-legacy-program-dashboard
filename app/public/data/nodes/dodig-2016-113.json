@@ -7,20 +7,44 @@
 {
 "id": "c-24e60679af",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
+"sources": [
+{
+"id": "n-dodig-2016-113",
+"locator": null,
+"title": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
+}
+],
 "text": "The report states that OASA(FM&C) and DFAS Indianapolis 'did not adequately support $2.8 trillion in third quarter journal voucher (JV) adjustments and $6.5 trillion in yearend JV adjustments made to AGF data during FY 2015 financial statement compilation.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f302580144",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
+"sources": [
+{
+"id": "n-dodig-2016-113",
+"locator": null,
+"title": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
+}
+],
 "text": "Footnote 2 of the report states the amounts are not cumulative and should not be added together.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-972f62aa7e",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
+"sources": [
+{
+"id": "n-dodig-2016-113",
+"locator": null,
+"title": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
+}
+],
 "text": "The $6.5 trillion figure is the gross value of unsupported compilation adjustments, not an amount of missing money; the same dollars can be adjusted repeatedly within a compilation cycle. Reasoning: the Army General Fund's FY2015 appropriation was on the order of $120-150 billion, so a literal reading would require the Army to have handled roughly fifty times its own budget, which is arithmetically impossible; the figure therefore measures entry volume, not fund flow.",
-"tier": 3
+"tier": 3,
+"unresolved": null
 }
 ],
 "cls": "document",
@@ -132,7 +156,7 @@
 ],
 "sub": "DoD OIG audit report, 26 July 2016; source of the $2.8 trillion and $6.5 trillion figures",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 883 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 882 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -7,20 +7,44 @@
 {
 "id": "c-38d52d3a55",
 "source": "DTIC ADA326148 abstract and the report's publisher's note",
+"sources": [
+{
+"id": "dtic-ada326148",
+"locator": null,
+"title": "The Roswell Reports (USAF, 1994-1997)"
+}
+],
 "text": "The report was written as a result of Col. Weaver's and Lt. McAndrew's efforts to locate the records explaining the events of July 1947, duplicates the information provided to the Secretary of the Air Force and the General Accounting Office, and adds only a photograph section.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-40e65164d8",
 "source": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), Attachment 32",
+"sources": [
+{
+"id": "n-roswell-report-1995",
+"locator": "Attachment 32",
+"title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+}
+],
 "text": "Attachment 32, Lt. McAndrew's synopsis, describes Project Mogul, 'the top-priority classified project of balloon-borne experiments, which provides the explanation for the Roswell Incident.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-eaa7edebca",
 "source": "Quoted verbatim in The Roswell Report: Case Closed (1997), Section 1.1",
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.1 (verbatim quotation)",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The July 1994 report concluded that the US Army Air Forces did not recover an extraterrestrial vehicle and alien crew, based on review of classified and unclassified holdings at record depositories, archives, libraries and research facilities nationwide, and stated that of the millions of pages reviewed there was no mention of any activity tangentially suggesting such an event.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

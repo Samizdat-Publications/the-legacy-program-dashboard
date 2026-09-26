@@ -1,0 +1,390 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-54ac781716",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-912593e22f",
+"locator": null,
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Harold Puthoff has been President and CEO of EarthTech International since 1985.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-b756888eef",
+"locator": null,
+"node": "l-encinitas",
+"nodeLabel": "Encinitas, California",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "TTSA's Entertainment Division operated through e-commerce and a brick-and-mortar store in Encinitas, California.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6854f0cd5c",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as Vice President Science and Technology, age 81, a director, and President and CEO of EarthTech International since 1985 with a 1967 Stanford PhD.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-cfa9c202a0",
+"locator": null,
+"node": "jim-semivan",
+"nodeLabel": "James 'Jim' Semivan",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as Vice President Operations, age 65, and one of three directors; described as retired from the CIA after 25 years in the Directorate of Operations.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-ed4bdd543e",
+"locator": null,
+"node": "kari-delonge",
+"nodeLabel": "Kari DeLonge",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as Chief Content Officer, age 35, with $100,000 FY2017 cash compensation and options on 5,000,000 shares at $0.003 valued at approximately $18.96 million.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a6f44c2515",
+"locator": null,
+"node": "steve-justice",
+"nodeLabel": "Steve Justice",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired as a Program Director from Lockheed Martin Advanced Development Programs (Skunk Works) after 31 years.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2ec41d674c",
+"locator": null,
+"node": "tom-delonge",
+"nodeLabel": "Thomas Matthew DeLonge",
+"sourceText": "To The Stars Academy of Arts and Science Inc., Form 1-K Part II, SEC EDGAR, filed April 2018",
+"text": "As of April 2018 TTSA had raised approximately $1.09 million under a Regulation A offering that targeted up to $50 million; FY2017 net loss was $30,665,436, driven by $29,535,799 of stock-based compensation.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f58335f099",
+"locator": null,
+"node": "tom-delonge",
+"nodeLabel": "Thomas Matthew DeLonge",
+"sourceText": "To The Stars Academy of Arts and Science Inc., Form 1-K Part II, SEC EDGAR CIK 0001710274, filed April 2018",
+"text": "TTSA was incorporated in Delaware as a public benefit corporation in 2017; DeLonge is listed as President and interim Chief Executive Officer and a director; Gravity Holdings LLC, a DeLonge family trust entity, held 60 million of 70 million Class A shares (85.7%).",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a1caa17c7b",
+"locator": null,
+"node": "ttsa",
+"nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II",
+"text": "Raised approximately $1.09 million of a $50 million Regulation A target as of April 2018; FY2017 net loss $30,665,436 including $29,535,799 of stock-based compensation.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-dd0cf33dd6",
+"locator": null,
+"node": "ttsa",
+"nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"sourceText": "SEC EDGAR, TTSA Form 1-K Part II, CIK 1710274, filed April 2018",
+"text": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semivan and Puthoff as directors and Elizondo and Justice as significant employees.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-d5de2eedab",
+"label": "National Security Affairs Advisor / advisory board (2017-2020)",
+"note": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-30951d162e",
+"label": "founder and president",
+"note": "EarthTech is the vehicle through which Puthoff's four-decade federally funded research line continued into AAWSAP.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-0fa64ffe4b",
+"label": "Co-founder, VP Science and Technology, director",
+"note": "Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jim-semivan",
+"label": "James 'Jim' Semivan"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-674d19d1a0",
+"label": "Co-founder, VP Operations, director",
+"note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "kari-delonge",
+"label": "Kari DeLonge"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-5407b26a5a",
+"label": "Chief Content Officer; highest cash-compensated officer FY2017",
+"note": "$100,000 cash and options on 5 million shares at $0.003 valued at about $18.96m — the entertainment side held the equity.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-1d15253ef1",
+"label": "Director of Global Security & Special Programs / Government Programs (2017-2020)",
+"note": "The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-a6f8bbf8e9",
+"label": "Aerospace Division Director then COO (2017-2020)",
+"note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+},
+"b": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"claimTier": 1,
+"id": "e-294b61f23d",
+"label": "Co-founder, President, interim CEO and controlling shareholder",
+"note": "TTSA was a Regulation A public reporting issuer, which is why its holdings and agreements had to be filed with the SEC rather than remaining private.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"b": {
+"cls": "location",
+"id": "l-encinitas",
+"label": "Encinitas, California"
+},
+"claimTier": 1,
+"id": "e-b2482ea3b3",
+"label": "Corporate base and Entertainment Division retail location",
+"note": "Stated in the company's Form 1-K.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-sec-gov-29038929",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "SEC",
+"listedOn": [
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "location",
+"id": "l-encinitas",
+"label": "Encinitas, California"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "person",
+"id": "jim-semivan",
+"label": "James 'Jim' Semivan"
+},
+{
+"cls": "person",
+"id": "kari-delonge",
+"label": "Kari DeLonge"
+},
+{
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice"
+},
+{
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge"
+},
+{
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+}
+],
+"node": null,
+"title": "SEC EDGAR — TTSA Form 1-K",
+"topics": [
+{
+"claims": [
+"c-54ac781716",
+"c-cfa9c202a0",
+"c-ed4bdd543e",
+"c-a6f44c2515",
+"c-f58335f099",
+"c-a1caa17c7b",
+"c-dd0cf33dd6"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-a1caa17c7b",
+"c-dd0cf33dd6"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-54ac781716",
+"c-dd0cf33dd6"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-54ac781716",
+"c-dd0cf33dd6"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-dd0cf33dd6"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-a6f44c2515"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-912593e22f"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "web page",
+"urls": [
+"https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+]
+}

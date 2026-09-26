@@ -7,26 +7,52 @@
 {
 "id": "c-ee9752666e",
 "source": "US Navy deck logs obtained via FOIA, reported by The War Zone, 2021",
+"sources": [
+{
+"id": "t-c2e975b19cf5",
+"locator": "USS Kidd deck log, UAVs first spotted 2200 14 Jul 2019",
+"title": "US Navy deck logs"
+}
+],
 "text": "USS Kidd deck logs record UAVs first spotted around 2200 on 14 July 2019; by 2120 on 15 July 2019 the log records 'Multiple UAVs around ship.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-cef6a71671",
 "source": "US Navy deck logs obtained via FOIA, reported by The War Zone",
+"sources": [
+{
+"id": "t-766cc88c3f43",
+"locator": "white light over USS Rafael Peralta flight deck, 90+ minutes",
+"title": "US Navy deck logs"
+}
+],
 "text": "A white light hovered over USS Rafael Peralta's flight deck while the ship travelled at 16 knots in low visibility; the encounter lasted over 90 minutes.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-97c2150c75",
 "source": "The War Zone reporting on FOIA-released documents, 2021-2022",
+"sources": [],
 "text": "Further incidents were logged on 25 and 30 July 2019; the Navy, Coast Guard and FBI investigated and the matter reached the Chief of Naval Operations.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: multiple War Zone articles cover this 2019 California drone-swarm story; cannot determine which one without opening them"
 },
 {
 "id": "c-9df1b20100",
 "source": "US Navy deck logs / The War Zone",
+"sources": [
+{
+"id": "t-3faa92158d43",
+"locator": null,
+"title": "US Navy deck logs"
+}
+],
 "text": "The cruise ship Carnival Imagination reported seeing five or six drones during the 15 July 2019 event.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "event",

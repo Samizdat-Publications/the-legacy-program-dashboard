@@ -7,50 +7,114 @@
 {
 "id": "c-d97ca90d76",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/",
+"sources": [
+{
+"id": "n-dird-invisibility-cloaking-theory-and-experiments",
+"locator": null,
+"title": "Invisibility Cloaking: Theory and Experiments"
+}
+],
 "text": "Defense Intelligence Reference Document titled \"Invisibility Cloaking: Theory and Experiments\", series \"Acquisition Threat Support\", published 2010-03-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-49e2525997",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/",
+"sources": [
+{
+"id": "n-dird-invisibility-cloaking-theory-and-experiments",
+"locator": null,
+"title": "Invisibility Cloaking: Theory and Experiments"
+}
+],
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-80204ed926",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/",
+"sources": [
+{
+"id": "n-dird-invisibility-cloaking-theory-and-experiments",
+"locator": null,
+"title": "Invisibility Cloaking: Theory and Experiments"
+}
+],
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-74ace405b9",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/",
+"sources": [
+{
+"id": "n-dird-invisibility-cloaking-theory-and-experiments",
+"locator": null,
+"title": "Invisibility Cloaking: Theory and Experiments"
+}
+],
 "text": "Released PDF is 29 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-026c90c7bb",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
+"sources": [
+{
+"id": "n-dia-aatip-list-2019",
+"locator": null,
+"title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+}
+],
 "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-84338dccd5",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+"sources": [
+{
+"id": "n-dird-invisibility-cloaking-theory-and-experiments",
+"locator": null,
+"title": "Invisibility Cloaking: Theory and Experiments"
+}
+],
 "text": "The released cover page carries the date 2 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-001 - the lowest DIA document number in the released set; the author field is redacted under (b)(6).",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c6a8522c96",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+"sources": [
+{
+"id": "n-dird-invisibility-cloaking-theory-and-experiments",
+"locator": null,
+"title": "Invisibility Cloaking: Theory and Experiments"
+}
+],
 "text": "Contents run Camouflage, Transparency, Cloaking - a survey of the physics of signature reduction rather than a threat assessment.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-81a1677e25",
 "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"sources": [
+{
+"id": "u-twz-com-37fb1a48",
+"locator": null,
+"title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded"
+}
+],
 "text": "The War Zone's audit of the DIRD list, which characterised several deliverables as junk science, treated this one as legitimate, noting Leonhardt 'has been publishing papers on that topic since 2006' and that his research 'is grounded in real science'.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",

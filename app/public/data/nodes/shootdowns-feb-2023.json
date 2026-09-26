@@ -7,38 +7,56 @@
 {
 "id": "c-5ba6f0e141",
 "source": "Privy Council Office memo, 14 February 2023, obtained and reported by The War Zone, 7 September 2023",
+"sources": [],
 "text": "Secret memo of 14 February 2023 from Clerk of the Privy Council Janice Charette to PM Trudeau: 'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (node:charette-memo-2023) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-9072cecd8e",
 "source": "Charette memo, 14 February 2023",
+"sources": [
+{
+"id": "n-charette-memo-2023",
+"locator": null,
+"title": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+}
+],
 "text": "The Yukon object, UAP #23, 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e6e3ce2d21",
 "source": "The War Zone, 22 May 2026",
+"sources": [],
 "text": "The Lake Huron object was engaged on 12 February 2023 by two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing using an AIM-9X at roughly 20,000 feet.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lak) was rejected in review: outlet and date only; same date also mapped to another TWZ article"
 },
 {
 "id": "c-bd6fe98f1c",
 "source": "F-16 pilot audio, reported by The War Zone",
+"sources": [],
 "text": "Pilot audio: 'In the targeting pod, I can't tell if it's metallic or what, but I can see like lines coming down below it.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-c) was rejected in review: does not identify which War Zone article"
 },
 {
 "id": "c-f6ef66a513",
 "source": "The War Zone, 22 May 2026",
+"sources": [],
 "text": "Infrared video of the Lake Huron shootdown was released on 22 May 2026 through PURSUE; the source entry noted a lack of 'substantiated chain-of-custody.'",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lak) was rejected in review: outlet and date only; same date also mapped to another TWZ article"
 },
 {
 "id": "c-35741be0cc",
 "source": "Sean Kirkpatrick, quoted by The War Zone, 22 May 2026",
+"sources": [],
 "text": "'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.'",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-c) was rejected in review: outlet and date only; candidate row shows no date, many TWZ rows"
 }
 ],
 "cls": "event",

@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-about-bgov-com-f90430f7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "about.bgov.com",
+"listedOn": [
+{
+"cls": "program",
+"id": "adam-research-project",
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+},
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+}
+],
+"node": null,
+"title": "Travis J. Tritten, 'UFO Group Sharing Exotic Materials With Army for Combat Vehicles', Bloomberg Government",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://about.bgov.com/news/ufo-group-sharing-exotic-materials-with-army-for-combat-vehicles/"
+]
+}

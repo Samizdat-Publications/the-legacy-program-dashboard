@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "richard-dolan",
+"label": "Richard M. Dolan"
+},
+"b": {
+"cls": "document",
+"id": "ufos-national-security-state",
+"label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)"
+},
+"claimTier": 2,
+"id": "e-da16c3647a",
+"label": "Authored the two-volume documentary chronology",
+"note": "Dolan wrote 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009).",
+"type": "research"
+}
+],
+"era": "nd",
+"host": "Internet Archive",
+"id": "u-archive-org-f004e710",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [
+{
+"cls": "person",
+"id": "richard-dolan",
+"label": "Richard M. Dolan"
+},
+{
+"cls": "document",
+"id": "ufos-national-security-state",
+"label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)"
+}
+],
+"node": null,
+"title": "Universal Talk 2009 interview with Richard M. Dolan",
+"topics": [],
+"type": "document",
+"urls": [
+"https://archive.org/details/UniversalTalk2009WithGuestRichardM.Dolan"
+]
+}

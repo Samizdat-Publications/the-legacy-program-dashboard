@@ -1,0 +1,73 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-c272047614",
+"locator": null,
+"node": "cosford-incident-1993",
+"nodeLabel": "Cosford incident, 30-31 March 1993",
+"sourceText": "The National Archives Discovery catalogue records for DEFE 24/2086 and DEFE 24/2086/1, https://discovery.nationalarchives.gov.uk/API/search/records (search query 'DEFE 24 2086')",
+"text": "What is open is a redacted surrogate, not the file. DEFE 24/2086 carries closure status D with a record opening date of 01/01/2078; the open item is DEFE 24/2086/1, 'Digital copy of DEFE 24/2086: UFO reports sightings, 30/31 March 1993; with redactions', opened 17/08/2009.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-d871924358",
+"locator": null,
+"node": "cosford-incident-1993",
+"nodeLabel": "Cosford incident, 30-31 March 1993",
+"sourceText": "The National Archives Discovery catalogue, DEFE 24/2086, https://discovery.nationalarchives.gov.uk/API/search/records (search query 'DEFE 24 2086')",
+"text": "The National Archives' catalogue gives the file as DEFE 24/2086, 'UFO reports of sightings, 30-31 March 1993', covering dates 1993 Mar 01 to 1993 Jun 30, held at The National Archives, Kew.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "cosford-incident-1993",
+"label": "Cosford incident, 30-31 March 1993"
+},
+"b": {
+"cls": "document",
+"id": "uk-defe24",
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew"
+},
+"claimTier": 1,
+"id": "e-c67290f01a",
+"label": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
+"note": "Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.",
+"type": "custody"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-discovery-nationalarchiv-a217898c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The National Archives (UK)",
+"listedOn": [
+{
+"cls": "event",
+"id": "cosford-incident-1993",
+"label": "Cosford incident, 30-31 March 1993"
+}
+],
+"node": null,
+"title": "TNA Discovery catalogue, DEFE 24/2086 and DEFE 24/2086/1",
+"topics": [
+{
+"claims": [
+"c-c272047614"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
+"type": "web page",
+"urls": [
+"https://discovery.nationalarchives.gov.uk/API/search/records"
+]
+}

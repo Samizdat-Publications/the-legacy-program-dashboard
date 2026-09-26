@@ -1,0 +1,31 @@
+{
+"archived": [],
+"claims": [],
+"date": "2026-03",
+"edges": [],
+"era": "3",
+"host": null,
+"id": "u-strangerthanfiction-org-f909d183",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "strangerthanfiction.org",
+"listedOn": [
+{
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+}
+],
+"node": null,
+"title": "Stranger Than Fiction — Bob Bigelow, AAWSAP, and the Years the Pentagon Investigated a Haunted Ranch",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.strangerthanfiction.org/2026/03/bigelow-aawsap-skinwalker-pentagon/"
+]
+}

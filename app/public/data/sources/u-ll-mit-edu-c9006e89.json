@@ -1,0 +1,49 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+"claimTier": 1,
+"id": "e-dab49b0f8e",
+"label": "MITRE was spun out of Lincoln Laboratory Division 6 in 1958",
+"note": "485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-ll-mit-edu-c9006e89",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "ll.mit.edu",
+"listedOn": [
+{
+"cls": "institution",
+"id": "mit-lincoln-laboratory",
+"label": "MIT Lincoln Laboratory"
+},
+{
+"cls": "person",
+"id": "robert-everett",
+"label": "Robert R. Everett"
+}
+],
+"node": null,
+"title": "MIT Lincoln Laboratory SAGE history",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system"
+]
+}

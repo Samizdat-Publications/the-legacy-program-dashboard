@@ -7,20 +7,38 @@
 {
 "id": "c-77250ec4c2",
 "source": "P.L. 118-31, Sec. 1841(e)(1), GPO",
+"sources": [
+{
+"id": "pl-118-31",
+"locator": "Sec. 1841(e)(1), GPO",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+}
+],
 "text": "Sec. 1841(e)(1) gives the Senate Armed Services Committee, with Homeland Security and Governmental Affairs and the Select Committee on Intelligence, continuing legislative oversight jurisdiction over the UAP Records Collection.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-c0729699af",
 "source": "S. 4784 (Reported in Senate), GPO",
+"sources": [
+{
+"id": "bills-119s4784rs",
+"locator": null,
+"title": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)"
+}
+],
 "text": "The FY2027 NDAA reported by the committee, S. 4784, contains no UAP provisions.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-d0c807a14f",
 "source": "GPO Bulk Data BILLSTATUS, Senate bills, 118th and 119th Congresses",
+"sources": [],
 "text": "No standalone UAP disclosure bill has ever been referred to or reported by the committee; no such Senate bill exists in the 118th or 119th Congress.",
-"tier": 1
+"tier": 1,
+"unresolved": "read in review as naming no single source: Describes the board's own database search across the full BILLSTATUS collection, not a specific document."
 }
 ],
 "cls": "institution",

@@ -1,0 +1,26 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-sefaa-dgac-gob-cl-51d3ef0c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DGAC Chile",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cefaa",
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+}
+],
+"node": null,
+"title": "https://sefaa.dgac.gob.cl/reportar-un-caso/",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://sefaa.dgac.gob.cl/reportar-un-caso/"
+]
+}

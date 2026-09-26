@@ -1,0 +1,108 @@
+{
+"archived": [
+"https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-84f29d6db7",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf",
+"text": "The same summary states that in GEPAN's investigations 'the care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison', and that each case was worked by a four-person team including a psychologist.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-d019127157",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "'French Government UFO Study', contemporaneous English-language summary submitted by Ron Westrum, held in the NSA public document collection - https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf",
+"text": "GEPAN's June 1978 five-volume report to its scientific council studied eleven high-credibility, high-strangeness cases; 'only one proved to have a conventional explanation'. 'In 10 of the 11 cases, the conclusion was that the witnesses had witnessed a material phenomenon that could not be explained as a natural phenomenon or a human device', and the report concluded that behind the phenomenon there is a 'flying machine. . . whose modes of sustenance and propulsion are beyond our knowledge'.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "claude-poher",
+"label": "Dr Claude Poher"
+},
+"b": {
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+},
+"claimTier": 1,
+"id": "e-5dcf23d494",
+"label": "founding director 1977-1978",
+"note": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+},
+"b": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"id": "e-7b448401b1",
+"label": "US NSA holds a contemporaneous assessment of GEPAN's 1978 report",
+"note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-nsa-gov-102122f8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "nsa.gov",
+"listedOn": [
+{
+"cls": "person",
+"id": "claude-poher",
+"label": "Dr Claude Poher"
+},
+{
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+{
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+},
+{
+"cls": "location",
+"id": "l-moscow",
+"label": "Moscow, Russia"
+}
+],
+"node": null,
+"title": "NSA declassified UFO collection - 'French Government UFO Study'",
+"topics": [
+{
+"claims": [
+"c-84f29d6db7",
+"c-d019127157"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
+"type": "document",
+"urls": [
+"https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+]
+}

@@ -1,0 +1,93 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-06a12b9d04",
+"label": "NASA Director of UAP Research",
+"note": "Appointment announced 14 September 2023; no public outputs from the role have been identified since.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+},
+"b": {
+"cls": "person",
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
+"claimTier": 1,
+"id": "e-2d18c036ab",
+"label": "NASA announced the UAP research director but withheld the name at the briefing",
+"note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+},
+"b": {
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 1,
+"id": "e-db853ade8a",
+"label": "NASA science chief at the report release briefing",
+"note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-thedebrief-org-55e46f95",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [
+{
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel"
+},
+{
+"cls": "person",
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
+{
+"cls": "program",
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+{
+"cls": "person",
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+}
+],
+"node": null,
+"title": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"topics": [],
+"type": "article",
+"urls": [
+"https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+]
+}

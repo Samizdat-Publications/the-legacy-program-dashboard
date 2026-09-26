@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "enigma-labs",
+"label": "Enigma Labs"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-3987faacaf",
+"label": "Documented AARO contact with Enigma Labs, released heavily redacted",
+"note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with the majority redacted under exemptions (b)(5) and (b)(6). The documents record multiple virtual and in-person meetings including then-Director Sean Kirkpatrick. One unredacted passage, apparently from Enigma Labs, reads: 'We have a team of 20 engineers, data scientists, and ex service vets with clearance who have built this rigorous product.' Set against that, the company's public position is 'We are not part of any country's government or military. We have no signed partnerships or collaborations to date.' Contact is documented; partnership is denied; the two are not in conflict, and the edge records the former.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "institution",
+"id": "enigma-labs",
+"label": "Enigma Labs"
+},
+"claimTier": 1,
+"id": "e-7cf1a44ac7",
+"label": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
+"note": "The Black Vault filed the request in January 2023 and it was finalized on 3 July 2025, which makes Greenewald's FOIA practice the origin point for public knowledge that AARO and Enigma Labs were in contact at all. He is appealing the redactions. The relationship here is that of requester to subject: nothing in the release suggests any other tie.",
+"type": "investigative"
+}
+],
+"era": "nd",
+"host": "The Black Vault",
+"id": "u-theblackvault-com-c9540049",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "The Black Vault, FOIA case 23-F-0711 release and reporting",
+"topics": [],
+"type": "web page",
+"urls": [
+"https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/"
+]
+}

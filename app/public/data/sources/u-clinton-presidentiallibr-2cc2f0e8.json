@@ -1,0 +1,137 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-fafe256524",
+"locator": null,
+"node": "laurance-rockefeller",
+"nodeLabel": "Laurance S. Rockefeller",
+"sourceText": "Clinton Digital Library collection finding aid, identifier 2006-0476-F",
+"text": "The Clinton White House maintained a Roswell file - FOIA collection 2006-0476-F - containing correspondence, reports and email regarding the July 1947 Roswell crash, including the July 1995 GAO report.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-1e7a01041a",
+"locator": null,
+"node": "rockefeller-initiative",
+"nodeLabel": "The Rockefeller UFO Disclosure Initiative",
+"sourceText": "Clinton Digital Library collection finding aid 2006-0476-F",
+"text": "The Clinton White House's Roswell file (2006-0476-F) contains 'correspondence, reports, and email regarding a crash in Roswell, New Mexico in July 1947,' including the July 1995 GAO report, and states that 'the origin of the crashed object remains in dispute today.'",
+"tier": 1
+}
+],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"b": {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"claimTier": 1,
+"id": "e-b4b15b96fc",
+"label": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
+"note": "The Clinton White House Roswell file (2006-0476-F) contains the July 1995 GAO report; the unclassified records audit is what the White House ended up holding.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+"b": {
+"cls": "document",
+"id": "best-available-evidence",
+"label": "UFO Briefing Document: The Best Available Evidence (1995)"
+},
+"claimTier": 2,
+"id": "e-77559c56b0",
+"label": "The briefing document was the initiative's principal instrument",
+"note": "The document was deliberately written as a government-style assessment rather than a popular book.",
+"type": "programmatic"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-clinton-presidentiallibr-2cc2f0e8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Clinton Presidential Library",
+"listedOn": [
+{
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+{
+"cls": "person",
+"id": "john-podesta",
+"label": "John D. Podesta"
+},
+{
+"cls": "person",
+"id": "laurance-rockefeller",
+"label": "Laurance S. Rockefeller"
+},
+{
+"cls": "person",
+"id": "marie-galbraith",
+"label": "Marie 'Bootsie' Galbraith"
+},
+{
+"cls": "domain",
+"id": "d-roswell",
+"label": "Roswell"
+},
+{
+"cls": "person",
+"id": "steven-schiff",
+"label": "Steven H. Schiff"
+},
+{
+"cls": "person",
+"id": "steven-greer",
+"label": "Steven M. Greer"
+},
+{
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative"
+},
+{
+"cls": "document",
+"id": "best-available-evidence",
+"label": "UFO Briefing Document: The Best Available Evidence (1995)"
+}
+],
+"node": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"topics": [
+{
+"claims": [
+"c-1e7a01041a"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-1e7a01041a"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "web page",
+"urls": [
+"https://clinton.presidentiallibraries.us/items/show/36328"
+]
+}

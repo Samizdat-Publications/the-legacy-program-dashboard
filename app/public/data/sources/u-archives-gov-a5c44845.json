@@ -1,0 +1,117 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-7d403df934",
+"label": "No records series has ever been identified for the JANAP channel",
+"note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"claimTier": 1,
+"id": "e-5dcddccee4",
+"label": "Collection created by sections 1841-1843 of the FY2024 NDAA",
+"note": "The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"claimTier": 3,
+"id": "e-ce4aa2d329",
+"label": "The first statutory records mechanism descends from the destruction problem",
+"note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-c75770f416",
+"label": "NARA holds the Blue Book series and is digitising legacy UFO records",
+"note": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-801ac9379f",
+"label": "No agency-by-agency compliance accounting is published",
+"note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
+"type": "denial"
+}
+],
+"era": "nd",
+"host": null,
+"id": "u-archives-gov-a5c44845",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "National Archives",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+{
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+}
+],
+"node": null,
+"title": "NARA — UAP research topic page",
+"topics": [],
+"type": "archive index",
+"urls": [
+"https://www.archives.gov/research/topics/uaps"
+]
+}

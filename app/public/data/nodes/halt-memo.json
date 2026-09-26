@@ -7,14 +7,30 @@
 {
 "id": "c-8032806a9c",
 "source": "Halt memorandum, 13 Jan 81, released under DoD FOIA case 97-F-1677",
+"sources": [
+{
+"id": "foia-97-f-1677",
+"locator": null,
+"title": "Unexplained Lights, (FOIA case 97-F-1677)"
+}
+],
 "text": "The memo's closing sentence reads: 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' It is signed CHARLES I. HALT, Lt Col, USAF, Deputy Base Commander.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-acd2a49f9c",
 "source": "Halt memorandum, 13 Jan 81, paragraph 1",
+"sources": [
+{
+"id": "n-halt-memo",
+"locator": "paragraph 1",
+"title": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+}
+],
 "text": "The memo describes the object as 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high' and states 'It illuminated the entire forest with a white light.'",
-"tier": 1
+"tier": 1,
+"unresolved": null
 }
 ],
 "cls": "document",
@@ -147,7 +163,7 @@
 ],
 "sub": "USAF official memorandum, 81st Combat Support Group to RAF/CC",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 655 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 654 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

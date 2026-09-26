@@ -7,14 +7,24 @@
 {
 "id": "c-f8090d9099",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"sources": [
+{
+"id": "n-paper-uapx-2025",
+"locator": null,
+"title": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+}
+],
 "text": "Szydagis, Knuth, Kugielsky and Levy published 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences 156:101099 in June 2025.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-e1258c486f",
 "source": "Published biography of Kevin Knuth",
+"sources": [],
 "text": "Knuth serves as Vice President of UAPx.",
-"tier": 2
+"tier": 2,
+"unresolved": "a proposed reading (url:uapexpedition.org/drkevinknuth) was rejected in review: generic 'published biography' cannot identify one source"
 }
 ],
 "cls": "institution",

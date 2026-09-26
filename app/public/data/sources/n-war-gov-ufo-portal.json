@@ -1,0 +1,983 @@
+{
+"archived": [
+"https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-3cf9f61298",
+"locator": null,
+"node": "aaro-fy2025-annual-report",
+"nodeLabel": "AARO FY2025 Consolidated Annual Report on UAP",
+"sourceText": "https://www.war.gov/UFO/",
+"text": "The report was published after PURSUE Releases 01, 02 and 03 had already put military sensor video and an ODNI officer's encounter narrative into the public domain, meaning the statutory analytic product trailed the executive publication programme by months. Reasoning: report date 21 July 2026 against release dates 8 May, 22 May and 12 June 2026.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-8c252d135f",
+"locator": null,
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"sourceText": "war.gov/UFO official page",
+"text": "Hegseth's published statement is that the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6236cb9fdb",
+"locator": null,
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"sourceText": "war.gov/UFO portal, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Hegseth's signed statement on the PURSUE portal: the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-cee5bf6e46",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "war.gov/UFO",
+"text": "Hegseth's published portal statement: the Department is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-daa83aff0c",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "US Department of War, war.gov/UFO",
+"text": "Secretary of War Pete Hegseth stated the Department is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-e0ad358d41",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "war.gov/UFO",
+"text": "Secretary of War Hegseth's published statement is that the Department is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f5fec6002b",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "https://www.war.gov/UFO/",
+"text": "PURSUE material is published at war.gov/UFO as five dated releases, each a paired document ZIP hosted on www.war.gov/medialink/ufo/ and a video ZIP hosted on d34w7g4gy10iej.cloudfront.net.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-690699a64f",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "President Trump issued a directive on 19 February 2026 instructing the Secretary of War and other agencies to identify and release government files connected to UAP and extraterrestrial life.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-7a3e360b69",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "US Department of War, war.gov/UFO, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "PURSUE stands for the Presidential Unsealing and Reporting System for UAP Encounters and is overseen by the Department of War with support from ODNI.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-98a00f8584",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Release dates: Release 01, 8 May 2026; Release 02, 22 May 2026; Release 03, 12 June 2026; Release 04, 10 July 2026; Release 05, 7 August 2026.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-0c018a6d22",
+"locator": null,
+"node": "pursue-bundle-urls",
+"nodeLabel": "PURSUE release bundle URLs (five tranches, documents and video)",
+"sourceText": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Release 03's document bundle is 826MB and its video bundle 4.6GB, per the war.gov/UFO portal listing.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-bc37d20f65",
+"locator": null,
+"node": "pursue-bundle-urls",
+"nodeLabel": "PURSUE release bundle URLs (five tranches, documents and video)",
+"sourceText": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "PURSUE video bundles are served from a CloudFront distribution (d34w7g4gy10iej.cloudfront.net), not from war.gov or aaro.mil.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-eb0c6e1a12",
+"locator": null,
+"node": "pursue-bundle-urls",
+"nodeLabel": "PURSUE release bundle URLs (five tranches, documents and video)",
+"sourceText": "https://www.war.gov/UFO/",
+"text": "The war.gov/UFO portal publishes no file counts for any release; every per-tranche count in circulation is a third-party inventory. Reasoning: direct inspection of the portal on 12 August 2026 shows only date, document bundle size and video bundle size per release.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-46334b4ab7",
+"locator": null,
+"node": "blackvault-pursue-archive",
+"nodeLabel": "The Black Vault searchable PURSUE files archive",
+"sourceText": "https://www.war.gov/UFO/",
+"text": "The operative public index of the PURSUE corpus is a private mirror rather than the releasing authority's portal. Reasoning: war.gov/UFO publishes only paired ZIP bundles with no manifest, index or search.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-12cb451ebd",
+"locator": null,
+"node": "alien-gov-domains-2026",
+"nodeLabel": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"sourceText": "https://www.war.gov/UFO/",
+"text": "The registered domains were not used for the release programme, which launched on war.gov/UFO on 8 May 2026. Reasoning: the war.gov portal is the sole publication surface for all five tranches and alien.gov/aliens.gov remain unconnected.",
+"tier": 3
+}
+],
+"date": "2026",
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-6cbcdbb3c0",
+"label": "Process described as immovable was moved by cabinet direction in weeks",
+"note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-6074f1c5ae",
+"label": "The statutory report never mentions the department's own release programme",
+"note": "Publishing a statutory UAP report three tranches into the largest official UAP release in US history without acknowledging it places the office outside the authorship of the disclosure.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-e27b3d0c2c",
+"label": "statutory analysis trails executive publication",
+"note": "The FY2025 report appeared months late and after three PURSUE tranches, so the Department's analytic product followed rather than accompanied its own releases.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-03d06bee05",
+"label": "the office has not published the volume it committed to for over two years",
+"note": "Promised in Volume I, deferred by the Pentagon in August 2024, promised 'within months' by Kosloski in November 2024, scheduled for late 2025 in the Department's June 2025 statement, and absent as of August 2026.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-39102ebf90",
+"label": "Raw files clear in weeks; the narrative volume has not cleared in two years",
+"note": "The contrast maps where the sensitivity sits: imagery can be published on a cabinet order, analytic conclusions about the department's own history cannot.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "aaro-official-uap-imagery",
+"label": "AARO Official UAP Imagery releases (PR series)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-1a6a539729",
+"label": "AARO's channel stops; the Secretary's channel starts",
+"note": "AARO's last imagery release is 6 January 2026; the Department's first tranche is 8 May 2026 with 29 videos, and AARO published nothing further.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-60f25e96ef",
+"label": "publishing office",
+"note": "Volume I remains the last full narrative account the US Government has published on this subject; everything since is raw files with no assessment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"claimTier": 2,
+"id": "e-31dbd9c0c5",
+"label": "1 April 2026 letter demanding AARO's video holdings",
+"note": "Luna wrote to the Secretary of War seeking AARO's UAP video after the September 2025 testimony; the first PURSUE tranche with 29 sensor videos followed five weeks later.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"claimTier": 1,
+"id": "e-8040878d4d",
+"label": "1 April 2026 letter demanding AARO's UAP video holdings",
+"note": "Luna wrote to the Secretary of War for video files held by AARO after September 2025 witnesses told the Task Force AARO held additional records; the PURSUE releases followed within five weeks.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-465eaee615",
+"label": "no statutory entitlement; not a defense committee chair or ranking member",
+"note": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodig-2023-109",
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-342cb19cb6",
+"label": "The full IG report on DoD's UAP handling remains classified",
+"note": "The public has only an unclassified summary; the IG's own account of where the stovepipes sit has not been released, including through PURSUE.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+"b": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"claimTier": 1,
+"id": "e-ebdd78b62d",
+"label": "Signed EO 14347 and issued the 2026 UAP release directives",
+"note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+"b": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"claimTier": 2,
+"id": "e-ef8b0a977d",
+"label": "Issued the direction that created PURSUE",
+"note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodig-2021-000806-foia",
+"label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-37c43f146f",
+"label": "imagery released, methodology withheld",
+"note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "enigma-labs",
+"label": "Enigma Labs"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-e537f24a5c",
+"label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
+"note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+"b": {
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+},
+"claimTier": 2,
+"id": "e-5953c48d83",
+"label": "Presidential direction produced the PURSUE release portal",
+"note": "Following the February 2026 presidential directive to identify and release UAP files, the Department of War established the PURSUE portal at war.gov/UFO and published its first tranche on 8 May 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-ae3dacd247",
+"label": "Lake Huron engagement video withheld until the May 2026 PURSUE release",
+"note": "Infrared footage of the 12 February 2023 shootdown was released on 22 May 2026 via PURSUE, with the entry noting an unusual lack of substantiated chain of custody.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-c057bc0e2f",
+"label": "Hearing, then letter, then release - the causal spine of 2026",
+"note": "The sequence runs from sworn testimony that video was being withheld, through a subcommittee chair's letter to the Secretary, to a release channel that bypassed the office entirely.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-91af0f2574",
+"label": "Releasing authority; signed transparency statement on the portal",
+"note": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-cff8e5d26c",
+"label": "The directive is the stated basis of the release programme",
+"note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"claimTier": 3,
+"id": "e-de881f56d0",
+"label": "sixteen gigabytes released, one promised report unpublished",
+"note": "The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-17c4d7d422",
+"label": "AARO identifies and stages the material released under PURSUE",
+"note": "The Department of War's PURSUE site publishes on a rolling basis - releases 01 through 05 between 8 May and 7 August 2026 - with AARO identifying material and ODNI coordinating across agencies.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-528e7e14e9",
+"label": "Release programme runs parallel to, not in place of, AARO reporting",
+"note": "The Department of War states it 'will continue to conduct separate reporting on resolved UAP cases, as mandated by statute' - meaning the historical-records release and the contemporary programme reporting line remain separate. This structure allows maximal apparent transparency about the past while the present reporting is unchanged.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-11516343fa",
+"label": "Two parallel release architectures, only one statutory",
+"note": "PURSUE publishes at will through the Secretary's website with no FOIA case numbers or exemption citations, while the statutory NARA collection publishes no compliance accounting - neither channel can be audited.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "document",
+"id": "navy-range-fouler-reports",
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+},
+"claimTier": 1,
+"id": "e-e7108b95d5",
+"label": "Two decades of aviator records released only under external pressure",
+"note": "The 2023 range fouler release came via FOIA; the 2026 PURSUE releases came via presidential directive. Neither came from the reporting system that was supposed to surface them.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+"claimTier": 1,
+"id": "e-3bda08c4ab",
+"label": "First tranche, 8 May 2026",
+"note": "160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, at least 100 carrying redactions.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"claimTier": 1,
+"id": "e-802a777535",
+"label": "Second tranche, 22 May 2026",
+"note": "64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series; the 5.6GB video bundle is the largest of the five.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+"claimTier": 1,
+"id": "e-0777cea2aa",
+"label": "Third tranche, 12 June 2026",
+"note": "72 files with the FBI the largest contributor at 29 files, including a less-redacted CIA Robertson Panel record.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+"claimTier": 1,
+"id": "e-75344f3b9a",
+"label": "Fourth tranche, 10 July 2026",
+"note": "227MB of documents and 1.4GB of video spanning the 1940s to 2026, published without any stated file count.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"claimTier": 1,
+"id": "e-73efa12ec4",
+"label": "Fifth tranche, 7 August 2026",
+"note": "41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 case.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "document",
+"id": "pursue-bundle-urls",
+"label": "PURSUE release bundle URLs (five tranches, documents and video)"
+},
+"claimTier": 1,
+"id": "e-6f531eb64f",
+"label": "physical release locations",
+"note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-818e510ead",
+"label": "Run by the Department of War with ODNI support",
+"note": "Created by presidential directive of 19 February 2026; five releases published between 8 May and 7 August 2026.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"b": {
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+},
+"claimTier": 1,
+"id": "e-bca42667bb",
+"label": "Published through the Secretary's web estate, not AARO's",
+"note": "All five tranches are published on the Secretary of War's web estate at war.gov/UFO, with video served from a CloudFront distribution and no FOIA case numbers or exemption citations.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"b": {
+"cls": "document",
+"id": "navy-pic-1953-film-analysis",
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+},
+"claimTier": 2,
+"id": "e-452dd70252",
+"label": "Released the 1953 Navy photo-interpretation finding",
+"note": "The Navy Photographic Interpretation Center's assessment that the Tremonton objects were self-luminous and intelligently controlled surfaced publicly for the first time in this tranche.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+"b": {
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"claimTier": 2,
+"id": "e-2cf2601aea",
+"label": "Released the AC-130J gunship videos and DOW-UAP-D101",
+"note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-ae2c9f517d",
+"label": "Council established following the PURSUE releases",
+"note": "Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+},
+"b": {
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+"claimTier": 3,
+"id": "e-0411566395",
+"label": "By the fourth tranche the programme stopped stating what it released",
+"note": "Releases 01, 02, 03 and 05 have published file counts; Release 04 has none on the portal or in independent inventories.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "alien-gov-domains-2026",
+"label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-8c0f7b4070",
+"label": "contemplated branding not used",
+"note": "The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War's estate instead.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"claimTier": 2,
+"id": "e-07f16f3c1b",
+"label": "the Department committed to publishing the Yankee Blue findings in Volume II",
+"note": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the findings would appear in Volume II, then scheduled for late 2025. As of August 2026 Volume II has not been published.",
+"type": "programmatic"
+}
+],
+"era": "3",
+"host": null,
+"id": "n-war-gov-ufo-portal",
+"identifiers": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "navy-pic-1953-film-analysis",
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+},
+{
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+{
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+{
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+{
+"cls": "person",
+"id": "alejandro-rojas",
+"label": "Alejandro Rojas"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+{
+"cls": "location",
+"id": "l-colorado-springs",
+"label": "Colorado Springs, Colorado"
+},
+{
+"cls": "person",
+"id": "donald-trump",
+"label": "Donald J. Trump"
+},
+{
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President"
+},
+{
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+{
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+{
+"cls": "person",
+"id": "pete-hegseth",
+"label": "Pete Hegseth"
+},
+{
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+{
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+{
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01"
+},
+{
+"cls": "event",
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+{
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03"
+},
+{
+"cls": "event",
+"id": "pursue-release-04",
+"label": "PURSUE Release 04"
+},
+{
+"cls": "event",
+"id": "pursue-release-05",
+"label": "PURSUE Release 05"
+},
+{
+"cls": "document",
+"id": "pursue-bundle-urls",
+"label": "PURSUE release bundle URLs (five tranches, documents and video)"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves"
+},
+{
+"cls": "institution",
+"id": "blackvault-pursue-archive",
+"label": "The Black Vault searchable PURSUE files archive"
+},
+{
+"cls": "person",
+"id": "tulsi-gabbard",
+"label": "Tulsi Gabbard"
+},
+{
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+},
+{
+"cls": "document",
+"id": "alien-gov-domains-2026",
+"label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)"
+}
+],
+"node": {
+"cls": "document",
+"id": "war-gov-ufo-portal",
+"label": "war.gov/UFO release portal"
+},
+"title": "war.gov/UFO release portal",
+"topics": [
+{
+"claims": [
+"c-daa83aff0c",
+"c-f5fec6002b",
+"c-46334b4ab7",
+"c-12cb451ebd"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+}
+],
+"type": "document",
+"urls": [
+"https://www.war.gov/UFO/"
+]
+}

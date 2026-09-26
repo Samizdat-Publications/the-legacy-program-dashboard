@@ -30,20 +30,38 @@
 {
 "id": "c-0e414fdc95",
 "source": "Durant memorandum, 16 Feb 1953, CIA Office of Scientific Intelligence",
+"sources": [],
 "text": "Durant's 16 February 1953 memorandum to the Assistant Director for Scientific Intelligence is the primary record of the Robertson Panel's proceedings.",
-"tier": 1
+"tier": 1,
+"unresolved": "a proposed reading (url:documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf) was rejected in review: Durant memorandum; candidate titled as Tab A panel report"
 },
 {
 "id": "c-e82239d09d",
 "source": "Durant memorandum / Robertson Panel report text",
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": null,
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The Durant record documents panel concern about 'the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior' and recommends monitoring civilian UFO groups.",
-"tier": 1
+"tier": 1,
+"unresolved": null
 },
 {
 "id": "c-f37b06ad1e",
 "source": "Haines, CIA Studies in Intelligence 1997, on the classification history of the panel record",
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": "on the classification history of the panel record",
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "The Durant Report circulated for years in redacted form before fuller text was released, obscuring the panel's media recommendations.",
-"tier": 2
+"tier": 2,
+"unresolved": null
 }
 ],
 "cls": "person",

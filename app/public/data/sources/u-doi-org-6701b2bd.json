@@ -1,0 +1,61 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6bca1e0126",
+"locator": null,
+"node": "beatriz-villarroel",
+"nodeLabel": "Beatriz Villarroel",
+"sourceText": "The Astronomical Journal, DOI 10.3847/1538-3881/ab570f",
+"text": "The VASCO project methodology was published in The Astronomical Journal in December 2019.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-16667f4d3c",
+"locator": null,
+"node": "vasco-project",
+"nodeLabel": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
+"sourceText": "The Astronomical Journal, DOI 10.3847/1538-3881/ab570f",
+"text": "Villarroel et al. published the VASCO project methodology in The Astronomical Journal on 12 December 2019.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"host": null,
+"id": "u-doi-org-6701b2bd",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "beatriz-villarroel",
+"label": "Beatriz Villarroel"
+},
+{
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations"
+}
+],
+"node": null,
+"title": "Villarroel et al., 'The Vanishing and Appearing Sources during a Century of Observations Project. I.', The Astronomical Journal",
+"topics": [
+{
+"claims": [
+"c-6bca1e0126",
+"c-16667f4d3c"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
+"type": "web page",
+"urls": [
+"https://doi.org/10.3847/1538-3881/ab570f"
+]
+}
