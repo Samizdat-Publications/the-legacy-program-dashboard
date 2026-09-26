@@ -28,7 +28,7 @@ Measured on the board of 26 September 2026 (the prototype is reproduced by the p
 The shift is what the plan asks for in words: prefer specific nodes over connector hubs. A penalty on every
 node punishes route length, not hubs.
 
-## The first route found for each pair (board of 26 September 2026)
+## The first route found for each pair (board of 26 September 2026, as C62 read it off the page)
 
 | pair | route 1 | through a top-20 hub |
 |---|---|---|
@@ -41,8 +41,7 @@ node punishes route length, not hubs.
 | Salas to AARO | Malmstrom Oscar Flight > Hastings > the NORAD 1975 log > NORAD-NORTHCOM > the FY2026 NDAA provisions | no |
 | Eric Davis to Lockheed Martin | the antigravity DIRD > T. Townsend Brown | no |
 
-Volume I appears in no first route. It appears as a later route for Salas to AARO (route 2 of 3), which is
-where it belongs: one route among several, labelled as running through a connector hub. None of the eight
+Volume I appears in none of the 24 routes drawn for the eight pairs (three each). None of the eight
 pairs is joined only through a hub. Several first routes are associations rather than stories (Roswell to the
 hearing runs through the House's own structure), which is the appendix's warning: every step prints its
 sentence and tier so the reader can see that for themselves, and the method line says a route is a chain of

@@ -1,0 +1,200 @@
+{
+  "id": "where-the-money",
+  "order": 4,
+  "title": "Where would the money come from?",
+  "status": "drafted",
+  "lead": {
+    "text": "Money reaches classified work through ordinary channels that are hard to follow from outside: authority to move funds after enactment, an administrative reprogramming layer, contractor research charged to the government as overhead, and contract vehicles. The one UAP programme whose money has been traced from a classified appropriation to a numbered contract is AAWSAP; the alleged funding of a retrieval programme rests on Grusch's testimony.",
+    "cite": [
+      "c-b50c0f271b",
+      "e-05230040b6",
+      "c-b25a8692aa",
+      "e-616b41aecf",
+      "c-8ad250645b"
+    ]
+  },
+  "answer": [
+    {
+      "text": "AAWSAP shows the whole path on paper: $22 million appropriated to DIA at Senator Reid's direction, a DIA solicitation that drew a single bid from Bigelow Aerospace Advanced Space Studies, and contract HHM402-08-C-0072 signed on 22 September 2008.",
+      "cite": [
+        "c-5c8bccc803",
+        "c-4e0bb8614c",
+        "c-f2a0b9e9e5",
+        "e-b88c5faf1b"
+      ]
+    },
+    {
+      "text": "Two standing authorities let the Secretary of Defense move money after Congress has appropriated it, up to $6bn each, and both require only prompt notice of transfers already made; beneath them sits a reprogramming regulation that includes below-threshold reprogramming needing no approval or notification.",
+      "cite": [
+        "c-10b27323c4",
+        "c-21326c3401",
+        "c-be1cebacbc",
+        "c-94398ba636",
+        "e-05230040b6"
+      ]
+    },
+    {
+      "text": "Independent research and development is contractor research reimbursed as an allowable indirect cost. In the FY2024 NDAA and Intelligence Authorization Act, Congress barred UAP-related research of this kind from being charged that way unless disclosed to the committees and leadership, and none of the major contractors has publicly reported a disclosure.",
+      "cite": [
+        "c-b25a8692aa",
+        "c-067b35bd70",
+        "e-0db52c74ac",
+        "c-f1ff2030ef",
+        "e-46bc16c648"
+      ]
+    },
+    {
+      "text": "The Department's ledger cannot be audited end to end: it has had a disclaimer of opinion every year since its first full-scope audit, for FY2018, and the FY2025 audit found 26 material weaknesses, including unsupported accounting adjustments of more than $859 billion in two quarters.",
+      "cite": [
+        "e-eb0a34f7e0",
+        "e-902d4727c0",
+        "c-0f2ae724e8",
+        "c-dd07057120"
+      ]
+    }
+  ],
+  "for": [
+    {
+      "text": "Grusch testified under oath that such programmes are paid for by misappropriation of funds and self-funding, through contractor internal research and development money, and earlier told The Debrief of illegal contracting against the Federal Acquisition Regulations. He reserved the funding specifics for classified session.",
+      "cite": [
+        "c-8ad250645b",
+        "c-fb0d11d5a6",
+        "c-33570aa664",
+        "c-6c8bf1ccb8"
+      ]
+    },
+    {
+      "text": "The annex is where programme detail lives: its tables are binding as if printed in the Act, while the public tables show rows titled CLASSIFIED PROGRAMS, 25 of them in FY2026 totalling $95.786bn requested, and movements among annex lines inside one account count against neither transfer ceiling.",
+      "cite": [
+        "c-89f93fe8f3",
+        "e-43c27cf0b9",
+        "c-ab940c5c51",
+        "c-48952e92f6",
+        "c-20e915f42c"
+      ]
+    },
+    {
+      "text": "SFFAS 56, effective for the period after the Department's first full-scope audit, permits an entity to present amounts from one line item in another without explanation and to omit disclosures that would reveal classified information, and forbids it to disclose whether it applied the standard.",
+      "cite": [
+        "c-17da8ec825",
+        "c-e519791a79",
+        "c-db40f5aab8",
+        "c-08697ebeac",
+        "e-6cb045b811"
+      ]
+    },
+    {
+      "text": "On the board's reading, independent research and development is the instrument that best fits the alleged pattern of government-paid, contractor-directed, contractor-held work with no named appropriation line, and it does not trigger the section 8009 notice. That is an inference.",
+      "cite": [
+        "c-2521b44fb4",
+        "c-ddd10ee462",
+        "e-c103bc5c27"
+      ]
+    },
+    {
+      "text": "Congress acted on the funding route itself: section 1687(a) of the FY2024 NDAA bars that Act's funds from any UAP activity under special or restricted access unless the Secretary has given the details to the committees and leadership. It does not repeal the section 119 waiver; it conditions the money instead.",
+      "cite": [
+        "c-e288e8bd43",
+        "e-d09af927d0",
+        "e-3702e0d376"
+      ]
+    },
+    {
+      "text": "A 2021 newspaper account says Reid, Inouye and Stevens directed the $22 million into the classified budget in 2007, with Inouye's chairmanship letting it bypass floor debate, and Reid asked the Deputy Secretary of Defense in June 2009 to place the programme under Restricted Special Access Protection.",
+      "cite": [
+        "c-06d6fe6e26",
+        "c-b2cdd2d783",
+        "c-77f4c7301a",
+        "c-961ee028e3"
+      ]
+    }
+  ],
+  "against": [
+    {
+      "text": "The trillion-dollar figures are adjustment volumes, not a sum shown to be missing: the Inspector General's footnote says its figures are not cumulative and should not be added together, and on the board's reading the $21 trillion total is double-counting by construction.",
+      "cite": [
+        "c-f302580144",
+        "c-827cf2e4b8",
+        "c-972f62aa7e"
+      ]
+    },
+    {
+      "text": "The link between Grusch's allegation and the research-cost bar is the board's reasoning: no source states that section 1687(b) was drafted in response to him, and his written testimony contains no discussion of funding mechanisms, budget lines or contractor finances.",
+      "cite": [
+        "e-2c0ac19e10",
+        "c-6c8bf1ccb8"
+      ]
+    },
+    {
+      "text": "AAWSAP itself ran on an ordinary route: a public solicitation that drew one bid and priced annual modifications, all later released. The Department's account is that the contractor did UFO research with the DIA programme manager's support even though UAP investigation was not in the statement of work.",
+      "cite": [
+        "c-c51e1eafc7",
+        "c-24ab23fda0",
+        "e-e508b3d69c"
+      ]
+    },
+    {
+      "text": "AARO's reports say nothing about misappropriated funds or contractor research money, and the companies named deny the custody allegations: AARO's report states that executives and chief technology officers of the named companies denied them to its Director on the record.",
+      "cite": [
+        "e-bf70a383b6",
+        "c-ae7352ec1d"
+      ]
+    },
+    {
+      "text": "SFFAS 56 did not create the ability to conceal spending, which long predates it at the appropriation and programme-element level, on the board's own account; and the audit trend is not all one way, with material weaknesses falling from 28 to 26 on the Department's figures.",
+      "cite": [
+        "c-48563592e1",
+        "c-30d9b16898",
+        "c-e18a5af635"
+      ]
+    },
+    {
+      "text": "The accounts of the $22 million disagree with each other: the newspaper account has Reid, Inouye and Stevens directing it in 2007, while DIA's memo gives a $10 million FY2008 supplemental add sponsored by Reid and Inouye and a $12 million add in FY2010.",
+      "cite": [
+        "c-06d6fe6e26",
+        "c-77f4c7301a",
+        "c-0e87b01a63",
+        "c-53194e6884"
+      ]
+    }
+  ],
+  "open": [
+    "Has any contractor covered by DoD Instruction 3204.01 made a disclosure under section 1687(b), and to whom?",
+    "What did Grusch tell Congress in classified session about how the programmes he describes are paid for?",
+    "How much money moves each year through below-threshold and internal reprogramming, which leaves no record outside the Department?",
+    "Which appropriation account and bill language carried the $22 million for AAWSAP, and how much was obligated in each year of the contract?",
+    "Has any federal entity applied SFFAS 56, given that the standard forbids it to say so?"
+  ],
+  "threads": [
+    {
+      "id": "lineage",
+      "text": "The lineage thread is the one funding chain the board can document end to end: Reid co-sponsored the FY2008 supplemental $10M add with Senator Inouye, the appropriation AAWSAP was run on; AAWSAP and AATIP are one appropriation under two designations; most of the roughly $22m went to Bigelow Aerospace between 2008 and 2011; Bigelow's organisation was the anticipated contract performer for the proposed KONA BLUE programme; and AARO's Volume I is where the Department's account of that money now sits.",
+      "cite": [
+        "e-d7cfbb8b8c",
+        "e-52d1ba0184",
+        "e-1b9efc13df",
+        "e-df129a8e7b",
+        "e-cb6758f186",
+        "e-9cf0569b0d"
+      ]
+    },
+    {
+      "id": "money",
+      "text": "The money thread shows what cannot be followed: eight consecutive disclaimers of opinion, an accounting standard that lets amounts sit in a different line without narrative, and a waived-programme channel whose budget papers go only to committee staff directors. The step joining the classified annex to that accounting standard is the board's inference, and no document links them.",
+      "cite": [
+        "e-6cb045b811",
+        "e-cc04e375ba",
+        "e-16460b18c3",
+        "e-aeaf681082"
+      ]
+    }
+  ],
+  "topics": [
+    "funding-channels",
+    "unauditable-ledger",
+    "black-budget",
+    "aawsap-baass",
+    "grusch-allegations",
+    "named-contractors"
+  ]
+}
