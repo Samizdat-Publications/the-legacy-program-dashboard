@@ -60,7 +60,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.13'
 
       # Node, for tools/build_l0_layout.mjs (a build step) and the browser-resolver
       # self-test. No browser is installed in this job.
@@ -138,7 +138,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.13'
 
       - name: The app's data must match what it is derived from
         # First, because it is seconds and because everything after it is checking a

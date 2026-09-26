@@ -209,7 +209,7 @@ ID_RULES = [
     ("patent-url", re.compile(r"patents\.google\.com/patent/US(\d{7,8})", re.I),
      _patent, "document", "U.S. Patent and Trademark Office"),
     ("uspto-app", re.compile(r"\bapplications? (\d{2}/\d{3},?\d{3})\b"),
-     lambda m: (f"uspto-app-{re.sub(r'\D', '', m.group(1))}", f"US application {m.group(1)}"),
+     lambda m: ("uspto-app-" + re.sub(r'\D', '', m.group(1)), f"US application {m.group(1)}"),
      "document", "U.S. Patent and Trademark Office"),
 ]
 
