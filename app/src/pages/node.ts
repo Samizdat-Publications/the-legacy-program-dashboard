@@ -9,7 +9,7 @@
  *
  * Nothing on this page is written here. Every string comes from the node record.
  */
-import { claimSourceItems, textWithUrls, sourceDate } from '../sources';
+import { claimSourceItems, textWithUrls, sourceLine } from '../sources';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import {
@@ -351,7 +351,7 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   if (nsrc.length) {
     const d = h('details', { class: 'nsrcs' }, h('summary', { class: 'eyebrow' }, 'Sources on file · ' + nsrc.length));
     for (const s of nsrc) {
-      const text = (s.name || s.url || '') + (s.date ? ' (' + sourceDate(s.date) + ')' : '');
+      const text = sourceLine(s.name || s.url || '', s.date);
       d.append(s.url ? h('a', { class: 'nsrc', href: s.url, target: '_blank', rel: 'noreferrer noopener' }, ...textWithUrls(text))
         : h('span', { class: 'nsrc' }, ...textWithUrls(text)));
     }

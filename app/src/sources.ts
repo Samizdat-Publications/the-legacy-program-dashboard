@@ -40,14 +40,14 @@ export function urlText(u: string, cls = 'url'): HTMLElement {
 
 /* Text that may carry web addresses: the addresses become breakable, the rest is
    left as it is. */
-export function textWithUrls(s: string): (string | HTMLElement)[] {
+export function textWithUrls(s: string, link = false): (string | HTMLElement)[] {
   const out: (string | HTMLElement)[] = [];
   const re = /https?:\/\/[^\s"'<>|)\]]+/g;
   let last = 0;
   let m: RegExpExecArray | null;
   while ((m = re.exec(s))) {
     if (m.index > last) out.push(s.slice(last, m.index));
-    out.push(urlText(m[0]));
+    out.push(link ? h('a', { href: m[0], target: '_blank', rel: 'noreferrer noopener' }, urlText(m[0])) : urlText(m[0]));
     last = m.index + m[0].length;
   }
   if (last < s.length) out.push(s.slice(last));
@@ -56,7 +56,19 @@ export function textWithUrls(s: string): (string | HTMLElement)[] {
 
 /* A demotion note merge.py writes onto a claim's source string. The link names
    the source; the note must stay visible beside it. */
-const DEMOTED = /DEMOTED from Tier 1 \(([^)]*)\)/;
+const DEMOTED = /\s*[-\u2014]+\s*DEMOTED from Tier 1 \((.*)\); needs primary replacement\s*$/;
+
+/* A claim's source string as a citation: without the demotion note merge.py
+   appends (that note is the board's bookkeeping, and is printed on its own). */
+export function citationText(s: string): string {
+  return (s || '').replace(DEMOTED, '');
+}
+
+/* The demotion, in words, or null. */
+export function demotedWhy(s: string): string | null {
+  const m = DEMOTED.exec(s || '');
+  return m ? m[1] : null;
+}
 
 /* A claim's sources: one link per registry source, or the string as written when
    the registry does not resolve it. `cls` is the per-surface class of each item
@@ -69,13 +81,14 @@ export function claimSourceItems(refs: SourceRef[] | undefined, original: string
       r.title, r.locator ? h('span', { class: 'src-loc' }, ', ' + r.locator) : null));
   }
   if (!out.length) {
+    const cited = citationText(original);
     out.push(h('span', {
       class: cls + ' nolink', 'data-unresolved': unresolved || 'no source recorded', title: original,
-    }, original ? 'source: ' : 'no source recorded', ...(original ? textWithUrls(original) : [])));
-  } else {
-    const d = DEMOTED.exec(original || '');
-    if (d) out.push(h('span', { class: cls + '-note src-demoted' }, 'demoted from Tier 1: ' + d[1]));
+    }, cited ? h('span', { class: 'dim' }, 'source, as cited (not matched to a Library entry): ') : 'no source recorded',
+    ...(cited ? textWithUrls(cited) : [])));
   }
+  const d = demotedWhy(original || '');
+  if (d) out.push(h('span', { class: cls + '-note src-demoted' }, 'held at Tier 2: ' + d));
   return out;
 }
 
@@ -90,6 +103,14 @@ export const TYPE_LABEL: Record<string, string> = {
    YYYY-01-01 in places ("USAF, The Roswell Report (1995)" dated 1995-01-01);
    printing the invented day would state a precision the record does not have,
    so a first of January prints as its year. */
+/* A {name, url} source as one line: its name, then its date unless the name
+   already carries that year ("The Roswell Report (1995)" is not "(1995) (1995)"). */
+export function sourceLine(name: string, date: string | null | undefined): string {
+  const d = sourceDate(date);
+  if (!d || (name || '').includes(d.slice(0, 4))) return name || '';
+  return (name || '') + ' (' + d + ')';
+}
+
 export function sourceDate(d: string | null | undefined): string {
   if (!d) return '';
   return /^\d{4}-01-01$/.test(d) ? d.slice(0, 4) : d;

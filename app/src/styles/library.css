@@ -84,3 +84,8 @@ h1.src-h1 { overflow-wrap: break-word; max-width: 90ch; }
   .lib-facet .lib-more { grid-column: 1; }
   .src-claim, .src-edge { grid-template-columns: 24px minmax(0, 1fr); gap: 8px; }
 }
+
+.src-count-note { margin: 0 0 8px; max-width: 110ch; }
+.srcpage .sechead { flex-wrap: wrap; row-gap: 6px; }
+.srcpage .sechead > div { white-space: nowrap; }
+.src-cited a { color: var(--dim); text-decoration: underline; }

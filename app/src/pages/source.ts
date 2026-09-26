@@ -19,7 +19,7 @@ import { setTitle } from '../router';
 import { loadIndex, loadSource, clsColour, type SourceRecord, type Era } from '../data';
 import { saidKind, saidMark } from '../attrib';
 import { edgeTypeName } from '../vocab';
-import { urlText, textWithUrls, captured, TYPE_LABEL } from '../sources';
+import { urlText, textWithUrls, captured, citationText, demotedWhy, TYPE_LABEL } from '../sources';
 import { notFound } from './notfound';
 
 type Claim = SourceRecord['claims'][number];
@@ -116,7 +116,9 @@ export async function renderSource(view: HTMLElement, id: string): Promise<void>
     toggle.append(btns[g]);
   }
   if (rec.claims.length) head.append(toggle);
-  page.append(head, list);
+  page.append(head, h('p', { class: 'dim src-count-note' },
+    'Every claim whose citation the Library matches to this source. A citation it could not match ' +
+    '(a different spelling, or two sources in one line) stays on its claim as written and is not counted here.'), list);
   drawClaims(list, rec);
   if (!rec.claims.length) list.append(h('p', { class: 'dim' }, 'No claim cites this source directly.'));
 
@@ -164,7 +166,8 @@ function claimRow(c: Claim): HTMLElement {
       h('div', { class: 'src-claim-meta' },
         c.locator ? h('span', { class: 'src-locator' }, h('span', { class: 'dim' }, 'where: '), c.locator) : null,
         c.locator ? h('span', { class: 'sep' }, ' · ') : null,
-        h('span', { class: 'src-cited' }, h('span', { class: 'dim' }, 'as cited: '), ...textWithUrls(c.sourceText || '')))));
+        h('span', { class: 'src-cited' }, h('span', { class: 'dim' }, 'as cited: '), ...textWithUrls(citationText(c.sourceText || ''), true))),
+      demotedWhy(c.sourceText || '') ? h('div', { class: 'src-demoted' }, 'held at Tier 2: ' + demotedWhy(c.sourceText || '')) : null));
 }
 
 function drawClaims(list: HTMLElement, rec: SourceRecord): void {

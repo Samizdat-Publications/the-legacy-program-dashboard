@@ -16,7 +16,7 @@
  * app/checks/run.mjs C36 holds the page to its record.
  */
 import '../styles/topic.css';
-import { claimSourceItems, textWithUrls, sourceDate } from '../sources';
+import { claimSourceItems, textWithUrls, sourceLine } from '../sources';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import {
@@ -233,7 +233,7 @@ function cite(n: number, cid: string, c: TopicCite | undefined, kinds: Set<Said>
     });
     for (const s of c.sources || []) {
       meta.append(h('span', { class: 'sep' }, ' · '));
-      const t = (s.name || s.url || '') + (s.date ? ' (' + sourceDate(s.date) + ')' : '');
+      const t = sourceLine(s.name || s.url || '', s.date);
       meta.append(s.url
         ? h('a', { class: 'cite-src', href: s.url, target: '_blank', rel: 'noreferrer noopener', title: s.url }, ...textWithUrls(t), ' ↗')
         : h('span', { class: 'cite-src' }, 'source: ', ...textWithUrls(t)));

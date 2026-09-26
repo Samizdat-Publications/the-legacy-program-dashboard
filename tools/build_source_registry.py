@@ -442,6 +442,16 @@ MIRROR_ISSUERS = {"The Black Vault", "Internet Archive", "Wikisource", "YouTube"
                   "Google Patents", "FreePatentsOnline", "EveryCRSReport", "WikiLeaks"}
 
 
+# an agency that heads a source's own title ("DIA letter to Steven Aftergood",
+# "ODNI Preliminary Assessment") issued it; used only when nothing else names one
+TITLE_ISSUERS = {"DIA": "Defense Intelligence Agency", "ODNI": "ODNI", "CIA": "Central Intelligence Agency",
+                 "FBI": "FBI", "GAO": "Government Accountability Office", "NASA": "NASA",
+                 "NARA": "National Archives", "USAF": "U.S. Air Force", "DoD": "Department of Defense",
+                 "DHS": "Department of Homeland Security", "DOE": "Department of Energy",
+                 "NSA": "National Security Agency", "CRS": "Congressional Research Service"}
+TITLE_ISSUER = re.compile(r"^(DIA|ODNI|CIA|FBI|GAO|NASA|NARA|USAF|DoD|DHS|DOE|NSA|CRS)\b[ ,:/]")
+
+
 def copy_rank(u, issuer):
     """Order a source's copies: its issuer's own first, then any other publisher,
     then mirrors (The Black Vault, the Internet Archive, Wikisource)."""
@@ -799,6 +809,27 @@ def build(board=None, decisions=None):
             if a in string_keys and b in string_keys:
                 dsu.union(a, b)
 
+    # --- the same citation, spelled with other capitals or punctuation. A claim
+    # string no rule or decision resolved takes the source of a string that reads
+    # identically once case, punctuation and spacing are set aside ("RAAF press
+    # release, 8 July 1947" and "RAAF Press Release, 8 July 1947"), when that
+    # string resolves to exactly one source. Not a merge of two different
+    # strings: one string, typed twice. A reviewer's explicit "unresolved" is
+    # never overridden.
+    def spelling(x):
+        return re.sub(r"[^a-z0-9]+", " ", x.lower()).strip()
+    one = collections.defaultdict(set)
+    for cid, (raw, refs, dec) in per_claim.items():
+        if len(refs) == 1:
+            one[spelling(raw)].add((refs[0][0], refs[0][1]))
+    for cid, (raw, refs, dec) in list(per_claim.items()):
+        if refs or (dec and dec.get("unresolved")) or not raw:
+            continue
+        got = one.get(spelling(raw))
+        if got and len(got) == 1:
+            k, loc = next(iter(got))
+            per_claim[cid] = (raw, [(k, loc, "spelling")], dec)
+
     # --- components -> registry records
     comps = collections.defaultdict(list)
     for k in list(dsu.p):
@@ -909,6 +940,11 @@ def build(board=None, decisions=None):
                 date = url_date(u0)
             if not title:
                 title = best_title(names) or u0
+        if not issuer and title:
+            m = TITLE_ISSUER.match(title)
+            if m:
+                issuer = TITLE_ISSUERS[m.group(1).upper() if m.group(1).isupper() else m.group(1)]
+                host = None
         if typ not in TYPES:
             typ = "document"
         allurls = sorted(urls) + sorted(archived)

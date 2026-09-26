@@ -1381,11 +1381,11 @@
 }
 ],
 "era": "3",
-"host": "Federation of American Scientists",
+"host": null,
 "id": "n-dia-aatip-list-2019",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
+"issuer": "Defense Intelligence Agency",
 "listedOn": [
 {
 "cls": "program",

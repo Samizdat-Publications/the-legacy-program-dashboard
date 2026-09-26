@@ -114,11 +114,11 @@
 }
 ],
 "era": "nd",
-"host": "Internet Archive",
+"host": null,
 "id": "u-archive-org-75d25e3c",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
+"issuer": "Department of Defense",
 "listedOn": [
 {
 "cls": "program",
