@@ -2,9 +2,9 @@
   "id": "famous-documents",
   "order": 7,
   "title": "Which famous documents are genuine?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
-    "text": "The documents divide cleanly by provenance. Those released from government files, such as the 1947 Twining memorandum, the Roswell press release and the 1953 Robertson Panel report, are genuine records of what officials wrote; the Majestic-12 papers arrived as an anonymous roll of film and an Air Force investigation found the memo the FBI received to be a fake; the Wilson-Davis notes surfaced from private papers, their author vouches for them and their subject denies the meeting.",
+    "text": "The documents divide cleanly by provenance. Those released from government files, such as the 1947 Twining memorandum, the Roswell press release and the 1953 Robertson Panel report, are genuine records of what officials wrote; the Majestic-12 papers arrived, by their recipients' account, as an anonymous roll of film, and the FBI says an Air Force investigation found the memo it received to be a fake; the Wilson-Davis notes surfaced from private papers, their author vouches for them and their subject denies the meeting.",
     "cite": ["c-9a59d4155b", "c-250c786148", "c-f32fd55072", "c-238409647c", "c-f9f2738638", "c-83f85ad5a9", "c-8d6448fa78", "c-7cddcadc7e"]
   },
   "answer": [
@@ -13,15 +13,15 @@
       "cite": ["c-8775923255", "c-9a59d4155b", "c-d9d7140369"]
     },
     {
-      "text": "The CIA's Robertson Panel of January 1953 recommended a programme of public education and debunking to strip UFOs of their aura of mystery and the monitoring of civilian UFO groups, and the CIA then forbade any mention that it had sponsored the panel.",
+      "text": "The CIA's Robertson Panel of January 1953 recommended a programme of public education and debunking to strip UFOs of their aura of mystery and the monitoring of civilian UFO groups, and, according to the CIA's own historian, the CIA then forbade any mention that it had sponsored the panel.",
       "cite": ["c-f32fd55072", "c-80237994c7", "c-d82372d643"]
     },
     {
-      "text": "The only document in the National Archives bearing the term MJ-12 is a 14 July 1954 memorandum from Robert Cutler to General Twining; NARA found it has no Top Secret register number, sits in a folder with no other MJ-12 material, lacks letterhead or watermark, and carries a marking the NSC FOIA office says was not used until the Nixon administration.",
+      "text": "According to NARA, the only document in its custody bearing the term MJ-12 is a 14 July 1954 memorandum from Robert Cutler to General Twining; NARA found it has no Top Secret register number, sits in a folder with no other MJ-12 material, lacks letterhead or watermark, and carries a marking the NSC FOIA office says was not used until the Nixon administration.",
       "cite": ["c-210e27c2a7", "c-ef98e69bfa", "c-7597ef00df"]
     },
     {
-      "text": "The Wilson-Davis notes are fifteen typed pages dated 16 October 2002 in which Eric Davis records Vice Admiral Thomas Wilson describing a 1997 refusal of access to a programme holding recovered material in a contractor's custody. They surfaced in 2019 from private papers, not from any government release.",
+      "text": "The Wilson-Davis notes are fifteen typed pages dated 16 October 2002, headed as Eric Davis's notes of a meeting with Vice Admiral Thomas Wilson, which record Wilson describing a 1997 refusal of access to a programme holding recovered material in a contractor's custody. They surfaced in 2019 from private papers, not from any government release.",
       "cite": ["c-14000c4c9a", "c-57e9190bad", "c-83f85ad5a9", "e-a5e9907bdd"]
     },
     {
@@ -43,7 +43,7 @@
       "cite": ["e-9d050e82b0", "c-0b511dc817", "c-3b5de598e8"]
     },
     {
-      "text": "The Estimate of the Situation is denied by Air Force representatives and Rep. Mendel Rivers, but the Condon Report, written under Air Force contract with access to its files, records it; the board favours the contracted report, and says that weighing is its own inference.",
+      "text": "The Estimate of the Situation is denied by Air Force representatives and Rep. Mendel Rivers, but the Condon Report, written under Air Force contract, records it; the board favours the contracted report on the ground that it was written with access to Air Force files, and says that weighing is its own inference.",
       "cite": ["c-6cdbb9b4fa", "c-962a42fa0b", "c-1b56ca861a"]
     },
     {
@@ -57,7 +57,7 @@
       "cite": ["c-f9f2738638", "c-be94466742", "c-f553ff4141"]
     },
     {
-      "text": "The MJ-12 chain of custody disqualifies it: William Moore, one of the two recipients of the film, admitted at the 1989 MUFON symposium that he had cooperated with Air Force counterintelligence and knowingly passed false information to Paul Bennewitz, and on the board's reading the film's arrival falls inside that period. Friedman himself showed that one purported Hillenkoetter memo copied a published letter.",
+      "text": "On the board's reading the MJ-12 chain of custody disqualifies it: William Moore, one of the two recipients of the film, admitted at the 1989 MUFON symposium that he had cooperated with Air Force counterintelligence and knowingly passed false information to Paul Bennewitz, and the film's arrival falls inside that period. Friedman himself showed that one purported Hillenkoetter memo copied a published letter.",
       "cite": ["c-cc917f1c22", "e-3efb6ca3ff", "c-da5d95458e", "c-fa027c84d8"]
     },
     {
@@ -65,7 +65,7 @@
       "cite": ["c-7cddcadc7e", "e-cc5305178c", "c-040ce1a32e", "c-3f0f4c06eb"]
     },
     {
-      "text": "The Wilson-Davis notes' route is itself second-hand and disputed: by Davis's own note the account travelled from Miller to Edgar Mitchell, who told Davis only in 1999; one account has the pages leaving Mitchell's estate, another Kit Green's holdings, with Green not vouching for their contents.",
+      "text": "The Wilson-Davis notes' route is itself second-hand and disputed: the notes carry Davis's own parenthesis that \"Miller told Ed Mitchell who only told me in 1999\"; one account has the pages leaving Mitchell's estate, another Kit Green's holdings, with Green not vouching for their contents.",
       "cite": ["c-627f05aa82", "c-040ce1a32e", "e-d62441efb9"]
     },
     {
@@ -91,7 +91,7 @@
   "threads": [
     {
       "id": "wilson-davis",
-      "text": "The Wilson-Davis thread follows the notes outward, and every step after them is one the record grades down. Davis is the author of record; the meeting is reported to have taken place at an EG&G facility in Las Vegas, a Tier 3 placement; Senator D'Amato's earlier inquiry reached EG&G and stopped, and the view that a private-company cover-up was entirely feasible is attributed to him by George Knapp while his own statement treats the inquiry as closed; and AARO took the named companies' executives' denials on the record without naming a company or describing an inspection.",
+      "text": "The Wilson-Davis thread follows the notes outward, and most steps after them rest on reporting or inference rather than on a document. Davis is the author of record; the meeting is reported to have taken place at an EG&G facility in Las Vegas, a Tier 3 placement; Richard D'Amato's earlier Senate inquiry reached EG&G and stopped, and the view that a private-company cover-up was entirely feasible is attributed to him by George Knapp while his own statement treats the inquiry as closed; and AARO took the named companies' executives' denials on the record without naming a company or describing an inspection.",
       "cite": ["e-a5e9907bdd", "e-1ec3a56650", "e-be700049d5", "e-d1429d73f2", "e-ba53a7bcd5"]
     }
   ],

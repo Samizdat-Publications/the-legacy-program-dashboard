@@ -2,7 +2,7 @@
   "id": "where-the-money",
   "order": 4,
   "title": "Where would the money come from?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
     "text": "Money reaches classified work through ordinary channels that are hard to follow from outside: authority to move funds after enactment, an administrative reprogramming layer, contractor research charged to the government as overhead, and contract vehicles. The one UAP programme whose money has been traced from a classified appropriation to a numbered contract is AAWSAP; the alleged funding of a retrieval programme rests on Grusch's testimony.",
     "cite": [
@@ -10,7 +10,8 @@
       "e-05230040b6",
       "c-b25a8692aa",
       "e-616b41aecf",
-      "c-8ad250645b"
+      "c-8ad250645b",
+      "c-067b35bd70"
     ]
   },
   "answer": [
@@ -24,7 +25,7 @@
       ]
     },
     {
-      "text": "Two standing authorities let the Secretary of Defense move money after Congress has appropriated it, up to $6bn each, and both require only prompt notice of transfers already made; beneath them sits a reprogramming regulation that includes below-threshold reprogramming needing no approval or notification.",
+      "text": "Two authorities in the 2026 defense laws let the Secretary of Defense move money after Congress has appropriated it, up to $6bn each, and both require only prompt notice of transfers already made; beneath them sits a reprogramming regulation that includes below-threshold reprogramming needing no approval or notification.",
       "cite": [
         "c-10b27323c4",
         "c-21326c3401",
@@ -34,7 +35,7 @@
       ]
     },
     {
-      "text": "Independent research and development is contractor research reimbursed as an allowable indirect cost. In the FY2024 NDAA and Intelligence Authorization Act, Congress barred UAP-related research of this kind from being charged that way unless disclosed to the committees and leadership, and none of the major contractors has publicly reported a disclosure.",
+      "text": "Independent research and development is contractor research reimbursed as an allowable indirect cost. In the FY2024 NDAA and Intelligence Authorization Act, Congress barred UAP-related research of this kind from being charged that way unless disclosed to the committees and leadership, and none of the prime contractors on the board has publicly reported a disclosure.",
       "cite": [
         "c-b25a8692aa",
         "c-067b35bd70",
@@ -44,7 +45,7 @@
       ]
     },
     {
-      "text": "The Department's ledger cannot be audited end to end: it has had a disclaimer of opinion every year since its first full-scope audit, for FY2018, and the FY2025 audit found 26 material weaknesses, including unsupported accounting adjustments of more than $859 billion in two quarters.",
+      "text": "The Department's ledger has never received an audit opinion: it has had a disclaimer of opinion every year since its first full-scope audit, for FY2018, and the FY2025 audit found 26 material weaknesses, including unsupported accounting adjustments of more than $859 billion in two quarters.",
       "cite": [
         "e-eb0a34f7e0",
         "e-902d4727c0",
@@ -55,7 +56,7 @@
   ],
   "for": [
     {
-      "text": "Grusch testified under oath that such programmes are paid for by misappropriation of funds and self-funding, through contractor internal research and development money, and earlier told The Debrief of illegal contracting against the Federal Acquisition Regulations. He reserved the funding specifics for classified session.",
+      "text": "Grusch testified under oath that such programmes are paid for by misappropriation of funds and self-funding, through contractor internal research and development money, and earlier told The Debrief that people on these programmes had disclosed concerns to him including illegal contracting against the Federal Acquisition Regulations. He reserved the funding specifics for classified session.",
       "cite": [
         "c-8ad250645b",
         "c-fb0d11d5a6",
@@ -64,7 +65,7 @@
       ]
     },
     {
-      "text": "The annex is where programme detail lives: its tables are binding as if printed in the Act, while the public tables show rows titled CLASSIFIED PROGRAMS, 25 of them in FY2026 totalling $95.786bn requested, and movements among annex lines inside one account count against neither transfer ceiling.",
+      "text": "The classified annex carries the force of law: its tables are binding as if printed in the Act, while the public tables show rows titled CLASSIFIED PROGRAMS, 25 of them in FY2026 totalling $95.786bn requested, and movements among annex lines inside one account count against neither transfer ceiling.",
       "cite": [
         "c-89f93fe8f3",
         "e-43c27cf0b9",
@@ -74,7 +75,7 @@
       ]
     },
     {
-      "text": "SFFAS 56, effective for the period after the Department's first full-scope audit, permits an entity to present amounts from one line item in another without explanation and to omit disclosures that would reveal classified information, and forbids it to disclose whether it applied the standard.",
+      "text": "SFFAS 56, effective for the period after the Department's first full-scope audit, permits an entity to present amounts from one line item in another without explanation, and forbids it to disclose whether it applied the standard.",
       "cite": [
         "c-17da8ec825",
         "c-e519791a79",
@@ -111,7 +112,7 @@
   ],
   "against": [
     {
-      "text": "The trillion-dollar figures are adjustment volumes, not a sum shown to be missing: the Inspector General's footnote says its figures are not cumulative and should not be added together, and on the board's reading the $21 trillion total is double-counting by construction.",
+      "text": "On the board's reading, the trillion-dollar figures are adjustment volumes, not a sum shown to be missing, and the $21 trillion total double-counts by construction; the Inspector General's own footnote says its figures are not cumulative and should not be added together.",
       "cite": [
         "c-f302580144",
         "c-827cf2e4b8",
@@ -134,7 +135,7 @@
       ]
     },
     {
-      "text": "AARO's reports say nothing about misappropriated funds or contractor research money, and the companies named deny the custody allegations: AARO's report states that executives and chief technology officers of the named companies denied them to its Director on the record.",
+      "text": "AARO's reports address the retrieval claims and say nothing about misappropriated funds or contractor research money; on the custody allegations, AARO's report states that executives and chief technology officers of the named companies denied them to its Director on the record.",
       "cite": [
         "e-bf70a383b6",
         "c-ae7352ec1d"
@@ -161,14 +162,14 @@
   "open": [
     "Has any contractor covered by DoD Instruction 3204.01 made a disclosure under section 1687(b), and to whom?",
     "What did Grusch tell Congress in classified session about how the programmes he describes are paid for?",
-    "How much money moves each year through below-threshold and internal reprogramming, which leaves no record outside the Department?",
+    "How much money moves each year through below-threshold and internal reprogramming, which needs no approval or notification?",
     "Which appropriation account and bill language carried the $22 million for AAWSAP, and how much was obligated in each year of the contract?",
     "Has any federal entity applied SFFAS 56, given that the standard forbids it to say so?"
   ],
   "threads": [
     {
       "id": "lineage",
-      "text": "The lineage thread is the one funding chain the board can document end to end: Reid co-sponsored the FY2008 supplemental $10M add with Senator Inouye, the appropriation AAWSAP was run on; AAWSAP and AATIP are one appropriation under two designations; most of the roughly $22m went to Bigelow Aerospace between 2008 and 2011; Bigelow's organisation was the anticipated contract performer for the proposed KONA BLUE programme; and AARO's Volume I is where the Department's account of that money now sits.",
+      "text": "The lineage thread is the one funding chain the board can document end to end: Reid co-sponsored the FY2008 supplemental $10M add with Senator Inouye, the appropriation AAWSAP was run on; the Department has treated AAWSAP and AATIP, alternately, as one contract under two labels; the New York Times reported that most of the roughly $22m went to Bigelow Aerospace between 2008 and 2011; on AARO's account Bigelow's organisation was the anticipated contract performer for the proposed KONA BLUE programme; and AARO's Volume I is where the Department's account of that money now sits.",
       "cite": [
         "e-d7cfbb8b8c",
         "e-52d1ba0184",
@@ -180,12 +181,13 @@
     },
     {
       "id": "money",
-      "text": "The money thread shows what cannot be followed: eight consecutive disclaimers of opinion, an accounting standard that lets amounts sit in a different line without narrative, and a waived-programme channel whose budget papers go only to committee staff directors. The step joining the classified annex to that accounting standard is the board's inference, and no document links them.",
+      "text": "The money thread shows what cannot be followed: a disclaimer of opinion every year since FY2018, an accounting standard that lets amounts sit in a different line without narrative, and a waived-programme channel whose budget papers go only to committee staff directors. The step joining the classified annex to that accounting standard is the board's inference, and no document links them.",
       "cite": [
         "e-6cb045b811",
         "e-cc04e375ba",
         "e-16460b18c3",
-        "e-aeaf681082"
+        "e-aeaf681082",
+        "e-902d4727c0"
       ]
     }
   ],

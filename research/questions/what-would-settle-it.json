@@ -2,14 +2,14 @@
   "id": "what-would-settle-it",
   "order": 11,
   "title": "What would settle it?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
     "text": "Two things could settle the question where testimony cannot: physical material measured by a falsifiable test, and records produced by the agencies and contractors said to hold them. The law now orders the records collected at the National Archives, but the independent review board and the power to take privately held material were removed before it passed, and the agencies decide what to postpone.",
     "cite": ["e-8b0c15185b", "c-1789d34852", "c-cc2931a090", "e-1e22bff68a", "c-630625b5fd"]
   },
   "answer": [
     {
-      "text": "For material, the Nolan-Vallee methodology paper specifies isotope ratio measurement as the discriminating test. Everything tested so far came back terrestrial, conventional or an unknown industrial process, and AARO's specimens were ones surrendered voluntarily.",
+      "text": "For material, the Nolan-Vallee methodology paper specifies isotope ratio measurement as the discriminating test. Everything on the board that has been tested came back terrestrial, conventional or an unknown industrial process, and on the board's reading AARO's specimens were surrendered voluntarily and cannot carry a general negative about holdings it has never inspected.",
       "cite": ["e-8b0c15185b", "c-3aba54fde6", "c-5868af5613", "c-a05bfe2b83", "c-1ea247310f"]
     },
     {
@@ -17,11 +17,11 @@
       "cite": ["c-6b28b71a78", "c-8b1d15895e", "c-e3d235c634", "c-da74de1aeb", "c-630625b5fd"]
     },
     {
-      "text": "For witnesses, an ODNI memorandum published in August 2026 directs release of all UAP information to the PURSUE Task Force and waives prior NDAs for current and former employees and contractors speaking with AARO or PURSUE.",
-      "cite": ["c-860f926b3a", "c-20c24fa108", "c-7626a5d189"]
+      "text": "For witnesses, ODNI memorandum ES 2026-00818, signed by the Principal Deputy Director of National Intelligence, directs release of all UAP information to the PURSUE Task Force and waives prior NDAs for current and former employees and contractors speaking with AARO or PURSUE.",
+      "cite": ["c-860f926b3a", "c-20c24fa108", "c-7626a5d189", "c-46f7c1821f"]
     },
     {
-      "text": "For contractors, no enacted instrument yet reaches their holdings. The House-adopted FY2027 amendment would add a Senate-confirmed review board with subpoena power and extend disclosure to covered contractors, while the Senate's FY2027 bill as reported carries no UAP provisions.",
+      "text": "For contractors, on the board's reading no enacted instrument yet reaches their holdings. The House-adopted FY2027 amendment would add a Senate-confirmed review board with subpoena power and extend disclosure to covered contractors, while the Senate's FY2027 bill as reported carries no UAP provisions.",
       "cite": ["e-c638681998", "e-d7142c396c", "e-e0193bf15d", "c-41fe077a50", "e-6f13dadfb7"]
     }
   ],
@@ -35,21 +35,21 @@
       "cite": ["c-7626a5d189", "c-20c24fa108"]
     },
     {
-      "text": "Congress has asked a contractor directly for the first time: Burlison's May 2026 letter demanded all MITRE UAP and reverse-engineering records back to 1930 in native format with complete metadata, and MITRE confirmed it was reviewing its archives.",
+      "text": "A member of Congress has asked a contractor directly: Burlison's May 2026 letter, which his office calls the first congressional records demand to an FFRDC operator on UAP, demanded all MITRE UAP and reverse-engineering records back to 1930 in native format with complete metadata, and MITRE confirmed it was reviewing its archives.",
       "cite": ["e-366f9ac88b", "e-86c2ba4a4c", "e-de331ad177"]
     },
     {
-      "text": "Section 1687(b) makes UAP-related contractor research unallowable as an overhead cost unless disclosed to the committees and leadership, so any such disclosure would itself be a record; none of the major contractors has publicly reported one.",
+      "text": "Section 1687(b) makes UAP-related contractor research unallowable as an overhead cost unless disclosed to the committees and leadership; none of the prime contractors on the board has publicly reported such a disclosure.",
       "cite": ["c-f1ff2030ef", "e-46bc16c648"]
     },
     {
-      "text": "Independent instruments exist that no agency controls: the Galileo Project builds its own observatories and publishes in the Journal of Astronomical Instrumentation, and the VASCO search compares sky-survey plates exposed in 1949 to 1957, before any satellite, against modern surveys.",
+      "text": "Independent instruments exist that no agency controls: the Galileo Project's founders published its overview in the Journal of Astronomical Instrumentation in 2023, and the VASCO search compares sky-survey plates exposed in 1949 to 1957, before any satellite, against modern surveys.",
       "cite": ["c-c92cda2c16", "e-fae7ad3ff1", "c-16667f4d3c"]
     }
   ],
   "against": [
     {
-      "text": "The instruments with teeth were removed: the Schumer-Rounds review board and eminent domain provisions were struck in conference, and the 2024 refiling of the complete Act was ordered to lie on the table and never called up.",
+      "text": "The instruments with teeth were removed: the Schumer-Rounds review board and eminent domain provisions were struck in conference, and the 2024 refiling of the complete Act was ordered to lie on the table.",
       "cite": ["c-cc2931a090", "e-1e22bff68a", "c-d0a822f3e9"]
     },
     {
@@ -57,7 +57,7 @@
       "cite": ["c-a6ced6009a", "c-f76b3388b5"]
     },
     {
-      "text": "The PURSUE releases cannot settle anything as published: the Department attaches no comment or assessment to any file, and Christopher Mellon, Tim Gallaudet and Alejandro Rojas said the files lack the metadata that would allow independent analysis; the Scientific Coalition for UAP Studies found the first release stripped time, location, range and altitude and contained nothing from DOE, DIA, NRO, NSA or CIA.",
+      "text": "The PURSUE releases cannot settle anything as published: the Department attaches no comment or assessment to any file; Christopher Mellon said releasing raw files without context may confuse more than clarify, and Tim Gallaudet and Alejandro Rojas said the missing metadata and coordinates make it impossible to conclude anything was anomalous or make independent analysis very difficult; the Scientific Coalition for UAP Studies found the first release stripped time, location, range and altitude and contained nothing from DOE, DIA, NRO, NSA or CIA.",
       "cite": ["c-de956641d3", "c-c91bbc06c1", "c-ddf6decfd1", "c-9c07dbbf38", "e-c34cbffa9d"]
     },
     {
@@ -65,7 +65,7 @@
       "cite": ["e-b6a656addb", "c-40e772e25c"]
     },
     {
-      "text": "The measurements already made point one way: AARO's Oak Ridge analyses found the specimens terrestrial or conventional, and the independent astronomers' strongest physical claim, the IM1 spherules, was contested in the peer-reviewed literature, with the seismic signal used to locate the search attributed to truck traffic.",
+      "text": "The measurements already made point one way: AARO's Oak Ridge analyses found the specimens terrestrial or conventional, and the IM1 spherules claim by independent astronomers was contested in the peer-reviewed literature, with the seismic signal used to locate the search attributed to truck traffic.",
       "cite": ["c-5868af5613", "c-53962f4042", "c-2ff1a20481", "c-60887b5651"]
     },
     {
@@ -83,7 +83,7 @@
   "threads": [
     {
       "id": "oversight",
-      "text": "The oversight thread ends at the one instrument that would reach a contractor. Burlison's May 2026 letter to MITRE demanded records back to 1930 with a 45-day deadline, MITRE said it would coordinate any production with the federal agencies responsible for the work, and the House-adopted FY2027 amendment extends disclosure to covered government contractors; on the board's reading it is the only instrument that would reach the holdings he asked MITRE for.",
+      "text": "The oversight thread ends at a contractor. Burlison's May 2026 letter to MITRE demanded records back to 1930 with a 45-day deadline, MITRE said it would coordinate any production with the federal agencies responsible for the work, and the House-adopted FY2027 amendment extends disclosure to covered government contractors; on the board's reading it is the only instrument that would reach the holdings he asked MITRE for.",
       "cite": ["e-366f9ac88b", "e-86c2ba4a4c", "e-b6a656addb", "e-e0193bf15d"]
     }
   ],

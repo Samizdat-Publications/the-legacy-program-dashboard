@@ -2,7 +2,7 @@
   "id": "recovered-craft",
   "order": 1,
   "title": "Has the US recovered non-human craft?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
     "text": "The allegation that a multi-decade effort has retrieved craft and material and tried to reverse-engineer them rests on testimony, most prominently David Grusch's sworn account of July 2023. AARO says it found no empirical evidence of reverse engineering, and no released AAWSAP-era document records the receipt, transfer or storage of any physical sample.",
     "cite": ["c-20023fea57", "c-6c465ee5eb", "c-bd5060c173"]
@@ -13,7 +13,7 @@
       "cite": ["c-4efeb1ec9c", "c-5024401247", "c-4dc07286b1"]
     },
     {
-      "text": "The modern claim is testimony. Grusch testified under oath that he was informed of a crash retrieval and reverse-engineering programme, and that his answer on possession rests on interviewing over 40 witnesses over four years; by his own account his knowledge is second-hand.",
+      "text": "The modern claim is testimony. Grusch testified under oath that he was informed of a crash retrieval and reverse-engineering programme, and that his answer on possession rests on interviewing over 40 witnesses over four years; by his own account he learned of it from others, and he says the witnesses with firsthand knowledge made their own protected disclosures.",
       "cite": ["c-20023fea57", "c-d28a058e92"]
     },
     {
@@ -21,7 +21,7 @@
       "cite": ["c-e6f024d038", "c-63ed6b27a3", "c-34b71074a6"]
     },
     {
-      "text": "Between the two sits the custody gap: the released AAWSAP record documents paper in detail and objects not at all, and on the board's reading every documented chain of custody goes dark at a private or classified link.",
+      "text": "Between the two sits the custody gap: the released AAWSAP record documents paper in detail and objects not at all, and on the board's reading the documented chains go dark at a private laboratory outside FOIA and inside an Army research agreement that has published nothing.",
       "cite": ["c-bd5060c173", "e-828a3f3f88", "e-b8c126f90f", "e-bb87a8970e"]
     },
     {
@@ -47,11 +47,11 @@
       "cite": ["c-4711e15514", "c-925dda206a", "c-8ccc9f233c", "c-4ded6c289b"]
     },
     {
-      "text": "George Knapp testified under oath in September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives to receive unusual material stored at a facility in California, and Luis Elizondo testified in November 2024 that the transfer was blocked because a Secretary of the Air Force memorandum never issued. Both are sworn testimony, not records of the transfer.",
+      "text": "George Knapp testified under oath in September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives to receive unusual material stored at a facility in California, and Luis Elizondo testified in November 2024 that the reported transfer was blocked and that a Secretary of the Air Force memorandum required to complete it never issued. Both are sworn testimony, not records of the transfer.",
       "cite": ["c-b6d6789c8c", "c-43863cbfea"]
     },
     {
-      "text": "On the board's inference, a KONA BLUE proposal to protect recovered biologics presupposes holdings that AARO says were only assumed to exist, and James Lacatski hinted in April 2026 that a smaller effort related to KONA BLUE continued after AAWSAP ended.",
+      "text": "On the board's own inference, a KONA BLUE proposal to protect the retrieval and exploitation of non-human biologics shows that its proposers believed such material was already held, a belief AARO answers by saying the material was only assumed to exist; James Lacatski hinted in April 2026 that a smaller effort related to KONA BLUE continued after AAWSAP ended.",
       "cite": ["c-2fbe8906d8", "c-00e1c8f5f8"]
     },
     {
@@ -65,11 +65,11 @@
       "cite": ["e-9c868f4cb4", "c-e6f024d038", "c-e5e86fca02", "c-161940a99e"]
     },
     {
-      "text": "The specimens that have been examined came back ordinary or unresolved: Oak Ridge found conventional aluminium alloy, Puthoff wrote in 2012 that tests on one set of samples had produced no anomalous outcome, and the Nolan and Vallee analysis of the Council Bluffs material found no anomalous isotopic values, only an industrial process of unknown origin.",
+      "text": "The specimens on the board that have been examined came back ordinary or unresolved: AARO reports that Oak Ridge found conventional aluminium alloy, Puthoff wrote in 2012 that tests on one set of samples had produced no anomalous outcome, and the Nolan and Vallee analysis of the Council Bluffs material found no anomalous isotopic values, only an industrial process of unknown origin.",
       "cite": ["c-43e0daeb69", "c-26858e905a", "c-bf51579601", "c-397d63b6a9"]
     },
     {
-      "text": "On KONA BLUE, the proposal most often read as proof of holdings, AARO states that no extraterrestrial craft or bodies were ever collected and that the material was only assumed to exist by the programme's advocates.",
+      "text": "On KONA BLUE, AARO states that it was a proposed programme never approved, that no extraterrestrial craft or bodies were ever collected, and that the material was only assumed to exist by the programme's advocates.",
       "cite": ["c-ffee665dd2", "c-6780776193"]
     },
     {
@@ -77,15 +77,15 @@
       "cite": ["c-9f4001a928", "c-28218a43cd", "c-c96ffffc9a"]
     },
     {
-      "text": "The Department's June 2023 answer to Grusch was that AARO had not discovered any verifiable information substantiating a possession or reverse-engineering programme, and AARO's own file records that Grusch agreed to an interview in November 2023, did not attend, and in AARO's words had no intention of providing it with information.",
+      "text": "The Department's June 2023 answer to Grusch was that AARO had not discovered any verifiable information substantiating a possession or reverse-engineering programme, and AARO's own file logs nine contacts or attempts between June 2023 and January 2024 to arrange an interview with him, most through intermediaries, and concludes in its words that \"Mr. Grusch had no intention of providing AARO with information.\"",
       "cite": ["c-3b643d967c", "c-58b4ffae67", "c-1786f3dd2c"]
     },
     {
-      "text": "The companies named deny it: AARO's report states that executives and chief technology officers of the named companies denied the allegations to its Director on the record.",
+      "text": "According to AARO's report, the companies named deny it: executives and chief technology officers of the named companies denied the allegations to its Director on the record.",
       "cite": ["c-ae7352ec1d"]
     },
     {
-      "text": "NASA's independent study team reported in September 2023 that it found no evidence of extraterrestrial origin, and the one detailed site claim, Bob Lazar's S-4, has a counter-explanation reached by two people by unrelated routes: that S-4 refers to a radar facility, not an underground base.",
+      "text": "NASA's independent study team reported in September 2023 that it found no evidence of extraterrestrial origin, and Bob Lazar's S-4 claim has a counter-explanation reached by two people by unrelated routes: that S-4 refers to a radar facility, not an underground base.",
       "cite": ["c-9aa45b3f05", "c-a64ba4a596"]
     }
   ],

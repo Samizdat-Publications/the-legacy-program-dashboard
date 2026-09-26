@@ -2,10 +2,10 @@
   "id": "physical-evidence",
   "order": 6,
   "title": "What physical evidence is claimed?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
-    "text": "Physical material is where the argument could be settled by measurement rather than testimony. The board holds three lines of analysis: a peer-reviewed study of the 1977 Council Bluffs molten mass, the To The Stars ADAM samples that passed into an Army research agreement, and AARO's Oak Ridge analyses of a magnesium and an aluminium specimen, both of which came back as terrestrial or conventional alloys. No material has been released for the claim that non-human biologics were recovered.",
-    "cite": ["e-8b0c15185b", "c-3aba54fde6", "c-cabfe87d1f", "c-decd0fa511", "c-5868af5613", "c-53962f4042", "e-1914e084d6"]
+    "text": "Physical material is where the argument could be settled by measurement rather than testimony. The board holds three lines of analysis: a peer-reviewed study of the 1977 Council Bluffs molten mass, the To The Stars ADAM samples that became the subject of an Army research agreement, and AARO's Oak Ridge analyses of a magnesium and an aluminium specimen, both of which came back as terrestrial or conventional alloys. No material has been released for the claim that non-human biologics were recovered.",
+    "cite": ["e-8b0c15185b", "c-3aba54fde6", "c-cabfe87d1f", "c-decd0fa511", "c-5868af5613", "c-53962f4042", "e-1914e084d6", "c-4711e15514"]
   },
   "answer": [
     {
@@ -17,7 +17,7 @@
       "cite": ["c-cabfe87d1f", "c-1c248fc4ca", "c-f1aa52f89a", "e-02e6600133"]
     },
     {
-      "text": "AARO acquired a magnesium alloy specimen, with stakeholder permission, from a private UAP organisation and the Army, and contracted Oak Ridge in 2022 to test it; Oak Ridge assessed it as terrestrial and unable to function as a terahertz waveguide. A second Oak Ridge analysis, reported in January 2026, matched an aluminium specimen from Flint Ridge, Ohio to conventional reference alloys.",
+      "text": "AARO says it acquired a magnesium alloy specimen, with stakeholder permission, from a private UAP organisation and the Army, and contracted Oak Ridge in 2022 to test it; in the synopsis AARO released, Oak Ridge assessed it as terrestrial and unable to function as a terahertz waveguide. A second Oak Ridge analysis, reported by AARO in January 2026, matched an aluminium specimen from Flint Ridge, Ohio to conventional reference alloys.",
       "cite": ["c-0c3f9958a1", "c-7a1dcfe1fa", "c-5868af5613", "c-4915b47989"]
     },
     {
@@ -47,7 +47,7 @@
       "cite": ["c-c2dc45ec5f", "c-6f5c39bdbe", "c-f6c3db215a"]
     },
     {
-      "text": "Garry Nolan says people representing the government and an aerospace corporation approached him about medical harm to individuals from supposed interactions with an anomalous craft; neither has been named, and no document connects this to the earlier AAWSAP medical work.",
+      "text": "Garry Nolan says people representing the government and an aerospace corporation approached him about medical harm to individuals from supposed interactions with an anomalous craft; he does not name them in the account the board cites, and no document connects this to the earlier AAWSAP medical work.",
       "cite": ["c-87216993fd", "e-7a63ae249c"]
     },
     {
@@ -57,7 +57,7 @@
   ],
   "against": [
     {
-      "text": "Every specimen AARO has had tested came back ordinary: Oak Ridge assessed the magnesium specimen as terrestrial, AARO's Volume I found an alleged spacecraft sample to be a manufactured terrestrial alloy of magnesium, zinc and bismuth, and the aluminium specimen matched conventional casting alloys with no radioactive emissions.",
+      "text": "AARO's published analyses all came back ordinary: Oak Ridge assessed the magnesium specimen as terrestrial, AARO's Volume I says an alleged spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth, and the aluminium specimen matched conventional casting alloys with no radioactive emissions.",
       "cite": ["c-5868af5613", "c-e3ce3f022d", "c-4915b47989"]
     },
     {
@@ -95,7 +95,7 @@
   "threads": [
     {
       "id": "patents",
-      "text": "The patents thread is the one hardware claim with a government sponsor printed on it. Salvatore Pais of NAWCAD authored the PAX 205 disclosure for an inertial mass reduction device, which became a granted patent assigned to the Secretary of the Navy; the Navy led the UAP Task Force whose holdings became the 2021 assessment, and AARO inherited that reporting line. The briefing itself calls the invention a theoretical concept with no prototype, and NAWCAD said that after three years and $508,000 of testing the related field generator's effect could not be proven.",
+      "text": "The patents thread follows a hardware claim with a government sponsor printed on it. Salvatore Pais of NAWCAD authored the PAX 205 disclosure for an inertial mass reduction device, which became a granted patent assigned to the Secretary of the Navy; the Navy led the UAP Task Force whose holdings became the 2021 assessment, and AARO inherited that reporting line. The briefing itself calls the invention a theoretical concept with no prototype, and NAWCAD said that after three years and $508,000 of testing the related field generator's effect could not be proven.",
       "cite": ["e-90d5a4103d", "e-2bf2582793", "e-b0456f2b24", "e-343e5049bc", "e-3ed75a8466", "e-9ad0ad2bc2", "c-dea9e5af37", "e-f2a7824a71"]
     }
   ],

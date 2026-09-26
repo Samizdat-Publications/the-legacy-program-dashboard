@@ -2,7 +2,7 @@
   "id": "hidden-from-congress",
   "order": 2,
   "title": "How could a programme be hidden from Congress?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
     "text": "What the board documents is the lawful machinery, not a programme using it: for the Department of Defense, 10 U.S.C. 119 lets the Secretary send a waived programme's details only to the chairman and ranking minority member of each of six defense committees, and a carve-out, approved only by the Secretary or Deputy Secretary, removes outside industrial security inspection of a programme held at a contractor.",
     "cite": [
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "text": "The covert action rule has safeguards the waived-SAP rule lacks: within 180 days of a limited notification the President must widen access or re-justify it, and all members of the intelligence committee must be told that a limited notification occurred. Section 119 has neither, so defense committee members outside the group are not told a waiver has been used.",
+      "text": "The covert action rule has safeguards the waived-SAP rule lacks: within 180 days of a limited notification the President must widen access or re-justify it, and all members of the intelligence committee must be told that a limited notification occurred. Section 119 has neither, so nothing in it requires that defense committee members outside the group be told a waiver has been used.",
       "cite": [
         "c-52aaa3ef28",
         "c-49fbc27ded",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "text": "The one open audit of a special access contract found the controls weak: GAO testified in 1986 that Lockheed reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items, told the Secretary the failure might not have occurred had the Defense Investigative Service been allowed to inspect, and called it inconsistent to protect a special access programme less well than a normal one.",
+      "text": "GAO's audit of a special access contract at Lockheed found the controls weak: GAO testified in 1986 that Lockheed reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items, told the Secretary the failure might not have occurred had the Defense Investigative Service been allowed to inspect, and called it inconsistent to protect a special access programme less well than a normal one.",
       "cite": [
         "c-4f2e1a3219",
         "c-7661b20b92",
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "text": "The paper for a waived programme stays inside the Department: justification materials go only to committee staff directors, waived SAP material submitted to Congress stays in DoD custody, and DoD SAPCO must approve any contractor's disclosure to Congress and keeps the record of what Congress was given.",
+      "text": "The paper for a waived programme stays inside the Department: justification materials go only to committee staff directors, under the 2010 directive waived SAP material submitted to Congress stayed in DoD custody, and DoD SAPCO must approve any contractor's disclosure to Congress and keeps the record of what Congress was given.",
       "cite": [
         "c-ac3f8c09d6",
         "c-effa055b1e",
@@ -89,14 +89,14 @@
       ]
     },
     {
-      "text": "David Grusch testified that he had been tasked to identify the special and controlled access programmes the UAP Task Force needed and was denied the read-ons he asked for; this is his sworn account, and the programmes he sought have not been named on the record.",
+      "text": "David Grusch testified that he had been tasked to identify the special and controlled access programmes the UAP Task Force needed and was denied the read-ons he asked for; this is his sworn account, not a record of the programmes.",
       "cite": [
         "c-b48c8cda88",
         "c-e9eeaa6e1d"
       ]
     },
     {
-      "text": "Members of Congress describe the access problem in their own words: Burlison said the Department was not transparent to members even in a SCIF and that if you want to hide something from Congress you hand it to a private contractor, and Luna said programme budgets and oversight reporting are classified and go only to the authorising and appropriations committees.",
+      "text": "Members of Congress describe the access problem in their own words: Burlison said the Department was not transparent to members even in a SCIF and that if you want to hide something from Congress you hand it to a private contractor, and the September 2025 hearing record carries the statement that programme budgets and oversight reporting are classified and go only to the authorising and appropriations committees.",
       "cite": [
         "c-bf19f238f5",
         "c-f8538dedc0",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "text": "A carve-out does not end all oversight: substitute procedures must meet the industrial security manual's standards and frequency, the facility still holds a DCSA-issued clearance and so still exists in DCSA's records, and waived programmes are reviewed each year.",
+      "text": "A carve-out does not end all oversight: the 2010 directive required substitute procedures to meet at a minimum the industrial security manual's standards and frequency, the facility still holds a DCSA-issued clearance and so still exists in DCSA's records, and an internal SAP Oversight Committee reviews every waived programme each year.",
       "cite": [
         "c-9d0c63ff07",
         "c-a242fa3046",
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "text": "Congress has used the money to close the gap for this subject: sections 1687 and 7343 of the FY2024 laws condition defense and intelligence funding for UAP activity on disclosure to the committees and leadership, and since December 2024 an intelligence element may not move a capability from a controlled access programme into a special access programme until notice is given.",
+      "text": "Congress has used the money to close the gap for this subject: sections 1687 and 7343 of the FY2024 laws condition defense and intelligence funding for UAP activity on disclosure to the committees and leadership, and since December 2024 an intelligence element may not move a capability from a controlled access programme into a special access programme until notice is given, subject to two exceptions, for an urgent counterintelligence issue and for organisational restructuring, that carry no deadline for later notice.",
       "cite": [
         "e-b83e0af118",
         "e-4839a73518",
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "text": "AARO states that its investigators were granted full access to all pertinent sensitive government programmes, working with the SAP control offices of DoD, the intelligence community and DHS, and the named companies' executives denied the custody allegations on the record. The board's answer, that the SAPCO enterprise itself set what counted as pertinent, is its own inference.",
+      "text": "AARO states that its investigators were granted full access to all pertinent sensitive government programmes, working with the SAP control offices of DoD, the intelligence community and DHS, and it states that the named companies' executives denied the allegations on the record. The board's answer, that the SAPCO enterprise itself set what counted as pertinent, is its own inference.",
       "cite": [
         "c-8ef7bbf6ef",
         "c-d6102a1386",

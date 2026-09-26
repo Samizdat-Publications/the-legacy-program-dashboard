@@ -2,7 +2,7 @@
   "id": "government-denials",
   "order": 5,
   "title": "What does the government deny, and how?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
     "text": "The Department of Defense denies that any programme possessing or reverse-engineering extraterrestrial material has been found, in words that report what AARO has discovered rather than what exists. Read as a dated ledger, its statements on AATIP moved from acknowledgement to flat denial to partial concession, while its denial that Luis Elizondo ran the programme never moved.",
     "cite": ["c-45971da324", "c-4522a28213", "c-af41014f9e", "c-a3ee21ee62", "e-dbad302a21", "e-84374889be"]
@@ -21,11 +21,11 @@
       "cite": ["c-4522a28213", "c-af41014f9e", "c-a3ee21ee62", "e-dbad302a21"]
     },
     {
-      "text": "Some denials are records assertions: the Department told the press it had no record of any SAP called Immaculate Constellation, and on the board's reading a no-record answer is a statement about records rather than a denial that the programme exists.",
+      "text": "Some denials are records assertions: the Department told the press it had no record of any SAP called Immaculate Constellation, former AARO director Sean Kirkpatrick has denied that it exists, and on the board's reading a no-record answer is a statement about records rather than a denial that the programme exists.",
       "cite": ["e-ea347fcdd0", "c-9d3c590324"]
     },
     {
-      "text": "Denial has also been the required answer to true things: the National Reconnaissance Office's existence was classified for thirty-one years, and the CIA's own historian records Air Force investigators knowingly giving false explanations to protect U-2 and OXCART flights.",
+      "text": "Denial has also been the required answer to true things: the National Reconnaissance Office's existence was classified for thirty-one years, and the CIA historian Gerald Haines wrote in 1997 that Air Force investigators knowingly gave false explanations to protect U-2 and OXCART flights.",
       "cite": ["c-272d242095", "c-fd2bc6b6d5", "c-95d1314e10"]
     }
   ],
@@ -35,11 +35,11 @@
       "cite": ["e-a46c5f7e6b", "c-41b23ce7a4", "e-dbad302a21"]
     },
     {
-      "text": "On the board's reading the Department's own released records cut against its denial of Elizondo's role: September 2017 emails show him drafting a memorandum for Neill Tipton to assume the new responsibilities for AATIP, and he submitted the August 2017 release form for the AATIP-associated videos. The June 2019 statement concedes the programme and his contact with it, and turns on the word assigned.",
+      "text": "On the board's reading the Department's own released records cut against its denial of Elizondo's role: September 2017 emails show him drafting a memorandum for Neill Tipton to assume the new responsibilities for AATIP, and he submitted the August 2017 release form for the AATIP-associated videos. On the same reading, the June 2019 statement concedes the programme and his contact with it, and turns on the word assigned.",
       "cite": ["c-3988dbeb8d", "c-2653cd6ac6", "c-fd8f432074"]
     },
     {
-      "text": "Volume I found no non-disclosure agreements containing UAP information, and the Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme; the two statements cannot both stand as written. The Yankee Blue account itself comes from the Wall Street Journal, and a Pentagon spokesperson could not confirm the memo it described.",
+      "text": "Volume I states that AARO found no non-disclosure agreements containing UAP information, and the Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme; the two statements cannot both stand as written. The Yankee Blue account itself comes from the Wall Street Journal, and a Pentagon spokesperson could not confirm the memo it described.",
       "cite": ["e-0e78639067", "c-9e225ffcd3", "e-30c7342144"]
     },
     {
@@ -51,7 +51,7 @@
       "cite": ["c-c187ac2fa7", "c-45971da324"]
     },
     {
-      "text": "AARO has never publicly addressed the Immaculate Constellation name entered into the Congressional Record in either annual report or any PURSUE tranche, and its Volume II, promised by officials for months at a time since 2024, had not appeared as of August 2026.",
+      "text": "AARO has never publicly addressed the Immaculate Constellation name entered into the Congressional Record in either annual report or any PURSUE tranche, and Volume II, which Kosloski said in November 2024 would come within months, was not listed on AARO's own products index as of 12 August 2026.",
       "cite": ["e-765d165a11", "c-416d77d07d", "c-e27ac80551", "c-4494a4212c"]
     }
   ],
@@ -61,7 +61,7 @@
       "cite": ["c-e6f024d038", "c-63ed6b27a3"]
     },
     {
-      "text": "The companies named are on record: AARO met executives and chief technology officers of the named companies, and all denied the existence of the programmes and attested to the truthfulness of their statements on the record.",
+      "text": "The companies named are on record, by AARO's account: its report states that AARO met executives and chief technology officers of the named companies, and that all denied the existence of the programmes and attested to the truthfulness of their statements on the record.",
       "cite": ["c-684e8783c2"]
     },
     {
@@ -69,7 +69,7 @@
       "cite": ["c-9f4001a928", "c-afeadfedf4", "c-d2901ec4c5"]
     },
     {
-      "text": "The Navy has not hidden what it cannot explain: its spokesman stated in September 2019 that the Navy designates the objects in the three released videos as unidentified aerial phenomena.",
+      "text": "The Navy has acknowledged what it cannot explain: its spokesman stated in September 2019 that the Navy designates the objects in the three released videos as unidentified aerial phenomena.",
       "cite": ["c-20c625ae80", "c-4f6a2b87f2"]
     },
     {
@@ -91,7 +91,7 @@
   "threads": [
     {
       "id": "denials",
-      "text": "The denials thread joins eight documents each by a denial rather than a connection. AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson; Volume I found no UAP-related NDAs, contradicted by the Yankee Blue record; a Pentagon spokesperson could not confirm the Yankee Blue memo; AARO has never addressed Immaculate Constellation, of which the Department says it has no record; the Department told House Oversight staff that only HASC and HAC-D members could be read in; and MITRE conditions any production to Congress on coordination with its sponsoring agencies.",
+      "text": "The denials thread runs eight steps, each joined to the next by a denial rather than a connection. AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson; Volume I states that AARO found no UAP-related NDAs, which the board records as contradicted by the Yankee Blue record; a Pentagon spokesperson could not confirm the Yankee Blue memo; no AARO annual report, statement for the record or PURSUE tranche has addressed Immaculate Constellation, of which the Department says it has no record; the Department told House Oversight staff that only HASC and HAC-D members could be read in; and MITRE conditions any production to Congress on coordination with its sponsoring agencies.",
       "cite": ["e-39f56dc200", "e-0e78639067", "e-30c7342144", "e-765d165a11", "e-ea347fcdd0", "e-731b16e397", "e-f6f1333cae"]
     }
   ],

@@ -2,9 +2,9 @@
   "id": "other-governments",
   "order": 9,
   "title": "What do other governments say?",
-  "status": "drafted",
+  "status": "verified",
   "lead": {
-    "text": "Britain's defence intelligence study and Canada's defence committee found no threat, the Soviet programme by its own history found nothing extraterrestrial, and France and Chile now run open offices that resolve most reports. The exceptions are Brazil's Air Defence Command, which in 1986 called the objects its fighters chased solid and showing a form of intelligence, and a private French group of retired flag officers, COMETA, which in 1999 favoured the extraterrestrial hypothesis.",
+    "text": "Britain's defence intelligence study and Canada's defence committee found no threat, the Soviet programme's academic history records no landing, contact or abduction, and France and Chile run open offices that publish their findings. The exceptions are Brazil's Air Defence Command, which in 1986 called the objects its fighters chased solid and showing a form of intelligence, and COMETA, a private French association whose members included generals and an admiral, which in 1999 favoured the extraterrestrial hypothesis.",
     "cite": [
       "c-40c566f8f8",
       "c-fe06d11ebb",
@@ -12,7 +12,9 @@
       "c-7bc508ee22",
       "c-9c292e789a",
       "c-8c2d7a17ec",
-      "c-e46bb89c7f"
+      "c-e46bb89c7f",
+      "c-46f1a9ee0d",
+      "c-c2b2acda8b"
     ]
   },
   "answer": [
@@ -37,12 +39,13 @@
       ]
     },
     {
-      "text": "According to the history co-written by Yury Platov, who headed its academic working group, the Soviet Union ran a state programme on anomalous phenomena from 1978 to 1990 that registered about 3,000 messages, resolved more than 90 percent of events as rocket launches or balloons, and recorded no landing, contact or abduction.",
+      "text": "According to the history co-written by Yury Platov, who was the academic branch's chief executive, the Soviet Union ran a state programme on anomalous phenomena from 1978 to 1990 that registered about 3,000 messages, resolved more than 90 percent of events as rocket launches or balloons, and recorded no landing, contact or abduction.",
       "cite": [
         "c-0e4c35e827",
         "c-74818cf574",
         "c-d77bf36e2d",
-        "c-66772d8e0e"
+        "c-66772d8e0e",
+        "c-dea3955aa6"
       ]
     },
     {
@@ -59,11 +62,12 @@
   ],
   "for": [
     {
-      "text": "Brazil's Air Defence Command, reporting on the night of 19 May 1986 when fighters were launched against radar plots over four states, gave its opinion that the phenomena were solid and reflected a form of intelligence, by their capacity to follow and keep distance from observers and to fly in formation. The report was released only in 2009.",
+      "text": "Brazil's Air Defence Command, reporting on the night of 19 May 1986 when air force fighters pursued objects across four states, gave its opinion that the phenomena were solid and reflected a form of intelligence, by their capacity to follow and keep distance from observers and to fly in formation. The report was released only in 2009.",
       "cite": [
         "c-8c2d7a17ec",
         "e-3a69cf08ed",
-        "c-981bd03a48"
+        "c-981bd03a48",
+        "c-953874b965"
       ]
     },
     {
@@ -74,12 +78,14 @@
       ]
     },
     {
-      "text": "COMETA's 1999 report, by retired French generals and defence auditors and not a government body, concluded that the studies show the almost certain physical reality of unknown flying objects apparently operated by intelligent beings, that secret earthly craft can explain only a minority of cases, and that the extraterrestrial hypothesis alone accounts for the facts.",
+      "text": "COMETA's 1999 report, written by a private association whose members included generals and an admiral, not by a government body, concluded that the studies show the almost certain physical reality of unknown flying objects apparently operated by intelligent beings, that secret earthly craft can explain only a minority of cases, and that the extraterrestrial hypothesis alone accounts for the facts.",
       "cite": [
         "c-b94dfb6f81",
         "c-3e76177407",
         "c-e46bb89c7f",
-        "c-c2b2acda8b"
+        "c-c2b2acda8b",
+        "c-46f1a9ee0d",
+        "c-b69693cb4d"
       ]
     },
     {
@@ -105,7 +111,7 @@
   ],
   "against": [
     {
-      "text": "Condign, the most thorough foreign official study on the board, found no evidence either of intelligent control of the objects, alleged inspections of UK strategic assets or any hostility or threat, and recommended ending the monitoring.",
+      "text": "Britain's Condign study found no evidence either of intelligent control of the objects, alleged inspections of UK strategic assets or any hostility or threat, and recommended ending the monitoring.",
       "cite": [
         "c-40c566f8f8",
         "c-2f6a4db792"
@@ -142,7 +148,7 @@
       ]
     },
     {
-      "text": "Where offices disagreed on a single case, a conventional answer emerged: French analysts working with Chile's office proposed an airliner venting wastewater for the 2014 Chilean Navy footage, and independent analysts later matched it to scheduled flights.",
+      "text": "Where offices disagreed on a single case, a conventional answer emerged: French analysts working through GEIPAN proposed a medium-haul aircraft venting cabin wastewater for the 2014 Chilean Navy footage, which CEFAA rejected, and independent analysts later matched the footage to scheduled flights.",
       "cite": [
         "c-3f546b2497",
         "e-2373a72f32"
