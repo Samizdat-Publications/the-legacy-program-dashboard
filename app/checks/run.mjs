@@ -2691,6 +2691,10 @@ async function main() {
       if (p[0] === 'topic') return p.length === 2 && ID.test(p[1]);
       /* phase 9 */
       if (['people', 'orgs', 'programmes', 'laws', 'places', 'events'].includes(p[0])) return p.length === 1;
+      /* phase 10 */
+      if (p[0] === 'questions') return p.length === 1;
+      if (p[0] === 'q') return p.length === 2 && ID.test(p[1]);
+      if (p[0] === 'connect') return p.length === 1 || (p.length <= 3 && p.slice(1).every((x) => ID.test(x)));
       return false;
     };
     const seen = new Set(), offScheme = [], deadIds = [];
@@ -2704,6 +2708,8 @@ async function main() {
         if (p[0] === 't' && !threadIds.has(p[1])) deadIds.push(k + ':' + h);
         if (p[0] === 'patents' && !patentNums.has(p[1].replace(/[^0-9]/g, ''))) deadIds.push(k + ':' + h);
         if (p[0] === 'topic' && !topicIds.has(p[1])) deadIds.push(k + ':' + h);
+        if (p[0] === 'q' && !(questionsFile.questions || []).some((q) => q.id === p[1])) deadIds.push(k + ':' + h);
+        if (p[0] === 'connect' && p.slice(1).some((x) => x && !ids.has(x))) deadIds.push(k + ':' + h);
       }
     }
     check('c9', offScheme.length === 0, 'C9  every rendered in-app href is a route in the 2.1 scheme',
@@ -3401,7 +3407,7 @@ async function main() {
      opens to them and #/map still draws the map. */
   {
     const ROW = ['HOME', 'ATLAS', 'TIMELINE', 'EVIDENCE', 'PATENTS'];
-    const MOREL = ['DIRECTORIES', 'MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT'];
+    const MOREL = ['DIRECTORIES', 'QUESTIONS', 'CONNECT', 'MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT'];
     const bad = [];
     let n = 0;
     for (const [k, s] of Object.entries(S)) {
@@ -3415,7 +3421,7 @@ async function main() {
       const atlas = s.nav.primary.find((x) => x.label === 'ATLAS');
       if (!atlas || atlas.href !== '#/atlas') bad.push(k + ': ATLAS is not #/atlas');
     }
-    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and DIRECTORIES MAP THREADS NEIGHBOURHOOD REPORT under More',
+    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and DIRECTORIES QUESTIONS CONNECT MAP THREADS NEIGHBOURHOOD REPORT under More',
       bad.length ? clip(bad, 2) : `${n} screens`);
     if (MORE) {
       const unreach = MORE.open.filter((x) => x.href && !x.reachable).map((x) => x.label);
