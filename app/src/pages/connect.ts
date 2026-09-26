@@ -232,9 +232,9 @@ function route(r: Route, i: number, byId: Map<string, IndexNode>,
   const box = h('section', { class: 'croute', 'data-route': String(i + 1), 'data-mids': r.mids.join(' ') },
     h('div', { class: 'croute-head' },
       h('span', { class: 'eyebrow' }, 'Route ' + (i + 1)), ' ',
-      h('span', { class: 'dim' }, '· ' + r.hops.length + (r.hops.length === 1 ? ' link' : ' links') +
-        ' · each link graded ' + tiers.join(' ') + ' · ' + r.mids.length +
-        (r.mids.length === 1 ? ' thing' : ' things') + ' in between')));
+      h('span', { class: 'dim' }, '· ' + r.mids.length + (r.mids.length === 1 ? ' thing' : ' things') +
+        ' in between, ' + r.hops.length + (r.hops.length === 1 ? ' link' : ' links') +
+        ' · the links, one by one: ' + tiers.join(' ') + ' · the route itself is not graded')));
   if (hubs.length) {
     const names = hubs.map((m) => byId.get(m)!.label);
     box.append(h('div', { class: 'croute-hub', 'data-hubs': hubs.join(' ') },

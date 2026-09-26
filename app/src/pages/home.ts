@@ -15,7 +15,7 @@ import {
   loadIndex, loadHighlights, loadTopics, spanText,
   type BoardIndex, type Highlight, type TopicsFile,
 } from '../data';
-import { SAID_LABEL, SAID_TITLE, READ_T1 } from '../attrib';
+import { SAID_LABEL, SAID_TITLE, READ_T1, SAID_TWICE } from '../attrib';
 import { loadQuestions } from '../p10data';
 
 const n = (x: number) => x.toLocaleString('en-GB');
@@ -75,6 +75,7 @@ export async function renderHome(view: HTMLElement): Promise<void> {
     h('div', { class: 'ht-row' }, h('span', { class: 'ht-k t3' }, 'T3'),
       h('span', null, 'a stated inference: what the board reasons from the record, flagged as such.')),
     h('div', { class: 'ht-row said-read' }, h('span', { class: 'ht-k' }), h('span', null, READ_T1)),
+    h('div', { class: 'ht-row said-twice' }, h('span', { class: 'ht-k' }), h('span', null, SAID_TWICE)),
     h('div', { class: 'ht-row' }, h('span', { class: 'said-mark' }, SAID_LABEL.said),
       h('span', null, SAID_TITLE.said)),
     h('div', { class: 'ht-row' }, h('span', { class: 'said-mark' }, SAID_LABEL.office),
