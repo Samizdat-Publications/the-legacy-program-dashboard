@@ -128,6 +128,10 @@ async function build(r: Route): Promise<string> {
     case 'topic':
       return 'TOPIC IN VIEW, as its page shows it:\n' + await topicState(r.id);
 
+    case 'directory':
+      return 'DIRECTORY of ' + r.dir + (r.q.toString() ? ', filtered by ' + r.q.toString() : '') +
+        ': a table of every node of that class. The board in summary:\n' + await runTool('overview', {});
+
     case 'notfound':
       return 'A route that does not resolve (' + r.raw + '). Nothing is open. ' +
         'The ten most connected nodes:\n' + await topTen();
@@ -178,6 +182,7 @@ export async function stateSummary(r: Route): Promise<string> {
     case 'hood': return 'reading the neighbourhood';
     case 'atlas': return 'reading the Atlas';
     case 'topic': return 'reading the topic ' + r.id;
+    case 'directory': return 'reading the ' + r.dir + ' directory';
     default: return 'reading the board';
   }
 }

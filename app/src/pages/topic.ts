@@ -82,6 +82,11 @@ export async function renderTopic(view: HTMLElement, id: string): Promise<void> 
       h('span', { class: 't2' }, tiers[1] + ' at Tier 2'), ' · ',
       h('span', { class: 't3' }, tiers[2] + ' at Tier 3')));
   }
+  /* phase 9: the members' events on the timeline, and the members who are people */
+  if (rec.members.length) {
+    facts.append(h('span', null, h('a', { href: '#/timeline?topic=' + rec.id }, 'its events on the timeline'),
+      ' · ', h('a', { href: '#/people?topic=' + rec.id }, 'its people')));
+  }
   page.append(facts);
 
   /* ---- a research gap says so, first ------------------------------------ */

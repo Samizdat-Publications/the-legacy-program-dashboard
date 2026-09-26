@@ -15,6 +15,9 @@
  *   #/report/n/<id>             #/report/t/<id>
  *   #/atlas                     the Atlas of topics (redesign phase 6)
  *   #/topic/<id>                a topic (redesign phase 6)
+ *   #/people #/orgs #/programmes #/laws #/places #/events
+ *                               the directories (redesign phase 9), filters in the query
+ *   #/timeline                  also ?strand= ?topic= (redesign phase 9)
  *
  * Anything else is not-found, and the not-found page names the route it was given.
  * Every route is shareable; back always works because every state is a hash.
@@ -30,14 +33,18 @@ export type Route =
   | { kind: 'map'; cell: string | null }
   | { kind: 'thread'; id: string }
   | { kind: 'thread-map'; id: string }
-  | { kind: 'timeline'; era: string | null; scope: string | null }
+  | { kind: 'timeline'; era: string | null; scope: string | null; strand: string | null; topic: string | null }
   | { kind: 'patents'; number: string; sheet: string | null }
   | { kind: 'evidence'; q: URLSearchParams }
   | { kind: 'report-node'; id: string }
   | { kind: 'report-thread'; id: string }
   | { kind: 'atlas' }
   | { kind: 'topic'; id: string }
+  | { kind: 'directory'; dir: string; q: URLSearchParams }
   | { kind: 'notfound'; raw: string };
+
+/* The six directories of redesign phase 9, by route word. */
+export const DIRECTORIES = ['people', 'orgs', 'programmes', 'laws', 'places', 'events'];
 
 /* Board ids are lower-case words joined by hyphens, sometimes with digits or a
    dot. Anything outside that shape is not an id and must not resolve. */
@@ -83,7 +90,7 @@ export function parseRoute(hash: string): Route {
 
   if (p[0] === 'timeline') {
     if (p.length !== 1) return bad();
-    return { kind: 'timeline', era: q.get('era'), scope: q.get('scope') };
+    return { kind: 'timeline', era: q.get('era'), scope: q.get('scope'), strand: q.get('strand'), topic: q.get('topic') };
   }
 
   if (p[0] === 'patents') {
@@ -104,6 +111,11 @@ export function parseRoute(hash: string): Route {
   if (p[0] === 'topic') {
     if (p.length !== 2 || !ID.test(p[1])) return bad();
     return { kind: 'topic', id: p[1] };
+  }
+
+  if (DIRECTORIES.indexOf(p[0]) >= 0) {
+    if (p.length !== 1) return bad();
+    return { kind: 'directory', dir: p[0], q };
   }
 
   if (p[0] === 'report') {

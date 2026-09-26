@@ -1,95 +1,128 @@
-/* Timeline: Design response section 1.7, routes #/timeline, ?era=, ?scope=.
+/* Timeline: routes #/timeline, ?era= ?scope= ?strand= ?topic=.
  *
- * Four strand lanes (the board's own `strand` values) by five era columns (the
- * eras of index.json). A closed era shows one count per lane and opens on click.
- * The open era shows year gridlines and its events as 11px chips packed into
- * rows so that no two overlap; an event that cannot be placed at 11px is a 5px
- * mark until its year is opened, and a year opens on click.
+ * Redesign phase 9. The lanes are the ten topic sections (an event belongs to
+ * the section of its node's primary topic; an event whose node is in no topic,
+ * or that names no node, is in the last lane), and the four strands the lanes
+ * used to be are a filter. Columns are the eras of index.json. A closed era shows
+ * one count per lane and opens on click. The open era shows year gridlines and
+ * its events as 11px chips packed so that no two overlap; the events a year
+ * cannot place are COUNTED ("+N"), and the count opens their named list. There
+ * are no unnamed marks. A year opens wider on click.
  *
- * Scope chips ALL / NODE / THREAD are drawn when the route carries an id.
+ * Clicking an event (a chip, or a row of a counted list) shows its text, date,
+ * grade and node in the panel over the grid. A same-day repeat (same node, same
+ * day, near-identical label: build_app_data.py) is not drawn a second time: the
+ * event it repeats carries it, with both sets of sources. An event dated after
+ * the board's own date is marked as scheduled.
  *
- * Nothing here is written: every string is an event's own label, an era's own
- * label, or a count. The page publishes window.__app.timeline.placed(), which
- * measures the rendered DOM rather than reporting what the layout intended.
+ * Scope chips ALL / NODE / THREAD / TOPIC are drawn when the route carries one.
+ *
+ * Nothing here is written: every string is an event's own label or text, a
+ * section's or era's own title, or a count. The page publishes
+ * window.__app.timeline.placed(), which measures the rendered DOM.
  */
 import '../styles/timeline.css';
 import { h, clear } from '../dom';
 import { setTitle } from '../router';
-import { loadIndex, clsColour, type IndexNode } from '../data';
+import { loadIndex, loadTopics, clsColour, type IndexNode, type TopicsFile } from '../data';
 import { loadThreads, threadById } from '../thread/data';
 import { loadTimeline } from '../timeline/source';
 import {
-  lanes, packLane, eraYears, yearSlots, textWidth,
-  CHIP_H, ROW_PITCH, MARK_W, MARK_H,
-  type TEvent, type EraDef, type LaneLayout, type YearSlot,
+  lanes, packLane, eraYears, yearSlots, textWidth, STRANDS,
+  CHIP_H, ROW_PITCH,
+  type TEvent, type EraDef, type LaneLayout, type YearSlot, type Lane,
 } from '../timeline/layout';
 
-const CLOSED_COL = 132;          /* px per closed era column                  */
-const LANE_LABEL_COL = 168;      /* px of the strand-name column              */
+const CLOSED_COL = 112;          /* px per closed era column                  */
+const LANE_LABEL_COL = 176;      /* px of the section-name column             */
 const OPEN_YEAR_WEIGHT = 6;      /* an opened year against a closed one       */
 
-/* Years the reader has opened, kept per era. Not in the URL: section 2.1
-   defines ?era= and ?scope= for this route and nothing else, and inventing a
-   third parameter would put a route in the page that 2.1 does not carry. */
+/* Years the reader has opened, kept per era, and what the panel shows. Not in
+   the URL: they are views of the page, not places a reader links to. */
 const openYears = new Map<string, Set<number>>();
+type Pick = { kind: 'event'; id: string } | { kind: 'list'; ids: string[]; lane: string; year: number } | null;
+let pick: Pick = null;
 
 interface Ctx {
   view: HTMLElement;
-  events: TEvent[];        /* after scope filtering */
-  all: TEvent[];           /* every event, for the header count */
+  events: TEvent[];        /* drawn: after scope and strand, repeats removed */
+  all: TEvent[];           /* every event, for the header and the repeats     */
+  byEv: Map<string, TEvent>;
+  repeats: Map<string, TEvent[]>;
+  lanes: Lane[];
   eras: EraDef[];
   byId: Map<string, IndexNode>;
   eraId: string;
   scope: string | null;
+  strand: string | null;
+  topic: string | null;
   scopeLabel: string | null;
-  present: number;         /* the year the board was generated */
+  topicLabel: string | null;
+  present: string;         /* the board's own date, yyyy-mm-dd */
+  route: { era: string | null; scope: string | null; strand: string | null; topic: string | null };
 }
 
 export async function renderTimeline(
   view: HTMLElement, era: string | null, scope: string | null,
+  strand: string | null = null, topic: string | null = null,
 ): Promise<void> {
   clear(view);
   setTitle('Timeline');
 
-  const [idx, all] = await Promise.all([loadIndex(), loadTimeline()]);
+  const [idx, all, topics] = await Promise.all([loadIndex(), loadTimeline(), loadTopics()]);
   const byId = new Map<string, IndexNode>();
   for (const n of idx.nodes) byId.set(n.id, n);
+  const byEv = new Map<string, TEvent>();
+  for (const e of all) byEv.set(e.id, e);
+
+  /* the repeats, under the event each repeats */
+  const repeats = new Map<string, TEvent[]>();
+  for (const e of all) {
+    if (!e.sameAs) continue;
+    const l = repeats.get(e.sameAs);
+    if (l) l.push(e); else repeats.set(e.sameAs, [e]);
+  }
 
   /* ---- scope ----------------------------------------------------------- */
-  let events = all;
+  let events = all.filter((e) => !e.sameAs);
   let scopeLabel: string | null = null;
-  let scopeBad: string | null = null;
+  const bad: string[] = [];
   if (scope && scope.indexOf('n:') === 0) {
     const id = scope.slice(2);
     const n = byId.get(id);
-    if (!n) scopeBad = 'No node with the id ' + id + ' is on the board.';
-    else {
-      scopeLabel = n.label;
-      events = all.filter((e) => e.node === id);
-    }
+    if (!n) bad.push('No node with the id ' + id + ' is on the board.');
+    else { scopeLabel = n.label; events = events.filter((e) => e.node === id); }
   } else if (scope && scope.indexOf('t:') === 0) {
     const id = scope.slice(2);
     const tf = await loadThreads();
     const th = threadById(tf, id);
-    if (!th) scopeBad = 'No thread with the id ' + id + ' is authored.';
+    if (!th) bad.push('No thread with the id ' + id + ' is authored.');
     else {
       scopeLabel = th.label;
       const ids = new Set(th.steps.map((s) => s.node));
-      events = all.filter((e) => !!e.node && ids.has(e.node));
+      events = events.filter((e) => !!e.node && ids.has(e.node));
     }
   } else if (scope) {
-    scopeBad = 'A scope is n:<node id> or t:<thread id>. This route carries ' + scope + '.';
+    bad.push('A scope is n:<node id> or t:<thread id>. This route carries ' + scope + '.');
   }
+  let topicLabel: string | null = null;
+  if (topic) {
+    const t = topics.topics.filter((x) => x.id === topic)[0];
+    if (!t) bad.push('No topic with the id ' + topic + ' is on the board.');
+    else {
+      topicLabel = t.title;
+      events = events.filter((e) => !!e.node && inTopic(topics, e.node, topic));
+    }
+  }
+  if (strand && !STRANDS.some((s) => s.id === strand)) bad.push('No strand is called ' + strand + '.');
+  else if (strand) events = events.filter((e) => e.strand === strand);
 
-  /* The NO DATE column is drawn only when it holds an event: an empty column in
-     every strand is a column of nothing (blind critic round 0). */
+  /* The NO DATE column is drawn only when it holds an event. */
   const undatedEra = (e: EraDef) => e.start == null && e.end == null;
   const eras = (idx.eras as EraDef[]).filter((e) => !undatedEra(e) || events.some((x) => x.era === e.id));
-  const present = Number(String(idx.generated || '').slice(0, 4)) || new Date().getFullYear();
+  const present = String(idx.generated || '').slice(0, 10) || new Date().toISOString().slice(0, 10);
 
-  /* Which era is open. The route wins; with no era in the route the era
-     carrying the most events in the current scope opens, so the page never
-     opens on an empty column. */
+  /* The route's era wins; otherwise the era with the most events in view. */
   let eraId = '';
   if (era && eras.some((x) => x.id === era)) eraId = era;
   else {
@@ -100,30 +133,59 @@ export async function renderTimeline(
     }
   }
 
-  const ctx: Ctx = { view, events, all, eras, byId, eraId, scope, scopeLabel, present };
-  view.append(header(ctx, scopeBad));
+  /* every section lane when nothing narrows the view; only the lanes holding
+     something when a scope, a topic or a strand does */
+  let laneList = lanes(topics.sections);
+  if (scope || topic || strand) laneList = laneList.filter((l) => events.some((e) => e.section === l.id));
+  if (!laneList.length) laneList = lanes(topics.sections).slice(0, 1);
+
+  const ctx: Ctx = {
+    view, events, all, byEv, repeats, lanes: laneList, eras, byId, eraId, scope, strand, topic,
+    scopeLabel, topicLabel, present, route: { era, scope, strand, topic },
+  };
+  /* a pick from another era or scope does not survive into this one */
+  const inView = new Set(events.filter((e) => e.era === eraId).map((e) => e.id));
+  if (pick && pick.kind === 'event' && !inView.has(pick.id)) pick = null;
+  if (pick && pick.kind === 'list' && !pick.ids.every((id) => inView.has(id))) pick = null;
+
+  view.append(header(ctx, bad));
   if (window.innerWidth <= 760) { view.append(phoneList(ctx)); publish(); return; }
+  const panel = h('div', { class: 'tl-detail', 'aria-live': 'polite' });
+  view.append(panel);
   const grid = buildGrid(ctx);
   view.append(grid);
-  /* Two passes: the skeleton establishes the column widths and the lane
-     heights the viewport actually allows, then the packing runs against the
-     measured numbers rather than against an assumed viewport. */
-  fill(ctx, grid);
+  /* Two passes: the skeleton establishes the column widths the viewport allows,
+     then the packing runs against the measured numbers. */
+  fill(ctx, panel);
+  drawPanel(ctx, panel);
   publish();
+}
+
+function inTopic(topics: TopicsFile, node: string, topic: string): boolean {
+  const ai = topics.appearsIn[node];
+  return !!ai && ai.some((x) => x[0] === topic);
 }
 
 /* ---- header ------------------------------------------------------------- */
 
-function header(c: Ctx, bad: string | null): HTMLElement {
+function header(c: Ctx, bad: string[]): HTMLElement {
   const openEra = c.eras.filter((e) => e.id === c.eraId)[0];
-  const strands = lanes(c.all).length;
+  const nRep = c.all.filter((e) => !!e.sameAs).length;
   const bits: string[] = [
-    c.all.length + ' events in ' + strands + ' strands',
+    c.all.length + ' events' + (nRep ? ', ' + nRep + ' of them same-day repeats shown once' : '') +
+      ', in ' + c.lanes.length + ' section lanes',
   ];
-  if (c.scopeLabel) bits.push('scope ' + c.scopeLabel + ' · ' + c.events.length + ' events');
+  if (c.scopeLabel || c.topicLabel || c.strand) bits.push(c.events.length + ' in view');
   if (openEra) bits.push('era ' + openEra.label + ' open');
-  bits.push('a closed era opens on click');
-  bits.push('an event whose name will not fit is a dot until its year is opened');
+  const later = c.events.filter((e) => e.era === c.eraId && scheduled(c, e)).length;
+  if (later) bits.push(later + (later === 1 ? ' event is' : ' events are') + ' dated after the board’s date of ' + c.present + ': scheduled, marked in amber');
+  if (window.innerWidth > 760) {
+    bits.push('a chip starts at its date, or ends there when its colour bar is on the right; the bar’s colour ' +
+      'is the class of the event’s node; click one to read it; a +N count opens the N events of that year it stands for');
+    bits.push('an event sits in the section of its node’s primary topic, whatever its date');
+  } else {
+    bits.push('tap an event to read it; an event sits in the section of its node’s primary topic');
+  }
 
   const line = h('div', { class: 'tl-head' },
     h('span', { class: 'eyebrow' }, 'Timeline'),
@@ -131,35 +193,53 @@ function header(c: Ctx, bad: string | null): HTMLElement {
   );
   const chips = scopeChips(c);
   if (chips) line.append(chips);
-  if (bad) {
-    return h('div', null, line, h('div', { class: 'tl-bad red' }, bad));
-  }
-  return line;
+  const wrap = h('div', { class: 'tl-top' }, line, strandChips(c));
+  for (const b of bad) wrap.append(h('div', { class: 'tl-bad red' }, b));
+  return wrap;
 }
 
-function href(era: string | null, scope: string | null): string {
+function href(c: Ctx, over: Partial<Ctx['route']>): string {
+  const r = { ...c.route, era: c.eraId, ...over };
   const q: string[] = [];
-  if (era) q.push('era=' + encodeURIComponent(era));
-  if (scope) q.push('scope=' + encodeURIComponent(scope));
+  if (r.era) q.push('era=' + encodeURIComponent(r.era));
+  if (r.scope) q.push('scope=' + encodeURIComponent(r.scope));
+  if (r.topic) q.push('topic=' + encodeURIComponent(r.topic));
+  if (r.strand) q.push('strand=' + encodeURIComponent(r.strand));
   return '#/timeline' + (q.length ? '?' + q.join('&') : '');
 }
 
-/* ALL · NODE · THREAD. They exist only when the route carries an id, because a
-   scope chip with nothing to scope to is a control that cannot be honest. */
+/* The strands, as a filter. */
+function strandChips(c: Ctx): HTMLElement {
+  const wrap = h('div', { class: 'tl-strands', role: 'group', 'aria-label': 'Filter by strand' });
+  wrap.append(h('span', { class: 'eyebrow' }, 'Strand'));
+  wrap.append(c.strand
+    ? h('a', { class: 'tl-sc', href: href(c, { strand: null }), 'data-strand': '' }, 'ALL')
+    : h('span', { class: 'tl-sc on', 'data-strand': '' }, 'ALL'));
+  for (const s of STRANDS) {
+    const on = c.strand === s.id;
+    wrap.append(on
+      ? h('span', { class: 'tl-sc on', 'data-strand': s.id }, s.label)
+      : h('a', { class: 'tl-sc', href: href(c, { strand: s.id }), 'data-strand': s.id }, s.label));
+  }
+  return wrap;
+}
+
+/* ALL and the scope in force. They exist only when the route carries one,
+   because a scope chip with nothing to scope to is a control that cannot be
+   honest. */
 function scopeChips(c: Ctx): HTMLElement | null {
-  if (!c.scope) return null;
-  const isNode = c.scope.indexOf('n:') === 0;
+  if (!c.scope && !c.topic) return null;
   const wrap = h('div', { class: 'tl-scope' });
-  wrap.append(h('a', {
-    class: 'tl-sc',
-    href: href(c.eraId, null),
-  }, 'SCOPE · ALL'));
-  wrap.append(isNode
-    ? h('span', { class: 'tl-sc on' }, 'SCOPE · NODE · ' + (c.scopeLabel || c.scope.slice(2)))
-    : h('span', { class: 'tl-sc off', title: 'No node id is carried by this route.' }, 'SCOPE · NODE'));
-  wrap.append(!isNode
-    ? h('span', { class: 'tl-sc on' }, 'SCOPE · THREAD · ' + (c.scopeLabel || c.scope.slice(2)))
-    : h('span', { class: 'tl-sc off', title: 'No thread id is carried by this route.' }, 'SCOPE · THREAD'));
+  wrap.append(h('a', { class: 'tl-sc', href: href(c, { scope: null, topic: null }) }, 'SCOPE · ALL'));
+  if (c.scope) {
+    const isNode = c.scope.indexOf('n:') === 0;
+    wrap.append(h('span', { class: 'tl-sc on' },
+      'SCOPE · ' + (isNode ? 'NODE' : 'THREAD') + ' · ' + (c.scopeLabel || c.scope.slice(2))));
+  }
+  if (c.topic) {
+    wrap.append(h('span', { class: 'tl-sc on', 'data-topic': c.topic },
+      'SCOPE · TOPIC · ' + (c.topicLabel || c.topic)));
+  }
   return wrap;
 }
 
@@ -174,23 +254,18 @@ function buildGrid(c: Ctx): HTMLElement {
 
   const cols = [LANE_LABEL_COL + 'px'];
   for (const e of c.eras) cols.push(e.id === c.eraId ? 'minmax(300px, 1fr)' : CLOSED_COL + 'px');
+  const grid = h('div', { class: 'tl-grid', style: 'grid-template-columns:' + cols.join(' ') });
 
-  const grid = h('div', {
-    class: 'tl-grid',
-    style: 'grid-template-columns:' + cols.join(' '),
-  });
-
-  /* era head row */
   grid.append(h('div', { class: 'tl-corner' }));
   for (const e of c.eras) {
     const open = e.id === c.eraId;
     const n = c.events.filter((x) => x.era === e.id).length;
     const head: HTMLElement = open
       ? h('div', { class: 'tl-era open' })
-      : h('a', { class: 'tl-era', href: href(e.id, c.scope) });
+      : h('a', { class: 'tl-era', href: href(c, { era: e.id }) });
     head.append(h('div', { class: 'tl-era-label' }, e.label));
     head.append(h('div', { class: 'tl-era-sub dim' },
-      e.sub + ' · ' + n + (open ? ' events · years below open on click' : ' events · click to open')));
+      e.sub + ' · ' + n + (open ? ' events · a year widens on click' : ' events · click to open')));
     if (open) {
       const yh = h('div', { class: 'tl-years' });
       head.append(yh);
@@ -199,23 +274,23 @@ function buildGrid(c: Ctx): HTMLElement {
     grid.append(head);
   }
 
-  /* one row per lane */
-  for (const lane of lanes(c.all)) {
-    const laneEvents = c.events.filter((x) => x.strand === lane.id);
-    grid.append(h('div', { class: 'tl-lane-name' },
-      h('div', { class: 'eyebrow' }, lane.label),
+  for (const lane of c.lanes) {
+    const laneEvents = c.events.filter((x) => x.section === lane.id);
+    grid.append(h('div', { class: 'tl-lane-name', 'data-section': lane.id },
+      h('div', { class: 'tl-lane-label' }, lane.label),
       h('div', { class: 'dim tl-lane-n' }, laneEvents.length + ' of ' + c.events.length),
     ));
     for (const e of c.eras) {
       const n = laneEvents.filter((x) => x.era === e.id).length;
       if (e.id === c.eraId) {
-        const pack = h('div', { class: 'tl-pack', 'data-strand': lane.id, 'data-era': e.id });
+        const pack = h('div', { class: 'tl-pack', 'data-section': lane.id, 'data-era': e.id });
         cells.packs.set(lane.id, pack);
         grid.append(h('div', { class: 'tl-cell open' }, pack));
       } else {
         grid.append(h('div', { class: 'tl-cell' },
-          h('a', { class: 'tl-count', href: href(e.id, c.scope) },
-            h('b', null, String(n)), ' ', h('span', { class: 'dim' }, n === 1 ? 'event' : 'events'))));
+          n ? h('a', { class: 'tl-count', href: href(c, { era: e.id }) },
+            h('b', null, String(n)), ' ', h('span', { class: 'dim' }, n === 1 ? 'event' : 'events'))
+            : h('span', { class: 'tl-none faint' }, 'none')));
       }
     }
   }
@@ -224,153 +299,252 @@ function buildGrid(c: Ctx): HTMLElement {
 
 /* ---- the packing pass --------------------------------------------------- */
 
-function fill(c: Ctx, grid: HTMLElement): void {
-  const laneList = lanes(c.all);
-  const first = cells.packs.get(laneList[0].id);
+function fill(c: Ctx, panel: HTMLElement): void {
+  const first = cells.packs.get(c.lanes[0].id);
   if (!first) return;
 
   const width = Math.max(120, Math.floor(first.getBoundingClientRect().width));
-  const top = first.getBoundingClientRect().top + window.scrollY;
-  const room = Math.max(240, window.innerHeight - (top - window.scrollY) - 28);
-  const perLane = room / laneList.length;
-  const chipRowBudget = Math.max(3, Math.min(14, Math.floor((perLane - 30) / ROW_PITCH)));
+  const top = first.getBoundingClientRect().top;
+  const room = Math.max(240, window.innerHeight - top - 28);
+  const perLane = room / c.lanes.length;
+  /* at least eight rows a lane: with eleven lanes the page scrolls rather than
+     leaving most events behind a count */
+  const chipRowBudget = Math.max(8, Math.min(14, Math.floor((perLane - 30) / ROW_PITCH)));
 
   const era = c.eras.filter((e) => e.id === c.eraId)[0];
   const inEra = c.events.filter((e) => e.era === c.eraId);
   /* The year axis is the era's own shape, taken from every event the board has
-     in it, not from the scoped subset: a scope filters what is drawn, it does
-     not move an event's date along the axis. */
+     in it, not from the scoped subset. It stops at the last year that has an
+     event: a year after the board's own date with nothing in it is not drawn. */
   const eraAll = c.all.filter((e) => e.era === c.eraId);
-  /* ...and it stops at the last year that has an event: a year after the
-     board's own date with nothing in it is not drawn (the axis used to run on
-     to 2029 through two empty future years). */
   const hasEvent = new Set(eraAll.map((e) => Number(e.date.slice(0, 4))));
-  const years = (era ? eraYears(era, eraAll) : []).filter((y) => y <= c.present || hasEvent.has(y));
+  const presentYear = Number(c.present.slice(0, 4));
+  const years = (era ? eraYears(era, eraAll) : []).filter((y) => y <= presentYear || hasEvent.has(y));
   let open = openYears.get(c.eraId);
   if (!open) { open = new Set<number>(); openYears.set(c.eraId, open); }
-  const present = new Set(years);
-  for (const y of Array.from(open)) if (!present.has(y)) open.delete(y);
+  const inAxis = new Set(years);
+  for (const y of Array.from(open)) if (!inAxis.has(y)) open.delete(y);
 
   const slots = yearSlots(years, open, width, OPEN_YEAR_WEIGHT);
   drawYearHead(c, slots);
 
-  for (const lane of laneList) {
+  for (const lane of c.lanes) {
     const pack = cells.packs.get(lane.id);
     if (!pack) continue;
-    const evs = inEra.filter((e) => e.strand === lane.id);
+    const evs = inEra.filter((e) => e.section === lane.id);
     const lay = packLane(lane, evs, { width, slots, chipRowBudget });
-    paintLane(c, pack, lay, slots);
+    paintLane(c, pack, lay, slots, lane, panel);
   }
-  void grid;
 }
 
 function drawYearHead(c: Ctx, slots: YearSlot[]): void {
   const yh = cells.yearHead;
   if (!yh) return;
   clear(yh);
-  for (const s of slots) {
+  const presentYear = Number(c.present.slice(0, 4));
+  slots.forEach((s, i) => {
     const txt = String(s.year);
     const fits = s.w >= textWidth(txt) + 8;
-    /* a year after the board's own date holds only what is scheduled */
-    const later = s.year > c.present;
+    const later = s.year > presentYear;
+    /* years with no event after the board's date are not drawn, so the axis
+       can jump (2026 to 2029): the jump is marked, never hidden */
+    const gap = i > 0 && slots[i - 1].year !== s.year - 1;
     const b = h('button', {
-      class: 'tl-year' + (s.open ? ' on' : '') + (later ? ' later' : ''),
+      class: 'tl-year' + (s.open ? ' on' : '') + (later ? ' later' : '') + (gap ? ' gap' : ''),
       style: 'left:' + s.x.toFixed(1) + 'px;width:' + Math.max(1, s.w - 1).toFixed(1) + 'px',
       'aria-pressed': s.open ? 'true' : 'false',
-      'aria-label': (s.open ? 'close ' : 'open ') + txt,
-      title: (s.open ? 'close ' : 'open ') + txt + (later ? ": after the board's date, so scheduled events only" : ''),
+      'aria-label': (s.open ? 'narrow ' : 'widen ') + txt,
+      title: (s.open ? 'narrow ' : 'widen ') + txt + (later ? ": after the board's date, so scheduled events only" : '') +
+        (gap ? ' (the years ' + (slots[i - 1].year + 1) + ' to ' + (s.year - 1) + ' hold no event and are not drawn)' : ''),
       'data-year': txt,
     }, fits || s.open ? txt : null);
     b.addEventListener('click', () => {
       const set = openYears.get(c.eraId);
       if (!set) return;
       if (set.has(s.year)) set.delete(s.year); else set.add(s.year);
-      void renderTimeline(c.view, c.eraId, c.scope);
+      void renderTimeline(c.view, c.route.era, c.scope, c.strand, c.topic);
     });
     yh.append(b);
+  });
+}
+
+const scheduled = (c: Ctx, e: TEvent): boolean => e.date.slice(0, 10) > c.present;
+
+function paintLane(c: Ctx, pack: HTMLElement, lay: LaneLayout, slots: YearSlot[], lane: Lane, panel: HTMLElement): void {
+  clear(pack);
+  pack.style.height = Math.max(28, lay.height + 4) + 'px';
+
+  slots.forEach((s, i) => {
+    const gap = i > 0 && slots[i - 1].year !== s.year - 1;
+    pack.append(h('i', { class: 'tl-gl' + (s.open ? ' on' : '') + (gap ? ' gap' : ''), style: 'left:' + s.x.toFixed(1) + 'px', 'aria-hidden': 'true' }));
+  });
+
+  for (const it of lay.items) {
+    const pos = 'left:' + it.x.toFixed(1) + 'px;top:' + it.y + 'px;width:' + it.w + 'px;height:' + CHIP_H + 'px';
+    if (it.kind === 'chip' && it.ev) {
+      const ev = it.ev;
+      const n = ev.node ? c.byId.get(ev.node) : undefined;
+      const colour = n ? clsColour(n.cls) : 'var(--line2)';
+      const sched = scheduled(c, ev);
+      const b = h('button', {
+        type: 'button',
+        class: 'tl-chip' + (it.right ? ' right' : '') + (sched ? ' sched' : '') + (pick && pick.kind === 'event' && pick.id === ev.id ? ' on' : ''),
+        style: pos + ';' + (it.right ? 'border-right-color:' : 'border-left-color:') + colour,
+        title: when(ev) + (sched ? ' · scheduled' : '') + (n ? ' · ' + n.label : ''),
+        'data-tl-item': '1', 'data-kind': 'chip', 'data-id': ev.id, 'data-era': ev.era,
+        'data-section': lane.id, 'data-scheduled': sched ? '1' : null,
+      }, ev.label || '');
+      b.addEventListener('click', () => { pick = { kind: 'event', id: ev.id }; drawPanel(c, panel, true); markPick(); });
+      pack.append(b);
+    } else {
+      const ids = it.evs.map((e) => e.id);
+      const b = h('button', {
+        type: 'button',
+        class: 'tl-more' + (it.evs.some((e) => scheduled(c, e)) ? ' sched' : ''),
+        style: pos,
+        title: it.evs.length + ' more ' + (it.evs.length === 1 ? 'event' : 'events') + ' in ' + it.year + ', ' + lane.label + ': click for the list',
+        'aria-label': it.evs.length + ' more events in ' + it.year + ', ' + lane.label + ': open the list',
+        'data-tl-more': '1', 'data-kind': 'more', 'data-era': c.eraId, 'data-section': lane.id,
+        'data-year': String(it.year), 'data-ids': ids.join(' '),
+      }, moreText(it.evs.length, it.year, it.w));
+      b.addEventListener('click', () => { pick = { kind: 'list', ids, lane: lane.label, year: it.year }; drawPanel(c, panel, true); markPick(); });
+      pack.append(b);
+    }
   }
 }
 
-function paintLane(c: Ctx, pack: HTMLElement, lay: LaneLayout, slots: YearSlot[]): void {
-  clear(pack);
-  pack.style.height = Math.max(28, lay.height + 6) + 'px';
+/* A count names its year when the year has room for it (blind critic, phase 9
+   round 3: a bare "+16" did not say which year it stood for). */
+function moreText(n: number, year: number, w: number): string {
+  const long = year + ' +' + n;
+  return w >= textWidth(long) + 8 ? long : '+' + n;
+}
 
-  for (const s of slots) {
-    pack.append(h('i', {
-      class: 'tl-gl' + (s.open ? ' on' : ''),
-      style: 'left:' + s.x.toFixed(1) + 'px',
-      'aria-hidden': 'true',
-    }));
+/* the event in the panel is the chip marked on the grid */
+function markPick(): void {
+  const els = document.querySelectorAll('.tl-chip');
+  for (let i = 0; i < els.length; i++) {
+    const el = els[i] as HTMLElement;
+    el.classList.toggle('on', !!pick && pick.kind === 'event' && pick.id === el.getAttribute('data-id'));
   }
+}
 
-  for (const it of lay.items) {
-    const ev = it.ev;
+function when(ev: TEvent): string {
+  const d = ev.date.slice(0, ev.precision === 'year' ? 4 : ev.precision === 'month' ? 7 : 10);
+  return d + (ev.precision && ev.precision !== 'day' ? ' (' + ev.precision + ')' : '');
+}
+
+/* ---- the panel: one event, or the named list behind a count ------------- */
+
+function drawPanel(c: Ctx, panel: HTMLElement, reveal = false): void {
+  clear(panel);
+  panel.removeAttribute('data-mode');
+  panel.removeAttribute('data-id');
+  if (!pick) { panel.hidden = true; return; }
+  panel.hidden = false;
+  const close = h('button', { type: 'button', class: 'tl-d-close' }, 'close');
+  close.addEventListener('click', () => { pick = null; drawPanel(c, panel); markPick(); });
+
+  if (pick.kind === 'list') {
+    const p = pick;
+    panel.setAttribute('data-mode', 'list');
+    panel.append(h('div', { class: 'tl-d-head' },
+      h('span', { class: 'eyebrow' }, p.year + ' · ' + p.lane),
+      h('span', { class: 'dim tl-d-count' }, p.ids.length + (p.ids.length === 1 ? ' event' : ' events') + ' the lane had no room to name'),
+      close));
+    const ul = h('div', { class: 'tl-d-list' });
+    for (const id of p.ids) {
+      const ev = c.byEv.get(id);
+      if (!ev) continue;
+      const sched = scheduled(c, ev);
+      const b = h('button', { type: 'button', class: 'tl-li', 'data-id': id, 'data-scheduled': sched ? '1' : null },
+        h('span', { class: 'tl-li-date dim' }, when(ev)),
+        h('span', { class: 'tl-li-label' }, ev.label || 'no label on this event'),
+        sched ? h('span', { class: 'tl-sched' }, 'scheduled') : null);
+      b.addEventListener('click', () => { pick = { kind: 'event', id }; drawPanel(c, panel, true); markPick(); });
+      ul.append(b);
+    }
+    panel.append(ul);
+  } else {
+    const ev = c.byEv.get(pick.id);
+    if (!ev) { pick = null; panel.hidden = true; return; }
+    panel.setAttribute('data-mode', 'event');
+    panel.setAttribute('data-id', ev.id);
+    const sched = scheduled(c, ev);
     const n = ev.node ? c.byId.get(ev.node) : undefined;
-    const colour = n ? clsColour(n.cls) : 'var(--line2)';
-    const when = ev.date + (ev.precision && ev.precision !== 'day' ? ' (' + ev.precision + ')' : '');
-
-    if (it.kind === 'chip') {
-      const attrs: Record<string, string> = {
-        class: 'tl-chip',
-        style: 'left:' + it.x.toFixed(1) + 'px;top:' + it.y + 'px;width:' + it.w + 'px;height:' +
-          CHIP_H + 'px;border-left-color:' + colour,
-        title: when + (n ? ' · ' + n.label : ''),
-        'data-tl-item': '1',
-        'data-kind': 'chip',
-        'data-id': ev.id,
-        'data-era': ev.era,
-        'data-strand': ev.strand,
-      };
-      if (ev.node) {
-        pack.append(h('a', { ...attrs, href: '#/n/' + ev.node }, ev.label || ''));
-      } else {
-        pack.append(h('span', attrs, ev.label || ''));
+    panel.append(h('div', { class: 'tl-d-head' },
+      h('span', { class: 'tl-d-date' }, when(ev)),
+      sched ? h('span', { class: 'tl-sched' }, 'scheduled: after the board’s date of ' + c.present) : null,
+      h('span', { class: 'tl-d-grade dim' }, gradeText(ev)),
+      close));
+    panel.append(h('div', { class: 'tl-d-label' }, ev.label || 'no label on this event'));
+    if (ev.text) panel.append(h('p', { class: 'tl-d-text' }, ev.text));
+    const nodeLine = h('div', { class: 'tl-d-node' });
+    if (n) nodeLine.append(h('span', { class: 'dim' }, 'node '), h('a', { class: 'tl-d-nodelink', href: '#/n/' + n.id }, n.label));
+    else nodeLine.append(h('span', { class: 'faint' }, 'this event names no node'));
+    panel.append(nodeLine);
+    const reps = c.repeats.get(ev.id) || [];
+    srcList(panel, ev, reps.length ? 'sources of this entry' : 'sources');
+    if (reps.length) {
+      const box = h('div', { class: 'tl-d-also' },
+        h('div', { class: 'eyebrow' }, 'the same event, recorded again on the same day'));
+      for (const r of reps) {
+        box.append(h('div', { class: 'tl-d-rep', 'data-id': r.id },
+          h('div', { class: 'tl-d-replabel' }, r.label || ''),
+          r.text ? h('p', { class: 'tl-d-text dim' }, r.text) : null));
+        srcList(box, r, 'sources of that entry');
       }
-    } else {
-      const attrs: Record<string, string> = {
-        class: 'tl-mark',
-        style: 'left:' + it.x.toFixed(1) + 'px;top:' + it.y + 'px;width:' + MARK_W + 'px;height:' +
-          MARK_H + 'px;background:' + colour,
-        title: when + (ev.label ? ' · ' + ev.label : ' · no label on this event') +
-          ' · open ' + ev.date.slice(0, 4) + ' to place it',
-        'data-tl-item': '1',
-        'data-kind': 'mark',
-        'data-id': ev.id,
-        'data-era': ev.era,
-        'data-strand': ev.strand,
-      };
-      if (ev.node) pack.append(h('a', { ...attrs, href: '#/n/' + ev.node }));
-      else pack.append(h('i', attrs));
+      panel.append(box);
     }
   }
+  if (reveal) {
+    const r = panel.getBoundingClientRect();
+    if (r.top < 48 || r.top > window.innerHeight - 80) panel.scrollIntoView({ block: 'start', behavior: 'auto' });
+  }
+}
+
+function gradeText(ev: TEvent): string {
+  const bits: string[] = [];
+  if (ev.grade) bits.push('event grade ' + ev.grade);
+  if (ev.claimTier) bits.push('Tier ' + ev.claimTier);
+  return bits.length ? bits.join(' · ') : 'no grade recorded';
+}
+
+function srcList(host: HTMLElement, ev: TEvent, head: string): void {
+  const src = ev.sources || [];
+  if (!src.length) {
+    host.append(h('div', { class: 'tl-d-src faint' }, 'no source recorded on this entry; its node’s page carries the sources of its claims'));
+    return;
+  }
+  const box = h('div', { class: 'tl-d-src' }, h('span', { class: 'dim' }, head + ': '));
+  src.forEach((s, i) => {
+    if (i) box.append(h('span', { class: 'faint' }, ' · '));
+    box.append(s.url ? h('a', { href: s.url, rel: 'noreferrer', target: '_blank' }, s.text || s.url) : h('span', null, s.text));
+  });
+  host.append(box);
 }
 
 /* ---- what the checks read ----------------------------------------------- */
 
 export interface PlacedItem {
-  id: string; era: string; strand: string;
+  id: string; era: string; section: string;
   x: number; y: number; w: number; h: number;
-  kind: 'chip' | 'mark';
+  kind: 'chip' | 'more';
 }
 
-/* Measured off the rendered DOM, not off the layout's own numbers. C4 and C15
-   need to know what a reader sees, and this repo has been burned by checks that
-   agreed with the implementation while the pixels disagreed. */
+/* Measured off the rendered DOM, not off the layout's own numbers. */
 function placed(): PlacedItem[] {
   const out: PlacedItem[] = [];
-  const els = document.querySelectorAll('[data-tl-item]');
+  const els = document.querySelectorAll('[data-tl-item], [data-tl-more]');
   for (let i = 0; i < els.length; i++) {
     const el = els[i] as HTMLElement;
     const r = el.getBoundingClientRect();
     out.push({
-      id: el.getAttribute('data-id') || '',
+      id: el.getAttribute('data-id') || el.getAttribute('data-ids') || '',
       era: el.getAttribute('data-era') || '',
-      strand: el.getAttribute('data-strand') || '',
-      x: r.left + window.scrollX,
-      y: r.top + window.scrollY,
-      w: r.width,
-      h: r.height,
-      kind: (el.getAttribute('data-kind') as 'chip' | 'mark') || 'chip',
+      section: el.getAttribute('data-section') || '',
+      x: r.left + window.scrollX, y: r.top + window.scrollY, w: r.width, h: r.height,
+      kind: (el.getAttribute('data-kind') as 'chip' | 'more') || 'chip',
     });
   }
   return out;
@@ -383,37 +557,48 @@ function publish(): void {
 }
 
 /* ---- the phone ---------------------------------------------------------- */
-/* At phone width the lanes-by-eras grid cannot fit, so the open era is a list:
-   the eras as links, then each strand's events in date order, every one named. */
+/* At phone width the grid cannot fit, so the open era is a list: the eras as
+   links, then each section's events in date order, every one named, each
+   opening in place to its text, grade, node and repeats. */
 function phoneList(c: Ctx): HTMLElement {
   const wrap = h('div', { class: 'tlp' });
-  const pick = h('div', { class: 'tlp-eras' });
+  const eraRow = h('div', { class: 'tlp-eras' });
   for (const e of c.eras) {
     const n = c.events.filter((x) => x.era === e.id).length;
     const on = e.id === c.eraId;
-    pick.append(h(on ? 'span' : 'a', {
+    eraRow.append(h(on ? 'span' : 'a', {
       class: 'tlp-era' + (on ? ' on' : ''),
-      href: on ? null : href(e.id, c.scope),
+      href: on ? null : href(c, { era: e.id }),
       'aria-current': on ? 'true' : null,
     }, e.label + ' · ' + n));
   }
-  wrap.append(pick);
+  wrap.append(eraRow);
   const inEra = c.events.filter((e) => e.era === c.eraId)
     .slice().sort((a, b) => String(a.date).localeCompare(String(b.date)));
-  for (const lane of lanes(c.all)) {
-    const evs = inEra.filter((e) => e.strand === lane.id);
+  for (const lane of c.lanes) {
+    const evs = inEra.filter((e) => e.section === lane.id);
     if (!evs.length) continue;
-    const sec = h('section', { class: 'tlp-lane', 'data-strand': lane.id });
+    const sec = h('section', { class: 'tlp-lane', 'data-section': lane.id });
     sec.append(h('div', { class: 'tlp-head' },
-      h('span', { class: 'eyebrow' }, lane.label), ' ',
+      h('span', { class: 'tlp-title' }, lane.label), ' ',
       h('span', { class: 'dim' }, '· ' + evs.length + (evs.length === 1 ? ' event' : ' events'))));
     for (const ev of evs) {
       const n = ev.node ? c.byId.get(ev.node) : undefined;
       const colour = n ? clsColour(n.cls) : 'var(--line2)';
-      const label = ev.label || 'no label on this event';
-      sec.append(h('div', { class: 'tlp-row', style: 'border-left-color:' + colour },
-        h('span', { class: 'tlp-date dim' }, ev.date.slice(0, ev.precision === 'year' ? 4 : ev.precision === 'month' ? 7 : 10)),
-        ev.node ? h('a', { href: '#/n/' + ev.node }, label) : h('span', null, label)));
+      const sched = scheduled(c, ev);
+      const body = h('div', { class: 'tlp-body' },
+        h('div', { class: 'dim' }, gradeText(ev) + (sched ? ' · scheduled' : '')),
+        ev.text ? h('p', { class: 'tl-d-text' }, ev.text) : null);
+      if (n) body.append(h('div', null, h('span', { class: 'dim' }, 'node '), h('a', { href: '#/n/' + n.id }, n.label)));
+      else body.append(h('div', { class: 'faint' }, 'this event names no node'));
+      for (const r of c.repeats.get(ev.id) || []) {
+        body.append(h('div', { class: 'tl-d-rep dim' }, 'recorded again the same day: ' + (r.label || '')));
+      }
+      sec.append(h('details', { class: 'tlp-row', style: 'border-left-color:' + colour, 'data-id': ev.id },
+        h('summary', null,
+          h('span', { class: 'tlp-date dim' }, when(ev)),
+          h('span', { class: 'tlp-label' }, ev.label || 'no label on this event')),
+        body));
     }
     wrap.append(sec);
   }

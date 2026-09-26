@@ -491,6 +491,8 @@ def main():
              "research", "media", "other"}
     authored = {}          # (kind, id, field) -> set of authored values
     for path in sorted(glob.glob(os.path.join(ROOT, "research", "*.json"))):
+        if os.path.basename(path) == "_person_facets.json":
+            continue          # a side-car keyed by person id, not a node document
         try:
             doc = json.load(open(path, encoding="utf-8"))
         except Exception:
@@ -542,7 +544,7 @@ def main():
     verbs = {k: v for k, v in vocab["authoredVerbs"].items() if not k.startswith("_")}
     unmapped = set()
     for path in sorted(glob.glob(os.path.join(ROOT, "research", "*.json"))):
-        if os.path.basename(path) in ("_edge_tiers.json", "_predicates.json"):
+        if os.path.basename(path) in ("_edge_tiers.json", "_predicates.json", "_person_facets.json"):
             continue
         for x in json.load(open(path, encoding="utf-8")).get("edges") or []:
             t = x.get("type") or x.get("rel")

@@ -61,13 +61,14 @@ async function dispatch(r: Route): Promise<void> {
     case 'map': return void mapPage(view, { cell: r.cell });
     case 'thread': return (await import('./pages/thread')).renderThread(view, r.id);
     case 'thread-map': return void mapPage(view, { thread: r.id });
-    case 'timeline': return (await import('./pages/timeline')).renderTimeline(view, r.era, r.scope);
+    case 'timeline': return (await import('./pages/timeline')).renderTimeline(view, r.era, r.scope, r.strand, r.topic);
     case 'patents': return (await import('./pages/patents')).renderPatents(view, r.number, r.sheet);
     case 'evidence': return (await import('./pages/evidence')).renderEvidence(view, r.q);
     case 'report-node': return void renderNodeReport(view, r.id);
     case 'report-thread': return renderThreadReport(view, r.id);
     case 'atlas': return (await import('./pages/atlas')).renderAtlas(view);
     case 'topic': return (await import('./pages/topic')).renderTopic(view, r.id);
+    case 'directory': return (await import('./pages/directory')).renderDirectory(view, r.dir, r.q);
     case 'notfound': return notFound(view, r.raw);
   }
 }

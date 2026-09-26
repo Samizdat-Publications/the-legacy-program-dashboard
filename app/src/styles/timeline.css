@@ -138,16 +138,79 @@ a.tl-era:hover .tl-era-label { color: var(--text); }
   overflow: visible;
   text-overflow: clip;
 }
-a.tl-chip:hover { border-color: var(--cyan); border-left-color: var(--cyan); text-decoration: none; }
-span.tl-chip { color: var(--dim); }
+.tl-chip { font-family: inherit; text-align: left; cursor: pointer; }
+/* a chip that ends at its date: the class rule moves to the right edge */
+.tl-chip.right { border-left-width: 1px; border-left-color: var(--line2); border-right-width: 3px; border-right-style: solid; padding: 0 5px 0 6px; text-align: right; }
+.tl-chip:hover, .tl-chip:focus-visible { border-color: var(--cyan); border-left-color: var(--cyan); }
+.tl-chip.on { border-color: var(--amber); background: var(--panel2); }
+/* an event dated after the board's own date: scheduled, not happened */
+.tl-chip.sched { border-style: dashed; border-left-style: solid; color: var(--amber); }
 
-.tl-mark {
+/* a count: the events of one year in one lane that the lane had no room to
+   name. It opens their named list (redesign phase 9; there are no unnamed marks) */
+.tl-more {
   position: absolute;
-  display: block;
   box-sizing: border-box;
-  border: 0;
+  display: block;
+  font: inherit;
+  font-size: var(--fs-label);
+  line-height: 13px;
+  padding: 0 3px;
+  border: 1px solid var(--line2);
+  background: var(--bg);
+  color: var(--cyan);
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
 }
-a.tl-mark:hover { outline: 1px solid var(--cyan); }
+.tl-more:hover, .tl-more:focus-visible { border-color: var(--cyan); background: var(--panel2); }
+.tl-more.sched { color: var(--amber); border-style: dashed; }
+
+.tl-none { display: block; padding: 4px 0; }
+.tl-lane-label { color: var(--text); font-weight: 600; overflow-wrap: break-word; }
+
+.tl-top { display: grid; gap: 6px; }
+.tl-strands { display: flex; flex-wrap: wrap; gap: 6px; align-items: baseline; }
+.tl-strands .eyebrow { margin-right: 4px; }
+
+/* the panel: one event, or the named list behind a count */
+.tl-detail {
+  margin-top: 10px;
+  border: 1px solid var(--line2);
+  border-left: 2px solid var(--amber);
+  background: var(--panel);
+  padding: 8px 12px 10px;
+  max-width: 120ch;
+  scroll-margin-top: calc(var(--bar-h) + 10px);
+}
+.tl-detail[hidden] { display: none; }
+.tl-d-head { display: flex; flex-wrap: wrap; gap: 10px; align-items: baseline; }
+.tl-d-date { color: var(--text); font-weight: 600; }
+.tl-d-close { margin-left: auto; border: 1px solid var(--line2); color: var(--dim); padding: 1px 8px; font: inherit; font-size: var(--fs-label); background: transparent; cursor: pointer; }
+.tl-d-close:hover { color: var(--text); border-color: var(--cyan); }
+.tl-d-label { font-size: var(--fs-body); font-weight: 600; margin: 6px 0 4px; color: var(--text); }
+.tl-d-text { margin: 4px 0; font-size: var(--fs-body); line-height: 1.5; max-width: 100ch; }
+.tl-d-node, .tl-d-src { margin-top: 4px; overflow-wrap: break-word; }
+.tl-d-also { margin-top: 10px; padding-top: 6px; border-top: 1px solid var(--line); }
+.tl-d-replabel { margin-top: 4px; color: var(--text); }
+.tl-sched { color: var(--amber); }
+.tl-d-list { display: grid; gap: 2px; margin-top: 6px; max-height: 50vh; overflow-y: auto; }
+.tl-li {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: baseline;
+  text-align: left;
+  font: inherit;
+  font-size: var(--fs-label);
+  color: var(--text);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--bg2);
+  padding: 3px 4px;
+  cursor: pointer;
+}
+.tl-li:hover, .tl-li:focus-visible { background: var(--panel2); }
 
 @media (max-width: 1500px) {
   .tl-head-bits { max-width: 640px; }
@@ -160,17 +223,29 @@ a.tl-mark:hover { outline: 1px solid var(--cyan); }
 .tlp-era.on { border-color: var(--cyan); color: var(--text); background: var(--panel2); }
 .tlp-lane { display: grid; gap: 3px; }
 .tlp-head { margin-bottom: 3px; }
+.tlp-title { color: var(--text); font-weight: 600; }
 .tlp-row {
+  border-left: 2px solid var(--line2);
+  padding: 2px 0 2px 8px;
+}
+.tlp-row > summary {
   display: grid;
   grid-template-columns: 76px minmax(0, 1fr);
   gap: 8px;
   align-items: baseline;
-  border-left: 2px solid var(--line2);
-  padding: 2px 0 2px 8px;
+  cursor: pointer;
+  list-style: none;
 }
+.tlp-row > summary::-webkit-details-marker { display: none; }
+.tlp-row[open] > summary .tlp-label { color: var(--cyan); }
+.tlp-body { padding: 4px 0 6px 84px; display: grid; gap: 3px; }
 @media (max-width: 760px) {
   .tl-head { flex-wrap: wrap; }
 }
 
 /* a year after the board's own date: scheduled events only */
 .tl-year.later { color: var(--amber); font-style: italic; }
+
+/* a jump in the axis (years with no event after the board's date are not drawn) */
+.tl-year.gap { border-left: 3px double var(--amber); }
+.tl-gl.gap { width: 3px; border-left: 1px solid var(--amber); border-right: 1px solid var(--amber); background: transparent; opacity: 0.6; }

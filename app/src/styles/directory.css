@@ -1,0 +1,154 @@
+/* directory.css: the six directories (redesign phase 9). Tokens only; one label
+ * size; every cell wraps and nothing is truncated. The rail and the phone cards
+ * follow the evidence explorer's pattern. */
+
+.dir-wait { padding: 20px 0; }
+.dir-top { margin-bottom: 10px; }
+.dir-blurb { max-width: 110ch; margin: 0 0 10px; }
+.dir-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em; margin: 4px 0 10px; }
+.dir-tabs { display: flex; flex-wrap: wrap; gap: 4px; border-bottom: 1px solid var(--line); padding-bottom: 8px; }
+.dir-tab {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--dim);
+  padding: 3px 9px;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.dir-tab:hover { color: var(--text); border-color: var(--line2); text-decoration: none; }
+.dir-tab.on { color: var(--text); border-color: var(--cyan); background: var(--panel2); }
+.dir-tab-n { color: var(--faint); letter-spacing: 0; }
+.dir-tab.on .dir-tab-n { color: var(--cyan); }
+
+.dir-body {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+}
+.dir-rail { min-width: 0; position: sticky; top: calc(var(--bar-h) + 12px); max-height: calc(100vh - var(--bar-h) - 24px); overflow-y: auto; }
+.dir-main { min-width: 0; }
+.dir-note { margin: 0 0 8px; max-width: 60ch; }
+.dir-clear {
+  display: inline-block;
+  border: 1px solid var(--line2);
+  padding: 3px 8px;
+  margin-bottom: 4px;
+  color: var(--amber);
+}
+.dir-clear:hover { border-color: var(--amber); text-decoration: none; }
+.dir-ghead { margin: 12px 0 2px; }
+.dir-gblurb { margin: 0 0 5px; }
+.dir-chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.dir-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  max-width: 100%;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--dim);
+  padding: 2px 7px;
+}
+.dir-chip .dir-chip-l { overflow-wrap: break-word; min-width: 0; }
+.dir-chip .dir-chip-n { white-space: nowrap; color: var(--faint); }
+.dir-chip:hover { border-color: var(--line2); color: var(--text); text-decoration: none; }
+.dir-chip.on { border-color: var(--cyan); background: var(--panel2); color: var(--text); }
+.dir-chip.on .dir-chip-n { color: var(--cyan); }
+.dir-topic {
+  width: 100%;
+  font: inherit;
+  font-size: var(--fs-label);
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--line2);
+  padding: 3px 4px;
+}
+
+.dir-filter-toggle {
+  display: none;
+  border: 1px solid var(--line2);
+  background: var(--panel);
+  color: var(--text);
+  padding: 4px 10px;
+  letter-spacing: 0.08em;
+  margin: 4px 0 2px;
+}
+
+.dir-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 8px;
+  margin-bottom: 6px;
+}
+.dir-count { font-size: var(--fs-body); font-weight: 600; color: var(--text); }
+.dir-active { margin-left: auto; }
+
+.dir-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.dir-table th {
+  text-align: left;
+  font-weight: 400;
+  color: var(--faint);
+  letter-spacing: 0.09em;
+  padding: 4px 8px;
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: var(--bar-h);
+  background: var(--bg);
+  z-index: 5;
+}
+.dir-sort { color: var(--dim); }
+.dir-sort.on { color: var(--cyan); }
+.dir-table td {
+  padding: 5px 8px;
+  vertical-align: top;
+  border-bottom: 1px solid var(--bg2);
+  overflow-wrap: break-word;
+  word-break: normal;
+}
+.dir-table tr:hover td { background: var(--bg2); }
+.dir-table .c-name { width: 24%; }
+.dir-table .c-date { width: 17%; }
+.dir-table .c-topic { width: auto; }
+.dir-table .c-claims { width: 150px; white-space: nowrap; }
+.dir-table .c-links { width: 64px; }
+.dir-st { display: block; }
+.dir-era { display: block; }
+.dir-table.people .c-name { width: 17%; }
+.dir-table.people .c-roles { width: 15%; }
+.dir-table.people .c-status { width: 13%; }
+.dir-table.people .c-oath { width: 9%; }
+.dir-table.people .c-date { width: 13%; }
+
+@media (max-width: 1599px) {
+  .dir-body { grid-template-columns: 210px minmax(0, 1fr); gap: 16px; }
+}
+
+/* Phones: the rows first. The filters fold behind one control and each row is a
+   card, its fields named, since the column heads are not drawn. */
+@media (max-width: 760px) {
+  .dir-body { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .dir-rail { position: static; max-height: none; overflow: visible; }
+  .dir-filter-toggle { display: inline-flex; gap: 6px; align-items: baseline; }
+  .dir-rail[data-open='0'] .dir-filters { display: none; }
+  .dir-table, .dir-table tbody { display: block; }
+  .dir-table thead { display: none; }
+  .dir-table tr.dir-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 7px 9px;
+    margin-bottom: 6px;
+  }
+  .dir-table tr:hover td { background: none; }
+  .dir-table td { display: block; width: auto !important; padding: 0; border: 0; min-width: 0; white-space: normal; }
+  .dir-table td[data-h]::before { content: attr(data-h) ': '; color: var(--faint); }
+  .dir-st { display: inline; }
+  .dir-st + .dir-st::before { content: ' \00b7 '; color: var(--faint); }
+  .dir-active { margin-left: 0; }
+}

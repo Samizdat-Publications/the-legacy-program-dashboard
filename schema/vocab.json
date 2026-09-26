@@ -174,6 +174,13 @@
   "denied-by": {"type": "denial", "swap": true, "why": "'X denied-by Y' names the denier on `b`; the denial type expects the denier on `a`. It joins the unadjudicated list until data/denial-adjudication.json carries a verdict for it."}
  },
  "personStatus": ["active", "dead", "former", "alive", "unknown", "deceased", "missing", "fabricated", "resolved"],
+ "personFacets": {
+  "_what": "Redesign phase 9. research/_person_facets.json carries these per person, derived from the person's own record (never outside knowledge); `status` stays as authored. unknown is the honest answer when the record is silent. verify.py restates these lists and holds the side-car to them.",
+  "roles": ["official", "military", "intelligence", "scientist", "contractor", "legislator", "witness", "claimant", "researcher", "journalist", "media", "counsel"],
+  "vitalStatus": ["alive", "dead", "unknown"],
+  "roleStatus": ["current", "former", "unknown"],
+  "underOath": ["yes", "no", "unknown"]
+ },
  "strands": ["program", "witness", "oversight", "coverup"],
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",

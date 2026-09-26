@@ -483,9 +483,12 @@ def edges_json(s):
 
 
 def timeline_json(s):
+    # phase 9: the section lane, the primary topic, the event's own sources, and
+    # the same-day duplicates (see _timeline_extras)
+    sec, top, srcs, same = _timeline_extras(s)
     rows = []
     for t in s.board["timeline"]:
-        rows.append({
+        row = {
             "date": t.get("date"),
             "era": era_of(t.get("date")),
             "id": t["id"],
@@ -498,9 +501,127 @@ def timeline_json(s):
             # grade A/B/C and a claim tier 1/2/3. `tier` is not shipped.
             "grade": t.get("grade"),
             "claimTier": t.get("claimTier"),
-        })
+            "section": sec[t["id"]],
+            "topic": top[t["id"]],
+        }
+        if srcs.get(t["id"]):
+            row["sources"] = srcs[t["id"]]
+        if same.get(t["id"]):
+            row["sameAs"] = same[t["id"]]
+        rows.append(row)
     rows.sort(key=lambda r: (r["date"] or "", r["id"]))
     return rows
+
+
+TIMELINE_OTHER = "other"
+_STOP = {"the", "and", "for", "of", "to", "a", "an", "is", "on", "in", "at", "by", "its", "with"}
+
+
+def _norm_label(s):
+    return re.sub(r"[^a-z0-9]+", " ", str(s or "").lower()).strip()
+
+
+def near_same_label(a, b):
+    """Two labels of one node on one day name the same event when they are nearly
+    the same string (difflib ratio 0.7 or more, compared with spaces removed so
+    STARGATE meets STAR GATE), or when every content word of the shorter is in the
+    longer and it has at least two. Measured on the board on 26 September 2026:
+    36 pairs of same node, same day labels reach 0.6; the ones this rule leaves
+    apart are different acts on the same day (two witnesses at one hearing)."""
+    import difflib
+    na, nb = _norm_label(a), _norm_label(b)
+    if not na or not nb:
+        return False
+    if difflib.SequenceMatcher(None, na.replace(" ", ""), nb.replace(" ", "")).ratio() >= 0.7:
+        return True
+    ta = {w for w in na.split() if len(w) > 2 and w not in _STOP}
+    tb = {w for w in nb.split() if len(w) > 2 and w not in _STOP}
+    lo, hi = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
+    return len(lo) >= 2 and lo <= hi
+
+
+def _timeline_extras(s):
+    """Per event id: the section of its node's primary topic (TIMELINE_OTHER when
+    the event names no node or the node is in no topic), that primary topic, the
+    event's own authored sources, and, for an event that repeats another of the
+    same node on the same day under a near-identical label, the id of the one
+    the timeline shows. Nothing is dropped: the repeat keeps its row and its text,
+    and the page prints it under the one it repeats."""
+    alias = _alias()
+    ai = appears_in(s.topics, alias)
+    tsec = {t["id"]: t.get("section") for t in s.topics}
+    sec, top, srcs = {}, {}, {}
+    for t in s.board["timeline"]:
+        n = alias.get(t.get("node"), t.get("node"))
+        first = (ai.get(n) or [[None]])[0][0] if n else None
+        top[t["id"]] = first
+        sec[t["id"]] = tsec.get(first) or TIMELINE_OTHER
+        rows = []
+        if t.get("source"):
+            rows.append({"text": str(t["source"]), "url": first_url(t["source"])})
+        for x in t.get("sources") or []:
+            if isinstance(x, dict):
+                rows.append({"text": x.get("name") or x.get("url") or "",
+                             "url": x.get("url") or first_url(x.get("name"))})
+            elif x:
+                rows.append({"text": str(x), "url": first_url(x)})
+        srcs[t["id"]] = rows
+    # union the repeats of one node on one day
+    by = {}
+    for t in s.board["timeline"]:
+        if t.get("node") and t.get("date"):
+            by.setdefault((t["node"], t["date"]), []).append(t)
+    grade = {"A": 0, "B": 1, "C": 2}
+    same = {}
+    for evs in by.values():
+        if len(evs) < 2:
+            continue
+        evs = sorted(evs, key=lambda e: e["id"])
+        parent = list(range(len(evs)))
+
+        def root(i):
+            while parent[i] != i:
+                i = parent[i]
+            return i
+        for i in range(len(evs)):
+            for j in range(i + 1, len(evs)):
+                if near_same_label(evs[i].get("label"), evs[j].get("label")):
+                    parent[root(j)] = root(i)
+        groups = {}
+        for i in range(len(evs)):
+            groups.setdefault(root(i), []).append(evs[i])
+        for g in groups.values():
+            if len(g) < 2:
+                continue
+            keep = min(g, key=lambda e: (grade.get(e.get("grade"), 3),
+                                         -len(e.get("text") or ""), e["id"]))
+            for e in g:
+                if e is not keep:
+                    same[e["id"]] = keep["id"]
+    return sec, top, srcs, same
+
+
+# ------------------------------------------------------ person facets (phase 9)
+
+PERSON_FACETS = "research/_person_facets.json"
+INPUTS.append(PERSON_FACETS)
+
+
+def facets_json(s, meta):
+    """research/_person_facets.json as the directories read it: every person's
+    roles, vital status, role status and sworn-testimony facet, with the words of
+    their own record each rests on. The side-car is shipped as authored; verify.py
+    holds it to the closed vocabulary and requires this file to equal it."""
+    doc = rd(PERSON_FACETS) if os.path.exists(os.path.join(ROOT, PERSON_FACETS)) else {}
+    people = doc.get("people") or {}
+    return {
+        "generated": meta["generated"],
+        "people": {k: {f: v[f] for f in ("roles", "vitalStatus", "roleStatus", "underOath", "basis")
+                       if f in v}
+                   for k, v in sorted(people.items())},
+        "source": meta["source"],
+        "vocab": {k: v for k, v in (_V.get("personFacets") or {}).items() if not k.startswith("_")},
+    }
 
 
 def claims_json(s, ix):
@@ -1119,6 +1240,8 @@ def build(quiet=False):
                     write(os.path.join(OUT, "analyst.json"), analyst_json(s, ix, meta), 1)))
     written.append(("data/vocab.json",
                     write(os.path.join(OUT, "vocab.json"), vocab_json(meta), 1)))
+    written.append(("data/facets.json",
+                    write(os.path.join(OUT, "facets.json"), facets_json(s, meta), 1)))
 
     nd = os.path.join(OUT, "nodes")
     if os.path.isdir(nd):

@@ -1,8 +1,10 @@
 /* timeline/layout.ts: the packing rule of Design response section 1.7 and 2.2.
  *
- * Four strand lanes by five era columns. The open era gets year gridlines and
- * its events as 11px chips packed into rows so that no two overlap. An event
- * whose chip cannot be placed at 11px is a 5px mark until its year is opened.
+ * Section lanes by era columns (redesign phase 9: the lanes were the four
+ * strands). The open era gets year gridlines and its events as 11px chips
+ * packed into rows so that no two overlap. An event whose chip cannot be placed
+ * at 11px is counted in its year ("+N", which opens the named list); there are
+ * no unnamed marks.
  *
  * One label size. Nothing is truncated, nothing is shrunk, nothing is sized by
  * importance: a chip's width is its own text and no more.
@@ -19,9 +21,15 @@ export interface TEvent {
   precision: string;
   label: string | null;
   text: string | null;
-  tier: string | null;
+  grade: string | null;
+  claimTier: number | null;
   node: string | null;
   era: string;
+  /* phase 9, from build_app_data.py */
+  section: string;
+  topic: string | null;
+  sources?: { text: string; url: string | null }[];
+  sameAs?: string;
 }
 
 export interface EraDef {
@@ -32,29 +40,24 @@ export interface EraDef {
   end: number | null;
 }
 
-/* The lane order of the Design captures. Strands the board carries and this
-   list does not are appended rather than dropped, because a strand that stops
-   being drawn is a strand that stops being counted. */
-const LANE_ORDER = ['program', 'witness', 'oversight', 'coverup'];
-const LANE_LABEL: Record<string, string> = {
-  program: 'PROGRAM',
-  witness: 'WITNESS',
-  oversight: 'OVERSIGHT',
-  coverup: 'COVER-UP',
-};
-
+/* Redesign phase 9: the lanes are the ten topic sections, in the order
+   topics.json gives them, and one lane for the events whose node is in no topic
+   (or that name no node). The four strands are a filter now, not lanes. */
+export const OTHER_LANE = 'other';
 export interface Lane { id: string; label: string }
 
-export function lanes(events: TEvent[]): Lane[] {
-  const seen = new Set<string>();
-  for (const e of events) seen.add(e.strand);
-  const out: Lane[] = [];
-  for (const id of LANE_ORDER) if (seen.has(id)) out.push({ id, label: LANE_LABEL[id] || id.toUpperCase() });
-  for (const id of Array.from(seen).sort()) {
-    if (LANE_ORDER.indexOf(id) < 0) out.push({ id, label: id.toUpperCase() });
-  }
+export function lanes(sections: { id: string; title: string }[]): Lane[] {
+  const out: Lane[] = sections.map((s) => ({ id: s.id, label: s.title }));
+  out.push({ id: OTHER_LANE, label: 'In no topic' });
   return out;
 }
+
+export const STRANDS: Lane[] = [
+  { id: 'program', label: 'PROGRAM' },
+  { id: 'witness', label: 'WITNESS' },
+  { id: 'oversight', label: 'OVERSIGHT' },
+  { id: 'coverup', label: 'COVER-UP' },
+];
 
 /* ---- measurement ------------------------------------------------------- */
 
@@ -80,10 +83,8 @@ export const CHIP_H = 15;
 export const CHIP_PAD = 14;
 export const ROW_PITCH = 18;
 export const CHIP_GAP = 6;
-export const MARK_W = 5;
-export const MARK_H = 5;
-export const MARK_PITCH = 7;
-export const MARK_GAP = 3;
+/* how far past its date a right-anchored chip may end: its own rule's width */
+export const MARK_ROOM = 3;
 
 export interface YearSlot { year: number; x: number; w: number; open: boolean }
 
@@ -143,23 +144,23 @@ export function eventX(ev: TEvent, slots: YearSlot[]): number {
 /* ---- packing ------------------------------------------------------------ */
 
 export interface Item {
-  ev: TEvent;
-  kind: 'chip' | 'mark';
+  kind: 'chip' | 'more';
+  ev: TEvent | null;          /* the event, for a chip                          */
+  evs: TEvent[];              /* the events a count stands for, for a `more`    */
+  year: number;
   x: number;
   y: number;
   w: number;
   h: number;
   row: number;
+  right?: boolean;            /* a chip that ends at its date rather than starting there */
 }
 
 export interface LaneLayout {
-  strand: string;
-  label: string;
+  lane: string;
   items: Item[];
   chips: number;
-  marks: number;
-  chipRows: number;
-  markRows: number;
+  counted: number;            /* events behind the counts                       */
   height: number;
 }
 
@@ -169,104 +170,109 @@ export interface PackOpts {
   chipRowBudget: number;
 }
 
+/* The width of a count: its digits and a sign, and no more. */
+export function moreWidth(n: number, year?: number, room?: number): number {
+  const short = Math.ceil(textWidth('+' + n)) + 8;
+  if (year == null || room == null) return short;
+  /* "2024 +16" where the year has room for it, else "+16" */
+  const long = Math.ceil(textWidth(year + ' +' + n)) + 8;
+  return long <= room ? long : short;
+}
+
 /* Greedy first-fit by date. A chip is placed only where its whole label fits at
-   11px inside the column and clear of every chip already in that row; anything
-   else falls to a 5px mark, which is Design's own answer and not a truncation.
-   Marks are packed too, in their own rows below the chips, so that no two
-   rendered things overlap. */
+   11px inside the column and clear of every chip already in that row. Every
+   event that cannot be is COUNTED, never drawn as an unnamed mark (blind critic,
+   phase 6): one count per year of the lane, "+N", packed first-fit in its own
+   rows below the chips, which opens the named list of those N events. So every
+   event of the open era is either named on the page or counted and named on
+   click, and no two rendered things overlap. */
 export function packLane(lane: Lane, events: TEvent[], o: PackOpts): LaneLayout {
-  /* Events in an opened year claim the rows first. Without that the row budget
+  /* Events in an opened year claim the rows first; without that the row budget
      is spent on the earlier years before the opened one is reached, and opening
-     a year would widen it without placing anything in it, and the control would
-     look like it worked and would not have. Order is otherwise by date. */
+     a year would widen it without placing anything in it. */
   const openYear = new Set<number>();
   for (const s of o.slots) if (s.open) openYear.add(s.year);
-  const rank = (e: TEvent): number => (openYear.has(Number(e.date.slice(0, 4))) ? 0 : 1);
+  const yearOf = (e: TEvent): number => Number(e.date.slice(0, 4));
+  const rank = (e: TEvent): number => (openYear.has(yearOf(e)) ? 0 : 1);
   const evs = events.slice().sort((a, b) => {
     const r = rank(a) - rank(b);
     if (r) return r;
     return a.date < b.date ? -1 : a.date > b.date ? 1 : a.id < b.id ? -1 : 1;
   });
   const rows: { x0: number; x1: number }[][] = [];
-  const markRows: number[][] = [];
   const items: Item[] = [];
+  const left = new Map<number, TEvent[]>();
   let chips = 0;
-  let marks = 0;
-
-  /* A mark keeps its year. Within its own year it takes the first free
-     position, wrapping to the head of the year and then to the next mark row,
-     so a day that carries thirty events does not build a thirty-row tower and
-     no mark ever leaves the year it happened in. */
-  const step = MARK_W + MARK_GAP;
-  const asMark = (ev: TEvent, x: number): void => {
-    const yr = Number(ev.date.slice(0, 4));
-    let lo = 0;
-    let hi = Math.max(0, o.width - MARK_W);
-    for (const s of o.slots) {
-      if (s.year !== yr) continue;
-      lo = s.x;
-      hi = Math.max(s.x, Math.min(hi, s.x + s.w - MARK_W));
-      break;
-    }
-    const start = Math.max(lo, Math.min(hi, x));
-    const tries: number[] = [];
-    for (let p = start; p <= hi; p += step) tries.push(p);
-    for (let p = lo; p < start; p += step) tries.push(p);
-    if (!tries.length) tries.push(start);
-
-    let r = 0;
-    let mx = start;
-    for (; r < 2000; r++) {
-      if (!markRows[r]) markRows[r] = [];
-      let found = false;
-      for (const p of tries) {
-        let clash = false;
-        for (const px of markRows[r]) if (Math.abs(px - p) < step) { clash = true; break; }
-        if (!clash) { mx = p; found = true; break; }
-      }
-      if (found) { markRows[r].push(mx); break; }
-    }
-    items.push({ ev, kind: 'mark', x: mx, y: 0, w: MARK_W, h: MARK_H, row: r });
-    marks++;
-  };
 
   for (const ev of evs) {
     const text = ev.label || '';
-    const x = eventX(ev, o.slots);
-    if (!text) { asMark(ev, x); continue; }
+    const at = eventX(ev, o.slots);
     const w = Math.ceil(textWidth(text)) + CHIP_PAD;
-    if (x + w > o.width) { asMark(ev, x); continue; }
-
-    let placed = false;
-    for (let r = 0; r < o.chipRowBudget; r++) {
-      if (!rows[r]) rows[r] = [];
-      let clash = false;
-      for (const b of rows[r]) if (x < b.x1 + CHIP_GAP && x + w + CHIP_GAP > b.x0) { clash = true; break; }
-      if (clash) continue;
-      rows[r].push({ x0: x, x1: x + w });
-      items.push({ ev, kind: 'chip', x, y: r * ROW_PITCH, w, h: CHIP_H, row: r });
-      chips++;
-      placed = true;
-      break;
+    /* A chip starts at its date. Where the column ends before its label does,
+       it ENDS at its date instead (right-anchored, its class rule on the right),
+       so the last years of an era are named rather than counted (blind critic,
+       phase 9 round 1: four 2026 events of a lane were a bare "+4"). */
+    const tries: { x: number; right: boolean }[] = [];
+    if (at + w <= o.width) tries.push({ x: at, right: false });
+    else {
+      const end = Math.min(o.width, at + MARK_ROOM);
+      if (end - w >= 0) tries.push({ x: end - w, right: true });
     }
-    if (!placed) asMark(ev, x);
+    let placed = false;
+    for (const t of text ? tries : []) {
+      const x = t.x;
+      for (let r = 0; r < o.chipRowBudget && !placed; r++) {
+        if (!rows[r]) rows[r] = [];
+        let clash = false;
+        for (const b of rows[r]) if (x < b.x1 + CHIP_GAP && x + w + CHIP_GAP > b.x0) { clash = true; break; }
+        if (clash) continue;
+        rows[r].push({ x0: x, x1: x + w });
+        items.push({ kind: 'chip', ev, evs: [ev], year: yearOf(ev), x, y: r * ROW_PITCH, w, h: CHIP_H, row: r, right: t.right });
+        chips++;
+        placed = true;
+      }
+      if (placed) break;
+    }
+    if (!placed) {
+      const y = yearOf(ev);
+      const l = left.get(y);
+      if (l) l.push(ev); else left.set(y, [ev]);
+    }
+  }
+
+  /* the counts: one per year, at the head of its year, first-fit in rows */
+  let counted = 0;
+  const mrows: { x0: number; x1: number }[][] = [];
+  const years = Array.from(left.keys()).sort((a, b) => a - b);
+  for (const y of years) {
+    const list = (left.get(y) || []).slice().sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : a.id < b.id ? -1 : 1));
+    counted += list.length;
+    let x = 0, room = 0;
+    for (const s of o.slots) if (s.year === y) { x = s.x; room = s.w - 2; break; }
+    const w = moreWidth(list.length, y, room);
+    x = Math.max(0, Math.min(x, o.width - w));
+    let r = 0;
+    for (; r < 200; r++) {
+      if (!mrows[r]) mrows[r] = [];
+      let clash = false;
+      for (const b of mrows[r]) if (x < b.x1 + 2 && x + w + 2 > b.x0) { clash = true; break; }
+      if (!clash) { mrows[r].push({ x0: x, x1: x + w }); break; }
+    }
+    items.push({ kind: 'more', ev: null, evs: list, year: y, x, y: 0, w, h: CHIP_H, row: r });
   }
 
   let chipRows = 0;
   for (const r of rows) if (r && r.length) chipRows++;
-  let usedMarkRows = 0;
-  for (const r of markRows) if (r && r.length) usedMarkRows++;
+  let moreRows = 0;
+  for (const r of mrows) if (r && r.length) moreRows++;
   const chipBlock = chipRows * ROW_PITCH;
-  for (const it of items) if (it.kind === 'mark') it.y = chipBlock + 4 + it.row * MARK_PITCH;
+  for (const it of items) if (it.kind === 'more') it.y = chipBlock + it.row * ROW_PITCH;
 
   return {
-    strand: lane.id,
-    label: lane.label,
+    lane: lane.id,
     items,
     chips,
-    marks,
-    chipRows,
-    markRows: usedMarkRows,
-    height: chipBlock + (usedMarkRows ? 4 + usedMarkRows * MARK_PITCH : 0),
+    counted,
+    height: chipBlock + moreRows * ROW_PITCH,
   };
 }
