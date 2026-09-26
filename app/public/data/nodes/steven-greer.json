@@ -122,10 +122,13 @@
 "direction": "in",
 "edgeId": "e-4da965e79d",
 "edgeLabel": "Sheehan served as counsel to Greer's Disclosure Project",
+"family": null,
 "id": "daniel-sheehan",
 "l0": false,
 "label": "Daniel P. Sheehan",
 "note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -134,7 +137,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -144,10 +148,13 @@
 "direction": "out",
 "edgeId": "e-43cfdcf1ce",
 "edgeLabel": "Greer founded and led the Disclosure Project",
+"family": null,
 "id": "disclosure-project",
 "l0": true,
 "label": "The Disclosure Project",
 "note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-16",
@@ -156,7 +163,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -166,10 +174,13 @@
 "direction": "in",
 "edgeId": "e-a80d4515e4",
 "edgeLabel": "Named as its director and compiler",
+"family": null,
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -178,7 +189,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -188,10 +200,13 @@
 "direction": "in",
 "edgeId": "e-26e60f2029",
 "edgeLabel": "Written and compiled by Greer, who also conducted every interview in it",
+"family": null,
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is also the interviewer in every transcript, printed as 'SG', and his editorial interjections appear inside the witness text marked 'SG]'. This edge is the structural reason the document caps at Tier 2 for content.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -200,7 +215,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -210,10 +226,13 @@
 "direction": "out",
 "edgeId": "e-a387ccf61b",
 "edgeLabel": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
+"family": null,
 "id": "john-podesta",
 "l0": false,
 "label": "John D. Podesta",
 "note": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-16",
@@ -222,7 +241,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -232,10 +252,13 @@
 "direction": "in",
 "edgeId": "e-26a4782550",
 "edgeLabel": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
+"family": null,
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -244,7 +267,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -254,10 +278,13 @@
 "direction": "in",
 "edgeId": "e-86199651c0",
 "edgeLabel": "Named on the record as the custodian who supplied the written testimony",
+"family": null,
 "id": "michael-herrera",
 "l0": false,
 "label": "Michael Herrera",
 "note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -266,7 +293,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -276,10 +304,13 @@
 "direction": "out",
 "edgeId": "e-988cac308a",
 "edgeLabel": "Organiser of the event",
+"family": null,
 "id": "national-press-club-2001",
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-05-09",
@@ -288,7 +319,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -298,10 +330,13 @@
 "direction": "in",
 "edgeId": "e-1f4e019d16",
 "edgeLabel": "Gerb publicly critiqued the 8 May 2026 Greer press-club event",
+"family": null,
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-12",
@@ -310,7 +345,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -320,10 +356,13 @@
 "direction": "in",
 "edgeId": "e-9e0f2c1dcc",
 "edgeLabel": "Placed with Greer and Mitchell at the April 1997 Pentagon talk",
+"family": null,
 "id": "will-miller",
 "l0": false,
 "label": "Will Miller",
 "note": "The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -332,7 +371,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2001-05-09",

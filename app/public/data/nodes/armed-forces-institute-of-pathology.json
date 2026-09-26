@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-c32089064e",
 "edgeLabel": "Placed in the Department of Defense by 10 U.S.C. 176 as a joint entity of the three military departments",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "10 U.S.C. 176 places the Institute in the Department of Defense as a joint entity of the three military departments under the Secretary's authority, direction and control.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-01",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-8e70e4ce76",
 "edgeLabel": "Doty places Green at the Institute, then corrects himself within the same passage",
+"family": null,
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

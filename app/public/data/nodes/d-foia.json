@@ -42,10 +42,13 @@
 "direction": "in",
 "edgeId": "e-4c464af296",
 "edgeLabel": "Contractor records are outside the statute",
+"family": null,
 "id": "d-contractor",
 "l0": false,
 "label": "Prime Contractor Custody",
 "note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-7d789ec947",
 "edgeLabel": "Appeal exhausted, suit filed",
+"family": null,
 "id": "d-litigation",
 "l0": false,
 "label": "Litigation",
 "note": "CAUS v. NSA is the canonical progression from FOIA request to appellate litigation, and the point at which the courts sustained withholding on a classified affidavit.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1981-11-03",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "in",
 "edgeId": "e-73a2a3e2cf",
 "edgeLabel": "Statutory collection versus request-by-request extraction",
+"family": null,
 "id": "d-records",
 "l0": false,
 "label": "Records & Archives",
 "note": "Before the FY2024 records provisions, FOIA was the only routine extraction mechanism; the NARA collection is an attempt to replace adversarial requesting with an affirmative duty.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +125,13 @@
 "direction": "in",
 "edgeId": "e-11512eb21e",
 "edgeLabel": "Exemption 3 and the Glomar posture",
+"family": null,
 "id": "d-signals",
 "l0": false,
 "label": "Signals & Sensor Intelligence",
 "note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1981-11-03",
@@ -125,7 +140,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -135,10 +151,13 @@
 "direction": "in",
 "edgeId": "e-081b48d000",
 "edgeLabel": "A FOIA request that defeated a records-destruction order",
+"family": null,
 "id": "john-marks-foia-f-76-374",
 "l0": false,
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "note": "The Senate's own framing is that one individual, through a Freedom of Information request, accomplished what two Senate committees could not.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -157,10 +177,13 @@
 "direction": "in",
 "edgeId": "e-c4eb4ebd60",
 "edgeLabel": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
+"family": null,
 "id": "project-azorian",
 "l0": false,
 "label": "Project AZORIAN and the Hughes Glomar Explorer",
 "note": "The history names Freedom of Information Act matters among the litigation that forced the first official acknowledgements, which is the doctrine the board already carries in d-foia prose.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-01-04",
@@ -169,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

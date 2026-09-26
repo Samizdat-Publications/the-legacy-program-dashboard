@@ -80,10 +80,13 @@
 "direction": "out",
 "edgeId": "e-a2e93082a2",
 "edgeLabel": "The swamp gas episode triggered the 1966 hearing",
+"family": null,
 "id": "hearing-1966-04-05",
 "l0": false,
 "label": "House Armed Services Committee UFO Hearing",
 "note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -92,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -102,10 +106,13 @@
 "direction": "out",
 "edgeId": "e-b422591362",
 "edgeLabel": "Both testified at the 29 July 1968 congressional symposium",
+"family": null,
 "id": "james-mcdonald",
 "l0": false,
 "label": "James E. McDonald",
 "note": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-07-29",
@@ -114,7 +121,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -124,10 +132,13 @@
 "direction": "out",
 "edgeId": "e-87ecd564c3",
 "edgeLabel": "Hynek was scientific consultant across SIGN, GRUDGE and Blue Book",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Twenty-one continuous years as the Air Force's own astronomer on the problem — longer than any other participant in the legacy system.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -141,7 +152,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -151,10 +163,13 @@
 "direction": "out",
 "edgeId": "e-6ecac0ea84",
 "edgeLabel": "Hynek presented to the panel but was not a member",
+"family": null,
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-01-17",
@@ -163,7 +178,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "1968-07-29",

@@ -64,10 +64,13 @@
 "direction": "out",
 "edgeId": "e-3ad42119a9",
 "edgeLabel": "President and CEO, arriving from IARPA and the White House OSTP",
+"family": null,
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2026-08-12",

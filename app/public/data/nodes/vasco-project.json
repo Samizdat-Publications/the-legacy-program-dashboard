@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-fae7ad3ff1",
 "edgeLabel": "Principal investigator",
+"family": null,
 "id": "beatriz-villarroel",
 "l0": false,
 "label": "Beatriz Villarroel",
 "note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-17",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -68,10 +72,13 @@
 "direction": "in",
 "edgeId": "e-f020b9a3cd",
 "edgeLabel": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
+"family": null,
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -85,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

@@ -46,10 +46,13 @@
 "direction": "out",
 "edgeId": "e-86165af218",
 "edgeLabel": "Boeing engineer on the investigation task group",
+"family": null,
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "HIS ACCOUNT REACHED THE PUBLIC AS A 1997 LETTER TO RESEARCHER JIM KLOTZ, THIRTY YEARS AFTER THE EVENT. The half of it that says no cause was found is corroborated by the unit history; the half that says the inquiry was stopped with no report filed is contradicted by it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -68,7 +71,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -78,10 +82,13 @@
 "direction": "in",
 "edgeId": "e-c079909b72",
 "edgeLabel": "Publishes his 1997 letter to Jim Klotz",
+"family": null,
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. The letter itself was addressed to Klotz, not to Hastings, and has not been opened by this board.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -95,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "1997-01-01",

@@ -62,10 +62,13 @@
 "direction": "in",
 "edgeId": "e-7c47cf14a4",
 "edgeLabel": "authored by Marc G. Millis, Tau Zero Foundation",
+"family": null,
 "id": "dird-cockpits-in-the-era-of-breakthrough",
 "l0": false,
 "label": "Cockpits in the Era of Breakthrough Flight",
 "note": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -99,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -109,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-285a3bdd1b",
 "edgeLabel": "Sole author of the project's summary technical memorandum",
+"family": null,
 "id": "millis-tm-2004-213082",
 "l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "AUTHORSHIP IS research AND NOT custody on this board: custody carries a x3.0 programme weighting and an author is not a custodian. He wrote the document; he did not hold it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -121,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -131,10 +139,13 @@
 "direction": "out",
 "edgeId": "e-5c7625eb62",
 "edgeLabel": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
+"family": null,
 "id": "nasa-bpp",
 "l0": false,
 "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "note": "NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and is the project's own summary of its methods and findings. This is an earlier and stronger institutional fact about him than the AAWSAP DIRD authorship the board already carries.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -143,7 +154,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2010-11-01",

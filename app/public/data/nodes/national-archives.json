@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-9073ba103c",
 "edgeLabel": "NARA holds and describes the FAA series at College Park, Electronic Records",
+"family": null,
 "id": "faa",
 "l0": false,
 "label": "Federal Aviation Administration",
 "note": "NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-b4645c5bd0",
 "edgeLabel": "NARA is custodian without power to compel transmission",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -84,10 +92,13 @@
 "direction": "in",
 "edgeId": "e-2fccafb363",
 "edgeLabel": "Reached the public through the JFK Assassination Records Review Board",
+"family": null,
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1962-03-13",
@@ -96,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -106,10 +118,13 @@
 "direction": "in",
 "edgeId": "e-ba24605110",
 "edgeLabel": "surviving records held in Record Group 330",
+"family": null,
 "id": "research-development-board",
 "l0": false,
 "label": "Research and Development Board",
 "note": "NARA's finding aid lists, at 330.11.3, 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-30",
@@ -118,7 +133,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

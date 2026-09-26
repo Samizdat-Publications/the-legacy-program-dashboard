@@ -30,10 +30,13 @@
 "direction": "out",
 "edgeId": "e-db6ba893b9",
 "edgeLabel": "Office of the Chief Science Advisor, Ottawa",
+"family": null,
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-01",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

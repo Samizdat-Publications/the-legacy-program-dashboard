@@ -95,10 +95,13 @@
 "direction": "in",
 "edgeId": "e-51f0be32a0",
 "edgeLabel": "declassified into the National Archives on 25 September 2009",
+"family": null,
 "id": "doc-fab-1986-report",
 "l0": false,
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "note": "Released 23 years after the minister promised a dossier in 30 days.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-01-14",
@@ -107,7 +110,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -117,10 +121,13 @@
 "direction": "in",
 "edgeId": "e-d498250a6e",
 "edgeLabel": "transferred its entire UAP holding and disclaimed competence",
+"family": null,
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "The Air Force told BBC Brasil that all available material has gone to the Arquivo Nacional and that it has no specialists able to investigate or opine on the phenomena.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-01-14",
@@ -129,7 +136,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -139,10 +147,13 @@
 "direction": "in",
 "edgeId": "e-1f615df9cf",
 "edgeLabel": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
+"family": null,
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -161,7 +172,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -171,10 +183,13 @@
 "direction": "out",
 "edgeId": "e-4dc9193a60",
 "edgeLabel": "",
+"family": null,
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "The transfer obligation is what links them. Portaria no. 551/GC3 of 9 August 2010, Art. 3, requires CENDOC to send originals to the Arquivo Nacional 'periodicamente', which is why the fund has no terminal year. The operative text is transcribed in a federal court judgment, and the DOU publication is attested by citation in a Chamber of Deputies information requirement.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-06-02",
@@ -188,7 +203,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -198,10 +214,13 @@
 "direction": "out",
 "edgeId": "e-3836222ed5",
 "edgeLabel": "COMPARISON: publish the raw record and disclaim competence, versus publish the adjudicated case file",
+"family": null,
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -225,7 +244,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -235,10 +255,13 @@
 "direction": "in",
 "edgeId": "e-87e660f2d4",
 "edgeLabel": "The UFO fund is held in Brasília and its reference code says so",
+"family": null,
 "id": "l-brasilia",
 "l0": false,
 "label": "Brasilia, Federal District, Brazil",
 "note": "The Arquivo Nacional's own notice identifies the holding as 'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional's Brasília unit. RQS 193/2022 states the transfer route directly: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -267,7 +290,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -277,10 +301,13 @@
 "direction": "out",
 "edgeId": "e-63d1d7b5ec",
 "edgeLabel": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -314,7 +341,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -324,10 +352,13 @@
 "direction": "in",
 "edgeId": "e-1a5c611de7",
 "edgeLabel": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
+"family": null,
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "Arquivo Nacional's own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -346,7 +377,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -356,10 +388,13 @@
 "direction": "out",
 "edgeId": "e-a1b5085ccb",
 "edgeLabel": "",
+"family": null,
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "The Arquivo holds and serves the operation's files. Its own answer to a litigant, quoted verbatim in the 2023 federal judgment, reports that a SIAN search on the term 'operacao prato' returns six documents, none audiovisual. No SIAN item numbers were ever obtained and none are asserted here.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-01-01",
@@ -373,7 +408,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -383,10 +419,13 @@
 "direction": "in",
 "edgeId": "e-b0373f3372",
 "edgeLabel": "The Senate's own 2022 instrument counts and cites the archive",
+"family": null,
 "id": "senado-brasil",
 "l0": true,
 "label": "Senado Federal do Brasil",
 "note": "RQS 193/2022 recites the transfer route from 2007 onward, 'somando-se hoje mais de 20 mil páginas de arquivos liberados', names Brigadeiro Junichi Saito's August 2010 decree in the Diário Oficial da União directing that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional, and gives the archive's own search behaviour: 'quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' A national legislature citing archival reference codes in a legislative instrument is the specific thing the US board has no equivalent of. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -415,7 +454,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -425,10 +465,13 @@
 "direction": "out",
 "edgeId": "e-62bc0e3764",
 "edgeLabel": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
+"family": null,
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -442,7 +485,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

@@ -49,10 +49,13 @@
 "direction": "out",
 "edgeId": "e-1b634c1982",
 "edgeLabel": "The project engineer's published rebuttal of the UFO reading of the event",
+"family": null,
 "id": "big-sur-1964",
 "l0": false,
 "label": "Big Sur missile-test filming, September 1964",
 "note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -61,7 +64,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -71,10 +75,13 @@
 "direction": "in",
 "edgeId": "e-6810ea49bb",
 "edgeLabel": "Author",
+"family": null,
 "id": "kingston-george",
 "l0": false,
 "label": "Kingston A. George",
 "note": "He identifies himself as the project engineer in the article's opening line. Type research, not custody: he wrote it, he does not hold custody of anything.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -83,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

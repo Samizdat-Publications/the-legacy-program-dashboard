@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-249be19a29",
 "edgeLabel": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
+"family": null,
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-11",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "in",
 "edgeId": "e-7981069a36",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
+"family": null,
 "id": "defense-support-program",
 "l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-12-06",
@@ -92,7 +99,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -102,10 +110,13 @@
 "direction": "in",
 "edgeId": "e-f2e965e318",
 "edgeLabel": "Host of the released scan",
+"family": null,
 "id": "doc-341-smw-history-1967",
 "l0": false,
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "The Black Vault is the host of the released scan.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-06-14",
@@ -114,7 +125,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -124,10 +136,13 @@
 "direction": "in",
 "edgeId": "e-fc29e7ebf3",
 "edgeLabel": "Federal file recovered after seventeen years and two destruction notices",
+"family": null,
 "id": "jal-1628-1986",
 "l0": false,
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -141,7 +156,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -151,10 +167,13 @@
 "direction": "in",
 "edgeId": "e-cbcc74c6a8",
 "edgeLabel": "Founder and operator of the archive that produced the primary record",
+"family": null,
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "Nearly every document in this domain arrived through his requests.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -163,7 +182,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -173,10 +193,13 @@
 "direction": "out",
 "edgeId": "e-50b25bdfa1",
 "edgeLabel": "The Black Vault runs the private FOIA archive from Los Angeles",
+"family": null,
 "id": "l-la",
 "l0": false,
 "label": "Los Angeles and Burbank, California",
 "note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-18",
@@ -190,7 +213,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -200,10 +224,13 @@
 "direction": "in",
 "edgeId": "e-67615cc44e",
 "edgeLabel": "The American reporter's Prato dossier sits in Greenewald's archive",
+"family": null,
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -217,7 +244,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -227,10 +255,13 @@
 "direction": "in",
 "edgeId": "e-00e5c2c7c6",
 "edgeLabel": "Host of the released report and its covering letter",
+"family": null,
 "id": "tehran-f4-intercept-1976",
 "l0": false,
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "note": "The Black Vault hosts the released document and its covering letter.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-09-23",
@@ -239,7 +270,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -249,10 +281,13 @@
 "direction": "in",
 "edgeId": "e-f281dd672f",
 "edgeLabel": "Hollanda's account to an American reporter is preserved in the Pratt file",
+"family": null,
 "id": "uyrange-hollanda",
 "l0": false,
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
 "note": "Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -271,7 +306,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

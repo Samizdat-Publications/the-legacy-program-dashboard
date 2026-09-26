@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-50d39fcad4",
 "edgeLabel": "The 2026 official denial is maintained without any inspection of contractor holdings",
+"family": null,
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-07-21",
@@ -64,7 +67,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -74,10 +78,13 @@
 "direction": "in",
 "edgeId": "e-ba53a7bcd5",
 "edgeLabel": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -86,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -96,10 +104,13 @@
 "direction": "in",
 "edgeId": "e-e8881e930c",
 "edgeLabel": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
+"family": null,
 "id": "ben-rich",
 "l0": false,
 "label": "Ben R. Rich",
 "note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1994-01-01",
@@ -113,7 +124,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -123,10 +135,13 @@
 "direction": "out",
 "edgeId": "e-48a6e59963",
 "edgeLabel": "Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS",
+"family": null,
 "id": "bigelow-aerospace",
 "l0": false,
 "label": "Bigelow Aerospace",
 "note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -140,7 +155,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -150,10 +166,13 @@
 "direction": "in",
 "edgeId": "e-9568535650",
 "edgeLabel": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
+"family": null,
 "id": "christopher-sharp",
 "l0": false,
 "label": "Christopher Sharp",
 "note": "Burlison attributed the reporting to Sharp by name on 13 November 2024 and Elizondo confirmed the block, making this the rare case of independent journalism validated on the record by the relevant witness.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -167,7 +186,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -177,10 +197,13 @@
 "direction": "in",
 "edgeId": "e-543d0f5e70",
 "edgeLabel": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Rep. Burlison read Christopher Sharp's reporting of a CIA block into the 13 November 2024 hearing and Elizondo replied 'What I can say is that it was blocked.' AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -194,7 +217,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -204,10 +228,13 @@
 "direction": "out",
 "edgeId": "e-6860468a09",
 "edgeLabel": "the prime where classified contract line items and sworn allegation meet",
+"family": null,
 "id": "d-contracting",
 "l0": false,
 "label": "Federal Contracting Mechanics",
 "note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -226,7 +253,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -236,10 +264,13 @@
 "direction": "in",
 "edgeId": "e-843215b95d",
 "edgeLabel": "inspected Lockheed's other contracts while excluded from its special access contract",
+"family": null,
 "id": "defense-investigative-service",
 "l0": false,
 "label": "Defense Investigative Service",
 "note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-08-07",
@@ -248,7 +279,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -258,10 +290,13 @@
 "direction": "in",
 "edgeId": "e-c618c0adde",
 "edgeLabel": "authored by Lockheed Martin Space Systems staff",
+"family": null,
 "id": "dird-aneutronic-fusion-propulsion-2",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "Follows from the Teofilo attribution. The DIA list gives Teofilo's affiliation of record as Lockheed Martin. Lockheed Martin is the most represented corporate institution on the DIRD author list, with three of the 38 deliverables (Teofilo, Macheret, Golightly).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -285,7 +320,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -295,10 +331,13 @@
 "direction": "in",
 "edgeId": "e-c7e57363d4",
 "edgeLabel": "author's employer at time of writing (Skunk Works)",
+"family": null,
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -332,7 +371,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -342,10 +382,13 @@
 "direction": "in",
 "edgeId": "e-0bd57a7667",
 "edgeLabel": "author's affiliation of record; one of three Lockheed Martin DIRDs",
+"family": null,
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -374,7 +417,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -384,10 +428,13 @@
 "direction": "in",
 "edgeId": "e-a5ed84b7da",
 "edgeLabel": "Carries the Don Phillips claim of work with Kelly Johnson at the Skunk Works",
+"family": null,
 "id": "disclosure-project-witness-set",
 "l0": false,
 "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "note": "TIER 3, AND DELIBERATELY ROUTED THROUGH THE SET RATHER THAN A PERSON NODE. Nothing independent exists for Phillips: no personnel record, no Lockheed document, no CIA record, no publication, and the name is extremely common. An unverified claimant must not acquire a direct edge into a Tier A contractor node.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -396,7 +443,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -406,10 +454,13 @@
 "direction": "in",
 "edgeId": "e-1b73641fef",
 "edgeLabel": "the contractor whose special-access document control the testimony examined",
+"family": null,
 "id": "gao-130581",
 "l0": false,
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "note": "GAO reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items across 53 document control substations, with 11 documents unresolved as of 19 July 1986.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-07-24",
@@ -418,7 +469,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -428,10 +480,13 @@
 "direction": "out",
 "edgeId": "e-207fe30640",
 "edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
+"family": null,
 "id": "general-dynamics",
 "l0": false,
 "label": "General Dynamics Corporation",
 "note": "Rep. Mace proposed that undersea propulsion material would go to a contractor like General Dynamics and aerospace material to Lockheed; Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -440,7 +495,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -450,10 +506,13 @@
 "direction": "in",
 "edgeId": "e-76796003e4",
 "edgeLabel": "Knapp named Lockheed Martin under oath as a corporate holder of recovered material",
+"family": null,
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Asked by Rep. Burchett which corporations hold the material, Knapp answered 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' He declined to characterise the company as culpable, attributing the tasking to the intelligence agencies.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -462,7 +521,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -472,10 +532,13 @@
 "direction": "in",
 "edgeId": "e-ec4b2ecec8",
 "edgeLabel": "SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity",
+"family": null,
 "id": "iaa-fy2024-sec1104",
 "l0": false,
 "label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
 "note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-22",
@@ -489,7 +552,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -499,10 +563,13 @@
 "direction": "in",
 "edgeId": "e-e387aa66ec",
 "edgeLabel": "Ryder is identified in sworn testimony as a Lockheed Martin figure",
+"family": null,
 "id": "james-ryder",
 "l0": false,
 "label": "Dr. James Ryder",
 "note": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -511,7 +578,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -521,10 +589,13 @@
 "direction": "in",
 "edgeId": "e-a9e26df33c",
 "edgeLabel": "Corbell publicly challenged the Senate Appropriations Committee to audit Lockheed Martin's special access programs",
+"family": null,
 "id": "jeremy-corbell",
 "l0": false,
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Speaking alongside Rep. Burchett in March 2023, Corbell named Senators Murray and Collins and the Committee's jurisdiction over spending. Elizondo responded that the inquiry should not be limited to one aerospace company 'but to several others that have likely played a key historical role.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-03-11",
@@ -533,7 +604,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -543,10 +615,13 @@
 "direction": "in",
 "edgeId": "e-e6510f8902",
 "edgeLabel": "The proposal's premise was that existing holdings would be moved into a structure Congress could see",
+"family": null,
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "AARO records the proponents' belief that creating the program under DHS 'would allow all of the technology and knowledge of these alleged programs to be moved under the KONA BLUE program' where it could be properly monitored by oversight committees.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -555,7 +630,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -565,10 +641,13 @@
 "direction": "out",
 "edgeId": "e-c90c7f9c2c",
 "edgeLabel": "The most-repeated custody allegation names Lockheed and California",
+"family": null,
 "id": "l-la",
 "l0": false,
 "label": "Los Angeles and Burbank, California",
 "note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -577,7 +656,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -587,10 +667,13 @@
 "direction": "out",
 "edgeId": "e-9190046bcf",
 "edgeLabel": "Lockheed Martin is named among the contractors supporting NAVAIR work at the site alleged to store an exotic vehicle",
+"family": null,
 "id": "l-pax-river",
 "l0": false,
 "label": "Naval Air Station Patuxent River, Maryland",
 "note": "Liberation Times reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included Lockheed Martin and MITRE.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-01-13",
@@ -599,7 +682,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -609,10 +693,13 @@
 "direction": "out",
 "edgeId": "e-52826d2191",
 "edgeLabel": "The unnamed 'facility in California' in the sworn testimony is most plausibly in the Palmdale complex",
+"family": null,
 "id": "l-plant-42",
 "l0": false,
 "label": "Air Force Plant 42, Palmdale, California",
 "note": "Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated at Palmdale. No witness has named a site and the board does not assert one.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -621,7 +708,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -631,10 +719,13 @@
 "direction": "in",
 "edgeId": "e-f754900a3e",
 "edgeLabel": "Elizondo confirmed on the record that the aerospace contractor divestment was blocked",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Elizondo told the House that 'there was an aerospace contract company that requested to divest itself of the material... that was collected in the 1950s' and confirmed the reported Lockheed-Bigelow transfer 'was blocked,' adding that a required Secretary of the Air Force memorandum never issued.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -643,7 +734,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -653,10 +745,13 @@
 "direction": "in",
 "edgeId": "e-46bc16c648",
 "edgeLabel": "The IR&D restriction applies directly to covered prime contractors",
+"family": null,
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -675,7 +770,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -685,10 +781,13 @@
 "direction": "in",
 "edgeId": "e-1300378a96",
 "edgeLabel": "The 1978 mining consortium names Lockheed, the predecessor of this node",
+"family": null,
 "id": "project-azorian",
 "l0": false,
 "label": "Project AZORIAN and the Hughes Glomar Explorer",
 "note": "The released history's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell, was readying the Hughes Glomar Explorer for deep-ocean mining operations to begin late in the fall of 1978. The document names Lockheed and not Lockheed Martin, and the transcript's twenty-year lease to Lockheed Martin is not what the record says. Tier 2 because identifying the 1978 firm with this node is an identification across the 1995 merger that the document does not make.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-01-04",
@@ -697,7 +796,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -707,10 +807,13 @@
 "direction": "in",
 "edgeId": "e-d52c23f842",
 "edgeLabel": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
+"family": null,
 "id": "rias-inc",
 "l0": false,
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2011-01-01",
@@ -719,7 +822,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -729,10 +833,13 @@
 "direction": "in",
 "edgeId": "e-d1429d73f2",
 "edgeLabel": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
+"family": null,
 "id": "richard-damato",
 "l0": false,
 "label": "Richard D'Amato",
 "note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-02-28",
@@ -746,7 +853,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -756,10 +864,13 @@
 "direction": "in",
 "edgeId": "e-836be66076",
 "edgeLabel": "senior staff engineer, Lockheed Martin Aeronautics (Skunk Works)",
+"family": null,
 "id": "sergey-macheret",
 "l0": false,
 "label": "Sergey O. Macheret",
 "note": "Macheret held a senior staff engineer post at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014, working on advanced aerospace plasma applications, before joining Purdue University as professor of aeronautics and astronautics in 2014. Lockheed Martin is the affiliation DIA recorded for him on the congressional list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -778,7 +889,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -788,10 +900,13 @@
 "direction": "in",
 "edgeId": "e-a3349f8440",
 "edgeLabel": "US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation",
+"family": null,
 "id": "thomas-townsend-brown",
 "l0": false,
 "label": "Thomas Townsend Brown",
 "note": "The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-03-11",
@@ -800,7 +915,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -810,10 +926,13 @@
 "direction": "in",
 "edgeId": "e-691c07e14a",
 "edgeLabel": "The Senate voted to seize privately held recovered technology by eminent domain",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The Senate passed Division I of the NDAA on 27 July 2023 including Sec. 9010, and defined 'legacy program' to include 'commercial industry... and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin.' No named company is in the text; the provision only has meaning if some entity holds something.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -822,7 +941,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -832,10 +952,13 @@
 "direction": "in",
 "edgeId": "e-e899738000",
 "edgeLabel": "physicist, Lockheed Martin Space Systems, 28 years",
+"family": null,
 "id": "vincent-teofilo",
 "l0": false,
 "label": "Vincent L. Teofilo",
 "note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -849,7 +972,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

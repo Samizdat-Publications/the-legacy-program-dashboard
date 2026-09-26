@@ -63,10 +63,13 @@
 "direction": "out",
 "edgeId": "e-c6c919e0c5",
 "edgeLabel": "took direct oversight; AARO director reports to her from summer 2023",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Weeks after Grusch testified, Hicks pulled AARO out of the USD(I&S) chain and made its director report directly to the Deputy Secretary of Defense.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-08-30",
@@ -75,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -85,10 +89,13 @@
 "direction": "out",
 "edgeId": "e-95e59014ef",
 "edgeLabel": "signatory of the AARO establishment memorandum",
+"family": null,
 "id": "aaro-establishment-memo-2022",
 "l0": false,
 "label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
 "note": "Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-07-15",
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -107,10 +115,13 @@
 "direction": "out",
 "edgeId": "e-df4d3ab483",
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
+"family": null,
 "id": "aoimsg",
 "l0": false,
 "label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
 "note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-07-15",
@@ -119,7 +130,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2022-07-15",

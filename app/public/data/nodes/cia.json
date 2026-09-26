@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-e3b6e1564e",
 "edgeLabel": "Director of Central Intelligence, signing as Director on Office of the Director paper",
+"family": null,
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "All three 13 March 1953 letters are on Central Intelligence Agency, Office of the Director letterhead and are signed 'Allen W. Dulles, Director'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-03-13",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-a775297a08",
 "edgeLabel": "Two Directors of Central Intelligence corresponded with him in office",
+"family": null,
 "id": "arthur-g-trudeau",
 "l0": false,
 "label": "Lt. Gen. Arthur G. Trudeau",
 "note": "Two Directors of Central Intelligence corresponded with him in office, Dulles in January 1958 on avoiding duplication between CIA and Army research programmes and McCone in March 1962 on the Limited-War Mission symposium.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1958-01-18",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -90,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-eb620b89e7",
 "edgeLabel": "Nominated and heard as Deputy Director of Central Intelligence, 3 February 1981",
+"family": null,
 "id": "bobby-ray-inman",
 "l0": false,
 "label": "Adm. Bobby Ray Inman",
 "note": "Nominated and heard on 3 February 1981 to be Deputy Director of Central Intelligence, the post SAIC's own proxy later lists among his government service.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1981-02-03",
@@ -107,7 +118,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -117,10 +129,13 @@
 "direction": "in",
 "edgeId": "e-7dab5634b4",
 "edgeLabel": "Deputy Director of Central Intelligence",
+"family": null,
 "id": "charles-p-cabell",
 "l0": false,
 "label": "Gen. Charles P. Cabell",
 "note": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-03",
@@ -129,7 +144,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -139,10 +155,13 @@
 "direction": "in",
 "edgeId": "e-058c776f01",
 "edgeLabel": "Named by the committee as having limited its access to the full record",
+"family": null,
 "id": "church-committee",
 "l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -151,7 +170,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -161,10 +181,13 @@
 "direction": "in",
 "edgeId": "e-7eb727a4b1",
 "edgeLabel": "Created inside the Agency by NSC 10/2",
+"family": null,
 "id": "cia-office-of-policy-coordination",
 "l0": false,
 "label": "CIA Office of Policy Coordination",
 "note": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1948-06-18",
@@ -173,7 +196,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -183,10 +207,13 @@
 "direction": "in",
 "edgeId": "e-19864b3591",
 "edgeLabel": "Written by the CIA History Staff in 1992 and released by the Agency in 2013",
+"family": null,
 "id": "cia-overhead-reconnaissance-history-1992",
 "l0": false,
 "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
 "note": "Written by the CIA History Staff in 1992 and released by the Agency on 25 June 2013.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -195,7 +222,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -205,10 +233,13 @@
 "direction": "in",
 "edgeId": "e-90480aa81b",
 "edgeLabel": "A board of the Agency, described in the Agency's own released guidance",
+"family": null,
 "id": "cia-prepublication-classification-review-board",
 "l0": false,
 "label": "CIA Prepublication Classification Review Board",
 "note": "A board of the Agency, described in the Agency's own released guidance.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-11-28",
@@ -217,7 +248,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -227,10 +259,13 @@
 "direction": "in",
 "edgeId": "e-c9f2bcbb07",
 "edgeLabel": "Addressed to Director Ratcliffe",
+"family": null,
 "id": "comer-luna-agency-letters-2025",
 "l0": false,
 "label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
 "note": "Ratcliffe had said as DNI that UAP exhibit technologies the United States does not have.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-02-18",
@@ -239,7 +274,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -249,10 +285,13 @@
 "direction": "in",
 "edgeId": "e-ea7dc5a78f",
 "edgeLabel": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
+"family": null,
 "id": "cseti",
 "l0": false,
 "label": "CSETI / The Disclosure Project",
 "note": "CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of 'Project Starlight', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer's published account was distorted. Both accounts are on the record; the relationship is contested.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -266,7 +305,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -276,10 +316,13 @@
 "direction": "in",
 "edgeId": "e-11e74ee7a1",
 "edgeLabel": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
+"family": null,
 "id": "donald-keyhoe",
 "l0": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1958-04-04",
@@ -288,7 +331,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -298,10 +342,13 @@
 "direction": "in",
 "edgeId": "e-b88f5c566d",
 "edgeLabel": "Transmitted the Commission's annual report to the Director of Central Intelligence",
+"family": null,
 "id": "glenn-t-seaborg",
 "l0": false,
 "label": "Glenn T. Seaborg",
 "note": "The 20 March 1963 letter forwards the Annual Report to Congress for 1962 to DCI John A. McCone and directs his attention to the appendix on environmental contamination from nuclear explosives.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1970-06-01",
@@ -310,7 +357,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -320,10 +368,13 @@
 "direction": "in",
 "edgeId": "e-8b36f8d849",
 "edgeLabel": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
+"family": null,
 "id": "gordon-gray",
 "l0": false,
 "label": "Gordon Gray",
 "note": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1951-08-13",
@@ -332,7 +383,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -342,10 +394,13 @@
 "direction": "in",
 "edgeId": "e-b71d955bc1",
 "edgeLabel": "Assistant Director for Scientific Intelligence who drove the CIA's 1952-53 UFO effort",
+"family": null,
 "id": "h-marshall-chadwell",
 "l0": false,
 "label": "H. Marshall Chadwell",
 "note": "Chadwell's OSI memoranda are the internal record of CIA's decision to treat the subject as a security and public-opinion problem.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -354,7 +409,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -364,10 +420,13 @@
 "direction": "in",
 "edgeId": "e-7f2d88f3b4",
 "edgeLabel": "CIA's own published history concedes the Air Force made deceptive public statements",
+"family": null,
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -376,7 +435,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -386,10 +446,13 @@
 "direction": "out",
 "edgeId": "e-182fef211a",
 "edgeLabel": "CIA published its own institutional history of its UFO role in 1997",
+"family": null,
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Gerald K. Haines, the Agency's historian, published an eighteen-page account in Studies in Intelligence acknowledging the OSI effort, the Robertson Panel and the later U-2/OXCART attribution.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -398,7 +461,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -408,10 +472,13 @@
 "direction": "in",
 "edgeId": "e-082272061a",
 "edgeLabel": "Signed the statute that created the Agency",
+"family": null,
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1946-01-22",
@@ -420,7 +487,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -430,10 +498,13 @@
 "direction": "in",
 "edgeId": "e-3a568b8f37",
 "edgeLabel": "Chaired the CIA-convened panel of January 1953",
+"family": null,
 "id": "howard-p-robertson",
 "l0": false,
 "label": "Howard P. Robertson",
 "note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-01-17",
@@ -442,7 +513,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -452,10 +524,13 @@
 "direction": "in",
 "edgeId": "e-8a10216428",
 "edgeLabel": "Vandenberg was DCI before becoming Air Force Chief of Staff",
+"family": null,
 "id": "hoyt-vandenberg",
 "l0": false,
 "label": "Hoyt S. Vandenberg",
 "note": "He directed Central Intelligence in 1946-1947 and then held the top Air Force post from 1948, arriving at the destruction decision already fluent in compartmentation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -464,7 +539,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -474,10 +550,13 @@
 "direction": "in",
 "edgeId": "e-b9175da669",
 "edgeLabel": "Chief of the Counterintelligence Staff, 1954 to 1974",
+"family": null,
 "id": "james-jesus-angleton",
 "l0": false,
 "label": "James Jesus Angleton",
 "note": "The Church Committee's Book III states the office and its dates in its own narrative text and cites his testimony of 17 and 24 September 1975 throughout.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-23",
@@ -486,7 +565,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -496,10 +576,13 @@
 "direction": "in",
 "edgeId": "e-f5202bc8bd",
 "edgeLabel": "Life Sciences Division, Office of Scientific Intelligence",
+"family": null,
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green was the agency analyst to whom biological anomalies were routed, including oversight of the SRI remote-viewing work, before writing the AAWSAP injury study two decades later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-01-01",
@@ -513,7 +596,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -523,10 +607,13 @@
 "direction": "in",
 "edgeId": "e-954e7cf49b",
 "edgeLabel": "CIA alleged to have terminated the programme",
+"family": null,
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-04",
@@ -535,7 +622,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -545,10 +633,13 @@
 "direction": "in",
 "edgeId": "e-27a0d725a6",
 "edgeLabel": "CIA headquarters at Langley, within McLean",
+"family": null,
 "id": "l-mclean",
 "l0": false,
 "label": "McLean, Virginia",
 "note": "Congress fixed this in statute. Public Law 105-272 sec. 309 provides that 'the headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the George Bush Center for Intelligence'. Langley is a neighbourhood of McLean in Fairfax County, and is a different place from Langley Air Force Base at Hampton, Virginia.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-10-20",
@@ -562,7 +653,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -572,10 +664,13 @@
 "direction": "out",
 "edgeId": "e-543d0f5e70",
 "edgeLabel": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Rep. Burlison read Christopher Sharp's reporting of a CIA block into the 13 November 2024 hearing and Elizondo replied 'What I can say is that it was blocked.' AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -589,7 +684,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -599,10 +695,13 @@
 "direction": "in",
 "edgeId": "e-61952410a6",
 "edgeLabel": "Dedicated chapter 'The Office of Global Access' at 43:04",
+"family": null,
 "id": "michels-gerb-structural-episode",
 "l0": true,
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "note": "The Office of Global Access, an element associated with CIA's Directorate of Science and Technology, is given a named chapter; Gerb separately links CIA OGA to NRO, MITRE and the Executive branch in his NRO investigation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-01-11",
@@ -616,7 +715,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -626,10 +726,13 @@
 "direction": "in",
 "edgeId": "e-5f2049d632",
 "edgeLabel": "CIA umbrella project, authorized 1953",
+"family": null,
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1963-07-26",
@@ -638,7 +741,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -648,10 +752,13 @@
 "direction": "out",
 "edgeId": "e-11c5bad699",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, which holds documented UAP equity, transferred nothing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -660,7 +767,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -670,10 +778,13 @@
 "direction": "in",
 "edgeId": "e-fdc6a7ab1c",
 "edgeLabel": "Section 102(a) creates the Agency, under the Council",
+"family": null,
 "id": "national-security-act-1947",
 "l0": false,
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "note": "'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The preposition is the point: the Agency sits under the Council.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -682,7 +793,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -692,10 +804,13 @@
 "direction": "out",
 "edgeId": "e-fc8da4c4f7",
 "edgeLabel": "CIA held and filed NICAP's 1964 volume in its own records",
+"family": null,
 "id": "nicap",
 "l0": true,
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "The copy of The UFO Evidence read for this record is the Agency's, released as CIA-RDP81R00560R000100010001-0 and marked 'Approved For Release 2001/04/02'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -704,7 +819,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -714,10 +830,13 @@
 "direction": "in",
 "edgeId": "e-429fa7f008",
 "edgeLabel": "One focal point per component, the Agency included",
+"family": null,
 "id": "nsdd-159",
 "l0": false,
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
 "note": "'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.' The design goal stated on page 2 is that knowledge of policy, of operations and of supporting activity be strictly compartmented from each other.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -726,7 +845,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -736,10 +856,13 @@
 "direction": "in",
 "edgeId": "e-e64cb62474",
 "edgeLabel": "directed to release; absent from the statutory archive",
+"family": null,
 "id": "odni-memo-es-2026-00818",
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The Director of the Central Intelligence Agency is an addressee of the ODNI NDA-waiver memorandum and the CIA has no series in Record Group 615, whose transfer deadline passed on 30 September 2025.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -753,7 +876,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -763,10 +887,13 @@
 "direction": "in",
 "edgeId": "e-5826a24e22",
 "edgeLabel": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
+"family": null,
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The airliner pretext turns on substituting a duplicate for 'a civil registered aircraft belonging to a CIA proprietary organization in the Miami area'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1962-03-13",
@@ -775,7 +902,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -785,10 +913,13 @@
 "direction": "in",
 "edgeId": "e-2d9df9cd76",
 "edgeLabel": "CIA programme, on the Agency's own account of it",
+"family": null,
 "id": "project-azorian",
 "l0": false,
 "label": "Project AZORIAN and the Hughes Glomar Explorer",
 "note": "The released history is the Agency's own account and states CIA sponsorship of the project for intelligence collection purposes.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-01-04",
@@ -797,7 +928,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -807,10 +939,13 @@
 "direction": "in",
 "edgeId": "e-ccee279bac",
 "edgeLabel": "CIA interrogation-team programme, 1950 to 1951, then ARTICHOKE",
+"family": null,
 "id": "project-bluebird",
 "l0": false,
 "label": "Project BLUEBIRD",
 "note": "Proposed by the Chief of the Agency's Inspection and Security Staff for the operational support of OSO and OPC, and renamed ARTICHOKE in August 1951 per the Church Committee text reprinted in the 1977 Senate print.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -819,7 +954,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -829,10 +965,13 @@
 "direction": "in",
 "edgeId": "e-fe8ae68523",
 "edgeLabel": "Special Assistant to the DCI for Planning and Coordination from January 1954",
+"family": null,
 "id": "richard-m-bissell-jr",
 "l0": false,
 "label": "Richard M. Bissell Jr.",
 "note": "The Agency's own history names him in that post and records Dulles handing him the U-2 project in November 1954.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-25",
@@ -841,7 +980,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -851,10 +991,13 @@
 "direction": "out",
 "edgeId": "e-05f5b852b7",
 "edgeLabel": "CIA convened and sponsored the panel, and concealed that sponsorship",
+"family": null,
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -868,7 +1011,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -878,10 +1022,13 @@
 "direction": "out",
 "edgeId": "e-3710978124",
 "edgeLabel": "CIA convened and staffed the January 1953 scientific advisory panel",
+"family": null,
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-01-17",
@@ -895,7 +1042,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -905,10 +1053,13 @@
 "direction": "in",
 "edgeId": "e-0090ce15ca",
 "edgeLabel": "first Director of Central Intelligence, May 1947 to October 1950",
+"family": null,
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1960-06-01",
@@ -917,7 +1068,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -927,10 +1079,13 @@
 "direction": "in",
 "edgeId": "e-1ad6aab388",
 "edgeLabel": "SAIC held the government's remote viewing research line after it left SRI",
+"family": null,
 "id": "saic",
 "l0": false,
 "label": "Science Applications International Corporation",
 "note": "A documented instance of a deniable government research program in an anomalous subject moving wholesale into corporate custody, terminated after an external assessment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -939,7 +1094,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -949,10 +1105,13 @@
 "direction": "in",
 "edgeId": "e-f56027ec83",
 "edgeLabel": "Chief, TSS Chemical Division 1955; Deputy Chief, TSD 1963; Chief, TSD 1973",
+"family": null,
 "id": "sidney-gottlieb",
 "l0": false,
 "label": "Sidney Gottlieb",
 "note": "Three offices, each taken from a separate opened document rather than from a biography.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1963-07-26",
@@ -961,7 +1120,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -971,10 +1131,13 @@
 "direction": "in",
 "edgeId": "e-604aaaa21a",
 "edgeLabel": "First Director of Central Intelligence, 22 January to 10 June 1946",
+"family": null,
 "id": "sidney-souers",
 "l0": false,
 "label": "Rear Adm. Sidney W. Souers",
 "note": "He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1946-02-02",
@@ -983,7 +1146,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -993,10 +1157,13 @@
 "direction": "in",
 "edgeId": "e-c143641693",
 "edgeLabel": "Chartered under the DCI structure; instructed by the Deputy to the DCI for the Intelligence Community",
+"family": null,
 "id": "stic-usib",
 "l0": false,
 "label": "Scientific and Technical Intelligence Committee (USIB)",
 "note": "The 1974 charter takes effect when the appropriate DCID is approved, and the 1975 Letter of Instruction is addressed to the Deputy to the DCI for the Intelligence Community, placing the committee inside the DCI's community machinery.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-08-03",
@@ -1005,7 +1172,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -1015,10 +1183,13 @@
 "direction": "in",
 "edgeId": "e-9a3b053627",
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"family": null,
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08",
@@ -1027,7 +1198,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1037,10 +1209,13 @@
 "direction": "in",
 "edgeId": "e-55f06b164c",
 "edgeLabel": "Director of Central Intelligence",
+"family": null,
 "id": "walter-bedell-smith",
 "l0": false,
 "label": "Walter Bedell Smith",
 "note": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1952-12-02",
@@ -1049,7 +1224,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1059,10 +1235,13 @@
 "direction": "in",
 "edgeId": "e-558cac61bc",
 "edgeLabel": "CIA officer detailed to NRO advanced systems",
+"family": null,
 "id": "william-b-adkins",
 "l0": false,
 "label": "William B. Adkins",
 "note": "The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-25",
@@ -1071,7 +1250,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-66fdbfec24",
 "edgeLabel": "Sponsor of the 118th Congress predecessor",
+"family": null,
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Died in referral; refiled as H.R. 1187.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-05-16",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

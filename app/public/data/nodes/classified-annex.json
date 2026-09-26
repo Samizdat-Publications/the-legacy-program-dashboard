@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-b4a016d1a2",
 "edgeLabel": "The one-word line item is the public face of the annex table",
+"family": null,
 "id": "classified-programs-line",
 "l0": false,
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "Section 4001 authorises obligation of amounts in the funding tables and applies to any classified annex accompanying the Act; the printed tables show only 'CLASSIFIED PROGRAMS' and a number, the annex shows the programme detail. Attested by the enacted text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-12-18",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-43c27cf0b9",
 "edgeLabel": "the second set of numbers, given the same legal force and not printed in the Statutes at Large",
+"family": null,
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "Sec. 8006 of the FY2026 DoD Appropriations Act (P.L. 119-75, 3 Feb 2026) provides that obligation and expenditure for the programs, projects and activities listed in the tables in the classified annex 'are hereby required by law to be carried out in the manner provided by such tables.' Money directed by a document the public cannot read, with statutory force, is the definitional case of an unaccounted fund.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-03",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "in",
 "edgeId": "e-16460b18c3",
 "edgeLabel": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+"family": null,
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -113,7 +124,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -123,10 +135,13 @@
 "direction": "in",
 "edgeId": "e-4b0133aa9e",
 "edgeLabel": "The Comptroller executes the annex",
+"family": null,
 "id": "michael-powers-comptroller",
 "l0": false,
 "label": "Michael Powers",
 "note": "The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -135,7 +150,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -145,10 +161,13 @@
 "direction": "out",
 "edgeId": "e-c0ad6e3ef2",
 "edgeLabel": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
+"family": null,
 "id": "sec-1001-gta",
 "l0": false,
 "label": "Section 1001 General Transfer Authority (annual NDAA)",
 "note": "Section 4001(c) of the FY2026 NDAA states transfers or reprogrammings of funding-table amounts shall not count against the section 1001 ceiling unless funds move between appropriation accounts; section 4001(d) applies the section to any classified annex. Attested by the enacted text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-12-18",
@@ -157,7 +176,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -167,10 +187,13 @@
 "direction": "out",
 "edgeId": "e-b5c0392d90",
 "edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
+"family": null,
 "id": "sec-8005-transfer",
 "l0": false,
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-03",
@@ -179,7 +202,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -189,10 +213,13 @@
 "direction": "in",
 "edgeId": "e-f0d4ac776f",
 "edgeLabel": "NIP reprogramming is measured against levels that exist only in the annex",
+"family": null,
 "id": "sec-8084-nip-reprogramming",
 "l0": false,
 "label": "Section 8084 - NIP reprogramming notification against classified annex levels",
 "note": "Section 8084(b) conditions NIP reprogramming notice on cumulative change to 'the levels specified in the classified annex accompanying the Act' - a public statute making the unpublished annex the operative baseline. Attested by the enacted text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-03",
@@ -201,7 +228,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -211,10 +239,13 @@
 "direction": "in",
 "edgeId": "e-cc04e375ba",
 "edgeLabel": "Accounting-side and appropriations-side concealment of the same activity",
+"family": null,
 "id": "sffas-56",
 "l0": false,
 "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
 "note": "The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-10-04",
@@ -223,7 +254,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -233,10 +265,13 @@
 "direction": "in",
 "edgeId": "e-b589cbbc34",
 "edgeLabel": "four of the twelve seats are appropriations leadership",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -255,7 +290,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 }
 ],
 "coords": null,

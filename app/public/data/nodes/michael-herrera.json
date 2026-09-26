@@ -68,10 +68,13 @@
 "direction": "out",
 "edgeId": "e-a0edefad80",
 "edgeLabel": "Inferred identification with the anonymised page 29 interviewee",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-02",
@@ -80,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -90,10 +94,13 @@
 "direction": "out",
 "edgeId": "e-a7c48378e4",
 "edgeLabel": "The member who moved his written testimony into the hearing record",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -102,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -112,10 +120,13 @@
 "direction": "out",
 "edgeId": "e-35b29a1f09",
 "edgeLabel": "Written testimony moved into the record by a member; NOT a witness appearance",
+"family": null,
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -124,7 +135,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -134,10 +146,13 @@
 "direction": "out",
 "edgeId": "e-86199651c0",
 "edgeLabel": "Named on the record as the custodian who supplied the written testimony",
+"family": null,
 "id": "steven-greer",
 "l0": false,
 "label": "Steven M. Greer",
 "note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -146,7 +161,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "date": null,

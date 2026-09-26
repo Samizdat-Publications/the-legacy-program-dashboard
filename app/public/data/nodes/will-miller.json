@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-aae119eaed",
 "edgeLabel": "His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics",
+"family": null,
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -72,10 +76,13 @@
 "direction": "out",
 "edgeId": "e-9e0f2c1dcc",
 "edgeLabel": "Placed with Greer and Mitchell at the April 1997 Pentagon talk",
+"family": null,
 "id": "steven-greer",
 "l0": false,
 "label": "Steven M. Greer",
 "note": "The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -84,7 +91,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -94,10 +102,13 @@
 "direction": "out",
 "edgeId": "e-c3107a22c6",
 "edgeLabel": "The private two hour conversation of April 1997, as the notes record it",
+"family": null,
 "id": "thomas-wilson",
 "l0": false,
 "label": "Thomas R. Wilson",
 "note": "The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -106,7 +117,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -116,10 +128,13 @@
 "direction": "out",
 "edgeId": "e-db23c34431",
 "edgeLabel": "His letter of 25 April 2002 is on United States Navy letterhead",
+"family": null,
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -128,7 +143,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -138,10 +154,13 @@
 "direction": "out",
 "edgeId": "e-7247b6d94d",
 "edgeLabel": "Named on six of the fifteen pages; his own signed letter is two of them",
+"family": null,
 "id": "wilson-davis-memo",
 "l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -150,7 +169,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2002-04-25",

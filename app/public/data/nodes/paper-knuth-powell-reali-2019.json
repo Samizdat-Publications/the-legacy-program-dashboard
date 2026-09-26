@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-d709bb9915",
 "edgeLabel": "Lead author of the Entropy kinematics paper",
+"family": null,
 "id": "kevin-knuth",
 "l0": false,
 "label": "Kevin H. Knuth",
 "note": "Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-25",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -51,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-4e00f1c429",
 "edgeLabel": "Nimitz encounter analysed quantitatively in a peer-reviewed physics journal",
+"family": null,
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-25",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -73,10 +81,13 @@
 "direction": "in",
 "edgeId": "e-a23e414d4f",
 "edgeLabel": "Co-author; brought the SCU case reconstructions",
+"family": null,
 "id": "robert-powell",
 "l0": false,
 "label": "Robert M. Powell",
 "note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-25",
@@ -90,7 +101,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

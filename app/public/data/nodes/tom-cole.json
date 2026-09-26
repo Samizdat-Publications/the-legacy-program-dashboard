@@ -56,10 +56,13 @@
 "direction": "out",
 "edgeId": "e-2d84da5d4e",
 "edgeLabel": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
+"family": null,
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -78,7 +81,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -88,10 +92,13 @@
 "direction": "out",
 "edgeId": "e-e7956f36fd",
 "edgeLabel": "Chairman, House Appropriations Committee",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -115,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2024-04-10",

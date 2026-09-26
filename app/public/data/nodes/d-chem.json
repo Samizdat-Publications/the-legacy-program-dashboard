@@ -36,10 +36,13 @@
 "direction": "in",
 "edgeId": "e-8b0c15185b",
 "edgeLabel": "Isotopics is the falsifiable test",
+"family": null,
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "The Nolan-Vallee methodology paper specifies isotope ratio measurement as the discriminating test; the chemistry domain is where that test is run.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-01-01",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

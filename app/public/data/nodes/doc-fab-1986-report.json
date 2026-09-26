@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-51f0be32a0",
 "edgeLabel": "declassified into the National Archives on 25 September 2009",
+"family": null,
 "id": "arquivo-nacional-ufo",
 "l0": true,
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "Released 23 years after the minister promised a dossier in 30 days.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-01-14",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-b9d6006587",
 "edgeLabel": "the official record of the night",
+"family": null,
 "id": "ev-noite-ovnis-1986",
 "l0": false,
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "note": "Its Considerações Finais record solid radar-and-visual objects that outran supersonic interceptors and 'reflect in a certain manner intelligence'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-06-02",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-e18e9923b1",
 "edgeLabel": "The report is dated at Brasília, 2 June 1986",
+"family": null,
 "id": "l-brasilia",
 "l0": false,
 "label": "Brasilia, Federal District, Brazil",
 "note": "The document's own dateline places it in the federal capital, and its item reference sits inside the Brasília-held BR DFANBSB ARX fund.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -101,7 +112,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -111,10 +123,13 @@
 "direction": "in",
 "edgeId": "e-8268e44c49",
 "edgeLabel": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
+"family": null,
 "id": "otavio-moreira-lima",
 "l0": false,
 "label": "Brigadeiro Octávio Júlio Moreira Lima",
 "note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -138,7 +153,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -148,10 +164,13 @@
 "direction": "in",
 "edgeId": "e-8e3b848bf7",
 "edgeLabel": "signed the CONFIDENCIAL Air Defence Command report",
+"family": null,
 "id": "pessoa-cavalcanti",
 "l0": false,
 "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
 "note": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-06-02",
@@ -160,7 +179,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

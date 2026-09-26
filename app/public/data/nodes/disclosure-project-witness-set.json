@@ -92,10 +92,13 @@
 "direction": "out",
 "edgeId": "e-36276f470b",
 "edgeLabel": "A cohort of claimants, which is what this domain is for",
+"family": null,
 "id": "d-witness",
 "l0": false,
 "label": "Witness Chain",
 "note": "Every member of the set is on the board only as someone who asserted something, which under CLAUDE.md section 6 is exactly the situation in which degree must never be read as truth.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -104,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -114,10 +118,13 @@
 "direction": "out",
 "edgeId": "e-07d1e7982f",
 "edgeLabel": "The cohort is defined by section 3.8 of the document",
+"family": null,
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "Sixty-eight dated testimony headings across five subsections. The set node exists so that the fifty-seven unchecked witnesses do not each become a single-claim person node.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -126,7 +133,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -136,10 +144,13 @@
 "direction": "out",
 "edgeId": "e-a5ed84b7da",
 "edgeLabel": "Carries the Don Phillips claim of work with Kelly Johnson at the Skunk Works",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "TIER 3, AND DELIBERATELY ROUTED THROUGH THE SET RATHER THAN A PERSON NODE. Nothing independent exists for Phillips: no personnel record, no Lockheed document, no CIA record, no publication, and the name is extremely common. An unverified claimant must not acquire a direct edge into a Tier A contractor node.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -148,7 +159,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -158,10 +170,13 @@
 "direction": "out",
 "edgeId": "e-f0ce72fa85",
 "edgeLabel": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
+"family": null,
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -180,7 +195,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -190,10 +206,13 @@
 "direction": "out",
 "edgeId": "e-082ce58065",
 "edgeLabel": "Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery",
+"family": null,
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "TIER 3. Nothing independent places Wolfe anywhere, and NASA's own catalogue places the Lunar Orbiter programme at NASA Langley Research Center, a separate civil installation from Langley Air Force Base.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -207,7 +226,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

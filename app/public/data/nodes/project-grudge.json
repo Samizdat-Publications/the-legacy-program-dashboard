@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-11d1e76e40",
 "edgeLabel": "Destruction of the Estimate preceded GRUDGE's dismissive posture by six months",
+"family": null,
 "id": "estimate-of-the-situation",
 "l0": false,
 "label": "Estimate of the Situation (1948)",
 "note": "SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "out",
 "edgeId": "e-4cb9a68112",
 "edgeLabel": "GRUDGE renamed Blue Book under Ruppelt in March 1952",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Ruppelt was placed in charge of the reconstituted GRUDGE in late 1951 and the project was renamed Project Blue Book in March 1952.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

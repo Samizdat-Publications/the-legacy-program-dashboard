@@ -77,10 +77,13 @@
 "direction": "out",
 "edgeId": "e-cb955e3042",
 "edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
+"family": null,
 "id": "aerospace-corporation",
 "l0": false,
 "label": "The Aerospace Corporation",
 "note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -94,7 +97,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -104,10 +108,13 @@
 "direction": "out",
 "edgeId": "e-d8bf46ae93",
 "edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+"family": null,
 "id": "burlison-mitre-letter-2026",
 "l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -116,7 +123,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -126,10 +134,13 @@
 "direction": "out",
 "edgeId": "e-6832526c0c",
 "edgeLabel": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
+"family": null,
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -143,7 +154,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -153,10 +165,13 @@
 "direction": "out",
 "edgeId": "e-878ce88754",
 "edgeLabel": "Establishes the FFRDC arbitration thesis",
+"family": null,
 "id": "ffrdc-mechanism",
 "l0": false,
 "label": "The FFRDC / UARC / GOCO mechanism",
 "note": "Gerb's central structural claim: FFRDCs let the government vest programs outside the USG while retaining control of materials and data, and arbitrate what defense contractors are told about UFO programs.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -165,7 +180,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -175,10 +191,13 @@
 "direction": "out",
 "edgeId": "e-9f02974d7c",
 "edgeLabel": "Alleged 2011 restriction on historical briefings about program incumbents",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -187,7 +206,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -197,10 +217,13 @@
 "direction": "out",
 "edgeId": "e-84f69e61f4",
 "edgeLabel": "Names MITRE as the central FFRDC node of the legacy portfolio",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -209,7 +232,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -219,10 +243,13 @@
 "direction": "out",
 "edgeId": "e-318766f210",
 "edgeLabel": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Allegations include exploitation of non-human technologies from late-1940s recoveries and all-source processing of data on a very large Atlantic USO; no primary document has been produced.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -231,7 +258,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -241,10 +269,13 @@
 "direction": "out",
 "edgeId": "e-b82f635ae3",
 "edgeLabel": "Alleges MITRE support to two Navy-spearheaded legacy programs",
+"family": null,
 "id": "oni",
 "l0": false,
 "label": "Office of Naval Intelligence",
 "note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -253,7 +284,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -263,10 +295,13 @@
 "direction": "out",
 "edgeId": "e-96ed43b4ac",
 "edgeLabel": "MITRE founded as the Air Force's successor to RAND",
+"family": null,
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -275,7 +310,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -285,10 +321,13 @@
 "direction": "in",
 "edgeId": "e-01829daf96",
 "edgeLabel": "Gerb authored and published the MITRE investigation",
+"family": null,
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -297,7 +336,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

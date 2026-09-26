@@ -59,10 +59,13 @@
 "direction": "in",
 "edgeId": "e-77afd68763",
 "edgeLabel": "deliverable under AAWSAP",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +90,13 @@
 "direction": "out",
 "edgeId": "e-2820fe4a56",
 "edgeLabel": "subject domain: exotic and reconfigurable materials",
+"family": null,
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "The document surveys programmable material whose effective atoms can be changed on demand to summon or dismiss material properties at will. It sits in the same AAWSAP materials line as the metamaterials, metallic glasses and metallic spintronics DIRDs.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -103,7 +110,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +121,13 @@
 "direction": "in",
 "edgeId": "e-481df679bd",
 "edgeLabel": "published and holds; DIA-08-0911-016",
+"family": null,
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -130,7 +141,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -140,10 +152,13 @@
 "direction": "in",
 "edgeId": "e-cb8bd760e1",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -152,7 +167,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -162,10 +178,13 @@
 "direction": "in",
 "edgeId": "e-08d14f0b29",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-0911-016. Publication date 14 December 2009 on the cover. 21 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -179,7 +198,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -189,10 +209,13 @@
 "direction": "in",
 "edgeId": "e-76647474e8",
 "edgeLabel": "authored",
+"family": null,
 "id": "wil-mccarthy",
 "l0": false,
 "label": "Wil McCarthy",
 "note": "DIA list item 23 names \"Dr W McCarthy, Programmable Matter Corporation\". Released PDF redacts the author under (b)(6).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -216,7 +239,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

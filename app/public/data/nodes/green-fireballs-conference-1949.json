@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-73424ce707",
 "edgeLabel": "AEC laboratories convened the February 1949 green fireball conference",
+"family": null,
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "The green fireball events centred on the Los Alamos and Sandia complexes and produced a conference and the subsequent Project TWINKLE instrumented observation effort. Attested by the FBI and Air Force file material released through the 2026 PURSUE tranches.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-18",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-a774f56a07",
 "edgeLabel": "Attended the 16 February 1949 conference",
+"family": null,
 "id": "edward-teller",
 "l0": false,
 "label": "Edward Teller",
 "note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-18",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +87,13 @@
 "direction": "out",
 "edgeId": "e-bf6a67e3cf",
 "edgeLabel": "The green fireballs conference was convened at Los Alamos",
+"family": null,
 "id": "l-los-alamos",
 "l0": false,
 "label": "Los Alamos, New Mexico",
 "note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -101,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-f62c16bd70",
 "edgeLabel": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
+"family": null,
 "id": "lanl",
 "l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-18",
@@ -113,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -123,10 +139,13 @@
 "direction": "in",
 "edgeId": "e-99e10f0db9",
 "edgeLabel": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
+"family": null,
 "id": "lincoln-lapaz",
 "l0": false,
 "label": "Lincoln LaPaz",
 "note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-18",
@@ -135,7 +154,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

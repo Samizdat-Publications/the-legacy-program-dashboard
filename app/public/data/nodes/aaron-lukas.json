@@ -46,10 +46,13 @@
 "direction": "out",
 "edgeId": "e-2ff96058d6",
 "edgeLabel": "signatory",
+"family": null,
 "id": "odni-memo-es-2026-00818",
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "Aaron Lukas signed ES 2026-00818 as Principal Deputy Director of National Intelligence; the memorandum is unclassified and carries an ODNI executive secretariat control number.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "date": "2026-08-01",

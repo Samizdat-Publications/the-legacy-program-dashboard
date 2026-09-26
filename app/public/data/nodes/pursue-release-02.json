@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-26bf49d9f5",
 "edgeLabel": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
+"family": null,
 "id": "aaro-fy2024-annual-report",
 "l0": true,
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-14",
@@ -64,7 +67,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -74,10 +78,13 @@
 "direction": "in",
 "edgeId": "e-e1ce42aadf",
 "edgeLabel": "letter said to be answered by the tranche",
+"family": null,
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Release 02 is the only tranche with an identified congressional trigger - Luna's April 2026 letter - and the letter itself has not been published.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -86,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -96,10 +104,13 @@
 "direction": "out",
 "edgeId": "e-5c6b8ba6d8",
 "edgeLabel": "Published the serving officer's encounter narrative",
+"family": null,
 "id": "odni-uap-d001",
 "l0": false,
 "label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
 "note": "A serving senior intelligence officer's first-person narrative of a one-hour, multi-witness encounter, published under an ODNI document number five months after the event.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -108,7 +119,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -118,10 +130,13 @@
 "direction": "in",
 "edgeId": "e-802a777535",
 "edgeLabel": "Second tranche, 22 May 2026",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series; the 5.6GB video bundle is the largest of the five.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -135,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

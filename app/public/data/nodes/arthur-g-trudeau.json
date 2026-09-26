@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-a775297a08",
 "edgeLabel": "Two Directors of Central Intelligence corresponded with him in office",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Two Directors of Central Intelligence corresponded with him in office, Dulles in January 1958 on avoiding duplication between CIA and Army research programmes and McCone in March 1962 on the Limited-War Mission symposium.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1958-01-18",
@@ -67,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -77,10 +81,13 @@
 "direction": "out",
 "edgeId": "e-819744685d",
 "edgeLabel": "Addressed at the Department of the Army, Washington 25, D. C.",
+"family": null,
 "id": "l-dc",
 "l0": false,
 "label": "Washington, D.C.",
 "note": "Both letters address him at the Department of the Army, Washington 25, D. C.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1958-01-18",
@@ -94,7 +101,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -104,10 +112,13 @@
 "direction": "out",
 "edgeId": "e-72e51bc619",
 "edgeLabel": "Corso's Foreign Technology Division chieftaincy falls inside Trudeau's tenure",
+"family": null,
 "id": "philip-corso",
 "l0": false,
 "label": "Philip J. Corso",
 "note": "Corso's DA Form 66 places his Foreign Technology Division chieftaincy, 18 April to 18 July 1962, inside Trudeau's documented tenure as Chief of Research and Development.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1962-03-12",
@@ -116,7 +127,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1958-01-18",

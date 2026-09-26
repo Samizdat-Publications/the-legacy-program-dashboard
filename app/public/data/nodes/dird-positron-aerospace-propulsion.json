@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-25965a16be",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -75,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -85,10 +89,13 @@
 "direction": "out",
 "edgeId": "e-79c40869ac",
 "edgeLabel": "commissioned via the BAASS prime contract",
+"family": null,
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Positronics Research LLC was an outside small business with no standing DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract itself has not been released.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -107,7 +114,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -117,10 +125,13 @@
 "direction": "in",
 "edgeId": "e-4a89c0012b",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -129,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -139,10 +151,13 @@
 "direction": "in",
 "edgeId": "e-5be8be6827",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 March 2010 on the cover. 36 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -156,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -166,10 +182,13 @@
 "direction": "out",
 "edgeId": "e-792c277271",
 "edgeLabel": "authored by",
+"family": null,
 "id": "gerald-smith",
 "l0": false,
 "label": "Gerald A. Smith",
 "note": "The DIA congressional list credits 'Positron Aerospace Propulsion' to 'Dr Gerald Smith, Positronics Research'. Smith is a Yale physics Ph.D., former Penn State physics department head, and developer of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap for NASA Marshall; the DIRD subject matter tracks his own NASA Institute for Advanced Concepts study on positron-propelled vehicles.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -203,7 +222,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

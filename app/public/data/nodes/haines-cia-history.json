@@ -83,10 +83,13 @@
 "direction": "out",
 "edgeId": "e-7f2d88f3b4",
 "edgeLabel": "CIA's own published history concedes the Air Force made deceptive public statements",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -95,7 +98,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -105,10 +109,13 @@
 "direction": "in",
 "edgeId": "e-182fef211a",
 "edgeLabel": "CIA published its own institutional history of its UFO role in 1997",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Gerald K. Haines, the Agency's historian, published an eighteen-page account in Studies in Intelligence acknowledging the OSI effort, the Robertson Panel and the later U-2/OXCART attribution.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -117,7 +124,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -127,10 +135,13 @@
 "direction": "in",
 "edgeId": "e-c581aaba16",
 "edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
+"family": null,
 "id": "cia-overhead-reconnaissance-history-1992",
 "l0": false,
 "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
 "note": "The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -139,7 +150,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -149,10 +161,13 @@
 "direction": "out",
 "edgeId": "e-40cf2836c3",
 "edgeLabel": "CIA states the Air Force made misleading and deceptive public statements",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Haines writes that reconnaissance-programme secrecy 'led the Air Force to make misleading and deceptive statements to the public' — an agency of the US government confirming official deception on this subject.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -161,7 +176,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -171,10 +187,13 @@
 "direction": "out",
 "edgeId": "e-5622f47f71",
 "edgeLabel": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -183,7 +202,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -193,10 +213,13 @@
 "direction": "out",
 "edgeId": "e-337a4c9e5d",
 "edgeLabel": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+"family": null,
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -205,7 +228,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -215,10 +239,13 @@
 "direction": "in",
 "edgeId": "e-e549bdc7f9",
 "edgeLabel": "CIA's official history documents the panel's debunking and concealment",
+"family": null,
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Haines records the mass media and Disney recommendations and states plainly that CIA sponsorship of the panel was forbidden from being mentioned.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -227,7 +254,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -237,10 +265,13 @@
 "direction": "out",
 "edgeId": "e-47c9ca26b9",
 "edgeLabel": "CIA history confirms the 1952 flap drove Agency intervention",
+"family": null,
 "id": "washington-flap-1952",
 "l0": false,
 "label": "1952 Washington DC Sightings",
 "note": "Haines records the escalation from the summer 1952 sightings through Chadwell's memoranda to the January 1953 panel.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -249,7 +280,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -259,10 +291,13 @@
 "direction": "out",
 "edgeId": "e-4e62005113",
 "edgeLabel": "A documented precedent for institutional falsification about UFOs by the US Air Force",
+"family": null,
 "id": "yankee-blue",
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "CIA's own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -276,7 +311,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "coords": null,

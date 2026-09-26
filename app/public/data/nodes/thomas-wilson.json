@@ -76,10 +76,13 @@
 "direction": "in",
 "edgeId": "e-dd096990f4",
 "edgeLabel": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
+"family": null,
 "id": "disclosure-project",
 "l0": true,
 "label": "The Disclosure Project",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-01",
@@ -93,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -103,10 +107,13 @@
 "direction": "in",
 "edgeId": "e-c3107a22c6",
 "edgeLabel": "The private two hour conversation of April 1997, as the notes record it",
+"family": null,
 "id": "will-miller",
 "l0": false,
 "label": "Will Miller",
 "note": "The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -115,7 +122,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -125,10 +133,13 @@
 "direction": "out",
 "edgeId": "e-cc5305178c",
 "edgeLabel": "Wilson denies the meeting and the substance attributed to him",
+"family": null,
 "id": "wilson-davis-memo",
 "l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-01",
@@ -137,7 +148,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": "2002-10-16",

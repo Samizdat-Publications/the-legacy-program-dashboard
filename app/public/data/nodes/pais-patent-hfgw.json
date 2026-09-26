@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-0765b03a3d",
 "edgeLabel": "NASA treated high frequency gravitational waves as a detection problem in 2004",
+"family": null,
 "id": "millis-tm-2004-213082",
 "l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -45,10 +49,13 @@
 "direction": "in",
 "edgeId": "e-e85cdcada8",
 "edgeLabel": "The disclosure says the IMRD enables the gravitational wave generator",
+"family": null,
 "id": "pais-patent-imrd",
 "l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -57,7 +64,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -67,10 +75,13 @@
 "direction": "in",
 "edgeId": "e-b9e8ff5af0",
 "edgeLabel": "Named inventor",
+"family": null,
 "id": "salvatore-pais",
 "l0": false,
 "label": "Salvatore Cezar Pais",
 "note": "Application 15/431823, assigned to the Secretary of the Navy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -79,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

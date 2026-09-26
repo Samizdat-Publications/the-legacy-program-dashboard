@@ -58,10 +58,13 @@
 "direction": "out",
 "edgeId": "e-aa1254949e",
 "edgeLabel": "The claimed insider, whose author confessed the invention",
+"family": null,
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "The edge records that the claim was made and circulated under this name. The node it runs from records that the man who wrote the original articles says he invented the name. Both halves are needed: deleting the edge would leave the downstream literature unexplained, and leaving it untyped would let a fabricated witness read as a witness.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-04-02",
@@ -75,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -85,10 +89,13 @@
 "direction": "in",
 "edgeId": "e-8e00517764",
 "edgeLabel": "'There is no evidence that I have found, that shows that Thomas Costello even exists'",
+"family": null,
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "A named researcher's published negative, dated, and consistent with the confession obtained independently by Gorightly. Note the Costello spelling, which is how the viral posts carry the name.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-04-01",
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -107,10 +115,13 @@
 "direction": "in",
 "edgeId": "e-aa2d49cc00",
 "edgeLabel": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
+"family": null,
 "id": "tal-levesque",
 "l0": false,
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-04-02",
@@ -124,7 +135,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": null,

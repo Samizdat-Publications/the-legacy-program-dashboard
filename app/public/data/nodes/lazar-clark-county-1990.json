@@ -49,10 +49,13 @@
 "direction": "out",
 "edgeId": "e-6872b50eb3",
 "edgeLabel": "The court file contradicts his own credential account, in his own reported words",
+"family": null,
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1990-07-27",
@@ -61,7 +64,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -71,10 +75,13 @@
 "direction": "in",
 "edgeId": "e-21ade5f0bd",
 "edgeLabel": "Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report",
+"family": null,
 "id": "tom-mahood",
 "l0": false,
 "label": "Tom Mahood",
 "note": "GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-05-14",
@@ -83,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

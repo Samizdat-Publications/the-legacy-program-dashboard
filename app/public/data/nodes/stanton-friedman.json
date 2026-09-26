@@ -136,10 +136,13 @@
 "direction": "out",
 "edgeId": "e-e0f55e62f5",
 "edgeLabel": "Credential investigation: located Duxler at Pierce, found no institutional record",
+"family": null,
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-12",
@@ -148,7 +151,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -158,10 +162,13 @@
 "direction": "out",
 "edgeId": "e-da5de362aa",
 "edgeLabel": "Friedman's February 1978 interview reopened Roswell",
+"family": null,
 "id": "jesse-marcel",
 "l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -170,7 +177,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -180,10 +188,13 @@
 "direction": "out",
 "edgeId": "e-2ee2bc759c",
 "edgeLabel": "Unresolved dispute over MJ-12 authenticity",
+"family": null,
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -192,7 +203,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -202,10 +214,13 @@
 "direction": "out",
 "edgeId": "e-6603a7de74",
 "edgeLabel": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
+"family": null,
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-12",
@@ -214,7 +229,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -224,10 +240,13 @@
 "direction": "in",
 "edgeId": "e-9d050e82b0",
 "edgeLabel": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
+"family": null,
 "id": "william-l-moore",
 "l0": false,
 "label": "William L. Moore",
 "note": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -236,7 +255,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2019-05-13",

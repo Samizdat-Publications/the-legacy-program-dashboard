@@ -24,10 +24,13 @@
 "direction": "out",
 "edgeId": "e-3f13cd4b8c",
 "edgeLabel": "NASA field centre at Moffett Field",
+"family": null,
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "NASA describes Ames as 'one of ten NASA field centers ... located in the heart of California's Silicon Valley', gives its location as Moffett Field, California, and dates its establishment to 20 December 1939, before its absorption into NASA in 1958.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-25",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

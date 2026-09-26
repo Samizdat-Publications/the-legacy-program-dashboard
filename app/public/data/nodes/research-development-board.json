@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-ba24605110",
 "edgeLabel": "surviving records held in Record Group 330",
+"family": null,
 "id": "national-archives",
 "l0": false,
 "label": "National Archives and Records Administration",
 "note": "NARA's finding aid lists, at 330.11.3, 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-30",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

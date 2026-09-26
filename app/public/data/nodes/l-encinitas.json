@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-b2482ea3b3",
 "edgeLabel": "Corporate base and Entertainment Division retail location",
+"family": null,
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Stated in the company's Form 1-K.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-04-30",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

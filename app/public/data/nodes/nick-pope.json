@@ -93,10 +93,13 @@
 "direction": "out",
 "edgeId": "e-fdea9baa08",
 "edgeLabel": "principal public critic of the 2009 closure",
+"family": null,
 "id": "ev-uk-ufo-desk-closure",
 "l0": false,
 "label": "Closure of the MoD UFO Desk, 1 December 2009",
 "note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-01",
@@ -110,7 +113,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -120,10 +124,13 @@
 "direction": "in",
 "edgeId": "e-5b727f09a5",
 "edgeLabel": "2025 Canadian recommendation versus the 2009 British closure",
+"family": null,
 "id": "mona-nemer",
 "l0": false,
 "label": "Dr Mona Nemer",
 "note": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-01",
@@ -137,7 +144,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -147,10 +155,13 @@
 "direction": "out",
 "edgeId": "e-4ec169d9a2",
 "edgeLabel": "fronted the publicity for the file releases",
+"family": null,
 "id": "tna-ufo-release",
 "l0": false,
 "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
 "note": "The MoD approached Pope to help with the publicity drive when it decided to declassify and release the files; he became, in the broadcaster's phrase, the face of the Ministry's new-found transparency.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-02",
@@ -159,7 +170,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -169,10 +181,13 @@
 "direction": "out",
 "edgeId": "e-eedbbb393b",
 "edgeLabel": "ran the UFO desk 1991-1994",
+"family": null,
 "id": "uk-mod-ufo-desk",
 "l0": false,
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "Sky HISTORY, the broadcaster he worked for, records that he joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying three years.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-02",
@@ -181,7 +196,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2026-04-06",

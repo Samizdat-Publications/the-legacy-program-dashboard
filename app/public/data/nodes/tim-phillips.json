@@ -74,10 +74,13 @@
 "direction": "out",
 "edgeId": "e-e21d7a8876",
 "edgeLabel": "Deputy Director from Oct 2023; Acting Director Dec 2023 - Aug 2024",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Phillips came to AARO on assignment from ODNI and ran the office between Kirkpatrick and Kosloski.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-01",
@@ -86,7 +89,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -96,10 +100,13 @@
 "direction": "out",
 "edgeId": "e-dabeb43017",
 "edgeLabel": "fronted the Volume I rollout and media engagement",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Phillips conducted a private press briefing on 6 March 2024 and an on-record media engagement published by DoD on 8 March 2024.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -108,7 +115,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2024-03-08",

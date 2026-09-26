@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-0ff708b50d",
 "edgeLabel": "The memorandum's subject is this installation",
+"family": null,
 "id": "l-loring",
 "l0": false,
 "label": "Loring AFB, Maine",
 "note": "Subject line 'AFB Penetration'; Loring AFB Maine named in paragraph 1.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-10-29",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-54ecd92132",
 "edgeLabel": "The command-level record of the penetration and the failed response",
+"family": null,
 "id": "loring-1975",
 "l0": false,
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "note": "Five numbered paragraphs plus four DDO updates, each citing its source message.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-10-29",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "out",
 "edgeId": "e-a0cde08f12",
 "edgeLabel": "SAC is the reporting chain throughout the memorandum",
+"family": null,
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-10-29",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

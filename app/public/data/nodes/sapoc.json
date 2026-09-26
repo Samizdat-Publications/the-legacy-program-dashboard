@@ -95,10 +95,13 @@
 "direction": "in",
 "edgeId": "e-e24604d954",
 "edgeLabel": "The committee the board dates to 2010 was running from January 1994",
+"family": null,
 "id": "dod-sap-reform-1994",
 "l0": false,
 "label": "DoD special access programme governance change, 5 January 1994",
 "note": "The November 1994 bulletin has the SAPOC chaired by the Deputy Secretary of Defense, reviewing and validating every SAP annually, sixteen years before the DoD Directive 5205.07 issuance the sapoc node cites as its establishment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1994-11-01",
@@ -107,7 +110,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -117,10 +121,13 @@
 "direction": "in",
 "edgeId": "e-d006b2e958",
 "edgeLabel": "Established the SAPOC on 1 July 2010",
+"family": null,
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense and the Deputy Secretary of Defense'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -129,7 +136,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -139,10 +147,13 @@
 "direction": "in",
 "edgeId": "e-bd900046fa",
 "edgeLabel": "Sets SAPOC membership and its annual validation of the congressional report",
+"family": null,
 "id": "dodi-5205-11",
 "l0": true,
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 Enclosure 3 para 2 lists the eighteen SAPOC positions and assigns it 'an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -151,7 +162,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -161,10 +173,13 @@
 "direction": "in",
 "edgeId": "e-6410cc9d84",
 "edgeLabel": "Records that no OSD office held a list of all special access programmes in 1988",
+"family": null,
 "id": "gao-nsiad-88-152",
 "l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The report records that no OSD office held a list of all special access programmes in 1988, which is the condition the SAPOC was later created to fix.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1988-05-24",
@@ -173,7 +188,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -183,10 +199,13 @@
 "direction": "in",
 "edgeId": "e-9cf77b75e0",
 "edgeLabel": "Unanimous SRG recommendations bypass the SAPOC entirely",
+"family": null,
 "id": "srg-dod",
 "l0": false,
 "label": "Senior Review Group (DoD SAP governance)",
 "note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -195,7 +214,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

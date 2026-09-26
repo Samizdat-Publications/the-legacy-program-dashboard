@@ -59,10 +59,13 @@
 "direction": "out",
 "edgeId": "e-623b0662f3",
 "edgeLabel": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
+"family": null,
 "id": "alcubierre-1994",
 "l0": false,
 "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
 "note": "DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts 'require enormous quantities of \"negative energy\" (equivalent mass of planets or suns)' and are 'extremely unlikely to be engineered'. Alcubierre's own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -71,7 +74,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -81,10 +85,13 @@
 "direction": "in",
 "edgeId": "e-9cfb945495",
 "edgeLabel": "The experiment behind the survey's ion-wind finding",
+"family": null,
 "id": "canning-nasa-cr-2004-213312",
 "l0": false,
 "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
 "note": "Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -98,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -108,10 +116,13 @@
 "direction": "out",
 "edgeId": "e-c0690fe47e",
 "edgeLabel": "The domain's best single published adjudication",
+"family": null,
 "id": "d-exotic",
 "l0": false,
 "label": "Exotic Technology & Physics",
 "note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -120,7 +131,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -130,10 +142,13 @@
 "direction": "in",
 "edgeId": "e-285a3bdd1b",
 "edgeLabel": "Sole author of the project's summary technical memorandum",
+"family": null,
 "id": "marc-millis",
 "l0": false,
 "label": "Marc G. Millis",
 "note": "AUTHORSHIP IS research AND NOT custody on this board: custody carries a x3.0 programme weighting and an author is not a custodian. He wrote the document; he did not hold it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -142,7 +157,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -152,10 +168,13 @@
 "direction": "out",
 "edgeId": "e-63679eb61d",
 "edgeLabel": "The published summary of the project's methods and findings",
+"family": null,
 "id": "nasa-bpp",
 "l0": false,
 "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "note": "A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -164,7 +183,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -174,10 +194,13 @@
 "direction": "out",
 "edgeId": "e-0765b03a3d",
 "edgeLabel": "NASA treated high frequency gravitational waves as a detection problem in 2004",
+"family": null,
 "id": "pais-patent-hfgw",
 "l0": false,
 "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "note": "STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -186,7 +209,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -196,10 +220,13 @@
 "direction": "out",
 "edgeId": "e-9594c4bce3",
 "edgeLabel": "NASA: the observed thrust is ion wind, and these devices are not viable candidates",
+"family": null,
 "id": "thomas-townsend-brown",
 "l0": false,
 "label": "Thomas Townsend Brown",
 "note": "EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -208,7 +235,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

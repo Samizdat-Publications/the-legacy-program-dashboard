@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-23d46b2513",
 "edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
+"family": null,
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-11-29",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -51,10 +55,13 @@
 "direction": "in",
 "edgeId": "e-d8d125b928",
 "edgeLabel": "Author of the late-1981 report",
+"family": null,
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-11-29",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

@@ -48,10 +48,13 @@
 "direction": "out",
 "edgeId": "e-9876520bd4",
 "edgeLabel": "Two FOIA-first approaches to the same concealment question",
+"family": null,
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "Cameron requests presidential and agency paper and publishes null returns; Kean litigated a null return to a judicial finding of inadequate search. Reasoning: both treat the absence of records as the evidentiary object rather than as an obstacle.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2007-03-27",
@@ -60,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "1990s",

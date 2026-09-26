@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-733d049823",
 "edgeLabel": "Squadron at the centre of the Atlantic encounter series",
+"family": null,
 "id": "roosevelt-2014-2015",
 "l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Graves names VFA-11 and Warning Area W-72 in sworn testimony as the locus of the encounters and the near-midair.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

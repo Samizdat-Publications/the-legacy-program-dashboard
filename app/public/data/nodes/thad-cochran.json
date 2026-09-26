@@ -38,10 +38,13 @@
 "direction": "out",
 "edgeId": "e-734d361ccf",
 "edgeLabel": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
+"family": null,
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -60,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -70,10 +74,13 @@
 "direction": "out",
 "edgeId": "e-b6511bfbb5",
 "edgeLabel": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2009-01-06",

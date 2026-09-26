@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-11784bfcd2",
 "edgeLabel": "Research coordinator and co-editor of the JAI instrumentation special issue",
+"family": null,
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "The special issue is the artefact that established a peer-reviewed instrumentation literature in this field rather than a claims literature.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-02-13",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2023-03-01",

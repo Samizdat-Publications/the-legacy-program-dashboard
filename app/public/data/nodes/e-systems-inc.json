@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-1dc83a77fa",
 "edgeLabel": "Raytheon acquired E-Systems outright, completed 1 May 1995",
+"family": null,
 "id": "raytheon",
 "l0": false,
 "label": "Raytheon (RTX Corporation)",
 "note": "Raytheon acquired E-Systems outright on 1 May 1995, taking its reconnaissance, surveillance and intelligence-collection business lines into the Raytheon node the board already carries.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-05-01",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

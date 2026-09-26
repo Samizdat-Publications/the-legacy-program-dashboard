@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-f8077c0748",
 "edgeLabel": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
+"family": null,
 "id": "ben-rich",
 "l0": false,
 "label": "Ben R. Rich",
 "note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1994-01-01",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-c98553b2ee",
 "edgeLabel": "Arrived at MITRE from Lockheed Martin's chief technology office",
+"family": null,
 "id": "dana-keoki-jackson",
 "l0": false,
 "label": "Dana (Keoki) Jackson",
 "note": "The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-e63034fe9f",
 "edgeLabel": "the companion report names the Lockheed/Burbank plant the testimony would not",
+"family": null,
 "id": "gao-130581",
 "l0": false,
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "note": "GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-08-07",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -101,10 +113,13 @@
 "direction": "in",
 "edgeId": "e-a9598b0130",
 "edgeLabel": "Alleges Lockheed-held material was to be transferred",
+"family": null,
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-04",
@@ -113,7 +128,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -123,10 +139,13 @@
 "direction": "out",
 "edgeId": "e-8221f48e9f",
 "edgeLabel": "Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards",
+"family": null,
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -135,7 +154,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -145,10 +165,13 @@
 "direction": "out",
 "edgeId": "e-0f7ebb1120",
 "edgeLabel": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
+"family": null,
 "id": "l-plant-42",
 "l0": false,
 "label": "Air Force Plant 42, Palmdale, California",
 "note": "Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -157,7 +180,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -167,10 +191,13 @@
 "direction": "in",
 "edgeId": "e-457300d46d",
 "edgeLabel": "Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42",
+"family": null,
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -179,7 +206,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -189,10 +217,13 @@
 "direction": "in",
 "edgeId": "e-09a73a6e36",
 "edgeLabel": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
+"family": null,
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-02-22",
@@ -201,7 +232,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -211,10 +243,13 @@
 "direction": "in",
 "edgeId": "e-cae517d5f7",
 "edgeLabel": "Ran the project Kelly Johnson built the aircraft for",
+"family": null,
 "id": "richard-m-bissell-jr",
 "l0": false,
 "label": "Richard M. Bissell Jr.",
 "note": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-25",
@@ -223,7 +258,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

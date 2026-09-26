@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-ddf66cd1bc",
 "edgeLabel": "Congressional pressure produced a contracted study, not oversight",
+"family": null,
 "id": "condon-committee",
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-15a76806cb",
 "edgeLabel": "Ford forced the first congressional hearing on the subject",
+"family": null,
 "id": "gerald-ford",
 "l0": false,
 "label": "Gerald R. Ford",
 "note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -90,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-a2e93082a2",
 "edgeLabel": "The swamp gas episode triggered the 1966 hearing",
+"family": null,
 "id": "j-allen-hynek",
 "l0": false,
 "label": "J. Allen Hynek",
 "note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -102,7 +113,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

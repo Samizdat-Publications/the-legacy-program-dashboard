@@ -140,10 +140,13 @@
 "direction": "in",
 "edgeId": "e-40120b2d2a",
 "edgeLabel": "Sustained published dispute of the Malmstrom account",
+"family": null,
 "id": "james-carlson",
 "l0": false,
 "label": "James Carlson",
 "note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -152,7 +155,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -162,10 +166,13 @@
 "direction": "out",
 "edgeId": "e-ae27181db3",
 "edgeLabel": "Principal named witness to the March 1967 shutdown",
+"family": null,
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -174,7 +181,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -184,10 +192,13 @@
 "direction": "out",
 "edgeId": "e-d563b7af04",
 "edgeLabel": "The originating claimant of the Oscar Flight account",
+"family": null,
 "id": "malmstrom-oscar-flight-1967",
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -206,7 +217,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -216,10 +228,13 @@
 "direction": "out",
 "edgeId": "e-b55f2bd900",
 "edgeLabel": "Spoke on the record and has a signed affidavit on file",
+"family": null,
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -233,7 +248,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -243,10 +259,13 @@
 "direction": "in",
 "edgeId": "e-397ebfc3b6",
 "edgeLabel": "The administrative regime his testimony was given against",
+"family": null,
 "id": "prp-nuclear-weapon",
 "l0": false,
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993-05-25",
@@ -255,7 +274,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2025-01-01",

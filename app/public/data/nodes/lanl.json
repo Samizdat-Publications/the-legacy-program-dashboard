@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-99ff421d34",
 "edgeLabel": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
+"family": null,
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-12",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "in",
 "edgeId": "e-62e89f2da2",
 "edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
+"family": null,
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-18",
@@ -92,7 +99,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -102,10 +110,13 @@
 "direction": "in",
 "edgeId": "e-09d5295695",
 "edgeLabel": "Directed Los Alamos before the NRO and ODNI",
+"family": null,
 "id": "donald-kerr",
 "l0": false,
 "label": "Donald M. Kerr",
 "note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-11-06",
@@ -114,7 +125,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -124,10 +136,13 @@
 "direction": "in",
 "edgeId": "e-f62c16bd70",
 "edgeLabel": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
+"family": null,
 "id": "green-fireballs-conference-1949",
 "l0": false,
 "label": "Los Alamos Green Fireballs Conference",
 "note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-18",
@@ -136,7 +151,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -146,10 +162,13 @@
 "direction": "out",
 "edgeId": "e-451a2f225d",
 "edgeLabel": "'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief",
+"family": null,
 "id": "jeremy-corbell",
 "l0": false,
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-25",
@@ -158,7 +177,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -168,10 +188,13 @@
 "direction": "in",
 "edgeId": "e-2f66568372",
 "edgeLabel": "Support-services contractor at the laboratory",
+"family": null,
 "id": "kirk-mayer",
 "l0": false,
 "label": "Kirk-Mayer, Inc.",
 "note": "The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-12",
@@ -180,7 +203,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

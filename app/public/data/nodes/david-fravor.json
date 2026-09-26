@@ -118,10 +118,13 @@
 "direction": "out",
 "edgeId": "e-e24499bdbf",
 "edgeLabel": "Section lead and wingman on the same intercept",
+"family": null,
 "id": "alex-dietrich",
 "l0": false,
 "label": "Alex Dietrich",
 "note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-01-14",
@@ -135,7 +138,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -145,10 +149,13 @@
 "direction": "in",
 "edgeId": "e-a10c1da52c",
 "edgeLabel": "Co-witness, 26 July 2023 hearing panel",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -157,7 +164,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -167,10 +175,13 @@
 "direction": "out",
 "edgeId": "e-513670d490",
 "edgeLabel": "sworn witness",
+"family": null,
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -194,7 +205,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -204,10 +216,13 @@
 "direction": "out",
 "edgeId": "e-ab211e3da1",
 "edgeLabel": "Direct conflict over whether data was taken",
+"family": null,
 "id": "kevin-day",
 "l0": false,
 "label": "Kevin Day",
 "note": "Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -221,7 +236,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -231,10 +247,13 @@
 "direction": "out",
 "edgeId": "e-4f30a6321e",
 "edgeLabel": "Intercepted the object as CO of VFA-41 on 14 Nov 2004",
+"family": null,
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -248,7 +267,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2023-07-26",

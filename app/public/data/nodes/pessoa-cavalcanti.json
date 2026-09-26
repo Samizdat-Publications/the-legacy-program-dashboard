@@ -58,10 +58,13 @@
 "direction": "out",
 "edgeId": "e-8e3b848bf7",
 "edgeLabel": "signed the CONFIDENCIAL Air Defence Command report",
+"family": null,
 "id": "doc-fab-1986-report",
 "l0": false,
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "note": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-06-02",
@@ -70,7 +73,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -80,10 +84,13 @@
 "direction": "out",
 "edgeId": "e-0d6a5d9d9a",
 "edgeLabel": "Commanded the air defence organisation whose engagement he then wrote up",
+"family": null,
 "id": "ev-noite-ovnis-1986",
 "l0": false,
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -102,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -112,10 +120,13 @@
 "direction": "in",
 "edgeId": "e-63d5904132",
 "edgeLabel": "Pessoa Cavalcanti signed for the FAB's own Air Defence Command",
+"family": null,
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -134,7 +145,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2009-09-25",

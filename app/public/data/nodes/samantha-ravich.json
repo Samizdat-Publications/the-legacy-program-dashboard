@@ -66,10 +66,13 @@
 "direction": "out",
 "edgeId": "e-113ead19a6",
 "edgeLabel": "Elected to MITRE's Board of Trustees, 19 May 2026",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Elected three days before the Burlison production request was sent; former vice chair of the President's Intelligence Advisory Board.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-19",
@@ -78,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -88,10 +92,13 @@
 "direction": "out",
 "edgeId": "e-94d5b0d894",
 "edgeLabel": "Doctorate from the RAND Graduate School",
+"family": null,
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-19",
@@ -100,7 +107,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2026-05-19",

@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-a3efb2b48b",
 "edgeLabel": "Subject of the analysis: the 17 December 1977 molten mass",
+"family": null,
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-01",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

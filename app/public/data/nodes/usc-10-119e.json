@@ -71,10 +71,13 @@
 "direction": "out",
 "edgeId": "e-3083fd0ed0",
 "edgeLabel": "Waiver narrows the audience to chairman and ranking minority member of each defense committee",
+"family": null,
 "id": "defense-committees",
 "l0": false,
 "label": "The defense committees (10 U.S.C. 119(g))",
 "note": "119(e)(2) directs the waived information and its justification 'jointly to the chairman and ranking minority member of each of the defense committees'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -83,7 +86,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -93,10 +97,13 @@
 "direction": "in",
 "edgeId": "e-a7c0d8745e",
 "edgeLabel": "The waived-SAP notification convention mirrors, but is weaker than, the covert action rule",
+"family": null,
 "id": "gang-of-eight",
 "l0": false,
 "label": "The Gang of Eight and the limited-notification convention",
 "note": "119(e)(2) reaches chairs and ranking members of the defense committees with no 180-day widening requirement; 50 U.S.C. 3093(c)(5)(B) requires reconsideration of limited access within 180 days.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -110,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -120,10 +128,13 @@
 "direction": "out",
 "edgeId": "e-c58a677506",
 "edgeLabel": "Subsection (e) is the escape hatch inside the reporting statute",
+"family": null,
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "119(e)(1) permits waiver of any requirement under (a), (b) or (c) on the Secretary's own national-security determination, case by case.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -132,7 +143,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -142,10 +154,13 @@
 "direction": "out",
 "edgeId": "e-3763fd95a8",
 "edgeLabel": "119(e) is the waiver that defines a waived SAP",
+"family": null,
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDD 5205.07 (2010) Enclosure 2 para 5 permits the Secretary to 'designate select unacknowledged SAPs as waived in accordance with Reference (c)' - Reference (c) being 10 U.S.C. 119.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -164,7 +179,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -174,10 +190,13 @@
 "direction": "out",
 "edgeId": "e-61aa034903",
 "edgeLabel": "the waiver authority itself",
+"family": null,
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "10 U.S.C. 119(e) is the waiver: 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security.' Where it is exercised, 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Read directly from the OLRC text on 22 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -186,7 +205,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

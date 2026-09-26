@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-4f85109602",
 "edgeLabel": "Its Security Support Detachment was the CENTER LANE project office",
+"family": null,
 "id": "902d-mi-group",
 "l0": false,
 "label": "902d Military Intelligence Group, USAINSCOM",
 "note": "The detachment's office symbol IAGPA-F-SD heads both the April 1984 GDIP submission signed by the CENTER LANE Project Manager and the July 1984 information paper on the project's cancellation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1984-07-13",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "in",
 "edgeId": "e-bb8dce4fed",
 "edgeLabel": "CENTER LANE succeeded GRILL FLAME after the codename was compromised",
+"family": null,
 "id": "grill-flame",
 "l0": false,
 "label": "GRILL FLAME",
 "note": "Codeword churn on compromise is standard practice; the effort was continuous across the renaming.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-12-16",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "in",
 "edgeId": "e-a0cfe27be5",
 "edgeLabel": "INSCOM ran CENTER LANE and ended it",
+"family": null,
 "id": "inscom",
 "l0": true,
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "The project's own paperwork is INSCOM paperwork: the July 1984 memorandum recommending discontinuance, the July 1984 cancellation information paper, and the 2 March 1985 deactivation letter are all signed inside INSCOM.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1984-07-17",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +125,13 @@
 "direction": "in",
 "edgeId": "e-186e7f0eb6",
 "edgeLabel": "INSCOM assessed the Institute's Gateway training in June 1983, inside CENTER LANE's span",
+"family": null,
 "id": "monroe-institute",
 "l0": false,
 "label": "The Monroe Institute",
 "note": "The memorandum is an INSCOM product of 9 June 1983 written for USAINSCOM personnel required to take Gateway training, and CENTER LANE is INSCOM's remote-viewing special access programme of 1983 to 1986; the assessment is contemporaneous with the programme and issued by the same command.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1983-06-09",
@@ -125,7 +140,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

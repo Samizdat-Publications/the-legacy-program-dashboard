@@ -38,10 +38,13 @@
 "direction": "out",
 "edgeId": "e-82d970d211",
 "edgeLabel": "commissioned subject-matter author",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Credited with one of the 38 AAWSAP deliverables, 'Aerospace Applications of Programmable Matter' (14 December 2009, DIA-08-0911-016), contracted through The Programmable Matter Corporation. The released text names AAWSAP. Tier 2 because the 'Author' field is redacted under FOIA exemption (b)(6) and the attribution comes from DIA's separate list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-12-14",
@@ -60,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -70,10 +74,13 @@
 "direction": "out",
 "edgeId": "e-76647474e8",
 "edgeLabel": "authored",
+"family": null,
 "id": "dird-aerospace-applications-of-programmable-matter",
 "l0": false,
 "label": "Aerospace Applications of Programmable Matter",
 "note": "DIA list item 23 names \"Dr W McCarthy, Programmable Matter Corporation\". Released PDF redacts the author under (b)(6).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2010-01-01",

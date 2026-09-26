@@ -107,10 +107,13 @@
 "direction": "in",
 "edgeId": "e-3f5f2019b7",
 "edgeLabel": "The carve-out is codified in the NISPOM rule itself",
+"family": null,
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "32 CFR 117.6(b)(3) is the operative regulatory text relieving the Director, DCSA of NISP oversight for a carved-out DoD SAP.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -119,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -129,10 +133,13 @@
 "direction": "out",
 "edgeId": "e-3cd2a99c56",
 "edgeLabel": "32 CFR 117.6(b) writes the carve-out into regulation",
+"family": null,
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -141,7 +148,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -151,10 +159,13 @@
 "direction": "out",
 "edgeId": "e-180555b00b",
 "edgeLabel": "codifies the carve-out",
+"family": null,
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "The carve-out is in the codified federal regulation, not only in a DoD manual. 32 CFR 117.6(b)(3), 'Responsibilities': \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" The NISPOM Rule was published at 85 FR 83312 on 21 December 2020, so the provision relieving the oversight body has the force of a legislative rule rather than of internal DoD policy. Read from the eCFR renderer API on 22 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -168,7 +179,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -178,10 +190,13 @@
 "direction": "in",
 "edgeId": "e-cdf8b6260f",
 "edgeLabel": "Designated the DoD Cognizant Security Office by regulation",
+"family": null,
 "id": "dcsa-nisp",
 "l0": false,
 "label": "DCSA as DoD Cognizant Security Office under the NISP",
 "note": "32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -190,7 +205,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -200,10 +216,13 @@
 "direction": "in",
 "edgeId": "e-6da78c671c",
 "edgeLabel": "Section 201 of E.O. 12829 is the authority for the NISPOM rule",
+"family": null,
 "id": "eo-12829",
 "l0": false,
 "label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "32 CFR 117.6(a)(1) records that USD(I&S) issues and maintains the rule under section 201 of E.O. 12829.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -212,7 +231,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -222,10 +242,13 @@
 "direction": "in",
 "edgeId": "e-3eeaf6507c",
 "edgeLabel": "32 CFR 117 implements E.O. 12829",
+"family": null,
 "id": "eo-12829",
 "l0": false,
 "label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -234,7 +257,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -244,10 +268,13 @@
 "direction": "in",
 "edgeId": "e-67adb01dd8",
 "edgeLabel": "the rule implements the order",
+"family": null,
 "id": "eo-12829",
 "l0": false,
 "label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "32 CFR part 117 names E.O. 12829 in its authority citation - 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...' - and section 117.1 Purpose states that the rule 'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, \"National Industrial Security Program\"'. Read from the eCFR renderer API on 22 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -256,7 +283,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -266,10 +294,13 @@
 "direction": "out",
 "edgeId": "e-a4039fc7a5",
 "edgeLabel": "Supplies the regulatory definition of a special access program binding on contractors",
+"family": null,
 "id": "sap-taxonomy",
 "l0": false,
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "32 CFR 117.3(b) defines SAP as a program controlling access and distribution 'beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -278,7 +309,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

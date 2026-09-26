@@ -30,10 +30,13 @@
 "direction": "in",
 "edgeId": "e-3589f8391f",
 "edgeLabel": "the civil-aviation implementation of the same model",
+"family": null,
 "id": "cefaa",
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -42,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -52,10 +56,13 @@
 "direction": "in",
 "edgeId": "e-5626217b95",
 "edgeLabel": "the reference implementation of a civil state UAP office",
+"family": null,
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-31",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-f48b2b0d7c",
 "edgeLabel": "the report is the source of the three-office model",
+"family": null,
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-01",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

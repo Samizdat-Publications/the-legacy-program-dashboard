@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-2795b20cb0",
 "edgeLabel": "characterises a social-media post as an executive order",
+"family": null,
 "id": "trump-uap-release-directive-2026",
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-25",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

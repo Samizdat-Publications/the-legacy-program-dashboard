@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-4ea7aca143",
 "edgeLabel": "Released the 1963 Brazil sphere report",
+"family": null,
 "id": "cia-readingroom-ufo",
 "l0": false,
 "label": "CIA FOIA Reading Room - UFO collection",
 "note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-10",
@@ -70,7 +73,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -80,10 +84,13 @@
 "direction": "out",
 "edgeId": "e-2cf2601aea",
 "edgeLabel": "Released the AC-130J gunship videos and DOW-UAP-D101",
+"family": null,
 "id": "gulf-of-oman-ac130j-2021",
 "l0": false,
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-10",
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -107,10 +115,13 @@
 "direction": "out",
 "edgeId": "e-452dd70252",
 "edgeLabel": "Released the 1953 Navy photo-interpretation finding",
+"family": null,
 "id": "navy-pic-1953-film-analysis",
 "l0": false,
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "note": "The Navy Photographic Interpretation Center's assessment that the Tremonton objects were self-luminous and intelligently controlled surfaced publicly for the first time in this tranche.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-10",
@@ -124,7 +135,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -134,10 +146,13 @@
 "direction": "in",
 "edgeId": "e-7b8076bb00",
 "edgeLabel": "file-level inventory",
+"family": null,
 "id": "pursue-r05-identifiers",
 "l0": false,
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "note": "41 files - 16 videos, 22 documents, 3 images - with identifiers spanning DOW, FBI, DOS and EOP originators.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -146,7 +161,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -156,10 +172,13 @@
 "direction": "in",
 "edgeId": "e-73efa12ec4",
 "edgeLabel": "Fifth tranche, 7 August 2026",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 case.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -173,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

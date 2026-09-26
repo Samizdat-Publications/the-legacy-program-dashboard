@@ -36,10 +36,13 @@
 "direction": "out",
 "edgeId": "e-b22231a57f",
 "edgeLabel": "Four official explanations for one event",
+"family": null,
 "id": "d-denial",
 "l0": false,
 "label": "Official Denial",
 "note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -58,10 +62,13 @@
 "direction": "out",
 "edgeId": "e-55e8c88416",
 "edgeLabel": "The founding case of the retrieval strand",
+"family": null,
 "id": "d-recovery",
 "l0": false,
 "label": "Retrieval & Recovery Operations",
 "note": "Roswell is the origin of the crash-retrieval literature and the case against which every later retrieval claim is measured.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -70,7 +77,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -80,10 +88,13 @@
 "direction": "out",
 "edgeId": "e-7f8bdd03ff",
 "edgeLabel": "Where the disc became a balloon",
+"family": null,
 "id": "l-fort-worth-tx",
 "l0": false,
 "label": "Fort Worth, Texas",
 "note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -92,7 +103,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

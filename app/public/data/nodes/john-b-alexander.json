@@ -55,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-d891e06070",
 "edgeLabel": "Alexander sat on the NIDS board from its founding",
+"family": null,
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08-10",
@@ -72,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1995-01-01",

@@ -54,10 +54,13 @@
 "direction": "out",
 "edgeId": "e-5a32c196a4",
 "edgeLabel": "Ramey's headquarters overrode Marcel's base-level identification",
+"family": null,
 "id": "jesse-marcel",
 "l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "Marcel was photographed in Ramey's office beside balloon debris on 8 July 1947; thirty-one years later he stated the material had been substituted. The photographs are reproduced in the 1995 USAF report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -66,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -76,10 +80,13 @@
 "direction": "out",
 "edgeId": "e-a8be94c5be",
 "edgeLabel": "Ramey retracted the disc announcement the same day",
+"family": null,
 "id": "raaf-press-release-1947",
 "l0": false,
 "label": "RAAF Press Release, 8 July 1947",
 "note": "The Eighth Air Force commanding general personally fronted a same-day correction identifying the debris as a weather balloon with radar reflector — the founding template for official UAP retraction.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -93,7 +100,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -103,10 +111,13 @@
 "direction": "out",
 "edgeId": "e-7fe8c98d47",
 "edgeLabel": "Ramey retracted the RAAF statement the same day at Fort Worth",
+"family": null,
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -115,7 +126,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": "1947-07-08",

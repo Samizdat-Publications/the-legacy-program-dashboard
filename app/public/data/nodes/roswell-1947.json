@@ -83,10 +83,13 @@
 "direction": "in",
 "edgeId": "e-48accb7292",
 "edgeLabel": "509th intelligence office took possession of the Roswell debris",
+"family": null,
 "id": "509th-bomb-group",
 "l0": false,
 "label": "509th Bomb Group",
 "note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -105,7 +108,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -115,10 +119,13 @@
 "direction": "in",
 "edgeId": "e-d527569b2b",
 "edgeLabel": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-02-01",
@@ -127,7 +134,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -137,10 +145,13 @@
 "direction": "in",
 "edgeId": "e-b06cb056e2",
 "edgeLabel": "detail donor to later Roswell accounts",
+"family": null,
 "id": "aztec-1948",
 "l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -154,7 +165,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -164,10 +176,13 @@
 "direction": "in",
 "edgeId": "e-ccbf092f20",
 "edgeLabel": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
+"family": null,
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "The allegation rests on the coincidence of timing between the 1947 recovery, the 1948-49 Battelle NiTi work, and the absence of the reports from both archives. No document connects the two directly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-05-21",
@@ -176,7 +191,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -186,10 +202,13 @@
 "direction": "in",
 "edgeId": "e-c907ba4361",
 "edgeLabel": "dedicated appendix on Roswell and disinformation",
+"family": null,
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1999-07-01",
@@ -198,7 +217,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -208,10 +228,13 @@
 "direction": "in",
 "edgeId": "e-88fa54b3e6",
 "edgeLabel": "Found Roswell AAF outgoing messages 1945-1949 destroyed without authorisation",
+"family": null,
 "id": "gao",
 "l0": false,
 "label": "Government Accountability Office",
 "note": "GAO reported that the outgoing message traffic for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -220,7 +243,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -230,10 +254,13 @@
 "direction": "in",
 "edgeId": "e-06d42f80a2",
 "edgeLabel": "GAO found the base's records for the event period destroyed",
+"family": null,
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -247,7 +274,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -257,10 +285,13 @@
 "direction": "in",
 "edgeId": "e-5db3045c93",
 "edgeLabel": "Marcel physically handled the recovered debris",
+"family": null,
 "id": "jesse-marcel",
 "l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -269,7 +300,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -279,10 +311,13 @@
 "direction": "in",
 "edgeId": "e-94231c0ee5",
 "edgeLabel": "Marcel was the 509th intelligence officer who recovered the debris",
+"family": null,
 "id": "jesse-marcel",
 "l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -291,7 +326,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -301,10 +337,13 @@
 "direction": "in",
 "edgeId": "e-5f7f5d2b52",
 "edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
+"family": null,
 "id": "kenneth-arnold",
 "l0": false,
 "label": "Kenneth Arnold",
 "note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -318,7 +357,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -328,10 +368,13 @@
 "direction": "out",
 "edgeId": "e-539720397e",
 "edgeLabel": "The 1947 recovery was executed by Roswell Army Air Field",
+"family": null,
 "id": "l-roswell",
 "l0": false,
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force's own reports.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -340,7 +383,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -350,10 +394,13 @@
 "direction": "out",
 "edgeId": "e-fc6615c89b",
 "edgeLabel": "The 509th Bomb Group at Roswell AAF was the only atomic-armed unit in the world",
+"family": null,
 "id": "l-roswell",
 "l0": false,
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "note": "The recovery, the announcement and the destroyed records all belong to a single installation with the most restrictive information discipline in the US military.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -367,7 +414,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -377,10 +425,13 @@
 "direction": "in",
 "edgeId": "e-a10e9a7d78",
 "edgeLabel": "alleged second recovery site (Barnett account)",
+"family": null,
 "id": "l-san-agustin",
 "l0": false,
 "label": "Plains of San Agustin, New Mexico",
 "note": "TIER 3, CONTESTED. The Plains of San Agustin entered the Roswell corpus through Grady 'Barney' Barnett's reported account, transmitted second-hand and published in Berlitz and Moore's 'The Roswell Incident' (1980). The Air Force's own 1995 records review corroborates the route the story travelled - it records that in 1978 'a UFO researcher, Stanton Friedman, met with Marcel and began investigating', and that Moore and Berlitz 'reported they interviewed a number of persons who claimed to have been present at Roswell in 1947 and professed to be either firsthand or secondhand witnesses'. It does not corroborate the site: 'San Agustin', 'Barnett' and 'Maltais' each appear zero times in the entire report. Kevin Randle, named in that review among the researchers, concludes on the evidence: 'It is for these reasons, that is the lack of first-hand corroboration of the Barnett tale, the inability of the first people to talk of what Barnett said to provide a location and date and that the only source of the information is Barnett that I say, with confidence, that nothing happened there in July 1947.' Roswell is July 1947, so that conclusion severs the link by dating rather than by geography.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -399,7 +450,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -409,10 +461,13 @@
 "direction": "in",
 "edgeId": "e-a11965ecd2",
 "edgeLabel": "Mogul is the Air Force's 1994 identification of the debris",
+"family": null,
 "id": "project-mogul",
 "l0": false,
 "label": "Project MOGUL",
 "note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -421,7 +476,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -431,10 +487,13 @@
 "direction": "in",
 "edgeId": "e-fa36e21789",
 "edgeLabel": "The press release is the event's only uncontested artifact",
+"family": null,
 "id": "raaf-press-release-1947",
 "l0": false,
 "label": "RAAF Press Release, 8 July 1947",
 "note": "Every subsequent official position — weather balloon, MOGUL, dummies — is a response to this single document issued by an atomic bomb group's own information office.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -448,7 +507,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -458,10 +518,13 @@
 "direction": "in",
 "edgeId": "e-7fe8c98d47",
 "edgeLabel": "Ramey retracted the RAAF statement the same day at Fort Worth",
+"family": null,
 "id": "roger-ramey",
 "l0": false,
 "label": "Roger M. Ramey",
 "note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -470,7 +533,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -480,10 +544,13 @@
 "direction": "in",
 "edgeId": "e-7426f97fd8",
 "edgeLabel": "Haut issued the 8 July 1947 'flying disc' press release",
+"family": null,
 "id": "walter-haut",
 "l0": false,
 "label": "Walter Haut",
 "note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence office had gained possession of a disc.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -492,7 +559,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

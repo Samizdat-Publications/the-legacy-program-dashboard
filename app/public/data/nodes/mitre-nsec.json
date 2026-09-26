@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-b363c2a62a",
 "edgeLabel": "Runs MITRE National Security, the organisation containing NSEC",
+"family": null,
 "id": "dana-keoki-jackson",
 "l0": false,
 "label": "Dana (Keoki) Jackson",
 "note": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-1bec0312ef",
 "edgeLabel": "MITRE operates NSEC for the Under Secretary of Defense for Research and Engineering",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-03-03",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

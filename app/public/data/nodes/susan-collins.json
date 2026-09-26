@@ -32,10 +32,13 @@
 "direction": "out",
 "edgeId": "e-7c1a543371",
 "edgeLabel": "seat 3 of 12 - Chair, Senate Appropriations",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2023-01-03",

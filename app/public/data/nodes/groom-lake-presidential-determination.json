@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-e87b058131",
 "edgeLabel": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
+"family": null,
 "id": "eg-and-g",
 "l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-01-08",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -56,10 +60,13 @@
 "direction": "out",
 "edgeId": "e-2852919e5b",
 "edgeLabel": "Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure",
+"family": null,
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-10-10",
@@ -73,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

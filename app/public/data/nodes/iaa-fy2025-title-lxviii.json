@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-10218d3890",
 "edgeLabel": "Sunsets GAO audit briefings on the Historical Record Report",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Sec. 6802 terminates quarterly audit information-sharing 90 days after the final volume and semiannual congressional briefings 180 days after.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-23",
@@ -64,7 +67,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -74,10 +78,13 @@
 "direction": "out",
 "edgeId": "e-173c772875",
 "edgeLabel": "GAO review of AARO's implementation of Sec. 1683",
+"family": null,
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 6801 of P.L. 118-159 commissions a Comptroller General review with a report due on a mutually agreed timeframe rather than a date.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-23",
@@ -86,7 +93,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -96,10 +104,13 @@
 "direction": "in",
 "edgeId": "e-e6238b23e3",
 "edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
+"family": null,
 "id": "uapda-2024-samdt-2610",
 "l0": false,
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-07-11",
@@ -113,7 +124,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

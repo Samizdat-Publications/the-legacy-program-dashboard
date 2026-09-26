@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-8494c52acb",
 "edgeLabel": "Named AFSWP as the reason the new agency was renamed",
+"family": null,
 "id": "afswp",
 "l0": false,
 "label": "Armed Forces Special Weapons Project",
 "note": "The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-12-01",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -72,10 +76,13 @@
 "direction": "out",
 "edgeId": "e-ff1fa361fd",
 "edgeLabel": "Issued the directive that established ARPA",
+"family": null,
 "id": "darpa",
 "l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-12-01",
@@ -84,7 +91,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -94,10 +102,13 @@
 "direction": "out",
 "edgeId": "e-53b71680b9",
 "edgeLabel": "Secretary of Defense",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-12-01",
@@ -106,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1958-02-07",

@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-0654ef6c80",
 "edgeLabel": "Named as supporting the effort against the Act",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-11-27",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-5c8a363f4e",
 "edgeLabel": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -107,7 +114,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2023-12-22",

@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-072010735c",
 "edgeLabel": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-07-21",
@@ -64,7 +67,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -74,10 +78,13 @@
 "direction": "in",
 "edgeId": "e-a288b5a67f",
 "edgeLabel": "Cosponsor",
+"family": null,
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Congress.gov cosponsor record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-08-29",
@@ -86,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -96,10 +104,13 @@
 "direction": "in",
 "edgeId": "e-1cca3ef322",
 "edgeLabel": "The reprisal case the bill is designed to cover",
+"family": null,
 "id": "dylan-borland",
 "l0": false,
 "label": "Dylan Borland",
 "note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -113,7 +124,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -123,10 +135,13 @@
 "direction": "in",
 "edgeId": "e-213ee1bc4e",
 "edgeLabel": "Cosponsor",
+"family": null,
 "id": "eli-crane",
 "l0": false,
 "label": "Elijah Crane",
 "note": "Congress.gov cosponsor record; Crane also entered the Grusch reprisal letter into the record of the hearing that followed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-08-29",
@@ -135,7 +150,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -145,10 +161,13 @@
 "direction": "in",
 "edgeId": "e-faf96b3278",
 "edgeLabel": "hearing findings underwrite the UAP Whistleblower Protection Act",
+"family": null,
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The Task Force found witnesses face career damage and retaliation requiring congressional safeguards; the bill was on the agenda in the run-up to the hearing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-03",
@@ -157,7 +176,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -167,10 +187,13 @@
 "direction": "in",
 "edgeId": "e-88d8177da1",
 "edgeLabel": "Sponsor of the reintroduced bill",
+"family": null,
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-08-29",
@@ -189,7 +212,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

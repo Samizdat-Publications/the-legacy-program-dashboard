@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-21a4a99511",
 "edgeLabel": "Received the three files in the Pentagon parking lot and passed them to the NYT",
+"family": null,
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-10-20",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-874c0c23da",
 "edgeLabel": "Cleared the GoFast, Gimbal and FLIR files for internal distribution only",
+"family": null,
 "id": "dd-form-1910-2017",
 "l0": false,
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-08-17",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-7608105746",
 "edgeLabel": "DoD authorises release, 27 April 2020; phenomena 'remain characterized as unidentified'",
+"family": null,
 "id": "dod-video-release-2020",
 "l0": false,
 "label": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
 "note": "The Department also characterised the 2007 and 2017 public appearances as 'unauthorized releases' — a formal acknowledgement that material left the building improperly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-04-27",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -101,10 +113,13 @@
 "direction": "in",
 "edgeId": "e-315bcc4b6b",
 "edgeLabel": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
+"family": null,
 "id": "joseph-gradisher",
 "l0": false,
 "label": "Joseph Gradisher",
 "note": "The single most consequential official concession of the period, made by a named service spokesman.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-10",
@@ -113,7 +128,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -123,10 +139,13 @@
 "direction": "in",
 "edgeId": "e-d0038ba9e4",
 "edgeLabel": "Hosted and distributed the three videos from 2017-2018",
+"family": null,
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-10",
@@ -135,7 +154,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

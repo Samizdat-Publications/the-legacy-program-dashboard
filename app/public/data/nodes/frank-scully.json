@@ -79,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-6495b00c3d",
 "edgeLabel": "Wrote the first crashed-saucer book",
+"family": null,
 "id": "behind-the-flying-saucers",
 "l0": false,
 "label": "Behind the Flying Saucers (Scully, 1950)",
 "note": "Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -91,7 +94,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "1964-06-23",

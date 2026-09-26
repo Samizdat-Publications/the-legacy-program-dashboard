@@ -768,12 +768,7 @@
    "forward": "requires",
    "id": "mandated",
    "inverse": "is required by",
-   "object": [
-    "document",
-    "event",
-    "program",
-    "institution"
-   ],
+   "object": "any",
    "refines": "legislative",
    "subject": [
     "legislation",
@@ -995,6 +990,32 @@
    "use": "one person telling, showing or briefing another privately; a named source of someone else's account"
   },
   {
+   "family": "testimony",
+   "forward": "acknowledged",
+   "id": "acknowledged",
+   "inverse": "was acknowledged by",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution",
+    "document",
+    "program"
+   ],
+   "use": "an official or attributable statement confirming that the object exists, happened or is so (the counterpart of denied)"
+  },
+  {
+   "family": "testimony",
+   "forward": "is alleged to be tied to",
+   "id": "alleged_tie",
+   "inverse": "is alleged to be tied to",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": "any",
+   "symmetric": true,
+   "use": "an alleged connection between the two that the sentence does not specify further, asserted by someone other than either end"
+  },
+  {
    "family": "denial",
    "forward": "denied",
    "id": "denied",
@@ -1076,7 +1097,8 @@
    "inverse": "was written by",
    "object": [
     "document",
-    "legislation"
+    "legislation",
+    "program"
    ],
    "refines": "research",
    "subject": [
@@ -1110,7 +1132,9 @@
    "object": [
     "document",
     "event",
-    "program"
+    "program",
+    "institution",
+    "location"
    ],
    "refines": "custody",
    "subject": [
@@ -1361,7 +1385,7 @@
    "use": "ONLY when no predicate above fits the sentence"
   }
  ],
- "source": "dc6476913447",
+ "source": "b9d3462c0dcc",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

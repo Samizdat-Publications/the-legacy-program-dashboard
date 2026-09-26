@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-2d1a1241c6",
 "edgeLabel": "would abolish AARO outright and bar any successor entity",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of concealment rather than a remedy for it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-10",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -51,10 +55,13 @@
 "direction": "in",
 "edgeId": "e-36b97f517a",
 "edgeLabel": "recommended AARO's complete defunding to the DOGE subcommittee in March 2026, weeks before the bill",
+"family": null,
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna's defunding recommendation and Burchett's abolition bill are the same judgement expressed through appropriations and authorisation respectively.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-25",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -73,10 +81,13 @@
 "direction": "in",
 "edgeId": "e-4e180b7f13",
 "edgeLabel": "introduced the bill to abolish AARO, 6 April 2026",
+"family": null,
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Four pages; abolishes the office, bars any successor, redistributes functions to the military departments, repeals the enabling statutes. Referred to HASC and HPSCI.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-08",
@@ -85,7 +96,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

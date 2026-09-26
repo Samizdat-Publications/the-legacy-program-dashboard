@@ -71,10 +71,13 @@
 "direction": "in",
 "edgeId": "e-0619bfdf67",
 "edgeLabel": "DIA money spent on HFGW after JASON's rejection",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -98,7 +101,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -108,10 +112,13 @@
 "direction": "out",
 "edgeId": "e-8303c3ddc9",
 "edgeLabel": "subject domain: gravitational-wave communications and surveillance",
+"family": null,
 "id": "d-signals",
 "l0": false,
 "label": "Signals & Sensor Intelligence",
 "note": "Baker's open-source 2010 counterpart claims theoretical aerospace, military and civilian applications in 'communications, surveillance, remote initiation of nuclear events and propulsion, including moving space objects and missiles in flight and frustrating anti-missile and anti-satellite systems.' The breadth of that claim is precisely what JASON's 'no foreign threat in HFGW is credible' was rejecting.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -135,7 +142,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -145,10 +153,13 @@
 "direction": "in",
 "edgeId": "e-5dc9b97005",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -157,7 +168,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -167,10 +179,13 @@
 "direction": "in",
 "edgeId": "e-685b9f4b44",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1004-005. Publication date 6 April 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -184,7 +199,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -194,10 +210,13 @@
 "direction": "out",
 "edgeId": "e-b9aec3769b",
 "edgeLabel": "JASON found the underlying physics wrong two years before DIA published the DIRD",
+"family": null,
 "id": "jason-advisory-group",
 "l0": false,
 "label": "JASON",
 "note": "In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -221,7 +240,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -231,10 +251,13 @@
 "direction": "out",
 "edgeId": "e-dbdb187cc4",
 "edgeLabel": "authored by Robert M. L. Baker Jr., GravWave LLC",
+"family": null,
 "id": "robert-baker",
 "l0": false,
 "label": "Robert M. L. Baker, Jr.",
 "note": "The DIA list of 9 January 2018 records entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave' - the earlier KLAS transcription rendered the title as 'Gravity Wave Communication'. The released PDF's author block is redacted under (b)(6). Baker confirmed to researcher Keith Basterfield that he published three related HFGW papers in 2010.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -263,7 +286,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

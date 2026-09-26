@@ -83,10 +83,13 @@
 "direction": "in",
 "edgeId": "e-26afe98e1d",
 "edgeLabel": "Sole claimed eyewitness to the alleged hangar exhibit",
+"family": null,
 "id": "brad-sorensen",
 "l0": false,
 "label": "'Brad' Sorensen",
 "note": "He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1990-12-11",
@@ -95,7 +98,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -105,10 +109,13 @@
 "direction": "out",
 "edgeId": "e-dcac53bb5e",
 "edgeLabel": "The event is at the base",
+"family": null,
 "id": "l-norton-afb",
 "l0": false,
 "label": "Norton Air Force Base, San Bernardino, California",
 "note": "Both primary documents place the account at Norton AFB, and the air show itself is dated at the base independently by a Blackbird photographic collection.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -122,7 +129,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -132,10 +140,13 @@
 "direction": "in",
 "edgeId": "e-f94b7db7df",
 "edgeLabel": "Earliest opened record of the claim, taken about two years after the alleged event",
+"family": null,
 "id": "scott-sorensen-notes-1990",
 "l0": false,
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1990-12-11",
@@ -144,7 +155,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -154,10 +166,13 @@
 "direction": "out",
 "edgeId": "e-9d898a94af",
 "edgeLabel": "Air Force open house; the 1990 notes describe Air Force briefers",
+"family": null,
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The air show is an Air Force open house and is documented as such. The briefers inside the alleged exhibit are described only in the witness's words: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'. No Air Force record of the exhibit was opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -171,7 +186,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

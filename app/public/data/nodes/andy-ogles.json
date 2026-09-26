@@ -58,10 +58,13 @@
 "direction": "out",
 "edgeId": "e-633aa5a537",
 "edgeLabel": "Caucus member without an Oversight Committee seat",
+"family": null,
 "id": "congressional-uap-caucus",
 "l0": true,
 "label": "Congressional UAP Caucus",
 "note": "Described by The Hill as 'part of the UAP Caucus but not the Oversight Committee.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-12",
@@ -70,7 +73,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -80,10 +84,13 @@
 "direction": "out",
 "edgeId": "e-90e45bbece",
 "edgeLabel": "Emerged describing 'a concerted effort to conceal as much information as possible'",
+"family": null,
 "id": "icig-briefing-2024-01-12",
 "l0": false,
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-12",
@@ -92,7 +99,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -102,10 +110,13 @@
 "direction": "out",
 "edgeId": "e-b055c8cb45",
 "edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
+"family": null,
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "The only statutory enforcement mechanism any member has named on the record; never used on this subject.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -114,7 +125,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "date": "2023-07-26",

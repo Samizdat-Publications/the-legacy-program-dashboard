@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-01047e524d",
 "edgeLabel": "The provision named derived propulsion work as a defunding category",
+"family": null,
 "id": "aerojet-rocketdyne",
 "l0": false,
 "label": "Aerojet Rocketdyne",
 "note": "Sec. 1104(c) targets propulsion 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-22",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-ec4b2ecec8",
 "edgeLabel": "SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-22",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -84,10 +92,13 @@
 "direction": "out",
 "edgeId": "e-997e5de6af",
 "edgeLabel": "Only the funding limitation and the IR&D restriction survived into law",
+"family": null,
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 and Sec. 7343 of Public Law 118-31 carry forward the funding cutoff and the IR&D clause from the Senate provision; the contractor disclosure, inventory and immunity subsections were removed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-22",
@@ -101,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

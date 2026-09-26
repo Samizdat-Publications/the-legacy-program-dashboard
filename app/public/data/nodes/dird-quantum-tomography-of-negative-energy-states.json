@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-d6318be746",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -75,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -85,10 +89,13 @@
 "direction": "in",
 "edgeId": "e-c98e11bcc0",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -107,10 +115,13 @@
 "direction": "in",
 "edgeId": "e-9178a64f5a",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1102-007. Publication date 11 January 2011 on the cover. 52 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -124,7 +135,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -134,10 +146,13 @@
 "direction": "out",
 "edgeId": "e-01d1186b4a",
 "edgeLabel": "author's institutional affiliation at time of writing",
+"family": null,
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech International, Austin, Texas — the affiliation recorded against this title on the DIA congressional list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -161,7 +176,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -171,10 +187,13 @@
 "direction": "out",
 "edgeId": "e-eced695694",
 "edgeLabel": "authored by",
+"family": null,
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "The DIA congressional list credits 'Quantum Tomography of Negative Energy States in the Vacuum' to 'Dr Eric Davis, EarthTech'. This is one of a coherent negative-energy sub-series by the same author within the DIRD set, alongside 'Traversable Wormholes, Stargates and Negative Energy' and the quantum-vacuum energy extraction paper.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -203,7 +222,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

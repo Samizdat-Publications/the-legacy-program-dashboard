@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-7b6d4f3239",
 "edgeLabel": "AARO's SAP review extended to the DHS control office enterprise",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO names DHS as the third SAP control office enterprise with which it partnered - the only public confirmation that DHS operates a SAP control office at all.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-9093040a76",
 "edgeLabel": "DHS co-authored the 2024 declassified KONA BLUE history",
+"family": null,
 "id": "aaro-kona-blue-release",
 "l0": false,
 "label": "AARO/DHS release: History and Origin of KONA BLUE",
 "note": "The paper 'History and Origin of KONA BLUE' is published on AARO's UAP Records page as a joint AARO/DHS product.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-01",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "in",
 "edgeId": "e-1823df492e",
 "edgeLabel": "Science and Technology Directorate is the DHS R&D component",
+"family": null,
 "id": "dhs-st",
 "l0": false,
 "label": "DHS Science and Technology Directorate",
 "note": "The Under Secretary for Science and Technology is a DHS component head; the KONA BLUE paper identifies that office as the one that established the prospective program.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-01",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +125,13 @@
 "direction": "out",
 "edgeId": "e-237ca67106",
 "edgeLabel": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later",
+"family": null,
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-01",
@@ -125,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -135,10 +151,13 @@
 "direction": "in",
 "edgeId": "e-af331898aa",
 "edgeLabel": "DHS prospective special access program, terminated 10 February 2012",
+"family": null,
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "DHS Acting Deputy Secretary Kristie Canegallo transmitted the declassified Kona Blue records to the Deputy Secretary of Defense on 5 February 2024.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-01",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -157,10 +177,13 @@
 "direction": "out",
 "edgeId": "e-a23dba8b3a",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -169,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

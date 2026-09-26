@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-90237c1685",
 "edgeLabel": "Published FBI 62-HQ-83894, well beyond the Vault's 1947-1954 scope",
+"family": null,
 "id": "fbi-vault-ufo",
 "l0": false,
 "label": "FBI Records: The Vault - UFO collection",
 "note": "The Bureau's master flying disc file covering 1947 to 1968 was released as a single 101MB PDF through war.gov rather than through the FBI's own reading room.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -64,7 +67,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -74,10 +78,13 @@
 "direction": "out",
 "edgeId": "e-259fb21e8d",
 "edgeLabel": "Released Apollo 12 and Apollo 17 mission records",
+"family": null,
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "Apollo mission records including cockpit transcript describing 'very bright particles or fragments' appear in the first tranche.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-09",
@@ -91,7 +98,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -101,10 +109,13 @@
 "direction": "in",
 "edgeId": "e-3bda08c4ab",
 "edgeLabel": "First tranche, 8 May 2026",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, at least 100 carrying redactions.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -123,7 +134,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

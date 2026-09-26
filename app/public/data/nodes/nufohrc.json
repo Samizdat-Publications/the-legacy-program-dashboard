@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-879eadff2a",
 "edgeLabel": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
+"family": null,
 "id": "cufos",
 "l0": false,
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "note": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -63,10 +67,13 @@
 "direction": "out",
 "edgeId": "e-66e9a72e7c",
 "edgeLabel": "Names the NICAP case files as one of its three major collections, on its own account",
+"family": null,
 "id": "nicap",
 "l0": true,
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -75,7 +82,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

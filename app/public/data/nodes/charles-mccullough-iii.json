@@ -51,10 +51,13 @@
 "direction": "out",
 "edgeId": "e-a0dfc37ff4",
 "edgeLabel": "Filed the complaint as counsel; former ICIG filing with the ICIG",
+"family": null,
 "id": "grusch-icig-complaint",
 "l0": false,
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-05",
@@ -63,7 +66,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -73,10 +77,13 @@
 "direction": "out",
 "edgeId": "e-7497b9f92e",
 "edgeLabel": "Counsel who filed the ICIG disclosure of urgent concern",
+"family": null,
 "id": "grusch-misappropriation-allegation",
 "l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-05",
@@ -85,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2022-05-25",

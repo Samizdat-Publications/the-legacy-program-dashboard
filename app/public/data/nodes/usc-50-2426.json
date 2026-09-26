@@ -65,10 +65,13 @@
 "direction": "out",
 "edgeId": "e-a90165910d",
 "edgeLabel": "Governs special access programs of the nuclear weapons complex",
+"family": null,
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "50 U.S.C. 2426 imposes SAP reporting on the Administrator of the National Nuclear Security Administration, a semi-autonomous DOE agency.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -77,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -87,10 +91,13 @@
 "direction": "in",
 "edgeId": "e-6c54f480fa",
 "edgeLabel": "NNSA regime: the only waiver that reaches the 30-day report-and-wait",
+"family": null,
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "50 U.S.C. 2426(e)(1) expressly permits the Administrator to waive the report-and-wait requirement of subsection (f); 10 U.S.C. 119(e) does not.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -104,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -114,10 +122,13 @@
 "direction": "out",
 "edgeId": "e-9c5df0d1b1",
 "edgeLabel": "The Administrator may waive both the reports and the 30-day clock",
+"family": null,
 "id": "nnsa",
 "l0": false,
 "label": "National Nuclear Security Administration",
 "note": "50 U.S.C. 2426(e)(1) permits waiver of subsections (a), (b) and (c) and, uniquely, of the report-and-wait requirement in subsection (f).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -126,7 +137,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -136,10 +148,13 @@
 "direction": "in",
 "edgeId": "e-8437c935fc",
 "edgeLabel": "3348(g)(2)(B)(ii) writes NNSA out and points to 50 U.S.C. 2426",
+"family": null,
 "id": "usc-50-3348",
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -148,7 +163,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -158,10 +174,13 @@
 "direction": "in",
 "edgeId": "e-06f94d48c0",
 "edgeLabel": "excludes NNSA, routing it to sec. 2426",
+"family": null,
 "id": "usc-50-3348",
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "The second exclusion in 50 U.S.C. 3348(g)(2)(B): '(ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title)'. The third, (iii), excludes 'an agency in the Intelligence Community (as defined in section 3003(4) of this title)'. Read directly from the OLRC text on 22 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -170,7 +189,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

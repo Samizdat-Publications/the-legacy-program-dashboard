@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-a2d15697ff",
 "edgeLabel": "records three concurrent names for one program",
+"family": null,
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-17",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-d4c5520ff0",
 "edgeLabel": "USD(I) recommends against establishing a SAP",
+"family": null,
 "id": "james-clapper",
 "l0": false,
 "label": "James R. Clapper Jr.",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-17",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "out",
 "edgeId": "e-490318928a",
 "edgeLabel": "decision packet presented 17 November 2009",
+"family": null,
 "id": "william-lynn",
 "l0": false,
 "label": "William J. Lynn III",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-17",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

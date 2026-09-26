@@ -40,10 +40,13 @@
 "direction": "out",
 "edgeId": "e-2d71d57b5b",
 "edgeLabel": "Obama-administration DoD appointee",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "His Sol Foundation biography states he 'served as appointee in the US Department of Defense during the Obama administration and later worked in the US State Department.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-01-01",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -72,10 +76,13 @@
 "direction": "out",
 "edgeId": "e-30eb06f403",
 "edgeLabel": "checked and rejected Kirkpatrick's balloon explanation",
+"family": null,
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "After Kirkpatrick attributed tic-tac-shaped sightings to a Florida company's escaped helium balloons, von Rennenkampff wrote in The Hill: 'After calling the company, I found Kirkpatrick's statement to be implausible.' The Debrief quotes the op-ed and identifies him as a former State Department Bureau of International Security and Nonproliferation analyst.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -89,7 +96,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +107,13 @@
 "direction": "out",
 "edgeId": "e-94c6878bb2",
 "edgeLabel": "author of Sol Science and Policy Briefing No. 3",
+"family": null,
 "id": "sol-briefing-3-2026",
 "l0": false,
 "label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
 "note": "Von Rennenkampff is the named author of 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies,' The Sol Foundation Science and Policy Briefings No. 3, April 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -116,7 +127,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -126,10 +138,13 @@
 "direction": "out",
 "edgeId": "e-46d3e4fa55",
 "edgeLabel": "delivers the monthly Sol Briefing; authors Sol policy briefings",
+"family": null,
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-25",
@@ -148,7 +163,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2025-06-01",

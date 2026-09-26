@@ -36,10 +36,13 @@
 "direction": "in",
 "edgeId": "e-48194974bf",
 "edgeLabel": "Every booster traced to Trident II, Peacekeeper or Polaris derived stages",
+"family": null,
 "id": "conventional-prompt-global-strike",
 "l0": false,
 "label": "Conventional Prompt Global Strike",
 "note": "The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-07-16",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -58,10 +62,13 @@
 "direction": "out",
 "edgeId": "e-a4192a7426",
 "edgeLabel": "Reported kinematics set the physics requirement",
+"family": null,
 "id": "d-aviators",
 "l0": false,
 "label": "Military Aviators & Operators",
 "note": "Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-04-27",
@@ -70,7 +77,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -80,10 +88,13 @@
 "direction": "in",
 "edgeId": "e-e51342ce2c",
 "edgeLabel": "Field physics is the propulsion answer",
+"family": null,
 "id": "d-exotic",
 "l0": false,
 "label": "Exotic Technology & Physics",
 "note": "DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2008-08-22",
@@ -92,7 +103,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -102,10 +114,13 @@
 "direction": "in",
 "edgeId": "e-9302032cfa",
 "edgeLabel": "Standing written disclaimer of any connection to anti-gravity research",
+"family": null,
 "id": "institute-of-field-physics",
 "l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -114,7 +129,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

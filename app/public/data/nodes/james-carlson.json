@@ -46,10 +46,13 @@
 "direction": "out",
 "edgeId": "e-550fd0f314",
 "edgeLabel": "Disputes that any Oscar Flight incident occurred",
+"family": null,
 "id": "malmstrom-oscar-flight-1967",
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -63,7 +66,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -73,10 +77,13 @@
 "direction": "out",
 "edgeId": "e-40120b2d2a",
 "edgeLabel": "Sustained published dispute of the Malmstrom account",
+"family": null,
 "id": "robert-salas",
 "l0": false,
 "label": "Capt. Robert L. Salas",
 "note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -85,7 +92,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": "2010-01-01",

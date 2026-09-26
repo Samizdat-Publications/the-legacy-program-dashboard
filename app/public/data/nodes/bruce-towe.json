@@ -38,10 +38,13 @@
 "direction": "in",
 "edgeId": "e-3205e66425",
 "edgeLabel": "authored by Bruce Towe",
+"family": null,
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "l0": false,
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -70,7 +73,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2010-03-31",

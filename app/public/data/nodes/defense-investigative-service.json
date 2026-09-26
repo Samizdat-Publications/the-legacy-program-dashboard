@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-4275be2d8b",
 "edgeLabel": "documents the 1965 exclusion of special access programs from DIS supervision",
+"family": null,
 "id": "gao-130581",
 "l0": false,
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "note": "'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-07-24",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-843215b95d",
 "edgeLabel": "inspected Lockheed's other contracts while excluded from its special access contract",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-08-07",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

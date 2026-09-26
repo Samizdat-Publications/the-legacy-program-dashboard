@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-abc842e73c",
 "edgeLabel": "Federal records destroyed at the point of creation",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-05-09",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-a750f13b93",
 "edgeLabel": "Same year, opposite ocean, same record-destruction behaviour",
+"family": null,
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-05-09",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "coords": null,

@@ -46,10 +46,13 @@
 "direction": "out",
 "edgeId": "e-be33e63ad5",
 "edgeLabel": "signed the transmittal to the Senate Armed Services Committee",
+"family": null,
 "id": "dia-aatip-letter-2018",
 "l0": false,
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "note": "A records officer's signature is the only formal notification the authorizing committee ever received about a ten-year program.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2018-01-09",

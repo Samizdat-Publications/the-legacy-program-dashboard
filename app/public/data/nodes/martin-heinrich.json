@@ -59,10 +59,13 @@
 "direction": "out",
 "edgeId": "e-f63d8da27a",
 "edgeLabel": "Original cosponsor, 13 July 2023",
+"family": null,
 "id": "samdt-797",
 "l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Heinrich cosponsored while sitting on SSCI and representing the state containing Kirtland, Sandia, Los Alamos and Roswell.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-13",
@@ -71,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -81,10 +85,13 @@
 "direction": "out",
 "edgeId": "e-c0d1035296",
 "edgeLabel": "cosponsor",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Named in the Congressional Record entry for SA 797.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-13",
@@ -93,7 +100,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2023-07-13",

@@ -34,10 +34,13 @@
 "direction": "out",
 "edgeId": "e-2b4e5fc9d0",
 "edgeLabel": "Serving NASIC officer corroborates on the record under pseudonym",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "'The non-human intelligence phenomenon is real. We are not alone.' A currently serving Top Secret-cleared NASIC officer would corroborate but would not attach a name - itself evidence about the environment at Wright-Patterson.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-05",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -56,10 +60,13 @@
 "direction": "out",
 "edgeId": "e-964d016ed7",
 "edgeLabel": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
+"family": null,
 "id": "nasic",
 "l0": false,
 "label": "National Air and Space Intelligence Center",
 "note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-06-05",
@@ -68,7 +75,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2023-06-05",

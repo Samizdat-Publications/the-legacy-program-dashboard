@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-4f4526e5e6",
 "edgeLabel": "Co-launched the probe; revealed the McCasland trigger",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-21",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-42742f35b5",
 "edgeLabel": "Run by the same committee and the same member as the UAP inquiry",
+"family": null,
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The convergence of the two inquiries in one subcommittee chair is the structural link between this board and The Vanishing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-21",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -97,10 +105,13 @@
 "direction": "in",
 "edgeId": "e-ef9e4c53f5",
 "edgeLabel": "Co-launched the probe",
+"family": null,
 "id": "james-comer",
 "l0": false,
 "label": "James Comer Jr.",
 "note": "Comer and Burlison opened the investigation on 21 April 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-21",
@@ -109,7 +120,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -119,10 +131,13 @@
 "direction": "in",
 "edgeId": "e-7b78ecf07c",
 "edgeLabel": "His February 2026 disappearance is the trigger for the probe",
+"family": null,
 "id": "william-mccasland",
 "l0": false,
 "label": "William Neil McCasland",
 "note": "One of eleven people in nuclear or rocket technology who have died or vanished since 2022, per the committee.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-21",
@@ -131,7 +146,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "coords": null,

@@ -113,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-001b05e841",
 "edgeLabel": "No AARO product has ever addressed the name in the Record",
+"family": null,
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, addresses a purported USAP name entered into the Congressional Record in November 2024.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-14",
@@ -135,7 +138,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -145,10 +149,13 @@
 "direction": "in",
 "edgeId": "e-ebf9ab878f",
 "edgeLabel": "Adversarial cross-examination that fixed the document's evidentiary status",
+"family": null,
 "id": "clay-higgins",
 "l0": false,
 "label": "Glen Clay Higgins",
 "note": "Higgins established that the withholding of source identities was a choice, not an absence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -157,7 +164,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -167,10 +175,13 @@
 "direction": "in",
 "edgeId": "e-f6c5886944",
 "edgeLabel": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -179,7 +190,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -189,10 +201,13 @@
 "direction": "out",
 "edgeId": "e-1e28dd61f8",
 "edgeLabel": "Entered into the Congressional Record from the dais",
+"family": null,
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -201,7 +216,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -211,10 +227,13 @@
 "direction": "in",
 "edgeId": "e-6213afa1a0",
 "edgeLabel": "The event is anchored by the document entered on 13 November 2024",
+"family": null,
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The twelve-page report is the physical artefact of the disclosure; it has never been located as a retrievable primary file at a stable public URL.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -223,7 +242,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -233,10 +253,13 @@
 "direction": "out",
 "edgeId": "e-bb045bde78",
 "edgeLabel": "The congressional-record instantiation of the alleged parent USAP",
+"family": null,
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Shellenberger described the program in the document as 'a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -250,7 +273,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -260,10 +284,13 @@
 "direction": "in",
 "edgeId": "e-edf5eba847",
 "edgeLabel": "Drew Shellenberger's 'Yes' on concerted Pentagon concealment from Congress in US waters",
+"family": null,
 "id": "lauren-boebert",
 "l0": false,
 "label": "Lauren Opal Boebert",
 "note": "Also established that the program covers oceanic as well as terrestrial cases.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -272,7 +299,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -282,10 +310,13 @@
 "direction": "in",
 "edgeId": "e-edfbaa3792",
 "edgeLabel": "Refused to confirm or deny being read in, by name or trigraph",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Asked directly by Mace; his answer is a non-denial from a former DoD official under oath.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -294,7 +325,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -304,10 +336,13 @@
 "direction": "in",
 "edgeId": "e-196fab4005",
 "edgeLabel": "Refused to confirm or deny by name or trigraph",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Asked directly whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -316,7 +351,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -326,10 +362,13 @@
 "direction": "in",
 "edgeId": "e-68bb67dde6",
 "edgeLabel": "Delivered the document to Congress on the morning of the hearing and testified to its contents",
+"family": null,
 "id": "michael-shellenberger",
 "l0": false,
 "label": "Michael Shellenberger",
 "note": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -343,7 +382,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -353,10 +393,13 @@
 "direction": "in",
 "edgeId": "e-9914bcba52",
 "edgeLabel": "Moved the document into the Congressional Record from the chair",
+"family": null,
 "id": "nancy-mace",
 "l0": false,
 "label": "Nancy Ruth Mace",
 "note": "Index of Documents: 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -365,7 +408,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -375,10 +419,13 @@
 "direction": "in",
 "edgeId": "e-b0c6a16ee1",
 "edgeLabel": "Former AARO director denied the programme's existence",
+"family": null,
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-10-17",
@@ -392,7 +439,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -402,10 +450,13 @@
 "direction": "in",
 "edgeId": "e-944d113463",
 "edgeLabel": "Department says it has no record of the programme",
+"family": null,
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -419,7 +470,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -429,10 +481,13 @@
 "direction": "in",
 "edgeId": "e-d0fa06a92e",
 "edgeLabel": "Distributed the document to every member on the dais and moved to enter it",
+"family": null,
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Mace announced that Burchett held the document and would enter it into the record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -441,7 +496,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

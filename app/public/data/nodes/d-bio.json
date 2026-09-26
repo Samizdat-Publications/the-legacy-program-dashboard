@@ -36,10 +36,13 @@
 "direction": "out",
 "edgeId": "e-1914e084d6",
 "edgeLabel": "Biologics claim and documented injury record",
+"family": null,
 "id": "d-medical",
 "l0": false,
 "label": "Medical & Injury Effects",
 "note": "The bio claim has no released material; the medical domain has DIRD 26 and the Cash-Landrum clinical record, which is the auditable end of the same question.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-01-01",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -58,10 +62,13 @@
 "direction": "in",
 "edgeId": "e-681e3b3883",
 "edgeLabel": "subject domain: implantable biosensors and neuro-interface",
+"family": null,
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "l0": false,
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -75,7 +82,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -85,10 +93,13 @@
 "direction": "in",
 "edgeId": "e-b183a8aa59",
 "edgeLabel": "subject domain: cognitive load limits on multi-vehicle control",
+"family": null,
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
 "l0": false,
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "The commissioned question is how many unmanned vehicles a single human operator can control simultaneously - the human-factors constraint that would bound any swarming or multi-object control architecture. It forms a set with Genik's other two deliverables on limb-free control of external devices and on organic-molecule automation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -107,7 +118,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

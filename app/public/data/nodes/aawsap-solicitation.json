@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-46952ba6c9",
 "edgeLabel": "solicitation HHM402-08-R-0211 led to award HHM402-08-C-0072",
+"family": null,
 "id": "aawsap-contract",
 "l0": false,
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Posted 18 August 2008, awarded 22 September 2008 — a five-week competition on an eleven-topic statement of work reaching to 2050.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-10-13",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -63,10 +67,13 @@
 "direction": "out",
 "edgeId": "e-bda6bc5604",
 "edgeLabel": "requirement written to a capability only BAASS held",
+"family": null,
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2008-08-18",
@@ -75,7 +82,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "coords": null,

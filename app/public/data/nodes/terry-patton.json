@@ -40,10 +40,13 @@
 "direction": "out",
 "edgeId": "e-a2bd4aa2a7",
 "edgeLabel": "Chairs the Board that owns SFFAS 56 since April 2026",
+"family": null,
 "id": "fasab",
 "l0": false,
 "label": "Federal Accounting Standards Advisory Board (FASAB)",
 "note": "FASAB's board members page identifies Terry K. Patton as Chair since April 2026. Attested by FASAB.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2026-04-01",

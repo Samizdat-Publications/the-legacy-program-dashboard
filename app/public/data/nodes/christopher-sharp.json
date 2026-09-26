@@ -71,10 +71,13 @@
 "direction": "out",
 "edgeId": "e-9568535650",
 "edgeLabel": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Burlison attributed the reporting to Sharp by name on 13 November 2024 and Elizondo confirmed the block, making this the rare case of independent journalism validated on the record by the relevant witness.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -88,7 +91,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "date": "2024-11-13",

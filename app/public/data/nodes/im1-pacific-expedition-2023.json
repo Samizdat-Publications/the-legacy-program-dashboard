@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-7ac83562eb",
 "edgeLabel": "Siraj's interstellar-velocity and seismic localisation determined the search site",
+"family": null,
 "id": "amir-siraj",
 "l0": false,
 "label": "Amir Siraj",
 "note": "The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the Signals paper of September 2023 localised it seismically. Fernando et al. later attributed that signal to truck traffic.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-f9175cdfd1",
 "edgeLabel": "The control case: what a public physical-recovery attempt looks like, failures included",
+"family": null,
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "Claim, rebuttal and re-analysis all appeared in the peer-reviewed literature within eighteen months. That is the benchmark against which seventy years of unpublished government custody should be judged.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-31",
@@ -91,7 +98,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -101,10 +109,13 @@
 "direction": "in",
 "edgeId": "e-dd98c2aaa8",
 "edgeLabel": "Ran the $1.6m Pacific recovery expedition",
+"family": null,
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "A magnetic sled dragged across the seabed off Papua New Guinea at a location determined from seismometer data; several hundred sub-millimetre spherules recovered.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -118,7 +129,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

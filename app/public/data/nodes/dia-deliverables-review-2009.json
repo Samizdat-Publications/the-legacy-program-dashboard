@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-d4f7a49355",
 "edgeLabel": "2024 'lack of merit' contradicts DIA's 2009 quality finding",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "DIA in 2009: reviews 'positive, some exceptionally so'. AARO in 2024: terminated due to concerns about the project. Same department, opposite assessments, fifteen years apart.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-10-30",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -68,10 +72,13 @@
 "direction": "out",
 "edgeId": "e-babf22fb71",
 "edgeLabel": "formal DIA quality assessment of the 26 FY09 reports",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Thirteen reviews: eight by other report authors, five external. Conclusion: the quality hoped for was achieved.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-10-30",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -90,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-7ea004dd8e",
 "edgeLabel": "three Sandia staff among the five outside reviewers",
+"family": null,
 "id": "sandia",
 "l0": true,
 "label": "Sandia National Laboratories",
 "note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-10-30",
@@ -102,7 +113,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

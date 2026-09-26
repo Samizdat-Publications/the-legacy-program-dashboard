@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-7a2d61cfb7",
 "edgeLabel": "Received the anonymous 35mm film on 11 December 1984",
+"family": null,
 "id": "mj-12-documents",
 "l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "The film arrived at Shandera's Los Angeles home postmarked Albuquerque, New Mexico - the same city as the AFOSI operation running against Bennewitz.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2011-04-01",
@@ -70,7 +73,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -80,10 +84,13 @@
 "direction": "in",
 "edgeId": "e-9197ec8041",
 "edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
+"family": null,
 "id": "naval-criminal-investigative-service",
 "l0": false,
 "label": "Naval Criminal Investigative Service",
 "note": "Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -92,7 +99,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "1984-12-11",

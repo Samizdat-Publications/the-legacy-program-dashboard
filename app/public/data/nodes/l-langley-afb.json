@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-b2e9a34b93",
 "edgeLabel": "DoD installation; NORAD/USNORTHCOM response",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-18",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -62,10 +66,13 @@
 "direction": "out",
 "edgeId": "e-183aba30de",
 "edgeLabel": "site of the December 2023 incursions",
+"family": null,
 "id": "langley-2023-incursions",
 "l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -79,7 +86,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -89,10 +97,13 @@
 "direction": "in",
 "edgeId": "e-ea81b5b055",
 "edgeLabel": "Site of the December 2023 incursions",
+"family": null,
 "id": "langley-2023-incursions",
 "l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-15",
@@ -101,7 +112,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

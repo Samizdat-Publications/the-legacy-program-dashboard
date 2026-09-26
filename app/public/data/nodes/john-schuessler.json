@@ -75,10 +75,13 @@
 "direction": "out",
 "edgeId": "e-da40cd6ba6",
 "edgeLabel": "Investigator of record from February 1981",
+"family": null,
 "id": "betty-cash",
 "l0": false,
 "label": "Betty Cash",
 "note": "Schuessler and Project VISIT taped the hospital interview in early February 1981, conducted the on-site investigation on 28 February 1981 and filed a 35-page report with MUFON on 4 March 1981; he published the case file in 1998.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-03",
@@ -87,7 +90,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -97,10 +101,13 @@
 "direction": "out",
 "edgeId": "e-31145fb101",
 "edgeLabel": "MUFON International Director 2000-2006 and case investigator",
+"family": null,
 "id": "mufon",
 "l0": false,
 "label": "Mutual UFO Network (MUFON)",
 "note": "Schuessler investigated Cash-Landrum for MUFON from 1981 and served as its International Director from 2000 to 2006.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-03",
@@ -109,7 +116,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2000-01-01",

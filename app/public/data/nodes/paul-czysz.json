@@ -44,10 +44,13 @@
 "direction": "out",
 "edgeId": "e-a4d473a7b9",
 "edgeLabel": "author of record on the DIA list",
+"family": null,
 "id": "dird-space-access-where-we-ve-been",
 "l0": false,
 "label": "Space Access: Where We've Been and Where We Could Go",
 "note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2010-01-01",

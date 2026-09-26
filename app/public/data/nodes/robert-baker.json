@@ -56,10 +56,13 @@
 "direction": "in",
 "edgeId": "e-dbdb187cc4",
 "edgeLabel": "authored by Robert M. L. Baker Jr., GravWave LLC",
+"family": null,
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
 "label": "High-Frequency Gravitational Wave Communications",
 "note": "The DIA list of 9 January 2018 records entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave' - the earlier KLAS transcription rendered the title as 'Gravity Wave Communication'. The released PDF's author block is redacted under (b)(6). Baker confirmed to researcher Keith Basterfield that he published three related HFGW papers in 2010.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -88,7 +91,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2010-04-06",

@@ -98,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-4397e53108",
 "edgeLabel": "authored by Richard J. Genik II",
+"family": null,
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
 "l0": false,
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -135,7 +138,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -145,10 +149,13 @@
 "direction": "in",
 "edgeId": "e-47f3139171",
 "edgeLabel": "authored by",
+"family": null,
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "l0": false,
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "note": "The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -177,7 +184,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -187,10 +195,13 @@
 "direction": "out",
 "edgeId": "e-2b0f8cc752",
 "edgeLabel": "author of record on the DIA list",
+"family": null,
 "id": "dird-technological-approaches-to-controlling-external-devices",
 "l0": false,
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
 "note": "DIA list item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\" The KLAS-TV list of July 2018 gives the same document the plainer title \"Brain-Machine Interfaces.\"",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -219,7 +230,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -229,10 +241,13 @@
 "direction": "out",
 "edgeId": "e-fa3cbb7ee2",
 "edgeLabel": "co-affiliated AAWSAP authors at Wayne State University",
+"family": null,
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -251,7 +266,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -261,10 +277,13 @@
 "direction": "out",
 "edgeId": "e-7f5998fc07",
 "edgeLabel": "director, Emergent Technology Research Division; assistant professor of psychiatry and behavioral neurosciences",
+"family": null,
 "id": "wayne-state-university",
 "l0": true,
 "label": "Wayne State University",
 "note": "Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -278,7 +297,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2010-12-15",

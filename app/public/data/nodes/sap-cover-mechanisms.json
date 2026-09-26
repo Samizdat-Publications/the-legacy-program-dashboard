@@ -72,10 +72,13 @@
 "direction": "out",
 "edgeId": "e-b00c154646",
 "edgeLabel": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
+"family": null,
 "id": "dodm-5205-07-v1",
 "l0": false,
 "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -84,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -94,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-04241abab9",
 "edgeLabel": "HVSACO and nickname practice describe the paperwork environment Elizondo has described",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Elizondo's account of AATIP-era handling turns on material moving in special access channels; DoDM 5205.07-V1 documents HVSACO as the caveat used for unacknowledged SAP nicknames and expressly not a classification.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -106,7 +113,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -116,10 +124,13 @@
 "direction": "out",
 "edgeId": "e-7f3091a8d6",
 "edgeLabel": "Congress receives nicknames, not missions",
+"family": null,
 "id": "sap-annual-report",
 "l0": false,
 "label": "The annual DoD special access program report to Congress",
 "note": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -128,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

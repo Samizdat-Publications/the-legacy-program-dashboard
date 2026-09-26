@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-919518ea44",
 "edgeLabel": "The series premiere prompted the 1 June 2019 Pentagon denial",
+"family": null,
 "id": "christopher-sherwood",
 "l0": false,
 "label": "Christopher Sherwood",
 "note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-06-01",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -51,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-91df7be7e9",
 "edgeLabel": "TTSA production, executive produced by Tom DeLonge, History Channel 2019-2020",
+"family": null,
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

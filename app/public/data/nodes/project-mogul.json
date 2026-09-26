@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-1c8b739b37",
 "edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
+"family": null,
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-691c50aacf",
 "edgeLabel": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
+"family": null,
 "id": "nathan-twining",
 "l0": false,
 "label": "Nathan F. Twining",
 "note": "Twining wrote in September 1947 that the phenomenon was real while noting the lack of recovered exhibits; the Air Force's 1994 position requires that his own command's exploitation centre never connected the wave to a programme it was cleared for.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-09-23",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -90,10 +98,13 @@
 "direction": "out",
 "edgeId": "e-a11965ecd2",
 "edgeLabel": "Mogul is the Air Force's 1994 identification of the debris",
+"family": null,
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -102,7 +113,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -112,10 +124,13 @@
 "direction": "out",
 "edgeId": "e-3174ce39e6",
 "edgeLabel": "MOGUL is the load-bearing element of the official explanation",
+"family": null,
 "id": "usaf-roswell-reports",
 "l0": false,
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "note": "The Air Force concluded the most likely source of the recovered wreckage was a Project MOGUL balloon train, replacing the weather balloon account it had maintained since 1947.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -129,7 +144,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

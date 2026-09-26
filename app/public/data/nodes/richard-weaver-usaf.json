@@ -59,10 +59,13 @@
 "direction": "out",
 "edgeId": "e-62b6651927",
 "edgeLabel": "The Air Force reports were the institutional response to the Randle-Schmitt books",
+"family": null,
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -71,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -81,10 +85,13 @@
 "direction": "out",
 "edgeId": "e-8b2eb4ee63",
 "edgeLabel": "Authored the Air Force's report to the Secretary and GAO",
+"family": null,
 "id": "roswell-report-1995",
 "l0": false,
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "note": "Written by Col. Weaver, Director of Security and Special Program Oversight, Office of the Secretary of the Air Force, with 1st Lt. James McAndrew.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -93,7 +100,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1995-01-01",

@@ -36,10 +36,13 @@
 "direction": "in",
 "edgeId": "e-b84969d2ea",
 "edgeLabel": "Advanced projects shops are the industrial home",
+"family": null,
 "id": "d-aerospace",
 "l0": false,
 "label": "Aerospace Engineering & Advanced Projects",
 "note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004-03-03",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -58,10 +62,13 @@
 "direction": "out",
 "edgeId": "e-cb35a5f80f",
 "edgeLabel": "The seam between government and industry",
+"family": null,
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -70,7 +77,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -80,10 +88,13 @@
 "direction": "out",
 "edgeId": "e-4c464af296",
 "edgeLabel": "Contractor records are outside the statute",
+"family": null,
 "id": "d-foia",
 "l0": false,
 "label": "Freedom of Information Practice",
 "note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -97,7 +108,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -107,10 +119,13 @@
 "direction": "in",
 "edgeId": "e-bb0911a8d7",
 "edgeLabel": "Analysis follows possession",
+"family": null,
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004-03-03",
@@ -119,7 +134,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -129,10 +145,13 @@
 "direction": "in",
 "edgeId": "e-d23792cec9",
 "edgeLabel": "Named support-services contractor at a national laboratory",
+"family": null,
 "id": "kirk-mayer",
 "l0": false,
 "label": "Kirk-Mayer, Inc.",
 "note": "The contractor spine this pass was asked to begin. The directory page itself names Kirk-Mayer as the outside contractor whose staff it covers.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-12",
@@ -141,7 +160,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

@@ -48,10 +48,13 @@
 "direction": "in",
 "edgeId": "e-d20cdb2f9e",
 "edgeLabel": "Operates the only FFRDC dedicated exclusively to the space enterprise",
+"family": null,
 "id": "aerospace-corporation",
 "l0": false,
 "label": "The Aerospace Corporation",
 "note": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-0dfc20af7d",
 "edgeLabel": "the FFRDC seam is a species of contracting mechanics, not a separate subject",
+"family": null,
 "id": "d-contracting",
 "l0": false,
 "label": "Federal Contracting Mechanics",
 "note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-15",
@@ -92,7 +99,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -102,10 +110,13 @@
 "direction": "in",
 "edgeId": "e-cb35a5f80f",
 "edgeLabel": "The seam between government and industry",
+"family": null,
 "id": "d-contractor",
 "l0": false,
 "label": "Prime Contractor Custody",
 "note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -114,7 +125,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -124,10 +136,13 @@
 "direction": "out",
 "edgeId": "e-fb07405e7c",
 "edgeLabel": "FAR 35.017 is the regulation that creates the seam",
+"family": null,
 "id": "far-35-017",
 "l0": false,
 "label": "FAR 35.017 - Federally Funded Research and Development Centers",
 "note": "The subpart grants FFRDCs access to government and supplier data beyond a normal contractual relationship while requiring disclosure only to the sponsoring agency.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-15",
@@ -136,7 +151,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -146,10 +162,13 @@
 "direction": "in",
 "edgeId": "e-6832526c0c",
 "edgeLabel": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
+"family": null,
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -163,7 +182,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -173,10 +193,13 @@
 "direction": "in",
 "edgeId": "e-93bc8e9953",
 "edgeLabel": "Operates the only FFRDC sponsored by the National Security Agency",
+"family": null,
 "id": "ida",
 "l0": false,
 "label": "Institute for Defense Analyses",
 "note": "IDA's Center for Communications and Computing is sponsored by NSA/CSS - the least publicly visible FFRDC in the country and the hardest for a committee to reach.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -185,7 +208,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -195,10 +219,13 @@
 "direction": "in",
 "edgeId": "e-9a05286170",
 "edgeLabel": "A UARC, not an FFRDC - the unexamined branch of the same mechanism",
+"family": null,
 "id": "jhuapl",
 "l0": false,
 "label": "Johns Hopkins University Applied Physics Laboratory",
 "note": "University Affiliated Research Centers carry FFRDC-like access without the FAR 35.017 sponsoring-agreement regime or NSF master-list registration; no congressional UAP letter has gone to one.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -207,7 +234,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -217,10 +245,13 @@
 "direction": "in",
 "edgeId": "e-b59a123e87",
 "edgeLabel": "MITRE is the largest single operator of the FFRDC form",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE operates six of the 41 FFRDCs recorded by NSF, spanning defence/intelligence, aviation, tax, health, homeland security and cybersecurity sponsors - the widest sponsor spread of any operator.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -229,7 +260,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -239,10 +271,13 @@
 "direction": "in",
 "edgeId": "e-dd08efa658",
 "edgeLabel": "Would extend statutory disclosure to contractors holding covered records",
+"family": null,
 "id": "ndaa-fy2027-uap-amendment",
 "l0": false,
 "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
 "note": "The only proposed mechanism that would convert FFRDC holdings into records reachable by an independent review board with subpoena power, without sponsoring-agency consent.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-07-23",
@@ -251,7 +286,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -261,10 +297,13 @@
 "direction": "in",
 "edgeId": "e-e54fdbc8da",
 "edgeLabel": "RAND invented the institutional form the whole domain rests on",
+"family": null,
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "Incorporated 1948 out of Project RAND inside Douglas Aircraft; now operates four FFRDCs for the Air Force, Army, OSD and DHS.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -273,7 +312,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

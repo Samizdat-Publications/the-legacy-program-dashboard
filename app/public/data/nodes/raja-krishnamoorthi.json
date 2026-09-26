@@ -48,10 +48,13 @@
 "direction": "out",
 "edgeId": "e-c1690ad5b0",
 "edgeLabel": "Emerged saying he did not get the answers he hoped for",
+"family": null,
 "id": "icig-briefing-2024-01-12",
 "l0": false,
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "Minority-side confirmation that the briefing produced no substance.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-12",
@@ -60,7 +63,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "date": "2024-01-12",

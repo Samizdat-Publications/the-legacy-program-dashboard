@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-1655a305b0",
 "edgeLabel": "GEIPAN is a unit of CNES at Toulouse",
+"family": null,
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "The French office has been hosted inside the national space agency continuously since 1977, an arrangement Norlain called unique in the world.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-31",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

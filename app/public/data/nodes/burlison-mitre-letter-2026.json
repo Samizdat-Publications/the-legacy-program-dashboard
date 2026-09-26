@@ -101,10 +101,13 @@
 "direction": "in",
 "edgeId": "e-5d006c48c9",
 "edgeLabel": "Grusch's contractor-custody thesis is the stated basis of Burlison's FFRDC campaign",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Reasoning: Burlison paraphrases Grusch's testimony directly - 'If you really want to hide something from Congress, you don't put it in a government file cabinet. You hand it to a private contractor' - and then names the FFRDCs he is writing to.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-16",
@@ -118,7 +121,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -128,10 +132,13 @@
 "direction": "in",
 "edgeId": "e-b70aa5a041",
 "edgeLabel": "The letter reflects concerns raised by whistleblowers alleging contractor-held programmes",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "DefenseScoop reports the correspondence reflects whistleblower concerns; Grusch's central allegation is that programmes were compartmented inside private entities beyond congressional oversight.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-27",
@@ -140,7 +147,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -150,10 +158,13 @@
 "direction": "in",
 "edgeId": "e-366f9ac88b",
 "edgeLabel": "Author of the 22 May 2026 records demand",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Ten pages, more than forty requests, records back to 1930, 45-day deadline, native electronic format with complete metadata.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-27",
@@ -162,7 +173,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -172,10 +184,13 @@
 "direction": "in",
 "edgeId": "e-de331ad177",
 "edgeLabel": "Author of the 22 May 2026 production request to MITRE",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison, a member of the House Oversight Task Force on the Declassification of Federal Secrets, issued the first congressional records demand ever addressed to an FFRDC operator on UAP.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-26",
@@ -184,7 +199,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -194,10 +210,13 @@
 "direction": "out",
 "edgeId": "e-f08517acb3",
 "edgeLabel": "The letter's legal theory rests on the FFRDC access provisions",
+"family": null,
 "id": "far-35-017",
 "l0": false,
 "label": "FAR 35.017 - Federally Funded Research and Development Centers",
 "note": "Burlison argues FFRDCs 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive' and therefore cannot be private vaults for federal records.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-29",
@@ -206,7 +225,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -216,10 +236,13 @@
 "direction": "in",
 "edgeId": "e-d8bf46ae93",
 "edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+"family": null,
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -228,7 +251,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -238,10 +262,13 @@
 "direction": "out",
 "edgeId": "e-40aedb30b4",
 "edgeLabel": "acts on the hearing's fourth finding",
+"family": null,
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The September 2025 Oversight wrap-up recorded that UAP materials had been moved to private contractors, complicating oversight and FOIA access; the MITRE demand is the first instrument aimed at that finding.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -255,7 +282,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -265,10 +293,13 @@
 "direction": "in",
 "edgeId": "e-b6a656addb",
 "edgeLabel": "MITRE routes the answer back through its sponsoring agencies",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "A MITRE spokesperson said that if any relevant material is found, 'we will coordinate with the federal agencies responsible for the work' - restating the FAR structure under which disclosure runs to the sponsor, not to Congress.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-27",
@@ -277,7 +308,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -287,10 +319,13 @@
 "direction": "out",
 "edgeId": "e-86c2ba4a4c",
 "edgeLabel": "Demands production of all MITRE UAP and reverse-engineering records back to 1930",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE confirmed it was reviewing its archives and said it would 'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-27",
@@ -304,7 +339,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -314,10 +350,13 @@
 "direction": "out",
 "edgeId": "e-58a94cc465",
 "edgeLabel": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-26",
@@ -326,7 +365,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

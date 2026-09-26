@@ -50,10 +50,13 @@
 "direction": "in",
 "edgeId": "e-cf46504728",
 "edgeLabel": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
+"family": null,
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1974-10-18",
@@ -67,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -77,10 +81,13 @@
 "direction": "out",
 "edgeId": "e-9083dc537b",
 "edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
+"family": null,
 "id": "sri-international",
 "l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1974-10-18",
@@ -94,7 +101,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -104,10 +112,13 @@
 "direction": "out",
 "edgeId": "e-b2047540f4",
 "edgeLabel": "Targ co-founded the SRI remote viewing research",
+"family": null,
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -116,7 +127,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "1974-10-18",

@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-23fed027b7",
 "edgeLabel": "Second book scheduled 27 August 2026",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "HarperCollins promises 'previously undisclosed evidence'. Whether it went through DOPSR, and what was struck, is not yet public.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-01-28",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

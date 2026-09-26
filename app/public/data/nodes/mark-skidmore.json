@@ -69,10 +69,13 @@
 "direction": "in",
 "edgeId": "e-66034eeda4",
 "edgeLabel": "Co-authored three Forbes columns carrying the figure into the financial press",
+"family": null,
 "id": "laurence-kotlikoff",
 "l0": false,
 "label": "Laurence J. Kotlikoff",
 "note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -81,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -91,10 +95,13 @@
 "direction": "out",
 "edgeId": "e-d43ad879f6",
 "edgeLabel": "Morris Chair in State and Local Government Finance and Policy",
+"family": null,
 "id": "michigan-state",
 "l0": false,
 "label": "Michigan State University",
 "note": "Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -103,7 +110,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -113,10 +121,13 @@
 "direction": "out",
 "edgeId": "e-2ce4ac6e0f",
 "edgeLabel": "Co-author and compiler",
+"family": null,
 "id": "skidmore-fitts-report",
 "l0": false,
 "label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "note": "Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2017-09-01",
@@ -125,7 +136,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2019-01-09",

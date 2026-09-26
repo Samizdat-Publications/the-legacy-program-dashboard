@@ -38,10 +38,13 @@
 "direction": "in",
 "edgeId": "e-792c277271",
 "edgeLabel": "authored by",
+"family": null,
 "id": "dird-positron-aerospace-propulsion",
 "l0": false,
 "label": "Positron Aerospace Propulsion",
 "note": "The DIA congressional list credits 'Positron Aerospace Propulsion' to 'Dr Gerald Smith, Positronics Research'. Smith is a Yale physics Ph.D., former Penn State physics department head, and developer of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap for NASA Marshall; the DIRD subject matter tracks his own NASA Institute for Advanced Concepts study on positron-propelled vehicles.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -75,7 +78,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2010-01-01",

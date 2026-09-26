@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-19c8d53c8b",
 "edgeLabel": "Director of SAIC since 1982 and a paid part-time employee since 1990",
+"family": null,
 "id": "bobby-ray-inman",
 "l0": false,
 "label": "Adm. Bobby Ray Inman",
 "note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2003-05-28",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -62,10 +66,13 @@
 "direction": "out",
 "edgeId": "e-1ad6aab388",
 "edgeLabel": "SAIC held the government's remote viewing research line after it left SRI",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "A documented instance of a deniable government research program in an anomalous subject moving wholesale into corporate custody, terminated after an external assessment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -84,10 +92,13 @@
 "direction": "in",
 "edgeId": "e-f023d40279",
 "edgeLabel": "Leidos is the government services business spun out of SAIC in 2013",
+"family": null,
 "id": "leidos",
 "l0": false,
 "label": "Leidos Holdings, Inc.",
 "note": "The split moved the classified services portfolio, and whatever records attach to it, into a separate corporate entity.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -96,7 +107,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -106,10 +118,13 @@
 "direction": "in",
 "edgeId": "e-eaf0c80fd8",
 "edgeLabel": "Alleged SAIC and Sandia connections to the division",
+"family": null,
 "id": "off-world-technologies-division",
 "l0": false,
 "label": "Off-World Technologies Division",
 "note": "Gerb links the alleged division to SAIC and Sandia National Laboratories; the escorting weapons instructor is described as a private contractor employee.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-07-17",
@@ -118,7 +133,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

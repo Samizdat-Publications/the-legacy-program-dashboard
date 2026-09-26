@@ -39,10 +39,13 @@
 "direction": "out",
 "edgeId": "e-c333c1f34b",
 "edgeLabel": "President and CEO through the entire modern disclosure sequence, 2017-2024",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "His tenure spans the December 2017 AATIP revelation, the UAP Task Force, the 2021 ODNI assessment, AARO's creation, and the Grusch testimony - the period Burlison's request covers.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-27",
@@ -51,7 +54,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2024-09-03",

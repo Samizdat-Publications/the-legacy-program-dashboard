@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-92e0e268ca",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract, FY 2009",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The document's administrative note states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program'. Issued as DIA-08-1003-017 on 30 March 2010, ICOD 1 December 2009. It is not a physics paper: it is a research-culture argument about whether breakthrough invention originates with lone inventors or corporate laboratories, which is the clearest single illustration of how loosely the DIRD mandate was drawn in practice.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -70,7 +73,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -80,10 +84,13 @@
 "direction": "out",
 "edgeId": "e-8c07f96e43",
 "edgeLabel": "commissioned via the BAASS prime contract",
+"family": null,
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -102,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -112,10 +120,13 @@
 "direction": "in",
 "edgeId": "e-1de2bf349a",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -124,7 +135,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -134,10 +146,13 @@
 "direction": "in",
 "edgeId": "e-cd7c031bde",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-017. Publication date 30 March 2010 on the cover. 20 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -151,7 +166,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -161,10 +177,13 @@
 "direction": "out",
 "edgeId": "e-fedd3edc5c",
 "edgeLabel": "authored by",
+"family": null,
 "id": "george-hathaway",
 "l0": false,
 "label": "George D. Hathaway",
 "note": "The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -193,7 +212,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

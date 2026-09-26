@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-cf2ae4991f",
 "edgeLabel": "Howe is the only named witness to the AQUARIUS paper's text",
+"family": null,
 "id": "linda-moulton-howe",
 "l0": false,
 "label": "Linda Moulton Howe",
 "note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-08-15",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -68,10 +72,13 @@
 "direction": "out",
 "edgeId": "e-2e31afa36a",
 "edgeLabel": "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within 20 months",
+"family": null,
 "id": "mj-12-documents",
 "l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "The AQUARIUS paper was shown at Kirtland in April 1983; the MJ-12 film arrived postmarked Albuquerque in December 1984. Both channels ran through people in contact with AFOSI.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-08-15",
@@ -85,7 +92,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -95,10 +103,13 @@
 "direction": "out",
 "edgeId": "e-ea9f7c422a",
 "edgeLabel": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
+"family": null,
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Cooper's 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -107,7 +118,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "coords": null,

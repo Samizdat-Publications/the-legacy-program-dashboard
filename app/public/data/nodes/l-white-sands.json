@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-ae3ccf63e9",
 "edgeLabel": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
+"family": null,
 "id": "l-los-alamos",
 "l0": false,
 "label": "Los Alamos, New Mexico",
 "note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-3700b6a81e",
 "edgeLabel": "Roswell sits inside the 1947 New Mexico nuclear and rocketry complex",
+"family": null,
 "id": "l-roswell",
 "l0": false,
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "note": "The Foster Ranch debris field, White Sands Proving Ground, the Alamogordo Mogul launch site, Los Alamos, Sandia and Kirtland all lie within a few hundred miles. Reasoning: geographic proximity is the reason a materiel recovery there fell inside multiple classified security envelopes at once.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

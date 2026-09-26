@@ -43,10 +43,13 @@
 "direction": "out",
 "edgeId": "e-a24b387b7d",
 "edgeLabel": "Held simultaneously the HASC and HPSCI seats that constitute the read-in tier Oversight was excluded from",
+"family": null,
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Reasoning: Luna's 2025 statement identifies HASC and HAC-D membership as the read-in gate; Gallagher held HASC and HPSCI through the 118th Congress and chaired a select committee. Whether he was ever read in on UAP SAPs is unresolved and is a live research question.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -55,7 +58,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2024-04-19",

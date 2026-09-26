@@ -73,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-8aec7286c7",
 "edgeLabel": "A civil-aviation case with a crew, an ATC transcript and a radar record",
+"family": null,
 "id": "d-aviators",
 "l0": false,
 "label": "Military Aviators & Operators",
 "note": "The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -85,7 +88,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -95,10 +99,13 @@
 "direction": "out",
 "edgeId": "e-ea77c3a2c4",
 "edgeLabel": "The agency investigated it, issued a finding and created the file",
+"family": null,
 "id": "faa",
 "l0": false,
 "label": "Federal Aviation Administration",
 "note": "FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001",
@@ -112,7 +119,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -122,10 +130,13 @@
 "direction": "in",
 "edgeId": "e-71c30c8403",
 "edgeLabel": "Claimed role in the FAA's handling of the case",
+"family": null,
 "id": "john-callahan",
 "l0": false,
 "label": "John Callahan",
 "note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -144,7 +155,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -154,10 +166,13 @@
 "direction": "in",
 "edgeId": "e-1a96f85ad5",
 "edgeLabel": "Requester and locator of the National Archives file",
+"family": null,
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -166,7 +181,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -176,10 +192,13 @@
 "direction": "out",
 "edgeId": "e-fc29e7ebf3",
 "edgeLabel": "Federal file recovered after seventeen years and two destruction notices",
+"family": null,
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -193,7 +212,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

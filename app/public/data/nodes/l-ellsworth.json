@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-48b4e23727",
 "edgeLabel": "The claim places Launch Facility November-5 in this installation's Minuteman field",
+"family": null,
 "id": "ellsworth-1977",
 "l0": false,
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "note": "Tier 2 because the location is as claimed on a dated broadcast, not as established by any Air Force record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-07",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-a50f06bfae",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"family": null,
 "id": "mario-woods",
 "l0": false,
 "label": "Mario Woods",
 "note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-07",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-46f8ad1aaa",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"family": null,
 "id": "michael-johnson",
 "l0": false,
 "label": "Michael Johnson",
 "note": "The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-07",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -101,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-47b38925c1",
 "edgeLabel": "SAC installation; 44th Strategic Missile Wing Minuteman field",
+"family": null,
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-07",
@@ -113,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

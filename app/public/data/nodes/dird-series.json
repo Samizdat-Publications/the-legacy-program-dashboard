@@ -125,10 +125,13 @@
 "direction": "in",
 "edgeId": "e-00dc3b6ebb",
 "edgeLabel": "26 FY2009 + 12 FY2010 technical reports",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -142,7 +145,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -152,10 +156,13 @@
 "direction": "in",
 "edgeId": "e-300caf5638",
 "edgeLabel": "prime contractor that commissioned and delivered the 38 DIRDs",
+"family": null,
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen universities and delivered them to DIA as Defense Intelligence Reference Documents.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -164,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -174,10 +182,13 @@
 "direction": "in",
 "edgeId": "e-cf77ee29ca",
 "edgeLabel": "transmitted the complete list of 38 products",
+"family": null,
 "id": "dia-aatip-letter-2018",
 "l0": false,
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "note": "Every subsequent FOIA request for individual DIRDs was built from this list; 37 of 38 have since been released.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -186,7 +197,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -196,10 +208,13 @@
 "direction": "in",
 "edgeId": "e-babf22fb71",
 "edgeLabel": "formal DIA quality assessment of the 26 FY09 reports",
+"family": null,
 "id": "dia-deliverables-review-2009",
 "l0": false,
 "label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
 "note": "Thirteen reviews: eight by other report authors, five external. Conclusion: the quality hoped for was achieved.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-10-30",
@@ -208,7 +223,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -218,10 +234,13 @@
 "direction": "out",
 "edgeId": "e-064f0a0bc9",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-advanced-nuclear-propulsion-for-manned-deep",
 "l0": false,
 "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -230,7 +249,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -240,10 +260,13 @@
 "direction": "out",
 "edgeId": "e-86ccb04db9",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-advanced-nuclear-propulsion-for-manned-deep",
 "l0": false,
 "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 38 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -257,7 +280,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -267,10 +291,13 @@
 "direction": "out",
 "edgeId": "e-200ddce729",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-advanced-space-propulsion-based-on-vacuum",
 "l0": false,
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -279,7 +306,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -289,10 +317,13 @@
 "direction": "out",
 "edgeId": "e-39411ae074",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-advanced-space-propulsion-based-on-vacuum",
 "l0": false,
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 29 March 2010 on the cover. 18 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -306,7 +337,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -316,10 +348,13 @@
 "direction": "out",
 "edgeId": "e-cb8bd760e1",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-aerospace-applications-of-programmable-matter",
 "l0": false,
 "label": "Aerospace Applications of Programmable Matter",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -328,7 +363,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -338,10 +374,13 @@
 "direction": "out",
 "edgeId": "e-08d14f0b29",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-aerospace-applications-of-programmable-matter",
 "l0": false,
 "label": "Aerospace Applications of Programmable Matter",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-0911-016. Publication date 14 December 2009 on the cover. 21 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -355,7 +394,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -365,10 +405,13 @@
 "direction": "out",
 "edgeId": "e-ca26ab4c53",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-an-introduction-to-the-statistical-drake",
 "l0": false,
 "label": "An Introduction to the Statistical Drake Equation",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -377,7 +420,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -387,10 +431,13 @@
 "direction": "out",
 "edgeId": "e-3344734a6d",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-an-introduction-to-the-statistical-drake",
 "l0": false,
 "label": "An Introduction to the Statistical Drake Equation",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 56 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -404,7 +451,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -414,10 +462,13 @@
 "direction": "out",
 "edgeId": "e-dd360f0aa0",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-aneutronic-fusion-propulsion",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -426,7 +477,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -436,10 +488,13 @@
 "direction": "out",
 "edgeId": "e-dcbe220747",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-aneutronic-fusion-propulsion",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1011-003. Publication date 01 November 2010 on the cover. 50 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -453,7 +508,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -463,10 +519,13 @@
 "direction": "out",
 "edgeId": "e-4c8451d8d9",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-aneutronic-fusion-propulsion-2",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -475,7 +534,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -485,10 +545,13 @@
 "direction": "out",
 "edgeId": "e-c8e03fa9c7",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-aneutronic-fusion-propulsion-2",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 37 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -502,7 +565,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -512,10 +576,13 @@
 "direction": "out",
 "edgeId": "e-66d59359a1",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "l0": false,
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -524,7 +591,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -534,10 +602,13 @@
 "direction": "out",
 "edgeId": "e-1b53650551",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "l0": false,
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 39 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -551,7 +622,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -561,10 +633,13 @@
 "direction": "out",
 "edgeId": "e-669c1d6b73",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-antigravity-for-aerospace-applications",
 "l0": true,
 "label": "Antigravity for Aerospace Applications",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -573,7 +648,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -583,10 +659,13 @@
 "direction": "out",
 "edgeId": "e-4b273e0410",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-antigravity-for-aerospace-applications",
 "l0": true,
 "label": "Antigravity for Aerospace Applications",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-018. Publication date 30 March 2010 on the cover. 45 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -600,7 +679,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -610,10 +690,13 @@
 "direction": "out",
 "edgeId": "e-3c75d57a14",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "l0": false,
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -622,7 +705,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -632,10 +716,13 @@
 "direction": "out",
 "edgeId": "e-0854ed89c7",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "l0": false,
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-020. Publication date 31 March 2010 on the cover. 46 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -649,7 +736,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -659,10 +747,13 @@
 "direction": "out",
 "edgeId": "e-57c967321c",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-cockpits-in-the-era-of-breakthrough",
 "l0": false,
 "label": "Cockpits in the Era of Breakthrough Flight",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -671,7 +762,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -681,10 +773,13 @@
 "direction": "out",
 "edgeId": "e-abe87589e8",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-cockpits-in-the-era-of-breakthrough",
 "l0": false,
 "label": "Cockpits in the Era of Breakthrough Flight",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -698,7 +793,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -708,10 +804,13 @@
 "direction": "out",
 "edgeId": "e-fb292aace8",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
 "l0": false,
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -720,7 +819,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -730,10 +830,13 @@
 "direction": "out",
 "edgeId": "e-f138dd67c0",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
 "l0": false,
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 15 December 2010 on the cover. 31 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -747,7 +850,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -757,10 +861,13 @@
 "direction": "out",
 "edgeId": "e-5bff3ecaa5",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -769,7 +876,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -779,10 +887,13 @@
 "direction": "out",
 "edgeId": "e-069838b70c",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1004-007. Publication date 6 April 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -796,7 +907,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -806,10 +918,13 @@
 "direction": "out",
 "edgeId": "e-8d01f3936f",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-detection-and-high-resolution-tracking-of",
 "l0": false,
 "label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -818,7 +933,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -828,10 +944,13 @@
 "direction": "out",
 "edgeId": "e-dc49e27093",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-detection-and-high-resolution-tracking-of",
 "l0": false,
 "label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1012-001. Publication date 20 November 2010 on the cover. 47 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -845,7 +964,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -855,10 +975,13 @@
 "direction": "out",
 "edgeId": "e-5dc9b97005",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
 "label": "High-Frequency Gravitational Wave Communications",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -867,7 +990,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -877,10 +1001,13 @@
 "direction": "out",
 "edgeId": "e-685b9f4b44",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
 "label": "High-Frequency Gravitational Wave Communications",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1004-005. Publication date 6 April 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -894,7 +1021,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -904,10 +1032,13 @@
 "direction": "out",
 "edgeId": "e-2326864f9c",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-inertial-electrostatic-confinement-fusion",
 "l0": false,
 "label": "Inertial Electrostatic Confinement Fusion",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -916,7 +1047,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -926,10 +1058,13 @@
 "direction": "out",
 "edgeId": "e-7b3421c718",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-inertial-electrostatic-confinement-fusion",
 "l0": false,
 "label": "Inertial Electrostatic Confinement Fusion",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 March 2010 on the cover. 73 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -943,7 +1078,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -953,10 +1089,13 @@
 "direction": "out",
 "edgeId": "e-3cc1119011",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-invisibility-cloaking-theory-and-experiments",
 "l0": false,
 "label": "Invisibility Cloaking: Theory and Experiments",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -965,7 +1104,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -975,10 +1115,13 @@
 "direction": "out",
 "edgeId": "e-3b66be6d1d",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-invisibility-cloaking-theory-and-experiments",
 "l0": false,
 "label": "Invisibility Cloaking: Theory and Experiments",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 March 2010 on the cover. 30 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -992,7 +1135,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1002,10 +1146,13 @@
 "direction": "out",
 "edgeId": "e-87f3066df2",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-laser-lightcraft-nanosatellites",
 "l0": false,
 "label": "Laser Lightcraft Nanosatellites",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1014,7 +1161,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1024,10 +1172,13 @@
 "direction": "out",
 "edgeId": "e-b954a4d262",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-laser-lightcraft-nanosatellites",
 "l0": false,
 "label": "Laser Lightcraft Nanosatellites",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1011-001. Publication date 01 November 2010 on the cover. 78 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1041,7 +1192,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1051,10 +1203,13 @@
 "direction": "out",
 "edgeId": "e-1de2bf349a",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "l0": false,
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1063,7 +1218,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1073,10 +1229,13 @@
 "direction": "out",
 "edgeId": "e-cd7c031bde",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "l0": false,
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-017. Publication date 30 March 2010 on the cover. 20 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1090,7 +1249,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1100,10 +1260,13 @@
 "direction": "out",
 "edgeId": "e-87d6617929",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1112,7 +1275,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1122,10 +1286,13 @@
 "direction": "out",
 "edgeId": "e-06a2247f75",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 21 November 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1139,7 +1306,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1149,10 +1317,13 @@
 "direction": "out",
 "edgeId": "e-9598d345c0",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-negative-mass-propulsion",
 "l0": false,
 "label": "Negative Mass Propulsion",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1161,7 +1332,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1171,10 +1343,13 @@
 "direction": "out",
 "edgeId": "e-e7f0907cd8",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-negative-mass-propulsion",
 "l0": false,
 "label": "Negative Mass Propulsion",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1101-023. Publication date 03 January 2011 on the cover. 44 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1188,7 +1363,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1198,10 +1374,13 @@
 "direction": "out",
 "edgeId": "e-4a89c0012b",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-positron-aerospace-propulsion",
 "l0": false,
 "label": "Positron Aerospace Propulsion",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1210,7 +1389,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1220,10 +1400,13 @@
 "direction": "out",
 "edgeId": "e-5be8be6827",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-positron-aerospace-propulsion",
 "l0": false,
 "label": "Positron Aerospace Propulsion",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 March 2010 on the cover. 36 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1237,7 +1420,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1247,10 +1431,13 @@
 "direction": "out",
 "edgeId": "e-ceff57fa23",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-pulsed-high-power-microwave-source-technology",
 "l0": false,
 "label": "Pulsed High-Power Microwave Source Technology",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1259,7 +1446,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1269,10 +1457,13 @@
 "direction": "out",
 "edgeId": "e-ed3520ea91",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-pulsed-high-power-microwave-source-technology",
 "l0": false,
 "label": "Pulsed High-Power Microwave Source Technology",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 28 January 2010 on the cover. 38 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1286,7 +1477,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1296,10 +1488,13 @@
 "direction": "out",
 "edgeId": "e-1e6c1cbd09",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "l0": false,
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1308,7 +1503,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1318,10 +1514,13 @@
 "direction": "out",
 "edgeId": "e-e01cce6a2f",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "l0": false,
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 December 2010 on the cover. 55 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1335,7 +1534,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1345,10 +1545,13 @@
 "direction": "out",
 "edgeId": "e-c98e11bcc0",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "l0": false,
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1357,7 +1560,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1367,10 +1571,13 @@
 "direction": "out",
 "edgeId": "e-9178a64f5a",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "l0": false,
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1102-007. Publication date 11 January 2011 on the cover. 52 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1384,7 +1591,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1394,10 +1602,13 @@
 "direction": "out",
 "edgeId": "e-7e5bedd578",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-space-access-where-we-ve-been",
 "l0": false,
 "label": "Space Access: Where We've Been and Where We Could Go",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1406,7 +1617,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1416,10 +1628,13 @@
 "direction": "out",
 "edgeId": "e-cd07471ac9",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-space-access-where-we-ve-been",
 "l0": false,
 "label": "Space Access: Where We've Been and Where We Could Go",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 1 December 2009 on the cover. 57 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1433,7 +1648,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1443,10 +1659,13 @@
 "direction": "out",
 "edgeId": "e-8ce394a004",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-state-of-the-art-and-evolution",
 "l0": false,
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1455,7 +1674,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1465,10 +1685,13 @@
 "direction": "out",
 "edgeId": "e-33ba9f5b4e",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-state-of-the-art-and-evolution",
 "l0": false,
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 31 March 2010 on the cover. 32 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1482,7 +1705,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1492,10 +1716,13 @@
 "direction": "out",
 "edgeId": "e-1cbe65aa27",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-technological-approaches-to-controlling-external-devices",
 "l0": false,
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1504,7 +1731,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1514,10 +1742,13 @@
 "direction": "out",
 "edgeId": "e-7d42073188",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-technological-approaches-to-controlling-external-devices",
 "l0": false,
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-012. Publication date 23 March 2010 on the cover. 37 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1531,7 +1762,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1541,10 +1773,13 @@
 "direction": "out",
 "edgeId": "e-e42eb264ec",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-the-role-of-superconductors-in-gravity",
 "l0": false,
 "label": "The Role of Superconductors in Gravity Research",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1553,7 +1788,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1563,10 +1799,13 @@
 "direction": "out",
 "edgeId": "e-1d63e0d69c",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-the-role-of-superconductors-in-gravity",
 "l0": false,
 "label": "The Role of Superconductors in Gravity Research",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 23 March 2010 on the cover. 17 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1580,7 +1819,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1590,10 +1830,13 @@
 "direction": "out",
 "edgeId": "e-509d09fe18",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-the-space-communication-implications-of-quantum",
 "l0": false,
 "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1602,7 +1845,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1612,10 +1856,13 @@
 "direction": "out",
 "edgeId": "e-d3eab6bde4",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-the-space-communication-implications-of-quantum",
 "l0": false,
 "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 30 March 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1629,7 +1876,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1639,10 +1887,13 @@
 "direction": "out",
 "edgeId": "e-912c8bb4a4",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-traversable-wormholes-stargates-and-negative-energy",
 "l0": false,
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1651,7 +1902,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1661,10 +1913,13 @@
 "direction": "out",
 "edgeId": "e-198e0bd299",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-traversable-wormholes-stargates-and-negative-energy",
 "l0": false,
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 6 April 2010 on the cover. 43 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1678,7 +1933,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1688,10 +1944,13 @@
 "direction": "out",
 "edgeId": "e-11337c9f51",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1700,7 +1959,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1710,10 +1970,13 @@
 "direction": "out",
 "edgeId": "e-fc03a3be90",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 35 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1727,7 +1990,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1737,10 +2001,13 @@
 "direction": "out",
 "edgeId": "e-9018c60bfe",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-warp-drive-dark-energy-and-the",
 "l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -1749,7 +2016,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1759,10 +2027,13 @@
 "direction": "out",
 "edgeId": "e-b3b685de73",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-warp-drive-dark-energy-and-the",
 "l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 April 2010 on the cover. 34 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -1776,7 +2047,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1786,10 +2058,13 @@
 "direction": "in",
 "edgeId": "e-fdcf00a5b7",
 "edgeLabel": "largest single DIRD producer - six of 38",
+"family": null,
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-01-18",
@@ -1798,7 +2073,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1808,10 +2084,13 @@
 "direction": "in",
 "edgeId": "e-96769d6a97",
 "edgeLabel": "authored five of the 38 DIRDs",
+"family": null,
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Items 8, 11, 14, 31 and 34 — wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -1820,7 +2099,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1830,10 +2110,13 @@
 "direction": "in",
 "edgeId": "e-b4d6399d50",
 "edgeLabel": "authored DIRD on vacuum/spacetime metric engineering",
+"family": null,
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Item 5 on DIA's transmittal list; the closest thing in the released set to a theory of how the reported craft operate.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -1842,7 +2125,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -1852,10 +2136,13 @@
 "direction": "in",
 "edgeId": "e-0038f03355",
 "edgeLabel": "authored the human biological effects DIRD",
+"family": null,
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Item 12, 'Field Effects on Biological Tissues', released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — a government document about injuries.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-01-01",
@@ -1864,7 +2151,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -1874,10 +2162,13 @@
 "direction": "in",
 "edgeId": "e-5cc5316eb0",
 "edgeLabel": "Wayne State clinician authored the AAWSAP human-effects reference document",
+"family": null,
 "id": "wayne-state-university",
 "l0": true,
 "label": "Wayne State University",
 "note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-03",
@@ -1901,7 +2192,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

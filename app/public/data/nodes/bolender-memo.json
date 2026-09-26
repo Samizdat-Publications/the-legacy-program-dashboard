@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-c134213fa8",
 "edgeLabel": "Bolender authored the termination memorandum",
+"family": null,
 "id": "carroll-bolender",
 "l0": false,
 "label": "Carroll H. Bolender",
 "note": "Brig. Gen. Bolender, USAF Deputy Director of Development, signed the 20 October 1969 memorandum recommending Blue Book's closure and explaining why closure cost the Air Force nothing operationally.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1969-10-20",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-db9a42211f",
 "edgeLabel": "Bolender names JANAP 146 as the channel Blue Book was not",
+"family": null,
 "id": "janap-146",
 "l0": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1969-10-20",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -90,10 +98,13 @@
 "direction": "out",
 "edgeId": "e-3fc20213e5",
 "edgeLabel": "The Bolender memo closed the base's public reporting channel while conceding another existed",
+"family": null,
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base's own reporting architecture.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -102,7 +113,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -112,10 +124,13 @@
 "direction": "out",
 "edgeId": "e-7d403df934",
 "edgeLabel": "No records series has ever been identified for the JANAP channel",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -129,7 +144,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -139,10 +155,13 @@
 "direction": "out",
 "edgeId": "e-b36e94bf20",
 "edgeLabel": "Memo recommended termination; Blue Book closed two months later",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Secretary of the Air Force Robert C. Seamans Jr. announced the termination on 17 December 1969, citing the Condon Report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -156,7 +175,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

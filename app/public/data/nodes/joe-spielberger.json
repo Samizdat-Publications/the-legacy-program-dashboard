@@ -64,10 +64,13 @@
 "direction": "out",
 "edgeId": "e-269babb8a3",
 "edgeLabel": "minority witness",
+"family": null,
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "POGO's senior policy counsel was the minority's chosen witness, arguing for stronger disclosure channels rather than contesting the phenomenology.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +90,13 @@
 "direction": "out",
 "edgeId": "e-858369abe6",
 "edgeLabel": "minority witness",
+"family": null,
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -108,7 +115,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -118,10 +126,13 @@
 "direction": "in",
 "edgeId": "e-09dd2bdba2",
 "edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
+"family": null,
 "id": "jasmine-crockett",
 "l0": false,
 "label": "Jasmine Felicia Crockett",
 "note": "The policy bridge from UAP allegations to H.R. 5060.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -130,7 +141,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "date": "2025-09-09",

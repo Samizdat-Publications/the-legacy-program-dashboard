@@ -119,10 +119,13 @@
 "direction": "out",
 "edgeId": "e-7ad5dac79d",
 "edgeLabel": "Congress prohibited moving a capability out of a CAP into a SAP without notice",
+"family": null,
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "50 U.S.C. 3091a(b)(2)(A), added by section 6603 of Public Law 118-159, bars transfer of a capability from a CAP to a special access program until notice is submitted to the appropriate committees and leadership.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -136,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -146,10 +150,13 @@
 "direction": "out",
 "edgeId": "e-18672cbcbe",
 "edgeLabel": "The IC regime is the only one with no waiver and a funding cutoff",
+"family": null,
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "50 U.S.C. 3091a contains no waiver authority; subsection (c), added 23 December 2024, bars obligation of NIP funds until notification is submitted.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -163,7 +170,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -173,10 +181,13 @@
 "direction": "out",
 "edgeId": "e-a5ff13b3f8",
 "edgeLabel": "3091a(d)(3) defines 'controlled access program' as a program created or managed pursuant to ICD 906",
+"family": null,
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -195,7 +206,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -205,10 +217,13 @@
 "direction": "in",
 "edgeId": "e-e2aa68b41c",
 "edgeLabel": "",
+"family": null,
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "The statute defines its own subject by reference to the directive: 50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'. Congress delegated the definition to an executive instrument, so what counts as a CAP can change without legislation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-05",
@@ -222,7 +237,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -232,10 +248,13 @@
 "direction": "in",
 "edgeId": "e-ee86174cb3",
 "edgeLabel": "Pub. L. 118-159 secs. 6602-6603",
+"family": null,
 "id": "usc-50-3091a-2024amend",
 "l0": false,
 "label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -244,7 +263,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -254,10 +274,13 @@
 "direction": "in",
 "edgeId": "e-589cb86158",
 "edgeLabel": "amends",
+"family": null,
 "id": "usc-50-3091a-2024amend",
 "l0": false,
 "label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "note": "Pub. L. 118-159 secs. 6602 and 6603, approved 23 December 2024, amend this section: 6602 inserts a new subsection (c) limiting National Intelligence Program spending, and 6603 adds subsection (b)(2)(A) with its exception at (B). The OLRC text carries the amendment note and records that subsection (c) 'shall apply with respect to controlled access programs ... that are established on or after the date of the enactment of this Act', so the new limit is prospective only and existing compartments are untouched by it. Statute read on 22 August 2026; the verbatim section text is already on the amendment node from the enacted public law.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -271,7 +294,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

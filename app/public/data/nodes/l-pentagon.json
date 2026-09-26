@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-bfb2069373",
 "edgeLabel": "Worked in OUSD(I) offices, 2008-2017",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The New York Times placed AATIP on the Pentagon's fifth floor; the Pentagon parking lot is where Mellon says he received the video files.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2017-12-16",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

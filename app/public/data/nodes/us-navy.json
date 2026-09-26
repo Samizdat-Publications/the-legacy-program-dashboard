@@ -48,10 +48,13 @@
 "direction": "in",
 "edgeId": "e-f69bbf9dd3",
 "edgeLabel": "Assigned by the Secretary of the Navy to the Special Projects Office, February 1964",
+"family": null,
 "id": "deep-submergence-systems-project",
 "l0": false,
 "label": "Deep Submergence Systems Project (DSSP)",
 "note": "After the Deep-Submergence Systems Review Group reported in February 1964, the Secretary of the Navy assigned implementation of the programme, renamed DSSP, to the Navy's Special Projects Office; by 1967 it was a separate project within the Naval Material Command, and its project office carried the designator PM-11.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1965-03-01",
@@ -60,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -70,10 +74,13 @@
 "direction": "in",
 "edgeId": "e-bef526f571",
 "edgeLabel": "Secretary of the Navy until September 1947",
+"family": null,
 "id": "james-v-forrestal",
 "l0": false,
 "label": "James V. Forrestal",
 "note": "The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -82,7 +89,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -92,10 +100,13 @@
 "direction": "in",
 "edgeId": "e-d599e5530b",
 "edgeLabel": "Joint command with a Navy deputy",
+"family": null,
 "id": "leslie-r-groves",
 "l0": false,
 "label": "Lt. Gen. Leslie R. Groves",
 "note": "Rear Admiral W.S. Parsons was appointed Deputy Chief AFSWP on 31 March 1947, the deputy coming from the opposite service by the terms of the activating directive.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-01-01",
@@ -104,7 +115,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -114,10 +126,13 @@
 "direction": "in",
 "edgeId": "e-7782380992",
 "edgeLabel": "Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5",
+"family": null,
 "id": "naval-criminal-investigative-service",
 "l0": false,
 "label": "Naval Criminal Investigative Service",
 "note": "NCIS is a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1994-06-09",
@@ -126,7 +141,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -136,10 +152,13 @@
 "direction": "in",
 "edgeId": "e-4c244605ad",
 "edgeLabel": "A Navy laboratory; the 55-Nitinol patent is assigned to the Secretary of the Navy",
+"family": null,
 "id": "naval-ordnance-laboratory",
 "l0": false,
 "label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
 "note": "The Naval Ordnance Laboratory was a Navy laboratory; the 55-Nitinol patent is assigned to the United States as represented by the Secretary of the Navy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -148,7 +167,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -158,10 +178,13 @@
 "direction": "out",
 "edgeId": "e-5c89b52f4e",
 "edgeLabel": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+"family": null,
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-04-27",
@@ -180,7 +203,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -190,10 +214,13 @@
 "direction": "in",
 "edgeId": "e-791ff4ab67",
 "edgeLabel": "Created inside the Office of the Secretary of the Navy, 1 August 1946",
+"family": null,
 "id": "office-of-naval-research",
 "l0": false,
 "label": "Office of Naval Research",
 "note": "Section 1 places ONR in the Office of the Secretary of the Navy and provides that its orders are to be considered as emanating from the Secretary and to have full force and effect as such.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1946-08-01",
@@ -202,7 +229,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -212,10 +240,13 @@
 "direction": "out",
 "edgeId": "e-f2a7824a71",
 "edgeLabel": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven",
+"family": null,
 "id": "pais-patent-emfg",
 "l0": false,
 "label": "US Patent 10,135,366 - Electromagnetic field generator",
 "note": "EXPLICIT DENIAL EDGE AND THE DENIER IS THE SPONSOR. Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The same institution that filed, funded and prosecuted the patent family tested this device and reported the negative result itself.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-02-01",
@@ -224,7 +255,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -234,10 +266,13 @@
 "direction": "out",
 "edgeId": "e-b0456f2b24",
 "edgeLabel": "Assignee of record",
+"family": null,
 "id": "pais-patent-imrd",
 "l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -251,7 +286,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -261,10 +297,13 @@
 "direction": "out",
 "edgeId": "e-419c09f2bd",
 "edgeLabel": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"family": null,
 "id": "roosevelt-2014-2015",
 "l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-04-27",
@@ -288,7 +327,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -298,10 +338,13 @@
 "direction": "out",
 "edgeId": "e-e30228e583",
 "edgeLabel": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+"family": null,
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -315,7 +358,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -325,10 +369,13 @@
 "direction": "out",
 "edgeId": "e-343e5049bc",
 "edgeLabel": "Navy designated lead service for the UAP Task Force",
+"family": null,
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'. The task force was disestablished two years later on the Deputy Secretary's direction when AARO stood up.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-08-14",
@@ -342,7 +389,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -352,10 +400,13 @@
 "direction": "in",
 "edgeId": "e-db23c34431",
 "edgeLabel": "His letter of 25 April 2002 is on United States Navy letterhead",
+"family": null,
 "id": "will-miller",
 "l0": false,
 "label": "Will Miller",
 "note": "Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -364,7 +415,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

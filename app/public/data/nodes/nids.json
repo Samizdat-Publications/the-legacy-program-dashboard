@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-0b21d24abe",
 "edgeLabel": "The private field programme was re-federalised as a DIA contract without changing personnel",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "This is the structural pivot of the era: capability was privatised in 1995 and re-acquired by contract in 2008, meaning the government never had to stand up an acknowledged office.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-05-10",
@@ -75,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -85,10 +89,13 @@
 "direction": "out",
 "edgeId": "e-868e2afc4f",
 "edgeLabel": "personnel, methodology and site inherited wholesale",
+"family": null,
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Kelleher, Davis, Green and the Utah ranch operation all pass from Bigelow's private institute into the DIA-funded contractor.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-05-25",
@@ -102,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -112,10 +120,13 @@
 "direction": "out",
 "edgeId": "e-3334b97519",
 "edgeLabel": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
+"family": null,
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-05-10",
@@ -129,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -139,10 +151,13 @@
 "direction": "in",
 "edgeId": "e-a19002d61f",
 "edgeLabel": "Kelleher was NIDS deputy administrator and ran field operations",
+"family": null,
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
 "note": "Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08-10",
@@ -156,7 +171,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -166,10 +182,13 @@
 "direction": "in",
 "edgeId": "e-9478dc5bcb",
 "edgeLabel": "NIDS scientist before the federal contract",
+"family": null,
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -188,7 +207,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -198,10 +218,13 @@
 "direction": "in",
 "edgeId": "e-873bd6f8b8",
 "edgeLabel": "Worked with Bigelow's NIDS alongside Colm Kelleher",
+"family": null,
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Knapp's NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -210,7 +233,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -220,10 +244,13 @@
 "direction": "in",
 "edgeId": "e-a529a230ea",
 "edgeLabel": "Puthoff was among the consultants Bigelow hired at NIDS in 1995",
+"family": null,
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-05-10",
@@ -237,7 +264,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -247,10 +275,13 @@
 "direction": "in",
 "edgeId": "e-8adaa21ec8",
 "edgeLabel": "Vallee served on the NIDS advisory board",
+"family": null,
 "id": "jacques-vallee",
 "l0": false,
 "label": "Jacques F. Vallee",
 "note": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08-10",
@@ -264,7 +295,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -274,10 +306,13 @@
 "direction": "in",
 "edgeId": "e-d891e06070",
 "edgeLabel": "Alexander sat on the NIDS board from its founding",
+"family": null,
 "id": "john-b-alexander",
 "l0": false,
 "label": "John B. Alexander",
 "note": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08-10",
@@ -291,7 +326,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -301,10 +337,13 @@
 "direction": "in",
 "edgeId": "e-44a696c342",
 "edgeLabel": "NIDS science advisory board before the DIRD",
+"family": null,
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's human-effects interest predates the federal contract by more than a decade, through Bigelow's private institute.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -313,7 +352,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -323,10 +363,13 @@
 "direction": "in",
 "edgeId": "e-6b3afc6508",
 "edgeLabel": "NIDS headquarters 1995-2004",
+"family": null,
 "id": "l-las-vegas",
 "l0": false,
 "label": "Las Vegas, Nevada",
 "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08-10",
@@ -345,7 +388,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -355,10 +399,13 @@
 "direction": "out",
 "edgeId": "e-933c22c1b1",
 "edgeLabel": "NIDS operated a permanently instrumented field station at the ranch",
+"family": null,
 "id": "l-skinwalker",
 "l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "Bigelow moved in a research team, surveillance equipment and full-time caretakers immediately after the purchase.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1996-06-30",
@@ -372,7 +419,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -382,10 +430,13 @@
 "direction": "out",
 "edgeId": "e-83150b3c84",
 "edgeLabel": "NIDS ran the field investigation at the ranch under Bigelow",
+"family": null,
 "id": "l-skinwalker",
 "l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents while conceding they could not obtain publishable evidence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -394,7 +445,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -404,10 +456,13 @@
 "direction": "in",
 "edgeId": "e-581497930d",
 "edgeLabel": "founded and privately funded NIDS 1995-2004",
+"family": null,
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -426,7 +481,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 }
 ],
 "coords": null,

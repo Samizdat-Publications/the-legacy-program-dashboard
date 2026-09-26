@@ -57,10 +57,13 @@
 "direction": "out",
 "edgeId": "e-2ac7244aad",
 "edgeLabel": "McCoy ran AMC/T-2 intelligence, the exploitation node",
+"family": null,
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "As Chief of Intelligence at Air Materiel Command, McCoy headed the organisation that received and exploited recovered foreign materiel and that hosted Project SIGN. Any 1947 recovery would have been processed here.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-11-24",
@@ -74,7 +77,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -84,10 +88,13 @@
 "direction": "out",
 "edgeId": "e-1d71fcfbf3",
 "edgeLabel": "McCoy's shop produced the analysis Twining signed",
+"family": null,
 "id": "twining-memo",
 "l0": false,
 "label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
 "note": "The AMC intelligence organisation under McCoy did the staff work behind the 23 September 1947 assessment; McCoy signed related AMC correspondence to the Chief of Staff two months later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-11-24",
@@ -101,7 +108,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1947-11-24",

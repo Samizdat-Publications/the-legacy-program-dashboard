@@ -17,10 +17,13 @@
 "direction": "in",
 "edgeId": "e-e810053047",
 "edgeLabel": "IHEDN origin; delivered to the Prime Minister",
+"family": null,
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1999-07-01",
@@ -34,7 +37,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": [

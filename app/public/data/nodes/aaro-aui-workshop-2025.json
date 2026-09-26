@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-8b13112369",
 "edgeLabel": "operational precursor",
+"family": null,
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-16",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

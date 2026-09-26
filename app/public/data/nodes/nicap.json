@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-fc8da4c4f7",
 "edgeLabel": "CIA held and filed NICAP's 1964 volume in its own records",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The copy of The UFO Evidence read for this record is the Agency's, released as CIA-RDP81R00560R000100010001-0 and marked 'Approved For Release 2001/04/02'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "in",
 "edgeId": "e-555c7dcf04",
 "edgeLabel": "Director, by September 1957 and still in post May 1964",
+"family": null,
 "id": "donald-keyhoe",
 "l0": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "An Air Force headquarters letter of 20 September 1957 addresses him as Director NICAP at 1536 Connecticut Avenue NW, and the organisation's May 1964 volume carries him on its masthead as director. No opened record gives an end date.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -91,10 +99,13 @@
 "direction": "in",
 "edgeId": "e-66e9a72e7c",
 "edgeLabel": "Names the NICAP case files as one of its three major collections, on its own account",
+"family": null,
 "id": "nufohrc",
 "l0": false,
 "label": "National UFO Historical Records Center",
 "note": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +125,13 @@
 "direction": "out",
 "edgeId": "e-b15d55bc2b",
 "edgeLabel": "Blue Book's former headquarters monitor sat on the NICAP board",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -125,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -135,10 +151,13 @@
 "direction": "in",
 "edgeId": "e-29149e99a3",
 "edgeLabel": "Served five years on the Board of Governors",
+"family": null,
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -157,10 +177,13 @@
 "direction": "in",
 "edgeId": "e-a5bf34a329",
 "edgeLabel": "Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore",
+"family": null,
 "id": "thomas-townsend-brown",
 "l0": false,
 "label": "Thomas Townsend Brown",
 "note": "A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1956-10-23",
@@ -169,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -179,10 +203,13 @@
 "direction": "out",
 "edgeId": "e-906d0196fe",
 "edgeLabel": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+"family": null,
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -191,7 +218,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

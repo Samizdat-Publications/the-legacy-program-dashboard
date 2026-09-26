@@ -56,10 +56,13 @@
 "direction": "in",
 "edgeId": "e-b06204b20b",
 "edgeLabel": "Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000",
+"family": null,
 "id": "institute-of-field-physics",
 "l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -68,7 +71,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -78,10 +82,13 @@
 "direction": "in",
 "edgeId": "e-a37eca98c8",
 "edgeLabel": "Trimble proposed RIAS as an industrial institute for advanced study",
+"family": null,
 "id": "rias-inc",
 "l0": false,
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2011-01-01",
@@ -90,7 +97,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -100,10 +108,13 @@
 "direction": "in",
 "edgeId": "e-6a9fe39af6",
 "edgeLabel": "Quoted by name as Martin's vice-president in charge of advanced design planning",
+"family": null,
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -112,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "1955-06-10",

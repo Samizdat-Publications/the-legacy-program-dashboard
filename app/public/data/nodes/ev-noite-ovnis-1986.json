@@ -77,10 +77,13 @@
 "direction": "in",
 "edgeId": "e-b9d6006587",
 "edgeLabel": "the official record of the night",
+"family": null,
 "id": "doc-fab-1986-report",
 "l0": false,
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "note": "Its Considerações Finais record solid radar-and-visual objects that outran supersonic interceptors and 'reflect in a certain manner intelligence'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-06-02",
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "in",
 "edgeId": "e-97b79b87ed",
 "edgeLabel": "The Air Force scrambled the interceptors on the Night of the UFOs",
+"family": null,
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "The 19 May 1986 engagement was executed by the FAB: fighters launched from Santa Cruz and Anápolis against radar plots held by the CINDACTA network. RQS 193/2022 describes it in the Senate's own words as the night 'quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato'. The event node previously connected only to the minister and to the report, not to the service that flew the sorties. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -126,7 +133,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -136,10 +144,13 @@
 "direction": "in",
 "edgeId": "e-3a69cf08ed",
 "edgeLabel": "The 1986 engagement ranged across four Brazilian states",
+"family": null,
 "id": "l-brazil",
 "l0": false,
 "label": "Brazil",
 "note": "São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -163,7 +174,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -173,10 +185,13 @@
 "direction": "in",
 "edgeId": "e-e6ce9f04c9",
 "edgeLabel": "held the 23 May 1986 press conference stating the Air Force had no explanation",
+"family": null,
 "id": "otavio-moreira-lima",
 "l0": false,
 "label": "Brigadeiro Octávio Júlio Moreira Lima",
 "note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-01-14",
@@ -185,7 +200,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -195,10 +211,13 @@
 "direction": "in",
 "edgeId": "e-0d6a5d9d9a",
 "edgeLabel": "Commanded the air defence organisation whose engagement he then wrote up",
+"family": null,
 "id": "pessoa-cavalcanti",
 "l0": false,
 "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
 "note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -217,7 +236,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -227,10 +247,13 @@
 "direction": "in",
 "edgeId": "e-6f55dbfaed",
 "edgeLabel": "The 1986 night is named in the Senate instrument that produced the 2022 special session",
+"family": null,
 "id": "senado-brasil",
 "l0": true,
 "label": "Senado Federal do Brasil",
 "note": "RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -259,7 +282,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

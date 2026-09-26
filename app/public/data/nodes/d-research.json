@@ -36,10 +36,13 @@
 "direction": "out",
 "edgeId": "e-dcb4ff5ab5",
 "edgeLabel": "Instrumented search",
+"family": null,
 "id": "d-astro",
 "l0": false,
 "label": "Astronomy & Astrophysics",
 "note": "The Galileo Project instrumentation papers and the VASCO archival work are the two productive observational programmes outside government.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-10-20",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

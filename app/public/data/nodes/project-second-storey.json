@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-539965ff3e",
 "edgeLabel": "appointed to the Defence Research Board committee in 1952",
+"family": null,
 "id": "wilbert-smith",
 "l0": false,
 "label": "Wilbert Brockhouse Smith",
 "note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-01",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

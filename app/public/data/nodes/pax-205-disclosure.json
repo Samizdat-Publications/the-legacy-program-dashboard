@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-ab522e8de8",
 "edgeLabel": "Four of five itemised as design goals",
+"family": null,
 "id": "five-observables",
 "l0": false,
 "label": "The five observables (UAP performance taxonomy)",
 "note": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-2bf2582793",
 "edgeLabel": "Internal disclosure underlying the granted patent",
+"family": null,
 "id": "pais-patent-imrd",
 "l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-90d5a4103d",
 "edgeLabel": "Author of the Navy invention disclosure",
+"family": null,
 "id": "salvatore-pais",
 "l0": false,
 "label": "Salvatore Cezar Pais",
 "note": "The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

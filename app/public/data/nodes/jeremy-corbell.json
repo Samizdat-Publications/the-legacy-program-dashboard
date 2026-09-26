@@ -66,10 +66,13 @@
 "direction": "out",
 "edgeId": "e-6ea67adbda",
 "edgeLabel": "Director of the 2018 documentary",
+"family": null,
 "id": "corbell-lazar-2018",
 "l0": false,
 "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018",
@@ -78,7 +81,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -88,10 +92,13 @@
 "direction": "in",
 "edgeId": "e-638cde1132",
 "edgeLabel": "Co-hosts the Weaponized podcast",
+"family": null,
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Pairs Knapp's four decades of sourcing with Corbell's leak pipeline.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -100,7 +107,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -110,10 +118,13 @@
 "direction": "out",
 "edgeId": "e-85739d3979",
 "edgeLabel": "His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett",
+"family": null,
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Listed in the hearing's Index of Documents.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -122,7 +133,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -132,10 +144,13 @@
 "direction": "in",
 "edgeId": "e-451a2f225d",
 "edgeLabel": "'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief",
+"family": null,
 "id": "lanl",
 "l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-25",
@@ -144,7 +159,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -154,10 +170,13 @@
 "direction": "out",
 "edgeId": "e-a9e26df33c",
 "edgeLabel": "Corbell publicly challenged the Senate Appropriations Committee to audit Lockheed Martin's special access programs",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Speaking alongside Rep. Burchett in March 2023, Corbell named Senators Murray and Collins and the Committee's jurisdiction over spending. Elizondo responded that the inquiry should not be limited to one aerospace company 'but to several others that have likely played a key historical role.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-03-11",
@@ -166,7 +185,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -176,10 +196,13 @@
 "direction": "in",
 "edgeId": "e-ca701262bc",
 "edgeLabel": "Footage reached the public through journalists, not through the Navy or AARO",
+"family": null,
 "id": "uss-jackson-2023",
 "l0": false,
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -188,7 +211,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -198,10 +222,13 @@
 "direction": "out",
 "edgeId": "e-1f8c08fa28",
 "edgeLabel": "Co-host",
+"family": null,
 "id": "weaponized-podcast",
 "l0": false,
 "label": "Weaponized (Knapp & Corbell)",
 "note": "The primary channel through which leaked Navy imagery has entered the public record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -210,7 +237,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2021-05-14",

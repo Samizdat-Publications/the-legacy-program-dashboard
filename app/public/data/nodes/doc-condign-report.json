@@ -83,10 +83,13 @@
 "direction": "in",
 "edgeId": "e-ef6bd7e00a",
 "edgeLabel": "FOI request that forced the release",
+"family": null,
 "id": "david-clarke-uk",
 "l0": false,
 "label": "Dr David Clarke",
 "note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -95,7 +98,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -105,10 +109,13 @@
 "direction": "out",
 "edgeId": "e-7de8ba3f80",
 "edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
+"family": null,
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -117,7 +124,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -127,10 +135,13 @@
 "direction": "out",
 "edgeId": "e-a21e2a485f",
 "edgeLabel": "key recommendation executed nine years later",
+"family": null,
 "id": "ev-uk-ufo-desk-closure",
 "l0": false,
 "label": "Closure of the MoD UFO Desk, 1 December 2009",
 "note": "Condign's single key recommendation was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed it closed in 2009 on the same stated ground.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -144,7 +155,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -154,10 +166,13 @@
 "direction": "in",
 "edgeId": "e-12606bd281",
 "edgeLabel": "co-requester of the Condign FOI",
+"family": null,
 "id": "gary-anthony-uk",
 "l0": false,
 "label": "Gary Anthony",
 "note": "Named with Clarke as co-requester in the report's release history and in contemporaneous BBC and Guardian coverage.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-19",
@@ -166,7 +181,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -176,10 +192,13 @@
 "direction": "in",
 "edgeId": "e-4aaf7db27c",
 "edgeLabel": "produced at Whitehall, released via TNA at Kew",
+"family": null,
 "id": "l-london",
 "l0": false,
 "label": "London, United Kingdom",
 "note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-01-01",
@@ -198,7 +217,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -208,10 +228,13 @@
 "direction": "in",
 "edgeId": "e-dde6788a41",
 "edgeLabel": "UK-commissioned study of its own air defence region",
+"family": null,
 "id": "l-uk",
 "l0": false,
 "label": "United Kingdom",
 "note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-01-01",
@@ -225,7 +248,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -235,10 +259,13 @@
 "direction": "in",
 "edgeId": "e-3c29c971a1",
 "edgeLabel": "Condign report held at MoD Main Building",
+"family": null,
 "id": "l-uk-mod-whitehall",
 "l0": false,
 "label": "Ministry of Defence Main Building, Whitehall, London",
 "note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-01-01",
@@ -257,7 +284,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -267,10 +295,13 @@
 "direction": "in",
 "edgeId": "e-9c8074b4fd",
 "edgeLabel": "produced the four-volume report",
+"family": null,
 "id": "project-condign",
 "l0": false,
 "label": "Project Condign",
 "note": "Project Condign's output is 'Unidentified Aerial Phenomena in the UK Air Defence Region'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -279,7 +310,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -289,10 +321,13 @@
 "direction": "in",
 "edgeId": "e-3f0fc0d1e2",
 "edgeLabel": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
+"family": null,
 "id": "project-magnet",
 "l0": false,
 "label": "Project Magnet (Canada)",
 "note": "Smith's 1952 report recommends 'acquisition of as much as possible of this technology'; Condign's own paragraph 7, 'Related Military Applications', is redacted in full under the defence exemption. Reasoning: both are government documents whose exploitation sections are the point at which the record becomes either explicit or withheld.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2005-08-11",
@@ -306,7 +341,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

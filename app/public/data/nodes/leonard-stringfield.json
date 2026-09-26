@@ -102,10 +102,13 @@
 "direction": "in",
 "edgeId": "e-f056e360b1",
 "edgeLabel": "CUFOS cooperated with and advised the Status Report series",
+"family": null,
 "id": "cufos",
 "l0": false,
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "note": "Stringfield acknowledges CUFOS cooperation in Status Report VII and records consulting its scientific director on 6 November 1993 about the Roswell body count.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -114,7 +117,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -124,10 +128,13 @@
 "direction": "in",
 "edgeId": "e-673a287189",
 "edgeLabel": "FUFOR funded Stringfield's later Status Reports",
+"family": null,
 "id": "fund-for-ufo-research",
 "l0": false,
 "label": "Fund for UFO Research",
 "note": "Stringfield names the Fund for UFO Research first in the Status Report VII acknowledgements, thanking it for past funding.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -136,7 +143,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -146,10 +154,13 @@
 "direction": "out",
 "edgeId": "e-8dfef71261",
 "edgeLabel": "Randle's case-by-case surveys audit Stringfield's corpus",
+"family": null,
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -158,7 +169,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -168,10 +180,13 @@
 "direction": "out",
 "edgeId": "e-f390ae24fb",
 "edgeLabel": "MUFON symposium platform and publisher for Reports I and II",
+"family": null,
 "id": "mufon",
 "l0": false,
 "label": "Mutual UFO Network (MUFON)",
 "note": "Report I was delivered at the ninth annual MUFON Symposium in Dayton on 29 July 1978; Report II was published by MUFON in January 1980. Stringfield served as MUFON's director of public relations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -180,7 +195,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -190,10 +206,13 @@
 "direction": "out",
 "edgeId": "e-574a5fe3bd",
 "edgeLabel": "Authored the seven-part Status Report series",
+"family": null,
 "id": "stringfield-status-reports",
 "l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "Stringfield wrote and self-published or placed all seven Status Reports between July 1978 and February 1994. Title and copyright pages of the original printings attest authorship, dates and, for Report VI, the Cincinnati imprint.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -202,7 +221,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "1994-12-18",

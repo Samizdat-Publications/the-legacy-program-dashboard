@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-e40bf2c59d",
 "edgeLabel": "Author of the May 2026 demand for the 1952 'flying saucer talk' recording",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Announced 15 May 2026; Lincoln Laboratory's attorneys agreed to comply within 30 days.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-16",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -51,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-f4e7280b62",
 "edgeLabel": "Extracted an acknowledgment of existence and an agreement to produce from an FFRDC",
+"family": null,
 "id": "mit-lincoln-laboratory",
 "l0": false,
 "label": "MIT Lincoln Laboratory",
 "note": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available - the first documented FFRDC production commitment in response to a UAP congressional demand.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-06-29",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

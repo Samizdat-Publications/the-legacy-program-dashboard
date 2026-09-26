@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-c72c263707",
 "edgeLabel": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
+"family": null,
 "id": "arv-fluxliner",
 "l0": true,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -70,7 +73,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -80,10 +84,13 @@
 "direction": "out",
 "edgeId": "e-0cc477250c",
 "edgeLabel": "Hosts his coroner's file and publishes a reconstruction built from his talks",
+"family": null,
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -107,10 +115,13 @@
 "direction": "in",
 "edgeId": "e-1385f404f0",
 "edgeLabel": "The only opened copy of the notes is the scan that site hosts",
+"family": null,
 "id": "scott-sorensen-notes-1990",
 "l0": false,
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1990-12-11",
@@ -124,7 +135,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -134,10 +146,13 @@
 "direction": "out",
 "edgeId": "e-d651ca6910",
 "edgeLabel": "ARVP carries a TR-3B page and routes its readers to the Fouche file",
+"family": null,
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -146,7 +161,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

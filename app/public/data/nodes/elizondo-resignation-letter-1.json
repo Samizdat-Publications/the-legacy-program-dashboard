@@ -23,10 +23,13 @@
 "direction": "out",
 "edgeId": "e-69d298fb63",
 "edgeLabel": "Submitted to his supervising official, hand-delivered",
+"family": null,
 "id": "john-garrity",
 "l0": false,
 "label": "John Garrity",
 "note": "Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels; The Black Vault identifies the recipient as John Garrity.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -45,10 +49,13 @@
 "direction": "in",
 "edgeId": "e-113c095695",
 "edgeLabel": "Author, 3 October 2017",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Establishes his exact title and departure date in his own words on Departmental paper.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -57,7 +64,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -67,10 +75,13 @@
 "direction": "out",
 "edgeId": "e-7dc72d0a13",
 "edgeLabel": "Seven days from resignation effective date to corporate launch",
+"family": null,
 "id": "ttsa-launch-2017",
 "l0": false,
 "label": "To The Stars Academy public launch, 11 October 2017",
 "note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -84,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "coords": null,

@@ -125,10 +125,13 @@
 "direction": "in",
 "edgeId": "e-31dbd9c0c5",
 "edgeLabel": "1 April 2026 letter demanding AARO's video holdings",
+"family": null,
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna wrote to the Secretary of War seeking AARO's UAP video after the September 2025 testimony; the first PURSUE tranche with 29 sensor videos followed five weeks later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -142,7 +145,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -152,10 +156,13 @@
 "direction": "in",
 "edgeId": "e-8040878d4d",
 "edgeLabel": "1 April 2026 letter demanding AARO's UAP video holdings",
+"family": null,
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna wrote to the Secretary of War for video files held by AARO after September 2025 witnesses told the Task Force AARO held additional records; the PURSUE releases followed within five weeks.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-04-01",
@@ -174,7 +181,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -184,10 +192,13 @@
 "direction": "out",
 "edgeId": "e-91af0f2574",
 "edgeLabel": "Releasing authority; signed transparency statement on the portal",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-07",
@@ -201,7 +212,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -211,10 +223,13 @@
 "direction": "out",
 "edgeId": "e-dfd399cc1a",
 "edgeLabel": "Named implementer; called it 'that executive order'",
+"family": null,
 "id": "trump-uap-release-directive-2026",
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-25",
@@ -228,7 +243,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "date": "2026-05-08",

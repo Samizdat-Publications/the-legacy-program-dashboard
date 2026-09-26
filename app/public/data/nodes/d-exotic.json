@@ -54,10 +54,13 @@
 "direction": "in",
 "edgeId": "e-23b888d776",
 "edgeLabel": "The origin document of the field's metric-engineering claims",
+"family": null,
 "id": "alcubierre-1994",
 "l0": false,
 "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
 "note": "THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word 'device' appears zero times in ten pages.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1994",
@@ -66,7 +69,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -76,10 +80,13 @@
 "direction": "in",
 "edgeId": "e-fdd5e298e1",
 "edgeLabel": "Tasking reveals expectation",
+"family": null,
 "id": "d-program",
 "l0": false,
 "label": "Program Structure & Management",
 "note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2008-08-22",
@@ -88,7 +95,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -98,10 +106,13 @@
 "direction": "out",
 "edgeId": "e-e51342ce2c",
 "edgeLabel": "Field physics is the propulsion answer",
+"family": null,
 "id": "d-prop",
 "l0": false,
 "label": "Propulsion & Field Physics",
 "note": "DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2008-08-22",
@@ -110,7 +121,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -120,10 +132,13 @@
 "direction": "in",
 "edgeId": "e-4ae4877705",
 "edgeLabel": "subject domain: zero-point/vacuum energy extraction",
+"family": null,
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -142,7 +157,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -152,10 +168,13 @@
 "direction": "in",
 "edgeId": "e-4541926bd7",
 "edgeLabel": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
+"family": null,
 "id": "george-hathaway",
 "l0": false,
 "label": "George D. Hathaway",
 "note": "THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -169,7 +188,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -179,10 +199,13 @@
 "direction": "in",
 "edgeId": "e-99452bcd03",
 "edgeLabel": "In the strand because of what was claimed for it, not because of what is in it",
+"family": null,
 "id": "king-patent-mhd",
 "l0": false,
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "note": "THE PATENT ITSELF IS NOT EXOTIC. It is a linear induction motor using ionised air as its armature, which is classical electromagnetism. It sits in this domain solely because it was cited as evidence for scalar physics, and the strand's product is the gap between the citation and the document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1967-05-30",
@@ -191,7 +214,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -201,10 +225,13 @@
 "direction": "in",
 "edgeId": "e-c0690fe47e",
 "edgeLabel": "The domain's best single published adjudication",
+"family": null,
 "id": "millis-tm-2004-213082",
 "l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2004",
@@ -213,7 +240,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

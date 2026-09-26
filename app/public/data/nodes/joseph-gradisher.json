@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-2cfec3a7e7",
 "edgeLabel": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
+"family": null,
 "id": "dd-form-1910-2017",
 "l0": false,
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-10",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-315bcc4b6b",
 "edgeLabel": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
+"family": null,
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "The single most consequential official concession of the period, made by a named service spokesman.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-09-10",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2019-09-10",

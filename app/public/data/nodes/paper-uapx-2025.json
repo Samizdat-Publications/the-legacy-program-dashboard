@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-3f23a72242",
 "edgeLabel": "Co-author of the UAPx field-expedition results",
+"family": null,
 "id": "cecilia-levy",
 "l0": false,
 "label": "Cecilia Levy",
 "note": "Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-04",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -45,10 +49,13 @@
 "direction": "in",
 "edgeId": "e-aa57215d9a",
 "edgeLabel": "First peer-reviewed UAP field-expedition results",
+"family": null,
 "id": "uapx",
 "l0": false,
 "label": "UAPx",
 "note": "Progress in Aerospace Sciences 156:101099, June 2025 - a published field protocol against which any future government sensor release can be compared.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-01",
@@ -57,7 +64,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -67,10 +75,13 @@
 "direction": "in",
 "edgeId": "e-2e75fc55f4",
 "edgeLabel": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
+"family": null,
 "id": "university-at-albany",
 "l0": false,
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-04",
@@ -84,7 +95,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

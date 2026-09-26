@@ -77,10 +77,13 @@
 "direction": "out",
 "edgeId": "e-09d5295695",
 "edgeLabel": "Directed Los Alamos before the NRO and ODNI",
+"family": null,
 "id": "lanl",
 "l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-11-06",
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "out",
 "edgeId": "e-48f682bb07",
 "edgeLabel": "Chairman of MITRE's Board of Trustees from November 2018",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-11-06",
@@ -111,7 +118,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2018-11-06",

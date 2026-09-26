@@ -161,10 +161,13 @@
 "direction": "out",
 "edgeId": "e-30efca383e",
 "edgeLabel": "carries the first enacted funding limitation aimed at unreported UAP activity",
+"family": null,
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "Beyond the Subtitle C records collection, P.L. 118-31 carries funding-side provisions that bar the obligation of funds for UAP activity protected under special or restricted access that has not been disclosed to the congressional committees, and bar charging UAP-related independent research and development as an allowable indirect contract expense. Congress legislating on the funding channel is the strongest available evidence that the channel is real.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -183,7 +186,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -193,10 +197,13 @@
 "direction": "out",
 "edgeId": "e-56487b35e7",
 "edgeLabel": "P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted",
+"family": null,
 "id": "d-legislation",
 "l0": false,
 "label": "Enacted Statute",
 "note": "What survived conference from the Senate-passed disclosure title was a records collection at NARA, a duty to transmit and a postponement regime, without the Review Board or the eminent domain provision. NARA's published guidance to federal agencies implementing the collection is the observable proof that this part is law and operating.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -210,7 +217,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -220,10 +228,13 @@
 "direction": "in",
 "edgeId": "e-05db531f09",
 "edgeLabel": "enacted as Division G of the FY2024 NDAA",
+"family": null,
 "id": "iaa-2024",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "note": "The enacted law carries the heading 'DIVISION G--INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2024' inside the National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31, enacted 22 December 2023. The intelligence authorisation is not a separate statute that year; it rides the defence bill, which is why its UAP sections are numbered in the 7000s while the NDAA's own UAP records sections are 1841 to 1843.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -242,7 +253,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -252,10 +264,13 @@
 "direction": "in",
 "edgeId": "e-df8cd95edb",
 "edgeLabel": "Sponsor of S. 2226 and Senate conference principal",
+"family": null,
 "id": "jack-reed",
 "l0": false,
 "label": "John F. Reed",
 "note": "Reed introduced the vehicle on 11 July 2023 and signed the conference product that removed his own chamber's passed division.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-11",
@@ -269,7 +284,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -279,10 +295,13 @@
 "direction": "out",
 "edgeId": "e-b5692c7540",
 "edgeLabel": "The records collection reaches government-funded contractor-held records",
+"family": null,
 "id": "leidos",
 "l0": false,
 "label": "Leidos Holdings, Inc.",
 "note": "Sec. 1841 defines the collection as record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence - a formulation that reaches services primes holding classified records under contract. No accounting of contractor holdings has been made.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -296,7 +315,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -306,10 +326,13 @@
 "direction": "in",
 "edgeId": "e-5dcddccee4",
 "edgeLabel": "Collection created by sections 1841-1843 of the FY2024 NDAA",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -328,7 +351,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -338,10 +362,13 @@
 "direction": "in",
 "edgeId": "e-b422b73fa9",
 "edgeLabel": "Sec. 1841 defines UAP by cross-reference to 50 U.S.C. 3373",
+"family": null,
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "The enacted collection statute borrows its definition from Gillibrand's section, but miscites it as 'section 1673(n)(8) of the NDAA for Fiscal Year 2022 (Public Law 117-81)' — conflating two different Acts.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -355,7 +382,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -365,10 +393,13 @@
 "direction": "out",
 "edgeId": "e-fa4984d59d",
 "edgeLabel": "Sec. 1687 is the enacted funding bar on undisclosed UAP SAPs",
+"family": null,
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "The only enacted provision that conditions money on disclosure of special access UAP activity, including the independent research and development indirect-cost bar.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -377,7 +408,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -387,10 +419,13 @@
 "direction": "in",
 "edgeId": "e-354f6b405e",
 "edgeLabel": "reduced to secs. 1841-1843 in conference",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Public Law 118-31 contains no eminent domain clause, no Review Board and no contractor inspection authority. Congress asserted jurisdiction over the paper and left the objects where they are.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -409,7 +444,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -419,10 +455,13 @@
 "direction": "in",
 "edgeId": "e-d7142c396c",
 "edgeLabel": "Restores the enforcement architecture stripped from the FY2024 sections",
+"family": null,
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "Sections 1841-1843 created a records collection without a review board, subpoena power or contractor reach; the 2026 amendment reintroduces all three.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-07-23",
@@ -436,7 +475,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -446,10 +486,13 @@
 "direction": "in",
 "edgeId": "e-f1224ef375",
 "edgeLabel": "No enacted statute contains the eminent domain language",
+"family": null,
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
 "label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -468,7 +511,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

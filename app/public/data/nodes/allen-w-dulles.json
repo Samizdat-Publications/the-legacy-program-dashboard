@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-7e6b2c74b5",
 "edgeLabel": "Served as deputy to the Director of Central Intelligence",
+"family": null,
 "id": "charles-p-cabell",
 "l0": false,
 "label": "Gen. Charles P. Cabell",
 "note": "Cabell's DDCI service from 1953 runs alongside the board's Dulles node; the deputy relationship is the office, and no shared action is asserted here.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-03",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-e3b6e1564e",
 "edgeLabel": "Director of Central Intelligence, signing as Director on Office of the Director paper",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "All three 13 March 1953 letters are on Central Intelligence Agency, Office of the Director letterhead and are signed 'Allen W. Dulles, Director'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-03-13",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -97,10 +105,13 @@
 "direction": "in",
 "edgeId": "e-b1e99a1544",
 "edgeLabel": "Corresponded with the Director of Central Intelligence",
+"family": null,
 "id": "glenn-t-seaborg",
 "l0": false,
 "label": "Glenn T. Seaborg",
 "note": "Dulles thanks him for a report on a Vienna conference and says he is circulating it inside the Agency. The edge records a documented channel between the AEC chair and the DCI, which is the board's own structural claim in miniature.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1970-06-01",
@@ -109,7 +120,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -119,10 +131,13 @@
 "direction": "out",
 "edgeId": "e-6d5a02a3cd",
 "edgeLabel": "Authorized MKULTRA as DCI, 13 April 1953",
+"family": null,
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -131,7 +146,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -141,10 +157,13 @@
 "direction": "out",
 "edgeId": "e-69e7342db5",
 "edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+"family": null,
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-03-13",
@@ -153,7 +172,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -163,10 +183,13 @@
 "direction": "out",
 "edgeId": "e-de001fedf7",
 "edgeLabel": "Succeeded him as DCI and attributed the panel to him in writing",
+"family": null,
 "id": "walter-bedell-smith",
 "l0": false,
 "label": "Walter Bedell Smith",
 "note": "Dulles's own letters name General Smith as the officer at whose direction the panel was convened, which is the Agency's contemporaneous account of the handover of the file.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-03-13",
@@ -175,7 +198,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1953-03-13",

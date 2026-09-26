@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-1d6f6f2abf",
 "edgeLabel": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
+"family": null,
 "id": "church-committee",
 "l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The report states the resolution, the date and the mandate in its own opening section.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-1e22bff68a",
 "edgeLabel": "Created by sections 1841-1843 of Public Law 118-31",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The collection is the surviving remnant of the Schumer-Rounds UAP Disclosure Act after the review board and eminent domain provisions were removed in conference.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "out",
 "edgeId": "e-afe1bfa439",
 "edgeLabel": "Committee of jurisdiction for DoD special access program reporting",
+"family": null,
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "SASC is one of the four defense committees to which 10 U.S.C. 119 reporting runs, and one of the two whose chairman and ranking member receive waived-SAP notification.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -101,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-316903ec94",
 "edgeLabel": "Committee of jurisdiction for intelligence community programs",
+"family": null,
 "id": "senate-intelligence",
 "l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -113,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

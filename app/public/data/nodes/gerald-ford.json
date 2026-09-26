@@ -74,10 +74,13 @@
 "direction": "out",
 "edgeId": "e-b66096a57c",
 "edgeLabel": "Signed Private Law 94-126, 12 October 1976",
+"family": null,
 "id": "frank-olson-death-1953",
 "l0": false,
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "Ford signed S. 3035 paying the widow and three children $187,500 each in full settlement, and said his administration had supported $1,250,000 and would support further relief legislation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-10-12",
@@ -86,7 +89,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -96,10 +100,13 @@
 "direction": "out",
 "edgeId": "e-15a76806cb",
 "edgeLabel": "Ford forced the first congressional hearing on the subject",
+"family": null,
 "id": "hearing-1966-04-05",
 "l0": false,
 "label": "House Armed Services Committee UFO Hearing",
 "note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -113,7 +120,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "date": "1966-03-28",

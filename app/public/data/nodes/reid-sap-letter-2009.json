@@ -77,10 +77,13 @@
 "direction": "out",
 "edgeId": "e-5b7e801cb4",
 "edgeLabel": "DIA finds insufficient grounds to classify",
+"family": null,
 "id": "dia-sap-denial-memo-2009",
 "l0": false,
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "note": "DIA's 13 November 2009 answer evaluates only the written deliverables and never addresses the field investigation, database or human-effects work the same contract funded.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-13",
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "out",
 "edgeId": "e-48f3c92670",
 "edgeLabel": "",
+"family": null,
 "id": "dia-sap-denial-memo-2009",
 "l0": false,
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "note": "The request and the refusal. Reid's 24 June 2009 letter asked for a restricted SAP; DIA Info Memo U-09-2660 of 13 November 2009 is the answer - 'DIA cannot find adequate justification to establish' it. DIA Info Memo U-10-2552 then records that Deputy Secretary Lynn and the Director met Senator Reid in November 2009 to discuss it. A documented request, a documented denial, and a documented meeting between them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-13",
@@ -116,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -126,10 +134,13 @@
 "direction": "out",
 "edgeId": "e-0bab4b414d",
 "edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
+"family": null,
 "id": "dia-sap-denial-memo-2009",
 "l0": false,
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -138,7 +149,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -148,10 +160,13 @@
 "direction": "in",
 "edgeId": "e-762c140395",
 "edgeLabel": "authored the Restricted SAP request",
+"family": null,
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-06-24",
@@ -160,7 +175,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -170,10 +186,13 @@
 "direction": "in",
 "edgeId": "e-ba5ac7f247",
 "edgeLabel": "",
+"family": null,
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-06-24",
@@ -187,7 +206,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -197,10 +217,13 @@
 "direction": "in",
 "edgeId": "e-3b963a9bed",
 "edgeLabel": "signed 24 June 2009",
+"family": null,
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -209,7 +232,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -219,10 +243,13 @@
 "direction": "in",
 "edgeId": "e-6cfabd6094",
 "edgeLabel": "second attempt at the protection Reid was refused",
+"family": null,
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "Reid asked DoD for a restricted SAP over engineering of advanced technologies in 2009 and was refused; two years later the same circle proposed a recovery-and-exploitation SAP at DHS instead.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -236,7 +263,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -246,10 +274,13 @@
 "direction": "in",
 "edgeId": "e-39e97fde8b",
 "edgeLabel": "authenticated the letter, denied its significance",
+"family": null,
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-06-13",
@@ -258,7 +289,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -268,10 +300,13 @@
 "direction": "out",
 "edgeId": "e-c1c36621c4",
 "edgeLabel": "addressed to the Deputy Secretary of Defense",
+"family": null,
 "id": "william-lynn",
 "l0": false,
 "label": "William J. Lynn III",
 "note": "Lynn was the decision authority; he received the request in June and delivered the refusal in person in November.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-06-24",
@@ -280,7 +315,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

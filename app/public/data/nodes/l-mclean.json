@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-eb1e357ad6",
 "edgeLabel": "headquartered at 1501 BDM Way, McLean, Virginia",
+"family": null,
 "id": "bdm-international",
 "l0": false,
 "label": "BDM International, Inc.",
 "note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1996-03-12",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -45,10 +49,13 @@
 "direction": "out",
 "edgeId": "e-27a0d725a6",
 "edgeLabel": "CIA headquarters at Langley, within McLean",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Congress fixed this in statute. Public Law 105-272 sec. 309 provides that 'the headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the George Bush Center for Intelligence'. Langley is a neighbourhood of McLean in Fairfax County, and is a different place from Langley Air Force Base at Hampton, Virginia.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-10-20",
@@ -62,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -72,10 +80,13 @@
 "direction": "out",
 "edgeId": "e-ff40ec3b5c",
 "edgeLabel": "MITRE McLean headquarters campus",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE names McLean, Virginia as one of its two principal locations, with four buildings on Colshire Drive. McLean is where the defence and intelligence FFRDC work sits: the NSF master list registers the National Security Engineering Center, the Center for Advanced Aviation System Development, the Center for Enterprise Modernization and HSSEDI at McLean.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-25",
@@ -94,7 +105,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -104,10 +116,13 @@
 "direction": "out",
 "edgeId": "e-a738d5fed7",
 "edgeLabel": "ODNI headquarters at Liberty Crossing",
+"family": null,
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "The Liberty Crossing intelligence campus, which houses ODNI alongside the National Counterterrorism Center, is in McLean, Virginia: an official federal record titles the President's 27 July 2021 remarks there 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia' - the misspelling is the record's own. That record fixes where the campus is; it does not itself designate ODNI's headquarters, which is why this is tier 2.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-07-27",
@@ -121,7 +136,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": null,

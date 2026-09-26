@@ -98,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-1b634c1982",
 "edgeLabel": "The project engineer's published rebuttal of the UFO reading of the event",
+"family": null,
 "id": "doc-si-big-sur-1993",
 "l0": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -110,7 +113,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -120,10 +124,13 @@
 "direction": "in",
 "edgeId": "e-942134b4c4",
 "edgeLabel": "Major present at the Big Sur site; Jacobs's corroborating witness",
+"family": null,
 "id": "florenz-mansmann",
 "l0": false,
 "label": "Maj. Florenz J. Mansmann",
 "note": "Tier 1 for his presence, which is established by the project engineer's own published photograph caption, and Tier 2 for what he later wrote to researchers. THE BOARD HAS BEEN ATTRIBUTING HIS LETTERS TO THE WRONG MAN AND THE WRONG EVENT; see research/leads/nuclear-corrections-2026-09-19.json.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -137,7 +144,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -147,10 +155,13 @@
 "direction": "in",
 "edgeId": "e-409e908da2",
 "edgeLabel": "Project engineer for the deployment",
+"family": null,
 "id": "kingston-george",
 "l0": false,
 "label": "Kingston A. George",
 "note": "His own opening line: 'I was the project engineer for these experiments.' He supplies the dates, the instrument, the launch name, the photographs and a contemporaneous 13 October 1964 staff study cited by title.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -159,7 +170,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -169,10 +181,13 @@
 "direction": "out",
 "edgeId": "e-bf85476ac3",
 "edgeLabel": "Coverage of Vandenberg launches from a site about 100 miles north",
+"family": null,
 "id": "l-vandenberg",
 "l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "The Big Sur site gave a side-look at launches into the Western Test Range that local telephoto coverage at Vandenberg could not, because of prevailing fog.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -181,7 +196,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -191,10 +207,13 @@
 "direction": "in",
 "edgeId": "e-d08040f885",
 "edgeLabel": "On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print",
+"family": null,
 "id": "robert-jacobs",
 "l0": false,
 "label": "Robert M. Jacobs",
 "note": "THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1989-01",
@@ -208,7 +227,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -218,10 +238,13 @@
 "direction": "out",
 "edgeId": "e-994d01feb7",
 "edgeLabel": "An Air Force telescope deployment covering Air Force Western Test Range launches",
+"family": null,
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "Instrument owned by the Range Measurements Laboratory of the Air Force Eastern Test Range; nine of eleven Vandenberg launches covered; the resulting film classified Top Secret on a weapons-vulnerability rationale and later destroyed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -230,7 +253,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

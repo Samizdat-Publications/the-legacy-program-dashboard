@@ -55,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-8271ddbd37",
 "edgeLabel": "The AF Form 77a is page 3 of the compilation",
+"family": null,
 "id": "fouche-military-documents",
 "l0": false,
 "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
 "note": "INTENT: CONTAINMENT. The board has no contains edge type, so this is built as custody, document to document, which is genuine containment custody and does not inflate any person.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2014-06-15",
@@ -67,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -77,10 +81,13 @@
 "direction": "out",
 "edgeId": "e-20cf9eea3a",
 "edgeLabel": "Records temporary duty to AFFTC Detachment 3, the unit operating Groom Lake, 1 June to 14 August 1979",
+"family": null,
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "TIER 2 IS THE CEILING AND HERE IS WHY. The form itself says 'AFFTC-DET 3, Nellis AF Range', which is Tier 1. The identification of DET 3 AFFTC with Groom Lake rests on Peter Merlin's own published site and not on any primary Air Force unit history, organisational chart or FOIA release opened by this research. The weaker link sets the tier.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1979-08-24",
@@ -94,7 +101,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -104,10 +112,13 @@
 "direction": "in",
 "edgeId": "e-876abf1b8d",
 "edgeLabel": "His own published work is what establishes what AFFTC Detachment 3 is",
+"family": null,
 "id": "peter-merlin",
 "l0": false,
 "label": "Peter W. Merlin",
 "note": "THIS EDGE IS THE INVERSE OF THE TWO ABOVE AND IS BUILT SEPARATELY ON PURPOSE. The same historian whose analysis demolishes most of Fouche's account is the reference source that makes Fouche's single best document mean something: 'Since the late 1970s, the Groom Lake facility has been operated by Detachment 3 of the Air Force Flight Test Center.' He is on both sides of this file and the graph should show it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -116,7 +127,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

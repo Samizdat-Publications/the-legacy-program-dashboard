@@ -59,10 +59,13 @@
 "direction": "out",
 "edgeId": "e-20f97512a9",
 "edgeLabel": "ISOO advises the working group that produces the marking standard",
+"family": null,
 "id": "isoo",
 "l0": false,
 "label": "Information Security Oversight Office",
 "note": "The CAPCO Register v5.1 lists NARA/Information Security Oversight Office among the IC Classification Markings Implementation Working Group advisors.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2012-03-30",
@@ -71,7 +74,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -81,10 +85,13 @@
 "direction": "in",
 "edgeId": "e-f73422cd2e",
 "edgeLabel": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
+"family": null,
 "id": "odni-capco",
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "The IC Authorized Classification and Control Markings Register and Manual v5.1 is issued by the Controlled Access Program Coordination Office, Washington DC 20511.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -98,7 +105,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -108,10 +116,13 @@
 "direction": "out",
 "edgeId": "e-d6bdae4a26",
 "edgeLabel": "",
+"family": null,
 "id": "odni-capco",
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "The register exists because the directive orders this office to keep it. ICD 906 D.9.b requires CAPCO to 'Manage a CAP Registry that maintains a list of all control systems', and E.4 restates the duty to 'Maintain the CAP Registry, a list of all control systems'. The office is the custodian, not merely the publisher.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -125,7 +136,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -135,10 +147,13 @@
 "direction": "out",
 "edgeId": "e-53d66f00fb",
 "edgeLabel": "Gives special access programs their own marking category in the banner line",
+"family": null,
 "id": "sap-taxonomy",
 "l0": false,
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "CAPCO Register v5.1 moved the Special Access Required marking into a new Special Access Program Markings category following the SCI control markings, with the indicator 'SPECIAL ACCESS REQUIRED-' or 'SAR-'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2012-03-30",
@@ -147,7 +162,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

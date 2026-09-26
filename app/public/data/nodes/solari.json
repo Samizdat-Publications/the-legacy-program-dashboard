@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-587347e0ce",
 "edgeLabel": "Founder and president",
+"family": null,
 "id": "catherine-austin-fitts",
 "l0": false,
 "label": "Catherine Austin Fitts",
 "note": "Fitts is founder and president of Solari, Inc., publisher of the Solari Report and the Missing Money archive. Attested by Solari's own biography page.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

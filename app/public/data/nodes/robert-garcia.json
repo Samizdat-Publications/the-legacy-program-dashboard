@@ -77,10 +77,13 @@
 "direction": "out",
 "edgeId": "e-7272153b37",
 "edgeLabel": "Elicited the 40-witnesses-over-4-years answer and the protected disclosure chain",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Garcia's questioning established that Grusch had the firsthand-knowledge individuals file their own protected disclosures with the Inspector General - the fact that makes the witness chain more than hearsay.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "out",
 "edgeId": "e-9e8c3cf991",
 "edgeLabel": "Ranking Member at the 2023 hearing",
+"family": null,
 "id": "hoc-subcommittee-national-security",
 "l0": false,
 "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
 "note": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -111,7 +118,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -121,10 +129,13 @@
 "direction": "out",
 "edgeId": "e-5eac3debc5",
 "edgeLabel": "Ranking Member of the full committee from 2025",
+"family": null,
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -133,7 +144,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -143,10 +155,13 @@
 "direction": "out",
 "edgeId": "e-d83ca4e935",
 "edgeLabel": "Sponsor",
+"family": null,
 "id": "hr-6967-safe-airspace-for-americans-act",
 "l0": false,
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "note": "Introduced 11 January 2024, the day before the ICIG briefing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-11",
@@ -160,7 +175,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "date": "2023-07-26",

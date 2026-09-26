@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-95865c5415",
 "edgeLabel": "Announced the Lincoln Laboratory production at the forum",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Jordan Flowers credited Burlison with shaking the artifact loose: 'He's stopped asking politely.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-06-29",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "coords": null,

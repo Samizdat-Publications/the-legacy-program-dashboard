@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-4e68d81031",
 "edgeLabel": "CUFOS and FUFOR investigated and discredited their own witness",
+"family": null,
 "id": "gerald-anderson",
 "l0": false,
 "label": "Gerald Anderson",
 "note": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-f056e360b1",
 "edgeLabel": "CUFOS cooperated with and advised the Status Report series",
+"family": null,
 "id": "leonard-stringfield",
 "l0": false,
 "label": "Leonard H. Stringfield",
 "note": "Stringfield acknowledges CUFOS cooperation in Status Report VII and records consulting its scientific director on 6 November 1993 about the Roswell body count.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-879eadff2a",
 "edgeLabel": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
+"family": null,
 "id": "nufohrc",
 "l0": false,
 "label": "National UFO Historical Records Center",
 "note": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

@@ -71,10 +71,13 @@
 "direction": "out",
 "edgeId": "e-d194f6627e",
 "edgeLabel": "Confirmed year-on-year increase in detections over installations",
+"family": null,
 "id": "barksdale-2026-incursions",
 "l0": false,
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-25",
@@ -83,7 +86,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -93,10 +97,13 @@
 "direction": "out",
 "edgeId": "e-510cee0e6a",
 "edgeLabel": "Public non-attribution finding by the homeland air defence commander",
+"family": null,
 "id": "langley-2023-incursions",
 "l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-10-30",
@@ -105,7 +112,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -115,10 +123,13 @@
 "direction": "out",
 "edgeId": "e-cf1225c914",
 "edgeLabel": "Commander, NORAD and USNORTHCOM from February 2024",
+"family": null,
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-10-30",
@@ -132,7 +143,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2024-10-30",

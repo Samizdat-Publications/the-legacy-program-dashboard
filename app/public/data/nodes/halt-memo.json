@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-632e51494a",
 "edgeLabel": "Halt authored and signed the 'Unexplained Lights' memorandum",
+"family": null,
 "id": "charles-halt",
 "l0": false,
 "label": "Charles I. Halt",
 "note": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-11-11",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -51,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-46c23b6f8b",
 "edgeLabel": "Released to The Black Vault under DoD FOIA case 97-F-1677",
+"family": null,
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "The Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office released the memo in September 1997 under case 97-F-1677.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-11-11",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -73,10 +81,13 @@
 "direction": "out",
 "edgeId": "e-a59a07bb03",
 "edgeLabel": "The memo is the primary official record of the incident",
+"family": null,
 "id": "rendlesham-1980",
 "l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-11-11",
@@ -90,7 +101,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

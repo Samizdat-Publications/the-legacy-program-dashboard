@@ -80,10 +80,13 @@
 "direction": "in",
 "edgeId": "e-72e51bc619",
 "edgeLabel": "Corso's Foreign Technology Division chieftaincy falls inside Trudeau's tenure",
+"family": null,
 "id": "arthur-g-trudeau",
 "l0": false,
 "label": "Lt. Gen. Arthur G. Trudeau",
 "note": "Corso's DA Form 66 places his Foreign Technology Division chieftaincy, 18 April to 18 July 1962, inside Trudeau's documented tenure as Chief of Research and Development.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1962-03-12",
@@ -92,7 +95,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -102,10 +106,13 @@
 "direction": "out",
 "edgeId": "e-637132b95a",
 "edgeLabel": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
+"family": null,
 "id": "l-dc",
 "l0": false,
 "label": "Washington, D.C.",
 "note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-04-01",
@@ -114,7 +121,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "date": "1962-04-18",

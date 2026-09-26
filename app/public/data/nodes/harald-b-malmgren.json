@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-cd0fae33a2",
 "edgeLabel": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
+"family": null,
 "id": "ida",
 "l0": false,
 "label": "Institute for Defense Analyses",
 "note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-02-24",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -72,10 +76,13 @@
 "direction": "out",
 "edgeId": "e-725c11436a",
 "edgeLabel": "Named as the cause of the December 1962 presidential visit",
+"family": null,
 "id": "l-los-alamos",
 "l0": false,
 "label": "Los Alamos, New Mexico",
 "note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1962-12-07",
@@ -89,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "date": "2025-02-13",

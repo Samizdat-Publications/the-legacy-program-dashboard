@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-ca88b7c301",
 "edgeLabel": "Named as a panel member inside the disputed document",
+"family": null,
 "id": "mj-12-documents",
 "l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Bronk is named as an MJ-12 member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED and again by the host in a separate episode. No record opened for this node connects him to the subject; his offices are the reason he is on the board.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "date": "1954-10-22",

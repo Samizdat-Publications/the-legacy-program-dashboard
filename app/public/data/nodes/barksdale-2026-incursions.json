@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-d194f6627e",
 "edgeLabel": "Confirmed year-on-year increase in detections over installations",
+"family": null,
 "id": "gregory-guillot",
 "l0": false,
 "label": "Gregory M. Guillot",
 "note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-25",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -69,10 +73,13 @@
 "direction": "in",
 "edgeId": "e-baa1666c7f",
 "edgeLabel": "The 2026 bomber-base incursions are the task force's live problem",
+"family": null,
 "id": "jiatf-401",
 "l0": false,
 "label": "Joint Interagency Task Force 401 (JIATF-401)",
 "note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-25",
@@ -86,7 +93,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -96,10 +104,13 @@
 "direction": "out",
 "edgeId": "e-f269ae85ea",
 "edgeLabel": "Site of the March 2026 incursion waves and FPCON Charlie alert",
+"family": null,
 "id": "l-barksdale",
 "l0": false,
 "label": "Barksdale Air Force Base, Louisiana",
 "note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-09",
@@ -113,7 +124,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

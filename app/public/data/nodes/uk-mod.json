@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-2c17e6bb88",
 "edgeLabel": "Not informed at the time, and no threat to the UK",
+"family": null,
 "id": "belgian-af-f16-intercept-1990",
 "l0": false,
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-08-17",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -51,10 +55,13 @@
 "direction": "in",
 "edgeId": "e-011ee4dad4",
 "edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
+"family": null,
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -73,10 +81,13 @@
 "direction": "in",
 "edgeId": "e-a396398a21",
 "edgeLabel": "Ministry of Defence imagery-intelligence unit with Operations Record Books at Kew, 1950-1992",
+"family": null,
 "id": "jaric",
 "l0": false,
 "label": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
 "note": "The unit's Operations Record Books are catalogued in the Air Ministry and Ministry of Defence series AIR 29, from RAF Nuneham Park in 1950 to RAF Brampton in 1992, with a separate administrative history at AIR 14/4103.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -85,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -95,10 +107,13 @@
 "direction": "in",
 "edgeId": "e-4aa285b57a",
 "edgeLabel": "first British body on the question, 1950-1951",
+"family": null,
 "id": "uk-fs-working-party",
 "l0": false,
 "label": "Flying Saucer Working Party (UK)",
 "note": "The Flying Saucer Working Party precedes the UFO desk and reached the same self-terminating conclusion Condign would reach fifty years later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-19",
@@ -107,7 +122,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "coords": null,

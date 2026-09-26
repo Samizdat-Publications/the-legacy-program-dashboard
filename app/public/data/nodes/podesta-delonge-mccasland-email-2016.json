@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-153ea784dc",
 "edgeLabel": "A second named correspondent inside the same release, read with raw headers",
+"family": null,
 "id": "bob-fish",
 "l0": false,
 "label": "Bob Fish",
 "note": "Same release and same instrument: a second named correspondent inside the Podesta Emails, read with raw headers.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2015-03-06",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-14448fc00e",
 "edgeLabel": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
+"family": null,
 "id": "john-podesta",
 "l0": false,
 "label": "John D. Podesta",
 "note": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-01-25",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -97,10 +105,13 @@
 "direction": "out",
 "edgeId": "e-2ed1625018",
 "edgeLabel": "DeLonge's written assertion that the Roswell material went to the Wright-Patterson laboratory",
+"family": null,
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "The email asserts to Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base' and that the general ran that laboratory until a couple of years earlier. The record establishes that DeLonge asserted this in writing in January 2016, not that it happened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-01-25",
@@ -109,7 +120,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -119,10 +131,13 @@
 "direction": "out",
 "edgeId": "e-09a73a6e36",
 "edgeLabel": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
+"family": null,
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-02-22",
@@ -131,7 +146,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -141,10 +157,13 @@
 "direction": "out",
 "edgeId": "e-1c18092b07",
 "edgeLabel": "Author of the email and of the surrounding correspondence",
+"family": null,
 "id": "tom-delonge",
 "l0": false,
 "label": "Thomas Matthew DeLonge",
 "note": "Thirteen emails in the Podesta release were sent from t.delonge@me.com, including this one, signed Tom DeLonge, Founder, To The Stars Media.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-01-25",
@@ -153,7 +172,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -163,10 +183,13 @@
 "direction": "out",
 "edgeId": "e-3c5256284c",
 "edgeLabel": "Subject of the email and party to the meeting thread, as 'General McCasland' and 'Neil McCasland'",
+"family": null,
 "id": "william-mccasland",
 "l0": false,
 "label": "William Neil McCasland",
 "note": "The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-01-25",
@@ -175,7 +198,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

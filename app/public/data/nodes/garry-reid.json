@@ -63,10 +63,13 @@
 "direction": "in",
 "edgeId": "e-96bd55455b",
 "edgeLabel": "Named respondent; Reid removed from post by April 2022",
+"family": null,
 "id": "elizondo-dodig-complaint-2021",
 "l0": false,
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "note": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-04-13",
@@ -75,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -85,10 +89,13 @@
 "direction": "out",
 "edgeId": "e-81fcba39b6",
 "edgeLabel": "Author of both December 2017 memoranda",
+"family": null,
 "id": "garry-reid-memo-2017",
 "l0": false,
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "note": "Reid wrote the memorandum for record and the memorandum for the Secretary asserting Elizondo 'aggrandized his role'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -107,10 +115,13 @@
 "direction": "in",
 "edgeId": "e-0b688dc499",
 "edgeLabel": "Secretary's office put six questions to Reid about Elizondo, Dec 2017",
+"family": null,
 "id": "james-mattis",
 "l0": false,
 "label": "James N. Mattis",
 "note": "Rather than engaging Elizondo, the Secretary's office tasked the Director for Defense Intelligence to explain him. Reid's answer is the origin of the Department's counter-narrative.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -119,7 +130,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2017-12-23",

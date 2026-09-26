@@ -67,10 +67,13 @@
 "direction": "out",
 "edgeId": "e-4e68d81031",
 "edgeLabel": "CUFOS and FUFOR investigated and discredited their own witness",
+"family": null,
 "id": "cufos",
 "l0": false,
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "note": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -79,7 +82,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -89,10 +93,13 @@
 "direction": "in",
 "edgeId": "e-69b2c6399e",
 "edgeLabel": "FUFOR co-authored the report against its own first-hand witness",
+"family": null,
 "id": "fund-for-ufo-research",
 "l0": false,
 "label": "Fund for UFO Research",
 "note": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -101,7 +108,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -111,10 +119,13 @@
 "direction": "out",
 "edgeId": "e-8c895f37ef",
 "edgeLabel": "Sole claimed first-hand witness to the San Agustin site",
+"family": null,
 "id": "plains-san-agustin-1947",
 "l0": false,
 "label": "Plains of San Agustin claim, July 1947",
 "note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -123,7 +134,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "1990",

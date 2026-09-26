@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-6d5a02a3cd",
 "edgeLabel": "Authorized MKULTRA as DCI, 13 April 1953",
+"family": null,
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "in",
 "edgeId": "e-6f05b81bb7",
 "edgeLabel": "Investigated MKULTRA in 1975 without the finance file",
+"family": null,
 "id": "church-committee",
 "l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -97,10 +105,13 @@
 "direction": "out",
 "edgeId": "e-5f2049d632",
 "edgeLabel": "CIA umbrella project, authorized 1953",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1963-07-26",
@@ -109,7 +120,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -119,10 +131,13 @@
 "direction": "out",
 "edgeId": "e-004efa6509",
 "edgeLabel": "Records destroyed January 1973; a misfiled finance set survived",
+"family": null,
 "id": "d-records",
 "l0": false,
 "label": "Records & Archives",
 "note": "The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -131,7 +146,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -141,10 +157,13 @@
 "direction": "in",
 "edgeId": "e-6a34d78aeb",
 "edgeLabel": "The death that made the cryptonym public",
+"family": null,
 "id": "frank-olson-death-1953",
 "l0": false,
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -153,7 +172,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -163,10 +183,13 @@
 "direction": "in",
 "edgeId": "e-6f72b68362",
 "edgeLabel": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
+"family": null,
 "id": "hearing-2026-06-30",
 "l0": false,
 "label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026",
 "note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -175,7 +198,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -185,10 +209,13 @@
 "direction": "in",
 "edgeId": "e-ecbd1ca66a",
 "edgeLabel": "The FOIA request that caused the recovery of the surviving MKULTRA file",
+"family": null,
 "id": "john-marks-foia-f-76-374",
 "l0": false,
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-06-22",
@@ -197,7 +224,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -207,10 +235,13 @@
 "direction": "in",
 "edgeId": "e-7fcf81429f",
 "edgeLabel": "The 1950 predecessor of the 1953 programme",
+"family": null,
 "id": "project-bluebird",
 "l0": false,
 "label": "Project BLUEBIRD",
 "note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -219,7 +250,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -229,10 +261,13 @@
 "direction": "in",
 "edgeId": "e-8f94d80b28",
 "edgeLabel": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
+"family": null,
 "id": "sidney-gottlieb",
 "l0": false,
 "label": "Sidney Gottlieb",
 "note": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1955-06-28",
@@ -241,7 +276,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

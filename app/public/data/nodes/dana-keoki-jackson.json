@@ -52,10 +52,13 @@
 "direction": "out",
 "edgeId": "e-c98553b2ee",
 "edgeLabel": "Arrived at MITRE from Lockheed Martin's chief technology office",
+"family": null,
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -64,7 +67,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -74,10 +78,13 @@
 "direction": "out",
 "edgeId": "e-b363c2a62a",
 "edgeLabel": "Runs MITRE National Security, the organisation containing NSEC",
+"family": null,
 "id": "mitre-nsec",
 "l0": false,
 "label": "National Security Engineering Center (NSEC)",
 "note": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -86,7 +93,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2026-05-22",

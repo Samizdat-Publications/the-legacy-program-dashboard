@@ -42,10 +42,13 @@
 "direction": "out",
 "edgeId": "e-2d18c036ab",
 "edgeLabel": "NASA announced the UAP research director but withheld the name at the briefing",
+"family": null,
 "id": "mark-mcinerney",
 "l0": false,
 "label": "Mark McInerney",
 "note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-09-14",
@@ -54,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -64,10 +68,13 @@
 "direction": "out",
 "edgeId": "e-f22097be10",
 "edgeLabel": "Announced the appointment of a NASA Director of UAP Research",
+"family": null,
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "In the report foreword Fox, Associate Administrator for the Science Mission Directorate, wrote that 'NASA is appointing a Director of UAP Research to centralize communications'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-09-14",
@@ -76,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +94,13 @@
 "direction": "out",
 "edgeId": "e-db853ade8a",
 "edgeLabel": "NASA science chief at the report release briefing",
+"family": null,
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-09-14",
@@ -98,7 +109,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2023-09-14",

@@ -59,10 +59,13 @@
 "direction": "in",
 "edgeId": "e-bf85476ac3",
 "edgeLabel": "Coverage of Vandenberg launches from a site about 100 miles north",
+"family": null,
 "id": "big-sur-1964",
 "l0": false,
 "label": "Big Sur missile-test filming, September 1964",
 "note": "The Big Sur site gave a side-look at launches into the Western Test Range that local telephoto coverage at Vandenberg could not, because of prevailing fog.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1993",
@@ -71,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -81,10 +85,13 @@
 "direction": "out",
 "edgeId": "e-a60aa183a2",
 "edgeLabel": "The Vandenberg incidents entered the congressional record in September 2025",
+"family": null,
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Nuccetelli named AARO and the FBI as custodians of the official Air Force records for specific dated incidents at a named installation - a checkable custody claim Congress has not pursued to production.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -98,7 +105,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -108,10 +116,13 @@
 "direction": "in",
 "edgeId": "e-cb416a4308",
 "edgeLabel": "Nuccetelli served in security forces at Vandenberg 2003-2005",
+"family": null,
 "id": "jeffrey-nuccetelli",
 "l0": false,
 "label": "Jeffrey Nuccetelli",
 "note": "His sworn written testimony of 9 September 2025 describes the 14 October 2003 red square over two missile defense sites, a rectangular craft larger than a football field, a threatened witness, and a 2005 triangular craft.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -125,7 +136,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -135,10 +147,13 @@
 "direction": "in",
 "edgeId": "e-cfa47aec3b",
 "edgeLabel": "Polar launches were to fly from Vandenberg on the Titan-IIIM",
+"family": null,
 "id": "manned-orbiting-laboratory",
 "l0": false,
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-11",
@@ -147,7 +162,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -157,10 +173,13 @@
 "direction": "in",
 "edgeId": "e-b41ad4bb4b",
 "edgeLabel": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
+"family": null,
 "id": "robert-jacobs",
 "l0": false,
 "label": "Robert M. Jacobs",
 "note": "His own published statement of his post, independently confirmed as to unit and role by the project engineer.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1989-01",
@@ -174,7 +193,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

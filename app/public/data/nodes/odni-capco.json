@@ -59,10 +59,13 @@
 "direction": "out",
 "edgeId": "e-f73422cd2e",
 "edgeLabel": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
+"family": null,
 "id": "capco-register",
 "l0": false,
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
 "note": "The IC Authorized Classification and Control Markings Register and Manual v5.1 is issued by the Controlled Access Program Coordination Office, Washington DC 20511.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +90,13 @@
 "direction": "in",
 "edgeId": "e-d6bdae4a26",
 "edgeLabel": "",
+"family": null,
 "id": "capco-register",
 "l0": false,
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
 "note": "The register exists because the directive orders this office to keep it. ICD 906 D.9.b requires CAPCO to 'Manage a CAP Registry that maintains a list of all control systems', and E.4 restates the duty to 'Maintain the CAP Registry, a list of all control systems'. The office is the custodian, not merely the publisher.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -103,7 +110,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +121,13 @@
 "direction": "in",
 "edgeId": "e-e128df55ba",
 "edgeLabel": "Makes the CAPCO director the accountable official and registry holder",
+"family": null,
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section D.9 designates the Director of ODNI CAPCO as accountable for implementation and requires management of the CAP Registry of all control systems, compartments and sub-compartments.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -125,7 +136,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -135,10 +147,13 @@
 "direction": "in",
 "edgeId": "e-85fbac12e9",
 "edgeLabel": "D.9 makes the CAPCO Director the accountable official",
+"family": null,
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -147,7 +162,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -157,10 +173,13 @@
 "direction": "in",
 "edgeId": "e-98e3e59267",
 "edgeLabel": "",
+"family": null,
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "The directive creates the office's duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -174,7 +193,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -184,10 +204,13 @@
 "direction": "out",
 "edgeId": "e-869f016839",
 "edgeLabel": "ISOO requests about IC controlled access programs are routed through CAPCO",
+"family": null,
 "id": "isoo",
 "l0": false,
 "label": "Information Security Oversight Office",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -196,7 +219,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-d13462e313",
 "edgeLabel": "The ship whose EO/IR system produced the recording",
+"family": null,
 "id": "uss-jackson-2023",
 "l0": false,
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "The footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - precisely the metadata the NASA study team said government UAP holdings lack.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -40,7 +43,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

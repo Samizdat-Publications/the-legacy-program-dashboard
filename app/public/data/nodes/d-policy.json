@@ -36,10 +36,13 @@
 "direction": "out",
 "edgeId": "e-fda7b1a2c4",
 "edgeLabel": "Directives implement classification authority",
+"family": null,
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "DoDD 5205.07 is the directive-layer implementation of authority that derives from executive order rather than statute.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-09-12",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-a2dbbb5b61",
 "edgeLabel": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
+"family": null,
 "id": "joseph-cannon",
 "l0": false,
 "label": "Dr. Joseph Cannon",
 "note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-03-12",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -51,10 +55,13 @@
 "direction": "in",
 "edgeId": "e-6f2a363349",
 "edgeLabel": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
+"family": null,
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-03-12",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-3752916b84",
 "edgeLabel": "Chairwoman stated the HASC/HAC-D read-in gate on the record",
+"family": null,
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-b3d5fb0f1d",
 "edgeLabel": "House Armed Services leadership, 2009-2015",
+"family": null,
 "id": "buck-mckeon",
 "l0": false,
 "label": "Howard P. \"Buck\" McKeon",
 "note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -90,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-70731be5f4",
 "edgeLabel": "The historical benchmark, and the source of the board's sharpest statement of the limit",
+"family": null,
 "id": "church-committee",
 "l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -102,7 +113,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -112,10 +124,13 @@
 "direction": "out",
 "edgeId": "e-cb8dc39bca",
 "edgeLabel": "the statutory oversight scheme, and the exception written into it",
+"family": null,
 "id": "d-structure",
 "l0": false,
 "label": "Program structure and organisational mapping",
 "note": "Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -134,7 +149,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -144,10 +160,13 @@
 "direction": "in",
 "edgeId": "e-26bf8f15af",
 "edgeLabel": "10 U.S.C. 119 annual SAP report to the four defense committees",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Secretary of Defense must report annually by 1 March on every special access program, notify newly designated SAPs by 1 February, and give 30 days notice before initiating a new SAP.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -156,7 +175,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -166,10 +186,13 @@
 "direction": "in",
 "edgeId": "e-85b46125e0",
 "edgeLabel": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
+"family": null,
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -178,7 +201,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -188,10 +212,13 @@
 "direction": "out",
 "edgeId": "e-a35779b1d5",
 "edgeLabel": "The audit Congress has, and cannot read",
+"family": null,
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-08-15",
@@ -200,7 +227,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -210,10 +238,13 @@
 "direction": "in",
 "edgeId": "e-dcaebb1439",
 "edgeLabel": "Fully and currently informed, and expressly not a condition precedent",
+"family": null,
 "id": "eo-12036",
 "l0": false,
 "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -222,7 +253,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -232,10 +264,13 @@
 "direction": "out",
 "edgeId": "e-b0a86f6662",
 "edgeLabel": "Defense committee receiving waived-SAP notification",
+"family": null,
 "id": "house-armed-services",
 "l0": false,
 "label": "House Armed Services Committee",
 "note": "Under 10 U.S.C. 119(e) the chairman and ranking minority member of each defense committee receive the waived program information and the waiver justification.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -244,7 +279,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -254,10 +290,13 @@
 "direction": "out",
 "edgeId": "e-8832e2477f",
 "edgeLabel": "Defense committee receiving waived-SAP notification",
+"family": null,
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Same statutory provision; four committees, eight members.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -266,7 +305,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -276,10 +316,13 @@
 "direction": "in",
 "edgeId": "e-734d361ccf",
 "edgeLabel": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
+"family": null,
 "id": "thad-cochran",
 "l0": false,
 "label": "Thad Cochran",
 "note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -298,7 +341,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -308,10 +352,13 @@
 "direction": "in",
 "edgeId": "e-fbdfe5892f",
 "edgeLabel": "the narrow aperture through which Congress sees waived DoD SAPs",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -330,7 +377,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -340,10 +388,13 @@
 "direction": "out",
 "edgeId": "e-41afc54acd",
 "edgeLabel": "The 10 U.S.C. 119(e) waiver reduces notification to eight members",
+"family": null,
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Where the Secretary waives reporting, the statute directs that the information and the justification go 'jointly to the chairman and ranking minority member of each of the defense committees'. This is the lawful mechanism by which a program can be hidden from the rest of Congress.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -352,7 +403,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

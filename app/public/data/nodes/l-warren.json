@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-f825ea2399",
 "edgeLabel": "Missile combat crew commander at F. E. Warren, 1974 to 1977",
+"family": null,
 "id": "bruce-fenstermacher",
 "l0": false,
 "label": "Capt. Bruce Fenstermacher",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-09-27",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-afa32fa24e",
 "edgeLabel": "Geodetic surveyor based at F. E. Warren, 1962 to 1966",
+"family": null,
 "id": "patrick-mcdonough",
 "l0": false,
 "label": "Patrick McDonough",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-09-27",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-d24e36eebc",
 "edgeLabel": "Publishes the F. E. Warren 1 August 1965 material",
+"family": null,
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1965-08-01",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -101,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-0ae62d7e61",
 "edgeLabel": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
+"family": null,
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-06-14",
@@ -118,7 +133,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -128,10 +144,13 @@
 "direction": "in",
 "edgeId": "e-026e662e22",
 "edgeLabel": "The 1 August 1965 reports were over this installation's Minuteman complex",
+"family": null,
 "id": "warren-1965",
 "l0": false,
 "label": "F. E. Warren AFB sightings, 1 August 1965",
 "note": "The Blue Book telephone log names the base commander of F. E. Warren among its callers and names Warren missile sites.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1965-08-01",
@@ -140,7 +159,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": null,

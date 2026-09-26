@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-33af19ec8c",
 "edgeLabel": "Named as a target of his records investigation",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Same statement of 14-16 May 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-16",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-9b535997a6",
 "edgeLabel": "Alleges IRAD self-funding of a breakaway programme after 9/11",
+"family": null,
 "id": "gerb-northrop-trw-investigation",
 "l0": false,
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-20",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "out",
 "edgeId": "e-a9e2b1ee93",
 "edgeLabel": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
+"family": null,
 "id": "l-nevada-test-site",
 "l0": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-10-01",
@@ -96,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -106,10 +118,13 @@
 "direction": "in",
 "edgeId": "e-1e3c845364",
 "edgeLabel": "Named in his own self-stated client list, 2000",
+"family": null,
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -118,7 +133,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -128,10 +144,13 @@
 "direction": "in",
 "edgeId": "e-172dfa0777",
 "edgeLabel": "Named among the primes whose MITRE-related work Congress demanded an accounting of",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-27",
@@ -140,7 +159,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -150,10 +170,13 @@
 "direction": "in",
 "edgeId": "e-4b0d85477e",
 "edgeLabel": "Northrop Corp. the airframe contractor",
+"family": null,
 "id": "northrop-tacit-blue",
 "l0": false,
 "label": "Northrop TACIT BLUE",
 "note": "The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -162,7 +185,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -172,10 +196,13 @@
 "direction": "in",
 "edgeId": "e-e21cd21c0e",
 "edgeLabel": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
+"family": null,
 "id": "trw-inc",
 "l0": false,
 "label": "TRW Inc.",
 "note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-12-20",
@@ -184,7 +211,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

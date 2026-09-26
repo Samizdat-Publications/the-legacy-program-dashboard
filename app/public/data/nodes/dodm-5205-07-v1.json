@@ -77,10 +77,13 @@
 "direction": "in",
 "edgeId": "e-21d563e8c0",
 "edgeLabel": "Defined verbatim in the SAP Security Manual glossary",
+"family": null,
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "in",
 "edgeId": "e-46abea4830",
 "edgeLabel": "SAP fraud and abuse complaints must not use collateral reporting channels",
+"family": null,
 "id": "dod-oig",
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -111,7 +118,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -121,10 +129,13 @@
 "direction": "out",
 "edgeId": "e-fb25dff7e3",
 "edgeLabel": "The manual implements the instruction's policy",
+"family": null,
 "id": "dodi-5205-11",
 "l0": true,
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDM 5205.07 Volume 1 para 1.a(1) states that it 'implements policy established in DoD Instruction (DoDI) 5205.11'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -133,7 +144,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -143,10 +155,13 @@
 "direction": "in",
 "edgeId": "e-9639bb02ab",
 "edgeLabel": "Volume 1 is the general procedures volume of the four-volume manual",
+"family": null,
 "id": "dodm-5205-07-series",
 "l0": false,
 "label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "note": "DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -155,7 +170,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -165,10 +181,13 @@
 "direction": "in",
 "edgeId": "e-b00c154646",
 "edgeLabel": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
+"family": null,
 "id": "sap-cover-mechanisms",
 "l0": false,
 "label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -177,7 +196,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

@@ -56,10 +56,13 @@
 "direction": "in",
 "edgeId": "e-7adae31730",
 "edgeLabel": "Witten took part in the Institute's inaugural Chapel Hill conference",
+"family": null,
 "id": "institute-of-field-physics",
 "l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -68,7 +71,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -78,10 +82,13 @@
 "direction": "in",
 "edgeId": "e-44a537068b",
 "edgeLabel": "Both printed on the same forty-six-name participants list",
+"family": null,
 "id": "joseph-weber",
 "l0": false,
 "label": "Joseph Weber",
 "note": "Both are printed on the same forty-six-name participants list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -90,7 +97,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -100,10 +108,13 @@
 "direction": "in",
 "edgeId": "e-02badd9af5",
 "edgeLabel": "Both printed on the same forty-six-name participants list",
+"family": null,
 "id": "peter-bergmann",
 "l0": false,
 "label": "Peter G. Bergmann",
 "note": "Both are printed on the same forty-six-name participants list of the January 1957 Chapel Hill conference.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -112,7 +123,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -122,10 +134,13 @@
 "direction": "in",
 "edgeId": "e-ef94fc0337",
 "edgeLabel": "Witten represented RIAS at the 1957 Chapel Hill gravitation conference",
+"family": null,
 "id": "rias-inc",
 "l0": false,
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "The participants list prints 'Witten, L. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1957-01-18",
@@ -134,7 +149,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1957-01-18",

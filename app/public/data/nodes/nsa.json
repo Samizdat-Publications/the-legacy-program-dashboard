@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-53d5cd6bf6",
 "edgeLabel": "Director of the National Security Agency from 5 July 1977",
+"family": null,
 "id": "bobby-ray-inman",
 "l0": false,
 "label": "Adm. Bobby Ray Inman",
 "note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1981-02-03",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-cb1caae1f2",
 "edgeLabel": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
+"family": null,
 "id": "caus-v-nsa",
 "l0": false,
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1981-11-03",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-082ce58065",
 "edgeLabel": "Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery",
+"family": null,
 "id": "disclosure-project-witness-set",
 "l0": false,
 "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "note": "TIER 3. Nothing independent places Wolfe anywhere, and NASA's own catalogue places the Lunar Orbiter programme at NASA Langley Research Center, a separate civil installation from Langley Air Force Base.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -96,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -106,10 +118,13 @@
 "direction": "in",
 "edgeId": "e-6704b4f2de",
 "edgeLabel": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
+"family": null,
 "id": "eugene-yeates",
 "l0": false,
 "label": "Eugene F. Yeates",
 "note": "The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1981-11-03",
@@ -118,7 +133,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -128,10 +144,13 @@
 "direction": "in",
 "edgeId": "e-7b448401b1",
 "edgeLabel": "US NSA holds a contemporaneous assessment of GEPAN's 1978 report",
+"family": null,
 "id": "gepan",
 "l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-02-24",
@@ -140,7 +159,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -150,10 +170,13 @@
 "direction": "out",
 "edgeId": "e-5b22bb965d",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -162,7 +185,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -172,10 +196,13 @@
 "direction": "out",
 "edgeId": "e-41ac157fba",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"family": null,
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -184,7 +211,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -194,10 +222,13 @@
 "direction": "in",
 "edgeId": "e-92c9d0cb87",
 "edgeLabel": "An information addressee on the report's own distribution list",
+"family": null,
 "id": "tehran-f4-intercept-1976",
 "l0": false,
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "note": "NSA Washington is an information addressee on the report's own distribution list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-09-23",
@@ -206,7 +237,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -216,10 +248,13 @@
 "direction": "in",
 "edgeId": "e-21d8c9b71b",
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"family": null,
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08",
@@ -228,7 +263,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -238,10 +274,13 @@
 "direction": "in",
 "edgeId": "e-2398c9b903",
 "edgeLabel": "Released by NSA with its declassification markings on the pages",
+"family": null,
 "id": "ukusa-agreement-1946",
 "l0": false,
 "label": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
 "note": "The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency's UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1946-03-05",
@@ -250,7 +289,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -260,10 +300,13 @@
 "direction": "in",
 "edgeId": "e-1f3b80a632",
 "edgeLabel": "Prosecution of a former NSA employee for compromising NSA operations",
+"family": null,
 "id": "us-v-pelton-1986",
 "l0": false,
 "label": "United States v. Ronald W. Pelton (D. Md. 1986)",
 "note": "Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -272,7 +315,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

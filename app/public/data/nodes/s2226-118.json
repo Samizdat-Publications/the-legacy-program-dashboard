@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-2b17714943",
 "edgeLabel": "amendment to",
+"family": null,
 "id": "samdt-797",
 "l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "congress.gov: 'Amends Bill: S.2226 - National Defense Authorization Act for Fiscal Year 2024'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-18",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -51,10 +55,13 @@
 "direction": "in",
 "edgeId": "e-079df53f38",
 "edgeLabel": "incorporated as Division G, secs. 9001-9015",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "S. 2226 as engrossed in the Senate contains Division G in full.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

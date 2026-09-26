@@ -36,10 +36,13 @@
 "direction": "in",
 "edgeId": "e-ae2e5483cd",
 "edgeLabel": "the instrument itself - competed, awarded, numbered and released",
+"family": null,
 "id": "aawsap-contract",
 "l0": false,
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-09-02",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-89af8634bf",
 "edgeLabel": "a company stood up to hold a single government contract",
+"family": null,
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-09-02",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -90,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-0dfc20af7d",
 "edgeLabel": "the FFRDC seam is a species of contracting mechanics, not a separate subject",
+"family": null,
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-15",
@@ -107,7 +118,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -117,10 +129,13 @@
 "direction": "out",
 "edgeId": "e-697f9226c1",
 "edgeLabel": "Vehicle and appropriation",
+"family": null,
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "The contract vehicle is the visible end of the money; the appropriation and transfer authorities are the invisible end.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -129,7 +144,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -139,10 +155,13 @@
 "direction": "in",
 "edgeId": "e-4050352af2",
 "edgeLabel": "the subcontract path - how work reached the government without a prime relationship",
+"family": null,
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -156,7 +175,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -166,10 +186,13 @@
 "direction": "in",
 "edgeId": "e-1a7f2e9c17",
 "edgeLabel": "contracting at a site whose existence was itself classified",
+"family": null,
 "id": "eg-and-g",
 "l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-10-10",
@@ -178,7 +201,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -188,10 +212,13 @@
 "direction": "in",
 "edgeId": "e-6860468a09",
 "edgeLabel": "the prime where classified contract line items and sworn allegation meet",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -210,7 +237,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -220,10 +248,13 @@
 "direction": "in",
 "edgeId": "e-753a4ecaa6",
 "edgeLabel": "the largest operator of the one acquisition form built to be non-competitive by design",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -242,7 +273,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -252,10 +284,13 @@
 "direction": "in",
 "edgeId": "e-da84ac3400",
 "edgeLabel": "sensor-side prime - the contractor-generated data category nobody is asking for",
+"family": null,
 "id": "raytheon",
 "l0": false,
 "label": "Raytheon (RTX Corporation)",
 "note": "Raytheon builds the AN/APG-79 and ATFLIR families through which the military detects and images the objects at issue, which makes it the corporate custodian of a withheld category of contractor-generated sensor data distinct from the custody allegation. Graded Tier 2: no source places Raytheon in any UAP-specific contract vehicle, and the edge rests on documented prime-contractor role plus hearing-record discussion of sensor data.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -269,7 +304,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -279,10 +315,13 @@
 "direction": "in",
 "edgeId": "e-592bbc265c",
 "edgeLabel": "a non-FAR instrument binding the Army to a private claimant of recovered material",
+"family": null,
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party's proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner's own contemporaneous FAQ.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-11-15",
@@ -296,7 +335,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

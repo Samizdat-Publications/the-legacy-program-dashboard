@@ -131,10 +131,13 @@
 "direction": "in",
 "edgeId": "e-6822c0b550",
 "edgeLabel": "The category this Act invented is the one the executive order cannot reach",
+"family": null,
 "id": "atomic-energy-act-1946",
 "l0": false,
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-12-29",
@@ -143,7 +146,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -153,10 +157,13 @@
 "direction": "in",
 "edgeId": "e-d939e2eded",
 "edgeLabel": "Both refusals rest on the same executive order",
+"family": null,
 "id": "defense-support-program",
 "l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-12-06",
@@ -170,7 +177,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -180,10 +188,13 @@
 "direction": "in",
 "edgeId": "e-c109071d21",
 "edgeLabel": "ICD 906 is the DNI's exercise of the section 4.3 SAP authority",
+"family": null,
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section B.1 establishes oversight of IC special access programs 'pursuant to EO 13526, Section 4.3', which assigns intelligence SAPs to the DNI.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -197,7 +208,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -207,10 +219,13 @@
 "direction": "out",
 "edgeId": "e-3225c79470",
 "edgeLabel": "ISOO access to SAPs is granted and simultaneously conditioned",
+"family": null,
 "id": "isoo",
 "l0": false,
 "label": "Information Security Oversight Office",
 "note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-12-29",
@@ -219,7 +234,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -229,10 +245,13 @@
 "direction": "in",
 "edgeId": "e-404081600e",
 "edgeLabel": "Requires a personnel census from each of the six SAP-creating officials",
+"family": null,
 "id": "ndaa-fy2024-7606",
 "l0": false,
 "label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -241,7 +260,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -251,10 +271,13 @@
 "direction": "out",
 "edgeId": "e-7ef6286d69",
 "edgeLabel": "All SAP categories descend from a single executive order provision",
+"family": null,
 "id": "sap-taxonomy",
 "l0": false,
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "Section 4.3(a) names the six officials who may create a SAP; the DoD taxonomy of acknowledged, unacknowledged and waived operates entirely below that grant.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-12-29",
@@ -268,7 +291,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -278,10 +302,13 @@
 "direction": "out",
 "edgeId": "e-cd889583d8",
 "edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
+"family": null,
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -290,7 +317,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -300,10 +328,13 @@
 "direction": "out",
 "edgeId": "e-27f41186c1",
 "edgeLabel": "Creates the programs the statute then reports on",
+"family": null,
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "E.O. 13526 sec. 4.3 is the source of authority to create a SAP; 10 U.S.C. 119 only prescribes what must be told to Congress afterwards.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-12-29",
@@ -317,7 +348,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -327,10 +359,13 @@
 "direction": "out",
 "edgeId": "e-00963cff71",
 "edgeLabel": "creates what the statute must report",
+"family": null,
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -344,7 +379,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

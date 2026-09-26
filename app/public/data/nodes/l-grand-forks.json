@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-6d661f67f5",
 "edgeLabel": "Grand Forks is in the sequence on separate message traffic, not on the CINCNORAD summary",
+"family": null,
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CINCNORAD's four-part message names Loring, Wurtsmith, Malmstrom, Minot and Falconbridge and does NOT name Grand Forks. Its inclusion rests on the 4 and 5 November command post messages, which this board has not opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1979-01-18",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -56,10 +60,13 @@
 "direction": "out",
 "edgeId": "e-82410e4157",
 "edgeLabel": "SAC installation; 321st Strategic Missile Wing",
+"family": null,
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The alert-ramp incident is cited from message traffic this board has not opened in its own text, so the edge is Tier 2.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1979-01-18",
@@ -68,7 +75,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

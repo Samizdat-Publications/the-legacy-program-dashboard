@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-8c0f7b4070",
 "edgeLabel": "contemplated branding not used",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War's estate instead.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-18",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "coords": null,

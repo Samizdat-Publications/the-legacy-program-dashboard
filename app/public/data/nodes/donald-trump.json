@@ -62,10 +62,13 @@
 "direction": "out",
 "edgeId": "e-ebdd78b62d",
 "edgeLabel": "Signed EO 14347 and issued the 2026 UAP release directives",
+"family": null,
 "id": "eop",
 "l0": false,
 "label": "Executive Office of the President",
 "note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-05",
@@ -84,7 +87,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -94,10 +98,13 @@
 "direction": "out",
 "edgeId": "e-ef8b0a977d",
 "edgeLabel": "Issued the direction that created PURSUE",
+"family": null,
 "id": "trump-uap-release-directive-2026",
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-20",
@@ -111,7 +118,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -121,10 +129,13 @@
 "direction": "out",
 "edgeId": "e-f9ed07ffe6",
 "edgeLabel": "Directed the NDA waiver in July 2026",
+"family": null,
 "id": "uap-nda-waiver-directive-2026",
 "l0": false,
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-07-21",
@@ -133,7 +144,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "date": "2026-02-19",

@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-a7a4e46b7e",
 "edgeLabel": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
+"family": null,
 "id": "l-detroit-arsenal",
 "l0": false,
 "label": "Detroit Arsenal, Warren, Michigan",
 "note": "The installation sits in Warren, Michigan, within the Detroit metropolitan area that also holds Kit Green's post-agency academic base at Wayne State.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-18",
@@ -40,7 +43,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

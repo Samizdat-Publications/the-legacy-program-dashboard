@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-494c7e9c5b",
 "edgeLabel": "The appropriations tripwire on initiating or modifying a special access programme",
+"family": null,
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "Section 8009 of the FY2026 Defense Appropriations Act bars use of that Act's funds to initiate or materially modify the scope of a SAP without 30 days advance notice to the congressional defense committees; DoD SAPCO is the office that administers the SAP enterprise under the Deputy Secretary. Attested by the statute.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-03",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -51,10 +55,13 @@
 "direction": "in",
 "edgeId": "e-c103bc5c27",
 "edgeLabel": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
+"family": null,
 "id": "irad-mechanism",
 "l0": false,
 "label": "Independent Research and Development (IR&D) as a funding channel",
 "note": "Section 8009 attaches to funds appropriated by the Act; contractor IR&D is reimbursed as an allowable indirect cost across a contract portfolio rather than appropriated to a programme. Reasoned inference from the structure of both instruments.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-02-03",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -73,10 +81,13 @@
 "direction": "in",
 "edgeId": "e-76f1f79b21",
 "edgeLabel": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
+"family": null,
 "id": "usc-50-3510",
 "l0": false,
 "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "note": "Section 8009 binds only funds appropriated by the annual Defense Appropriations Act; unvouchered Agency spending under 50 U.S.C. 3510 is neither DoD appropriated funds nor subject to normal expenditure law. Reasoned inference from the two texts; no document asserts this has occurred.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -85,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "coords": null,

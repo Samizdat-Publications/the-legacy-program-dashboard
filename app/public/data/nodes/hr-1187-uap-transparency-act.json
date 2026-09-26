@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-9321ad51a1",
 "edgeLabel": "Cosponsor - the bipartisan half",
+"family": null,
 "id": "jared-moskowitz",
 "l0": false,
 "label": "Jared Evan Moskowitz",
 "note": "Congress.gov cosponsor record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-02-11",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -45,10 +49,13 @@
 "direction": "in",
 "edgeId": "e-d592e7b5fc",
 "edgeLabel": "Sponsor",
+"family": null,
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Introduced 11 February 2025, the day the Task Force was announced.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-02-11",
@@ -57,7 +64,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

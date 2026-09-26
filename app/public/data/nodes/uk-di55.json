@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-2a5d9aa82f",
 "edgeLabel": "study commissioned by and reporting on DI55",
+"family": null,
 "id": "project-condign",
 "l0": false,
 "label": "Project Condign",
 "note": "The product was issued as DIS Scientific & Technical Memorandum 55/2/00 and its key recommendation was addressed to DI55's own tasking.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-95817938d0",
 "edgeLabel": "public desk fed the intelligence section's database",
+"family": null,
 "id": "uk-mod-ufo-desk",
 "l0": false,
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "Condign's database was built from approximately 10,000 reports accumulated by DI55 from the reporting stream the desk handled.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

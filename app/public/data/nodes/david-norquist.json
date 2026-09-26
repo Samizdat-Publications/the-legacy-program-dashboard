@@ -54,10 +54,13 @@
 "direction": "out",
 "edgeId": "e-eb0a34f7e0",
 "edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
+"family": null,
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-11-15",
@@ -66,7 +69,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -76,10 +80,13 @@
 "direction": "out",
 "edgeId": "e-eac0ebf2c8",
 "edgeLabel": "approved establishment of the UAP Task Force",
+"family": null,
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Norquist, as Deputy Secretary of Defense, formally approved the UAPTF on 4 August 2020; the Navy announced it on 14 August.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-08-14",
@@ -88,7 +95,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2020-08-04",

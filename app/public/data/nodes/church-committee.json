@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-058c776f01",
 "edgeLabel": "Named by the committee as having limited its access to the full record",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-ff867cbf01",
 "edgeLabel": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
+"family": null,
 "id": "intel-budget-disclosure-record",
 "l0": false,
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -97,10 +105,13 @@
 "direction": "in",
 "edgeId": "e-5a79eea2e9",
 "edgeLabel": "Testified in September 1975; the mail programme is documented largely through him",
+"family": null,
 "id": "james-jesus-angleton",
 "l0": false,
 "label": "James Jesus Angleton",
 "note": "Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-23",
@@ -109,7 +120,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -119,10 +131,13 @@
 "direction": "out",
 "edgeId": "e-6f05b81bb7",
 "edgeLabel": "Investigated MKULTRA in 1975 without the finance file",
+"family": null,
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1977-08-03",
@@ -131,7 +146,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -141,10 +157,13 @@
 "direction": "out",
 "edgeId": "e-70731be5f4",
 "edgeLabel": "The historical benchmark, and the source of the board's sharpest statement of the limit",
+"family": null,
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -153,7 +172,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -163,10 +183,13 @@
 "direction": "out",
 "edgeId": "e-2fcf8ea704",
 "edgeLabel": "Recommended the permanent oversight committee that followed it",
+"family": null,
 "id": "senate-intelligence",
 "l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -175,7 +198,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -185,10 +209,13 @@
 "direction": "out",
 "edgeId": "e-1d6f6f2abf",
 "edgeLabel": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
+"family": null,
 "id": "us-senate",
 "l0": false,
 "label": "United States Senate",
 "note": "The report states the resolution, the date and the mandate in its own opening section.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -197,7 +224,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

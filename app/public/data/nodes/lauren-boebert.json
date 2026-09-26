@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-edf5eba847",
 "edgeLabel": "Drew Shellenberger's 'Yes' on concerted Pentagon concealment from Congress in US waters",
+"family": null,
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Also established that the program covers oceanic as well as terrestrial cases.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "date": "2024-11-13",

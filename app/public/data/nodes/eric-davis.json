@@ -291,10 +291,13 @@
 "direction": "out",
 "edgeId": "e-9c9d5b18c9",
 "edgeLabel": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
+"family": null,
 "id": "aerospace-corporation",
 "l0": false,
 "label": "The Aerospace Corporation",
 "note": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-07-23",
@@ -303,7 +306,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -313,10 +317,13 @@
 "direction": "in",
 "edgeId": "e-c78de3ea69",
 "edgeLabel": "Davis among the interviewees",
+"family": null,
 "id": "age-of-disclosure",
 "l0": false,
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitting Secretary of State and a former Director of National Intelligence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -325,7 +332,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -335,10 +343,13 @@
 "direction": "out",
 "edgeId": "e-c1325a6e0d",
 "edgeLabel": "Says no such craft exists and none has ever been built",
+"family": null,
 "id": "arv-fluxliner",
 "l0": true,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-12",
@@ -347,7 +358,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -357,10 +369,13 @@
 "direction": "out",
 "edgeId": "e-515432576e",
 "edgeLabel": "'We couldn't make it ourselves' - a custody claim with no public chain",
+"family": null,
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-07-23",
@@ -369,7 +384,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -379,10 +395,13 @@
 "direction": "out",
 "edgeId": "e-98f38e4602",
 "edgeLabel": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
+"family": null,
 "id": "davis-sasc-briefing-2019",
 "l0": false,
 "label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
 "note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-07-23",
@@ -396,7 +415,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -406,10 +426,13 @@
 "direction": "out",
 "edgeId": "e-81f714787a",
 "edgeLabel": "authored",
+"family": null,
 "id": "dird-antigravity-for-aerospace-applications",
 "l0": true,
 "label": "Antigravity for Aerospace Applications",
 "note": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -438,7 +461,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -448,10 +472,13 @@
 "direction": "in",
 "edgeId": "e-5f64f65cea",
 "edgeLabel": "authored by Eric W. Davis",
+"family": null,
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -480,7 +507,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -490,10 +518,13 @@
 "direction": "in",
 "edgeId": "e-a5dc20c3b5",
 "edgeLabel": "authored by",
+"family": null,
 "id": "dird-laser-lightcraft-nanosatellites",
 "l0": false,
 "label": "Laser Lightcraft Nanosatellites",
 "note": "The DIA list of all 38 AATIP/AAWSAP products, transmitted to the Senate Armed Services Committee in January 2018 and released under FOIA in January 2019, credits 'Laser Lightcraft Nanosatellites' to 'Dr E Davis, EarthTech'. The author line on the released PDF cover page is redacted, so this attribution rests on the congressional list rather than the document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -522,7 +553,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -532,10 +564,13 @@
 "direction": "in",
 "edgeId": "e-eced695694",
 "edgeLabel": "authored by",
+"family": null,
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "l0": false,
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
 "note": "The DIA congressional list credits 'Quantum Tomography of Negative Energy States in the Vacuum' to 'Dr Eric Davis, EarthTech'. This is one of a coherent negative-energy sub-series by the same author within the DIRD set, alongside 'Traversable Wormholes, Stargates and Negative Energy' and the quantum-vacuum energy extraction paper.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -564,7 +599,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -574,10 +610,13 @@
 "direction": "out",
 "edgeId": "e-96769d6a97",
 "edgeLabel": "authored five of the 38 DIRDs",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Items 8, 11, 14, 31 and 34 — wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -586,7 +625,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -596,10 +636,13 @@
 "direction": "out",
 "edgeId": "e-4a31104e65",
 "edgeLabel": "Named author of DIA-08-1004-004",
+"family": null,
 "id": "dird-traversable-wormholes",
 "l0": false,
 "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
 "note": "The cover of the released document names Eric W. Davis, Ph.D., of EarthTech International Inc. as author, with a DIA control number, a Defense Warning Office preparing office and an FY2009 production year.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-04-06",
@@ -608,7 +651,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -618,10 +662,13 @@
 "direction": "out",
 "edgeId": "e-222dfff74c",
 "edgeLabel": "author of record on the DIA list and on EarthTech's own citation list",
+"family": null,
 "id": "dird-traversable-wormholes-stargates-and-negative-energy",
 "l0": false,
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
 "note": "DIA list item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" Unlike the warp-drive paper, the popular attribution to Davis is confirmed by the government list here. EarthTech's own bibliography carries the same citation with the document number DIA-08-1004-004.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -655,7 +702,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -665,10 +713,13 @@
 "direction": "out",
 "edgeId": "e-63714edf5d",
 "edgeLabel": "co-author per EarthTech International's own citation",
+"family": null,
 "id": "dird-warp-drive-dark-energy-and-the",
 "l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "EarthTech International's publications page cites the paper as \"Obousy, R. K. and Davis, E. W. (2010).\" Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -687,7 +738,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -697,10 +749,13 @@
 "direction": "out",
 "edgeId": "e-4c36c9eddc",
 "edgeLabel": "staff scientist",
+"family": null,
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "Davis wrote all five of his DIRDs under the EarthTech banner.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-01-09",
@@ -709,7 +764,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -719,10 +775,13 @@
 "direction": "out",
 "edgeId": "e-4969cf7445",
 "edgeLabel": "Davis worked under Puthoff at EarthTech before and during the AAWSAP period",
+"family": null,
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Davis is repeatedly identified in the record as a former employee of Puthoff's EarthTech International; both authored DIRDs in the same series.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -736,7 +795,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -746,10 +806,13 @@
 "direction": "out",
 "edgeId": "e-6d600853f7",
 "edgeLabel": "Same report carried Reid's statement on retrieved materials",
+"family": null,
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-07-23",
@@ -758,7 +821,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -768,10 +832,13 @@
 "direction": "in",
 "edgeId": "e-aaa4f73048",
 "edgeLabel": "Michels put Eric Davis on record with Eric Weinstein, 8 March 2026",
+"family": null,
 "id": "jesse-michels",
 "l0": false,
 "label": "Jesse Michels",
 "note": "A four-hour session covering the Wilson-Davis memo (37:56), the count of crashes (48:00), crash retrieval program structure (2:28:43) and the legacy program (2:35:09); 766,314 views.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-03-08",
@@ -780,7 +847,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -790,10 +858,13 @@
 "direction": "in",
 "edgeId": "e-f9d39ff51a",
 "edgeLabel": "Davis says the ARV claims are myth",
+"family": null,
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-12",
@@ -802,7 +873,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -812,10 +884,13 @@
 "direction": "out",
 "edgeId": "e-9478dc5bcb",
 "edgeLabel": "NIDS scientist before the federal contract",
+"family": null,
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -834,7 +909,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -844,10 +920,13 @@
 "direction": "in",
 "edgeId": "e-520be31762",
 "edgeLabel": "Eric Davis sits on Sol's Natural Sciences Advisory Board",
+"family": null,
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -856,7 +935,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -866,10 +946,13 @@
 "direction": "in",
 "edgeId": "e-aae119eaed",
 "edgeLabel": "His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics",
+"family": null,
 "id": "will-miller",
 "l0": false,
 "label": "Will Miller",
 "note": "Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2002-10-16",
@@ -878,7 +961,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -888,10 +972,13 @@
 "direction": "out",
 "edgeId": "e-a5e9907bdd",
 "edgeLabel": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
+"family": null,
 "id": "wilson-davis-memo",
 "l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-07-23",
@@ -900,7 +987,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -910,10 +998,13 @@
 "direction": "out",
 "edgeId": "e-464837384a",
 "edgeLabel": "author of the notes at the centre of the custody claim",
+"family": null,
 "id": "wilson-davis-memo",
 "l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-01-18",
@@ -937,7 +1028,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2010-01-01",

@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-85b5add0b1",
 "edgeLabel": "Met by 1988; present at two of the three 1989 desert viewings",
+"family": null,
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "THIS EDGE DOES NOT SAY LEAR INTRODUCED LAZAR TO KNAPP. That is universally repeated and it is in nothing this board opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -72,10 +76,13 @@
 "direction": "out",
 "edgeId": "e-5071112b19",
 "edgeLabel": "His dated 1987 statement reached the field through ParaNet in early 1988",
+"family": null,
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "Chronologically important: his public claim document predates Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. The statement's text was not rendered by the fetch and no content from it is asserted.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1987-12-29",
@@ -84,7 +91,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -94,10 +102,13 @@
 "direction": "out",
 "edgeId": "e-553a492ddb",
 "edgeLabel": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
+"family": null,
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Hayakawa's chronology dates Lear's hypothesis to 1988 and names his source as Ann West, the same name Levesque gives as the raw material of the original articles. Two entry points into the literature appear to run back through one person.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-08-29",
@@ -106,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -116,10 +128,13 @@
 "direction": "out",
 "edgeId": "e-fbfa3432a7",
 "edgeLabel": "Carrier of the claim, not an eyewitness to the claimed site",
+"family": null,
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -128,7 +143,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2022-03-29",

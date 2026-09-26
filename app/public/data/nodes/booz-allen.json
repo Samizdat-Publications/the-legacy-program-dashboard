@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-88aa441c78",
 "edgeLabel": "The access architecture that denied Grusch his read-ons is largely contractor-built and contractor-maintained",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch was tasked to inventory the SAPs and CAPs relevant to the Task Force's congressional mandate and was refused. The billet lists, access rosters and classification guides that execute such refusals are administered in substantial part by security-support primes. No committee has requested those rosters.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -51,7 +54,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -61,10 +65,13 @@
 "direction": "out",
 "edgeId": "e-236a5189be",
 "edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
+"family": null,
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -78,7 +85,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

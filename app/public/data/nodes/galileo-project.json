@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-d593c53b63",
 "edgeLabel": "Founder, 26 July 2021",
+"family": null,
 "id": "avi-loeb",
 "l0": false,
 "label": "Abraham 'Avi' Loeb",
 "note": "Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -68,10 +72,13 @@
 "direction": "in",
 "edgeId": "e-c115077a81",
 "edgeLabel": "Host institution of the Galileo Project",
+"family": null,
 "id": "harvard-cfa",
 "l0": false,
 "label": "Harvard-Smithsonian Center for Astrophysics",
 "note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-01-28",
@@ -95,7 +102,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -105,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-dd98c2aaa8",
 "edgeLabel": "Ran the $1.6m Pacific recovery expedition",
+"family": null,
 "id": "im1-pacific-expedition-2023",
 "l0": false,
 "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
 "note": "A magnetic sled dragged across the seabed off Papua New Guinea at a location determined from seismometer data; several hundred sub-millimetre spherules recovered.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -122,7 +133,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -132,10 +144,13 @@
 "direction": "in",
 "edgeId": "e-7b948d063a",
 "edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
+"family": null,
 "id": "l-cambridge",
 "l0": false,
 "label": "Cambridge, Massachusetts",
 "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-09-02",
@@ -154,7 +169,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -164,10 +180,13 @@
 "direction": "out",
 "edgeId": "e-4ad9a85fbe",
 "edgeLabel": "The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics",
+"family": null,
 "id": "l-cambridge",
 "l0": false,
 "label": "Cambridge, Massachusetts",
 "note": "Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -176,7 +195,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -186,10 +206,13 @@
 "direction": "out",
 "edgeId": "e-b94a321123",
 "edgeLabel": "Founded in direct response to the June 2021 ODNI assessment",
+"family": null,
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -198,7 +221,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -208,10 +232,13 @@
 "direction": "in",
 "edgeId": "e-f158da06a7",
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
+"family": null,
 "id": "richard-cloete",
 "l0": false,
 "label": "Richard Cloete",
 "note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-03-01",
@@ -220,7 +247,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -230,10 +258,13 @@
 "direction": "in",
 "edgeId": "e-0f90f618dc",
 "edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
+"family": null,
 "id": "sarah-little",
 "l0": false,
 "label": "Sarah Little",
 "note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-11-26",
@@ -242,7 +273,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -252,10 +284,13 @@
 "direction": "in",
 "edgeId": "e-11784bfcd2",
 "edgeLabel": "Research coordinator and co-editor of the JAI instrumentation special issue",
+"family": null,
 "id": "wesley-watters",
 "l0": false,
 "label": "Wesley A. Watters",
 "note": "The special issue is the artefact that established a peer-reviewed instrumentation literature in this field rather than a claims literature.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-02-13",
@@ -264,7 +299,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

@@ -125,10 +125,13 @@
 "direction": "out",
 "edgeId": "e-040a7e5e0b",
 "edgeLabel": "authored the statutory mandate and reporting regime AARO operates under",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-04-19",
@@ -137,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -147,10 +151,13 @@
 "direction": "out",
 "edgeId": "e-0640577000",
 "edgeLabel": "Author of the statute publicly states the obligation is unmet",
+"family": null,
 "id": "dow-uap-file-release-2026",
 "l0": false,
 "label": "Department of War release of UAP files",
 "note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-08",
@@ -164,7 +171,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -174,10 +182,13 @@
 "direction": "out",
 "edgeId": "e-b5bd699648",
 "edgeLabel": "chaired the hearing",
+"family": null,
 "id": "hearing-2023-04-19",
 "l0": false,
 "label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
 "note": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-04-19",
@@ -186,7 +197,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -196,10 +208,13 @@
 "direction": "out",
 "edgeId": "e-96d8f18afc",
 "edgeLabel": "Author of the founding AARO authority",
+"family": null,
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-12-27",
@@ -208,7 +223,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -218,10 +234,13 @@
 "direction": "out",
 "edgeId": "e-2a2cd0a682",
 "edgeLabel": "Claims only the briefing-requirement update as her FY2026 UAP win",
+"family": null,
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-07-15",
@@ -235,7 +254,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -245,10 +265,13 @@
 "direction": "out",
 "edgeId": "e-87798512b9",
 "edgeLabel": "Original cosponsor, 13 July 2023",
+"family": null,
 "id": "samdt-797",
 "l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-13",
@@ -257,7 +280,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -267,10 +291,13 @@
 "direction": "out",
 "edgeId": "e-4c860e9adc",
 "edgeLabel": "cosponsor",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Named in the Congressional Record entry for SA 797.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-13",
@@ -279,7 +306,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "2021-12-27",

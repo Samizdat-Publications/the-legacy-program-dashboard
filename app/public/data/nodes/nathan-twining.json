@@ -79,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-d55064a259",
 "edgeLabel": "The 1954 regulation was issued under Twining as Chief of Staff",
+"family": null,
 "id": "afr-200-2",
 "l0": false,
 "label": "Air Force Regulation 200-2",
 "note": "The officer who wrote in 1947 that the phenomenon was real was Air Force Chief of Staff when the regulation restricting public discussion of unexplained cases was promulgated.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1954-08-12",
@@ -96,7 +99,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -106,10 +110,13 @@
 "direction": "out",
 "edgeId": "e-2a781ab781",
 "edgeLabel": "Twining wrote the 1947 AMC assessment from this command",
+"family": null,
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Lt. Gen. Nathan Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command, headquartered at Wright Field.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -118,7 +125,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -128,10 +136,13 @@
 "direction": "out",
 "edgeId": "e-691c50aacf",
 "edgeLabel": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
+"family": null,
 "id": "project-mogul",
 "l0": false,
 "label": "Project MOGUL",
 "note": "Twining wrote in September 1947 that the phenomenon was real while noting the lack of recovered exhibits; the Air Force's 1994 position requires that his own command's exploitation centre never connected the wave to a programme it was cleared for.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-09-23",
@@ -145,7 +156,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -155,10 +167,13 @@
 "direction": "out",
 "edgeId": "e-cb3abae399",
 "edgeLabel": "Twining authored the founding 1947 assessment",
+"family": null,
 "id": "twining-memo",
 "l0": false,
 "label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
 "note": "Lt. Gen. Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command. The document survives in scanned form and is quoted in the Condon Report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-09-23",
@@ -172,7 +187,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1947-09-23",

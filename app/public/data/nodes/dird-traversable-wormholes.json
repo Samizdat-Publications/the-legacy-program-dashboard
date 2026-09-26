@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-aabb308ceb",
 "edgeLabel": "Contractor of record: EarthTech International Inc., 11855 Research Blvd, Austin TX",
+"family": null,
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "The author block on the released DIRD gives EarthTech's full street address, which makes the corporate performer identifiable and locatable rather than a generic 'contractor'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-04-06",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-4a31104e65",
 "edgeLabel": "Named author of DIA-08-1004-004",
+"family": null,
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "The cover of the released document names Eric W. Davis, Ph.D., of EarthTech International Inc. as author, with a DIA control number, a Defense Warning Office preparing office and an FY2009 production year.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-04-06",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "out",
 "edgeId": "e-af8e09ff89",
 "edgeLabel": "Lacatski named as AAWSA Program Manager on the document's administrative note",
+"family": null,
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-04-06",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

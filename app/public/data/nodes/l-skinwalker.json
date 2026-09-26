@@ -77,10 +77,13 @@
 "direction": "in",
 "edgeId": "e-6323f13b38",
 "edgeLabel": "The AAWSAP appropriation followed the Lacatski visit to the ranch",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Reid and Sen. Ted Stevens secured roughly $22 million in Defense appropriations after Bigelow relayed Lacatski's ranch experience. BAASS, headquartered in Las Vegas, won the contract.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -94,7 +97,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -104,10 +108,13 @@
 "direction": "in",
 "edgeId": "e-17a82ee80b",
 "edgeLabel": "funded field investigation of the Utah site",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "AARO confirms the investigation; DIA says it cannot locate the resulting 'Utah Ranch Investigation: August 2009-February 2010' report.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -121,7 +128,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -131,10 +139,13 @@
 "direction": "in",
 "edgeId": "e-5a9e7460ae",
 "edgeLabel": "led both the NIDS and BAASS science teams on the ranch",
+"family": null,
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
 "note": "Sixteen years of continuous field presence across a private and then a federally funded program.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-05-25",
@@ -143,7 +154,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -153,10 +165,13 @@
 "direction": "in",
 "edgeId": "e-6fa87d8fea",
 "edgeLabel": "Lacatski's visit is the documented link from the ranch to DIA",
+"family": null,
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -165,7 +180,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -175,10 +191,13 @@
 "direction": "out",
 "edgeId": "e-eb4efc2c30",
 "edgeLabel": "The ranch sits inside the Uintah Basin reporting region",
+"family": null,
 "id": "l-utah",
 "l0": false,
 "label": "Uintah Basin, Utah",
 "note": "The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, inside a region with a folk reporting record dating to the 1970s.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -187,7 +206,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -197,10 +217,13 @@
 "direction": "in",
 "edgeId": "e-933c22c1b1",
 "edgeLabel": "NIDS operated a permanently instrumented field station at the ranch",
+"family": null,
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Bigelow moved in a research team, surveillance equipment and full-time caretakers immediately after the purchase.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1996-06-30",
@@ -214,7 +237,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -224,10 +248,13 @@
 "direction": "in",
 "edgeId": "e-83150b3c84",
 "edgeLabel": "NIDS ran the field investigation at the ranch under Bigelow",
+"family": null,
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents while conceding they could not obtain publishable evidence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -236,7 +263,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -246,10 +274,13 @@
 "direction": "in",
 "edgeId": "e-c1faaa03ae",
 "edgeLabel": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+"family": null,
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -273,7 +304,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -283,10 +315,13 @@
 "direction": "in",
 "edgeId": "e-f6e9c83206",
 "edgeLabel": "Led instrumented field investigation at Skinwalker Ranch while serving as UAPTF chief scientist",
+"family": null,
 "id": "travis-taylor",
 "l0": false,
 "label": "Travis S. Taylor",
 "note": "The same person applied near-identical sensing methodology inside the classified task force and on a television production at the property NIDS and BAASS had studied, with no public account of any relationship between the two efforts.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -295,7 +330,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "coords": [

@@ -92,10 +92,13 @@
 "direction": "out",
 "edgeId": "e-d10a801bc9",
 "edgeLabel": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
+"family": null,
 "id": "wilbert-smith",
 "l0": false,
 "label": "Wilbert Brockhouse Smith",
 "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1983-11-29",
@@ -104,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "1983-11-29",

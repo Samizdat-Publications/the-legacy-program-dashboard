@@ -42,10 +42,13 @@
 "direction": "in",
 "edgeId": "e-4a9ea0a978",
 "edgeLabel": "Black aircraft generated real cover stories",
+"family": null,
 "id": "d-aerospace",
 "l0": false,
 "label": "Aerospace Engineering & Advanced Projects",
 "note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -54,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -64,10 +68,13 @@
 "direction": "out",
 "edgeId": "e-00b8f13277",
 "edgeLabel": "Denial is the public face of concealment",
+"family": null,
 "id": "d-denial",
 "l0": false,
 "label": "Official Denial",
 "note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -76,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +94,13 @@
 "direction": "in",
 "edgeId": "e-8853149ed8",
 "edgeLabel": "CIA convened the panel that recommended debunking",
+"family": null,
 "id": "d-ic",
 "l0": false,
 "label": "Intelligence Community",
 "note": "The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-01-17",
@@ -98,7 +109,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -108,10 +120,13 @@
 "direction": "out",
 "edgeId": "e-f84fed5a8b",
 "edgeLabel": "Debunking recommended as a security measure",
+"family": null,
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-01-17",
@@ -120,7 +135,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -130,10 +146,13 @@
 "direction": "out",
 "edgeId": "e-001786d34d",
 "edgeLabel": "Record destruction as concealment",
+"family": null,
 "id": "d-records",
 "l0": false,
 "label": "Records & Archives",
 "note": "GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -142,7 +161,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -152,10 +172,13 @@
 "direction": "in",
 "edgeId": "e-1274b87df2",
 "edgeLabel": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
+"family": null,
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1962-03-13",
@@ -164,7 +187,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 }
 ],
 "coords": null,

@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-aeea50dc0a",
 "edgeLabel": "'AARO did not receive reports indicating flight safety concerns during this reporting period'",
+"family": null,
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-07-20",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-eac6f1a89c",
 "edgeLabel": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
+"family": null,
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-09-14",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -84,10 +92,13 @@
 "direction": "in",
 "edgeId": "e-5b1955a7b7",
 "edgeLabel": "Official confirmation of the stigma ASA exists to route around",
+"family": null,
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -101,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -111,10 +123,13 @@
 "direction": "out",
 "edgeId": "e-fe75903dcf",
 "edgeLabel": "Created in direct response to the reporting failure the encounters exposed",
+"family": null,
 "id": "roosevelt-2014-2015",
 "l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -123,7 +138,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -133,10 +149,13 @@
 "direction": "in",
 "edgeId": "e-9a1df969f1",
 "edgeLabel": "Founder and Executive Director",
+"family": null,
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -150,7 +169,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -160,10 +180,13 @@
 "direction": "in",
 "edgeId": "e-7ae543f5a2",
 "edgeLabel": "Flag-officer corroboration of the safety-reporting failure ASA was built around",
+"family": null,
 "id": "tim-gallaudet",
 "l0": false,
 "label": "Timothy Gallaudet",
 "note": "Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -177,7 +200,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

@@ -89,10 +89,13 @@
 "direction": "in",
 "edgeId": "e-7d151e77c5",
 "edgeLabel": "deliverable under AAWSAP",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -106,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -116,10 +120,13 @@
 "direction": "in",
 "edgeId": "e-871883d35f",
 "edgeLabel": "Reference [43] of the antigravity DIRD, and its only appearance in that document",
+"family": null,
 "id": "alcubierre-1994",
 "l0": false,
 "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
 "note": "Cited once, in the reference list. Recorded because the count matters to this board: in a 45-page government survey of antigravity, the warp paper appears once and Thomas Townsend Brown does not appear at all.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1994",
@@ -133,7 +140,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -143,10 +151,13 @@
 "direction": "in",
 "edgeId": "e-ba96b8315b",
 "edgeLabel": "published and holds; DIA-08-1003-018",
+"family": null,
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -160,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -170,10 +182,13 @@
 "direction": "in",
 "edgeId": "e-669c1d6b73",
 "edgeLabel": "DIRD",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -182,7 +197,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -192,10 +208,13 @@
 "direction": "in",
 "edgeId": "e-4b273e0410",
 "edgeLabel": "series member",
+"family": null,
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-018. Publication date 30 March 2010 on the cover. 45 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -209,7 +228,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -219,10 +239,13 @@
 "direction": "out",
 "edgeId": "e-80d87b8fe7",
 "edgeLabel": "authored at EarthTech International",
+"family": null,
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech International supplied six of the 38 DIRDs through Eric Davis plus one through Hal Puthoff, making it the single most represented institution on the author list.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -241,7 +264,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -251,10 +275,13 @@
 "direction": "in",
 "edgeId": "e-81f714787a",
 "edgeLabel": "authored",
+"family": null,
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -283,7 +310,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -293,10 +321,13 @@
 "direction": "out",
 "edgeId": "e-0acb0a1280",
 "edgeLabel": "The government's own 45-page antigravity survey does not mention Brown at all",
+"family": null,
 "id": "thomas-townsend-brown",
 "l0": false,
 "label": "Thomas Townsend Brown",
 "note": "THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-03-30",
@@ -305,7 +336,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

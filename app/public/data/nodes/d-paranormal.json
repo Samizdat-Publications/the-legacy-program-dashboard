@@ -36,10 +36,13 @@
 "direction": "out",
 "edgeId": "e-82220cdaac",
 "edgeLabel": "Anomalous phenomena inside a defence contract",
+"family": null,
 "id": "d-program",
 "l0": false,
 "label": "Program Structure & Management",
 "note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2008-08-22",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -58,10 +62,13 @@
 "direction": "in",
 "edgeId": "e-77bd94a8fa",
 "edgeLabel": "Same investigators, later contract",
+"family": null,
 "id": "d-remote-viewing",
 "l0": false,
 "label": "Remote Viewing & Anomalous Cognition",
 "note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2008-08-22",
@@ -75,7 +82,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

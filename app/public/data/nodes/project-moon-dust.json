@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-fdb10d09d0",
 "edgeLabel": "AARO's 2024 historical review does not mention MOON DUST or BLUE FLY",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "A review commissioned to establish the historical record of USG involvement with UAP omits the named USG programmes whose charter was the recovery of unidentified fallen objects.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -68,10 +72,13 @@
 "direction": "in",
 "edgeId": "e-52dfa0c314",
 "edgeLabel": "Project Moon Dust records were an express object of the FOIA request",
+"family": null,
 "id": "kean-v-nasa",
 "l0": false,
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "Moon Dust - the programme for recovery of foreign space and aerospace debris - is named in the request as reproduced in the court's Background section.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2007-03-27",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -90,10 +98,13 @@
 "direction": "out",
 "edgeId": "e-fc53f72232",
 "edgeLabel": "BLUE FLY provided the quick-reaction airlift for MOON DUST recoveries",
+"family": null,
 "id": "operation-blue-fly",
 "l0": false,
 "label": "Operation BLUE FLY",
 "note": "The two codewords appear together in Air Force intelligence correspondence; MOON DUST was the collection authority and BLUE FLY the transport and custody leg.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2015-03-04",
@@ -107,7 +118,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -117,10 +129,13 @@
 "direction": "out",
 "edgeId": "e-acd43d41ac",
 "edgeLabel": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2015-03-04",
@@ -134,7 +149,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -144,10 +160,13 @@
 "direction": "in",
 "edgeId": "e-db1b89092b",
 "edgeLabel": "ran MOON DUST under its Foreign Materiel Program",
+"family": null,
 "id": "usaf-1127th-field-activities-group",
 "l0": false,
 "label": "1127th USAF Field Activities Group",
 "note": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1967-06-30",
@@ -156,7 +175,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

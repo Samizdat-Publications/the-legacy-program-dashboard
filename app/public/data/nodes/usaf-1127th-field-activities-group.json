@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-75be159ffe",
 "edgeLabel": "airlifted recovered foreign materiel to Wright-Patterson",
+"family": null,
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1967-06-30",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-36df826e59",
 "edgeLabel": "ran BLUE FLY under the same Foreign Materiel Program",
+"family": null,
 "id": "operation-blue-fly",
 "l0": false,
 "label": "Operation BLUE FLY",
 "note": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1967-06-30",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -97,10 +105,13 @@
 "direction": "out",
 "edgeId": "e-db1b89092b",
 "edgeLabel": "ran MOON DUST under its Foreign Materiel Program",
+"family": null,
 "id": "project-moon-dust",
 "l0": false,
 "label": "Project MOON DUST",
 "note": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1967-06-30",
@@ -109,7 +120,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -119,10 +131,13 @@
 "direction": "out",
 "edgeId": "e-3d08bc3ab3",
 "edgeLabel": "an Air Force unit reporting to the Assistant Chief of Staff, Intelligence",
+"family": null,
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1967-12-31",
@@ -131,7 +146,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

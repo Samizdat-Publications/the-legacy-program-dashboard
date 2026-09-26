@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-07adfdd770",
 "edgeLabel": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
+"family": null,
 "id": "betty-sapp",
 "l0": false,
 "label": "Betty J. Sapp",
 "note": "Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-03-19",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -69,10 +73,13 @@
 "direction": "in",
 "edgeId": "e-ef0b75bbbf",
 "edgeLabel": "The $26.9 billion Other Procurement, Air Force classified line is the historical pass-through",
+"family": null,
 "id": "classified-programs-line",
 "l0": false,
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "FY2026 line 077A carries $26,920,092 thousand in Other Procurement, Air Force, an account long understood by budget analysts to carry national reconnaissance funding that the Air Force does not control. Inference from the size of the line, the account's history, and the Air Force's own repeated public complaints about a pass-through of this magnitude; no document confirms the recipient.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-12-18",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "in",
 "edgeId": "e-615b0dacce",
 "edgeLabel": "Senior Intelligence Officer, NRO, 2016-2021; Director's briefing staff",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch's published House Oversight biography places him at the National Reconnaissance Office from April 2016 to November 2021, serving on the NRO Operations Center Director's briefing staff including coordination of the President's Daily Brief. This is the access baseline for everything that follows.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +125,13 @@
 "direction": "in",
 "edgeId": "e-425505c7ad",
 "edgeLabel": "2006 FOIA suit forced release of unclassified NRO budget records",
+"family": null,
 "id": "fas",
 "l0": false,
 "label": "Federation of American Scientists",
 "note": "Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -125,7 +140,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -135,10 +151,13 @@
 "direction": "in",
 "edgeId": "e-84051883d6",
 "edgeLabel": "Alleges NRO mission support to crash retrieval teams and a NTTR-based team",
+"family": null,
 "id": "gerb-nro-investigation",
 "l0": false,
 "label": "UAP Gerb - National Reconnaissance Office investigation",
 "note": "Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-12-13",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -157,10 +177,13 @@
 "direction": "in",
 "edgeId": "e-a5579174dd",
 "edgeLabel": "NRO headquarters, Westfields, Chantilly",
+"family": null,
 "id": "l-virginia",
 "l0": false,
 "label": "Charlottesville and the Commonwealth of Virginia",
 "note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-25",
@@ -174,7 +197,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -184,10 +208,13 @@
 "direction": "in",
 "edgeId": "e-a93fbccb81",
 "edgeLabel": "The NRO ran the DORIAN payload inside the Air Force programme",
+"family": null,
 "id": "manned-orbiting-laboratory",
 "l0": false,
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-05-01",
@@ -196,7 +223,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -206,10 +234,13 @@
 "direction": "out",
 "edgeId": "e-53f0e08ad1",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -218,7 +249,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -228,10 +260,13 @@
 "direction": "out",
 "edgeId": "e-192fe6fada",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"family": null,
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names NRO among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -240,7 +275,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -250,10 +286,13 @@
 "direction": "in",
 "edgeId": "e-741a4b62f4",
 "edgeLabel": "directed to release; absent from the statutory archive",
+"family": null,
 "id": "odni-memo-es-2026-00818",
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -267,7 +306,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -277,10 +317,13 @@
 "direction": "in",
 "edgeId": "e-453ba6863a",
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"family": null,
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08",
@@ -289,7 +332,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -299,10 +343,13 @@
 "direction": "out",
 "edgeId": "e-050a4c1808",
 "edgeLabel": "NRO seconded a representative to the UAP Task Force",
+"family": null,
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "David Grusch's official House Oversight witness title was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -311,7 +358,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -321,10 +369,13 @@
 "direction": "in",
 "edgeId": "e-d858087fa9",
 "edgeLabel": "Principal Deputy Director, then Acting Director, NRO",
+"family": null,
 "id": "william-b-adkins",
 "l0": false,
 "label": "William B. Adkins",
 "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-25",
@@ -338,7 +389,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

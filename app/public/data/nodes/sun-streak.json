@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-832f8bc50a",
 "edgeLabel": "DIA sponsored the remote-viewing effort 1986-1995",
+"family": null,
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA's prior experience running an unacknowledged programme in a ridiculed domain is the institutional precedent for its 2008 AAWSAP contract.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-12-16",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -56,10 +60,13 @@
 "direction": "out",
 "edgeId": "e-d616860509",
 "edgeLabel": "SUN STREAK became STARGATE, terminated 1995",
+"family": null,
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "CIA compiled and released roughly 12,000 pages of the programme record in 1995 after the American Institutes for Research evaluation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-12-16",
@@ -68,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

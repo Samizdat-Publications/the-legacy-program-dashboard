@@ -64,10 +64,13 @@
 "direction": "in",
 "edgeId": "e-b6691fd7f8",
 "edgeLabel": "Father showed son the debris in July 1947",
+"family": null,
 "id": "jesse-marcel",
 "l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "Marcel Jr. testified by affidavit and repeatedly on the record that his father woke him at night and laid the recovered material out on the kitchen floor.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2013-08-24",

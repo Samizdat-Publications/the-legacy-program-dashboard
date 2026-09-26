@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-b895eee1fb",
 "edgeLabel": "Site of the near-midair that anchors the safety case",
+"family": null,
 "id": "roosevelt-2014-2015",
 "l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Restricted training airspace ten miles east of Virginia Beach where two F/A-18Fs 100 feet apart took evasive action around a stationary cube-in-sphere object.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

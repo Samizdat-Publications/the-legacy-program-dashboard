@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-b9aec3769b",
 "edgeLabel": "JASON found the underlying physics wrong two years before DIA published the DIRD",
+"family": null,
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
 "label": "High-Frequency Gravitational Wave Communications",
 "note": "In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -74,7 +77,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -84,10 +88,13 @@
 "direction": "out",
 "edgeId": "e-5602b65df4",
 "edgeLabel": "NNSA rescued and now sponsors JASON after DoD declined renewal",
+"family": null,
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "On 25-26 April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE for JASON management and logistics support, two weeks after OUSD(R&E) confirmed it was ending the contract.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-04-11",
@@ -101,7 +108,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -111,10 +119,13 @@
 "direction": "in",
 "edgeId": "e-3ceeeb6e3a",
 "edgeLabel": "IDA administered JASON from 1960 to 1973",
+"family": null,
 "id": "ida",
 "l0": false,
 "label": "Institute for Defense Analyses",
 "note": "JASON has never been housed inside the government: IDA, then SRI International, then MITRE. Continuity of the panel has always depended on an FFRDC operator's contract.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -123,7 +134,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -133,10 +145,13 @@
 "direction": "in",
 "edgeId": "e-b7588a393c",
 "edgeLabel": "MITRE has administered JASON since 2002",
+"family": null,
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE provides management and logistics for the government's most sensitive standing scientific advisory panel; the contract was saved by an NNSA sole-source award in April 2019 after DoD declined renewal.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-04-25",
@@ -150,7 +165,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

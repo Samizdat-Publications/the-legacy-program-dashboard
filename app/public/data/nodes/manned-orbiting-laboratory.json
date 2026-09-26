@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-7797230b88",
 "edgeLabel": "A worked example of compartmentation: one workforce, two programmes",
+"family": null,
 "id": "d-secrecy-architecture",
 "l0": false,
 "label": "Secrecy Architecture",
 "note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-05-01",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-cfa47aec3b",
 "edgeLabel": "Polar launches were to fly from Vandenberg on the Titan-IIIM",
+"family": null,
 "id": "l-vandenberg",
 "l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-11",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "out",
 "edgeId": "e-b984258a9e",
 "edgeLabel": "After cancellation the younger MOL astronauts transferred to NASA",
+"family": null,
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-06-11",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -113,10 +125,13 @@
 "direction": "out",
 "edgeId": "e-a93fbccb81",
 "edgeLabel": "The NRO ran the DORIAN payload inside the Air Force programme",
+"family": null,
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-05-01",
@@ -125,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -135,10 +151,13 @@
 "direction": "out",
 "edgeId": "e-79bbe50f32",
 "edgeLabel": "MOL was the Air Force's public programme",
+"family": null,
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-05-01",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

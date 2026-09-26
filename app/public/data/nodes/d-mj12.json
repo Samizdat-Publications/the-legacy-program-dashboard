@@ -36,10 +36,13 @@
 "direction": "in",
 "edgeId": "e-56a64a5dda",
 "edgeLabel": "The largest disputed document corpus",
+"family": null,
 "id": "d-disinformation",
 "l0": false,
 "label": "Disinformation & Fabricated Documents",
 "note": "The FBI's Majestic 12 file records the investigation into the corpus's authenticity, making MJ-12 the principal case study for the disinformation domain.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2011-04-01",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -58,10 +62,13 @@
 "direction": "in",
 "edgeId": "e-55ecd6c9c8",
 "edgeLabel": "The 1987 Lear document gives him a military rank his own office forbade",
+"family": null,
 "id": "james-v-forrestal",
 "l0": false,
 "label": "James V. Forrestal",
 "note": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-07-26",
@@ -70,7 +77,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

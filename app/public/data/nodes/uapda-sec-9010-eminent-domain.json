@@ -65,10 +65,13 @@
 "direction": "out",
 "edgeId": "e-05d6076932",
 "edgeLabel": "Two independent Senate routes at the same private holdings",
+"family": null,
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 9010 takes the material by condemnation; Sec. 1102 compels its surrender by cutting off contract funding and granting immunity. Both passed the Senate on 27 July 2023; both were removed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -82,7 +85,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -92,10 +96,13 @@
 "direction": "in",
 "edgeId": "e-d5f895867e",
 "edgeLabel": "Named as demanding removal of the eminent domain provision",
+"family": null,
 "id": "mike-turner",
 "l0": false,
 "label": "Michael R. Turner",
 "note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-11-27",
@@ -109,7 +116,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -119,10 +127,13 @@
 "direction": "out",
 "edgeId": "e-f1224ef375",
 "edgeLabel": "No enacted statute contains the eminent domain language",
+"family": null,
 "id": "ndaa-fy2024",
 "l0": true,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -141,7 +152,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -151,10 +163,13 @@
 "direction": "out",
 "edgeId": "e-c8db0a2918",
 "edgeLabel": "section of",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Sec. 9010 of Division G, S. 2226 engrossed in the Senate.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -163,7 +178,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -173,10 +189,13 @@
 "direction": "in",
 "edgeId": "e-68a755c6ae",
 "edgeLabel": "Sec. 9010 is the operative seizure provision of the Act",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Section 9010(a) of Division G is the eminent domain command; it is the only provision in the Act that reaches physical material rather than records.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -185,7 +204,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

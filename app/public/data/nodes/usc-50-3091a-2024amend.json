@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-a9db3c9949",
 "edgeLabel": "6603 bars CAP-to-SAP capability transfer without notice",
+"family": null,
 "id": "sap-taxonomy",
 "l0": false,
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -63,10 +67,13 @@
 "direction": "out",
 "edgeId": "e-103a84bb1e",
 "edgeLabel": "bars movement between the categories",
+"family": null,
 "id": "sap-taxonomy",
 "l0": false,
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "Tier 3 because this is a reading of what the amendment does to the taxonomy, not a quotation about it. Sec. 6603's new 50 U.S.C. 3091a(b)(2)(A) bars the head of an IC element from transferring a capability out of a controlled access program, subject to the two exits at (B). The categories on this board are not merely descriptive after December 2024: Congress attached a statutory consequence to which box a capability sits in, which is what makes the CAP/SAP distinction load-bearing rather than nomenclature. The verbatim text of both subparagraphs is on the amendment node.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-12-23",
@@ -75,7 +82,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -85,10 +93,13 @@
 "direction": "out",
 "edgeId": "e-ee86174cb3",
 "edgeLabel": "Pub. L. 118-159 secs. 6602-6603",
+"family": null,
 "id": "usc-50-3091a",
 "l0": false,
 "label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -97,7 +108,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -107,10 +119,13 @@
 "direction": "out",
 "edgeId": "e-589cb86158",
 "edgeLabel": "amends",
+"family": null,
 "id": "usc-50-3091a",
 "l0": false,
 "label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "Pub. L. 118-159 secs. 6602 and 6603, approved 23 December 2024, amend this section: 6602 inserts a new subsection (c) limiting National Intelligence Program spending, and 6603 adds subsection (b)(2)(A) with its exception at (B). The OLRC text carries the amendment note and records that subsection (c) 'shall apply with respect to controlled access programs ... that are established on or after the date of the enactment of this Act', so the new limit is prospective only and existing compartments are untouched by it. Statute read on 22 August 2026; the verbatim section text is already on the amendment node from the enacted public law.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-22",
@@ -124,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

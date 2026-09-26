@@ -56,10 +56,13 @@
 "direction": "in",
 "edgeId": "e-a2dbbb5b61",
 "edgeLabel": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
+"family": null,
 "id": "ccdc-gvsc",
 "l0": false,
 "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
 "note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-03-12",
@@ -68,7 +71,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -78,10 +82,13 @@
 "direction": "out",
 "edgeId": "e-68acd832a6",
 "edgeLabel": "Cannon was the named government principal investigator at GVSC",
+"family": null,
 "id": "l-detroit-arsenal",
 "l0": false,
 "label": "Detroit Arsenal, Warren, Michigan",
 "note": "The Army located twenty-nine emails totalling a hundred pages of Cannon's TTSA correspondence and withheld all of them under FOIA exemptions (b)(4) and (b)(5).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-18",
@@ -95,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -105,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-d8e5456391",
 "edgeLabel": "Government principal investigator",
+"family": null,
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "Named in the agreement alongside Bean Soave and quoted in the announcement calling TTSA 'an exciting, non-traditional source for novel materials'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-17",
@@ -117,7 +128,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2019-10-17",

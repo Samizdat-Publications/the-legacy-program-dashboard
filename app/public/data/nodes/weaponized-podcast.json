@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-1f8c08fa28",
 "edgeLabel": "Co-host",
+"family": null,
 "id": "jeremy-corbell",
 "l0": false,
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "The primary channel through which leaked Navy imagery has entered the public record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

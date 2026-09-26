@@ -57,10 +57,13 @@
 "direction": "out",
 "edgeId": "e-48b4e23727",
 "edgeLabel": "The claim places Launch Facility November-5 in this installation's Minuteman field",
+"family": null,
 "id": "l-ellsworth",
 "l0": false,
 "label": "Ellsworth AFB, South Dakota",
 "note": "Tier 2 because the location is as claimed on a dated broadcast, not as established by any Air Force record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-07",
@@ -69,7 +72,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +83,13 @@
 "direction": "in",
 "edgeId": "e-3a8e29454f",
 "edgeLabel": "The originating claimant, public since 1996",
+"family": null,
 "id": "mario-woods",
 "l0": false,
 "label": "Mario Woods",
 "note": "PUBLIC SINCE 1996 UNDER HIS OWN NAME, WITH MORE THAN FORTY CLAIMED MEDIA APPEARANCES IN WHICH HE NAMED MICHAEL JOHNSON ON AIR AND ASKED AUDIENCES TO FIND HIM. That is both why the 2026 reunion was possible and why the two accounts cannot be treated as independent. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-07",
@@ -96,7 +103,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -106,10 +114,13 @@
 "direction": "in",
 "edgeId": "e-f1356e7a78",
 "edgeLabel": "The second witness, located by the publishing party in June 2026",
+"family": null,
 "id": "michael-johnson",
 "l0": false,
 "label": "Michael Johnson",
 "note": "LOCATED BY THE PUBLISHING PARTY ON 26 JUNE 2026 FROM A VIEWER'S FACEBOOK TIP, VIA AN UNNAMED RECRUITER. NO DATED PUBLIC STATEMENT BY HIM ABOUT THIS EVENT EXISTS PRIOR TO THAT CONTACT. ON THE RECORDED CALL HE ANSWERED 'NO' BEFORE THE ORIGINAL WITNESS NAMED THE UFO, TWICE, AND HE THEN ASSENTED. THE EPISODE'S OWN LATER RETELLING OF THAT MOMENT CONTRADICTS ITS OWN RECORDING OF IT. The accounts agree on substance and diverge on posture and agency, which reads very differently from verbatim agreement.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-07",
@@ -118,7 +129,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

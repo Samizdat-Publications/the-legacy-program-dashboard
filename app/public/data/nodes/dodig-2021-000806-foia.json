@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-e84d8ea2bb",
 "edgeLabel": "FOIA requester of record",
+"family": null,
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "The fourth interim release of five pages, with approximately 245 pages still pending, shows the Department withholding its own UAP evaluation methodology.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-06-16",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -63,10 +67,13 @@
 "direction": "out",
 "edgeId": "e-37c43f146f",
 "edgeLabel": "imagery released, methodology withheld",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-06-16",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

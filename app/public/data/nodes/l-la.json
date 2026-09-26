@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-c90c7f9c2c",
 "edgeLabel": "The most-repeated custody allegation names Lockheed and California",
+"family": null,
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "in",
 "edgeId": "e-50b25bdfa1",
 "edgeLabel": "The Black Vault runs the private FOIA archive from Los Angeles",
+"family": null,
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-18",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": [

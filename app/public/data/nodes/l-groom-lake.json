@@ -59,10 +59,13 @@
 "direction": "in",
 "edgeId": "e-40e7f6129f",
 "edgeLabel": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
+"family": null,
 "id": "atomic-energy-commission",
 "l0": true,
 "label": "Atomic Energy Commission",
 "note": "The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-25",
@@ -71,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -81,10 +85,13 @@
 "direction": "in",
 "edgeId": "e-a8cc8584f8",
 "edgeLabel": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
+"family": null,
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1979-08-24",
@@ -98,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -108,10 +116,13 @@
 "direction": "in",
 "edgeId": "e-911d534477",
 "edgeLabel": "EG&G provided the classified site services and personnel transport for the Groom Lake operating location",
+"family": null,
 "id": "eg-and-g",
 "l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-01-08",
@@ -125,7 +136,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -135,10 +147,13 @@
 "direction": "in",
 "edgeId": "e-20cf9eea3a",
 "edgeLabel": "Records temporary duty to AFFTC Detachment 3, the unit operating Groom Lake, 1 June to 14 August 1979",
+"family": null,
 "id": "fouche-afftc-det3-1979",
 "l0": false,
 "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
 "note": "TIER 2 IS THE CEILING AND HERE IS WHY. The form itself says 'AFFTC-DET 3, Nellis AF Range', which is Tier 1. The identification of DET 3 AFFTC with Groom Lake rests on Peter Merlin's own published site and not on any primary Air Force unit history, organisational chart or FOIA release opened by this research. The weaker link sets the tier.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1979-08-24",
@@ -152,7 +167,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -162,10 +178,13 @@
 "direction": "in",
 "edgeId": "e-2852919e5b",
 "edgeLabel": "Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure",
+"family": null,
 "id": "groom-lake-presidential-determination",
 "l0": false,
 "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
 "note": "Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-10-10",
@@ -179,7 +198,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -189,10 +209,13 @@
 "direction": "in",
 "edgeId": "e-26ae039899",
 "edgeLabel": "Area 51 is the named facility on the Groom Lake shore",
+"family": null,
 "id": "l-area51",
 "l0": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "note": "The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -201,7 +224,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -211,10 +235,13 @@
 "direction": "in",
 "edgeId": "e-2f40ed25b5",
 "edgeLabel": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"family": null,
 "id": "l-edwards-afb",
 "l0": false,
 "label": "Edwards Air Force Base, California",
 "note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -228,7 +255,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -238,10 +266,13 @@
 "direction": "out",
 "edgeId": "e-527fcc3297",
 "edgeLabel": "The Groom and Tonopah workforce commutes from Las Vegas",
+"family": null,
 "id": "l-las-vegas",
 "l0": false,
 "label": "Las Vegas, Nevada",
 "note": "The unmarked JANET fleet operates from a dedicated terminal at the Las Vegas airport. Reasoning: publicly observable daily operations; no primary personnel or contract record has been obtained.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -250,7 +281,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -260,10 +292,13 @@
 "direction": "out",
 "edgeId": "e-9a1f216d19",
 "edgeLabel": "Groom Lake was administratively carried as part of the Nellis complex",
+"family": null,
 "id": "l-nellis",
 "l0": false,
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "note": "Until the 1995 presidential determination, the official position was that Groom Lake was simply another part of the Nellis Air Force Base complex.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -272,7 +307,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -282,10 +318,13 @@
 "direction": "out",
 "edgeId": "e-0b359abe9c",
 "edgeLabel": "Programmes matured from Groom Lake to operational basing at Tonopah",
+"family": null,
 "id": "l-tonopah",
 "l0": false,
 "label": "Tonopah Test Range, Nevada",
 "note": "HAVE IDEA moved to Tonopah in May 1973; the 4450th Tactical Group moved from Groom Lake to Tonopah beginning 17 May 1982 to operate the F-117A.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -294,7 +333,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -304,10 +344,13 @@
 "direction": "in",
 "edgeId": "e-8221f48e9f",
 "edgeLabel": "Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards",
+"family": null,
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -316,7 +359,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -326,10 +370,13 @@
 "direction": "in",
 "edgeId": "e-d3a62f4e9f",
 "edgeLabel": "Selected the site on 12 April 1955",
+"family": null,
 "id": "richard-m-bissell-jr",
 "l0": false,
 "label": "Richard M. Bissell Jr.",
 "note": "He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-25",
@@ -338,7 +385,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -348,10 +396,13 @@
 "direction": "in",
 "edgeId": "e-45dedeb372",
 "edgeLabel": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
+"family": null,
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1991",
@@ -360,7 +411,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -370,10 +422,13 @@
 "direction": "out",
 "edgeId": "e-37bfc04454",
 "edgeLabel": "Both are demonstrations of decades-long concealment ending in bulk declassification",
+"family": null,
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -387,7 +442,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "coords": [

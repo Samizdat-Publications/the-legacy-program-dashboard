@@ -53,10 +53,13 @@
 "direction": "in",
 "edgeId": "e-4621acfb67",
 "edgeLabel": "Makes the SRG the working-level body that reviews every waived program annually",
+"family": null,
 "id": "dodi-5205-11",
 "l0": true,
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "out",
 "edgeId": "e-9cf77b75e0",
 "edgeLabel": "Unanimous SRG recommendations bypass the SAPOC entirely",
+"family": null,
 "id": "sapoc",
 "l0": false,
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -97,10 +105,13 @@
 "direction": "in",
 "edgeId": "e-5a5b3fe5e3",
 "edgeLabel": "Every waived program is reviewed once a year by a named standing body",
+"family": null,
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -109,7 +120,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

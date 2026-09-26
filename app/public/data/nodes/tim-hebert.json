@@ -44,10 +44,13 @@
 "direction": "out",
 "edgeId": "e-ffd37b38ec",
 "edgeLabel": "Published argument from the released paper that no UFO element is supported",
+"family": null,
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2011-08-01",
@@ -61,7 +64,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": "2011-08-01",

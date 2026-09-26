@@ -59,10 +59,13 @@
 "direction": "in",
 "edgeId": "e-780a0151a2",
 "edgeLabel": "Both official studies buried an unexplained residue under dismissive conclusions",
+"family": null,
 "id": "blue-book-special-report-14",
 "l0": true,
 "label": "Project Blue Book Special Report No. 14",
 "note": "SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1955-05-05",
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +90,13 @@
 "direction": "in",
 "edgeId": "e-a225fc597a",
 "edgeLabel": "The Colorado project's own history chapter endorses his debunking book",
+"family": null,
 "id": "donald-h-menzel",
 "l0": false,
 "label": "Donald H. Menzel",
 "note": "Section V chapter 2 of the report, written by Condon, calls Menzel's 1953 Flying Saucers 'an excellent book' and notes it is 'generally regarded as \"debunking\" and \"negative.\"' Menzel wrote no chapter of the report; he appears in its text and its bibliographies.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1969",
@@ -98,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -108,10 +116,13 @@
 "direction": "in",
 "edgeId": "e-232e3258de",
 "edgeLabel": "Condon directed the study and wrote its conclusions personally",
+"family": null,
 "id": "edward-condon",
 "l0": false,
 "label": "Edward U. Condon",
 "note": "Condon authored the summary, conclusions and recommendations placed at the front of the report — the only section most readers and reporters ever saw.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -120,7 +131,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -130,10 +142,13 @@
 "direction": "out",
 "edgeId": "e-d0784cf6e4",
 "edgeLabel": "The Condon Report is the primary documentary record of the Estimate's destruction",
+"family": null,
 "id": "estimate-of-the-situation",
 "l0": false,
 "label": "Estimate of the Situation (1948)",
 "note": "Section V Chapter 2 records the estimate's preparation, Vandenberg's rejection and the destruction of copies — the Air Force paying to put its own suppression on the record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -142,7 +157,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -152,10 +168,13 @@
 "direction": "in",
 "edgeId": "e-86248b630b",
 "edgeLabel": "RAND was documenting the case for instrumented study as Condon was closing it down",
+"family": null,
 "id": "george-kocher",
 "l0": false,
 "label": "George Kocher",
 "note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -164,7 +183,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -174,10 +194,13 @@
 "direction": "in",
 "edgeId": "e-ddf66cd1bc",
 "edgeLabel": "Congressional pressure produced a contracted study, not oversight",
+"family": null,
 "id": "hearing-1966-04-05",
 "l0": false,
 "label": "House Armed Services Committee UFO Hearing",
 "note": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -186,7 +209,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -196,10 +220,13 @@
 "direction": "in",
 "edgeId": "e-1f6852d2c7",
 "edgeLabel": "McDonald attacked the Condon Report and was professionally destroyed",
+"family": null,
 "id": "james-mcdonald",
 "l0": false,
 "label": "James E. McDonald",
 "note": "He publicly criticised the report on release, was ridiculed over his UFO work during 1971 congressional SST hearings on an unrelated technical subject, and died by suicide in June 1971.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-07-29",
@@ -208,7 +235,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -218,10 +246,13 @@
 "direction": "out",
 "edgeId": "e-a215a872a7",
 "edgeLabel": "The Condon Committee was hosted by the University of Colorado at Boulder",
+"family": null,
 "id": "l-boulder-co",
 "l0": false,
 "label": "Boulder, Colorado",
 "note": "The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon as director and Robert Low as coordinator.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -230,7 +261,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -240,10 +272,13 @@
 "direction": "in",
 "edgeId": "e-2b3bc4cf0f",
 "edgeLabel": "The memo states the intent to present differently to public and scientists",
+"family": null,
 "id": "low-memo",
 "l0": false,
 "label": "Low Memorandum (\"the trick would be...\")",
 "note": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -252,7 +287,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -262,10 +298,13 @@
 "direction": "out",
 "edgeId": "e-0f1080df9a",
 "edgeLabel": "The Condon report was the stated basis for terminating Blue Book",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -274,7 +313,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -284,10 +324,13 @@
 "direction": "out",
 "edgeId": "e-7ddd01f57e",
 "edgeLabel": "The Condon Report was the stated basis for terminating Blue Book",
+"family": null,
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior experience in ending the program on 17 December 1969.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -296,7 +339,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -306,10 +350,13 @@
 "direction": "in",
 "edgeId": "e-6e5e7d1b97",
 "edgeLabel": "forwarded Chilean reports to the University of Colorado study",
+"family": null,
 "id": "sergio-bravo-flores",
 "l0": false,
 "label": "Coronel de Aviación Sergio Bravo Flores",
 "note": "SEFAA records that part of the dozen reports gathered were sent to the University of Colorado, where the commission later known as the Condon Committee was working.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -318,7 +365,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -328,10 +376,13 @@
 "direction": "in",
 "edgeId": "e-f828ae2243",
 "edgeLabel": "Air Force funded the University of Colorado study used to close BLUE BOOK",
+"family": null,
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The termination decision rested on 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -340,7 +391,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 }
 ],
 "coords": null,

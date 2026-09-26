@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-99adbb28a9",
 "edgeLabel": "Two official inquiries that explained the recovery activity without producing the logs",
+"family": null,
 "id": "ev-varginha-1996",
 "l0": false,
 "label": "Varginha incident, Minas Gerais, January 1996",
 "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-5e10e35301",
 "edgeLabel": "The 1997 report dismantled the 'missing nurse' account by name",
+"family": null,
 "id": "glenn-dennis",
 "l0": false,
 "label": "W. Glenn Dennis",
 "note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -75,7 +82,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -85,10 +93,13 @@
 "direction": "in",
 "edgeId": "e-d0423c963d",
 "edgeLabel": "Sole author of the 1997 bodies report",
+"family": null,
 "id": "james-mcandrew",
 "l0": false,
 "label": "Capt. James McAndrew",
 "note": "Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -97,7 +108,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -107,10 +119,13 @@
 "direction": "in",
 "edgeId": "e-3ad5253090",
 "edgeLabel": "Ragsdale's own words were used to support the dummy explanation",
+"family": null,
 "id": "jim-ragsdale",
 "l0": false,
 "label": "James Ragsdale",
 "note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -119,7 +134,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -129,10 +145,13 @@
 "direction": "out",
 "edgeId": "e-1b4c97fb5e",
 "edgeLabel": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
+"family": null,
 "id": "plains-san-agustin-1947",
 "l0": false,
 "label": "Plains of San Agustin claim, July 1947",
 "note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -141,7 +160,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -151,10 +171,13 @@
 "direction": "out",
 "edgeId": "e-8beec30846",
 "edgeLabel": "The 1997 report completes what the 1994-1995 report left open",
+"family": null,
 "id": "roswell-report-1995",
 "l0": false,
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "note": "The 1994 report addressed the debris and did not address the bodies claims; the 1997 report was produced to close that gap.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -163,7 +186,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 }
 ],
 "coords": null,

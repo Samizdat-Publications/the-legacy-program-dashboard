@@ -64,10 +64,13 @@
 "direction": "in",
 "edgeId": "e-490318928a",
 "edgeLabel": "decision packet presented 17 November 2009",
+"family": null,
 "id": "depsecdef-sap-packet-2009",
 "l0": false,
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-17",
@@ -76,7 +79,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +90,13 @@
 "direction": "out",
 "edgeId": "e-cec370253b",
 "edgeLabel": "in-person refusal of the SAP request",
+"family": null,
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-19",
@@ -98,7 +105,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -108,10 +116,13 @@
 "direction": "in",
 "edgeId": "e-c1c36621c4",
 "edgeLabel": "addressed to the Deputy Secretary of Defense",
+"family": null,
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "Lynn was the decision authority; he received the request in June and delivered the refusal in person in November.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-06-24",
@@ -120,7 +131,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "date": "2009-11-19",

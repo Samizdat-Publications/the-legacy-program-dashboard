@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-d10cde3e69",
 "edgeLabel": "co-author, contractor side of the account",
+"family": null,
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
 "note": "Kelleher supplies the field-operations and human-effects record from the BAASS side.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-08-01",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "in",
 "edgeId": "e-30863a5c46",
 "edgeLabel": "no records located for the documents the book describes",
+"family": null,
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-09-01",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -90,10 +98,13 @@
 "direction": "in",
 "edgeId": "e-80de8e635d",
 "edgeLabel": "co-author with the program manager and the contractor's deputy",
+"family": null,
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Knapp moves from reporter to co-author of the DOPSR-cleared insider account — and his earlier book is the proximate cause of the contract.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-08-01",
@@ -102,7 +113,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -112,10 +124,13 @@
 "direction": "in",
 "edgeId": "e-b77acf7fa3",
 "edgeLabel": "co-author; states he entered a craft of unknown origin",
+"family": null,
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-08-01",
@@ -124,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

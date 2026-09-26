@@ -77,10 +77,13 @@
 "direction": "in",
 "edgeId": "e-d916bdbc20",
 "edgeLabel": "Named inventor",
+"family": null,
 "id": "salvatore-pais",
 "l0": false,
 "label": "Salvatore Cezar Pais",
 "note": "Application 14/807943, assigned to the Secretary of the Navy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "in",
 "edgeId": "e-f2a7824a71",
 "edgeLabel": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven",
+"family": null,
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "EXPLICIT DENIAL EDGE AND THE DENIER IS THE SPONSOR. Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The same institution that filed, funded and prosecuted the patent family tested this device and reported the negative result itself.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-02-01",
@@ -111,7 +118,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

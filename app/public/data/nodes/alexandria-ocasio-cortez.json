@@ -77,10 +77,13 @@
 "direction": "out",
 "edgeId": "e-c3ec2b43b3",
 "edgeLabel": "Established that contractors have no UAP reporting duty and IR&D escapes notification",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "AOC pushed past the phenomenon to the notification architecture, establishing that SAP and CAP equities flow through Periodic Program Review while contractor IR&D is internal and unreported - the legal shape of an invisible program.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "out",
 "edgeId": "e-0914d4ddb3",
 "edgeLabel": "Pursued the IR&D and congressional-notification loophole",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "'Is this through an email to, hypothetically, a dead email box?'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -111,7 +118,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "date": "2023-07-26",

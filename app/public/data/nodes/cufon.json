@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-07db791118",
 "edgeLabel": "1975 NORAD and command-post message traffic circulated by CUFON",
+"family": null,
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-11-08",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-d5edd9b01d",
 "edgeLabel": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
+"family": null,
 "id": "james-mattis",
 "l0": false,
 "label": "James N. Mattis",
 "note": "The letter asks the Secretary to 'ask the hard questions'. Garry Reid's memo later questioned its 'uncertain provenance' — while the letter itself sits in the Department's own FOIA release.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2017-12-16",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -62,10 +66,13 @@
 "direction": "in",
 "edgeId": "e-c3334edce8",
 "edgeLabel": "Author, 4 October 2017; hand-delivered to the Secretary's office",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The protest letter naming Departmental opposition to further UAP research as his reason for leaving.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-785567ca81",
 "edgeLabel": "records the Spanish release and DI55's non-access",
+"family": null,
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

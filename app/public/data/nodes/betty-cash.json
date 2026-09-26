@@ -77,10 +77,13 @@
 "direction": "in",
 "edgeId": "e-2a34e96ccd",
 "edgeLabel": "The United States denied ownership of the object and the aircraft",
+"family": null,
 "id": "cash-v-united-states",
 "l0": false,
 "label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
 "note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-08-21",
@@ -89,7 +92,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +103,13 @@
 "direction": "out",
 "edgeId": "e-ee2256ce2d",
 "edgeLabel": "Lead named plaintiff",
+"family": null,
 "id": "cash-v-united-states",
 "l0": false,
 "label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
 "note": "Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, No. H-84-348, S.D. Tex., Houston Division, dismissed 21 August 1986 by Judge Ross N. Sterling.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1986-08-21",
@@ -111,7 +118,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -121,10 +129,13 @@
 "direction": "in",
 "edgeId": "e-da40cd6ba6",
 "edgeLabel": "Investigator of record from February 1981",
+"family": null,
 "id": "john-schuessler",
 "l0": false,
 "label": "John F. Schuessler",
 "note": "Schuessler and Project VISIT taped the hospital interview in early February 1981, conducted the on-site investigation on 28 February 1981 and filed a 35-page report with MUFON on 4 March 1981; he published the case file in 1998.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-10-03",
@@ -133,7 +144,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "date": "1998-12-29",

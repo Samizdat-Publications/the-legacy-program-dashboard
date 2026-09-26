@@ -32,10 +32,13 @@
 "direction": "out",
 "edgeId": "e-f825ea2399",
 "edgeLabel": "Missile combat crew commander at F. E. Warren, 1974 to 1977",
+"family": null,
 "id": "l-warren",
 "l0": false,
 "label": "F. E. Warren AFB, Wyoming",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-09-27",
@@ -44,7 +47,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -54,10 +58,13 @@
 "direction": "out",
 "edgeId": "e-50bc674b0b",
 "edgeLabel": "Spoke on the record with a signed affidavit",
+"family": null,
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "No dated public statement by him before this event has been identified.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-09-27",
@@ -66,7 +73,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2010-09-27",

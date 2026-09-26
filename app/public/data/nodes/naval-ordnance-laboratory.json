@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-46d2736566",
 "edgeLabel": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
+"family": null,
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-4a2d971b55",
 "edgeLabel": "NASA commissioned both federal reports that date and attribute the alloy",
+"family": null,
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "out",
 "edgeId": "e-4c244605ad",
 "edgeLabel": "A Navy laboratory; the 55-Nitinol patent is assigned to the Secretary of the Navy",
+"family": null,
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "The Naval Ordnance Laboratory was a Navy laboratory; the 55-Nitinol patent is assigned to the United States as represented by the Secretary of the Navy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

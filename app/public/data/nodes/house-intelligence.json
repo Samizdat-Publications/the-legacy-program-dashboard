@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-d90f94162f",
 "edgeLabel": "Chairman during the FY2024 conference",
+"family": null,
 "id": "mike-turner",
 "l0": false,
 "label": "Michael R. Turner",
 "note": "Turner chaired HPSCI from January 2023 to January 2025, spanning the conference in which the disclosure division was reduced.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-d5effe5db8",
 "edgeLabel": "The Board was designed to bypass the intelligence committees",
+"family": null,
 "id": "uap-records-review-board",
 "l0": false,
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-3a7e87b1cf",
 "edgeLabel": "Committee of jurisdiction for IC controlled access programs",
+"family": null,
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "Programs carried in the IC SAP control enterprise are reported, if at all, to the intelligence committees rather than to the defense committees.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

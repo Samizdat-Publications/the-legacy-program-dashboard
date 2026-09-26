@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-50fd21e56f",
 "edgeLabel": "President of IDA after commanding US Strategic Command",
+"family": null,
 "id": "charles-a-richard",
 "l0": false,
 "label": "Charles A. Richard",
 "note": "His STRATCOM tenure, 2019-2022, coincides exactly with the UAP Task Force period and the establishment of AARO.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-93bc8e9953",
 "edgeLabel": "Operates the only FFRDC sponsored by the National Security Agency",
+"family": null,
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "IDA's Center for Communications and Computing is sponsored by NSA/CSS - the least publicly visible FFRDC in the country and the hardest for a committee to reach.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -91,10 +99,13 @@
 "direction": "in",
 "edgeId": "e-cd0fae33a2",
 "edgeLabel": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
+"family": null,
 "id": "harald-b-malmgren",
 "l0": false,
 "label": "Harald B. Malmgren",
 "note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-02-24",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -113,10 +125,13 @@
 "direction": "out",
 "edgeId": "e-3ceeeb6e3a",
 "edgeLabel": "IDA administered JASON from 1960 to 1973",
+"family": null,
 "id": "jason-advisory-group",
 "l0": false,
 "label": "JASON",
 "note": "JASON has never been housed inside the government: IDA, then SRI International, then MITRE. Continuity of the panel has always depended on an FFRDC operator's contract.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -125,7 +140,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

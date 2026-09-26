@@ -40,10 +40,13 @@
 "direction": "out",
 "edgeId": "e-53bd559b22",
 "edgeLabel": "Serving Inspector General",
+"family": null,
 "id": "dod-oig",
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War. Attested by the office's own site.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2026-05-12",

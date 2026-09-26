@@ -36,10 +36,13 @@
 "direction": "out",
 "edgeId": "e-0bad054735",
 "edgeLabel": "Waived notification limits reporting to eight members",
+"family": null,
 "id": "d-oversight",
 "l0": false,
 "label": "Congressional Oversight",
 "note": "The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -58,10 +62,13 @@
 "direction": "in",
 "edgeId": "e-c5ca7cb71e",
 "edgeLabel": "Conversion from visible to invisible",
+"family": null,
 "id": "d-program",
 "l0": false,
 "label": "Program Structure & Management",
 "note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-11-01",
@@ -70,7 +77,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -80,10 +88,13 @@
 "direction": "in",
 "edgeId": "e-f8bff00c2e",
 "edgeLabel": "Statutory basis for the access tier",
+"family": null,
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-01-01",
@@ -97,7 +108,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -107,10 +119,13 @@
 "direction": "out",
 "edgeId": "e-eb60349b7a",
 "edgeLabel": "SAP tiers implement compartmentation",
+"family": null,
 "id": "d-secrecy-architecture",
 "l0": false,
 "label": "Secrecy Architecture",
 "note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-09-12",
@@ -119,7 +134,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -129,10 +145,13 @@
 "direction": "in",
 "edgeId": "e-df64c24d34",
 "edgeLabel": "A primary statement of how special access programmes are established and by whom",
+"family": null,
 "id": "gao-nsiad-88-152",
 "l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The report is a primary statement of how special access programmes are established and by whom.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1988-05-24",
@@ -141,7 +160,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -151,10 +171,13 @@
 "direction": "in",
 "edgeId": "e-ec701494a2",
 "edgeLabel": "Orders a special access compartment over a whole policy subject",
+"family": null,
 "id": "nsdd-159",
 "l0": false,
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
 "note": "The directive tells the national security adviser to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action', with one designated focal point per agency. This is special access architecture applied to policy rather than to a programme, and it is 1985.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -163,7 +186,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

@@ -26,10 +26,13 @@
 "direction": "out",
 "edgeId": "e-de0bc59df7",
 "edgeLabel": "Witness of record, appearing as Deputy Director of Naval Intelligence",
+"family": null,
 "id": "hearing-2022-05-17",
 "l0": false,
 "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "note": "A genuine witness appearance in an official capacity.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-05-17",
@@ -38,7 +41,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": null,

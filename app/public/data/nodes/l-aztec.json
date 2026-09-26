@@ -24,10 +24,13 @@
 "direction": "in",
 "edgeId": "e-f4b689bd5b",
 "edgeLabel": "alleged crash site",
+"family": null,
 "id": "aztec-1948",
 "l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-25",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

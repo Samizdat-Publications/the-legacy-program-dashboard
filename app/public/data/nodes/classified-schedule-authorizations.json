@@ -47,10 +47,13 @@
 "direction": "out",
 "edgeId": "e-32d352ce56",
 "edgeLabel": "The Schedule is the instrument by which the entire NIP is authorised",
+"family": null,
 "id": "nip",
 "l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-12-18",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -69,10 +73,13 @@
 "direction": "in",
 "edgeId": "e-8dcc79bc9c",
 "edgeLabel": "What the Schedule of Authorizations looks like from the inside",
+"family": null,
 "id": "nip-fy2013-summary-disclosure",
 "l0": false,
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -81,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -91,10 +99,13 @@
 "direction": "out",
 "edgeId": "e-2478d39226",
 "edgeLabel": "Section 3306(a) is the sole affirmative exception to the bar on disclosing the Schedule",
+"family": null,
 "id": "usc-50-3306",
 "l0": false,
 "label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
 "note": "Section 6102(b)(3)(A) names 50 U.S.C. 3306(a) as the one statutory route by which any portion of the classified Schedule may be publicly disclosed. Attested by the enacted text.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-12-18",
@@ -103,7 +114,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

@@ -24,10 +24,13 @@
 "direction": "in",
 "edgeId": "e-baf54d6a54",
 "edgeLabel": "the provision that removes a contractor facility from the government's own industrial security oversight",
+"family": null,
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "Defined in DoD Directive 5205.07 and DoD Manual 5205.07 Volume 1 as a provision approved by the Secretary or Deputy Secretary of Defense relieving the defence security agency of its National Industrial Security Program oversight responsibilities at a contractor facility. It is the structural seam at which a programme held at a company stops being visible to any government security official outside the programme.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-18",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -51,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-8418e9fd3a",
 "edgeLabel": "The structural discipline is a product of the independent-media substrate",
+"family": null,
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "The office-symbol-level structural work exists because a format existed that could carry two- and three-hour document-dense expositions. No broadcast or print outlet would have published it; the format created the discipline.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-01-11",
@@ -68,7 +75,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -78,10 +86,13 @@
 "direction": "in",
 "edgeId": "e-51e6ce2365",
 "edgeLabel": "the office that holds the Department's SAP portfolio and is its single point of contact to Congress",
+"family": null,
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "Established by DoD Directive 5205.07 (reissued 12 September 2024) 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general or flag officer or SES equivalent, and designated the primary DoD liaison with the Executive Branch and Congress on all DoD SAP issues. Any structural map of where a legacy programme could sit starts at this node.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-18",
@@ -95,7 +106,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -105,10 +117,13 @@
 "direction": "in",
 "edgeId": "e-baff3ef5cb",
 "edgeLabel": "the issuance that documents the approval and oversight chain this domain is trying to map",
+"family": null,
 "id": "dodi-5205-11",
 "l0": true,
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 (effective 12 September 2024) sets out the prospective SAP approval sequence in days from establishment, the review bodies (SSWG, Senior Review Group, SAPOC) and the oversight roles. It is the only public document that walks the whole chain end to end, which makes it the domain's primary methodological source rather than merely one of its members.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-08-09",
@@ -117,7 +132,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -127,10 +143,13 @@
 "direction": "in",
 "edgeId": "e-e4d7505ccd",
 "edgeLabel": "the parallel control-office enterprise on the intelligence-community side of the same architecture",
+"family": null,
 "id": "ic-sapco",
 "l0": false,
 "label": "Intelligence Community special access program control office enterprise",
 "note": "The IC maintains its own special access and controlled access program control architecture under DNI authority, separate from the DoD SAP enterprise administered by DoD SAPCO. AARO's Historical Record Report Volume I confirms its existence in the government's own UAP record. The two-sided structure matters because a programme can be lodged on either side, and the oversight statutes differ.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -144,7 +163,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -154,10 +174,13 @@
 "direction": "in",
 "edgeId": "e-7fa29bb9a5",
 "edgeLabel": "the office charged with counting the classification system, and therefore the boundary of the public map",
+"family": null,
 "id": "isoo",
 "l0": false,
 "label": "Information Security Oversight Office",
 "note": "ISOO is housed at the National Archives and is responsible to the President for policy and oversight of the government-wide security classification system and the National Industrial Security Program, under Executive Orders 13526 and 13556. Where ISOO's annual reporting stops is where this domain's open-source organisational mapping has to switch to inference.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -166,7 +189,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -176,10 +200,13 @@
 "direction": "in",
 "edgeId": "e-5a40d1833c",
 "edgeLabel": "the named model this domain is arguing about, and the reason to keep it graded Tier 3",
+"family": null,
 "id": "manhattan-project-2",
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "UAP Gerb's onion model of an indefinitely layered secrecy architecture, set out across two investigations published 1 May and 19 June 2026, is the most fully articulated structural hypothesis in circulation and is what the independent-media substrate has organised itself around. It is sourced only to those two videos and has no independent documentary corroboration, which is exactly why it belongs in this domain at Tier 3 rather than being excluded from it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-01",
@@ -193,7 +220,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -203,10 +231,13 @@
 "direction": "in",
 "edgeId": "e-d9faad99ea",
 "edgeLabel": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
+"family": null,
 "id": "ousdi",
 "l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -225,7 +256,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -235,10 +267,13 @@
 "direction": "in",
 "edgeId": "e-cb8dc39bca",
 "edgeLabel": "the statutory oversight scheme, and the exception written into it",
+"family": null,
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -257,7 +292,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -267,10 +303,13 @@
 "direction": "in",
 "edgeId": "e-61b3e8b8fe",
 "edgeLabel": "the four-member channel that 10 U.S.C. 119(e) substitutes for committee reporting",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Sec. 119(e)(2) directs that where the Secretary exercises the waiver, the information and the justification go jointly to the chairman and ranking minority member of each of the defense committees - the Armed Services and Appropriations committees of both chambers. Attaching this node to the structural domain is what stops the two channels being conflated. [Corrected 14 Aug 2026: 10 U.S.C. 119(g) defines 'defense committees' as SIX bodies including both Appropriations Defense subcommittees, so notification runs to twelve seats, not eight. Section 119 uses its own definition, not 10 U.S.C. 101(a)(16).]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-21",
@@ -289,7 +328,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

@@ -43,10 +43,13 @@
 "direction": "out",
 "edgeId": "e-e53d978268",
 "edgeLabel": "FOIA request that produced the records at issue in the suit",
+"family": null,
 "id": "grusch-v-chapman",
 "l0": false,
 "label": "David C. Grusch v. Michael Chapman et al.",
 "note": "Klippenstein obtained Grusch's 2014 and 2018 Loudoun County emergency-custody police records under Virginia FOIA and published them in The Intercept on 9 August 2023; Grusch's civil action was against the Sheriff who released them, not the reporter.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-08-09",
@@ -60,7 +63,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -70,10 +74,13 @@
 "direction": "in",
 "edgeId": "e-210bf9b041",
 "edgeLabel": "Member of Congress characterizes the records leak as a discrediting operation",
+"family": null,
 "id": "nancy-mace",
 "l0": false,
 "label": "Nancy Ruth Mace",
 "note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -82,7 +89,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": "2023-08-09",

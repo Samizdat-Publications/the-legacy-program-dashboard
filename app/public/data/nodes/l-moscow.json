@@ -17,10 +17,13 @@
 "direction": "in",
 "edgeId": "e-5173ffb477",
 "edgeLabel": "run from Moscow: Kremlin decision, MoD institute, IZMIRAN",
+"family": null,
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was 'one of the central military research institutes in the Moscow region'; and the academic branch was run from IZMIRAN, also in the Moscow region.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -29,7 +32,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

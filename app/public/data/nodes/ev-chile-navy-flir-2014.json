@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-2802d88f97",
 "edgeLabel": "analysed the Navy FLIR case for two years then released it",
+"family": null,
 "id": "cefaa",
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "The Chilean office published the raw sensor product without an explanation, three years before the US DoD authorised release of the Navy videos.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2017-01-09",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

@@ -36,10 +36,13 @@
 "direction": "in",
 "edgeId": "e-aa87a4b2f1",
 "edgeLabel": "A disclaimer disowning authentication is attached in advance to every cleared account",
+"family": null,
 "id": "cia-prepublication-classification-review-board",
 "l0": false,
 "label": "CIA Prepublication Classification Review Board",
 "note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2018-11-28",
@@ -48,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -58,10 +62,13 @@
 "direction": "in",
 "edgeId": "e-00b8f13277",
 "edgeLabel": "Denial is the public face of concealment",
+"family": null,
 "id": "d-coverup",
 "l0": false,
 "label": "The Cover-Up",
 "note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -70,7 +77,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -80,10 +88,13 @@
 "direction": "in",
 "edgeId": "e-b22231a57f",
 "edgeLabel": "Four official explanations for one event",
+"family": null,
 "id": "d-roswell",
 "l0": false,
 "label": "Roswell",
 "note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -92,7 +103,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -102,10 +114,13 @@
 "direction": "in",
 "edgeId": "e-38a9bb8999",
 "edgeLabel": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
+"family": null,
 "id": "donald-h-menzel",
 "l0": false,
 "label": "Donald H. Menzel",
 "note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1969",
@@ -114,7 +129,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -124,10 +140,13 @@
 "direction": "in",
 "edgeId": "e-933a57c3d3",
 "edgeLabel": "The Rockefeller Commission anonymised him and footnoted his stability",
+"family": null,
 "id": "frank-olson-death-1953",
 "l0": false,
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "The published report calls him only an employee of the Department of the Army and attaches a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1975-06",
@@ -136,7 +155,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -146,10 +166,13 @@
 "direction": "in",
 "edgeId": "e-f1be4015f6",
 "edgeLabel": "An official explanation offered four months after the event",
+"family": null,
 "id": "mdang-flare-statement-1997",
 "l0": false,
 "label": "Maryland Air National Guard flare statement, 26 July 1997",
 "note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-07-26",
@@ -158,7 +181,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -168,10 +192,13 @@
 "direction": "in",
 "edgeId": "e-bc630b2273",
 "edgeLabel": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
+"family": null,
 "id": "tr-ac-47-silver-bug",
 "l0": false,
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
 "note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1955-02-15",
@@ -180,7 +207,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -190,10 +218,13 @@
 "direction": "in",
 "edgeId": "e-46e3f4a011",
 "edgeLabel": "States the fact of a compromise while naming no operation",
+"family": null,
 "id": "us-v-pelton-1986",
 "l0": false,
 "label": "United States v. Ronald W. Pelton (D. Md. 1986)",
 "note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -202,7 +233,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

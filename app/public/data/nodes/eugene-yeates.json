@@ -66,10 +66,13 @@
 "direction": "out",
 "edgeId": "e-6704b4f2de",
 "edgeLabel": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
+"family": null,
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1981-11-03",
@@ -78,7 +81,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -88,10 +92,13 @@
 "direction": "out",
 "edgeId": "e-2a56b4bfcf",
 "edgeLabel": "Yeates executed the affidavit as NSA Chief of Policy",
+"family": null,
 "id": "yeates-affidavit",
 "l0": false,
 "label": "Yeates Affidavit (NSA, 1980)",
 "note": "The affidavit was submitted for in camera review only; the plaintiffs never saw it and the judge ruled for NSA on its basis.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2016-09-10",
@@ -100,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1980-10-09",

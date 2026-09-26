@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-56b8be0a95",
 "edgeLabel": "Front-page newspaper story about him, seven years before the claim",
+"family": null,
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', which was wrong: he is the subject of the article, not its author or its holder. Journalism about a person is typed investigative here. The article's description of him as a physicist is what he told the reporter, and the qualification travels with the edge.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1982-06-27",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-74247f9f9d",
 "edgeLabel": "The newspaper, the facility and the event are all in Los Alamos",
+"family": null,
 "id": "l-los-alamos",
 "l0": false,
 "label": "Los Alamos, New Mexico",
 "note": "A local daily, naming the Los Alamos Meson Physics Facility.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1982-06-27",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-cb88b8efb2",
 "edgeLabel": "Holds the only openable copy of the article's text",
+"family": null,
 "id": "tom-mahood",
 "l0": false,
 "label": "Tom Mahood",
 "note": "GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1982-06-27",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

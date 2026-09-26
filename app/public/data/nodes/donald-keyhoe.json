@@ -50,10 +50,13 @@
 "direction": "in",
 "edgeId": "e-c5cc37f1cc",
 "edgeLabel": "Signed the CIA reply to Keyhoe",
+"family": null,
 "id": "charles-p-cabell",
 "l0": false,
 "label": "Gen. Charles P. Cabell",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-03",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -72,10 +76,13 @@
 "direction": "out",
 "edgeId": "e-11e74ee7a1",
 "edgeLabel": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1958-04-04",
@@ -84,7 +91,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -94,10 +102,13 @@
 "direction": "out",
 "edgeId": "e-555c7dcf04",
 "edgeLabel": "Director, by September 1957 and still in post May 1964",
+"family": null,
 "id": "nicap",
 "l0": true,
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "An Air Force headquarters letter of 20 September 1957 addresses him as Director NICAP at 1536 Connecticut Avenue NW, and the organisation's May 1964 volume carries him on its masthead as director. No opened record gives an end date.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -106,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -116,10 +128,13 @@
 "direction": "out",
 "edgeId": "e-1f838db3ba",
 "edgeLabel": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
+"family": null,
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -128,7 +143,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -138,10 +154,13 @@
 "direction": "out",
 "edgeId": "e-aa396ff8f5",
 "edgeLabel": "The Air Force insisted on being the single channel for his inquiries",
+"family": null,
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1958-04-04",
@@ -150,7 +169,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": "1957-09-20",

@@ -55,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-3e440c35a8",
 "edgeLabel": "Presentation transcript hosted by Check The Evidence",
+"family": null,
 "id": "checktheevidence",
 "l0": false,
 "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
 "note": "Genuine custody: a hosting site holding a file. Direction and type mirror the board's existing scott-sorensen-notes-1990 to arvp-fluxliner-project edge, and the treatment of the-black-vault.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2014-02-11",
@@ -67,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -77,10 +81,13 @@
 "direction": "in",
 "edgeId": "e-412983978d",
 "edgeLabel": "Author and copyright holder of the presentation transcript",
+"family": null,
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08",
@@ -89,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -99,10 +107,13 @@
 "direction": "out",
 "edgeId": "e-44cf405595",
 "edgeLabel": "The dated artefact that carries the claim; opened in full",
+"family": null,
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "The dossier proposed this as a custody edge. Built as investigative to match the board's existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1998-08",
@@ -111,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

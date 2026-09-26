@@ -41,10 +41,13 @@
 "direction": "out",
 "edgeId": "e-dc422e2331",
 "edgeLabel": "AARO's 2024 finding restates the 1994-1997 Air Force position",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Twenty-seven years later the successor office reaffirmed the MOGUL attribution without new primary records, because the primary records GAO identified as destroyed have not been recovered.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-02-01",
@@ -58,7 +61,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -68,10 +72,13 @@
 "direction": "in",
 "edgeId": "e-8b16784bd7",
 "edgeLabel": "The Air Force reports were produced to rebut Marcel's account",
+"family": null,
 "id": "jesse-marcel",
 "l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1997-06-24",
@@ -85,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -95,10 +103,13 @@
 "direction": "in",
 "edgeId": "e-3174ce39e6",
 "edgeLabel": "MOGUL is the load-bearing element of the official explanation",
+"family": null,
 "id": "project-mogul",
 "l0": false,
 "label": "Project MOGUL",
 "note": "The Air Force concluded the most likely source of the recovered wreckage was a Project MOGUL balloon train, replacing the weather balloon account it had maintained since 1947.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -112,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -122,10 +134,13 @@
 "direction": "in",
 "edgeId": "e-0adc64f9ce",
 "edgeLabel": "Schiff's inquiry forced the Air Force to abandon the weather balloon story",
+"family": null,
 "id": "steven-schiff",
 "l0": false,
 "label": "Steven H. Schiff",
 "note": "Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1995-01-01",
@@ -139,7 +154,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

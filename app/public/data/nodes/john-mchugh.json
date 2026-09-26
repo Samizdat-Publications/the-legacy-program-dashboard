@@ -38,10 +38,13 @@
 "direction": "out",
 "edgeId": "e-eb791960aa",
 "edgeLabel": "Representative, New York 23rd district, until 21 September 2009",
+"family": null,
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -60,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -70,10 +74,13 @@
 "direction": "out",
 "edgeId": "e-69044cbc2f",
 "edgeLabel": "Ranking Member, House Armed Services Committee",
+"family": null,
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -97,7 +104,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "2009-01-06",

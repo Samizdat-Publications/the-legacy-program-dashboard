@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-0ab79628e4",
 "edgeLabel": "Named inventor",
+"family": null,
 "id": "salvatore-pais",
 "l0": false,
 "label": "Salvatore Cezar Pais",
 "note": "Application 15/928703, assigned to the Secretary of the Navy.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

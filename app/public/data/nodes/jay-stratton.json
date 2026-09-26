@@ -147,10 +147,13 @@
 "direction": "out",
 "edgeId": "e-030552e602",
 "edgeLabel": "AAWSAP participant who later ran the successor task force",
+"family": null,
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Direct personnel continuity from the 2008 DIA contract to the organisation that produced the 2021 ODNI assessment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -159,7 +162,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -169,10 +173,13 @@
 "direction": "in",
 "edgeId": "e-d4c4360eaf",
 "edgeLabel": "Former UAP Task Force director appears on record",
+"family": null,
 "id": "age-of-disclosure",
 "l0": false,
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "Stratton, former director of the government's UAP Task Force, is named in the film's promotional materials as a participant.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-11-01",
@@ -181,7 +188,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -191,10 +199,13 @@
 "direction": "out",
 "edgeId": "e-d5e9c28c92",
 "edgeLabel": "UAP Task Force Director tasked Grusch to identify all SAPs and CAPs (2019)",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch swore that in 2019 'the UAP Task Force Director asked me to identify all special access programs and controlled access programs... we needed to satisfy our congressionally mandated mission.' Stratton is the individual publicly identified as directing that effort in that period. Grusch has never made the identification himself, so this is a reasoned inference, not a documented one.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -208,7 +219,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -218,10 +230,13 @@
 "direction": "out",
 "edgeId": "e-35acc27ac3",
 "edgeLabel": "UAPTF Director tasked Grusch to identify all relevant SAPs",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch testified under oath that the UAP Task Force Director gave him this tasking and that the read-ons were then refused. Stratton is the publicly identified holder of that post.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -230,7 +245,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -240,10 +256,13 @@
 "direction": "out",
 "edgeId": "e-fb726a3759",
 "edgeLabel": "director of the UAP Task Force, 2020-2021",
+"family": null,
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Stratton is publicly identified as UAPTF director in its operative period, including in his own public statements and in the 2024 announcement of his memoir.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-09-12",
@@ -252,7 +271,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -262,10 +282,13 @@
 "direction": "out",
 "edgeId": "e-a4d95ee7cb",
 "edgeLabel": "Director, UAP Task Force",
+"family": null,
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The AAWSAP alumnus who took the subject back inside government after the 2017 disclosure.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -274,7 +297,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "date": "2009-01-01",

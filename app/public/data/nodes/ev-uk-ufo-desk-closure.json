@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-a21e2a485f",
 "edgeLabel": "key recommendation executed nine years later",
+"family": null,
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Condign's single key recommendation was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed it closed in 2009 on the same stated ground.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2006-05-15",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -62,10 +66,13 @@
 "direction": "in",
 "edgeId": "e-fdea9baa08",
 "edgeLabel": "principal public critic of the 2009 closure",
+"family": null,
 "id": "nick-pope",
 "l0": false,
 "label": "Nick Pope",
 "note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-01",
@@ -79,7 +86,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "coords": null,

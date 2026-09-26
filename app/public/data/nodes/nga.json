@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-0bc7743774",
 "edgeLabel": "GS-15 Senior GEOINT Capabilities Requirements Officer; agency co-lead for UAP analysis",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "From November 2021 to April 2023 Grusch was a GS-15 at NGA and, in his sworn words, 'my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well as reporting to the UAP Task Force and eventually, once it was established, the All-Domain Anomaly Resolution Office.' He also testified that reviewing overhead collection of such events was one of his primary NGA tasks.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -62,10 +66,13 @@
 "direction": "out",
 "edgeId": "e-50911e2989",
 "edgeLabel": "Named 2021 UAP contributor that produced nothing for the statutory collection",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-04-24",
@@ -79,7 +86,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -89,10 +97,13 @@
 "direction": "out",
 "edgeId": "e-c32756b9bd",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"family": null,
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names NGA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -101,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

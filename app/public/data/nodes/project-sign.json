@@ -41,10 +41,13 @@
 "direction": "in",
 "edgeId": "e-df18477793",
 "edgeLabel": "AARO finds SIGN, GRUDGE and Blue Book sightings were ordinary objects",
+"family": null,
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The 2024 report concludes most sightings across all the legacy programs were ordinary objects and misidentification, and that no official review has ever confirmed extraterrestrial technology.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-02-01",
@@ -53,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -63,10 +67,13 @@
 "direction": "out",
 "edgeId": "e-1d9d8bd6f1",
 "edgeLabel": "SIGN hosted by AMC intelligence at Wright Field, ATIC's predecessor",
+"family": null,
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "The first official UFO project was placed inside the foreign materiel exploitation organisation rather than a research or air defence body — the structural fact underlying this entire domain.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -80,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -90,10 +98,13 @@
 "direction": "out",
 "edgeId": "e-31805154ed",
 "edgeLabel": "SIGN staff produced the 1948 Estimate",
+"family": null,
 "id": "estimate-of-the-situation",
 "l0": false,
 "label": "Estimate of the Situation (1948)",
 "note": "Project SIGN personnel wrote a Top Secret estimate concluding the objects were interplanetary. The Condon Report, written under Air Force contract, records that it was prepared.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -102,7 +113,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -112,10 +124,13 @@
 "direction": "in",
 "edgeId": "e-0aa5d57e05",
 "edgeLabel": "Collection requirement fed the project that began weeks later",
+"family": null,
 "id": "schulgen-memo",
 "l0": false,
 "label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
 "note": "The 30 October 1947 collection tasking and the 30 December 1947 direction of Project SIGN are two steps of a single sequence initiated by the Twining memo.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-10-28",
@@ -129,7 +144,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -139,10 +155,13 @@
 "direction": "in",
 "edgeId": "e-2e1cfa4760",
 "edgeLabel": "Memo's recommendation produced Project SIGN",
+"family": null,
 "id": "twining-memo",
 "l0": false,
 "label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
 "note": "The Condon Report states Twining's 23 September 1947 letter directed establishment of a study of UFOs, which received priority designation in December 1947 and began as Project SIGN.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1968-11-01",
@@ -151,7 +170,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

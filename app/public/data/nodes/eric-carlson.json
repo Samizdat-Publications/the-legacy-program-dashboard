@@ -40,10 +40,13 @@
 "direction": "out",
 "edgeId": "e-873e0f19ed",
 "edgeLabel": "Echo Flight crew commander at Malmstrom",
+"family": null,
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Attested by his son and by researchers, and not disputed by anyone, but not documented in any opened record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2011-06-01",
@@ -57,7 +60,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -67,10 +71,13 @@
 "direction": "out",
 "edgeId": "e-205c0ea0fe",
 "edgeLabel": "The on-duty crew commander denies any UFO report reached the capsule",
+"family": null,
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2011-06-01",
@@ -84,7 +91,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 }
 ],
 "date": "1967-03-16",

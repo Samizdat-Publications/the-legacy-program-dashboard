@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-fc70cccfdd",
 "edgeLabel": "Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records",
+"family": null,
 "id": "boeing",
 "l0": false,
 "label": "The Boeing Company",
 "note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -51,10 +55,13 @@
 "direction": "out",
 "edgeId": "e-9e18b58924",
 "edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
+"family": null,
 "id": "dodi-3204-01",
 "l0": false,
 "label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-07-09",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -73,10 +81,13 @@
 "direction": "in",
 "edgeId": "e-a2b6a32a54",
 "edgeLabel": "Named in his own self-stated client list, 2000",
+"family": null,
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -85,7 +96,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -95,10 +107,13 @@
 "direction": "in",
 "edgeId": "e-26b335c0ff",
 "edgeLabel": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
+"family": null,
 "id": "robert-m-wood",
 "l0": false,
 "label": "Dr. Robert M. Wood",
 "note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2020-07-09",
@@ -107,7 +122,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

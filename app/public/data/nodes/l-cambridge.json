@@ -29,10 +29,13 @@
 "direction": "out",
 "edgeId": "e-fbe50159d6",
 "edgeLabel": "Loeb's Harvard base; launched the project from here",
+"family": null,
 "id": "avi-loeb",
 "l0": false,
 "label": "Abraham 'Avi' Loeb",
 "note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-09-02",
@@ -51,7 +54,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -61,10 +65,13 @@
 "direction": "out",
 "edgeId": "e-7b948d063a",
 "edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
+"family": null,
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-09-02",
@@ -83,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -93,10 +101,13 @@
 "direction": "in",
 "edgeId": "e-4ad9a85fbe",
 "edgeLabel": "The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics",
+"family": null,
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -105,7 +116,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": [

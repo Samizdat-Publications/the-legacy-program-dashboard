@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-e03253c9b2",
 "edgeLabel": "Lead author of the 34-author UAP review",
+"family": null,
 "id": "kevin-knuth",
 "l0": false,
 "label": "Kevin H. Knuth",
 "note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-04",
@@ -41,7 +44,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -51,10 +55,13 @@
 "direction": "in",
 "edgeId": "e-7b03c034f4",
 "edgeLabel": "Co-author of the 34-author UAP review",
+"family": null,
 "id": "matthew-szydagis",
 "l0": false,
 "label": "Matthew Szydagis",
 "note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-04",
@@ -63,7 +70,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -73,10 +81,13 @@
 "direction": "in",
 "edgeId": "e-c216fb66c6",
 "edgeLabel": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
+"family": null,
 "id": "university-at-albany",
 "l0": false,
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-06-04",
@@ -90,7 +101,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "coords": null,

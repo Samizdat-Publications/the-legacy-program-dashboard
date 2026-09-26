@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-55ecd6c9c8",
 "edgeLabel": "The 1987 Lear document gives him a military rank his own office forbade",
+"family": null,
 "id": "d-mj12",
 "l0": false,
 "label": "Majestic-12 Corpus",
 "note": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-07-26",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -72,10 +76,13 @@
 "direction": "out",
 "edgeId": "e-b16a0fe6c7",
 "edgeLabel": "First Secretary of Defense, 17 September 1947 to 28 March 1949",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The National Security Act of 1947 created the office at section 202(a) and required its holder to be appointed from civilian life; the Office of the Historian's persons list dates his tenure to the day.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1947-07-26",
@@ -84,7 +91,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -94,10 +102,13 @@
 "direction": "out",
 "edgeId": "e-bef526f571",
 "edgeLabel": "Secretary of the Navy until September 1947",
+"family": null,
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -106,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1949",

@@ -32,10 +32,13 @@
 "direction": "out",
 "edgeId": "e-cce55fe0a4",
 "edgeLabel": "Spoke on the record; not among the six named affiants on the opened page",
+"family": null,
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Whether he executed an affidavit is not established: the page names six affiants and he is not among them, which may be an omission on the page rather than a fact about him.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2010-09-27",
@@ -44,7 +47,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2010-09-27",

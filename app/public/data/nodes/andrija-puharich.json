@@ -50,10 +50,13 @@
 "direction": "out",
 "edgeId": "e-777269001e",
 "edgeLabel": "The subject on which a federal agency file names him",
+"family": null,
 "id": "d-consciousness",
 "l0": false,
 "label": "Consciousness & Observer Effects",
 "note": "The FBI file that carries him is a release of cross references to extra-sensory perception, and his own patents are about routing sound into the nervous system without the ear.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1957-09-06",
@@ -67,7 +70,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -77,10 +81,13 @@
 "direction": "out",
 "edgeId": "e-8635d630c3",
 "edgeLabel": "The Army's intelligence staff recorded an interest in his techniques in 1957",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The FBI memorandum of 6 September 1957 attributes the interest to Lieutenant Colonel John Downie of the Special Operations Branch, Assistant Chief of Staff, Intelligence, Department of the Army; the enclosure Downie furnished is not in the release.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1957-09-06",
@@ -89,7 +96,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 }
 ],
 "date": "1957-09-06",

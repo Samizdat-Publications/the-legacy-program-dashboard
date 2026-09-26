@@ -50,10 +50,13 @@
 "direction": "in",
 "edgeId": "e-86c7cd289c",
 "edgeLabel": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
+"family": null,
 "id": "doc-341-smw-history-1967",
 "l0": false,
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-06-14",
@@ -62,7 +65,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -72,10 +76,13 @@
 "direction": "in",
 "edgeId": "e-fd44161381",
 "edgeLabel": "Salas's crew commander; the 1 October 1996 letter",
+"family": null,
 "id": "frederick-meiwald",
 "l0": false,
 "label": "Col. Frederick Meiwald",
 "note": "HE WAS FOUND BY THE CLAIMANT IN SUMMER 1996 AND HIS LETTER IS PUBLISHED BY THE CLAIMANT. NO PRE-CONTACT STATEMENT EXISTS. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD AND TWO INCOMPATIBLE CHARACTERISATIONS OF IT ARE IN CIRCULATION.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -94,7 +101,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -104,10 +112,13 @@
 "direction": "in",
 "edgeId": "e-550fd0f314",
 "edgeLabel": "Disputes that any Oscar Flight incident occurred",
+"family": null,
 "id": "james-carlson",
 "l0": false,
 "label": "James Carlson",
 "note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -121,7 +132,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -131,10 +143,13 @@
 "direction": "out",
 "edgeId": "e-b3282c6ccc",
 "edgeLabel": "The claimed Oscar Flight capsule is in this wing's field",
+"family": null,
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Tier 2: the claim places it here, and the released unit history for this wing does not mention Oscar Flight at all.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -148,7 +163,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -158,10 +174,13 @@
 "direction": "in",
 "edgeId": "e-a4726f1177",
 "edgeLabel": "Separated Oscar Flight from Echo Flight and dated it",
+"family": null,
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "It is Hastings, not a sceptic, who made the separation that both improves the board's honesty and removes Echo Flight's documentation from the Oscar Flight claim.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -170,7 +189,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -180,10 +200,13 @@
 "direction": "in",
 "edgeId": "e-ea24d246c2",
 "edgeLabel": "Retargeting team commander; the source of the 24 March 1967 date",
+"family": null,
 "id": "robert-jamison",
 "l0": false,
 "label": "Capt. Robert Jamison",
 "note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -197,7 +220,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -207,10 +231,13 @@
 "direction": "in",
 "edgeId": "e-d563b7af04",
 "edgeLabel": "The originating claimant of the Oscar Flight account",
+"family": null,
 "id": "robert-salas",
 "l0": false,
 "label": "Capt. Robert L. Salas",
 "note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -229,7 +256,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": null,

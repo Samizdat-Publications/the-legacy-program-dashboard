@@ -23,10 +23,13 @@
 "direction": "out",
 "edgeId": "e-c2a398ac30",
 "edgeLabel": "Co-chaired the 13 November 2024 joint hearing",
+"family": null,
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Joint with the National Security subcommittee; Serial No. 118-135.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -40,7 +43,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -50,10 +54,13 @@
 "direction": "in",
 "edgeId": "e-6c9deef013",
 "edgeLabel": "Parent committee of Mace's subcommittee",
+"family": null,
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Mace's Cybersecurity, IT and Government Innovation subcommittee co-chaired the 13 Nov 2024 joint UAP hearing.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -62,7 +69,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -72,10 +80,13 @@
 "direction": "in",
 "edgeId": "e-213bf86c7d",
 "edgeLabel": "Chairwoman; presided over the 2024 joint hearing",
+"family": null,
 "id": "nancy-mace",
 "l0": false,
 "label": "Nancy Ruth Mace",
 "note": "Mace chaired the joint hearing and moved the Immaculate Constellation document into the record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -84,7 +95,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

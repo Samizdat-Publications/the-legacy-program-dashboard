@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-fa33e71b8a",
 "edgeLabel": "Written at Wurtsmith AFB by the 379th Bombardment Wing historian",
+"family": null,
 "id": "l-wurtsmith",
 "l0": false,
 "label": "Wurtsmith AFB, Michigan",
 "note": "The wing and the base are named in the documents themselves.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1979-01-18",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-f9137f2573",
 "edgeLabel": "The wing historian's file recovering an event his own wing history omitted",
+"family": null,
 "id": "wurtsmith-1975",
 "l0": false,
 "label": "Wurtsmith AFB incursion, 30 October 1975",
 "note": "Cahill's Research Record of Events of 17 January 1979 and Taylor's Memo for the Record of 18 January 1979.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1979-01-18",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

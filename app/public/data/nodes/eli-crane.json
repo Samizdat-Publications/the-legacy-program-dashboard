@@ -83,10 +83,13 @@
 "direction": "out",
 "edgeId": "e-5b29c24b18",
 "edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
+"family": null,
 "id": "crane-dod-reprisal-letter",
 "l0": false,
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -95,7 +98,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -105,10 +109,13 @@
 "direction": "out",
 "edgeId": "e-1d63c956f3",
 "edgeLabel": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
+"family": null,
 "id": "crane-dod-reprisal-letter",
 "l0": false,
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "note": "Crane enumerated three specific adverse actions - clearance removal, denial of promotion, loss of medical retirement - and entered the letter into the hearing record on 9 September 2025 reporting no reply.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -117,7 +124,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -127,10 +135,13 @@
 "direction": "in",
 "edgeId": "e-bef32da7d6",
 "edgeLabel": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
+"family": null,
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -139,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -149,10 +161,13 @@
 "direction": "out",
 "edgeId": "e-213ee1bc4e",
 "edgeLabel": "Cosponsor",
+"family": null,
 "id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "Congress.gov cosponsor record; Crane also entered the Grusch reprisal letter into the record of the hearing that followed.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2025-08-29",
@@ -161,7 +176,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "date": "2025-07-24",

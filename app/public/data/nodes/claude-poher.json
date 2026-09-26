@@ -57,10 +57,13 @@
 "direction": "out",
 "edgeId": "e-5dcf23d494",
 "edgeLabel": "founding director 1977-1978",
+"family": null,
 "id": "gepan",
 "l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-02-24",
@@ -69,7 +72,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "date": "1978-01-01",

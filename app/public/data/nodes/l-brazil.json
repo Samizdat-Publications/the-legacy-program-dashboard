@@ -17,10 +17,13 @@
 "direction": "out",
 "edgeId": "e-3a69cf08ed",
 "edgeLabel": "The 1986 engagement ranged across four Brazilian states",
+"family": null,
 "id": "ev-noite-ovnis-1986",
 "l0": false,
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "note": "São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -44,7 +47,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -54,10 +58,13 @@
 "direction": "out",
 "edgeId": "e-a61a3386ee",
 "edgeLabel": "The Força Aérea Brasileira is the air arm of the Brazilian state",
+"family": null,
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "Basic containment edge; the FAB is the institution that makes Brazil the board's counter-example. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -76,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +94,13 @@
 "direction": "out",
 "edgeId": "e-e0da3a94fc",
 "edgeLabel": "Brasília is the federal capital of Brazil",
+"family": null,
 "id": "l-brasilia",
 "l0": false,
 "label": "Brasilia, Federal District, Brazil",
 "note": "Structural containment edge. Both nodes stood at degree 0. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -113,7 +124,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -123,10 +135,13 @@
 "direction": "out",
 "edgeId": "e-54a3ebc48d",
 "edgeLabel": "Operação Prato was run on Colares, Pará, in northern Brazil",
+"family": null,
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -140,7 +155,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": null
 }
 ],
 "coords": [

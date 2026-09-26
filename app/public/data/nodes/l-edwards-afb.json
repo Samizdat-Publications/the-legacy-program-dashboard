@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-4bebe2311f",
 "edgeLabel": "Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme",
+"family": null,
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "His own statement in the caption layer: 'When I arrived at Edwards AFB - 6515 TSS - AFFTC, I was assigned to the F-15 R&D and FOT&E Program.' No form in the collection carries an Edwards assignment, and Andrew Johnson's account of the FOIA return does not list one. Tier 2 on his word.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2014-06-15",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-2f40ed25b5",
 "edgeLabel": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"family": null,
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -74,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -84,10 +92,13 @@
 "direction": "in",
 "edgeId": "e-9d7c7566a5",
 "edgeLabel": "Relays a second-hand 1973 Edwards North Base allegation",
+"family": null,
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "His 2001 testimony relays an account attributed to a man he says he met in 1992 at an Edwards air show, who is said to have seen a hovering craft at Edwards North Base in 1973. THE EDGE CARRIES AN ALLEGATION RELAYED AT ONE REMOVE. No Edwards record was opened, and the existence of the man he names is recorded as unverified on disclosure-project-briefing-2001 rather than as a claim.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2001-04",
@@ -96,7 +107,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "coords": [

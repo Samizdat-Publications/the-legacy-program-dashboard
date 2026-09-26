@@ -35,10 +35,13 @@
 "direction": "out",
 "edgeId": "e-f6ef22f7ec",
 "edgeLabel": "briefing analyses Nolan's Council Bluffs materials study",
+"family": null,
 "id": "garry-nolan",
 "l0": false,
 "label": "Garry Nolan",
 "note": "The briefing's subject is the SIMS and MIBI analysis led by Stanford professor Garry P. Nolan with Jacques Vallee, Sizun Jiang and Larry Lemke of the 1977 Council Bluffs, Iowa molten-metal sample, published in Progress in Aerospace Sciences 128 (2022).",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -52,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -62,10 +66,13 @@
 "direction": "in",
 "edgeId": "e-94c6878bb2",
 "edgeLabel": "author of Sol Science and Policy Briefing No. 3",
+"family": null,
 "id": "marik-von-rennenkampff",
 "l0": false,
 "label": "Marik von Rennenkampff",
 "note": "Von Rennenkampff is the named author of 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies,' The Sol Foundation Science and Policy Briefings No. 3, April 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -79,7 +86,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -89,10 +97,13 @@
 "direction": "in",
 "edgeId": "e-6ec18da82f",
 "edgeLabel": "publisher of Science and Policy Briefing No. 3",
+"family": null,
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "The briefing is issued in The Sol Foundation Science and Policy Briefings series (No. 3, April 2026, published online 30 April 2026) and carries the foundation's imprint and cofounders Garry Nolan and Peter Skafish on the colophon.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": null,
@@ -106,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

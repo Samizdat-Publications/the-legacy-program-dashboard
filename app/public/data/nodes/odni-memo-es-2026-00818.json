@@ -53,10 +53,13 @@
 "direction": "out",
 "edgeId": "e-564bde4e2c",
 "edgeLabel": "designates AARO as a receiving channel for waived-NDA testimony",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Witnesses are told that NDAs, agreements, oaths or commitments are waived 'when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -65,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -75,10 +79,13 @@
 "direction": "in",
 "edgeId": "e-2ff96058d6",
 "edgeLabel": "signatory",
+"family": null,
 "id": "aaron-lukas",
 "l0": false,
 "label": "Aaron Lukas",
 "note": "Aaron Lukas signed ES 2026-00818 as Principal Deputy Director of National Intelligence; the memorandum is unclassified and carries an ODNI executive secretariat control number.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -87,7 +94,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -97,10 +105,13 @@
 "direction": "out",
 "edgeId": "e-e64cb62474",
 "edgeLabel": "directed to release; absent from the statutory archive",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The Director of the Central Intelligence Agency is an addressee of the ODNI NDA-waiver memorandum and the CIA has no series in Record Group 615, whose transfer deadline passed on 30 September 2025.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -114,7 +125,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -124,10 +136,13 @@
 "direction": "out",
 "edgeId": "e-7e3a5abbb2",
 "edgeLabel": "directed to release; absent from the statutory archive",
+"family": null,
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -141,7 +156,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -151,10 +167,13 @@
 "direction": "out",
 "edgeId": "e-22854f548b",
 "edgeLabel": "directed to release; absent from the statutory archive",
+"family": null,
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "The Director of the Office of Intelligence and Counterintelligence, Department of Energy, is an addressee of ES 2026-00818; DOE has no RG 615 series.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -168,7 +187,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -178,10 +198,13 @@
 "direction": "in",
 "edgeId": "e-ab3e841c6f",
 "edgeLabel": "obtained and published",
+"family": null,
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison published the memorandum on 1 August 2026 after calling publicly on 29 July for ODNI to issue implementation guidance.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -195,7 +218,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -205,10 +229,13 @@
 "direction": "out",
 "edgeId": "e-b074fa5409",
 "edgeLabel": "names the agencies absent from the statutory archive",
+"family": null,
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The memorandum's distribution list includes CIA, DIA, NRO, NGA, DOE and every military department - none of which has a series in Record Group 615. The same agencies are simultaneously addressees of a UAP release directive and absentees from the statutory collection.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -222,7 +249,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -232,10 +260,13 @@
 "direction": "out",
 "edgeId": "e-741a4b62f4",
 "edgeLabel": "directed to release; absent from the statutory archive",
+"family": null,
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -249,7 +280,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -259,10 +291,13 @@
 "direction": "in",
 "edgeId": "e-a12a103706",
 "edgeLabel": "same originator, two months apart",
+"family": null,
 "id": "odni-uap-d001",
 "l0": false,
 "label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
 "note": "ODNI put a serving officer's encounter narrative into the PURSUE corpus in May and directed the whole IC to release its UAP holdings to the PURSUE Task Force by August.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -276,7 +311,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -286,10 +322,13 @@
 "direction": "out",
 "edgeId": "e-6ba8443113",
 "edgeLabel": "establishes as an entity with declassification authority",
+"family": null,
 "id": "pursue-task-force",
 "l0": false,
 "label": "PURSUE Task Force",
 "note": "The memorandum directs release of all IC UAP information to the 'PURSUE Task Force for review and declassification' - the first paper instrument naming PURSUE as a body rather than a website.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-01",
@@ -298,7 +337,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

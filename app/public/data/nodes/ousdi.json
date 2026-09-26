@@ -47,10 +47,13 @@
 "direction": "in",
 "edgeId": "e-5ceeee48f0",
 "edgeLabel": "originally placed under USD(I&S)",
+"family": null,
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The establishment memorandum directed USD(I&S) to establish the office and placed AARO in that chain until summer 2023.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-07-15",
@@ -59,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -69,10 +73,13 @@
 "direction": "out",
 "edgeId": "e-d9faad99ea",
 "edgeLabel": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
+"family": null,
 "id": "d-structure",
 "l0": false,
 "label": "Program structure and organisational mapping",
 "note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -91,7 +98,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -101,10 +109,13 @@
 "direction": "out",
 "edgeId": "e-05472f762d",
 "edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
+"family": null,
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 assigns SAP policy responsibilities across OSD principals including the Under Secretary of Defense for Intelligence and Security, while vesting central management in DoD SAPCO under DEPSECDEF.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2024-09-12",
@@ -113,7 +124,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -123,10 +135,13 @@
 "direction": "in",
 "edgeId": "e-b46b67f432",
 "edgeLabel": "served in OUSD(I) through October 2017",
+"family": null,
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2019-06-13",
@@ -140,7 +155,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -150,10 +166,13 @@
 "direction": "in",
 "edgeId": "e-ede027794e",
 "edgeLabel": "Non-Covert Action Programs alleged to carry waived reporting requirements",
+"family": null,
 "id": "manhattan-project-2",
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-06-19",
@@ -162,7 +181,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -172,10 +192,13 @@
 "direction": "in",
 "edgeId": "e-6e9f689760",
 "edgeLabel": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
+"family": null,
 "id": "neill-tipton",
 "l0": false,
 "label": "Neill Tipton",
 "note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-01-01",
@@ -184,7 +207,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -194,10 +218,13 @@
 "direction": "out",
 "edgeId": "e-3aca902dec",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment",
+"family": null,
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-06-25",
@@ -206,7 +233,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

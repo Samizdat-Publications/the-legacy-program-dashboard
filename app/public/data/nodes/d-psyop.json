@@ -42,10 +42,13 @@
 "direction": "in",
 "edgeId": "e-767f24842a",
 "edgeLabel": "Propaganda is the first named category in the charter",
+"family": null,
 "id": "cia-office-of-policy-coordination",
 "l0": false,
 "label": "CIA Office of Policy Coordination",
 "note": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1948-06-18",
@@ -54,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -64,10 +68,13 @@
 "direction": "in",
 "edgeId": "e-5c1ff77fec",
 "edgeLabel": "Same service, both functions",
+"family": null,
 "id": "d-counterintel",
 "l0": false,
 "label": "Counterintelligence",
 "note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-05-20",
@@ -76,7 +83,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -86,10 +94,13 @@
 "direction": "in",
 "edgeId": "e-f84fed5a8b",
 "edgeLabel": "Debunking recommended as a security measure",
+"family": null,
 "id": "d-coverup",
 "l0": false,
 "label": "The Cover-Up",
 "note": "The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1953-01-17",
@@ -98,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -108,10 +120,13 @@
 "direction": "out",
 "edgeId": "e-25b998b015",
 "edgeLabel": "Fabricated material as the delivery vehicle",
+"family": null,
 "id": "d-disinformation",
 "l0": false,
 "label": "Disinformation & Fabricated Documents",
 "note": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2021-05-20",
@@ -120,7 +135,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -130,10 +146,13 @@
 "direction": "in",
 "edgeId": "e-c711784f2e",
 "edgeLabel": "Downstream of the Kirtland operation, which is this domain's best-known case",
+"family": null,
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2014-05-13",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -157,10 +177,13 @@
 "direction": "in",
 "edgeId": "e-4784735fe2",
 "edgeLabel": "First Director of the Psychological Strategy Board, appointed 1951",
+"family": null,
 "id": "gordon-gray",
 "l0": false,
 "label": "Gordon Gray",
 "note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1951-04-04",
@@ -169,7 +192,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -179,10 +203,13 @@
 "direction": "in",
 "edgeId": "e-6327dab193",
 "edgeLabel": "Calls for a cover and deception plan executed to provoke a citable reaction",
+"family": null,
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "1962-03-13",
@@ -191,7 +218,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 }
 ],
 "coords": null,

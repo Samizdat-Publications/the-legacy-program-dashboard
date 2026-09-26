@@ -29,10 +29,13 @@
 "direction": "in",
 "edgeId": "e-b5692c7540",
 "edgeLabel": "The records collection reaches government-funded contractor-held records",
+"family": null,
 "id": "ndaa-fy2024",
 "l0": true,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "Sec. 1841 defines the collection as record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence - a formulation that reaches services primes holding classified records under contract. No accounting of contractor holdings has been made.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -46,7 +49,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -56,10 +60,13 @@
 "direction": "out",
 "edgeId": "e-f023d40279",
 "edgeLabel": "Leidos is the government services business spun out of SAIC in 2013",
+"family": null,
 "id": "saic",
 "l0": false,
 "label": "Science Applications International Corporation",
 "note": "The split moved the classified services portfolio, and whatever records attach to it, into a separate corporate entity.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -68,7 +75,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

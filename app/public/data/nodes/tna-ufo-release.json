@@ -35,10 +35,13 @@
 "direction": "in",
 "edgeId": "e-b409aee156",
 "edgeLabel": "wrote the highlights guide for every tranche",
+"family": null,
 "id": "david-clarke-uk",
 "l0": false,
 "label": "Dr David Clarke",
 "note": "Each National Archives UFO release page credits Dr David Clarke's guide and carries his videocast or podcast.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-01",
@@ -47,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -57,10 +61,13 @@
 "direction": "out",
 "edgeId": "e-d14806602a",
 "edgeLabel": "the August 2009 tranche carried the Rendlesham material",
+"family": null,
 "id": "ev-rendlesham-files",
 "l0": false,
 "label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
 "note": "The National Archives itself billed the tranche as containing 'Britain's very own Roswell - Rendlesham Forest in Suffolk'.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2009-08-01",
@@ -69,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -79,10 +87,13 @@
 "direction": "in",
 "edgeId": "e-4ec169d9a2",
 "edgeLabel": "fronted the publicity for the file releases",
+"family": null,
 "id": "nick-pope",
 "l0": false,
 "label": "Nick Pope",
 "note": "The MoD approached Pope to help with the publicity drive when it decided to declassify and release the files; he became, in the broadcaster's phrase, the face of the Ministry's new-found transparency.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-02",
@@ -91,7 +102,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -101,10 +113,13 @@
 "direction": "out",
 "edgeId": "e-5a028752a6",
 "edgeLabel": "released files placed in DEFE 24 and DEFE 31",
+"family": null,
 "id": "uk-defe24",
 "l0": false,
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "Every tranche page lists the piece numbers transferred; the final June 2013 tranche is DEFE 24/2448-2465 and 2623-2629.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2013-06-01",
@@ -113,7 +128,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": null
 }
 ],
 "coords": null,

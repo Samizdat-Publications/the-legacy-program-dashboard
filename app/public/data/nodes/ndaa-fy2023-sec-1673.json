@@ -65,10 +65,13 @@
 "direction": "out",
 "edgeId": "e-851eb7f01c",
 "edgeLabel": "The statute legislates the exact programme category he alleges",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Sec. 1673(a)(1)(B) creates a reporting channel for programmes involving 'material retrieval, material analysis, reverse engineering' — Congress legislating for a category of activity it does not officially acknowledge.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-12-23",
@@ -77,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -87,10 +91,13 @@
 "direction": "out",
 "edgeId": "e-c03b8847a1",
 "edgeLabel": "Gag-order census feeds the contractor turn-in",
+"family": null,
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1673(b)(3) requires agencies and contractors to deliver copies of all UAP nondisclosure orders to AARO; Sec. 1102(d) would have required the same parties to deliver the material itself.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-12-23",
@@ -104,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -114,10 +122,13 @@
 "direction": "in",
 "edgeId": "e-b2acad0685",
 "edgeLabel": "Sec. 1673 builds the reporting channel on the Sec. 1683 office",
+"family": null,
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 1673 of P.L. 117-263 defines 'Office' by reference to Sec. 1683(a) and creates the authorized reporting mechanism administered by it.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-12-23",
@@ -126,7 +137,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -136,10 +148,13 @@
 "direction": "out",
 "edgeId": "e-c5c575145c",
 "edgeLabel": "Statutory NDA-voiding precedent behind the Act's whistleblower posture",
+"family": null,
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Sec. 1673(b)(1)(A) had already established that an authorized disclosure 'shall not be subject to a nondisclosure agreement'; the UAPDA extends that logic to records and material.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-12-23",
@@ -153,7 +168,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": null
 }
 ],
 "coords": null,

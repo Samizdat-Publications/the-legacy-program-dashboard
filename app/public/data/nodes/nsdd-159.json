@@ -65,10 +65,13 @@
 "direction": "out",
 "edgeId": "e-429fa7f008",
 "edgeLabel": "One focal point per component, the Agency included",
+"family": null,
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.' The design goal stated on page 2 is that knowledge of policy, of operations and of supporting activity be strictly compartmented from each other.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -77,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -87,10 +91,13 @@
 "direction": "out",
 "edgeId": "e-ec701494a2",
 "edgeLabel": "Orders a special access compartment over a whole policy subject",
+"family": null,
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "The directive tells the national security adviser to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action', with one designated focal point per agency. This is special access architecture applied to policy rather than to a programme, and it is 1985.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -99,7 +106,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -109,10 +117,13 @@
 "direction": "out",
 "edgeId": "e-e578f975a1",
 "edgeLabel": "Its first partial release was made under this order",
+"family": null,
 "id": "eo-12356",
 "l0": false,
 "label": "Executive Order 12356 - National Security Information (2 April 1982)",
 "note": "The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and partially declassified on 5 June 1987 under the provisions of EO 12356. The order that removed the public-interest test is the order under which the directive was first, partially, let out.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -121,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -131,10 +143,13 @@
 "direction": "out",
 "edgeId": "e-2234ce41b1",
 "edgeLabel": "Puts the only record copies in one NSC officer's hands",
+"family": null,
 "id": "national-security-council",
 "l0": false,
 "label": "National Security Council",
 "note": "The NSC Senior Director for Intelligence Programs holds the sole record copies of approved Findings and Memoranda of Notification, and administers the special access compartment protecting covert action policy. 'No other copies of approved Findings or MONs are authorized.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -143,7 +158,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 }
 ],
 "coords": null,

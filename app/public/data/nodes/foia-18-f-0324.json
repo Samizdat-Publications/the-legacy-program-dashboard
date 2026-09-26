@@ -23,10 +23,13 @@
 "direction": "in",
 "edgeId": "e-0db20c6da4",
 "edgeLabel": "Requested 17 Dec 2017; final response 17 Aug 2022",
+"family": null,
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "Four years and eight months to release eight pages describing an employee's resignation, during which the Department repeatedly characterised that employee in public.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2022-08-17",
@@ -35,7 +38,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 }
 ],
 "coords": null,

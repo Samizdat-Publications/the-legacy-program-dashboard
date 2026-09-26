@@ -132,10 +132,13 @@
 "direction": "out",
 "edgeId": "e-9a1df969f1",
 "edgeLabel": "Founder and Executive Director",
+"family": null,
 "id": "americans-for-safe-aerospace",
 "l0": true,
 "label": "Americans for Safe Aerospace",
 "note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -149,7 +152,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -159,10 +163,13 @@
 "direction": "in",
 "edgeId": "e-40b1d3b3a8",
 "edgeLabel": "Co-witness, 26 July 2023 hearing panel",
+"family": null,
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -171,7 +178,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -181,10 +189,13 @@
 "direction": "out",
 "edgeId": "e-05b39f1c37",
 "edgeLabel": "sworn witness",
+"family": null,
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -208,7 +219,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 3,
@@ -218,10 +230,13 @@
 "direction": "out",
 "edgeId": "e-9e4e6b2505",
 "edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
+"family": null,
 "id": "hr-6967-safe-airspace-for-americans-act",
 "l0": false,
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -235,7 +250,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -245,10 +261,13 @@
 "direction": "in",
 "edgeId": "e-d89228302b",
 "edgeLabel": "questioned Graves on scientific advisory board and NASA reporting",
+"family": null,
 "id": "maxwell-frost",
 "l0": false,
 "label": "Maxwell Alejandro Frost",
 "note": "Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -257,7 +276,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -267,10 +287,13 @@
 "direction": "out",
 "edgeId": "e-3abcbd6b60",
 "edgeLabel": "operational critique of the release format",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-14",
@@ -279,7 +302,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": null
 },
 {
 "claimTier": 2,
@@ -289,10 +313,13 @@
 "direction": "out",
 "edgeId": "e-c96292e7fb",
 "edgeLabel": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
+"family": null,
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2026-05-14",
@@ -301,7 +328,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -311,10 +339,13 @@
 "direction": "out",
 "edgeId": "e-c0db198809",
 "edgeLabel": "VFA-11 aircrew during the 2014-2015 encounter series",
+"family": null,
 "id": "roosevelt-2014-2015",
 "l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -323,7 +354,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 },
 {
 "claimTier": 1,
@@ -333,10 +365,13 @@
 "direction": "in",
 "edgeId": "e-e30228e583",
 "edgeLabel": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+"family": null,
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+"predicate": null,
+"predicateSide": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -350,7 +385,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": null
 }
 ],
 "date": "2023-07-26",
