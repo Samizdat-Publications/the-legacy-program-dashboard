@@ -1048,13 +1048,13 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-0f60717ed8": {
-   "claimant": null,
-   "speaker": "Adm. Stansfield Turner",
+   "claimant": "cia",
+   "speaker": "Adm. Stansfield Turner, Director of Central Intelligence",
    "artefactDate": "1977-08-03",
    "eventDate": null,
    "route": "hearing",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-0f989f4879": {
    "claimant": "susan-gough",
@@ -1823,13 +1823,12 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-1ead60130d": {
-   "claimant": null,
-   "speaker": "unnamed (textual analysis of Elizondo's written testimony)",
+   "claimant": "luis-elizondo",
    "artefactDate": "2024-11-13",
    "eventDate": null,
    "route": "hearing",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-1eb798c34b": {
    "claimant": null,
@@ -2517,13 +2516,13 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-29950584ae": {
-   "claimant": null,
-   "speaker": "Brookhaven National Laboratory",
+   "claimant": "doe",
+   "speaker": "Brookhaven National Laboratory, a Department of Energy laboratory, on its 'About Brookhaven' page",
    "artefactDate": null,
    "eventDate": null,
    "route": "document",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-29b63f4052": {
    "claimant": "stanton-friedman",
@@ -2800,13 +2799,13 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-2ce75a8a2e": {
-   "claimant": null,
-   "speaker": "Adm. Stansfield Turner (quoting the 1963 Report of Inspection of MKULTRA)",
+   "claimant": "cia",
+   "speaker": "Adm. Stansfield Turner, Director of Central Intelligence, quoting the 1963 Report of Inspection of MKULTRA",
    "artefactDate": "1963-07-26",
    "eventDate": null,
    "route": "hearing",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-2d1730ad9e": {
    "claimant": "phil-schneider",
@@ -3255,13 +3254,12 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-338f36edf9": {
-   "claimant": null,
-   "speaker": "National Archives (Guide to Federal Records, RG 374)",
+   "claimant": "national-archives",
    "artefactDate": null,
    "eventDate": "1946-12-31",
    "route": "document",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-339b6401fd": {
    "claimant": "gene-huff",
@@ -3345,13 +3343,12 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-34ce9589cc": {
-   "claimant": null,
-   "speaker": "National Archives (NARA), Air Force UFO records page",
+   "claimant": "national-archives",
    "artefactDate": null,
    "eventDate": null,
    "route": "document",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-34d43d3787": {
    "claimant": "dod",
@@ -3504,13 +3501,13 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-36d9e64d81": {
-   "claimant": null,
-   "speaker": "OSD Historical Office (Key Officials list)",
+   "claimant": "dod",
+   "speaker": "OSD Historical Office",
    "artefactDate": "2026-07-07",
    "eventDate": "2026-05-20",
    "route": "document",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-36e986ba83": {
    "claimant": null,
@@ -4725,7 +4722,8 @@
    "eventDate": null,
    "route": "hearing",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26",
+   "offBoard": "Adm. Robert Kramek, Commandant of the Coast Guard; neither he nor the Coast Guard is a node"
   },
   "c-487eb621f8": {
    "claimant": "dylan-borland",
@@ -6006,13 +6004,13 @@
    "by": "sonnet-5 batches 1-2, 2026-09-26"
   },
   "c-5d53ff6cb0": {
-   "claimant": null,
-   "speaker": "Carson",
+   "claimant": "house-intelligence",
+   "speaker": "Rep. Andre Carson, chairing the subcommittee",
    "artefactDate": "2022-05-17",
    "eventDate": null,
    "route": "hearing",
    "via": null,
-   "by": "sonnet-5 batches 1-2, 2026-09-26"
+   "by": "sonnet-5 batches 1-2, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-5d8f64bd09": {
    "claimant": null,
@@ -10409,13 +10407,13 @@
    "by": "sonnet-5 batch 3, 2026-09-26"
   },
   "c-a0636b3cac": {
-   "claimant": null,
-   "speaker": "unnamed (court record)",
+   "claimant": "nsa",
+   "speaker": "the court's ruling as NSA's own FOIA litigation records give it",
    "artefactDate": null,
    "eventDate": null,
    "route": "filing",
    "via": null,
-   "by": "sonnet-5 batch 3, 2026-09-26"
+   "by": "sonnet-5 batch 3, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-a0bcdfb314": {
    "claimant": "jesse-michels",
@@ -12911,13 +12909,13 @@
    "by": "mechanical (attribution opens a claim on the speaker's own node)"
   },
   "c-c2dbcb6933": {
-   "claimant": null,
-   "speaker": "John F. Kennedy (Public Papers of the Presidents)",
+   "claimant": "eop",
+   "speaker": "President John F. Kennedy (Public Papers of the Presidents)",
    "artefactDate": "1962-12-07",
    "eventDate": null,
    "route": "document",
    "via": null,
-   "by": "sonnet-5 batch 3, 2026-09-26"
+   "by": "sonnet-5 batch 3, 2026-09-26; opus-5.5 review of marked claims with no claimant, 2026-09-26"
   },
   "c-c2e397eb16": {
    "claimant": null,

@@ -143,6 +143,8 @@ RULES = [
     "programme, documentary, talk or livestream), interview (a published interview or podcast), book, "
     "filing (a complaint, affidavit, lawsuit, IG or FOIA filing), press (an article, press release, "
     "statement to the press, op-ed or post), document (a report, letter, memo or web page).",
+    "offBoard: only on a row with no claimant whose claim is marked said on the record: why no node "
+    "fits (neither the speaker nor any institution they spoke for is on the board).",
     "via: who brought the claim to the record, as the record names them (the show and host, the "
     "committee, the outlet), or null. It is what the notability rule asks of a claimant: by what "
     "route the claim reached us.",
@@ -456,6 +458,9 @@ def cmd_merge(a):
             keep = {k: r.get(k) for k in ("claimant", "speaker", "artefactDate", "eventDate", "route", "via")}
             if not keep.get("speaker"):
                 keep.pop("speaker")
+            off = r.get("offBoard") or (rows.get(cid) or {}).get("offBoard")
+            if off and not keep.get("claimant"):
+                keep["offBoard"] = off
             if a.verify:
                 old = rows.get(cid) or {}
                 keep["by"] = old.get("by") or a.by

@@ -3345,10 +3345,16 @@ def _claim_meta_values(b):
 def _claim_meta_said(b):
     """The mark tells a reader that what is documented is that it was SAID. Said by
     whom is then the one thing the page must be able to answer: a marked claim whose
-    row has no claimant is a quotation without a speaker."""
+    row has no claimant is a quotation without a speaker. The one exception is a
+    speaker for whom neither they nor any institution they spoke for is a node; the
+    row then says so in `offBoard` and names the speaker, so the absence is a
+    reviewed finding, not a gap."""
     rows = _claim_meta_rows(b) or {}
     bad = []
     for i, (nid, _t, k) in sorted(_claims_in_scope(b).items()):
+        r = rows.get(i) or {}
+        if r.get("offBoard") and str(r.get("offBoard")).strip() and str(r.get("speaker") or "").strip():
+            continue
         if k in ("said", "office") and i in rows and not rows[i].get("claimant"):
             bad.append(f"{i} on {nid}: marked {k!r}, and its row names no claimant "
                        f"(speaker {rows[i].get('speaker')!r})")
@@ -4392,6 +4398,13 @@ def self_test():
         r["claimant"] = None
         r["speaker"] = "a witness"
 
+    def cm_offboard_unnamed(rows, rb):
+        said = {i for i, (_n, _t, k) in _claims_in_scope(rb).items() if k == "said"}
+        r = _cm_first(rows, lambda k, r: k in said and bool(r.get("claimant")))[1]
+        r["claimant"] = None
+        r["offBoard"] = "not on the board"
+        r.pop("speaker", None)
+
     def cm_app_drop(app, rows):
         nid = next(k for k in sorted(app) if app[k].get("claimsMade"))
         app[nid]["claimsMade"] = app[nid]["claimsMade"][1:]
@@ -4465,7 +4478,7 @@ def self_test():
         "every claimant is a node, every claim date is well formed and every route is in the list":
             [_cm_poison(f) for f in (cm_claimant_ghost, cm_date_prose, cm_route_unknown, cm_nobody)],
         "a claim marked 'said on the record' or 'the office's own account' names its claimant":
-            [_cm_poison(cm_said_unnamed)],
+            [_cm_poison(f) for f in (cm_said_unnamed, cm_offboard_unnamed)],
         "every person page ships the claims that person made, exactly as the side-car has them":
             [_cm_poison(f, app=True) for f in (cm_app_drop, cm_app_date)],
         "there are 8 to 12 questions, each whole: its own id, a lead, an answer, the case for and against":
