@@ -1,0 +1,72 @@
+/* topic.css: the topic page (redesign phase 6). Prose first: the sentences are
+   body size, every cite under them is the label size, and nothing is cut. */
+
+.topic { max-width: 1680px; margin: 0 auto; }
+.topic-crumb .crumb-l a.eyebrow { color: var(--cyan); }
+h1.topic-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em; margin: 8px 0 8px; max-width: 64ch; }
+.topic-facts { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-bottom: 16px; }
+
+.topic-gap {
+  border: 1px solid var(--line2); border-left: 2px solid var(--amber);
+  background: var(--panel); padding: 10px 14px; margin: 0 0 18px; max-width: 110ch;
+}
+.topic-gap p { margin: 4px 0 0; font-size: var(--fs-body); }
+
+.topic-key { margin: 0 0 12px; max-width: 110ch; }
+
+/* ---- the sentences ------------------------------------------------------ */
+.topic-prose { max-width: 96ch; display: grid; gap: 14px; margin-bottom: 22px; }
+.ti-text { margin: 0; font-size: var(--fs-body); line-height: 1.55; }
+.ti-lead .ti-text { font-size: var(--fs-body); color: var(--text); font-weight: 500; }
+.ref {
+  font-size: var(--fs-label); color: var(--cyan); padding: 0 1px; line-height: 1;
+  vertical-align: baseline;
+}
+.ref:hover { text-decoration: underline; }
+
+/* ---- the cites under a sentence ----------------------------------------- */
+.cites { display: grid; gap: 3px; margin: 6px 0 0 0; }
+.cite {
+  display: grid; grid-template-columns: 22px 22px minmax(0, 1fr); gap: 6px;
+  align-items: baseline; padding: 4px 8px; background: var(--bg2);
+  border-left: 1px solid var(--line2);
+}
+.cite.flash { animation: cite-flash 1.4s ease-out; }
+@keyframes cite-flash { from { background: rgba(94, 212, 230, 0.18); } to { background: var(--bg2); } }
+.cite-n { color: var(--faint); text-align: right; }
+.cite-tier { font-weight: 600; }
+.cite-words { color: var(--text); overflow-wrap: anywhere; }
+.cite-meta { color: var(--dim); margin-top: 2px; overflow-wrap: anywhere; }
+.cite-meta .sep { color: var(--faint); }
+.cite .said-mark { margin-right: 6px; }
+
+/* ---- the three blocks ---------------------------------------------------- */
+.tblocks { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; align-items: start; margin: 8px 0 10px; }
+.tblock { min-width: 0; display: grid; gap: 14px; border-top: 2px solid var(--line2); padding-top: 8px; }
+.tblock.b-record { border-top-color: var(--t1); }
+.tblock.b-claimed { border-top-color: var(--t2); }
+.tblock.b-contested { border-top-color: var(--red); }
+.tblock-head { margin-bottom: -4px; }
+.tblock .ti-text { font-size: var(--fs-body); }
+
+/* ---- who and what, questions, related ------------------------------------ */
+.topic-members { margin-top: 18px; }
+.role-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px 20px; }
+.role-group { min-width: 0; }
+.role-head { margin-bottom: 4px; }
+.role-members { display: grid; gap: 2px; }
+.role-members a.member { display: grid; grid-template-columns: 10px minmax(0, 1fr); gap: 7px; align-items: baseline; }
+
+.topic-tail { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 24px; margin-top: 10px; }
+.tq { margin: 0; padding-left: 22px; display: grid; gap: 6px; font-size: var(--fs-body); max-width: 96ch; }
+.related-list { display: grid; gap: 4px; }
+
+@media (max-width: 1279px) {
+  .tblocks { grid-template-columns: minmax(0, 1fr); }
+  .topic-tail { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 760px) {
+  h1.topic-h1 { font-size: 21px; }
+  .cite { grid-template-columns: 18px 20px minmax(0, 1fr); padding: 4px 6px; gap: 5px; }
+  .role-grid { grid-template-columns: minmax(0, 1fr); }
+}

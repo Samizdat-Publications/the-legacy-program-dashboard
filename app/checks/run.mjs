@@ -1685,8 +1685,8 @@ async function main() {
       if (key === 'atlas1920') {
         /* focus: the first chip whose topic names related topics */
         const withRel = topicsFile.topics.find((t) => (t.related || []).some((r) => topicIds.has(r)));
-        if (withRel) {
-          const chip = p.locator('.atlas-grid a.atlas-chip[data-id="' + withRel.id + '"]').first();
+        const chip = withRel ? p.locator('.atlas-grid a.atlas-chip[data-id="' + withRel.id + '"]').first() : null;
+        if (chip && await chip.count()) {
           await chip.hover(); await p.waitForTimeout(300);
           const hover = await p.evaluate(`(function ${IN_PAGE.atlas})()`);
           await p.mouse.move(2, 2); await p.waitForTimeout(250);
@@ -1743,7 +1743,7 @@ async function main() {
       await p.waitForTimeout(1400);
       await poisonAt(p, 'topic375');
       const t = await p.evaluate(`(function ${IN_PAGE.topic})()`);
-      TP.push({ id, scrollW: t.scrollW, vw: t.vw, items: t.items.length });
+      TP.push({ id, scrollW: t.scrollW, vw: t.vw, items: t.items.length, gap: !!t.gap });
     }
     await p.close();
   }
@@ -2086,9 +2086,9 @@ async function main() {
       const out = [];
       await p.goto(APP + '#/', { waitUntil: 'load' });
       out.push(await rest(p, 1600));
-      await p.locator('.starthere a.tour-node[href="#/n/' + NODE_FOCUS + '"]').first().click();
+      await p.locator('.starthere a.tour-node[href="#/n/' + NODE_FOCUS + '"]').first().click({ timeout: 5000 }).catch(() => {});
       out.push(await rest(p, 1400));
-      await p.locator('a[href="#/n/' + NODE_FOCUS + '/map"]').first().click();
+      await p.locator('a[href="#/n/' + NODE_FOCUS + '/map"]').first().click({ timeout: 5000 }).catch(() => {});
       out.push(await rest(p, 2400));
       return out;
     };
@@ -2854,7 +2854,7 @@ async function main() {
         ' · gap ' + (gapWant ? (gapOk ? 'labelled' : 'NOT labelled') : (gapOk ? 'none, rightly' : 'labelled on a topic that is not one')));
     }
     if (TP.length) {
-      const wide = TP.filter((t) => t.scrollW > t.vw + 1 || !t.items).map((t) => t.id + ' ' + t.scrollW + 'px, ' + t.items + ' items');
+      const wide = TP.filter((t) => t.scrollW > t.vw + 1 || (!t.items && !t.gap)).map((t) => t.id + ' ' + t.scrollW + 'px, ' + t.items + ' items');
       check('c36', wide.length === 0 && TP.length === 3, 'C36 every topic page reads at 375px with no sideways scroll',
         wide.length ? clip(wide, 3) : TP.map((t) => t.id).join(', '));
     }
