@@ -3117,6 +3117,104 @@ def _predicates_denier(b):
     return bad[:40]
 
 
+# ---------------------------------------------------------------------------
+# Person facets (redesign phase 9, task 1). research/_person_facets.json carries
+# roles, vitalStatus, roleStatus and underOath per person, derived from the
+# person's own record. The vocabulary is RESTATED here rather than read, so a
+# value added to schema/vocab.json and to the side-car together still fails.
+# Poison channel: a poisoned board copy carries `_facets` (the side-car's people
+# map) and `_facetsApp` (the shipped app/public/data/facets.json).
+# ---------------------------------------------------------------------------
+
+PERSON_FACETS = os.path.join(ROOT, "research", "_person_facets.json")
+APP_FACETS = os.path.join(ROOT, "app", "public", "data", "facets.json")
+FACET_VOCAB = {
+    "roles": ["official", "military", "intelligence", "scientist", "contractor", "legislator",
+              "witness", "claimant", "researcher", "journalist", "media", "counsel"],
+    "vitalStatus": ["alive", "dead", "unknown"],
+    "roleStatus": ["current", "former", "unknown"],
+    "underOath": ["yes", "no", "unknown"],
+}
+
+
+def _facets_people(b):
+    if "_facets" in b:
+        return b["_facets"]
+    if not os.path.exists(PERSON_FACETS):
+        return None
+    with open(PERSON_FACETS, encoding="utf-8") as fh:
+        return (json.load(fh) or {}).get("people")
+
+
+@check("every person carries facets from the closed vocabulary, each resting on its own record")
+def _person_facets(b):
+    """Every person has one row and every row is a person. Each value is in the
+    closed list; a value other than unknown quotes the words of the record it rests
+    on (`basis`); every `dead` and every `claimant` was reviewed (`reviewed`), which
+    the plan requires of Opus; a dead person holds no current role."""
+    with open(os.path.join(ROOT, "schema", "vocab.json"), encoding="utf-8") as fh:
+        pv = (json.load(fh) or {}).get("personFacets") or {}
+    bad = [f"schema/vocab.json personFacets.{k} is {pv.get(k)!r}, not the closed list {v!r}"
+           for k, v in FACET_VOCAB.items() if pv.get(k) != v]
+    doc = _facets_people(b)
+    if doc is None:
+        return bad + ["research/_person_facets.json is missing or has no `people` map"]
+    ppl = {p["id"] for p in b["people"]}
+    bad += [f"person {i} has no facets row" for i in sorted(ppl - set(doc))]
+    bad += [f"facets row {i} is not a person on the board" for i in sorted(set(doc) - ppl)]
+    for i, r in sorted(doc.items()):
+        basis = r.get("basis") or {}
+        roles = r.get("roles")
+        if not isinstance(roles, list) or len(set(roles)) != len(roles or []):
+            bad.append(f"{i}: roles must be a list without repeats, got {roles!r}")
+            roles = []
+        for x in roles:
+            if x not in FACET_VOCAB["roles"]:
+                bad.append(f"{i}: role {x!r} is not in the closed list")
+        if roles and not str(basis.get("roles") or "").strip():
+            bad.append(f"{i}: roles {roles} with no basis quoted from the record")
+        for f in ("vitalStatus", "roleStatus", "underOath"):
+            v = r.get(f)
+            if v not in FACET_VOCAB[f]:
+                bad.append(f"{i}: {f} {v!r} is not one of {FACET_VOCAB[f]}")
+            elif v != "unknown" and not str(basis.get(f) or "").strip():
+                bad.append(f"{i}: {f} {v!r} with no basis quoted from the record")
+        if (r.get("vitalStatus") == "dead" or "claimant" in roles) and not r.get("reviewed"):
+            bad.append(f"{i}: a dead or claimant row must be reviewed")
+        if r.get("vitalStatus") == "dead" and r.get("roleStatus") == "current":
+            bad.append(f"{i}: dead, and holding a current role")
+        if not r.get("by"):
+            bad.append(f"{i}: no provenance (`by`)")
+        for f, t in basis.items():
+            if "—" in str(t):
+                bad.append(f"{i}: basis.{f} carries an em dash")
+    return bad[:40]
+
+
+@check("the app ships the person facets exactly as the side-car has them")
+def _person_facets_shipped(b):
+    doc = _facets_people(b) or {}
+    if "_facetsApp" in b:
+        app = b["_facetsApp"]
+    elif os.path.exists(APP_FACETS):
+        with open(APP_FACETS, encoding="utf-8") as fh:
+            app = json.load(fh)
+    else:
+        return ["app/public/data/facets.json is missing: run tools/build_app_data.py"]
+    got = app.get("people") or {}
+    bad = []
+    for i in sorted(set(doc) | set(got)):
+        want = {f: (doc.get(i) or {}).get(f) for f in ("roles", "vitalStatus", "roleStatus",
+                                                         "underOath", "basis")}
+        have = {f: (got.get(i) or {}).get(f) for f in want}
+        if want != have:
+            diff = [f for f in want if want[f] != have[f]]
+            bad.append(f"{i}: facets.json differs from the side-car on {diff}")
+    if (app.get("vocab") or {}) != FACET_VOCAB:
+        bad.append("facets.json vocab is not the closed list")
+    return bad[:40]
+
+
 @check("counts match the golden manifest")
 def _golden(b):
     now = measure(b)
@@ -3828,6 +3926,68 @@ def self_test():
             {**_MERGE_VERB_MAP, "contains": {"type": "membership"}},
         ],
     }
+    # ---- person facets (phase 9 task 1): the real side-car and the real shipped
+    # file, each broken one way, carried on the poisoned board copy.
+    def _facets_poison(fn_, app=False):
+        def mutate(rb):
+            doc = copy.deepcopy(_facets_people({}) or {})
+            if app:
+                with open(APP_FACETS, encoding="utf-8") as fh:
+                    shipped = json.load(fh)
+                fn_(shipped["people"])
+                rb["_facetsApp"] = shipped
+            else:
+                fn_(doc)
+            rb["_facets"] = doc
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def _first_facet(doc, test):
+        for k in sorted(doc):
+            if test(doc[k]):
+                return doc[k]
+        raise SystemExit("self-test: no facets row to poison")
+
+    def facet_role_outside(doc):
+        _first_facet(doc, lambda r: True)["roles"].append("astronaut")
+
+    def facet_vital_invented(doc):
+        _first_facet(doc, lambda r: True)["vitalStatus"] = "missing"
+
+    def facet_row_missing(doc):
+        doc.pop(sorted(doc)[0])
+
+    def facet_row_for_entity(doc):
+        doc["aaro"] = copy.deepcopy(doc[sorted(doc)[0]])
+
+    def facet_dead_without_basis(doc):
+        r = _first_facet(doc, lambda r: r.get("vitalStatus") == "unknown")
+        r["vitalStatus"] = "dead"
+        r["reviewed"] = True
+        (r.setdefault("basis", {})).pop("vitalStatus", None)
+
+    def facet_claimant_unreviewed(doc):
+        r = _first_facet(doc, lambda r: "claimant" in (r.get("roles") or []))
+        r.pop("reviewed", None)
+
+    def facet_dead_but_current(doc):
+        r = _first_facet(doc, lambda r: r.get("vitalStatus") == "dead")
+        r["roleStatus"] = "current"
+        r.setdefault("basis", {})["roleStatus"] = "poison"
+
+    def facet_app_role_changed(ppl):
+        r = _first_facet(ppl, lambda r: bool(r.get("roles")))
+        r["roles"] = list(reversed(r["roles"])) + ["witness"] if "witness" not in r["roles"] \
+            else [x for x in r["roles"] if x != "witness"]
+
+    poison_realboard.update({
+        "every person carries facets from the closed vocabulary, each resting on its own record":
+            [_facets_poison(f) for f in (facet_role_outside, facet_vital_invented, facet_row_missing,
+                                         facet_row_for_entity, facet_dead_without_basis,
+                                         facet_claimant_unreviewed, facet_dead_but_current)],
+        "the app ships the person facets exactly as the side-car has them":
+            [_facets_poison(facet_app_role_changed, app=True)],
+    })
     # ---- L0 fixtures. Each L0 check gets a model it MUST reject, through
     # _L0_OVERRIDE; its clean call gets L0() through the same channel.
     def L0(**kw):
