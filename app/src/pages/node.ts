@@ -106,7 +106,8 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   /* ---- appears in: the topics this node belongs to, primary first ---------- */
   const inTopics = (tf && tf.appearsIn[rec.id]) || [];
   if (inTopics.length) {
-    const SHOW = 6;
+    /* a phone shows three before the control, so the case against stays near the top */
+    const SHOW = window.innerWidth <= 760 ? 3 : 6;
     const row = h('div', { class: 'appears' },
       h('span', { class: 'eyebrow' }, 'Appears in ' + inTopics.length + (inTopics.length === 1 ? ' topic' : ' topics')));
     const chips = h('div', { class: 'appears-chips' });

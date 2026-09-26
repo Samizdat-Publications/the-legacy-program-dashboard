@@ -61,6 +61,13 @@ h1.topic-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em
 .tq { margin: 0; padding-left: 22px; display: grid; gap: 6px; font-size: var(--fs-body); max-width: 96ch; }
 .related-list { display: grid; gap: 4px; }
 
+/* wide screens: the sentence on the left, its sources beside it, so the
+   prose keeps a reading measure and the width is not wasted */
+@media (min-width: 1280px) {
+  .topic-prose { max-width: none; gap: 18px; }
+  .topic-prose .ti { display: grid; grid-template-columns: minmax(0, 76ch) minmax(0, 1fr); gap: 28px; align-items: start; }
+  .topic-prose .cites { margin-top: 2px; }
+}
 @media (max-width: 1279px) {
   .tblocks { grid-template-columns: minmax(0, 1fr); }
   .topic-tail { grid-template-columns: minmax(0, 1fr); }

@@ -87,20 +87,23 @@ export async function renderHome(view: HTMLElement): Promise<void> {
     sh.append(h('div', { class: 'sh-head' },
       h('span', { class: 'amber eyebrow' }, 'Start here'), ' ',
       h('span', { class: 'dim' }, 'a tour in ' + hl.flags.length +
-        ' steps, in the owner\'s reading order: each step opens a topic, through the record the owner flagged in it')));
+        ' steps, in the owner\'s reading order: a record the owner flagged, and the topic to read it in')));
     const ol = h('ol', { class: 'tour' });
     for (const f of hl.flags.slice().sort((a, b) => a.rank - b.rank)) {
       const node = byId.get(f.id);
       const first = tf && (tf.appearsIn[f.id] || [])[0];
+      /* the flagged record is the step's headline and its topic is where the
+         step opens: two flags can share a topic, and a tour that printed the
+         same title twice read as a mistake (blind critic, phase 6 round 1) */
       ol.append(h('li', { class: 'tour-step' },
         h('span', { class: 'tour-n' }, String(f.rank)),
         h('div', { class: 'tour-body' },
-          first
-            ? h('a', { class: 'tour-topic', href: '#/topic/' + first[0] }, titleOf.get(first[0]) || first[0])
-            : h('span', { class: 'tour-topic faint' }, 'in no topic yet'),
+          h('a', { class: 'tour-node', href: '#/n/' + f.id }, node ? node.label : f.id),
           h('div', { class: 'tour-via' },
-            h('span', { class: 'dim' }, 'through '),
-            h('a', { class: 'tour-node', href: '#/n/' + f.id }, node ? node.label : f.id)),
+            h('span', { class: 'dim' }, 'read it in the topic '),
+            first
+              ? h('a', { class: 'tour-topic', href: '#/topic/' + first[0] }, titleOf.get(first[0]) || first[0])
+              : h('span', { class: 'tour-topic faint' }, 'in no topic yet')),
           h('div', { class: 'tour-why dim' }, f.why),
         ),
       ));
