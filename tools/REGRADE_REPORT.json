@@ -116,7 +116,7 @@
    "from": "C",
    "to": "A",
    "score": 70.0,
-   "rank": 80,
+   "rank": 82,
    "degree": 7,
    "program_edges": 6,
    "denials": 0
@@ -1178,14 +1178,36 @@
    "denials": 0
   },
   {
+   "id": "aaro-fy2023-annual-report",
+   "cls": "document",
+   "from": "A",
+   "to": "B",
+   "score": 40.0,
+   "rank": 281,
+   "degree": 4,
+   "program_edges": 1,
+   "denials": 0
+  },
+  {
    "id": "srg-dod",
    "cls": "institution",
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 281,
+   "rank": 282,
    "degree": 3,
    "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "dod-agencywide-audit",
+   "cls": "program",
+   "from": "A",
+   "to": "B",
+   "score": 40.0,
+   "rank": 283,
+   "degree": 9,
+   "program_edges": 2,
    "denials": 0
   },
   {
@@ -1194,7 +1216,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 282,
+   "rank": 284,
    "degree": 7,
    "program_edges": 3,
    "denials": 0
@@ -1205,7 +1227,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 283,
+   "rank": 285,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -1216,7 +1238,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 285,
+   "rank": 287,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -1227,7 +1249,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 286,
+   "rank": 288,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -1238,7 +1260,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 289,
+   "rank": 291,
    "degree": 6,
    "program_edges": 3,
    "denials": 0
@@ -1249,7 +1271,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 292,
+   "rank": 294,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -1260,7 +1282,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 293,
+   "rank": 295,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -1271,7 +1293,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 294,
+   "rank": 296,
    "degree": 7,
    "program_edges": 1,
    "denials": 0
@@ -1282,7 +1304,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 295,
+   "rank": 297,
    "degree": 12,
    "program_edges": 0,
    "denials": 1
@@ -1293,7 +1315,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 296,
+   "rank": 298,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -1304,7 +1326,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 297,
+   "rank": 299,
    "degree": 6,
    "program_edges": 3,
    "denials": 0
@@ -1315,7 +1337,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 298,
+   "rank": 300,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -1326,7 +1348,7 @@
    "from": "C",
    "to": "B",
    "score": 39.0,
-   "rank": 299,
+   "rank": 301,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -1337,7 +1359,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 301,
+   "rank": 303,
    "degree": 3,
    "program_edges": 0,
    "denials": 2
@@ -1348,7 +1370,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 302,
+   "rank": 304,
    "degree": 9,
    "program_edges": 0,
    "denials": 0
@@ -1359,20 +1381,9 @@
    "from": "C",
    "to": "B",
    "score": 39.0,
-   "rank": 303,
+   "rank": 305,
    "degree": 3,
    "program_edges": 0,
-   "denials": 0
-  },
-  {
-   "id": "dod-agencywide-audit",
-   "cls": "program",
-   "from": "A",
-   "to": "B",
-   "score": 39.0,
-   "rank": 304,
-   "degree": 9,
-   "program_edges": 2,
    "denials": 0
   },
   {
@@ -1381,7 +1392,7 @@
    "from": "C",
    "to": "B",
    "score": 39.0,
-   "rank": 305,
+   "rank": 306,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -1392,7 +1403,7 @@
    "from": "C",
    "to": "B",
    "score": 39.0,
-   "rank": 306,
+   "rank": 307,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -1403,7 +1414,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 307,
+   "rank": 308,
    "degree": 3,
    "program_edges": 0,
    "denials": 2
@@ -1414,7 +1425,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 308,
+   "rank": 309,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -1425,7 +1436,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 309,
+   "rank": 310,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -1436,7 +1447,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 310,
+   "rank": 311,
    "degree": 5,
    "program_edges": 1,
    "denials": 0
@@ -1447,7 +1458,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 311,
+   "rank": 312,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -1458,7 +1469,7 @@
    "from": "C",
    "to": "B",
    "score": 38.0,
-   "rank": 314,
+   "rank": 315,
    "degree": 5,
    "program_edges": 2,
    "denials": 3
@@ -1469,20 +1480,9 @@
    "from": "C",
    "to": "B",
    "score": 38.0,
-   "rank": 315,
+   "rank": 316,
    "degree": 2,
    "program_edges": 0,
-   "denials": 0
-  },
-  {
-   "id": "aaro-fy2023-annual-report",
-   "cls": "document",
-   "from": "A",
-   "to": "B",
-   "score": 38.0,
-   "rank": 318,
-   "degree": 4,
-   "program_edges": 1,
    "denials": 0
   },
   {
@@ -7676,21 +7676,6 @@
    "claim": "The same memorandum ordered that 'Any DoD Component acting on behalf of the UAPTF, or who has data, analysis, "
   },
   {
-   "id": "aaro",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "As of 30 May 2025 AARO's case holdings contained 1,870 reports. In the reporting period it received 319 report"
-  },
-  {
-   "id": "aaro-fy2024-annual-report",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "The report is submitted under a requirement established in 50 U.S.C. 3373(k), which directs the Director of th"
-  },
-  {
-   "id": "aaro-fy2024-annual-report",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "AARO received 757 UAP reports during the period 1 May 2023 - 1 June 2024; 485 occurred in period and 272 occur"
-  },
-  {
    "id": "aaro-fy2024-annual-report",
    "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
    "claim": "Of the 757 reports, 392 came from the FAA and consisted of all of the FAA's UAP reports since 2021; 708 occurr"
@@ -7698,17 +7683,7 @@
   {
    "id": "aaro-fy2024-annual-report",
    "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "AARO determined 21 cases merit further analysis by its intelligence-community and science-and-technology partn"
-  },
-  {
-   "id": "aaro-fy2024-annual-report",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
    "claim": "Section IV.G, headed \"AARO Possesses No Data to Indicate the Capture or Exploitation of UAP,\" consists in its "
-  },
-  {
-   "id": "aaro-fy2024-annual-report",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "AARO received 18 reports from the Administrator for Nuclear Security and the Chairman of the Nuclear Regulator"
   },
   {
    "id": "aaro-fy2024-annual-report",
@@ -7719,26 +7694,6 @@
    "id": "aaro-fy2024-annual-report",
    "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
    "claim": "In May 2023 the Joint Staff issued a UAP GENADMIN message directing Combatant Commands and Services to report "
-  },
-  {
-   "id": "aaro-fy2025-annual-report",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "AARO reports receiving 319 UAP reports between 2 June 2024 and 30 May 2025 (284 in-period, 35 from events betw"
-  },
-  {
-   "id": "aaro-fy2025-annual-report",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "None of AARO's 44 space-domain case assessments originated from space-based sensors: 42 came from civilian pil"
-  },
-  {
-   "id": "aaro-historical-record-vol1",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "The report concedes: 'In 2021, without sufficient justification, the scope of an IC Controlled Access Program "
-  },
-  {
-   "id": "aaro-historical-record-vol1",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "The report assesses a sample from an alleged crashed off-world spacecraft, acquired by AARO from a private UAP"
   },
   {
    "id": "aaro-historical-record-vol2",
@@ -8014,16 +7969,6 @@
    "id": "nip",
    "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
    "claim": "The NIP and the MIP are disclosed by two different authorities on separate releases: the NIP by the DNI under "
-  },
-  {
-   "id": "odni-memo-es-2026-00818",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "AARO has served as the statutory secure channel for authorised UAP disclosures since the FY2023 NDAA and is re"
-  },
-  {
-   "id": "pursue-releases",
-   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-   "claim": "The same release concedes: 'While all of the files have been reviewed for security purposes, many of the mater"
   },
   {
    "id": "roosevelt-2014-2015",

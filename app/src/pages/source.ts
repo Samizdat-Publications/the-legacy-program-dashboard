@@ -61,9 +61,10 @@ export async function renderSource(view: HTMLElement, id: string): Promise<void>
   if (rec.interestedParty) {
     page.append(h('div', { class: 'src-ip' },
       h('span', { class: 'ip-mark' }, 'interested party'),
-      h('p', null, 'Published by the office this board investigates, or by its parent department. It is a primary ' +
-        'record of what that office said, not of whether what it says is true: a claim that rests on it alone is ' +
-        'held at Tier 2 unless the claim is about what the office said.')));
+      h('p', null, 'Issued by AARO, the office this board investigates, or on file only from the Defense ' +
+        'Department\'s own public sites (aaro.mil, defense.gov, war.gov). It is a primary record of what the office ' +
+        'said, not of whether what it says is true: a claim that rests on it alone is held at Tier 2 unless the ' +
+        'claim is about what the office said.')));
   }
 
   /* ---- where to read it -------------------------------------------------- */

@@ -1286,8 +1286,15 @@ def tier1_cap_reason(c, urls):
         return "no attributed source"
     if not PRIMARY_URL_PAT.search(urls) and SECONDARY_PAT.search(urls):
         return "node carries no primary-record URL"
+    # About what the office said: the attribution words, a quotation of its
+    # publication (with or without a short lead-in, "Title page: '...'"), or the
+    # office or its document as the subject of an account verb. The last two
+    # arrived with phase 8 so that one rule grades a claim whether its source is
+    # read from its URL (here) or from the registry (remediate_interested_party_claims).
+    t = c.get("text") or ""
     if (INTERESTED_PARTY_PAT.search(src)
-            and not ATTRIBUTION_PAT.search(c.get("text") or "")):
+            and not ATTRIBUTION_PAT.search(t)
+            and not QUOTE_OPEN.match(t) and not OFFICE_ACCOUNT.search(t)):
         return ("sourced to an interested party (AARO/DoD) asserting an external "
                 "fact; primary record of the statement, not of the fact")
     return None
@@ -1314,7 +1321,7 @@ def remediate_tiers(people, entities):
     return demotions
 
 
-QUOTE_OPEN = re.compile(r"^['\"\u2018\u201c]")
+QUOTE_OPEN = re.compile(r"^(?:[^'\"\u2018\u201c:]{0,60}:\s*)?['\"\u2018\u201c]")
 # The office, or one of its documents, as the subject of an account verb: "AARO
 # assessed ...", "AARO's 2024 historical report reaffirmed ...", "The memorandum
 # concludes ...". Such a claim is about what the office said or recorded, which is
@@ -1327,7 +1334,7 @@ OFFICE_ACCOUNT = re.compile(
     r"releas\w*|found|finds?|conclud\w*|confirm\w*|logged|treat\w*|anonymi[sz]\w*|present\w*|"
     r"acknowledg\w*|stat\w*|says?|said|describ\w*|list\w*|record\w*|note\w*|attribut\w*|"
     r"resolv\w*|judg\w*|declar\w*|determin\w*|characteri[sz]\w*|identif\w*|dismiss\w*|"
-    r"reject\w*|den(?:y|ies|ied))\b", re.I)
+    r"reject\w*|den(?:y|ies|ied)|publish\w*)\b", re.I)
 
 
 def remediate_interested_party_claims(people, entities):

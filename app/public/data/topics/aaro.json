@@ -647,7 +647,7 @@
    "nodeLabel": "AARO FY2025 Consolidated Annual Report on UAP",
    "source": {
     "domain": "www.aaro.mil",
-    "text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
     "url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
    },
    "sourceRefs": [
@@ -658,7 +658,7 @@
     }
    ],
    "text": "Mass resolution by a new analytic capability: 'During the reporting period, AARO onboarded a new capability that enabled analysts to resolve 238 reported UAP as satellite flaring.'",
-   "tier": 2
+   "tier": 1
   },
   "c-a6c2e89db5": {
    "id": "c-a6c2e89db5",

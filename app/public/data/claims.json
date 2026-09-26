@@ -979,6 +979,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
+"id": "c-c1729b3d91",
+"label": "AARO FY2023 Consolidated Annual Report on UAP",
+"node": "aaro-fy2023-annual-report",
+"open": false,
+"source": {
+"domain": "www.aaro.mil",
+"text": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-fy2023-annual-report",
+"locator": null,
+"title": "AARO FY2023 Consolidated Annual Report on UAP"
+}
+],
+"text": "Caseload: AARO 'received a total of 291 UAP reports during this period, consisting of 274 that occurred during' the reporting period, the remainder being older incidents reported late.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
 "id": "c-44c9513188",
 "label": "AARO FY2023 Consolidated Annual Report on UAP",
 "node": "aaro-fy2023-annual-report",
@@ -1099,37 +1123,13 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"id": "c-c1729b3d91",
-"label": "AARO FY2023 Consolidated Annual Report on UAP",
-"node": "aaro-fy2023-annual-report",
-"open": false,
-"source": {
-"domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-fy2023-annual-report",
-"locator": null,
-"title": "AARO FY2023 Consolidated Annual Report on UAP"
-}
-],
-"text": "Caseload: AARO 'received a total of 291 UAP reports during this period, consisting of 274 that occurred during' the reporting period, the remainder being older incidents reported late.",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
 "id": "c-b4d88c0c0d",
 "label": "AARO FY2023 Consolidated Annual Report on UAP",
 "node": "aaro-fy2023-annual-report",
 "open": false,
 "source": {
 "domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
 "url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
 },
 "sources": [
@@ -1140,7 +1140,7 @@
 }
 ],
 "text": "Title page: 'OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE / THE DEPARTMENT OF DEFENSE / Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena / October 2023'. 16 pages, UNCLASSIFIED, PDF CreationDate 25 October 2023 16:09 UTC. This is the first jointly badged ODNI/DoD consolidated annual report.",
-"tier": 2,
+"tier": 1,
 "unresolved": null
 },
 {
@@ -1279,6 +1279,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
+"id": "c-4013e8f93c",
+"label": "AARO FY2024 Consolidated Annual Report on UAP",
+"node": "aaro-fy2024-annual-report",
+"open": false,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+"sources": [
+{
+"id": "n-aaro-fy2024-annual-report",
+"locator": null,
+"title": "AARO FY2024 Consolidated Annual Report on UAP"
+}
+],
+"text": "Domain distribution: 'Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains.' AARO adds a caveat on the space figure: 'none of the space domain reports originated from space-based sensors or assets; rather, all of these reports originated from military or commercial pilots or ground observers who reported UAP located at altitudes estimated at 100 kilometers or higher.' The Way Forward section repeats: 'Airborne UAP continue to dominate UAP reporting with 708 of the 757 reports from this reporting period occurring in the air domain.'",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
 "id": "c-2e3386d6dd",
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "node": "aaro-fy2024-annual-report",
@@ -1344,6 +1368,30 @@
 }
 ],
 "text": "Reporting period 1 May 2023 to 1 June 2024; 757 new reports (485 in-period, 272 older); 1,652 total reports as of 24 October 2024.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"id": "c-d7aaa72e68",
+"label": "AARO FY2024 Consolidated Annual Report on UAP",
+"node": "aaro-fy2024-annual-report",
+"open": false,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+"sources": [
+{
+"id": "n-aaro-fy2024-annual-report",
+"locator": null,
+"title": "AARO FY2024 Consolidated Annual Report on UAP"
+}
+],
+"text": "Reporting-source concentration: 'Of the 757 reports 392 were from the FAA, which consisted of all of the FAA's UAP reports since 2021.' A majority of the FY2024 surge is therefore a one-off backfill of FAA holdings rather than new military observation.",
 "tier": 1,
 "unresolved": null
 },
@@ -1423,13 +1471,13 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"id": "c-4013e8f93c",
+"id": "c-c591ffb825",
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "node": "aaro-fy2024-annual-report",
 "open": false,
 "source": {
 "domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
 },
 "sources": [
@@ -1439,32 +1487,8 @@
 "title": "AARO FY2024 Consolidated Annual Report on UAP"
 }
 ],
-"text": "Domain distribution: 'Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains.' AARO adds a caveat on the space figure: 'none of the space domain reports originated from space-based sensors or assets; rather, all of these reports originated from military or commercial pilots or ground observers who reported UAP located at altitudes estimated at 100 kilometers or higher.' The Way Forward section repeats: 'Airborne UAP continue to dominate UAP reporting with 708 of the 757 reports from this reporting period occurring in the air domain.'",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
-"id": "c-d7aaa72e68",
-"label": "AARO FY2024 Consolidated Annual Report on UAP",
-"node": "aaro-fy2024-annual-report",
-"open": false,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
-},
-"sources": [
-{
-"id": "n-aaro-fy2024-annual-report",
-"locator": null,
-"title": "AARO FY2024 Consolidated Annual Report on UAP"
-}
-],
-"text": "Reporting-source concentration: 'Of the 757 reports 392 were from the FAA, which consisted of all of the FAA's UAP reports since 2021.' A majority of the FY2024 surge is therefore a one-off backfill of FAA holdings rather than new military observation.",
-"tier": 2,
+"text": "Title page: 'THE DEPARTMENT OF DEFENSE / ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena / Information Cut Off: June 1, 2024'. 18 pages, UNCLASSIFIED, PDF CreationDate 13 November 2024 15:56 UTC.",
+"tier": 1,
 "unresolved": null
 },
 {
@@ -1484,30 +1508,6 @@
 "text": "Roughly 900 reports were retained in an active archive because they lacked sufficient scientific data for analysis.",
 "tier": 2,
 "unresolved": "a proposed reading (url:theblackvault.com/documentarchive/transcript-dr-jon-kosloski-director-aaro-m) was rejected in review: names two sources; DefenseScoop is not the candidate"
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
-"id": "c-c591ffb825",
-"label": "AARO FY2024 Consolidated Annual Report on UAP",
-"node": "aaro-fy2024-annual-report",
-"open": false,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
-},
-"sources": [
-{
-"id": "n-aaro-fy2024-annual-report",
-"locator": null,
-"title": "AARO FY2024 Consolidated Annual Report on UAP"
-}
-],
-"text": "Title page: 'THE DEPARTMENT OF DEFENSE / ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena / Information Cut Off: June 1, 2024'. 18 pages, UNCLASSIFIED, PDF CreationDate 13 November 2024 15:56 UTC.",
-"tier": 2,
-"unresolved": null
 },
 {
 "cls": "document",
@@ -1843,6 +1843,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
+"id": "c-e5cdca7066",
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"node": "aaro-fy2025-annual-report",
+"open": true,
+"source": {
+"domain": "www.aaro.mil",
+"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-fy2025-annual-report",
+"locator": null,
+"title": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
+"text": "Caseload: 'The All-domain Anomaly Resolution Office (AARO) received 319 reports of UAP-related events. Of those, 284 feature UAP-related events occurring during the reporting period.' This is a sharp drop from the 757 reports of FY2024.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
 "id": "c-1e6cf098d3",
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "node": "aaro-fy2025-annual-report",
@@ -1891,6 +1915,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
+"id": "c-a3461963bd",
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"node": "aaro-fy2025-annual-report",
+"open": true,
+"source": {
+"domain": "www.aaro.mil",
+"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-fy2025-annual-report",
+"locator": null,
+"title": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
+"text": "Health and flight-safety findings: 'AARO did not receive any reports of UAP-related health effects during this reporting period' and 'AARO did not receive reports indicating flight safety concerns during this reporting period.'",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
 "id": "c-481a8b01e2",
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "node": "aaro-fy2025-annual-report",
@@ -1908,6 +1956,30 @@
 }
 ],
 "text": "INTERNAL INCONSISTENCY on satellite-flaring resolutions. The Executive Summary (p. 2) states: 'During the reporting period, AARO onboarded a new capability that enabled analysts to resolve 238 reported UAP as satellite flaring.' Section C, 'Notable Trends Regarding Prosaic Objects' (p. 8), states: 'AARO resolved 44 UAP-related events as attributable to satellite flaring during the reporting period.' The two figures - 238 and 44 - are not reconciled anywhere in the document.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"id": "c-a24a1c2ced",
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"node": "aaro-fy2025-annual-report",
+"open": true,
+"source": {
+"domain": "www.aaro.mil",
+"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-fy2025-annual-report",
+"locator": null,
+"title": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
+"text": "Mass resolution by a new analytic capability: 'During the reporting period, AARO onboarded a new capability that enabled analysts to resolve 238 reported UAP as satellite flaring.'",
 "tier": 1,
 "unresolved": null
 },
@@ -1980,6 +2052,30 @@
 }
 ],
 "text": "Reporting period and statutory basis: 'The Department of War (DoW) provides this report pursuant to a requirement established under section 3373k of Title 50, United States Code. This document contains all reported unidentified anomalous phenomena (UAP)-related events occurring from June 2, 2024, to May 30, 2025, and UAP-related events occurring within any previous period not covered in a previous report.'",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"id": "c-cf0826b252",
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"node": "aaro-fy2025-annual-report",
+"open": true,
+"source": {
+"domain": "www.aaro.mil",
+"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-fy2025-annual-report",
+"locator": null,
+"title": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
+"text": "Section E (p. 9) concedes unexplained performance near sensitive sites: 'AARO received and analyzed several reports describing UAP in or near national security sites or critical infrastructure. Some narrative reports were suggestive of phenomena whose performance characteristics exceed the known state-of-the-art within a given domain. No technical data accompanied these reports. If validated, the attendant phenomena underlying these reports may represent a currently unmitigated threat vector.'",
 "tier": 1,
 "unresolved": null
 },
@@ -2233,6 +2329,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
+"id": "c-7fde48745a",
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"node": "aaro-fy2025-annual-report",
+"open": true,
+"source": {
+"domain": "www.aaro.mil",
+"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-fy2025-annual-report",
+"locator": null,
+"title": "AARO FY2025 Consolidated Annual Report on UAP"
+}
+],
+"text": "Title page: 'DEPARTMENT OF WAR / ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Fiscal Year 2025 Consolidated Annual Report on Unidentified Anomalous Phenomena / Information Cut Off: May 30, 2025', bearing control number 26-P-0880. 14 pages, PDF CreationDate 10 June 2026 15:43 UTC; posted to aaro.mil 20 July 2026.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
 "id": "c-d31d54cf48",
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "node": "aaro-fy2025-annual-report",
@@ -2251,102 +2371,6 @@
 ],
 "text": "Unresolved electronic interference: 'Two UAP reports described electronic or avionic interference as attributable to UAP in proximity to an operational aircraft. AARO has not yet rendered a determination on whether, and to what extent, the reported effects are attributable to UAP.'",
 "tier": 1,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
-"id": "c-e5cdca7066",
-"label": "AARO FY2025 Consolidated Annual Report on UAP",
-"node": "aaro-fy2025-annual-report",
-"open": true,
-"source": {
-"domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-fy2025-annual-report",
-"locator": null,
-"title": "AARO FY2025 Consolidated Annual Report on UAP"
-}
-],
-"text": "Caseload: 'The All-domain Anomaly Resolution Office (AARO) received 319 reports of UAP-related events. Of those, 284 feature UAP-related events occurring during the reporting period.' This is a sharp drop from the 757 reports of FY2024.",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
-"id": "c-a3461963bd",
-"label": "AARO FY2025 Consolidated Annual Report on UAP",
-"node": "aaro-fy2025-annual-report",
-"open": true,
-"source": {
-"domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-fy2025-annual-report",
-"locator": null,
-"title": "AARO FY2025 Consolidated Annual Report on UAP"
-}
-],
-"text": "Health and flight-safety findings: 'AARO did not receive any reports of UAP-related health effects during this reporting period' and 'AARO did not receive reports indicating flight safety concerns during this reporting period.'",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
-"id": "c-a24a1c2ced",
-"label": "AARO FY2025 Consolidated Annual Report on UAP",
-"node": "aaro-fy2025-annual-report",
-"open": true,
-"source": {
-"domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-fy2025-annual-report",
-"locator": null,
-"title": "AARO FY2025 Consolidated Annual Report on UAP"
-}
-],
-"text": "Mass resolution by a new analytic capability: 'During the reporting period, AARO onboarded a new capability that enabled analysts to resolve 238 reported UAP as satellite flaring.'",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
-"id": "c-cf0826b252",
-"label": "AARO FY2025 Consolidated Annual Report on UAP",
-"node": "aaro-fy2025-annual-report",
-"open": true,
-"source": {
-"domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-fy2025-annual-report",
-"locator": null,
-"title": "AARO FY2025 Consolidated Annual Report on UAP"
-}
-],
-"text": "Section E (p. 9) concedes unexplained performance near sensitive sites: 'AARO received and analyzed several reports describing UAP in or near national security sites or critical infrastructure. Some narrative reports were suggestive of phenomena whose performance characteristics exceed the known state-of-the-art within a given domain. No technical data accompanied these reports. If validated, the attendant phenomena underlying these reports may represent a currently unmitigated threat vector.'",
-"tier": 2,
 "unresolved": null
 },
 {
@@ -2384,30 +2408,6 @@
 "text": "The report was released months after the statutory reporting cadence under 50 U.S.C. 3373(k)(1)(A).",
 "tier": 2,
 "unresolved": "a proposed reading (url:theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-aft) was rejected in review: outlet and date only; candidate row shows no date"
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": false,
-"id": "c-7fde48745a",
-"label": "AARO FY2025 Consolidated Annual Report on UAP",
-"node": "aaro-fy2025-annual-report",
-"open": true,
-"source": {
-"domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-fy2025-annual-report",
-"locator": null,
-"title": "AARO FY2025 Consolidated Annual Report on UAP"
-}
-],
-"text": "Title page: 'DEPARTMENT OF WAR / ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Fiscal Year 2025 Consolidated Annual Report on Unidentified Anomalous Phenomena / Information Cut Off: May 30, 2025', bearing control number 26-P-0880. 14 pages, PDF CreationDate 10 June 2026 15:43 UTC; posted to aaro.mil 20 July 2026.",
-"tier": 2,
-"unresolved": null
 },
 {
 "cls": "document",
@@ -2833,6 +2833,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": true,
+"id": "c-434c336107",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"node": "aaro-historical-record-vol1",
+"open": true,
+"source": {
+"domain": "www.aaro.mil",
+"text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
+"text": "AARO characterises the KONA BLUE proposal as one that 'would restart UAP investigations, paranormal research...and reverse-engineer any recovered off-world spacecraft'.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": true,
 "id": "c-c96ffffc9a",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "node": "aaro-historical-record-vol1",
@@ -3001,6 +3025,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": true,
+"id": "c-081cefd536",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"node": "aaro-historical-record-vol1",
+"open": true,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+},
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
+"text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": true,
 "id": "c-e0a1e39005",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "node": "aaro-historical-record-vol1",
@@ -3121,6 +3169,30 @@
 "cls": "document",
 "cluster": "ic",
 "denied": true,
+"id": "c-e255b5743c",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"node": "aaro-historical-record-vol1",
+"open": true,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+},
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
+"text": "Report page 35, section 'Unnecessary IC Program Expansion': 'AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission. This program was expanded despite the lack of any evidence or mission need to justify the expansion. The appropriate congressional committees were notified. This program never recovered or reverse-engineered any technology, let alone off-world spacecraft. This CAP was disestablished due to its inactivity, absence of mission need, and lack of merit.'",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": true,
 "id": "c-6780776193",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "node": "aaro-historical-record-vol1",
@@ -3186,6 +3258,30 @@
 }
 ],
 "text": "States: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States' and 'DIA established AAWSAP in 2009, which was also known [as] AATIP.'",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": true,
+"id": "c-161940a99e",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"node": "aaro-historical-record-vol1",
+"open": true,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
+"text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
 "tier": 1,
 "unresolved": null
 },
@@ -3481,30 +3577,6 @@
 "cls": "document",
 "cluster": "ic",
 "denied": true,
-"id": "c-434c336107",
-"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"node": "aaro-historical-record-vol1",
-"open": true,
-"source": {
-"domain": "www.aaro.mil",
-"text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-historical-record-vol1",
-"locator": null,
-"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-}
-],
-"text": "AARO characterises the KONA BLUE proposal as one that 'would restart UAP investigations, paranormal research...and reverse-engineer any recovered off-world spacecraft'.",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": true,
 "id": "c-eac37dfbdb",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "node": "aaro-historical-record-vol1",
@@ -3542,30 +3614,6 @@
 "text": "Deputy Secretary Hicks declined to publicly endorse the report's key findings; Christopher Mellon characterised them as mid-level assertions lacking cabinet-level ratification.",
 "tier": 2,
 "unresolved": "read in review as naming no single source: Compound citation (Johnson's analysis + Mellon's comment) with no specific titled document for either."
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": true,
-"id": "c-081cefd536",
-"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"node": "aaro-historical-record-vol1",
-"open": true,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
-},
-"sources": [
-{
-"id": "n-aaro-historical-record-vol1",
-"locator": null,
-"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-}
-],
-"text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
-"tier": 2,
-"unresolved": null
 },
 {
 "cls": "document",
@@ -3612,54 +3660,6 @@
 }
 ],
 "text": "On KONA BLUE: it 'traces its origins to the DIA-managed AAWSAP/AATIP program'; supporters 'proposed to DHS that they create and fund a new version of AAWSAP/AATIP under a SAP', eventually submitting 'a Prospective Special Access Program (PSAP)' which was 'rejected by DHS leadership for lacking merit'.",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": true,
-"id": "c-e255b5743c",
-"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"node": "aaro-historical-record-vol1",
-"open": true,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
-},
-"sources": [
-{
-"id": "n-aaro-historical-record-vol1",
-"locator": null,
-"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-}
-],
-"text": "Report page 35, section 'Unnecessary IC Program Expansion': 'AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission. This program was expanded despite the lack of any evidence or mission need to justify the expansion. The appropriate congressional committees were notified. This program never recovered or reverse-engineered any technology, let alone off-world spacecraft. This CAP was disestablished due to its inactivity, absence of mission need, and lack of merit.'",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "ic",
-"denied": true,
-"id": "c-161940a99e",
-"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"node": "aaro-historical-record-vol1",
-"open": true,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
-},
-"sources": [
-{
-"id": "n-aaro-historical-record-vol1",
-"locator": null,
-"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-}
-],
-"text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
 "tier": 2,
 "unresolved": null
 },
@@ -3913,6 +3913,30 @@
 "cls": "document",
 "cluster": "other",
 "denied": true,
+"id": "c-0425885755",
+"label": "AARO Historical Record Report, Volume II (unpublished)",
+"node": "aaro-historical-record-vol2",
+"open": true,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+},
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
+"text": "HRR Volume I, page 6: 'AARO will publish Volume II in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired by AARO after the date of the publication of Volume I.'",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": true,
 "id": "c-d6e3b7336b",
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "node": "aaro-historical-record-vol2",
@@ -4002,30 +4026,6 @@
 }
 ],
 "text": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the Yankee Blue findings would be included in Volume II, then scheduled for late 2025.",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": true,
-"id": "c-0425885755",
-"label": "AARO Historical Record Report, Volume II (unpublished)",
-"node": "aaro-historical-record-vol2",
-"open": true,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
-},
-"sources": [
-{
-"id": "n-aaro-historical-record-vol1",
-"locator": null,
-"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-}
-],
-"text": "HRR Volume I, page 6: 'AARO will publish Volume II in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired by AARO after the date of the publication of Volume I.'",
 "tier": 2,
 "unresolved": null
 },
@@ -40482,6 +40482,30 @@
 "cls": "program",
 "cluster": "oversight",
 "denied": false,
+"id": "c-f371367f17",
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"node": "dod-agencywide-audit",
+"open": false,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+"sources": [
+{
+"id": "n-dowig-2026-081",
+"locator": null,
+"title": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
+}
+],
+"text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "program",
+"cluster": "oversight",
+"denied": false,
 "id": "c-dd07057120",
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "node": "dod-agencywide-audit",
@@ -40524,30 +40548,6 @@
 ],
 "text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
 "tier": 1,
-"unresolved": null
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": false,
-"id": "c-f371367f17",
-"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
-"node": "dod-agencywide-audit",
-"open": false,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
-},
-"sources": [
-{
-"id": "n-dowig-2026-081",
-"locator": null,
-"title": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
-}
-],
-"text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
-"tier": 2,
 "unresolved": null
 },
 {
@@ -42961,6 +42961,30 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
+"id": "c-4ed266f44c",
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+"node": "dodig-2023-109",
+"open": false,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
+"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
+"text": "Historical framing in the summary: 'Over the past decades, the DoD has initiated infrequent and inconclusive efforts to identify and understand the origin, capabilities, and intent of unidentified aerial phenomena (UAP)... the DoD has relied heavily on the Services and Components to detect, report, collect, analyze, and identify UAP since the 1940s.' It counts 243 sightings investigated under PROJECT SIGN (1947-1949) and 'over 12,000 reported sightings' under PROJECT BLUE BOOK (1952-1969).",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
 "id": "c-a6bbacdb43",
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "node": "dodig-2023-109",
@@ -43182,30 +43206,6 @@
 }
 ],
 "text": "Core finding, 'The DoD Does Not Have a Comprehensive, Coordinated Approach to Address UAP': 'the DoD has not used a coordinated approach to detect, report, collect, analyze, and identify UAP; DoD Components have largely excluded geographic combatant commands... in developing UAP policies and procedures; and DoD Components developed varying processes to collect, analyze, and identify UAP incidents.'",
-"tier": 2,
-"unresolved": null
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": true,
-"id": "c-4ed266f44c",
-"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
-"node": "dodig-2023-109",
-"open": false,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
-},
-"sources": [
-{
-"id": "n-dodig-2023-109",
-"locator": null,
-"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
-}
-],
-"text": "Historical framing in the summary: 'Over the past decades, the DoD has initiated infrequent and inconclusive efforts to identify and understand the origin, capabilities, and intent of unidentified aerial phenomena (UAP)... the DoD has relied heavily on the Services and Components to detect, report, collect, analyze, and identify UAP since the 1940s.' It counts 243 sightings investigated under PROJECT SIGN (1947-1949) and 'over 12,000 reported sightings' under PROJECT BLUE BOOK (1952-1969).",
 "tier": 2,
 "unresolved": null
 },
@@ -107618,6 +107618,30 @@
 "cls": "program",
 "cluster": "oversight",
 "denied": true,
+"id": "c-3836653250",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"node": "pursue-releases",
+"open": false,
+"source": {
+"domain": null,
+"text": "aaro.mil homepage, accessed 12 August 2026",
+"url": null
+},
+"sources": [
+{
+"id": "u-aaro-mil-1c878677",
+"locator": null,
+"title": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)"
+}
+],
+"text": "AARO's own homepage links to 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' at war.gov/UFO.",
+"tier": 1,
+"unresolved": null
+},
+{
+"cls": "program",
+"cluster": "oversight",
+"denied": true,
 "id": "c-cee5bf6e46",
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "node": "pursue-releases",
@@ -107745,30 +107769,6 @@
 "text": "The Department of War published five PURSUE tranches at war.gov/UFO on 8 May, 22 May, 12 June, 10 July and 7 August 2026.",
 "tier": 1,
 "unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: node of bundle URLs, not the release index page"
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": true,
-"id": "c-3836653250",
-"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
-"node": "pursue-releases",
-"open": false,
-"source": {
-"domain": null,
-"text": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": null
-},
-"sources": [
-{
-"id": "u-aaro-mil-1c878677",
-"locator": null,
-"title": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)"
-}
-],
-"text": "AARO's own homepage links to 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' at war.gov/UFO.",
-"tier": 2,
-"unresolved": null
 },
 {
 "cls": "program",

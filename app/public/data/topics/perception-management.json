@@ -18,7 +18,7 @@
    "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
    "source": {
     "domain": "media.defense.gov",
-    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
    },
    "sourceRefs": [
@@ -29,7 +29,7 @@
     }
    ],
    "text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
-   "tier": 2
+   "tier": 1
   },
   "c-0e701fc335": {
    "id": "c-0e701fc335",

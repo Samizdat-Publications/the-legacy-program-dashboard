@@ -36,6 +36,16 @@
 },
 {
 "cls": "program",
+"id": "c-f371367f17",
+"locator": null,
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
+"tier": 1
+},
+{
+"cls": "program",
 "id": "c-2d4897578a",
 "locator": null,
 "node": "dod-agencywide-audit",
@@ -62,16 +72,6 @@
 "nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
-"tier": 2
-},
-{
-"cls": "program",
-"id": "c-f371367f17",
-"locator": null,
-"node": "dod-agencywide-audit",
-"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
-"sourceText": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
 "tier": 2
 },
 {
@@ -206,9 +206,9 @@
 "claims": [
 "c-0f2ae724e8",
 "c-dd07057120",
+"c-f371367f17",
 "c-5a29dfd873",
 "c-e18a5af635",
-"c-f371367f17",
 "c-ec6146b8e7",
 "c-601da71d07",
 "c-6070f27aaf"

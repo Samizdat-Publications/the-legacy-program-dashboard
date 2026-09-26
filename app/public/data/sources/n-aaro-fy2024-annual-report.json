@@ -46,6 +46,16 @@
 },
 {
 "cls": "document",
+"id": "c-4013e8f93c",
+"locator": null,
+"node": "aaro-fy2024-annual-report",
+"nodeLabel": "AARO FY2024 Consolidated Annual Report on UAP",
+"sourceText": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"text": "Domain distribution: 'Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains.' AARO adds a caveat on the space figure: 'none of the space domain reports originated from space-based sensors or assets; rather, all of these reports originated from military or commercial pilots or ground observers who reported UAP located at altitudes estimated at 100 kilometers or higher.' The Way Forward section repeats: 'Airborne UAP continue to dominate UAP reporting with 708 of the 757 reports from this reporting period occurring in the air domain.'",
+"tier": 1
+},
+{
+"cls": "document",
 "id": "c-84dc40a152",
 "locator": null,
 "node": "aaro-fy2024-annual-report",
@@ -86,12 +96,32 @@
 },
 {
 "cls": "document",
+"id": "c-c591ffb825",
+"locator": null,
+"node": "aaro-fy2024-annual-report",
+"nodeLabel": "AARO FY2024 Consolidated Annual Report on UAP",
+"sourceText": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"text": "Title page: 'THE DEPARTMENT OF DEFENSE / ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena / Information Cut Off: June 1, 2024'. 18 pages, UNCLASSIFIED, PDF CreationDate 13 November 2024 15:56 UTC.",
+"tier": 1
+},
+{
+"cls": "document",
 "id": "c-c72f59f2b6",
 "locator": null,
 "node": "aaro-fy2024-annual-report",
 "nodeLabel": "AARO FY2024 Consolidated Annual Report on UAP",
 "sourceText": "AARO FY2024 Consolidated Annual Report on UAP",
 "text": "'It is important to underscore that, to date, AARO has discovered no evidence of extraterrestrial beings, activity, or technology.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d7aaa72e68",
+"locator": null,
+"node": "aaro-fy2024-annual-report",
+"nodeLabel": "AARO FY2024 Consolidated Annual Report on UAP",
+"sourceText": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"text": "Reporting-source concentration: 'Of the 757 reports 392 were from the FAA, which consisted of all of the FAA's UAP reports since 2021.' A majority of the FY2024 surge is therefore a one-off backfill of FAA holdings rather than new military observation.",
 "tier": 1
 },
 {
@@ -103,36 +133,6 @@
 "sourceText": "AARO FY2024 Consolidated Annual Report on UAP",
 "text": "The report attributes its analytic constraints primarily to 'a lack of timely and actionable sensor data.'",
 "tier": 1
-},
-{
-"cls": "document",
-"id": "c-4013e8f93c",
-"locator": null,
-"node": "aaro-fy2024-annual-report",
-"nodeLabel": "AARO FY2024 Consolidated Annual Report on UAP",
-"sourceText": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "Domain distribution: 'Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains.' AARO adds a caveat on the space figure: 'none of the space domain reports originated from space-based sensors or assets; rather, all of these reports originated from military or commercial pilots or ground observers who reported UAP located at altitudes estimated at 100 kilometers or higher.' The Way Forward section repeats: 'Airborne UAP continue to dominate UAP reporting with 708 of the 757 reports from this reporting period occurring in the air domain.'",
-"tier": 2
-},
-{
-"cls": "document",
-"id": "c-c591ffb825",
-"locator": null,
-"node": "aaro-fy2024-annual-report",
-"nodeLabel": "AARO FY2024 Consolidated Annual Report on UAP",
-"sourceText": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "Title page: 'THE DEPARTMENT OF DEFENSE / ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena / Information Cut Off: June 1, 2024'. 18 pages, UNCLASSIFIED, PDF CreationDate 13 November 2024 15:56 UTC.",
-"tier": 2
-},
-{
-"cls": "document",
-"id": "c-d7aaa72e68",
-"locator": null,
-"node": "aaro-fy2024-annual-report",
-"nodeLabel": "AARO FY2024 Consolidated Annual Report on UAP",
-"sourceText": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "Reporting-source concentration: 'Of the 757 reports 392 were from the FAA, which consisted of all of the FAA's UAP reports since 2021.' A majority of the FY2024 surge is therefore a one-off backfill of FAA holdings rather than new military observation.",
-"tier": 2
 },
 {
 "cls": "document",

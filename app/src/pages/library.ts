@@ -74,8 +74,10 @@ export async function renderLibrary(view: HTMLElement, q: URLSearchParams): Prom
       fmt(lib.claims.resolved) + ' of the board\'s ' + fmt(lib.claims.total) + ' claims (' + share + '%) link ' +
       'to their source here; the rest keep their citation exactly as written, and say so.'),
     h('p', { class: 'lib-intro dim' },
-      'A source marked "interested party" was published by the office the board investigates or its parent ' +
-      'department: it is a record of what that office said, not proof of what it says.'),
+      'A source marked "interested party" was issued by AARO, the office the board investigates, or is on file ' +
+      'only from the Defense Department\'s own public sites (aaro.mil, defense.gov, war.gov): it is a record of ' +
+      'what the office said, not proof of what it says. Other defence and intelligence records (a directive, a ' +
+      'DIA letter) are not marked: the board reads them as primary records.'),
   ));
 
   /* ---- search and sort --------------------------------------------------- */
@@ -192,7 +194,7 @@ function row(r: LibraryRow, eras: Record<string, Era>): HTMLElement {
   if (!r.urls && !r.archived) bits.push(sep(), h('span', { class: 'dim' }, 'no web address on file'));
   return h('li', { class: 'lib-row', 'data-sid': r.id },
     h('a', { class: 'lib-title', href: '#/s/' + r.id }, r.title),
-    r.interestedParty ? h('span', { class: 'ip-mark', title: 'Published by the office the board investigates or its parent department: a record of what it said, not proof of what it says.' }, 'interested party') : null,
+    r.interestedParty ? h('span', { class: 'ip-mark', title: 'Issued by AARO, or on file only from aaro.mil, defense.gov or war.gov: a record of what the office said, not proof of what it says.' }, 'interested party') : null,
     h('div', { class: 'lib-meta' }, ...bits,
       r.identifiers.length ? h('span', { class: 'dim' }, ' · ' + r.identifiers.join(', ')) : null));
 }

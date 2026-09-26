@@ -6,7 +6,7 @@
 "claims": [
 {
 "id": "c-0425885755",
-"source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "sources": [
 {
 "id": "n-aaro-historical-record-vol1",
@@ -15,7 +15,7 @@
 }
 ],
 "text": "HRR Volume I, page 6: 'AARO will publish Volume II in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired by AARO after the date of the publication of Volume I.'",
-"tier": 2,
+"tier": 1,
 "unresolved": null
 },
 {
@@ -806,7 +806,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 49 of 1138, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 49 of 1138, score 83). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

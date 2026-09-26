@@ -737,3 +737,6 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .ev-src { display: block; overflow-wrap: break-word; }
 .ev-src + .ev-src { margin-top: 3px; }
 
+
+/* a tier count never splits from its number ("3 at Tier / 3", critic p8 round 3) */
+.sechead .t1, .sechead .t2, .sechead .t3 { white-space: nowrap; }

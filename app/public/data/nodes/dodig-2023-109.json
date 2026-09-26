@@ -76,7 +76,7 @@
 },
 {
 "id": "c-4ed266f44c",
-"source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "sources": [
 {
 "id": "n-dodig-2023-109",
@@ -85,7 +85,7 @@
 }
 ],
 "text": "Historical framing in the summary: 'Over the past decades, the DoD has initiated infrequent and inconclusive efforts to identify and understand the origin, capabilities, and intent of unidentified aerial phenomena (UAP)... the DoD has relied heavily on the Services and Components to detect, report, collect, analyze, and identify UAP since the 1940s.' It counts 243 sightings investigated under PROJECT SIGN (1947-1949) and 'over 12,000 reported sightings' under PROJECT BLUE BOOK (1952-1969).",
-"tier": 2,
+"tier": 1,
 "unresolved": null
 },
 {
@@ -504,7 +504,7 @@
 ],
 "sub": "Classified report 15 Aug 2023; unclassified summary released 25 Jan 2024",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 84 of 1138, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 81 of 1138, score 70). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

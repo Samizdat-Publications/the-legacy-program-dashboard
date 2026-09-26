@@ -88,3 +88,29 @@ guessed. The work files (batches, proposals, verdicts) were scratch; every decis
   still print their `{name, url}` sources as before, now with breakable addresses.
 - **300 claims cite the board's own inference** ("Inference from ...") and name nothing that resolves.
   They are marked unresolved with that reason.
+
+## After critic round 3: one rule for the office's own words
+
+Round 3 showed two quotations of the same AARO report graded differently: one kept Tier 1, one had been
+demoted years of passes ago by `tier1_cap_reason`, which reads a claim's URL and knew only merge.py's
+attribution words. The registry rule knew two more ways a claim is about what the office said: it quotes
+the publication (now also after a short lead-in, "HRR Volume I, page 6: '...'", "Title page: '...'"), or
+the office or its document is the subject of an account verb (now including "publish"). Both rules now use
+all three. **18 node claims and 11 dossier claims return to Tier 1**, every one a verbatim quotation or
+full-text reading of the office's own publication (title pages, caseload figures as printed, "AARO
+confirmed the existence of one IC CAP ..."). GOLDEN: claim tiers 3,768 / 1,712 / 580 to 3,786 / 1,694 /
+580; dossier claim tiers 1,230 / 488 / 85 to 1,241 / 477 / 85. Net over the phase: Tier 1 claims 3,780
+to 3,786.
+
+## The blind critic
+
+| Round | Worst in-scope finding | Done |
+|---|---|---|
+| 1 | an AARO report credited to The Black Vault as issuer; dates missing or falsely precise; a wall of URLs above the claims | issuer is the commonest publisher among the copies, mirrors are hosts; hearing records dated from their citations; node dates from the label; copies and captures folded; YYYY-01-01 prints as the year |
+| 2 | the same source linked on one claim and plain text on the next; the demotion note printed inside "as cited" | unmatched citations say so; the source page says its count is of matched citations; the demotion note is its own line; title-head agencies as issuers |
+| 3 | two-source citations still unmatched (by design until list-valued decisions); two quotations graded differently; the interested-party wording claimed more than the rule does | one rule for the office's own words (above); the wording now states the rule exactly (AARO, or on file only from aaro.mil, defense.gov, war.gov) |
+
+Out of scope and recorded for their phases: the map at 1366 (phase 11), the timeline's unnamed marks and
+same-day duplicates (phase 9), near-duplicate claims on one node (phase R), the evidence explorer's
+source-domain chips clipped in their scroll box, and 73% of sources undated (most web pages and articles
+carry no date the board can read without guessing). The three reports are `notes/critic/p8-round-*.md`.

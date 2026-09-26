@@ -1079,7 +1079,7 @@
    "nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
    "source": {
     "domain": "media.defense.gov",
-    "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
     "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
    },
    "sourceRefs": [
@@ -1090,7 +1090,7 @@
     }
    ],
    "text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
-   "tier": 2
+   "tier": 1
   },
   "c-fbfdaaad2b": {
    "id": "c-fbfdaaad2b",

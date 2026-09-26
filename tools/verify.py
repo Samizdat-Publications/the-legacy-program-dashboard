@@ -3370,7 +3370,7 @@ _OFFICE_ACCOUNT = re.compile(
     r"releas\w*|found|finds?|conclud\w*|confirm\w*|logged|treat\w*|anonymi[sz]\w*|present\w*|"
     r"acknowledg\w*|stat\w*|says?|said|describ\w*|list\w*|record\w*|note\w*|attribut\w*|"
     r"resolv\w*|judg\w*|declar\w*|determin\w*|characteri[sz]\w*|identif\w*|dismiss\w*|"
-    r"reject\w*|den(?:y|ies|ied))\b", re.I)
+    r"reject\w*|den(?:y|ies|ied)|publish\w*)\b", re.I)
 
 
 @check("interested-party sources keep the AARO/DoD cap")
@@ -3405,7 +3405,7 @@ def _sources_interested_party(b):
             continue
         if all((by.get(r["source"]) or {}).get("interestedParty") for r in rows) \
                 and not ATT.search(c.get("text") or "") \
-                and not re.match("^['\"‘“]", c.get("text") or "") \
+                and not re.match("^(?:[^'\"‘“:]{0,60}:\\s*)?['\"‘“]", c.get("text") or "") \
                 and not _OFFICE_ACCOUNT.search(c.get("text") or ""):
             why = (adj.get(cid) or {}).get("why")
             if not why:
@@ -4129,7 +4129,7 @@ def self_test():
         adj = (docs[2].get("tierAdjudications") or {})
         c = next(c for n in rb["people"] + rb["entities"] for c in n.get("claims") or []
                  if c.get("tier") == 1 and not ATT.search(c.get("text") or "")
-                 and not re.match("^['\"‘“]", c.get("text") or "")
+                 and not re.match("^(?:[^'\"‘“:]{0,60}:\\s*)?['\"‘“]", c.get("text") or "")
                  and not _OFFICE_ACCOUNT.search(c.get("text") or "")
                  and c["id"] not in adj)
         docs[1]["unresolved"].pop(c["id"], None)

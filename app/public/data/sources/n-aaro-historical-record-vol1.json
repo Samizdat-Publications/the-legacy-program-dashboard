@@ -19,6 +19,16 @@
 },
 {
 "cls": "document",
+"id": "c-0425885755",
+"locator": null,
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "HRR Volume I, page 6: 'AARO will publish Volume II in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired by AARO after the date of the publication of Volume I.'",
+"tier": 1
+},
+{
+"cls": "document",
 "id": "c-0ec7e9e9b9",
 "locator": null,
 "node": "aaro-historical-record-vol2",
@@ -59,13 +69,23 @@
 },
 {
 "cls": "document",
-"id": "c-0425885755",
+"id": "c-081cefd536",
 "locator": null,
-"node": "aaro-historical-record-vol2",
-"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
-"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "HRR Volume I, page 6: 'AARO will publish Volume II in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired by AARO after the date of the publication of Volume I.'",
-"tier": 2
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-161940a99e",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
+"tier": 1
 },
 {
 "cls": "document",
@@ -145,6 +165,16 @@
 "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "sourceText": "AARO Historical Record Report, Volume I, February 2024",
 "text": "'AARO found no evidence that any USG investigation, academic-sponsored research, or official review panel has confirmed that any sighting of a UAP represented extraterrestrial technology.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-434c336107",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO characterises the KONA BLUE proposal as one that 'would restart UAP investigations, paranormal research...and reverse-engineer any recovered off-world spacecraft'.",
 "tier": 1
 },
 {
@@ -349,6 +379,16 @@
 },
 {
 "cls": "document",
+"id": "c-e255b5743c",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Report page 35, section 'Unnecessary IC Program Expansion': 'AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission. This program was expanded despite the lack of any evidence or mission need to justify the expansion. The appropriate congressional committees were notified. This program never recovered or reverse-engineered any technology, let alone off-world spacecraft. This CAP was disestablished due to its inactivity, absence of mission need, and lack of merit.'",
+"tier": 1
+},
+{
+"cls": "document",
 "id": "c-e3bfc9b966",
 "locator": null,
 "node": "aaro-historical-record-vol1",
@@ -409,52 +449,12 @@
 },
 {
 "cls": "document",
-"id": "c-081cefd536",
-"locator": null,
-"node": "aaro-historical-record-vol1",
-"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
-"tier": 2
-},
-{
-"cls": "document",
-"id": "c-161940a99e",
-"locator": null,
-"node": "aaro-historical-record-vol1",
-"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
-"tier": 2
-},
-{
-"cls": "document",
-"id": "c-434c336107",
-"locator": null,
-"node": "aaro-historical-record-vol1",
-"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "AARO characterises the KONA BLUE proposal as one that 'would restart UAP investigations, paranormal research...and reverse-engineer any recovered off-world spacecraft'.",
-"tier": 2
-},
-{
-"cls": "document",
 "id": "c-89ca1c87fb",
 "locator": null,
 "node": "aaro-historical-record-vol1",
 "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "On KONA BLUE: it 'traces its origins to the DIA-managed AAWSAP/AATIP program'; supporters 'proposed to DHS that they create and fund a new version of AAWSAP/AATIP under a SAP', eventually submitting 'a Prospective Special Access Program (PSAP)' which was 'rejected by DHS leadership for lacking merit'.",
-"tier": 2
-},
-{
-"cls": "document",
-"id": "c-e255b5743c",
-"locator": null,
-"node": "aaro-historical-record-vol1",
-"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"text": "Report page 35, section 'Unnecessary IC Program Expansion': 'AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission. This program was expanded despite the lack of any evidence or mission need to justify the expansion. The appropriate congressional committees were notified. This program never recovered or reverse-engineered any technology, let alone off-world spacecraft. This CAP was disestablished due to its inactivity, absence of mission need, and lack of merit.'",
 "tier": 2
 },
 {
@@ -3156,8 +3156,8 @@
 },
 {
 "claims": [
-"c-4d754b7236",
 "c-081cefd536",
+"c-4d754b7236",
 "c-26938ff010",
 "c-73179e68ea"
 ],
@@ -3206,9 +3206,9 @@
 },
 {
 "claims": [
+"c-161940a99e",
 "c-e5e86fca02",
-"c-e6f024d038",
-"c-161940a99e"
+"c-e6f024d038"
 ],
 "id": "grusch-allegations",
 "title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
@@ -3257,8 +3257,8 @@
 },
 {
 "claims": [
-"c-96004f74f0",
-"c-161940a99e"
+"c-161940a99e",
+"c-96004f74f0"
 ],
 "id": "wilson-davis-notes",
 "title": "The Wilson-Davis notes (2002)"

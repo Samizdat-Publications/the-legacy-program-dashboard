@@ -6,7 +6,7 @@
 "claims": [
 {
 "id": "c-b4d88c0c0d",
-"source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
 "sources": [
 {
 "id": "n-aaro-fy2023-annual-report",
@@ -15,12 +15,12 @@
 }
 ],
 "text": "Title page: 'OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE / THE DEPARTMENT OF DEFENSE / Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena / October 2023'. 16 pages, UNCLASSIFIED, PDF CreationDate 25 October 2023 16:09 UTC. This is the first jointly badged ODNI/DoD consolidated annual report.",
-"tier": 2,
+"tier": 1,
 "unresolved": null
 },
 {
 "id": "c-c1729b3d91",
-"source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
 "sources": [
 {
 "id": "n-aaro-fy2023-annual-report",
@@ -29,7 +29,7 @@
 }
 ],
 "text": "Caseload: AARO 'received a total of 291 UAP reports during this period, consisting of 274 that occurred during' the reporting period, the remainder being older incidents reported late.",
-"tier": 2,
+"tier": 1,
 "unresolved": null
 },
 {
@@ -314,7 +314,7 @@
 ],
 "sub": "Published 25 October 2023; 291 new reports; 801 total holdings",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 318 of 1138, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 281 of 1138, score 40). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": null,
