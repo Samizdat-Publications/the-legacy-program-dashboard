@@ -22,7 +22,8 @@
  * lost their map halves (the Atlas's own C37 covers its chips); C72 holds that
  * the map's old routes land on what replaced them; C71 is #/places (every place
  * listed once under its country, every place with coordinates plotted once, in
- * the order its longitude and latitude give). All against the built app
+ * the order its longitude and latitude give), and C26's phone sweep reaches
+ * every route kind the app answers on. All against the built app
  * served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
@@ -588,7 +589,24 @@ const IN_PAGE = {
     if (kind === 'evidence') {
       const c = all('.ev-table td.c-claim').filter((td) => seen(td, 200) && onFirst(td) && txt(td).length > 20);
       out.have = c.length; out.what = 'claim texts readable on the first screen';
-    } else if (kind === 'hood') {
+    } else if (kind === 'hood0') {
+      out.have = all('.gn-pick-list .gn-label').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'start-here entries named';
+    } else if (kind === 'places') {
+      const rows = all('.pl li.pl-row .pl-name');
+      out.want = Math.max(1, rows.length);
+      out.have = rows.filter((e) => seen(e) && txt(e)).length;
+      out.what = 'places named and inside the screen';
+    } else if (kind === 'notfound') {
+      out.have = all('.notice h2').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'the not-found page naming the route';
+    } else if (kind === 'reportt') {
+      out.have = all('.report h1').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'the thread report headed';
+    } else if (kind === 'entity') {
+      out.have = all('.claim .ctext').filter((e) => seen(e, 150) && txt(e)).length;
+      out.what = 'claim rows readable';
+    } else if (kind === 'hood' || kind === 'entityhood') {
       const rows = all('.gn li.gn-row .gn-label');
       out.want = Math.max(1, rows.length);
       out.have = rows.filter((e) => seen(e) && txt(e)).length;
@@ -600,7 +618,7 @@ const IN_PAGE = {
       const p = document.querySelector('.home-para');
       out.have = p && seen(p, 300) && onFirst(p) ? 1 : 0;
       out.what = 'the introduction at a readable width on the first screen';
-    } else if (kind === 'people' || kind === 'events') {
+    } else if (kind === 'people' || kind === 'events' || kind === 'orgs' || kind === 'programmes' || kind === 'laws') {
       out.have = all('.dir-row .c-name a').filter((e) => seen(e) && txt(e)).length;
       out.what = 'directory rows named';
     } else if (kind === 'timeline') {
@@ -1328,8 +1346,8 @@ const POISONS = {
     }),
   },
   c26: {
-    stops: ['phone:evidence', 'phone:home', 'phone:node', 'phone:hood'],
-    what: 'at phone width: forces a wide element into the evidence page, hides the VIEWS button, puts the desktop grid back on the node page, and empties the neighbourhood',
+    stops: ['phone:evidence', 'phone:home', 'phone:node', 'phone:hood', 'phone:places'],
+    what: 'at phone width: forces a wide element into the evidence page, hides the VIEWS button, puts the desktop grid back on the node page, empties the neighbourhood, and widens the places list past the screen',
     fn: async (page, _ctx, id) => page.evaluate((stopId) => {
       if (stopId === 'phone:evidence') {
         const d = document.createElement('div');
@@ -1344,6 +1362,9 @@ const POISONS = {
         if (n) n.style.gridTemplateColumns = 'minmax(0, 1fr) 520px';
       } else if (stopId === 'phone:hood') {
         for (const g of document.querySelectorAll('.gn .gn-rows')) g.remove();
+      } else if (stopId === 'phone:places') {
+        const l = document.querySelector('.pl-list');
+        if (l) l.style.minWidth = '560px';
       }
     }, id),
   },
@@ -1957,6 +1978,13 @@ async function main() {
     ['atlas', '#/atlas'], ['topic', '#/topic/' + TOPIC_A],
     ['people', '#/people'], ['events', '#/events'],
     ['library', '#/library'], ['source', '#/s/' + SOURCE_FOCUS],
+    /* phase 11: every other route kind the app answers on, so the phone sweep
+       covers the whole app (task 4): the neighbourhood with nothing selected,
+       an entity's page and neighbourhood, a thread's report, the other four
+       directories, the places page, and the not-found page */
+    ['hood0', '#/hood'], ['entity', '#/n/' + ENTITY_FOCUS], ['entityhood', '#/n/' + ENTITY_FOCUS + '/hood'],
+    ['reportt', '#/report/t/custody'], ['orgs', '#/orgs'], ['programmes', '#/programmes'],
+    ['laws', '#/laws'], ['places', '#/places'], ['notfound', '#/no-such-route'],
   ];
   const settleOf = (hash) => hash.startsWith('#/evidence') ? 3200
     : /^#\/timeline/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
