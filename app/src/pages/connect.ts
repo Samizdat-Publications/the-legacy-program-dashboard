@@ -184,8 +184,9 @@ export async function renderConnect(view: HTMLElement, a: string | null, b: stri
     'Up to three routes through the board\'s sourced links, no two passing through the same node. ' +
     'A route prefers Tier 1 links, the backbone relationships (roles, organisation, money, custody, law and ' +
     'documents) and specific nodes over the board\'s most-connected ones. Every step prints the link\'s own ' +
-    'sentence, its tier and its sources. A route is a chain of recorded links, not a finding that the ends ' +
-    'are related in any further way.'));
+    'sentence, its tier and its sources. A tier grades one link, not the route: a chain of documented links ' +
+    'can still join two things only loosely, and a route is not a finding that the ends are related in any ' +
+    'further way.'));
   page.append(picker(idx.nodes, a, b));
 
   if (!A || !B) {
@@ -231,7 +232,9 @@ function route(r: Route, i: number, byId: Map<string, IndexNode>,
   const box = h('section', { class: 'croute', 'data-route': String(i + 1), 'data-mids': r.mids.join(' ') },
     h('div', { class: 'croute-head' },
       h('span', { class: 'eyebrow' }, 'Route ' + (i + 1)), ' ',
-      h('span', { class: 'dim' }, '· ' + r.hops.length + (r.hops.length === 1 ? ' link' : ' links') + ' · ' + tiers.join(' '))));
+      h('span', { class: 'dim' }, '· ' + r.hops.length + (r.hops.length === 1 ? ' link' : ' links') +
+        ' · each link graded ' + tiers.join(' ') + ' · ' + r.mids.length +
+        (r.mids.length === 1 ? ' thing' : ' things') + ' in between')));
   if (hubs.length) {
     const names = hubs.map((m) => byId.get(m)!.label);
     box.append(h('div', { class: 'croute-hub', 'data-hubs': hubs.join(' ') },

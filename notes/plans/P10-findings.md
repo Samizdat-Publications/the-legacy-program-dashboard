@@ -15,3 +15,8 @@ Written 26 September 2026. None of these is fixed here: each is a research decis
 | `e-1ddb9c9da4` | says AARO "independently" catalogues the Wilson-Davis allegation; nothing establishes the independence | question verifier |
 | `c-58b4ffae67`, `c-55e352d752` | nine contacts and at least eight approaches, from the same AARO memorandum | question verifier |
 | thin | other governments has no thread and no primary SETKA record; the nuclear-site accounts beyond the Air Force paper rest heavily on Robert Hastings | question drafter |
+
+## From the blind critic, round 1 (data, not phase 10's surfaces)
+
+- Claim source strings carry the regrade pass's bookkeeping ("DEMOTED from Tier 1 (...); needs primary replacement") and research-wave wording ("wave-1 sourcing on this board"); every surface prints them. A copy pass (phase 12) or a separate `sourceNote` field would keep the reason without the jargon.
+- The same sworn words sit on the board as a Tier 1 record of speech and as a Tier 2 claim (for example the Mace biologics answer); the question pages cite both side by side, which reads as a contradiction. Phase R's first queue item.

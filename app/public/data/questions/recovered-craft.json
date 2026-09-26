@@ -409,19 +409,6 @@
    "text": "'None of the interviewees had firsthand knowledge' of the programs they described, per the report's findings section.",
    "tier": 1
   },
-  "c-66d33c8d87": {
-   "id": "c-66d33c8d87",
-   "kind": "claim",
-   "node": "david-grusch",
-   "nodeLabel": "David Charles Grusch",
-   "source": {
-    "domain": null,
-    "text": "CHRG-118hhrg53022, testimony of David Grusch",
-    "url": null
-   },
-   "text": "Sworn testimony, 26 July 2023: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it. I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower. As you know, I have suffered retaliation for my decision'.",
-   "tier": 2
-  },
   "c-6780776193": {
    "id": "c-6780776193",
    "kind": "claim",
@@ -706,19 +693,6 @@
     "url": null
    },
    "text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
-   "tier": 2
-  },
-  "c-fa76c617cd": {
-   "id": "c-fa76c617cd",
-   "kind": "claim",
-   "node": "hearing-2023-07-26",
-   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-   "source": {
-    "domain": null,
-    "text": "CHRG-118hhrg53022, testimony of David Grusch",
-    "url": null
-   },
-   "text": "Sworn testimony of David Grusch: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it. I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower. As you know, I have suffered retaliation for my decision'.",
    "tier": 2
   },
   "c-ffee665dd2": {
@@ -1153,9 +1127,7 @@
  "for": [
   {
    "cite": [
-    "c-66d33c8d87",
-    "c-e9eeaa6e1d",
-    "c-fa76c617cd"
+    "c-e9eeaa6e1d"
    ],
    "text": "Grusch testified under oath on 26 July 2023 that in his official duties he was informed of a multi-decade crash retrieval and reverse-engineering programme, was denied the read-ons when he asked, and reported this to his superiors and several inspectors general. This is sworn testimony to what he was told, not a record of the programme."
   },

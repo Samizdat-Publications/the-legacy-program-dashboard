@@ -509,9 +509,11 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 
 /* The mark on a Tier 1 claim that records that something was said (attrib.ts). */
 .said-mark {
+  /* not Tier 2's amber: the mark qualifies a Tier 1 claim, and a reader took
+     the shared colour to mean the claim was really Tier 2 (critic, phase 10) */
   display: inline-block;
-  color: var(--amber);
-  border: 1px solid rgba(239, 181, 85, 0.55);
+  color: var(--text);
+  border: 1px dashed var(--dim);
   padding: 0 5px;
   margin-right: 7px;
   letter-spacing: 0.04em;
