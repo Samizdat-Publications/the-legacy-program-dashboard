@@ -2,8 +2,9 @@
  *
  * The entity in the centre; its neighbours in labelled columns, one column per
  * relationship family; every neighbour named once, with the link read from the
- * neighbour's side (the predicate's own words where the generator shows it, the
- * family's word otherwise) and the authored sentence on hover and on tap. One
+ * centre (the predicate's own words where the generator shows it, with the
+ * authored sentence on hover and on tap; the family's phrase otherwise, with the
+ * sentence shown open, so every row says why without a tap). One
  * orthogonal line runs from the centre to each column. Two steps out opens one
  * family at a time and names, for every node it reaches, the neighbour it is
  * reached through ("via <name>").
@@ -19,7 +20,7 @@ import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import { loadHighlights, loadNode, loadIndex, clsColour, dateRange, type Connection, type IndexNode } from '../data';
 import { NO_SENTENCE, familyName } from '../vocab';
-import { adjacency, groupNeighbours, twoSteps, familyLabel, type FamilyGroup, type Neighbour } from '../hood/model';
+import { adjacency, groupNeighbours, twoSteps, type FamilyGroup, type Neighbour } from '../hood/model';
 import { drawLines } from '../hood/lines';
 import { notFound } from './notfound';
 import '../styles/hood.css';
@@ -62,7 +63,8 @@ export async function renderHood(view: HTMLElement, id: string | null): Promise<
     h('span', { class: 'eyebrow' }, 'Neighbourhood'),
     h('span', { class: 'dim' }, nNeighbours + ' neighbours in ' + groups.length +
       (groups.length === 1 ? ' family' : ' families') +
-      ', each named once. Tap a link\'s words for the sentence behind it. "Two steps out" opens one family at a time.')));
+      ', each named once and read from ' + rec.label + '. Where a link has no precise wording its sentence is shown; ' +
+      'elsewhere tap the words for it. "Two steps out" opens one family at a time.')));
 
   const stage = h('div', { class: 'gn-stage' });
   const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
@@ -145,7 +147,7 @@ function familyBlock(
   }, 'two steps out ›');
   block.append(h('div', { class: 'gn-fhead' },
     h('span', { class: 'eyebrow gn-flabel' + (g.family === 'denial' ? ' red' : '') }, f.label),
-    h('span', { class: 'dim' }, ' · ' + g.rows.length),
+    h('span', { class: 'dim' }, ' · ' + g.rows.length + (g.rows.length === 1 ? ' neighbour' : ' neighbours')),
     btn));
   if (f.blurb) block.append(h('div', { class: 'faint gn-fblurb' }, f.blurb));
   const list = h('ul', { class: 'gn-rows' });
@@ -157,14 +159,16 @@ function familyBlock(
 
 function rowEl(r: Neighbour): HTMLElement {
   const said = sentences(r.links);
-  const sent = h('div', { class: 'gn-sent', hidden: true });
+  /* a row whose reading is only its family's phrase shows its sentence open */
+  const plain = !r.readings.some((x) => x.shown);
+  const sent = h('div', { class: 'gn-sent', hidden: !plain });
   for (const l of r.links) {
     sent.append(h('div', { class: 'gn-sline' },
       h('span', null, l.edgeLabel || l.note || NO_SENTENCE),
       h('span', { class: 'faint' }, ' · ' + dateRange(l.dateStart, l.dateEnd) + ' · T' + (l.claimTier ?? '?'))));
   }
   const say = h('button', {
-    type: 'button', class: 'gn-say', 'aria-expanded': 'false', title: said,
+    type: 'button', class: 'gn-say', 'aria-expanded': plain ? 'true' : 'false', title: said,
     onclick: () => {
       const open = say.getAttribute('aria-expanded') !== 'true';
       say.setAttribute('aria-expanded', open ? 'true' : 'false');
@@ -175,11 +179,15 @@ function rowEl(r: Neighbour): HTMLElement {
     if (i) say.append(h('span', { class: 'faint' }, ', '));
     say.append(h('span', { class: x.shown ? 'gn-pred' : 'gn-pred dim' }, x.text));
   });
-  if (r.also.length) say.append(h('span', { class: 'faint' }, ' · also ' + r.also.map((f) => familyLabel(f).toLowerCase()).join(', ')));
+  const also = r.also.length
+    ? h('span', { class: 'faint gn-also', title: 'Named once, here; it has links in these families too.' },
+      'also ' + r.also.map((f) => familyName(f).phrase.replace(/ to$/, '')).join(', '))
+    : null;
   return h('li', { class: 'gn-row', 'data-id': r.id, 'data-family': r.family },
+    say,
     h('a', { class: 'gn-name', href: '#/n/' + r.id, title: said },
       mark(clsColour(r.cls)), h('span', { class: 'gn-label' }, r.label)),
-    say, sent);
+    also, sent);
 }
 
 function fillTwo(

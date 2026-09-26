@@ -12,21 +12,20 @@
 .pl-svg { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; }
 .pl-frame { fill: var(--bg2); stroke: var(--line2); stroke-width: 1; }
 .pl-grat { fill: none; stroke: var(--line); stroke-width: 1; stroke-dasharray: 2 4; }
-.pl-lead { fill: none; stroke: var(--line2); stroke-width: 1; opacity: 0.9; }
+.pl-lead { fill: none; stroke: var(--dim); stroke-width: 1; opacity: 0.7; }
 .pl-deg { position: absolute; white-space: nowrap; line-height: 12px; }
 .pl-deg-lon { transform: translateX(-50%); }
+.pl-deg-lat { transform: translateX(-100%); }
 .pl-mark { position: absolute; width: 7px; height: 7px; margin: -3.5px 0 0 -3.5px; line-height: 0; }
 .pl-mark .mark { display: block; }
 .pl-mark:hover .mark, .pl-mark:focus .mark { outline: 1px solid var(--text); }
 .pl-label {
   position: absolute;
-  box-sizing: border-box;
   color: var(--text);
-  line-height: 14px;
-  overflow-wrap: anywhere;
+  line-height: 13px;
+  white-space: nowrap;
 }
-.pl-label.l { text-align: right; padding-right: 2px; }
-.pl-label.r { padding-left: 2px; }
+.pl-label:hover { color: var(--cyan); }
 
 .pl-chead { font-size: var(--fs-label); font-weight: 400; margin: 0 0 4px; border-bottom: 1px solid var(--line); padding-bottom: 3px; }
 .pl-country { margin-bottom: 16px; }
@@ -45,6 +44,10 @@
 .pl-more .pl-evs li { display: block; }
 .pl-more .pl-evs li + li::before { content: none; }
 
+/* below 2200 the grid takes the page width and the list follows it: beside a list the grid is too narrow for its names */
+@media (max-width: 2200px) {
+  .pl-body { grid-template-columns: minmax(0, 1fr); }
+}
 @media (max-width: 760px) {
   .pl-body { grid-template-columns: minmax(0, 1fr); }
   .pl-phone { display: block; }

@@ -7,9 +7,10 @@
  * are the board's own table (research/_places.json), and the page says so. A
  * cited basemap and gazetteer are a research item (phase R).
  *
- * Every marker is named: each has its label in a column beside the grid, joined
- * to it by a leader line, at the one label size. Labels are placed by measuring
- * them, so none overlaps another and none is cut. A place without coordinates is
+ * Every marker is named: its label sits beside it, at the one label size, or a
+ * short way off with a leader where its neighbours are close. Labels are placed
+ * by measuring them, so none overlaps another, a marker or a grid label, and
+ * none is cut. A place without coordinates is
  * listed and says it has none; it is never placed by guesswork.
  */
 import '../styles/directory.css';
@@ -20,9 +21,7 @@ import { loadIndex, loadPlaces, clsColour, type Place, type PlaceEvent } from '.
 import { dirTabs } from './directory';
 
 const NS = 'http://www.w3.org/2000/svg';
-const COL_W = 200;        /* each label column */
-const GAP = 14;           /* between a label column and the grid */
-const LAB_GAP = 3;        /* between two labels in a column */
+const MARGIN = 72;       /* each side of the grid: its latitudes, and room for names near its edge */
 
 let generation = 0;
 let observer: ResizeObserver | null = null;
@@ -54,10 +53,10 @@ export async function renderPlaces(view: HTMLElement): Promise<void> {
       'Every place on the board: ' + places.length + ', of which ' + plotted.length +
       ' carry coordinates and are plotted. Each is listed by country and region with the events tied to it and the topics that hold it.'),
     dirTabs(idx.nodes, 'places')));
-  const sources = Object.entries(pf.coordSources || {});
   root.append(h('p', { class: 'pl-note faint' },
-    'The grid is plain longitude and latitude, with no coastline: no basemap has been sourced for the board. ',
-    ...sources.map(([k, v]) => h('span', null, 'Coordinates marked "' + k + '": ' + v + ' '))));
+    'The grid is plain longitude and latitude, with no coastline: no map of coastlines has been sourced for the board, ' +
+    'so none is drawn. Every coordinate here comes from the board’s own table, typed in without a recorded source; ' +
+    'each is marked "uncited" in the list. None has been checked against a cited gazetteer yet.'));
 
   const body = h('div', { class: 'pl-body' });
   const plots = h('section', { class: 'pl-plots', 'aria-label': 'The places on a longitude and latitude grid' });
@@ -105,9 +104,11 @@ function drawPlot(block: HTMLElement, places: Place[], step: number): void {
   const lon0 = Math.floor((Math.min(...lons) - step / 4) / step) * step;
   const lon1 = Math.ceil((Math.max(...lons) + step / 4) / step) * step;
   const k = Math.cos(((lat0 + lat1) / 2) * Math.PI / 180);
-  const plotW = Math.max(160, width - 2 * (COL_W + GAP));
-  const plotH = Math.max(120, Math.round(plotW * (lat1 - lat0) / ((lon1 - lon0) * k)));
-  const X0 = COL_W + GAP, Y0 = 18;
+  /* the grid takes the width, less a margin each side that names near its
+     edge can use; its height follows from the projection */
+  const X0 = MARGIN, Y0 = 18;
+  const plotW = Math.max(200, width - 2 * MARGIN);
+  const plotH = Math.max(140, Math.round(plotW * (lat1 - lat0) / ((lon1 - lon0) * k)));
   const px = (lon: number) => X0 + (lon - lon0) / (lon1 - lon0) * plotW;
   const py = (lat: number) => Y0 + (lat1 - lat) / (lat1 - lat0) * plotH;
 
@@ -123,59 +124,114 @@ function drawPlot(block: HTMLElement, places: Place[], step: number): void {
   line('M' + X0 + ' ' + Y0 + ' h' + plotW + ' v' + plotH + ' h' + (-plotW) + ' Z', 'pl-frame');
   for (let v = lat0 + step; v < lat1; v += step) line('M' + X0 + ' ' + py(v) + ' h' + plotW, 'pl-grat');
   for (let v = lon0 + step; v < lon1; v += step) line('M' + px(v) + ' ' + Y0 + ' v' + plotH, 'pl-grat');
-  /* the grid's own labels: latitudes above their line at the grid's left edge,
-     longitudes under the frame */
-  for (let v = lat0; v <= lat1; v += step) {
-    stage.append(h('span', { class: 'pl-deg faint', style: 'left:' + (X0 + 3) + 'px;top:' + (py(v) - 14) + 'px' }, degLabel(v, 'N', 'S')));
+
+  /* the grid's own labels, outside the frame so nothing sits on them:
+     latitudes in the left margin, longitudes under the frame, as many as fit */
+  const every = (n: number, span: number, room: number) => Math.max(1, Math.ceil(room / (span / n)));
+  const latK = every((lat1 - lat0) / step, plotH, 16);
+  for (let i = 0, v = lat0; v <= lat1; v += step, i++) {
+    if (i % latK) continue;
+    stage.append(h('span', { class: 'pl-deg pl-deg-lat faint', style: 'left:' + (X0 - 6) + 'px;top:' + (py(v) - 6) + 'px' }, degLabel(v, 'N', 'S')));
   }
-  for (let v = lon0; v <= lon1; v += step) {
+  const lonK = every((lon1 - lon0) / step, plotW, 58);
+  for (let i = 0, v = lon0; v <= lon1; v += step, i++) {
+    if (i % lonK) continue;
     stage.append(h('span', { class: 'pl-deg pl-deg-lon faint', style: 'left:' + px(v) + 'px;top:' + (Y0 + plotH + 3) + 'px' }, degLabel(v, 'E', 'W')));
   }
 
-  /* markers, then their labels in two columns, then the leaders */
-  type Lab = { p: Place; x: number; y: number; el: HTMLElement; side: -1 | 1; top: number; h: number };
-  const labs: Lab[] = [];
-  for (const p of places) {
-    const x = px(p.lon as number), y = py(p.lat as number);
+  /* markers first; then each name beside its own marker. A name tries the
+     places nearest its marker first (right, left, above, below, then further
+     out in every direction), and takes the first where it overlaps no other
+     name, no marker and no grid label. A name set away from its marker gets a
+     short leader. Nothing is shrunk or cut: a name that cannot sit close sits
+     further out. */
+  type Box = { x: number; y: number; w: number; h: number };
+  const hit = (a: Box, b: Box) => a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
+  const taken: Box[] = [];
+  const names: Box[] = [];                        /* the names placed so far */
+  const leads: [number, number, number, number][] = [];   /* and their leaders */
+  /* does the segment (x1,y1)-(x2,y2) pass through box b? (Liang-Barsky) */
+  const cuts = (x1: number, y1: number, x2: number, y2: number, b: Box) => {
+    let t0 = 0, t1 = 1;
+    const dx = x2 - x1, dy = y2 - y1;
+    const edges: [number, number][] = [[-dx, x1 - b.x], [dx, b.x + b.w - x1], [-dy, y1 - b.y], [dy, b.y + b.h - y1]];
+    for (const [pp, q] of edges) {
+      if (pp === 0) { if (q < 0) return false; continue; }
+      const r = q / pp;
+      if (pp < 0) { if (r > t1) return false; if (r > t0) t0 = r; } else { if (r < t0) return false; if (r < t1) t1 = r; }
+    }
+    return t0 < t1;
+  };
+  const near = (b: Box, x: number, y: number): [number, number] =>
+    [Math.max(b.x, Math.min(x, b.x + b.w)), Math.max(b.y, Math.min(y, b.y + b.h))];
+  const sr = stage.getBoundingClientRect();
+  for (const d of Array.from(stage.querySelectorAll('.pl-deg'))) {
+    const r = d.getBoundingClientRect();
+    taken.push({ x: r.left - sr.left - 2, y: r.top - sr.top - 1, w: r.width + 4, h: r.height + 2 });
+  }
+  const pts = places.map((p) => ({ p, x: px(p.lon as number), y: py(p.lat as number) }));
+  for (const m of pts) {
     stage.append(h('a', {
-      class: 'pl-mark', href: '#/n/' + p.id, 'data-id': p.id,
-      'data-lat': String(p.lat), 'data-lon': String(p.lon),
-      style: 'left:' + x + 'px;top:' + y + 'px', 'aria-label': p.label,
-      title: p.label + ': ' + fmtLat(p.lat as number) + ', ' + fmtLon(p.lon as number),
+      class: 'pl-mark', href: '#/n/' + m.p.id, 'data-id': m.p.id,
+      style: 'left:' + m.x + 'px;top:' + m.y + 'px', 'aria-label': m.p.label,
+      title: m.p.label + ': ' + fmtLat(m.p.lat as number) + ', ' + fmtLon(m.p.lon as number),
     }, mark(clsColour('location'))));
-    const side: -1 | 1 = x < X0 + plotW / 2 ? -1 : 1;
+    taken.push({ x: m.x - 5, y: m.y - 5, w: 10, h: 10 });
+  }
+  /* the most crowded markers choose first, while there is still room near them */
+  const crowd = (m: { x: number; y: number }) => pts.filter((o) => Math.hypot(o.x - m.x, o.y - m.y) < 80).length;
+  const order = pts.slice().sort((a, b) => crowd(b) - crowd(a) || a.y - b.y || a.p.id.localeCompare(b.p.id));
+  let bottom = Y0 + plotH + 22;
+  const RINGS = [6, 16, 30, 48, 70, 96, 128, 166, 210, 260, 320, 390];
+  const ANGLES = [0, 180, -90, 90, -30, 30, -150, 150, -60, 60, -120, 120];
+  for (const m of order) {
     const el = h('a', {
-      class: 'pl-label ' + (side < 0 ? 'l' : 'r'), href: '#/n/' + p.id, 'data-id': p.id,
-      style: 'width:' + COL_W + 'px;left:' + (side < 0 ? 0 : X0 + plotW + GAP) + 'px;top:0px',
-      title: fmtLat(p.lat as number) + ', ' + fmtLon(p.lon as number) + ' (coordinates: ' + (p.coordSource || 'source not recorded') + ')',
-    }, p.label);
+      class: 'pl-label', href: '#/n/' + m.p.id, 'data-id': m.p.id,
+      title: fmtLat(m.p.lat as number) + ', ' + fmtLon(m.p.lon as number) + ' (uncited: the board’s own table)',
+    }, m.p.label);
     stage.append(el);
-    labs.push({ p, x, y, el, side, top: 0, h: 0 });
+    const r = el.getBoundingClientRect();
+    const w = Math.ceil(r.width), hh = Math.ceil(r.height);
+    /* every free spot within reach is scored: its distance, plus a price for a
+       leader crossing a name or a name sitting on a leader. The cheapest wins,
+       so a name moves far only when every near spot is taken. */
+    let best: Box | null = null, dist = 0, score = Infinity;
+    for (const d of RINGS) {
+      if (d > score) break;
+      for (const a of ANGLES) {
+        const c = Math.cos(a * Math.PI / 180), s = Math.sin(a * Math.PI / 180);
+        /* the box's near edge sits d from the marker along the angle */
+        const bx = m.x + d * c - (c < -0.3 ? w : c > 0.3 ? 0 : w / 2);
+        const by = m.y + d * s - (s < -0.3 ? hh : s > 0.3 ? 0 : hh / 2);
+        const b = { x: Math.round(bx), y: Math.round(by), w, h: hh };
+        if (b.x < 0 || b.x + w > width || b.y < 0) continue;
+        if (taken.some((t) => hit(t, { x: b.x - 2, y: b.y - 1, w: b.w + 4, h: b.h + 2 }))) continue;
+        let sc = d;
+        if (d > 10) {
+          const [tx, ty] = near(b, m.x, m.y);
+          sc += 120 * names.filter((t) => cuts(m.x, m.y, tx, ty, t)).length;
+        }
+        sc += 120 * leads.filter(([a1, b1, a2, b2]) => cuts(a1, b1, a2, b2, { x: b.x - 1, y: b.y - 1, w: b.w + 2, h: b.h + 2 })).length;
+        if (sc < score) { score = sc; best = b; dist = d; }
+      }
+    }
+    if (!best) {
+      /* nowhere near: under everything else, in a row of its own */
+      best = { x: Math.max(0, Math.min(width - w, Math.round(m.x - w / 2))), y: Math.round(bottom), w, h: hh };
+      dist = 999;
+    }
+    el.style.left = best.x + 'px';
+    el.style.top = best.y + 'px';
+    taken.push(best);
+    names.push(best);
+    bottom = Math.max(bottom, best.y + hh + 4);
+    if (dist > 10) {
+      const [tx, ty] = near(best, m.x, m.y);
+      leads.push([m.x, m.y, tx, ty]);
+      line('M' + m.x + ' ' + m.y + ' L' + tx + ' ' + ty, 'pl-lead');
+    }
   }
-  let bottom = Y0 + plotH + 20;
-  for (const side of [-1, 1] as const) {
-    const col = labs.filter((l) => l.side === side).sort((a, b) => a.y - b.y || a.p.label.localeCompare(b.p.label));
-    let next = Y0;
-    for (const l of col) {
-      l.h = l.el.getBoundingClientRect().height;
-      l.top = Math.max(next, Math.round(l.y - l.h / 2));
-      next = l.top + l.h + LAB_GAP;
-    }
-    /* a column that ran past the grid is pulled back up where it has room */
-    let limit = Math.max(next, Y0 + plotH) - LAB_GAP;
-    for (let i = col.length - 1; i >= 0; i--) {
-      const l = col[i];
-      if (l.top + l.h > limit) l.top = Math.max(Y0, limit - l.h);
-      limit = l.top - LAB_GAP;
-    }
-    for (const l of col) {
-      l.el.style.top = l.top + 'px';
-      bottom = Math.max(bottom, l.top + l.h + 4);
-      const ax = l.side < 0 ? COL_W + 2 : X0 + plotW + GAP - 2;
-      line('M' + l.x + ' ' + l.y + ' L' + ax + ' ' + (l.top + Math.min(l.h, 14) / 2), 'pl-lead');
-    }
-  }
-  const H = Math.ceil(bottom + 4);
+  const H = Math.ceil(Math.max(bottom, Y0 + plotH + 22) + 4);
   stage.style.height = H + 'px';
   svg.setAttribute('width', String(width));
   svg.setAttribute('height', String(H));
@@ -232,7 +288,8 @@ function placeRow(p: Place): HTMLElement {
   const li = h('li', { class: 'pl-row', 'data-id': p.id, 'data-country': p.country || '' });
   li.append(h('a', { class: 'pl-name', href: '#/n/' + p.id }, mark(clsColour('location')), h('span', null, p.label)));
   li.append(h('span', { class: 'pl-coord ' + (p.lat != null ? 'dim' : 'faint') },
-    p.lat != null && p.lon != null ? fmtLat(p.lat) + ', ' + fmtLon(p.lon) : 'no coordinates on the board'));
+    p.lat != null && p.lon != null ? fmtLat(p.lat) + ', ' + fmtLon(p.lon) + (p.coordSource === 'board table' ? ' · uncited' : '')
+      : 'no coordinates on the board'));
   if (p.events.length) {
     const ul = h('ul', { class: 'pl-evs' });
     for (const e of p.events) ul.append(evLink(e, p.id));

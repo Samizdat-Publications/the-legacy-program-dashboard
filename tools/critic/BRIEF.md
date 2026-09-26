@@ -28,10 +28,11 @@ density but not with confusion.
 ## The surfaces
 
 Home (the front door and search), a node page (one person, institution, programme, document or event: what
-it is, its claims with sources, the case against it, its connections grouped by relationship), a program
-map (the main nodes on a grid of bands and eras), a neighbourhood view (a node and what surrounds it), a
-timeline, an evidence explorer (every claim, filterable), a thread (an authored chain of steps), a patent
-page, and a printable report. Later phases add topic pages and an atlas of topics.
+it is, its claims with sources, the case against it, its connections grouped by relationship), an atlas of
+topics, a neighbourhood view (a node and everything linked to it, grouped by relationship), a places page
+(the board's places on a longitude and latitude grid, and listed by country), a timeline, an evidence
+explorer (every claim, filterable), a thread (an authored chain of steps), a patent page, and a printable
+report.
 
 ## The design rules the owner has set (hold the site to them)
 

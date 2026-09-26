@@ -50,28 +50,15 @@ export function adjacency(): Promise<Map<string, Set<string>>> {
   return adjP;
 }
 
-/* A short word for each family, for a link whose predicate is not shown: the
-   row then says which kind of link it is and claims no more than the family. */
-const WORD: Record<string, string> = {
-  role: 'role', organisation: 'organisation', money: 'money', custody: 'custody', law: 'law',
-  oversight: 'oversight', testimony: 'testimony', denial: 'denial', documents: 'document',
-  media: 'media', 'place-time': 'place or time', conduct: 'conduct', analysis: 'board inference',
-  other: 'link',
-};
-export const familyWord = (family: string | null): string => (family && WORD[family]) || 'link';
-
-/* What a row prints after a neighbour's name: the link read FROM THE NEIGHBOUR,
-   whose name it follows ("Eric Burlison appointed", "Susan Gough denied"; the
-   centre is the implied other end). Only a predicate the generator shows gets
-   its own words; any other link prints its family's word and "link". */
-export function readFromNeighbour(c: Connection): { text: string; shown: boolean } {
-  const p = c.predicate ? PREDICATES.get(c.predicate) : undefined;
-  if (!c.predicateShown || !p) {
-    const w = familyWord(c.family || null);
-    return { text: w === 'link' ? w : w + ' link', shown: false };
-  }
-  if (p.symmetric || c.predicateSide === 'either') return { text: p.forward, shown: true };
-  return { text: c.predicateSide === 'subject' ? p.inverse : p.forward, shown: true };
+/* What a row prints before a neighbour's name since the first critic round of
+   phase 11: the link read FROM THE CENTRE, whose name heads the page ("held a
+   post at National Reconnaissance Office"), the node page's own reading. A
+   predicate the generator shows prints its words; any other link prints the
+   family's neutral phrase, and its row then shows the authored sentence
+   itself, so every row says why the link exists without a tap. */
+export function readFromCentre(c: Connection): { text: string; shown: boolean } {
+  const shown = !!c.predicateShown && !!c.predicate && PREDICATES.has(c.predicate);
+  return { text: (shown && c.verb) || familyName(c.family || 'other').phrase, shown: shown && !!c.verb };
 }
 
 export const FAMILY_ORDER = FAMILIES.map((f) => f.id);
@@ -113,12 +100,14 @@ export function groupNeighbours(conns: Connection[]): FamilyGroup[] {
     const seen = new Set<string>();
     const readings: { text: string; shown: boolean }[] = [];
     for (const c of mine) {
-      const r = readFromNeighbour(c);
+      const r = readFromCentre(c);
       if (seen.has(r.text)) continue;
       seen.add(r.text);
       readings.push(r);
     }
     readings.sort((a, b) => Number(b.shown) - Number(a.shown));
+    /* where a predicate says it, the family's neutral phrase adds nothing */
+    if (readings.some((x) => x.shown)) readings.splice(0, readings.length, ...readings.filter((x) => x.shown));
     const also = [...new Set(links.map((c) => c.family || 'other').filter((f) => f !== family))]
       .sort((a, b) => frank(a) - frank(b));
     const first = mine.map((c) => c.dateStart || '9999').sort()[0];
