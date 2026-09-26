@@ -26,3 +26,19 @@ export const NO_SENTENCE: string = vocab.noSentence;
 export function edgeTypeName(id: string): EdgeTypeName {
   return EDGE_TYPES.find((t) => t.id === id) || { id, label: id, blurb: '', layer: 'context' };
 }
+
+/* Topic kinds and member roles (redesign phases 4 to 6), in the order the
+   vocabulary lists them. The topic page groups members by role in this order,
+   and an entity's topics are ordered by it after the topics it anchors. */
+export interface VocabEntry { id: string; blurb: string; }
+export const TOPIC_KINDS: VocabEntry[] = vocab.topicKinds.map((k) => ({ id: k.id, blurb: k.blurb }));
+export const TOPIC_ROLES: VocabEntry[] = vocab.topicRoles.map((r) => ({ id: r.id, blurb: r.blurb }));
+
+/* The reader's heading for each role, plural, for the topic page's groups. */
+export const ROLE_HEAD: Record<string, string> = {
+  subject: 'What this is about', official: 'Officials', investigator: 'Investigators',
+  witness: 'Witnesses', claimant: 'Claimants', critic: 'Critics', researcher: 'Researchers',
+  journalist: 'Journalists and media', contractor: 'Contractors', legislator: 'Legislators',
+  document: 'Documents', law: 'Laws and directives', programme: 'Programmes',
+  institution: 'Institutions', place: 'Places', event: 'Events',
+};

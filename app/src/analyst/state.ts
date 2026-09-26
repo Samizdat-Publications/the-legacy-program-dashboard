@@ -12,7 +12,7 @@
  * This block is sent second and UNCACHED, because it changes on every route. The
  * case index block before it must stay byte-stable; nothing here may leak into it.
  */
-import { loadIndex } from '../data';
+import { loadIndex, loadTopic } from '../data';
 import { runTool } from './tools';
 import type { Route } from '../router';
 
@@ -121,10 +121,43 @@ async function build(r: Route): Promise<string> {
     case 'home':
       return 'HOME. Nothing is open. The board in summary:\n' + await runTool('overview', {});
 
+    case 'atlas':
+      return 'THE ATLAS: every topic of the board by section and era. The board in summary:\n' +
+        await runTool('overview', {});
+
+    case 'topic':
+      return 'TOPIC IN VIEW, as its page shows it:\n' + await topicState(r.id);
+
     case 'notfound':
       return 'A route that does not resolve (' + r.raw + '). Nothing is open. ' +
         'The ten most connected nodes:\n' + await topTen();
   }
+}
+
+/* A topic page's state, from its own file: the tools do not reach topics until
+   phase 12, so the reader's screen is sent as it is. */
+async function topicState(id: string): Promise<string> {
+  const t = await loadTopic(id);
+  const out: string[] = [t.title + ' (' + t.kind + ', section ' + t.section + ')'];
+  if (t.researchGap) out.push('RESEARCH GAP: ' + String(t.researchGap));
+  if (t.lead) out.push('Lead: ' + t.lead.text);
+  const block = (name: string, items: { text: string; cite: string[] }[]) => {
+    if (!items.length) return;
+    out.push('', name + ':');
+    for (const it of items) {
+      out.push('- ' + it.text + ' [' + it.cite.map((c) => {
+        const x = t.cites[c];
+        return c + (x ? ' T' + x.tier : '');
+      }).join(', ') + ']');
+    }
+  };
+  block('Summary', t.summary);
+  block('What the record shows', t.record);
+  block('What is claimed', t.claimed);
+  block('What is contested', t.contested);
+  out.push('', 'Members: ' + t.members.map((m) => m.id + ' (' + m.role + ')').join(', '));
+  if (t.questions.length) out.push('', 'Open questions:', ...t.questions.map((q) => '- ' + q));
+  return out.join('\n');
 }
 
 /* Used by the panel's health line, so a reader can see the analyst knows where
@@ -143,6 +176,8 @@ export async function stateSummary(r: Route): Promise<string> {
     case 'patents': return 'reading patent ' + r.number;
     case 'evidence': return 'reading the evidence table';
     case 'hood': return 'reading the neighbourhood';
+    case 'atlas': return 'reading the Atlas';
+    case 'topic': return 'reading the topic ' + r.id;
     default: return 'reading the board';
   }
 }
