@@ -70,13 +70,13 @@
 "direction": "out",
 "edgeId": "e-79750c2513",
 "edgeLabel": "Came to MITRE directly from Battelle's executive suite",
-"family": null,
+"family": "role",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-a4de721608",
 "edgeLabel": "President and CEO from 3 September 2024",
-"family": null,
+"family": "role",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-06-27",
@@ -117,7 +117,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2024-09-03",

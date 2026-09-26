@@ -71,13 +71,13 @@
 "direction": "out",
 "edgeId": "e-d20cdb2f9e",
 "edgeLabel": "Operates the only FFRDC dedicated exclusively to the space enterprise",
-"family": null,
+"family": "analysis",
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -92,7 +92,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -102,13 +102,13 @@
 "direction": "in",
 "edgeId": "e-fe5b13f2bd",
 "edgeLabel": "Named as a target of his records investigation",
-"family": null,
+"family": "oversight",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Aerospace holds the technical judgement on national security space sensing; no letter to Aerospace has been made public as of 12 August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-16",
@@ -128,7 +128,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -138,13 +138,13 @@
 "direction": "in",
 "edgeId": "e-9c9d5b18c9",
 "edgeLabel": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
-"family": null,
+"family": "role",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-07-23",
@@ -154,7 +154,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 3,
@@ -164,13 +164,13 @@
 "direction": "in",
 "edgeId": "e-cb955e3042",
 "edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
-"family": null,
+"family": "documents",
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -185,7 +185,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -195,13 +195,13 @@
 "direction": "in",
 "edgeId": "e-c7dcb21198",
 "edgeLabel": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
-"family": null,
+"family": "documents",
 "id": "gerb-northrop-trw-investigation",
 "l0": false,
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-03-20",
@@ -211,7 +211,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is the subject of"
 }
 ],
 "coords": null,

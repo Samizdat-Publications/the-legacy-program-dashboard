@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-771646ed71",
 "edgeLabel": "The flap put the CIA's science directorate onto the problem",
-"family": null,
+"family": "place-time",
 "id": "h-marshall-chadwell",
 "l0": false,
 "label": "H. Marshall Chadwell",
 "note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1952-09-11",
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-47c9ca26b9",
 "edgeLabel": "CIA history confirms the 1952 flap drove Agency intervention",
-"family": null,
+"family": "testimony",
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Haines records the escalation from the summer 1952 sightings through Chadwell's memoranda to the January 1953 panel.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was acknowledged by"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-5be026875b",
 "edgeLabel": "The flap occurred during Ruppelt's tenure and drove the record volume",
-"family": null,
+"family": "place-time",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Blue Book case documentation for the 19 July 1952 Washington radar events survives; 1952 produced the largest single-year report volume of the program's history.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -114,7 +114,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -124,13 +124,13 @@
 "direction": "in",
 "edgeId": "e-cc7cf2ed28",
 "edgeLabel": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
-"family": null,
+"family": "place-time",
 "id": "walter-bedell-smith",
 "l0": false,
 "label": "Walter Bedell Smith",
 "note": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1952-12-02",
@@ -140,7 +140,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "drew a response from"
 }
 ],
 "coords": null,

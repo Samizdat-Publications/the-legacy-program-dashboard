@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-114f26be3a",
 "edgeLabel": "Director and producer",
-"family": null,
+"family": "organisation",
 "id": "age-of-disclosure",
 "l0": false,
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "Farah directed and produced the film that premiered at SXSW on 9 March 2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-03-09",
@@ -63,7 +63,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "produced"
 }
 ],
 "date": "2025-03-09",

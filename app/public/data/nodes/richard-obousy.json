@@ -44,13 +44,13 @@
 "direction": "out",
 "edgeId": "e-856311815c",
 "edgeLabel": "author of record on the DIA list; lead author",
-"family": null,
+"family": "documents",
 "id": "dird-warp-drive-dark-energy-and-the",
 "l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -85,7 +85,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2010-01-01",

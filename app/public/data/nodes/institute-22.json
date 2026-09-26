@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-a72ab03e2b",
 "edgeLabel": "the same 1978-1991 apparatus under a Western naming convention",
-"family": null,
+"family": "organisation",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "same_as",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-01-01",
@@ -50,7 +50,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is the same as"
 }
 ],
 "coords": null,

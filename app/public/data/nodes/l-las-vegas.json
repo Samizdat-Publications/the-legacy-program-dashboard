@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-7990ea3bad",
 "edgeLabel": "AAWSAP contract performed from Las Vegas",
-"family": null,
+"family": "place-time",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -61,7 +61,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -71,13 +71,13 @@
 "direction": "out",
 "edgeId": "e-ebecb2784f",
 "edgeLabel": "BAASS base of operations",
-"family": null,
+"family": "place-time",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -97,7 +97,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -107,13 +107,13 @@
 "direction": "in",
 "edgeId": "e-a23109893a",
 "edgeLabel": "BAASS ran the AAWSAP field effort from Las Vegas",
-"family": null,
+"family": "place-time",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -123,7 +123,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -133,13 +133,13 @@
 "direction": "in",
 "edgeId": "e-31fd9bb691",
 "edgeLabel": "Knapp broadcast the Lazar interviews from KLAS-TV Las Vegas in 1989",
-"family": null,
+"family": "place-time",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "The May 1989 KLAS-TV interviews created the public reverse-engineering narrative attached to Area 51 and S-4.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -149,7 +149,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -159,13 +159,13 @@
 "direction": "out",
 "edgeId": "e-99ac06bc11",
 "edgeLabel": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
-"family": null,
+"family": "place-time",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -190,7 +190,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 3,
@@ -200,13 +200,13 @@
 "direction": "in",
 "edgeId": "e-527fcc3297",
 "edgeLabel": "The Groom and Tonopah workforce commutes from Las Vegas",
-"family": null,
+"family": "other",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "The unmarked JANET fleet operates from a dedicated terminal at the Las Vegas airport. Reasoning: publicly observable daily operations; no primary personnel or contract record has been obtained.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -216,7 +216,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is connected to"
 },
 {
 "claimTier": 2,
@@ -226,13 +226,13 @@
 "direction": "out",
 "edgeId": "e-6b3afc6508",
 "edgeLabel": "NIDS headquarters 1995-2004",
-"family": null,
+"family": "place-time",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-08-10",
@@ -252,7 +252,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": [

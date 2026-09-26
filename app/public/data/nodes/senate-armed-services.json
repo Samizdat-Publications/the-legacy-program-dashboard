@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-2e7774664d",
 "edgeLabel": "owns the only vehicle the disclosure text has ever ridden, and has never reported it",
-"family": null,
+"family": "analysis",
 "id": "d-legislative",
 "l0": false,
 "label": "Legislative Process (proposed and pending)",
 "note": "Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -61,7 +61,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 3,
@@ -71,13 +71,13 @@
 "direction": "in",
 "edgeId": "e-f1e85a373f",
 "edgeLabel": "Set the leadership-discretion precedent the domain still runs on",
-"family": null,
+"family": "analysis",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "The legacy effort was funded by leadership discretion outside the ordinary committee record, and every attempt to reach it since has likewise been a leadership floor amendment rather than a committee product.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -87,7 +87,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -97,13 +97,13 @@
 "direction": "in",
 "edgeId": "e-833d67ee1b",
 "edgeLabel": "named as an appropriate committee",
-"family": null,
+"family": "law",
 "id": "iaa-fy2024-7343",
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -113,7 +113,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -123,13 +123,13 @@
 "direction": "in",
 "edgeId": "e-cf687dd264",
 "edgeLabel": "Chairman 2021-2025",
-"family": null,
+"family": "role",
 "id": "jack-reed",
 "l0": false,
 "label": "John F. Reed",
 "note": "Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-11",
@@ -139,7 +139,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -149,13 +149,13 @@
 "direction": "in",
 "edgeId": "e-d122cf1fbf",
 "edgeLabel": "Disposed of with seventeen amendments and no open process",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -165,7 +165,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -175,13 +175,13 @@
 "direction": "in",
 "edgeId": "e-8832e2477f",
 "edgeLabel": "Defense committee receiving waived-SAP notification",
-"family": null,
+"family": "organisation",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Same statutory provision; four committees, eight members.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -191,7 +191,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -201,13 +201,13 @@
 "direction": "out",
 "edgeId": "e-5da44eaee1",
 "edgeLabel": "Never reported the Act; it existed only as a floor amendment",
-"family": null,
+"family": "other",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "No standalone UAP disclosure bill exists in the Senate in the 118th or 119th Congress, and no committee has ever marked the text up.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-07-27",
@@ -222,7 +222,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -232,13 +232,13 @@
 "direction": "in",
 "edgeId": "e-afe1bfa439",
 "edgeLabel": "Committee of jurisdiction for DoD special access program reporting",
-"family": null,
+"family": "organisation",
 "id": "us-senate",
 "l0": false,
 "label": "United States Senate",
 "note": "SASC is one of the four defense committees to which 10 U.S.C. 119 reporting runs, and one of the two whose chairman and ranking member receive waived-SAP notification.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -248,7 +248,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -258,13 +258,13 @@
 "direction": "in",
 "edgeId": "e-11ad11ba6f",
 "edgeLabel": "one of the six defense committees named in 10 U.S.C. 119(g)(1)",
-"family": null,
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -279,7 +279,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "coords": null,

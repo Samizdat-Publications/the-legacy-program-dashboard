@@ -219,13 +219,13 @@
 "direction": "out",
 "edgeId": "e-776b5a7789",
 "edgeLabel": "published the contract documentation",
-"family": null,
+"family": "documents",
 "id": "aawsap-contract",
 "l0": false,
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Knapp's KLAS I-Team established publicly that the DIA-funded study was executed in Nevada, ahead of DIA's own release of the contract in 2022.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-20",
@@ -235,7 +235,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -245,13 +245,13 @@
 "direction": "in",
 "edgeId": "e-3f73dec8a3",
 "edgeLabel": "O'Donnell told Knapp a recovered saucer and a live being existed",
-"family": null,
+"family": "testimony",
 "id": "alfred-odonnell",
 "l0": false,
 "label": "Alfred 'Al' O'Donnell",
 "note": "Knapp reported the account publicly in February 2023 and named O'Donnell to Congress under oath in September 2025. The promised deathbed recording has never surfaced.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-02-28",
@@ -266,7 +266,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "received an account from"
 },
 {
 "claimTier": 2,
@@ -276,13 +276,13 @@
 "direction": "in",
 "edgeId": "e-36f3c13c6b",
 "edgeLabel": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract",
-"family": null,
+"family": "role",
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
 "note": "Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-08-01",
@@ -292,7 +292,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -302,13 +302,13 @@
 "direction": "out",
 "edgeId": "e-a0d33e96a3",
 "edgeLabel": "Appears in and is credited on the 2018 documentary",
-"family": null,
+"family": "media",
 "id": "corbell-lazar-2018",
 "l0": false,
 "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
 "note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018",
@@ -318,7 +318,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "appeared on"
 },
 {
 "claimTier": 1,
@@ -328,13 +328,13 @@
 "direction": "out",
 "edgeId": "e-0e02943c78",
 "edgeLabel": "Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025",
-"family": null,
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -344,7 +344,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -354,13 +354,13 @@
 "direction": "out",
 "edgeId": "e-1ee4f3ee0c",
 "edgeLabel": "Knapp named a former senior CIA official as a gatekeeper of the alleged program",
-"family": null,
+"family": "testimony",
 "id": "glenn-gaffney",
 "l0": false,
 "label": "Glenn Gaffney",
 "note": "Immediately after naming Ryder, Knapp told Rep. Begich 'I have a name for you... Glenn Gaffney, CIA.' No documentary corroboration has been published.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -370,7 +370,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -380,13 +380,13 @@
 "direction": "out",
 "edgeId": "e-25b225dd20",
 "edgeLabel": "Knapp is credited with the Reid-Bigelow introduction",
-"family": null,
+"family": "conduct",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "Recorded separately because the Reid end of the introduction is what converted private interest into federal appropriation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -396,7 +396,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -406,13 +406,13 @@
 "direction": "out",
 "edgeId": "e-c3e2e554ae",
 "edgeLabel": "His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person",
-"family": null,
+"family": "testimony",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -427,7 +427,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -437,13 +437,13 @@
 "direction": "out",
 "edgeId": "e-70724d5b89",
 "edgeLabel": "Knapp's testimony named the company, the executive and the intelligence official",
-"family": null,
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -453,7 +453,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -463,13 +463,13 @@
 "direction": "out",
 "edgeId": "e-6216782e12",
 "edgeLabel": "sworn witness",
-"family": null,
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -504,7 +504,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 2,
@@ -514,13 +514,13 @@
 "direction": "out",
 "edgeId": "e-c0c55b6865",
 "edgeLabel": "Knapp named Ryder to Congress as a program gatekeeper at Lockheed",
-"family": null,
+"family": "testimony",
 "id": "james-ryder",
 "l0": false,
 "label": "Dr. James Ryder",
 "note": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -530,7 +530,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -540,13 +540,13 @@
 "direction": "out",
 "edgeId": "e-638cde1132",
 "edgeLabel": "Co-hosts the Weaponized podcast",
-"family": null,
+"family": "role",
 "id": "jeremy-corbell",
 "l0": false,
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Pairs Knapp's four decades of sourcing with Corbell's leak pipeline.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -556,7 +556,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -566,13 +566,13 @@
 "direction": "out",
 "edgeId": "e-f0fb54b643",
 "edgeLabel": "Reporter and author of the broadcasts",
-"family": null,
+"family": "documents",
 "id": "klas-lazar-broadcasts-1989",
 "l0": false,
 "label": "The KLAS-TV Lazar broadcasts, 1989",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-06-19",
@@ -582,7 +582,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -592,13 +592,13 @@
 "direction": "out",
 "edgeId": "e-31fd9bb691",
 "edgeLabel": "Knapp broadcast the Lazar interviews from KLAS-TV Las Vegas in 1989",
-"family": null,
+"family": "place-time",
 "id": "l-las-vegas",
 "l0": false,
 "label": "Las Vegas, Nevada",
 "note": "The May 1989 KLAS-TV interviews created the public reverse-engineering narrative attached to Area 51 and S-4.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -608,7 +608,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -618,13 +618,13 @@
 "direction": "out",
 "edgeId": "e-76796003e4",
 "edgeLabel": "Knapp named Lockheed Martin under oath as a corporate holder of recovered material",
-"family": null,
+"family": "testimony",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Asked by Rep. Burchett which corporations hold the material, Knapp answered 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' He declined to characterise the company as culpable, attributing the tasking to the intelligence agencies.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -634,7 +634,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -644,13 +644,13 @@
 "direction": "out",
 "edgeId": "e-873bd6f8b8",
 "edgeLabel": "Worked with Bigelow's NIDS alongside Colm Kelleher",
-"family": null,
+"family": "role",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Knapp's NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -660,7 +660,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -670,13 +670,13 @@
 "direction": "out",
 "edgeId": "e-60716033da",
 "edgeLabel": "Knapp introduced Harry Reid to Robert Bigelow",
-"family": null,
+"family": "conduct",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -686,7 +686,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "was in contact with"
 },
 {
 "claimTier": 2,
@@ -696,13 +696,13 @@
 "direction": "out",
 "edgeId": "e-5e41f493ab",
 "edgeLabel": "Journalist who brought the claim to air in 1989 and has carried it since",
-"family": null,
+"family": "media",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-06-19",
@@ -712,7 +712,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "reported on"
 },
 {
 "claimTier": 1,
@@ -722,13 +722,13 @@
 "direction": "out",
 "edgeId": "e-80de8e635d",
 "edgeLabel": "co-author with the program manager and the contractor's deputy",
-"family": null,
+"family": "documents",
 "id": "skinwalkers-at-the-pentagon",
 "l0": false,
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "note": "Knapp moves from reporter to co-author of the DOPSR-cleared insider account — and his earlier book is the proximate cause of the contract.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-08-01",
@@ -738,7 +738,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -748,13 +748,13 @@
 "direction": "in",
 "edgeId": "e-c6a8dbdf80",
 "edgeLabel": "Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list",
-"family": null,
+"family": "oversight",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "No list has been published and no committee has reported receiving one, which is itself a documented gap in the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -764,7 +764,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was questioned by"
 }
 ],
 "date": "2021-08-01",

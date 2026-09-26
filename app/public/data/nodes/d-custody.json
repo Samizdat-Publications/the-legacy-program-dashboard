@@ -30,13 +30,13 @@
 "direction": "in",
 "edgeId": "e-828a3f3f88",
 "edgeLabel": "Exhaustive on paper flow, silent on object flow",
-"family": null,
+"family": "analysis",
 "id": "aawsap-dird-series",
 "l0": false,
 "label": "AAWSAP Defense Intelligence Reference Document series",
 "note": "The released AAWSAP corpus documents control numbers, fiscal years, contract status, statements of work and named programme managers - and contains no record of the receipt, transfer or storage of any physical sample. The asymmetry is the finding.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-d521b3e581",
 "edgeLabel": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
-"family": null,
+"family": "analysis",
 "id": "cia-prepublication-classification-review-board",
 "l0": false,
 "label": "CIA Prepublication Classification Review Board",
 "note": "The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-11-28",
@@ -77,7 +77,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -87,13 +87,13 @@
 "direction": "in",
 "edgeId": "e-72773b3fd6",
 "edgeLabel": "Site to container to shelf",
-"family": null,
+"family": "analysis",
 "id": "d-recovery",
 "l0": false,
 "label": "Retrieval & Recovery Operations",
 "note": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-07-28",
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -113,13 +113,13 @@
 "direction": "in",
 "edgeId": "e-8d79c340a5",
 "edgeLabel": "Converted an oral controversy into an enumerated procurement record",
-"family": null,
+"family": "analysis",
 "id": "dia-aatip-list-2019",
 "l0": false,
 "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
 "note": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-01-17",
@@ -134,7 +134,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -144,13 +144,13 @@
 "direction": "in",
 "edgeId": "e-515432576e",
 "edgeLabel": "'We couldn't make it ourselves' - a custody claim with no public chain",
-"family": null,
+"family": "testimony",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-07-23",
@@ -160,7 +160,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -170,13 +170,13 @@
 "direction": "in",
 "edgeId": "e-f8c71a8068",
 "edgeLabel": "Approached by unnamed government and aerospace-corporation representatives about casualty biology",
-"family": null,
+"family": "analysis",
 "id": "garry-nolan",
 "l0": false,
 "label": "Garry Nolan",
 "note": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-14",
@@ -186,7 +186,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -196,13 +196,13 @@
 "direction": "in",
 "edgeId": "e-bb87a8970e",
 "edgeLabel": "Private, non-FOIA-able laboratory sitting between a government programme and a public company",
-"family": null,
+"family": "analysis",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -222,7 +222,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -232,13 +232,13 @@
 "direction": "in",
 "edgeId": "e-74432a42eb",
 "edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
-"family": null,
+"family": "denial",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -253,7 +253,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "is left out of"
 },
 {
 "claimTier": 1,
@@ -263,13 +263,13 @@
 "direction": "in",
 "edgeId": "e-b0990e2ba9",
 "edgeLabel": "Covert recovery of foreign hardware under a named commercial cover",
-"family": null,
+"family": "analysis",
 "id": "project-azorian",
 "l0": false,
 "label": "Project AZORIAN and the Hughes Glomar Explorer",
 "note": "Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-01-04",
@@ -279,7 +279,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -289,13 +289,13 @@
 "direction": "in",
 "edgeId": "e-b37b426850",
 "edgeLabel": "Claimed custody of non-human craft at the claimed site",
-"family": null,
+"family": "custody",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_to_hold",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -305,7 +305,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is alleged to have material held by"
 },
 {
 "claimTier": 3,
@@ -315,13 +315,13 @@
 "direction": "in",
 "edgeId": "e-b8c126f90f",
 "edgeLabel": "The chain goes dark inside a federal research agreement",
-"family": null,
+"family": "analysis",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -331,7 +331,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -341,13 +341,13 @@
 "direction": "in",
 "edgeId": "e-bf549df459",
 "edgeLabel": "No budget, no classified access - constitutionally unable to reach the material",
-"family": null,
+"family": "analysis",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-30",
@@ -362,7 +362,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "has as an instance"
 }
 ],
 "coords": null,

@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-eb4efc2c30",
 "edgeLabel": "The ranch sits inside the Uintah Basin reporting region",
-"family": null,
+"family": "place-time",
 "id": "l-skinwalker",
 "l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, inside a region with a folk reporting record dating to the 1970s.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": null,

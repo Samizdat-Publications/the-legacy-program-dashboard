@@ -64,13 +64,13 @@
 "direction": "out",
 "edgeId": "e-269babb8a3",
 "edgeLabel": "minority witness",
-"family": null,
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "POGO's senior policy counsel was the minority's chosen witness, arguing for stronger disclosure channels rather than contesting the phenomenology.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -80,7 +80,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -90,13 +90,13 @@
 "direction": "out",
 "edgeId": "e-858369abe6",
 "edgeLabel": "minority witness",
-"family": null,
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -116,7 +116,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -126,13 +126,13 @@
 "direction": "in",
 "edgeId": "e-09dd2bdba2",
 "edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
-"family": null,
+"family": "oversight",
 "id": "jasmine-crockett",
 "l0": false,
 "label": "Jasmine Felicia Crockett",
 "note": "The policy bridge from UAP allegations to H.R. 5060.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -142,7 +142,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was questioned by"
 }
 ],
 "date": "2025-09-09",

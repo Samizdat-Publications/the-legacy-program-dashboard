@@ -64,13 +64,13 @@
 "direction": "out",
 "edgeId": "e-f85b013e3f",
 "edgeLabel": "On-record corroboration: 'beyond reproach' and the arms race is 'fundamentally correct'",
-"family": null,
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "A named retired Army colonel who served as the Army's UAP Task Force liaison affirmed both Grusch's character and the substance of the eighty-year reverse-engineering allegation, in print, on the record, on 5 June 2023. AARO has never addressed this statement by name.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "corroborated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -85,7 +85,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "corroborates"
 },
 {
 "claimTier": 1,
@@ -95,13 +95,13 @@
 "direction": "out",
 "edgeId": "e-bf17a5f41c",
 "edgeLabel": "Mace read his 'nonhuman intelligence exists' statement into the hearing record",
-"family": null,
+"family": "testimony",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Nell did not testify; his May 2024 conference statement was quoted from the chair.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -111,7 +111,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "in",
 "edgeId": "e-fbe842e2a5",
 "edgeLabel": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
-"family": null,
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -137,7 +137,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -147,13 +147,13 @@
 "direction": "out",
 "edgeId": "e-40af12a2c9",
 "edgeLabel": "Army liaison to the UAP Task Force, 2021-2022",
-"family": null,
+"family": "role",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Nell's Task Force role is what converts his corroboration from opinion into positional testimony: he sat inside the same organization Grusch reported to.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -163,7 +163,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2023-06-05",

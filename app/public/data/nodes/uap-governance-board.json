@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-71ae56d603",
 "edgeLabel": "reports to",
-"family": null,
+"family": "oversight",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-17",
@@ -50,7 +50,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "receives reports from"
 }
 ],
 "coords": null,

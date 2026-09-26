@@ -52,13 +52,13 @@
 "direction": "in",
 "edgeId": "e-c4c31c91c2",
 "edgeLabel": "Co-authors on the 2025 Scientific Reports result",
-"family": null,
+"family": "role",
 "id": "beatriz-villarroel",
 "l0": false,
 "label": "Beatriz Villarroel",
 "note": "An astronomer and a Vanderbilt anesthesiology professor with statistical training - an indication of how far outside conventional aerospace research the productive work has migrated.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -68,7 +68,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -78,13 +78,13 @@
 "direction": "out",
 "edgeId": "e-b73290e58d",
 "edgeLabel": "Lead author of the POSS-I / nuclear testing association",
-"family": null,
+"family": "documents",
 "id": "paper-villarroel-bruehl-2025",
 "l0": false,
 "label": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
 "note": "Scientific Reports, 20 October 2025 - a Nature-portfolio paper linking above-ground nuclear testing, contemporaneous UAP reports and anomalous optical transients.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-10-20",
@@ -94,7 +94,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2025-10-20",

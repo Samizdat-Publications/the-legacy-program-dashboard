@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-d58e165218",
 "edgeLabel": "Explanatory output on flaring, parallax, workshops and the NPS CTX issue",
-"family": null,
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO publishes analytic methodology continuously while withholding Volume II and its video holdings.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-04-22",
@@ -61,7 +61,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was published by"
 }
 ],
 "coords": null,

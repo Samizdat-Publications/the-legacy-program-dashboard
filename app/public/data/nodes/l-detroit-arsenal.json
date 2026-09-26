@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-3ff511cdad",
 "edgeLabel": "Langhout signed as GVSC Director",
-"family": null,
+"family": "role",
 "id": "jeffery-langhout",
 "l0": false,
 "label": "Jeffery Langhout",
 "note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-10-18",
@@ -62,7 +62,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -72,13 +72,13 @@
 "direction": "in",
 "edgeId": "e-68acd832a6",
 "edgeLabel": "Cannon was the named government principal investigator at GVSC",
-"family": null,
+"family": "role",
 "id": "joseph-cannon",
 "l0": false,
 "label": "Dr. Joseph Cannon",
 "note": "The Army located twenty-nine emails totalling a hundred pages of Cannon's TTSA correspondence and withheld all of them under FOIA exemptions (b)(4) and (b)(5).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-10-18",
@@ -93,7 +93,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -103,13 +103,13 @@
 "direction": "out",
 "edgeId": "e-a7a4e46b7e",
 "edgeLabel": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
-"family": null,
+"family": "place-time",
 "id": "l-detroit",
 "l0": false,
 "label": "Detroit, Michigan",
 "note": "The installation sits in Warren, Michigan, within the Detroit metropolitan area that also holds Kit Green's post-agency academic base at Wayne State.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-10-18",
@@ -124,7 +124,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -134,13 +134,13 @@
 "direction": "in",
 "edgeId": "e-751c8f94ee",
 "edgeLabel": "The CRADA was executed at Detroit Arsenal",
-"family": null,
+"family": "place-time",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "GVSC Director Jeffery Langhout signed the agreement on 10 October 2019; the Army released the text on 18 October 2019.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-10-18",
@@ -155,7 +155,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": [

@@ -65,13 +65,13 @@
 "direction": "in",
 "edgeId": "e-60e682ebe3",
 "edgeLabel": "commissioned under AAWSAP as a compact energy source study",
-"family": null,
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -96,7 +96,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -106,13 +106,13 @@
 "direction": "out",
 "edgeId": "e-5174a7ba01",
 "edgeLabel": "subject domain: compact non-tokamak fusion power",
-"family": null,
+"family": "documents",
 "id": "d-plasma",
 "l0": false,
 "label": "Plasma Physics & Atmospheric Electricity",
 "note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -137,7 +137,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -147,13 +147,13 @@
 "direction": "in",
 "edgeId": "e-2326864f9c",
 "edgeLabel": "DIRD",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -163,7 +163,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -173,13 +173,13 @@
 "direction": "in",
 "edgeId": "e-7b3421c718",
 "edgeLabel": "series member",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 March 2010 on the cover. 73 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -194,7 +194,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -204,13 +204,13 @@
 "direction": "out",
 "edgeId": "e-5bc069a345",
 "edgeLabel": "authored by George H. Miley, University of Illinois",
-"family": null,
+"family": "documents",
 "id": "george-miley",
 "l0": false,
 "label": "George H. Miley",
 "note": "Entry 1 on both the KLAS list of July 2018 and the DIA letter of 9 January 2018: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.' The released PDF's author block is redacted under (b)(5). Miley is co-author of the Springer monograph on IEC fusion, making him a documented subject-matter authority rather than a fringe recruit.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -245,7 +245,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

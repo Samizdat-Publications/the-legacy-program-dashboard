@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-5982cb4adb",
 "edgeLabel": "Released and framed the report as 'the widest possible aperture'",
-"family": null,
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "released"
 }
 ],
 "date": "2024-03-08",

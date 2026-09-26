@@ -62,13 +62,13 @@
 "direction": "in",
 "edgeId": "e-2ec453dd81",
 "edgeLabel": "Originating claimant: says he worked at S-4, December 1988 to April 1989",
-"family": null,
+"family": "testimony",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "The originating claim of the whole cluster, in his own narration: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. The edge records that he says this and nothing more.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -78,7 +78,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -88,13 +88,13 @@
 "direction": "in",
 "edgeId": "e-b460e9a8a8",
 "edgeLabel": "2018 documentary that returned the claim to mass circulation",
-"family": null,
+"family": "documents",
 "id": "corbell-lazar-2018",
 "l0": false,
 "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
 "note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018",
@@ -104,7 +104,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 3,
@@ -114,13 +114,13 @@
 "direction": "out",
 "edgeId": "e-b37b426850",
 "edgeLabel": "Claimed custody of non-human craft at the claimed site",
-"family": null,
+"family": "custody",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_to_hold",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1991",
@@ -130,7 +130,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is alleged to hold material from"
 },
 {
 "claimTier": 3,
@@ -140,13 +140,13 @@
 "direction": "out",
 "edgeId": "e-760dd33b5b",
 "edgeLabel": "The hub's claimed content is a legacy reverse-engineering programme",
-"family": null,
+"family": "custody",
 "id": "d-legacy",
 "l0": false,
 "label": "Legacy Program",
 "note": "Tier 3 because it is what is claimed, not what is shown.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_to_hold",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1991",
@@ -156,7 +156,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is alleged to hold material from"
 },
 {
 "claimTier": 2,
@@ -166,13 +166,13 @@
 "direction": "in",
 "edgeId": "e-f5e1399143",
 "edgeLabel": "Witness to the 1989 desert lights, not to the claimed facility",
-"family": null,
+"family": "testimony",
 "id": "gene-huff",
 "l0": false,
 "label": "Gene Huff",
 "note": "THE LABEL MUST STAY PRECISE. Huff's first-hand claim is about lights seen from Tikaboo Valley on three Wednesdays in 1989, on 22 March, 29 March and 5 April, the last ending in the group's detention by the Lincoln County Sheriff. He never claims to have been inside anything.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-03-12",
@@ -182,7 +182,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -192,13 +192,13 @@
 "direction": "in",
 "edgeId": "e-5e41f493ab",
 "edgeLabel": "Journalist who brought the claim to air in 1989 and has carried it since",
-"family": null,
+"family": "media",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1990-06-19",
@@ -208,7 +208,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was reported on by"
 },
 {
 "claimTier": 3,
@@ -218,13 +218,13 @@
 "direction": "in",
 "edgeId": "e-fbfa3432a7",
 "edgeLabel": "Carrier of the claim, not an eyewitness to the claimed site",
-"family": null,
+"family": "testimony",
 "id": "john-lear",
 "l0": false,
 "label": "John Olsen Lear",
 "note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -234,7 +234,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 3,
@@ -244,13 +244,13 @@
 "direction": "in",
 "edgeId": "e-077e74214f",
 "edgeLabel": "The original broadcast artefact of the claim",
-"family": null,
+"family": "testimony",
 "id": "klas-lazar-broadcasts-1989",
 "l0": false,
 "label": "The KLAS-TV Lazar broadcasts, 1989",
 "note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -260,7 +260,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -270,13 +270,13 @@
 "direction": "out",
 "edgeId": "e-4947aa2993",
 "edgeLabel": "Claimed site sited about fifteen miles south of Area 51",
-"family": null,
+"family": "place-time",
 "id": "l-area51",
 "l0": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "note": "Uses the board's existing l-area51 id. No node called area-51 was created.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1991",
@@ -286,7 +286,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -296,13 +296,13 @@
 "direction": "out",
 "edgeId": "e-45dedeb372",
 "edgeLabel": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
-"family": null,
+"family": "place-time",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1991",
@@ -312,7 +312,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -322,13 +322,13 @@
 "direction": "out",
 "edgeId": "e-8364469706",
 "edgeLabel": "Claimed site placed on the Nellis range by the claimant",
-"family": null,
+"family": "testimony",
 "id": "l-nellis",
 "l0": false,
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "note": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1991",
@@ -338,7 +338,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 1,
@@ -348,13 +348,13 @@
 "direction": "out",
 "edgeId": "e-8e8108c2cf",
 "edgeLabel": "The claim's earlier geography, as reported contemporaneously in August 1990",
-"family": null,
+"family": "organisation",
 "id": "l-nevada-test-site",
 "l0": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-08-21",
@@ -364,7 +364,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 2,
@@ -374,13 +374,13 @@
 "direction": "out",
 "edgeId": "e-b55848e817",
 "edgeLabel": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
-"family": null,
+"family": "testimony",
 "id": "l-tonopah",
 "l0": false,
 "label": "Tonopah Test Range, Nevada",
 "note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018",
@@ -390,7 +390,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is contradicted by"
 },
 {
 "claimTier": 2,
@@ -400,13 +400,13 @@
 "direction": "in",
 "edgeId": "e-493dba580e",
 "edgeLabel": "The dated, opened, complete statement of the claim in the claimant's own voice",
-"family": null,
+"family": "testimony",
 "id": "lazar-tape-1991",
 "l0": false,
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "note": "The strongest artefact in the cluster and the one actually opened. A videotape of a claimant narrating his own claim is evidence of the claim and never of its content.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -416,7 +416,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -426,13 +426,13 @@
 "direction": "in",
 "edgeId": "e-6603a7de74",
 "edgeLabel": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
-"family": null,
+"family": "denial",
 "id": "stanton-friedman",
 "l0": false,
 "label": "Stanton T. Friedman",
 "note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-12",
@@ -442,7 +442,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -452,13 +452,13 @@
 "direction": "in",
 "edgeId": "e-df5bd159c5",
 "edgeLabel": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
-"family": null,
+"family": "denial",
 "id": "tom-mahood",
 "l0": false,
 "label": "Tom Mahood",
 "note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018",
@@ -468,7 +468,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was denied by"
 }
 ],
 "coords": null,

@@ -75,13 +75,13 @@
 "direction": "out",
 "edgeId": "e-8a10216428",
 "edgeLabel": "Vandenberg was DCI before becoming Air Force Chief of Staff",
-"family": null,
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "He directed Central Intelligence in 1946-1947 and then held the top Air Force post from 1948, arriving at the destruction decision already fluent in compartmentation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-308d3519b3",
 "edgeLabel": "Vandenberg rejected the Estimate and ordered copies destroyed",
-"family": null,
+"family": "denial",
 "id": "estimate-of-the-situation",
 "l0": false,
 "label": "Estimate of the Situation (1948)",
 "note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -122,7 +122,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "denied"
 }
 ],
 "date": "1948-08-01",

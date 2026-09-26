@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-bca0a0e298",
 "edgeLabel": "The message traffic that would document the release was destroyed",
-"family": null,
+"family": "documents",
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages from October 1946 through December 1949 were destroyed with no recorded disposition authority, removing the base's own record of the 8 July 1947 announcement and its retraction.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-07-28",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-a8be94c5be",
 "edgeLabel": "Ramey retracted the disc announcement the same day",
-"family": null,
+"family": "denial",
 "id": "roger-ramey",
 "l0": false,
 "label": "Roger M. Ramey",
 "note": "The Eighth Air Force commanding general personally fronted a same-day correction identifying the debris as a weather balloon with radar reflector — the founding template for official UAP retraction.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-01-01",
@@ -88,7 +88,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was denied by"
 },
 {
 "claimTier": 1,
@@ -98,13 +98,13 @@
 "direction": "out",
 "edgeId": "e-fa36e21789",
 "edgeLabel": "The press release is the event's only uncontested artifact",
-"family": null,
+"family": "documents",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "Every subsequent official position — weather balloon, MOGUL, dummies — is a response to this single document issued by an atomic bomb group's own information office.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-01-01",
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -129,13 +129,13 @@
 "direction": "in",
 "edgeId": "e-37f2115706",
 "edgeLabel": "Haut issued the 8 July 1947 press release",
-"family": null,
+"family": "documents",
 "id": "walter-haut",
 "l0": false,
 "label": "Walter Haut",
 "note": "As RAAF public information officer Haut issued the announcement that the 509th Bomb Group had gained possession of a disc; the release is reproduced in the Air Force's own 1995 report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-01-01",
@@ -145,7 +145,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was published by"
 }
 ],
 "coords": null,

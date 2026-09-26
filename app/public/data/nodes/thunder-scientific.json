@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-a335a6d40b",
 "edgeLabel": "Bennewitz founded and ran Thunder Scientific, a USAF instrumentation vendor",
-"family": null,
+"family": "role",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "The company's location gave sightlines to the Manzano Weapons Storage Area at Kirtland; Bennewitz had the technical capability to record and characterise emissions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -45,7 +45,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 }
 ],
 "coords": null,

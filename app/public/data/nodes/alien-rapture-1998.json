@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-8fac7a136f",
 "edgeLabel": "Co-author of Alien Rapture: The Chosen",
-"family": null,
+"family": "documents",
 "id": "brad-steiger",
 "l0": false,
 "label": "Brad Steiger",
 "note": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-02-04",
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-fbd0e36dfd",
 "edgeLabel": "Primary author of Alien Rapture: The Chosen",
-"family": null,
+"family": "documents",
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-02-04",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-75a91e23f5",
 "edgeLabel": "The book the presentation was given to promote; its TR-3B content was NOT opened",
-"family": null,
+"family": "other",
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1998-08",
@@ -109,7 +109,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "is connected to"
 }
 ],
 "coords": null,

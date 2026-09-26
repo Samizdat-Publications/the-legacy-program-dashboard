@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-05942785bc",
 "edgeLabel": "Allied government's contemporaneous Secret record of the engagements",
-"family": null,
+"family": "documents",
 "id": "charette-memo-2023",
 "l0": false,
 "label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
 "note": "The 14 February 2023 Privy Council memo to Prime Minister Trudeau documents that exploitation of the Alaska object was incomplete and the Yukon object unverified as to function and propulsion.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-07",
@@ -69,7 +69,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-5096558a18",
 "edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
-"family": null,
+"family": "organisation",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-22",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-ae3dacd247",
 "edgeLabel": "Lake Huron engagement video withheld until the May 2026 PURSUE release",
-"family": null,
+"family": "documents",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Infrared footage of the 12 February 2023 shootdown was released on 22 May 2026 via PURSUE, with the entry noting an unusual lack of substantiated chain of custody.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-22",
@@ -126,7 +126,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "was released by"
 },
 {
 "claimTier": 2,
@@ -136,13 +136,13 @@
 "direction": "out",
 "edgeId": "e-2e22906aa4",
 "edgeLabel": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
-"family": null,
+"family": "denial",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Kirkpatrick: 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.' The Canadian Clerk of the Privy Council's Secret memo of 14 Feb 2023 records the Yukon object's function and propulsion as unverified.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "explained_away",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-22",
@@ -157,7 +157,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was given a conventional explanation by"
 }
 ],
 "coords": null,

@@ -251,7 +251,7 @@ def load_predicates(board):
     predicate chosen for a sentence it no longer has. A predicate outside
     schema/vocab.json is an error too. An edge with no row ships a null predicate,
     which verify.py rejects."""
-    doc = rd(PREDICATES).get("edges") or {}
+    doc = rd(PREDICATES).get("predicates") or {}
     live = {e.get("id") for e in board["edges"]}
     orphans = sorted(k for k in doc if k not in live)
     if orphans:

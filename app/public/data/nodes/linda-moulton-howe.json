@@ -59,13 +59,13 @@
 "direction": "out",
 "edgeId": "e-cf2ae4991f",
 "edgeLabel": "Howe is the only named witness to the AQUARIUS paper's text",
-"family": null,
+"family": "testimony",
 "id": "project-aquarius",
 "l0": false,
 "label": "Project AQUARIUS (alleged)",
 "note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-08-15",
@@ -80,7 +80,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -90,13 +90,13 @@
 "direction": "in",
 "edgeId": "e-da75d605db",
 "edgeLabel": "Doty showed Howe a purported classified briefing paper at Kirtland, April 1983",
-"family": null,
+"family": "testimony",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -111,7 +111,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "received an account from"
 }
 ],
 "date": "1983-04-09",

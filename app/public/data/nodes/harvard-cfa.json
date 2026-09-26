@@ -23,13 +23,13 @@
 "direction": "out",
 "edgeId": "e-78a95e3299",
 "edgeLabel": "Loeb directs the Institute for Theory and Computation at the CfA",
-"family": null,
+"family": "role",
 "id": "avi-loeb",
 "l0": false,
 "label": "Abraham 'Avi' Loeb",
 "note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-01-28",
@@ -49,7 +49,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -59,13 +59,13 @@
 "direction": "out",
 "edgeId": "e-c115077a81",
 "edgeLabel": "Host institution of the Galileo Project",
-"family": null,
+"family": "organisation",
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-01-28",
@@ -90,7 +90,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "ran"
 }
 ],
 "coords": null,

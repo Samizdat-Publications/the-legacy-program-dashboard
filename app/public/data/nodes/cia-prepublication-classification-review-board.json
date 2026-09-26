@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-90480aa81b",
 "edgeLabel": "A board of the Agency, described in the Agency's own released guidance",
-"family": null,
+"family": "organisation",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "A board of the Agency, described in the Agency's own released guidance.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-11-28",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-d521b3e581",
 "edgeLabel": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
-"family": null,
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-11-28",
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-aa87a4b2f1",
 "edgeLabel": "A disclaimer disowning authentication is attached in advance to every cleared account",
-"family": null,
+"family": "analysis",
 "id": "d-denial",
 "l0": false,
 "label": "Official Denial",
 "note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-11-28",
@@ -121,7 +121,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is an instance of"
 }
 ],
 "coords": null,

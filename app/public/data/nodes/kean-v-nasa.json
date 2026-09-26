@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-ad17c45c36",
 "edgeLabel": "The domain's only two federal dockets, twenty years apart",
-"family": null,
+"family": "analysis",
 "id": "cash-v-united-states",
 "l0": false,
 "label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
 "note": "Cash (1984-1986) sought damages and was dismissed on the pleadings and summary judgment; Kean (2003-2009) sought records and obtained a finding of inadequate search plus a supervised re-search. The record case succeeded where the injury case did not.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1986-08-21",
@@ -62,7 +62,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -72,13 +72,13 @@
 "direction": "out",
 "edgeId": "e-3ef2e1d29b",
 "edgeLabel": "The litigation was about the Kecksburg records specifically",
-"family": null,
+"family": "documents",
 "id": "kecksburg-1965",
 "l0": false,
 "label": "Kecksburg incident, 9 December 1965",
 "note": "The underlying FOIA request of 31 January 2003 sought records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2007-03-27",
@@ -88,7 +88,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -98,13 +98,13 @@
 "direction": "in",
 "edgeId": "e-e1a409137f",
 "edgeLabel": "Plaintiff who forced a court-supervised NASA records search",
-"family": null,
+"family": "oversight",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -119,7 +119,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -129,13 +129,13 @@
 "direction": "out",
 "edgeId": "e-52dfa0c314",
 "edgeLabel": "Project Moon Dust records were an express object of the FOIA request",
-"family": null,
+"family": "documents",
 "id": "project-moon-dust",
 "l0": false,
 "label": "Project MOON DUST",
 "note": "Moon Dust - the programme for recovery of foreign space and aerospace debris - is named in the request as reproduced in the court's Background section.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2007-03-27",
@@ -145,7 +145,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

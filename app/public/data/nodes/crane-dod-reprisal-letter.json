@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-bdb1237ea5",
 "edgeLabel": "Subject of the reprisal enumeration",
-"family": null,
+"family": "documents",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The only document in the public record that itemizes the adverse actions against Grusch. Each of the three actions generates its own internal DoD paper trail that has never been produced.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -62,7 +62,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -72,13 +72,13 @@
 "direction": "out",
 "edgeId": "e-017662ddf4",
 "edgeLabel": "No reply on the record as of 9 September 2025",
-"family": null,
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "A sitting member formally notified the Department that a whistleblower lost his clearance, promotion and medical retirement for a protected disclosure. Crane stated he was still waiting for a reply; Chairwoman Luna committed to follow up. Non-response is itself an artifact.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -98,13 +98,13 @@
 "direction": "in",
 "edgeId": "e-5b29c24b18",
 "edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
-"family": null,
+"family": "documents",
 "id": "eli-crane",
 "l0": false,
 "label": "Elijah Crane",
 "note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -114,7 +114,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -124,13 +124,13 @@
 "direction": "in",
 "edgeId": "e-1d63c956f3",
 "edgeLabel": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
-"family": null,
+"family": "documents",
 "id": "eli-crane",
 "l0": false,
 "label": "Elijah Crane",
 "note": "Crane enumerated three specific adverse actions - clearance removal, denial of promotion, loss of medical retirement - and entered the letter into the hearing record on 9 September 2025 reporting no reply.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -140,7 +140,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

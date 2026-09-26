@@ -60,13 +60,13 @@
 "direction": "out",
 "edgeId": "e-c134213fa8",
 "edgeLabel": "Bolender authored the termination memorandum",
-"family": null,
+"family": "documents",
 "id": "bolender-memo",
 "l0": false,
 "label": "Bolender Memorandum",
 "note": "Brig. Gen. Bolender, USAF Deputy Director of Development, signed the 20 October 1969 memorandum recommending Blue Book's closure and explaining why closure cost the Air Force nothing operationally.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1969-10-20",
@@ -76,7 +76,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "1969-10-20",

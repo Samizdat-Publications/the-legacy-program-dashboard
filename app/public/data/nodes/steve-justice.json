@@ -62,13 +62,13 @@
 "direction": "in",
 "edgeId": "e-2e18001412",
 "edgeLabel": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
-"family": null,
+"family": "role",
 "id": "adam-research-project",
 "l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-07-26",
@@ -78,7 +78,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -88,13 +88,13 @@
 "direction": "out",
 "edgeId": "e-78425ef1c5",
 "edgeLabel": "Public technical voice: material 'not from any known existing military or commercial application'",
-"family": null,
+"family": "testimony",
 "id": "adam-research-project",
 "l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -109,7 +109,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -119,13 +119,13 @@
 "direction": "out",
 "edgeId": "e-a6f8bbf8e9",
 "edgeLabel": "Aerospace Division Director then COO (2017-2020)",
-"family": null,
+"family": "role",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-04-30",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2019-10-17",

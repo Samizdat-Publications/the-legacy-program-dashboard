@@ -88,13 +88,13 @@
 "direction": "out",
 "edgeId": "e-ac32669243",
 "edgeLabel": "First television interview; origin of the biologics and dead pilots statements",
-"family": null,
+"family": "media",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-11",
@@ -114,7 +114,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -124,13 +124,13 @@
 "direction": "out",
 "edgeId": "e-30cca1515c",
 "edgeLabel": "Coulthart hosts Reality Check",
-"family": null,
+"family": "role",
 "id": "newsnation-reality-check",
 "l0": false,
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "Coulthart is host and NewsNation's senior special investigations correspondent; Reality Check is the vehicle through which the structural model reached broadcast.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-04",
@@ -140,7 +140,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -150,13 +150,13 @@
 "direction": "out",
 "edgeId": "e-5e66467b04",
 "edgeLabel": "Coulthart platformed Gerb on Reality Check and endorsed his claims on air",
-"family": null,
+"family": "media",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-04",
@@ -171,7 +171,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -181,13 +181,13 @@
 "direction": "in",
 "edgeId": "e-62e6d90d87",
 "edgeLabel": "Interviewed across multiple NewsNation 'Reality Check' episodes, June-August 2026",
-"family": null,
+"family": "media",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Coulthart carried the Gerb material into mainstream broadcast, including discussion of Immaculate Constellation and of Aerospace Corporation and MITRE in connection with the 2026 UAP Governance Board.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -197,7 +197,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "interviewed"
 }
 ],
 "date": "2023-06-11",

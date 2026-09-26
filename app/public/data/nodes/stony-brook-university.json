@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-15011914de",
 "edgeLabel": "The two named partners in Brookhaven Science Associates LLC",
-"family": null,
+"family": "role",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Stony Brook and Battelle are the two named partners in Brookhaven Science Associates LLC, which holds the DOE management-and-operating contract for Brookhaven National Laboratory.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-02",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-68bfd6351e",
 "edgeLabel": "DOE is the contracting agency for both Brookhaven management-and-operating contracts",
-"family": null,
+"family": "money",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contracted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "was contracted by"
 }
 ],
 "coords": null,

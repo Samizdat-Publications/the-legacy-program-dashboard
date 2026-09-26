@@ -17,13 +17,13 @@
 "direction": "out",
 "edgeId": "e-e46d9ab69e",
 "edgeLabel": "site of the DoD unsupported-adjustment study",
-"family": null,
+"family": "other",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2017-09-01",
@@ -53,7 +53,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is connected to"
 }
 ],
 "coords": [

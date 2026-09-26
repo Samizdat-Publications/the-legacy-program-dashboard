@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-20f97512a9",
 "edgeLabel": "ISOO advises the working group that produces the marking standard",
-"family": null,
+"family": "organisation",
 "id": "capco-register",
 "l0": false,
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
 "note": "The CAPCO Register v5.1 lists NARA/Information Security Oversight Office among the IC Classification Markings Implementation Working Group advisors.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2012-03-30",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-7fa29bb9a5",
 "edgeLabel": "the office charged with counting the classification system, and therefore the boundary of the public map",
-"family": null,
+"family": "analysis",
 "id": "d-structure",
 "l0": false,
 "label": "Program structure and organisational mapping",
 "note": "ISOO is housed at the National Archives and is responsible to the President for policy and oversight of the government-wide security classification system and the National Industrial Security Program, under Executive Orders 13526 and 13556. Where ISOO's annual reporting stops is where this domain's open-source organisational mapping has to switch to inference.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-21",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -87,13 +87,13 @@
 "direction": "in",
 "edgeId": "e-3225c79470",
 "edgeLabel": "ISOO access to SAPs is granted and simultaneously conditioned",
-"family": null,
+"family": "law",
 "id": "eo-13526",
 "l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-12-29",
@@ -103,7 +103,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -113,13 +113,13 @@
 "direction": "in",
 "edgeId": "e-0a3d589db7",
 "edgeLabel": "Both are components of the National Archives",
-"family": null,
+"family": "other",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA hosts both the statutory UAP collection and the Information Security Oversight Office, the body responsible to the President for the classification system.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -134,7 +134,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -144,13 +144,13 @@
 "direction": "in",
 "edgeId": "e-869f016839",
 "edgeLabel": "ISOO requests about IC controlled access programs are routed through CAPCO",
-"family": null,
+"family": "oversight",
 "id": "odni-capco",
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-19",
@@ -160,7 +160,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "made a request of"
 },
 {
 "claimTier": 3,
@@ -170,13 +170,13 @@
 "direction": "out",
 "edgeId": "e-ce2fc3d777",
 "edgeLabel": "NISP oversight is the only government-wide window on contractor-held classified work",
-"family": null,
+"family": "analysis",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program'. A contractor-held program with no government sponsor of record would be visible, if anywhere, through NISP - and ISOO has never been directed at the UAP question.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -186,7 +186,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -196,13 +196,13 @@
 "direction": "out",
 "edgeId": "e-02efd63e7a",
 "edgeLabel": "The only external body with a claim of access, and the claim is conditional",
-"family": null,
+"family": "oversight",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "E.O. 13526 sec. 4.3(b) affords the ISOO Director access to SAPs 'consistent with the policies and procedures directed by the President'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-12-29",
@@ -212,7 +212,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "oversaw"
 }
 ],
 "coords": null,

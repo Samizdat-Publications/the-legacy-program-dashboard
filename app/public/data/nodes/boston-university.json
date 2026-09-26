@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-6d6899acfb",
 "edgeLabel": "Professor of Economics",
-"family": null,
+"family": "role",
 "id": "laurence-kotlikoff",
 "l0": false,
 "label": "Laurence J. Kotlikoff",
 "note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -39,7 +39,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 }
 ],
 "coords": null,

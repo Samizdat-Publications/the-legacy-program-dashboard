@@ -75,13 +75,13 @@
 "direction": "out",
 "edgeId": "e-99e10f0db9",
 "edgeLabel": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
-"family": null,
+"family": "place-time",
 "id": "green-fireballs-conference-1949",
 "l0": false,
 "label": "Los Alamos Green Fireballs Conference",
 "note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-18",
@@ -91,7 +91,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-59c3d9301d",
 "edgeLabel": "LaPaz investigated the green fireballs from the University of New Mexico",
-"family": null,
+"family": "place-time",
 "id": "l-albuquerque",
 "l0": false,
 "label": "Albuquerque, New Mexico",
 "note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -117,7 +117,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is located at"
 }
 ],
 "date": "1949-02-16",

@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-1c4c6121ad",
 "edgeLabel": "Ranking Member of the full committee at the time of the founding hearing",
-"family": null,
+"family": "role",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Raskin took two full rounds of questioning at the 26 July 2023 subcommittee hearing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2023-07-26",

@@ -62,13 +62,13 @@
 "direction": "out",
 "edgeId": "e-5b727f09a5",
 "edgeLabel": "2025 Canadian recommendation versus the 2009 British closure",
-"family": null,
+"family": "analysis",
 "id": "nick-pope",
 "l0": false,
 "label": "Nick Pope",
 "note": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-06-01",
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-1283a7aeb3",
 "edgeLabel": "Chief Science Advisor whose office produced the report",
-"family": null,
+"family": "role",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-01",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "led"
 }
 ],
 "date": "2025-07-01",

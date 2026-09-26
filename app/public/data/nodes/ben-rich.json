@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-e8881e930c",
 "edgeLabel": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
-"family": null,
+"family": "testimony",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-01-01",
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -92,13 +92,13 @@
 "direction": "out",
 "edgeId": "e-f8077c0748",
 "edgeLabel": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
-"family": null,
+"family": "role",
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-01-01",
@@ -108,7 +108,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "led"
 }
 ],
 "date": "1995-01-05",

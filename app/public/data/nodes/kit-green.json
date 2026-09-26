@@ -215,13 +215,13 @@
 "direction": "in",
 "edgeId": "e-8e70e4ce76",
 "edgeLabel": "Doty places Green at the Institute, then corrects himself within the same passage",
-"family": null,
+"family": "place-time",
 "id": "armed-forces-institute-of-pathology",
 "l0": false,
 "label": "Armed Forces Institute of Pathology",
 "note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-21",
@@ -231,7 +231,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -241,13 +241,13 @@
 "direction": "out",
 "edgeId": "e-f5202bc8bd",
 "edgeLabel": "Life Sciences Division, Office of Scientific Intelligence",
-"family": null,
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Green was the agency analyst to whom biological anomalies were routed, including oversight of the SRI remote-viewing work, before writing the AAWSAP injury study two decades later.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-01-01",
@@ -262,7 +262,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -272,13 +272,13 @@
 "direction": "out",
 "edgeId": "e-a75db2d076",
 "edgeLabel": "authored",
-"family": null,
+"family": "documents",
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "l0": false,
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "DIA list item 12 names \"Dr Kit Green, Wayne State Univ\", under the shorter title \"Field Effects on Biological Tissues\". The released document's printed title is longer and more specific.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -303,7 +303,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -313,13 +313,13 @@
 "direction": "out",
 "edgeId": "e-72d320eaff",
 "edgeLabel": "Author of the AAWSAP human-injury reference document",
-"family": null,
+"family": "documents",
 "id": "dird-green-clinical-medical",
 "l0": false,
 "label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
 "note": "Green, a physician-neuroscientist and former CIA life-sciences analyst, wrote the study of injuries attributed to proximity to anomalous craft; released publicly by Popular Mechanics on 14 February 2020.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-01-01",
@@ -334,7 +334,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -344,13 +344,13 @@
 "direction": "out",
 "edgeId": "e-0038f03355",
 "edgeLabel": "authored the human biological effects DIRD",
-"family": null,
+"family": "documents",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Item 12, 'Field Effects on Biological Tissues', released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — a government document about injuries.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-01-01",
@@ -360,7 +360,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 3,
@@ -370,13 +370,13 @@
 "direction": "in",
 "edgeId": "e-7a63ae249c",
 "edgeLabel": "Same problem, twelve years apart: casualty biology as a route to propulsion characterisation",
-"family": null,
+"family": "analysis",
 "id": "garry-nolan",
 "l0": false,
 "label": "Garry Nolan",
 "note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-01-01",
@@ -391,7 +391,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -401,13 +401,13 @@
 "direction": "out",
 "edgeId": "e-44a696c342",
 "edgeLabel": "NIDS science advisory board before the DIRD",
-"family": null,
+"family": "role",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Green's human-effects interest predates the federal contract by more than a decade, through Bigelow's private institute.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -417,7 +417,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -427,13 +427,13 @@
 "direction": "in",
 "edgeId": "e-fa3cbb7ee2",
 "edgeLabel": "co-affiliated AAWSAP authors at Wayne State University",
-"family": null,
+"family": "other",
 "id": "richard-genik",
 "l0": false,
 "label": "Richard J. Genik II",
 "note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -453,7 +453,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is connected to"
 },
 {
 "claimTier": 2,
@@ -463,13 +463,13 @@
 "direction": "out",
 "edgeId": "e-9d2c3d8098",
 "edgeLabel": "Green was CIA's monitor for the SRI psychoenergetics work",
-"family": null,
+"family": "oversight",
 "id": "sri-international",
 "l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-12-16",
@@ -484,7 +484,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "oversaw"
 },
 {
 "claimTier": 3,
@@ -494,13 +494,13 @@
 "direction": "in",
 "edgeId": "e-46476d5d37",
 "edgeLabel": "Green ran the CIA analytic side of the anomalous-phenomena portfolio",
-"family": null,
+"family": "organisation",
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -510,7 +510,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 3,
@@ -520,13 +520,13 @@
 "direction": "out",
 "edgeId": "e-567b0b928c",
 "edgeLabel": "Green served as an adviser to TTSA during the period of the material acquisition",
-"family": null,
+"family": "role",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Green's association with the company is publicly acknowledged; the board has located no filing specifying his role or duties, and records the connection as an inference from public association rather than a documented officership.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-29",
@@ -536,7 +536,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -546,13 +546,13 @@
 "direction": "in",
 "edgeId": "e-f9230732b3",
 "edgeLabel": "Green's academic base for UAP-injury neuroimaging work",
-"family": null,
+"family": "role",
 "id": "wayne-state-university",
 "l0": true,
 "label": "Wayne State University",
 "note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-04-02",
@@ -577,7 +577,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -587,13 +587,13 @@
 "direction": "out",
 "edgeId": "e-d62441efb9",
 "edgeLabel": "The memo pages entered public circulation from Green's document holdings",
-"family": null,
+"family": "custody",
 "id": "wilson-davis-memo",
 "l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -608,7 +608,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "holds"
 }
 ],
 "date": "2010-01-01",

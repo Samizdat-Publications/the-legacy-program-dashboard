@@ -198,13 +198,13 @@
 "direction": "in",
 "edgeId": "e-df129a8e7b",
 "edgeLabel": "Most of the ~$22m went to Bigelow Aerospace, 2008-2011",
-"family": null,
+"family": "money",
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Reported by the New York Times with Bigelow on record describing modified Las Vegas buildings for storing recovered metal alloys.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "funded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-16",
@@ -214,7 +214,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "was funded by"
 },
 {
 "claimTier": 1,
@@ -224,13 +224,13 @@
 "direction": "out",
 "edgeId": "e-4c4671ab5b",
 "edgeLabel": "owner and principal",
-"family": null,
+"family": "role",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "AARO refers to Bigelow only as 'the head of the private sector organization', confirming the relationship without the name.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -240,7 +240,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -250,13 +250,13 @@
 "direction": "in",
 "edgeId": "e-17c5625eed",
 "edgeLabel": "Continuous employment across NIDS and BAASS under the same principal",
-"family": null,
+"family": "role",
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
 "note": "Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-02-14",
@@ -266,7 +266,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -276,13 +276,13 @@
 "direction": "in",
 "edgeId": "e-60716033da",
 "edgeLabel": "Knapp introduced Harry Reid to Robert Bigelow",
-"family": null,
+"family": "conduct",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -292,7 +292,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "was in contact with"
 },
 {
 "claimTier": 2,
@@ -302,13 +302,13 @@
 "direction": "out",
 "edgeId": "e-8a6969f493",
 "edgeLabel": "constituent relationship behind the appropriation",
-"family": null,
+"family": "conduct",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "Reid has said publicly that Bigelow's interest and briefings prompted him to pursue the funding; both men are Nevadans and the contract went to a Nevada firm.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-05-01",
@@ -318,7 +318,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was in contact with"
 },
 {
 "claimTier": 2,
@@ -328,13 +328,13 @@
 "direction": "in",
 "edgeId": "e-09aef6c2fd",
 "edgeLabel": "NIDS consultant and Bigelow Aerospace scientific advisory board member",
-"family": null,
+"family": "role",
 "id": "jacques-vallee",
 "l0": false,
 "label": "Jacques F. Vallee",
 "note": "Vallee's advisory position places the keeper of the largest private materials collection inside the Bigelow ecosystem that produced BAASS and the AAWSAP contract.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2022-01-01",
@@ -344,7 +344,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -354,13 +354,13 @@
 "direction": "in",
 "edgeId": "e-5b25da505b",
 "edgeLabel": "2007 approach that originated the contract",
-"family": null,
+"family": "conduct",
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-09-01",
@@ -370,7 +370,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was in contact with"
 },
 {
 "claimTier": 2,
@@ -380,13 +380,13 @@
 "direction": "in",
 "edgeId": "e-720785c4d3",
 "edgeLabel": "names Bigelow as the seeding influence behind the modern belief system",
-"family": null,
+"family": "denial",
 "id": "kirkpatrick-sciam-oped-2024",
 "l0": false,
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
 "note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "explained_away",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-19",
@@ -396,7 +396,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was given a conventional explanation by"
 },
 {
 "claimTier": 1,
@@ -406,13 +406,13 @@
 "direction": "out",
 "edgeId": "e-cb6758f186",
 "edgeLabel": "Bigelow's organisation was the anticipated contract performer for the proposed program",
-"family": null,
+"family": "organisation",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "AARO notes the material 'was only assumed to exist by KONA BLUE advocates and its anticipated contract performers,' and that the proposed lines of effort mirrored the private sector organisation's AAWSAP work.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -422,7 +422,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -432,13 +432,13 @@
 "direction": "out",
 "edgeId": "e-c1faaa03ae",
 "edgeLabel": "purchased the ranch in 1996 and owned it throughout the DIA contract",
-"family": null,
+"family": "custody",
 "id": "l-skinwalker",
 "l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -463,7 +463,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "holds"
 },
 {
 "claimTier": 2,
@@ -473,13 +473,13 @@
 "direction": "out",
 "edgeId": "e-581497930d",
 "edgeLabel": "founded and privately funded NIDS 1995-2004",
-"family": null,
+"family": "role",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -499,7 +499,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "founded"
 }
 ],
 "date": "2008-09-22",

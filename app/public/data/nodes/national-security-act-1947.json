@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-fdc6a7ab1c",
 "edgeLabel": "Section 102(a) creates the Agency, under the Council",
-"family": null,
+"family": "law",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The preposition is the point: the Agency sits under the Council.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "in",
 "edgeId": "e-cee2233a45",
 "edgeLabel": "Chartered under the residual clause, section 102(d)(5)",
-"family": null,
+"family": "law",
 "id": "cia-office-of-policy-coordination",
 "l0": false,
 "label": "CIA Office of Policy Coordination",
 "note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -100,7 +100,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -110,13 +110,13 @@
 "direction": "out",
 "edgeId": "e-4a1c824bec",
 "edgeLabel": "Section 101 creates the Council",
-"family": null,
+"family": "law",
 "id": "national-security-council",
 "l0": false,
 "label": "National Security Council",
 "note": "The Council is a creature of statute, not of executive practice. 50 U.S.C. 3021's source credit traces it to title I, section 101 of the Act at 61 Stat. 496.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -126,7 +126,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -136,13 +136,13 @@
 "direction": "in",
 "edgeId": "e-bb7647d699",
 "edgeLabel": "Written under the same residual clause, six years on",
-"family": null,
+"family": "law",
 "id": "nsc-5412",
 "l0": false,
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "implements",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -152,7 +152,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "is implemented by"
 }
 ],
 "coords": null,

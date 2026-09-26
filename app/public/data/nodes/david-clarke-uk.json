@@ -56,13 +56,13 @@
 "direction": "out",
 "edgeId": "e-ef6bd7e00a",
 "edgeLabel": "FOI request that forced the release",
-"family": null,
+"family": "oversight",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2006-05-15",
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "made a request of"
 },
 {
 "claimTier": 1,
@@ -82,13 +82,13 @@
 "direction": "out",
 "edgeId": "e-b409aee156",
 "edgeLabel": "wrote the highlights guide for every tranche",
-"family": null,
+"family": "documents",
 "id": "tna-ufo-release",
 "l0": false,
 "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
 "note": "Each National Archives UFO release page credits Dr David Clarke's guide and carries his videocast or podcast.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-06-01",
@@ -98,7 +98,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2013-06-01",

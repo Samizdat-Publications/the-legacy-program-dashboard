@@ -91,13 +91,13 @@
 "direction": "out",
 "edgeId": "e-aaedf67eb7",
 "edgeLabel": "NASA UAP study participant testifying on stigma and data policy alongside AARO's remit",
-"family": null,
+"family": "analysis",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Gold's testimony argued the problem is stigma and data quality as much as classification.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-11-13",
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -122,13 +122,13 @@
 "direction": "out",
 "edgeId": "e-afdcf2d1b0",
 "edgeLabel": "Cited Dietrich by name to Congress as evidence of aviator stigma",
-"family": null,
+"family": "testimony",
 "id": "alex-dietrich",
 "l0": false,
 "label": "Alex Dietrich",
 "note": "Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -138,7 +138,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -148,13 +148,13 @@
 "direction": "out",
 "edgeId": "e-3bcfb851d4",
 "edgeLabel": "sworn witness",
-"family": null,
+"family": "testimony",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -179,7 +179,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -189,13 +189,13 @@
 "direction": "out",
 "edgeId": "e-033f7a4254",
 "edgeLabel": "Member of the study team",
-"family": null,
+"family": "role",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Gold is listed among the team's members and later testified to Congress on its findings.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-14",
@@ -210,7 +210,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2024-11-13",

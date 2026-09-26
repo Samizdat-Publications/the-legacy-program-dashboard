@@ -36,13 +36,13 @@
 "direction": "out",
 "edgeId": "e-aad585e2f6",
 "edgeLabel": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
-"family": null,
+"family": "place-time",
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Bruehl, a professor of Anesthesiology at Vanderbilt whose primary field is pain research, told his own institution that the December 2017 New York Times report revealing AATIP is what restarted his interest: 'My interest, honestly, has gone up and gone down over the years, and prior to 2017, I had kind of gotten bored with it and didn't really pay much attention to it. But the report in The New York Times got me thinking again.' What followed was a methodological judgement rather than a belief: 'That's when I realized that nobody's really studying this scientifically.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-07",
@@ -62,7 +62,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -72,13 +72,13 @@
 "direction": "out",
 "edgeId": "e-2763c6397d",
 "edgeLabel": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
-"family": null,
+"family": "conduct",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Vanderbilt University Medical Center reports that Stephen Bruehl, PhD, professor of Anesthesiology, 'was invited to attend a Pentagon-sponsored meeting for discussions with UAP experts from the government and academia' in August 2025, as his cluster analysis of 216 well-documented UAP cases (1947-2016) neared publication in World Futures. The sponsoring office is not named in the source.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -103,7 +103,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "was in contact with"
 }
 ],
 "coords": null,

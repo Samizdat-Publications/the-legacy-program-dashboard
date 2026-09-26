@@ -36,13 +36,13 @@
 "direction": "in",
 "edgeId": "e-f6f4380746",
 "edgeLabel": "head institute of the Academy of Sciences branch",
-"family": null,
+"family": "role",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme's published account.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -52,7 +52,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 }
 ],
 "coords": null,

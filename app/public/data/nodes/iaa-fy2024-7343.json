@@ -115,13 +115,13 @@
 "direction": "out",
 "edgeId": "e-d217ceae91",
 "edgeLabel": "named as an appropriate committee",
-"family": null,
+"family": "law",
 "id": "house-armed-services",
 "l0": false,
 "label": "House Armed Services Committee",
 "note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -131,7 +131,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -141,13 +141,13 @@
 "direction": "in",
 "edgeId": "e-0457d16ad9",
 "edgeLabel": "Reduced in conference to a bare funding limitation",
-"family": null,
+"family": "organisation",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Subsections (b), (d), (e) and (g) of Sec. 1102 — the sense of Congress, the contractor turn-in, the immunity grant and the notice to Congress — have no enacted counterpart in Sec. 7343.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -162,7 +162,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -172,13 +172,13 @@
 "direction": "out",
 "edgeId": "e-4353d869cf",
 "edgeLabel": "Dangling cross-reference dates the excision to conference",
-"family": null,
+"family": "place-time",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Enacted Sec. 7343(c) refers to 'contracts covered by such instruction' with no antecedent; the DoDI 3204.01 citation it depended on was deleted with Sec. 1102(f)(1).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -193,7 +193,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "followed from"
 },
 {
 "claimTier": 3,
@@ -203,13 +203,13 @@
 "direction": "out",
 "edgeId": "e-8affacd3b6",
 "edgeLabel": "controlled-access counterpart",
-"family": null,
+"family": "analysis",
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "Tier 3, and recorded as a reading rather than a citation. The board's existing claim holds that secs. 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3. ICD 906 is ODNI's controlled-access-programme directive and is the IC-side instrument the mirroring runs through. Neither text cites the other.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-12-22",
@@ -219,7 +219,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -229,13 +229,13 @@
 "direction": "out",
 "edgeId": "e-903ed5fec8",
 "edgeLabel": "Twin limitations on the intelligence and defence sides",
-"family": null,
+"family": "analysis",
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 7343 applies the same bar to intelligence funds through the DNI that Sec. 1687 applies to DoD funds through the Secretary of Defense.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-12-22",
@@ -245,7 +245,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -255,13 +255,13 @@
 "direction": "out",
 "edgeId": "e-4839a73518",
 "edgeLabel": "Twin provisions covering the defense and intelligence sides of the same gap",
-"family": null,
+"family": "analysis",
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sections 1687 and 7343 of P.L. 118-31 impose parallel funding limitations, the first running through the Secretary of Defense, the second through the Director of National Intelligence. Attested by the enacted text of both.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-12-22",
@@ -271,7 +271,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -281,13 +281,13 @@
 "direction": "out",
 "edgeId": "e-e5dbc3b8dd",
 "edgeLabel": "Binds funds authorised by the intelligence division",
-"family": null,
+"family": "law",
 "id": "nip",
 "l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "Section 7343(b) bars use of funds authorised by Division F for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and congressional leadership. Attested by the statute.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -297,7 +297,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -307,13 +307,13 @@
 "direction": "out",
 "edgeId": "e-ee1b340faf",
 "edgeLabel": "Imposes the same funding condition on the Director of National Intelligence",
-"family": null,
+"family": "law",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "FY2024 IAA sec. 7343(b) bars obligation of division funds for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and four leaders.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -323,7 +323,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -333,13 +333,13 @@
 "direction": "out",
 "edgeId": "e-833d67ee1b",
 "edgeLabel": "named as an appropriate committee",
-"family": null,
+"family": "law",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -349,7 +349,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "requires"
 },
 {
 "claimTier": 3,
@@ -359,13 +359,13 @@
 "direction": "out",
 "edgeId": "e-7a003366c7",
 "edgeLabel": "the IC side of the same seam",
-"family": null,
+"family": "analysis",
 "id": "usc-50-3348",
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "Tier 3: this is a reading of how the provisions sit together, not a cross-reference either text makes. Sec. 7343 is the intelligence-funds twin of NDAA sec. 1687, running through the DNI rather than the Secretary of Defense. The seam it straddles is the one 50 U.S.C. 3348(g)(2)(B) draws when it excludes DoD, the NNSA and IC agencies from its own SAP-reporting regime and routes each to a separate channel. 3348's text was read directly on 22 August 2026 and makes no reference to 7343; the connection is structural.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-12-22",
@@ -380,7 +380,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-aa702e9754",
 "edgeLabel": "P.L. 118-159 Div. G, secs. 6801-6802 - GAO review of AARO and the sunset of the audit cadence",
-"family": null,
+"family": "analysis",
 "id": "d-legislation",
 "l0": false,
 "label": "Enacted Statute",
 "note": "Approved 23 December 2024. Sec. 6801 directs a GAO review of AARO's implementation of 50 U.S.C. 3373; sec. 6802 sunsets the GAO audit requirements attached to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records the first enacted step in winding oversight machinery back down rather than up.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-23",
@@ -56,7 +56,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-fd98b74efa",
 "edgeLabel": "sunsets the sec. 6803 GAO audit cadence",
-"family": null,
+"family": "law",
 "id": "iaa-2023",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803",
 "note": "PL 118-159 sec. 6802 amends IAA FY2023 sec. 6803.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "amended",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-23",
@@ -82,7 +82,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "amended"
 }
 ],
 "coords": null,

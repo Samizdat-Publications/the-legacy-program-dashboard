@@ -71,13 +71,13 @@
 "direction": "in",
 "edgeId": "e-414eb66c47",
 "edgeLabel": "commissioned under AAWSAP, FY2009 series",
-"family": null,
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The document's own administrative note states it 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program', with comments directed to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100. Hal Puthoff, subcontracting to BAASS through EarthTech International, has stated he let the 38 contracts himself, acting as a surrogate so DIA would not have to expose its interest.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -97,7 +97,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -107,13 +107,13 @@
 "direction": "out",
 "edgeId": "e-3205e66425",
 "edgeLabel": "authored by Bruce Towe",
-"family": null,
+"family": "documents",
 "id": "bruce-towe",
 "l0": false,
 "label": "Bruce C. Towe",
 "note": "Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -143,7 +143,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -153,13 +153,13 @@
 "direction": "out",
 "edgeId": "e-681e3b3883",
 "edgeLabel": "subject domain: implantable biosensors and neuro-interface",
-"family": null,
+"family": "analysis",
 "id": "d-bio",
 "l0": false,
 "label": "Biology & Non-Human Biologics",
 "note": "The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -174,7 +174,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -184,13 +184,13 @@
 "direction": "in",
 "edgeId": "e-3c75d57a14",
 "edgeLabel": "DIRD",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -200,7 +200,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -210,13 +210,13 @@
 "direction": "in",
 "edgeId": "e-0854ed89c7",
 "edgeLabel": "series member",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-020. Publication date 31 March 2010 on the cover. 46 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -231,7 +231,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is part of"
 }
 ],
 "coords": null,

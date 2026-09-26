@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-2d15759ff5",
 "edgeLabel": "Named the operation as the deployment framing for the Weygandt Peru account",
-"family": null,
+"family": "testimony",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb is the investigator who brings Laser Strike to this corpus as the deployment framing for the Weygandt Peru account; the operation's own record says nothing about it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-03-10",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,

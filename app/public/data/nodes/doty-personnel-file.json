@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-94be6f6e5f",
 "edgeLabel": "321-page New Mexico State Police personnel file released 2021",
-"family": null,
+"family": "documents",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-20",
@@ -39,7 +39,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

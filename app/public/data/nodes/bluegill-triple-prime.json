@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-2ff0ba4817",
 "edgeLabel": "A dated, documented high-altitude nuclear test",
-"family": null,
+"family": "analysis",
 "id": "d-nuclear",
 "l0": false,
 "label": "Nuclear Security & Restricted Data",
 "note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1983-02-01",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-4edc5f5a7f",
 "edgeLabel": "The detonation list is a Department of Energy publication",
-"family": null,
+"family": "custody",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1983-02-01",
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-fa544d6e43",
 "edgeLabel": "Air Force flew the shot and its 22-aircraft array",
-"family": null,
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1983-02-01",
@@ -121,7 +121,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 }
 ],
 "coords": null,

@@ -71,13 +71,13 @@
 "direction": "out",
 "edgeId": "e-f1356e7a78",
 "edgeLabel": "The second witness, located by the publishing party in June 2026",
-"family": null,
+"family": "testimony",
 "id": "ellsworth-1977",
 "l0": false,
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "note": "LOCATED BY THE PUBLISHING PARTY ON 26 JUNE 2026 FROM A VIEWER'S FACEBOOK TIP, VIA AN UNNAMED RECRUITER. NO DATED PUBLIC STATEMENT BY HIM ABOUT THIS EVENT EXISTS PRIOR TO THAT CONTACT. ON THE RECORDED CALL HE ANSWERED 'NO' BEFORE THE ORIGINAL WITNESS NAMED THE UFO, TWICE, AND HE THEN ASSENTED. THE EPISODE'S OWN LATER RETELLING OF THAT MOMENT CONTRADICTS ITS OWN RECORDING OF IT. The accounts agree on substance and diverge on posture and agency, which reads very differently from verbatim agreement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-07",
@@ -87,7 +87,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -97,13 +97,13 @@
 "direction": "out",
 "edgeId": "e-46f8ad1aaa",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
-"family": null,
+"family": "testimony",
 "id": "l-ellsworth",
 "l0": false,
 "label": "Ellsworth AFB, South Dakota",
 "note": "The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-07",
@@ -113,7 +113,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -123,13 +123,13 @@
 "direction": "out",
 "edgeId": "e-3bdeac722b",
 "edgeLabel": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
-"family": null,
+"family": "testimony",
 "id": "mario-woods",
 "l0": false,
 "label": "Mario Woods",
 "note": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-07",
@@ -139,7 +139,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "passed an account to"
 }
 ],
 "date": "2026-06-26",

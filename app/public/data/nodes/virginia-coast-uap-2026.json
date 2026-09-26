@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-9dc389691f",
 "edgeLabel": "sole maritime case in the report",
-"family": null,
+"family": "media",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-21",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was reported on by"
 },
 {
 "claimTier": 3,
@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-e1e8a83868",
 "edgeLabel": "a mass event against a case system still being procured",
-"family": null,
+"family": "analysis",
 "id": "aaro-jwics-case-management-2025",
 "l0": false,
 "label": "AARO JWICS case management system (sources sought, May 2025)",
 "note": "Roughly 100 objects and two uncrewed surface systems reported by Navy assets, in an office whose purpose-built case management system was still at the sources-sought stage in mid-2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -82,7 +82,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 3,
@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-124763c832",
 "edgeLabel": "two maritime cases, three years apart, both unresolved",
-"family": null,
+"family": "analysis",
 "id": "alexandro-wiggins",
 "l0": false,
 "label": "Alexandro Wiggins",
 "note": "The USS Jackson transmedium event of February 2023 and the roughly 100 objects with two uncrewed surface systems off Virginia are the two maritime anchors of the current record; neither has a public case number.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -113,7 +113,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

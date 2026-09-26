@@ -160,13 +160,13 @@
 "direction": "out",
 "edgeId": "e-b57e1d1a93",
 "edgeLabel": "Deputy administrator of BAASS, the AAWSAP performer",
-"family": null,
+"family": "role",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Kelleher ran the operational science side of the contract that produced the DIRD series, having previously managed NIDS field investigations for the same principal, Robert Bigelow.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-02-14",
@@ -181,7 +181,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -191,13 +191,13 @@
 "direction": "out",
 "edgeId": "e-76194a656d",
 "edgeLabel": "Deputy Administrator running day-to-day contract execution",
-"family": null,
+"family": "role",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Kelleher carried the NIDS field methodology into the federally funded effort and directed the biological-effects line.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-05-25",
@@ -207,7 +207,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -217,13 +217,13 @@
 "direction": "out",
 "edgeId": "e-36f3c13c6b",
 "edgeLabel": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract",
-"family": null,
+"family": "role",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-08-01",
@@ -233,7 +233,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -243,13 +243,13 @@
 "direction": "out",
 "edgeId": "e-f2aaaa8e50",
 "edgeLabel": "Kelleher's 2005 book led Lacatski to Bigelow and thence to the AAWSAP contract",
-"family": null,
+"family": "place-time",
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "DIA official James Lacatski read 'Hunt for the Skinwalker' by Kelleher and George Knapp, contacted Bigelow, visited the ranch, and relayed the experience to Sen. Harry Reid; the two later co-authored 'Skinwalkers at the Pentagon' (2021).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-02-14",
@@ -264,7 +264,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -274,13 +274,13 @@
 "direction": "out",
 "edgeId": "e-5a9e7460ae",
 "edgeLabel": "led both the NIDS and BAASS science teams on the ranch",
-"family": null,
+"family": "role",
 "id": "l-skinwalker",
 "l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "Sixteen years of continuous field presence across a private and then a federally funded program.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-05-25",
@@ -290,7 +290,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -300,13 +300,13 @@
 "direction": "out",
 "edgeId": "e-a19002d61f",
 "edgeLabel": "Kelleher was NIDS deputy administrator and ran field operations",
-"family": null,
+"family": "role",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1998-08-10",
@@ -321,7 +321,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -331,13 +331,13 @@
 "direction": "out",
 "edgeId": "e-17c5625eed",
 "edgeLabel": "Continuous employment across NIDS and BAASS under the same principal",
-"family": null,
+"family": "role",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-02-14",
@@ -347,7 +347,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -357,13 +357,13 @@
 "direction": "out",
 "edgeId": "e-d10cde3e69",
 "edgeLabel": "co-author, contractor side of the account",
-"family": null,
+"family": "documents",
 "id": "skinwalkers-at-the-pentagon",
 "l0": false,
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "note": "Kelleher supplies the field-operations and human-effects record from the BAASS side.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-08-01",
@@ -373,7 +373,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2009-07-01",

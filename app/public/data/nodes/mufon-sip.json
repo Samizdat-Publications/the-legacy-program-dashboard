@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-26348e1284",
 "edgeLabel": "funded MUFON's Star Team Impact Project",
-"family": null,
+"family": "money",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "A DIA-contracted firm bought rapid-response access to the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "funded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-03-01",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "was funded by"
 }
 ],
 "coords": null,

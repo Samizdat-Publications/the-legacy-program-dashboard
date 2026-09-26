@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-3b2c2d4b07",
 "edgeLabel": "written at the Air Force Institute of Technology, Wright-Patterson AFB",
-"family": null,
+"family": "place-time",
 "id": "afit-townsend-2008",
 "l0": false,
 "label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
 "note": "Title page: 'Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio. APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2008-03-10",
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-922342baef",
 "edgeLabel": "A copy went to WADD at Wright-Patterson",
-"family": null,
+"family": "custody",
 "id": "afswc-tr-59-39",
 "l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "Listed under ARDC CENTERS as 'WADD, Wright-Patterson AFB, Ohio'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-06-19",
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "received records or material from"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-011f24b07d",
 "edgeLabel": "Installation commander, August 1964 to December 1965",
-"family": null,
+"family": "role",
 "id": "arthur-e-exon",
 "l0": false,
 "label": "Arthur E. Exon",
 "note": "Exon was the installation commander of Wright-Patterson Air Force Base from August 1964 to December 1965 per the base's own published history.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -109,7 +109,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -119,13 +119,13 @@
 "direction": "in",
 "edgeId": "e-7ccd9e56bf",
 "edgeLabel": "ATIC and its successors were and are headquartered at Wright-Patterson",
-"family": null,
+"family": "place-time",
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "The Air Technical Intelligence Center, formed in 1951 from Air Materiel Command's T-2 intelligence organisation at Wright Field, became the Foreign Technology Division in 1961 and NASIC in 1993, which remains at the base. Attested by USAF unit histories.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -145,13 +145,13 @@
 "direction": "in",
 "edgeId": "e-ea29bbf6b0",
 "edgeLabel": "ATIC and every legacy UFO project were located at Wright-Patterson",
-"family": null,
+"family": "place-time",
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "SIGN, GRUDGE and Blue Book were all headquartered at Wright-Patterson AFB, the site of the Air Force's foreign materiel exploitation organisation and its successors.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -166,7 +166,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -176,13 +176,13 @@
 "direction": "in",
 "edgeId": "e-a028df5723",
 "edgeLabel": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
-"family": null,
+"family": "place-time",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-05-21",
@@ -197,7 +197,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -207,13 +207,13 @@
 "direction": "in",
 "edgeId": "e-3fc20213e5",
 "edgeLabel": "The Bolender memo closed the base's public reporting channel while conceding another existed",
-"family": null,
+"family": "denial",
 "id": "bolender-memo",
 "l0": false,
 "label": "Bolender Memorandum",
 "note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base's own reporting architecture.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -223,7 +223,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was denied by"
 },
 {
 "claimTier": 3,
@@ -233,13 +233,13 @@
 "direction": "in",
 "edgeId": "e-88fa685315",
 "edgeLabel": "Corroborating NASIC officer sits at the installation at the center of the legacy custody claims",
-"family": null,
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch testified he knows the exact locations of held material and provided them to the Inspector General; the one corroborator whose duty station is public serves at NASIC, Wright-Patterson. Reasoning: the geography is suggestive and no document places Grusch's locations at Wright-Patterson.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -254,7 +254,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -264,13 +264,13 @@
 "direction": "in",
 "edgeId": "e-1cfdd982d9",
 "edgeLabel": "Chief, Special Studies Office, Installations Division, Air Materiel Command",
-"family": null,
+"family": "role",
 "id": "eric-wang",
 "l0": false,
 "label": "Eric H. Wang",
 "note": "The Project 3.1 report records the transfer of Air Force responsibility 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-07-01",
@@ -280,7 +280,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -290,13 +290,13 @@
 "direction": "in",
 "edgeId": "e-c39e3965b6",
 "edgeLabel": "Stationed at Wright-Patterson AFB, Ohio",
-"family": null,
+"family": "place-time",
 "id": "foreign-technology-division",
 "l0": false,
 "label": "Foreign Technology Division, Wright-Patterson AFB",
 "note": "AFR 80-17 names the station in the assignment itself: 'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1966-09-19",
@@ -306,7 +306,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -316,13 +316,13 @@
 "direction": "in",
 "edgeId": "e-10be0ce5ef",
 "edgeLabel": "NASIC is the current tenant institution at Wright-Patterson",
-"family": null,
+"family": "place-time",
 "id": "nasic",
 "l0": false,
 "label": "National Air and Space Intelligence Center",
 "note": "The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir to ATIC/FTD's foreign materiel exploitation mission.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -332,7 +332,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -342,13 +342,13 @@
 "direction": "in",
 "edgeId": "e-2a781ab781",
 "edgeLabel": "Twining wrote the 1947 AMC assessment from this command",
-"family": null,
+"family": "role",
 "id": "nathan-twining",
 "l0": false,
 "label": "Nathan F. Twining",
 "note": "Lt. Gen. Nathan Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command, headquartered at Wright Field.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -358,7 +358,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -368,13 +368,13 @@
 "direction": "in",
 "edgeId": "e-732728df72",
 "edgeLabel": "Wright-Patterson closed its airspace for nearly four hours during the wave",
-"family": null,
+"family": "place-time",
 "id": "nj-drone-incursions-2024",
 "l0": false,
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "note": "The 14-15 December 2024 airspace closure over unauthorized drone activity occurred days before the federal statement that nothing anomalous had been identified.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-17",
@@ -384,7 +384,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 3,
@@ -394,13 +394,13 @@
 "direction": "in",
 "edgeId": "e-c7960e1eab",
 "edgeLabel": "Recovered material routed to Air Force technical intelligence at Wright-Patterson",
-"family": null,
+"family": "custody",
 "id": "operation-blue-fly",
 "l0": false,
 "label": "Operation BLUE FLY",
 "note": "Foreign Technology Division at Wright-Patterson was the designated technical exploitation centre; the Air Force felt it necessary in its January 1985 public fact sheet to deny that extraterrestrial equipment had ever been there.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-08-15",
@@ -415,7 +415,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "received records or material from"
 },
 {
 "claimTier": 1,
@@ -425,13 +425,13 @@
 "direction": "in",
 "edgeId": "e-d9eca79c62",
 "edgeLabel": "Addressed to Miles E. Goll at Wright-Patterson Air Force Base",
-"family": null,
+"family": "place-time",
 "id": "pentacle-memorandum",
 "l0": false,
 "label": "The Pentacle Memorandum",
 "note": "No signed original has ever been produced by the Air Force or by Battelle.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -441,7 +441,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -451,13 +451,13 @@
 "direction": "in",
 "edgeId": "e-2ed1625018",
 "edgeLabel": "DeLonge's written assertion that the Roswell material went to the Wright-Patterson laboratory",
-"family": null,
+"family": "testimony",
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "The email asserts to Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base' and that the general ran that laboratory until a couple of years earlier. The record establishes that DeLonge asserted this in writing in January 2016, not that it happened.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-01-25",
@@ -467,7 +467,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -477,13 +477,13 @@
 "direction": "in",
 "edgeId": "e-e10ff53f09",
 "edgeLabel": "Blue Book was hosted at Wright-Patterson from 1952 to 1969",
-"family": null,
+"family": "place-time",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Project Blue Book, like SIGN and GRUDGE before it, was hosted at this base under ATIC. Of 12,618 sightings studied, 701 remained unexplained at closure. Attested by USAF fact sheets.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -493,7 +493,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -503,13 +503,13 @@
 "direction": "in",
 "edgeId": "e-3d39f25123",
 "edgeLabel": "Written and issued at Wright-Patterson Air Force Base, Ohio",
-"family": null,
+"family": "place-time",
 "id": "tr-ac-47-silver-bug",
 "l0": false,
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
 "note": "Both issuing bodies, ATIC and the Wright Air Development Center, are named on the report with that station.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-02-15",
@@ -519,7 +519,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -529,13 +529,13 @@
 "direction": "in",
 "edgeId": "e-75be159ffe",
 "edgeLabel": "airlifted recovered foreign materiel to Wright-Patterson",
-"family": null,
+"family": "custody",
 "id": "usaf-1127th-field-activities-group",
 "l0": false,
 "label": "1127th USAF Field Activities Group",
 "note": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1967-06-30",
@@ -545,7 +545,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "received records or material from"
 },
 {
 "claimTier": 2,
@@ -555,13 +555,13 @@
 "direction": "in",
 "edgeId": "e-2a3a4b0cda",
 "edgeLabel": "Commanded the Air Force Research Laboratory at Wright-Patterson",
-"family": null,
+"family": "role",
 "id": "william-mccasland",
 "l0": false,
 "label": "William Neil McCasland",
 "note": "AFRL at Wright-Patterson is the single installation most persistently named in the legacy recovery literature.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-04-21",
@@ -571,7 +571,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 }
 ],
 "coords": [

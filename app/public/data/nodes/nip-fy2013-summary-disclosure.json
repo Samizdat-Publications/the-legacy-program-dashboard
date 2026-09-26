@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-8dcc79bc9c",
 "edgeLabel": "What the Schedule of Authorizations looks like from the inside",
-"family": null,
+"family": "analysis",
 "id": "classified-schedule-authorizations",
 "l0": false,
 "label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
 "note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-19b9f88d5b",
 "edgeLabel": "FAS hosts the excerpts and the redacted FOIA budget justifications",
-"family": null,
+"family": "custody",
 "id": "fas",
 "l0": false,
 "label": "Federation of American Scientists",
 "note": "The FAS Intelligence Resource Program budget page indexes the FY2013 NIP Summary excerpts alongside redacted Congressional Budget Justifications for ODNI, NRO, NGA and the MIP. Attested by the page itself.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-1914d2363b",
 "edgeLabel": "The only public view of the interior of the National Intelligence Program",
-"family": null,
+"family": "documents",
 "id": "nip",
 "l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "The FY2013 NIP Summary excerpts, classified TS/SI/TK/NOFORN, were released via the Washington Post in August 2013 and are hosted by FAS; the officially disclosed figure for the same year was a single aggregate. Attested by the FAS document index.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

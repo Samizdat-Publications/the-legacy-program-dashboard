@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-d0c9d60aa6",
 "edgeLabel": "May 2026 On Watch interview restating the concealment allegation",
-"family": null,
+"family": "media",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Interviewed by Chris Farrell for Judicial Watch's On Watch on 5 May 2026, restating that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed recovery and reverse-engineering programs. It is the immediate precursor to the June 2026 Capitol press conference.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-05",
@@ -39,7 +39,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "featured"
 }
 ],
 "coords": null,

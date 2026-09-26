@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-25a1074150",
 "edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
-"family": null,
+"family": "custody",
 "id": "darpa",
 "l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1959-06-19",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "passed records or material to"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-00c9c03f35",
 "edgeLabel": "Issued from Kirtland Air Force Base, New Mexico",
-"family": null,
+"family": "place-time",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1959-06-19",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-60c7fbfe4d",
 "edgeLabel": "A copy went to the Los Alamos Scientific Laboratory report library",
-"family": null,
+"family": "custody",
 "id": "l-los-alamos",
 "l0": false,
 "label": "Los Alamos, New Mexico",
 "note": "The distribution list names the Director, Los Alamos Scientific Laboratory, with two attention lines including 'Helen Redman, Report Library'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-06-19",
@@ -121,7 +121,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-922342baef",
 "edgeLabel": "A copy went to WADD at Wright-Patterson",
-"family": null,
+"family": "custody",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Listed under ARDC CENTERS as 'WADD, Wright-Patterson AFB, Ohio'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1959-06-19",
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "passed records or material to"
 },
 {
 "claimTier": 1,
@@ -157,13 +157,13 @@
 "direction": "out",
 "edgeId": "e-ad1ede6b89",
 "edgeLabel": "A numbered copy went to Sandia's document control division",
-"family": null,
+"family": "custody",
 "id": "sandia",
 "l0": true,
 "label": "Sandia National Laboratories",
 "note": "The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-06-19",
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -183,13 +183,13 @@
 "direction": "out",
 "edgeId": "e-fe05f6fa26",
 "edgeLabel": "Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command",
-"family": null,
+"family": "documents",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-06-19",
@@ -199,7 +199,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was published by"
 }
 ],
 "coords": null,

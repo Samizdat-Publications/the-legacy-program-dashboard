@@ -32,13 +32,13 @@
 "direction": "out",
 "edgeId": "e-d169e0dc18",
 "edgeLabel": "seat 8 of 12 - Ranking Member, House Armed Services",
-"family": null,
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2023-01-03",

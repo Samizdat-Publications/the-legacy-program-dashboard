@@ -36,13 +36,13 @@
 "direction": "out",
 "edgeId": "e-0c7c2e6f13",
 "edgeLabel": "Compartmentation defeats committee access",
-"family": null,
+"family": "analysis",
 "id": "d-oversight",
 "l0": false,
 "label": "Congressional Oversight",
 "note": "10 U.S.C. 119's waiver provision reduces notification to eight members without staff, which is the specific point at which the secrecy architecture and congressional oversight collide.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -52,7 +52,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -62,13 +62,13 @@
 "direction": "in",
 "edgeId": "e-eb60349b7a",
 "edgeLabel": "SAP tiers implement compartmentation",
-"family": null,
+"family": "analysis",
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-09-12",
@@ -78,7 +78,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -88,13 +88,13 @@
 "direction": "in",
 "edgeId": "e-7797230b88",
 "edgeLabel": "A worked example of compartmentation: one workforce, two programmes",
-"family": null,
+"family": "analysis",
 "id": "manned-orbiting-laboratory",
 "l0": false,
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-05-01",
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "has as an instance"
 }
 ],
 "coords": null,

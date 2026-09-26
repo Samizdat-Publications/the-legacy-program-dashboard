@@ -132,13 +132,13 @@
 "direction": "in",
 "edgeId": "e-f3d2dd5bb0",
 "edgeLabel": "Relies on Vallee's documented nitinol paper trail",
-"family": null,
+"family": "documents",
 "id": "gerb-battelle-investigation",
 "l0": false,
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
 "note": "Gerb explicitly credits Vallee as the source of the supporting documentary trail for the Battelle materials claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-02-18",
@@ -148,7 +148,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "is cited by"
 },
 {
 "claimTier": 2,
@@ -158,13 +158,13 @@
 "direction": "out",
 "edgeId": "e-c9b3d8f9c6",
 "edgeLabel": "Both at SRI International in the early 1970s",
-"family": null,
+"family": "role",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Vallee joined Engelbart's Augmentation Research Center at SRI in 1971, in the same institution and period as Puthoff's psychoenergetics programme; Vallee was also consulted on classified remote-viewing research.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2022-01-01",
@@ -174,7 +174,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -184,13 +184,13 @@
 "direction": "out",
 "edgeId": "e-8adaa21ec8",
 "edgeLabel": "Vallee served on the NIDS advisory board",
-"family": null,
+"family": "role",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1998-08-10",
@@ -205,7 +205,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -215,13 +215,13 @@
 "direction": "in",
 "edgeId": "e-56585e150b",
 "edgeLabel": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
-"family": null,
+"family": "testimony",
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: \"...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato.\"' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -241,7 +241,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -251,13 +251,13 @@
 "direction": "out",
 "edgeId": "e-308635d59d",
 "edgeLabel": "Co-author and source of the sample and its case file",
-"family": null,
+"family": "documents",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-01-01",
@@ -272,7 +272,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -282,13 +282,13 @@
 "direction": "out",
 "edgeId": "e-c9adcb5430",
 "edgeLabel": "Discovered the memorandum in 1967 among Hynek's papers and named its author 'Pentacle'",
-"family": null,
+"family": "testimony",
 "id": "pentacle-memorandum",
 "l0": false,
 "label": "The Pentacle Memorandum",
 "note": "Journal entry 18 June 1967; published in Forbidden Science (1992). H. C. Cross was later identified as the author.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -298,7 +298,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -308,13 +308,13 @@
 "direction": "out",
 "edgeId": "e-09aef6c2fd",
 "edgeLabel": "NIDS consultant and Bigelow Aerospace scientific advisory board member",
-"family": null,
+"family": "role",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "Vallee's advisory position places the keeper of the largest private materials collection inside the Bigelow ecosystem that produced BAASS and the AAWSAP contract.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2022-01-01",
@@ -324,7 +324,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -334,13 +334,13 @@
 "direction": "in",
 "edgeId": "e-72e0cba2e6",
 "edgeLabel": "Vallee is Emeritus Advisor",
-"family": null,
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Named on the Sol Foundation People page.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -350,7 +350,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -360,13 +360,13 @@
 "direction": "in",
 "edgeId": "e-8362517ec9",
 "edgeLabel": "Hollanda showed the operation's photographs and trajectory analyses to Vallee",
-"family": null,
+"family": "testimony",
 "id": "uyrange-hollanda",
 "l0": false,
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
 "note": "The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer's access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible — Basterfield's account names only Ademar Gevaerd and Helio Loyola as the BAASS teams' Brazilian contacts.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -386,7 +386,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "received an account from"
 }
 ],
 "date": "1995-01-01",

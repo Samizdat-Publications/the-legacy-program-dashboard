@@ -38,13 +38,13 @@
 "direction": "out",
 "edgeId": "e-8ad0120fc7",
 "edgeLabel": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
-"family": null,
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2023-01-03",

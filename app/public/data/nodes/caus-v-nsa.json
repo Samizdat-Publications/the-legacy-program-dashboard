@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-0c229c96b4",
 "edgeLabel": "CAUS was the plaintiff in Civil Action No. 80-1562",
-"family": null,
+"family": "role",
 "id": "caus",
 "l0": false,
 "label": "Citizens Against UFO Secrecy (CAUS)",
 "note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-09-10",
@@ -56,7 +56,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -66,13 +66,13 @@
 "direction": "in",
 "edgeId": "e-cb1caae1f2",
 "edgeLabel": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
-"family": null,
+"family": "denial",
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1981-11-03",
@@ -82,7 +82,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-17f1e70b62",
 "edgeLabel": "The affidavit is the instrument by which withholding was sustained",
-"family": null,
+"family": "denial",
 "id": "yeates-affidavit",
 "l0": false,
 "label": "Yeates Affidavit (NSA, 1980)",
 "note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-09-10",
@@ -113,7 +113,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was refused by"
 }
 ],
 "coords": null,

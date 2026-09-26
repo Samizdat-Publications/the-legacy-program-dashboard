@@ -56,13 +56,13 @@
 "direction": "out",
 "edgeId": "e-5407b26a5a",
 "edgeLabel": "Chief Content Officer; highest cash-compensated officer FY2017",
-"family": null,
+"family": "role",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "$100,000 cash and options on 5 million shares at $0.003 valued at about $18.96m — the entertainment side held the equity.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-04-30",
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -82,13 +82,13 @@
 "direction": "out",
 "edgeId": "e-168e63c2b9",
 "edgeLabel": "Signed for To The Stars Academy, 10 October 2019",
-"family": null,
+"family": "documents",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "The corporate signatory on a materials-science agreement with an Army laboratory was TTSA's Chief Content Officer — the entertainment company was the legal spine.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-10-18",
@@ -98,7 +98,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2019-10-10",

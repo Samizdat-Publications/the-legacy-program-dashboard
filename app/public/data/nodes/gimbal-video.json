@@ -29,13 +29,13 @@
 "direction": "out",
 "edgeId": "e-0e1dacadf6",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
-"family": null,
+"family": "documents",
 "id": "roosevelt-2014-2015",
 "l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -50,7 +50,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

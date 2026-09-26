@@ -59,13 +59,13 @@
 "direction": "in",
 "edgeId": "e-060fc949a2",
 "edgeLabel": "ORNL assessed the privately held 'crash' specimen as terrestrial",
-"family": null,
+"family": "denial",
 "id": "aaro-metallic-specimen-analysis",
 "l0": false,
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "explained_away",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-07-11",
@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was given a conventional explanation by"
 },
 {
 "claimTier": 1,
@@ -85,13 +85,13 @@
 "direction": "out",
 "edgeId": "e-02e6600133",
 "edgeLabel": "ADAM: acquisition and analysis of claimed exotic material",
-"family": null,
+"family": "organisation",
 "id": "adam-research-project",
 "l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-07-24",
@@ -111,7 +111,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "in",
 "edgeId": "e-d5de2eedab",
 "edgeLabel": "National Security Affairs Advisor / advisory board (2017-2020)",
-"family": null,
+"family": "role",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-04-30",
@@ -142,7 +142,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 3,
@@ -152,13 +152,13 @@
 "direction": "out",
 "edgeId": "e-cc83b60f31",
 "edgeLabel": "Securities disclosure is why the TTSA arrangement is visible and a privately held prime's would not be",
-"family": null,
+"family": "analysis",
 "id": "general-atomics",
 "l0": false,
 "label": "General Atomics",
 "note": "TTSA's Reg A reporting obligations forced the CRADA into the public record. A privately held prime such as General Atomics has no equivalent obligation, which is the structural reason the documented case is a small company rather than a large one.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-08-03",
@@ -173,7 +173,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -183,13 +183,13 @@
 "direction": "in",
 "edgeId": "e-0fa64ffe4b",
 "edgeLabel": "Co-founder, VP Science and Technology, director",
-"family": null,
+"family": "role",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-04-30",
@@ -204,7 +204,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -214,13 +214,13 @@
 "direction": "in",
 "edgeId": "e-674d19d1a0",
 "edgeLabel": "Co-founder, VP Operations, director",
-"family": null,
+"family": "role",
 "id": "jim-semivan",
 "l0": false,
 "label": "James 'Jim' Semivan",
 "note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-04-30",
@@ -230,7 +230,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -240,13 +240,13 @@
 "direction": "in",
 "edgeId": "e-5407b26a5a",
 "edgeLabel": "Chief Content Officer; highest cash-compensated officer FY2017",
-"family": null,
+"family": "role",
 "id": "kari-delonge",
 "l0": false,
 "label": "Kari DeLonge",
 "note": "$100,000 cash and options on 5 million shares at $0.003 valued at about $18.96m — the entertainment side held the equity.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-04-30",
@@ -256,7 +256,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 3,
@@ -266,13 +266,13 @@
 "direction": "in",
 "edgeId": "e-567b0b928c",
 "edgeLabel": "Green served as an adviser to TTSA during the period of the material acquisition",
-"family": null,
+"family": "role",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's association with the company is publicly acknowledged; the board has located no filing specifying his role or duties, and records the connection as an inference from public association rather than a documented officership.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-04-29",
@@ -282,7 +282,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -292,13 +292,13 @@
 "direction": "out",
 "edgeId": "e-b2482ea3b3",
 "edgeLabel": "Corporate base and Entertainment Division retail location",
-"family": null,
+"family": "place-time",
 "id": "l-encinitas",
 "l0": false,
 "label": "Encinitas, California",
 "note": "Stated in the company's Form 1-K.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-04-30",
@@ -308,7 +308,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -318,13 +318,13 @@
 "direction": "in",
 "edgeId": "e-1d15253ef1",
 "edgeLabel": "Director of Global Security & Special Programs / Government Programs (2017-2020)",
-"family": null,
+"family": "role",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-04-30",
@@ -344,7 +344,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -354,13 +354,13 @@
 "direction": "out",
 "edgeId": "e-d0038ba9e4",
 "edgeLabel": "Hosted and distributed the three videos from 2017-2018",
-"family": null,
+"family": "documents",
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-09-10",
@@ -370,7 +370,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "released"
 },
 {
 "claimTier": 1,
@@ -380,13 +380,13 @@
 "direction": "in",
 "edgeId": "e-a6f8bbf8e9",
 "edgeLabel": "Aerospace Division Director then COO (2017-2020)",
-"family": null,
+"family": "role",
 "id": "steve-justice",
 "l0": false,
 "label": "Steve Justice",
 "note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-04-30",
@@ -396,7 +396,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -406,13 +406,13 @@
 "direction": "in",
 "edgeId": "e-385b7201a7",
 "edgeLabel": "Scrutiny of To The Stars Academy's media apparatus and financing",
-"family": null,
+"family": "media",
 "id": "the-intercept",
 "l0": false,
 "label": "The Intercept",
 "note": "The piece documents what To The Stars Academy's own regulatory filings say it is: a 'Motion Picture & Video Tape Production' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-06-01",
@@ -427,7 +427,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was reported on by"
 },
 {
 "claimTier": 1,
@@ -437,13 +437,13 @@
 "direction": "in",
 "edgeId": "e-294b61f23d",
 "edgeLabel": "Co-founder, President, interim CEO and controlling shareholder",
-"family": null,
+"family": "role",
 "id": "tom-delonge",
 "l0": false,
 "label": "Thomas Matthew DeLonge",
 "note": "TTSA was a Regulation A public reporting issuer, which is why its holdings and agreements had to be filed with the SEC rather than remaining private.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-04-30",
@@ -463,7 +463,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -473,13 +473,13 @@
 "direction": "out",
 "edgeId": "e-317633eccd",
 "edgeLabel": "TTSA executed a federal exploitation agreement over material it claimed was of unknown origin",
-"family": null,
+"family": "documents",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "CRADA 19-15 'Novel & Emerging Technology Exploitation' with the US Army CCDC Ground Vehicle Systems Center was filed as Exhibit 6.28 to TTSA's Form 1-A, naming Army principal investigators and TACOM intellectual property counsel.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-08-03",
@@ -494,7 +494,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -504,13 +504,13 @@
 "direction": "out",
 "edgeId": "e-092d740a3c",
 "edgeLabel": "Executed CRADA with the U.S. Army, 10 October 2019, term to 30 September 2023",
-"family": null,
+"family": "documents",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-10-18",
@@ -525,7 +525,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -535,13 +535,13 @@
 "direction": "in",
 "edgeId": "e-4fa01d6807",
 "edgeLabel": "Public launch and Regulation A+ offering, 11 October 2017",
-"family": null,
+"family": "organisation",
 "id": "ttsa-launch-2017",
 "l0": false,
 "label": "To The Stars Academy public launch, 11 October 2017",
 "note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-10-11",
@@ -551,7 +551,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -561,13 +561,13 @@
 "direction": "in",
 "edgeId": "e-91df7be7e9",
 "edgeLabel": "TTSA production, executive produced by Tom DeLonge, History Channel 2019-2020",
-"family": null,
+"family": "organisation",
 "id": "unidentified-history-series",
 "l0": false,
 "label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
 "note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -577,7 +577,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "produced"
 }
 ],
 "coords": null,

@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-6fc321689f",
 "edgeLabel": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
-"family": null,
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-10",
@@ -56,7 +56,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -66,13 +66,13 @@
 "direction": "in",
 "edgeId": "e-5f6270e39f",
 "edgeLabel": "Hosted the press conference",
-"family": null,
+"family": "organisation",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-10",
@@ -87,7 +87,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 2,
@@ -97,13 +97,13 @@
 "direction": "in",
 "edgeId": "e-15ffdc8295",
 "edgeLabel": "February announcement produced the June pressure campaign",
-"family": null,
+"family": "place-time",
 "id": "trump-uap-release-directive-2026",
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-09",
@@ -118,7 +118,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "followed from"
 }
 ],
 "coords": null,

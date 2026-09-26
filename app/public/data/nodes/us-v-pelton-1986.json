@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-46e3f4a011",
 "edgeLabel": "States the fact of a compromise while naming no operation",
-"family": null,
+"family": "analysis",
 "id": "d-denial",
 "l0": false,
 "label": "Official Denial",
 "note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-1f3b80a632",
 "edgeLabel": "Prosecution of a former NSA employee for compromising NSA operations",
-"family": null,
+"family": "documents",
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

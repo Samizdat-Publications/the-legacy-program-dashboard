@@ -71,13 +71,13 @@
 "direction": "in",
 "edgeId": "e-2952deb718",
 "edgeLabel": "Switches off the only external inspector of a contractor SAP facility",
-"family": null,
+"family": "analysis",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-02-12",
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -102,13 +102,13 @@
 "direction": "in",
 "edgeId": "e-b85dfd7793",
 "edgeLabel": "relieves DCSA of NISP industrial security oversight for a DoD SAP",
-"family": null,
+"family": "conduct",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acted_against",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -118,7 +118,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "was the target of action by"
 },
 {
 "claimTier": 1,
@@ -128,13 +128,13 @@
 "direction": "in",
 "edgeId": "e-6fe42b1d48",
 "edgeLabel": "relieves it of NISP oversight",
-"family": null,
+"family": "analysis",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for 'security oversight of the NISP as the DoD CSO', and then (b)(3) removes it: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" So the effect is not that oversight passes to another body but that the cognizant security office's oversight function ceases for that programme, on the written approval of one of two named officials.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -154,13 +154,13 @@
 "direction": "out",
 "edgeId": "e-cdf8b6260f",
 "edgeLabel": "Designated the DoD Cognizant Security Office by regulation",
-"family": null,
+"family": "law",
 "id": "cfr-32-117",
 "l0": false,
 "label": "32 CFR Part 117 - NISPOM Rule",
 "note": "32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -180,13 +180,13 @@
 "direction": "in",
 "edgeId": "e-b88105dae1",
 "edgeLabel": "relieves it of oversight",
-"family": null,
+"family": "law",
 "id": "dodm-5205-07-series",
 "l0": false,
 "label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "note": "The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-18",
@@ -201,7 +201,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -211,13 +211,13 @@
 "direction": "out",
 "edgeId": "e-384b6b43d6",
 "edgeLabel": "GAO found DoD could not assure adequate industrial security oversight - and excluded SAPs",
-"family": null,
+"family": "oversight",
 "id": "gao-04-332",
 "l0": false,
 "label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "note": "GAO-04-332 title states the finding; its footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2004-03-03",
@@ -227,7 +227,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "was investigated by"
 }
 ],
 "coords": null,

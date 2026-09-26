@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-3f0fc0d1e2",
 "edgeLabel": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
-"family": null,
+"family": "analysis",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Smith's 1952 report recommends 'acquisition of as much as possible of this technology'; Condign's own paragraph 7, 'Related Military Applications', is redacted in full under the defence exemption. Reasoning: both are government documents whose exploitation sections are the point at which the record becomes either explicit or withheld.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2005-08-11",
@@ -68,7 +68,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -78,13 +78,13 @@
 "direction": "out",
 "edgeId": "e-63e8053c9f",
 "edgeLabel": "Project Magnet records held at LAC",
-"family": null,
+"family": "custody",
 "id": "lac-ufo-collection",
 "l0": false,
 "label": "Library and Archives Canada - UFO records collection",
 "note": "LAC cites the Project Magnet and Second Story files as RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2005-08-11",
@@ -94,7 +94,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -104,13 +104,13 @@
 "direction": "in",
 "edgeId": "e-af568a786a",
 "edgeLabel": "author of the request that created Project Magnet",
-"family": null,
+"family": "role",
 "id": "wilbert-smith",
 "l0": false,
 "label": "Wilbert Brockhouse Smith",
 "note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2005-08-11",
@@ -120,7 +120,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 }
 ],
 "coords": null,

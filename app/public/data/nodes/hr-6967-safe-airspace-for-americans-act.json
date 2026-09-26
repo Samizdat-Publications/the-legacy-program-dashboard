@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-6c1e565363",
 "edgeLabel": "Republican co-lead",
-"family": null,
+"family": "law",
 "id": "glenn-grothman",
 "l0": false,
 "label": "Glenn S. Grothman",
 "note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-12",
@@ -45,7 +45,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "was sponsored by"
 },
 {
 "claimTier": 1,
@@ -55,13 +55,13 @@
 "direction": "in",
 "edgeId": "e-d83ca4e935",
 "edgeLabel": "Sponsor",
-"family": null,
+"family": "law",
 "id": "robert-garcia",
 "l0": false,
 "label": "Robert Garcia",
 "note": "Introduced 11 January 2024, the day before the ICIG briefing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-11",
@@ -76,7 +76,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "was sponsored by"
 },
 {
 "claimTier": 3,
@@ -86,13 +86,13 @@
 "direction": "in",
 "edgeId": "e-9e4e6b2505",
 "edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
-"family": null,
+"family": "place-time",
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -107,7 +107,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "followed from"
 }
 ],
 "coords": null,

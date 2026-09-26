@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-4c50b81d50",
 "edgeLabel": "The Board must produce the Plan under Sec. 9009(c)(3)",
-"family": null,
+"family": "organisation",
 "id": "controlled-disclosure-campaign-plan",
 "l0": false,
 "label": "Controlled Disclosure Campaign Plan",
 "note": "The Controlled Disclosure Campaign Plan exists only as a Review Board product; removing the Board removed the Plan.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-d5effe5db8",
 "edgeLabel": "The Board was designed to bypass the intelligence committees",
-"family": null,
+"family": "denial",
 "id": "house-intelligence",
 "l0": false,
 "label": "House Permanent Select Committee on Intelligence",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": null
+"verb": "leaves out"
 },
 {
 "claimTier": 2,
@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-233b7b64d2",
 "edgeLabel": "Named as demanding removal of the Board's subpoena power",
-"family": null,
+"family": "denial",
 "id": "mike-turner",
 "l0": false,
 "label": "Michael R. Turner",
 "note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-11-27",
@@ -114,7 +114,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -124,13 +124,13 @@
 "direction": "in",
 "edgeId": "e-575f3f4afc",
 "edgeLabel": "Postponement authority returned to the original classifier",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -145,7 +145,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -155,13 +155,13 @@
 "direction": "in",
 "edgeId": "e-370c2b6f2c",
 "edgeLabel": "Secs. 9007-9009 create the Board as an independent agency",
-"family": null,
+"family": "law",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The Act's enforcement rests entirely on the Review Board: it orders disclosure absent clear and convincing evidence and examines recovered material under Sec. 9010(b).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -171,7 +171,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was created by"
 }
 ],
 "coords": null,

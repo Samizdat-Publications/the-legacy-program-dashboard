@@ -130,13 +130,13 @@
 "direction": "out",
 "edgeId": "e-b55f45c723",
 "edgeLabel": "Drew the non-human biologics answer and the unlawful-withholding question under oath",
-"family": null,
+"family": "oversight",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The two most consequential exchanges of the 2023 hearing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -146,7 +146,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -156,13 +156,13 @@
 "direction": "out",
 "edgeId": "e-f7d32f769c",
 "edgeLabel": "Elicited the nonhuman biologics answer and the offer of a witness list",
-"family": null,
+"family": "oversight",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Mace drew the biologics testimony and Grusch's offer of 'a specific cooperative and hostile witness list of specific individuals' to be provided after the hearing. The list has never surfaced publicly.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -172,7 +172,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -182,13 +182,13 @@
 "direction": "out",
 "edgeId": "e-7dbb2509ac",
 "edgeLabel": "presiding chair; entered Immaculate Constellation into the record",
-"family": null,
+"family": "oversight",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -203,7 +203,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -213,13 +213,13 @@
 "direction": "out",
 "edgeId": "e-213bf86c7d",
 "edgeLabel": "Chairwoman; presided over the 2024 joint hearing",
-"family": null,
+"family": "role",
 "id": "hoc-subcommittee-cybersecurity-it",
 "l0": false,
 "label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
 "note": "Mace chaired the joint hearing and moved the Immaculate Constellation document into the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -229,7 +229,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -239,13 +239,13 @@
 "direction": "out",
 "edgeId": "e-2d118c74de",
 "edgeLabel": "Cosponsor",
-"family": null,
+"family": "law",
 "id": "hr-10111-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
 "note": "Congress.gov cosponsor record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-12",
@@ -255,7 +255,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -265,13 +265,13 @@
 "direction": "out",
 "edgeId": "e-f69f1f6c28",
 "edgeLabel": "Mace entered the twelve-page report into the Congressional Record",
-"family": null,
+"family": "testimony",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Mace announced from the dais that committee staff had asked her to enter the document; it appears in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -281,7 +281,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -291,13 +291,13 @@
 "direction": "out",
 "edgeId": "e-9914bcba52",
 "edgeLabel": "Moved the document into the Congressional Record from the chair",
-"family": null,
+"family": "testimony",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Index of Documents: 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -307,7 +307,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -317,13 +317,13 @@
 "direction": "out",
 "edgeId": "e-210bf9b041",
 "edgeLabel": "Member of Congress characterizes the records leak as a discrediting operation",
-"family": null,
+"family": "denial",
 "id": "ken-klippenstein",
 "l0": false,
 "label": "Ken Klippenstein",
 "note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -333,7 +333,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -343,13 +343,13 @@
 "direction": "out",
 "edgeId": "e-40aa564242",
 "edgeLabel": "Mace elicited the only public description of a distributed contractor custody model",
-"family": null,
+"family": "oversight",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The exchange converts the allegation from a claim about one company into a described system of allocation by technical domain across multiple primes.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -359,7 +359,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -369,13 +369,13 @@
 "direction": "in",
 "edgeId": "e-c6eb1a14f2",
 "edgeLabel": "Immaculate Constellation document hosted on Mace's House site",
-"family": null,
+"family": "media",
 "id": "public-substack",
 "l0": false,
 "label": "Public",
 "note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -395,7 +395,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was reported on by"
 },
 {
 "claimTier": 1,
@@ -405,13 +405,13 @@
 "direction": "out",
 "edgeId": "e-a08330f2e8",
 "edgeLabel": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
-"family": null,
+"family": "other",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-22",
@@ -436,7 +436,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -446,13 +446,13 @@
 "direction": "out",
 "edgeId": "e-a3adff20ca",
 "edgeLabel": "Stated the compartmentation trap in a public hearing",
-"family": null,
+"family": "testimony",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "'only certain people know the name of the program, and if you do not know it, you cannot get the information.' This is the operational definition of an unacknowledged program from the oversight side.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -462,7 +462,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "made claims about"
 }
 ],
 "date": "2024-11-13",

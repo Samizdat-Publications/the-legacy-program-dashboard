@@ -63,13 +63,13 @@
 "direction": "out",
 "edgeId": "e-84f49eef40",
 "edgeLabel": "Arnold's case entered the official file series from the outset",
-"family": null,
+"family": "testimony",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -84,7 +84,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -94,13 +94,13 @@
 "direction": "out",
 "edgeId": "e-5f7f5d2b52",
 "edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
-"family": null,
+"family": "place-time",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -115,7 +115,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "led to"
 }
 ],
 "date": "1947-06-24",

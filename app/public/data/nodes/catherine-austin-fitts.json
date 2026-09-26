@@ -54,13 +54,13 @@
 "direction": "out",
 "edgeId": "e-ada7c1a068",
 "edgeLabel": "Co-author; originated the inquiry",
-"family": null,
+"family": "documents",
 "id": "skidmore-fitts-report",
 "l0": false,
 "label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "note": "Fitts co-authored the summary report and the Missing Money archive that hosts it and its supporting documentation. Attested by the report and the Solari archive.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-09-01",
@@ -70,7 +70,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -80,13 +80,13 @@
 "direction": "out",
 "edgeId": "e-587347e0ce",
 "edgeLabel": "Founder and president",
-"family": null,
+"family": "role",
 "id": "solari",
 "l0": false,
 "label": "Solari, Inc. / The Solari Report",
 "note": "Fitts is founder and president of Solari, Inc., publisher of the Solari Report and the Missing Money archive. Attested by Solari's own biography page.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -96,7 +96,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 }
 ],
 "date": "2017-09-01",

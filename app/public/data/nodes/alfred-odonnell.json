@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-4ae2da407f",
 "edgeLabel": "O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada",
-"family": null,
+"family": "role",
 "id": "eg-and-g",
 "l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-02-28",
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -98,13 +98,13 @@
 "direction": "out",
 "edgeId": "e-3f73dec8a3",
 "edgeLabel": "O'Donnell told Knapp a recovered saucer and a live being existed",
-"family": null,
+"family": "testimony",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Knapp reported the account publicly in February 2023 and named O'Donnell to Congress under oath in September 2025. The promised deathbed recording has never surfaced.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-02-28",
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "passed an account to"
 }
 ],
 "date": "2023-02-28",

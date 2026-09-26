@@ -2916,13 +2916,13 @@ _APP_NODES_CACHE = None
 
 
 def _preds_doc():
-    """research/_predicates.json's `edges` map, or the poisoned stand-in."""
+    """research/_predicates.json's `predicates` map, or the poisoned stand-in."""
     if _PREDS_OVERRIDE is not None:
         return _PREDS_OVERRIDE
     if not os.path.exists(PREDICATES):
         return None
     with open(PREDICATES, encoding="utf-8") as fh:
-        return (json.load(fh) or {}).get("edges")
+        return (json.load(fh) or {}).get("predicates")
 
 
 def _pred_vocab():

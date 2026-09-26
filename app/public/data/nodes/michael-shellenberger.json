@@ -113,13 +113,13 @@
 "direction": "out",
 "edgeId": "e-80741cd484",
 "edgeLabel": "Testified and submitted the report at the 13 November 2024 hearing",
-"family": null,
+"family": "testimony",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The hearing is the fixed, dateable event at which the Immaculate Constellation document entered the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-14",
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -139,13 +139,13 @@
 "direction": "out",
 "edgeId": "e-0c01b94255",
 "edgeLabel": "sworn witness; delivered the Immaculate Constellation document",
-"family": null,
+"family": "testimony",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 2,
@@ -180,13 +180,13 @@
 "direction": "out",
 "edgeId": "e-aaba882894",
 "edgeLabel": "Brought the alleged USAP into the congressional record",
-"family": null,
+"family": "testimony",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -211,7 +211,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -221,13 +221,13 @@
 "direction": "out",
 "edgeId": "e-68bb67dde6",
 "edgeLabel": "Delivered the document to Congress on the morning of the hearing and testified to its contents",
-"family": null,
+"family": "testimony",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -242,7 +242,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -252,13 +252,13 @@
 "direction": "in",
 "edgeId": "e-8f9b85c547",
 "edgeLabel": "Michels interviewed Shellenberger the day after the hearing",
-"family": null,
+"family": "media",
 "id": "jesse-michels",
 "l0": false,
 "label": "Jesse Michels",
 "note": "Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the first long-form venue for Shellenberger's account of the document.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-14",
@@ -268,7 +268,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was interviewed by"
 }
 ],
 "date": "2024-11-13",

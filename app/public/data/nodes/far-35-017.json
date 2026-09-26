@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-f08517acb3",
 "edgeLabel": "The letter's legal theory rests on the FFRDC access provisions",
-"family": null,
+"family": "documents",
 "id": "burlison-mitre-letter-2026",
 "l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "Burlison argues FFRDCs 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive' and therefore cannot be private vaults for federal records.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-29",
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -55,13 +55,13 @@
 "direction": "in",
 "edgeId": "e-fb07405e7c",
 "edgeLabel": "FAR 35.017 is the regulation that creates the seam",
-"family": null,
+"family": "law",
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "The subpart grants FFRDCs access to government and supplier data beyond a normal contractual relationship while requiring disclosure only to the sponsoring agency.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-15",
@@ -71,7 +71,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "created"
 }
 ],
 "coords": null,

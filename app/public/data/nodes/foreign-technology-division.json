@@ -47,13 +47,13 @@
 "direction": "in",
 "edgeId": "e-4cc73b994d",
 "edgeLabel": "ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission",
-"family": null,
+"family": "organisation",
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "The lineage record says ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, with the mission and resources absorbed by the newly constituted Foreign Technology Division, so this is a succession rather than the renaming the board's prose describes.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-10",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-c39e3965b6",
 "edgeLabel": "Stationed at Wright-Patterson AFB, Ohio",
-"family": null,
+"family": "place-time",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "AFR 80-17 names the station in the assignment itself: 'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1966-09-19",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-d3dfb0aa44",
 "edgeLabel": "Same Wright-Patterson lineage; NASIC is the later name",
-"family": null,
+"family": "organisation",
 "id": "nasic",
 "l0": false,
 "label": "National Air and Space Intelligence Center",
 "note": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-10",
@@ -115,7 +115,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -125,13 +125,13 @@
 "direction": "out",
 "edgeId": "e-f254bc0f90",
 "edgeLabel": "Held the Blue Book effort by regulation from 19 September 1966",
-"family": null,
+"family": "organisation",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1966-09-19",
@@ -141,7 +141,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -151,13 +151,13 @@
 "direction": "out",
 "edgeId": "e-99113b8b3c",
 "edgeLabel": "Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme",
-"family": null,
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1966-09-19",
@@ -167,7 +167,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 }
 ],
 "coords": null,

@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-ebf9ab878f",
 "edgeLabel": "Adversarial cross-examination that fixed the document's evidentiary status",
-"family": null,
+"family": "oversight",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Higgins established that the withholding of source identities was a choice, not an absence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 }
 ],
 "date": "2024-11-13",

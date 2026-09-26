@@ -68,13 +68,13 @@
 "direction": "out",
 "edgeId": "e-834c8e64c5",
 "edgeLabel": "founded and chaired COMETA",
-"family": null,
+"family": "role",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1999-07-01",
@@ -84,7 +84,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 }
 ],
 "date": "1999-07-01",

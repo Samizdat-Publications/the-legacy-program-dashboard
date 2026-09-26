@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-90e45bbece",
 "edgeLabel": "Emerged describing 'a concerted effort to conceal as much information as possible'",
-"family": null,
+"family": "testimony",
 "id": "andy-ogles",
 "l0": false,
 "label": "Andrew Ogles",
 "note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-12",
@@ -51,7 +51,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-ed03cf77b9",
 "edgeLabel": "Caucus members attended the closed ICIG briefing",
-"family": null,
+"family": "testimony",
 "id": "congressional-uap-caucus",
 "l0": true,
 "label": "Congressional UAP Caucus",
 "note": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-13",
@@ -82,7 +82,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-c1690ad5b0",
 "edgeLabel": "Emerged saying he did not get the answers he hoped for",
-"family": null,
+"family": "testimony",
 "id": "raja-krishnamoorthi",
 "l0": false,
 "label": "Subramanian Raja Krishnamoorthi",
 "note": "Minority-side confirmation that the briefing produced no substance.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-12",
@@ -108,7 +108,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -118,13 +118,13 @@
 "direction": "in",
 "edgeId": "e-5ba30d802c",
 "edgeLabel": "Briefed House Oversight members for about ninety minutes",
-"family": null,
+"family": "testimony",
 "id": "thomas-monheim",
 "l0": false,
 "label": "Thomas A. Monheim",
 "note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-12",
@@ -134,7 +134,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "heard testimony from"
 }
 ],
 "coords": null,

@@ -64,13 +64,13 @@
 "direction": "out",
 "edgeId": "e-daa0a085a2",
 "edgeLabel": "Chaired SASC for the FY2026 authorization",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -85,7 +85,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -95,13 +95,13 @@
 "direction": "out",
 "edgeId": "e-6f13dadfb7",
 "edgeLabel": "Reported an FY2027 NDAA containing no UAP provisions",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2027-s4784",
 "l0": false,
 "label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
 "note": "S. 4784 as reported returns zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-15",
@@ -111,7 +111,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "out",
 "edgeId": "e-c41c35e467",
 "edgeLabel": "seat 1 of 12 - Chairman, Senate Armed Services",
-"family": null,
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -152,7 +152,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2026-06-15",

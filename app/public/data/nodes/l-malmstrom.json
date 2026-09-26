@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-99eacc0210",
 "edgeLabel": "The whole release concerns Malmstrom AFB, Montana",
-"family": null,
+"family": "documents",
 "id": "doc-341-smw-history-1967",
 "l0": false,
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "The whole release concerns Malmstrom AFB, Montana.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-e78fa5072e",
 "edgeLabel": "The log is the 24th NORAD Region's at Malmstrom AFB",
-"family": null,
+"family": "place-time",
 "id": "doc-norad-24th-log-1975",
 "l0": false,
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "Its own heading reads '24th NORAD Region Senior Directors Log (Malmstrom AFB, Montana)'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-2ed9f04b7e",
 "edgeLabel": "Communications officer, 28th Air Division, Malmstrom, 1967",
-"family": null,
+"family": "role",
 "id": "dwynne-arneson",
 "l0": false,
 "label": "Lt Col Dwynne Arneson",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-09-27",
@@ -109,7 +109,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -119,13 +119,13 @@
 "direction": "in",
 "edgeId": "e-873e0f19ed",
 "edgeLabel": "Echo Flight crew commander at Malmstrom",
-"family": null,
+"family": "role",
 "id": "eric-carlson",
 "l0": false,
 "label": "Capt. Eric D. Carlson",
 "note": "Attested by his son and by researchers, and not disputed by anyone, but not documented in any opened record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-06-01",
@@ -140,7 +140,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -150,13 +150,13 @@
 "direction": "in",
 "edgeId": "e-e6285bda4b",
 "edgeLabel": "Oscar Flight crew commander at Malmstrom",
-"family": null,
+"family": "role",
 "id": "frederick-meiwald",
 "l0": false,
 "label": "Col. Frederick Meiwald",
 "note": "As claimed; no service record has been opened.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -166,7 +166,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -176,13 +176,13 @@
 "direction": "in",
 "edgeId": "e-8417aebd48",
 "edgeLabel": "Thirteen days of reports from this wing's Minuteman launch facilities",
-"family": null,
+"family": "place-time",
 "id": "malmstrom-1975",
 "l0": false,
 "label": "Malmstrom missile-field overflights, 7 to 19 November 1975",
 "note": "The 24th NORAD Region Senior Director's Log is kept at Malmstrom and names its missile sites throughout.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -192,7 +192,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -202,13 +202,13 @@
 "direction": "in",
 "edgeId": "e-cc4f938f14",
 "edgeLabel": "The documented shutdown was of this wing's Echo Flight",
-"family": null,
+"family": "place-time",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The 341st Strategic Missile Wing history records the shutdown at Malmstrom AFB by name.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -218,7 +218,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 2,
@@ -228,13 +228,13 @@
 "direction": "in",
 "edgeId": "e-b3282c6ccc",
 "edgeLabel": "The claimed Oscar Flight capsule is in this wing's field",
-"family": null,
+"family": "place-time",
 "id": "malmstrom-oscar-flight-1967",
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "Tier 2: the claim places it here, and the released unit history for this wing does not mention Oscar Flight at all.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -249,7 +249,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 2,
@@ -259,13 +259,13 @@
 "direction": "in",
 "edgeId": "e-5783d53f40",
 "edgeLabel": "A nuclear weapons installation inside the directive's stated scope",
-"family": null,
+"family": "organisation",
 "id": "prp-nuclear-weapon",
 "l0": false,
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1993-05-25",
@@ -275,7 +275,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 2,
@@ -285,13 +285,13 @@
 "direction": "in",
 "edgeId": "e-4f0c45bdc3",
 "edgeLabel": "ICBM combat targeting team commander at Malmstrom, 1965 to 1967",
-"family": null,
+"family": "role",
 "id": "robert-jamison",
 "l0": false,
 "label": "Capt. Robert Jamison",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-09-27",
@@ -301,7 +301,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -311,13 +311,13 @@
 "direction": "in",
 "edgeId": "e-ec622db182",
 "edgeLabel": "Malmstrom AFB and its Minuteman fields were among the installations overflown",
-"family": null,
+"family": "place-time",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-11-08",
@@ -327,7 +327,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -337,13 +337,13 @@
 "direction": "out",
 "edgeId": "e-7b4398d0ae",
 "edgeLabel": "SAC installation; 341st Strategic Missile Wing",
-"family": null,
+"family": "organisation",
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "SAC Headquarters called in OOAMA support for the Echo Flight engineering analysis within hours on 16 March 1967; the 1975 NORAD log is largely a record of calls from the 341st Strategic Air Command Post.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-06-14",
@@ -358,7 +358,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 2,
@@ -368,13 +368,13 @@
 "direction": "in",
 "edgeId": "e-0f6b45b11d",
 "edgeLabel": "Echo Flight deputy crew commander at Malmstrom",
-"family": null,
+"family": "role",
 "id": "walter-figel",
 "l0": false,
 "label": "Col. Walter Figel Jr.",
 "note": "Attested by parties on both sides of the dispute; the released unit history names no launch officer.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-06-01",
@@ -389,7 +389,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "had in a post"
 }
 ],
 "coords": null,

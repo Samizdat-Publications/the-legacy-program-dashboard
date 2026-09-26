@@ -50,13 +50,13 @@
 "direction": "out",
 "edgeId": "e-71eff4f014",
 "edgeLabel": "author of record on the DIA list, both versions",
-"family": null,
+"family": "documents",
 "id": "dird-state-of-the-art-and-evolution",
 "l0": false,
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "note": "The DIA letter lists this paper twice, items 37 and 38, both credited to J Albertine of Directed Technologies: one formerly classified SECRET//NOFORN, one unclassified. The board node is labelled with the initial because no source consulted confirms the given name; the probable identification with John R. Albertine of the Navy High Energy Laser Program Office is carried as a tier-3 claim on the person node.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -86,7 +86,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2010-01-01",

@@ -42,13 +42,13 @@
 "direction": "in",
 "edgeId": "e-878ce88754",
 "edgeLabel": "Establishes the FFRDC arbitration thesis",
-"family": null,
+"family": "analysis",
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's central structural claim: FFRDCs let the government vest programs outside the USG while retaining control of materials and data, and arbitrate what defense contractors are told about UFO programs.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -58,7 +58,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -68,13 +68,13 @@
 "direction": "in",
 "edgeId": "e-0c01371afd",
 "edgeLabel": "The 1994 SAP restructuring vested control in a quasi-industry group",
-"family": null,
+"family": "analysis",
 "id": "manhattan-project-2",
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Gerb argues the 1994 restructuring of the SAP enterprise permanently vested the portfolio in a quasi-government and industry control group - the point at which the FFRDC and contractor layer becomes the locus of control rather than the government.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-01",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-34181e2d17",
 "edgeLabel": "MITRE is the exemplar instance of the mechanism",
-"family": null,
+"family": "analysis",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -120,7 +120,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -130,13 +130,13 @@
 "direction": "in",
 "edgeId": "e-fa12bdfb8c",
 "edgeLabel": "Dedicated segment 'FFRDCs, U-Arcs, and GOCOs' at 17:00",
-"family": null,
+"family": "analysis",
 "id": "newsnation-reality-check",
 "l0": false,
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-04",
@@ -146,7 +146,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "has as an instance"
 }
 ],
 "coords": null,

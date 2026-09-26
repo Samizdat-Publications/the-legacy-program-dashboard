@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-a6290cefb3",
 "edgeLabel": "Chairman of the subcommittee at the 2023 hearing",
-"family": null,
+"family": "role",
 "id": "glenn-grothman",
 "l0": false,
 "label": "Glenn S. Grothman",
 "note": "Grothman gavelled the 26 July 2023 hearing to order and waived six non-members onto the subcommittee.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -39,7 +39,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -49,13 +49,13 @@
 "direction": "out",
 "edgeId": "e-80867b2f19",
 "edgeLabel": "Held the 26 July 2023 hearing",
-"family": null,
+"family": "oversight",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Serial No. 118-53, 2154 Rayburn.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -70,7 +70,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -80,13 +80,13 @@
 "direction": "in",
 "edgeId": "e-ec52b4f71b",
 "edgeLabel": "Parent committee of the subcommittee that held the founding UAP hearing",
-"family": null,
+"family": "organisation",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The Subcommittee on National Security, the Border, and Foreign Affairs is a standing subcommittee of the Committee on Oversight and Accountability; the printed hearing record carries both rosters.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -96,7 +96,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -106,13 +106,13 @@
 "direction": "in",
 "edgeId": "e-9e8c3cf991",
 "edgeLabel": "Ranking Member at the 2023 hearing",
-"family": null,
+"family": "role",
 "id": "robert-garcia",
 "l0": false,
 "label": "Robert Garcia",
 "note": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -122,7 +122,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 }
 ],
 "coords": null,

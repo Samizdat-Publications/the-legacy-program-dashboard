@@ -77,13 +77,13 @@
 "direction": "in",
 "edgeId": "e-dc9cc3b549",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
-"family": null,
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -98,7 +98,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -108,13 +108,13 @@
 "direction": "in",
 "edgeId": "e-87d6617929",
 "edgeLabel": "DIRD",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -124,7 +124,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -134,13 +134,13 @@
 "direction": "in",
 "edgeId": "e-06a2247f75",
 "edgeLabel": "series member",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 21 November 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -155,7 +155,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 3,
@@ -165,13 +165,13 @@
 "direction": "in",
 "edgeId": "e-e818fd4c1b",
 "edgeLabel": "Same mechanism, two documents, forty-three years apart, neither exotic",
-"family": null,
+"family": "analysis",
 "id": "king-patent-mhd",
 "l0": false,
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "note": "STATED INFERENCE OF SIMILARITY AND NOTHING MORE. Nothing joins these two documents to each other: the DIRD does not cite the patent and the patent predates it by forty-three years. The edge exists so the strand's comparison is visible, and its note must be read before the line is: a private 1964 filing and a 2010 Lockheed Martin survey describe the same physics and neither contains the word antigravity.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1967-05-30",
@@ -186,7 +186,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -196,13 +196,13 @@
 "direction": "out",
 "edgeId": "e-c7e57363d4",
 "edgeLabel": "author's employer at time of writing (Skunk Works)",
-"family": null,
+"family": "documents",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -237,7 +237,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -247,13 +247,13 @@
 "direction": "out",
 "edgeId": "e-3072445046",
 "edgeLabel": "authored by",
-"family": null,
+"family": "documents",
 "id": "sergey-macheret",
 "l0": false,
 "label": "Sergey O. Macheret",
 "note": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -283,7 +283,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -293,13 +293,13 @@
 "direction": "in",
 "edgeId": "e-93873f5cbd",
 "edgeLabel": "The built vessel and the government survey describe the same physics",
-"family": null,
+"family": "analysis",
 "id": "yamato-1",
 "l0": false,
 "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
 "note": "STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1995-04",
@@ -314,7 +314,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

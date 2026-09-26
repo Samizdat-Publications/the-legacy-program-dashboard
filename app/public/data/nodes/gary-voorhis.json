@@ -53,13 +53,13 @@
 "direction": "in",
 "edgeId": "e-6cb10296fa",
 "edgeLabel": "Independent shipmate corroboration of the post-encounter data collection",
-"family": null,
+"family": "testimony",
 "id": "kevin-day",
 "l0": false,
 "label": "Kevin Day",
 "note": "Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "corroborated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -69,7 +69,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "is corroborated by"
 },
 {
 "claimTier": 3,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-6df1206402",
 "edgeLabel": "Voorhis describes removal or wiping of Princeton recording media",
-"family": null,
+"family": "testimony",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-13",
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 3,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-73d1ba7279",
 "edgeLabel": "Says recording media were surrendered or wiped after 14 Nov 2004",
-"family": null,
+"family": "testimony",
 "id": "uss-princeton",
 "l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-14",
@@ -121,7 +121,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-1c7770bb23",
 "edgeLabel": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
-"family": null,
+"family": "role",
 "id": "uss-princeton",
 "l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "Voorhis's technical billet placed him at the node where the encounter's recorded machine data physically lived.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-14",
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2004-11-15",

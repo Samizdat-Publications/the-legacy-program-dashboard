@@ -53,13 +53,13 @@
 "direction": "in",
 "edgeId": "e-e5de18fd08",
 "edgeLabel": "Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee",
-"family": null,
+"family": "money",
 "id": "afswp",
 "l0": false,
 "label": "Armed Forces Special Weapons Project",
 "note": "The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "funded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1947-03-18",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": null
+"verb": "funded"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "in",
 "edgeId": "e-02d95526ad",
 "edgeLabel": "The instrument that created the Commission",
-"family": null,
+"family": "law",
 "id": "atomic-energy-act-1946",
 "l0": false,
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-08-01",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "in",
 "edgeId": "e-117b277029",
 "edgeLabel": "Ties removal from the Restricted Data category to a formal procedure",
-"family": null,
+"family": "law",
 "id": "atomic-energy-act-1954",
 "l0": false,
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "note": "Where the 1946 Act left declassification to open-ended Commission discretion, the 1954 Act routes it through section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -121,7 +121,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-771cf1b726",
 "edgeLabel": "Abolished 1974; functions passed through ERDA to the Department of Energy",
-"family": null,
+"family": "organisation",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1974-10-11",
@@ -152,7 +152,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -162,13 +162,13 @@
 "direction": "in",
 "edgeId": "e-6a07853157",
 "edgeLabel": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
-"family": null,
+"family": "custody",
 "id": "dtra",
 "l0": false,
 "label": "Defense Threat Reduction Agency",
 "note": "DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-12-14",
@@ -178,7 +178,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -188,13 +188,13 @@
 "direction": "in",
 "edgeId": "e-703923a5d8",
 "edgeLabel": "Chairman of the Commission",
-"family": null,
+"family": "role",
 "id": "glenn-t-seaborg",
 "l0": false,
 "label": "Glenn T. Seaborg",
 "note": "Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1970-06-01",
@@ -204,7 +204,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -214,13 +214,13 @@
 "direction": "out",
 "edgeId": "e-40e7f6129f",
 "edgeLabel": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
-"family": null,
+"family": "organisation",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-06-25",
@@ -230,7 +230,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -240,13 +240,13 @@
 "direction": "out",
 "edgeId": "e-9d918d668e",
 "edgeLabel": "Area 51 was added to the Nevada Test Site by the Commission",
-"family": null,
+"family": "organisation",
 "id": "l-nevada-test-site",
 "l0": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-06-25",
@@ -256,7 +256,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -266,13 +266,13 @@
 "direction": "in",
 "edgeId": "e-10b12a39da",
 "edgeLabel": "Member, Military Liaison Committee to the AEC",
-"family": null,
+"family": "role",
 "id": "leslie-r-groves",
 "l0": false,
 "label": "Lt. Gen. Leslie R. Groves",
 "note": "He joined the Military Liaison Committee on 31 January 1947, four weeks before taking AFSWP, so the same officer sat on both sides of the military-civil split of the atomic programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2002-01-01",
@@ -282,7 +282,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -292,13 +292,13 @@
 "direction": "out",
 "edgeId": "e-a1f38a4299",
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
-"family": null,
+"family": "custody",
 "id": "manhattan-project-2",
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-08-01",
@@ -308,7 +308,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "received records or material from"
 }
 ],
 "coords": null,

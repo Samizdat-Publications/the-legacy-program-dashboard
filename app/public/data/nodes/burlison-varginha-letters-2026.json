@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-3e48075fa9",
 "edgeLabel": "author",
-"family": null,
+"family": "documents",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Letters to CIA and FBI requesting records on the January 1996 Varginha/Campinas incident in Brazil.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-08",
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

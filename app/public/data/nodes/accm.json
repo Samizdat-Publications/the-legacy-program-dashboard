@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-fe7fe85868",
 "edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
-"family": null,
+"family": "analysis",
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-02914ce5fc",
 "edgeLabel": "",
-"family": null,
+"family": "analysis",
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on 'special access program' or 'controlled access program'. A measure that is neither falls outside all four.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -100,7 +100,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 3,
@@ -110,13 +110,13 @@
 "direction": "out",
 "edgeId": "e-56a4443e8f",
 "edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
-"family": null,
+"family": "law",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -131,7 +131,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is governed by"
 }
 ],
 "coords": null,

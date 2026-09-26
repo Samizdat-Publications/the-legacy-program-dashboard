@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-06746fc4a7",
 "edgeLabel": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
-"family": null,
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-07-26",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-5dd3289eab",
 "edgeLabel": "Boeing contractors were the observers in the 2003 Vandenberg red square incident",
-"family": null,
+"family": "testimony",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-4d2812e764",
 "edgeLabel": "Named in his own self-stated client list, 2000",
-"family": null,
+"family": "testimony",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -108,7 +108,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -118,13 +118,13 @@
 "direction": "out",
 "edgeId": "e-fc70cccfdd",
 "edgeLabel": "Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records",
-"family": null,
+"family": "organisation",
 "id": "mcdonnell-douglas",
 "l0": false,
 "label": "McDonnell Douglas Corporation",
 "note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -134,7 +134,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "succeeded"
 }
 ],
 "coords": null,

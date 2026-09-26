@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-96bd55455b",
 "edgeLabel": "Named respondent; Reid removed from post by April 2022",
-"family": null,
+"family": "oversight",
 "id": "garry-reid",
 "l0": false,
 "label": "Garry P. Reid",
 "note": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-04-13",
@@ -51,7 +51,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 2,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-c5e7fce667",
 "edgeLabel": "Filed May 2021 naming Reid, Gough and Tipton",
-"family": null,
+"family": "documents",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Alleged 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats'. No public adjudication has been released.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-03-01",
@@ -77,7 +77,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -87,13 +87,13 @@
 "direction": "out",
 "edgeId": "e-5ea9ac2007",
 "edgeLabel": "Named respondent",
-"family": null,
+"family": "documents",
 "id": "neill-tipton",
 "l0": false,
 "label": "Neill Tipton",
 "note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-03-01",
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 2,
@@ -113,13 +113,13 @@
 "direction": "out",
 "edgeId": "e-30674442cf",
 "edgeLabel": "Named respondent",
-"family": null,
+"family": "documents",
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-03-01",
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

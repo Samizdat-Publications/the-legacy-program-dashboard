@@ -89,13 +89,13 @@
 "direction": "in",
 "edgeId": "e-7c52bb59b4",
 "edgeLabel": "Still cited by regulation, no longer defined by the directive it cites",
-"family": null,
+"family": "denial",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "32 CFR 117.6(b)(3) conditions the carve-out on approval 'in accordance with DoDD 5205.07', but the 12 September 2024 reissue of that directive contains no definition of carve-out.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -110,7 +110,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "leaves out"
 },
 {
 "claimTier": 1,
@@ -120,13 +120,13 @@
 "direction": "out",
 "edgeId": "e-9d813a968b",
 "edgeLabel": "Current charter of the DoD SAP enterprise",
-"family": null,
+"family": "law",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Effective 12 September 2024, incorporating the 11 July 2023 SAP Enterprise Reform implementation guidance.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-09-12",
@@ -136,7 +136,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 2,
@@ -146,13 +146,13 @@
 "direction": "in",
 "edgeId": "e-f7e46d3eb7",
 "edgeLabel": "The later directive re-established a body of the same name",
-"family": null,
+"family": "organisation",
 "id": "dod-sap-reform-1994",
 "l0": false,
 "label": "DoD special access programme governance change, 5 January 1994",
 "note": "The 1994 bulletin and the 1994 commission report both describe a SAPOC chaired by the Deputy Secretary of Defense with an annual validation function, which is the function the later directive and instruction assign.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-11-01",
@@ -162,7 +162,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -172,13 +172,13 @@
 "direction": "out",
 "edgeId": "e-eaa63df530",
 "edgeLabel": "12 Sep 2024 reissuance cancels the 1 Jul 2010 directive",
-"family": null,
+"family": "organisation",
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -188,7 +188,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -198,13 +198,13 @@
 "direction": "in",
 "edgeId": "e-a47bf0a5fe",
 "edgeLabel": "",
-"family": null,
+"family": "law",
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "Same policy instrument, two issuances, and the programmatic relation is what CHANGED between them - which is not the same fact as the supersession recorded on the temporal edge. The 2010 directive's glossary defines 'carve-out' as 'a provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program oversight', and its Enclosure 2 para 5 restates the statutory waiver in policy. A full-text pass of the 12 September 2024 reissue finds no occurrence of 'carve-out', 'waived' or 'unacknowledged' at all. The vocabulary the earlier directive defined is simply absent from the later one. Note what that does and does not establish: 32 CFR 117.6(b)(3) still carries the carve-out in codified regulation, and still points at DoDD 5205.07 by name, so the mechanism did not end when the words left the directive.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "amended",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -219,7 +219,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "amended"
 },
 {
 "claimTier": 1,
@@ -229,13 +229,13 @@
 "direction": "out",
 "edgeId": "e-67865993dd",
 "edgeLabel": "Cancelled and replaced the 2010 directive on 12 September 2024",
-"family": null,
+"family": "organisation",
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "The 2024 reissue cancels DoDD 5205.07 of 1 July 2010 as amended and incorporates the 11 July 2023 Deputy Secretary memorandum on SAP Enterprise Reform.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-09-12",
@@ -245,7 +245,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -255,13 +255,13 @@
 "direction": "out",
 "edgeId": "e-fadcb75947",
 "edgeLabel": "The 2024 reissue deletes acknowledged, unacknowledged, waived and carve-out from the definitions",
-"family": null,
+"family": "denial",
 "id": "sap-taxonomy",
 "l0": false,
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "The glossary of the 12 September 2024 directive substitutes 'Joint Force Integration SAP' and 'Strategic Enabler SAP' and contains none of the four prior terms.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-09-12",
@@ -271,7 +271,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "leaves out"
 }
 ],
 "coords": null,

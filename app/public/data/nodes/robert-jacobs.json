@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-d08040f885",
 "edgeLabel": "On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print",
-"family": null,
+"family": "testimony",
 "id": "big-sur-1964",
 "l0": false,
 "label": "Big Sur missile-test filming, September 1964",
 "note": "THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1989-01",
@@ -122,7 +122,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -132,13 +132,13 @@
 "direction": "out",
 "edgeId": "e-1940ba1e29",
 "edgeLabel": "Testimony at section 3.8.3, dated November 2000",
-"family": null,
+"family": "testimony",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-04",
@@ -148,7 +148,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -158,13 +158,13 @@
 "direction": "in",
 "edgeId": "e-39a9a7ae21",
 "edgeLabel": "Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993",
-"family": null,
+"family": "denial",
 "id": "kingston-george",
 "l0": false,
 "label": "Kingston A. George",
 "note": "TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1993",
@@ -174,7 +174,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 1,
@@ -184,13 +184,13 @@
 "direction": "out",
 "edgeId": "e-b41ad4bb4b",
 "edgeLabel": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
-"family": null,
+"family": "place-time",
 "id": "l-vandenberg",
 "l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "His own published statement of his post, independently confirmed as to unit and role by the project engineer.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1989-01",
@@ -205,7 +205,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 }
 ],
 "date": null,

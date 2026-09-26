@@ -52,13 +52,13 @@
 "direction": "out",
 "edgeId": "e-da15f2a0eb",
 "edgeLabel": "22 May 2019: AATIP 'did pursue research and investigation into unidentified aerial phenomena'",
-"family": null,
+"family": "testimony",
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "The Department's first unambiguous acknowledgement that its aerospace-threat program looked at UAP. Repudiated by its own spokesperson six months later.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-12-06",
@@ -68,7 +68,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "acknowledged"
 },
 {
 "claimTier": 1,
@@ -78,13 +78,13 @@
 "direction": "out",
 "edgeId": "e-60bca54202",
 "edgeLabel": "1 June 2019: 'no responsibilities with regard to the AATIP program'",
-"family": null,
+"family": "denial",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-06-01",
@@ -94,7 +94,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -104,13 +104,13 @@
 "direction": "in",
 "edgeId": "e-a46c5f7e6b",
 "edgeLabel": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
-"family": null,
+"family": "denial",
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-12-06",
@@ -120,7 +120,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 1,
@@ -130,13 +130,13 @@
 "direction": "in",
 "edgeId": "e-919518ea44",
 "edgeLabel": "The series premiere prompted the 1 June 2019 Pentagon denial",
-"family": null,
+"family": "place-time",
 "id": "unidentified-history-series",
 "l0": false,
 "label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
 "note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-06-01",
@@ -146,7 +146,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "followed from"
 }
 ],
 "date": "2019-06-01",

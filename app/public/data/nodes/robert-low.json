@@ -88,13 +88,13 @@
 "direction": "in",
 "edgeId": "e-e5faf782b0",
 "edgeLabel": "Condon fired the investigators who surfaced Low's memo",
-"family": null,
+"family": "analysis",
 "id": "edward-condon",
 "l0": false,
 "label": "Edward U. Condon",
 "note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -114,13 +114,13 @@
 "direction": "out",
 "edgeId": "e-29cedfe4df",
 "edgeLabel": "Low wrote the memo two months before the contract was signed",
-"family": null,
+"family": "documents",
 "id": "low-memo",
 "l0": false,
 "label": "Low Memorandum (\"the trick would be...\")",
 "note": "Written 9 August 1966 to University of Colorado administrators, before the 6 October 1966 project formation — the design predates the data.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -130,7 +130,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "1966-08-09",

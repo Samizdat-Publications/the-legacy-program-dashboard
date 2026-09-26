@@ -36,13 +36,13 @@
 "direction": "out",
 "edgeId": "e-a50886e01d",
 "edgeLabel": "POGO recommendations delivered to Luna's task force",
-"family": null,
+"family": "oversight",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -62,7 +62,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -72,13 +72,13 @@
 "direction": "out",
 "edgeId": "e-6aa5195f5a",
 "edgeLabel": "POGO counsel testified at the UAP transparency hearing",
-"family": null,
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The transcript lists 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'. His statement opens 'Chairwoman Luna, Ranking Member Crockett, and Task Force members' and describes POGO as 'a nonpartisan independent watchdog organization that investigates and exposes waste, corruption, abuse of power, and when the government fails to serve the public or silences those who report wrongdoing.' He appeared as the minority witness, on whistleblower protection rather than on the phenomenon.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -98,7 +98,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -108,13 +108,13 @@
 "direction": "out",
 "edgeId": "e-a62a9a8792",
 "edgeLabel": "Outside watchdog seated as witness before Oversight's declassification task force",
-"family": null,
+"family": "testimony",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -129,7 +129,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "testified at"
 }
 ],
 "coords": null,

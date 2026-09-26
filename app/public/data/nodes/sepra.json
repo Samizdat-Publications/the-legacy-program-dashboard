@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-e655f31171",
 "edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
-"family": null,
+"family": "documents",
 "id": "doc-cometa-report",
 "l0": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -45,7 +45,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -55,13 +55,13 @@
 "direction": "out",
 "edgeId": "e-dd7bf56fd3",
 "edgeLabel": "renamed GEIPAN in 2005",
-"family": null,
+"family": "organisation",
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Jacques Patenet succeeded Velasco under the GEIPAN name.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-01",
@@ -71,7 +71,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 2,
@@ -81,13 +81,13 @@
 "direction": "in",
 "edgeId": "e-de9cd7c8cd",
 "edgeLabel": "renamed SEPRA in 1988",
-"family": null,
+"family": "organisation",
 "id": "gepan",
 "l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-01",
@@ -97,7 +97,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "succeeded"
 }
 ],
 "coords": null,

@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-69c2259327",
 "edgeLabel": "Originating but never-interviewed eyewitness",
-"family": null,
+"family": "testimony",
 "id": "barney-barnett",
 "l0": false,
 "label": "Grady L. 'Barney' Barnett",
 "note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-8c895f37ef",
 "edgeLabel": "Sole claimed first-hand witness to the San Agustin site",
-"family": null,
+"family": "testimony",
 "id": "gerald-anderson",
 "l0": false,
 "label": "Gerald Anderson",
 "note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-1b4c97fb5e",
 "edgeLabel": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
-"family": null,
+"family": "denial",
 "id": "roswell-report-case-closed",
 "l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "explained_away",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "was given a conventional explanation by"
 }
 ],
 "coords": null,

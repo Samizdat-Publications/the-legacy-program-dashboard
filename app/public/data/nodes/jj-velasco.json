@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-74a2638135",
 "edgeLabel": "serving head of SEPRA contributed to the report",
-"family": null,
+"family": "testimony",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1999-07-01",
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "passed an account to"
 }
 ],
 "date": "2004-01-01",

@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-ccee279bac",
 "edgeLabel": "CIA interrogation-team programme, 1950 to 1951, then ARTICHOKE",
-"family": null,
+"family": "organisation",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Proposed by the Chief of the Agency's Inspection and Security Staff for the operational support of OSO and OPC, and renamed ARTICHOKE in August 1951 per the Church Committee text reprinted in the 1977 Senate print.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1977-08-03",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-4fcf8b3146",
 "edgeLabel": "Compartment created by bypassing the review committee, in writing",
-"family": null,
+"family": "analysis",
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "The proposal states on its face that it goes directly to the Director rather than through the Projects Review Committee because of the project's sensitivity, and asks that knowledge be held to the absolute minimum number of persons.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1950-04-05",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-7fcf81429f",
 "edgeLabel": "The 1950 predecessor of the 1953 programme",
-"family": null,
+"family": "place-time",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-08-03",
@@ -121,7 +121,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-ae3e08795c",
 "edgeLabel": "Submitted directly to the DCI, 5 April 1950",
-"family": null,
+"family": "oversight",
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1950-04-05",
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "reports to"
 }
 ],
 "coords": null,

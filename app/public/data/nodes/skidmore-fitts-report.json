@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-ada7c1a068",
 "edgeLabel": "Co-author; originated the inquiry",
-"family": null,
+"family": "documents",
 "id": "catherine-austin-fitts",
 "l0": false,
 "label": "Catherine Austin Fitts",
 "note": "Fitts co-authored the summary report and the Missing Money archive that hosts it and its supporting documentation. Attested by the report and the Solari archive.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-09-01",
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-374b42a76a",
 "edgeLabel": "The single largest figure in the $21 trillion compilation comes from this report",
-"family": null,
+"family": "documents",
 "id": "dodig-2016-113",
 "l0": false,
 "label": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported",
 "note": "The Skidmore-Fitts compilation draws on published OIG reports including DODIG-2016-113, whose $6.5 trillion year-end unsupported adjustment figure is the largest single component. Attested by the authors' own supporting documentation index.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-09-01",
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "cites"
 },
 {
 "claimTier": 2,
@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-2ce4ac6e0f",
 "edgeLabel": "Co-author and compiler",
-"family": null,
+"family": "documents",
 "id": "mark-skidmore",
 "l0": false,
 "label": "Mark Skidmore",
 "note": "Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-09-01",
@@ -109,7 +109,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

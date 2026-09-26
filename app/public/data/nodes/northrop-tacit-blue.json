@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-181a47c70a",
 "edgeLabel": "DARPA a named partner in the programme, 1978 to 1985",
-"family": null,
+"family": "role",
 "id": "darpa",
 "l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file's use of the same four letters.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-18",
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-4b0d85477e",
 "edgeLabel": "Northrop Corp. the airframe contractor",
-"family": null,
+"family": "organisation",
 "id": "northrop-grumman",
 "l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-134779a410",
 "edgeLabel": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
-"family": null,
+"family": "testimony",
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-18",
@@ -109,7 +109,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "contradicts"
 },
 {
 "claimTier": 1,
@@ -119,13 +119,13 @@
 "direction": "out",
 "edgeId": "e-a2a3fad2e6",
 "edgeLabel": "USAF a named partner and the publisher of the fact sheet",
-"family": null,
+"family": "role",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-18",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 }
 ],
 "coords": null,

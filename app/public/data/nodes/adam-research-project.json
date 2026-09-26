@@ -77,13 +77,13 @@
 "direction": "out",
 "edgeId": "e-c3bf086871",
 "edgeLabel": "Custody chain: anonymous source to Art Bell, to Linda Moulton Howe, to Carnegie DTM (1996), to Puthoff, to TTSA (2019), to the US Army",
-"family": null,
+"family": "analysis",
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and by Puthoff on several later occasions before TTSA bought them for $35,000 in 2019.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-11-14",
@@ -98,7 +98,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -108,13 +108,13 @@
 "direction": "out",
 "edgeId": "e-f0a242043d",
 "edgeLabel": "Research partnership from August 2018",
-"family": null,
+"family": "organisation",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-07-24",
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 2,
@@ -139,13 +139,13 @@
 "direction": "out",
 "edgeId": "e-a858e2c144",
 "edgeLabel": "Samples routed to laboratories founded by Puthoff",
-"family": null,
+"family": "custody",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "TTSA partnered with Puthoff-founded laboratories to study the ADAM materials; Puthoff had already tested the same Howe samples privately, reporting in a 2012 letter that no anomalous outcome had been obtained.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -160,7 +160,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "passed records or material to"
 },
 {
 "claimTier": 2,
@@ -170,13 +170,13 @@
 "direction": "out",
 "edgeId": "e-2e18001412",
 "edgeLabel": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
-"family": null,
+"family": "role",
 "id": "steve-justice",
 "l0": false,
 "label": "Steve Justice",
 "note": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-07-26",
@@ -186,7 +186,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -196,13 +196,13 @@
 "direction": "in",
 "edgeId": "e-78425ef1c5",
 "edgeLabel": "Public technical voice: material 'not from any known existing military or commercial application'",
-"family": null,
+"family": "testimony",
 "id": "steve-justice",
 "l0": false,
 "label": "Steve Justice",
 "note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -217,7 +217,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -227,13 +227,13 @@
 "direction": "in",
 "edgeId": "e-02e6600133",
 "edgeLabel": "ADAM: acquisition and analysis of claimed exotic material",
-"family": null,
+"family": "organisation",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-07-24",
@@ -253,7 +253,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 2,
@@ -263,13 +263,13 @@
 "direction": "out",
 "edgeId": "e-62a26e2553",
 "edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
-"family": null,
+"family": "money",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "funded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -279,7 +279,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "was funded by"
 },
 {
 "claimTier": 2,
@@ -289,13 +289,13 @@
 "direction": "out",
 "edgeId": "e-f551689f7b",
 "edgeLabel": "ADAM is the predicate for the Army agreement",
-"family": null,
+"family": "place-time",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "The CRADA lists mechanical/structural metamaterials and electromagnetic metamaterial waveguides — the exact subject matter ADAM claimed to hold.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-10-18",
@@ -305,7 +305,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "led to"
 }
 ],
 "coords": null,

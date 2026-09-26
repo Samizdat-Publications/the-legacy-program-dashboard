@@ -86,13 +86,13 @@
 "direction": "in",
 "edgeId": "e-3c04e663b3",
 "edgeLabel": "Ruppelt is the briefer on the recording",
-"family": null,
+"family": "testimony",
 "id": "af-atic-film-0352",
 "l0": false,
 "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
 "note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-08",
@@ -102,7 +102,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -112,13 +112,13 @@
 "direction": "out",
 "edgeId": "e-c127ed2081",
 "edgeLabel": "Ruppelt is the origin of public knowledge of the Estimate",
-"family": null,
+"family": "testimony",
 "id": "estimate-of-the-situation",
 "l0": false,
 "label": "Estimate of the Situation (1948)",
 "note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1956-01-01",
@@ -133,7 +133,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -143,13 +143,13 @@
 "direction": "out",
 "edgeId": "e-0454c9715c",
 "edgeLabel": "Ruppelt was Blue Book's first director",
-"family": null,
+"family": "role",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Ruppelt directed the project from March 1952 to August 1953, covering the Washington flap and the Robertson Panel, and later published the only insider account of the period.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -164,7 +164,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -174,13 +174,13 @@
 "direction": "out",
 "edgeId": "e-532901d7a2",
 "edgeLabel": "Ruppelt attended the panel as Blue Book director and later described it",
-"family": null,
+"family": "testimony",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1956-01-01",
@@ -195,7 +195,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "1956-01-01",

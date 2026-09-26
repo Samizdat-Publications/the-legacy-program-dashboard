@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-5826a24e22",
 "edgeLabel": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
-"family": null,
+"family": "documents",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The airliner pretext turns on substituting a duplicate for 'a civil registered aircraft belonging to a CIA proprietary organization in the Miami area'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1962-03-13",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-1274b87df2",
 "edgeLabel": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
-"family": null,
+"family": "analysis",
 "id": "d-coverup",
 "l0": false,
 "label": "The Cover-Up",
 "note": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1962-03-13",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-f07e2d9e5f",
 "edgeLabel": "A staffed and signed plan to manufacture events and attribute them to another state",
-"family": null,
+"family": "analysis",
 "id": "d-disinformation",
 "l0": false,
 "label": "Disinformation & Fabricated Documents",
 "note": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1962-03-13",
@@ -115,7 +115,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -125,13 +125,13 @@
 "direction": "out",
 "edgeId": "e-6327dab193",
 "edgeLabel": "Calls for a cover and deception plan executed to provoke a citable reaction",
-"family": null,
+"family": "analysis",
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1962-03-13",
@@ -141,7 +141,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -151,13 +151,13 @@
 "direction": "out",
 "edgeId": "e-687c1e776b",
 "edgeLabel": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
-"family": null,
+"family": "oversight",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1962-03-13",
@@ -167,7 +167,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -177,13 +177,13 @@
 "direction": "out",
 "edgeId": "e-5021b06b7a",
 "edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
-"family": null,
+"family": "documents",
 "id": "l-eglin",
 "l0": false,
 "label": "Eglin Air Force Base, Florida",
 "note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1962-03-13",
@@ -193,7 +193,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -203,13 +203,13 @@
 "direction": "out",
 "edgeId": "e-2fccafb363",
 "edgeLabel": "Reached the public through the JFK Assassination Records Review Board",
-"family": null,
+"family": "custody",
 "id": "national-archives",
 "l0": false,
 "label": "National Archives and Records Administration",
 "note": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1962-03-13",
@@ -219,7 +219,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 }
 ],
 "coords": null,

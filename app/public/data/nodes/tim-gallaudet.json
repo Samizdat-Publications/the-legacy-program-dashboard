@@ -138,13 +138,13 @@
 "direction": "out",
 "edgeId": "e-7ae543f5a2",
 "edgeLabel": "Flag-officer corroboration of the safety-reporting failure ASA was built around",
-"family": null,
+"family": "testimony",
 "id": "americans-for-safe-aerospace",
 "l0": true,
 "label": "Americans for Safe Aerospace",
 "note": "Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "corroborated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -159,7 +159,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "corroborates"
 },
 {
 "claimTier": 2,
@@ -169,13 +169,13 @@
 "direction": "out",
 "edgeId": "e-537ea3d25d",
 "edgeLabel": "Recipient of the message and the witness to its deletion",
-"family": null,
+"family": "testimony",
 "id": "gallaudet-2015-email",
 "l0": false,
 "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
 "note": "Gallaudet, then Commander of Naval Meteorology and Oceanography Command, testified the email vanished from his and other recipients' accounts the next day.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -185,7 +185,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -195,13 +195,13 @@
 "direction": "out",
 "edgeId": "e-bd1ad93ad6",
 "edgeLabel": "sworn witness",
-"family": null,
+"family": "testimony",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -231,7 +231,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 2,
@@ -241,13 +241,13 @@
 "direction": "out",
 "edgeId": "e-33aa609aa1",
 "edgeLabel": "Said the absence of metadata made it impossible to conclude any object was truly anomalous",
-"family": null,
+"family": "denial",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "A 2024 House witness assessing the 2026 executive release.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-14",
@@ -257,7 +257,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 2,
@@ -267,13 +267,13 @@
 "direction": "out",
 "edgeId": "e-59de4c450c",
 "edgeLabel": "Identified the missing metadata as the disqualifying defect",
-"family": null,
+"family": "denial",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Gallaudet welcomed the first open admission that UAP files had been shielded and said the absence of metadata made it impossible to conclude any object was truly anomalous.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-14",
@@ -288,7 +288,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -298,13 +298,13 @@
 "direction": "in",
 "edgeId": "e-44522fc0cf",
 "edgeLabel": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
-"family": null,
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -324,7 +324,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -334,13 +334,13 @@
 "direction": "in",
 "edgeId": "e-d85ecad08d",
 "edgeLabel": "Gallaudet named to the council as its oceanographer",
-"family": null,
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-15",
@@ -365,7 +365,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2024-11-13",

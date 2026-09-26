@@ -97,13 +97,13 @@
 "direction": "in",
 "edgeId": "e-c82e6a1f2d",
 "edgeLabel": "Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it",
-"family": null,
+"family": "testimony",
 "id": "conventional-prompt-global-strike",
 "l0": false,
 "label": "Conventional Prompt Global Strike",
 "note": "Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-07-16",
@@ -113,7 +113,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -123,13 +123,13 @@
 "direction": "out",
 "edgeId": "e-8805529b60",
 "edgeLabel": "Represents Elizondo in litigation against DoD",
-"family": null,
+"family": "role",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -139,7 +139,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -149,13 +149,13 @@
 "direction": "out",
 "edgeId": "e-cc1325dd5d",
 "edgeLabel": "Named-source account of what Turner demanded in conference",
-"family": null,
+"family": "testimony",
 "id": "mike-turner",
 "l0": false,
 "label": "Michael R. Turner",
 "note": "Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-11-27",
@@ -165,7 +165,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -175,13 +175,13 @@
 "direction": "out",
 "edgeId": "e-ce4ab35e03",
 "edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
-"family": null,
+"family": "role",
 "id": "national-press-club-2001",
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-05-09",
@@ -196,7 +196,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -206,13 +206,13 @@
 "direction": "out",
 "edgeId": "e-46550f7c77",
 "edgeLabel": "Founder and principal",
-"family": null,
+"family": "role",
 "id": "new-paradigm-institute",
 "l0": false,
 "label": "New Paradigm Institute",
 "note": "NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -222,7 +222,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 },
 {
 "claimTier": 2,
@@ -232,13 +232,13 @@
 "direction": "out",
 "edgeId": "e-4da965e79d",
 "edgeLabel": "Sheehan served as counsel to Greer's Disclosure Project",
-"family": null,
+"family": "role",
 "id": "steven-greer",
 "l0": false,
 "label": "Steven M. Greer",
 "note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -248,7 +248,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 }
 ],
 "date": "2023-11-27",

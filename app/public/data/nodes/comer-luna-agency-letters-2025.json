@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-a8928fb239",
 "edgeLabel": "Co-author",
-"family": null,
+"family": "documents",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Requesting a briefing on all UAP-related records in the recipients' possession.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-02-18",
@@ -39,7 +39,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -49,13 +49,13 @@
 "direction": "out",
 "edgeId": "e-c9f2bcbb07",
 "edgeLabel": "Addressed to Director Ratcliffe",
-"family": null,
+"family": "oversight",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Ratcliffe had said as DNI that UAP exhibit technologies the United States does not have.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-18",
@@ -65,7 +65,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "made a request of"
 },
 {
 "claimTier": 2,
@@ -75,13 +75,13 @@
 "direction": "in",
 "edgeId": "e-327d208b21",
 "edgeLabel": "Co-author of the Task Force's opening records demand to State, Defense and CIA",
-"family": null,
+"family": "documents",
 "id": "james-comer",
 "l0": false,
 "label": "James Comer Jr.",
 "note": "Sent on establishment of the Task Force in February 2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-02-18",
@@ -91,7 +91,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-69dbccaa02",
 "edgeLabel": "Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence",
-"family": null,
+"family": "oversight",
 "id": "marco-rubio",
 "l0": false,
 "label": "Marco Rubio",
 "note": "Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-18",
@@ -117,7 +117,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "made a request of"
 }
 ],
 "coords": null,

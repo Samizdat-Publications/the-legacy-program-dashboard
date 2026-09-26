@@ -212,7 +212,7 @@ def predicate_rules(vocab, b):
     app = os.path.join(ROOT, "app", "public", "data")
     rows = json.load(open(os.path.join(app, "edges.json"), encoding="utf-8"))
     side = json.load(open(os.path.join(ROOT, "research", "_predicates.json"), encoding="utf-8"))
-    side = side.get("edges") or {}
+    side = side.get("predicates") or {}
     ids = {r["id"] for r in rows}
     ck("every shipped edge has a side-car row", sorted(ids - set(side))[:5], [])
     ck("no side-car row names an edge the app does not ship", sorted(set(side) - ids)[:5], [])
@@ -270,7 +270,10 @@ def predicate_rules(vocab, b):
     wrong_den = []
     for r in rows:
         d = denier_of.get(frozenset((r["a"], r["b"])))
-        if r.get("t") != "denial" or not d or r.get("predicate") not in DENIAL or r["a"] == r["b"]:
+        # a denier that is neither end (one verdict names the author of the document
+        # at one end) cannot be a subject; that edge is outside the rule
+        if (r.get("t") != "denial" or not d or r.get("predicate") not in DENIAL
+                or r["a"] == r["b"] or d not in (r["a"], r["b"])):
             continue
         if r[r["subject"]] != d:
             wrong_den.append(r["id"])
@@ -531,7 +534,7 @@ def main():
     verbs = {k: v for k, v in vocab["authoredVerbs"].items() if not k.startswith("_")}
     unmapped = set()
     for path in sorted(glob.glob(os.path.join(ROOT, "research", "*.json"))):
-        if os.path.basename(path) == "_edge_tiers.json":
+        if os.path.basename(path) in ("_edge_tiers.json", "_predicates.json"):
             continue
         for x in json.load(open(path, encoding="utf-8")).get("edges") or []:
             t = x.get("type") or x.get("rel")

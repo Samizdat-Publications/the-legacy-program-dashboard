@@ -32,13 +32,13 @@
 "direction": "out",
 "edgeId": "e-d8c412038c",
 "edgeLabel": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
-"family": null,
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -58,7 +58,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2023-01-03",

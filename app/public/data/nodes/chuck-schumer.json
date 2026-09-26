@@ -81,13 +81,13 @@
 "direction": "out",
 "edgeId": "e-5e80435f23",
 "edgeLabel": "Schumer names Reid as the legacy he is continuing",
-"family": null,
+"family": "testimony",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-14",
@@ -97,7 +97,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "acknowledged"
 },
 {
 "claimTier": 1,
@@ -107,13 +107,13 @@
 "direction": "out",
 "edgeId": "e-32155ccff4",
 "edgeLabel": "Moskowitz read Schumer's disclosure language into the House record",
-"family": null,
+"family": "testimony",
 "id": "jared-moskowitz",
 "l0": false,
 "label": "Jared Evan Moskowitz",
 "note": "'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -123,7 +123,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -133,13 +133,13 @@
 "direction": "out",
 "edgeId": "e-7f00597322",
 "edgeLabel": "Publicly called the removal of the Review Board an outrage",
-"family": null,
+"family": "denial",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -149,7 +149,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -159,13 +159,13 @@
 "direction": "out",
 "edgeId": "e-3ba8a40c0e",
 "edgeLabel": "Sponsor of record; filed 13 July 2023",
-"family": null,
+"family": "law",
 "id": "samdt-797",
 "l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -180,7 +180,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -190,13 +190,13 @@
 "direction": "out",
 "edgeId": "e-0e5fcce586",
 "edgeLabel": "sponsor of S.Amdt. 797",
-"family": null,
+"family": "law",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -211,7 +211,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "sponsored"
 }
 ],
 "date": "2023-07-13",

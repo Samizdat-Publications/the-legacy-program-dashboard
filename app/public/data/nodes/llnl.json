@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-459335c3bd",
 "edgeLabel": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
-"family": null,
+"family": "law",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-15",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-4051a852ce",
 "edgeLabel": "DOE/NNSA management and operating contract; Lawrence Livermore",
-"family": null,
+"family": "organisation",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -77,7 +77,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -87,13 +87,13 @@
 "direction": "in",
 "edgeId": "e-c7cf595ca0",
 "edgeLabel": "Co-founder and director of the Livermore laboratory",
-"family": null,
+"family": "role",
 "id": "edward-teller",
 "l0": false,
 "label": "Edward Teller",
 "note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-15",
@@ -103,7 +103,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 }
 ],
 "coords": null,

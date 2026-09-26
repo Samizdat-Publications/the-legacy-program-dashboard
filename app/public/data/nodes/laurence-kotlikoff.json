@@ -44,13 +44,13 @@
 "direction": "out",
 "edgeId": "e-6d6899acfb",
 "edgeLabel": "Professor of Economics",
-"family": null,
+"family": "role",
 "id": "boston-university",
 "l0": false,
 "label": "Boston University",
 "note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -60,7 +60,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -70,13 +70,13 @@
 "direction": "out",
 "edgeId": "e-66034eeda4",
 "edgeLabel": "Co-authored three Forbes columns carrying the figure into the financial press",
-"family": null,
+"family": "role",
 "id": "mark-skidmore",
 "l0": false,
 "label": "Mark Skidmore",
 "note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -86,7 +86,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "worked with"
 }
 ],
 "date": "2019-01-09",

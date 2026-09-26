@@ -50,13 +50,13 @@
 "direction": "out",
 "edgeId": "e-082272061a",
 "edgeLabel": "Signed the statute that created the Agency",
-"family": null,
+"family": "law",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1946-01-22",
@@ -66,7 +66,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -76,13 +76,13 @@
 "direction": "in",
 "edgeId": "e-72b3fb2538",
 "edgeLabel": "Chartered under section 102(d)(5) of the Act he signed",
-"family": null,
+"family": "law",
 "id": "cia-office-of-policy-coordination",
 "l0": false,
 "label": "CIA Office of Policy Coordination",
 "note": "The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1948-06-18",
@@ -92,7 +92,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -102,13 +102,13 @@
 "direction": "in",
 "edgeId": "e-b13a738e83",
 "edgeLabel": "Founded under the authority of the 1947 Act",
-"family": null,
+"family": "law",
 "id": "darpa",
 "l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-12-01",
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -128,13 +128,13 @@
 "direction": "out",
 "edgeId": "e-c96466a27e",
 "edgeLabel": "Signed the statute that created the National Military Establishment",
-"family": null,
+"family": "law",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1946-01-22",
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 2,
@@ -154,13 +154,13 @@
 "direction": "out",
 "edgeId": "e-0774622dfd",
 "edgeLabel": "Appointed the first Director of Central Intelligence of the CIA",
-"family": null,
+"family": "conduct",
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1946-01-22",
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -180,13 +180,13 @@
 "direction": "out",
 "edgeId": "e-ce38f7546c",
 "edgeLabel": "Designated the first Director of Central Intelligence",
-"family": null,
+"family": "testimony",
 "id": "sidney-souers",
 "l0": false,
 "label": "Rear Adm. Sidney W. Souers",
 "note": "The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1946-01-22",
@@ -196,7 +196,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "acknowledged"
 },
 {
 "claimTier": 1,
@@ -206,13 +206,13 @@
 "direction": "out",
 "edgeId": "e-61f3e41ce0",
 "edgeLabel": "Signed the statute that created the Department of the Air Force",
-"family": null,
+"family": "law",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1946-01-22",
@@ -222,7 +222,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "created"
 }
 ],
 "date": "1946-01-22",

@@ -42,13 +42,13 @@
 "direction": "out",
 "edgeId": "e-128ed396de",
 "edgeLabel": "Astrobiology seat, via the Sol Foundation advisory board",
-"family": null,
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "One of five Sol-affiliated appointments announced by the foundation in June 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-01",
@@ -58,7 +58,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2026-06-15",

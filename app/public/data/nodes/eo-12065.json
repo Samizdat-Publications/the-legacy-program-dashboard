@@ -29,13 +29,13 @@
 "direction": "out",
 "edgeId": "e-f1202ca8fc",
 "edgeLabel": "Revokes it, and this is the link most chains omit",
-"family": null,
+"family": "organisation",
 "id": "eo-11652",
 "l0": false,
 "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "note": "Section 6-203. EO 12356 is commonly said to have revoked EO 11652; it did not, because 12065 had already done so four years earlier.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -45,7 +45,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -55,13 +55,13 @@
 "direction": "in",
 "edgeId": "e-251a952ab4",
 "edgeLabel": "Revokes it, and with it the public-interest balancing test",
-"family": null,
+"family": "organisation",
 "id": "eo-12356",
 "l0": false,
 "label": "Executive Order 12356 - National Security Information (2 April 1982)",
 "note": "Section 6.2(d): 'Executive Order No. 12065 of June 28, 1978, as amended, is revoked as of the effective date of this Order.' EO 12065 sec. 3-303 had required an official to determine whether the public interest in disclosure outweighed the damage to national security. The phrase 'public interest' occurs zero times in EO 12356.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -76,7 +76,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "was succeeded by"
 }
 ],
 "coords": null,

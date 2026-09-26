@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-d1e2d616b4",
 "edgeLabel": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
-"family": null,
+"family": "place-time",
 "id": "nasic",
 "l0": false,
 "label": "National Air and Space Intelligence Center",
 "note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -51,7 +51,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-9a105ef1f4",
 "edgeLabel": "Single Air Force science and technology laboratory, Wright-Patterson AFB",
-"family": null,
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "AFRL consolidated the Wright, Phillips, Rome and Armstrong laboratories and AFOSR at Wright-Patterson - the installation named in every retrieval account since 1947.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -77,7 +77,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 }
 ],
 "coords": null,

@@ -32,13 +32,13 @@
 "direction": "out",
 "edgeId": "e-8fac7a136f",
 "edgeLabel": "Co-author of Alien Rapture: The Chosen",
-"family": null,
+"family": "documents",
 "id": "alien-rapture-1998",
 "l0": false,
 "label": "Alien Rapture: The Chosen, Galde Press, 1998",
 "note": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1998-02-04",
@@ -48,7 +48,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": null,

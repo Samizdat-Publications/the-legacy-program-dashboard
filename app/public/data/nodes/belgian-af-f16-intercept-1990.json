@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-98ad34a71e",
 "edgeLabel": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
-"family": null,
+"family": "denial",
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2000-01-01",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is left out of"
 },
 {
 "claimTier": 2,
@@ -79,13 +79,13 @@
 "direction": "in",
 "edgeId": "e-bb7cc24acd",
 "edgeLabel": "The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file",
-"family": null,
+"family": "analysis",
 "id": "tehran-f4-intercept-1976",
 "l0": false,
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "note": "The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1976-09-23",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-18e1e4e6ae",
 "edgeLabel": "The Belgian material sits in named DEFE 24 pieces",
-"family": null,
+"family": "custody",
 "id": "uk-defe24",
 "l0": false,
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "The National Archives' guide places the Belgian Air Force's November 1993 statement at DEFE 24/1970 pages 86 to 87 and de Brouwer's four-page account at DEFE 24/1960 pages 320 to 324, with further references in DEFE 24/1962 and DEFE 24/1965.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-08-17",
@@ -121,7 +121,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-2c17e6bb88",
 "edgeLabel": "Not informed at the time, and no threat to the UK",
-"family": null,
+"family": "place-time",
 "id": "uk-mod",
 "l0": false,
 "label": "United Kingdom Ministry of Defence",
 "note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-08-17",
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "drew a response from"
 }
 ],
 "coords": null,

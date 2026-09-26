@@ -65,13 +65,13 @@
 "direction": "out",
 "edgeId": "e-db9a42211f",
 "edgeLabel": "Bolender names JANAP 146 as the channel Blue Book was not",
-"family": null,
+"family": "documents",
 "id": "bolender-memo",
 "l0": false,
 "label": "Bolender Memorandum",
 "note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1969-10-20",
@@ -86,7 +86,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is cited by"
 },
 {
 "claimTier": 3,
@@ -96,13 +96,13 @@
 "direction": "in",
 "edgeId": "e-956bb67739",
 "edgeLabel": "The public statistics are the residue of a filter, not the corpus",
-"family": null,
+"family": "analysis",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1969-10-20",
@@ -117,7 +117,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -127,13 +127,13 @@
 "direction": "out",
 "edgeId": "e-bd9b6d6043",
 "edgeLabel": "JANAP created a parallel reporting channel outside Blue Book",
-"family": null,
+"family": "analysis",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1954-03-10",
@@ -148,7 +148,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

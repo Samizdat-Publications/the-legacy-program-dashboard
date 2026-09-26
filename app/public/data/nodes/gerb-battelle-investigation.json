@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-214af5f137",
 "edgeLabel": "Alleges Battelle studied Roswell-derived shape-memory alloy",
-"family": null,
+"family": "testimony",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Gerb argues, following Jacques Vallee's paper trail, that Battelle studied a shape-memory metallic alloy recovered at Roswell now referred to as nitinol, while also building the USAF's machine index of UFO reports and helping quell public interest.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-02-18",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-f3d2dd5bb0",
 "edgeLabel": "Relies on Vallee's documented nitinol paper trail",
-"family": null,
+"family": "documents",
 "id": "jacques-vallee",
 "l0": false,
 "label": "Jacques F. Vallee",
 "note": "Gerb explicitly credits Vallee as the source of the supporting documentary trail for the Battelle materials claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-02-18",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "cites"
 },
 {
 "claimTier": 2,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-7800a3793b",
 "edgeLabel": "Battelle's Project Stork produced Special Report No. 14",
-"family": null,
+"family": "documents",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Project Stork was Battelle's contract supporting the Air Force UFO effort; it produced the statistical study issued as Special Report No. 14, a document available in the CIA reading room.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-02-18",
@@ -109,7 +109,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 3,
@@ -119,13 +119,13 @@
 "direction": "out",
 "edgeId": "e-8645dde54a",
 "edgeLabel": "Traces a modern line from Battelle to AARO messaging",
-"family": null,
+"family": "testimony",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Gerb's stated aim is to 'connect the dots from Roswell to shadowy modern-day players pulling the strings of Sean Kirkpatrick to drive the UAP narrative.' This is an inference about influence, not a documented relationship.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-02-18",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -145,13 +145,13 @@
 "direction": "in",
 "edgeId": "e-81f6625d9e",
 "edgeLabel": "Gerb's first corporate investigation, with full primary citations",
-"family": null,
+"family": "documents",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 18 February 2024 with a published citation list including CUFON's Project Stork reports, the CIA reading room copy of Special Report No. 14, a Black Vault titanium alloys release and the Defense.gov Moultrie roundtable transcript.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-02-18",
@@ -161,7 +161,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

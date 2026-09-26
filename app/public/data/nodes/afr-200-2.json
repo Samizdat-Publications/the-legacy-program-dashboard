@@ -71,13 +71,13 @@
 "direction": "out",
 "edgeId": "e-0a3b74b36b",
 "edgeLabel": "ATIC was the terminal analytical authority under the regulation",
-"family": null,
+"family": "law",
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "The regulation routes reports from base level through Air Defense Command and the 4602d Air Intelligence Service Squadron to ATIC at Wright-Patterson for final analysis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1954-08-12",
@@ -87,7 +87,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 2,
@@ -97,13 +97,13 @@
 "direction": "in",
 "edgeId": "e-d55064a259",
 "edgeLabel": "The 1954 regulation was issued under Twining as Chief of Staff",
-"family": null,
+"family": "law",
 "id": "nathan-twining",
 "l0": false,
 "label": "Nathan F. Twining",
 "note": "The officer who wrote in 1947 that the phenomenon was real was Air Force Chief of Staff when the regulation restricting public discussion of unexplained cases was promulgated.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1954-08-12",
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -128,13 +128,13 @@
 "direction": "out",
 "edgeId": "e-df88883aa7",
 "edgeLabel": "AFR 200-2 governed what Blue Book could say publicly",
-"family": null,
+"family": "law",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "For unexplainable objects, 'only the fact that ATIC will analyze the data is worthy of release'. Every Air Force public statement that unknowns were unimportant was made under a regulation forbidding discussion of them.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1954-08-12",
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 3,
@@ -154,13 +154,13 @@
 "direction": "in",
 "edgeId": "e-0cc4acb08e",
 "edgeLabel": "Panel recommendations became binding Air Force regulation",
-"family": null,
+"family": "place-time",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1954-08-12",
@@ -175,7 +175,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "followed from"
 }
 ],
 "coords": null,

@@ -63,13 +63,13 @@
 "direction": "in",
 "edgeId": "e-4789a8b0a6",
 "edgeLabel": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
-"family": null,
+"family": "role",
 "id": "cecilia-levy",
 "l0": false,
 "label": "Cecilia Levy",
 "note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-21",
@@ -84,7 +84,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -94,13 +94,13 @@
 "direction": "out",
 "edgeId": "e-7b03c034f4",
 "edgeLabel": "Co-author of the 34-author UAP review",
-"family": null,
+"family": "documents",
 "id": "paper-knuth-2025-new-science",
 "l0": false,
 "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-04",
@@ -110,7 +110,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -120,13 +120,13 @@
 "direction": "out",
 "edgeId": "e-1f65569ae2",
 "edgeLabel": "Named for instrumentation and data collection",
-"family": null,
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-29",
@@ -141,7 +141,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -151,13 +151,13 @@
 "direction": "out",
 "edgeId": "e-d908a007f9",
 "edgeLabel": "Co-founder; first author of the field-expedition results",
-"family": null,
+"family": "role",
 "id": "uapx",
 "l0": false,
 "label": "UAPx",
 "note": "A liquid-xenon dark-matter physicist applying direct-detection discipline - background rates, instrumental artefacts, false positives - to open-air field observation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-01",
@@ -167,7 +167,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 },
 {
 "claimTier": 1,
@@ -177,13 +177,13 @@
 "direction": "in",
 "edgeId": "e-4fd4acceea",
 "edgeLabel": "Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest",
-"family": null,
+"family": "role",
 "id": "university-at-albany",
 "l0": false,
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "The department's own faculty page for Szydagis lists his research interests as 'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-21",
@@ -193,7 +193,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2025-06-01",

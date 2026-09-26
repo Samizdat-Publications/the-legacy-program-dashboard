@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-404081600e",
 "edgeLabel": "Requires a personnel census from each of the six SAP-creating officials",
-"family": null,
+"family": "law",
 "id": "eo-13526",
 "l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-da6e1dd353",
 "edgeLabel": "Reports on SAP access populations are addressed to House Oversight among others",
-"family": null,
+"family": "law",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Sec. 7606(c)(2) names the Committee on Oversight and Accountability of the House of Representatives among the recipients.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "requires"
 }
 ],
 "coords": null,

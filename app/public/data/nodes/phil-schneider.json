@@ -71,13 +71,13 @@
 "direction": "out",
 "edgeId": "e-6077c17591",
 "edgeLabel": "Supplies every specific number in the modern claim, 8 May 1995",
-"family": null,
+"family": "testimony",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Seven levels, over 2.5 miles deep, a firefight in which he says he shot two aliens and roughly seventy people died. He was not part of the initial rumours and arrived about fifteen years after they began. Transcript hosted without a named transcriber; the lecture recording carries no captions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "1996-01-11",

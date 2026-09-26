@@ -65,13 +65,13 @@
 "direction": "in",
 "edgeId": "e-fb31068dde",
 "edgeLabel": "The statutory Gang of Eight is a covert action construct, not a SAP construct",
-"family": null,
+"family": "law",
 "id": "gang-of-eight",
 "l0": false,
 "label": "The Gang of Eight and the limited-notification convention",
 "note": "50 U.S.C. 3093(c)(2) names the four committee leaders and four chamber leaders to whom a finding may be limited; no SAP statute uses that group.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -81,7 +81,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -91,13 +91,13 @@
 "direction": "out",
 "edgeId": "e-4185e51175",
 "edgeLabel": "Covert action is expressly outside the IC controlled access program regime",
-"family": null,
+"family": "law",
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section C.3: 'Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-19",
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -122,13 +122,13 @@
 "direction": "in",
 "edgeId": "e-fd4f2ad12e",
 "edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
-"family": null,
+"family": "analysis",
 "id": "usc-50-3091",
 "l0": false,
 "label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -143,7 +143,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "affects"
 }
 ],
 "coords": null,

@@ -29,13 +29,13 @@
 "direction": "out",
 "edgeId": "e-17f1e70b62",
 "edgeLabel": "The affidavit is the instrument by which withholding was sustained",
-"family": null,
+"family": "denial",
 "id": "caus-v-nsa",
 "l0": false,
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-09-10",
@@ -50,7 +50,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -60,13 +60,13 @@
 "direction": "in",
 "edgeId": "e-2a56b4bfcf",
 "edgeLabel": "Yeates executed the affidavit as NSA Chief of Policy",
-"family": null,
+"family": "documents",
 "id": "eugene-yeates",
 "l0": false,
 "label": "Eugene F. Yeates",
 "note": "The affidavit was submitted for in camera review only; the plaintiffs never saw it and the judge ruled for NSA on its basis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-09-10",
@@ -76,7 +76,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -86,13 +86,13 @@
 "direction": "in",
 "edgeId": "e-99f80b90ec",
 "edgeLabel": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
-"family": null,
+"family": "oversight",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "NSA had released the COMINT records with most pages carrying only a few visible words, redacted in white-out; an MDR was required to obtain more.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-09-10",
@@ -102,7 +102,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "received a request from"
 }
 ],
 "coords": null,

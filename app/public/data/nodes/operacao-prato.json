@@ -77,13 +77,13 @@
 "direction": "out",
 "edgeId": "e-bc4bf662a9",
 "edgeLabel": "A DIA-funded US programme built a database of the Brazilian Air Force's own case wave",
-"family": null,
+"family": "documents",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Chapter fifteen of Lacatski, Kelleher and Knapp's 'Inside the U.S. Government Covert UFO Program: Initial Revelations' describes the Project Colares database as a 'Data base containing all UAP sighting events related to the 1977-1978, Colares, Brazil, UAP flap. Total records 346. Event timeline 1977-1978.' The CAPELLA data warehouse, conceived by Jacques Vallee, held eleven data sets of which one was titled 'Brazil'. Tier 2: book-sourced, quoted by a named researcher; no contract document or DIA record obtained in this pass. This is the strongest outward link the Brazilian cluster has — the American programme did not ignore the Brazilian record, it ingested it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "studied",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -108,7 +108,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "was studied by"
 },
 {
 "claimTier": 1,
@@ -118,13 +118,13 @@
 "direction": "out",
 "edgeId": "e-1a5c611de7",
 "edgeLabel": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
-"family": null,
+"family": "custody",
 "id": "arquivo-nacional-ufo",
 "l0": true,
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "Arquivo Nacional's own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -154,13 +154,13 @@
 "direction": "in",
 "edgeId": "e-a1b5085ccb",
 "edgeLabel": "",
-"family": null,
+"family": "custody",
 "id": "arquivo-nacional-ufo",
 "l0": true,
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "The Arquivo holds and serves the operation's files. Its own answer to a litigant, quoted verbatim in the 2023 federal judgment, reports that a SIAN search on the term 'operacao prato' returns six documents, none audiovisual. No SIAN item numbers were ever obtained and none are asserted here.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-01",
@@ -175,7 +175,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 2,
@@ -185,13 +185,13 @@
 "direction": "out",
 "edgeId": "e-f709769690",
 "edgeLabel": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
-"family": null,
+"family": "documents",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Basterfield and Cecotti's reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in 'Skinwalkers at the Pentagon' includes the BAASS March 2009 monthly report 'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler', the August 2009 monthly report 'Relations with South American organizations', and a July 2009 report 'Project Colares/Brazil, Outreach to South America'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said 'They wanted artifacts from UFOs, such as metamaterials'; Fortaleza researcher Helio Loyola said 'Here in Brazil they didn't do any research. They took and photographed what the ufologists saw and documented.' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "studied",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -221,7 +221,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "was studied by"
 },
 {
 "claimTier": 1,
@@ -231,13 +231,13 @@
 "direction": "in",
 "edgeId": "e-560d363cb9",
 "edgeLabel": "The Brazilian Air Force mounted Operação Prato as its own field operation",
-"family": null,
+"family": "organisation",
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "Operação Prato was run by the Força Aérea Brasileira out of the Belém air base in Pará, with the SNI, after mayors in the Colares area formally asked for help. The Brazilian Senate's own Requerimento 193/2022 lists it among the official Aeronáutica UAP programmes: 'Desde 1954, o Governo Brasileiro, por meio de sua Aeronáutica, já criou vários programas oficiais de pesquisas dos OVNIs, como em 1977, quando ocorreu a chamada Operação Prato'. Bob Pratt's file records that the operation was staffed by 'Captain Uyrangê Hollanda and six sergeants' and was shut down after four months by Brigadier Protázio Lopes de Oliveira, the base commander in Belém. This is the base institutional fact the whole Brazilian cluster hangs from and it was previously unwired. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -262,7 +262,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 2,
@@ -272,13 +272,13 @@
 "direction": "out",
 "edgeId": "e-56585e150b",
 "edgeLabel": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
-"family": null,
+"family": "testimony",
 "id": "jacques-vallee",
 "l0": false,
 "label": "Jacques F. Vallee",
 "note": "From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: \"...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato.\"' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -298,7 +298,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -308,13 +308,13 @@
 "direction": "in",
 "edgeId": "e-54a3ebc48d",
 "edgeLabel": "Operação Prato was run on Colares, Pará, in northern Brazil",
-"family": null,
+"family": "place-time",
 "id": "l-brazil",
 "l0": false,
 "label": "Brazil",
 "note": "Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -329,7 +329,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -339,13 +339,13 @@
 "direction": "out",
 "edgeId": "e-6808fbde97",
 "edgeLabel": "COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial",
-"family": null,
+"family": "analysis",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "COMPARISON EDGE — no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes — one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-23",
@@ -375,7 +375,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -385,13 +385,13 @@
 "direction": "out",
 "edgeId": "e-67615cc44e",
 "edgeLabel": "The American reporter's Prato dossier sits in Greenewald's archive",
-"family": null,
+"family": "custody",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -406,7 +406,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 2,
@@ -416,13 +416,13 @@
 "direction": "in",
 "edgeId": "e-3b90902a6e",
 "edgeLabel": "commanded the operation",
-"family": null,
+"family": "role",
 "id": "uyrange-hollanda",
 "l0": false,
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
 "note": "Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-01",
@@ -432,7 +432,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 }
 ],
 "coords": null,

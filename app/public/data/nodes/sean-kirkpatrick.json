@@ -301,13 +301,13 @@
 "direction": "out",
 "edgeId": "e-780376d816",
 "edgeLabel": "first Director, July 2022 - 1 December 2023",
-"family": null,
+"family": "role",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Kirkpatrick led AARO from establishment through his departure on 1 December 2023, announced 7 November 2023.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-11-30",
@@ -317,7 +317,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -327,13 +327,13 @@
 "direction": "out",
 "edgeId": "e-5fc193f608",
 "edgeLabel": "directed the production of the official history",
-"family": null,
+"family": "organisation",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The Volume I historical review was drafted under Kirkpatrick's directorship of AARO and released in early 2024 after his departure; he has publicly identified himself with its findings.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -363,7 +363,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -373,13 +373,13 @@
 "direction": "out",
 "edgeId": "e-25d5313fd9",
 "edgeLabel": "authored and directed Volume I; released after his departure",
-"family": null,
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I is dated February 2024 and was prepared under Kirkpatrick's direction; Acting Director Phillips fronted the 8 March 2024 release.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -394,7 +394,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 3,
@@ -404,13 +404,13 @@
 "direction": "out",
 "edgeId": "e-fe0196fcd3",
 "edgeLabel": "former director at the laboratory that tests the specimens",
-"family": null,
+"family": "other",
 "id": "aaro-ornl-materials-analyses",
 "l0": false,
 "label": "AARO / Oak Ridge National Laboratory materials analyses",
 "note": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -425,7 +425,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is connected to"
 },
 {
 "claimTier": 2,
@@ -435,13 +435,13 @@
 "direction": "out",
 "edgeId": "e-a3a26163d8",
 "edgeLabel": "publicly attacked her oversight as 'playhouse politics' and the hearings as 'reality TV'",
-"family": null,
+"family": "conduct",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Reported September 2025; Luna's office responded that Kirkpatrick was 'a known documented liar' who 'blocked the release of information' and 'tried to discredit witnesses.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acted_against",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-05",
@@ -451,7 +451,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "took action against"
 },
 {
 "claimTier": 2,
@@ -461,13 +461,13 @@
 "direction": "out",
 "edgeId": "e-228e2f36ee",
 "edgeLabel": "Kirkpatrick publicly attacked Task Force witnesses and members; Luna answered from the chair",
-"family": null,
+"family": "denial",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna: 'the former AARO director known as Sean Kirkpatrick attacked our witnesses and members on this Committee. It should be noted that he is a documented liar.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -477,7 +477,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -487,13 +487,13 @@
 "direction": "in",
 "edgeId": "e-9afe7e1ba9",
 "edgeLabel": "co-authored a paper with Kirkpatrick while Kirkpatrick was AARO director",
-"family": null,
+"family": "role",
 "id": "avi-loeb",
 "l0": false,
 "label": "Abraham 'Avi' Loeb",
 "note": "Recorded because the chair of the 2026 external review body previously published jointly with the first AARO director.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -503,7 +503,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -513,13 +513,13 @@
 "direction": "out",
 "edgeId": "e-1d686c431b",
 "edgeLabel": "'The central source of those allegations has refused to speak with AARO'",
-"family": null,
+"family": "denial",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Posted by Kirkpatrick after the 26 July 2023 hearing and authenticated by the Pentagon, calling the hearing insulting to DoD and IC officers. Signatory: Sean M. Kirkpatrick, then AARO director. It contradicts nothing Grusch swore to; it substitutes a procedural complaint for a substantive rebuttal.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-31",
@@ -534,7 +534,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -544,13 +544,13 @@
 "direction": "in",
 "edgeId": "e-696b6689cb",
 "edgeLabel": "Classified conversation April 2022, before Kirkpatrick took over AARO",
-"family": null,
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch swore: 'Him and I had a classified conversation in April 2022 before he took over AARO in July 2022 and I provided him some concerns I had.' Kirkpatrick has never publicly denied the meeting, and no AARO line of inquiry visibly followed from it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -560,7 +560,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "received an account from"
 },
 {
 "claimTier": 3,
@@ -570,13 +570,13 @@
 "direction": "out",
 "edgeId": "e-bda2094de0",
 "edgeLabel": "AARO Director's programmatic access ran through the SAPCO enterprise",
-"family": null,
+"family": "oversight",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "Kirkpatrick directed AARO throughout the period covered by the Historical Record Report, so the 'full access to all pertinent sensitive USG programs' assurance is his. Reasoning: the report is AARO's product under his directorship, and no independent verification of the SAP list handed to AARO has been produced.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -586,7 +586,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "reports to"
 },
 {
 "claimTier": 3,
@@ -596,13 +596,13 @@
 "direction": "in",
 "edgeId": "e-8645dde54a",
 "edgeLabel": "Traces a modern line from Battelle to AARO messaging",
-"family": null,
+"family": "testimony",
 "id": "gerb-battelle-investigation",
 "l0": false,
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
 "note": "Gerb's stated aim is to 'connect the dots from Roswell to shadowy modern-day players pulling the strings of Sean Kirkpatrick to drive the UAP narrative.' This is an inference about influence, not a documented relationship.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-02-18",
@@ -612,7 +612,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -622,13 +622,13 @@
 "direction": "out",
 "edgeId": "e-89405ee526",
 "edgeLabel": "sole DoD witness; testified AARO held 650+ cases",
-"family": null,
+"family": "testimony",
 "id": "hearing-2023-04-19",
 "l0": false,
 "label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
 "note": "The only open Senate hearing on AARO under its first director, published as S.Hrg. 118-648.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-04-19",
@@ -638,7 +638,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -648,13 +648,13 @@
 "direction": "out",
 "edgeId": "e-f145bbac09",
 "edgeLabel": "sole witness",
-"family": null,
+"family": "testimony",
 "id": "hearing-2023-04-19",
 "l0": false,
 "label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
 "note": "S. Hrg. 118-648 lists Kirkpatrick as the only witness.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-04-19",
@@ -664,7 +664,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 2,
@@ -674,13 +674,13 @@
 "direction": "out",
 "edgeId": "e-500f4e15f7",
 "edgeLabel": "The former AARO director denied the programme exists",
-"family": null,
+"family": "denial",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Kirkpatrick, AARO's first director, has publicly denied the existence of Immaculate Constellation. He left AARO in December 2023, before the report surfaced.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -690,7 +690,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "denied"
 },
 {
 "claimTier": 2,
@@ -700,13 +700,13 @@
 "direction": "out",
 "edgeId": "e-b0c6a16ee1",
 "edgeLabel": "Former AARO director denied the programme's existence",
-"family": null,
+"family": "denial",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-10-17",
@@ -721,7 +721,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "denied"
 },
 {
 "claimTier": 3,
@@ -731,13 +731,13 @@
 "direction": "in",
 "edgeId": "e-86089ba6c3",
 "edgeLabel": "successor whose reported apology to Congress concerns his predecessor's conduct",
-"family": null,
+"family": "testimony",
 "id": "jon-kosloski",
 "l0": false,
 "label": "Jon T. Kosloski",
 "note": "If Luna's account is accurate, a sitting AARO director conceded to members of Congress that the office's founding leadership behaved improperly toward Congress and witnesses - the nearest thing to an institutional admission in the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-15",
@@ -752,7 +752,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was acknowledged by"
 },
 {
 "claimTier": 1,
@@ -762,13 +762,13 @@
 "direction": "out",
 "edgeId": "e-f15528c536",
 "edgeLabel": "authored the op-ed attacking the whistleblowers seven weeks after leaving office",
-"family": null,
+"family": "documents",
 "id": "kirkpatrick-sciam-oped-2024",
 "l0": false,
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
 "note": "Published 19 January 2024, between his 1 December 2023 departure and the 8 March 2024 release of the report he had written.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-19",
@@ -778,7 +778,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -788,13 +788,13 @@
 "direction": "out",
 "edgeId": "e-aae62bb24d",
 "edgeLabel": "Bylined attribution of the allegations to circular reporting and unsupported belief",
-"family": null,
+"family": "documents",
 "id": "kirkpatrick-sciam-oped-2024",
 "l0": false,
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
 "note": "Published 19 January 2024 under Kirkpatrick's own name, seven weeks before AARO's Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency's conclusions in the press.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-19",
@@ -804,7 +804,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -814,13 +814,13 @@
 "direction": "in",
 "edgeId": "e-30eb06f403",
 "edgeLabel": "checked and rejected Kirkpatrick's balloon explanation",
-"family": null,
+"family": "denial",
 "id": "marik-von-rennenkampff",
 "l0": false,
 "label": "Marik von Rennenkampff",
 "note": "After Kirkpatrick attributed tic-tac-shaped sightings to a Florida company's escaped helium balloons, von Rennenkampff wrote in The Hill: 'After calling the company, I found Kirkpatrick's statement to be implausible.' The Debrief quotes the op-ed and identifies him as a former State Department Bureau of International Security and Nonproliferation analyst.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -835,7 +835,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -845,13 +845,13 @@
 "direction": "out",
 "edgeId": "e-4881201fcb",
 "edgeLabel": "AARO's founding director left government for the laboratory that analysed AARO's specimen",
-"family": null,
+"family": "role",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at ORNL, a UT-Battelle laboratory that had supported AARO during his tenure.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-08",
@@ -861,7 +861,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -871,13 +871,13 @@
 "direction": "out",
 "edgeId": "e-796a110be8",
 "edgeLabel": "post-government employment at the DOE lab that supported AARO and later held the UAP material sample",
-"family": null,
+"family": "role",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "Kirkpatrick became CTO for Defense and Intelligence Programs at ORNL, operated by UT-Battelle, immediately after leaving AARO. The post-employment question under 18 U.S.C. 207 has been raised publicly and never adjudicated.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-05",
@@ -892,7 +892,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -902,13 +902,13 @@
 "direction": "out",
 "edgeId": "e-0f5ca30c0b",
 "edgeLabel": "chief technology officer for defense and intelligence programs",
-"family": null,
+"family": "role",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "The first AARO director joined Oak Ridge National Laboratory in December 2023 - the laboratory that performed both of AARO's published specimen analyses.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -918,7 +918,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 3,
@@ -928,13 +928,13 @@
 "direction": "out",
 "edgeId": "e-42c168569d",
 "edgeLabel": "AARO's search for a concealed program ran against a document AARO did not control",
-"family": null,
+"family": "oversight",
 "id": "sap-annual-report",
 "l0": false,
 "label": "The annual DoD special access program report to Congress",
 "note": "The annual SAP report and the waived-program list are produced by cognizant authorities through DoD SAPCO and validated by the SRG and SAPOC; no AARO authority in statute or directive gives it access to the waived list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -949,7 +949,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 2,
@@ -959,13 +959,13 @@
 "direction": "in",
 "edgeId": "e-2e22906aa4",
 "edgeLabel": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
-"family": null,
+"family": "denial",
 "id": "shootdowns-feb-2023",
 "l0": false,
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "Kirkpatrick: 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.' The Canadian Clerk of the Privy Council's Secret memo of 14 Feb 2023 records the Yukon object's function and propulsion as unverified.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "explained_away",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-22",
@@ -980,7 +980,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "gave a conventional explanation for"
 }
 ],
 "date": "2024-03-08",

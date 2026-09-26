@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-be36f16bee",
 "edgeLabel": "Hypersonic boost-glide development across three services on appropriated funding",
-"family": null,
+"family": "analysis",
 "id": "d-aerospace",
 "l0": false,
 "label": "Aerospace Engineering & Advanced Projects",
 "note": "Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-07-16",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-48194974bf",
 "edgeLabel": "Every booster traced to Trident II, Peacekeeper or Polaris derived stages",
-"family": null,
+"family": "analysis",
 "id": "d-prop",
 "l0": false,
 "label": "Propulsion & Field Physics",
 "note": "The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-07-16",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-c82e6a1f2d",
 "edgeLabel": "Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it",
-"family": null,
+"family": "testimony",
 "id": "daniel-sheehan",
 "l0": false,
 "label": "Daniel P. Sheehan",
 "note": "Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-07-16",
@@ -121,7 +121,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-230aacfe3e",
 "edgeLabel": "DARPA and the Air Force initiated FALCON in 2003",
-"family": null,
+"family": "role",
 "id": "darpa",
 "l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-07-16",
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -157,13 +157,13 @@
 "direction": "out",
 "edgeId": "e-21afaec830",
 "edgeLabel": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
-"family": null,
+"family": "organisation",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Air Force, Navy and Army each run a component of the effort, and the Pentagon renamed it from prompt global strike to prompt strike in 2012.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-07-16",
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 }
 ],
 "coords": null,

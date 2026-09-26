@@ -68,13 +68,13 @@
 "direction": "in",
 "edgeId": "e-3e6bc6c54c",
 "edgeLabel": "Wrote to Podesta over three days in March 2015 offering programme names",
-"family": null,
+"family": "testimony",
 "id": "bob-fish",
 "l0": false,
 "label": "Bob Fish",
 "note": "Fish wrote to Podesta directly over three days in March 2015 offering programme names; Podesta replied once and forwarded one email onward.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2015-03-06",
@@ -84,7 +84,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "received an account from"
 },
 {
 "claimTier": 2,
@@ -94,13 +94,13 @@
 "direction": "out",
 "edgeId": "e-b27b0e0584",
 "edgeLabel": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
-"family": null,
+"family": "place-time",
 "id": "disclosure-project",
 "l0": true,
 "label": "The Disclosure Project",
 "note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-09-16",
@@ -110,7 +110,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "responded to"
 },
 {
 "claimTier": 3,
@@ -120,13 +120,13 @@
 "direction": "in",
 "edgeId": "e-bc1955e500",
 "edgeLabel": "The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff",
-"family": null,
+"family": "analysis",
 "id": "laurance-rockefeller",
 "l0": false,
 "label": "Laurance S. Rockefeller",
 "note": "Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-16",
@@ -141,7 +141,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -151,13 +151,13 @@
 "direction": "in",
 "edgeId": "e-14448fc00e",
 "edgeLabel": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
-"family": null,
+"family": "documents",
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-01-25",
@@ -167,7 +167,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -177,13 +177,13 @@
 "direction": "in",
 "edgeId": "e-a387ccf61b",
 "edgeLabel": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
-"family": null,
+"family": "custody",
 "id": "steven-greer",
 "l0": false,
 "label": "Steven M. Greer",
 "note": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-16",
@@ -193,7 +193,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "received records or material from"
 }
 ],
 "date": "2002-10-22",

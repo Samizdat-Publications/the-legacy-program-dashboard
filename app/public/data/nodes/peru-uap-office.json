@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-5207280985",
 "edgeLabel": "COMPARISON: a military-hosted office against a civil-aviation-hosted one, in the same region",
-"family": null,
+"family": "analysis",
 "id": "cefaa",
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "COMPARISON EDGE — no joint work is claimed. Andina names Chile among the regional peers DIFAA's reopening brought Peru level with, and reports Peru's stated posture on cooperation as reserved: it considered itself able to analyse the phenomena independently and would appeal to exchange with neighbours only exceptionally, to compare data. Structurally the two are opposites: DIFAA sits inside the Fuerza Aérea del Perú under DINAE, while CEFAA/SEFAA sits inside Chile's civil aviation authority, the DGAC, and frames the subject as an aviation-safety matter. Tier 2 — the structural contrast is analytic, the Peruvian facts are Andina-sourced and the Chilean facts sit on the cefaa and dgac-chile nodes.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -68,7 +68,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -78,13 +78,13 @@
 "direction": "out",
 "edgeId": "e-16b621f8a6",
 "edgeLabel": "COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil",
-"family": null,
+"family": "analysis",
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "COMPARISON EDGE — no institutional contact between the FAP and the FAB is claimed. Peru's state news agency Andina, reporting the reopening on 18 October 2013, closes: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office's identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years 'a causa de problemas administrativos'. The reopening was announced at an FAP-hosted 'Encuentro sobre Fenómenos Aéreos Anómalos' addressing the Nazca Lines question.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -99,7 +99,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -109,13 +109,13 @@
 "direction": "out",
 "edgeId": "e-a1e62ba125",
 "edgeLabel": "COMPARISON: the military-host model against the space-agency-host model",
-"family": null,
+"family": "analysis",
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: 'a country has an office' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA's founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -140,7 +140,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

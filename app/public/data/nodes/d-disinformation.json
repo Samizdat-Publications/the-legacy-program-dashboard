@@ -42,13 +42,13 @@
 "direction": "out",
 "edgeId": "e-56a64a5dda",
 "edgeLabel": "The largest disputed document corpus",
-"family": null,
+"family": "analysis",
 "id": "d-mj12",
 "l0": false,
 "label": "Majestic-12 Corpus",
 "note": "The FBI's Majestic 12 file records the investigation into the corpus's authenticity, making MJ-12 the principal case study for the disinformation domain.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-04-01",
@@ -58,7 +58,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -68,13 +68,13 @@
 "direction": "in",
 "edgeId": "e-25b998b015",
 "edgeLabel": "Fabricated material as the delivery vehicle",
-"family": null,
+"family": "analysis",
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -84,7 +84,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 2,
@@ -94,13 +94,13 @@
 "direction": "in",
 "edgeId": "e-6a2199fb4e",
 "edgeLabel": "A cluster whose central witness has a confessed author",
-"family": null,
+"family": "analysis",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "It belongs in this domain on its own evidence rather than by association with the Bennewitz operation, because the confession describes the deliberate manufacture of apparent independent corroboration.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-04-02",
@@ -110,7 +110,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -120,13 +120,13 @@
 "direction": "in",
 "edgeId": "e-f07e2d9e5f",
 "edgeLabel": "A staffed and signed plan to manufacture events and attribute them to another state",
-"family": null,
+"family": "analysis",
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1962-03-13",
@@ -136,7 +136,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "has as an instance"
 }
 ],
 "coords": null,

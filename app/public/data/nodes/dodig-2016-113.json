@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-f251553a00",
 "edgeLabel": "OIG audit report of 26 July 2016",
-"family": null,
+"family": "organisation",
 "id": "dod-oig",
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The report is the OIG's own audit of Army General Fund compilation adjustments for FY2015. Attested by the report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-07-26",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 2,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-374b42a76a",
 "edgeLabel": "The single largest figure in the $21 trillion compilation comes from this report",
-"family": null,
+"family": "documents",
 "id": "skidmore-fitts-report",
 "l0": false,
 "label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "note": "The Skidmore-Fitts compilation draws on published OIG reports including DODIG-2016-113, whose $6.5 trillion year-end unsupported adjustment figure is the largest single component. Attested by the authors' own supporting documentation index.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-09-01",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "is cited by"
 }
 ],
 "coords": null,

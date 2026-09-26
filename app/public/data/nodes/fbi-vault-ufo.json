@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-bce3600bac",
 "edgeLabel": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
-"family": null,
+"family": "analysis",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-90237c1685",
 "edgeLabel": "Published FBI 62-HQ-83894, well beyond the Vault's 1947-1954 scope",
-"family": null,
+"family": "documents",
 "id": "pursue-release-01",
 "l0": false,
 "label": "PURSUE Release 01",
 "note": "The Bureau's master flying disc file covering 1947 to 1968 was released as a single 101MB PDF through war.gov rather than through the FBI's own reading room.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -88,7 +88,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "was released by"
 },
 {
 "claimTier": 2,
@@ -98,13 +98,13 @@
 "direction": "in",
 "edgeId": "e-d353ac476f",
 "edgeLabel": "29 FBI files including a 2021-2025 orb corpus and an agents' own FD-1057",
-"family": null,
+"family": "documents",
 "id": "pursue-release-03",
 "l0": false,
 "label": "PURSUE Release 03",
 "note": "The tranche established the FBI as an active modern UAP collector, a posture invisible in its own Vault collection last modified in 2013.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -119,7 +119,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "was released by"
 }
 ],
 "coords": null,

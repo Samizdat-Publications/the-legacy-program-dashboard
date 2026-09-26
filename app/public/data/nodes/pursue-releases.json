@@ -155,13 +155,13 @@
 "direction": "out",
 "edgeId": "e-528e7e14e9",
 "edgeLabel": "Release programme runs parallel to, not in place of, AARO reporting",
-"family": null,
+"family": "analysis",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Department of War states it 'will continue to conduct separate reporting on resolved UAP cases, as mandated by statute' - meaning the historical-records release and the contemporary programme reporting line remain separate. This structure allows maximal apparent transparency about the past while the present reporting is unchanged.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -176,7 +176,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -186,13 +186,13 @@
 "direction": "out",
 "edgeId": "e-17c4d7d422",
 "edgeLabel": "AARO identifies and stages the material released under PURSUE",
-"family": null,
+"family": "organisation",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Department of War's PURSUE site publishes on a rolling basis - releases 01 through 05 between 8 May and 7 August 2026 - with AARO identifying material and ODNI coordinating across agencies.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -202,7 +202,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 3,
@@ -212,13 +212,13 @@
 "direction": "in",
 "edgeId": "e-e34fc1c2ae",
 "edgeLabel": "recommendations the release programme did not adopt",
-"family": null,
+"family": "testimony",
 "id": "aaro-2025-workshop-white-paper",
 "l0": false,
 "label": "AARO 2025 UAP workshop white paper (February 2026)",
 "note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -233,7 +233,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "is contradicted by"
 },
 {
 "claimTier": 3,
@@ -243,13 +243,13 @@
 "direction": "in",
 "edgeId": "e-6cbcdbb3c0",
 "edgeLabel": "Process described as immovable was moved by cabinet direction in weeks",
-"family": null,
+"family": "testimony",
 "id": "aaro-declassification-info-paper-2025",
 "l0": false,
 "label": "AARO Declassification Information Paper (September 2025)",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-01",
@@ -264,7 +264,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "contradicts"
 },
 {
 "claimTier": 3,
@@ -274,13 +274,13 @@
 "direction": "in",
 "edgeId": "e-6074f1c5ae",
 "edgeLabel": "The statutory report never mentions the department's own release programme",
-"family": null,
+"family": "denial",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Publishing a statutory UAP report three tranches into the largest official UAP release in US history without acknowledging it places the office outside the authorship of the disclosure.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-21",
@@ -295,7 +295,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is left out of"
 },
 {
 "claimTier": 3,
@@ -305,13 +305,13 @@
 "direction": "in",
 "edgeId": "e-e27b3d0c2c",
 "edgeLabel": "statutory analysis trails executive publication",
-"family": null,
+"family": "place-time",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The FY2025 report appeared months late and after three PURSUE tranches, so the Department's analytic product followed rather than accompanied its own releases.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -326,7 +326,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 3,
@@ -336,13 +336,13 @@
 "direction": "in",
 "edgeId": "e-39102ebf90",
 "edgeLabel": "Raw files clear in weeks; the narrative volume has not cleared in two years",
-"family": null,
+"family": "analysis",
 "id": "aaro-historical-record-vol2",
 "l0": true,
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "The contrast maps where the sensitivity sits: imagery can be published on a cabinet order, analytic conclusions about the department's own history cannot.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -357,7 +357,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -367,13 +367,13 @@
 "direction": "out",
 "edgeId": "e-de881f56d0",
 "edgeLabel": "sixteen gigabytes released, one promised report unpublished",
-"family": null,
+"family": "analysis",
 "id": "aaro-historical-record-vol2",
 "l0": true,
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -388,7 +388,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -398,13 +398,13 @@
 "direction": "in",
 "edgeId": "e-1a6a539729",
 "edgeLabel": "AARO's channel stops; the Secretary's channel starts",
-"family": null,
+"family": "organisation",
 "id": "aaro-official-uap-imagery",
 "l0": false,
 "label": "AARO Official UAP Imagery releases (PR series)",
 "note": "AARO's last imagery release is 6 January 2026; the Department's first tranche is 8 May 2026 with 29 videos, and AARO published nothing further.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -419,7 +419,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 2,
@@ -429,13 +429,13 @@
 "direction": "in",
 "edgeId": "e-4e5792c74f",
 "edgeLabel": "Catalogued the missing fields in the case summaries",
-"family": null,
+"family": "oversight",
 "id": "alejandro-rojas",
 "l0": false,
 "label": "Alejandro Rojas",
 "note": "Rojas identified absent coordinates, sensor parameters and altitude data as the specific omissions that block independent kinematic analysis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-14",
@@ -445,7 +445,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was investigated by"
 },
 {
 "claimTier": 3,
@@ -455,13 +455,13 @@
 "direction": "in",
 "edgeId": "e-8c0f7b4070",
 "edgeLabel": "contemplated branding not used",
-"family": null,
+"family": "place-time",
 "id": "alien-gov-domains-2026",
 "l0": false,
 "label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
 "note": "The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War's estate instead.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-03-18",
@@ -476,7 +476,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "came after"
 },
 {
 "claimTier": 2,
@@ -486,13 +486,13 @@
 "direction": "in",
 "edgeId": "e-cb85fb5d52",
 "edgeLabel": "supplies the index the releasing authority did not",
-"family": null,
+"family": "documents",
 "id": "blackvault-pursue-archive",
 "l0": false,
 "label": "The Black Vault searchable PURSUE files archive",
 "note": "Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "studied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-11",
@@ -502,7 +502,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was studied by"
 },
 {
 "claimTier": 1,
@@ -512,13 +512,13 @@
 "direction": "in",
 "edgeId": "e-54740bc2ba",
 "edgeLabel": "Republished by the Department of War as CIA-UAP-015 in PURSUE Release 03",
-"family": null,
+"family": "documents",
 "id": "blue-book-special-report-14",
 "l0": true,
 "label": "Project Blue Book Special Report No. 14",
 "note": "The same 1955 Battelle report has now been published by the government three times across seventy years without the underlying case data ever being independently reanalysed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-12",
@@ -528,7 +528,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "released"
 },
 {
 "claimTier": 1,
@@ -538,13 +538,13 @@
 "direction": "in",
 "edgeId": "e-58a94cc465",
 "edgeLabel": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
-"family": null,
+"family": "documents",
 "id": "burlison-mitre-letter-2026",
 "l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-26",
@@ -554,7 +554,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -564,13 +564,13 @@
 "direction": "in",
 "edgeId": "e-762b4fcde6",
 "edgeLabel": "'Data alone is not disclosure'",
-"family": null,
+"family": "denial",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Mellon's judgement six days after Release 01 became the framing for the entire research community's response.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-14",
@@ -580,7 +580,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -590,13 +590,13 @@
 "direction": "in",
 "edgeId": "e-b36551417c",
 "edgeLabel": "'Data alone is not disclosure' - the framing the House adopted",
-"family": null,
+"family": "denial",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Mellon conceded the scale of the retained holdings is itself a revelation while rejecting the sufficiency of context-free files.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-14",
@@ -606,7 +606,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -616,13 +616,13 @@
 "direction": "out",
 "edgeId": "e-c34cbffa9d",
 "edgeLabel": "Release volume without release quality",
-"family": null,
+"family": "testimony",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-13",
@@ -632,7 +632,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "contradicts"
 },
 {
 "claimTier": 1,
@@ -642,13 +642,13 @@
 "direction": "out",
 "edgeId": "e-818e510ead",
 "edgeLabel": "Run by the Department of War with ODNI support",
-"family": null,
+"family": "organisation",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Created by presidential directive of 19 February 2026; five releases published between 8 May and 7 August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -658,7 +658,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 3,
@@ -668,13 +668,13 @@
 "direction": "in",
 "edgeId": "e-37c43f146f",
 "edgeLabel": "imagery released, methodology withheld",
-"family": null,
+"family": "testimony",
 "id": "dodig-2021-000806-foia",
 "l0": false,
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-16",
@@ -689,7 +689,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "contradicts"
 },
 {
 "claimTier": 1,
@@ -699,13 +699,13 @@
 "direction": "in",
 "edgeId": "e-e537f24a5c",
 "edgeLabel": "Enigma cross-referencing PURSUE files against its civilian sighting database",
-"family": null,
+"family": "documents",
 "id": "enigma-labs",
 "l0": false,
 "label": "Enigma Labs",
 "note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "studied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -720,7 +720,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was studied by"
 },
 {
 "claimTier": 3,
@@ -730,13 +730,13 @@
 "direction": "in",
 "edgeId": "e-c057bc0e2f",
 "edgeLabel": "Hearing, then letter, then release - the causal spine of 2026",
-"family": null,
+"family": "place-time",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The sequence runs from sworn testimony that video was being withheld, through a subcommittee chair's letter to the Secretary, to a release channel that bypassed the office entirely.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -756,7 +756,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -766,13 +766,13 @@
 "direction": "out",
 "edgeId": "e-c05f0f0dc2",
 "edgeLabel": "Executive-controlled release running in parallel to, and in tension with, the committee's compelled-production track",
-"family": null,
+"family": "analysis",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The House caucus response has been to keep issuing letters on the premise that a curated release cannot substitute for compelled production.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-14",
@@ -787,7 +787,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -797,13 +797,13 @@
 "direction": "out",
 "edgeId": "e-11516343fa",
 "edgeLabel": "Two parallel release architectures, only one statutory",
-"family": null,
+"family": "analysis",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "PURSUE publishes at will through the Secretary's website with no FOIA case numbers or exemption citations, while the statutory NARA collection publishes no compliance accounting - neither channel can be audited.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-07",
@@ -818,7 +818,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -828,13 +828,13 @@
 "direction": "out",
 "edgeId": "e-e08a48e3fc",
 "edgeLabel": "Metadata stripping defeats the study team's core recommendation",
-"family": null,
+"family": "conduct",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acted_against",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-13",
@@ -849,7 +849,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "took action against"
 },
 {
 "claimTier": 1,
@@ -859,13 +859,13 @@
 "direction": "out",
 "edgeId": "e-e7108b95d5",
 "edgeLabel": "Two decades of aviator records released only under external pressure",
-"family": null,
+"family": "analysis",
 "id": "navy-range-fouler-reports",
 "l0": false,
 "label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
 "note": "The 2023 range fouler release came via FOIA; the 2026 PURSUE releases came via presidential directive. Neither came from the reporting system that was supposed to surface them.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-01-14",
@@ -880,7 +880,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -890,13 +890,13 @@
 "direction": "in",
 "edgeId": "e-63726b55c3",
 "edgeLabel": "The data-scarcity claim survives the release only because the parameters were stripped",
-"family": null,
+"family": "analysis",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "PURSUE falsified the claim that the imagery does not exist while preserving the claim that the data are insufficient, by publishing video without coordinates, sensor parameters or altitude.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -911,7 +911,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -921,13 +921,13 @@
 "direction": "in",
 "edgeId": "e-91af0f2574",
 "edgeLabel": "Releasing authority; signed transparency statement on the portal",
-"family": null,
+"family": "role",
 "id": "pete-hegseth",
 "l0": false,
 "label": "Pete Hegseth",
 "note": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -942,7 +942,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -952,13 +952,13 @@
 "direction": "out",
 "edgeId": "e-6f531eb64f",
 "edgeLabel": "physical release locations",
-"family": null,
+"family": "custody",
 "id": "pursue-bundle-urls",
 "l0": false,
 "label": "PURSUE release bundle URLs (five tranches, documents and video)",
 "note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -968,7 +968,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -978,13 +978,13 @@
 "direction": "out",
 "edgeId": "e-3bda08c4ab",
 "edgeLabel": "First tranche, 8 May 2026",
-"family": null,
+"family": "organisation",
 "id": "pursue-release-01",
 "l0": false,
 "label": "PURSUE Release 01",
 "note": "160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, at least 100 carrying redactions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1004,7 +1004,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -1014,13 +1014,13 @@
 "direction": "out",
 "edgeId": "e-802a777535",
 "edgeLabel": "Second tranche, 22 May 2026",
-"family": null,
+"family": "organisation",
 "id": "pursue-release-02",
 "l0": false,
 "label": "PURSUE Release 02",
 "note": "64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series; the 5.6GB video bundle is the largest of the five.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1035,7 +1035,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -1045,13 +1045,13 @@
 "direction": "out",
 "edgeId": "e-0777cea2aa",
 "edgeLabel": "Third tranche, 12 June 2026",
-"family": null,
+"family": "organisation",
 "id": "pursue-release-03",
 "l0": false,
 "label": "PURSUE Release 03",
 "note": "72 files with the FBI the largest contributor at 29 files, including a less-redacted CIA Robertson Panel record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1066,7 +1066,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -1076,13 +1076,13 @@
 "direction": "out",
 "edgeId": "e-75344f3b9a",
 "edgeLabel": "Fourth tranche, 10 July 2026",
-"family": null,
+"family": "organisation",
 "id": "pursue-release-04",
 "l0": false,
 "label": "PURSUE Release 04",
 "note": "227MB of documents and 1.4GB of video spanning the 1940s to 2026, published without any stated file count.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1097,7 +1097,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -1107,13 +1107,13 @@
 "direction": "out",
 "edgeId": "e-73efa12ec4",
 "edgeLabel": "Fifth tranche, 7 August 2026",
-"family": null,
+"family": "organisation",
 "id": "pursue-release-05",
 "l0": false,
 "label": "PURSUE Release 05",
 "note": "41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 case.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1128,7 +1128,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -1138,13 +1138,13 @@
 "direction": "in",
 "edgeId": "e-3abcbd6b60",
 "edgeLabel": "operational critique of the release format",
-"family": null,
+"family": "denial",
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-14",
@@ -1154,7 +1154,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -1164,13 +1164,13 @@
 "direction": "in",
 "edgeId": "e-c96292e7fb",
 "edgeLabel": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
-"family": null,
+"family": "denial",
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-14",
@@ -1180,7 +1180,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 1,
@@ -1190,13 +1190,13 @@
 "direction": "in",
 "edgeId": "e-ae3dacd247",
 "edgeLabel": "Lake Huron engagement video withheld until the May 2026 PURSUE release",
-"family": null,
+"family": "documents",
 "id": "shootdowns-feb-2023",
 "l0": false,
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "Infrared footage of the 12 February 2023 shootdown was released on 22 May 2026 via PURSUE, with the entry noting an unusual lack of substantiated chain of custody.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-22",
@@ -1211,7 +1211,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "released"
 },
 {
 "claimTier": 1,
@@ -1221,13 +1221,13 @@
 "direction": "in",
 "edgeId": "e-f29e7147c3",
 "edgeLabel": "Sol issued press statements on each major PURSUE release",
-"family": null,
+"family": "place-time",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the PURSUE releases, positioning itself as the interpretive authority on the released record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -1237,7 +1237,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "drew a response from"
 },
 {
 "claimTier": 2,
@@ -1247,13 +1247,13 @@
 "direction": "in",
 "edgeId": "e-33aa609aa1",
 "edgeLabel": "Said the absence of metadata made it impossible to conclude any object was truly anomalous",
-"family": null,
+"family": "denial",
 "id": "tim-gallaudet",
 "l0": false,
 "label": "Timothy Gallaudet",
 "note": "A 2024 House witness assessing the 2026 executive release.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-14",
@@ -1263,7 +1263,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -1273,13 +1273,13 @@
 "direction": "in",
 "edgeId": "e-59de4c450c",
 "edgeLabel": "Identified the missing metadata as the disqualifying defect",
-"family": null,
+"family": "denial",
 "id": "tim-gallaudet",
 "l0": false,
 "label": "Timothy Gallaudet",
 "note": "Gallaudet welcomed the first open admission that UAP files had been shielded and said the absence of metadata made it impossible to conclude any object was truly anomalous.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-14",
@@ -1294,7 +1294,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 1,
@@ -1304,13 +1304,13 @@
 "direction": "in",
 "edgeId": "e-cff8e5d26c",
 "edgeLabel": "The directive is the stated basis of the release programme",
-"family": null,
+"family": "law",
 "id": "trump-uap-release-directive-2026",
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1335,7 +1335,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was created by"
 },
 {
 "claimTier": 2,
@@ -1345,13 +1345,13 @@
 "direction": "in",
 "edgeId": "e-90f215c57a",
 "edgeLabel": "ODNI coordinating authority for the release programme",
-"family": null,
+"family": "oversight",
 "id": "tulsi-gabbard",
 "l0": false,
 "label": "Tulsi Gabbard",
 "note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-09",
@@ -1366,7 +1366,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was overseen by"
 },
 {
 "claimTier": 2,
@@ -1376,13 +1376,13 @@
 "direction": "in",
 "edgeId": "e-e80ce67392",
 "edgeLabel": "Gerb analysed the PURSUE releases as they were published",
-"family": null,
+"family": "media",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb ran a livestream on 'UFO File Drop 1' on 12 May 2026 and discussed the release programme in his 2 March 2026 livestream on Trump's announcement, making him one of the first analysts working the released record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-12",
@@ -1397,7 +1397,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was reported on by"
 },
 {
 "claimTier": 2,
@@ -1407,13 +1407,13 @@
 "direction": "in",
 "edgeId": "e-74c9ca2665",
 "edgeLabel": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
-"family": null,
+"family": "law",
 "id": "uap-nda-waiver-directive-2026",
 "l0": false,
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-21",
@@ -1423,7 +1423,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -1433,13 +1433,13 @@
 "direction": "in",
 "edgeId": "e-ae2c9f517d",
 "edgeLabel": "Council established following the PURSUE releases",
-"family": null,
+"family": "place-time",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-22",
@@ -1464,7 +1464,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 2,
@@ -1474,13 +1474,13 @@
 "direction": "in",
 "edgeId": "e-90873ab7a0",
 "edgeLabel": "Statutory backstop for an executive release programme",
-"family": null,
+"family": "law",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "Burlison's own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE's defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-23",
@@ -1495,7 +1495,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -1505,13 +1505,13 @@
 "direction": "out",
 "edgeId": "e-bca42667bb",
 "edgeLabel": "Published through the Secretary's web estate, not AARO's",
-"family": null,
+"family": "documents",
 "id": "war-gov-ufo-portal",
 "l0": false,
 "label": "war.gov/UFO release portal",
 "note": "All five tranches are published on the Secretary of War's web estate at war.gov/UFO, with video served from a CloudFront distribution and no FOIA case numbers or exemption citations.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1526,7 +1526,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "published"
 }
 ],
 "coords": null,

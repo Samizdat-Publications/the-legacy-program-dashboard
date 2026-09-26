@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-2d0a63f811",
 "edgeLabel": "Built around Grusch's NRO and NGA service and UAPTF liaison role",
-"family": null,
+"family": "documents",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Gerb frames the NRO's entry into the discussion through Grusch, who served in both the NRO and NGA and acted as liaison from those agencies to the UAP Task Force.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-13",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 2,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-bb241f29a7",
 "edgeLabel": "Alleges NRO Sentient AI fed IMINT and SIGINT to Immaculate Constellation",
-"family": null,
+"family": "testimony",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The most consequential single claim in the NRO investigation: that the NRO's Sentient program supplied tasked and untasked overhead collection to the USAP Immaculate Constellation, established 2017. This supplies a concrete collection pipeline for the programme Shellenberger entered into the congressional record in November 2024.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-13",
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-84051883d6",
 "edgeLabel": "Alleges NRO mission support to crash retrieval teams and a NTTR-based team",
-"family": null,
+"family": "testimony",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-13",
@@ -109,7 +109,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -119,13 +119,13 @@
 "direction": "in",
 "edgeId": "e-e73fa81d8f",
 "edgeLabel": "Gerb authored the NRO investigation",
-"family": null,
+"family": "documents",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 13 December 2025; 141,122 views; nearly three hours.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-13",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

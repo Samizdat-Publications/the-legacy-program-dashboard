@@ -50,13 +50,13 @@
 "direction": "out",
 "edgeId": "e-7e6b2c74b5",
 "edgeLabel": "Served as deputy to the Director of Central Intelligence",
-"family": null,
+"family": "oversight",
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "Cabell's DDCI service from 1953 runs alongside the board's Dulles node; the deputy relationship is the office, and no shared action is asserted here.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-03",
@@ -66,7 +66,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -76,13 +76,13 @@
 "direction": "out",
 "edgeId": "e-7dab5634b4",
 "edgeLabel": "Deputy Director of Central Intelligence",
-"family": null,
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-03",
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -102,13 +102,13 @@
 "direction": "out",
 "edgeId": "e-c5cc37f1cc",
 "edgeLabel": "Signed the CIA reply to Keyhoe",
-"family": null,
+"family": "testimony",
 "id": "donald-keyhoe",
 "l0": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-03",
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "passed an account to"
 },
 {
 "claimTier": 1,
@@ -128,13 +128,13 @@
 "direction": "out",
 "edgeId": "e-e38b67d35a",
 "edgeLabel": "Air Force intelligence chief at Blue Book's creation",
-"family": null,
+"family": "place-time",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The edge exists to carry the correction: the office he held in March 1952 was USAF Director of Intelligence, not a CIA post, and the transcript that surfaced him has it the other way round.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-03",
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -154,13 +154,13 @@
 "direction": "out",
 "edgeId": "e-6a9d4d46ea",
 "edgeLabel": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
-"family": null,
+"family": "role",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "Both FRUS persons lists give the office; the later volume dates it to 1953 within its own coverage. This is the office he held while Project Blue Book was created.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-03",
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "1953-01-01",

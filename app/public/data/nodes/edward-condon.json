@@ -111,13 +111,13 @@
 "direction": "out",
 "edgeId": "e-232e3258de",
 "edgeLabel": "Condon directed the study and wrote its conclusions personally",
-"family": null,
+"family": "role",
 "id": "condon-committee",
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Condon authored the summary, conclusions and recommendations placed at the front of the report — the only section most readers and reporters ever saw.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -127,7 +127,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -137,13 +137,13 @@
 "direction": "in",
 "edgeId": "e-6a7962d86b",
 "edgeLabel": "Condon praised him by name in the study he directed",
-"family": null,
+"family": "testimony",
 "id": "donald-h-menzel",
 "l0": false,
 "label": "Donald H. Menzel",
 "note": "The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1969",
@@ -153,7 +153,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "acknowledged"
 },
 {
 "claimTier": 2,
@@ -163,13 +163,13 @@
 "direction": "out",
 "edgeId": "e-e5faf782b0",
 "edgeLabel": "Condon fired the investigators who surfaced Low's memo",
-"family": null,
+"family": "analysis",
 "id": "robert-low",
 "l0": false,
 "label": "Robert J. Low",
 "note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -179,7 +179,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "affects"
 }
 ],
 "date": "1969-01-08",

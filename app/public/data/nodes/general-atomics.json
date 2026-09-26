@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-cc83b60f31",
 "edgeLabel": "Securities disclosure is why the TTSA arrangement is visible and a privately held prime's would not be",
-"family": null,
+"family": "analysis",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "TTSA's Reg A reporting obligations forced the CRADA into the public record. A privately held prime such as General Atomics has no equivalent obligation, which is the structural reason the documented case is a small company rather than a large one.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-08-03",
@@ -50,7 +50,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

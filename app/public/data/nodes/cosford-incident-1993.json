@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-4f84c97a26",
 "edgeLabel": "Three years before the policy review that commissioned Condign",
-"family": null,
+"family": "place-time",
 "id": "project-condign",
 "l0": false,
 "label": "Project Condign",
 "note": "Reasoning: `project-condign`'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-08-17",
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-c67290f01a",
 "edgeLabel": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
-"family": null,
+"family": "documents",
 "id": "uk-defe24",
 "l0": false,
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -89,7 +89,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-180a0085aa",
 "edgeLabel": "The UFO desk worked the case and asked for a radar replay",
-"family": null,
+"family": "oversight",
 "id": "uk-mod-ufo-desk",
 "l0": false,
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "The National Archives' guide says the MoD's UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-08-17",
@@ -115,7 +115,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was investigated by"
 }
 ],
 "coords": null,

@@ -59,13 +59,13 @@
 "direction": "in",
 "edgeId": "e-004292d479",
 "edgeLabel": "Testified to the current figures on the congressional record",
-"family": null,
+"family": "testimony",
 "id": "brett-mansfield",
 "l0": false,
 "label": "Brett A. Mansfield",
 "note": "Deputy Inspector General Mansfield told the House Committee on Oversight and Government Reform on 13 May 2026 that unsupported adjustments exceeded $859 billion in the last two quarters of FY2025. Attested by his published oral statement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-13",
@@ -75,7 +75,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -85,13 +85,13 @@
 "direction": "out",
 "edgeId": "e-60a074ea5c",
 "edgeLabel": "eight consecutive disclaimers of opinion are the measurable size of the gap this domain is about",
-"family": null,
+"family": "analysis",
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "The Department has undergone full-scope financial statement audits since FY2018 and has received a disclaimer of opinion every year through FY2025 - eight in a row. A disclaimer means the auditors could not obtain sufficient appropriate evidence to form an opinion, which is the auditable fact that defines the boundary of what can be traced from appropriation to expenditure. This is the single hardest, least deniable member of this domain.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-15",
@@ -106,7 +106,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -116,13 +116,13 @@
 "direction": "in",
 "edgeId": "e-eb0a34f7e0",
 "edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
-"family": null,
+"family": "role",
 "id": "david-norquist",
 "l0": false,
 "label": "David L. Norquist",
 "note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-11-15",
@@ -132,7 +132,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -142,13 +142,13 @@
 "direction": "out",
 "edgeId": "e-902d4727c0",
 "edgeLabel": "The OIG is the independent auditor issuing the annual opinion",
-"family": null,
+"family": "oversight",
 "id": "dod-oig",
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-11-15",
@@ -158,7 +158,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -168,13 +168,13 @@
 "direction": "in",
 "edgeId": "e-bb2fb43c3b",
 "edgeLabel": "The current authoritative statement of the audit result",
-"family": null,
+"family": "documents",
 "id": "dowig-2026-081",
 "l0": false,
 "label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
 "note": "DOWIG-2026-081 records the eighth consecutive disclaimer, 26 material weaknesses, and more than $859 billion of unsupported adjustments in two quarters of FY2025. Attested by the report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-12",
@@ -184,7 +184,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -194,13 +194,13 @@
 "direction": "in",
 "edgeId": "e-9cff98ba41",
 "edgeLabel": "Thirty years of Comptroller General certification that the books cannot produce reliable information",
-"family": null,
+"family": "oversight",
 "id": "gao-high-risk-dod-fm",
 "l0": false,
 "label": "GAO High-Risk List: DOD Financial Management",
 "note": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained, alongside four other DoD entries. Attested by GAO's own list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -210,7 +210,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was investigated by"
 },
 {
 "claimTier": 3,
@@ -220,13 +220,13 @@
 "direction": "out",
 "edgeId": "e-588b33de6e",
 "edgeLabel": "An unauditable ledger cannot disprove the allegation",
-"family": null,
+"family": "analysis",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "The Department's standing 'Universe of Transactions' material weakness means the complete population of its transactions is not established; no search of that population can therefore establish that funds did not flow to an undisclosed activity. Reasoned inference from the auditor's own definition of the weakness.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-12",
@@ -236,7 +236,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 3,
@@ -246,13 +246,13 @@
 "direction": "in",
 "edgeId": "e-3dbc11c416",
 "edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
-"family": null,
+"family": "analysis",
 "id": "reprogramming-dd1415",
 "l0": false,
 "label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
 "note": "The FMR permits internal reprogramming on DD 1415-3 with no congressional action and below-threshold realignment with none at all; the FY2025 audit found more than $859 billion of adjustments in two quarters that could not be supported. The inference is that the undocumented volume is concentrated in the layer that generates no external record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2015-09-01",
@@ -262,7 +262,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -272,13 +272,13 @@
 "direction": "in",
 "edgeId": "e-6cb045b811",
 "edgeLabel": "Authorises modification of the same public financial reports the audit examines",
-"family": null,
+"family": "law",
 "id": "sffas-56",
 "l0": false,
 "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
 "note": "SFFAS 56 became effective for periods beginning after 30 September 2018 - the first period after the Department's first full-scope audit - and permits amounts to be presented in a different line item without narrative explanation. Attested by the Statement and by the FY2018 Agency Financial Report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-10-04",
@@ -288,7 +288,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is governed by"
 }
 ],
 "coords": null,

@@ -314,13 +314,13 @@
 "direction": "out",
 "edgeId": "e-fe5b13f2bd",
 "edgeLabel": "Named as a target of his records investigation",
-"family": null,
+"family": "oversight",
 "id": "aerospace-corporation",
 "l0": false,
 "label": "The Aerospace Corporation",
 "note": "Aerospace holds the technical judgement on national security space sensing; no letter to Aerospace has been made public as of 12 August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-16",
@@ -340,7 +340,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -350,13 +350,13 @@
 "direction": "out",
 "edgeId": "e-1ad1dabe3d",
 "edgeLabel": "Named BAASS from the dais as a reverse-engineering exploitation question",
-"family": null,
+"family": "oversight",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Asked of witness Dylan Borland at the 9 September 2025 hearing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -366,7 +366,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 2,
@@ -376,13 +376,13 @@
 "direction": "out",
 "edgeId": "e-e40bf2c59d",
 "edgeLabel": "Author of the May 2026 demand for the 1952 'flying saucer talk' recording",
-"family": null,
+"family": "documents",
 "id": "burlison-mit-lincoln-letter-2026",
 "l0": false,
 "label": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
 "note": "Announced 15 May 2026; Lincoln Laboratory's attorneys agreed to comply within 30 days.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-16",
@@ -392,7 +392,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -402,13 +402,13 @@
 "direction": "out",
 "edgeId": "e-366f9ac88b",
 "edgeLabel": "Author of the 22 May 2026 records demand",
-"family": null,
+"family": "documents",
 "id": "burlison-mitre-letter-2026",
 "l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "Ten pages, more than forty requests, records back to 1930, 45-day deadline, native electronic format with complete metadata.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-27",
@@ -418,7 +418,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -428,13 +428,13 @@
 "direction": "out",
 "edgeId": "e-de331ad177",
 "edgeLabel": "Author of the 22 May 2026 production request to MITRE",
-"family": null,
+"family": "documents",
 "id": "burlison-mitre-letter-2026",
 "l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "Burlison, a member of the House Oversight Task Force on the Declassification of Federal Secrets, issued the first congressional records demand ever addressed to an FFRDC operator on UAP.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-26",
@@ -444,7 +444,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -454,13 +454,13 @@
 "direction": "out",
 "edgeId": "e-3e48075fa9",
 "edgeLabel": "author",
-"family": null,
+"family": "documents",
 "id": "burlison-varginha-letters-2026",
 "l0": false,
 "label": "Burlison letters to CIA and FBI on the 1996 Varginha/Campinas incident (8 July 2026)",
 "note": "Letters to CIA and FBI requesting records on the January 1996 Varginha/Campinas incident in Brazil.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-08",
@@ -470,7 +470,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -480,13 +480,13 @@
 "direction": "out",
 "edgeId": "e-10fe5006c9",
 "edgeLabel": "Called on the President to waive all NDAs for UAP whistleblowers; described a dead drop to his office",
-"family": null,
+"family": "testimony",
 "id": "capitol-disclosure-event-2026-06-09",
 "l0": false,
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "note": "'For decades, the American people have been treated like children.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-09",
@@ -496,7 +496,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -506,13 +506,13 @@
 "direction": "out",
 "edgeId": "e-580bcb118e",
 "edgeLabel": "Caucus member",
-"family": null,
+"family": "role",
 "id": "congressional-uap-caucus",
 "l0": true,
 "label": "Congressional UAP Caucus",
 "note": "Described as a member of the caucus in March 2024 and again in June 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-12",
@@ -527,7 +527,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -537,13 +537,13 @@
 "direction": "in",
 "edgeId": "e-30c7b9de6c",
 "edgeLabel": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
-"family": null,
+"family": "role",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-03-26",
@@ -563,7 +563,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -573,13 +573,13 @@
 "direction": "in",
 "edgeId": "e-9a878750ea",
 "edgeLabel": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
-"family": null,
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Burlison put both on the record at the 9 September 2025 hearing: 'not an elected official, but someone in staff blocked us. And I have had it.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -589,7 +589,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -599,13 +599,13 @@
 "direction": "out",
 "edgeId": "e-7c891cdbc8",
 "edgeLabel": "Asked him on the record whether BAASS was involved in reverse-engineering exploitation of NHI craft",
-"family": null,
+"family": "oversight",
 "id": "dylan-borland",
 "l0": false,
 "label": "Dylan Borland",
 "note": "Ties the 2025 witness layer back to the AAWSAP/BAASS contracting layer.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -615,7 +615,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 2,
@@ -625,13 +625,13 @@
 "direction": "out",
 "edgeId": "e-a414af0719",
 "edgeLabel": "presented unreleased footage of a drone Hellfire engagement with an orb off Yemen, October 2024",
-"family": null,
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "A sitting member introducing military engagement footage that AARO had not published is a direct measure of the office's disclosure posture.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -641,7 +641,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -651,13 +651,13 @@
 "direction": "out",
 "edgeId": "e-4c38f9f904",
 "edgeLabel": "Unveiled the alleged Hellfire-versus-orb footage",
-"family": null,
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -667,7 +667,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -677,13 +677,13 @@
 "direction": "in",
 "edgeId": "e-55af5adca8",
 "edgeLabel": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
-"family": null,
+"family": "testimony",
 "id": "hospital-regional-varginha",
 "l0": false,
 "label": "Hospital Regional de Varginha",
 "note": "Rep. Eric Burlison attended the 15 January 2026 closed meeting with the Varginha witnesses, asked whether other hospital staff could corroborate Venturelli's account and urged that they be brought forward, and spoke at the 20 January National Press Club event calling for international transparency.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -703,7 +703,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "received an account from"
 },
 {
 "claimTier": 1,
@@ -713,13 +713,13 @@
 "direction": "out",
 "edgeId": "e-b0fc975d66",
 "edgeLabel": "Cosponsor",
-"family": null,
+"family": "law",
 "id": "hr-10111-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
 "note": "Congress.gov cosponsor record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-12",
@@ -729,7 +729,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -739,13 +739,13 @@
 "direction": "out",
 "edgeId": "e-36bc555b93",
 "edgeLabel": "Burlison read the Lockheed-Bigelow-CIA reporting into the record and obtained confirmation",
-"family": null,
+"family": "oversight",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Burlison named the journalist, described the transfer, asked the witness to confirm, and then asked who possesses the material today - to which Elizondo said he could only answer in closed session.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -755,7 +755,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -765,13 +765,13 @@
 "direction": "in",
 "edgeId": "e-a7c48378e4",
 "edgeLabel": "The member who moved his written testimony into the hearing record",
-"family": null,
+"family": "testimony",
 "id": "michael-herrera",
 "l0": false,
 "label": "Michael Herrera",
 "note": "Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -781,7 +781,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -791,13 +791,13 @@
 "direction": "out",
 "edgeId": "e-4f4526e5e6",
 "edgeLabel": "Co-launched the probe; revealed the McCasland trigger",
-"family": null,
+"family": "role",
 "id": "missing-scientists-probe-2026",
 "l0": false,
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "note": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-21",
@@ -807,7 +807,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -817,13 +817,13 @@
 "direction": "out",
 "edgeId": "e-56c072c9ea",
 "edgeLabel": "8 May 2026 letter demanding the 1952 Ruppelt recording by file designation",
-"family": null,
+"family": "oversight",
 "id": "mit-lincoln-laboratory",
 "l0": false,
 "label": "MIT Lincoln Laboratory",
 "note": "Burlison asked Lincoln Laboratory to determine the status of 'AF-ATIC-FILM, 03/52' and coordinate with NARA on preservation and archival review.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-08",
@@ -833,7 +833,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "made a request of"
 },
 {
 "claimTier": 2,
@@ -843,13 +843,13 @@
 "direction": "out",
 "edgeId": "e-8d96634d77",
 "edgeLabel": "first public showing",
-"family": null,
+"family": "testimony",
 "id": "mq9-yemen-hellfire-video-2024",
 "l0": false,
 "label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
 "note": "Burlison played the MQ-9 Hellfire-versus-orb video at the 9 September 2025 hearing; the Department has not confirmed its provenance.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -859,7 +859,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -869,13 +869,13 @@
 "direction": "out",
 "edgeId": "e-cbd7221922",
 "edgeLabel": "Author of the House-adopted UAP records disclosure amendment",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2027-uap-amendment",
 "l0": false,
 "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
 "note": "Revised text designated Version 2 on 15 July 2026 and adopted as part of the FY2027 NDAA later that month.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-23",
@@ -885,7 +885,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 2,
@@ -895,13 +895,13 @@
 "direction": "out",
 "edgeId": "e-33af19ec8c",
 "edgeLabel": "Named as a target of his records investigation",
-"family": null,
+"family": "oversight",
 "id": "northrop-grumman",
 "l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "Same statement of 14-16 May 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-16",
@@ -911,7 +911,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -921,13 +921,13 @@
 "direction": "out",
 "edgeId": "e-ab3e841c6f",
 "edgeLabel": "obtained and published",
-"family": null,
+"family": "documents",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "Burlison published the memorandum on 1 August 2026 after calling publicly on 29 July for ODNI to issue implementation guidance.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-01",
@@ -942,7 +942,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -952,13 +952,13 @@
 "direction": "out",
 "edgeId": "e-9fb485141e",
 "edgeLabel": "Named as a target of his records investigation",
-"family": null,
+"family": "oversight",
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "Burlison: 'my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.' No letter to RAND has been made public.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-16",
@@ -973,7 +973,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 2,
@@ -983,13 +983,13 @@
 "direction": "out",
 "edgeId": "e-95865c5415",
 "edgeLabel": "Announced the Lincoln Laboratory production at the forum",
-"family": null,
+"family": "media",
 "id": "uap-disclosure-forum-2026",
 "l0": false,
 "label": "Disclosure Forum 2026",
 "note": "Jordan Flowers credited Burlison with shaking the artifact loose: 'He's stopped asking politely.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-29",
@@ -999,7 +999,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "appeared on"
 },
 {
 "claimTier": 1,
@@ -1009,13 +1009,13 @@
 "direction": "out",
 "edgeId": "e-605264769b",
 "edgeLabel": "Offers his office as a disclosure channel with counsel and congressional presence",
-"family": null,
+"family": "place-time",
 "id": "uap-nda-waiver-directive-2026",
 "l0": false,
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "Burlison - whose Special Advisor is Grusch - recommends that anyone using the NDA waiver request congressional presence alongside legal counsel. That recommendation is a direct read-through of what happened to the last person who used executive channels alone.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-29",
@@ -1025,7 +1025,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "responded to"
 },
 {
 "claimTier": 2,
@@ -1035,13 +1035,13 @@
 "direction": "out",
 "edgeId": "e-8d3b7ed08b",
 "edgeLabel": "Led the March 2024 call for a select committee focused on expenditures",
-"family": null,
+"family": "role",
 "id": "uap-select-committee-proposal",
 "l0": false,
 "label": "Proposed House Select Committee on UAP",
 "note": "Burlison said he had the support of Comer, Burchett and Moskowitz but had not raised it with Speaker Johnson.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-12",
@@ -1051,7 +1051,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -1061,13 +1061,13 @@
 "direction": "in",
 "edgeId": "e-ca7ca83f75",
 "edgeLabel": "Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025",
-"family": null,
+"family": "law",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "'It was stripped out by the House last year, and I cannot get it onto the bill leaving the House this year.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -1077,7 +1077,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -1087,13 +1087,13 @@
 "direction": "out",
 "edgeId": "e-c59ac15387",
 "edgeLabel": "author",
-"family": null,
+"family": "law",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-22",
@@ -1108,7 +1108,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -1118,13 +1118,13 @@
 "direction": "out",
 "edgeId": "e-3573062eba",
 "edgeLabel": "no statutory entitlement; not a defense committee chair or ranking member",
-"family": null,
+"family": "denial",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1149,7 +1149,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is left out of"
 }
 ],
 "date": "2026-05-22",

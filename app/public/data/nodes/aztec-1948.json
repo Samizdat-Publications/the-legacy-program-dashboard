@@ -125,13 +125,13 @@
 "direction": "in",
 "edgeId": "e-bc5dfefcba",
 "edgeLabel": "The book is the sole origin of the Aztec claim",
-"family": null,
+"family": "testimony",
 "id": "behind-the-flying-saucers",
 "l0": false,
 "label": "Behind the Flying Saucers (Scully, 1950)",
 "note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -141,7 +141,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -151,13 +151,13 @@
 "direction": "out",
 "edgeId": "e-79d192179c",
 "edgeLabel": "Air Force denials of Hangar 18 bodies",
-"family": null,
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -182,7 +182,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was denied by"
 },
 {
 "claimTier": 3,
@@ -192,13 +192,13 @@
 "direction": "in",
 "edgeId": "e-8bfa7f8480",
 "edgeLabel": "The Hottel memo predates and partly parallels the Aztec narrative",
-"family": null,
+"family": "analysis",
 "id": "hottel-memo",
 "l0": false,
 "label": "Guy Hottel memorandum, 22 March 1950",
 "note": "Hottel's memo of 22 March 1950 describes three fifty-foot discs with three-foot occupants two months before Scully's book described one ninety-nine-foot disc with sixteen. The narratives are related but not identical, so the memo is better read as evidence that the recovery rumour was already in official circulation than as independent confirmation of Aztec.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -208,7 +208,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -218,13 +218,13 @@
 "direction": "out",
 "edgeId": "e-f4b689bd5b",
 "edgeLabel": "alleged crash site",
-"family": null,
+"family": "place-time",
 "id": "l-aztec",
 "l0": false,
 "label": "Aztec, New Mexico",
 "note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -239,7 +239,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -249,13 +249,13 @@
 "direction": "out",
 "edgeId": "e-b06cb056e2",
 "edgeLabel": "detail donor to later Roswell accounts",
-"family": null,
+"family": "analysis",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -270,7 +270,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 2,
@@ -280,13 +280,13 @@
 "direction": "in",
 "edgeId": "e-2c96872b66",
 "edgeLabel": "Stringfield revived Aztec as a real retrieval in the late 1970s",
-"family": null,
+"family": "testimony",
 "id": "stringfield-status-reports",
 "l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -296,7 +296,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "is the subject of claims by"
 }
 ],
 "coords": null,

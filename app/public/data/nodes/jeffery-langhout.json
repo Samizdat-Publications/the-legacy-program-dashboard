@@ -46,13 +46,13 @@
 "direction": "out",
 "edgeId": "e-3ff511cdad",
 "edgeLabel": "Langhout signed as GVSC Director",
-"family": null,
+"family": "role",
 "id": "l-detroit-arsenal",
 "l0": false,
 "label": "Detroit Arsenal, Warren, Michigan",
 "note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-10-18",
@@ -67,7 +67,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -77,13 +77,13 @@
 "direction": "out",
 "edgeId": "e-54788b2efd",
 "edgeLabel": "Signed for the United States Army, 10 October 2019",
-"family": null,
+"family": "documents",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "The federal signature block is what makes the agreement citable as a government act.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-10-18",
@@ -93,7 +93,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2019-10-10",

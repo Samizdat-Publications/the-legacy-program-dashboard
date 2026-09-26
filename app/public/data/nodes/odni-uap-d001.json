@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-f290bb92cd",
 "edgeLabel": "ODNI-originated document inside a Department of War release",
-"family": null,
+"family": "documents",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "The ODNI document numbering inside a war.gov tranche is the structural evidence that PURSUE is genuinely interagency rather than departmental.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -56,7 +56,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-a12a103706",
 "edgeLabel": "same originator, two months apart",
-"family": null,
+"family": "place-time",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "ODNI put a serving officer's encounter narrative into the PURSUE corpus in May and directed the whole IC to release its UAP holdings to the PURSUE Task Force by August.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -87,7 +87,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -97,13 +97,13 @@
 "direction": "in",
 "edgeId": "e-5c6b8ba6d8",
 "edgeLabel": "Published the serving officer's encounter narrative",
-"family": null,
+"family": "documents",
 "id": "pursue-release-02",
 "l0": false,
 "label": "PURSUE Release 02",
 "note": "A serving senior intelligence officer's first-person narrative of a one-hour, multi-witness encounter, published under an ODNI document number five months after the event.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -113,7 +113,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "was released by"
 }
 ],
 "coords": null,

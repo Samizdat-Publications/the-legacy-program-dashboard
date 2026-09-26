@@ -101,13 +101,13 @@
 "direction": "in",
 "edgeId": "e-6a8657a83c",
 "edgeLabel": "All other agencies: reporting runs to House Oversight and Senate Homeland Security",
-"family": null,
+"family": "analysis",
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "50 U.S.C. 3348(g)(1) names the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs among the congressional oversight committees.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -117,7 +117,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -127,13 +127,13 @@
 "direction": "out",
 "edgeId": "e-3d95991e94",
 "edgeLabel": "Gives House Oversight a statutory entitlement to SAP reports from every covered agency",
-"family": null,
+"family": "law",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -143,7 +143,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 3,
@@ -153,13 +153,13 @@
 "direction": "in",
 "edgeId": "e-7a003366c7",
 "edgeLabel": "the IC side of the same seam",
-"family": null,
+"family": "analysis",
 "id": "iaa-fy2024-7343",
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Tier 3: this is a reading of how the provisions sit together, not a cross-reference either text makes. Sec. 7343 is the intelligence-funds twin of NDAA sec. 1687, running through the DNI rather than the Secretary of Defense. The seam it straddles is the one 50 U.S.C. 3348(g)(2)(B) draws when it excludes DoD, the NNSA and IC agencies from its own SAP-reporting regime and routes each to a separate channel. 3348's text was read directly on 22 August 2026 and makes no reference to 7343; the connection is structural.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-12-22",
@@ -174,7 +174,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -184,13 +184,13 @@
 "direction": "out",
 "edgeId": "e-79f7d5edec",
 "edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
-"family": null,
+"family": "documents",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "50 U.S.C. 3348(g)(3) defines the term; 10 U.S.C. 119 uses it throughout without defining it. Section 3091a(b)(2)(A) cross-references 3348(g) for the definition.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -210,7 +210,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -220,13 +220,13 @@
 "direction": "out",
 "edgeId": "e-6a79a7612e",
 "edgeLabel": "excludes DoD, routing it to sec. 119",
-"family": null,
+"family": "documents",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -241,7 +241,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -251,13 +251,13 @@
 "direction": "out",
 "edgeId": "e-8437c935fc",
 "edgeLabel": "3348(g)(2)(B)(ii) writes NNSA out and points to 50 U.S.C. 2426",
-"family": null,
+"family": "documents",
 "id": "usc-50-2426",
 "l0": false,
 "label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -267,7 +267,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -277,13 +277,13 @@
 "direction": "out",
 "edgeId": "e-06f94d48c0",
 "edgeLabel": "excludes NNSA, routing it to sec. 2426",
-"family": null,
+"family": "documents",
 "id": "usc-50-2426",
 "l0": false,
 "label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "The second exclusion in 50 U.S.C. 3348(g)(2)(B): '(ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title)'. The third, (iii), excludes 'an agency in the Intelligence Community (as defined in section 3003(4) of this title)'. Read directly from the OLRC text on 22 August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -293,7 +293,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "cites"
 }
 ],
 "coords": null,

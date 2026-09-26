@@ -76,13 +76,13 @@
 "direction": "out",
 "edgeId": "e-bbca18d026",
 "edgeLabel": "Announces a fourth filing at an outside conference",
-"family": null,
+"family": "media",
 "id": "disclosure-symposium-2026",
 "l0": false,
 "label": "2026 Disclosure Symposium",
 "note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-28",
@@ -97,7 +97,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "appeared on"
 },
 {
 "claimTier": 1,
@@ -107,13 +107,13 @@
 "direction": "out",
 "edgeId": "e-b489c652ac",
 "edgeLabel": "Original cosponsor, 13 July 2023",
-"family": null,
+"family": "law",
 "id": "samdt-797",
 "l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Rounds is listed as an original cosponsor with sponsorship date 13 July 2023.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -123,7 +123,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -133,13 +133,13 @@
 "direction": "out",
 "edgeId": "e-098db38155",
 "edgeLabel": "lead cosponsor",
-"family": null,
+"family": "law",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "First-listed cosponsor in the Congressional Record entry for SA 797.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -149,7 +149,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -159,13 +159,13 @@
 "direction": "out",
 "edgeId": "e-0674cccc32",
 "edgeLabel": "Lead sponsor of the 2024 refiling",
-"family": null,
+"family": "law",
 "id": "uapda-2024-samdt-2610",
 "l0": false,
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-11",
@@ -180,7 +180,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 }
 ],
 "date": "2024-07-11",

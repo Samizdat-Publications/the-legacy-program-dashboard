@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-6776b3e9b3",
 "edgeLabel": "Chairman during the FY2024 conference",
-"family": null,
+"family": "role",
 "id": "house-armed-services",
 "l0": false,
 "label": "House Armed Services Committee",
 "note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -82,7 +82,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -92,13 +92,13 @@
 "direction": "out",
 "edgeId": "e-503008c1dd",
 "edgeLabel": "Named as co-leading the effort to eliminate or alter the Act",
-"family": null,
+"family": "denial",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-11-27",
@@ -108,7 +108,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -118,13 +118,13 @@
 "direction": "out",
 "edgeId": "e-0a45b4e393",
 "edgeLabel": "seat 7 of 12 - Chairman, House Armed Services",
-"family": null,
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2023-01-03",

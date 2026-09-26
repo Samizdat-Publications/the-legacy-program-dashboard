@@ -59,13 +59,13 @@
 "direction": "out",
 "edgeId": "e-58b0d26eae",
 "edgeLabel": "One of the two issuing organisations, and the one on the title page imprint",
-"family": null,
+"family": "documents",
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "The title page carries the Air Technical Intelligence Center imprint and the report's own conclusion asks for 'direct liaison between WADC and ATIC personnel'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-02-15",
@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -85,13 +85,13 @@
 "direction": "out",
 "edgeId": "e-bc630b2273",
 "edgeLabel": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
-"family": null,
+"family": "denial",
 "id": "d-denial",
 "l0": false,
 "label": "Official Denial",
 "note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-02-15",
@@ -101,7 +101,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -111,13 +111,13 @@
 "direction": "out",
 "edgeId": "e-3d39f25123",
 "edgeLabel": "Written and issued at Wright-Patterson Air Force Base, Ohio",
-"family": null,
+"family": "place-time",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Both issuing bodies, ATIC and the Wright Air Development Center, are named on the report with that station.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-02-15",
@@ -127,7 +127,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -137,13 +137,13 @@
 "direction": "out",
 "edgeId": "e-3f06a85a6e",
 "edgeLabel": "Records the Air Force research and development status of the disc-aircraft proposal",
-"family": null,
+"family": "documents",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "Section II names Technical Requirement No. 3 of 13 August 1954 and the order to proceed of 29 December 1954, so the Air Force interest is dated by the document rather than inferred.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-02-15",
@@ -153,7 +153,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

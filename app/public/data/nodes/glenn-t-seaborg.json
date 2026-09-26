@@ -50,13 +50,13 @@
 "direction": "out",
 "edgeId": "e-b1e99a1544",
 "edgeLabel": "Corresponded with the Director of Central Intelligence",
-"family": null,
+"family": "conduct",
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "Dulles thanks him for a report on a Vienna conference and says he is circulating it inside the Agency. The edge records a documented channel between the AEC chair and the DCI, which is the board's own structural claim in miniature.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1970-06-01",
@@ -66,7 +66,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -76,13 +76,13 @@
 "direction": "out",
 "edgeId": "e-703923a5d8",
 "edgeLabel": "Chairman of the Commission",
-"family": null,
+"family": "role",
 "id": "atomic-energy-commission",
 "l0": true,
 "label": "Atomic Energy Commission",
 "note": "Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1970-06-01",
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -102,13 +102,13 @@
 "direction": "out",
 "edgeId": "e-b88f5c566d",
 "edgeLabel": "Transmitted the Commission's annual report to the Director of Central Intelligence",
-"family": null,
+"family": "oversight",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The 20 March 1963 letter forwards the Annual Report to Congress for 1962 to DCI John A. McCone and directs his attention to the appendix on environmental contamination from nuclear explosives.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1970-06-01",
@@ -118,7 +118,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "reports to"
 }
 ],
 "date": "1961-01-16",

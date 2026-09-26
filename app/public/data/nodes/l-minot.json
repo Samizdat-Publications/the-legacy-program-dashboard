@@ -43,13 +43,13 @@
 "direction": "in",
 "edgeId": "e-2dabc29ad5",
 "edgeLabel": "B-52H co-pilot based at Minot AFB",
-"family": null,
+"family": "place-time",
 "id": "bradford-runyon",
 "l0": false,
 "label": "Capt. Bradford Runyon",
 "note": "His presence is in the Air Force's own 1968 debriefing record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-13",
@@ -59,7 +59,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -69,13 +69,13 @@
 "direction": "in",
 "edgeId": "e-9c0c8093ae",
 "edgeLabel": "Its 10 November entry reports a sighting at Minot Air Force Station, not Minot AFB",
-"family": null,
+"family": "documents",
 "id": "doc-norad-24th-log-1975",
 "l0": false,
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "The entry's own next clause says the object 'passed over the radar station'. This edge exists so the ambiguity is visible on the hub rather than assumed away.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -85,7 +85,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -95,13 +95,13 @@
 "direction": "in",
 "edgeId": "e-a7f8be38f5",
 "edgeLabel": "The 1966 incursions were over this installation's Minuteman launch facilities",
-"family": null,
+"family": "place-time",
 "id": "minot-1966",
 "l0": false,
 "label": "Minot AFB incursions, 1966",
 "note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-11",
@@ -111,7 +111,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "in",
 "edgeId": "e-86ddc6c30d",
 "edgeLabel": "The B-52 and missile-field events were at and around this installation",
-"family": null,
+"family": "place-time",
 "id": "minot-1968",
 "l0": false,
 "label": "Minot AFB B-52 incident, 24 October 1968",
 "note": "The Blue Book file is built on 91st SMW, 862nd Combat Support Group and 5th Bomb Wing records at Minot AFB.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-13",
@@ -137,7 +137,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 2,
@@ -147,13 +147,13 @@
 "direction": "in",
 "edgeId": "e-3186ae5494",
 "edgeLabel": "Minot is named in the sequence, but two NORAD documents name two different Minot installations",
-"family": null,
+"family": "place-time",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "THE DISCREPANCY IS THE POINT OF THIS EDGE. The 24th NORAD Region log of 10 November 1975 says 'Minot Air Force Station' and 'the radar station'; CINCNORAD's message of 11 November says 'Minot AFB, ND'. Unresolved. Do not let a degree count on l-minot silently absorb a radar-station entry.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -168,7 +168,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -178,13 +178,13 @@
 "direction": "out",
 "edgeId": "e-bf5d1f1ed5",
 "edgeLabel": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing",
-"family": null,
+"family": "organisation",
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-13",
@@ -199,7 +199,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 }
 ],
 "coords": null,

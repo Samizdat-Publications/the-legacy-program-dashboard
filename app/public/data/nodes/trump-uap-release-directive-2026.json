@@ -85,13 +85,13 @@
 "direction": "in",
 "edgeId": "e-47f677f4fd",
 "edgeLabel": "Task Force chair publicly thanks the President for the directive",
-"family": null,
+"family": "testimony",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "'Thank you POTUS! As the Chairwoman of the Task Force that investigates these subjects, we are incredibly grateful.' The legislative and executive disclosure tracks converge here for the first time.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-02-20",
@@ -101,7 +101,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "was acknowledged by"
 },
 {
 "claimTier": 2,
@@ -111,13 +111,13 @@
 "direction": "in",
 "edgeId": "e-ef8b0a977d",
 "edgeLabel": "Issued the direction that created PURSUE",
-"family": null,
+"family": "documents",
 "id": "donald-trump",
 "l0": false,
 "label": "Donald J. Trump",
 "note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-02-20",
@@ -132,7 +132,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -142,13 +142,13 @@
 "direction": "in",
 "edgeId": "e-2795b20cb0",
 "edgeLabel": "characterises a social-media post as an executive order",
-"family": null,
+"family": "testimony",
 "id": "hegseth-uap-statements-2026",
 "l0": false,
 "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-02-25",
@@ -163,7 +163,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": null
+"verb": "is contradicted by"
 },
 {
 "claimTier": 2,
@@ -173,13 +173,13 @@
 "direction": "in",
 "edgeId": "e-dfd399cc1a",
 "edgeLabel": "Named implementer; called it 'that executive order'",
-"family": null,
+"family": "testimony",
 "id": "pete-hegseth",
 "l0": false,
 "label": "Pete Hegseth",
 "note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-02-25",
@@ -194,7 +194,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "was acknowledged by"
 },
 {
 "claimTier": 2,
@@ -204,13 +204,13 @@
 "direction": "out",
 "edgeId": "e-15ffdc8295",
 "edgeLabel": "February announcement produced the June pressure campaign",
-"family": null,
+"family": "place-time",
 "id": "press-conf-2026-06-09",
 "l0": false,
 "label": "Capitol UAP Disclosure Press Conference",
 "note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-09",
@@ -225,7 +225,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -235,13 +235,13 @@
 "direction": "out",
 "edgeId": "e-cff8e5d26c",
 "edgeLabel": "The directive is the stated basis of the release programme",
-"family": null,
+"family": "law",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -266,7 +266,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 2,
@@ -276,13 +276,13 @@
 "direction": "in",
 "edgeId": "e-16626a610a",
 "edgeLabel": "First departmental acknowledgement of the directive",
-"family": null,
+"family": "testimony",
 "id": "sean-parnell",
 "l0": false,
 "label": "Sean Parnell",
 "note": "Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive', framing PURSUE as interagency implementation rather than an AARO or congressional product.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-02-20",
@@ -292,7 +292,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was acknowledged by"
 }
 ],
 "coords": null,

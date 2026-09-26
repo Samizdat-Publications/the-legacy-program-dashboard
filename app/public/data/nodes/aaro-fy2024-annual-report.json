@@ -107,13 +107,13 @@
 "direction": "in",
 "edgeId": "e-ad5e1debf5",
 "edgeLabel": "Second annual report, 14 November 2024",
-"family": null,
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "757 new reports, 1,652 total, 118 cases resolved, and the first appearance of the standing sentence on no evidence of extraterrestrial beings, activity or technology.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-14",
@@ -128,7 +128,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was published by"
 },
 {
 "claimTier": 3,
@@ -138,13 +138,13 @@
 "direction": "in",
 "edgeId": "e-83698822ae",
 "edgeLabel": "The negative finding is inserted after Grusch, not inherited",
-"family": null,
+"family": "organisation",
 "id": "aaro-fy2023-annual-report",
 "l0": false,
 "label": "AARO FY2023 Consolidated Annual Report on UAP",
 "note": "The FY2023 report contains no extraterrestrial-technology denial; the FY2024 report leads with one. The change tracks the July 2023 hearing, indicating the formula is a communications response rather than an analytic finding.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-10-25",
@@ -159,7 +159,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -169,13 +169,13 @@
 "direction": "out",
 "edgeId": "e-596cb2744b",
 "edgeLabel": "",
-"family": null,
+"family": "place-time",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Consecutive reports in the same statutory series. Sec. 6802's new 50 U.S.C. 3373(k)(1)(A) requires a joint DNI/SecDef report 180 days after enactment of the IAA FY2023 'and annually thereafter for four years', so these are the second and third of five, and the series has a written end rather than running indefinitely.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-20",
@@ -190,7 +190,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 3,
@@ -200,13 +200,13 @@
 "direction": "in",
 "edgeId": "e-2d3693a5d0",
 "edgeLabel": "A 2021 gunship engagement absent from the reporting periods that cover it",
-"family": null,
+"family": "denial",
 "id": "gulf-of-oman-ac130j-2021",
 "l0": false,
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "The 8 September 2021 incident falls inside the FY2023 and FY2024 reporting windows and appears in neither, which is either omission or evidence it sat outside AARO's case system.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-10",
@@ -226,7 +226,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "leaves out"
 },
 {
 "claimTier": 1,
@@ -236,13 +236,13 @@
 "direction": "in",
 "edgeId": "e-ba09be5c9e",
 "edgeLabel": "AARO released its annual report the day after the hearing",
-"family": null,
+"family": "place-time",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The hearing was 13 November 2024; the FY2024 report and Kosloski's media roundtable were 14 November 2024, and his Senate testimony 19 November.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-14",
@@ -252,7 +252,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came after"
 },
 {
 "claimTier": 1,
@@ -262,13 +262,13 @@
 "direction": "in",
 "edgeId": "e-9ec266bae3",
 "edgeLabel": "presented the FY2024 report and the GREMLIN disclosure",
-"family": null,
+"family": "documents",
 "id": "jon-kosloski",
 "l0": false,
 "label": "Jon T. Kosloski",
 "note": "Media roundtable 14 November 2024; 757 reports, 21 flagged as warranting further analysis, ~900 parked in the active archive for want of data.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-14",
@@ -278,7 +278,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -288,13 +288,13 @@
 "direction": "in",
 "edgeId": "e-80defcd94d",
 "edgeLabel": "the annual report it requires",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2023-sec-6802",
 "l0": true,
 "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
 "note": "The second of the five reports required by subsection (k)(1)(A) as enacted by sec. 6802, which runs 'annually thereafter for four years' from the first report due 180 days after enactment of the IAA FY2023, and is a joint obligation of the DNI and the Secretary of Defense.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -304,7 +304,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is required by"
 },
 {
 "claimTier": 3,
@@ -314,13 +314,13 @@
 "direction": "out",
 "edgeId": "e-26bf49d9f5",
 "edgeLabel": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
-"family": null,
+"family": "testimony",
 "id": "pursue-release-02",
 "l0": false,
 "label": "PURSUE Release 02",
 "note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-14",
@@ -335,7 +335,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "is contradicted by"
 }
 ],
 "coords": null,

@@ -65,13 +65,13 @@
 "direction": "in",
 "edgeId": "e-6ad5eeda0b",
 "edgeLabel": "commissioned under AAWSAP; Acquisition Support Division (DWO-3), Defense Warning Office",
-"family": null,
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-4ae4877705",
 "edgeLabel": "subject domain: zero-point/vacuum energy extraction",
-"family": null,
+"family": "analysis",
 "id": "d-exotic",
 "l0": false,
 "label": "Exotic Technology & Physics",
 "note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -137,13 +137,13 @@
 "direction": "in",
 "edgeId": "e-5bff3ecaa5",
 "edgeLabel": "DIRD",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -153,7 +153,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -163,13 +163,13 @@
 "direction": "in",
 "edgeId": "e-069838b70c",
 "edgeLabel": "series member",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1004-007. Publication date 6 April 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -184,7 +184,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -194,13 +194,13 @@
 "direction": "out",
 "edgeId": "e-d061673a2d",
 "edgeLabel": "produced at EarthTech International, Austin",
-"family": null,
+"family": "organisation",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -230,7 +230,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -240,13 +240,13 @@
 "direction": "out",
 "edgeId": "e-5f64f65cea",
 "edgeLabel": "authored by Eric W. Davis",
-"family": null,
+"family": "documents",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -276,7 +276,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

@@ -46,13 +46,13 @@
 "direction": "out",
 "edgeId": "e-942134b4c4",
 "edgeLabel": "Major present at the Big Sur site; Jacobs's corroborating witness",
-"family": null,
+"family": "testimony",
 "id": "big-sur-1964",
 "l0": false,
 "label": "Big Sur missile-test filming, September 1964",
 "note": "Tier 1 for his presence, which is established by the project engineer's own published photograph caption, and Tier 2 for what he later wrote to researchers. THE BOARD HAS BEEN ATTRIBUTING HIS LETTERS TO THE WRONG MAN AND THE WRONG EVENT; see research/leads/nuclear-corrections-2026-09-19.json.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1993",
@@ -67,7 +67,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "1987-05-06",

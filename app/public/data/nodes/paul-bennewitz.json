@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-178d97fef7",
 "edgeLabel": "AARO's 2024 historical review makes no mention of Bennewitz, Doty, AFOSI or Kirtland",
-"family": null,
+"family": "denial",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The best-documented instance of US government disinformation about UFOs directed at an American citizen is entirely absent from the government's own historical review of the subject.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -126,7 +126,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is left out of"
 },
 {
 "claimTier": 1,
@@ -136,13 +136,13 @@
 "direction": "out",
 "edgeId": "e-b8b3af9d03",
 "edgeLabel": "Bennewitz's reporting generated the AFOSI Kirtland file",
-"family": null,
+"family": "testimony",
 "id": "afosi-kirtland-file",
 "l0": false,
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-20",
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -167,13 +167,13 @@
 "direction": "out",
 "edgeId": "e-d8d125b928",
 "edgeLabel": "Author of the late-1981 report",
-"family": null,
+"family": "documents",
 "id": "bennewitz-project-beta-1981",
 "l0": false,
 "label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
 "note": "Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-11-29",
@@ -183,7 +183,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -193,13 +193,13 @@
 "direction": "out",
 "edgeId": "e-020103d0b1",
 "edgeLabel": "Origin point of the Dulce claim, from about 1979",
-"family": null,
+"family": "testimony",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster's originators, and he connected Myrna Hansen's 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-08-29",
@@ -209,7 +209,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -219,13 +219,13 @@
 "direction": "in",
 "edgeId": "e-6e1600f9b8",
 "edgeLabel": "AFOSI opened a file covering the observations Bennewitz was reporting",
-"family": null,
+"family": "testimony",
 "id": "kirtland-manzano-1980",
 "l0": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -235,7 +235,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -245,13 +245,13 @@
 "direction": "out",
 "edgeId": "e-c4be72707d",
 "edgeLabel": "Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB",
-"family": null,
+"family": "testimony",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, contacted Kirtland on 24 October 1980 and briefed base officials on 10 November 1980. Attested by his own correspondence and contemporary press.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -261,7 +261,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -271,13 +271,13 @@
 "direction": "in",
 "edgeId": "e-ea9f7c422a",
 "edgeLabel": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
-"family": null,
+"family": "conduct",
 "id": "project-aquarius",
 "l0": false,
 "label": "Project AQUARIUS (alleged)",
 "note": "Cooper's 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acted_against",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -287,7 +287,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "was the target of action by"
 },
 {
 "claimTier": 1,
@@ -297,13 +297,13 @@
 "direction": "in",
 "edgeId": "e-dc974594df",
 "edgeLabel": "The principal documented account of the affair",
-"family": null,
+"family": "documents",
 "id": "project-beta-bishop-2005",
 "l0": false,
 "label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
 "note": "Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop's undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore's conduct, it does not degrade the record of the book's existence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -318,7 +318,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -328,13 +328,13 @@
 "direction": "in",
 "edgeId": "e-2290621189",
 "edgeLabel": "Two-sided: the reported admission, and his own recorded denial of harm",
-"family": null,
+"family": "denial",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-05-13",
@@ -364,7 +364,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "was denied by"
 },
 {
 "claimTier": 2,
@@ -374,13 +374,13 @@
 "direction": "out",
 "edgeId": "e-a335a6d40b",
 "edgeLabel": "Bennewitz founded and ran Thunder Scientific, a USAF instrumentation vendor",
-"family": null,
+"family": "role",
 "id": "thunder-scientific",
 "l0": false,
 "label": "Thunder Scientific Corporation",
 "note": "The company's location gave sightlines to the Manzano Weapons Storage Area at Kirtland; Bennewitz had the technical capability to record and characterise emissions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-20",
@@ -390,7 +390,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 },
 {
 "claimTier": 2,
@@ -400,13 +400,13 @@
 "direction": "in",
 "edgeId": "e-7f12f29aca",
 "edgeLabel": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
-"family": null,
+"family": "conduct",
 "id": "william-l-moore",
 "l0": false,
 "label": "William L. Moore",
 "note": "Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty's parallel statements have since been partly retracted by him. Any claim about Moore's conduct sourced to Bishop's Project Beta carries the participant-account caveat.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acted_against",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-11-29",
@@ -421,7 +421,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "was the target of action by"
 }
 ],
 "date": "1980-11-10",

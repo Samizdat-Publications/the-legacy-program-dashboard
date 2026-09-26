@@ -23,13 +23,13 @@
 "direction": "out",
 "edgeId": "e-208c75416e",
 "edgeLabel": "The publication that obtained and printed the confession",
-"family": null,
+"family": "testimony",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-04-23",
@@ -44,7 +44,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -54,13 +54,13 @@
 "direction": "out",
 "edgeId": "e-716c382b71",
 "edgeLabel": "Obtained Levesque's confession across a multi-year correspondence",
-"family": null,
+"family": "testimony",
 "id": "tal-levesque",
 "l0": false,
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-04-23",
@@ -75,7 +75,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "brought to the record"
 }
 ],
 "coords": null,

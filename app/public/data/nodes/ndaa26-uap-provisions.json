@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-ce74e0a46c",
 "edgeLabel": "Directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and account for its classification guides",
-"family": null,
+"family": "law",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Congress required AARO to brief on NORAD/USNORTHCOM UAP intercepts since 2004 and to account for the security classification guides it uses - a legislative finding that the office has been withholding and overclassifying.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-10",
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "requires"
 },
 {
 "claimTier": 2,
@@ -157,13 +157,13 @@
 "direction": "in",
 "edgeId": "e-3e5dd89692",
 "edgeLabel": "recommendations reflected in statute",
-"family": null,
+"family": "analysis",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "The FY2026 NDAA's three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-10",
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 2,
@@ -183,13 +183,13 @@
 "direction": "in",
 "edgeId": "e-fda7b978fe",
 "edgeLabel": "Two of the three provisions mirror recommendations he championed",
-"family": null,
+"family": "place-time",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Per Disclosure Foundation executive director Jordan Flowers.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-10",
@@ -199,7 +199,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "followed from"
 },
 {
 "claimTier": 3,
@@ -209,13 +209,13 @@
 "direction": "out",
 "edgeId": "e-04968c55c9",
 "edgeLabel": "the data-sharing streamlining provision answers the IG's 2023 reporting-requirement finding",
-"family": null,
+"family": "place-time",
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The IG found components were not required to report to AARO; two years later Congress legislated to streamline agency data sharing into AARO investigations.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-25",
@@ -230,7 +230,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "responded to"
 },
 {
 "claimTier": 1,
@@ -240,13 +240,13 @@
 "direction": "in",
 "edgeId": "e-552f570493",
 "edgeLabel": "The funding bar was not renewed; only the IR&D provision survives",
-"family": null,
+"family": "place-time",
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Section 1687(a) applied only to funds authorised by the FY2024 Act; a full-text search of the FY2025 and FY2026 NDAAs returns no equivalent provision. Section 1687(b), codified as a 50 U.S.C. 3373 note, has no fiscal-year limit. Attested by the enacted texts of all three Acts.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-18",
@@ -256,7 +256,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came after"
 },
 {
 "claimTier": 2,
@@ -266,13 +266,13 @@
 "direction": "out",
 "edgeId": "e-6f55bf24d3",
 "edgeLabel": "demands an intercept history since 2004",
-"family": null,
+"family": "law",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-10",
@@ -282,7 +282,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "requires"
 }
 ],
 "coords": null,

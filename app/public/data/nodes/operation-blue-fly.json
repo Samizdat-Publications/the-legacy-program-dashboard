@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-c7960e1eab",
 "edgeLabel": "Recovered material routed to Air Force technical intelligence at Wright-Patterson",
-"family": null,
+"family": "custody",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Foreign Technology Division at Wright-Patterson was the designated technical exploitation centre; the Air Force felt it necessary in its January 1985 public fact sheet to deny that extraterrestrial equipment had ever been there.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-08-15",
@@ -62,7 +62,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "passed records or material to"
 },
 {
 "claimTier": 3,
@@ -72,13 +72,13 @@
 "direction": "in",
 "edgeId": "e-fc53f72232",
 "edgeLabel": "BLUE FLY provided the quick-reaction airlift for MOON DUST recoveries",
-"family": null,
+"family": "role",
 "id": "project-moon-dust",
 "l0": false,
 "label": "Project MOON DUST",
 "note": "The two codewords appear together in Air Force intelligence correspondence; MOON DUST was the collection authority and BLUE FLY the transport and custody leg.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2015-03-04",
@@ -93,7 +93,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -103,13 +103,13 @@
 "direction": "in",
 "edgeId": "e-36df826e59",
 "edgeLabel": "ran BLUE FLY under the same Foreign Materiel Program",
-"family": null,
+"family": "organisation",
 "id": "usaf-1127th-field-activities-group",
 "l0": false,
 "label": "1127th USAF Field Activities Group",
 "note": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1967-06-30",
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was run by"
 }
 ],
 "coords": null,

@@ -238,13 +238,13 @@
 "direction": "out",
 "edgeId": "e-4b6abdfd74",
 "edgeLabel": "Said an Area 51 tour would yield a T-shirt because the government would move everything else",
-"family": null,
+"family": "media",
 "id": "capitol-disclosure-event-2026-06-09",
 "l0": false,
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "note": "A restatement of his 2023 line to Grusch about moving vans.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-09",
@@ -259,7 +259,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "appeared on"
 },
 {
 "claimTier": 2,
@@ -269,13 +269,13 @@
 "direction": "out",
 "edgeId": "e-18f061e431",
 "edgeLabel": "Founded the caucus in August 2023 and led its letter to the ICIG",
-"family": null,
+"family": "role",
 "id": "congressional-uap-caucus",
 "l0": true,
 "label": "Congressional UAP Caucus",
 "note": "Burchett press release of 22 August 2023; The Hill records the caucus as bipartisan and formed 'last fall.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-12",
@@ -290,7 +290,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 },
 {
 "claimTier": 1,
@@ -300,13 +300,13 @@
 "direction": "out",
 "edgeId": "e-992a359d62",
 "edgeLabel": "Elicited the harm, injury and murder answers; recorded the SCIF denial",
-"family": null,
+"family": "oversight",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Burchett drew Grusch's 'Yes, personally' on knowledge of people harmed in the concealment effort and his careful non-answer on murder, then stated on the record that members had been denied SCIF access.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -316,7 +316,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -326,13 +326,13 @@
 "direction": "in",
 "edgeId": "e-44433b7e5b",
 "edgeLabel": "Denied members SCIF access to Grusch before the founding hearing",
-"family": null,
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Burchett's opening statement: members 'were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -342,7 +342,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -352,13 +352,13 @@
 "direction": "out",
 "edgeId": "e-c6a8dbdf80",
 "edgeLabel": "Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list",
-"family": null,
+"family": "oversight",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "No list has been published and no committee has reported receiving one, which is itself a documented gap in the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -368,7 +368,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -378,13 +378,13 @@
 "direction": "out",
 "edgeId": "e-e5830448a8",
 "edgeLabel": "Drove the hearing into existence; opened by disclosing the denied SCIF access",
-"family": null,
+"family": "place-time",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -394,7 +394,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -404,13 +404,13 @@
 "direction": "out",
 "edgeId": "e-e40cabd8ed",
 "edgeLabel": "Elicited Elizondo's corroboration of Grusch under oath",
-"family": null,
+"family": "oversight",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Burchett asked the direct question that produced the only sworn second-source affirmation of Grusch's central allegation in the congressional record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -420,7 +420,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -430,13 +430,13 @@
 "direction": "out",
 "edgeId": "e-dbaee75587",
 "edgeLabel": "Sponsor",
-"family": null,
+"family": "law",
 "id": "hr-10111-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
 "note": "Introduced 12 November 2024, the day before the Oversight hearing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-12",
@@ -446,7 +446,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -456,13 +456,13 @@
 "direction": "out",
 "edgeId": "e-d592e7b5fc",
 "edgeLabel": "Sponsor",
-"family": null,
+"family": "law",
 "id": "hr-1187-uap-transparency-act",
 "l0": false,
 "label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
 "note": "Introduced 11 February 2025, the day the Task Force was announced.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-11",
@@ -472,7 +472,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -482,13 +482,13 @@
 "direction": "out",
 "edgeId": "e-88d8177da1",
 "edgeLabel": "Sponsor of the reintroduced bill",
-"family": null,
+"family": "law",
 "id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-08-29",
@@ -508,7 +508,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -518,13 +518,13 @@
 "direction": "out",
 "edgeId": "e-4e180b7f13",
 "edgeLabel": "introduced the bill to abolish AARO, 6 April 2026",
-"family": null,
+"family": "law",
 "id": "hr-8197",
 "l0": false,
 "label": "H.R. 8197 (119th Congress) - bill to abolish AARO",
 "note": "Four pages; abolishes the office, bars any successor, redistributes functions to the military departments, repeals the enabling statutes. Referred to HASC and HPSCI.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-08",
@@ -534,7 +534,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -544,13 +544,13 @@
 "direction": "out",
 "edgeId": "e-66fdbfec24",
 "edgeLabel": "Sponsor of the 118th Congress predecessor",
-"family": null,
+"family": "law",
 "id": "hr-8424-uap-transparency-act",
 "l0": false,
 "label": "H.R. 8424 - UAP Transparency Act (118th Congress)",
 "note": "Died in referral; refiled as H.R. 1187.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-05-16",
@@ -560,7 +560,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -570,13 +570,13 @@
 "direction": "out",
 "edgeId": "e-d0fa06a92e",
 "edgeLabel": "Distributed the document to every member on the dais and moved to enter it",
-"family": null,
+"family": "testimony",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Mace announced that Burchett held the document and would enter it into the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -586,7 +586,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -596,13 +596,13 @@
 "direction": "out",
 "edgeId": "e-1904dfd6f1",
 "edgeLabel": "Accompanied Gaetz to Eglin on the protected disclosure",
-"family": null,
+"family": "testimony",
 "id": "l-eglin",
 "l0": false,
 "label": "Eglin Air Force Base, Florida",
 "note": "Named by Gaetz on the record and again by Luna in 2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -617,7 +617,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -627,13 +627,13 @@
 "direction": "out",
 "edgeId": "e-5e8fb8dce7",
 "edgeLabel": "Led the earlier select committee effort under Speaker McCarthy",
-"family": null,
+"family": "role",
 "id": "uap-select-committee-proposal",
 "l0": false,
 "label": "Proposed House Select Committee on UAP",
 "note": "The effort was lost when McCarthy lost the speakership.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-12",
@@ -643,7 +643,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "led"
 }
 ],
 "date": "2023-07-26",

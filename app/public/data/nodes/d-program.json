@@ -36,13 +36,13 @@
 "direction": "out",
 "edgeId": "e-fdd5e298e1",
 "edgeLabel": "Tasking reveals expectation",
-"family": null,
+"family": "analysis",
 "id": "d-exotic",
 "l0": false,
 "label": "Exotic Technology & Physics",
 "note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2008-08-22",
@@ -52,7 +52,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -62,13 +62,13 @@
 "direction": "in",
 "edgeId": "e-82220cdaac",
 "edgeLabel": "Anomalous phenomena inside a defence contract",
-"family": null,
+"family": "analysis",
 "id": "d-paranormal",
 "l0": false,
 "label": "Anomalous Phenomena Adjacent to UAP",
 "note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2008-08-22",
@@ -78,7 +78,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -88,13 +88,13 @@
 "direction": "out",
 "edgeId": "e-c5ca7cb71e",
 "edgeLabel": "Conversion from visible to invisible",
-"family": null,
+"family": "place-time",
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-11-01",
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "led to"
 }
 ],
 "coords": null,

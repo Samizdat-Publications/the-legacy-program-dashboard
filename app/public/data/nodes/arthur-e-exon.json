@@ -38,13 +38,13 @@
 "direction": "out",
 "edgeId": "e-011f24b07d",
 "edgeLabel": "Installation commander, August 1964 to December 1965",
-"family": null,
+"family": "role",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Exon was the installation commander of Wright-Patterson Air Force Base from August 1964 to December 1965 per the base's own published history.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -54,7 +54,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -64,13 +64,13 @@
 "direction": "out",
 "edgeId": "e-6419a92edb",
 "edgeLabel": "Held the command as a Colonel, per the Air Force's own commander table",
-"family": null,
+"family": "role",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "He held the command as a United States Air Force officer, listed as a colonel in the Air Force's own installation-commander table.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -80,7 +80,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "1964-08",

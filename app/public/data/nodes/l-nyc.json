@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-90ae1aa3af",
 "edgeLabel": "The decisive act of the modern disclosure era was a New York editorial decision",
-"family": null,
+"family": "place-time",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The story added institutional standing rather than new physical evidence; every subsequent official step follows it in sequence. Reasoning: chronological review of post-2017 official actions.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-16",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "was the scene of"
 }
 ],
 "coords": [

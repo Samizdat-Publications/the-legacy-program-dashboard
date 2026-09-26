@@ -59,13 +59,13 @@
 "direction": "out",
 "edgeId": "e-e71299ed35",
 "edgeLabel": "1996 witnesses testify to US legislators thirty years later",
-"family": null,
+"family": "place-time",
 "id": "ev-varginha-capitol-2026",
 "l0": false,
 "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
 "note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -75,7 +75,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -85,13 +85,13 @@
 "direction": "in",
 "edgeId": "e-fab97a3485",
 "edgeLabel": "The hospital is a named custody point in the Varginha sequence",
-"family": null,
+"family": "custody",
 "id": "hospital-regional-varginha",
 "l0": false,
 "label": "Hospital Regional de Varginha",
 "note": "The facility registered in CNES as the Hospital Regional do Sul de Minas is the hospital named in the Varginha literature as a place to which an injured being was reportedly taken. Tier 2: the facility and its registry entry are verified fact, the custody sequence rests on witness testimony and journalism and on no hospital record obtained in this pass. The hospital node carried edges to the US congressional side of the story but, oddly, not to the 1996 event itself.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -111,7 +111,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 3,
@@ -121,13 +121,13 @@
 "direction": "out",
 "edgeId": "e-99adbb28a9",
 "edgeLabel": "Two official inquiries that explained the recovery activity without producing the logs",
-"family": null,
+"family": "analysis",
 "id": "roswell-report-case-closed",
 "l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1997-01-01",
@@ -137,7 +137,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-92e45796bd",
 "edgeLabel": "The office's own account of why it cannot declassify",
-"family": null,
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO states it cannot declassify independently, must request review from originating offices, and is bound by DOPSR - a description falsified within eight months by its own department.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-01",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-6cbcdbb3c0",
 "edgeLabel": "Process described as immovable was moved by cabinet direction in weeks",
-"family": null,
+"family": "testimony",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-01",
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is contradicted by"
 }
 ],
 "coords": null,

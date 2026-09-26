@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-2af0a56a75",
 "edgeLabel": "The Defence Secretariat file covering the claimed assessment is closed until 2076",
-"family": null,
+"family": "custody",
 "id": "uk-defe24",
 "l0": false,
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "DEFE 24/1940 is the UFO reports file for 1 August 1990 to 31 January 1991 and carries a record opening date of 1 January 2076 under a Freedom of Information Act exemption signed 7 June 2023; a redacted digital copy at DEFE 24/1940/1 has been open since 20 October 2008. The edge records where the assessment would sit, not that it is there.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -63,7 +63,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-a396398a21",
 "edgeLabel": "Ministry of Defence imagery-intelligence unit with Operations Record Books at Kew, 1950-1992",
-"family": null,
+"family": "organisation",
 "id": "uk-mod",
 "l0": false,
 "label": "United Kingdom Ministry of Defence",
 "note": "The unit's Operations Record Books are catalogued in the Air Ministry and Ministry of Defence series AIR 29, from RAF Nuneham Park in 1950 to RAF Brampton in 1992, with a separate administrative history at AIR 14/4103.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 }
 ],
 "coords": null,

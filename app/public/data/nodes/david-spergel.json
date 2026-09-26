@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-9050616f60",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
-"family": null,
+"family": "role",
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "Spergel of the Simons Foundation chaired the 16-member panel.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-14",
@@ -121,7 +121,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-6f1436abda",
 "edgeLabel": "Panel worked under sustained public harassment",
-"family": null,
+"family": "role",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -157,13 +157,13 @@
 "direction": "out",
 "edgeId": "e-d880ef5a6a",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
-"family": null,
+"family": "role",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-14",
@@ -178,7 +178,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "led"
 }
 ],
 "date": "2023-09-14",

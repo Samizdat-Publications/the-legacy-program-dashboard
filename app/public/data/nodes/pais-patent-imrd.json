@@ -119,13 +119,13 @@
 "direction": "in",
 "edgeId": "e-5ea45d9614",
 "edgeLabel": "The craft claimed to deliver them",
-"family": null,
+"family": "documents",
 "id": "five-observables",
 "l0": false,
 "label": "The five observables (UAP performance taxonomy)",
 "note": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -135,7 +135,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 2,
@@ -145,13 +145,13 @@
 "direction": "in",
 "edgeId": "e-d9e17c4b73",
 "edgeLabel": "The control case for the patents tab: a propulsion patent that did issue",
-"family": null,
+"family": "law",
 "id": "invention-secrecy-act",
 "l0": false,
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "note": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -161,7 +161,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -171,13 +171,13 @@
 "direction": "out",
 "edgeId": "e-e85cdcada8",
 "edgeLabel": "The disclosure says the IMRD enables the gravitational wave generator",
-"family": null,
+"family": "place-time",
 "id": "pais-patent-hfgw",
 "l0": false,
 "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "note": "PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -187,7 +187,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -197,13 +197,13 @@
 "direction": "in",
 "edgeId": "e-2bf2582793",
 "edgeLabel": "Internal disclosure underlying the granted patent",
-"family": null,
+"family": "place-time",
 "id": "pax-205-disclosure",
 "l0": false,
 "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
 "note": "Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -213,7 +213,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -223,13 +223,13 @@
 "direction": "in",
 "edgeId": "e-d9cf01901c",
 "edgeLabel": "Named inventor",
-"family": null,
+"family": "documents",
 "id": "salvatore-pais",
 "l0": false,
 "label": "Salvatore Cezar Pais",
 "note": "Application 15/141270, assigned to the Secretary of the Navy.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -239,7 +239,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -249,13 +249,13 @@
 "direction": "in",
 "edgeId": "e-b0456f2b24",
 "edgeLabel": "Assignee of record",
-"family": null,
+"family": "custody",
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -270,7 +270,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is held by"
 }
 ],
 "coords": null,

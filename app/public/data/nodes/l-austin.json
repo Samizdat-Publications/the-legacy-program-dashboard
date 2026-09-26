@@ -23,13 +23,13 @@
 "direction": "out",
 "edgeId": "e-6752ca6d3a",
 "edgeLabel": "11855 Research Blvd - the address printed on a DIA reference document",
-"family": null,
+"family": "place-time",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "The single street address connecting the DIA Defense Warning Office to the AAWSAP propulsion and medical documents and thence to the To The Stars metamaterials work.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-04-06",
@@ -44,7 +44,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": null,

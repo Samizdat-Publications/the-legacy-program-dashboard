@@ -36,13 +36,13 @@
 "direction": "out",
 "edgeId": "e-98cb27a26b",
 "edgeLabel": "The corpus is what survives the records fight",
-"family": null,
+"family": "analysis",
 "id": "d-records",
 "l0": false,
 "label": "Records & Archives",
 "note": "Almost every primary document in this field arrived through FOIA or archival release; historiography here is downstream of records law.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-07-28",
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is affected by"
 }
 ],
 "coords": null,

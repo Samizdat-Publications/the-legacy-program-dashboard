@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-856421a8cf",
 "edgeLabel": "Instrument operator and third author",
-"family": null,
+"family": "documents",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-01-01",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2022-01-01",

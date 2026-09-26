@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-2398c9b903",
 "edgeLabel": "Released by NSA with its declassification markings on the pages",
-"family": null,
+"family": "documents",
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency's UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-03-05",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was released by"
 }
 ],
 "coords": null,

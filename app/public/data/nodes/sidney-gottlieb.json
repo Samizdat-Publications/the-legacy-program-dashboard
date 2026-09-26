@@ -56,13 +56,13 @@
 "direction": "out",
 "edgeId": "e-f56027ec83",
 "edgeLabel": "Chief, TSS Chemical Division 1955; Deputy Chief, TSD 1963; Chief, TSD 1973",
-"family": null,
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Three offices, each taken from a separate opened document rather than from a biography.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1963-07-26",
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -82,13 +82,13 @@
 "direction": "out",
 "edgeId": "e-190fca4c68",
 "edgeLabel": "Ordered the destruction of the MKULTRA files, January 1973",
-"family": null,
+"family": "conduct",
 "id": "d-records",
 "l0": false,
 "label": "Records & Archives",
 "note": "The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acted_against",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-06-22",
@@ -98,7 +98,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "took action against"
 },
 {
 "claimTier": 1,
@@ -108,13 +108,13 @@
 "direction": "in",
 "edgeId": "e-f68c1794c2",
 "edgeLabel": "Named with Lashbrook as running the experiment",
-"family": null,
+"family": "organisation",
 "id": "frank-olson-death-1953",
 "l0": false,
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "The Church Committee text reprinted in the 1977 hearing print states the drug was placed in the bottle by Robert Lashbrook as part of an experiment he and Sidney Gottlieb performed at a meeting of Army and CIA scientists.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-08-03",
@@ -124,7 +124,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -134,13 +134,13 @@
 "direction": "out",
 "edgeId": "e-8f94d80b28",
 "edgeLabel": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
-"family": null,
+"family": "role",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-06-28",
@@ -150,7 +150,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "1955-03-31",

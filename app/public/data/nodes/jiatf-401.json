@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-baa1666c7f",
 "edgeLabel": "The 2026 bomber-base incursions are the task force's live problem",
-"family": null,
+"family": "oversight",
 "id": "barksdale-2026-incursions",
 "l0": false,
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-25",
@@ -62,7 +62,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -72,13 +72,13 @@
 "direction": "in",
 "edgeId": "e-a805a28266",
 "edgeLabel": "Director of JIATF-401 from its establishment",
-"family": null,
+"family": "role",
 "id": "matt-ross",
 "l0": false,
 "label": "Matt Ross",
 "note": "Brig. Gen. Matt Ross directs the counter-drone joint interagency task force established in August 2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -88,7 +88,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -98,13 +98,13 @@
 "direction": "out",
 "edgeId": "e-6a8f301936",
 "edgeLabel": "Task force stood up in August 2025 after two years of unattributed incursions",
-"family": null,
+"family": "place-time",
 "id": "nj-drone-incursions-2024",
 "l0": false,
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -119,7 +119,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "followed from"
 }
 ],
 "coords": null,

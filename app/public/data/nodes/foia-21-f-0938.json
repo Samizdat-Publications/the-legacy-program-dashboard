@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-741e9c8db9",
 "edgeLabel": "FOIA release of the Elizondo-Gough correspondence",
-"family": null,
+"family": "documents",
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "The Department's own reading room hosts the most detailed public rebuttal of the Department's position on Elizondo.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-01-01",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

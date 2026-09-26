@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-c51002abfd",
 "edgeLabel": "the 1977 event triggered the Soviet programmes",
-"family": null,
+"family": "place-time",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Stonehill and Mantle: the sharp increase in activity in 1977-78, 'especially, the Petrozavodsk Case', forced the Academy of Sciences to agree to the research programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-11-19",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "led to"
 }
 ],
 "coords": null,

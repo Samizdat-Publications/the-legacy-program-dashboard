@@ -39,13 +39,13 @@
 "direction": "out",
 "edgeId": "e-12606bd281",
 "edgeLabel": "co-requester of the Condign FOI",
-"family": null,
+"family": "oversight",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Named with Clarke as co-requester in the report's release history and in contemporaneous BBC and Guardian coverage.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-19",
@@ -55,7 +55,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "made a request of"
 }
 ],
 "date": "2006-05-15",

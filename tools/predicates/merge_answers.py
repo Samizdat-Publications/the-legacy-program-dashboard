@@ -142,7 +142,7 @@ def main():
     print(f"connected_to {pc.get('connected_to', 0)} of {len(out)}")
     if "--write" in args:
         with open(OUT, "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({"_what": WHAT, "edges": dict(sorted(out.items()))}, fh, indent=1,
+            json.dump({"_what": WHAT, "predicates": dict(sorted(out.items()))}, fh, indent=1,
                       ensure_ascii=False, sort_keys=True)
             fh.write("\n")
         print(f"wrote {OUT}")

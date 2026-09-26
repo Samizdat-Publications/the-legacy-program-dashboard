@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-3e6f3025d8",
 "edgeLabel": "Episode establishes the AAWSAP clearance chain for Davis",
-"family": null,
+"family": "media",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Davis's AAWSAP clearances and DIA deputisation are the credential on which the episode's authority rests.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-08",
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "reported on"
 },
 {
 "claimTier": 2,
@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-01ec7bd604",
 "edgeLabel": "Creator and host",
-"family": null,
+"family": "role",
 "id": "american-alchemy",
 "l0": false,
 "label": "American Alchemy",
 "note": "American Alchemy is Michels' series and the venue for every episode in this domain.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-11",
@@ -121,7 +121,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 },
 {
 "claimTier": 2,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-4f414f3c23",
 "edgeLabel": "Michels ran a three-episode Borland sequence, August 2026",
-"family": null,
+"family": "media",
 "id": "dylan-borland",
 "l0": false,
 "label": "Dylan Borland",
 "note": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-05",
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -157,13 +157,13 @@
 "direction": "out",
 "edgeId": "e-aaa4f73048",
 "edgeLabel": "Michels put Eric Davis on record with Eric Weinstein, 8 March 2026",
-"family": null,
+"family": "media",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "A four-hour session covering the Wilson-Davis memo (37:56), the count of crashes (48:00), crash retrieval program structure (2:28:43) and the legacy program (2:35:09); 766,314 views.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-08",
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -183,13 +183,13 @@
 "direction": "out",
 "edgeId": "e-ad78872750",
 "edgeLabel": "Michels published Barber's crash-retrieval account",
-"family": null,
+"family": "testimony",
 "id": "jake-barber",
 "l0": false,
 "label": "Jake Barber",
 "note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-01-30",
@@ -204,7 +204,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -214,13 +214,13 @@
 "direction": "out",
 "edgeId": "e-699f3b9751",
 "edgeLabel": "Episode framing cites Lacatski's AAWSAP deputisation of Davis",
-"family": null,
+"family": "documents",
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "The episode description states Davis held security clearances through AAWSAP and was formally deputised by DIA under program manager James Lacatski, 'who himself claims he has stepped inside a UFO and breached the hull.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-08",
@@ -230,7 +230,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "cites"
 },
 {
 "claimTier": 2,
@@ -240,13 +240,13 @@
 "direction": "out",
 "edgeId": "e-8f9b85c547",
 "edgeLabel": "Michels interviewed Shellenberger the day after the hearing",
-"family": null,
+"family": "media",
 "id": "michael-shellenberger",
 "l0": false,
 "label": "Michael Shellenberger",
 "note": "Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the first long-form venue for Shellenberger's account of the document.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-14",
@@ -256,7 +256,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -266,13 +266,13 @@
 "direction": "out",
 "edgeId": "e-19201b74d1",
 "edgeLabel": "Michels produced and hosted the structural episode",
-"family": null,
+"family": "organisation",
 "id": "michels-gerb-structural-episode",
 "l0": true,
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-11",
@@ -282,7 +282,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -292,13 +292,13 @@
 "direction": "out",
 "edgeId": "e-8cd6da1fe2",
 "edgeLabel": "Michels platformed UAP Gerb twice for multi-hour structural interviews",
-"family": null,
+"family": "media",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Michels published 'UAPGerb: The New Area51 Is HERE in Utah!' on 21 February 2025 (450,091 views) and the three-hour structural episode 'The Pentagon's UFO Program Is Real [Here's How It Works!]' on 11 January 2026 (514,729 views). These two episodes are the primary public exposition of Gerb's structural model.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-11",
@@ -313,7 +313,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -323,13 +323,13 @@
 "direction": "out",
 "edgeId": "e-79745e7910",
 "edgeLabel": "Dedicated chapter on the Wilson-Davis memo with Davis present",
-"family": null,
+"family": "media",
 "id": "wilson-davis-memo",
 "l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Chapter at 37:56 of the 8 March 2026 episode, with the memo's named author-participant in the room - the closest to a primary-source interrogation of that document yet conducted in public.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-08",
@@ -339,7 +339,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "reported on"
 }
 ],
 "date": "2026-01-11",

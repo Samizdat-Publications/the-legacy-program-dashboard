@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-d1e2d616b4",
 "edgeLabel": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
-"family": null,
+"family": "place-time",
 "id": "afrl",
 "l0": false,
 "label": "Air Force Research Laboratory",
 "note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -39,7 +39,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -49,13 +49,13 @@
 "direction": "in",
 "edgeId": "e-d3dfb0aa44",
 "edgeLabel": "Same Wright-Patterson lineage; NASIC is the later name",
-"family": null,
+"family": "organisation",
 "id": "foreign-technology-division",
 "l0": false,
 "label": "Foreign Technology Division, Wright-Patterson AFB",
 "note": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-10",
@@ -65,7 +65,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 2,
@@ -75,13 +75,13 @@
 "direction": "in",
 "edgeId": "e-964d016ed7",
 "edgeLabel": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
-"family": null,
+"family": "role",
 "id": "jonathan-grey",
 "l0": false,
 "label": "\"Jonathan Grey\" (pseudonym)",
 "note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -91,7 +91,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-10be0ce5ef",
 "edgeLabel": "NASIC is the current tenant institution at Wright-Patterson",
-"family": null,
+"family": "place-time",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir to ATIC/FTD's foreign materiel exploitation mission.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -117,7 +117,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is located at"
 }
 ],
 "coords": null,

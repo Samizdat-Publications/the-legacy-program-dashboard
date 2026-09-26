@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-d05ecbb9a2",
 "edgeLabel": "Op-ed advanced the report's analytic frame seven weeks early",
-"family": null,
+"family": "place-time",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Kirkpatrick's 19 January 2024 circular-reporting framing appears as the analytic spine of the 8 March 2024 report - the departing director publishing the conclusion before the agency published the study.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-19",
@@ -68,7 +68,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 2,
@@ -78,13 +78,13 @@
 "direction": "out",
 "edgeId": "e-5860adb43a",
 "edgeLabel": "attributes the crash-retrieval narrative to AATIP and the Bigelow circle",
-"family": null,
+"family": "denial",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Kirkpatrick names AATIP and Robert Bigelow as the origin of what he calls circular reporting, an attack that lands on Elizondo without engaging his account as testimony.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-19",
@@ -94,7 +94,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 2,
@@ -104,13 +104,13 @@
 "direction": "out",
 "edgeId": "e-720785c4d3",
 "edgeLabel": "names Bigelow as the seeding influence behind the modern belief system",
-"family": null,
+"family": "denial",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "explained_away",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-19",
@@ -120,7 +120,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "gave a conventional explanation for"
 },
 {
 "claimTier": 1,
@@ -130,13 +130,13 @@
 "direction": "in",
 "edgeId": "e-f15528c536",
 "edgeLabel": "authored the op-ed attacking the whistleblowers seven weeks after leaving office",
-"family": null,
+"family": "documents",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Published 19 January 2024, between his 1 December 2023 departure and the 8 March 2024 release of the report he had written.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-19",
@@ -146,7 +146,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -156,13 +156,13 @@
 "direction": "in",
 "edgeId": "e-aae62bb24d",
 "edgeLabel": "Bylined attribution of the allegations to circular reporting and unsupported belief",
-"family": null,
+"family": "documents",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Published 19 January 2024 under Kirkpatrick's own name, seven weeks before AARO's Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency's conclusions in the press.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-19",
@@ -172,7 +172,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -182,13 +182,13 @@
 "direction": "out",
 "edgeId": "e-75a2d6412f",
 "edgeLabel": "the 'circular reporting from a small group' thesis, seventeen months before the Air Force was identified as the seeding group",
-"family": null,
+"family": "place-time",
 "id": "yankee-blue",
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Kirkpatrick's mechanism was correct in form and wrong in agent: belief was seeded and repeated from a small source, but the documented source is a US Air Force indoctrination practice, not a civilian believer network. Whether AARO knew this when the op-ed ran is unresolved, given that AARO discovered Yankee Blue during his tenure.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-19",
@@ -203,7 +203,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 }
 ],
 "coords": null,

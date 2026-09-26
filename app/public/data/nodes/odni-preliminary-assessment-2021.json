@@ -83,13 +83,13 @@
 "direction": "in",
 "edgeId": "e-9ad0ad2bc2",
 "edgeLabel": "",
-"family": null,
+"family": "organisation",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO inherited the reporting line this assessment opened. The June 2021 preliminary assessment predates AARO and was built from UAP Task Force holdings; the ODNI 2022 annual report then carries a section headed 'Establishment of the All-Domain Anomaly Resolution Office (AARO)' recording that the Deputy Secretary directed USD(I&S) to stand it up. The institutional relation is succession, not authorship.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -104,7 +104,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 3,
@@ -114,13 +114,13 @@
 "direction": "out",
 "edgeId": "e-4ed02e166f",
 "edgeLabel": "The 2021 data-limitation formula persists unchanged through FY2025",
-"family": null,
+"family": "analysis",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Every AARO annual report reproduces the Preliminary Assessment's move of attributing non-resolution to limited and inconsistent data rather than to any property of the objects.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -145,13 +145,13 @@
 "direction": "in",
 "edgeId": "e-8b2b7fe763",
 "edgeLabel": "Sixteen years of silence is the stigma the assessment describes",
-"family": null,
+"family": "analysis",
 "id": "alex-dietrich",
 "l0": false,
 "label": "Alex Dietrich",
 "note": "Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-16",
@@ -166,7 +166,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -176,13 +176,13 @@
 "direction": "out",
 "edgeId": "e-5b1955a7b7",
 "edgeLabel": "Official confirmation of the stigma ASA exists to route around",
-"family": null,
+"family": "analysis",
 "id": "americans-for-safe-aerospace",
 "l0": true,
 "label": "Americans for Safe Aerospace",
 "note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -197,7 +197,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -207,13 +207,13 @@
 "direction": "in",
 "edgeId": "e-0fc68b0385",
 "edgeLabel": "DNI who transmitted the assessment to Congress",
-"family": null,
+"family": "documents",
 "id": "avril-haines",
 "l0": false,
 "label": "Avril D. Haines",
 "note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -223,7 +223,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was published by"
 },
 {
 "claimTier": 2,
@@ -233,13 +233,13 @@
 "direction": "in",
 "edgeId": "e-b94a321123",
 "edgeLabel": "Founded in direct response to the June 2021 ODNI assessment",
-"family": null,
+"family": "place-time",
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -249,7 +249,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "drew a response from"
 },
 {
 "claimTier": 1,
@@ -259,13 +259,13 @@
 "direction": "out",
 "edgeId": "e-1c66e5b56e",
 "edgeLabel": "18 of 144 incidents showed unusual movement patterns; sensors not designed to identify UAP",
-"family": null,
+"family": "documents",
 "id": "gofast-video",
 "l0": false,
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "note": "'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics,' and military sensors 'are not generally suited for identifying UAP.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -275,7 +275,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -285,13 +285,13 @@
 "direction": "in",
 "edgeId": "e-2c9ae2b1aa",
 "edgeLabel": "Within the November 2004 to March 2021 window the assessment covers",
-"family": null,
+"family": "documents",
 "id": "kidd-russell-2019",
 "l0": false,
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "note": "The ODNI preliminary assessment covers 144 reports from USG sources spanning November 2004 to March 2021, the window containing both the Nimitz and the 2019 swarm events.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -306,7 +306,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -316,13 +316,13 @@
 "direction": "in",
 "edgeId": "e-2fa947f072",
 "edgeLabel": "Both diagnose the same evidentiary deficit",
-"family": null,
+"family": "analysis",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-06-25",
@@ -337,7 +337,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -347,13 +347,13 @@
 "direction": "out",
 "edgeId": "e-c73193d0cb",
 "edgeLabel": "Assessment window opens with the Nimitz encounter",
-"family": null,
+"family": "documents",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The assessment's date range begins November 2004 - the month of the Nimitz intercept - and it resolved only one of 144 reports with high confidence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -363,7 +363,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -373,13 +373,13 @@
 "direction": "out",
 "edgeId": "e-4ed619d218",
 "edgeLabel": "",
-"family": null,
+"family": "documents",
 "id": "odni-2022-annual-report",
 "l0": false,
 "label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena",
 "note": "The 2022 report extends the 2021 baseline rather than replacing it: it reports new cases 'in addition to the 144 UAP reports covered during the 17 years of UAP reporting included in' the preliminary assessment. The 144-incident figure is the anchor both documents are measured against.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-12",
@@ -394,7 +394,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "is cited by"
 },
 {
 "claimTier": 3,
@@ -404,13 +404,13 @@
 "direction": "out",
 "edgeId": "e-63726b55c3",
 "edgeLabel": "The data-scarcity claim survives the release only because the parameters were stripped",
-"family": null,
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "PURSUE falsified the claim that the imagery does not exist while preserving the claim that the data are insufficient, by publishing video without coordinates, sensor parameters or altitude.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -425,7 +425,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -435,13 +435,13 @@
 "direction": "in",
 "edgeId": "e-8b3e6d7553",
 "edgeLabel": "",
-"family": null,
+"family": "organisation",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -456,7 +456,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -466,13 +466,13 @@
 "direction": "in",
 "edgeId": "e-3ed75a8466",
 "edgeLabel": "UAPTF dataset is the substrate of the 2021 Preliminary Assessment",
-"family": null,
+"family": "organisation",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The assessment's 144 incidents came from the Task Force's holdings; ODNI transmitted the product but the Task Force built the data.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -482,7 +482,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 }
 ],
 "coords": null,

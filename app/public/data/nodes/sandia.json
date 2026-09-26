@@ -59,13 +59,13 @@
 "direction": "in",
 "edgeId": "e-ad1ede6b89",
 "edgeLabel": "A numbered copy went to Sandia's document control division",
-"family": null,
+"family": "custody",
 "id": "afswc-tr-59-39",
 "l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1959-06-19",
@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -85,13 +85,13 @@
 "direction": "in",
 "edgeId": "e-04e9f9ed87",
 "edgeLabel": "Sandia Base operations and the 1947 split of security and intelligence duties with the AEC",
-"family": null,
+"family": "place-time",
 "id": "afswp",
 "l0": false,
 "label": "Armed Forces Special Weapons Project",
 "note": "The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2002-01-01",
@@ -101,7 +101,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -111,13 +111,13 @@
 "direction": "out",
 "edgeId": "e-7ea004dd8e",
 "edgeLabel": "three Sandia staff among the five outside reviewers",
-"family": null,
+"family": "documents",
 "id": "dia-deliverables-review-2009",
 "l0": false,
 "label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
 "note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-10-30",
@@ -127,7 +127,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -137,13 +137,13 @@
 "direction": "in",
 "edgeId": "e-4a72281e24",
 "edgeLabel": "DOE/NNSA management and operating contract; Sandia",
-"family": null,
+"family": "organisation",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -153,7 +153,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -163,13 +163,13 @@
 "direction": "in",
 "edgeId": "e-d706b72f95",
 "edgeLabel": "A Sandia security guard is a named reporting party in the AFOSI file",
-"family": null,
+"family": "testimony",
 "id": "kirtland-manzano-1980",
 "l0": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -179,7 +179,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -189,13 +189,13 @@
 "direction": "out",
 "edgeId": "e-6a1fe3f35c",
 "edgeLabel": "Sandia National Laboratories is adjacent to Kirtland AFB",
-"family": null,
+"family": "place-time",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -210,7 +210,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -220,13 +220,13 @@
 "direction": "in",
 "edgeId": "e-b710c1fa88",
 "edgeLabel": "Sandia named as an AEC-lineage custodial laboratory",
-"family": null,
+"family": "custody",
 "id": "manhattan-project-2",
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_to_hold",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-11-01",
@@ -236,7 +236,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is alleged to hold material from"
 },
 {
 "claimTier": 2,
@@ -246,13 +246,13 @@
 "direction": "in",
 "edgeId": "e-311c879a10",
 "edgeLabel": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
-"family": null,
+"family": "custody",
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_to_hold",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-08",
@@ -262,7 +262,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "is alleged to have material held by"
 }
 ],
 "coords": null,

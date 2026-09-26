@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-9de889acc5",
 "edgeLabel": "The Debrief published the Grusch story the NYT did not run",
-"family": null,
+"family": "role",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-2cdc0e2c56",
 "edgeLabel": "Co-founder, Creator and Editor-in-Chief",
-"family": null,
+"family": "role",
 "id": "micah-hanks",
 "l0": false,
 "label": "Micah Hanks",
 "note": "Named on The Debrief's About page.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 },
 {
 "claimTier": 3,
@@ -87,13 +87,13 @@
 "direction": "out",
 "edgeId": "e-84d979aab0",
 "edgeLabel": "Successor venue to the 2017 New York Times story",
-"family": null,
+"family": "organisation",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The 2017 NYT article and the 2023 Debrief article share two of three authors and a continuous line of argument; the change of venue between them is a data point about institutional appetite, not about the reporting.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -103,7 +103,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -113,13 +113,13 @@
 "direction": "in",
 "edgeId": "e-db9e130e37",
 "edgeLabel": "Co-founder and Executive Director",
-"family": null,
+"family": "role",
 "id": "tim-mcmillan",
 "l0": false,
 "label": "Tim McMillan",
 "note": "Named on The Debrief's About page as Co-Founder and Executive Director.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -129,7 +129,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 }
 ],
 "coords": null,

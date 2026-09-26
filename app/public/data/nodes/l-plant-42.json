@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-52826d2191",
 "edgeLabel": "The unnamed 'facility in California' in the sworn testimony is most plausibly in the Palmdale complex",
-"family": null,
+"family": "place-time",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated at Palmdale. No witness has named a site and the board does not assert one.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -55,13 +55,13 @@
 "direction": "in",
 "edgeId": "e-0f7ebb1120",
 "edgeLabel": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
-"family": null,
+"family": "place-time",
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -71,7 +71,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -81,13 +81,13 @@
 "direction": "in",
 "edgeId": "e-e8a2b43ece",
 "edgeLabel": "Relays an unnamed informant who places himself at the B-2 facility",
-"family": null,
+"family": "testimony",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "His testimony relays a further unnamed informant who says 'I work at the B-2 bomber facility out at Plant 42 in Palmdale and Lancaster'. Relayed, unnamed and uncorroborated; no record was opened.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -97,7 +97,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "is the subject of claims by"
 }
 ],
 "coords": null,

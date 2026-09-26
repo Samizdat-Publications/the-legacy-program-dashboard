@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-73d1ba7279",
 "edgeLabel": "Says recording media were surrendered or wiped after 14 Nov 2004",
-"family": null,
+"family": "testimony",
 "id": "gary-voorhis",
 "l0": false,
 "label": "Gary Voorhis",
 "note": "The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -51,7 +51,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-1c7770bb23",
 "edgeLabel": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
-"family": null,
+"family": "role",
 "id": "gary-voorhis",
 "l0": false,
 "label": "Gary Voorhis",
 "note": "Voorhis's technical billet placed him at the node where the encounter's recorded machine data physically lived.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 3,
@@ -87,13 +87,13 @@
 "direction": "in",
 "edgeId": "e-e82489065f",
 "edgeLabel": "Crewman aboard USS Princeton, Nov 2004",
-"family": null,
+"family": "role",
 "id": "jason-turner",
 "l0": false,
 "label": "Jason Turner",
 "note": "Turner is one of several Princeton enlisted crew who have publicly described the post-encounter arrival of outside personnel; his rate and division are not established from primary records.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -103,7 +103,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -113,13 +113,13 @@
 "direction": "in",
 "edgeId": "e-435a682964",
 "edgeLabel": "Senior Chief Operations Specialist aboard USS Princeton, Nov 2004",
-"family": null,
+"family": "role",
 "id": "kevin-day",
 "l0": false,
 "label": "Kevin Day",
 "note": "Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -129,7 +129,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -139,13 +139,13 @@
 "direction": "out",
 "edgeId": "e-74535c77a4",
 "edgeLabel": "Generated the primary sensor record of the encounter; no such data has ever been released",
-"family": null,
+"family": "organisation",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -160,7 +160,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -170,13 +170,13 @@
 "direction": "out",
 "edgeId": "e-523fabda6a",
 "edgeLabel": "Princeton's SPY-1B held the tracks and vectored the intercept",
-"family": null,
+"family": "testimony",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -186,7 +186,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "coords": null,

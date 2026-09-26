@@ -16,13 +16,13 @@
 "direction": "out",
 "edgeId": "e-a5579174dd",
 "edgeLabel": "NRO headquarters, Westfields, Chantilly",
-"family": null,
+"family": "place-time",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -37,7 +37,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": null,

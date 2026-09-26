@@ -75,13 +75,13 @@
 "direction": "out",
 "edgeId": "e-3a568b8f37",
 "edgeLabel": "Chaired the CIA-convened panel of January 1953",
-"family": null,
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1953-01-17",
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-1fcd561803",
 "edgeLabel": "Robertson chaired the panel",
-"family": null,
+"family": "role",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1953-01-17",
@@ -117,7 +117,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 }
 ],
 "date": "1953-01-17",

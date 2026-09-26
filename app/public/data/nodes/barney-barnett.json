@@ -63,13 +63,13 @@
 "direction": "out",
 "edgeId": "e-69c2259327",
 "edgeLabel": "Originating but never-interviewed eyewitness",
-"family": null,
+"family": "testimony",
 "id": "plains-san-agustin-1947",
 "l0": false,
 "label": "Plains of San Agustin claim, July 1947",
 "note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -79,7 +79,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "1969",

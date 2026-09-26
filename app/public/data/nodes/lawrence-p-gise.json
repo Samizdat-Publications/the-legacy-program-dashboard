@@ -50,13 +50,13 @@
 "direction": "out",
 "edgeId": "e-3d2c9cd650",
 "edgeLabel": "Held the ARPA post of Assistant Director, Administration",
-"family": null,
+"family": "role",
 "id": "darpa",
 "l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1959-05-01",
@@ -66,7 +66,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -76,13 +76,13 @@
 "direction": "out",
 "edgeId": "e-e4003ee975",
 "edgeLabel": "Held an AEC headquarters post in the line the DOE node records itself as succeeding",
-"family": null,
+"family": "role",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "The Register documents the AEC Division of Military Application post at Tier 1; the succession from AEC to DOE is the board's own doe node, so the edge itself is an inference and is graded accordingly.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1957-05-01",
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "1957-05-01",

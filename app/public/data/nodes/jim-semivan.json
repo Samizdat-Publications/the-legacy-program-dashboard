@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-7637de0fa4",
 "edgeLabel": "Continuity from TTSA into the successor policy institution",
-"family": null,
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -74,7 +74,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -84,13 +84,13 @@
 "direction": "out",
 "edgeId": "e-674d19d1a0",
 "edgeLabel": "Co-founder, VP Operations, director",
-"family": null,
+"family": "role",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-04-30",
@@ -100,7 +100,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 }
 ],
 "date": "2017-10-11",

@@ -39,13 +39,13 @@
 "direction": "out",
 "edgeId": "e-c8e8b97b87",
 "edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
-"family": null,
+"family": "documents",
 "id": "best-available-evidence",
 "l0": false,
 "label": "UFO Briefing Document: The Best Available Evidence (1995)",
 "note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-09-16",
@@ -55,7 +55,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "1995-01-01",

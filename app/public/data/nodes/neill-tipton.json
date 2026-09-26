@@ -63,13 +63,13 @@
 "direction": "out",
 "edgeId": "e-51e6f50585",
 "edgeLabel": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
-"family": null,
+"family": "role",
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-01",
@@ -79,7 +79,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -89,13 +89,13 @@
 "direction": "in",
 "edgeId": "e-5ea9ac2007",
 "edgeLabel": "Named respondent",
-"family": null,
+"family": "documents",
 "id": "elizondo-dodig-complaint-2021",
 "l0": false,
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-03-01",
@@ -105,7 +105,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -115,13 +115,13 @@
 "direction": "out",
 "edgeId": "e-041904e17a",
 "edgeLabel": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
-"family": null,
+"family": "denial",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-01",
@@ -131,7 +131,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -141,13 +141,13 @@
 "direction": "out",
 "edgeId": "e-6e9f689760",
 "edgeLabel": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
-"family": null,
+"family": "role",
 "id": "ousdi",
 "l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-01",
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2019-05-07",

@@ -24,13 +24,13 @@
 "direction": "out",
 "edgeId": "e-87e660f2d4",
 "edgeLabel": "The UFO fund is held in Brasília and its reference code says so",
-"family": null,
+"family": "place-time",
 "id": "arquivo-nacional-ufo",
 "l0": true,
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "The Arquivo Nacional's own notice identifies the holding as 'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional's Brasília unit. RQS 193/2022 states the transfer route directly: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -60,7 +60,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -70,13 +70,13 @@
 "direction": "out",
 "edgeId": "e-e18e9923b1",
 "edgeLabel": "The report is dated at Brasília, 2 June 1986",
-"family": null,
+"family": "place-time",
 "id": "doc-fab-1986-report",
 "l0": false,
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "note": "The document's own dateline places it in the federal capital, and its item reference sits inside the Brasília-held BR DFANBSB ARX fund.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -96,7 +96,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -106,13 +106,13 @@
 "direction": "in",
 "edgeId": "e-e0da3a94fc",
 "edgeLabel": "Brasília is the federal capital of Brazil",
-"family": null,
+"family": "organisation",
 "id": "l-brazil",
 "l0": false,
 "label": "Brazil",
 "note": "Structural containment edge. Both nodes stood at degree 0. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -137,7 +137,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 2,
@@ -147,13 +147,13 @@
 "direction": "out",
 "edgeId": "e-ae7eaf4ee8",
 "edgeLabel": "The minister's press conference was given from the capital",
-"family": null,
+"family": "place-time",
 "id": "otavio-moreira-lima",
 "l0": false,
 "label": "Brigadeiro Octávio Júlio Moreira Lima",
 "note": "Moreira Lima convened the 23 May 1986 press conference as Minister of Aeronautics with the pilots and controllers present. Tier 2 on the location specifically: the sourcing confirms the press conference, the minister and the date, and the ministry sat in Brasília, but no source obtained in this pass names the room.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -178,7 +178,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -188,13 +188,13 @@
 "direction": "out",
 "edgeId": "e-87f4a12fcf",
 "edgeLabel": "The Senado Federal sits in Brasília",
-"family": null,
+"family": "place-time",
 "id": "senado-brasil",
 "l0": true,
 "label": "Senado Federal do Brasil",
 "note": "RQS 193/2022 also records the 2005 visit by ufologists to CINDACTA and COMDABRA 'em Brasília' to inspect the documents — the capital is where both the archive and the legislature that pressed on it are located. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -219,7 +219,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": [

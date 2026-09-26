@@ -47,13 +47,13 @@
 "direction": "in",
 "edgeId": "e-25a1074150",
 "edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
-"family": null,
+"family": "custody",
 "id": "afswc-tr-59-39",
 "l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-06-19",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "received records or material from"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "in",
 "edgeId": "e-230aacfe3e",
 "edgeLabel": "DARPA and the Air Force initiated FALCON in 2003",
-"family": null,
+"family": "role",
 "id": "conventional-prompt-global-strike",
 "l0": false,
 "label": "Conventional Prompt Global Strike",
 "note": "DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-07-16",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "founded"
 },
 {
 "claimTier": 1,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-b13a738e83",
 "edgeLabel": "Founded under the authority of the 1947 Act",
-"family": null,
+"family": "law",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-12-01",
@@ -115,7 +115,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -125,13 +125,13 @@
 "direction": "in",
 "edgeId": "e-3d2c9cd650",
 "edgeLabel": "Held the ARPA post of Assistant Director, Administration",
-"family": null,
+"family": "role",
 "id": "lawrence-p-gise",
 "l0": false,
 "label": "Lawrence P. Gise",
 "note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-05-01",
@@ -141,7 +141,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -151,13 +151,13 @@
 "direction": "in",
 "edgeId": "e-ff1fa361fd",
 "edgeLabel": "Issued the directive that established ARPA",
-"family": null,
+"family": "law",
 "id": "neil-h-mcelroy",
 "l0": false,
 "label": "Neil H. McElroy",
 "note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-12-01",
@@ -167,7 +167,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -177,13 +177,13 @@
 "direction": "in",
 "edgeId": "e-181a47c70a",
 "edgeLabel": "DARPA a named partner in the programme, 1978 to 1985",
-"family": null,
+"family": "role",
 "id": "northrop-tacit-blue",
 "l0": false,
 "label": "Northrop TACIT BLUE",
 "note": "'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file's use of the same four letters.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-18",
@@ -193,7 +193,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -203,13 +203,13 @@
 "direction": "out",
 "edgeId": "e-60f300dc7d",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
-"family": null,
+"family": "oversight",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -219,7 +219,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -229,13 +229,13 @@
 "direction": "in",
 "edgeId": "e-3ac5085e75",
 "edgeLabel": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
-"family": null,
+"family": "testimony",
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1984-07-10",
@@ -250,7 +250,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 3,
@@ -260,13 +260,13 @@
 "direction": "out",
 "edgeId": "e-70b8aca7b5",
 "edgeLabel": "The open counterfactual to a concealed breakthrough-technology effort",
-"family": null,
+"family": "analysis",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -276,7 +276,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

@@ -77,13 +77,13 @@
 "direction": "out",
 "edgeId": "e-7f0c7548ae",
 "edgeLabel": "Testimony at section 3.8.4, dated September 2000",
-"family": null,
+"family": "testimony",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-04",
@@ -93,7 +93,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -103,13 +103,13 @@
 "direction": "in",
 "edgeId": "e-50bccd2233",
 "edgeLabel": "Thirty-year acquaintance who records the same discrepancies from the record",
-"family": null,
+"family": "denial",
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-02-14",
@@ -119,7 +119,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -129,13 +129,13 @@
 "direction": "out",
 "edgeId": "e-9cd99bcbaf",
 "edgeLabel": "Shown at the podium by Fox News Channel, 9 May 2001",
-"family": null,
+"family": "testimony",
 "id": "national-press-club-2001",
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001",
@@ -145,7 +145,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -155,13 +155,13 @@
 "direction": "in",
 "edgeId": "e-62984dacf5",
 "edgeLabel": "Obtained his service record from the National Personnel Records Center and printed it against the claim",
-"family": null,
+"family": "denial",
 "id": "philip-j-klass",
 "l0": false,
 "label": "Philip J. Klass",
 "note": "TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001",
@@ -171,7 +171,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 3,
@@ -181,13 +181,13 @@
 "direction": "out",
 "edgeId": "e-4f035d3416",
 "edgeLabel": "Claims an Army team took him there in late December 1980",
-"family": null,
+"family": "testimony",
 "id": "rendlesham-1980",
 "l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "TIER 3. His own FOIA request of 23 December 1983 to the USAF, from his home address and not identifying him as a serving Army sergeant, cuts against the claim, and no record places him in England. Klass also notes the incident was not reported upward until about two weeks after Stone says his team arrived.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-04",
@@ -202,7 +202,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2021-02-10",

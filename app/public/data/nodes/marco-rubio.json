@@ -69,13 +69,13 @@
 "direction": "in",
 "edgeId": "e-e254b97466",
 "edgeLabel": "Rubio appears on record in the documentary",
-"family": null,
+"family": "media",
 "id": "age-of-disclosure",
 "l0": false,
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-11-01",
@@ -85,7 +85,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "appeared on"
 },
 {
 "claimTier": 2,
@@ -95,13 +95,13 @@
 "direction": "in",
 "edgeId": "e-69dbccaa02",
 "edgeLabel": "Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence",
-"family": null,
+"family": "oversight",
 "id": "comer-luna-agency-letters-2025",
 "l0": false,
 "label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
 "note": "Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-02-18",
@@ -111,7 +111,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "received a request from"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "out",
 "edgeId": "e-e1a07622a9",
 "edgeLabel": "Original cosponsor while serving as SSCI Vice Chairman",
-"family": null,
+"family": "law",
 "id": "samdt-797",
 "l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -137,7 +137,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -147,13 +147,13 @@
 "direction": "out",
 "edgeId": "e-3abfb450e2",
 "edgeLabel": "Vice Chairman 2021-2025",
-"family": null,
+"family": "role",
 "id": "senate-intelligence",
 "l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -163,7 +163,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -173,13 +173,13 @@
 "direction": "out",
 "edgeId": "e-f973ae3fbb",
 "edgeLabel": "cosponsor",
-"family": null,
+"family": "law",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Named in the Congressional Record entry for SA 797.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -189,7 +189,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -199,13 +199,13 @@
 "direction": "out",
 "edgeId": "e-1371bca480",
 "edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
-"family": null,
+"family": "place-time",
 "id": "uapda-2024-samdt-2610",
 "l0": false,
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-13",
@@ -215,7 +215,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "came after"
 }
 ],
 "date": "2023-07-13",

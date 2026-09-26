@@ -40,13 +40,13 @@
 "direction": "out",
 "edgeId": "e-06b6b97b02",
 "edgeLabel": "Turner independently corroborates the confiscation window",
-"family": null,
+"family": "testimony",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-13",
@@ -56,7 +56,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 3,
@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-e82489065f",
 "edgeLabel": "Crewman aboard USS Princeton, Nov 2004",
-"family": null,
+"family": "role",
 "id": "uss-princeton",
 "l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "Turner is one of several Princeton enlisted crew who have publicly described the post-encounter arrival of outside personnel; his rate and division are not established from primary records.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-14",
@@ -82,7 +82,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2004-11-15",

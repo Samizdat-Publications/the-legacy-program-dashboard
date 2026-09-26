@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-c5c7bf205f",
 "edgeLabel": "P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping",
-"family": null,
+"family": "analysis",
 "id": "d-legislation",
 "l0": false,
 "label": "Enacted Statute",
 "note": "Approved 18 December 2025, with three UAP sections requiring that AARO briefings cover NORAD and NORTHCOM intercepts and accounting for UAP classification guides. Recording it in the enacted domain alongside the 2021-2023 provisions is what lets a reader see the trajectory of what Congress has actually been willing to enact.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -117,7 +117,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -127,13 +127,13 @@
 "direction": "out",
 "edgeId": "e-96a9c74f02",
 "edgeLabel": "repeals 50 U.S.C. 3373a",
-"family": null,
+"family": "organisation",
 "id": "iaa-2022",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
 "note": "PL 119-60 sec. 1672(a): 'Section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (division X of Public Law 117-103; 50 U.S.C. 3373a) is repealed.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -143,7 +143,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "succeeded"
 },
 {
 "claimTier": 2,
@@ -153,13 +153,13 @@
 "direction": "in",
 "edgeId": "e-2a2cd0a682",
 "edgeLabel": "Claims only the briefing-requirement update as her FY2026 UAP win",
-"family": null,
+"family": "law",
 "id": "kirsten-gillibrand",
 "l0": false,
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-07-15",
@@ -174,7 +174,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "was sponsored by"
 },
 {
 "claimTier": 1,
@@ -184,13 +184,13 @@
 "direction": "in",
 "edgeId": "e-2a92f59f3b",
 "edgeLabel": "FY2026 amends Sec. 1683(l) to add intercept briefings",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 1671 of P.L. 119-60 adds a new paragraph (5) requiring NORAD and NORTHCOM intercept detail in AARO briefings, reaching back to 1 January 2004.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "amended",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -205,7 +205,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "amended"
 },
 {
 "claimTier": 1,
@@ -215,13 +215,13 @@
 "direction": "in",
 "edgeId": "e-665099f158",
 "edgeLabel": "Not renewed; the funding bar has lapsed since FY2024",
-"family": null,
+"family": "place-time",
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 restricts only funds authorised by the FY2024 Act; neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -241,7 +241,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "came after"
 },
 {
 "claimTier": 1,
@@ -251,13 +251,13 @@
 "direction": "out",
 "edgeId": "e-d9f8e9d29b",
 "edgeLabel": "Congress set 1 January 2004 as the retroactive intercept floor",
-"family": null,
+"family": "documents",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -267,7 +267,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -277,13 +277,13 @@
 "direction": "in",
 "edgeId": "e-daa0a085a2",
 "edgeLabel": "Chaired SASC for the FY2026 authorization",
-"family": null,
+"family": "law",
 "id": "roger-wicker",
 "l0": false,
 "label": "Roger F. Wicker",
 "note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-18",
@@ -298,7 +298,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was sponsored by"
 },
 {
 "claimTier": 1,
@@ -308,13 +308,13 @@
 "direction": "out",
 "edgeId": "e-d122cf1fbf",
 "edgeLabel": "Disposed of with seventeen amendments and no open process",
-"family": null,
+"family": "law",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-18",
@@ -324,7 +324,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -334,13 +334,13 @@
 "direction": "out",
 "edgeId": "e-9af2694ee4",
 "edgeLabel": "Third consecutive Act enacted without the Senate's own passed text",
-"family": null,
+"family": "testimony",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "P.L. 119-60 contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -355,7 +355,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "contradicts"
 }
 ],
 "coords": null,

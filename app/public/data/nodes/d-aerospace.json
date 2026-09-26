@@ -36,13 +36,13 @@
 "direction": "in",
 "edgeId": "e-be36f16bee",
 "edgeLabel": "Hypersonic boost-glide development across three services on appropriated funding",
-"family": null,
+"family": "analysis",
 "id": "conventional-prompt-global-strike",
 "l0": false,
 "label": "Conventional Prompt Global Strike",
 "note": "Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-07-16",
@@ -52,7 +52,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -62,13 +62,13 @@
 "direction": "out",
 "edgeId": "e-b84969d2ea",
 "edgeLabel": "Advanced projects shops are the industrial home",
-"family": null,
+"family": "organisation",
 "id": "d-contractor",
 "l0": false,
 "label": "Prime Contractor Custody",
 "note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2004-03-03",
@@ -78,7 +78,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -88,13 +88,13 @@
 "direction": "out",
 "edgeId": "e-4a9ea0a978",
 "edgeLabel": "Black aircraft generated real cover stories",
-"family": null,
+"family": "analysis",
 "id": "d-coverup",
 "l0": false,
 "label": "The Cover-Up",
 "note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -104,7 +104,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -114,13 +114,13 @@
 "direction": "in",
 "edgeId": "e-46a5048732",
 "edgeLabel": "subject domain: crew-station design for breakthrough flight regimes",
-"family": null,
+"family": "analysis",
 "id": "dird-cockpits-in-the-era-of-breakthrough",
 "l0": false,
 "label": "Cockpits in the Era of Breakthrough Flight",
 "note": "The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -140,7 +140,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "has as an instance"
 }
 ],
 "coords": null,

@@ -47,13 +47,13 @@
 "direction": "in",
 "edgeId": "e-b5c0392d90",
 "edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
-"family": null,
+"family": "law",
 "id": "classified-annex",
 "l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-02-03",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "in",
 "edgeId": "e-05230040b6",
 "edgeLabel": "The administrative layer beneath the statutory transfer authority",
-"family": null,
+"family": "law",
 "id": "reprogramming-dd1415",
 "l0": false,
 "label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
 "note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "implements",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2015-09-01",
@@ -89,7 +89,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is implemented by"
 }
 ],
 "coords": null,

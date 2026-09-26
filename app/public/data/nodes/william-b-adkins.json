@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-558cac61bc",
 "edgeLabel": "CIA officer detailed to NRO advanced systems",
-"family": null,
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-9162e357c4",
 "edgeLabel": "Staff Director, House Space and Aeronautics Subcommittee",
-"family": null,
+"family": "oversight",
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -98,13 +98,13 @@
 "direction": "out",
 "edgeId": "e-d858087fa9",
 "edgeLabel": "Principal Deputy Director, then Acting Director, NRO",
-"family": null,
+"family": "role",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -129,13 +129,13 @@
 "direction": "out",
 "edgeId": "e-eacf29aa11",
 "edgeLabel": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
-"family": null,
+"family": "role",
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-11",
@@ -155,7 +155,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2026-08-12",

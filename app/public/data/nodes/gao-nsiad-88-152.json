@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-908017f10d",
 "edgeLabel": "Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees",
-"family": null,
+"family": "analysis",
 "id": "d-oversight",
 "l0": false,
 "label": "Congressional Oversight",
 "note": "Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1988-05-24",
@@ -63,7 +63,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-df64c24d34",
 "edgeLabel": "A primary statement of how special access programmes are established and by whom",
-"family": null,
+"family": "analysis",
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "The report is a primary statement of how special access programmes are established and by whom.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1988-05-24",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-97bccd3bf3",
 "edgeLabel": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
-"family": null,
+"family": "place-time",
 "id": "dod-sap-reform-1994",
 "l0": false,
 "label": "DoD special access programme governance change, 5 January 1994",
 "note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1988-05-24",
@@ -115,7 +115,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -125,13 +125,13 @@
 "direction": "out",
 "edgeId": "e-1cafa00599",
 "edgeLabel": "GAO's own report, signed out of the National Security and International Affairs Division under B-230522",
-"family": null,
+"family": "documents",
 "id": "gao",
 "l0": false,
 "label": "Government Accountability Office",
 "note": "The report is GAO's own, signed out of the National Security and International Affairs Division under B-230522.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1988-05-24",
@@ -141,7 +141,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -151,13 +151,13 @@
 "direction": "out",
 "edgeId": "e-446dd9e83c",
 "edgeLabel": "The same GAO division two years after the Lockheed document-control testimony",
-"family": null,
+"family": "place-time",
 "id": "gao-130581",
 "l0": false,
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "note": "The same GAO division, two years after the Lockheed document-control testimony the board already holds, reporting on the establishment criteria rather than on document accountability.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1988-05-24",
@@ -167,7 +167,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "came after"
 },
 {
 "claimTier": 1,
@@ -177,13 +177,13 @@
 "direction": "out",
 "edgeId": "e-6410cc9d84",
 "edgeLabel": "Records that no OSD office held a list of all special access programmes in 1988",
-"family": null,
+"family": "place-time",
 "id": "sapoc",
 "l0": false,
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "The report records that no OSD office held a list of all special access programmes in 1988, which is the condition the SAPOC was later created to fix.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1988-05-24",
@@ -193,7 +193,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "led to"
 }
 ],
 "coords": null,

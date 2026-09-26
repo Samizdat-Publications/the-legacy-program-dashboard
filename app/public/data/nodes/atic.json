@@ -59,13 +59,13 @@
 "direction": "in",
 "edgeId": "e-0a3b74b36b",
 "edgeLabel": "ATIC was the terminal analytical authority under the regulation",
-"family": null,
+"family": "law",
 "id": "afr-200-2",
 "l0": false,
 "label": "Air Force Regulation 200-2",
 "note": "The regulation routes reports from base level through Air Defense Command and the 4602d Air Intelligence Service Squadron to ATIC at Wright-Patterson for final analysis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1954-08-12",
@@ -75,7 +75,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -85,13 +85,13 @@
 "direction": "in",
 "edgeId": "e-5c6dff3fc3",
 "edgeLabel": "ATIC issued Special Report No. 14",
-"family": null,
+"family": "documents",
 "id": "blue-book-special-report-14",
 "l0": true,
 "label": "Project Blue Book Special Report No. 14",
 "note": "Issued 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79 — the largest statistical study of UFO reports the US government ever produced.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-05-05",
@@ -101,7 +101,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -111,13 +111,13 @@
 "direction": "out",
 "edgeId": "e-4cc73b994d",
 "edgeLabel": "ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission",
-"family": null,
+"family": "organisation",
 "id": "foreign-technology-division",
 "l0": false,
 "label": "Foreign Technology Division, Wright-Patterson AFB",
 "note": "The lineage record says ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, with the mission and resources absorbed by the newly constituted Foreign Technology Division, so this is a succession rather than the renaming the board's prose describes.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-10",
@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 2,
@@ -137,13 +137,13 @@
 "direction": "in",
 "edgeId": "e-2ac7244aad",
 "edgeLabel": "McCoy ran AMC/T-2 intelligence, the exploitation node",
-"family": null,
+"family": "role",
 "id": "howard-mccoy",
 "l0": false,
 "label": "Howard M. McCoy",
 "note": "As Chief of Intelligence at Air Materiel Command, McCoy headed the organisation that received and exploited recovered foreign materiel and that hosted Project SIGN. Any 1947 recovery would have been processed here.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-11-24",
@@ -158,7 +158,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -168,13 +168,13 @@
 "direction": "out",
 "edgeId": "e-7ccd9e56bf",
 "edgeLabel": "ATIC and its successors were and are headquartered at Wright-Patterson",
-"family": null,
+"family": "place-time",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "The Air Technical Intelligence Center, formed in 1951 from Air Materiel Command's T-2 intelligence organisation at Wright Field, became the Foreign Technology Division in 1961 and NASIC in 1993, which remains at the base. Attested by USAF unit histories.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -184,7 +184,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -194,13 +194,13 @@
 "direction": "out",
 "edgeId": "e-ea29bbf6b0",
 "edgeLabel": "ATIC and every legacy UFO project were located at Wright-Patterson",
-"family": null,
+"family": "place-time",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "SIGN, GRUDGE and Blue Book were all headquartered at Wright-Patterson AFB, the site of the Air Force's foreign materiel exploitation organisation and its successors.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -215,7 +215,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -225,13 +225,13 @@
 "direction": "in",
 "edgeId": "e-1d9d8bd6f1",
 "edgeLabel": "SIGN hosted by AMC intelligence at Wright Field, ATIC's predecessor",
-"family": null,
+"family": "organisation",
 "id": "project-sign",
 "l0": false,
 "label": "Project SIGN",
 "note": "The first official UFO project was placed inside the foreign materiel exploitation organisation rather than a research or air defence body — the structural fact underlying this entire domain.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -246,7 +246,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -256,13 +256,13 @@
 "direction": "in",
 "edgeId": "e-58b0d26eae",
 "edgeLabel": "One of the two issuing organisations, and the one on the title page imprint",
-"family": null,
+"family": "documents",
 "id": "tr-ac-47-silver-bug",
 "l0": false,
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
 "note": "The title page carries the Air Technical Intelligence Center imprint and the report's own conclusion asks for 'direct liaison between WADC and ATIC personnel'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-02-15",
@@ -272,7 +272,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "published"
 }
 ],
 "coords": null,

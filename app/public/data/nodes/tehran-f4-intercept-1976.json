@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-bb7cc24acd",
 "edgeLabel": "The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file",
-"family": null,
+"family": "analysis",
 "id": "belgian-af-f16-intercept-1990",
 "l0": false,
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "note": "The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1976-09-23",
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-f7ee2d265b",
 "edgeLabel": "Addressee of the report and the agency whose 1996 search located it as the single responsive document",
-"family": null,
+"family": "custody",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA is the addressee of the report and the agency whose 1996 records search located it as the single responsive document.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1976-09-23",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-af45421874",
 "edgeLabel": "Requester of the 1996 FOIA that produced the release",
-"family": null,
+"family": "testimony",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "Greenewald's FOIA request of 11 August 1996 produced the release, and DIA's response to him is the record of how much DIA holds.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1976-09-23",
@@ -115,7 +115,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -125,13 +125,13 @@
 "direction": "out",
 "edgeId": "e-92c9d0cb87",
 "edgeLabel": "An information addressee on the report's own distribution list",
-"family": null,
+"family": "documents",
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "NSA Washington is an information addressee on the report's own distribution list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1976-09-23",
@@ -141,7 +141,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -151,13 +151,13 @@
 "direction": "out",
 "edgeId": "e-00e5c2c7c6",
 "edgeLabel": "Host of the released report and its covering letter",
-"family": null,
+"family": "custody",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "The Black Vault hosts the released document and its covering letter.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1976-09-23",
@@ -167,7 +167,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is held by"
 }
 ],
 "coords": null,

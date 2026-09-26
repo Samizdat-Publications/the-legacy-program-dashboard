@@ -53,13 +53,13 @@
 "direction": "in",
 "edgeId": "e-c3b4efeb70",
 "edgeLabel": "Co-authors of the two Roswell books, later estranged",
-"family": null,
+"family": "role",
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1994-01-01",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -79,13 +79,13 @@
 "direction": "in",
 "edgeId": "e-bd781c8cb0",
 "edgeLabel": "Schmitt drafted and embargoed the 2002 Haut affidavit",
-"family": null,
+"family": "testimony",
 "id": "walter-haut",
 "l0": false,
 "label": "Walter Haut",
 "note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "brought to the record"
 }
 ],
 "date": "2007-01-01",

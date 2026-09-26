@@ -107,13 +107,13 @@
 "direction": "out",
 "edgeId": "e-e1ee756725",
 "edgeLabel": "DIA held the programme from 1985 as SUN STREAK and STAR GATE",
-"family": null,
+"family": "organisation",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "The effort moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was consolidated as STAR GATE in 1991.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -123,7 +123,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -133,13 +133,13 @@
 "direction": "in",
 "edgeId": "e-d0c3d3a987",
 "edgeLabel": "Ran the SRI International half of the government's psychoenergetics effort",
-"family": null,
+"family": "organisation",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -164,7 +164,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 2,
@@ -174,13 +174,13 @@
 "direction": "in",
 "edgeId": "e-09d4874e30",
 "edgeLabel": "Puthoff was principal investigator and project director",
-"family": null,
+"family": "role",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -190,7 +190,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -200,13 +200,13 @@
 "direction": "in",
 "edgeId": "e-826de2e94e",
 "edgeLabel": "Clapper led the programme in the 1990s before becoming DNI",
-"family": null,
+"family": "role",
 "id": "james-clapper",
 "l0": false,
 "label": "James R. Clapper Jr.",
 "note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -216,7 +216,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 3,
@@ -226,13 +226,13 @@
 "direction": "out",
 "edgeId": "e-46476d5d37",
 "edgeLabel": "Green ran the CIA analytic side of the anomalous-phenomena portfolio",
-"family": null,
+"family": "organisation",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -242,7 +242,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 3,
@@ -252,13 +252,13 @@
 "direction": "in",
 "edgeId": "e-37bfc04454",
 "edgeLabel": "Both are demonstrations of decades-long concealment ending in bulk declassification",
-"family": null,
+"family": "analysis",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -273,7 +273,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -283,13 +283,13 @@
 "direction": "out",
 "edgeId": "e-abdf3cf9e4",
 "edgeLabel": "The research was conducted at Menlo Park, California",
-"family": null,
+"family": "place-time",
 "id": "l-sri",
 "l0": false,
 "label": "SRI International, Menlo Park, California",
 "note": "SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -299,7 +299,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -309,13 +309,13 @@
 "direction": "in",
 "edgeId": "e-1bc0ff3291",
 "edgeLabel": "A private method brought inside the Army's remote-viewing effort as required training",
-"family": null,
+"family": "organisation",
 "id": "monroe-institute",
 "l0": false,
 "label": "The Monroe Institute",
 "note": "The memorandum names remote viewing as a follow-on technique inside the Gateway Experience and was written for USAINSCOM personnel required to take that training, which places the Institute's method inside the programme chain the STAR GATE node covers.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1983-06-09",
@@ -325,7 +325,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "includes"
 },
 {
 "claimTier": 2,
@@ -335,13 +335,13 @@
 "direction": "in",
 "edgeId": "e-b2047540f4",
 "edgeLabel": "Targ co-founded the SRI remote viewing research",
-"family": null,
+"family": "role",
 "id": "russell-targ",
 "l0": false,
 "label": "Russell Targ",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -351,7 +351,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -361,13 +361,13 @@
 "direction": "out",
 "edgeId": "e-fb455270a6",
 "edgeLabel": "SRI held the science half of the remote viewing effort from 1972",
-"family": null,
+"family": "organisation",
 "id": "sri-international",
 "l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -382,7 +382,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -392,13 +392,13 @@
 "direction": "in",
 "edgeId": "e-d616860509",
 "edgeLabel": "SUN STREAK became STARGATE, terminated 1995",
-"family": null,
+"family": "organisation",
 "id": "sun-streak",
 "l0": false,
 "label": "SUN STREAK",
 "note": "CIA compiled and released roughly 12,000 pages of the programme record in 1995 after the American Institutes for Research evaluation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-12-16",
@@ -408,7 +408,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": null
+"verb": "succeeded"
 }
 ],
 "coords": null,

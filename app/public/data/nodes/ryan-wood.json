@@ -48,13 +48,13 @@
 "direction": "out",
 "edgeId": "e-7637a7be80",
 "edgeLabel": "Co-principal of the document archive",
-"family": null,
+"family": "organisation",
 "id": "majestic-documents-archive",
 "l0": false,
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "Same copyright notice and About page attribution.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -64,7 +64,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 2,
@@ -74,13 +74,13 @@
 "direction": "out",
 "edgeId": "e-909515bf6f",
 "edgeLabel": "Compiled the crash-retrieval catalogue",
-"family": null,
+"family": "documents",
 "id": "majic-eyes-only",
 "l0": false,
 "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
 "note": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -90,7 +90,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2005-01-01",

@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-d398b4bc8c",
 "edgeLabel": "The materials line of effort and its published scope",
-"family": null,
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -67,7 +67,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 3,
@@ -77,13 +77,13 @@
 "direction": "in",
 "edgeId": "e-1710267de7",
 "edgeLabel": "competing materials programme",
-"family": null,
+"family": "analysis",
 "id": "garry-nolan",
 "l0": false,
 "label": "Garry Nolan",
 "note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -98,7 +98,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -108,13 +108,13 @@
 "direction": "in",
 "edgeId": "e-fe0196fcd3",
 "edgeLabel": "former director at the laboratory that tests the specimens",
-"family": null,
+"family": "other",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "is connected to"
 }
 ],
 "coords": null,

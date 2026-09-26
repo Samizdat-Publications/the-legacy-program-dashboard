@@ -38,13 +38,13 @@
 "direction": "out",
 "edgeId": "e-2ed9f04b7e",
 "edgeLabel": "Communications officer, 28th Air Division, Malmstrom, 1967",
-"family": null,
+"family": "role",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -54,7 +54,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -64,13 +64,13 @@
 "direction": "out",
 "edgeId": "e-9f69c70ea3",
 "edgeLabel": "Spoke on the record with a signed affidavit",
-"family": null,
+"family": "testimony",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "No dated public statement by him before this event has been identified.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -80,7 +80,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 }
 ],
 "date": "2010-09-27",

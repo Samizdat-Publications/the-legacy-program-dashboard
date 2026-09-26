@@ -52,13 +52,13 @@
 "direction": "out",
 "edgeId": "e-a06863a945",
 "edgeLabel": "Author of 'The Secret Government', 23 May 1989, updated 21 November 1990",
-"family": null,
+"family": "documents",
 "id": "cooper-secret-government-1989",
 "l0": false,
 "label": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
 "note": "Authorship, typed research by rule. The document is dated on its own first page and states its own delivery at the MUFON symposium of 2 July 1989.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -68,7 +68,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 3,
@@ -78,13 +78,13 @@
 "direction": "out",
 "edgeId": "e-652d74a0e0",
 "edgeLabel": "FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times",
-"family": null,
+"family": "testimony",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Cooper carried the frame of alien bases built under Indian reservations in the Four Corners area to a mass audience from 1989. The string 'Dulce' occurs zero times in the forty-nine pages, which were extracted and searched in full. Tier 3 because attaching his frame to this specific site is inference and not text, and an edge worded any more strongly would contradict its own source.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -94,7 +94,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "made claims about"
 }
 ],
 "date": "2001-11-06",

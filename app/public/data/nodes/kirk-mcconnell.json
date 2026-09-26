@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-63ae0cc411",
 "edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
-"family": null,
+"family": "analysis",
 "id": "davis-sasc-briefing-2019",
 "l0": false,
 "label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
 "note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -114,7 +114,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -124,13 +124,13 @@
 "direction": "out",
 "edgeId": "e-a8c100cbf3",
 "edgeLabel": "Senior Legislative Affairs Officer after 37 years on SASC",
-"family": null,
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -150,7 +150,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2026-06-22",

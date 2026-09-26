@@ -29,13 +29,13 @@
 "direction": "out",
 "edgeId": "e-3a0c540cef",
 "edgeLabel": "the gap the council was formed across",
-"family": null,
+"family": "place-time",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-11-04",
@@ -50,7 +50,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "led to"
 }
 ],
 "coords": null,

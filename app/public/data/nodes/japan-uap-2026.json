@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-3918674d0d",
 "edgeLabel": "both are allied-state responses to the same May 2026 US release",
-"family": null,
+"family": "analysis",
 "id": "ev-argentina-bariloche-1995",
 "l0": false,
 "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
 "note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-11",
@@ -56,7 +56,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

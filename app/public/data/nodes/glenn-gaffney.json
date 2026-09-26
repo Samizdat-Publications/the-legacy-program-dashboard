@@ -65,13 +65,13 @@
 "direction": "in",
 "edgeId": "e-1ee4f3ee0c",
 "edgeLabel": "Knapp named a former senior CIA official as a gatekeeper of the alleged program",
-"family": null,
+"family": "testimony",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Immediately after naming Ryder, Knapp told Rep. Begich 'I have a name for you... Glenn Gaffney, CIA.' No documentary corroboration has been published.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -81,7 +81,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "is the subject of claims by"
 }
 ],
 "date": "2025-09-09",

@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-fffece6570",
 "edgeLabel": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
-"family": null,
+"family": "testimony",
 "id": "arv-fluxliner",
 "l0": true,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1967-05-30",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "contradicts"
 },
 {
 "claimTier": 3,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-99452bcd03",
 "edgeLabel": "In the strand because of what was claimed for it, not because of what is in it",
-"family": null,
+"family": "analysis",
 "id": "d-exotic",
 "l0": false,
 "label": "Exotic Technology & Physics",
 "note": "THE PATENT ITSELF IS NOT EXOTIC. It is a linear induction motor using ionised air as its armature, which is classical electromagnetism. It sits in this domain solely because it was cited as evidence for scalar physics, and the strand's product is the gap between the citation and the document.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1967-05-30",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 3,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-e818fd4c1b",
 "edgeLabel": "Same mechanism, two documents, forty-three years apart, neither exotic",
-"family": null,
+"family": "analysis",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "STATED INFERENCE OF SIMILARITY AND NOTHING MORE. Nothing joins these two documents to each other: the DIRD does not cite the patent and the patent predates it by forty-three years. The edge exists so the strand's comparison is visible, and its note must be read before the line is: a private 1964 filing and a 2010 Lockheed Martin survey describe the same physics and neither contains the word antigravity.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1967-05-30",
@@ -120,7 +120,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -130,13 +130,13 @@
 "direction": "in",
 "edgeId": "e-08b7e5fa8d",
 "edgeLabel": "The same mechanism, independently built and taken to sea in June 1992",
-"family": null,
+"family": "analysis",
 "id": "yamato-1",
 "l0": false,
 "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
 "note": "STATED INFERENCE. NO DOCUMENT JOINS THESE TWO and neither cites the other. The edge records that the propulsion mechanism US 3,322,374 claims was demonstrated at sea by a civil maritime foundation in public in 1992, which is the strand's control case: the mechanism does not require a secret to exist.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1995-04",
@@ -151,7 +151,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": null,

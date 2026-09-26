@@ -34,13 +34,13 @@
 "direction": "out",
 "edgeId": "e-2a1bc41b34",
 "edgeLabel": "NASA Ames aerospace engineer supplying the exclusion arguments",
-"family": null,
+"family": "documents",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-01-01",
@@ -55,7 +55,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2022-01-01",

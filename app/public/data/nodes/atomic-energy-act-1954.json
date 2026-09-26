@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-e5d092089a",
 "edgeLabel": "Restates the 1946 Act rather than repealing it, and widens the definition",
-"family": null,
+"family": "law",
 "id": "atomic-energy-act-1946",
 "l0": false,
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "The long title is 'To amend the Atomic Energy Act of 1946, as amended, and for other purposes'. The definition moves from a section-only usage to an Act-wide capitalised category, gains the word 'design', and swaps fissionable material and power for special nuclear material and energy.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "amended",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -74,7 +74,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "amended"
 },
 {
 "claimTier": 1,
@@ -84,13 +84,13 @@
 "direction": "out",
 "edgeId": "e-117b277029",
 "edgeLabel": "Ties removal from the Restricted Data category to a formal procedure",
-"family": null,
+"family": "law",
 "id": "atomic-energy-commission",
 "l0": true,
 "label": "Atomic Energy Commission",
 "note": "Where the 1946 Act left declassification to open-ended Commission discretion, the 1954 Act routes it through section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -100,7 +100,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -110,13 +110,13 @@
 "direction": "out",
 "edgeId": "e-f57dd7ab57",
 "edgeLabel": "The statutory definition of Restricted Data",
-"family": null,
+"family": "law",
 "id": "d-nuclear",
 "l0": false,
 "label": "Nuclear Security & Restricted Data",
 "note": "42 U.S.C. 2014(y), enacted as section 11 r.: all data concerning design, manufacture or utilization of atomic weapons, the production of special nuclear material, or the use of special nuclear material in the production of energy, less whatever has been declassified under the statutory procedure.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -126,7 +126,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -136,13 +136,13 @@
 "direction": "in",
 "edgeId": "e-8728c3e910",
 "edgeLabel": "Excludes Restricted Data from the executive classification system",
-"family": null,
+"family": "other",
 "id": "eo-10501",
 "l0": false,
 "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "note": "Section 13 leaves Atomic Energy Act Restricted Data outside the order's reach. This is the seam between the two regimes: one body of information in United States law is classified by statute and not by executive order, and the executive order says so itself. Note the order predates the 1954 Act by ten months and the exclusion runs to the Atomic Energy Act as it then stood.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-19",
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "is connected to"
 }
 ],
 "coords": null,

@@ -44,13 +44,13 @@
 "direction": "out",
 "edgeId": "e-e698a82096",
 "edgeLabel": "commissioned subject-matter author",
-"family": null,
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Credited with one of the 38 AAWSAP deliverables, 'An Introduction to the Statistical Drake Equation', dated 11 March 2010, whose released text names AAWSAP. Maccone is the only foreign-based academic on the author list alongside Ulf Leonhardt at St Andrews. Tier 2 because the released document's 'Author' field is redacted under FOIA exemption (b)(6); the attribution comes from the separate list of deliverables DIA transmitted to Congress, not from the document itself.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contracted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-03-11",
@@ -70,7 +70,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "was contracted by"
 },
 {
 "claimTier": 1,
@@ -80,13 +80,13 @@
 "direction": "out",
 "edgeId": "e-a1a3034528",
 "edgeLabel": "authored",
-"family": null,
+"family": "documents",
 "id": "dird-an-introduction-to-the-statistical-drake",
 "l0": false,
 "label": "An Introduction to the Statistical Drake Equation",
 "note": "DIA list item 15 names \"Dr Claudio Maccone, International Academy of Astronautics\". Independently corroborated by Appendix B of the released document, which reproduces his IAA conference paper with the byline intact.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -111,7 +111,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2010-01-01",

@@ -59,13 +59,13 @@
 "direction": "in",
 "edgeId": "e-90a97a7a4d",
 "edgeLabel": "nuclear-adjacent installations named in AARO's own unresolved allegations",
-"family": null,
+"family": "oversight",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Volume I page 30 records interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977 and defers the unresolved allegations to Volume II.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -80,7 +80,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -90,13 +90,13 @@
 "direction": "in",
 "edgeId": "e-3ab5364c97",
 "edgeLabel": "The AFOSI Kirtland file is the documentary residue of the Bennewitz operation",
-"family": null,
+"family": "documents",
 "id": "afosi-kirtland-file",
 "l0": false,
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -106,7 +106,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -116,13 +116,13 @@
 "direction": "in",
 "edgeId": "e-8eb8e51aaf",
 "edgeLabel": "AFOSI District 17 file generated at Kirtland AFB",
-"family": null,
+"family": "place-time",
 "id": "afosi-kirtland-file",
 "l0": false,
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -132,7 +132,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -142,13 +142,13 @@
 "direction": "in",
 "edgeId": "e-00c9c03f35",
 "edgeLabel": "Issued from Kirtland Air Force Base, New Mexico",
-"family": null,
+"family": "place-time",
 "id": "afswc-tr-59-39",
 "l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-06-19",
@@ -158,7 +158,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -168,13 +168,13 @@
 "direction": "in",
 "edgeId": "e-6d3ef4a0b5",
 "edgeLabel": "Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB",
-"family": null,
+"family": "role",
 "id": "eric-wang",
 "l0": false,
 "label": "Eric H. Wang",
 "note": "A 1960 DTIC report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1960-05-06",
@@ -184,7 +184,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -194,13 +194,13 @@
 "direction": "in",
 "edgeId": "e-3a8fc01d43",
 "edgeLabel": "Occurred at the Manzano Weapons Storage Area and Coyote Canyon",
-"family": null,
+"family": "place-time",
 "id": "kirtland-manzano-1980",
 "l0": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -210,7 +210,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was the scene of"
 },
 {
 "claimTier": 2,
@@ -220,13 +220,13 @@
 "direction": "out",
 "edgeId": "e-af1d0af165",
 "edgeLabel": "Kirtland AFB lies inside the Albuquerque city limits",
-"family": null,
+"family": "organisation",
 "id": "l-albuquerque",
 "l0": false,
 "label": "Albuquerque, New Mexico",
 "note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -236,7 +236,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 2,
@@ -246,13 +246,13 @@
 "direction": "in",
 "edgeId": "e-c4be72707d",
 "edgeLabel": "Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB",
-"family": null,
+"family": "testimony",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, contacted Kirtland on 24 October 1980 and briefed base officials on 10 November 1980. Attested by his own correspondence and contemporary press.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -262,7 +262,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -272,13 +272,13 @@
 "direction": "in",
 "edgeId": "e-fce341e7ef",
 "edgeLabel": "Doty's AFOSI detachment ran the Bennewitz deception from Kirtland",
-"family": null,
+"family": "place-time",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -288,7 +288,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -298,13 +298,13 @@
 "direction": "in",
 "edgeId": "e-6a1fe3f35c",
 "edgeLabel": "Sandia National Laboratories is adjacent to Kirtland AFB",
-"family": null,
+"family": "place-time",
 "id": "sandia",
 "l0": true,
 "label": "Sandia National Laboratories",
 "note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -319,7 +319,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 3,
@@ -329,13 +329,13 @@
 "direction": "in",
 "edgeId": "e-1a302f6d14",
 "edgeLabel": "reported in the lineage of Air Force UFO deception operations centred on Kirtland/AFOSI",
-"family": null,
+"family": "analysis",
 "id": "yankee-blue",
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Yankee Blue sits in the same documented Air Force practice of manufacturing UFO belief for security purposes as the Kirtland AFB/AFOSI operations against Paul Bennewitz. The connection is thematic and institutional; no released document ties Yankee Blue administratively to Kirtland.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-06-10",
@@ -345,7 +345,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "parallels"
 }
 ],
 "coords": [

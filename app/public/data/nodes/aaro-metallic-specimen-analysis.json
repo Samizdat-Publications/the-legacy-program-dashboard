@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-81bd5375b8",
 "edgeLabel": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
-"family": null,
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-07-11",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "in",
 "edgeId": "e-10272f50d3",
 "edgeLabel": "Oak Ridge, operated by UT-Battelle, analysed the alleged 1947 crash specimen for AARO",
-"family": null,
+"family": "organisation",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "AARO contracted ORNL in 2022; the laboratory assessed the specimen terrestrial in origin and incapable of functioning as a terahertz waveguide. Battelle thus appears at both ends of the file, in 1951 and in 2024.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-07-11",
@@ -100,7 +100,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -110,13 +110,13 @@
 "direction": "in",
 "edgeId": "e-c94c08f95e",
 "edgeLabel": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
-"family": null,
+"family": "organisation",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "Released publicly July 2024; concluded the material is a terrestrial magnesium alloy, while stating that neither AARO nor ORNL could verify the specimen's historical origin.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-08",
@@ -131,7 +131,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -141,13 +141,13 @@
 "direction": "out",
 "edgeId": "e-060fc949a2",
 "edgeLabel": "ORNL assessed the privately held 'crash' specimen as terrestrial",
-"family": null,
+"family": "denial",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "explained_away",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-11",
@@ -157,7 +157,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "gave a conventional explanation for"
 },
 {
 "claimTier": 1,
@@ -167,13 +167,13 @@
 "direction": "in",
 "edgeId": "e-a770d67d68",
 "edgeLabel": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
-"family": null,
+"family": "custody",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -193,7 +193,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "received records or material from"
 }
 ],
 "coords": null,

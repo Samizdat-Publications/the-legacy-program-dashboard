@@ -59,13 +59,13 @@
 "direction": "in",
 "edgeId": "e-58e257146f",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract, FY 2010",
-"family": null,
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -80,7 +80,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -90,13 +90,13 @@
 "direction": "in",
 "edgeId": "e-a90aa1f5ca",
 "edgeLabel": "published, numbered and released by DIA as DIA-08-1011-001",
-"family": null,
+"family": "documents",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -111,7 +111,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "was released by"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "in",
 "edgeId": "e-87f3066df2",
 "edgeLabel": "DIRD",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -137,7 +137,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -147,13 +147,13 @@
 "direction": "in",
 "edgeId": "e-b954a4d262",
 "edgeLabel": "series member",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1011-001. Publication date 01 November 2010 on the cover. 78 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -168,7 +168,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -178,13 +178,13 @@
 "direction": "out",
 "edgeId": "e-58d62150c2",
 "edgeLabel": "author's institutional affiliation at time of writing",
-"family": null,
+"family": "organisation",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech International of Austin, Texas is the affiliation recorded against this title on the DIA congressional list. EarthTech is the single largest institutional source on the list; Puthoff and Davis between them are primary authors on six of the 38 products.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -214,7 +214,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -224,13 +224,13 @@
 "direction": "out",
 "edgeId": "e-a5dc20c3b5",
 "edgeLabel": "authored by",
-"family": null,
+"family": "documents",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "The DIA list of all 38 AATIP/AAWSAP products, transmitted to the Senate Armed Services Committee in January 2018 and released under FOIA in January 2019, credits 'Laser Lightcraft Nanosatellites' to 'Dr E Davis, EarthTech'. The author line on the released PDF cover page is redacted, so this attribution rests on the congressional list rather than the document.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -260,7 +260,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

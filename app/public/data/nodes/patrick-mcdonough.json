@@ -32,13 +32,13 @@
 "direction": "out",
 "edgeId": "e-afa32fa24e",
 "edgeLabel": "Geodetic surveyor based at F. E. Warren, 1962 to 1966",
-"family": null,
+"family": "place-time",
 "id": "l-warren",
 "l0": false,
 "label": "F. E. Warren AFB, Wyoming",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -48,7 +48,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -58,13 +58,13 @@
 "direction": "out",
 "edgeId": "e-761afa6dbd",
 "edgeLabel": "Spoke on the record with a signed affidavit",
-"family": null,
+"family": "testimony",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "No dated public statement by him before this event has been identified.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -74,7 +74,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2010-09-27",

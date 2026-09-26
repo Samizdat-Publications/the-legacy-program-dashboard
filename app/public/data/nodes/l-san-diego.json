@@ -16,13 +16,13 @@
 "direction": "in",
 "edgeId": "e-a50e2ce471",
 "edgeLabel": "Homeport of the Nimitz strike group",
-"family": null,
+"family": "place-time",
 "id": "d-aviators",
 "l0": false,
 "label": "Military Aviators & Operators",
 "note": "The 2004 encounters occurred in the Southern California Operating Area worked by San Diego-based fleet units.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -32,7 +32,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": null,

@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-f1be4015f6",
 "edgeLabel": "An official explanation offered four months after the event",
-"family": null,
+"family": "analysis",
 "id": "d-denial",
 "l0": false,
 "label": "Official Denial",
 "note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-07-26",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-107be96d7f",
 "edgeLabel": "An Air National Guard statement about its own unit's sorties",
-"family": null,
+"family": "documents",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The statement is an Air National Guard one, made by a named unit spokesman about his own unit's sorties.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-07-26",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

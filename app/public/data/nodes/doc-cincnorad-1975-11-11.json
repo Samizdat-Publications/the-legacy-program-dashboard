@@ -37,13 +37,13 @@
 "direction": "in",
 "edgeId": "e-909093c02a",
 "edgeLabel": "Originated by the Commander-in-Chief, NORAD",
-"family": null,
+"family": "documents",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Type research: originator of the message, not custodian of anything.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-11",
@@ -53,7 +53,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -63,13 +63,13 @@
 "direction": "out",
 "edgeId": "e-97e5d34f28",
 "edgeLabel": "The command's own summary of the sequence, naming five installations",
-"family": null,
+"family": "documents",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "Only excerpts have been opened; the four parts have not been seen in full.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-11",
@@ -79,7 +79,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

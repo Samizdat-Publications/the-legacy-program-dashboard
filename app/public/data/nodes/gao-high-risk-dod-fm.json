@@ -29,13 +29,13 @@
 "direction": "out",
 "edgeId": "e-9cff98ba41",
 "edgeLabel": "Thirty years of Comptroller General certification that the books cannot produce reliable information",
-"family": null,
+"family": "oversight",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained, alongside four other DoD entries. Attested by GAO's own list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -45,7 +45,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -55,13 +55,13 @@
 "direction": "in",
 "edgeId": "e-ca07346f6e",
 "edgeLabel": "GAO maintains the High-Risk List",
-"family": null,
+"family": "organisation",
 "id": "gao",
 "l0": false,
 "label": "Government Accountability Office",
 "note": "The High-Risk List is a GAO product, updated at the start of each Congress. Attested by GAO.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -71,7 +71,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 }
 ],
 "coords": null,

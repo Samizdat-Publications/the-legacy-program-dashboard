@@ -71,13 +71,13 @@
 "direction": "in",
 "edgeId": "e-09473aa434",
 "edgeLabel": "produced the 1999 report",
-"family": null,
+"family": "organisation",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Published as a special issue of VSD in July 1999 and delivered to Prime Minister Lionel Jospin.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -87,7 +87,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 2,
@@ -97,13 +97,13 @@
 "direction": "in",
 "edgeId": "e-33d5dfd309",
 "edgeLabel": "the US 2026 release cites COMETA as a source on the Argentine case",
-"family": null,
+"family": "documents",
 "id": "ev-argentina-bariloche-1995",
 "l0": false,
 "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
 "note": "The Buenos Aires Times reports that the released file sits in a section on investigations conducted outside the United States and 'references a report produced by COMETA'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-11",
@@ -113,7 +113,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -123,13 +123,13 @@
 "direction": "out",
 "edgeId": "e-e655f31171",
 "edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
-"family": null,
+"family": "documents",
 "id": "sepra",
 "l0": false,
 "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1999-07-01",
@@ -139,7 +139,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "concerns"
 }
 ],
 "coords": null,

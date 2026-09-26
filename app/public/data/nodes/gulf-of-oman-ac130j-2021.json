@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-2d3693a5d0",
 "edgeLabel": "A 2021 gunship engagement absent from the reporting periods that cover it",
-"family": null,
+"family": "denial",
 "id": "aaro-fy2024-annual-report",
 "l0": true,
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The 8 September 2021 incident falls inside the FY2023 and FY2024 reporting windows and appears in neither, which is either omission or evidence it sat outside AARO's case system.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-10",
@@ -61,7 +61,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is left out of"
 },
 {
 "claimTier": 3,
@@ -71,13 +71,13 @@
 "direction": "in",
 "edgeId": "e-5f87e46c8a",
 "edgeLabel": "two documented US weapons engagements of unidentified objects",
-"family": null,
+"family": "analysis",
 "id": "mq9-yemen-hellfire-video-2024",
 "l0": false,
 "label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
 "note": "Yemen October 2024 (MQ-9, Hellfire) and the Gulf of Oman September 2021 (AC-130J, cannon fire, objects reportedly reacting) establish a pattern of engagement absent from every AARO annual report.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -92,7 +92,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -102,13 +102,13 @@
 "direction": "in",
 "edgeId": "e-0d7d12e17d",
 "edgeLabel": "published the engagement record",
-"family": null,
+"family": "documents",
 "id": "pursue-r05-identifiers",
 "l0": false,
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -128,13 +128,13 @@
 "direction": "in",
 "edgeId": "e-2cf2601aea",
 "edgeLabel": "Released the AC-130J gunship videos and DOW-UAP-D101",
-"family": null,
+"family": "documents",
 "id": "pursue-release-05",
 "l0": false,
 "label": "PURSUE Release 05",
 "note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-10",
@@ -149,7 +149,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "is the subject of"
 }
 ],
 "coords": null,

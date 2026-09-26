@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-b3c6f6cfaf",
 "edgeLabel": "Clearance preceded publication by two months",
-"family": null,
+"family": "place-time",
 "id": "debrief-2023-06-05",
 "l0": false,
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "note": "DOPSR approvals of 4 and 6 April 2023 preceded the 5 June 2023 Debrief publication. Kean and Blumenthal confirmed the clearance before publishing, which is why the Pentagon's response contested substantiation rather than authorization.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-33aa14cb00",
 "edgeLabel": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
-"family": null,
+"family": "organisation",
 "id": "dopsr",
 "l0": false,
 "label": "Defense Office of Prepublication and Security Review",
 "note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-15",
@@ -82,7 +82,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was produced by"
 }
 ],
 "coords": null,

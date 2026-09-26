@@ -34,13 +34,13 @@
 "direction": "in",
 "edgeId": "e-c0c55b6865",
 "edgeLabel": "Knapp named Ryder to Congress as a program gatekeeper at Lockheed",
-"family": null,
+"family": "testimony",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -50,7 +50,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -60,13 +60,13 @@
 "direction": "out",
 "edgeId": "e-e387aa66ec",
 "edgeLabel": "Ryder is identified in sworn testimony as a Lockheed Martin figure",
-"family": null,
+"family": "testimony",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -76,7 +76,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is alleged to be tied to"
 }
 ],
 "date": "2025-09-09",

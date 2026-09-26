@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-4877ec3762",
 "edgeLabel": "Multi-night unattributed swarms against destroyers in the SoCal operating areas",
-"family": null,
+"family": "place-time",
 "id": "l-socal-oparea",
 "l0": false,
 "label": "Southern California Operating Areas (W-291 and Baja approaches)",
 "note": "Deck logs from USS Kidd, Rafael Peralta, Russell and John Finn, obtained under FOIA and cross-checked against AIS tracking, document the July 2019 events.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-23",
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-99b6e49833",
 "edgeLabel": "Same operating areas, fifteen years apart, same failure to attribute",
-"family": null,
+"family": "analysis",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-05-23",
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -98,13 +98,13 @@
 "direction": "out",
 "edgeId": "e-2c9ae2b1aa",
 "edgeLabel": "Within the November 2004 to March 2021 window the assessment covers",
-"family": null,
+"family": "documents",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The ODNI preliminary assessment covers 144 reports from USG sources spanning November 2004 to March 2021, the window containing both the Nimitz and the 2019 swarm events.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 3,
@@ -129,13 +129,13 @@
 "direction": "out",
 "edgeId": "e-05da4920f2",
 "edgeLabel": "Fed the reporting stream that became the UAPTF caseload",
-"family": null,
+"family": "place-time",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The July 2019 events were investigated by the Navy, Coast Guard and FBI and reached the Chief of Naval Operations in the period immediately preceding the Task Force's establishment; the linkage is reasoned from timing and subject matter, not from a released tasking document.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-23",
@@ -145,7 +145,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "led to"
 }
 ],
 "coords": null,

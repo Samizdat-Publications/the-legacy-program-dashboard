@@ -59,13 +59,13 @@
 "direction": "out",
 "edgeId": "e-004292d479",
 "edgeLabel": "Testified to the current figures on the congressional record",
-"family": null,
+"family": "testimony",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "Deputy Inspector General Mansfield told the House Committee on Oversight and Government Reform on 13 May 2026 that unsupported adjustments exceeded $859 billion in the last two quarters of FY2025. Attested by his published oral statement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-13",
@@ -75,7 +75,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -85,13 +85,13 @@
 "direction": "out",
 "edgeId": "e-3309777289",
 "edgeLabel": "Witness at the 13 May 2026 hearing",
-"family": null,
+"family": "testimony",
 "id": "dow-financial-mgmt-hearing-2026",
 "l0": false,
 "label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
 "note": "Mansfield was the Office of Inspector General witness at 'DoW Financial Management: Examining Progress and New Audit Approaches'. Attested by the OIG's publication of his statement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-13",
@@ -101,7 +101,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 }
 ],
 "date": "2026-05-13",

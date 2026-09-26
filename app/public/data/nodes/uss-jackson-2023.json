@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-abe32e4297",
 "edgeLabel": "Supervised the watch and the recording of the 15 Feb 2023 encounter",
-"family": null,
+"family": "testimony",
 "id": "alexandro-wiggins",
 "l0": false,
 "label": "Alexandro Wiggins",
 "note": "Wiggins testified as an active-duty Senior Chief Operations Specialist that CIC recorded four objects on Star SAFIRE with intact position and time metadata.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-ca701262bc",
 "edgeLabel": "Footage reached the public through journalists, not through the Navy or AARO",
-"family": null,
+"family": "media",
 "id": "jeremy-corbell",
 "l0": false,
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was reported on by"
 },
 {
 "claimTier": 2,
@@ -87,13 +87,13 @@
 "direction": "in",
 "edgeId": "e-9b6ec7ac36",
 "edgeLabel": "W-291 encounter occurred in the same operating-area complex",
-"family": null,
+"family": "place-time",
 "id": "l-socal-oparea",
 "l0": false,
 "label": "Southern California Operating Areas (W-291 and Baja approaches)",
 "note": "Wiggins's statement places the event in Warning Area W-291 off Southern California.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -103,7 +103,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -113,13 +113,13 @@
 "direction": "out",
 "edgeId": "e-9c209c896b",
 "edgeLabel": "Same warning-area complex, same object morphology, nineteen years later",
-"family": null,
+"family": "analysis",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "A transmedium tic-tac-shaped object in W-291 in February 2023 repeats the November 2004 description in the same Southern California naval training space, with no published government assessment of either sensor record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -134,7 +134,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -144,13 +144,13 @@
 "direction": "out",
 "edgeId": "e-d13462e313",
 "edgeLabel": "The ship whose EO/IR system produced the recording",
-"family": null,
+"family": "testimony",
 "id": "uss-jackson",
 "l0": false,
 "label": "USS Jackson (LCS-6)",
 "note": "The footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - precisely the metadata the NASA study team said government UAP holdings lack.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -165,7 +165,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

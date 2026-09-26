@@ -38,13 +38,13 @@
 "direction": "in",
 "edgeId": "e-3072445046",
 "edgeLabel": "authored by",
-"family": null,
+"family": "documents",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -74,7 +74,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -84,13 +84,13 @@
 "direction": "out",
 "edgeId": "e-836be66076",
 "edgeLabel": "senior staff engineer, Lockheed Martin Aeronautics (Skunk Works)",
-"family": null,
+"family": "role",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Macheret held a senior staff engineer post at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014, working on advanced aerospace plasma applications, before joining Purdue University as professor of aeronautics and astronautics in 2014. Lockheed Martin is the affiliation DIA recorded for him on the congressional list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -110,7 +110,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "2010-01-01",

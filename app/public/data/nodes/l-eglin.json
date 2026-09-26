@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-6da99f10f6",
 "edgeLabel": "Accompanied Gaetz to Eglin; described 'the infamous Eglin Air Force Base incident' in 2025",
-"family": null,
+"family": "oversight",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna's 2025 opening statement attributes the lead to multiple active-duty Air Force pilot whistleblowers alleging an Air Force cover-up at Eglin.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -56,7 +56,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-70024e1983",
 "edgeLabel": "The Eglin radar sequence and imagery were requested from the dais, 'subpoenaed if necessary'",
-"family": null,
+"family": "documents",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "No production of the Eglin material to the committee has been recorded as of August 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-456e219f67",
 "edgeLabel": "Received a protected disclosure from Eglin and went to the base with Burchett and Luna",
-"family": null,
+"family": "place-time",
 "id": "matt-gaetz",
 "l0": false,
 "label": "Matthew Louis Gaetz II",
 "note": "Initially refused images, radar and full crew access; obtained a photograph and one crew member after a discussion 'about how authorities flow in the United States of America.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -108,7 +108,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -118,13 +118,13 @@
 "direction": "in",
 "edgeId": "e-5021b06b7a",
 "edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
-"family": null,
+"family": "documents",
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1962-03-13",
@@ -134,7 +134,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -144,13 +144,13 @@
 "direction": "in",
 "edgeId": "e-1904dfd6f1",
 "edgeLabel": "Accompanied Gaetz to Eglin on the protected disclosure",
-"family": null,
+"family": "testimony",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Named by Gaetz on the record and again by Luna in 2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -165,7 +165,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

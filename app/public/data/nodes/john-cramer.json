@@ -38,13 +38,13 @@
 "direction": "out",
 "edgeId": "e-2681dff6d0",
 "edgeLabel": "author of record on the DIA list",
-"family": null,
+"family": "documents",
 "id": "dird-the-space-communication-implications-of-quantum",
 "l0": false,
 "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
 "note": "DIA list item 25: \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\" A mainstream university physicist, not a programme insider.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -74,7 +74,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2010-01-01",

@@ -24,13 +24,13 @@
 "direction": "in",
 "edgeId": "e-7f8bdd03ff",
 "edgeLabel": "Where the disc became a balloon",
-"family": null,
+"family": "analysis",
 "id": "d-roswell",
 "l0": false,
 "label": "Roswell",
 "note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-07-28",
@@ -40,7 +40,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is an instance of"
 }
 ],
 "coords": [

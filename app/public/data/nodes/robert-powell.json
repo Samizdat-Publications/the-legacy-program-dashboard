@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-a23e414d4f",
 "edgeLabel": "Co-author; brought the SCU case reconstructions",
-"family": null,
+"family": "documents",
 "id": "paper-knuth-powell-reali-2019",
 "l0": false,
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-09-25",
@@ -88,7 +88,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -98,13 +98,13 @@
 "direction": "out",
 "edgeId": "e-39c5dc1d26",
 "edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
-"family": null,
+"family": "role",
 "id": "scu-uap-studies",
 "l0": false,
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -119,7 +119,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 }
 ],
 "date": "2019-09-25",

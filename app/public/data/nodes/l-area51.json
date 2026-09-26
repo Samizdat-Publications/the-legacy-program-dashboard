@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-dea6bbd861",
 "edgeLabel": "The Agency's own account of the establishment and use of the Groom Lake site",
-"family": null,
+"family": "documents",
 "id": "cia-overhead-reconnaissance-history-1992",
 "l0": false,
 "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
 "note": "It is the Agency's own account of the establishment and use of the Groom Lake site, and the 2013 release is the version in which the Area 51 references were left intact.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-26ae039899",
 "edgeLabel": "Area 51 is the named facility on the Groom Lake shore",
-"family": null,
+"family": "place-time",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-c4aec60c94",
 "edgeLabel": "Asked the AEC to absorb the land that became Area 51",
-"family": null,
+"family": "place-time",
 "id": "richard-m-bissell-jr",
 "l0": false,
 "label": "Richard M. Bissell Jr.",
 "note": "On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-06-25",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -119,13 +119,13 @@
 "direction": "in",
 "edgeId": "e-4947aa2993",
 "edgeLabel": "Claimed site sited about fifteen miles south of Area 51",
-"family": null,
+"family": "place-time",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Uses the board's existing l-area51 id. No node called area-51 was created.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -135,7 +135,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is the location of"
 }
 ],
 "coords": [

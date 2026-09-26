@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-114f26be3a",
 "edgeLabel": "Director and producer",
-"family": null,
+"family": "organisation",
 "id": "dan-farah",
 "l0": false,
 "label": "Dan Farah",
 "note": "Farah directed and produced the film that premiered at SXSW on 9 March 2025.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-03-09",
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 2,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-c78de3ea69",
 "edgeLabel": "Davis among the interviewees",
-"family": null,
+"family": "media",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitting Secretary of State and a former Director of National Intelligence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "featured"
 },
 {
 "claimTier": 2,
@@ -93,13 +93,13 @@
 "direction": "in",
 "edgeId": "e-83af772df1",
 "edgeLabel": "Gerb cites the film's characterisation of the Air Force",
-"family": null,
+"family": "documents",
 "id": "gerb-hidden-wing",
 "l0": false,
 "label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
 "note": "The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is cited by"
 },
 {
 "claimTier": 2,
@@ -119,13 +119,13 @@
 "direction": "out",
 "edgeId": "e-2da46dd783",
 "edgeLabel": "Puthoff among 34 on-camera interviewees",
-"family": null,
+"family": "media",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force chief scientist and the Stanford materials analyst.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "featured"
 },
 {
 "claimTier": 2,
@@ -145,13 +145,13 @@
 "direction": "out",
 "edgeId": "e-d4c4360eaf",
 "edgeLabel": "Former UAP Task Force director appears on record",
-"family": null,
+"family": "media",
 "id": "jay-stratton",
 "l0": false,
 "label": "Jay Stratton",
 "note": "Stratton, former director of the government's UAP Task Force, is named in the film's promotional materials as a participant.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-11-01",
@@ -161,7 +161,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "featured"
 },
 {
 "claimTier": 2,
@@ -171,13 +171,13 @@
 "direction": "out",
 "edgeId": "e-e254b97466",
 "edgeLabel": "Rubio appears on record in the documentary",
-"family": null,
+"family": "media",
 "id": "marco-rubio",
 "l0": false,
 "label": "Marco Rubio",
 "note": "A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-11-01",
@@ -187,7 +187,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "featured"
 }
 ],
 "coords": null,

@@ -62,13 +62,13 @@
 "direction": "out",
 "edgeId": "e-95e2d1c20c",
 "edgeLabel": "commissioned subject-matter author",
-"family": null,
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Credited with two of the 38 AAWSAP deliverables: 'Aneutronic Fusion Propulsion II' (1 November 2010) and 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (20 November 2010, DIA-08-1012-001). Both released texts name AAWSAP. Culbreth was based at the University of Nevada, Las Vegas, the same city as the prime contractor BAASS. Tier 2: both documents redact their 'Author' field under FOIA exemption (b)(6), so the attribution rests on DIA's separate list of deliverables.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "funded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-11-01",
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "was funded by"
 },
 {
 "claimTier": 3,
@@ -98,13 +98,13 @@
 "direction": "out",
 "edgeId": "e-aafc2f51af",
 "edgeLabel": "UNLV academic in the prime contractor's home city",
-"family": null,
+"family": "place-time",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "TIER 3, INFERENTIAL. AAWSAP was executed by BAASS out of southern Nevada, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas faculty member credited with two of them. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one. Both DIRDs cited here have their author field redacted under FOIA exemption (b)(6), so even the crediting rests on DIA's separate list of deliverables rather than on the documents themselves.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-11-01",
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -139,13 +139,13 @@
 "direction": "out",
 "edgeId": "e-86b3aad84e",
 "edgeLabel": "authored (attribution by elimination, see note)",
-"family": null,
+"family": "documents",
 "id": "dird-aneutronic-fusion-propulsion",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
 "note": "TIER 2 AND DELIBERATELY SO. The DIA list establishes at tier 1 that two aneutronic fusion DIRDs exist, one by V. Teofilo (Lockheed Martin) and one by W. Culbreth (UNLV). Which released document number belongs to which author is NOT stated on either cover, both of which redact the author under (b)(6). This document, DIA-08-1011-003, is assigned to Culbreth because the companion DIA-08-1011-004 carries a V. Teofilo self-citation at endnote 17 and Lockheed Martin content, while this one carries none of either and is instead saturated with Nevada Test Site, Project Rover and NERVA material plus nuclear engineering textbook citations. If the mapping is ever shown to be reversed, this edge and its partner must be swapped together.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -170,7 +170,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -180,13 +180,13 @@
 "direction": "in",
 "edgeId": "e-58671c0c8b",
 "edgeLabel": "authored by William Culbreth, UNLV",
-"family": null,
+"family": "documents",
 "id": "dird-detection-and-high-resolution-tracking-of",
 "l0": false,
 "label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
 "note": "The DIA list of 9 January 2018 records 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities, Dr W Culbreth, Univ of Nevada-Las Vegas.' The released PDF's author block is redacted under (b)(6). Culbreth also wrote 'Aneutronic Fusion Propulsion II'. He is among the few DIRD authors to have discussed the work publicly, in a 2019 interview with George Knapp.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -221,7 +221,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "2010-11-20",

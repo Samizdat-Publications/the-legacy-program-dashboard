@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-4e5792c74f",
 "edgeLabel": "Catalogued the missing fields in the case summaries",
-"family": null,
+"family": "oversight",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Rojas identified absent coordinates, sensor parameters and altitude data as the specific omissions that block independent kinematic analysis.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-14",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 }
 ],
 "date": "2026-05-14",

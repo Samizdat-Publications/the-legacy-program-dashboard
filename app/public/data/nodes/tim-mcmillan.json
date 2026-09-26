@@ -40,13 +40,13 @@
 "direction": "out",
 "edgeId": "e-19e3d8e4ad",
 "edgeLabel": "Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation",
-"family": null,
+"family": "oversight",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "The documentary correction to the claim that the July 2017 search was about recovering element 115.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-11-13",
@@ -56,7 +56,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-db9e130e37",
 "edgeLabel": "Co-founder and Executive Director",
-"family": null,
+"family": "role",
 "id": "the-debrief",
 "l0": false,
 "label": "The Debrief",
 "note": "Named on The Debrief's About page as Co-Founder and Executive Director.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -82,7 +82,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 }
 ],
 "date": "2023-06-05",

@@ -116,13 +116,13 @@
 "direction": "out",
 "edgeId": "e-af568a786a",
 "edgeLabel": "author of the request that created Project Magnet",
-"family": null,
+"family": "role",
 "id": "project-magnet",
 "l0": false,
 "label": "Project Magnet (Canada)",
 "note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2005-08-11",
@@ -132,7 +132,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 },
 {
 "claimTier": 2,
@@ -142,13 +142,13 @@
 "direction": "out",
 "edgeId": "e-539965ff3e",
 "edgeLabel": "appointed to the Defence Research Board committee in 1952",
-"family": null,
+"family": "role",
 "id": "project-second-storey",
 "l0": false,
 "label": "Project Second Storey (Canada)",
 "note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-01",
@@ -158,7 +158,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -168,13 +168,13 @@
 "direction": "in",
 "edgeId": "e-d10a801bc9",
 "edgeLabel": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
-"family": null,
+"family": "testimony",
 "id": "robert-sarbacher",
 "l0": false,
 "label": "Robert I. Sarbacher",
 "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1983-11-29",
@@ -184,7 +184,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "is contradicted by"
 }
 ],
 "date": "1962-12-27",

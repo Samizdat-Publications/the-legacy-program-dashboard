@@ -69,13 +69,13 @@
 "direction": "out",
 "edgeId": "e-df8cd95edb",
 "edgeLabel": "Sponsor of S. 2226 and Senate conference principal",
-"family": null,
+"family": "law",
 "id": "ndaa-fy2024",
 "l0": true,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "Reed introduced the vehicle on 11 July 2023 and signed the conference product that removed his own chamber's passed division.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-11",
@@ -90,7 +90,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 1,
@@ -100,13 +100,13 @@
 "direction": "out",
 "edgeId": "e-cf687dd264",
 "edgeLabel": "Chairman 2021-2025",
-"family": null,
+"family": "role",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-11",
@@ -116,7 +116,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -126,13 +126,13 @@
 "direction": "out",
 "edgeId": "e-ffb1c0ae15",
 "edgeLabel": "seat 2 of 12 - Ranking Member, Senate Armed Services",
-"family": null,
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -167,7 +167,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 }
 ],
 "date": "2023-07-27",

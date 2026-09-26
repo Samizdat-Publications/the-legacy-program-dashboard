@@ -81,13 +81,13 @@
 "direction": "in",
 "edgeId": "e-6fce8aa41d",
 "edgeLabel": "Hollanda was a serving FAB officer, not a civilian investigator",
-"family": null,
+"family": "role",
 "id": "fab",
 "l0": true,
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "Uyrangê Hollanda commanded Operação Prato as a captain of the Brazilian Air Force and retired as a lieutenant colonel. Pratt's file: 'In 1997, long after he had retired as a lieutenant colonel, Hollanda decided he was no longer obligated to remain silent about Operação Prato and publicly discussed Operação Prato.' The institutional tie matters because his later account contradicts the service's official negative finding — the contradiction is internal to the FAB, not between the FAB and outsiders.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -122,13 +122,13 @@
 "direction": "out",
 "edgeId": "e-8362517ec9",
 "edgeLabel": "Hollanda showed the operation's photographs and trajectory analyses to Vallee",
-"family": null,
+"family": "testimony",
 "id": "jacques-vallee",
 "l0": false,
 "label": "Jacques F. Vallee",
 "note": "The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer's access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible — Basterfield's account names only Ademar Gevaerd and Helio Loyola as the BAASS teams' Brazilian contacts.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -148,7 +148,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "passed an account to"
 },
 {
 "claimTier": 2,
@@ -158,13 +158,13 @@
 "direction": "out",
 "edgeId": "e-3b90902a6e",
 "edgeLabel": "commanded the operation",
-"family": null,
+"family": "role",
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-01",
@@ -174,7 +174,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -184,13 +184,13 @@
 "direction": "out",
 "edgeId": "e-f281dd672f",
 "edgeLabel": "Hollanda's account to an American reporter is preserved in the Pratt file",
-"family": null,
+"family": "testimony",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -210,7 +210,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "passed an account to"
 }
 ],
 "date": "1997",

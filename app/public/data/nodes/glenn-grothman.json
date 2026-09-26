@@ -70,13 +70,13 @@
 "direction": "out",
 "edgeId": "e-2e062f95d2",
 "edgeLabel": "Presided; waived six non-members onto the subcommittee",
-"family": null,
+"family": "oversight",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "The waiver list is a map of the disclosure caucus at formation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -86,7 +86,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -96,13 +96,13 @@
 "direction": "out",
 "edgeId": "e-8ffb2d99eb",
 "edgeLabel": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
-"family": null,
+"family": "oversight",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Grothman's question about what information Grusch believed was hidden produced the only program-category language in the unclassified record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -122,13 +122,13 @@
 "direction": "out",
 "edgeId": "e-a6290cefb3",
 "edgeLabel": "Chairman of the subcommittee at the 2023 hearing",
-"family": null,
+"family": "role",
 "id": "hoc-subcommittee-national-security",
 "l0": false,
 "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
 "note": "Grothman gavelled the 26 July 2023 hearing to order and waived six non-members onto the subcommittee.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -138,7 +138,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -148,13 +148,13 @@
 "direction": "out",
 "edgeId": "e-6c1e565363",
 "edgeLabel": "Republican co-lead",
-"family": null,
+"family": "law",
 "id": "hr-6967-safe-airspace-for-americans-act",
 "l0": false,
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-12",
@@ -164,7 +164,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 },
 {
 "claimTier": 3,
@@ -174,13 +174,13 @@
 "direction": "out",
 "edgeId": "e-ad98b6f3c9",
 "edgeLabel": "Grothman's 'inside and outside of the SCIF' claim cannot be reconciled with the read-in gate Luna documented",
-"family": null,
+"family": "testimony",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Reasoning: Grothman said in Nov 2024 that members questioned agencies inside and outside the SCIF without substantiating Grusch; Luna said in Sept 2025 that Oversight members were not eligible for the relevant read-ins at all. Both are on the same committee's record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -195,7 +195,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "contradicts"
 }
 ],
 "date": "2023-07-26",

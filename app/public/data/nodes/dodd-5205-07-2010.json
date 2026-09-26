@@ -149,13 +149,13 @@
 "direction": "out",
 "edgeId": "e-414f10a49e",
 "edgeLabel": "Established DoD SAPCO under the Deputy Secretary of Defense",
-"family": null,
+"family": "law",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -165,7 +165,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -175,13 +175,13 @@
 "direction": "in",
 "edgeId": "e-eaa63df530",
 "edgeLabel": "12 Sep 2024 reissuance cancels the 1 Jul 2010 directive",
-"family": null,
+"family": "organisation",
 "id": "dodd-5205-07-2024",
 "l0": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -191,7 +191,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -201,13 +201,13 @@
 "direction": "out",
 "edgeId": "e-a47bf0a5fe",
 "edgeLabel": "",
-"family": null,
+"family": "law",
 "id": "dodd-5205-07-2024",
 "l0": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "note": "Same policy instrument, two issuances, and the programmatic relation is what CHANGED between them - which is not the same fact as the supersession recorded on the temporal edge. The 2010 directive's glossary defines 'carve-out' as 'a provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program oversight', and its Enclosure 2 para 5 restates the statutory waiver in policy. A full-text pass of the 12 September 2024 reissue finds no occurrence of 'carve-out', 'waived' or 'unacknowledged' at all. The vocabulary the earlier directive defined is simply absent from the later one. Note what that does and does not establish: 32 CFR 117.6(b)(3) still carries the carve-out in codified regulation, and still points at DoDD 5205.07 by name, so the mechanism did not end when the words left the directive.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "amended",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-18",
@@ -222,7 +222,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was amended by"
 },
 {
 "claimTier": 1,
@@ -232,13 +232,13 @@
 "direction": "in",
 "edgeId": "e-67865993dd",
 "edgeLabel": "Cancelled and replaced the 2010 directive on 12 September 2024",
-"family": null,
+"family": "organisation",
 "id": "dodd-5205-07-2024",
 "l0": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "note": "The 2024 reissue cancels DoDD 5205.07 of 1 July 2010 as amended and incorporates the 11 July 2023 Deputy Secretary memorandum on SAP Enterprise Reform.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-09-12",
@@ -248,7 +248,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -258,13 +258,13 @@
 "direction": "in",
 "edgeId": "e-9209e3bbed",
 "edgeLabel": "manual implements policy established in DoDD 5205.07",
-"family": null,
+"family": "law",
 "id": "dodm-5205-07-series",
 "l0": false,
 "label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "implements",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -274,7 +274,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "is implemented by"
 },
 {
 "claimTier": 1,
@@ -284,13 +284,13 @@
 "direction": "in",
 "edgeId": "e-6ba903bc02",
 "edgeLabel": "",
-"family": null,
+"family": "law",
 "id": "dodm-5205-07-series",
 "l0": false,
 "label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "note": "The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "implements",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-18",
@@ -305,7 +305,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is implemented by"
 },
 {
 "claimTier": 1,
@@ -315,13 +315,13 @@
 "direction": "in",
 "edgeId": "e-c7d081dc1a",
 "edgeLabel": "DoD policy narrows waived-SAP access to chairs, ranking members and staff directors",
-"family": null,
+"family": "law",
 "id": "gang-of-eight",
 "l0": false,
 "label": "The Gang of Eight and the limited-notification convention",
 "note": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -331,7 +331,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -341,13 +341,13 @@
 "direction": "out",
 "edgeId": "e-d006b2e958",
 "edgeLabel": "Established the SAPOC on 1 July 2010",
-"family": null,
+"family": "law",
 "id": "sapoc",
 "l0": false,
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense and the Deputy Secretary of Defense'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -357,7 +357,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "created"
 }
 ],
 "coords": null,

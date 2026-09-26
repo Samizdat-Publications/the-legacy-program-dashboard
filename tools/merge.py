@@ -590,7 +590,7 @@ def finalise_defaults(people, entities):
               f"from {bad}", file=sys.stderr)
 
 
-NOT_NODE_DOCUMENTS = {"_edge_tiers.json"}
+NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json"}
 
 
 def _removed_aliases():
@@ -668,7 +668,8 @@ def load():
     # research/_edge_tiers.json is not a node document: it is a list of per-edge
     # tier ADJUDICATIONS, read by load_edge_adjudications(). The glob used to take
     # its 16 records as edges as well (unsourced, unnoted, typed by the decision
-    # they record), so it is named out here.
+    # they record), so it is named out here. research/_predicates.json (phase 7)
+    # is a side-car keyed by edge id, not a node document either.
     allf = [f for f in allf if os.path.basename(f) not in NOT_NODE_DOCUMENTS]
     if MERGE_SKIP:
         allf = [f for f in allf

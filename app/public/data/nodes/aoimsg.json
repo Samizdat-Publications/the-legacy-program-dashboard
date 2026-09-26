@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-e1e19047c5",
 "edgeLabel": "superseded and disestablished by AARO",
-"family": null,
+"family": "organisation",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The 15 July 2022 memorandum disestablished AOIMSG eight months after its creation and replaced it with AARO.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-07-15",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-df4d3ab483",
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
-"family": null,
+"family": "role",
 "id": "kathleen-hicks",
 "l0": false,
 "label": "Kathleen H. Hicks",
 "note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-07-15",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was founded by"
 }
 ],
 "coords": null,

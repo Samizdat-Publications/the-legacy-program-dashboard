@@ -413,6 +413,23 @@
   },
   {
    "family": "role",
+   "forward": "appointed",
+   "id": "appointed",
+   "inverse": "was appointed by",
+   "object": [
+    "person"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "person",
+    "institution",
+    "legislation",
+    "document"
+   ],
+   "use": "named, appointed, nominated or confirmed someone to a post"
+  },
+  {
+   "family": "role",
    "forward": "was a member of",
    "id": "member_of",
    "inverse": "had as a member",
@@ -489,6 +506,16 @@
     "event"
    ],
    "use": "a unit of a parent body, a section of a statute, a volume or item of a series, a site within a larger site, a body placed under another, a company acquired by another"
+  },
+  {
+   "family": "organisation",
+   "forward": "falls outside",
+   "id": "outside_of",
+   "inverse": "does not include",
+   "object": "any",
+   "refines": "legislative",
+   "subject": "any",
+   "use": "a stated exclusion: the subject is not a member of, not covered by, or outside the reach of the object (a person outside a group, a body outside a statute's reach)"
   },
   {
    "family": "organisation",
@@ -1026,7 +1053,8 @@
     "person",
     "institution",
     "document",
-    "program"
+    "program",
+    "event"
    ],
    "use": "a dated, attributable statement that the object is not so, did not happen or does not exist; a retraction"
   },
@@ -1041,7 +1069,8 @@
     "person",
     "institution",
     "program",
-    "document"
+    "document",
+    "event"
    ],
    "use": "declined, withheld, blocked or did not act on a request, a case or access"
   },
@@ -1056,7 +1085,8 @@
     "person",
     "institution",
     "program",
-    "document"
+    "document",
+    "event"
    ],
    "use": "argues against, rejects or finds wrong the object's claim or work"
   },
@@ -1071,7 +1101,8 @@
     "person",
     "institution",
     "program",
-    "document"
+    "document",
+    "event"
    ],
    "use": "an official or skeptical explanation in prosaic terms (a balloon, a misidentification, a test)"
   },
@@ -1086,7 +1117,8 @@
     "document",
     "institution",
     "person",
-    "program"
+    "program",
+    "event"
    ],
    "use": "a report, review or response that does not mention or address the object"
   },
@@ -1385,7 +1417,7 @@
    "use": "ONLY when no predicate above fits the sentence"
   }
  ],
- "source": "b9d3462c0dcc",
+ "source": "ea5665124f95",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

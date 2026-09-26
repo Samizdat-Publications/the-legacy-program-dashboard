@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-168f8298c2",
 "edgeLabel": "First technical director; carried SAGE engineering authority across from MIT",
-"family": null,
+"family": "role",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Everett joined MITRE at incorporation as first technical director and later became its president.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 }
 ],
 "date": "1958-07-21",

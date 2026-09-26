@@ -26,13 +26,13 @@
 "direction": "out",
 "edgeId": "e-6cbf8a2d12",
 "edgeLabel": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
-"family": null,
+"family": "testimony",
 "id": "hearing-2022-05-17",
 "l0": false,
 "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "note": "A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-05-17",
@@ -42,7 +42,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "testified at"
 }
 ],
 "date": null,

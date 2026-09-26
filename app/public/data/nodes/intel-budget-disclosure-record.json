@@ -53,13 +53,13 @@
 "direction": "in",
 "edgeId": "e-ff867cbf01",
 "edgeLabel": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
-"family": null,
+"family": "place-time",
 "id": "church-committee",
 "l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1976-04-26",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "followed from"
 },
 {
 "claimTier": 1,
@@ -79,13 +79,13 @@
 "direction": "in",
 "edgeId": "e-104d58da85",
 "edgeLabel": "Created the first segment of the record by litigation",
-"family": null,
+"family": "organisation",
 "id": "steven-aftergood",
 "l0": false,
 "label": "Steven Aftergood",
 "note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -95,7 +95,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -105,13 +105,13 @@
 "direction": "in",
 "edgeId": "e-2517b6f864",
 "edgeLabel": "The statute that produced the second segment of the disclosure record",
-"family": null,
+"family": "law",
 "id": "usc-50-3306",
 "l0": false,
 "label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
 "note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -121,7 +121,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "is required by"
 }
 ],
 "coords": null,

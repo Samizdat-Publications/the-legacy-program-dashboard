@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-e78fa5072e",
 "edgeLabel": "The log is the 24th NORAD Region's at Malmstrom AFB",
-"family": null,
+"family": "place-time",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Its own heading reads '24th NORAD Region Senior Directors Log (Malmstrom AFB, Montana)'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-19",
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-9c0c8093ae",
 "edgeLabel": "Its 10 November entry reports a sighting at Minot Air Force Station, not Minot AFB",
-"family": null,
+"family": "documents",
 "id": "l-minot",
 "l0": false,
 "label": "Minot AFB, North Dakota",
 "note": "The entry's own next clause says the object 'passed over the radar station'. This edge exists so the ambiguity is visible on the hub rather than assumed away.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-19",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-247362e85a",
 "edgeLabel": "The log IS the event's record; there is no separate report",
-"family": null,
+"family": "documents",
 "id": "malmstrom-1975",
 "l0": false,
 "label": "Malmstrom missile-field overflights, 7 to 19 November 1975",
 "note": "A continuous operational log kept by air defence controllers, released over a USAF colonel's signature.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-19",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -119,13 +119,13 @@
 "direction": "in",
 "edgeId": "e-c8394a3a8c",
 "edgeLabel": "Produced by the 24th NORAD Region's own senior directors",
-"family": null,
+"family": "documents",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -135,7 +135,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -145,13 +145,13 @@
 "direction": "in",
 "edgeId": "e-2f1d027c6b",
 "edgeLabel": "Republishes the NORAD log; the documentary half of his output checks out",
-"family": null,
+"family": "documents",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -166,7 +166,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "was published by"
 }
 ],
 "coords": null,

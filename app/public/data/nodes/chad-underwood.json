@@ -57,13 +57,13 @@
 "direction": "out",
 "edgeId": "e-934b118721",
 "edgeLabel": "Underwood produced the FLIR1 tape on a follow-on sortie",
-"family": null,
+"family": "organisation",
 "id": "flir1-video",
 "l0": false,
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "Consistently reported since 2019 and never disputed by the Navy or Fravor, but not anchored to a primary record in this pass.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -73,7 +73,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 3,
@@ -83,13 +83,13 @@
 "direction": "out",
 "edgeId": "e-841812283a",
 "edgeLabel": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
-"family": null,
+"family": "testimony",
 "id": "flir1-video",
 "l0": false,
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2004-11-14",

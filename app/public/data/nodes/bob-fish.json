@@ -56,13 +56,13 @@
 "direction": "out",
 "edgeId": "e-5b4f4b72a7",
 "edgeLabel": "Named DSP as a programme collecting hard data on unidentified flying objects",
-"family": null,
+"family": "testimony",
 "id": "defense-support-program",
 "l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Fish's DSP claim is the source of the popular equation of DSP with UFO tracking, and the same email undercuts it by saying he was never fully briefed into the programme.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-03-06",
@@ -72,7 +72,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -82,13 +82,13 @@
 "direction": "out",
 "edgeId": "e-3e6bc6c54c",
 "edgeLabel": "Wrote to Podesta over three days in March 2015 offering programme names",
-"family": null,
+"family": "testimony",
 "id": "john-podesta",
 "l0": false,
 "label": "John D. Podesta",
 "note": "Fish wrote to Podesta directly over three days in March 2015 offering programme names; Podesta replied once and forwarded one email onward.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-03-06",
@@ -98,7 +98,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "passed an account to"
 },
 {
 "claimTier": 1,
@@ -108,13 +108,13 @@
 "direction": "out",
 "edgeId": "e-5470a9e8e4",
 "edgeLabel": "Podesta forwarded his DSP email to Kean on 6 March 2015",
-"family": null,
+"family": "testimony",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "Podesta forwarded Fish's DSP email to Kean on 6 March 2015 with the single word 'FYI', and Fish says he had emailed Kean ten days earlier without reply.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-03-06",
@@ -124,7 +124,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "passed an account to"
 },
 {
 "claimTier": 1,
@@ -134,13 +134,13 @@
 "direction": "out",
 "edgeId": "e-153ea784dc",
 "edgeLabel": "A second named correspondent inside the same release, read with raw headers",
-"family": null,
+"family": "documents",
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "Same release and same instrument: a second named correspondent inside the Podesta Emails, read with raw headers.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2015-03-06",
@@ -150,7 +150,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -160,13 +160,13 @@
 "direction": "out",
 "edgeId": "e-5096f41ee1",
 "edgeLabel": "Relayed a claim that Blue Book continued after 1970 with only its public layer removed",
-"family": null,
+"family": "testimony",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Fish's email of 6 March 2015 relays a claim that Project Blue Book was not disbanded in 1970 and that only the outer layer of the onion, the public information layer, was stripped away. The edge records that he put this to Podesta; it does not assert the claim. Typed investigative rather than the draft's denial: nobody denies anything in the document, and denial styling would say otherwise.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-03-06",
@@ -176,7 +176,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "made claims about"
 }
 ],
 "date": "2015-03-06",

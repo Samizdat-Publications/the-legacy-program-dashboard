@@ -47,13 +47,13 @@
 "direction": "in",
 "edgeId": "e-16faf59c72",
 "edgeLabel": "Names the Sperry Gyroscope Division of Sperry-Rand among the firms on the gravity problem",
-"family": null,
+"family": "documents",
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series names the Sperry Gyroscope Division of Sperry-Rand Corp. among the firms with scientists investigating the gravity problem, which is a documented attachment for a node the 30 August pass left deliberately unattached.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is the subject of"
 }
 ],
 "coords": null,

@@ -109,13 +109,13 @@
 "direction": "out",
 "edgeId": "e-50bccd2233",
 "edgeLabel": "Thirty-year acquaintance who records the same discrepancies from the record",
-"family": null,
+"family": "denial",
 "id": "clifford-stone",
 "l0": false,
 "label": "Clifford E. Stone",
 "note": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-02-14",
@@ -125,7 +125,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -135,13 +135,13 @@
 "direction": "out",
 "edgeId": "e-c3b4efeb70",
 "edgeLabel": "Co-authors of the two Roswell books, later estranged",
-"family": null,
+"family": "role",
 "id": "don-schmitt",
 "l0": false,
 "label": "Donald R. Schmitt",
 "note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1994-01-01",
@@ -151,7 +151,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "worked with"
 },
 {
 "claimTier": 3,
@@ -161,13 +161,13 @@
 "direction": "in",
 "edgeId": "e-8dfef71261",
 "edgeLabel": "Randle's case-by-case surveys audit Stringfield's corpus",
-"family": null,
+"family": "documents",
 "id": "leonard-stringfield",
 "l0": false,
 "label": "Leonard H. Stringfield",
 "note": "'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "studied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -177,7 +177,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "studied"
 },
 {
 "claimTier": 3,
@@ -187,13 +187,13 @@
 "direction": "in",
 "edgeId": "e-62b6651927",
 "edgeLabel": "The Air Force reports were the institutional response to the Randle-Schmitt books",
-"family": null,
+"family": "denial",
 "id": "richard-weaver-usaf",
 "l0": false,
 "label": "Col. Richard L. Weaver",
 "note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "disputed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -203,7 +203,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": null
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -213,13 +213,13 @@
 "direction": "in",
 "edgeId": "e-2ee2bc759c",
 "edgeLabel": "Unresolved dispute over MJ-12 authenticity",
-"family": null,
+"family": "testimony",
 "id": "stanton-friedman",
 "l0": false,
 "label": "Stanton T. Friedman",
 "note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -229,7 +229,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "is contradicted by"
 },
 {
 "claimTier": 2,
@@ -239,13 +239,13 @@
 "direction": "in",
 "edgeId": "e-3efb6ca3ff",
 "edgeLabel": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
-"family": null,
+"family": "documents",
 "id": "william-l-moore",
 "l0": false,
 "label": "William L. Moore",
 "note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -255,7 +255,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "cites"
 }
 ],
 "date": "1949-06-04",

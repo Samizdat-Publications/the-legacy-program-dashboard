@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-405ff075e9",
 "edgeLabel": "Records an AFOSI inquiry into possible mishandling of classified material",
-"family": null,
+"family": "documents",
 "id": "afosi",
 "l0": true,
 "label": "Air Force Office of Special Investigations",
 "note": "AFOSI examined the video handling and concluded the material was unclassified, closing the matter. Elizondo later alleged the inquiry was orchestrated against him.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-08-22",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-81fcba39b6",
 "edgeLabel": "Author of both December 2017 memoranda",
-"family": null,
+"family": "documents",
 "id": "garry-reid",
 "l0": false,
 "label": "Garry P. Reid",
 "note": "Reid wrote the memorandum for record and the memorandum for the Secretary asserting Elizondo 'aggrandized his role'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-08-17",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -87,13 +87,13 @@
 "direction": "out",
 "edgeId": "e-f32d2ac604",
 "edgeLabel": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'",
-"family": null,
+"family": "denial",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The first written denial of Elizondo's program role, produced inside OUSD(I) within a week of the NYT story and routed to the Secretary of Defense. Every later public denial restates it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-08-17",
@@ -108,7 +108,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "denied"
 }
 ],
 "coords": null,

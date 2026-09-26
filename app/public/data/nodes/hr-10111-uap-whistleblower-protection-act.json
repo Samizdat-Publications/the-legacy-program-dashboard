@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-b0fc975d66",
 "edgeLabel": "Cosponsor",
-"family": null,
+"family": "law",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Congress.gov cosponsor record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-12",
@@ -39,7 +39,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "was sponsored by"
 },
 {
 "claimTier": 1,
@@ -49,13 +49,13 @@
 "direction": "in",
 "edgeId": "e-2d118c74de",
 "edgeLabel": "Cosponsor",
-"family": null,
+"family": "law",
 "id": "nancy-mace",
 "l0": false,
 "label": "Nancy Ruth Mace",
 "note": "Congress.gov cosponsor record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-12",
@@ -65,7 +65,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "was sponsored by"
 },
 {
 "claimTier": 1,
@@ -75,13 +75,13 @@
 "direction": "in",
 "edgeId": "e-dbaee75587",
 "edgeLabel": "Sponsor",
-"family": null,
+"family": "law",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Introduced 12 November 2024, the day before the Oversight hearing.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-12",
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "was sponsored by"
 }
 ],
 "coords": null,

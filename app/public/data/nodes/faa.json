@@ -71,13 +71,13 @@
 "direction": "in",
 "edgeId": "e-ea77c3a2c4",
 "edgeLabel": "The agency investigated it, issued a finding and created the file",
-"family": null,
+"family": "oversight",
 "id": "jal-1628-1986",
 "l0": false,
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001",
@@ -92,7 +92,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 2,
@@ -102,13 +102,13 @@
 "direction": "in",
 "edgeId": "e-799c409440",
 "edgeLabel": "FAA Washington headquarters management post, mid-1980s; title disputed",
-"family": null,
+"family": "role",
 "id": "john-callahan",
 "l0": false,
 "label": "John Callahan",
 "note": "Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2015-10",
@@ -123,7 +123,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -133,13 +133,13 @@
 "direction": "out",
 "edgeId": "e-e195651a65",
 "edgeLabel": "First-listed contributing agency; series NAID 493468575, 575 PDF files, restricted in part",
-"family": null,
+"family": "custody",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The FAA's transferred UAP records sit in Record Group 615 as series NAID 493468575, one of eight agency series NARA lists in the collection.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "transferred",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-28",
@@ -154,7 +154,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": null
+"verb": "passed records or material to"
 },
 {
 "claimTier": 1,
@@ -164,13 +164,13 @@
 "direction": "out",
 "edgeId": "e-9073ba103c",
 "edgeLabel": "NARA holds and describes the FAA series at College Park, Electronic Records",
-"family": null,
+"family": "custody",
 "id": "national-archives",
 "l0": false,
 "label": "National Archives and Records Administration",
 "note": "NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -180,7 +180,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "is held by"
 }
 ],
 "coords": null,

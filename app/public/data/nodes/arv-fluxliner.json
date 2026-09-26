@@ -105,13 +105,13 @@
 "direction": "in",
 "edgeId": "e-c72c263707",
 "edgeLabel": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
-"family": null,
+"family": "documents",
 "id": "arvp-fluxliner-project",
 "l0": false,
 "label": "ARVP (arvp.co.uk), the Flux Liner project site",
 "note": "The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "studied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -126,7 +126,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "was studied by"
 },
 {
 "claimTier": 2,
@@ -136,13 +136,13 @@
 "direction": "in",
 "edgeId": "e-e17e072da8",
 "edgeLabel": "Sole claimed eyewitness to the three craft",
-"family": null,
+"family": "testimony",
 "id": "brad-sorensen",
 "l0": false,
 "label": "'Brad' Sorensen",
 "note": "Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1990-12-11",
@@ -152,7 +152,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -162,13 +162,13 @@
 "direction": "in",
 "edgeId": "e-c1325a6e0d",
 "edgeLabel": "Says no such craft exists and none has ever been built",
-"family": null,
+"family": "denial",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "denied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-12",
@@ -178,7 +178,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was denied by"
 },
 {
 "claimTier": 1,
@@ -188,13 +188,13 @@
 "direction": "in",
 "edgeId": "e-fffece6570",
 "edgeLabel": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
-"family": null,
+"family": "testimony",
 "id": "king-patent-mhd",
 "l0": false,
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contradicts",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1967-05-30",
@@ -204,7 +204,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": null
+"verb": "is contradicted by"
 },
 {
 "claimTier": 2,
@@ -214,13 +214,13 @@
 "direction": "in",
 "edgeId": "e-278dfd223f",
 "edgeLabel": "The illustrator and relayer who drew the claimed craft and named it in print",
-"family": null,
+"family": "testimony",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "He is not a witness to the craft. He drew it from a friend's verbal description a week after the claimed event, and his 2001 testimony is where it acquires the names Alien Reproduction Vehicle and Flux Liner in print.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -235,7 +235,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -245,13 +245,13 @@
 "direction": "in",
 "edgeId": "e-1ddb953720",
 "edgeLabel": "Earliest opened record of the claimed craft",
-"family": null,
+"family": "documents",
 "id": "scott-sorensen-notes-1990",
 "l0": false,
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1990-12-11",
@@ -261,7 +261,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -271,13 +271,13 @@
 "direction": "in",
 "edgeId": "e-0b4aa2604c",
 "edgeLabel": "The account's claimed lift lineage, which the patents themselves do not support",
-"family": null,
+"family": "testimony",
 "id": "thomas-townsend-brown",
 "l0": false,
 "label": "Thomas Townsend Brown",
 "note": "THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. McCandlish attributes the claimed effect to 'a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown', which on the board's own record is one of those two.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2001-04",
@@ -287,7 +287,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,
@@ -297,13 +297,13 @@
 "direction": "in",
 "edgeId": "e-9c7f8f9791",
 "edgeLabel": "A feature documentary carrying the claim to a later audience",
-"family": null,
+"family": "media",
 "id": "zero-point-documentary",
 "l0": false,
 "label": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
 "note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "reported_on",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -318,7 +318,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was reported on by"
 }
 ],
 "coords": null,

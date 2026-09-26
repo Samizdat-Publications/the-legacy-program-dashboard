@@ -65,13 +65,13 @@
 "direction": "in",
 "edgeId": "e-2e1ec628d0",
 "edgeLabel": "commissioned under AAWSAP; 'Defense Futures' series",
-"family": null,
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -101,13 +101,13 @@
 "direction": "out",
 "edgeId": "e-3fd8bb96b7",
 "edgeLabel": "subject domain: sensing and tracking at hypersonic velocity",
-"family": null,
+"family": "analysis",
 "id": "d-signals",
 "l0": false,
 "label": "Signals & Sensor Intelligence",
 "note": "The sensor-side counterpart to Leonhardt's cloaking DIRD: one asks how an object could be made undetectable, the other how an object moving at hypersonic velocity could nevertheless be tracked at high resolution. Together they bracket the observability problem that any UAP sensor programme has to solve.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -122,7 +122,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -132,13 +132,13 @@
 "direction": "in",
 "edgeId": "e-8d01f3936f",
 "edgeLabel": "DIRD",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -148,7 +148,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -158,13 +158,13 @@
 "direction": "in",
 "edgeId": "e-dc49e27093",
 "edgeLabel": "series member",
-"family": null,
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1012-001. Publication date 20 November 2010 on the cover. 47 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -179,7 +179,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -189,13 +189,13 @@
 "direction": "out",
 "edgeId": "e-58671c0c8b",
 "edgeLabel": "authored by William Culbreth, UNLV",
-"family": null,
+"family": "documents",
 "id": "william-culbreth",
 "l0": false,
 "label": "William Culbreth",
 "note": "The DIA list of 9 January 2018 records 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities, Dr W Culbreth, Univ of Nevada-Las Vegas.' The released PDF's author block is redacted under (b)(6). Culbreth also wrote 'Aneutronic Fusion Propulsion II'. He is among the few DIRD authors to have discussed the work publicly, in a 2019 interview with George Knapp.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -230,7 +230,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": null
+"verb": "was written by"
 }
 ],
 "coords": null,

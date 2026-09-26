@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-b3dd3dbc45",
 "edgeLabel": "Routes every special activity to the President through an NSC committee",
-"family": null,
+"family": "law",
 "id": "national-security-council",
 "l0": false,
 "label": "National Security Council",
 "note": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "mandated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -63,7 +63,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-dcaebb1439",
 "edgeLabel": "Fully and currently informed, and expressly not a condition precedent",
-"family": null,
+"family": "law",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "governs"
 }
 ],
 "coords": null,

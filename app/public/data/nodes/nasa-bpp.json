@@ -47,13 +47,13 @@
 "direction": "in",
 "edgeId": "e-5c7625eb62",
 "edgeLabel": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
-"family": null,
+"family": "role",
 "id": "marc-millis",
 "l0": false,
 "label": "Marc G. Millis",
 "note": "NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and is the project's own summary of its methods and findings. This is an earlier and stronger institutional fact about him than the AAWSAP DIRD authorship the board already carries.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2004",
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -73,13 +73,13 @@
 "direction": "in",
 "edgeId": "e-63679eb61d",
 "edgeLabel": "The published summary of the project's methods and findings",
-"family": null,
+"family": "organisation",
 "id": "millis-tm-2004-213082",
 "l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2004",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-1382ddfcca",
 "edgeLabel": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
-"family": null,
+"family": "organisation",
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "From the project's own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2004",
@@ -115,7 +115,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 }
 ],
 "coords": null,

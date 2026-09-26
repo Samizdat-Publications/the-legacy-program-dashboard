@@ -127,13 +127,13 @@
 "direction": "out",
 "edgeId": "e-3efb6ca3ff",
 "edgeLabel": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
-"family": null,
+"family": "documents",
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -143,7 +143,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": null
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -153,13 +153,13 @@
 "direction": "out",
 "edgeId": "e-a5debf93b7",
 "edgeLabel": "The archive's core corpus entered the record through Moore's mailbox",
-"family": null,
+"family": "testimony",
 "id": "majestic-documents-archive",
 "l0": false,
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -169,7 +169,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -179,13 +179,13 @@
 "direction": "out",
 "edgeId": "e-d0563484da",
 "edgeLabel": "Moore controlled the MJ-12 material's release with Shandera and Friedman",
-"family": null,
+"family": "documents",
 "id": "mj-12-documents",
 "l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "released",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -200,7 +200,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "released"
 },
 {
 "claimTier": 2,
@@ -210,13 +210,13 @@
 "direction": "out",
 "edgeId": "e-1d0d6f81d0",
 "edgeLabel": "Made the AFOSI disinformation admission from the MUFON platform",
-"family": null,
+"family": "media",
 "id": "mufon",
 "l0": false,
 "label": "Mutual UFO Network (MUFON)",
 "note": "Moore chose the 1989 MUFON symposium in Las Vegas to state that he had cooperated with Air Force Office of Special Investigations personnel and passed disinformation to Paul Bennewitz.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1989-07-01",
@@ -226,7 +226,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "appeared on"
 },
 {
 "claimTier": 2,
@@ -236,13 +236,13 @@
 "direction": "out",
 "edgeId": "e-7f12f29aca",
 "edgeLabel": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
-"family": null,
+"family": "conduct",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty's parallel statements have since been partly retracted by him. Any claim about Moore's conduct sourced to Bishop's Project Beta carries the participant-account caveat.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acted_against",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-11-29",
@@ -257,7 +257,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "took action against"
 },
 {
 "claimTier": 2,
@@ -267,13 +267,13 @@
 "direction": "in",
 "edgeId": "e-70687ef611",
 "edgeLabel": "Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz",
-"family": null,
+"family": "testimony",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "acknowledged",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -288,7 +288,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": null
+"verb": "acknowledged"
 },
 {
 "claimTier": 2,
@@ -298,13 +298,13 @@
 "direction": "out",
 "edgeId": "e-9d050e82b0",
 "edgeLabel": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
-"family": null,
+"family": "testimony",
 "id": "stanton-friedman",
 "l0": false,
 "label": "Stanton T. Friedman",
 "note": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -314,7 +314,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "passed an account to"
 },
 {
 "claimTier": 1,
@@ -324,13 +324,13 @@
 "direction": "out",
 "edgeId": "e-6e1d327b8f",
 "edgeLabel": "Co-authored the founding Roswell book",
-"family": null,
+"family": "documents",
 "id": "the-roswell-incident-1980",
 "l0": false,
 "label": "The Roswell Incident (Berlitz and Moore, 1980)",
 "note": "Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1980-01-01",
@@ -340,7 +340,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "1990-01-01",

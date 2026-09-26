@@ -59,13 +59,13 @@
 "direction": "in",
 "edgeId": "e-eb24f486d7",
 "edgeLabel": "Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes",
-"family": null,
+"family": "testimony",
 "id": "alex-dietrich",
 "l0": false,
 "label": "Alex Dietrich",
 "note": "Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -80,7 +80,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -90,13 +90,13 @@
 "direction": "in",
 "edgeId": "e-4f30a6321e",
 "edgeLabel": "Intercepted the object as CO of VFA-41 on 14 Nov 2004",
-"family": null,
+"family": "testimony",
 "id": "david-fravor",
 "l0": false,
 "label": "David Fravor",
 "note": "Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -111,7 +111,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "in",
 "edgeId": "e-fb91856787",
 "edgeLabel": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
-"family": null,
+"family": "organisation",
 "id": "flir1-video",
 "l0": false,
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -142,7 +142,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "produced"
 },
 {
 "claimTier": 3,
@@ -152,13 +152,13 @@
 "direction": "in",
 "edgeId": "e-6df1206402",
 "edgeLabel": "Voorhis describes removal or wiping of Princeton recording media",
-"family": null,
+"family": "testimony",
 "id": "gary-voorhis",
 "l0": false,
 "label": "Gary Voorhis",
 "note": "Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-13",
@@ -168,7 +168,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -178,13 +178,13 @@
 "direction": "out",
 "edgeId": "e-1129541b03",
 "edgeLabel": "Fravor testified to the 2004 encounter under oath in 2023",
-"family": null,
+"family": "testimony",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Fravor's written statement placed on the record that the incident was never investigated, no crew were questioned and no tapes were taken.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -199,7 +199,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": null
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 3,
@@ -209,13 +209,13 @@
 "direction": "in",
 "edgeId": "e-06b6b97b02",
 "edgeLabel": "Turner independently corroborates the confiscation window",
-"family": null,
+"family": "testimony",
 "id": "jason-turner",
 "l0": false,
 "label": "Jason Turner",
 "note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-13",
@@ -225,7 +225,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -235,13 +235,13 @@
 "direction": "in",
 "edgeId": "e-f8987b3cf1",
 "edgeLabel": "Ran the Princeton air picture and vectored the intercept",
-"family": null,
+"family": "testimony",
 "id": "kevin-day",
 "l0": false,
 "label": "Kevin Day",
 "note": "As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -251,7 +251,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -261,13 +261,13 @@
 "direction": "in",
 "edgeId": "e-99b6e49833",
 "edgeLabel": "Same operating areas, fifteen years apart, same failure to attribute",
-"family": null,
+"family": "analysis",
 "id": "kidd-russell-2019",
 "l0": false,
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "note": "Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-05-23",
@@ -282,7 +282,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -292,13 +292,13 @@
 "direction": "out",
 "edgeId": "e-5f8cf9740d",
 "edgeLabel": "The encounters occurred in the Southern California operating areas",
-"family": null,
+"family": "place-time",
 "id": "l-socal-oparea",
 "l0": false,
 "label": "Southern California Operating Areas (W-291 and Baja approaches)",
 "note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -313,7 +313,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": null
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -323,13 +323,13 @@
 "direction": "out",
 "edgeId": "e-a6b2741ac6",
 "edgeLabel": "The 2004 incident is formally documented in the Navy's own range fouler reporting",
-"family": null,
+"family": "documents",
 "id": "navy-range-fouler-reports",
 "l0": false,
 "label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
 "note": "The January 2023 FOIA release proves the encounter was reported inside the Navy through intelligence personnel and then died at Third Fleet with no dissemination process.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -339,7 +339,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -349,13 +349,13 @@
 "direction": "in",
 "edgeId": "e-d9f8e9d29b",
 "edgeLabel": "Congress set 1 January 2004 as the retroactive intercept floor",
-"family": null,
+"family": "documents",
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-18",
@@ -365,7 +365,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -375,13 +375,13 @@
 "direction": "out",
 "edgeId": "e-b02e9096ea",
 "edgeLabel": "The Nimitz footage was the visual centrepiece of the 2017 disclosure",
-"family": null,
+"family": "documents",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The New York Times published the November 2004 footage alongside the AATIP revelation, converting a shelved incident into a national accountability story.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-16",
@@ -391,7 +391,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -401,13 +401,13 @@
 "direction": "in",
 "edgeId": "e-c73193d0cb",
 "edgeLabel": "Assessment window opens with the Nimitz encounter",
-"family": null,
+"family": "documents",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The assessment's date range begins November 2004 - the month of the Nimitz intercept - and it resolved only one of 144 reports with high confidence.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -417,7 +417,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -427,13 +427,13 @@
 "direction": "in",
 "edgeId": "e-4e00f1c429",
 "edgeLabel": "Nimitz encounter analysed quantitatively in a peer-reviewed physics journal",
-"family": null,
+"family": "documents",
 "id": "paper-knuth-powell-reali-2019",
 "l0": false,
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "studied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-25",
@@ -443,7 +443,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "was studied by"
 },
 {
 "claimTier": 1,
@@ -453,13 +453,13 @@
 "direction": "in",
 "edgeId": "e-bc73ec646e",
 "edgeLabel": "Raytheon-built ATFLIR pod produced the FLIR1 record",
-"family": null,
+"family": "organisation",
 "id": "raytheon",
 "l0": false,
 "label": "Raytheon (RTX Corporation)",
 "note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-05-20",
@@ -484,7 +484,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -494,13 +494,13 @@
 "direction": "in",
 "edgeId": "e-5c89b52f4e",
 "edgeLabel": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
-"family": null,
+"family": "organisation",
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -520,7 +520,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 2,
@@ -530,13 +530,13 @@
 "direction": "in",
 "edgeId": "e-9c209c896b",
 "edgeLabel": "Same warning-area complex, same object morphology, nineteen years later",
-"family": null,
+"family": "analysis",
 "id": "uss-jackson-2023",
 "l0": false,
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "A transmedium tic-tac-shaped object in W-291 in February 2023 repeats the November 2004 description in the same Southern California naval training space, with no published government assessment of either sensor record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -551,7 +551,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -561,13 +561,13 @@
 "direction": "in",
 "edgeId": "e-74535c77a4",
 "edgeLabel": "Generated the primary sensor record of the encounter; no such data has ever been released",
-"family": null,
+"family": "organisation",
 "id": "uss-princeton",
 "l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -582,7 +582,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -592,13 +592,13 @@
 "direction": "in",
 "edgeId": "e-523fabda6a",
 "edgeLabel": "Princeton's SPY-1B held the tracks and vectored the intercept",
-"family": null,
+"family": "testimony",
 "id": "uss-princeton",
 "l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -608,7 +608,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -618,13 +618,13 @@
 "direction": "in",
 "edgeId": "e-a750f13b93",
 "edgeLabel": "Same year, opposite ocean, same record-destruction behaviour",
-"family": null,
+"family": "analysis",
 "id": "uss-reagan-2004",
 "l0": false,
 "label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
 "note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2022-05-09",
@@ -639,7 +639,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": null
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -649,13 +649,13 @@
 "direction": "in",
 "edgeId": "e-d4bfb2b551",
 "edgeLabel": "Squadron that flew the intercept and produced the FLIR1 footage",
-"family": null,
+"family": "testimony",
 "id": "vfa-41",
 "l0": false,
 "label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
 "note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -670,7 +670,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

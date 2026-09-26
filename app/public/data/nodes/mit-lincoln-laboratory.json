@@ -65,13 +65,13 @@
 "direction": "out",
 "edgeId": "e-04ec404a1a",
 "edgeLabel": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
-"family": null,
+"family": "custody",
 "id": "af-atic-film-0352",
 "l0": false,
 "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
 "note": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-25",
@@ -81,7 +81,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": null
+"verb": "holds"
 },
 {
 "claimTier": 2,
@@ -91,13 +91,13 @@
 "direction": "in",
 "edgeId": "e-06aa97393e",
 "edgeLabel": "Beacon Hill was convened in the MIT/Lincoln Laboratory complex for the Air Force",
-"family": null,
+"family": "place-time",
 "id": "beacon-hill-study",
 "l0": false,
 "label": "Project Beacon Hill",
 "note": "The study shaped US overhead reconnaissance and its records sit in institutional rather than federal custody.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-26",
@@ -107,7 +107,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -117,13 +117,13 @@
 "direction": "in",
 "edgeId": "e-f4e7280b62",
 "edgeLabel": "Extracted an acknowledgment of existence and an agreement to produce from an FFRDC",
-"family": null,
+"family": "oversight",
 "id": "burlison-mit-lincoln-letter-2026",
 "l0": false,
 "label": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
 "note": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available - the first documented FFRDC production commitment in response to a UAP congressional demand.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-29",
@@ -133,7 +133,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": null
+"verb": "received a request from"
 },
 {
 "claimTier": 1,
@@ -143,13 +143,13 @@
 "direction": "in",
 "edgeId": "e-56c072c9ea",
 "edgeLabel": "8 May 2026 letter demanding the 1952 Ruppelt recording by file designation",
-"family": null,
+"family": "oversight",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison asked Lincoln Laboratory to determine the status of 'AF-ATIC-FILM, 03/52' and coordinate with NARA on preservation and archival review.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "requested",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-08",
@@ -159,7 +159,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "received a request from"
 },
 {
 "claimTier": 1,
@@ -169,13 +169,13 @@
 "direction": "in",
 "edgeId": "e-dab49b0f8e",
 "edgeLabel": "MITRE was spun out of Lincoln Laboratory Division 6 in 1958",
-"family": null,
+"family": "role",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "founded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -190,7 +190,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "founded"
 }
 ],
 "coords": null,

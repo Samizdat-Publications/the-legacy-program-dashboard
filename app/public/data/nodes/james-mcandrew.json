@@ -54,13 +54,13 @@
 "direction": "out",
 "edgeId": "e-bec78d693e",
 "edgeLabel": "Wrote Attachment 32, the Project Mogul synopsis",
-"family": null,
+"family": "documents",
 "id": "roswell-report-1995",
 "l0": false,
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "note": "The DTIC abstract identifies Attachment 32 as McAndrew's synopsis describing Project Mogul as the explanation for the Roswell Incident.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-01-01",
@@ -70,7 +70,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -80,13 +80,13 @@
 "direction": "out",
 "edgeId": "e-d0423c963d",
 "edgeLabel": "Sole author of the 1997 bodies report",
-"family": null,
+"family": "documents",
 "id": "roswell-report-case-closed",
 "l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -96,7 +96,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "wrote"
 }
 ],
 "date": "1963",

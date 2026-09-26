@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-ce2dbe2b68",
 "edgeLabel": "Kosloski's statement for the record does not mention Immaculate Constellation",
-"family": null,
+"family": "denial",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The alleged programme had been entered into the congressional record weeks earlier and described in an ODNI unclassified press item of 22 October 2024; AARO's director addressed the Senate six days after the House hearing without naming it.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "omitted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-19",
@@ -56,7 +56,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "leaves out"
 },
 {
 "claimTier": 1,
@@ -66,13 +66,13 @@
 "direction": "in",
 "edgeId": "e-f31a78d73a",
 "edgeLabel": "first congressional testimony as AARO director",
-"family": null,
+"family": "testimony",
 "id": "jon-kosloski",
 "l0": false,
 "label": "Jon T. Kosloski",
 "note": "Kosloski's statement for the record puts holdings at over 1,600 reports and delivers the standard no-verifiable-evidence formula.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "testified_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-19",
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "heard testimony from"
 }
 ],
 "coords": null,

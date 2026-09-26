@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-4f85109602",
 "edgeLabel": "Its Security Support Detachment was the CENTER LANE project office",
-"family": null,
+"family": "organisation",
 "id": "center-lane",
 "l0": false,
 "label": "CENTER LANE",
 "note": "The detachment's office symbol IAGPA-F-SD heads both the April 1984 GDIP submission signed by the CENTER LANE Project Manager and the July 1984 information paper on the project's cancellation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1984-07-13",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-7bc0fbde72",
 "edgeLabel": "Subordinate group of USAINSCOM at Fort George G. Meade",
-"family": null,
+"family": "organisation",
 "id": "inscom",
 "l0": true,
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "The group's own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1984-04-04",
@@ -77,7 +77,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 }
 ],
 "coords": null,

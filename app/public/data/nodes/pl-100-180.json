@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-6bedda1762",
 "edgeLabel": "Enacted section 119 on 4 December 1987",
-"family": null,
+"family": "law",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Source credit to 10 U.S.C. 119: added by Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), 101 Stat. 1151.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "created",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "created"
 }
 ],
 "coords": null,

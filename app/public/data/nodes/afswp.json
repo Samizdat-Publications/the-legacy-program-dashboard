@@ -59,13 +59,13 @@
 "direction": "out",
 "edgeId": "e-e5de18fd08",
 "edgeLabel": "Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee",
-"family": null,
+"family": "money",
 "id": "atomic-energy-commission",
 "l0": true,
 "label": "Atomic Energy Commission",
 "note": "The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "funded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-03-18",
@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "was funded by"
 },
 {
 "claimTier": 1,
@@ -85,13 +85,13 @@
 "direction": "out",
 "edgeId": "e-d2d1f1abb5",
 "edgeLabel": "Subsumed under the National Military Establishment in 1947 and the Department of Defense in 1949",
-"family": null,
+"family": "organisation",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The NARA record group description records AFSWP as an interservice agency from January to July 1947, under the National Military Establishment from July 1947 to August 1949, and under the Department of Defense from 1949 to 1959.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -101,7 +101,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -111,13 +111,13 @@
 "direction": "in",
 "edgeId": "e-3e370ea9c5",
 "edgeLabel": "First Chief, AFSWP",
-"family": null,
+"family": "role",
 "id": "leslie-r-groves",
 "l0": false,
 "label": "Lt. Gen. Leslie R. Groves",
 "note": "The agency's own chronology dates the appointment and the retirement to the day, and gives the promotion to Lieutenant General on 24 January 1948 while in post.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2002-01-01",
@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -137,13 +137,13 @@
 "direction": "in",
 "edgeId": "e-8494c52acb",
 "edgeLabel": "Named AFSWP as the reason the new agency was renamed",
-"family": null,
+"family": "place-time",
 "id": "neil-h-mcelroy",
 "l0": false,
 "label": "Neil H. McElroy",
 "note": "The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-12-01",
@@ -153,7 +153,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": null
+"verb": "drew a response from"
 },
 {
 "claimTier": 1,
@@ -163,13 +163,13 @@
 "direction": "out",
 "edgeId": "e-04e9f9ed87",
 "edgeLabel": "Sandia Base operations and the 1947 split of security and intelligence duties with the AEC",
-"family": null,
+"family": "place-time",
 "id": "sandia",
 "l0": true,
 "label": "Sandia National Laboratories",
 "note": "The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2002-01-01",
@@ -179,7 +179,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 }
 ],
 "coords": null,

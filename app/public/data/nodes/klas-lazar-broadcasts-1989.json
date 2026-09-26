@@ -41,13 +41,13 @@
 "direction": "in",
 "edgeId": "e-f0fb54b643",
 "edgeLabel": "Reporter and author of the broadcasts",
-"family": null,
+"family": "documents",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1990-06-19",
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-203404d18c",
 "edgeLabel": "Its own broadcasts",
-"family": null,
+"family": "documents",
 "id": "klas-tv",
 "l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1990-06-19",
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was published by"
 },
 {
 "claimTier": 3,
@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-077e74214f",
 "edgeLabel": "The original broadcast artefact of the claim",
-"family": null,
+"family": "testimony",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-18",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "made claims about"
 }
 ],
 "coords": null,

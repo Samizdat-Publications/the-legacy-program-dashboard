@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-af1d0af165",
 "edgeLabel": "Kirtland AFB lies inside the Albuquerque city limits",
-"family": null,
+"family": "organisation",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": null
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "in",
 "edgeId": "e-59c3d9301d",
 "edgeLabel": "LaPaz investigated the green fireballs from the University of New Mexico",
-"family": null,
+"family": "place-time",
 "id": "lincoln-lapaz",
 "l0": false,
 "label": "Lincoln LaPaz",
 "note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": null
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -87,13 +87,13 @@
 "direction": "in",
 "edgeId": "e-777c821f64",
 "edgeLabel": "Schiff's New Mexico district inquiry produced the GAO Roswell audit",
-"family": null,
+"family": "role",
 "id": "steven-schiff",
 "l0": false,
 "label": "Steven H. Schiff",
 "note": "Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-07-28",
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "had in a post"
 }
 ],
 "coords": [

@@ -23,13 +23,13 @@
 "direction": "out",
 "edgeId": "e-15c6faaab0",
 "edgeLabel": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
-"family": null,
+"family": "organisation",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -39,7 +39,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -49,13 +49,13 @@
 "direction": "in",
 "edgeId": "e-f03315e434",
 "edgeLabel": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
-"family": null,
+"family": "organisation",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "AARO's own history records the contract, the questionnaire and punch-card work, and the resulting Special Report No. 14.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -65,7 +65,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": null
+"verb": "was run by"
 }
 ],
 "coords": null,

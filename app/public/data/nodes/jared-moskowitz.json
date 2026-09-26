@@ -111,13 +111,13 @@
 "direction": "out",
 "edgeId": "e-5d54a26bc0",
 "edgeLabel": "'Disclosure today, disclosure tomorrow'",
-"family": null,
+"family": "media",
 "id": "capitol-disclosure-event-2026-06-09",
 "l0": false,
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "note": "Keeps the 2026 push bipartisan.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "appeared_on",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-09",
@@ -127,7 +127,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": null
+"verb": "appeared on"
 },
 {
 "claimTier": 1,
@@ -137,13 +137,13 @@
 "direction": "in",
 "edgeId": "e-32155ccff4",
 "edgeLabel": "Moskowitz read Schumer's disclosure language into the House record",
-"family": null,
+"family": "testimony",
 "id": "chuck-schumer",
 "l0": false,
 "label": "Charles E. Schumer",
 "note": "'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -153,7 +153,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": null
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -163,13 +163,13 @@
 "direction": "out",
 "edgeId": "e-ca2ea791ce",
 "edgeLabel": "Caucus member; the Democratic anchor",
-"family": null,
+"family": "role",
 "id": "congressional-uap-caucus",
 "l0": true,
 "label": "Congressional UAP Caucus",
 "note": "Described by The Hill as 'a member of the UAP Caucus.'",
-"predicate": null,
-"predicateSide": null,
+"predicate": "member_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-12",
@@ -179,7 +179,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -189,13 +189,13 @@
 "direction": "out",
 "edgeId": "e-557ee69215",
 "edgeLabel": "Asked whether contractor overcharging funds the concealed programs",
-"family": null,
+"family": "oversight",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Moskowitz's questioning produced the only sworn statement on how an unacknowledged program is paid for: misappropriation plus contractor internal research and development money that carries no congressional notification duty.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "questioned",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -210,7 +210,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": null
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -220,13 +220,13 @@
 "direction": "out",
 "edgeId": "e-9321ad51a1",
 "edgeLabel": "Cosponsor - the bipartisan half",
-"family": null,
+"family": "law",
 "id": "hr-1187-uap-transparency-act",
 "l0": false,
 "label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
 "note": "Congress.gov cosponsor record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "sponsored_law",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-11",
@@ -236,7 +236,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": null
+"verb": "sponsored"
 }
 ],
 "date": "2025-09-09",

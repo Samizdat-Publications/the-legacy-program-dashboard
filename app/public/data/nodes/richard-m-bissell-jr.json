@@ -50,13 +50,13 @@
 "direction": "out",
 "edgeId": "e-fe8ae68523",
 "edgeLabel": "Special Assistant to the DCI for Planning and Coordination from January 1954",
-"family": null,
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The Agency's own history names him in that post and records Dulles handing him the U-2 project in November 1954.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-06-25",
@@ -66,7 +66,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -76,13 +76,13 @@
 "direction": "out",
 "edgeId": "e-c4aec60c94",
 "edgeLabel": "Asked the AEC to absorb the land that became Area 51",
-"family": null,
+"family": "place-time",
 "id": "l-area51",
 "l0": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "note": "On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-06-25",
@@ -92,7 +92,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -102,13 +102,13 @@
 "direction": "out",
 "edgeId": "e-d3a62f4e9f",
 "edgeLabel": "Selected the site on 12 April 1955",
-"family": null,
+"family": "place-time",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-06-25",
@@ -118,7 +118,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": null
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -128,13 +128,13 @@
 "direction": "out",
 "edgeId": "e-cae517d5f7",
 "edgeLabel": "Ran the project Kelly Johnson built the aircraft for",
-"family": null,
+"family": "money",
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "contracted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-06-25",
@@ -144,7 +144,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": null
+"verb": "contracted"
 },
 {
 "claimTier": 1,
@@ -154,13 +154,13 @@
 "direction": "out",
 "edgeId": "e-cd01da85a1",
 "edgeLabel": "His project staff resolved Blue Book's reports and withheld the reason",
-"family": null,
+"family": "denial",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-06-25",
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "refused"
 }
 ],
 "date": "1955-04-12",

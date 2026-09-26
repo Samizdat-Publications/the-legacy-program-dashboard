@@ -23,13 +23,13 @@
 "direction": "in",
 "edgeId": "e-c8e8b97b87",
 "edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
-"family": null,
+"family": "documents",
 "id": "marie-galbraith",
 "l0": false,
 "label": "Marie 'Bootsie' Galbraith",
 "note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-16",
@@ -39,7 +39,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -49,13 +49,13 @@
 "direction": "in",
 "edgeId": "e-77559c56b0",
 "edgeLabel": "The briefing document was the initiative's principal instrument",
-"family": null,
+"family": "organisation",
 "id": "rockefeller-initiative",
 "l0": false,
 "label": "The Rockefeller UFO Disclosure Initiative",
 "note": "The document was deliberately written as a government-style assessment rather than a popular book.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-16",
@@ -70,7 +70,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": null
+"verb": "was produced by"
 }
 ],
 "coords": null,

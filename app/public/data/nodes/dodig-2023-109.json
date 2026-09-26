@@ -113,13 +113,13 @@
 "direction": "out",
 "edgeId": "e-af4812909f",
 "edgeLabel": "The IG found no department-wide UAP policy and component-level stovepipes",
-"family": null,
+"family": "oversight",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Eighteen months after AARO was made the Department's authoritative UAP office, the Inspector General found no requirement that components report to it - which makes AARO's holdings a self-selected sample.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-25",
@@ -139,7 +139,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -149,13 +149,13 @@
 "direction": "out",
 "edgeId": "e-342cb19cb6",
 "edgeLabel": "The full IG report on DoD's UAP handling remains classified",
-"family": null,
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The public has only an unclassified summary; the IG's own account of where the stovepipes sit has not been released, including through PURSUE.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-15",
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": null
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -180,13 +180,13 @@
 "direction": "out",
 "edgeId": "e-0e7ddcccfd",
 "edgeLabel": "IG found no comprehensive DoD approach, no response plan, and combatant commanders largely excluded",
-"family": null,
+"family": "oversight",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "DODIG-2023-109 documents structural incoherence across the Department on UAP, including inconsistent reporting systems such as the Air Force's Marauder.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-08-15",
@@ -196,7 +196,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -206,13 +206,13 @@
 "direction": "in",
 "edgeId": "e-cc2b42a391",
 "edgeLabel": "DoD OIG issued the only formal audit of the Department's UAP conduct",
-"family": null,
+"family": "organisation",
 "id": "dod-oig",
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-15",
@@ -222,7 +222,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "was produced by"
 },
 {
 "claimTier": 3,
@@ -232,13 +232,13 @@
 "direction": "in",
 "edgeId": "e-04968c55c9",
 "edgeLabel": "the data-sharing streamlining provision answers the IG's 2023 reporting-requirement finding",
-"family": null,
+"family": "place-time",
 "id": "ndaa26-uap-provisions",
 "l0": false,
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "The IG found components were not required to report to AARO; two years later Congress legislated to streamline agency data sharing into AARO investigations.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-25",
@@ -253,7 +253,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": null
+"verb": "drew a response from"
 },
 {
 "claimTier": 1,
@@ -263,13 +263,13 @@
 "direction": "in",
 "edgeId": "e-a35779b1d5",
 "edgeLabel": "The audit Congress has, and cannot read",
-"family": null,
+"family": "custody",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-15",
@@ -279,7 +279,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": null
+"verb": "is held by"
 }
 ],
 "coords": null,

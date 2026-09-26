@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-3dbc11c416",
 "edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
-"family": null,
+"family": "analysis",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "The FMR permits internal reprogramming on DD 1415-3 with no congressional action and below-threshold realignment with none at all; the FY2025 audit found more than $859 billion of adjustments in two quarters that could not be supported. The inference is that the undocumented volume is concentrated in the layer that generates no external record.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-09-01",
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": null
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -67,13 +67,13 @@
 "direction": "out",
 "edgeId": "e-05230040b6",
 "edgeLabel": "The administrative layer beneath the statutory transfer authority",
-"family": null,
+"family": "law",
 "id": "sec-8005-transfer",
 "l0": false,
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "implements",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-09-01",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": null
+"verb": "implements"
 }
 ],
 "coords": null,

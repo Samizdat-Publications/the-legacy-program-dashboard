@@ -45,13 +45,13 @@
 "direction": "out",
 "edgeId": "e-58e2bc4ee8",
 "edgeLabel": "Credited research producer",
-"family": null,
+"family": "role",
 "id": "newsnation-reality-check",
 "l0": false,
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "Named in the on-screen credits of the 4 August 2026 episode.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "held_post",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-04",
@@ -61,7 +61,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": null
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -71,13 +71,13 @@
 "direction": "out",
 "edgeId": "e-e74accccde",
 "edgeLabel": "NewsNation research producer supplied gatekeeper leads to Gerb",
-"family": null,
+"family": "testimony",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
-"predicate": null,
-"predicateSide": null,
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-12",
@@ -87,7 +87,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": null
+"verb": "passed an account to"
 }
 ],
 "date": "2026-08-04",
