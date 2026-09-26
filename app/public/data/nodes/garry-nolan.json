@@ -83,6 +83,15 @@
 "claims": [
 {
 "id": "c-1d267ac2fe",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "garry-nolan",
+"claimantLabel": "Garry Nolan",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Garry Nolan, quoted in The Debrief, 5 June 2023",
 "text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
 "tier": 2
@@ -107,12 +116,30 @@
 },
 {
 "id": "c-87216993fd",
+"meta": {
+"artefactDate": "2021-06-14",
+"claimant": "garry-nolan",
+"claimantLabel": "Garry Nolan",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "KQED (Jon Brooks)"
+},
 "source": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
 "text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
 "tier": 2
 },
 {
 "id": "c-f6da2bc26a",
+"meta": {
+"artefactDate": "2023-05-23",
+"claimant": "garry-nolan",
+"claimantLabel": "Garry Nolan",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "New York Post"
+},
 "source": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
 "text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
 "tier": 2
@@ -131,15 +158,120 @@
 },
 {
 "id": "c-7392a2a789",
+"meta": {
+"artefactDate": null,
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": "2026-06",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
 "text": "Named to the UAP Science Advisory Council alongside co-founder Peter Skafish in June 2026.",
 "tier": 2
 },
 {
 "id": "c-2c5d74b65c",
+"meta": {
+"artefactDate": "2026-04",
+"claimant": "garry-nolan",
+"claimantLabel": "Garry Nolan",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "The Sol Foundation"
+},
 "source": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
 "text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2021-06-14",
+"eventDate": null,
+"id": "c-4e65ec016b",
+"node": "stanford-nolan-lab",
+"nodeLabel": "Nolan Laboratory, Stanford University School of Medicine",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Garry Nolan to KQED, 14 June 2021",
+"url": null
+},
+"text": "Nolan says government and aerospace-corporation representatives approached his laboratory about medical harm from claimed interactions with an anomalous craft, citing its blood-analysis capability.",
+"tier": 2,
+"topic": "academic-science",
+"via": "KQED"
+},
+{
+"artefactDate": "2021-06-14",
+"eventDate": null,
+"id": "c-87216993fd",
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
+"url": null
+},
+"text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
+"tier": 2,
+"topic": "academic-science",
+"via": "KQED (Jon Brooks)"
+},
+{
+"artefactDate": "2023-05-23",
+"eventDate": null,
+"id": "c-f6da2bc26a",
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
+"url": null
+},
+"text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
+"tier": 2,
+"topic": "academic-science",
+"via": "New York Post"
+},
+{
+"artefactDate": "2023-06-05",
+"eventDate": null,
+"id": "c-1d267ac2fe",
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Garry Nolan, quoted in The Debrief, 5 June 2023",
+"url": null
+},
+"text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
+"tier": 2,
+"topic": "academic-science",
+"via": "The Debrief"
+},
+{
+"artefactDate": "2026-04",
+"eventDate": null,
+"id": "c-2c5d74b65c",
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"route": "document",
+"source": {
+"domain": "thesolfoundation.org",
+"text": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+},
+"text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
+"tier": 2,
+"topic": "academic-science",
+"via": "The Sol Foundation"
 }
 ],
 "cls": "person",

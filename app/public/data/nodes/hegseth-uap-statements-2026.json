@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-ff2ad25955",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
 "text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
 "tier": 2
 },
 {
 "id": "c-401e1ba440",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
 "text": "Hegseth: 'I don't want to over-promise and under-deliver. So, we're going to take a little time.'",
 "tier": 2
 },
 {
 "id": "c-c60f8a3aec",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
 "text": "Pentagon spokesperson Sue Gough confirmed AARO has examined over 2,000 UAP cases, with approximately 1,000 reports lacking sufficient data retained in an Active Archive.",
 "tier": 2

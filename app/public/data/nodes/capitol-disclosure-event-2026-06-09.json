@@ -6,24 +6,60 @@
 "claims": [
 {
 "id": "c-35af88b5ee",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "text": "Rep. Luna said lawmakers are requesting that the White House grant immunity to whistleblowers who come forward with information, including the locations of UFOs and advanced technology.",
 "tier": 2
 },
 {
 "id": "c-dd2db84562",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "text": "Rep. Burlison: 'For decades, the American people have been treated like children, told there are government secrets they just don't get to know,' and called on President Trump to waive all NDAs for UFO whistleblowers.",
 "tier": 2
 },
 {
 "id": "c-1f6f285457",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "text": "David Grusch: 'Political appointees have not complied with the disclosure law.'",
 "tier": 2
 },
 {
 "id": "c-cec0113c13",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "jared-moskowitz",
+"claimantLabel": "Jared Evan Moskowitz",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "text": "Rep. Moskowitz: 'Disclosure today, disclosure tomorrow. The American people deserve to know.'",
 "tier": 2

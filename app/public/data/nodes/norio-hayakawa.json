@@ -9,21 +9,186 @@
 "claims": [
 {
 "id": "c-2ea824b8be",
+"meta": {
+"artefactDate": "2016-08-29",
+"claimant": "norio-hayakawa",
+"claimantLabel": "Norio Hayakawa",
+"eventDate": "1988",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "Hayakawa's own stated conclusion about the alleged Dulce facility, on his own site: 'it does not seem to exist'. He has worked the question since 1988.",
 "tier": 2
 },
 {
 "id": "c-238bf61aa6",
+"meta": {
+"artefactDate": "2016-08-29",
+"claimant": "norio-hayakawa",
+"claimantLabel": "Norio Hayakawa",
+"eventDate": "1979",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "THE DATED CHRONOLOGY OF THE CLUSTER'S ORIGINATORS. Bennewitz from about 1979; Myrna Hansen's 1980 claim, which Bennewitz later connected to Dulce; Tom Adams in the early 1980s through cattle-mutilation work around 1981; John Lear in 1988, who heard of Dulce from 'Ann West'; and Phil Schneider, not part of the initial rumours, emerging only in 1995.",
 "tier": 2
 },
 {
 "id": "c-ec2af16c3f",
+"meta": {
+"artefactDate": "2021-04-23",
+"claimant": "norio-hayakawa",
+"claimantLabel": "Norio Hayakawa",
+"eventDate": "2015",
+"route": "document",
+"speaker": null,
+"via": "Adam Gorightly, 'Saucers, Spooks and Kooks'"
+},
 "source": "Norio Hayakawa, 23 April 2021 and 2 April 2024, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "Hayakawa is the publisher of record, for this board, of Tal Levesque's confession, which he reproduced on 23 April 2021 and again with the verbatim text on 2 April 2024, in both cases attributing it to Adam Gorightly's book.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2016-08-29",
+"eventDate": "1979",
+"id": "c-238bf61aa6",
+"node": "norio-hayakawa",
+"nodeLabel": "Norio Hayakawa",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+"text": "THE DATED CHRONOLOGY OF THE CLUSTER'S ORIGINATORS. Bennewitz from about 1979; Myrna Hansen's 1980 claim, which Bennewitz later connected to Dulce; Tom Adams in the early 1980s through cattle-mutilation work around 1981; John Lear in 1988, who heard of Dulce from 'Ann West'; and Phil Schneider, not part of the initial rumours, emerging only in 1995.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "2016-08-29",
+"eventDate": "1988",
+"id": "c-2ea824b8be",
+"node": "norio-hayakawa",
+"nodeLabel": "Norio Hayakawa",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+"text": "Hayakawa's own stated conclusion about the alleged Dulce facility, on his own site: 'it does not seem to exist'. He has worked the question since 1988.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "2016-08-29",
+"eventDate": null,
+"id": "c-51bb71006f",
+"node": "dulce-base",
+"nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+"text": "THE NAMED LOCAL NEGATIVE. Norio Hayakawa, who has worked the Dulce question since 1988 and is a proponent of investigating the subject rather than a professional debunker, states on his own site: 'it does not seem to exist'.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "2016-08-29",
+"eventDate": "1995",
+"id": "c-92f3a14e6d",
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+"text": "Schneider was not part of the initial Dulce rumours and emerged only in 1995, according to Norio Hayakawa's dated chronology of the cluster's originators, which places the initial rumours between about 1979 and the early 1980s.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "2016-08-29",
+"eventDate": "1979",
+"id": "c-938811e50f",
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+"text": "Bennewitz is the origin point of the Dulce claim, from about 1979, in the dated chronology of the cluster's originators. Myrna Hansen's 1980 abduction claim was connected to Dulce by Bennewitz after he had begun to suspect a facility there.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "2016-08-29",
+"eventDate": "1988",
+"id": "c-e9d4278181",
+"node": "john-lear",
+"nodeLabel": "John Olsen Lear",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+"text": "Lear heard of Dulce from a woman named as 'Ann West' and developed his Dulce hypothesis in 1988, in the dated chronology of the cluster's originators. The same name appears in Tal Levesque's November 2015 confession as the raw material from which he composed the two original Dulce Base articles.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "2021-04-23",
+"eventDate": "2015",
+"id": "c-ec2af16c3f",
+"node": "norio-hayakawa",
+"nodeLabel": "Norio Hayakawa",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 23 April 2021 and 2 April 2024, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "Hayakawa is the publisher of record, for this board, of Tal Levesque's confession, which he reproduced on 23 April 2021 and again with the verbatim text on 2 April 2024, in both cases attributing it to Adam Gorightly's book.",
+"tier": 2,
+"topic": "dulce",
+"via": "Adam Gorightly, 'Saucers, Spooks and Kooks'"
+},
+{
+"artefactDate": "2021-04-23",
+"eventDate": "2015-11",
+"id": "c-f856fd5d49",
+"node": "saucers-spooks-and-kooks-2021",
+"nodeLabel": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+"route": "book",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 23 April 2021 and 2 April 2024, both reproducing the confession and attributing it to this book, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "The book printed Tal Levesque's November 2015 email admitting that Thomas Edwin Castello was his own creation, obtained after a correspondence in which Levesque had repeatedly maintained that Castello was real and the Dulce material authentic. Published by Daily Grail Publishing, 3 February 2021, ISBN 978-0994617682.",
+"tier": 2,
+"topic": "dulce",
+"via": null
 }
 ],
 "cls": "person",

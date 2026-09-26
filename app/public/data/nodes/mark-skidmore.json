@@ -38,21 +38,186 @@
 "claims": [
 {
 "id": "c-c829e7fe13",
+"meta": {
+"artefactDate": null,
+"claimant": "mark-skidmore",
+"claimantLabel": "Mark Skidmore",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://mark-skidmore.com/about/",
 "text": "Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
 "tier": 2
 },
 {
 "id": "c-d86836ab09",
+"meta": {
+"artefactDate": "2018",
+"claimant": "mark-skidmore",
+"claimantLabel": "Mark Skidmore",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "Skidmore and Fitts compiled unsupported journal voucher adjustments reported in OIG and GAO documents for FY1998-FY2015, reaching roughly $21 trillion for DoD and $350 billion for HUD.",
 "tier": 2
 },
 {
 "id": "c-d90fb036b1",
+"meta": {
+"artefactDate": "2017-12",
+"claimant": "mark-skidmore",
+"claimantLabel": "Mark Skidmore",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
 "text": "Skidmore co-authored three Forbes columns with Laurence Kotlikoff on the $21 trillion figure, in December 2017, July 2018 and January 2019.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2017-12",
+"eventDate": null,
+"id": "c-d90fb036b1",
+"node": "mark-skidmore",
+"nodeLabel": "Mark Skidmore",
+"route": "document",
+"source": {
+"domain": "mark-skidmore.com",
+"text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+},
+"text": "Skidmore co-authored three Forbes columns with Laurence Kotlikoff on the $21 trillion figure, in December 2017, July 2018 and January 2019.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2018",
+"eventDate": null,
+"id": "c-d725340dc3",
+"node": "skidmore-fitts-report",
+"nodeLabel": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+"route": "document",
+"source": {
+"domain": "missingmoney.solari.com",
+"text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+},
+"text": "The authors state they were unable to recover data for a number of years within the FY1998-FY2015 window.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2018",
+"eventDate": null,
+"id": "c-d86836ab09",
+"node": "mark-skidmore",
+"nodeLabel": "Mark Skidmore",
+"route": "document",
+"source": {
+"domain": "missingmoney.solari.com",
+"text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+},
+"text": "Skidmore and Fitts compiled unsupported journal voucher adjustments reported in OIG and GAO documents for FY1998-FY2015, reaching roughly $21 trillion for DoD and $350 billion for HUD.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2018",
+"eventDate": null,
+"id": "c-e7a4ea7277",
+"node": "skidmore-fitts-report",
+"nodeLabel": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+"route": "document",
+"source": {
+"domain": "missingmoney.solari.com",
+"text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+},
+"text": "Skidmore and Fitts compiled publicly reported unsupported journal voucher adjustments from OIG and GAO documents for FY1998-FY2015 and arrived at roughly $21 trillion for DoD and roughly $350 billion for HUD.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-1a1251d11c",
+"node": "michigan-state",
+"nodeLabel": "Michigan State University",
+"route": "document",
+"source": {
+"domain": "mark-skidmore.com",
+"text": "https://mark-skidmore.com/about/",
+"url": "https://mark-skidmore.com/about/"
+},
+"text": "Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2017-12",
+"id": "c-981042a3ed",
+"node": "laurence-kotlikoff",
+"nodeLabel": "Laurence J. Kotlikoff",
+"route": "document",
+"source": {
+"domain": "mark-skidmore.com",
+"text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+},
+"text": "Kotlikoff co-authored three Forbes columns with Mark Skidmore on the $21 trillion unsupported adjustment aggregate, in December 2017, July 2018 and January 2019.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2017-12",
+"id": "c-afe4a3cbdf",
+"node": "boston-university",
+"nodeLabel": "Boston University",
+"route": "document",
+"source": {
+"domain": "mark-skidmore.com",
+"text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+},
+"text": "Laurence J. Kotlikoff is a Professor of Economics at Boston University and co-authored three Forbes columns with Mark Skidmore on the $21 trillion figure.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-c829e7fe13",
+"node": "mark-skidmore",
+"nodeLabel": "Mark Skidmore",
+"route": "document",
+"source": {
+"domain": "mark-skidmore.com",
+"text": "https://mark-skidmore.com/about/",
+"url": "https://mark-skidmore.com/about/"
+},
+"text": "Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
 }
 ],
 "cls": "person",

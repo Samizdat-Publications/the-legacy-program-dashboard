@@ -39,15 +39,120 @@
 },
 {
 "id": "c-8dec80810b",
+"meta": {
+"artefactDate": "2019-07",
+"claimant": "steve-justice",
+"claimantLabel": "Steve Justice",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "TTSA ADAM Research Project announcement, July 2019, as reported by Wikipedia's To The Stars Inc. entry and contemporaneous coverage",
 "text": "Stated of the ADAM specimens that their 'structure and composition are not from any known existing military or commercial application.'",
 "tier": 2
 },
 {
 "id": "c-37f73d754f",
+"meta": {
+"artefactDate": "2019-10-17",
+"claimant": "steve-justice",
+"claimantLabel": "Steve Justice",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "PR Newswire"
+},
 "source": "PR Newswire, 17 October 2019",
 "text": "Quoted in TTSA's 17 October 2019 CRADA press release: 'This cooperative research agreement brings additional, critically important expertise.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2019-07-26",
+"eventDate": null,
+"id": "c-8a391de51a",
+"node": "d-custody",
+"nodeLabel": "Chain of custody",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Steve Justice, quoted in Vice, 26 July 2019",
+"url": null
+},
+"text": "Steve Justice conceded the ADAM materials were 'collected from sources with varying levels of chain-of-custody documentation'.",
+"tier": 2,
+"topic": "legacy-programme",
+"via": "Vice"
+},
+{
+"artefactDate": "2019-07",
+"eventDate": null,
+"id": "c-44acd8d731",
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "TTSA announcement, July 2019; Wikipedia, To The Stars Inc., citing contemporaneous coverage",
+"url": null
+},
+"text": "TTSA announced a metamaterials acquisition in July 2019, paying approximately $35,000 for items including six pieces of bismuth/magnesium-zinc metal and aluminium; Steve Justice said their structure and composition are not from any known existing military or commercial application.",
+"tier": 2,
+"topic": "specimens",
+"via": null
+},
+{
+"artefactDate": "2019-07",
+"eventDate": null,
+"id": "c-8dec80810b",
+"node": "steve-justice",
+"nodeLabel": "Steve Justice",
+"route": "press",
+"source": {
+"domain": null,
+"text": "TTSA ADAM Research Project announcement, July 2019, as reported by Wikipedia's To The Stars Inc. entry and contemporaneous coverage",
+"url": null
+},
+"text": "Stated of the ADAM specimens that their 'structure and composition are not from any known existing military or commercial application.'",
+"tier": 2,
+"topic": "specimens",
+"via": null
+},
+{
+"artefactDate": "2019-07-26",
+"eventDate": null,
+"id": "c-940cc35161",
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Steve Justice, quoted by M.J. Banias, Vice, 26 July 2019",
+"url": null
+},
+"text": "Steve Justice stated the materials 'have been collected from sources with varying levels of chain-of-custody documentation'.",
+"tier": 2,
+"topic": "specimens",
+"via": "Vice"
+},
+{
+"artefactDate": "2019-10-17",
+"eventDate": null,
+"id": "c-37f73d754f",
+"node": "steve-justice",
+"nodeLabel": "Steve Justice",
+"route": "press",
+"source": {
+"domain": null,
+"text": "PR Newswire, 17 October 2019",
+"url": null
+},
+"text": "Quoted in TTSA's 17 October 2019 CRADA press release: 'This cooperative research agreement brings additional, critically important expertise.'",
+"tier": 2,
+"topic": "ttsa",
+"via": "PR Newswire"
 }
 ],
 "cls": "person",

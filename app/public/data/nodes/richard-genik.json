@@ -9,12 +9,30 @@
 "claims": [
 {
 "id": "c-389dff4129",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2009-04",
+"route": "press",
+"speaker": "Wayne State University School of Medicine News",
+"via": null
+},
 "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "text": "Wayne State's title for Genik is director, not executive director: 'Richard J. Genik II, Ph.D., director of the Emergent Technology Research Division and assistant professor of the Department of Psychiatry and Behavioral Neurosciences for the Wayne State University School of Medicine'. Green held the executive directorship and had left it by April 2009; Genik is director by July 2009. The two titles are different and sequential, not competing.",
 "tier": 2
 },
 {
 "id": "c-7e8d4f5e56",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wayne State University School of Medicine News",
+"via": null
+},
 "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "text": "The Army study Genik was selected for was requested by Tom Killion, deputy assistant secretary for Research and Technology and chief scientist for the U.S. Army, of the National Research Council. Genik chaired the technology group of the 20-month study and was one of four committee members on the briefing team, presenting at the Pentagon, the Board of Army Science and Technology, the Army Research Lab, the Army Research Institute, Medical Research and Material Command, Training and Doctrine Command, and the Office of Acquisition, Logistics and Technology. He was the only member of the briefing team to present at all three official briefings.",
 "tier": 2
@@ -39,6 +57,15 @@
 },
 {
 "id": "c-010f58bab1",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch.blogspot.com",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Wayne State University accounts for four of the thirty-eight DIRDs across two authors - Genik's three and Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International.",
 "tier": 2
@@ -57,24 +84,60 @@
 },
 {
 "id": "c-7012614e3a",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wayne State University (news article)",
+"via": null
+},
 "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "text": "Director of the Emergent Technology Research Division and assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine; selected as one of fifteen experts advising the U.S. Army on two decades of neuroscience research investment.",
 "tier": 2
 },
 {
 "id": "c-cacdbfecf0",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The DIA letter of 9 January 2018 lists item 20 as \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
 "tier": 2
 },
 {
 "id": "c-79a773dd70",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch (blog compilation)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The same DIA list credits Genik with two further DIRDs: item 28, \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft,\" and item 33, \"Quantum Computing and Utilizing Organic Molecules in Automation Technology.\" Three of the thirty-eight DIRDs are his.",
 "tier": 2
 },
 {
 "id": "c-268e9b2720",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Wayne State University (news feature)",
+"via": null
+},
 "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "text": "Richard J. Genik II is director of the Emergent Technology Research Division and research assistant professor in the Department of Psychiatry and Behavioral Neurosciences at Wayne State University, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State.",
 "tier": 2

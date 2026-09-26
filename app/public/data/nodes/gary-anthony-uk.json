@@ -22,6 +22,15 @@
 "claims": [
 {
 "id": "c-80a46173c5",
+"meta": {
+"artefactDate": "2006-05-07",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2006-05-15",
+"route": "document",
+"speaker": "Wikipedia, 'Project Condign' (citing BBC News and The Guardian)",
+"via": "Wikipedia, 'Project Condign'"
+},
 "source": "Wikipedia, 'Project Condign', citing BBC News 7 May 2006 and The Guardian 25 September 2006",
 "text": "The Condign report 'was released into the public domain on 15 May 2006 after a September 2005 Freedom of Information Act request by UFO researchers David Clarke ... and Gary Anthony, a former BUFORA astronomical consultant'.",
 "tier": 2

@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-fc0a6eae8f",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement on release of historical Navy videos",
 "text": "The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified.",
 "tier": 1
@@ -25,6 +34,15 @@
 },
 {
 "id": "c-a119ca1435",
+"meta": {
+"artefactDate": "2021-05-16",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2004",
+"route": "broadcast",
+"speaker": "Alex Dietrich; David Fravor",
+"via": "CBS 60 Minutes"
+},
 "source": "CBS 60 Minutes, 16 May 2021",
 "text": "Alex Dietrich and David Fravor described the 2004 Nimitz encounter on the record to CBS 60 Minutes on 16 May 2021.",
 "tier": 2

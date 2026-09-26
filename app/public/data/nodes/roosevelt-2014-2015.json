@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-c781a0575d",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "ryan-graves",
+"claimantLabel": "Ryan Graves",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'It has been more than a decade since my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis.'",
 "tier": 1
 },
 {
 "id": "c-a67e8481d0",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "ryan-graves",
+"claimantLabel": "Ryan Graves",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "Two jets 'only 100 feet apart, were forced to take evasive action' in Warning Area W-72.",
 "tier": 1
 },
 {
 "id": "c-2027d1eb12",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": "2015-01",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "text": "A January 2015 Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' reported 'multiple near-midair collisions' and was deleted from all recipients' accounts the next day.",
 "tier": 2

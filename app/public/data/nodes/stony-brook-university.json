@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-29950584ae",
+"meta": {
+"artefactDate": null,
+"claimant": "doe",
+"claimantLabel": "United States Department of Energy",
+"eventDate": null,
+"route": "document",
+"speaker": "Brookhaven National Laboratory, a Department of Energy laboratory, on its 'About Brookhaven' page",
+"via": null
+},
 "source": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
 "text": "Brookhaven National Laboratory states that 'Brookhaven Lab is managed for the Office of Science by Brookhaven Science Associates, a partnership between Stony Brook University and Battelle, and six core universities: Columbia, Cornell, Harvard, Massachusetts Institute of Technology, Princeton, and Yale.'",
 "tier": 1
@@ -30,6 +39,15 @@
 },
 {
 "id": "c-be04656b5d",
+"meta": {
+"artefactDate": "2026-07-17",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "unnamed (a panel speaker on DEBRIEFED with Chris Ramsay)",
+"via": "DEBRIEFED with Chris Ramsay"
+},
 "source": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 1:01:18, transcript in dist/transcripts/md/",
 "text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 1:01:18, a panel speaker said that James Simons 'oversees' Stony Brook and Brookhaven National Laboratory and called the pairing with the Medallion Fund and the Simons Foundation an 'iron triangle', adding in the same passage 'This is a lot of crazy connections.' No document opened here names Simons in connection with either body.",
 "tier": 2

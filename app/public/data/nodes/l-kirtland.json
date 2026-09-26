@@ -18,24 +18,60 @@
 },
 {
 "id": "c-c829be5a10",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1971-07-01",
+"route": "document",
+"speaker": "Wikipedia, 'Kirtland Air Force Base' (citing USAF fact sheets)",
+"via": null
+},
 "source": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground.",
 "tier": 2
 },
 {
 "id": "c-bee36a05e8",
+"meta": {
+"artefactDate": null,
+"claimant": "paul-bennewitz",
+"claimantLabel": "Paul Frederick Bennewitz",
+"eventDate": "1979-07",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980.",
 "tier": 2
 },
 {
 "id": "c-9df8a13609",
+"meta": {
+"artefactDate": "1989-07-01",
+"claimant": "william-l-moore",
+"claimantLabel": "William L. Moore",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
 "text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
 "tier": 2
 },
 {
 "id": "c-a170e3377f",
+"meta": {
+"artefactDate": null,
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Doty's own public statements as summarised in the Paul Bennewitz article",
 "text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",
 "tier": 2

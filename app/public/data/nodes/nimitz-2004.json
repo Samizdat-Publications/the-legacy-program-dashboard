@@ -18,18 +18,45 @@
 },
 {
 "id": "c-b26a6549fc",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "text": "'They had been observing these objects on their Aegis combat system for the previous 2 weeks,' descending from above 80,000 ft rapidly down to 20,000 ft.",
 "tier": 2
 },
 {
 "id": "c-faa0f5bfd8",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
 "tier": 2
 },
 {
 "id": "c-09b0aab384",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2004-11",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement on the release of historical Navy videos, 27 April 2020",
 "text": "The Department of Defense released FLIR1 with the two January 2015 videos on 27 April 2020, stating that 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
 "tier": 1

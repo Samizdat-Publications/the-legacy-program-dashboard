@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-b943ef143f",
+"meta": {
+"artefactDate": "2011-03",
+"claimant": "baass",
+"claimantLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"eventDate": "2009",
+"route": "press",
+"speaker": null,
+"via": "The UFO Chronicles"
+},
 "source": "Contemporaneous MUFON and BAASS accounts; The UFO Chronicles, March 2011",
 "text": "BAASS funded MUFON's Star Team Impact Project in 2009 to provide rapid-response field investigation, with case data flowing back to BAASS; the arrangement ended in 2010.",
 "tier": 2
 },
 {
 "id": "c-7ddfe738fe",
+"meta": {
+"artefactDate": "2009",
+"claimant": "baass",
+"claimantLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "BAASS Ten Month Report (2009)",
 "text": "The BAASS Ten Month Report describes case collection and database construction consistent with an external civilian reporting pipeline.",
 "tier": 2

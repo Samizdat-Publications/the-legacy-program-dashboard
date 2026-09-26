@@ -27,6 +27,15 @@
 },
 {
 "id": "c-0d4b14b2bc",
+"meta": {
+"artefactDate": "1990-12-03",
+"claimant": "brad-sorensen",
+"claimantLabel": "'Brad' Sorensen",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "William B. Scott"
+},
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-03",
 "text": "He told Scott on 3 December 1990: 'I wish I hadn't even seen those things; they've been nothing but trouble for me since then.'",
 "tier": 1
@@ -39,9 +48,173 @@
 },
 {
 "id": "c-0702023b8e",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "mark-mccandlish",
+"claimantLabel": "Mark McCandlish",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "The Disclosure Project"
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "text": "The name 'Sorensen' reaches the record through McCandlish, not through the primary document. McCandlish's 2001 testimony gives 'a fellow by the name of Brad Sorensen', whom he knew 'in school' and who called him again 'eight years after school'. No opened record carries the surname in the witness's own voice or over his own signature.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1990-12-03",
+"eventDate": null,
+"id": "c-0d4b14b2bc",
+"node": "brad-sorensen",
+"nodeLabel": "'Brad' Sorensen",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "He told Scott on 3 December 1990: 'I wish I hadn't even seen those things; they've been nothing but trouble for me since then.'",
+"tier": 1,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": "1988-11-12",
+"id": "c-375fc66981",
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 12 and 15, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "On the claimed performance: 'the guy said that with this group of craft that, uh....they'd been everywhere in the universe, and there's no life', and 'Just take it for granted, we've already tested this thing. The speeds on this are seven to eight times the speed of light, and we've been everywhere--and there's nothing out there. We better take care of the earth.' The witness's own framing of the whole event: 'They were PR people--it was a sales thing!'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": null,
+"id": "c-88da29290a",
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 4, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "The same document records the staging: 'They sort of staged it in several different rooms. Was one big hangar, but everything was parked so close that the wings would ...be above the others in the hangar', with 'metal rods as separators and hung black cloth on them', and 'It was like a showroom--just like a car showroom--good analogy!'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": "1947",
+"id": "c-a1e8eee438",
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 15, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "The claimed provenance of the design, in the witness's own words on the same tape: 'They just said that they had come across some hardware ...tried to make contact with these....The [others] didn't want to make contact; they just wanted to deliver the news and leave, OK? But, back in 1947, we had just won the war, we felt pretty damned cavalier and we...attacked, basically, OK? Rather than fighting back, they just tried to destroy their stuff and get away; and they didn't get all of it destroyed.' He continues: 'Also said they couldn't really make those things that they found work. That they had to build their own...that this was built for our consumption, not theirs.' Asked 'so we just looked at theirs and built our own?' he answers 'uh-huh. Based on what was seen. So it was not like a great R&D breakthrough; it was just copying something they had seen, to the best of their abilities.'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": null,
+"id": "c-a52a58a42b",
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 2, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "The 1990 document records the alleged exhibit's claimed purpose in the witness's own words: 'And that's what the whole [meeting] was for--appropriations of billions of dollars to develop new craft.' Asked whether he read it as a fundraising exercise: 'Yes; it was showing prototypes...or just vehicles of all different kinds that they wanted money for. So they were trying to impress us. Needless to say we were impressed!...[group had about 30 or so people who were invited].'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": null,
+"id": "c-c31edadb68",
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "The witness's own judgement of build quality, in the same passage that gives the sizes: 'They looked poorly built, compared to the other ones. They had been built by scientists who didn't know a hell of a lot about laying up composite materials or whatever' and 'the whole thing was just coated with thick, heavy lead paint. It was brushed on!'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": "1988-11-12",
+"id": "c-c4eb17258d",
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 2, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "The 1990 document describes the briefers as Air Force officers: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'.",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": null,
+"id": "c-da10a5f80f",
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "The 1990 primary document gives the three craft their nursery-rhyme names and the witness's own guessed sizes: 'This was a really interesting craft--there were three of them. When I walked into the room....well, I thought of something stupid--like a nursery rhyme: daddy bear, mommy bear, baby bear. Like they'd been put in a Xerox machine--the same proportions, just diff. sizes. The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
+},
+{
+"artefactDate": "1990-12-03",
+"eventDate": null,
+"id": "c-fb2b3e0990",
+"node": "norton-afb-airshow-1988",
+"nodeLabel": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"route": "interview",
+"source": {
+"domain": "www.arvp.co.uk",
+"text": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 5, 1990-12-03",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+"text": "The 1990 document also carries a second, non-saucer exhibit in detail: an unmanned diamond or 'elongated football shape' craft, 'maybe 100-110 in length; maybe 60 ft. width', with 121 ports which the briefers said 'were 121 cylindrical nuclear weapons, and that they were similar in design to nuclear howitzer shells', of which 'they already had some flying units of this thing, and they showed some pictures of it.'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "William B. Scott"
 }
 ],
 "cls": "person",

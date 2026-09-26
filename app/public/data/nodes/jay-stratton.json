@@ -80,12 +80,30 @@
 "claims": [
 {
 "id": "c-e916972dbb",
+"meta": {
+"artefactDate": "2021",
+"claimant": "jay-stratton",
+"claimantLabel": "Jay Stratton",
+"eventDate": "2008",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); Stratton public statements 2022-2023",
 "text": "Stratton participated in the AAWSAP effort and later directed the UAP Task Force, providing direct institutional continuity from the 2008 DIA contract to the 2021 ODNI assessment.",
 "tier": 2
 },
 {
 "id": "c-e69100cfcf",
+"meta": {
+"artefactDate": "2022",
+"claimant": "jay-stratton",
+"claimantLabel": "Jay Stratton",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Jay Stratton public remarks and interviews, 2022-2023",
 "text": "Stratton has stated he has had personal experience with the phenomenon.",
 "tier": 2
@@ -116,12 +134,30 @@
 },
 {
 "id": "c-830fc21cc1",
+"meta": {
+"artefactDate": "2024-09",
+"claimant": "jay-stratton",
+"claimantLabel": "Jay Stratton",
+"eventDate": "2020",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Named-source journalism and his own public statements; publisher announcement of his memoir, Deadline, September 2024",
 "text": "Stratton served as director of the UAP Task Force during 2020-2021 and had previously worked in the DIA/AAWSAP orbit.",
 "tier": 2
 },
 {
 "id": "c-b80f4db88e",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "2019",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "David Grusch, sworn testimony, House Oversight Committee, 26 July 2023",
 "text": "Grusch testified that the UAP Task Force Director tasked him in 2019 to identify all special access programmes needed to satisfy the Task Force's congressionally mandated mission.",
 "tier": 2
@@ -131,6 +167,59 @@
 "source": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
 "text": "The 15 July 2022 AARO establishment memorandum directed the Secretary of the Navy to disestablish the UAPTF and transfer its data and materials to AARO.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2021",
+"eventDate": "2008",
+"id": "c-e916972dbb",
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); Stratton public statements 2022-2023",
+"url": null
+},
+"text": "Stratton participated in the AAWSAP effort and later directed the UAP Task Force, providing direct institutional continuity from the 2008 DIA contract to the 2021 ODNI assessment.",
+"tier": 2,
+"topic": "uaptf-odni-2021",
+"via": null
+},
+{
+"artefactDate": "2022",
+"eventDate": null,
+"id": "c-e69100cfcf",
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Jay Stratton public remarks and interviews, 2022-2023",
+"url": null
+},
+"text": "Stratton has stated he has had personal experience with the phenomenon.",
+"tier": 2,
+"topic": "uaptf-odni-2021",
+"via": null
+},
+{
+"artefactDate": "2024-09",
+"eventDate": "2020",
+"id": "c-830fc21cc1",
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Named-source journalism and his own public statements; publisher announcement of his memoir, Deadline, September 2024",
+"url": null
+},
+"text": "Stratton served as director of the UAP Task Force during 2020-2021 and had previously worked in the DIA/AAWSAP orbit.",
+"tier": 2,
+"topic": "uaptf-odni-2021",
+"via": null
 }
 ],
 "cls": "person",

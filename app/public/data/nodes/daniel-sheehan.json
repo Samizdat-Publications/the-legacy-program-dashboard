@@ -36,6 +36,15 @@
 "claims": [
 {
 "id": "c-042e400d03",
+"meta": {
+"artefactDate": "2023-11-27",
+"claimant": "daniel-sheehan",
+"claimantLabel": "Daniel P. Sheehan",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief (Micah Hanks)"
+},
 "source": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
 "text": "Sheehan states Turner 'first attacked those two elements' — eminent domain and the Review Board's subpoena power — saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.'",
 "tier": 2
@@ -48,39 +57,163 @@
 },
 {
 "id": "c-dd6aabf23d",
+"meta": {
+"artefactDate": "2001-05-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "ABC News",
+"via": null
+},
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. ABC News, reporting the same day, names him as the Washington lawyer serving as counsel to the Disclosure Project.",
 "tier": 2
 },
 {
 "id": "c-02fb486473",
+"meta": {
+"artefactDate": "2001-05-09",
+"claimant": "daniel-sheehan",
+"claimantLabel": "Daniel P. Sheehan",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "ABC News"
+},
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
 "text": "ABC News reports his account, given at that event, of being shown UFO photographs bearing 'alien writing symbols' in the National Archives during the Carter administration, which he traced onto a legal pad. TIER 2: this is a named person on the record describing his own action, with no document produced.",
 "tier": 2
 },
 {
 "id": "c-6fc2a258e8",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1977",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "Klass records his function for the Project: he 'serves as counsel for Project Disclosure to defend any witnesses who might be charged with violating their security oaths', and that he claims to have examined photographs of crashed craft in 1977 which were not classified.",
 "tier": 2
 },
 {
 "id": "c-4f49829876",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Daniel Sheehan (attorney)'",
+"via": null
+},
 "source": "Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense.",
 "tier": 2
 },
 {
 "id": "c-f60b3daebb",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1988-06-23",
+"route": "filing",
+"speaker": "Wikipedia, 'Daniel Sheehan (attorney)'; US District Court, Southern District of Florida",
+"via": null
+},
 "source": "Wikipedia, 'Daniel Sheehan (attorney)'; US District Court, Southern District of Florida — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "In Avirgan v. Hull, Judge James Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute to pay $955,000 in attorney's fees and $79,500 in costs under Rule 11.",
 "tier": 2
 },
 {
 "id": "c-8bd39315ba",
+"meta": {
+"artefactDate": null,
+"claimant": "new-paradigm-institute",
+"claimantLabel": "New Paradigm Institute",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "New Paradigm Institute website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2001-05-09",
+"eventDate": null,
+"id": "c-02fb486473",
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"route": "press",
+"source": {
+"domain": "abcnews.com",
+"text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+"url": "https://abcnews.com/Technology/story?id=98572&page=1"
+},
+"text": "ABC News reports his account, given at that event, of being shown UFO photographs bearing 'alien writing symbols' in the National Archives during the Carter administration, which he traced onto a legal pad. TIER 2: this is a named person on the record describing his own action, with no document produced.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": "ABC News"
+},
+{
+"artefactDate": "2024-02-19",
+"eventDate": null,
+"id": "c-04f88b0ddd",
+"node": "conventional-prompt-global-strike",
+"nodeLabel": "Conventional Prompt Global Strike",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 224, 19 February 2024, 3:03:15 to 3:04:55, mapped at research/leads/dannyjones-corpus-33.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 224, 19 February 2024, between 3:03:15 and 3:04:55, Daniel Sheehan named Prompt Global Strike as an effort to use reverse-engineered craft propulsion for a two-minute missile strike into Russia or China, tied to the congressional districts containing Wright-Patterson Air Force Base and Redstone Arsenal. The CRS report contradicts both halves: it traces every booster to an existing American ballistic missile and states the goal as striking targets in under an hour.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": "Danny Jones Podcast"
+},
+{
+"artefactDate": "2023-11-27",
+"eventDate": null,
+"id": "c-042e400d03",
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
+"url": null
+},
+"text": "Sheehan states Turner 'first attacked those two elements' — eminent domain and the Review Board's subpoena power — saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.'",
+"tier": 2,
+"topic": "uapda",
+"via": "The Debrief (Micah Hanks)"
+},
+{
+"artefactDate": "2023-11-27",
+"eventDate": null,
+"id": "c-c3da3e4042",
+"node": "mike-turner",
+"nodeLabel": "Michael R. Turner",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Micah Hanks, The Debrief, 27 November 2023",
+"url": null
+},
+"text": "Daniel Sheehan states Turner 'first attacked those two elements' — the eminent domain provision and the Review Board's subpoena power — and demanded both be removed.",
+"tier": 2,
+"topic": "uapda",
+"via": "The Debrief (Micah Hanks)"
 }
 ],
 "cls": "person",

@@ -47,6 +47,25 @@
 "tier": 1
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "1999",
+"eventDate": null,
+"id": "c-b96f376701",
+"node": "cnes",
+"nodeLabel": "Centre National d'Études Spatiales (CNES)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "COMETA report, Norlain preface, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Norlain: the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
+"tier": 2,
+"topic": "france",
+"via": null
+}
+],
 "cls": "person",
 "cluster": "oversight",
 "conflicts": [],

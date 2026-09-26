@@ -165,18 +165,45 @@
 "claims": [
 {
 "id": "c-c67ee9f5a1",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office sent an early letter to The Aerospace Corporation from his House Oversight role, that Aerospace responded by sending two people from its executive team, that the meeting was held in a SCIF during the Biden administration, and that 'they knew nothing' about UAP or reverse engineering. He said he expects to go back to them with more specific and detailed questions (0:19:48).",
 "tier": 2
 },
 {
 "id": "c-63b8ff5db8",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 1:50:35 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "text": "In the same episode Burlison gave his reading of that answer and of the structure generally: that a programme is 'probably organized from the ffrdc level' because an FFRDC can create the programme and the funding justification and then report upward only what it must, and that turnover and compartmentation mean current officeholders will not find decades-old material unless outsiders hand them a named file and a date (0:20:42, 1:50:35). He states this as his own inference.",
 "tier": 2
 },
 {
 "id": "c-0bf4c36931",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Eric Burlison, 9 September 2025, GPO transcript CHRG-119hhrg61718",
 "text": "'Just last night, I tried to get an amendment onto the National Defense Authorization Act that fit in the germaneness of that bill to have UAP disclosure. And conveniently, it was named nongermane, mostly deemed by staff, not even an elected official.'",
 "tier": 1
@@ -201,24 +228,60 @@
 },
 {
 "id": "c-bf19f238f5",
+"meta": {
+"artefactDate": "2024-03-12",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
 "text": "'They weren't transparent to us in a SCIF setting. So they could have brought forward evidence. They could have explained what these Special Access Programs actually do. But they are not willing to do that with Congress.'",
 "tier": 2
 },
 {
 "id": "c-f8538dedc0",
+"meta": {
+"artefactDate": "2026-05-16",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "Rep. Burlison on X, quoted by The Hill/NewsNation, 16 May 2026",
 "text": "'If you really want to hide something from Congress, you don't put it in a government file cabinet. You hand it to a private contractor. That's why my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
 "tier": 2
 },
 {
 "id": "c-1bb90262ab",
+"meta": {
+"artefactDate": "2025-03-26",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2025-03",
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "The Hill/NewsNation, 26 March 2025",
 "text": "Hired David Grusch as a senior adviser on UAP issues for a four-month period beginning March 2025.",
 "tier": 2
 },
 {
 "id": "c-f1c323e939",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "text": "Described receiving a 'Tom Clancy-style dead drop' of UAP information at his office and called on President Trump to waive all NDAs for UAP whistleblowers.",
 "tier": 2
@@ -237,6 +300,15 @@
 },
 {
 "id": "c-66d65a1ec6",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Burlison at the Capitol press conference, 9 June 2026, reported by Fox News",
 "text": "'There must be real penalties for officials who knowingly withhold information from Congress.'",
 "tier": 2
@@ -249,24 +321,60 @@
 },
 {
 "id": "c-976aff252d",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Asked who possesses the material today, Elizondo told Burlison he could not answer in open session.",
 "tier": 1
 },
 {
 "id": "c-3b7675e5a9",
+"meta": {
+"artefactDate": "2026-07-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-07-23",
+"route": "press",
+"speaker": "NewsTalk KZRG",
+"via": null
+},
 "source": "NewsTalk KZRG, 23 July 2026",
 "text": "The House adopted Burlison's Unidentified Anomalous Phenomena Disclosure Act amendment to the FY2027 NDAA on 23 July 2026; it creates a UAP Records Review Board with Senate-confirmed members and subpoena authority and extends disclosure obligations to government contractors.",
 "tier": 2
 },
 {
 "id": "c-ab0c44a22a",
+"meta": {
+"artefactDate": "2026-07-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (NewsTalk KZRG reporting)",
+"via": "NewsTalk KZRG"
+},
 "source": "NewsTalk KZRG, 23 July 2026",
 "text": "The amendment requires agencies to identify, preserve and transfer covered UAP records to a permanent National Archives collection under a statutory timeline.",
 "tier": 2
 },
 {
 "id": "c-209f0bb8c5",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 9 September 2025",
 "text": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
 "tier": 2
@@ -285,21 +393,798 @@
 },
 {
 "id": "c-b7aa699203",
+"meta": {
+"artefactDate": null,
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
 "text": "'if you are a current or former government employee or contractor interested in taking advantage of this directive, I am offering my office's assistance in contacting and getting your information to any agency.'",
 "tier": 2
 },
 {
 "id": "c-9e907dd7f1",
+"meta": {
+"artefactDate": null,
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
 "text": "'I strongly recommend that, in addition to an attorney, you request that either I or another member of Congress be present with you.'",
 "tier": 2
 },
 {
 "id": "c-3b19ba2ca8",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "hearing",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen in October 2024; the object appeared impacted but not destroyed.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-b13ab76edf",
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 30 January 2026",
+"url": null
+},
+"text": "Burlison on evidence access: 'there are several government entities that are controlling this and some are willing to be more cooperative, so unfortunately we're not getting everything.'",
+"tier": 2,
+"topic": "brazil",
+"via": "The Debrief"
+},
+{
+"artefactDate": "2026-07-15",
+"eventDate": null,
+"id": "c-6854ebcd40",
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
+"url": null
+},
+"text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
+"tier": 2,
+"topic": "brazil",
+"via": "NewsNation"
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-2fb19b9899",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 1:48:44 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison was asked whom in government he would most want to subpoena or question at length in a SCIF about UAP and named Gaffney first: 'I would say probably Glenn Gaffney who is you know former CIA a lot of people I talked to you say that this is somebody that we need to talk to.' He then named Steve Cantrell, described only as former Air Force senior intelligence, and General McCasland (1:48:44).",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-9e907dd7f1",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "press",
+"source": {
+"domain": "burlison.house.gov",
+"text": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+},
+"text": "'I strongly recommend that, in addition to an attorney, you request that either I or another member of Congress be present with you.'",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b7aa699203",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "press",
+"source": {
+"domain": "burlison.house.gov",
+"text": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+},
+"text": "'if you are a current or former government employee or contractor interested in taking advantage of this directive, I am offering my office's assistance in contacting and getting your information to any agency.'",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2026-05-15",
+"eventDate": "1952",
+"id": "c-62711bb2c9",
+"node": "mit-lincoln-laboratory",
+"nodeLabel": "MIT Lincoln Laboratory",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rep. Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
+"url": null
+},
+"text": "Lincoln Laboratory's attorneys agreed to comply within 30 days with Rep. Burlison's May 2026 demand for a classified 1952 briefing recording referenced as a 'flying saucer talk.'",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2026-05-15",
+"eventDate": null,
+"id": "c-92ffa7ba35",
+"node": "burlison-mit-lincoln-letter-2026",
+"nodeLabel": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rep. Eric Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
+"url": null
+},
+"text": "'I sent a letter to MIT Lincoln Labs asking for a classified 1952 briefing video referenced as a flying saucer talk. Their attorneys wrote back fast. They'll comply within 30 days. Congressional letters carry weight. We're going to keep sending them.'",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-05-15",
+"eventDate": null,
+"id": "c-be1147e92b",
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Burlison quoted by NewsNation, 15 May 2026, and Cybernews, 25 June 2026",
+"url": null
+},
+"text": "Rep. Eric Burlison has stated his investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs and the prime contractors.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "NewsNation"
+},
+{
+"artefactDate": "2026-05-22",
+"eventDate": null,
+"id": "c-7027c13bf7",
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"route": "document",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+},
+"text": "The letter's scope names Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton and BAE Systems.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-22",
+"eventDate": null,
+"id": "c-8e66ac9e09",
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"route": "document",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+},
+"text": "Burlison's 22 May 2026 ten-page letter to MITRE contained over 40 production requests for UAP and unexplained-technology records dating back to 1930, with a 45-day deadline for unclassified responsive records in native electronic format with complete metadata.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-05-26",
+"eventDate": null,
+"id": "c-1f33a75072",
+"node": "mit-lincoln-laboratory",
+"nodeLabel": "MIT Lincoln Laboratory",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Burlison press release, 26 May 2026",
+"url": null
+},
+"text": "Burlison's MITRE press release names the Beacon Hill Study alongside 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, NARA and Record Group 615.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-05-26",
+"eventDate": null,
+"id": "c-8001242d68",
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Burlison press release, 26 May 2026",
+"url": null
+},
+"text": "Burlison stated: 'Federally funded research and development centers occupy a unique position of public trust... They cannot become private vaults for federal records.'",
+"tier": 1,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-06-25",
+"eventDate": "1952",
+"id": "c-0b9421eb2f",
+"node": "mit-lincoln-laboratory",
+"nodeLabel": "MIT Lincoln Laboratory",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rep. Eric Burlison via X, reported by Cybernews, 25 June 2026",
+"url": null
+},
+"text": "On 25 June 2026 Burlison announced that MIT Lincoln Laboratory had agreed to disclose the 1952 recording, quoting his own approach: 'We told MIT Lincoln Labs we know the exact video file you are holding, by name, and we want it.'",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "Cybernews"
+},
+{
+"artefactDate": "2026-06-25",
+"eventDate": null,
+"id": "c-78a445a2bc",
+"node": "af-atic-film-0352",
+"nodeLabel": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rep. Eric Burlison via X, reported by Cybernews, 25 June 2026",
+"url": null
+},
+"text": "MIT Lincoln Laboratory agreed to disclose the recording, per Burlison's public announcement of 25 June 2026.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "Cybernews"
+},
+{
+"artefactDate": "2026-06-25",
+"eventDate": null,
+"id": "c-7ba025bd85",
+"node": "af-atic-film-0352",
+"nodeLabel": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Cybernews, 25 June 2026, reporting Burlison's account",
+"url": null
+},
+"text": "The footage features Project Blue Book director Edward J. Ruppelt briefing military officials and scientists, months before the July 1952 Washington, DC UFO radar incidents.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "Cybernews"
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": "2026-06-25",
+"id": "c-df816cb2bc",
+"node": "burlison-mit-lincoln-letter-2026",
+"nodeLabel": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "The Hill/NewsNation, 29 June 2026",
+"url": null
+},
+"text": "At the 25 June 2026 Disclosure Forum, Burlison announced that MIT Lincoln Laboratory had agreed to make the 1952 material available; Jordan Flowers described it as a reel-to-reel audio tape about the Washington, D.C. sightings and said Lincoln Lab's lawyers confirm it exists.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-00bb6e79bf",
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "The corporation has now been questioned by Congress on the subject, on one member's account. On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office wrote to The Aerospace Corporation from the House Oversight Committee, that the corporation sent two members of its executive team, that the interview took place in a SCIF during the Biden administration, and that they had no knowledge of UAP or reverse engineering: 'they knew nothing' (0:19:48). No document of that meeting has been opened for this board.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2024-03-12",
+"eventDate": null,
+"id": "c-7c69f2d612",
+"node": "uap-select-committee-proposal",
+"nodeLabel": "Proposed House Select Committee on UAP",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 March 2024",
+"url": null
+},
+"text": "Rep. Burlison requested a House select committee on UAP on 12 March 2024, focused first on DoD expenditures on alleged secret UAP recovery programs, with the stated support of Comer, Burchett and Moskowitz.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "The Hill"
+},
+{
+"artefactDate": "2024-03-12",
+"eventDate": null,
+"id": "c-bf19f238f5",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
+"url": null
+},
+"text": "'They weren't transparent to us in a SCIF setting. So they could have brought forward evidence. They could have explained what these Special Access Programs actually do. But they are not willing to do that with Congress.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2024-03-12",
+"eventDate": null,
+"id": "c-ec246d5b7f",
+"node": "uap-select-committee-proposal",
+"nodeLabel": "Proposed House Select Committee on UAP",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
+"url": null
+},
+"text": "'They weren't transparent to us in a SCIF setting... they are not willing to do that with Congress. So to me, it's about time that they opened the kimono.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2025-03-26",
+"eventDate": "2025-03",
+"id": "c-1bb90262ab",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "The Hill/NewsNation, 26 March 2025",
+"url": null
+},
+"text": "Hired David Grusch as a senior adviser on UAP issues for a four-month period beginning March 2025.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-0bf4c36931",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Rep. Eric Burlison, 9 September 2025, GPO transcript CHRG-119hhrg61718",
+"url": null
+},
+"text": "'Just last night, I tried to get an amendment onto the National Defense Authorization Act that fit in the germaneness of that bill to have UAP disclosure. And conveniently, it was named nongermane, mostly deemed by staff, not even an elected official.'",
+"tier": 1,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2024-10",
+"id": "c-209f0bb8c5",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 9 September 2025",
+"url": null
+},
+"text": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2024-10",
+"id": "c-3b19ba2ca8",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "hearing",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+},
+"text": "Unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen in October 2024; the object appeared impacted but not destroyed.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-16",
+"eventDate": null,
+"id": "c-f8538dedc0",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Rep. Burlison on X, quoted by The Hill/NewsNation, 16 May 2026",
+"url": null
+},
+"text": "'If you really want to hide something from Congress, you don't put it in a government file cabinet. You hand it to a private contractor. That's why my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2026-06-09",
+"eventDate": null,
+"id": "c-66d65a1ec6",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Burlison at the Capitol press conference, 9 June 2026, reported by Fox News",
+"url": null
+},
+"text": "'There must be real penalties for officials who knowingly withhold information from Congress.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "Fox News"
+},
+{
+"artefactDate": "2026-06-09",
+"eventDate": null,
+"id": "c-dd2db84562",
+"node": "capitol-disclosure-event-2026-06-09",
+"nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation/The Hill, 9 June 2026",
+"url": null
+},
+"text": "Rep. Burlison: 'For decades, the American people have been treated like children, told there are government secrets they just don't get to know,' and called on President Trump to waive all NDAs for UFO whistleblowers.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "NewsNation/The Hill"
+},
+{
+"artefactDate": "2026-06-09",
+"eventDate": null,
+"id": "c-f1c323e939",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation/The Hill, 9 June 2026",
+"url": null
+},
+"text": "Described receiving a 'Tom Clancy-style dead drop' of UAP information at his office and called on President Trump to waive all NDAs for UAP whistleblowers.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "NewsNation/The Hill"
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": "1952",
+"id": "c-319008468b",
+"node": "uap-disclosure-forum-2026",
+"nodeLabel": "Disclosure Forum 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "The Hill/NewsNation, 29 June 2026",
+"url": null
+},
+"text": "Rep. Burlison announced at the forum that MIT Lincoln Laboratory had agreed to make available a 1952 UFO briefing recording.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-63b8ff5db8",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 1:50:35 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "In the same episode Burlison gave his reading of that answer and of the structure generally: that a programme is 'probably organized from the ffrdc level' because an FFRDC can create the programme and the funding justification and then report upward only what it must, and that turnover and compartmentation mean current officeholders will not find decades-old material unless outsiders hand them a named file and a date (0:20:42, 1:50:35). He states this as his own inference.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-c67ee9f5a1",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office sent an early letter to The Aerospace Corporation from his House Oversight role, that Aerospace responded by sending two people from its executive team, that the meeting was held in a SCIF during the Biden administration, and that 'they knew nothing' about UAP or reverse engineering. He said he expects to go back to them with more specific and detailed questions (0:19:48).",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2024-10",
+"id": "c-98572ef451",
+"node": "mq9-yemen-hellfire-video-2024",
+"nodeLabel": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
+"route": "hearing",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+},
+"text": "Rep. Burlison unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": null
+},
+{
+"artefactDate": "2026-04-21",
+"eventDate": null,
+"id": "c-810ccbf0f9",
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Fox News, 21 April 2026",
+"url": null
+},
+"text": "Rep. Burlison's staff had been attempting to contact McCasland regarding a separate congressional investigation before his disappearance.",
+"tier": 2,
+"topic": "missing-scientists",
+"via": "Fox News"
+},
+{
+"artefactDate": "2026-04-21",
+"eventDate": null,
+"id": "c-ee2e4cd5c0",
+"node": "missing-scientists-probe-2026",
+"nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Fox News, 21 April 2026",
+"url": null
+},
+"text": "Burlison's staff had been attempting to contact Gen. McCasland regarding a separate congressional investigation before his disappearance.",
+"tier": 2,
+"topic": "missing-scientists",
+"via": "Fox News"
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-cce744bbec",
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: \"President Trump Was Briefed On Alien Hybrids!\"', 2 July 2026, 1:28:33 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said of McCasland that 'I know he was on my list of people to talk to', that David Grusch had sent someone to interview him without getting much out of him, and that in Burlison's view McCasland knew inquiries were being made. Asked about a missing firearm Burlison corrected the host: 'they don't know that he took a gun... Maybe missing. It's not confirmed.' He said the latest information was that McCasland had bought a medical kit at REI (1:28:33 to 1:31:18).",
+"tier": 2,
+"topic": "missing-scientists",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-c1e274eb26",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:36:49 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison described an official visit to NAS Patuxent River at which he asked for and was granted a meeting with Pais, went down the list of the patents, and was told that one of them had been built and tested but that no definitive result was obtained. Burlison said Pais's position was 'that was not built to his specifications', and that Dr. Jon Kosloski was present and was the only other person in the room following the physics (0:36:49 to 0:39:35). Burlison hedged which patent was tested, saying only 'I believe the anti-gravitic one'.",
+"tier": 2,
+"topic": "navy-patents",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-ca4fa52641",
+"node": "pursue-task-force",
+"nodeLabel": "PURSUE Task Force",
+"route": "press",
+"source": {
+"domain": "burlison.house.gov",
+"text": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+},
+"text": "Burlison: 'Independent congressional oversight is a critical part of UAP disclosure, and we are uncertain whether the abrogation of NDAs will apply to testimony received by Congress before referral to the executive branch.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2026-07-29",
+"id": "c-110a5af891",
+"node": "aaron-lukas",
+"nodeLabel": "Aaron Lukas",
+"route": "press",
+"source": {
+"domain": "burlison.house.gov",
+"text": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+},
+"text": "Burlison identified Lukas and ODNI as the source of the implementation guidance he had called for publicly on 29 July 2026.",
+"tier": 2,
+"topic": "records-collection",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2024-10",
+"id": "c-00fe402ae8",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 9 September 2025",
+"url": null
+},
+"text": "Rep. Eric Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2024-10",
+"id": "c-9cf2e25f93",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 9 September 2025",
+"url": null
+},
+"text": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2024-10",
+"id": "c-e95ff1d79b",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+},
+"text": "Rep. Eric Burlison unveiled video for the first time depicting a US military MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-99fa778dbb",
+"node": "uapda-fy2027-house-adopted",
+"nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"route": "press",
+"source": {
+"domain": "burlison.house.gov",
+"text": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+},
+"text": "Burlison: 'The government belongs to the American people. For too long, UAP records have remained scattered across agencies and outside meaningful oversight...'",
+"tier": 2,
+"topic": "uapda",
+"via": null
+},
+{
+"artefactDate": "2026-05-16",
+"eventDate": null,
+"id": "c-6d940e9ef2",
+"node": "d-contractor",
+"nodeLabel": "Prime Contractor Custody",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Newsmax, 16 May 2026",
+"url": null
+},
+"text": "In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors.",
+"tier": 2,
+"topic": null,
+"via": "Newsmax"
+},
+{
+"artefactDate": "2026-06-25",
+"eventDate": null,
+"id": "c-15906049c1",
+"node": "jason-matheny",
+"nodeLabel": "Jason Matheny",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Rep. Eric Burlison, quoted by Cybernews, 25 June 2026, and NewsNation, 15 May 2026",
+"url": null
+},
+"text": "Burlison has stated that his investigation is 'following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
+"tier": 2,
+"topic": null,
+"via": "Cybernews; NewsNation"
 }
 ],
 "cls": "person",

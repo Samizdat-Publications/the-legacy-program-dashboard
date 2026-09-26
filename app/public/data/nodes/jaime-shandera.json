@@ -28,6 +28,15 @@
 "claims": [
 {
 "id": "c-238409647c",
+"meta": {
+"artefactDate": "1987",
+"claimant": "jaime-shandera",
+"claimantLabel": "Jaime H. Shandera",
+"eventDate": "1984-12-11",
+"route": "document",
+"speaker": "Jaime Shandera and William Moore",
+"via": null
+},
 "source": "Jaime Shandera and William Moore, consistent public accounts from 1987 onward",
 "text": "The MJ-12 film arrived anonymously at Shandera's residence on 11 December 1984 bearing an Albuquerque postmark.",
 "tier": 2
@@ -37,6 +46,25 @@
 "source": "National Archives, 'Majestic 12 (MJ-12) Reference Report'",
 "text": "A memorandum for General Twining from Robert Cutler, Special Assistant to the President, subject 'NSC/MJ-12 Special Studies Project,' dated 14 July 1954, was located at the National Archives in Record Group 341, entry 267, folder T4-1846 - the only document in NARA's custody bearing the term MJ-12.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1987",
+"eventDate": "1984-12-11",
+"id": "c-238409647c",
+"node": "jaime-shandera",
+"nodeLabel": "Jaime H. Shandera",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Jaime Shandera and William Moore, consistent public accounts from 1987 onward",
+"url": null
+},
+"text": "The MJ-12 film arrived anonymously at Shandera's residence on 11 December 1984 bearing an Albuquerque postmark.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": null
 }
 ],
 "cls": "person",

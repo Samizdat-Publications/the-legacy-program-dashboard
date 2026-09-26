@@ -9,36 +9,90 @@
 "claims": [
 {
 "id": "c-b740db9dbc",
+"meta": {
+"artefactDate": "1995-05-08",
+"claimant": "phil-schneider",
+"claimantLabel": "Philip Schneider",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
 "text": "In the Post Falls, Idaho lecture of 8 May 1995 Schneider said he was 'involved in building an addition to the deep underground military base at Dulce' and that his job was 'to go down the holes and check the rock samples, and recommend the explosive[s]'. Tier 2 as a record of what he said: the transcript is hosted without a named transcriber and the lecture recording itself carries no captions.",
 "tier": 2
 },
 {
 "id": "c-700fb26e5a",
+"meta": {
+"artefactDate": "1995-05",
+"claimant": "phil-schneider",
+"claimantLabel": "Philip Schneider",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
 "text": "In the same lecture he gave the specification that the whole modern claim rests on: 'It goes down seven levels and over 2.5 miles deep.'",
 "tier": 2
 },
 {
 "id": "c-d4e04e1e84",
+"meta": {
+"artefactDate": "1995-05",
+"claimant": "phil-schneider",
+"claimantLabel": "Philip Schneider",
+"eventDate": "1979",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
 "text": "In the same lecture he described the alleged 1979 firefight: 'We found ourselves amidst a large cavern that was full of outer-space aliens...I shot two of them. At that time, there were 30 people down there. About 40 more came down after this started, and all of them got killed.' The hosting page's own introduction gives a different figure, sixty-six dead. The internal inconsistency is part of the record.",
 "tier": 2
 },
 {
 "id": "c-2d1730ad9e",
+"meta": {
+"artefactDate": "1995-08-14",
+"claimant": "phil-schneider",
+"claimantLabel": "Philip Schneider",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "archive.org items phildenveraugust and philexpo, https://archive.org/details/phildenveraugust , opened 2026-09-19",
 "text": "Two further dated artefacts of the 1995 lecture series exist as archive.org items and bound it: a Denver, Colorado lecture dated 14 August 1995 and a Preparedness Expo talk dated 1 September 1995. Neither carries captions and neither was watched.",
 "tier": 2
 },
 {
 "id": "c-92f3a14e6d",
+"meta": {
+"artefactDate": "2016-08-29",
+"claimant": "norio-hayakawa",
+"claimantLabel": "Norio Hayakawa",
+"eventDate": "1995",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "Schneider was not part of the initial Dulce rumours and emerged only in 1995, according to Norio Hayakawa's dated chronology of the cluster's originators, which places the initial rumours between about 1979 and the early 1980s.",
 "tier": 2
 },
 {
 "id": "c-b8f7d3ce9d",
+"meta": {
+"artefactDate": "2015-05-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996-01-11",
+"route": "document",
+"speaker": "Charles H Proctor III (Find a Grave memorial)",
+"via": null
+},
 "source": "Find a Grave memorial 146890828, created by Charles H Proctor III 23 May 2015, https://www.findagrave.com/memorial/146890828/phil-schneider , opened 2026-09-19",
 "text": "His memorial record gives birth 23 April 1947 at Bethesda, Montgomery County, Maryland and death 11 January 1996 in Clackamas County, Oregon, cremated with ashes given to family or friend. Tier 2: a Find a Grave memorial is better than nothing and is not a certificate.",
 "tier": 2
@@ -54,6 +108,93 @@
 "source": "Inference from the Find a Grave memorial 146890828 and the 8 May 1995 lecture transcript, both opened 2026-09-19",
 "text": "STATED INFERENCE, AND THE CENTRAL NEGATIVE OF THIS NODE. No employment of Philip Schneider by any employer was documented by this board: no employer record, no contract, no clearance record, no payroll. The Morrison Knudsen, Corps of Engineers and US Navy attribution rests on a contributor-written memorial biography and on his own lectures. Reasoning: a claim whose sole support is the claimant plus a user-edited memorial page has no independent documentary support at all, and the node must say so rather than leaving the absence to the gaps file.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1995-05",
+"eventDate": null,
+"id": "c-700fb26e5a",
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"route": "broadcast",
+"source": {
+"domain": "www.difoet.dk",
+"text": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
+"url": "https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm"
+},
+"text": "In the same lecture he gave the specification that the whole modern claim rests on: 'It goes down seven levels and over 2.5 miles deep.'",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "1995-05",
+"eventDate": "1979",
+"id": "c-d4e04e1e84",
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"route": "broadcast",
+"source": {
+"domain": "www.difoet.dk",
+"text": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
+"url": "https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm"
+},
+"text": "In the same lecture he described the alleged 1979 firefight: 'We found ourselves amidst a large cavern that was full of outer-space aliens...I shot two of them. At that time, there were 30 people down there. About 40 more came down after this started, and all of them got killed.' The hosting page's own introduction gives a different figure, sixty-six dead. The internal inconsistency is part of the record.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "1995-05-08",
+"eventDate": null,
+"id": "c-9de5cd15ae",
+"node": "dulce-base",
+"nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"route": "broadcast",
+"source": {
+"domain": "www.difoet.dk",
+"text": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , and Norio Hayakawa, 29 August 2016, both opened 2026-09-19",
+"url": "https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm"
+},
+"text": "THE SPECIFICATION, AND WHERE IT COMES FROM. Every specific number in the modern claim comes from one lecture, at Post Falls, Idaho on 8 May 1995, in which Phil Schneider said the base 'goes down seven levels and over 2.5 miles deep' and described a firefight in which he shot two aliens and about seventy people were killed. He was not part of the initial rumours and arrived fifteen years after they began.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "1995-05-08",
+"eventDate": null,
+"id": "c-b740db9dbc",
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"route": "broadcast",
+"source": {
+"domain": "www.difoet.dk",
+"text": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
+"url": "https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm"
+},
+"text": "In the Post Falls, Idaho lecture of 8 May 1995 Schneider said he was 'involved in building an addition to the deep underground military base at Dulce' and that his job was 'to go down the holes and check the rock samples, and recommend the explosive[s]'. Tier 2 as a record of what he said: the transcript is hosted without a named transcriber and the lecture recording itself carries no captions.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "1995-08-14",
+"eventDate": null,
+"id": "c-2d1730ad9e",
+"node": "phil-schneider",
+"nodeLabel": "Philip Schneider",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "archive.org items phildenveraugust and philexpo, https://archive.org/details/phildenveraugust , opened 2026-09-19",
+"url": "https://archive.org/details/phildenveraugust"
+},
+"text": "Two further dated artefacts of the 1995 lecture series exist as archive.org items and bound it: a Denver, Colorado lecture dated 14 August 1995 and a Preparedness Expo talk dated 1 September 1995. Neither carries captions and neither was watched.",
+"tier": 2,
+"topic": "dulce",
+"via": null
 }
 ],
 "cls": "person",

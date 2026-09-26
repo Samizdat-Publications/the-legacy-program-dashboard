@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-bde51b2525",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 10 June 2026, reporting the 9 June 2026 Capitol press conference",
 "text": "Grusch: 'During my investigation, I found slush funds to the tune of billions of dollars per annum for these activities,' and 'This is also a real fraud, waste and abuse issue.'",
 "tier": 2
 },
 {
 "id": "c-d8c531f3ae",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "1996",
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation"
+},
 "source": "NewsNation coverage of the 9 June 2026 press conference",
 "text": "Grusch stated the US government is aware of several kinds of non-human intelligence and called for declassification including records on the 1996 Varginha incident.",
 "tier": 2
 },
 {
 "id": "c-ee7f1574d9",
+"meta": {
+"artefactDate": "2026-06-10",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 10 June 2026",
 "text": "Grusch accused the Defense Intelligence Agency of obstructing congressional oversight by withholding documents.",
 "tier": 2

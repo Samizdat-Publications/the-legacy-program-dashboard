@@ -29,6 +29,178 @@
 "tier": 3
 }
 ],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-fe034b76a0",
+"node": "blue-book-special-report-14",
+"nodeLabel": "Project Blue Book Special Report No. 14",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
+"url": null
+},
+"text": "The report's data show a higher proportion of unknowns among the highest-quality reports than among the poorest, and statistically significant differences between knowns and unknowns.",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-8bb99172df",
+"node": "plains-san-agustin-1947",
+"nodeLabel": "Plains of San Agustin claim, July 1947",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 1.4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The report proposes that the witnesses may have confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak, areas just outside White Sands Missile Range and the Jornada Test Range where numerous anthropomorphic dummy balloon flights terminated and were recovered.",
+"tier": 2,
+"topic": "crash-claims",
+"via": null
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-e9b7e5fac1",
+"node": "plains-san-agustin-1947",
+"nodeLabel": "Plains of San Agustin claim, July 1947",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The Air Force's 1997 report states the San Agustin claim is supported by three principal testimonies, two second-hand (Maltais, Knight) and one first-hand (Anderson), and that the original alleged eyewitness Grady L. Barnett is deceased.",
+"tier": 2,
+"topic": "crash-claims",
+"via": null
+},
+{
+"artefactDate": "2024-03-15",
+"eventDate": "2023-12-06",
+"id": "c-0cbe20e600",
+"node": "langley-2023-incursions",
+"nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Langley AFB / US Air Force statement to The War Zone, 15 March 2024",
+"url": null
+},
+"text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
+"tier": 1,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "2024-03-15",
+"eventDate": "2023-12-06",
+"id": "c-1a9b0a82bb",
+"node": "l-langley-afb",
+"nodeLabel": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"route": "press",
+"source": {
+"domain": null,
+"text": "US Air Force / Langley AFB statement to The War Zone, 15 March 2024",
+"url": null
+},
+"text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
+"tier": 1,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "1997",
+"eventDate": "1953",
+"id": "c-f2ce17488a",
+"node": "usaf-roswell-reports",
+"nodeLabel": "The Roswell Reports (USAF, 1994-1997)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "USAF, 'The Roswell Report: Case Closed' (1997)",
+"url": null
+},
+"text": "'Case Closed' attributes witness reports of bodies to anthropomorphic test dummies used in high-altitude parachute tests conducted principally between 1953 and 1959.",
+"tier": 2,
+"topic": "official-explanations",
+"via": null
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-9236b650a1",
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 2.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The Air Force identified 1st Lt. Eileen M. Fanton - assigned to the Roswell AAF Station Hospital 26 December 1946 to 4 September 1947, single, 5'1\", 100 lb, black hair, dark eyes, Roman Catholic, later assigned to the 7510th USAF Hospital, APO 240 New York, in England from June 1952 to April 1955 - as matching Dennis's description of the 'missing nurse' in every particular except the name.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-9f893b5607",
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 2.1, 'The Missing Nurse and the Pediatrician' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "A search of Roswell AAF Station Hospital morning reports and rosters, and of the National Personnel Records Center in St. Louis, found no record that a person named Naomi Maria Selff had ever served at Roswell AAF or in any branch of the US armed forces.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+},
+{
+"artefactDate": "1997",
+"eventDate": "1947-07",
+"id": "c-d4e73dc23b",
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 2.1, citing 427th AAFBU Squadron M morning reports — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The certified morning reports of the 427th AAF Base Unit Squadron 'M' show five Army Nurse Corps nurses at Roswell AAF in July 1947; none reassigned on 8 or 9 July 1947; one reassigned 23 July 1947 to Fort Worth AAF by normal rotation and on active duty there until March 1949; none transferred overseas or killed in a plane crash.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+},
+{
+"artefactDate": "1947-09-23",
+"eventDate": null,
+"id": "c-f93ecd8577",
+"node": "twining-memo",
+"nodeLabel": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Twining memorandum, 23 Sep 1947, as reproduced in the standard declassified text",
+"url": null
+},
+"text": "The memo also records that the lack of physical evidence in the form of crash-recovered exhibits was a constraint on AMC's analysis.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "legacy",
 "conflicts": [],

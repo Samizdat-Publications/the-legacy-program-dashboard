@@ -6,24 +6,60 @@
 "claims": [
 {
 "id": "c-745a951e8b",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
 "text": "AARO describes KONA BLUE as 'a Proposed UAP Recovery and Reverse-Engineering Program' that 'was eventually rejected by DHS leadership for lacking merit'.",
 "tier": 1
 },
 {
 "id": "c-fb26e683f0",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
 "text": "AARO states the program was never approved or stood up and that the material it was intended to protect 'was only assumed to exist'.",
 "tier": 1
 },
 {
 "id": "c-ae3f5cd7ea",
+"meta": {
+"artefactDate": "2024",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (reporting on the KONA BLUE document releases)",
+"via": null
+},
 "source": "Reporting on the KONA BLUE document releases, 2024-2026",
 "text": "DHS Under Secretary for Science and Technology Tara O'Toole is identified in released documentation and reporting as having established KONA BLUE before its cancellation.",
 "tier": 2
 },
 {
 "id": "c-00e1c8f5f8",
+"meta": {
+"artefactDate": "2026-04-08",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Jeremy Corbell"
+},
 "source": "James Lacatski to Jeremy Corbell, published 8 April 2026",
 "text": "Lacatski hinted in April 2026 that a smaller, more focused effort related to the proposed KONA BLUE program continued after AAWSAP ended.",
 "tier": 2
@@ -36,18 +72,45 @@
 },
 {
 "id": "c-aaf8048245",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "KONA BLUE was a prospective special access program proposed to DHS and never approved; its lines of effort mirrored the AAWSAP/AATIP private-sector work.",
 "tier": 1
 },
 {
 "id": "c-f8be65f4b2",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "The proposal included an Oral History Initiative targeting 'an already identified and calibrated list of retired, previously highly placed government, armed services, contractor and intelligence community individuals.'",
 "tier": 1
 },
 {
 "id": "c-f55d15edeb",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "AARO: 'No extraterrestrial craft or bodies were ever collected - this material was only assumed to exist by KONA BLUE advocates.'",
 "tier": 1
@@ -60,24 +123,60 @@
 },
 {
 "id": "c-54c273322e",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "NewsNation Reality Check with Ross Coulthart"
+},
 "source": "UAP Gerb, interviewed by Ross Coulthart, NewsNation Reality Check, premiered 4 August 2026",
 "text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
 "tier": 2
 },
 {
 "id": "c-837d5315e5",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "NewsNation Reality Check (episode description)",
+"via": null
+},
 "source": "NewsNation Reality Check episode description, 4 August 2026",
 "text": "The Kona Blue discussion was presented alongside the Immaculate Constellation document and whistleblower Matthew Brown's claims about non-human and reproduction vehicle data.",
 "tier": 2
 },
 {
 "id": "c-8ab1627799",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "KONA BLUE 'would restart UAP investigations, paranormal research... and reverse-engineer any recovered off-world spacecraft that they hoped to acquire,' and a Prospective Special Access Program was officially requested before DHS leadership rejected it.",
 "tier": 1
 },
 {
 "id": "c-45009a78a0",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.'",
 "tier": 1
@@ -102,6 +201,15 @@
 },
 {
 "id": "c-abe51918aa",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, February 2024",
 "text": "AARO's Volume I characterises Kona Blue as a DHS proposal stemming from the cancelled DIA AAWSAP/AATIP effort that DHS leadership rejected as lacking merit.",
 "tier": 1

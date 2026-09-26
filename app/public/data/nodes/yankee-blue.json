@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-5759fb6f3c",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO HRR Vol I, March 2024, full text; AARO annual reports FY2023-FY2025",
 "text": "A full-text search of the released AARO Historical Record Report Volume I returns no occurrence of 'Yankee Blue'. The term is likewise absent from the FY2023, FY2024 and FY2025 consolidated annual reports.",
 "tier": 1
@@ -18,12 +27,30 @@
 },
 {
 "id": "c-34876c5467",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "text": "NEGATIVE PRIMARY FINDING: a full-text search of the released AARO Historical Record Report Volume I (63 pp., DOPSR-cleared 6 Mar 2024) returns zero hits for 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' and 'hazing'. Yankee Blue is NOT documented in HRR Volume I. Any citation of Volume I as the source for the Yankee Blue / Kirtland-AFOSI account is incorrect.",
 "tier": 1
 },
 {
 "id": "c-c214e22b7c",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2021",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "text": "The only named sensitive programs disclosed in HRR Volume I's Section VI ('Investigation into Named USG Sensitive Programs', pp. 33-36) are KONA BLUE, the Virtual Institute for Satellite Integration Training, and an unnamed IC Controlled Access Program 'unnecessarily expanded in 2021 to include a UAP reverse-engineering mission'. Yankee Blue is not among them.",
 "tier": 1
@@ -60,36 +87,90 @@
 },
 {
 "id": "c-823ec63ce1",
+"meta": {
+"artefactDate": "2025-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Wall Street Journal",
+"via": null
+},
 "source": "Wall Street Journal reporting, June 2025, as summarised in FOIA appeal filings",
 "text": "The Wall Street Journal reported in June 2025 that the practice convinced 'hundreds and hundreds of people' they were working on a reverse-engineering programme for alien technology, and that DNI Avril Haines was briefed and described as stunned.",
 "tier": 2
 },
 {
 "id": "c-9e225ffcd3",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (Wall Street Journal investigation)",
+"via": "Wall Street Journal"
+},
 "source": "Wall Street Journal investigation, 6 June 2025",
 "text": "Air Force personnel in classified units were briefed into a fictitious programme called Yankee Blue involving reverse-engineering of alien spacecraft, shown flying-saucer photographs, bound by NDAs, and in some accounts threatened with severe penalties for disclosure.",
 "tier": 2
 },
 {
 "id": "c-52dd0ae38e",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2023",
+"route": "press",
+"speaker": "Wall Street Journal",
+"via": null
+},
 "source": "Wall Street Journal, 6 June 2025",
 "text": "The Office of the Secretary of Defense issued a memorandum in spring 2023 ordering the practice halted immediately.",
 "tier": 2
 },
 {
 "id": "c-aa0c6a5ed9",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (officials, per Wall Street Journal)",
+"via": "Wall Street Journal"
+},
 "source": "Wall Street Journal, 6 June 2025",
 "text": "Officials briefed DNI Avril Haines that 'hundreds and hundreds' of personnel had been affected over decades.",
 "tier": 2
 },
 {
 "id": "c-5bf219624e",
+"meta": {
+"artefactDate": "2025-06",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Wall Street Journal"
+},
 "source": "DoD spokeswoman Susan Gough to the Wall Street Journal, June 2025",
 "text": "A DoD spokeswoman confirmed the findings were not complete when Volume I was released and would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
 "tier": 2
 },
 {
 "id": "c-73179e68ea",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, February 2024, p.30",
 "text": "AARO's Historical Record Report Volume I states that AARO found 'no NDAs that contain information related to UAP.'",
 "tier": 1

@@ -18,12 +18,30 @@
 },
 {
 "id": "c-371eab753d",
+"meta": {
+"artefactDate": "2019-10-17",
+"claimant": "joseph-cannon",
+"claimantLabel": "Dr. Joseph Cannon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "TTSA"
+},
 "source": "Dr. Joseph Cannon, quoted in TTSA announcement, 17 October 2019",
 "text": "'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
 "tier": 2
 },
 {
 "id": "c-3042938ef6",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Doug Halleaux (GVSP spokesman)",
+"via": null
+},
 "source": "Army public affairs statement, 2019",
 "text": "GVSP spokesman Doug Halleaux stated that because the Army's interest is in the potential for novel materials, 'any speculation as to their origin is (pardon the pun) immaterial.'",
 "tier": 2

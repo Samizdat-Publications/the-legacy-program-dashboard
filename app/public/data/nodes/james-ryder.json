@@ -17,6 +17,15 @@
 "claims": [
 {
 "id": "c-83ec6a7b97",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
 "text": "'Well, one of them was named Dr. James Ryder at Lockheed.' - response to a request to name specific gatekeepers of the alleged UAP special access program network.",
 "tier": 2

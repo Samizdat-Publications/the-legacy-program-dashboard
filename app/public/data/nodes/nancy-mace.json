@@ -59,12 +59,30 @@
 },
 {
 "id": "c-3f2554e6c0",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg53022, testimony of David Grusch",
 "text": "Questioned David Grusch under oath at the 26 July 2023 hearing on recovered craft and biologics.",
 "tier": 1
 },
 {
 "id": "c-524ba836ba",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Chairwoman Nancy Mace, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
 "text": "'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.'",
 "tier": 1
@@ -77,6 +95,15 @@
 },
 {
 "id": "c-c48b3a43e2",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "Asked Grusch under oath whether officials at the highest levels 'have unlawfully withheld information from Congress and subverted our oversight authority.'",
 "tier": 1
@@ -95,18 +122,45 @@
 },
 {
 "id": "c-da9f772930",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited: 'biologics came with some of these recoveries... Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
 "tier": 1
 },
 {
 "id": "c-aa9c6ae80a",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited Grusch's offer to provide 'a specific cooperative and hostile witness list of specific individuals' after the hearing.",
 "tier": 1
 },
 {
 "id": "c-ed79f71609",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Task Force on the Declassification of Federal Secrets hearing record, 9 September 2025",
 "text": "'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
 "tier": 1
@@ -116,6 +170,195 @@
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Mace asked whether material is given to particular contractors because of their expertise, offering General Dynamics for undersea propulsion; Elizondo answered 'Yes, ma'am, absolutely correct.'",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-894a80ae6c",
+"node": "ken-klippenstein",
+"nodeLabel": "Ken Klippenstein",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Rep. Nancy Mace, Task Force on the Declassification of Federal Secrets hearing, 9 September 2025",
+"url": null
+},
+"text": "Members of Congress characterize the leak as retaliation: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": "Task Force on the Declassification of Federal Secrets"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-3f2554e6c0",
+"node": "nancy-mace",
+"nodeLabel": "Nancy Ruth Mace",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-118hhrg53022, testimony of David Grusch",
+"url": null
+},
+"text": "Questioned David Grusch under oath at the 26 July 2023 hearing on recovered craft and biologics.",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-aa9c6ae80a",
+"node": "nancy-mace",
+"nodeLabel": "Nancy Ruth Mace",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Elicited Grusch's offer to provide 'a specific cooperative and hostile witness list of specific individuals' after the hearing.",
+"tier": 1,
+"topic": "hearing-2023",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-c48b3a43e2",
+"node": "nancy-mace",
+"nodeLabel": "Nancy Ruth Mace",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-118hhrg53022, 26 July 2023",
+"url": null
+},
+"text": "Asked Grusch under oath whether officials at the highest levels 'have unlawfully withheld information from Congress and subverted our oversight authority.'",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-da9f772930",
+"node": "nancy-mace",
+"nodeLabel": "Nancy Ruth Mace",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Elicited: 'biologics came with some of these recoveries... Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-524ba836ba",
+"node": "nancy-mace",
+"nodeLabel": "Nancy Ruth Mace",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Chairwoman Nancy Mace, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+"url": null
+},
+"text": "'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.'",
+"tier": 1,
+"topic": "hearing-2024",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-c2c819731b",
+"node": "hearing-2024-11-13",
+"nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-118hhrg57440, opening statement of Rep. Mace",
+"url": null
+},
+"text": "Rep. Mace characterised the subject of the hearing as 'a purportedly secret UAP program whose existence and findings may have been improperly withheld from Congress' and described the entered document as 'the original document from the Pentagon about Immaculate Constellation that Michael Shellenberger delivered to Congress today ... 12 pages about this unacknowledged special access program that your government says does not exist.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-da142a826a",
+"node": "hearing-2024-11-13",
+"nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Rep. Nancy Mace, CHRG-118hhrg57440, 13 November 2024",
+"url": null
+},
+"text": "'There are certain individuals who did not want this hearing to happen because they feared what might be disclosed.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-a56bf12ef8",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Rep. Nancy Mace, House Oversight hearing, 13 November 2024 (CHRG-118hhrg57440)",
+"url": null
+},
+"text": "'Committee staff asked me to go ahead, and I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.'",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-b2e834c6bd",
+"node": "us-house",
+"nodeLabel": "United States House of Representatives",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Representative Nancy Mace stated at the same hearing: 'only certain people know the name of the program, and if you do not know it, you cannot get the information.'",
+"tier": 1,
+"topic": "sap-governance",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-ed79f71609",
+"node": "nancy-mace",
+"nodeLabel": "Nancy Ruth Mace",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Task Force on the Declassification of Federal Secrets hearing record, 9 September 2025",
+"url": null
+},
+"text": "'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
+"tier": 1,
+"topic": "task-force-2025",
+"via": null
 }
 ],
 "cls": "person",

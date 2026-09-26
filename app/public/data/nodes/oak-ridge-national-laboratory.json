@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-9a31b9959a",
+"meta": {
+"artefactDate": "2025-04-02",
+"claimant": "kirk-mcconnell",
+"claimantLabel": "Kirk McConnell",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
 "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
 "tier": 2
 },
 {
 "id": "c-7a1dcfe1fa",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2022",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records/Information Papers page, aaro.mil",
 "text": "AARO states: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
 "tier": 1
 },
 {
 "id": "c-5a94a81f13",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2024-04",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records/Information Papers page, aaro.mil — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The resulting report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, concerning a specimen publicly alleged to be from a 1947 crashed extraterrestrial vehicle.",
 "tier": 2
@@ -30,6 +57,15 @@
 },
 {
 "id": "c-17ddeeb978",
+"meta": {
+"artefactDate": "2024-07-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Gizmodo",
+"via": null
+},
 "source": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
 "text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
 "tier": 2

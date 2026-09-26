@@ -21,6 +21,15 @@
 },
 {
 "id": "c-df1dc73d90",
+"meta": {
+"artefactDate": "2025-02-24",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1962",
+"route": "document",
+"speaker": "Pippa Malmgren (biography of Harald Malmgren)",
+"via": "Second Line of Defense"
+},
 "source": "Pippa Malmgren, biography of Harald Malmgren, reproduced in 'Dr. Harald Malmgren Passed', Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/",
 "text": "His daughter's published biography states that Robert McNamara brought him from Cornell, that 'He was assigned to The Institute for Defense Analysis and appointed as the joint liaison between The White House National Security Council and the Joint Chiefs just as the Cuban Missile Crisis began', and that he later headed the Economics Group of the Weapons Systems Evaluation Group. No IDA or Defense Department personnel record was opened for any of it.",
 "tier": 2
@@ -33,6 +42,15 @@
 },
 {
 "id": "c-c2dbcb6933",
+"meta": {
+"artefactDate": "1962-12-07",
+"claimant": "eop",
+"claimantLabel": "Executive Office of the President",
+"eventDate": null,
+"route": "document",
+"speaker": "President John F. Kennedy (Public Papers of the Presidents)",
+"via": null
+},
 "source": "'Remarks at the High School Football Stadium, Los Alamos, New Mexico', 7 December 1962, Public Papers of the Presidents, https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico",
 "text": "The December 1962 visit is real, whatever caused it. Kennedy spoke at Los Alamos on 7 December 1962 with the Vice President present, opening 'Dr. Bradbury, Mr. Vice President, Senator Anderson, Congressman Montoya, Congressman Morris'.",
 "tier": 1

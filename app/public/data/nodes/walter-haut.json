@@ -97,6 +97,15 @@
 },
 {
 "id": "c-64b2984489",
+"meta": {
+"artefactDate": "2002",
+"claimant": "walter-haut",
+"claimantLabel": "Walter Haut",
+"eventDate": "1947",
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "Walter Haut affidavit, executed 2002, released 2007",
 "text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
 "tier": 2
@@ -109,12 +118,30 @@
 },
 {
 "id": "c-7c157d2895",
+"meta": {
+"artefactDate": "1993-05-14",
+"claimant": "walter-haut",
+"claimantLabel": "Walter Haut",
+"eventDate": "1947",
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
 "text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
 "tier": 2
 },
 {
 "id": "c-b70ec8f7b2",
+"meta": {
+"artefactDate": "1980",
+"claimant": "walter-haut",
+"claimantLabel": "Walter Haut",
+"eventDate": "1979",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Interviews quoted in Berlitz and Moore (1980) and Randle and Schmitt, 'UFO Crash at Roswell' (1991)",
 "text": "In 1979 and in a March 1989 interview Haut said he knew nothing about what was recovered and was refused permission to see it - directly inconsistent with the 2002 document's first-hand claims.",
 "tier": 2
@@ -124,6 +151,59 @@
 "source": "Schmitt's and the Haut family's own account of the document's creation",
 "text": "The 2002 'sealed affidavit' should be treated as Schmitt's composition attested by Haut rather than as Haut's testimony, because Schmitt composed and emailed the text and the release was embargoed until Haut could not be questioned about it. Reasoning: stated on the record by Schmitt himself as to authorship and by the family as to the embargo.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1980",
+"eventDate": "1979",
+"id": "c-b70ec8f7b2",
+"node": "walter-haut",
+"nodeLabel": "Walter Haut",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Interviews quoted in Berlitz and Moore (1980) and Randle and Schmitt, 'UFO Crash at Roswell' (1991)",
+"url": null
+},
+"text": "In 1979 and in a March 1989 interview Haut said he knew nothing about what was recovered and was refused permission to see it - directly inconsistent with the 2002 document's first-hand claims.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+},
+{
+"artefactDate": "1993-05-14",
+"eventDate": "1947",
+"id": "c-7c157d2895",
+"node": "walter-haut",
+"nodeLabel": "Walter Haut",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
+"url": null
+},
+"text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+},
+{
+"artefactDate": "2002",
+"eventDate": "1947",
+"id": "c-64b2984489",
+"node": "walter-haut",
+"nodeLabel": "Walter Haut",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "Walter Haut affidavit, executed 2002, released 2007",
+"url": null
+},
+"text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
 }
 ],
 "cls": "person",

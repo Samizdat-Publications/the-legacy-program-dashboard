@@ -42,6 +42,15 @@
 },
 {
 "id": "c-fa90c80e3f",
+"meta": {
+"artefactDate": "2018",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Public ODNI and NRO biographical record, as summarised in WashingtonExec's 2018 report",
+"via": null
+},
 "source": "Public ODNI and NRO biographical record, as summarised in WashingtonExec's 2018 report on his MITRE election",
 "text": "Kerr previously directed Los Alamos National Laboratory and the National Reconnaissance Office before becoming PDDNI.",
 "tier": 2
@@ -60,6 +69,15 @@
 },
 {
 "id": "c-17b7d797a1",
+"meta": {
+"artefactDate": "2007-08-01",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "hearing",
+"speaker": "unnamed (committee member)",
+"via": null
+},
 "source": "S. Hrg. 110-452, 1 August 2007, member statement https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm",
 "text": "A committee member characterised the agency Kerr then led as 'the National Reconnaissance Office, which unfortunately is one of the more troubled and poorly performing agencies within the intelligence community.'",
 "tier": 2

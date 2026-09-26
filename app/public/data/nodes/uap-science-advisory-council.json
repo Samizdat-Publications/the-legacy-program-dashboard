@@ -36,18 +36,45 @@
 },
 {
 "id": "c-f44f24a7d1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-06-17",
+"route": "document",
+"speaker": "Disclosure Archives (AARO release chronology)",
+"via": null
+},
 "source": "Disclosure Archives AARO release chronology",
 "text": "A UAP Science Advisory Council formation was announced on 17 June 2026.",
 "tier": 2
 },
 {
 "id": "c-6af89f358d",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2025-08-01",
+"route": "document",
+"speaker": null,
+"via": "Disclosure Archives"
+},
 "source": "Disclosure Archives AARO release chronology",
 "text": "AARO held a private workshop on UAP data standardisation with civilian researchers and academia on 1 August 2025.",
 "tier": 2
 },
 {
 "id": "c-0dd99125c8",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records page, accessed 12 August 2026",
 "text": "AARO published a 2025 UAP workshop white paper on narrative data, infrastructures and analysis, and added the NPS CTX UAP special issue on 8 July 2026.",
 "tier": 1
@@ -60,36 +87,90 @@
 },
 {
 "id": "c-e69b37291a",
+"meta": {
+"artefactDate": "2026-06-15",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Skeptics Society announcement",
+"via": null
+},
 "source": "Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', 15 June 2026",
 "text": "The council was announced on 15 June 2026 as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, chaired by Avi Loeb.",
 "tier": 2
 },
 {
 "id": "c-b08a4ebbfa",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
 "text": "Loeb wrote that he was 'tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identified a core team of Cloete, Sarmiento, Szydagis, Nandal and Eldadi.",
 "tier": 2
 },
 {
 "id": "c-9586130c7a",
+"meta": {
+"artefactDate": "2026-06-15",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Skeptics Society",
+"via": null
+},
 "source": "Skeptics Society announcement, 15 June 2026",
 "text": "The Skeptics Society listed eleven members: Loeb (chair), Cloete, Gallaudet, Nandal, Nolan, Eldadi, Sarmiento, Shermer, Skafish, Szydagis and Vilhauer.",
 "tier": 2
 },
 {
 "id": "c-779d8a07bb",
+"meta": {
+"artefactDate": "2026-06",
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Sol Foundation announcement, June 2026",
 "text": "The Sol Foundation described a fourteen-member council reporting to a higher-level UAP Governance Board coordinating across military, law enforcement and intelligence agencies, with all shared data unclassified.",
 "tier": 2
 },
 {
 "id": "c-a670522dca",
+"meta": {
+"artefactDate": "2026-06-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Collin Binkley (Associated Press)",
+"via": "Associated Press"
+},
 "source": "Collin Binkley, Associated Press, 30 June 2026",
 "text": "The council has no budget and no access to classified material.",
 "tier": 2
 },
 {
 "id": "c-53ed75d92f",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Loeb, Medium, 29 June 2026; AOL/USA Today reporting, 2 July 2026",
 "text": "Statistician Liberty Vittert was appointed to the council, established by the White House, Pentagon, FBI and intelligence agencies and led by Loeb.",
 "tier": 2
@@ -108,6 +189,15 @@
 },
 {
 "id": "c-20786a94cb",
+"meta": {
+"artefactDate": "2026-06-17",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop; Avi Loeb",
+"via": null
+},
 "source": "DefenseScoop 17 June 2026; Avi Loeb's published accounts, June-July 2026",
 "text": "The council follows the President's February 2026 direction on UAP file releases and sits outside AARO's chain.",
 "tier": 2
@@ -120,18 +210,45 @@
 },
 {
 "id": "c-b3f139de1c",
+"meta": {
+"artefactDate": "2026-06-13",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
 "text": "Avi Loeb's first Medium post on the UAP Science Advisory Council carries article:published_time 2026-06-13T16:20:50Z. His second post, 'More Details on the UAP Science Advisory Council', carries a byline of 16 June 2026; the 29 June 2026 date that has circulated is that post's republish timestamp, not its publication date.",
 "tier": 2
 },
 {
 "id": "c-91fdec5b20",
+"meta": {
+"artefactDate": "2026-06-17",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "Avi Loeb formed and leads the UAP Science Advisory Council, announced June 2026; named members include Carol Cleland, Richard Cloete, Omer Eldadi, Tim Gallaudet, Ross Howard, Ben Lamm, Devesh Nandal, Garry Nolan, Michael Shermer, Peter Skafish, Matthew Szydagis and Jennice Vilhauer.",
 "tier": 2
 },
 {
 "id": "c-c9f74ec474",
+"meta": {
+"artefactDate": "2026-06-17",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "The council reports to the UAP Governance Board, which supports AARO and whose mission includes optimising interagency processes to 'ensure more effective support to' AARO.",
 "tier": 2
@@ -141,6 +258,25 @@
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "The council is the institutional locus where PURSUE's unassessed imagery and AARO's unpublished assessments could be joined; no published product exists as of 12 August 2026. Reasoning: the two programmes have complementary gaps and the council is the only body chartered across both.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-06-17",
+"eventDate": null,
+"id": "c-8f44d878c7",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+},
+"text": "Named a member of the UAP Science Advisory Council announced 17 June 2026.",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "DefenseScoop"
 }
 ],
 "cls": "institution",

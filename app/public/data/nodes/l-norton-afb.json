@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-abdca31a12",
+"meta": {
+"artefactDate": "2000",
+"claimant": "mark-mccandlish",
+"claimantLabel": "Mark McCandlish",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "text": "McCandlish describes the base and the hangar: Norton 'used to be an active Air Force base right on the eastern fringe of San Bernardino in Southern California', and the hangar 'on the base it was called The Big Hangar. It looks like four giant Quonset hut style hangars that are all connected in the middle, with shops and work areas out around the edges, and there is sort of a divider in the middle.'",
 "tier": 2
 },
 {
 "id": "c-b2be72a72e",
+"meta": {
+"artefactDate": "2000-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1981",
+"route": "document",
+"speaker": "Lt Col John Williams",
+"via": null
+},
 "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09",
 "text": "A separate witness in the same document, Lt Col John Williams, who says he 'was in charge of all the construction projects for the Military Air Command' and 'was responsible for that base's facilities from 1981-82', states he knew of a facility at Norton 'that no one was to know about' and that he 'was never allowed in that area'.",
 "tier": 2

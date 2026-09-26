@@ -47,9 +47,37 @@
 },
 {
 "id": "c-f8e494224c",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "joe-spielberger",
+"claimantLabel": "Joe Spielberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Called for strengthened disclosure channels and whistleblower protections for UAP witnesses.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-f8e494224c",
+"node": "joe-spielberger",
+"nodeLabel": "Joe Spielberger",
+"route": "hearing",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+},
+"text": "Called for strengthened disclosure channels and whistleblower protections for UAP witnesses.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
 }
 ],
 "cls": "person",

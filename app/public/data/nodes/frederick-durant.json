@@ -41,9 +41,54 @@
 },
 {
 "id": "c-f37b06ad1e",
+"meta": {
+"artefactDate": "1997",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Haines, CIA Studies in Intelligence 1997, on the classification history of the panel record",
 "text": "The Durant Report circulated for years in redacted form before fuller text was released, obscuring the panel's media recommendations.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1953-02-16",
+"eventDate": null,
+"id": "c-07c75f83a2",
+"node": "robertson-panel",
+"nodeLabel": "Robertson Panel",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Durant memorandum, 16 Feb 1953",
+"url": null
+},
+"text": "The panel reviewed a curated selection of cases over four days and roughly twelve hours of formal session, then issued conclusions covering seventeen years of accumulated reporting.",
+"tier": 2,
+"topic": "robertson-cia-1953",
+"via": null
+},
+{
+"artefactDate": "1953-02-16",
+"eventDate": null,
+"id": "c-ccaabd95db",
+"node": "howard-p-robertson",
+"nodeLabel": "Howard P. Robertson",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Durant memorandum, 16 Feb 1953, recording the schedule of proceedings",
+"url": null
+},
+"text": "The panel reviewed only a curated case selection over roughly twelve hours of formal session across four days.",
+"tier": 2,
+"topic": "robertson-cia-1953",
+"via": null
 }
 ],
 "cls": "person",

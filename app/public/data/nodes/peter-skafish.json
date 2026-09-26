@@ -96,15 +96,52 @@
 },
 {
 "id": "c-dab28fe12f",
+"meta": {
+"artefactDate": "2023-09-12",
+"claimant": "micah-hanks",
+"claimantLabel": "Micah Hanks",
+"eventDate": "2023-08-15",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Micah Hanks, The Debrief, 12 September 2023",
 "text": "Skafish co-founded The Sol Foundation with Garry Nolan on 15 August 2023.",
 "tier": 2
 },
 {
 "id": "c-7991fbf939",
+"meta": {
+"artefactDate": "2026-06-15",
+"claimant": "peter-skafish",
+"claimantLabel": "Peter Skafish",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Sol Foundation announcement; Skeptics Society, 15 June 2026",
 "text": "Skafish was named to the UAP Science Advisory Council in June 2026.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-06-15",
+"eventDate": null,
+"id": "c-7991fbf939",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Sol Foundation announcement; Skeptics Society, 15 June 2026",
+"url": null
+},
+"text": "Skafish was named to the UAP Science Advisory Council in June 2026.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
 }
 ],
 "cls": "person",

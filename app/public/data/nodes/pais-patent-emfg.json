@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-967be2867a",
+"meta": {
+"artefactDate": "2018-11-20",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.freepatentsonline.com/10135366.html",
 "text": "US Patent 10,135,366, 'Electromagnetic field generator and method to generate an electromagnetic field', application 14/807943, filed 24 July 2015, published 20 November 2018, assignee 'The United States of America as represented by the Secretary of the Navy'.",
 "tier": 2
@@ -54,6 +63,15 @@
 },
 {
 "id": "c-fb470865de",
+"meta": {
+"artefactDate": "2021-02-01",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2019-09",
+"route": "press",
+"speaker": "Timothy Boulay, Communications Director, NAWCAD",
+"via": "Brett Tingley, The War Zone"
+},
 "source": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
 "text": "THIS IS THE ONE PAIS DEVICE THE NAVY ACTUALLY TESTED, AND THE TEST FAILED. Timothy Boulay, Communications Director at NAWCAD, on the record to Brett Tingley of The War Zone: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' 'The cost was $508,000 over the course of three years. Around ninety percent of the total - $462,000 - was for salaries, while the rest was used for equipment, test preparation, testing and assessment.' And: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Tier 2 because this is a named official on the record and not a document this board has opened; the underlying FOIA release is not in the board's hands.",
 "tier": 2

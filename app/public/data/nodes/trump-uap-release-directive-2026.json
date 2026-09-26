@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-604ab35821",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 20 February 2026",
 "text": "Trump posted on Truth Social on 19-20 February 2026 that he would direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
 "tier": 2
 },
 {
 "id": "c-dfa877dc23",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 25 February 2026",
 "text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
 "tier": 2
 },
 {
 "id": "c-b8cfe517f7",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "sean-parnell",
+"claimantLabel": "Sean Parnell",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 20 February 2026",
 "text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
 "tier": 2
@@ -30,18 +57,45 @@
 },
 {
 "id": "c-1a356a5c1f",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "text": "Trump directed Hegseth and other departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.'",
 "tier": 2
 },
 {
 "id": "c-a64deafb9c",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "sean-parnell",
+"claimantLabel": "Sean Parnell",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "text": "Sean Parnell: 'The department looks forward to working with the interagency to fulfill the president's directive.'",
 "tier": 2
 },
 {
 "id": "c-bfe3d5c8ae",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Tim Gallaudet; Avi Loeb",
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
 "tier": 2
@@ -66,6 +120,15 @@
 },
 {
 "id": "c-88350e5df7",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Rep. Anna Paulina Luna; Sen. John Fetterman",
+"via": "Al Jazeera"
+},
 "source": "Al Jazeera, 20 February 2026",
 "text": "Rep. Anna Paulina Luna publicly thanked the President as chair of the task force that investigates the subject; Sen. John Fetterman called the decision fantastic.",
 "tier": 2

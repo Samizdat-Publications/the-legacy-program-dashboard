@@ -15,6 +15,15 @@
 },
 {
 "id": "c-91a405bf62",
+"meta": {
+"artefactDate": "2019-01",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The same DIA list credits item 36, \"Negative Mass Propulsion\", to Dr F Winterberg, University of Nevada-Reno.",
 "tier": 2
@@ -39,6 +48,15 @@
 },
 {
 "id": "c-372f104742",
+"meta": {
+"artefactDate": "2011",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "NASA ADS (abstract record)",
+"via": null
+},
 "source": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract",
 "text": "German-American theoretical physicist and research professor at the University of Nevada, Reno, publishing in general relativity, Planck-scale physics, nuclear fusion and plasma physics; published related negative-mass propulsion work in the Journal of the British Interplanetary Society (2011).",
 "tier": 2

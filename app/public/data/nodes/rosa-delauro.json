@@ -15,9 +15,37 @@
 },
 {
 "id": "c-c2b7ec8a8b",
+"meta": {
+"artefactDate": null,
+"claimant": "rosa-delauro",
+"claimantLabel": "Rosa L. DeLauro",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
 "text": "DeLauro was Ranking Member of the House Appropriations Committee during the 118th Congress, serving opposite Chairwoman Kay Granger.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-c2b7ec8a8b",
+"node": "rosa-delauro",
+"nodeLabel": "Rosa L. DeLauro",
+"route": "press",
+"source": {
+"domain": "democrats-appropriations.house.gov",
+"text": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
+"url": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career"
+},
+"text": "DeLauro was Ranking Member of the House Appropriations Committee during the 118th Congress, serving opposite Chairwoman Kay Granger.",
+"tier": 2,
+"topic": "sap-reporting",
+"via": null
 }
 ],
 "cls": "person",

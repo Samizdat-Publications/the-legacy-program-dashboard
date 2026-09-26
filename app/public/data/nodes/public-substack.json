@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-b64f03091c",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('Michael Shellenberger')",
+"via": null
+},
 "source": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Shellenberger is co-founder of Public, a newsletter covering censorship, cities, mental health, addiction, energy and the environment.",
 "tier": 2

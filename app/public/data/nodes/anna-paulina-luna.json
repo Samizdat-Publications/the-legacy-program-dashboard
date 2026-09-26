@@ -174,12 +174,30 @@
 },
 {
 "id": "c-3b4fe766eb",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, opening statement of Rep. Luna",
 "text": "Opening statement, 9 September 2025: 'For too long, the issue of unidentified anomalous phenomena, commonly known as UAPs, has been shrouded in secrecy, stigma, and in some cases outright dismissal. Today, I want to state clearly that this is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.'",
 "tier": 2
 },
 {
 "id": "c-7c66791e3f",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Chairwoman Anna Paulina Luna, opening statement, 9 September 2025, GPO transcript CHRG-119hhrg61718",
 "text": "'The Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations... were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
 "tier": 1
@@ -210,36 +228,90 @@
 },
 {
 "id": "c-7e0d1a17b9",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight (corroborated by Rep. Matt Gaetz)"
+},
 "source": "Luna opening statement, 9 September 2025; corroborated by Gaetz's own account, 26 July 2023",
 "text": "Followed a protected disclosure from multiple active-duty Air Force pilots to Eglin Air Force Base with Gaetz and Burchett, alleging an Air Force cover-up of UAP activity there.",
 "tier": 2
 },
 {
 "id": "c-f322c938bf",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "text": "Called on the White House in June 2026 to grant immunity to whistleblowers who come forward with information including the locations of UAP craft and advanced technology.",
 "tier": 2
 },
 {
 "id": "c-dacbb2935d",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": "2022-04",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited that Grusch spoke with Kirkpatrick in a classified setting in April 2022 and that Kirkpatrick did not follow up.",
 "tier": 1
 },
 {
 "id": "c-fb7b395646",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited that Grusch received prior DoD Prepublication and Security Review approval to speak on the issues he addressed.",
 "tier": 1
 },
 {
 "id": "c-a2e46a16ef",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Luna opening statement, Task Force hearing, 9 September 2025",
 "text": "'This is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.'",
 "tier": 1
 },
 {
 "id": "c-6ecccb6960",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Luna, reacting to the 20 February 2026 presidential directive to release UAP files",
 "text": "'Thank you POTUS! As the Chairwoman of the Task Force that investigates these subjects, we are incredibly grateful.'",
 "tier": 2
@@ -252,6 +324,15 @@
 },
 {
 "id": "c-f597dc05f4",
+"meta": {
+"artefactDate": "2026-04-14",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Liberation Times"
+},
 "source": "Liberation Times, 14 April 2026, quoting DoW spokesperson Susan Gough",
 "text": "Luna demanded more than 46 UAP videos from the Secretary of War by 14 April 2026; the Department stated it would respond directly to the author, and a congressional source said a briefing would be provided in future.",
 "tier": 2
@@ -270,6 +351,15 @@
 },
 {
 "id": "c-2d55fa363b",
+"meta": {
+"artefactDate": "2026-04-01",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": "2025-09",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "House Oversight press release, 1 April 2026, recounting the September 2025 testimony",
 "text": "Witnesses told the Task Force that AARO holds additional video records of potential UAP sightings; Luna wrote to Hegseth on 1 April 2026 seeking them.",
 "tier": 2
@@ -288,6 +378,15 @@
 },
 {
 "id": "c-d809c3c34a",
+"meta": {
+"artefactDate": "2026-05",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Anna Paulina Luna, Sol Foundation interview, May 2026",
 "text": "Luna stated that prior AARO leadership was 'intentionally set up to block, stonewall, and suppress information' and that Kosloski apologised to members of Congress for that conduct.",
 "tier": 2
@@ -306,9 +405,326 @@
 },
 {
 "id": "c-777e817bba",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-06-09",
+"route": "document",
+"speaker": "Wikipedia, 'David Grusch'",
+"via": null
+},
 "source": "https://en.wikipedia.org/wiki/David_Grusch",
 "text": "Helped organise the 9 June 2026 Capitol-steps press conference at which David Grusch described a continuum of alleged non-human life.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-05",
+"eventDate": null,
+"id": "c-d3592d598f",
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Rep. Anna Paulina Luna, Sol Foundation interview, reported May 2026",
+"url": null
+},
+"text": "Kosloski met Reps. Luna and Burchett in May 2026 and apologised for the conduct of AARO's prior leadership.",
+"tier": 2,
+"topic": "aaro",
+"via": "Sol Foundation"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-fb7b395646",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Elicited that Grusch received prior DoD Prepublication and Security Review approval to speak on the issues he addressed.",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2026-06-09",
+"eventDate": null,
+"id": "c-35af88b5ee",
+"node": "capitol-disclosure-event-2026-06-09",
+"nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation/The Hill, 9 June 2026",
+"url": null
+},
+"text": "Rep. Luna said lawmakers are requesting that the White House grant immunity to whistleblowers who come forward with information, including the locations of UFOs and advanced technology.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "NewsNation/The Hill"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-1ac30f5fe1",
+"node": "us-house",
+"nodeLabel": "United States House of Representatives",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Chairwoman Anna Paulina Luna stated on 9 September 2025: 'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"tier": 1,
+"topic": "sap-governance",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-7ff5893738",
+"node": "us-house",
+"nodeLabel": "United States House of Representatives",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Chairwoman Luna stated: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"tier": 1,
+"topic": "sap-governance",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": "2022-04",
+"id": "c-dacbb2935d",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Elicited that Grusch spoke with Kirkpatrick in a classified setting in April 2022 and that Kirkpatrick did not follow up.",
+"tier": 1,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-3b4fe766eb",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, opening statement of Rep. Luna",
+"url": null
+},
+"text": "Opening statement, 9 September 2025: 'For too long, the issue of unidentified anomalous phenomena, commonly known as UAPs, has been shrouded in secrecy, stigma, and in some cases outright dismissal. Today, I want to state clearly that this is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.'",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-7c66791e3f",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Chairwoman Anna Paulina Luna, opening statement, 9 September 2025, GPO transcript CHRG-119hhrg61718",
+"url": null
+},
+"text": "'The Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations... were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"tier": 1,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-7e0d1a17b9",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Luna opening statement, 9 September 2025; corroborated by Gaetz's own account, 26 July 2023",
+"url": null
+},
+"text": "Followed a protected disclosure from multiple active-duty Air Force pilots to Eglin Air Force Base with Gaetz and Burchett, alleging an Air Force cover-up of UAP activity there.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "House Oversight (corroborated by Rep. Matt Gaetz)"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-a2e46a16ef",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Luna opening statement, Task Force hearing, 9 September 2025",
+"url": null
+},
+"text": "'This is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.'",
+"tier": 1,
+"topic": "task-force-2025",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-d1a66ac2c6",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, opening statement of Rep. Luna",
+"url": null
+},
+"text": "Opening statement of Chairwoman Anna Paulina Luna: 'For too long, the issue of unidentified anomalous phenomena, commonly known as UAPs, has been shrouded in secrecy, stigma, and in some cases outright dismissal. Today, I want to state clearly that this is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.' She further stated she had 'spoken now to a number of whistleblowers from the military to include the infamous Eglin Air Force Base incident'.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-6ecccb6960",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Luna, reacting to the 20 February 2026 presidential directive to release UAP files",
+"url": null
+},
+"text": "'Thank you POTUS! As the Chairwoman of the Task Force that investigates these subjects, we are incredibly grateful.'",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2026-04-01",
+"eventDate": "2025-09",
+"id": "c-2d55fa363b",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight press release, 1 April 2026, recounting the September 2025 testimony",
+"url": null
+},
+"text": "Witnesses told the Task Force that AARO holds additional video records of potential UAP sightings; Luna wrote to Hegseth on 1 April 2026 seeking them.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2026-04-14",
+"eventDate": null,
+"id": "c-f597dc05f4",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Liberation Times, 14 April 2026, quoting DoW spokesperson Susan Gough",
+"url": null
+},
+"text": "Luna demanded more than 46 UAP videos from the Secretary of War by 14 April 2026; the Department stated it would respond directly to the author, and a congressional source said a briefing would be provided in future.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "Liberation Times"
+},
+{
+"artefactDate": "2026-04-17",
+"eventDate": "2026-04",
+"id": "c-362a326610",
+"node": "luna-hegseth-video-letter-2026",
+"nodeLabel": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 17 April 2026",
+"url": null
+},
+"text": "The Pentagon missed the video deadline in mid-April 2026 and Luna publicly raised a subpoena.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "NewsNation"
+},
+{
+"artefactDate": "2026-05",
+"eventDate": null,
+"id": "c-d809c3c34a",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Rep. Anna Paulina Luna, Sol Foundation interview, May 2026",
+"url": null
+},
+"text": "Luna stated that prior AARO leadership was 'intentionally set up to block, stonewall, and suppress information' and that Kosloski apologised to members of Congress for that conduct.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2026-06-09",
+"eventDate": null,
+"id": "c-f322c938bf",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation/The Hill, 9 June 2026",
+"url": null
+},
+"text": "Called on the White House in June 2026 to grant immunity to whistleblowers who come forward with information including the locations of UAP craft and advanced technology.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "NewsNation/The Hill"
+},
+{
+"artefactDate": null,
+"eventDate": "2026-03",
+"id": "c-c57b3d6eaf",
+"node": "hr-8197",
+"nodeLabel": "H.R. 8197 (119th Congress) - bill to abolish AARO",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sentinel News, 'The AARO Saga'; contemporaneous reporting",
+"url": null
+},
+"text": "Rep. Luna recommended AARO's complete defunding to the DOGE subcommittee in March 2026.",
+"tier": 2,
+"topic": null,
+"via": "Sentinel News"
 }
 ],
 "cls": "person",

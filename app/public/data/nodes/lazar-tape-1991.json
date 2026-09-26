@@ -12,12 +12,30 @@
 },
 {
 "id": "c-75bfff1b37",
+"meta": {
+"artefactDate": "2026-09-18",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "internal editorial note (caption retrieval via TubeAlfred connector)",
+"via": null
+},
 "source": "YouTube video kc10m6HFbDE, captions retrieved via the TubeAlfred connector, 2026-09-18 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Its English auto-generated captions were retrieved in full on 18 September 2026 through the YouTube mirror at video identifier kc10m6HFbDE: 1,046 caption segments running to 38:39, which matches the forty-minute runtime given by the Internet Archive item.",
 "tier": 2
 },
 {
 "id": "c-6bde1fef66",
+"meta": {
+"artefactDate": "1991",
+"claimant": "bob-lazar",
+"claimantLabel": "Robert \"Bob\" Lazar",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
 "text": "It is the anchor for the following claims elsewhere on this board, each with a timestamp: the S-4 siting and employment dates at 1:54 to 2:22; payment 'by the United States Navy' at 2:19; the bussing from Groom at 27:16; the nine hangar doors at 28:01; the badge description at 28:13; the blue-folder briefings at 31:50; the nine discs at 24:24; the gravity A and gravity B distinction at 9:54 to 11:07; the identification of gravity A with the strong nuclear force at 10:43; the claim that the field extends past the perimeter of the atom at 14:14; the element 115 reactor and antimatter account at 18:42 to 23:22; the 223 grams and 1740 degrees Celsius figures at 23:31; the machining into triangles at 25:34; and the Edward Teller anecdote at 35:48 to 36:32.",
 "tier": 2

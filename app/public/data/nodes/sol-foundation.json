@@ -48,12 +48,30 @@
 },
 {
 "id": "c-738ed37641",
+"meta": {
+"artefactDate": "2023-09-12",
+"claimant": "micah-hanks",
+"claimantLabel": "Micah Hanks",
+"eventDate": "2023-08-15",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Micah Hanks, The Debrief, 12 September 2023",
 "text": "The foundation was co-founded by Garry Nolan and Peter Skafish on 15 August 2023.",
 "tier": 2
 },
 {
 "id": "c-1e4302f3ea",
+"meta": {
+"artefactDate": "2026-06",
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
 "text": "In June 2026 the foundation announced that its co-founders Nolan and Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard had been named to the fourteen-member UAP Science Advisory Council, which reports to a higher-level UAP Governance Board and works only with unclassified data.",
 "tier": 2
@@ -72,21 +90,220 @@
 },
 {
 "id": "c-e6fe23cd65",
+"meta": {
+"artefactDate": null,
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
 "text": "Sol Foundation co-founders Garry Nolan and Peter Skafish were named to the UAP Science Advisory Council; the foundation states the council was announced by the Office of the Director of National Intelligence with the support of the FBI and reports to an interagency UAP Governance Board.",
 "tier": 2
 },
 {
 "id": "c-13ff9228d9",
+"meta": {
+"artefactDate": null,
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
 "text": "'All data shared with the council will be unclassified.'",
 "tier": 2
 },
 {
 "id": "c-034eb78877",
+"meta": {
+"artefactDate": "2026-04",
+"claimant": "marik-von-rennenkampff",
+"claimantLabel": "Marik von Rennenkampff",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "The Sol Foundation"
+},
 "source": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
 "text": "Sol Foundation Science and Policy Briefing No. 3 (April 2026), by Marik von Rennenkampff, presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, associated with Garry Nolan.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-06",
+"eventDate": null,
+"id": "c-1567c2cf52",
+"node": "jacob-haqq-misra",
+"nodeLabel": "Jacob Haqq-Misra",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Sol Foundation announcement, June 2026",
+"url": null
+},
+"text": "The Sol Foundation described the appointment of its co-founders, Gallaudet and Haqq-Misra to the government's scientific advisory body as 'a fulfillment of its founding mission'.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": "2026-06",
+"eventDate": null,
+"id": "c-1e4302f3ea",
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": null
+},
+"text": "In June 2026 the foundation announced that its co-founders Nolan and Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard had been named to the fourteen-member UAP Science Advisory Council, which reports to a higher-level UAP Governance Board and works only with unclassified data.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": "2026-06",
+"eventDate": null,
+"id": "c-779d8a07bb",
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Sol Foundation announcement, June 2026",
+"url": null
+},
+"text": "The Sol Foundation described a fourteen-member council reporting to a higher-level UAP Governance Board coordinating across military, law enforcement and intelligence agencies, with all shared data unclassified.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-13ff9228d9",
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"route": "document",
+"source": {
+"domain": "thesolfoundation.org",
+"text": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+"text": "'All data shared with the council will be unclassified.'",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2026-06",
+"id": "c-7392a2a789",
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"route": "document",
+"source": {
+"domain": "thesolfoundation.org",
+"text": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+"text": "Named to the UAP Science Advisory Council alongside co-founder Peter Skafish in June 2026.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2026-06",
+"id": "c-bd86395c0b",
+"node": "jacob-haqq-misra",
+"nodeLabel": "Jacob Haqq-Misra",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": null
+},
+"text": "Haqq-Misra, an astrobiologist and Sol Foundation advisory board member, was named to the UAP Science Advisory Council in June 2026.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-e6fe23cd65",
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"route": "document",
+"source": {
+"domain": "thesolfoundation.org",
+"text": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+"text": "Sol Foundation co-founders Garry Nolan and Peter Skafish were named to the UAP Science Advisory Council; the foundation states the council was announced by the Office of the Director of National Intelligence with the support of the FBI and reports to an interagency UAP Governance Board.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-8e419391d3",
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"route": "document",
+"source": {
+"domain": "thesolfoundation.org",
+"text": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+"text": "All data shared with the council will be unclassified.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": "2025-10",
+"eventDate": null,
+"id": "c-8c59387185",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Sol Foundation, 2025 Symposium speaker list — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Barber was a named speaker at the 2025 Sol Foundation Symposium, 24-27 October 2025.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-7b63a9e6ce",
+"node": "jim-semivan",
+"nodeLabel": "James 'Jim' Semivan",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Sol Foundation official biography",
+"url": null
+},
+"text": "Held Senior Intelligence Service status, served as Chief of Operations to the National Clandestine Service and chief of a key operational unit, and received the Agency's Career Intelligence Medal.",
+"tier": 2,
+"topic": "ttsa",
+"via": null
 }
 ],
 "cls": "institution",

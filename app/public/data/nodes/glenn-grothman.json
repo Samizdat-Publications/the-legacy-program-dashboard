@@ -35,12 +35,30 @@
 "claims": [
 {
 "id": "c-5a34992747",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "glenn-grothman",
+"claimantLabel": "Glenn S. Grothman",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Chairman Glenn Grothman, opening statement, 26 July 2023, GPO CHRG-118hhrg53022",
 "text": "'The lack of transparency regarding UAPs has fueled wild speculation and debate for decades, eroding public trust in the very institutions that are meant to serve and protect them.'",
 "tier": 1
 },
 {
 "id": "c-2ca2b4bf41",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "glenn-grothman",
+"claimantLabel": "Glenn S. Grothman",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Grothman, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
 "text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
 "tier": 1
@@ -53,9 +71,54 @@
 },
 {
 "id": "c-0cd07eddba",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited Grusch's unclassified characterization of his complaint: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with intelligence professionals that are actually doing step briefs to pilots.'",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-2ca2b4bf41",
+"node": "glenn-grothman",
+"nodeLabel": "Glenn S. Grothman",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Rep. Grothman, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+"url": null
+},
+"text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
+"tier": 1,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-5a34992747",
+"node": "glenn-grothman",
+"nodeLabel": "Glenn S. Grothman",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Chairman Glenn Grothman, opening statement, 26 July 2023, GPO CHRG-118hhrg53022",
+"url": null
+},
+"text": "'The lack of transparency regarding UAPs has fueled wild speculation and debate for decades, eroding public trust in the very institutions that are meant to serve and protect them.'",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
 }
 ],
 "cls": "person",

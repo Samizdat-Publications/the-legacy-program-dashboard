@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-5ba9eae189",
+"meta": {
+"artefactDate": "2022-05-25",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": "Charles McCullough III (counsel)"
+},
 "source": "Grusch sworn testimony 26 July 2023; The Debrief 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
 "text": "Filed 25 May 2022 with the ICIG by counsel Charles McCullough III; found credible and urgent in July 2022.",
 "tier": 1
@@ -18,6 +27,15 @@
 },
 {
 "id": "c-23942641f5",
+"meta": {
+"artefactDate": "2023-06-13",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": "Liberation Times"
+},
 "source": "Unclassified reprisal complaint reported by Liberation Times, 13 June 2023",
 "text": "The reprisal complaint alleges Grusch's identity and his DoD IG communications were disclosed to DoD and IC entities outside the IG's office.",
 "tier": 2

@@ -18,18 +18,45 @@
 },
 {
 "id": "c-e38c69fd2e",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "The proportion that spoke: Klass records that the book published alongside the event 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.' NO OPENED SOURCE LISTS THE TWENTY, and this board should never infer a podium appearance from a printed testimony.",
 "tier": 2
 },
 {
 "id": "c-f49fc56b50",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1997",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "It controlled access to its own press events. Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001.",
 "tier": 2
 },
 {
 "id": "c-406af5d95f",
+"meta": {
+"artefactDate": "2001-05-09",
+"claimant": "disclosure-project",
+"claimantLabel": "The Disclosure Project",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage",
 "text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
 "tier": 2
@@ -45,6 +72,42 @@
 "source": "Inference from the sequence recorded in the Wilson-Davis notes, which place Wilson's inquiry immediately after exposure to the Greer briefing material.",
 "text": "The Disclosure Project's April 1997 Washington briefing week is the proximate trigger recorded in the Wilson-Davis notes for Admiral Thomas Wilson's 1997 attempt to locate the special access programme.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2001-04",
+"eventDate": null,
+"id": "c-0e89e64fb8",
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "The document's own editorial header describes him, not as an engineer, but as follows: 'Mark McCandlish is an accomplished aerospace illustrator and has worked for many of the top aerospace corporations in the United States.'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": null
+},
+{
+"artefactDate": "2001-05-09",
+"eventDate": null,
+"id": "c-406af5d95f",
+"node": "disclosure-project",
+"nodeLabel": "The Disclosure Project",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage",
+"url": null
+},
+"text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
 }
 ],
 "cls": "program",

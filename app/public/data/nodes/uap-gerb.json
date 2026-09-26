@@ -91,24 +91,60 @@
 },
 {
 "id": "c-f10e060269",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', YouTube, 7 August 2026 (published description and chapter list) — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The MITRE investigation was published on 7 August 2026 and states that MITRE operates six FFRDCs and fifteen MITRE Labs and has served as a long-term strategic partner in the US Government's most national-security-sensitive national programs.",
 "tier": 2
 },
 {
 "id": "c-0dc9c0c4a1",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1958",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 7 August 2026, video description",
 "text": "Alleges an additional hidden impetus for MITRE's 1958 founding: the construction of a trusted long-term partner answerable only to its DoD customer to spearhead technology reverse engineering and exploitation from recovered UFOs.",
 "tier": 2
 },
 {
 "id": "c-a4df724d67",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1958",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 7 August 2026, video description",
 "text": "Alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies deemed exploitable from late-1940s recoveries, central to the MITRE portfolio since 1958; and the tracking and possible collection tasking against a very large unidentified submerged object with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE.",
 "tier": 2
 },
 {
 "id": "c-e3bb5a2667",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2011",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 7 August 2026, video description",
 "text": "Alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
 "tier": 2
@@ -121,66 +157,165 @@
 },
 {
 "id": "c-5dc4eabd2c",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', published 7 August 2026",
 "text": "FFRDCs are 'the missing link' in USG-led, defense-contractor-supported legacy programs: they allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
 "tier": 2
 },
 {
 "id": "c-5a0d8fa58d",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1958",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
 "text": "MITRE's role spans two Navy-spearheaded legacy programs: (1) reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to MITRE's portfolio since its 1958 inception; and (2) tracking and monitoring of an enormous USO - a 'tic tac factory' - with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE.",
 "tier": 2
 },
 {
 "id": "c-32d13b52f3",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2011",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
 "text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
 "tier": 2
 },
 {
 "id": "c-9d7202b128",
+"meta": {
+"artefactDate": "2026-05-01",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1947",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, published 1 May 2026",
 "text": "A centralized UFO recovery and exploitation effort was founded in 1947 and its security apparatus was taken from the Manhattan Project and the Atomic Energy Commission - compartmentalization, organizational architecture, physical security, classification/information control, and political shield.",
 "tier": 2
 },
 {
 "id": "c-4bea1dda1f",
+"meta": {
+"artefactDate": "2026-05-01",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
 "text": "Presidents Truman and Eisenhower vested custody of recovered disks within Atomic Energy Commission national laboratories, established the control group under the National Security Council and its 5412 Committee, and safeguarded the programs with statutory authority under the Atomic Energy Act of 1954. Vannevar Bush and General George C. Marshall are named as architects, with the Alsos Missions and T-Force as the template for crash-retrieval teams.",
 "tier": 2
 },
 {
 "id": "c-a6398be599",
+"meta": {
+"artefactDate": "2026-06-19",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1994",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'Special Access Required' Vol.2, published 19 June 2026",
 "text": "In 1994 the Special Access Program enterprise was restructured to gatekeep USG access and vest permanent control of the UFO portfolio in a quasi-industry and government control group; the portfolio now exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know (MNTK) access and completely waived reporting and budgetary requirements.",
 "tier": 2
 },
 {
 "id": "c-57ba3bcfaa",
+"meta": {
+"artefactDate": "2025-12-13",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2017",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers', published 13 December 2025",
 "text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017; the NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range; gatekeepers are identifiable through USD(A&S) and DDNI(AT&F), the offices controlling NRO acquisitions.",
 "tier": 2
 },
 {
 "id": "c-5a1dad12f3",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'Northrop Grumman & TRW' Vol.2, published 20 March 2026",
 "text": "Northrop Grumman may have used IRAD (Independent Research and Development) funds at the onset of the War on Terror to self-fund its own UFO retrieval and exploitation programs, unaccountable to its original government handler - a 'breakaway' in the early 2000s.",
 "tier": 2
 },
 {
 "id": "c-67fdd8e2d1",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'The Hidden Wing - US Air Force UFO Reverse Engineering Programs', published 30 January 2026",
 "text": "Current USAF legacy involvement sits in SAF/AQ (with SAF/AQX, SAF/AQL Special Programs, SAF/AQR), SAF/AA, AF/TE and AFOSI; SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure likely constitute the Air Force SES-2 gatekeeper Christopher Mellon has referred to; AFOSI/PJ (Office of Special Projects) and its former director Terry Phillips, now Northrop Grumman VP for Security, are central.",
 "tier": 2
 },
 {
 "id": "c-3f1aca2f5d",
+"meta": {
+"artefactDate": "2024-02-18",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1947",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, video description, 'UFOs in the Private Sector - Battelle Memorial Institute', published 18 February 2024, citing Project Stork progress reports and Special Report No. 14",
 "text": "Battelle studied UAP material - likely a shape-memory metallic alloy from the 1947 Roswell site, now referred to as nitinol - and participated with the USAF in building a machine index of UFO reports and in quelling public interest.",
 "tier": 2
 },
 {
 "id": "c-533544ad2e",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "NewsNation Reality Check with Ross Coulthart"
+},
 "source": "UAP Gerb interviewed by Ross Coulthart, NewsNation 'Reality Check', premiered 4 August 2026",
 "text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
 "tier": 2
@@ -190,6 +325,994 @@
 "source": "Citation list published in the video description, 18 February 2024",
 "text": "Gerb's Battelle investigation cites verifiable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC research and development reports at the UNT digital library, and the Defense.gov transcript of the Moultrie roundtable.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-10-21",
+"eventDate": "1988",
+"id": "c-4b574a5d5b",
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "YouTube listing for video wF07QMm6joE, https://www.youtube.com/watch?v=wF07QMm6joE , opened 18 September 2026, published 2024-10-21",
+"url": "https://www.youtube.com/watch?v=wF07QMm6joE"
+},
+"text": "UAP Gerb devotes a full episode to the account. The YouTube listing for video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', was published on 21 October 2024 and runs 01:09:12. Its description opens 'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...'.",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": null
+},
+{
+"artefactDate": "2026-03-20",
+"eventDate": "1946-12-31",
+"id": "c-6a6e082f05",
+"node": "afswp",
+"nodeLabel": "Armed Forces Special Weapons Project",
+"route": "interview",
+"source": {
+"domain": "archive.org",
+"text": "Batch 17 file 03, 1:28;19-1:29;13, research/leads/area52-corpus-17.md; contradicted by War Department Memorandum No. 850-25-8, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+"text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb said AFSWP 'was formed in between 1947 and 1948 at Los Alamos Z division which of course is San Dia base' and was 'a founded joint venture under it was the Navy and some element of IC', 'founded under James Forestall'. The opened record contradicts the date, the founding authority and the composition: it was effective 31 December 1946, it was an Army-Navy organisation with no intelligence component in its charter, and Forrestal signed jointly with the Secretary of War.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": "Debriefed"
+},
+{
+"artefactDate": "2026-03-20",
+"eventDate": null,
+"id": "c-956b7eef41",
+"node": "dtra",
+"nodeLabel": "Defense Threat Reduction Agency",
+"route": "broadcast",
+"source": {
+"domain": "www.archives.gov",
+"text": "Batch 17 file 03, 0:43;33-0:44;22, research/leads/area52-corpus-17.md; checked against RG 374, https://www.archives.gov/research/guide-fed-records/groups/374.html and 63 FR 68736, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/374.html"
+},
+"text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb, relaying Dylan Borland's testimony, said that 'old Atomic Energy Commission records held within' DTRA concluded that some UFOs were of non-human origin. No title, number or date was given. Nothing opened for this node supports it: the AEC's own records are in a separate National Archives record group, and DTRA's published inventory of what it holds from that era is nuclear test participation, exposure and human radiation experimentation records.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": "Debriefed"
+},
+{
+"artefactDate": "2026-05-01",
+"eventDate": "1947",
+"id": "c-608197f302",
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"url": null
+},
+"text": "A centralized UFO recovery and exploitation effort was founded in 1947 with a security apparatus taken directly from the Manhattan Project and the Atomic Energy Commission.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2026-05-01",
+"eventDate": "1954",
+"id": "c-a5ff1c6c9c",
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"url": null
+},
+"text": "Truman and Eisenhower vested custody of NHI disks within AEC national laboratories, established the control group under the NSC and its 5412 Committee, and safeguarded the programs under the Atomic Energy Act of 1954.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2024-02-18",
+"eventDate": null,
+"id": "c-3770c161f2",
+"node": "gerb-battelle-investigation",
+"nodeLabel": "UAP Gerb - Battelle Memorial Institute investigation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Battelle investigation description, 18 February 2024",
+"url": null
+},
+"text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": null
+},
+{
+"artefactDate": "2024-02-18",
+"eventDate": "1947",
+"id": "c-e3c3593fbb",
+"node": "gerb-battelle-investigation",
+"nodeLabel": "UAP Gerb - Battelle Memorial Institute investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Battelle investigation description, 18 February 2024",
+"url": null
+},
+"text": "Battelle studied UAP material, likely a shape-memory metallic alloy found at the 1947 Roswell crash site and now referred to as nitinol, as documented by Jacques Vallee with a supporting paper trail.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": null
+},
+{
+"artefactDate": "2025-12-13",
+"eventDate": null,
+"id": "c-ba8f050fa6",
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, NRO investigation description, 13 December 2025",
+"url": null
+},
+"text": "The NRO displayed egregious misappropriation of funds via carry-over appropriations in the mid-1990s that may relate to obfuscated UFO programs.",
+"tier": 2,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": "2025-08-04",
+"eventDate": null,
+"id": "c-0d0224cc36",
+"node": "project-azorian",
+"nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
+"tier": 2,
+"topic": "cia-secrecy-precedents",
+"via": "Danny Jones Podcast"
+},
+{
+"artefactDate": "2025-08-04",
+"eventDate": null,
+"id": "c-9723974b85",
+"node": "us-v-pelton-1986",
+"nodeLabel": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:28:33, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:28:33, the guest who identifies himself only as UAP Gerb said Ivy Bells was an undersea cable tapping programme run under a National Underwater Reconnaissance Office. The federal filing opened for this node names no operation, no codename, no cable, no sea area and no submarine, and neither NURO nor National Underwater Reconnaissance occurs anywhere in the fifty released pages of the AZORIAN history.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": "Danny Jones Podcast"
+},
+{
+"artefactDate": "2026-05-12",
+"eventDate": "2026-05-08",
+"id": "c-59c1b1c96b",
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb livestream description, 12 May 2026",
+"url": null
+},
+"text": "Greer held a National Press Club event on 8 May 2026.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-1cf6dd04be",
+"node": "gerb-hidden-wing",
+"nodeLabel": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"url": null
+},
+"text": "AFOSI/PJ (Office of Special Projects) and its former director Terry Phillips, now Northrop Grumman VP for Security, are alleged operative nodes.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-4a61c13c2f",
+"node": "gerb-hidden-wing",
+"nodeLabel": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"url": null
+},
+"text": "SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure likely serve as the Air Force SES-2 gatekeeper mentioned by Christopher Mellon.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-5d28828837",
+"node": "gerb-hidden-wing",
+"nodeLabel": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"url": null
+},
+"text": "Alleged USAF legacy involvement is concentrated in SAF/AQ (with SAF/AQX, SAF/AQL Special Programs and SAF/AQR), SAF/AA, AF/TE and AFOSI.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
+},
+{
+"artefactDate": "2024-02-18",
+"eventDate": "1947",
+"id": "c-3f1aca2f5d",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'UFOs in the Private Sector - Battelle Memorial Institute', published 18 February 2024, citing Project Stork progress reports and Special Report No. 14",
+"url": null
+},
+"text": "Battelle studied UAP material - likely a shape-memory metallic alloy from the 1947 Roswell site, now referred to as nitinol - and participated with the USAF in building a machine index of UFO reports and in quelling public interest.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-11-01",
+"eventDate": "1949",
+"id": "c-d6cfaecf2c",
+"node": "gerb-sandia-investigation",
+"nodeLabel": "UAP Gerb - Sandia National Laboratories investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Sandia investigation description, 1 November 2025, restating public record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Sandia is one of three NNSA R&D laboratories, is an FFRDC sponsored by the Department of Energy, was founded in 1949 and has management history involving AT&T, Lockheed Martin and Honeywell.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-11-01",
+"eventDate": null,
+"id": "c-f7e7223863",
+"node": "gerb-sandia-investigation",
+"nodeLabel": "UAP Gerb - Sandia National Laboratories investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Sandia investigation description, 1 November 2025",
+"url": null
+},
+"text": "Former New Mexico State Representative J. Andrew Kissner interviewed individuals within legacy programmes and learned that UFO materials were kept in the hands of AEC laboratories such as Sandia.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-12-13",
+"eventDate": null,
+"id": "c-0869732034",
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, NRO investigation description, 13 December 2025",
+"url": null
+},
+"text": "The NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-12-13",
+"eventDate": "2017",
+"id": "c-38b091b140",
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, NRO investigation description, 13 December 2025",
+"url": null
+},
+"text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-12-13",
+"eventDate": "2017",
+"id": "c-57ba3bcfaa",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers', published 13 December 2025",
+"url": null
+},
+"text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017; the NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range; gatekeepers are identifiable through USD(A&S) and DDNI(AT&F), the offices controlling NRO acquisitions.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-12-13",
+"eventDate": null,
+"id": "c-9fd8557f12",
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, NRO investigation description, 13 December 2025",
+"url": null
+},
+"text": "Senior legacy gatekeepers are identifiable by analysing USD(A&S) and DDNI(AT&F), the DoD/IC offices controlling NRO acquisitions.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-67fdd8e2d1",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'The Hidden Wing - US Air Force UFO Reverse Engineering Programs', published 30 January 2026",
+"url": null
+},
+"text": "Current USAF legacy involvement sits in SAF/AQ (with SAF/AQX, SAF/AQL Special Programs, SAF/AQR), SAF/AA, AF/TE and AFOSI; SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure likely constitute the Air Force SES-2 gatekeeper Christopher Mellon has referred to; AFOSI/PJ (Office of Special Projects) and its former director Terry Phillips, now Northrop Grumman VP for Security, are central.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-03-20",
+"eventDate": null,
+"id": "c-5a1dad12f3",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'Northrop Grumman & TRW' Vol.2, published 20 March 2026",
+"url": null
+},
+"text": "Northrop Grumman may have used IRAD (Independent Research and Development) funds at the onset of the War on Terror to self-fund its own UFO retrieval and exploitation programs, unaccountable to its original government handler - a 'breakaway' in the early 2000s.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-03-20",
+"eventDate": null,
+"id": "c-6e7381fd4e",
+"node": "gerb-northrop-trw-investigation",
+"nodeLabel": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
+"url": null
+},
+"text": "Northrop Grumman may have used IRAD funds at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-03-20",
+"eventDate": "2011",
+"id": "c-c94ac019c6",
+"node": "gerb-northrop-trw-investigation",
+"nodeLabel": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
+"url": null
+},
+"text": "The Northrop Tejon radar cross-section facility was officially closed in 2011; Gerb questions whether clandestine underground operations continue beneath it.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-05-01",
+"eventDate": null,
+"id": "c-4bea1dda1f",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"url": null
+},
+"text": "Presidents Truman and Eisenhower vested custody of recovered disks within Atomic Energy Commission national laboratories, established the control group under the National Security Council and its 5412 Committee, and safeguarded the programs with statutory authority under the Atomic Energy Act of 1954. Vannevar Bush and General George C. Marshall are named as architects, with the Alsos Missions and T-Force as the template for crash-retrieval teams.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-05-01",
+"eventDate": "1947",
+"id": "c-9d7202b128",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, published 1 May 2026",
+"url": null
+},
+"text": "A centralized UFO recovery and exploitation effort was founded in 1947 and its security apparatus was taken from the Manhattan Project and the Atomic Energy Commission - compartmentalization, organizational architecture, physical security, classification/information control, and political shield.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-06-19",
+"eventDate": "1994",
+"id": "c-3666550fd8",
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+"url": null
+},
+"text": "In 1994 the SAP enterprise was restructured to gatekeep USG access and vest permanent control of the portfolio in a quasi-industry and government control group.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-06-19",
+"eventDate": null,
+"id": "c-4ceadb9ef8",
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+"url": null
+},
+"text": "The portfolio exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know access, full SAP security protocols and completely waived reporting and budgetary requirements.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-06-19",
+"eventDate": "1994",
+"id": "c-a6398be599",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'Special Access Required' Vol.2, published 19 June 2026",
+"url": null
+},
+"text": "In 1994 the Special Access Program enterprise was restructured to gatekeep USG access and vest permanent control of the UFO portfolio in a quasi-industry and government control group; the portfolio now exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know (MNTK) access and completely waived reporting and budgetary requirements.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-533544ad2e",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "UAP Gerb interviewed by Ross Coulthart, NewsNation 'Reality Check', premiered 4 August 2026",
+"url": null
+},
+"text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "NewsNation Reality Check with Ross Coulthart"
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "1958",
+"id": "c-0dc9c0c4a1",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 7 August 2026, video description",
+"url": null
+},
+"text": "Alleges an additional hidden impetus for MITRE's 1958 founding: the construction of a trusted long-term partner answerable only to its DoD customer to spearhead technology reverse engineering and exploitation from recovered UFOs.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "1958",
+"id": "c-1028666d2b",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb video description, 7 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner in the US Government's and DoD's most national-security-sensitive national programs since 1958.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": null,
+"id": "c-1fd8a02e99",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"url": null
+},
+"text": "MITRE processes all-source data for the tracking and monitoring of an enormous USO ('tic tac factory') with permanent or semi-permanent station in the Atlantic.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "2011",
+"id": "c-32d13b52f3",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
+"url": null
+},
+"text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "1958",
+"id": "c-413d209acc",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb video description, 7 August 2026",
+"url": null
+},
+"text": "It alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to the MITRE portfolio since 1958; and tracking of an enormous USO with permanent or semi-permanent Atlantic station, with all-source data processed by MITRE.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "1958",
+"id": "c-5a0d8fa58d",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
+"url": null
+},
+"text": "MITRE's role spans two Navy-spearheaded legacy programs: (1) reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to MITRE's portfolio since its 1958 inception; and (2) tracking and monitoring of an enormous USO - a 'tic tac factory' - with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": null,
+"id": "c-5dc4eabd2c",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, video description, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', published 7 August 2026",
+"url": null
+},
+"text": "FFRDCs are 'the missing link' in USG-led, defense-contractor-supported legacy programs: they allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": null,
+"id": "c-623dc83a8f",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"url": null
+},
+"text": "FFRDCs are the missing link: they allow the USG to technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "2011",
+"id": "c-66eeaec9a5",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb video description, 7 August 2026",
+"url": null
+},
+"text": "It alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "1958",
+"id": "c-97ad553905",
+"node": "mitre-corporation",
+"nodeLabel": "The MITRE Corporation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, YouTube, 7 August 2026",
+"url": null
+},
+"text": "The 7 August 2026 UAP Gerb investigation alleges MITRE has held a central role since 1958 in a Navy-spearheaded programme to reverse engineer and mature non-human technologies recovered in the late 1940s, and processes all-source data on a very large unidentified submerged object in the Atlantic.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "1958",
+"id": "c-a4df724d67",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 7 August 2026, video description",
+"url": null
+},
+"text": "Alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies deemed exploitable from late-1940s recoveries, central to the MITRE portfolio since 1958; and the tracking and possible collection tasking against a very large unidentified submerged object with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "2011",
+"id": "c-a71c8b454b",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"url": null
+},
+"text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "2011",
+"id": "c-e3bb5a2667",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 7 August 2026, video description",
+"url": null
+},
+"text": "Alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": null,
+"id": "c-e8b18a23b9",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "YouTube publication record and description, 7 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters titled FFRDC Primer, The MITRE Corporation, MITRE & UFO Legacy Programs, MITRE Gatekeepers, and MITRE Interrogative.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "1958",
+"id": "c-ef3c50efe0",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"url": null
+},
+"text": "MITRE has been central to a program reverse-engineering and maturing non-human technologies from late-1940s recoveries since its 1958 inception.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": null,
+"id": "c-f10e060269",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', YouTube, 7 August 2026 (published description and chapter list) — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "The MITRE investigation was published on 7 August 2026 and states that MITRE operates six FFRDCs and fifteen MITRE Labs and has served as a long-term strategic partner in the US Government's most national-security-sensitive national programs.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-02-21",
+"eventDate": null,
+"id": "c-2c179df4d9",
+"node": "sperry-rand",
+"nodeLabel": "Sperry Rand Corporation",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:24:35",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 21 February 2025, at 0:24:35, the guest Sammy, known as UAP Gerb, said that on Philip J. Corso's account Roswell-derived material was distributed for civil and commercial use through 'Bell Labs, Sperry Rand', and thence through its divisions to 'Northrop, Lockheed, Martin, Raytheon, and others'. This is a report of what Corso wrote, not a document, and no contemporaneous record naming Sperry Rand in that role was opened.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-54c273322e",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "UAP Gerb, interviewed by Ross Coulthart, NewsNation Reality Check, premiered 4 August 2026",
+"url": null
+},
+"text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
+"tier": 2,
+"topic": "kona-blue",
+"via": "NewsNation Reality Check with Ross Coulthart"
+},
+{
+"artefactDate": "2026-05-12",
+"eventDate": null,
+"id": "c-db48926174",
+"node": "rob-jones",
+"nodeLabel": "Rob Jones",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb livestream description, 12 May 2026",
+"url": null
+},
+"text": "Jones surfaced 'details on a new alleged gatekeeper' which UAP Gerb discussed on his 12 May 2026 livestream.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-4f0af23f68",
+"node": "ross-coulthart",
+"nodeLabel": "Ross Coulthart",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check episode description, 4 August 2026",
+"url": null
+},
+"text": "In the same episode Gerb alleged to Coulthart directed-energy attacks on people close to the program, civilian aircraft downed by EMP weapons during craft-recovery operations, and an alleged murder.",
+"tier": 2,
+"topic": "media-substrate",
+"via": "NewsNation Reality Check with Ross Coulthart"
+},
+{
+"artefactDate": "2024-07-17",
+"eventDate": null,
+"id": "c-6c334965aa",
+"node": "off-world-technologies-division",
+"nodeLabel": "Off-World Technologies Division",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, 17 July 2024",
+"url": null
+},
+"text": "Gerb connects the division to SAIC and Sandia National Laboratories.",
+"tier": 2,
+"topic": "named-contractors",
+"via": null
+},
+{
+"artefactDate": "2025-08-04",
+"eventDate": null,
+"id": "c-0fc61c6f33",
+"node": "bobby-ray-inman",
+"nodeLabel": "Adm. Bobby Ray Inman",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 2:06:30, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 2:06:30, the guest who identifies himself only as UAP Gerb said Bobby Ray Inman was a Wackenhut board member. The corporation's own proxy statements for 1997 to 2002 do not name him.",
+"tier": 2,
+"topic": "named-contractors",
+"via": "Danny Jones Podcast"
+},
+{
+"artefactDate": "2026-03-20",
+"eventDate": null,
+"id": "c-0494bb0b16",
+"node": "gerb-northrop-trw-investigation",
+"nodeLabel": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
+"url": null
+},
+"text": "Northrop Grumman's modern UFO security apparatus is helmed by Terry Phillips, former director of AFOSI/PJ.",
+"tier": 2,
+"topic": "named-contractors",
+"via": null
+},
+{
+"artefactDate": "2026-07-17",
+"eventDate": null,
+"id": "c-f77dc3c4cc",
+"node": "e-systems-inc",
+"nodeLabel": "E-Systems, Inc.",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 0:55:31, transcript in dist/transcripts/md/",
+"url": null
+},
+"text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 0:55:31, a panel speaker who self-identifies at 0:58:00 as the maker of 'my Air Force video' said of Edward C. 'Pete' Aldridge that 'He was a senior, I think, board member at LTV Aerospace, which was eventually transitioned to E systems, which was a CIA show company and then bought up by Raytheon.' The opened SEC filings name LTV Electrosystems, not LTV Aerospace, as the predecessor, list ten directors none of whom is Aldridge, and describe a listed NYSE contractor rather than a proprietary.",
+"tier": 2,
+"topic": "named-contractors",
+"via": "DEBRIEFED with Chris Ramsay"
+},
+{
+"artefactDate": "2025-02-21",
+"eventDate": null,
+"id": "c-b87817d7ba",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 1:33:30",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 21 February 2025, at 1:33:30, the guest Sammy, known as UAP Gerb, said that 'Eric Henry Wang, who ran special projects at Wright-Patterson, or Wright Airfield at the time, was taken to Kirtland Air Force Base', and that 'Wang was also talked about by primary Kingman witness, Arthur Stancil Jr.' The board's own DTIC reading establishes Wang's move to Kirtland and names Arthur Stansel as his colleague; it establishes nothing about Kingman.",
+"tier": 2,
+"topic": "wright-patterson-ftd",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2026-03-06",
+"eventDate": null,
+"id": "c-b4cf5ccf24",
+"node": "office-of-naval-research",
+"nodeLabel": "Office of Naval Research",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Batch 17 file 01, 0:25;01, research/leads/area52-corpus-17.md",
+"url": null
+},
+"text": "On Debriefed, episode 78, 6 March 2026, the guest Gerb named the Office of Naval Intelligence and the Office of Naval Research and their 'historically special projects' as elements he says are deliberately left out of the four-element structure shown in The Age of Disclosure. He named no document and no programme. The statute establishes the office, its head, its advisory committee and its contracting exemptions, and says nothing about any such projects.",
+"tier": 2,
+"topic": null,
+"via": "Debriefed"
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": null,
+"id": "c-ae2ef33171",
+"node": "ffrdc-mechanism",
+"nodeLabel": "The FFRDC / UARC / GOCO mechanism",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, MITRE investigation, 7 August 2026",
+"url": null
+},
+"text": "FFRDCs allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and arbitrate what defense contractors are told about UFO programs.",
+"tier": 2,
+"topic": null,
+"via": null
 }
 ],
 "cls": "person",

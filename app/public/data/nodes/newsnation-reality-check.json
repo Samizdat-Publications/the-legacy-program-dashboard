@@ -6,21 +6,101 @@
 "claims": [
 {
 "id": "c-8bfbe79510",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "newsnation-reality-check",
+"claimantLabel": "Reality Check with Ross Coulthart (NewsNation)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
 "tier": 2
 },
 {
 "id": "c-04fe7f6939",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "NewsNation Reality Check (episode synopsis)",
+"via": null
+},
 "source": "NewsNation Reality Check chapter summary, 4 August 2026",
 "text": "The 4 August 2026 episode covered Immaculate Constellation, Kona Blue, FFRDCs/UARCs/GOCOs, gatekeeping within the legacy program, alleged directed-energy attacks on whistleblowers, alleged EMP downings of civilian aircraft and 'blue on blue' kinetic strikes.",
 "tier": 2
 },
 {
 "id": "c-e02a27993e",
+"meta": {
+"artefactDate": "2026-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "NewsNation",
+"via": null
+},
 "source": "NewsNation, published circa February 2026",
 "text": "NewsNation published a segment titled 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-b969e75f33",
+"node": "rob-jones",
+"nodeLabel": "Rob Jones",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Rob Jones is credited as Research Producer on NewsNation's Reality Check.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-8bfbe79510",
+"node": "newsnation-reality-check",
+"nodeLabel": "Reality Check with Ross Coulthart (NewsNation)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-8f6b0919b6",
+"node": "ross-coulthart",
+"nodeLabel": "Ross Coulthart",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
 }
 ],
 "cls": "program",

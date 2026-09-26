@@ -24,6 +24,15 @@
 },
 {
 "id": "c-c423d0fc5d",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2012",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "text": "AARO Vol. I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the program in 2012; supporters then proposed a follow-on program, KONA BLUE, to DHS, which DHS rejected.",
 "tier": 1
@@ -36,6 +45,15 @@
 },
 {
 "id": "c-e892d42c88",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
 "tier": 1
@@ -54,6 +72,15 @@
 },
 {
 "id": "c-4cd6dbfbf4",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": "brian-jenkins-dia",
+"claimantLabel": "Brian L. Jenkins",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
 "text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
 "tier": 1
@@ -72,6 +99,15 @@
 },
 {
 "id": "c-c4b78fa8b1",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": "thomas-crosson",
+"claimantLabel": "Thomas Crosson",
+"eventDate": "2012",
+"route": "press",
+"speaker": null,
+"via": "The New York Times"
+},
 "source": "New York Times, 16 December 2017, quoting Pentagon spokesman Thomas Crosson",
 "text": "Existed and was terminated in 2012 on the Department's own account, with roughly $22 million appropriated from late 2008 through 2011 and most of it going to Bigelow Aerospace.",
 "tier": 1
@@ -84,12 +120,30 @@
 },
 {
 "id": "c-af485448ba",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2009",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, DOPSR-2024-0263, 8 March 2024",
 "text": "AARO's March 2024 Historical Record Report Volume 1 identifies 2009 as the standup year for AAWSAP and AATIP and states that 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.'",
 "tier": 1
 },
 {
 "id": "c-ff37b71eab",
+"meta": {
+"artefactDate": "2024",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": "2010",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Luis Elizondo, in TTSA statements and in Imminent (2024)",
 "text": "Elizondo's account is that AATIP grew out of AAWSAP, that he directed it from about 2010, and that only its funding ended in 2012 while the effort continued to his 2017 resignation.",
 "tier": 2

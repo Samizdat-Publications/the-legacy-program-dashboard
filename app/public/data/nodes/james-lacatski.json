@@ -78,12 +78,30 @@
 },
 {
 "id": "c-d9ac9f7dd5",
+"meta": {
+"artefactDate": "2021",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); repeated in Knapp/Mystery Wire interviews",
 "text": "Lacatski states he personally entered a craft of unknown origin while working the program.",
 "tier": 2
 },
 {
 "id": "c-1fefbd7557",
+"meta": {
+"artefactDate": "2026-04-08",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Jeremy Corbell"
+},
 "source": "Lacatski to Jeremy Corbell, published 8 April 2026",
 "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
 "tier": 2
@@ -93,6 +111,161 @@
 "source": "Inference from the FOIA-00023-2022 no-records response set against the volume of AAWSAP material DIA did release",
 "text": "DIA's inability to find the 2007 Bigelow letter, combined with its redaction of Lacatski's name under 10 USC 424 in every post-2008 release, indicates the origin correspondence was either never filed as an official record or was removed from the searchable file — the reasoning being that DIA found and released far more marginal 2008-2010 paperwork from the same office.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-04-08",
+"eventDate": null,
+"id": "c-00e1c8f5f8",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "James Lacatski to Jeremy Corbell, published 8 April 2026",
+"url": null
+},
+"text": "Lacatski hinted in April 2026 that a smaller, more focused effort related to the proposed KONA BLUE program continued after AAWSAP ended.",
+"tier": 2,
+"topic": "aaro-historical-record",
+"via": "Jeremy Corbell"
+},
+{
+"artefactDate": "2021",
+"eventDate": null,
+"id": "c-8b91f88fb7",
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Documented account reproduced in the Skinwalker Ranch record and in Lacatski/Kelleher/Knapp (2021)",
+"url": null
+},
+"text": "DIA official James Lacatski read Kelleher and Knapp's 'Hunt for the Skinwalker', contacted Bigelow, obtained permission to visit the ranch, and relayed his experience to Sen. Harry Reid, leading to a $22 million appropriation.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2025",
+"eventDate": null,
+"id": "c-76c0c38e02",
+"node": "lacatski-book-series",
+"nodeLabel": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Publisher and retail listings, 2025-2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Lacatski published 'Inside the U.S. Government Covert UFO Program: New Insights' in 2025 (ISBN 9798989114689) and 'Future Visions' (ISBN 9798989114603) as continuations of the series begun with 'Initial Revelations' in 2023.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2026-04-08",
+"eventDate": null,
+"id": "c-14afb5ae10",
+"node": "lacatski-book-series",
+"nodeLabel": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "James Lacatski to Jeremy Corbell, published 8 April 2026",
+"url": null
+},
+"text": "'The program created the world's largest UFO data warehouse, a stack of more than 100 thick, highly detailed reports filled with hard data about UFO cases and incidents.'",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": "Jeremy Corbell"
+},
+{
+"artefactDate": "2026-04-08",
+"eventDate": null,
+"id": "c-a5724a799b",
+"node": "lacatski-book-series",
+"nodeLabel": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Lacatski to Corbell, 8 April 2026",
+"url": null
+},
+"text": "Lacatski doubts the actual AAWSAP files will ever be released and treats his books as the closest available substitute for disclosure.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": "Jeremy Corbell"
+},
+{
+"artefactDate": "2026-04-08",
+"eventDate": null,
+"id": "c-ae965d3099",
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "James Lacatski to Jeremy Corbell, published 8 April 2026",
+"url": null
+},
+"text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data, of which the 38 DIRDs are only the literature-survey component.",
+"tier": 2,
+"topic": "dirds",
+"via": "Jeremy Corbell"
+},
+{
+"artefactDate": "2021",
+"eventDate": "2007",
+"id": "c-e874579553",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021)",
+"url": null
+},
+"text": "Lacatski read 'Hunt for the Skinwalker' by Knapp and Kelleher before approaching Bigelow in 2007, making the book a proximate cause of the contract.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2021",
+"eventDate": null,
+"id": "c-d9ac9f7dd5",
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); repeated in Knapp/Mystery Wire interviews",
+"url": null
+},
+"text": "Lacatski states he personally entered a craft of unknown origin while working the program.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": null
+},
+{
+"artefactDate": "2026-04-08",
+"eventDate": null,
+"id": "c-1fefbd7557",
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Lacatski to Jeremy Corbell, published 8 April 2026",
+"url": null
+},
+"text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": "Jeremy Corbell"
 }
 ],
 "cls": "person",

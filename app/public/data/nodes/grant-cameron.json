@@ -23,6 +23,15 @@
 "claims": [
 {
 "id": "c-5a74f5dce4",
+"meta": {
+"artefactDate": null,
+"claimant": "grant-cameron",
+"claimantLabel": "Grant Cameron",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "presidentialufo.com holdings and Cameron's own statements of method",
 "text": "Cameron's presidential-briefing research is built from FOIA requests to presidential libraries and executive agencies rather than from witness testimony, and he publishes null returns alongside positive ones.",
 "tier": 2
@@ -32,6 +41,25 @@
 "source": "Inference from the structure of presidential records law",
 "text": "Cameron's archive is the most directly relevant body of research to the question of whether presidents have been read in, because a presidential library FOIA null return is itself a datum with a docket number, whereas a witness denial is not. Reasoning: the executive-branch record is one of very few parts of this domain with a mandatory logging regime.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-5a74f5dce4",
+"node": "grant-cameron",
+"nodeLabel": "Grant Cameron",
+"route": "document",
+"source": {
+"domain": null,
+"text": "presidentialufo.com holdings and Cameron's own statements of method",
+"url": null
+},
+"text": "Cameron's presidential-briefing research is built from FOIA requests to presidential libraries and executive agencies rather than from witness testimony, and he publishes null returns alongside positive ones.",
+"tier": 2,
+"topic": null,
+"via": null
 }
 ],
 "cls": "person",

@@ -29,12 +29,30 @@
 "claims": [
 {
 "id": "c-06d6fe6e26",
+"meta": {
+"artefactDate": "2021-06-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2007",
+"route": "press",
+"speaker": "Honolulu Civil Beat",
+"via": null
+},
 "source": "Honolulu Civil Beat, 13 June 2021",
 "text": "Inouye, Reid and Stevens collaborated in 2007 to direct $22 million into the Pentagon's classified black budget for UFO-related research; Inouye's chairmanship of Appropriations was pivotal in bypassing Senate floor debate about the allocation.",
 "tier": 2
 },
 {
 "id": "c-b4d121091a",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "text": "The Defense Appropriations Acts of FY2008 and FY2010 appropriated $22 million to DIA at Reid's direction — the vehicle Inouye controlled.",
 "tier": 1

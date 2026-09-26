@@ -18,9 +18,37 @@
 },
 {
 "id": "c-90b41e8028",
+"meta": {
+"artefactDate": "2023-11-27",
+"claimant": "micah-hanks",
+"claimantLabel": "Micah Hanks",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "HPSCI Chairman Turner is named as leading the effort to eliminate or significantly alter the UAP Disclosure Act.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2022-05-17",
+"eventDate": null,
+"id": "c-5d53ff6cb0",
+"node": "hearing-2022-05-17",
+"nodeLabel": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"route": "hearing",
+"source": {
+"domain": "www.congress.gov",
+"text": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+},
+"text": "Carson stated the hearing's premise on the record: 'More than 50 years ago, the U.S. Government ended Project Blue Book... In 2017, we learned for the first time that the Department of Defense had quietly restarted a similar organization, tracking what we now call unidentified aerial phenomena, or UAPs. Last year Congress rewrote the charter for that organization, now called the Airborne Object Identification and Management Synchronization Group, or AOIMSG for short. Today we will bring that organization out of the shadows.'",
+"tier": 1,
+"topic": "uaptf-odni-2021",
+"via": null
 }
 ],
 "cls": "institution",

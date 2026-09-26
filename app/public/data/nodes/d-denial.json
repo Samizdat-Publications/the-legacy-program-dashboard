@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-24337b75a9",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, Section II",
 "text": "AARO's Volume I historical record report (February 2024) concludes there is 'no empirical evidence' for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.",
 "tier": 1
@@ -19,6 +28,15 @@
 },
 {
 "id": "c-95d1314e10",
+"meta": {
+"artefactDate": "1997",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Haines, Studies in Intelligence (1997)",
 "text": "Air Force officers gave explanations to the public they knew to be false in order to protect U-2 and OXCART flight security, per CIA's own in-house history.",
 "tier": 2

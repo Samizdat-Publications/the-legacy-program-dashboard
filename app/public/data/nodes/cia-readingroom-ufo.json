@@ -12,12 +12,30 @@
 },
 {
 "id": "c-fcd7cf4554",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Disclosure Archives (inventory of Release 03)",
+"via": null
+},
 "source": "Disclosure Archives inventory of Release 03",
 "text": "PURSUE Release 03 included a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
 "tier": 2
 },
 {
 "id": "c-aa20c83b57",
+"meta": {
+"artefactDate": "2026-08-10",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": "1963-11",
+"route": "document",
+"speaker": null,
+"via": "EarthSky"
+},
 "source": "EarthSky, 10 August 2026",
 "text": "PURSUE Release 05 included a CIA report of an alleged November 1963 Brazil recovery of a metal sphere with a deceased occupant in a spacesuit, later deemed unsubstantiated by the American Consulate.",
 "tier": 2

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-fe00f676f0",
+"meta": {
+"artefactDate": "2026-06-28",
+"claimant": "mike-rounds",
+"claimantLabel": "Mike Rounds",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
 "text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
 "tier": 2

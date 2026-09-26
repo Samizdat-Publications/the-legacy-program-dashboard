@@ -33,24 +33,60 @@
 },
 {
 "id": "c-d726ea4ed0",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "2001-05-09",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. Klass: 'The incident was described at Greer's press conference (and in more detail in Greer's book) by John Callahan who said he was head of the Federal Aviation Administration's Accidents & Investigations Branch at FAA headquarters in Washington.'",
 "tier": 2
 },
 {
 "id": "c-cbe5620f21",
+"meta": {
+"artefactDate": "2015-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Paul Dean, 'The UFO Chronicles'",
+"via": null
+},
 "source": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt1', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter.html , opened 2026-09-19",
 "text": "HIS CLAIMED TITLE IS NOT CORROBORATED BY ANY AGENCY RECORD THAT HAS BEEN OPENED. Paul Dean, a proponent researcher writing in October 2015 for the express purpose of confirming him, reports his own negative finding verbatim: 'Worryingly, only a handful, and by that I mean literally four, referances came up for a John Callahan being at the FAA, and none of them really matched his claimed Accidents, Evaluations and Investigations area.' What Dean found in the public record instead was a 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the 'Associate Administrator for Air Traffic'.",
 "tier": 2
 },
 {
 "id": "c-675dbe8e3c",
+"meta": {
+"artefactDate": "2015-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1986-11-17",
+"route": "document",
+"speaker": "Paul Dean, The UFO Chronicles",
+"via": null
+},
 "source": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html , opened 2026-09-19",
 "text": "The one document ever produced for the claimed title is an OMB Form 171, Personal Qualifications Statement, showing 'Division Mgr. Investigations/Evaluations', employer 'FAA ATS-1 Washington Headquarters', dates 'Oct. 1986 to present', with an accompanying resume line 'Jul 85 to Oct 86 Branch Manager Quality Control Branch and Accident/Incident Analysis Branch'. Dean states these were originals provided by Callahan himself in 2015 correspondence. THE DATES ARE CONSISTENT WITH THE 17 NOVEMBER 1986 INCIDENT FALLING INSIDE HIS TENURE AND THEY RECONCILE DEAN'S NEGATIVE FINDING WITH CALLAHAN'S ACCOUNT, BUT A FORM SUPPLIED BY ITS SUBJECT IS NOT AN AGENCY RELEASE AND IS GRADED TIER 2 FOR THAT REASON.",
 "tier": 2
 },
 {
 "id": "c-e72c67f50c",
+"meta": {
+"artefactDate": "2001-04",
+"claimant": "john-callahan",
+"claimantLabel": "John Callahan",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Steven M. Greer and Theodore C. Loder III (Disclosure Project Briefing Document)"
+},
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "He names the FAA Administrator who he says was briefed: 'we go up to the 10th floor [of FAA Headquarters in Washington DC] and give a four or five minute debriefing for the Administrator who was at the time Admiral Engen.' Klass repeats the name from Callahan's account. No FAA source confirming Donald Engen's tenure was opened; faa.gov returned HTTP 403.",
 "tier": 2
@@ -60,6 +96,25 @@
 "source": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html , opened 2026-09-19",
 "text": "STATED INFERENCE. The evidentiary shape of this node is unusual for this cluster and should not be flattened: the case is Tier 1 on agency records, the man's office is Tier 2 on a self-supplied form, and the two must never be cited as though they were the same grade of evidence.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2001-04",
+"eventDate": null,
+"id": "c-e72c67f50c",
+"node": "john-callahan",
+"nodeLabel": "John Callahan",
+"route": "hearing",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "He names the FAA Administrator who he says was briefed: 'we go up to the 10th floor [of FAA Headquarters in Washington DC] and give a four or five minute debriefing for the Administrator who was at the time Admiral Engen.' Klass repeats the name from Callahan's account. No FAA source confirming Donald Engen's tenure was opened; faa.gov returned HTTP 403.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": "Steven M. Greer and Theodore C. Loder III (Disclosure Project Briefing Document)"
 }
 ],
 "cls": "person",

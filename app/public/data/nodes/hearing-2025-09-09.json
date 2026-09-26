@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-e9cef2cc46",
+"meta": {
+"artefactDate": "2025-04-11",
+"claimant": "steven-greer",
+"claimantLabel": "Steven M. Greer",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Steven Greer: UFO Secrets Are Held By A Global Cabal', published 11 April 2025, at 2:32:28 to 2:33:21",
 "text": "On American Alchemy with Jesse Michels, 11 April 2025, between 2:32:28 and 2:33:21, Steven Greer, showing a page of his own book on camera, named a witness he called Stephen Digna in connection with a triangular craft at Fort Irwin that Greer says is man-made. Greer said the witness saw more detail than intended because he used night-vision equipment he had been told not to use, that 'the men who took him there were Raytheon operatives', and that the witness and his wife were later abducted and that the episode 'ruined his life'. The board's prose for the 9 September 2025 hearing already carries the name Steven Digna without this account; the Raytheon attribution is Greer's and no record supporting it was opened.",
 "tier": 2
@@ -36,12 +45,30 @@
 },
 {
 "id": "c-d1a66ac2c6",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, opening statement of Rep. Luna",
 "text": "Opening statement of Chairwoman Anna Paulina Luna: 'For too long, the issue of unidentified anomalous phenomena, commonly known as UAPs, has been shrouded in secrecy, stigma, and in some cases outright dismissal. Today, I want to state clearly that this is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.' She further stated she had 'spoken now to a number of whistleblowers from the military to include the infamous Eglin Air Force Base incident'.",
 "tier": 2
 },
 {
 "id": "c-c4dd62401b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, colloquy between Rep. Burchett and George Knapp",
 "text": "Rep. Tim Burchett stated on the record that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.' Witness George Knapp responded: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
 "tier": 2
@@ -54,12 +81,30 @@
 },
 {
 "id": "c-d8a37809c2",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "George Knapp, House Oversight Task Force hearing, 9 September 2025",
 "text": "Knapp: the public has been told since the late 1940s 'there's nothing to worry about here,' while documents show personnel acknowledging 'these things are real. They're not fictitious.'",
 "tier": 2
 },
 {
 "id": "c-2d9f508a0b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "hearing",
+"speaker": "Nancy Mace; Tim Burchett",
+"via": "House Oversight"
+},
 "source": "House Oversight hearing wrap-up release, 9 September 2025",
 "text": "Rep. Nancy Mace asked about potential government psychological operations; Rep. Burchett questioned whistleblower protections.",
 "tier": 2
@@ -84,6 +129,15 @@
 },
 {
 "id": "c-5d8f64bd09",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2024-10-30",
+"route": "hearing",
+"speaker": "Rep. Burlison",
+"via": "House Oversight Task Force"
+},
 "source": "CHRG-119hhrg61718; DefenseScoop, 9 September 2025",
 "text": "Rep. Burlison publicly unveiled footage recorded 30 October 2024 of an MQ-9 tracking an orb off the coast of Yemen while a second MQ-9 fired a Hellfire missile; the object appeared struck and continued moving.",
 "tier": 2
@@ -96,6 +150,15 @@
 },
 {
 "id": "c-0bea1751ec",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "dylan-borland",
+"claimantLabel": "Dylan Borland",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Serial No. 119-44, 9 September 2025",
 "text": "Dylan Borland testified that before Grusch and the disclosure process, suppression of witnesses was 'probably extremely widespread,' and warned that if the process returns behind closed doors 'this is going to get really ugly.'",
 "tier": 1
@@ -108,6 +171,15 @@
 },
 {
 "id": "c-9d29dd8692",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Knapp named Lockheed Martin, Dr. James Ryder and Glenn Gaffney on the record in response to member questions about which corporations and individuals hold and gatekeep the material.",
 "tier": 2
@@ -126,12 +198,30 @@
 },
 {
 "id": "c-9cf2e25f93",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 9 September 2025",
 "text": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
 "tier": 2
 },
 {
 "id": "c-9a53ea6c4c",
+"meta": {
+"artefactDate": "2026-04-01",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2025-09-09",
+"route": "hearing",
+"speaker": "unnamed (witnesses at the Task Force hearing)",
+"via": "House Oversight"
+},
 "source": "House Oversight press release, 1 April 2026, recounting the September 2025 testimony",
 "text": "Witnesses told the Task Force that AARO holds additional video records of potential UAP sightings.",
 "tier": 2
@@ -144,6 +234,15 @@
 },
 {
 "id": "c-00fe402ae8",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "hearing",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 9 September 2025",
 "text": "Rep. Eric Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
 "tier": 2
@@ -156,18 +255,45 @@
 },
 {
 "id": "c-e95ff1d79b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Rep. Eric Burlison unveiled video for the first time depicting a US military MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
 "tier": 2
 },
 {
 "id": "c-b686095509",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/",
 "text": "Knapp testified that 'Documents paint a much different picture than what the public, the press, and Congress have been told,' and alleged UAP materials have been moved to private contractors, complicating oversight and FOIA access.",
 "tier": 2
 },
 {
 "id": "c-9b150c1f96",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": "2003",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Nuccetelli described 2003-2005 incursions near Vandenberg AFB during NRO launches, objects 'like flying buildings' that 'pulsed and moved in strange ways,' each 'witnessed by multiple personnel, documented, investigated and reported up the chain.'",
 "tier": 2
@@ -180,24 +306,60 @@
 },
 {
 "id": "c-aeb10cd3b9",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Jeffrey Nuccetelli, written testimony, 9 September 2025",
 "text": "'Official Air Force records documenting it are now held by AARO and the FBI.'",
 "tier": 2
 },
 {
 "id": "c-6d29ba5e65",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": "2023-02-15",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Alexandro C. Wiggins, written statement, 9 September 2025",
 "text": "On 15 February 2023 at approximately 7:15 pm PST, USS Jackson (LCS-6) recorded four self-luminous Tic-Tac-shaped objects on its Star SAFIRE multi-spectral EO/IR system, one emerging from the ocean, all departing with near-instantaneous acceleration and no propulsion signature or sonic boom.",
 "tier": 2
 },
 {
 "id": "c-4ebf08e986",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, written testimony, 9 September 2025",
 "text": "BAASS was prime contractor for AAWSAP, recruited about 50 cleared investigators, ran 27 months, produced more than three dozen preliminary reports and over 100 research papers, and built a 240,000-case data warehouse designed by Jacques Vallee; most of the papers remain unreleased by DIA.",
 "tier": 2
 },
 {
 "id": "c-a81511c283",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "dylan-borland",
+"claimantLabel": "Dylan Borland",
+"eventDate": "2023-03",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Dylan Borland, written testimony, 9 September 2025",
 "text": "Borland filed complaints with AARO in March 2023 and with the Intelligence Community Inspector General in August 2023, and alleges more than a decade of retaliation including blacklisting and manipulation of security clearance records.",
 "tier": 2

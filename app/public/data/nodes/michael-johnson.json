@@ -9,30 +9,75 @@
 "claims": [
 {
 "id": "c-500da59f84",
+"meta": {
+"artefactDate": "2026-09-07",
+"claimant": "michael-johnson",
+"claimantLabel": "Michael Johnson",
+"eventDate": "1977-11-18",
+"route": "broadcast",
+"speaker": null,
+"via": "Jesse Michels (YouTube)"
+},
 "source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:07:11, 00:18:44-00:20:40 and 00:53:19-00:53:45, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "text": "Michael Johnson is presented as the second USAF security policeman of the 44th Missile Security Squadron present at Launch Facility November-5, Ellsworth AFB, on 18 November 1977, working vacation relief on a commander option day, and states he was taken, examined, recovered catatonic at the steering wheel of the truck, interrogated separately on base and subsequently discharged after an Article 15.",
 "tier": 2
 },
 {
 "id": "c-d693a76b39",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "2026-06-26",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45 and 00:05:19, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "text": "SECTION 2a PROVENANCE. HE WAS LOCATED BY THE PUBLISHING PARTY. A viewer of the show sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina; the producer then tasked an unnamed recruiter who found him in about a week; the first contact call is dated on air to 26 June 2026. Not the original witness, not a records search, not AARO.",
 "tier": 2
 },
 {
 "id": "c-81129540ce",
+"meta": {
+"artefactDate": "2026-09-19",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "internal editorial note (provenance check on Michael Johnson's account in the Michels video)",
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:03:34-00:03:40, 00:08:44-00:08:51 and 01:32:29, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "text": "SECTION 2a PROVENANCE. NOTHING WHATEVER WAS SAID BY HIM ABOUT THE EVENT BEFORE HE WAS CONTACTED. The only pre-contact artefact identified anywhere in the two hour forty-seven minute episode is an undated Facebook post to the effect that he was with his boys in South Dakota on Ellsworth from 1975 to 1977. That post places him at the base in the right years and says nothing about the event. He asserts private prior telling to friends; no dated public statement exists.",
 "tier": 2
 },
 {
 "id": "c-bab14462a2",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:05:24-00:05:46 and 00:07:29-00:08:51, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "text": "SECTION 2a PROVENANCE. HE WAS GIVEN THE OTHER WITNESS'S FRAME ON THE RECORDED CALL. The interviewer withheld it and said so on air, telling Johnson nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site and date, the vacation-relief detail, and then the category: asked at 00:07:29 whether he remembered what they encountered at 0100, Johnson answered 'No' at 00:07:35; Woods then asked twice whether it was a UFO; Johnson assented after a pause at 00:07:46; Woods then asked how far over the top of the blaster it was and Johnson gave 'under 50 feet'.",
 "tier": 2
 },
 {
 "id": "c-d3a522ae13",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:07:29-00:07:46 against 00:17:46-00:18:11, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "text": "THE EPISODE'S OWN RETELLING OF THAT MOMENT DIVERGES FROM ITS OWN RECORDING OF IT. At 00:17:46-00:18:11, with Johnson present, the recognition is recounted as Woods naming only the year, base and site and Johnson immediately saying 'Oh, that UFO', with the producer characterising it as chilling because no other details were supplied. The recorded call at 00:07:29-00:07:46 shows an initial 'No', then Woods naming the UFO, then assent. Both passages are timestamped in the same episode.",
 "tier": 2
@@ -54,6 +99,25 @@
 "source": "Jesse Michels, video rjUdn6FklAU, at 02:37:05-02:37:24, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "text": "MATERIAL INTEREST WAS ESTABLISHED AFTER CONTACT. The production launched a crowdfunding appeal on the two men's behalf and the episode is commercially sponsored. Recorded plainly as an analytic caveat, not as a disqualifier.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-09-07",
+"eventDate": "1977-11-18",
+"id": "c-500da59f84",
+"node": "michael-johnson",
+"nodeLabel": "Michael Johnson",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:07:11, 00:18:44-00:20:40 and 00:53:19-00:53:45, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "Michael Johnson is presented as the second USAF security policeman of the 44th Missile Security Squadron present at Launch Facility November-5, Ellsworth AFB, on 18 November 1977, working vacation relief on a commander option day, and states he was taken, examined, recovered catatonic at the steering wheel of the truck, interrogated separately on base and subsequently discharged after an Article 15.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": "Jesse Michels (YouTube)"
 }
 ],
 "cls": "person",

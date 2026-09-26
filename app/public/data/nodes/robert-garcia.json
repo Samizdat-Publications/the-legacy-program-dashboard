@@ -54,15 +54,69 @@
 },
 {
 "id": "c-3a426771c4",
+"meta": {
+"artefactDate": "2024-01-12",
+"claimant": "robert-garcia",
+"claimantLabel": "Robert Garcia",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill, 12 January 2024",
 "text": "After the 12 January 2024 ICIG briefing: it is reasonable to contend that 'everyone that was in the room received probably new information.'",
 "tier": 2
 },
 {
 "id": "c-6c05829ad9",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "robert-garcia",
+"claimantLabel": "Robert Garcia",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-6c05829ad9",
+"node": "robert-garcia",
+"nodeLabel": "Robert Garcia",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-3a426771c4",
+"node": "robert-garcia",
+"nodeLabel": "Robert Garcia",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "After the 12 January 2024 ICIG briefing: it is reasonable to contend that 'everyone that was in the room received probably new information.'",
+"tier": 2,
+"topic": "hearing-2023",
+"via": null
 }
 ],
 "cls": "person",

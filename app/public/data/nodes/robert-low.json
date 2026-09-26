@@ -33,12 +33,30 @@
 "claims": [
 {
 "id": "c-406816afbc",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:38:48 and 0:42:21, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:38:48 and 0:42:21, Robert Salas said he holds a handwritten note by Low recording that Low had spoken to the Air Force colonel the caption renders as 'Hitler', and that the colonel said the Air Force thought EMP from nuclear testing caused the Malmstrom shutdowns and that the matter was probably too highly classified for the Colorado project to look at. Salas says twice 'I've got it in writing'. The note is not published and was not opened here.",
 "tier": 2
 },
 {
 "id": "c-e9e9bd9a87",
+"meta": {
+"artefactDate": "1967-01-27",
+"claimant": "robert-low",
+"claimantLabel": "Robert J. Low",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Robert J. Low to Lt Col Robert Hippler, 27 January 1967, University of Colorado, page 2, https://www.nicap.org/docs/HipplerLetters.pdf",
 "text": "Low replied to Hippler on 27 January 1967, copying Condon: 'On the second page, you indicate what you believe the Air Force wants of us, and I am very glad to have your opinion.' He adds that Hippler has 'answered quite directly the question that I asked' and that he had come back to that question a couple of times at their meeting on Thursday evening, 12 January. The project coordinator who wrote the 9 August 1966 trick memo is on the record five months later asking the Air Force what it wanted and thanking it for the answer.",
 "tier": 1
@@ -57,6 +75,15 @@
 },
 {
 "id": "c-a1d5dc8a4c",
+"meta": {
+"artefactDate": "1968-05",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "John G. Fuller (Look magazine)",
+"via": null
+},
 "source": "John G. Fuller, 'Flying Saucer Fiasco', Look, May 1968",
 "text": "Publication of the memo in Look magazine in May 1968 characterised the project as a '$500,000 trick' and precipitated the firing of Saunders and Levine.",
 "tier": 2
@@ -72,6 +99,42 @@
 "source": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977",
 "text": "The Condon Report's index carries the entry 'Low, Robert J., 915-917', with subheadings 'appointed to Colorado project, viii' and 'quoted on Fuller article, 915' — the report itself indexes the controversy over Low's role.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1966-08-09",
+"eventDate": "1967-07",
+"id": "c-81d21fa2fa",
+"node": "l-boulder-co",
+"nodeLabel": "Boulder, Colorado",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Robert J. Low memorandum, 9 August 1966, University of Colorado project files — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Low's memorandum of 9 August 1966 stated the study would be 'conducted almost entirely by non-believers' and would present 'the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer'; it became public in July 1967 when James E. McDonald found it in project files.",
+"tier": 2,
+"topic": "condon-1966-69",
+"via": null
+},
+{
+"artefactDate": "1967-01-27",
+"eventDate": null,
+"id": "c-e9e9bd9a87",
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"route": "document",
+"source": {
+"domain": "www.nicap.org",
+"text": "Robert J. Low to Lt Col Robert Hippler, 27 January 1967, University of Colorado, page 2, https://www.nicap.org/docs/HipplerLetters.pdf",
+"url": "https://www.nicap.org/docs/HipplerLetters.pdf"
+},
+"text": "Low replied to Hippler on 27 January 1967, copying Condon: 'On the second page, you indicate what you believe the Air Force wants of us, and I am very glad to have your opinion.' He adds that Hippler has 'answered quite directly the question that I asked' and that he had come back to that question a couple of times at their meeting on Thursday evening, 12 January. The project coordinator who wrote the 9 August 1966 trick memo is on the record five months later asking the Air Force what it wanted and thanking it for the answer.",
+"tier": 1,
+"topic": "condon-1966-69",
+"via": null
 }
 ],
 "cls": "person",

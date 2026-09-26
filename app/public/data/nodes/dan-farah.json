@@ -18,21 +18,101 @@
 "claims": [
 {
 "id": "c-ba7892e9f4",
+"meta": {
+"artefactDate": "2025",
+"claimant": "dan-farah",
+"claimantLabel": "Dan Farah",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Age of Disclosure, official trailer description, 2025",
 "text": "The Age of Disclosure features 34 senior members of the US Government, military and intelligence community and asserts an 80-year global cover-up of non-human intelligent life and a secret war.",
 "tier": 2
 },
 {
 "id": "c-92b6786b19",
+"meta": {
+"artefactDate": null,
+"claimant": "dan-farah",
+"claimantLabel": "Dan Farah",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Age of Disclosure, official teaser description",
 "text": "On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton, former director of the UAP Task Force.",
 "tier": 2
 },
 {
 "id": "c-dde2f07321",
+"meta": {
+"artefactDate": "2025-03",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2025-03-09",
+"route": "press",
+"speaker": "festival preview coverage",
+"via": null
+},
 "source": "Contemporaneous festival preview coverage, March 2025",
 "text": "The film premiered at the SXSW festival in Austin, Texas on Sunday 9 March 2025.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025",
+"eventDate": null,
+"id": "c-ba7892e9f4",
+"node": "dan-farah",
+"nodeLabel": "Dan Farah",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Age of Disclosure, official trailer description, 2025",
+"url": null
+},
+"text": "The Age of Disclosure features 34 senior members of the US Government, military and intelligence community and asserts an 80-year global cover-up of non-human intelligent life and a secret war.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-92b6786b19",
+"node": "dan-farah",
+"nodeLabel": "Dan Farah",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Age of Disclosure, official teaser description",
+"url": null
+},
+"text": "On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton, former director of the UAP Task Force.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-a12785efe2",
+"node": "age-of-disclosure",
+"nodeLabel": "The Age of Disclosure (documentary, 2025)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Age of Disclosure official teaser description",
+"url": null
+},
+"text": "On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton, former director of the US Government's UAP Task Force.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
 }
 ],
 "cls": "person",

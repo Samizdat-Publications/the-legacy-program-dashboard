@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-294a417c86",
+"meta": {
+"artefactDate": "2009-07",
+"claimant": "baass",
+"claimantLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Leaked BAASS Ten Month Report (2009), publicly circulated and analysed since 2020",
 "text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 integrating laboratory physics research with field investigation, case database construction and sustained operations at the Utah ranch.",
 "tier": 2
 },
 {
 "id": "c-d2e6e56397",
+"meta": {
+"artefactDate": "2022-03",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Jack Brewer, The UFO Trail"
+},
 "source": "DIA FOIA response reported by Jack Brewer, The UFO Trail, March 2022 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "DIA reported it could locate no report matching the description of 'Utah Ranch Investigation: August 2009-February 2010' as described by Lacatski and co-authors.",
 "tier": 2
 },
 {
 "id": "c-bea45d6610",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, p.23 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "DoD confirms the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah'.",
 "tier": 2

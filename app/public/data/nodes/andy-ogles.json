@@ -35,6 +35,15 @@
 },
 {
 "id": "c-2aad522b90",
+"meta": {
+"artefactDate": "2024-01-12",
+"claimant": "andy-ogles",
+"claimantLabel": "Andrew Ogles",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill, 12 January 2024",
 "text": "After the 12 January 2024 ICIG briefing: what 'most Americans fear is true' - there is 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' 'I asked very specific questions and was unable to get specific answers.'",
 "tier": 2
@@ -44,6 +53,42 @@
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Waived onto the Task Force on the Declassification of Federal Secrets for the 9 September 2025 hearing.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-2aad522b90",
+"node": "andy-ogles",
+"nodeLabel": "Andrew Ogles",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "After the 12 January 2024 ICIG briefing: what 'most Americans fear is true' - there is 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' 'I asked very specific questions and was unable to get specific answers.'",
+"tier": 2,
+"topic": "sap-reporting",
+"via": null
+},
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-566d8272dd",
+"node": "icig-briefing-2024-01-12",
+"nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "Ogles emerged saying what 'most Americans fear is true,' describing 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.'",
+"tier": 2,
+"topic": "whistleblower-channels",
+"via": "The Hill"
 }
 ],
 "cls": "person",

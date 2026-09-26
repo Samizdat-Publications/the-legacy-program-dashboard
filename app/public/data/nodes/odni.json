@@ -29,6 +29,42 @@
 "tier": 1
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2026-05-22",
+"eventDate": "2025",
+"id": "c-bbcee28870",
+"node": "odni-uap-d001",
+"nodeLabel": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"url": null
+},
+"text": "ODNI-UAP-D001, released in PURSUE Release 02 on 22 May 2026, is a first-person narrative by a serving senior intelligence officer of a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2025",
+"id": "c-a44f92868b",
+"node": "tulsi-gabbard",
+"nodeLabel": "Tulsi Gabbard",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"url": null
+},
+"text": "PURSUE Release 02 includes ODNI-UAP-D001, a first-person account by a serving senior intelligence officer of a one-hour multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "ic",
 "conflicts": [],

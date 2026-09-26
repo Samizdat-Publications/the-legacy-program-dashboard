@@ -46,15 +46,69 @@
 },
 {
 "id": "c-2ed971ea68",
+"meta": {
+"artefactDate": "2021-03-24",
+"claimant": "marco-rubio",
+"claimantLabel": "Marco Rubio",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Fox Business, Mornings with Maria (reported by The Debrief)"
+},
 "source": "Rubio on Fox Business, Mornings with Maria, 24 March 2021, reported by Micah Hanks, The Debrief",
 "text": "'It isn't ours. It isn't anything that's registered to the FAA, and in many cases exhibits attributes of things we've never seen.'",
 "tier": 2
 },
 {
 "id": "c-ebec1c01c7",
+"meta": {
+"artefactDate": "2023-02-16",
+"claimant": "marco-rubio",
+"claimantLabel": "Marco Rubio",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Joint statement, 16-senator AARO funding letter, 16 February 2023",
 "text": "Rubio and Gillibrand jointly argued AARO 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency to the American people and reducing the stigma around this issue.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2021-03-24",
+"eventDate": null,
+"id": "c-2ed971ea68",
+"node": "marco-rubio",
+"nodeLabel": "Marco Rubio",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Rubio on Fox Business, Mornings with Maria, 24 March 2021, reported by Micah Hanks, The Debrief",
+"url": null
+},
+"text": "'It isn't ours. It isn't anything that's registered to the FAA, and in many cases exhibits attributes of things we've never seen.'",
+"tier": 2,
+"topic": "documentaries",
+"via": "Fox Business, Mornings with Maria (reported by The Debrief)"
+},
+{
+"artefactDate": "2023-02-16",
+"eventDate": null,
+"id": "c-ebec1c01c7",
+"node": "marco-rubio",
+"nodeLabel": "Marco Rubio",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Joint statement, 16-senator AARO funding letter, 16 February 2023",
+"url": null
+},
+"text": "Rubio and Gillibrand jointly argued AARO 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency to the American people and reducing the stigma around this issue.'",
+"tier": 2,
+"topic": "documentaries",
+"via": null
 }
 ],
 "cls": "person",

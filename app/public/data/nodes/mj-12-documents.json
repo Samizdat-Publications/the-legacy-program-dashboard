@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-f9f2738638",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1988",
+"route": "document",
+"speaker": "FBI (FBI Records: The Vault, Majestic 12)",
+"via": null
+},
 "source": "FBI Records: The Vault, 'Majestic 12'",
 "text": "The FBI states: 'In 1988, two FBI offices received similar versions of a memo titled \"Operation Majestic-12...\" claiming to be highly classified government document... An Air Force investigation determined the document to be a fake.'",
 "tier": 1

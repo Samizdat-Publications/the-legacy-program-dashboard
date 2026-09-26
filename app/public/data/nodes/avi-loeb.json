@@ -107,18 +107,45 @@
 },
 {
 "id": "c-d38ae88349",
+"meta": {
+"artefactDate": "2026-06-15",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Skeptics Society announcement, 15 June 2026; Avi Loeb, Medium, 29 June 2026; Associated Press, 30 June 2026",
 "text": "Loeb was named chair of a UAP Science Advisory Council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other intelligence community members, announced 15 June 2026.",
 "tier": 2
 },
 {
 "id": "c-fa78c1b67b",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
 "text": "Loeb wrote that 'over the past week, I was tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members.",
 "tier": 2
 },
 {
 "id": "c-2ff37710bb",
+"meta": {
+"artefactDate": "2026-06-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Associated Press",
+"via": null
+},
 "source": "Associated Press, 30 June 2026, as summarised in the public record",
 "text": "The council has no budget and no access to classified material.",
 "tier": 2
@@ -137,27 +164,286 @@
 },
 {
 "id": "c-4b7cd5a20e",
+"meta": {
+"artefactDate": "2026-07",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Avi Loeb, Medium essays, June-July 2026",
 "text": "Loeb states the council's charge is to resolve the nature of UAP by scientific evidence and that it advises rather than reports to the office holding the data.",
 "tier": 2
 },
 {
 "id": "c-b4d6c752f0",
+"meta": {
+"artefactDate": "2026-06-17",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "'The goal of the council is to advise the U.S. government on how to resolve the nature of UAP.'",
 "tier": 2
 },
 {
 "id": "c-af5a4f05e7",
+"meta": {
+"artefactDate": "2026-06-17",
+"claimant": "avi-loeb",
+"claimantLabel": "Abraham 'Avi' Loeb",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "'Since UAPs are physical objects that interact with humans, the council includes members with expertise in physical sciences as well as psychology and biology.'",
 "tier": 2
 },
 {
 "id": "c-8e419391d3",
+"meta": {
+"artefactDate": null,
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
 "text": "All data shared with the council will be unclassified.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-06-29",
+"eventDate": null,
+"id": "c-53ed75d92f",
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Loeb, Medium, 29 June 2026; AOL/USA Today reporting, 2 July 2026",
+"url": null
+},
+"text": "Statistician Liberty Vittert was appointed to the council, established by the White House, Pentagon, FBI and intelligence agencies and led by Loeb.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": "2026-06",
+"id": "c-8a0f4dbcdb",
+"node": "matthew-szydagis",
+"nodeLabel": "Matthew Szydagis",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Avi Loeb, Medium, 29 June 2026; Skeptics Society, 15 June 2026",
+"url": null
+},
+"text": "Szydagis was named to the UAP Science Advisory Council in June 2026 with responsibility for instrumentation and data collection.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": null,
+"id": "c-b08a4ebbfa",
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
+"url": null
+},
+"text": "Loeb wrote that he was 'tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identified a core team of Cloete, Sarmiento, Szydagis, Nandal and Eldadi.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": "2026-06-13",
+"eventDate": null,
+"id": "c-b3f139de1c",
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"route": "press",
+"source": {
+"domain": "avi-loeb.medium.com",
+"text": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
+"url": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+},
+"text": "Avi Loeb's first Medium post on the UAP Science Advisory Council carries article:published_time 2026-06-13T16:20:50Z. His second post, 'More Details on the UAP Science Advisory Council', carries a byline of 16 June 2026; the 29 June 2026 date that has circulated is that post's republish timestamp, not its publication date.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": "2026-06-15",
+"eventDate": null,
+"id": "c-d38ae88349",
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Skeptics Society announcement, 15 June 2026; Avi Loeb, Medium, 29 June 2026; Associated Press, 30 June 2026",
+"url": null
+},
+"text": "Loeb was named chair of a UAP Science Advisory Council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other intelligence community members, announced 15 June 2026.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": "2026-06-17",
+"eventDate": null,
+"id": "c-91fdec5b20",
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+},
+"text": "Avi Loeb formed and leads the UAP Science Advisory Council, announced June 2026; named members include Carol Cleland, Richard Cloete, Omer Eldadi, Tim Gallaudet, Ross Howard, Ben Lamm, Devesh Nandal, Garry Nolan, Michael Shermer, Peter Skafish, Matthew Szydagis and Jennice Vilhauer.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-06-17",
+"eventDate": null,
+"id": "c-af5a4f05e7",
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+},
+"text": "'Since UAPs are physical objects that interact with humans, the council includes members with expertise in physical sciences as well as psychology and biology.'",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-06-17",
+"eventDate": null,
+"id": "c-b4d6c752f0",
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+},
+"text": "'The goal of the council is to advise the U.S. government on how to resolve the nature of UAP.'",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": null,
+"id": "c-98b2e46a28",
+"node": "richard-cloete",
+"nodeLabel": "Richard Cloete",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Avi Loeb, Medium, 29 June 2026; Skeptics Society, 15 June 2026",
+"url": null
+},
+"text": "Cloete was named to the UAP Science Advisory Council with responsibility for data analysis and AI tools.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": null,
+"id": "c-fa78c1b67b",
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
+"url": null
+},
+"text": "Loeb wrote that 'over the past week, I was tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": "2026-07",
+"eventDate": null,
+"id": "c-4b7cd5a20e",
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Avi Loeb, Medium essays, June-July 2026",
+"url": null
+},
+"text": "Loeb states the council's charge is to resolve the nature of UAP by scientific evidence and that it advises rather than reports to the office holding the data.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": "2026-07-01",
+"eventDate": "2026-06-14",
+"id": "c-95cc311446",
+"node": "d-astro",
+"nodeLabel": "Astronomy & Astrophysics",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Avi Loeb, Medium, June-July 2026; Disclosure Foundation announcement",
+"url": null
+},
+"text": "Avi Loeb published his own account, dated 1 July 2026, of agreeing to lead a UAP Science Advisory Council for the US government, following the Disclosure Foundation's 14 June 2026 announcement of the council.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": "2026-07-01",
+"eventDate": null,
+"id": "c-981ffd902e",
+"node": "d-policy",
+"nodeLabel": "Executive Policy & Directives",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Avi Loeb, Medium, 1 July 2026",
+"url": null
+},
+"text": "Avi Loeb published his own account of agreeing to lead a UAP Science Advisory Council for the US government, dated 1 July 2026.",
+"tier": 2,
+"topic": "classification-orders",
+"via": null
 }
 ],
 "cls": "person",

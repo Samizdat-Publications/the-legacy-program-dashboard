@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-b6ae2b4fee",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement on release of historical Navy videos",
 "text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
 "tier": 1
@@ -25,6 +34,15 @@
 },
 {
 "id": "c-afe33002f8",
+"meta": {
+"artefactDate": "2026-07-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-07",
+"route": "press",
+"speaker": "unnamed (NewsTalk KZRG reporting)",
+"via": "NewsTalk KZRG"
+},
 "source": "NewsTalk KZRG, 23 July 2026",
 "text": "In July 2026 the House approved a Burlison amendment creating a framework for UAP records disclosure.",
 "tier": 2

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-1a1251d11c",
+"meta": {
+"artefactDate": null,
+"claimant": "mark-skidmore",
+"claimantLabel": "Mark Skidmore",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://mark-skidmore.com/about/",
 "text": "Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
 "tier": 2

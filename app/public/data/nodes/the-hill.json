@@ -11,6 +11,42 @@
 "tier": 1
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-16c5e426ae",
+"node": "hr-6967-safe-airspace-for-americans-act",
+"nodeLabel": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "Intended to close the gap in UAP reporting by enabling civilian pilots and personnel to report encounters to the FAA, which would send reports to AARO, in exchange for legal safeguards.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-000ac70875",
+"node": "congressional-uap-caucus",
+"nodeLabel": "Congressional UAP Caucus",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024; The Hill, 12 March 2024; The Hill/NewsNation, 29 June 2026",
+"url": null
+},
+"text": "Rep. Andy Ogles is described as 'part of the UAP Caucus but not the Oversight Committee'; Rep. Moskowitz is described as 'a member of the UAP Caucus'; Rep. Burlison is described as 'a member of the caucus' and later as 'a member of the so-called UAP Caucus in Congress.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "media",
 "conflicts": [],

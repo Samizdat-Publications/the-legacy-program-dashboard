@@ -110,6 +110,15 @@
 },
 {
 "id": "c-712914ce1a",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "CHRG-119hhrg61718, testimony of George Knapp",
 "text": "Testimony, 9 September 2025, on where UAP funding sits: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
 "tier": 2
@@ -122,18 +131,45 @@
 },
 {
 "id": "c-e874579553",
+"meta": {
+"artefactDate": "2021",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": "2007",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021)",
 "text": "Lacatski read 'Hunt for the Skinwalker' by Knapp and Kelleher before approaching Bigelow in 2007, making the book a proximate cause of the contract.",
 "tier": 2
 },
 {
 "id": "c-d8c66b2aa4",
+"meta": {
+"artefactDate": "2021",
+"claimant": "harry-reid",
+"claimantLabel": "Harry M. Reid",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "George Knapp, KLAS/Mystery Wire"
+},
 "source": "Harry Reid interview with George Knapp, KLAS/Mystery Wire, 2021",
 "text": "Reid told Knapp on camera that the $22 million was not enough and that not studying the subject would be malpractice.",
 "tier": 2
 },
 {
 "id": "c-f1a5446073",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025",
 "text": "'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.'",
 "tier": 1
@@ -164,45 +200,484 @@
 },
 {
 "id": "c-9c63489c6a",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (Wikipedia)",
+"via": null
+},
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Knapp has been credited with introducing Senator Harry Reid to Robert Bigelow because of their shared interest in unidentified aerial phenomena.",
 "tier": 2
 },
 {
 "id": "c-46b35af5ce",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'George Knapp (television journalist)'",
+"via": null
+},
 "source": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Knapp worked with Robert Bigelow's National Institute of Discovery Science alongside NIDS deputy administrator Colm Kelleher and publicised Skinwalker Ranch.",
 "tier": 2
 },
 {
 "id": "c-033803a8f1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'George Knapp (television journalist)'",
+"via": null
+},
 "source": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Knapp co-hosts the Weaponized podcast with Jeremy Corbell.",
 "tier": 2
 },
 {
 "id": "c-5b50718005",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
 "text": "'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
 "tier": 2
 },
 {
 "id": "c-da031b7d10",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.'",
 "tier": 2
 },
 {
 "id": "c-2404414528",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
 "tier": 2
 },
 {
 "id": "c-6b202c77d5",
+"meta": {
+"artefactDate": "2023-02-28",
+"claimant": "alfred-odonnell",
+"claimantLabel": "Alfred 'Al' O'Donnell",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "George Knapp (recipient); reported by Christopher Sharp, Liberation Times"
+},
 "source": "George Knapp, quoted by Christopher Sharp, Liberation Times, 28 February 2023; repeated in sworn testimony 9 September 2025",
 "text": "Alfred O'Donnell, first general manager of EG&G in Nevada, told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1989-05",
+"eventDate": null,
+"id": "c-529ddc26a5",
+"node": "l-las-vegas",
+"nodeLabel": "Las Vegas, Nevada",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "KLAS-TV broadcast record; Wikipedia, Area 51",
+"url": null
+},
+"text": "George Knapp broadcast the Robert Lazar interviews from KLAS-TV Las Vegas in May 1989.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-2bc2e6d173",
+"node": "bigelow-aerospace",
+"nodeLabel": "Bigelow Aerospace",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, sworn testimony, 9 September 2025",
+"url": null
+},
+"text": "BAASS was to receive 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-996d594436",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, sworn testimony, 9 September 2025",
+"url": null
+},
+"text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin' for 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-ca5a7ed4ce",
+"node": "l-las-vegas",
+"nodeLabel": "Las Vegas, Nevada",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"url": null
+},
+"text": "BAASS, headquartered in Las Vegas, was prime contractor for AAWSAP, recruited about 50 full-time investigators with top secret clearances, operated for 27 months, and produced more than three dozen preliminary reports and over 100 detailed research papers plus a 240,000-case data warehouse.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-632f3e1ff5",
+"node": "alfred-odonnell",
+"nodeLabel": "Alfred 'Al' O'Donnell",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Knapp named O'Donnell to Congress as the 'first general manager of EG&G in Nevada, which managed the Nevada test site,' among the witnesses whose testimony underlies his reverse-engineering reporting.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-ac64874b83",
+"node": "lockheed-martin",
+"nodeLabel": "Lockheed Martin Corporation",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, sworn testimony, 9 September 2025",
+"url": null
+},
+"text": "Asked to name corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do.'",
+"tier": 2,
+"topic": "carve-outs",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-b6d6789c8c",
+"node": "lockheed-martin",
+"nodeLabel": "Lockheed Martin Corporation",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+"tier": 2,
+"topic": "carve-outs",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-233793c747",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "'Mr. Knapp. I have a name for you. Mr. Begich. Go ahead. Mr. Knapp. Glenn Gaffney, CIA.'",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-2404414528",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-5b50718005",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"url": null
+},
+"text": "'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-83ec6a7b97",
+"node": "james-ryder",
+"nodeLabel": "Dr. James Ryder",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "'Well, one of them was named Dr. James Ryder at Lockheed.' - response to a request to name specific gatekeepers of the alleged UAP special access program network.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-b686095509",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/"
+},
+"text": "Knapp testified that 'Documents paint a much different picture than what the public, the press, and Congress have been told,' and alleged UAP materials have been moved to private contractors, complicating oversight and FOIA access.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-da031b7d10",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.'",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-dcd51edf88",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "In the same answer Knapp attributed the original tasking to the intelligence agencies: 'the intelligence agencies who gave this stuff to them, CIA I think primarily, told them to keep it quiet, and they have done that.'",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-f1a5446073",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"url": null
+},
+"text": "'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.'",
+"tier": 1,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2018-07-25",
+"eventDate": null,
+"id": "c-2fc9cddaec",
+"node": "john-cramer",
+"nodeLabel": "John G. Cramer",
+"route": "document",
+"source": {
+"domain": "ufos-scientificresearch.blogspot.com",
+"text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+"text": "The KLAS-TV list of the same thirty-eight DIRDs, published 25 July 2018 by George Knapp and Matt Adams and confirmed genuine by Luis Elizondo, gives the same document as \"Quantum Entanglement Communication, Dr J Cramer, Univ of Washington.\"",
+"tier": 2,
+"topic": "dirds",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-712914ce1a",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, testimony of George Knapp",
+"url": null
+},
+"text": "Testimony, 9 September 2025, on where UAP funding sits: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
+"tier": 2,
+"topic": "media-substrate",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-d85b2e59e5",
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"url": null
+},
+"text": "BAASS recruited about 50 full-time investigators with top secret clearances, operated for 27 months, generated more than three dozen preliminary reports and over 100 detailed research papers, and built a data warehouse of over 240,000 UFO case files designed by Jacques Vallee that reportedly remains in use by US agencies; most of the research papers remain unreleased by DIA.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-4ebf08e986",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, written testimony, 9 September 2025",
+"url": null
+},
+"text": "BAASS was prime contractor for AAWSAP, recruited about 50 cleared investigators, ran 27 months, produced more than three dozen preliminary reports and over 100 research papers, and built a 240,000-case data warehouse designed by Jacques Vallee; most of the papers remain unreleased by DIA.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-9d29dd8692",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Knapp named Lockheed Martin, Dr. James Ryder and Glenn Gaffney on the record in response to member questions about which corporations and individuals hold and gatekeep the material.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-d8a37809c2",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, House Oversight Task Force hearing, 9 September 2025",
+"url": null
+},
+"text": "Knapp: the public has been told since the late 1940s 'there's nothing to worry about here,' while documents show personnel acknowledging 'these things are real. They're not fictitious.'",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-2b4be98bd7",
+"node": "l-la",
+"nodeLabel": "Los Angeles and Burbank, California",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"url": null
+},
+"text": "Bigelow negotiated with a senior Lockheed executive to acquire unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity; the agreement was never completed.",
+"tier": 2,
+"topic": null,
+"via": "House Oversight Task Force"
 }
 ],
 "cls": "person",

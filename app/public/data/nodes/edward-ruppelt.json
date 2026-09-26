@@ -49,6 +49,15 @@
 "claims": [
 {
 "id": "c-6d8b74d97e",
+"meta": {
+"artefactDate": "1956",
+"claimant": "edward-ruppelt",
+"claimantLabel": "Edward J. Ruppelt",
+"eventDate": "1948",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
 "text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
 "tier": 2
@@ -67,9 +76,156 @@
 },
 {
 "id": "c-c004dd1cb4",
+"meta": {
+"artefactDate": "1960",
+"claimant": "edward-ruppelt",
+"claimantLabel": "Edward J. Ruppelt",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 2nd edition, 1960",
 "text": "Ruppelt added sceptical chapters to the 1960 edition of his book, reversing tone shortly before his death.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1956",
+"eventDate": "1951",
+"id": "c-3f25efbff4",
+"node": "project-grudge",
+"nodeLabel": "Project GRUDGE",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956)",
+"url": null
+},
+"text": "Under GRUDGE the project was reduced to a token effort until Ruppelt was placed in charge in late 1951.",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1956",
+"eventDate": "1948",
+"id": "c-6d8b74d97e",
+"node": "edward-ruppelt",
+"nodeLabel": "Edward J. Ruppelt",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"url": null
+},
+"text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1960",
+"eventDate": null,
+"id": "c-c004dd1cb4",
+"node": "edward-ruppelt",
+"nodeLabel": "Edward J. Ruppelt",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ruppelt, 'The Report on Unidentified Flying Objects', 2nd edition, 1960",
+"url": null
+},
+"text": "Ruppelt added sceptical chapters to the 1960 edition of his book, reversing tone shortly before his death.",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1956",
+"eventDate": "1948",
+"id": "c-17b195e696",
+"node": "estimate-of-the-situation",
+"nodeLabel": "Estimate of the Situation (1948)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"url": null
+},
+"text": "Ruppelt first published the existence, content and destruction of the Estimate in 1956 based on his tenure as Blue Book director.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+},
+{
+"artefactDate": "1956",
+"eventDate": null,
+"id": "c-6507e8606c",
+"node": "howard-mccoy",
+"nodeLabel": "Howard M. McCoy",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Condon Report Sec. V Ch. 2 and Ruppelt, 'The Report on Unidentified Flying Objects' (1956), on the AMC/ATIC chain",
+"url": null
+},
+"text": "McCoy was Chief of Intelligence at Air Materiel Command, the organisation that would have received any recovered material, and was the operational supervisor of Project SIGN.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+},
+{
+"artefactDate": "1956",
+"eventDate": "1948",
+"id": "c-9cccab40c1",
+"node": "project-sign",
+"nodeLabel": "Project SIGN",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956); Project Blue Book administrative records, NARA RG 341",
+"url": null
+},
+"text": "SIGN operated under Air Materiel Command intelligence at Wright Field, with J. Allen Hynek retained as scientific consultant from 1948.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+},
+{
+"artefactDate": "1956",
+"eventDate": null,
+"id": "c-e15b1e7d18",
+"node": "hoyt-vandenberg",
+"nodeLabel": "Hoyt S. Vandenberg",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"url": null
+},
+"text": "The Estimate's existence and destruction were first published by Edward Ruppelt, the first Blue Book director, in 1956.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-7089c04f1d",
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Edward J. Ruppelt, The Report on Unidentified Flying Objects, chapter on green fireballs and Project Twinkle",
+"url": null
+},
+"text": "Kirtland intelligence officers called in LaPaz because the fireballs resembled meteors, and he concluded they did not behave as meteors would.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
 }
 ],
 "cls": "person",

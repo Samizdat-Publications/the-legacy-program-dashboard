@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-44f2a2afc8",
+"meta": {
+"artefactDate": "1986-08-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "filing",
+"speaker": "order of dismissal, Cash v. United States, No. H-84-348 (S.D. Tex.)",
+"via": null
+},
 "source": "Cash v. United States order of dismissal — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), was dismissed by order dated 21 August 1986.",
 "tier": 2

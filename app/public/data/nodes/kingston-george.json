@@ -39,6 +39,15 @@
 },
 {
 "id": "c-977d05592e",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "text": "He describes the security reaction in terms that concede a cover-up while denying its subject: 'Vulnerability of a major weapons system is normally classified Top Secret. How could this matter be kept from leaking out?' and records that everyone at the site had to be identified and questioned, 'All, including Jacobs and myself'.",
 "tier": 2
@@ -57,6 +66,15 @@
 },
 {
 "id": "c-d2ea96d506",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "text": "He states the film no longer exists: the Top Secret film was marked for downgrading and declassification after twelve years, 'but its utility was over after a few months', and 'the film and related materials were all destroyed long before the 12 years were up'. He adds that Jacobs 'is being both safe and cagey in observing that the Air Force denies the existence of the film or other hard evidence'.",
 "tier": 1
@@ -66,6 +84,297 @@
 "source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 185-186, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "text": "His explanation of the imagery is specific and testable rather than dismissive: two decoys were fired off by small rocket charges on schedule, some of the decoy packing material trailed along and was visible optically and on certain radars, and the little cloud of debris around each decoy gave away the false status, which is why the classification went from Secret to Top Secret and a copy was flown to SAC headquarters.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1993",
+"eventDate": "1964-09",
+"id": "c-2a3c7f7286",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "document",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The counter-explanation: 'two decoys were fired off by small rocket charges on schedule, but some of the decoy packing material also trailed along and could be seen optically and also by certain kinds of radar. A little cloud of debris around each decoy warhead clearly gave away the false status, almost as well as coloring the decoys bright red.'",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964-10-13",
+"id": "c-2a98ef21ed",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "document",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "A contemporaneous internal document is cited by title and date: 'George, Kingston A. 1964. Preliminary Report on Image Orthicon Photography from Big Sur. Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, October 13.'",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964-09",
+"id": "c-47746e92d2",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The project engineer confirms the other participant's role: 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location.'",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964",
+"id": "c-51c93a7f72",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The deployment: 'The United States Air Force conducted a test of a special light-sensitive telescope high up in the coastal mountains in the Los Padres National Forest above Big Sur, California, between August and November 1964. The objective was to collect low-light-level photography of missile launches into the Air Force Western Test Range from Vandenberg Air Force Base, situated a little over 100 miles to the south... Nine of eleven launches from Vandenberg were successfully covered during the three-month deployment.'",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-533cda0c9c",
+"node": "robert-jacobs",
+"nodeLabel": "Robert M. Jacobs",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 186-187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "George states both that Jacobs was debriefed and that he probably lacked the clearance to understand what he had seen: everyone at the telescope site or who had seen the film 'had to be questioned on what they had seen and what they thought it meant', each cautioned not to discuss it even with fellow workers, and 'I don't think Bob Jacobs ever gained the required clearance.' That sentence is simultaneously the sceptic's explanation and an independent confirmation that Jacobs was there and was debriefed.",
+"tier": 1,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-5415ea4960",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The stated reason for the secrecy, which is a cover-up of a different thing rather than no cover-up: 'Vulnerability of a major weapons system is normally classified Top Secret. How could this matter be kept from leaking out?' Everyone at the site had to be identified and questioned, 'All, including Jacobs and myself'.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964-09-22",
+"id": "c-9740864e10",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The date and the launch, per the project engineer: 'Dawn on September 22, 1964', on 'an Atlas launch nicknamed Buzzing Bee before sunup'.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-977d05592e",
+"node": "kingston-george",
+"nodeLabel": "Kingston A. George",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "He describes the security reaction in terms that concede a cover-up while denying its subject: 'Vulnerability of a major weapons system is normally classified Top Secret. How could this matter be kept from leaking out?' and records that everyone at the site had to be identified and questioned, 'All, including Jacobs and myself'.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-a464909043",
+"node": "robert-jacobs",
+"nodeLabel": "Robert M. Jacobs",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The counter-explanation, from the same source: 'what had happened on Buzzing Bee was that two decoys were fired off by small rocket charges on schedule, but some of the decoy packing material also trailed along and could be seen optically and also by certain kinds of radar. A little cloud of debris around each decoy warhead clearly gave away the false status'. George also corrects a factual point: 'the Atlas was sub-orbital, as all ICBMs are, and it did not miss the target.'",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964-10-13",
+"id": "c-b94ee57158",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "document",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 187 references, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The project engineer's own contemporaneous document is cited by title, issuing headquarters and date in his 1993 references and has never been opened: 'George, Kingston A. 1964. Preliminary Report on Image Orthicon Photography from Big Sur. Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, October 13.' It is the document that would move this case from two men's published memories to a contemporaneous record.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-c05431d823",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The instrument: a 24-inch mirror telescope 'built in the 1950s on a modified 5-inch gun mount by Boston University under government contract', owned and operated by the Range Measurements Laboratory of the Air Force Eastern Test Range, using an image orthicon television camera tube.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964-09",
+"id": "c-c6bfe46ddb",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , and Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , both opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "Two further participants are named and placed at the site by George's published photograph caption: 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner.' Mansmann is Robert Jacobs's corroborating witness and later wrote to UFO researchers about the event, including a letter of May 1987 reported as confirming Jacobs's account.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-c714f8a0c4",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "The film's fate: 'The Top Secret film was marked for downgrading and declassification after 12 years, but its utility was over after a few months... the film and related materials were all destroyed long before the 12 years were up.'",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964-09",
+"id": "c-d2a91a9b33",
+"node": "florenz-mansmann",
+"nodeLabel": "Maj. Florenz J. Mansmann",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 photograph caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "Kingston A. George, the project engineer for the 1964 Big Sur telescope experiment, published a photograph of the team in the Skeptical Inquirer, Winter 1993, and captioned it: 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner.' Mansmann's rank, presence and identity at the site are therefore established by a source hostile to the UFO reading of the event.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-d2ea96d506",
+"node": "kingston-george",
+"nodeLabel": "Kingston A. George",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "He states the film no longer exists: the Top Secret film was marked for downgrading and declassification after twelve years, 'but its utility was over after a few months', and 'the film and related materials were all destroyed long before the 12 years were up'. He adds that Jacobs 'is being both safe and cagey in observing that the Air Force denies the existence of the film or other hard evidence'.",
+"tier": 1,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": null,
+"id": "c-f9e2a14c92",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "George states the physical evidence no longer exists: the Top Secret film was marked for downgrading and declassification after twelve years, 'but its utility was over after a few months', and 'the film and related materials were all destroyed long before the 12 years were up'. He adds that Jacobs 'is being both safe and cagey in observing that the Air Force denies the existence of the film or other hard evidence'.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1993",
+"eventDate": "1964",
+"id": "c-fa51e29758",
+"node": "robert-jacobs",
+"nodeLabel": "Robert M. Jacobs",
+"route": "press",
+"source": {
+"domain": "cdn.centerforinquiry.org",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+"text": "George concedes a point to Jacobs, which is why the exchange is a serious one rather than a polemic: 'Bob is correct in saying that the observations in 1964 did not involve lasers, and, I would add, neither intra- nor extraterrestrial.'",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
 }
 ],
 "cls": "person",

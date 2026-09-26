@@ -18,6 +18,15 @@
 },
 {
 "id": "c-d95dfb90d0",
+"meta": {
+"artefactDate": "1977-08-03",
+"claimant": "us-senate",
+"claimantLabel": "United States Senate",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "The Senate said the same thing without the name: 'Then one individual, through a Freedom of Information request, accomplished what two U.S. Senate committees could not. He spurred the agency into finding additional records pertaining to the CIA's program of experimentation with human subjects.'",
 "tier": 1
@@ -30,6 +39,15 @@
 },
 {
 "id": "c-6416daadcd",
+"meta": {
+"artefactDate": "2021-07-01",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "Tom O'Neill",
+"via": "Danny Jones Podcast"
+},
 "source": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:11:04 to 1:12:46",
 "text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:11:04 to 1:12:46, Tom O'Neill described John Marks as a State Department official who found MKULTRA's surviving financial records, blew the whistle and went to Congress. The CIA memorandum reprinted in the 1977 hearing print says the search and the finding were done inside the Agency in response to his FOIA request, and that the Agency was advised to inform the Senate Select Committee before informing his attorneys.",
 "tier": 2

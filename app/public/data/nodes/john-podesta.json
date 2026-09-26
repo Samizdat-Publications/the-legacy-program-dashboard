@@ -39,12 +39,30 @@
 "claims": [
 {
 "id": "c-470fbcf707",
+"meta": {
+"artefactDate": "2002-10-22",
+"claimant": "john-podesta",
+"claimantLabel": "John D. Podesta",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "National Press Club (event organised by the Coalition for Freedom of Information)"
+},
 "source": "John Podesta, remarks at the National Press Club, Washington DC, 22 Oct 2002",
 "text": "Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002 organised by the Coalition for Freedom of Information.",
 "tier": 2
 },
 {
 "id": "c-c8cdb583da",
+"meta": {
+"artefactDate": "2015-02-13",
+"claimant": "john-podesta",
+"claimantLabel": "John D. Podesta",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "John Podesta, public statement, 13 Feb 2015",
 "text": "On leaving the Obama White House in February 2015, Podesta stated publicly that his biggest failure of the year was 'once again not securing the disclosure of the UFO files.'",
 "tier": 2
@@ -54,6 +72,42 @@
 "source": "Clinton Digital Library collection finding aids",
 "text": "The Clinton White House's UFO-related FOIA collections consist of external correspondence - Greer/CSETI material (2006-0474-F), Roswell public correspondence and the GAO report (2006-0476-F), and Joe Firmage email (2008-0359-F) - not intelligence programme records.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2002-10-22",
+"eventDate": null,
+"id": "c-470fbcf707",
+"node": "john-podesta",
+"nodeLabel": "John D. Podesta",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "John Podesta, remarks at the National Press Club, Washington DC, 22 Oct 2002",
+"url": null
+},
+"text": "Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002 organised by the Coalition for Freedom of Information.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": "National Press Club (event organised by the Coalition for Freedom of Information)"
+},
+{
+"artefactDate": "2015-02-13",
+"eventDate": null,
+"id": "c-c8cdb583da",
+"node": "john-podesta",
+"nodeLabel": "John D. Podesta",
+"route": "press",
+"source": {
+"domain": null,
+"text": "John Podesta, public statement, 13 Feb 2015",
+"url": null
+},
+"text": "On leaving the Obama White House in February 2015, Podesta stated publicly that his biggest failure of the year was 'once again not securing the disclosure of the UFO files.'",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
 }
 ],
 "cls": "person",

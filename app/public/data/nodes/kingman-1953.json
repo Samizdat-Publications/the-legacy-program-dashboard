@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-557138e0b5",
+"meta": {
+"artefactDate": null,
+"claimant": "leonard-stringfield",
+"claimantLabel": "Leonard H. Stringfield",
+"eventDate": "1953",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Stringfield, Status Report III, Kingman case notes",
 "text": "Kingman, Arizona 1953 was first investigated and reported by Raymond Fowler; Stringfield referenced it at pages 178-185 of 'Situation Red, The UFO Siege' (Doubleday, 1977) and as Abstract 6 of 'Retrievals of the Third Kind' (1978).",
 "tier": 2
 },
 {
 "id": "c-ac7e216e82",
+"meta": {
+"artefactDate": "1980-08-11",
+"claimant": "leonard-stringfield",
+"claimantLabel": "Leonard H. Stringfield",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Stringfield, Status Report III, Kingman Q&A",
 "text": "Stringfield wrote to Fowler on 11 August 1980 seeking permission to question Fowler's source 'Fritz Werner' (pseudonym); Werner's written answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
 "tier": 2
 },
 {
 "id": "c-cfdb9f052a",
+"meta": {
+"artefactDate": "1980-09-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "'Werner' (pseudonym), in Stringfield's Status Report III",
+"via": "Leonard Stringfield, Status Report III"
+},
 "source": "Stringfield, Status Report III, verbatim Q&A dated 2 September 1980",
 "text": "Asked in 1980 for facial detail on the entity, 'Werner' answered: 'Since it's been 27 years, details like this are pretty foggy and I may even be influenced by other descriptions I've seen or heard in the interim.'",
 "tier": 2

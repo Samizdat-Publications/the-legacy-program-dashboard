@@ -24,6 +24,15 @@
 },
 {
 "id": "c-9de1088659",
+"meta": {
+"artefactDate": "1996-10-01",
+"claimant": "frederick-meiwald",
+"claimantLabel": "Col. Frederick Meiwald",
+"eventDate": "1967-03",
+"route": "document",
+"speaker": null,
+"via": "Robert Salas and Robert Hastings"
+},
 "source": "Contested between Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , and the Metabunk skeptical resources thread, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19",
 "text": "Col. Frederick Meiwald wrote to Robert Salas about the March 1967 events on 1 October 1996, after Salas located him in the summer of that year. The letter is published by Salas and Robert Hastings. IT HAS NOT BEEN OPENED BY THIS BOARD and two flatly incompatible characterisations of its contents are in public circulation: that it elaborates and supports the Oscar Flight account, and that it records Meiwald's recollection as differing from Salas's and regrets being unable to help him establish his claims.",
 "tier": 2
@@ -42,24 +51,60 @@
 },
 {
 "id": "c-0181233d08",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": "1967-03",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:28:33, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:28:33, Robert Salas said one of the documents received from the Air Force is a telex about the Echo Flight shutdown which names by name two individuals working for Boeing, in which SAC headquarters demanded a complete investigation and used the words 'this is of grave concern'. Salas says 'I've got that telex.' This is a different document from the 17 March 1967 Air Force teletype the board already cites.",
 "tier": 2
 },
 {
 "id": "c-693c2d91a4",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": "1967-03",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:44:54 to 0:47:25",
 "text": "At 0:44:54 to 0:47:25 Salas described the Boeing bench-test result: an injected electrical signal of a given frequency, voltage and duration could make one guidance and control system shut down, but the testers 'had no idea on how that could be injected into this each missile separately within seconds'; the cable run was about eight to nine inches in diameter and 'triply shielded against EMI'; the report concluded an external signal caused the shutdowns while stating they could not explain how it got in; and Salas says he and James Klotz later reached the two named testers, who repeated that they could not explain it.",
 "tier": 2
 },
 {
 "id": "c-60db0a6a81",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": "1967-03",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:39:39",
 "text": "At 0:39:39 Salas said he and James Klotz checked with the Department of Energy, cognizant of nuclear testing in Nevada, and that 'There were no nuclear tests on March 16th or March 24th', which on his account removes the nuclear-EMP explanation on the government's own records. He names no document number for the check.",
 "tier": 2
 },
 {
 "id": "c-b7ba0803d5",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:32:01, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:32:01, Robert Salas said that Ray Fowler was a manager under Sylvania Corporation, which held the contract for the electrical systems at Malmstrom, that Fowler's own contractor staff reported seeing the objects and being involved in the missile shutdowns, and that Fowler passed this to Roy Craig, the Colorado project's chief investigator, with names, dates, places and telephone numbers. Salas presents this as the reason Craig travelled to Malmstrom, and says at 0:32:49 that he holds the Chase interview on audio tape.",
 "tier": 2
@@ -108,6 +153,15 @@
 },
 {
 "id": "c-3192516bba",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1967-03",
+"route": "document",
+"speaker": "Bernard C. Nalty (quoted second-hand via Metabunk)",
+"via": "Metabunk"
+},
 "source": "Metabunk, quoting Nalty 1969, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "An external attribution circulates that this board has NOT opened: a Top Secret 1969 USAF official history, Bernard C. Nalty's 'USAF Ballistic Missile Programs 1967-1968', is quoted second-hand as recording that an electronic noise pulse had shut down the flight, similar to the electromagnetic pulse generated by nuclear explosions. Nalty was not opened and the claim is carried at Tier 2 on that basis.",
 "tier": 2
@@ -126,6 +180,15 @@
 },
 {
 "id": "c-8be78b1e39",
+"meta": {
+"artefactDate": "1984",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1967-03",
+"route": "book",
+"speaker": "Fawcett and Greenwood",
+"via": null
+},
 "source": "Fawcett and Greenwood, 'Clear Intent' (1984)",
 "text": "Fawcett and Greenwood wrote in 1984 that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and confirmed on radar, that jet fighters were sent after it, and that later inquiries met with silence.",
 "tier": 2

@@ -24,6 +24,15 @@
 },
 {
 "id": "c-e50b8bbcfc",
+"meta": {
+"artefactDate": "2020-03-12",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Doug Halleaux, U.S. Army Ground Vehicle Systems Center public affairs officer",
+"via": "The Black Vault"
+},
 "source": "The Black Vault, 12 March 2020",
 "text": "Army GVSP public affairs officer Doug Halleaux said that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.'",
 "tier": 2
@@ -36,18 +45,45 @@
 },
 {
 "id": "c-4711e15514",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2019",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
 "tier": 1
 },
 {
 "id": "c-f304b66487",
+"meta": {
+"artefactDate": "2019-10-17",
+"claimant": "ttsa",
+"claimantLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Bloomberg Government"
+},
 "source": "TTSA announcement, 17 October 2019; Bloomberg Government, 21 October 2019",
 "text": "The five-year CRADA was announced on 17 October 2019 and covers inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion.",
 "tier": 2
 },
 {
 "id": "c-082fa1ed9d",
+"meta": {
+"artefactDate": "2019-10-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Bloomberg Government",
+"via": null
+},
 "source": "Bloomberg Government, 21 October 2019",
 "text": "The Army stated no public funding would go to the group; the agreement provided at least $750,000 in Army support and resources.",
 "tier": 2

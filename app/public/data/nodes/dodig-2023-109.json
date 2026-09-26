@@ -6,36 +6,90 @@
 "claims": [
 {
 "id": "c-5a05012aca",
+"meta": {
+"artefactDate": "2024-01-25",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "text": "The classified evaluation is Report No. DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena,' dated August 15, 2023. A 16-page unclassified summary was published January 24-25, 2024; it carries the note: 'A classified version of the Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena formed the basis of the unclassified summary.'",
 "tier": 1
 },
 {
 "id": "c-a2a02fb32b",
+"meta": {
+"artefactDate": "2024-01-25",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Core finding, 'The DoD Does Not Have a Comprehensive, Coordinated Approach to Address UAP': 'the DoD has not used a coordinated approach to detect, report, collect, analyze, and identify UAP; DoD Components have largely excluded geographic combatant commands... in developing UAP policies and procedures; and DoD Components developed varying processes to collect, analyze, and identify UAP incidents.'",
 "tier": 2
 },
 {
 "id": "c-c327a0ec39",
+"meta": {
+"artefactDate": "2024-01-25",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "text": "Consequence finding: 'We determined that the DoD has no overarching UAP policy and, as a result, it lacks assurance that national security and flight safety threats to the United States from UAP have been identified and mitigated.'",
 "tier": 1
 },
 {
 "id": "c-a6bbacdb43",
+"meta": {
+"artefactDate": "2024-01-25",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "text": "On the absence of a response plan: 'The DoD has not issued a comprehensive UAP response plan that identifies roles, responsibilities, requirements, and coordination procedures... As a result, the DoD response to UAP incidents is uncoordinated and concentrated within each Military Department. Officials from the Military Services and MDCOs stated that they have been waiting for the DoD to issue comprehensive UAP guidance before developing their own guidance.'",
 "tier": 1
 },
 {
 "id": "c-296bf88ea1",
+"meta": {
+"artefactDate": "2024-01-25",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
 "text": "Recommendation 1: 'We recommend that the Under Secretary of Defense for Intelligence and Security, in coordination with the All-domain Anomaly Resolution Office Director, issue a Department of Defense policy to integrate unidentified anomalous phenomena roles, responsibilities, requirements, and coordination procedures into existing intelligence, counterintelligence, and force protection policies and procedures. The policy should include methods to address unidentified anomalous phenomena incidents and should align with policies and procedures for the protection of United States persons' civil liberties.' USD(I&S) and the AARO Director agreed; the recommendation was left 'resolved but open'.",
 "tier": 1
 },
 {
 "id": "c-4ed266f44c",
+"meta": {
+"artefactDate": "2024-01-25",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Historical framing in the summary: 'Over the past decades, the DoD has initiated infrequent and inconclusive efforts to identify and understand the origin, capabilities, and intent of unidentified aerial phenomena (UAP)... the DoD has relied heavily on the Services and Components to detect, report, collect, analyze, and identify UAP since the 1940s.' It counts 243 sightings investigated under PROJECT SIGN (1947-1949) and 'over 12,000 reported sightings' under PROJECT BLUE BOOK (1952-1969).",
 "tier": 2

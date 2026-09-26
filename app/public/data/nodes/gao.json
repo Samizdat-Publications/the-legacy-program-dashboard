@@ -17,6 +17,59 @@
 "tier": 3
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "1986-07-24",
+"eventDate": "1983-02-18",
+"id": "c-42b4326452",
+"node": "defense-investigative-service",
+"nodeLabel": "Defense Investigative Service",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "GAO accession 130581, 24 July 1986, describing GAO/GGD-83-43 -- the earlier report was not read",
+"url": null
+},
+"text": "GAO/GGD-83-43 of 18 February 1983, 'Further Improvements Needed in Department of Defense Oversight of Special Access (Carve-Out) Contracts', recommended change and DoD refused. The 1986 testimony gives DoD's stated reasons, including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary.' The 1983 report itself was not opened in this pass.",
+"tier": 2,
+"topic": "carve-outs",
+"via": null
+},
+{
+"artefactDate": "1986-07-24",
+"eventDate": "1965",
+"id": "c-8c72a404f4",
+"node": "gao-130581",
+"nodeLabel": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
+"url": null
+},
+"text": "GAO states the exclusion as a standing policy decision: 'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
+"tier": 1,
+"topic": "carve-outs",
+"via": null
+},
+{
+"artefactDate": "1986-08-07",
+"eventDate": null,
+"id": "c-7661b20b92",
+"node": "defense-investigative-service",
+"nodeLabel": "Defense Investigative Service",
+"route": "document",
+"source": {
+"domain": null,
+"text": "GAO/NSIAD-86-191, B-223830, 7 August 1986, signed Frank C. Conahan",
+"url": null
+},
+"text": "GAO told the Secretary of Defense that the Lockheed document-accountability failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed' -- establishing that DIS inspected Lockheed's non-special-access work while excluded from the special access contract at the same company.",
+"tier": 1,
+"topic": "carve-outs",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "oversight",
 "conflicts": [],

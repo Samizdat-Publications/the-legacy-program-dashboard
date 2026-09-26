@@ -44,6 +44,25 @@
 "tier": 1
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2017-01-04",
+"eventDate": "2014-11-11",
+"id": "c-d21852811d",
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"route": "press",
+"source": {
+"domain": "www.newsweek.com",
+"text": "Newsweek, 'Chilean Navy Can't Identify Mysterious Aircraft Caught on Video' - https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786 ; Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017 - https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b",
+"url": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786"
+},
+"text": "The Chilean Navy case: an Airbus Cougar AS-532 helicopter with an infrared camera recorded roughly ten minutes of footage of an unidentified object off the coast west of Santiago on 11 November 2014; CEFAA released the footage with an official report in January 2017. Director Ricardo Bermúdez summarised the finding as 'We do not know what it was, but we do know what it was not.'",
+"tier": 2,
+"topic": "latin-america",
+"via": "Newsweek; Huffington Post"
+}
+],
 "cls": "person",
 "cluster": "research",
 "conflicts": [],

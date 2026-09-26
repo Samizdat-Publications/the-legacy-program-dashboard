@@ -9,12 +9,30 @@
 "claims": [
 {
 "id": "c-56fd857db7",
+"meta": {
+"artefactDate": null,
+"claimant": "james-carlson",
+"claimantLabel": "James Carlson",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": "Metabunk"
+},
 "source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "James Carlson, son of Echo Flight crew commander Capt. Eric D. Carlson, has published a 357-page work titled 'American, Credulous' and a shorter piece titled 'Echo Flights of Fantasy - Anatomy of a UFO Hoax', concluding that no UFOs were involved at Echo Flight or any other flight and that claims of UFO interference are completely unsupportable.",
 "tier": 2
 },
 {
 "id": "c-4f559e0f1d",
+"meta": {
+"artefactDate": null,
+"claimant": "james-carlson",
+"claimantLabel": "James Carlson",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Metabunk"
+},
 "source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "His enumerated disputes with Robert Salas are: that Salas claims all ten Echo Flight missiles shut down where Eric Carlson confirms three or four; that no Oscar Flight incident occurred on 24 or 25 March 1967; that Walt Figel denied seeing a UFO; that Salas has located himself inconsistently across accounts; and that Salas never witnessed anything directly, his account being of a telephone call from a topside security policeman.",
 "tier": 2
@@ -30,6 +48,76 @@
 "source": "341st SMW history, Jan-Mar 1967, p 38, and a full-text search of the 88-page release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "One of his disputes is supported by the same document. The words 'Unidentified Flying Object' occur exactly once in the 88 released pages of the 341st SMW histories, and the occurrence is a negative: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven.' The string 'Oscar' does not occur in the release at all.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-4f559e0f1d",
+"node": "james-carlson",
+"nodeLabel": "James Carlson",
+"route": "document",
+"source": {
+"domain": "www.metabunk.org",
+"text": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+"text": "His enumerated disputes with Robert Salas are: that Salas claims all ten Echo Flight missiles shut down where Eric Carlson confirms three or four; that no Oscar Flight incident occurred on 24 or 25 March 1967; that Walt Figel denied seeing a UFO; that Salas has located himself inconsistently across accounts; and that Salas never witnessed anything directly, his account being of a telephone call from a topside security policeman.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "Metabunk"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-6016b08032",
+"node": "walter-figel",
+"nodeLabel": "Col. Walter Figel Jr.",
+"route": "document",
+"source": {
+"domain": "www.metabunk.org",
+"text": "Metabunk skeptical resources thread on Salas and Malmstrom, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+"text": "James Carlson states that Figel told him he saw no UFO and treated the radio report as a joke, and that both Figel and Eric Carlson reported no UFOs at Echo Flight.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "Metabunk"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-c98b1efae0",
+"node": "malmstrom-oscar-flight-1967",
+"nodeLabel": "Malmstrom Oscar Flight claim, 24 March 1967",
+"route": "document",
+"source": {
+"domain": "www.metabunk.org",
+"text": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+"text": "James Carlson disputes that any Oscar Flight incident occurred, citing SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date, and disputes Salas's account of the flight to which he was assigned.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-56fd857db7",
+"node": "james-carlson",
+"nodeLabel": "James Carlson",
+"route": "book",
+"source": {
+"domain": "www.metabunk.org",
+"text": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+"text": "James Carlson, son of Echo Flight crew commander Capt. Eric D. Carlson, has published a 357-page work titled 'American, Credulous' and a shorter piece titled 'Echo Flights of Fantasy - Anatomy of a UFO Hoax', concluding that no UFOs were involved at Echo Flight or any other flight and that claims of UFO interference are completely unsupportable.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": "Metabunk"
 }
 ],
 "cls": "person",

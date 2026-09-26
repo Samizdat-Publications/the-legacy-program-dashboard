@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-2e97952b57",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Episode description (American Alchemy)",
+"via": null
+},
 "source": "Episode description, American Alchemy, 11 January 2026",
 "text": "The episode asserts the effort is a layered, compartmentalized system descended from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - not a single program.",
 "tier": 2
 },
 {
 "id": "c-a0bcdfb314",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Timestamped chapter list published in the episode description",
 "text": "The episode's structure names as load-bearing components: a pyramid of contractors, a 'Modern Majestic 12' control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement and the Y-12 Complex.",
 "tier": 2
 },
 {
 "id": "c-169ab63052",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Episode description (untitled attribution)",
+"via": null
+},
 "source": "Episode description, 11 January 2026",
 "text": "The description states former Vice President Dick Cheney is implicated in the American UFO reverse engineering program.",
 "tier": 2

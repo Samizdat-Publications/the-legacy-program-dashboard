@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-76c0c38e02",
+"meta": {
+"artefactDate": "2025",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Publisher and retail listings, 2025-2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Lacatski published 'Inside the U.S. Government Covert UFO Program: New Insights' in 2025 (ISBN 9798989114689) and 'Future Visions' (ISBN 9798989114603) as continuations of the series begun with 'Initial Revelations' in 2023.",
 "tier": 2
 },
 {
 "id": "c-14afb5ae10",
+"meta": {
+"artefactDate": "2026-04-08",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Jeremy Corbell"
+},
 "source": "James Lacatski to Jeremy Corbell, published 8 April 2026",
 "text": "'The program created the world's largest UFO data warehouse, a stack of more than 100 thick, highly detailed reports filled with hard data about UFO cases and incidents.'",
 "tier": 2
 },
 {
 "id": "c-a5724a799b",
+"meta": {
+"artefactDate": "2026-04-08",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Jeremy Corbell"
+},
 "source": "Lacatski to Corbell, 8 April 2026",
 "text": "Lacatski doubts the actual AAWSAP files will ever be released and treats his books as the closest available substitute for disclosure.",
 "tier": 2

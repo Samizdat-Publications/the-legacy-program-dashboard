@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-eeb3ba8f61",
+"meta": {
+"artefactDate": "1989-05-23",
+"claimant": "bill-cooper",
+"claimantLabel": "Milton William Cooper",
+"eventDate": "1989",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
 "text": "INDEPENDENT 1989 CORROBORATION OF THE HOWE EPISODE FROM A THIRD PARTY. Milton William Cooper's paper dated 23 May 1989 records: 'she confided to me that Sgt. Richard Doty of the Counterintelligence Division of the Air Force Office of Special Investigations had taken her into the Intelligence office at Kirtland Air Force Base in New Mexico and showed her the exact same documents that I had seen.' This corroborates that Howe was telling the story by 1989 and corroborates nothing about the documents' contents or authenticity.",
 "tier": 2
@@ -24,6 +33,15 @@
 },
 {
 "id": "c-5be93ffc7e",
+"meta": {
+"artefactDate": "1983",
+"claimant": "linda-moulton-howe",
+"claimantLabel": "Linda Moulton Howe",
+"eventDate": "1983-04",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Linda Moulton Howe, contemporaneous notes and consistent public accounts since 1983",
 "text": "Linda Moulton Howe was shown a document described as a government briefing paper by AFOSI Special Agent Richard Doty at Kirtland AFB in April 1983 and was not permitted to retain a copy.",
 "tier": 2

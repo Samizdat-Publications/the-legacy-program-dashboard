@@ -6,9 +6,37 @@
 "claims": [
 {
 "id": "c-b7433aeaa4",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "newsnation",
+"claimantLabel": "NewsNation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation Reality Check episode credits, 4 August 2026; Wikipedia, 'Ross Coulthart' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "NewsNation employs Ross Coulthart as senior special investigations correspondent and produces Reality Check with a credited team including executive producer Andy Gipson, editorial producer Meagan Medick and research producer Rob Jones.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-b7433aeaa4",
+"node": "newsnation",
+"nodeLabel": "NewsNation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check episode credits, 4 August 2026; Wikipedia, 'Ross Coulthart' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "NewsNation employs Ross Coulthart as senior special investigations correspondent and produces Reality Check with a credited team including executive producer Andy Gipson, editorial producer Meagan Medick and research producer Rob Jones.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
 }
 ],
 "cls": "institution",

@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-001516edf0",
+"meta": {
+"artefactDate": "2009",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Kreidler, Skeptical Inquirer",
+"via": "Wikipedia ('GEIPAN')"
+},
 "source": "Wikipedia, 'GEIPAN', citing Kreidler, Skeptical Inquirer (2009)",
 "text": "GEPAN was renamed SEPRA (Service d'Expertise des Phénomènes de Rentrée Atmosphérique) in 1988, then to Service d'Expertise des Phénomènes Rares Aérospatiaux in 2000, then to GEIPAN in 2005.",
 "tier": 2
 },
 {
 "id": "c-baec4bf207",
+"meta": {
+"artefactDate": "1999",
+"claimant": "cometa",
+"claimantLabel": "COMETA - Comité d'Études Approfondies",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "COMETA recommendation 2 targets SEPRA directly, asking that it 'collect information relating to all UFO manifestations, both in Europe and throughout the world' and 'boost its representation and foreign relations status'.",
 "tier": 2

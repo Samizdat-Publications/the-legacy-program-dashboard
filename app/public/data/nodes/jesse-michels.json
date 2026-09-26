@@ -44,27 +44,592 @@
 "claims": [
 {
 "id": "c-b1f9269629",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, American Alchemy episode description, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb', published 11 January 2026",
 "text": "Michels frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
 "tier": 2
 },
 {
 "id": "c-8de183aa89",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, American Alchemy episode description, 11 January 2026",
 "text": "Michels states in the same episode description that former Vice President Dick Cheney is 'implicated in the American UFO reverse engineering program.'",
 "tier": 2
 },
 {
 "id": "c-89083cafed",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Chapter list, American Alchemy episode 11 January 2026 (timestamps 43:04, 51:28, 1:22:01, 1:30:25, 1:32:56)",
 "text": "Michels' episode structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement as load-bearing components of the architecture.",
 "tier": 2
 },
 {
 "id": "c-4a90aceab6",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Infinite Loops (episode description); NASJAQ (episode description)",
+"via": null
+},
 "source": "Infinite Loops podcast episode 145 description; NASJAQ Ep.18 description",
 "text": "Michels is an investor at Thiel Capital and creator/host of American Alchemy.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-04-23",
+"eventDate": "2022-06",
+"id": "c-b4bf6fa85d",
+"node": "nnsa",
+"nodeLabel": "National Nuclear Security Administration",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 1:08:45",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 1:08:45, Michels said that a Freedom of Information Act request was sent to the National Nuclear Security Administration for all records that 'mention or relate to' Starfish Prime together with UFO, AP, UAV, AAV or any acronym used by the Atomic Energy Commission at the time for unidentified flying objects, and that the NNSA reply of June 2022 reads 'it was determined that an additional review of your case by the subject matter expert with jurisdiction regarding responsive records was required'. The response letter itself was not opened from this environment and no case number is given on air.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2025-07-05",
+"eventDate": null,
+"id": "c-d7bb70911e",
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:59:04, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:00:44",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 5 July 2025 at 0:59:04 and again on 12 July 2025 at 1:00:44, Michels said that after Jacques Vallee found the Pentacle memo in the Blue Book files the memo could not be raised around the Robertson Panel: 'apparently you weren't allowed to mention the pentacle' and 'you were not supposed to bring this memo up'. Both tellings are the same speaker, neither cites a document for the instruction, and both describe Vallee putting it to J. Allen Hynek, who on Michels's account played dumb. The board carries the memo and Howard C. Cross's authorship but not this alleged instruction.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": null
+},
+{
+"artefactDate": "2025-02-07",
+"eventDate": null,
+"id": "c-5240b98453",
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:18:16",
+"url": null
+},
+"text": "In the same episode, at 0:18:16, Michels said that when Thomas Townsend Brown 'finally achieved positive result with his anti-gravity experiments, this was in Paris', Brown flew back to the United States and 'Robert Sarbacher picks him up in his big Cadillac', attributing the account to Brown's daughter Linda and to the biographer Paul Shatzkin. This is a second-hand attribution, and neither the daughter's account nor the biography was opened.",
+"tier": 2,
+"topic": "canada",
+"via": null
+},
+{
+"artefactDate": "2025-04-23",
+"eventDate": "1950",
+"id": "c-e8e501c109",
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:23:09 and 0:24:00",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:23:09, Michels said that Sarbacher told Stanton Friedman that MIT president Karl Compton 'was briefed on UFO technology at Wright Airfield in 1950', and at 0:24:00 that when John Greenewald used the Freedom of Information Act to retrieve Compton's records he received a reply in April 2014 stating that 'records which may have been responsive to your request were destroyed August 30th, 2006'. The FOIA response letter itself was not opened from this environment.",
+"tier": 2,
+"topic": "canada",
+"via": null
+},
+{
+"artefactDate": "2025-01-30",
+"eventDate": null,
+"id": "c-bb7bccfed7",
+"node": "skywatcher",
+"nodeLabel": "Skywatcher",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Jesse Michels, American Alchemy episode description, 30 January 2025",
+"url": null
+},
+"text": "Skywatcher's X account and website skywatcher.ai were promoted in the description of Jake Barber's 30 January 2025 American Alchemy interview.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2025-10-25",
+"eventDate": "1961-07-11",
+"id": "c-9a10ecb99d",
+"node": "jacques-vallee",
+"nodeLabel": "Jacques F. Vallee",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 1:16:06 and 1:18:41, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
+},
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 1:16:06 and 1:18:41, Michels said in narration that on 11 July 1961 Vallee, then working on the Paris Observatory's satellite tracking programme, and colleagues observed an object in retrograde orbit, and that his superior at the observatory, named as Paul Mueller, confiscated the tape the next morning and destroyed it. The narration also quotes Vallee from an unspecified later interview saying other observatories made the same observation and that American tracking stations photographed it and could not identify it either. No book, interview or archive is cited on air for either element.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2024-10-19",
+"eventDate": null,
+"id": "c-705372c2d3",
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:39:03, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+},
+"text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:39:03, Michels said Condon 'wrote the McMahon Secrecy Act of 1946, which is the precursor to the Atomic Energy Act of 1954'. The authorship attribution is the speaker's own and is offered without a citation. Neither the McMahon Act nor an authorship claim about it is on this board.",
+"tier": 2,
+"topic": "condon-1966-69",
+"via": null
+},
+{
+"artefactDate": "2025-06-13",
+"eventDate": null,
+"id": "c-d424a46df7",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:00:49, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332"
+},
+"text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:00:49, Michels said Gough was one of the primary sources of the Wall Street Journal article on Pentagon disinformation and UFO mythology, and alleged that her own LinkedIn profile 'along with independent sources' confirms a lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense, her self-professed skills including strategic communication and psychological operations. The allegation rests on the speaker's reading of a profile page. No employment record was opened in this pass and nothing in the board's files corroborates it.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": null
+},
+{
+"artefactDate": "2025-04-23",
+"eventDate": "1961",
+"id": "c-d12d404431",
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:57:51",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:57:51, Michels said that 'in 1961, the RAND Corporation wrote a report called Some New Considerations Concerning the Nuclear Test Ban, which highlighted the susceptibility of the US ICBM re-entry vehicles to high-energy X-rays', and that this insight fed the Operation Dominic tests. The report was not opened: rand.org answers 403 to this environment and a search on the exact title returned nothing. If it exists it would place RAND in this material seven years before the 1968 Kocher draft with which the node's UFO record currently opens.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2024-10-19",
+"eventDate": null,
+"id": "c-8a608d7cdf",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:24:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+},
+"text": "In the same episode at 0:24:12 Michels named Brown's Santa Monica operation of the 1950s as 'guidance technologies' and placed Bill Lear's office across the street from it. Neither the operation's name nor the Santa Monica location appears in the board's record of Brown.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": null
+},
+{
+"artefactDate": "2024-10-19",
+"eventDate": "2000",
+"id": "c-cf8879449c",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:27:32, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+},
+"text": "On American Alchemy with Jesse Michels, 19 October 2024, Michels said at 0:27:32 that the British aerospace journalist Bill Gunston, writing in Air International magazine in 2000, stated he was very sure Brown's work made it into the B-2 stealth bomber, and that Gunston added he had no wish to reside in the Tower of London. This is the named, dated source for the B-2 attribution the board otherwise carries without an author.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": null
+},
+{
+"artefactDate": "2025-02-24",
+"eventDate": "1957",
+"id": "c-a04a3ec2cc",
+"node": "peter-bergmann",
+"nodeLabel": "Peter G. Bergmann",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 287, 24 February 2025, 2:38:20, mapped at research/leads/dannyjones-corpus-16.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 287, 24 February 2025, at 2:38:20, Jesse Michels named Bergmann among the attendees of the 1957 Chapel Hill conference, alongside John Wheeler and Freeman Dyson, and described the conference as convened by Agnew Bahnson through the Institute of Field Physics. The conference report confirms his attendance and his steering-committee role and carries nothing else the transcript attributes to him.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": "Danny Jones Podcast"
+},
+{
+"artefactDate": "2025-08-31",
+"eventDate": null,
+"id": "c-f2d8158954",
+"node": "louis-witten",
+"nodeLabel": "Louis Witten",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 2:07:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247"
+},
+"text": "On American Alchemy with Jesse Michels, 31 August 2025, at 2:07:12 and 2:08:06, Michels said that at the time of the Avro car project Wright Field also had 'a dedicated theoretical physics group' headed by a man the caption renders as 'Josh Goldberg', and that Agnew Bahnson, who ran the University of North Carolina's Institute of Field Physics with Bryce DeWitt, recorded in diaries found years later that he had been told to get in touch with Townsend Brown because he wanted to build a spaceship. Neither Goldberg nor Bahnson appears anywhere in the board's research files, the caption spells Bahnson 'Bonson', and no diary, archive or document is named on air.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": null
+},
+{
+"artefactDate": "2026-01-11",
+"eventDate": null,
+"id": "c-89083cafed",
+"node": "jesse-michels",
+"nodeLabel": "Jesse Michels",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Chapter list, American Alchemy episode 11 January 2026 (timestamps 43:04, 51:28, 1:22:01, 1:30:25, 1:32:56)",
+"url": null
+},
+"text": "Michels' episode structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement as load-bearing components of the architecture.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-01-11",
+"eventDate": null,
+"id": "c-8de183aa89",
+"node": "jesse-michels",
+"nodeLabel": "Jesse Michels",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Jesse Michels, American Alchemy episode description, 11 January 2026",
+"url": null
+},
+"text": "Michels states in the same episode description that former Vice President Dick Cheney is 'implicated in the American UFO reverse engineering program.'",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-01-11",
+"eventDate": null,
+"id": "c-b1f9269629",
+"node": "jesse-michels",
+"nodeLabel": "Jesse Michels",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Jesse Michels, American Alchemy episode description, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb', published 11 January 2026",
+"url": null
+},
+"text": "Michels frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-a0bcdfb314",
+"node": "michels-gerb-structural-episode",
+"nodeLabel": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Timestamped chapter list published in the episode description",
+"url": null
+},
+"text": "The episode's structure names as load-bearing components: a pyramid of contractors, a 'Modern Majestic 12' control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement and the Y-12 Complex.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-04-21",
+"eventDate": "2026-02-27",
+"id": "c-794e899eea",
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:05:16 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850"
+},
+"text": "On American Alchemy with Jesse Michels, 21 April 2026, Michels dated the disappearance to Friday 27 February 2026 at Quail Run Court, Albuquerque: a repairman saw McCasland at the house around 10am, his wife left at about 11:10am and returned at 12:04pm to find him gone, and she reported him missing at 3:07pm. He said the prescription glasses, a switched-off phone and a smartwatch were left behind, and that a red backpack, the wallet and a .38-calibre revolver with its holster were missing (0:05:16 to 0:06:12).",
+"tier": 2,
+"topic": "missing-scientists",
+"via": null
+},
+{
+"artefactDate": "2026-04-21",
+"eventDate": null,
+"id": "c-f4a5ee7eff",
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:09:04 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850"
+},
+"text": "In the same episode Michels said that within a week the search had grown from the Bernalillo County Sheriff's Office to the FBI's Albuquerque Field Office, the Air Force Office of Special Investigations, New Mexico State Search and Rescue and Albuquerque Mountain Rescue, and that no camera footage of McCasland ever surfaced (0:09:04).",
+"tier": 2,
+"topic": "missing-scientists",
+"via": null
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-6d0c3aebc6",
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: \"President Trump Was Briefed On Alien Hybrids!\"', 2 July 2026, 1:28:33 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "The claim that McCasland sat on a Special Access Program Oversight Committee and ran the Air Force Research Laboratory at Wright-Patterson is made in this corpus by Michels, not by any guest: hedged as 'I believe he was on the special access program oversight committee' to Rep. Burlison on 2 July 2026 (1:28:33), and stated flatly to Michael Shermer on 9 July 2026 (1:15:12). Neither guest adopts it.",
+"tier": 2,
+"topic": "missing-scientists",
+"via": null
+},
+{
+"artefactDate": "2026-07-02",
+"eventDate": null,
+"id": "c-967febe575",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:37:47 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+"text": "In the same episode Jesse Michels, not Burlison, described Pais as fearful and hard to reach, said he had interviewed him in a motel near Pax River during which a camera failed, and said Pais stopped him at a point in the science with 'Jesse, stop right there' and declined to discuss it further (0:37:47 to 0:38:43). The lead map for this corpus attributes this account to Burlison; the transcript attributes it to Michels.",
+"tier": 2,
+"topic": "navy-patents",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2026-06-26",
+"id": "c-d693a76b39",
+"node": "michael-johnson",
+"nodeLabel": "Michael Johnson",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45 and 00:05:19, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "SECTION 2a PROVENANCE. HE WAS LOCATED BY THE PUBLISHING PARTY. A viewer of the show sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina; the producer then tasked an unnamed recruiter who found him in about a week; the first contact call is dated on air to 26 June 2026. Not the original witness, not a records search, not AARO.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": "2025-10-25",
+"eventDate": "1953",
+"id": "c-c82978bf6c",
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:26:46, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
+},
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:26:46 and 0:27:36, Michels said in narration that a military-funded project to search for small natural satellites of the Earth began at White Sands Missile Range in 1953, that LaPaz and Clyde Tombaugh were the two scientists in charge of it, and that LaPaz came to it from Project Twinkle. Neither Tombaugh nor the White Sands satellite search appears anywhere in the board's research files.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+},
+{
+"artefactDate": "2025-10-25",
+"eventDate": "1954-08-23",
+"id": "c-d7b0e21317",
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:28:29",
+"url": null
+},
+"text": "In the same narration at 0:28:29 Michels said that on 23 August 1954 Aviation Week and Space Technology published a statement from LaPaz confirming two unknown objects in low Earth orbit while simultaneously describing them as fully identified natural asteroids captured by the Earth's gravity. The magazine issue was not opened in this pass, so the date and the wording are the speaker's and not the record's; the issue is named here so a later pass can pull it.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b0e31126f2",
+"node": "ellsworth-1977",
+"nodeLabel": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, at 01:17:08-01:17:27 and 00:20:26, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "The episode's own corroboration claim is narrow and explicit: a three-word instruction not to fear, asserted at 01:17:08-01:17:27 to have been produced by two men in two rooms hours apart. Johnson produced the phrase in waking conversation at 00:20:26, before his regression, which is better ordering than the narration's own framing suggests. Against it: the phrase is a staple of the abduction literature and of Woods's own published accounts since 1996, and the episode does not establish that Johnson had not encountered them.",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-bab14462a2",
+"node": "michael-johnson",
+"nodeLabel": "Michael Johnson",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, at 00:05:24-00:05:46 and 00:07:29-00:08:51, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "SECTION 2a PROVENANCE. HE WAS GIVEN THE OTHER WITNESS'S FRAME ON THE RECORDED CALL. The interviewer withheld it and said so on air, telling Johnson nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site and date, the vacation-relief detail, and then the category: asked at 00:07:29 whether he remembered what they encountered at 0100, Johnson answered 'No' at 00:07:35; Woods then asked twice whether it was a UFO; Johnson assented after a pause at 00:07:46; Woods then asked how far over the top of the blaster it was and Johnson gave 'under 50 feet'.",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-d3a522ae13",
+"node": "michael-johnson",
+"nodeLabel": "Michael Johnson",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, at 00:07:29-00:07:46 against 00:17:46-00:18:11, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "THE EPISODE'S OWN RETELLING OF THAT MOMENT DIVERGES FROM ITS OWN RECORDING OF IT. At 00:17:46-00:18:11, with Johnson present, the recognition is recounted as Woods naming only the year, base and site and Johnson immediately saying 'Oh, that UFO', with the producer characterising it as chilling because no other details were supplied. The recorded call at 00:07:29-00:07:46 shows an initial 'No', then Woods naming the UFO, then assent. Both passages are timestamped in the same episode.",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2026-06-26",
+"id": "c-ded1f53181",
+"node": "ellsworth-1977",
+"nodeLabel": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45, 00:05:19 and 00:05:24-00:05:41, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "SECTION 2a PROVENANCE, THE DISCOVERY CHAIN. The second witness was found by the publishing party: a viewer sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina; an unnamed recruiter tasked by the producer located him in about a week; the first contact call is dated on air to 26 June 2026. The producer withheld the frame on that call, saying on air 'Nothing about November 5. Nothing about a UFO.'",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-ed13cd55e3",
+"node": "ellsworth-1977",
+"nodeLabel": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, at 00:07:29-00:08:51 against 00:17:46-00:18:11, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "SECTION 2a PROVENANCE, THE PROMPT. Within two minutes of being patched into that call the original witness supplied the site and the date. Asked at 00:07:29 whether he remembered what they encountered at 0100, Johnson answered 'No' at 00:07:35. Woods then asked twice whether it was a UFO; Johnson assented after a pause at 00:07:46; Woods then supplied the frame of an object above the site and Johnson gave 'under 50 feet'. The episode's own later on-camera retelling at 00:17:46-00:18:11 says Johnson recognised it immediately with nothing else supplied, which the recording does not show.",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": null
+},
+{
+"artefactDate": "2025-04-17",
+"eventDate": null,
+"id": "c-7c8d04b0f8",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:01:44 to 0:02:38",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 17 April 2025, at 0:01:44 and 0:02:38, Michels said that Arthur Stansell, described as a consultant on blast effects of atom bombs, was flown to a classified location near Kingman, Arizona, told a secret test vehicle had crashed, and saw a craft roughly thirty feet in diameter and, in a nearby tent, four-foot humanoid figures. Michels said a declassified Operation Upshot-Knothole report confirms Stansell was on site for the nuclear testing there. The board's copy of that report series names Arthur Stansel and carries no Kingman material.",
+"tier": 2,
+"topic": "wright-patterson-ftd",
+"via": null
+},
+{
+"artefactDate": "2025-04-17",
+"eventDate": null,
+"id": "c-b820bee21f",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:05:17",
+"url": null
+},
+"text": "In the same episode, at 0:05:17, Michels said that Steinman tracked down Wang's widow, Maria Wang, and that she said her husband had reported directly to Henry Kissinger and that Kissinger had visited their home. The account is given by Michels as Steinman's. The board holds no record of Maria Wang, of any Kissinger connection, or of Steinman's correspondence.",
+"tier": 2,
+"topic": "wright-patterson-ftd",
+"via": null
 }
 ],
 "cls": "person",

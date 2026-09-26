@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-2c02c3f0d8",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement on the release of historical Navy videos, 27 April 2020",
 "text": "DoD authorized release of three unclassified Navy videos filmed November 2004 and January 2015, previously circulated after unauthorized disclosures in 2007 and 2017; 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
 "tier": 1
 },
 {
 "id": "c-9588d8ad3a",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement, 27 April 2020",
 "text": "The videos were made available through the Naval Air Systems Command FOIA reading room.",
 "tier": 1

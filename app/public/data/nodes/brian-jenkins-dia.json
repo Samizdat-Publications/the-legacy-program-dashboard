@@ -34,6 +34,76 @@
 "tier": 3
 }
 ],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-5c00e7f2c3",
+"node": "dird-positron-aerospace-propulsion",
+"nodeLabel": "Positron Aerospace Propulsion",
+"route": "document",
+"source": {
+"domain": "irp.fas.org",
+"text": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+"text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr Gerald Smith, Positronics Research'.",
+"tier": 1,
+"topic": "dirds",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-654cac3083",
+"node": "dird-quantum-computing-and-utilizing-organic-molecules",
+"nodeLabel": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"route": "document",
+"source": {
+"domain": "irp.fas.org",
+"text": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+"text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr R Genik, Wayne State Univ'.",
+"tier": 1,
+"topic": "dirds",
+"via": null
+},
+{
+"artefactDate": "2018-01-09",
+"eventDate": null,
+"id": "c-4cd6dbfbf4",
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
+"url": null
+},
+"text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
+"tier": 1,
+"topic": "nyt-2017",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-82250be3de",
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"route": "document",
+"source": {
+"domain": "irp.fas.org",
+"text": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+"text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin', where the title is given in full as 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications'.",
+"tier": 1,
+"topic": "propulsion-claims",
+"via": null
+}
+],
 "cls": "person",
 "cluster": "legacy",
 "conflicts": [],

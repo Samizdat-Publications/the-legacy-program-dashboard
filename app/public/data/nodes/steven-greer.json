@@ -66,18 +66,45 @@
 },
 {
 "id": "c-6f8abecb2f",
+"meta": {
+"artefactDate": "2001-05-09",
+"claimant": "steven-greer",
+"claimantLabel": "Steven M. Greer",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "ABC News"
+},
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
 "text": "ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference.",
 "tier": 2
 },
 {
 "id": "c-32a33e6c08",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1997",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001.",
 "tier": 2
 },
 {
 "id": "c-9a6abbd457",
+"meta": {
+"artefactDate": "2001-05-09",
+"claimant": "steven-greer",
+"claimantLabel": "Steven M. Greer",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage",
 "text": "On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power.",
 "tier": 2
@@ -90,21 +117,101 @@
 },
 {
 "id": "c-68242b2489",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Steven M. Greer'",
+"via": null
+},
 "source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers.",
 "tier": 2
 },
 {
 "id": "c-3c184582f6",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Steven M. Greer'",
+"via": null
+},
 "source": "Wikipedia, 'Steven M. Greer' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human.",
 "tier": 2
 },
 {
 "id": "c-59c1b1c96b",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2026-05-08",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb livestream description, 12 May 2026",
 "text": "Greer held a National Press Club event on 8 May 2026.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2001-05-09",
+"eventDate": null,
+"id": "c-6f8abecb2f",
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"route": "broadcast",
+"source": {
+"domain": "abcnews.com",
+"text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+"url": "https://abcnews.com/Technology/story?id=98572&page=1"
+},
+"text": "ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": "ABC News"
+},
+{
+"artefactDate": "2001-05-09",
+"eventDate": null,
+"id": "c-9a6abbd457",
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage",
+"url": null
+},
+"text": "On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
+},
+{
+"artefactDate": "2025-04-11",
+"eventDate": null,
+"id": "c-e9cef2cc46",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Steven Greer: UFO Secrets Are Held By A Global Cabal', published 11 April 2025, at 2:32:28 to 2:33:21",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 11 April 2025, between 2:32:28 and 2:33:21, Steven Greer, showing a page of his own book on camera, named a witness he called Stephen Digna in connection with a triangular craft at Fort Irwin that Greer says is man-made. Greer said the witness saw more detail than intended because he used night-vision equipment he had been told not to use, that 'the men who took him there were Raytheon operatives', and that the witness and his wife were later abducted and that the episode 'ruined his life'. The board's prose for the 9 September 2025 hearing already carries the name Steven Digna without this account; the Raytheon attribution is Greer's and no record supporting it was opened.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "American Alchemy with Jesse Michels"
 }
 ],
 "cls": "person",

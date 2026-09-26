@@ -9,24 +9,60 @@
 "claims": [
 {
 "id": "c-17f3e8306d",
+"meta": {
+"artefactDate": "2024-10-19",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "1954",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:33:16, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
 "text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:33:16, Michels said that David Grusch identifies the people who set up the secrecy protocols for UFOs as Robert J. Oppenheimer and Sarbacher, and that the two are 'responsible for the 1954 Atomic Energy Commission which overlaid nuclear secrecy on top of UFO secrecy'. The claim is Michels relaying Grusch, it concerns 1954 rather than the period the 1983 letter covers, and no document is cited for it on air.",
 "tier": 2
 },
 {
 "id": "c-e8e501c109",
+"meta": {
+"artefactDate": "2025-04-23",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1950",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:23:09 and 0:24:00",
 "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:23:09, Michels said that Sarbacher told Stanton Friedman that MIT president Karl Compton 'was briefed on UFO technology at Wright Airfield in 1950', and at 0:24:00 that when John Greenewald used the Freedom of Information Act to retrieve Compton's records he received a reply in April 2014 stating that 'records which may have been responsive to your request were destroyed August 30th, 2006'. The FOIA response letter itself was not opened from this environment.",
 "tier": 2
 },
 {
 "id": "c-4db2fff37f",
+"meta": {
+"artefactDate": "2025-02-07",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1986",
+"route": "interview",
+"speaker": "Whitley Strieber",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:13:20 to 0:15:49",
 "text": "On American Alchemy with Jesse Michels, 7 February 2025, between 0:13:20 and 0:14:59, Whitley Strieber said that Stanton Friedman introduced him to Sarbacher, that Sarbacher asked him to write his experience down and send it, that he did so by UPS overnight in 1986, and that the next morning the UPS driver told him 'we can't deliver it. The recipient has expired.' At 0:15:49 Strieber adds that he was told Sarbacher fell off his boat and that the death certificate says natural causes. This is Strieber's first-hand account of his own correspondence and no record of the letter or its return was opened.",
 "tier": 2
 },
 {
 "id": "c-5240b98453",
+"meta": {
+"artefactDate": "2025-02-07",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:18:16",
 "text": "In the same episode, at 0:18:16, Michels said that when Thomas Townsend Brown 'finally achieved positive result with his anti-gravity experiments, this was in Paris', Brown flew back to the United States and 'Robert Sarbacher picks him up in his big Cadillac', attributing the account to Brown's daughter Linda and to the biographer Paul Shatzkin. This is a second-hand attribution, and neither the daughter's account nor the biography was opened.",
 "tier": 2
@@ -69,6 +105,15 @@
 },
 {
 "id": "c-43d6dc666c",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (this research's provenance assessment)",
+"via": null
+},
 "source": "Provenance assessment of the hosting item; no institutional custody located",
 "text": "The only reachable copy of the 1983 letter is hosted by an advocacy publisher, and the same PDF's last page is a product order form. The scan appears to be a genuine photocopy of a typed letter, but no institutional archive holds a copy that could be opened, so its status is a facsimile widely reproduced from Steinman's own file rather than an archived document.",
 "tier": 2

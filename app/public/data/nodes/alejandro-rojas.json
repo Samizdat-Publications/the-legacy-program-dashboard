@@ -18,9 +18,54 @@
 "claims": [
 {
 "id": "c-9c07dbbf38",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "alejandro-rojas",
+"claimantLabel": "Alejandro Rojas",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Alejandro Rojas to DefenseScoop, 14 May 2026",
 "text": "'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2014-05-13",
+"eventDate": null,
+"id": "c-71af595aa6",
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"route": "press",
+"source": {
+"domain": "www.huffpost.com",
+"text": "Alejandro Rojas, HuffPost Weird News, 13 May 2014, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650 , opened 2026-09-19",
+"url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+},
+"text": "THE ADMISSION SIDE, AND IT IS WEAKER THAN IT LOOKS. A dated named-outlet report states that Doty says he was tasked with hoaxing documents and feeding false information to UFO researchers while an AFOSI special agent at Kirtland, that he was ordered to make Paul Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him. It also records that the Air Force 'refuses to comment' and did not answer the author's letter.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": "HuffPost Weird News"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-9c07dbbf38",
+"node": "alejandro-rojas",
+"nodeLabel": "Alejandro Rojas",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Alejandro Rojas to DefenseScoop, 14 May 2026",
+"url": null
+},
+"text": "'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
 }
 ],
 "cls": "person",

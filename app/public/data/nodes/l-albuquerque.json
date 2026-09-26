@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-a7f5713602",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia (Kirtland Air Force Base article)",
+"via": null
+},
 "source": "Wikipedia, Kirtland Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Sandia National Laboratories, descended from the Manhattan Project Z Division, is adjacent to Kirtland AFB in Albuquerque; the AFRL Directed Energy Directorate is a Kirtland tenant.",
 "tier": 2
@@ -18,6 +27,15 @@
 },
 {
 "id": "c-bf18546b0a",
+"meta": {
+"artefactDate": "1981-04",
+"claimant": "paul-bennewitz",
+"claimantLabel": "Paul Frederick Bennewitz",
+"eventDate": "1966",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Wikipedia, Paul Bennewitz, citing an April 1981 Albuquerque Tribune profile — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Bennewitz founded Thunder Scientific in 1966 after acquiring humidity sensor rights from Sandia National Laboratories.",
 "tier": 2

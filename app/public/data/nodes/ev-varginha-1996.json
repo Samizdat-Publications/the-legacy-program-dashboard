@@ -6,42 +6,105 @@
 "claims": [
 {
 "id": "c-133844d241",
+"meta": {
+"artefactDate": "2010",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996-01",
+"route": "document",
+"speaker": "Brazilian military inquiry (2010), as quoted by Wikipedia",
+"via": "Wikipedia, 'Varginha UFO incident'"
+},
 "source": "Brazilian military inquiry findings, 2010, as quoted in Wikipedia 'Varginha UFO incident' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
 "tier": 2
 },
 {
 "id": "c-1dd86110a8",
+"meta": {
+"artefactDate": "2026-01-15",
+"claimant": "italo-venturelli",
+"claimantLabel": "Dr Ítalo Venturelli",
+"eventDate": "1996-01",
+"route": "press",
+"speaker": null,
+"via": "Leslie Kean and Ralph Blumenthal, The Debrief"
+},
 "source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
 "text": "Dr Ítalo Venturelli, 73, a neurosurgeon at Varginha Regional Hospital, told members of Congress on 15 January 2026 that he examined a patient for three or four minutes after a colleague, Dr Marcos Vinico Neves (died 2018), sutured a cranial wound: 'I've been a doctor for forty-six years and have performed thousands of surgeries. To me, it was obvious that this was not a human being.' He described lilac eyes, a teardrop-shaped cranium, three fingers and a thumb, white skin, no nipples, and 'I wouldn't say it communicated telepathically; it communicated empathetically, through its eyes.'",
 "tier": 2
 },
 {
 "id": "c-d54af89f5d",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Carlos de Sousa",
+"via": "Leslie Kean and Ralph Blumenthal, The Debrief"
+},
 "source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
 "text": "Carlos de Sousa told the same meeting that a soldier aimed a gun at his head and said 'Leave now, or I'll split your skull'.",
 "tier": 2
 },
 {
 "id": "c-14664ff8a5",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996-01",
+"route": "press",
+"speaker": "unnamed (anonymous videotaped witness)",
+"via": "The Debrief"
+},
 "source": "The Debrief, 30 January 2026",
 "text": "An anonymous videotaped witness said he was in the army in 1996 and helped transport the being from the Varginha hospital to Três Corações and thence to Campinas, and that on returning 'there was talk the Americans had the creature, having transported it to an undisclosed location'.",
 "tier": 2
 },
 {
 "id": "c-7686718f3b",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996-01-20",
+"route": "press",
+"speaker": "unnamed (contemporary Brazilian media reports and the witnesses' accounts)",
+"via": null
+},
 "source": "Contemporary Brazilian media reports and the witnesses' accounts",
 "text": "Three women aged 14 to 22 reported seeing an unknown large-headed biped with vein-like skin markings, three bumps on the head and red eyes near Rua Dr. Benevenuto Braz Vieira at about 3:30 p.m. on 20 January 1996.",
 "tier": 2
 },
 {
 "id": "c-d3ca72a153",
+"meta": {
+"artefactDate": "2010",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Brazilian Army inquiry (commander, 24th Military Police Battalion)",
+"via": null
+},
 "source": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
 "tier": 2
 },
 {
 "id": "c-05a0b842b7",
+"meta": {
+"artefactDate": "2010",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996-01",
+"route": "document",
+"speaker": "Brazilian Army inquiry (2010)",
+"via": null
+},
 "source": "Brazilian Army inquiry, 2010, quoted findings — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The inquiry concluded that the presence of firefighters in Jardim Andere, the parking of Army trucks near a dealership for periodic maintenance and the departure of Escola de Sargentos das Armas vehicles were real events incorrectly interpreted as participation in a capture and transport.",
 "tier": 2

@@ -99,12 +99,30 @@
 "claims": [
 {
 "id": "c-f9bb0a3cde",
+"meta": {
+"artefactDate": "2023-05-25",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996",
+"route": "press",
+"speaker": "The Debrief profile",
+"via": null
+},
 "source": "The Debrief, 'Colm Kelleher: AAWSAP and the Skinwalker Enigma', 25 May 2023",
 "text": "Kelleher led the NIDS team on Skinwalker Ranch 1996-2004 and in 2008 became Deputy Administrator of BAASS, leading day-to-day execution of the AAWSAP contract.",
 "tier": 2
 },
 {
 "id": "c-b2acd210bb",
+"meta": {
+"artefactDate": "2021",
+"claimant": "colm-kelleher",
+"claimantLabel": "Colm A. Kelleher",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); BAASS Ten Month Report (2009)",
 "text": "BAASS under Kelleher ran parallel physics and human-biological-effects programs, treating witness physiology as a data stream alongside sensor data.",
 "tier": 2
@@ -117,24 +135,60 @@
 },
 {
 "id": "c-c9b53d17a7",
+"meta": {
+"artefactDate": "2005",
+"claimant": "colm-kelleher",
+"claimantLabel": "Colm A. Kelleher",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)",
 "text": "Kelleher served as NIDS deputy administrator from 1996 until the institute's 2004 closure and subsequently as a BAASS project manager on the DIA-funded programme.",
 "tier": 2
 },
 {
 "id": "c-5489fb7da7",
+"meta": {
+"artefactDate": "2023-05-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Barry Greenwood",
+"via": "Journal of Scientific Exploration"
+},
 "source": "Barry Greenwood, review, Journal of Scientific Exploration 37(1), 2 May 2023",
 "text": "'Skinwalkers at the Pentagon' is co-authored by the DIA official who conceived and managed AAWSAP, James Lacatski, together with Kelleher and Knapp.",
 "tier": 2
 },
 {
 "id": "c-f294bd1c31",
+"meta": {
+"artefactDate": null,
+"claimant": "colm-kelleher",
+"claimantLabel": "Colm A. Kelleher",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Reported consistently in the AAWSAP record and in Kelleher's own co-authored account with the programme manager",
 "text": "Kelleher served as deputy administrator of BAASS during the DIA AAWSAP contract.",
 "tier": 2
 },
 {
 "id": "c-8b91f88fb7",
+"meta": {
+"artefactDate": "2021",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Documented account reproduced in the Skinwalker Ranch record and in Lacatski/Kelleher/Knapp (2021)",
 "text": "DIA official James Lacatski read Kelleher and Knapp's 'Hunt for the Skinwalker', contacted Bigelow, obtained permission to visit the ranch, and relayed his experience to Sen. Harry Reid, leading to a $22 million appropriation.",
 "tier": 2
@@ -144,6 +198,59 @@
 "source": "Inference from his continuous employment across both organisations under the same principal, Robert Bigelow",
 "text": "Kelleher is the single continuous scientific staff link between NIDS field collection (1996-2004) and the DIA-funded BAASS collection effort (2008-2010), which means the government programme inherited a pre-existing private sample and case archive rather than starting one.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2005",
+"eventDate": null,
+"id": "c-c9b53d17a7",
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)",
+"url": null
+},
+"text": "Kelleher served as NIDS deputy administrator from 1996 until the institute's 2004 closure and subsequently as a BAASS project manager on the DIA-funded programme.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2021",
+"eventDate": null,
+"id": "c-b2acd210bb",
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); BAASS Ten Month Report (2009)",
+"url": null
+},
+"text": "BAASS under Kelleher ran parallel physics and human-biological-effects programs, treating witness physiology as a data stream alongside sensor data.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-f294bd1c31",
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Reported consistently in the AAWSAP record and in Kelleher's own co-authored account with the programme manager",
+"url": null
+},
+"text": "Kelleher served as deputy administrator of BAASS during the DIA AAWSAP contract.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
 }
 ],
 "cls": "person",

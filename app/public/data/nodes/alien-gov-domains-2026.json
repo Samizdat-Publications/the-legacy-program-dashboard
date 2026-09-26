@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-680997bc65",
+"meta": {
+"artefactDate": "2026-03-18",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-03-17",
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
 "text": "alien.gov and aliens.gov were registered by the White House on the evening of 17 March 2026; neither was connected to an active website as of 18 March 2026.",
 "tier": 2
 },
 {
 "id": "c-1aaf5bc83f",
+"meta": {
+"artefactDate": "2026-03-18",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-03-17",
+"route": "press",
+"speaker": "Anna Kelly (White House spokeswoman); Chris Butera (CISA)",
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
 "text": "White House spokeswoman Anna Kelly's comment on the registrations: 'Stay tuned!' with an alien emoji. CISA's Chris Butera: 'CISA does not generally review or audit how government organizations use their registered domains.'",
 "tier": 2

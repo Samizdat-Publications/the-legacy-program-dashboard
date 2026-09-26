@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-086ec3b805",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
 "text": "AARO is investigating a US Navy report of approximately 100 airborne UAP and two likely uncrewed surface systems off the Virginia coast; it is the sole maritime case among the 319 reports in the FY2025 annual report.",
 "tier": 2
 },
 {
 "id": "c-408921c741",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
 "text": "AARO's stated constraint on the case: 'A lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.'",
 "tier": 2

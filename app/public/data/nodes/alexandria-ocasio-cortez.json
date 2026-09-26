@@ -48,21 +48,84 @@
 },
 {
 "id": "c-90d8ae47ca",
+"meta": {
+"artefactDate": "2024-01-13",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": "2024-01-12",
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation"
+},
 "source": "Rep. Burchett to NewsNation, reported by The Hill, 13 January 2024",
 "text": "Present at the 12 January 2024 closed-door ICIG UAP briefing along with roughly sixteen members.",
 "tier": 2
 },
 {
 "id": "c-0f405c5870",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "alexandria-ocasio-cortez",
+"claimantLabel": "Alexandria Ocasio-Cortez",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited that defense contractors are not required to report UAP sightings or UAP-related activity: 'In terms of the contractors? Not that I am aware of.'",
 "tier": 1
 },
 {
 "id": "c-6a28f2eddb",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "alexandria-ocasio-cortez",
+"claimantLabel": "Alexandria Ocasio-Cortez",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited that SAP and CAP notification flows through the Periodic Program Review process while contractor IR&D is internal and unreported.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-0f405c5870",
+"node": "alexandria-ocasio-cortez",
+"nodeLabel": "Alexandria Ocasio-Cortez",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Elicited that defense contractors are not required to report UAP sightings or UAP-related activity: 'In terms of the contractors? Not that I am aware of.'",
+"tier": 1,
+"topic": "grusch-allegations",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-6a28f2eddb",
+"node": "alexandria-ocasio-cortez",
+"nodeLabel": "Alexandria Ocasio-Cortez",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Elicited that SAP and CAP notification flows through the Periodic Program Review process while contractor IR&D is internal and unreported.",
+"tier": 1,
+"topic": "grusch-allegations",
+"via": null
 }
 ],
 "cls": "person",

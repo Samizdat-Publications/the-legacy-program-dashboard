@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-d12d404431",
+"meta": {
+"artefactDate": "2025-04-23",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1961",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:57:51",
 "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:57:51, Michels said that 'in 1961, the RAND Corporation wrote a report called Some New Considerations Concerning the Nuclear Test Ban, which highlighted the susceptibility of the US ICBM re-entry vehicles to high-energy X-rays', and that this insight fed the Operation Dominic tests. The report was not opened: rand.org answers 403 to this environment and a search on the exact title returned nothing. If it exists it would place RAND in this material seven years before the 1968 Kocher draft with which the node's UFO record currently opens.",
 "tier": 2
@@ -36,6 +45,15 @@
 },
 {
 "id": "c-f69a4b8000",
+"meta": {
+"artefactDate": null,
+"claimant": "mitre-corporation",
+"claimantLabel": "The MITRE Corporation",
+"eventDate": "1958",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "MITRE corporate history; UAP Gerb investigation, 7 August 2026, restating the same point",
 "text": "MITRE was founded as the Air Force's systems engineering counterpart modelled on the RAND Corporation.",
 "tier": 2

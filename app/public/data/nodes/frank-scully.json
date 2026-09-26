@@ -48,21 +48,135 @@
 "claims": [
 {
 "id": "c-399c4758e6",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1950",
+"route": "book",
+"speaker": "Library catalogue record (OCLC 1467735)",
+"via": null
+},
 "source": "Library catalogue record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "'Behind the Flying Saucers' was published by Henry Holt and Company, New York, in 1950 (OCLC 1467735).",
 "tier": 2
 },
 {
 "id": "c-5954530e87",
+"meta": {
+"artefactDate": "1952",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1953",
+"route": "press",
+"speaker": "J. P. Cahn, True magazine",
+"via": null
+},
 "source": "Contemporary court record as reported by J. P. Cahn, True magazine, 1952 and 1956 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 following charges pressed by Herman Flader over 'doodlebug' devices they claimed were based on recovered alien technology.",
 "tier": 2
 },
 {
 "id": "c-64b54d1f72",
+"meta": {
+"artefactDate": "1950",
+"claimant": "frank-scully",
+"claimantLabel": "Frank Scully",
+"eventDate": "1948-03",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Scully, 'Behind the Flying Saucers' (1950)",
 "text": "Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec, New Mexico, with a 99-foot craft and sixteen humanoid bodies.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1949",
+"eventDate": null,
+"id": "c-41c5cda83e",
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"route": "press",
+"source": {
+"domain": "en.wikipedia.org",
+"text": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+},
+"text": "The story 'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.'",
+"tier": 2,
+"topic": "crash-claims",
+"via": "Wikipedia, 'Aztec crashed saucer hoax'"
+},
+{
+"artefactDate": "1950",
+"eventDate": null,
+"id": "c-51f2cfa20a",
+"node": "behind-the-flying-saucers",
+"nodeLabel": "Behind the Flying Saucers (Scully, 1950)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Scully, 'Behind the Flying Saucers' (1950)",
+"url": null
+},
+"text": "The book described a craft 99 feet in diameter containing sixteen humanoid bodies, said to have come from Venus and to work on magnetic principles, with every dimension divisible by nine.",
+"tier": 2,
+"topic": "crash-claims",
+"via": null
+},
+{
+"artefactDate": "1950",
+"eventDate": "1948-03",
+"id": "c-64b54d1f72",
+"node": "frank-scully",
+"nodeLabel": "Frank Scully",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Scully, 'Behind the Flying Saucers' (1950)",
+"url": null
+},
+"text": "Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec, New Mexico, with a 99-foot craft and sixteen humanoid bodies.",
+"tier": 2,
+"topic": "crash-claims",
+"via": null
+},
+{
+"artefactDate": "1950",
+"eventDate": "1948-03",
+"id": "c-f0d9eb7b5e",
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Scully, 'Behind the Flying Saucers' (1950)",
+"url": null
+},
+"text": "Scully's account, published in Variety in 1949 and in 'Behind the Flying Saucers' in 1950, placed the crash in March 1948 in Hart Canyon twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies.",
+"tier": 2,
+"topic": "crash-claims",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1948-03",
+"id": "c-e525a37b15",
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"route": "document",
+"source": {
+"domain": "en.wikipedia.org",
+"text": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+},
+"text": "Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and 'the military had taken the craft for secret research'.",
+"tier": 2,
+"topic": "crash-claims",
+"via": "Wikipedia, 'Aztec crashed saucer hoax'"
 }
 ],
 "cls": "person",

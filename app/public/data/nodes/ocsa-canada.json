@@ -13,6 +13,15 @@
 },
 {
 "id": "c-afb3f918f0",
+"meta": {
+"artefactDate": null,
+"claimant": "ocsa-canada",
+"claimantLabel": "Office of the Chief Science Advisor of Canada",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Sky Canada Project report, section A",
 "text": "OCSA states the project was spurred by increased public interest and by developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.",
 "tier": 1
@@ -34,6 +43,25 @@
 "source": "Inference from the Sky Canada report",
 "text": "A national science advisor publishing a finding that aircrew do not report because of stigma is an official admission that the observational record is systematically incomplete by social mechanism - which is the same mechanism a concealment programme would rely on and would not need to enforce. Reasoning: stated in the report's own recommendation to remove fear of stigmatisation.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-afb3f918f0",
+"node": "ocsa-canada",
+"nodeLabel": "Office of the Chief Science Advisor of Canada",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Sky Canada Project report, section A",
+"url": null
+},
+"text": "OCSA states the project was spurred by increased public interest and by developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.",
+"tier": 1,
+"topic": "canada",
+"via": null
 }
 ],
 "cls": "institution",

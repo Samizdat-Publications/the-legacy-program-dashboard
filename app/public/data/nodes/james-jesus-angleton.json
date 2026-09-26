@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-7004b26821",
+"meta": {
+"artefactDate": "1976",
+"claimant": "church-committee",
+"claimantLabel": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "S. Rept. 94-755, Book III, Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans, Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, 1976, section on the Huston Plan, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
 "text": "The Committee states his office and its dates: 'James Angleton, who served as Chief of the CIA Counterintelligence Staff from 1954 to 1974 and was in charge of the CIA covert mail program from 1955 to its termination in 1973.'",
 "tier": 1
@@ -27,15 +36,69 @@
 },
 {
 "id": "c-cd5129f49f",
+"meta": {
+"artefactDate": "1975-09-17",
+"claimant": "james-jesus-angleton",
+"claimantLabel": "James Jesus Angleton",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "S. Rept. 94-755, Book III, quoting Angleton testimony of 17 September 1975, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
 "text": "Angleton's own stated reason for the exemption was the number of people normal processing would have exposed: a typical project would need sign-off by many components and a project review board, giving 'this tremendous opening up of the activity to a great number of people. ... That is the reason why I think it was excepted from [the usual approval system], and that way it shortcircuited the normal project approval process.'",
 "tier": 1
 },
 {
 "id": "c-b8454427f5",
+"meta": {
+"artefactDate": "2024",
+"claimant": "james-jesus-angleton",
+"claimantLabel": "James Jesus Angleton",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "S. Rept. 94-755, Book III, public hearing exchange with Senator Church, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
 "text": "Asked in public session why the Agency continued the mail programme after the President revoked the authority, Angleton answered: 'I have no satisfactory answer or that.'",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1975-09-17",
+"eventDate": null,
+"id": "c-cd5129f49f",
+"node": "james-jesus-angleton",
+"nodeLabel": "James Jesus Angleton",
+"route": "hearing",
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "S. Rept. 94-755, Book III, quoting Angleton testimony of 17 September 1975, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+},
+"text": "Angleton's own stated reason for the exemption was the number of people normal processing would have exposed: a typical project would need sign-off by many components and a project review board, giving 'this tremendous opening up of the activity to a great number of people. ... That is the reason why I think it was excepted from [the usual approval system], and that way it shortcircuited the normal project approval process.'",
+"tier": 1,
+"topic": "oversight-before-2017",
+"via": null
+},
+{
+"artefactDate": "2024",
+"eventDate": null,
+"id": "c-b8454427f5",
+"node": "james-jesus-angleton",
+"nodeLabel": "James Jesus Angleton",
+"route": "hearing",
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "S. Rept. 94-755, Book III, public hearing exchange with Senator Church, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+},
+"text": "Asked in public session why the Agency continued the mail programme after the President revoked the authority, Angleton answered: 'I have no satisfactory answer or that.'",
+"tier": 1,
+"topic": "oversight-before-2017",
+"via": null
 }
 ],
 "cls": "person",

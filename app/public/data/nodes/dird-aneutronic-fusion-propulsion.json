@@ -42,6 +42,15 @@
 },
 {
 "id": "c-a8f63dfb26",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (analysis of DIRD document content)",
+"via": null
+},
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf",
 "text": "Assigned to Culbreth by elimination and by internal character: this document contains five separate Nevada Test Site passages (Project Rover, NERVA at Area 25, Silverpeak lithium mining), cites standard nuclear engineering textbooks, and includes a relativistic rocket worksheet appendix, while containing zero occurrences of \"Lockheed\", \"Teofilo\", \"Sunnyvale\" or any Lockheed Martin content. The companion document DIA-08-1011-004 does contain a V. Teofilo self-citation. Neither cover names its author.",
 "tier": 2

@@ -47,12 +47,30 @@
 },
 {
 "id": "c-ea894e96a0",
+"meta": {
+"artefactDate": "2026-06-28",
+"claimant": "mike-rounds",
+"claimantLabel": "Mike Rounds",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
 "text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
 "tier": 2
 },
 {
 "id": "c-79916cd256",
+"meta": {
+"artefactDate": "2023-07-14",
+"claimant": "mike-rounds",
+"claimantLabel": "Mike Rounds",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Micah Hanks, The Debrief"
+},
 "source": "Rounds, quoted in Micah Hanks, The Debrief, 14 July 2023",
 "text": "'Providing a central collection location and reputable review board to maintain the records adds to the credibility of any future investigations.'",
 "tier": 2
@@ -62,6 +80,76 @@
 "source": "rounds.senate.gov press release, 16 June 2026; S. 4784 (Reported in Senate), GPO",
 "text": "Rounds's own June 2026 list of provisions he secured in the SASC-reported FY2027 NDAA contains no UAP item, and the reported bill S. 4784 contains no UAP provisions.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-06-28",
+"eventDate": null,
+"id": "c-fe00f676f0",
+"node": "disclosure-symposium-2026",
+"nodeLabel": "2026 Disclosure Symposium",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
+"url": null
+},
+"text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2026-06-28",
+"eventDate": null,
+"id": "c-2fbc95ef1f",
+"node": "ndaa-fy2027-s4784",
+"nodeLabel": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026",
+"url": null
+},
+"text": "Rounds stated in his newsletter for 22-28 June 2026 that he is 'once again cosponsoring' the UAP Disclosure Act as an NDAA amendment.",
+"tier": 2,
+"topic": "uap-statutes",
+"via": null
+},
+{
+"artefactDate": "2023-07-14",
+"eventDate": null,
+"id": "c-79916cd256",
+"node": "mike-rounds",
+"nodeLabel": "Mike Rounds",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rounds, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"url": null
+},
+"text": "'Providing a central collection location and reputable review board to maintain the records adds to the credibility of any future investigations.'",
+"tier": 2,
+"topic": "uapda",
+"via": "Micah Hanks, The Debrief"
+},
+{
+"artefactDate": "2026-06-28",
+"eventDate": null,
+"id": "c-ea894e96a0",
+"node": "mike-rounds",
+"nodeLabel": "Mike Rounds",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
+"url": null
+},
+"text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
+"tier": 2,
+"topic": "uapda",
+"via": null
 }
 ],
 "cls": "person",

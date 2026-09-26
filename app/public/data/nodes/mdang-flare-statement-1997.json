@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-8ba66552f3",
+"meta": {
+"artefactDate": "1997-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1997-03-13",
+"route": "press",
+"speaker": "unnamed (military spokesperson, per AP)",
+"via": "Associated Press (Deseret News)"
+},
 "source": "Associated Press, 'Flares, not UFOs, caused light show, military says', Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
 "text": "The unit, the aircraft and the range are named on the record: eight Maryland Air National Guard A-10 ground-attack jets flew training missions on the night of 13 March 1997 over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix, dropping high-intensity flares.",
 "tier": 2
 },
 {
 "id": "c-d3ff0e69e6",
+"meta": {
+"artefactDate": "1997-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Capt. Drew Sullins, Maryland Air National Guard spokesman",
+"via": "Associated Press, Deseret News"
+},
 "source": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
 "text": "The statement has a named author: Capt. Drew Sullins, spokesman for the Maryland Air National Guard, who described the flares in the same report: 'The flares fall slowly by parachute and illuminate a wide area.'",
 "tier": 2
 },
 {
 "id": "c-2a0e96af60",
+"meta": {
+"artefactDate": "1997-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1997-03-13",
+"route": "press",
+"speaker": "Associated Press",
+"via": "Deseret News"
+},
 "source": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
 "text": "The explanation arrived four months late. The flares were dropped on 13 March 1997 and the Air National Guard statement is dated 26 July 1997.",
 "tier": 2
@@ -30,6 +57,15 @@
 },
 {
 "id": "c-b72712a9da",
+"meta": {
+"artefactDate": "2024-03-18",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1997-03-13",
+"route": "interview",
+"speaker": "David Morehouse",
+"via": "Danny Jones Podcast"
+},
 "source": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
 "text": "On the Danny Jones Podcast, episode 229, 18 March 2024, at 1:31:41 to 1:32:45, David Morehouse said Operation Snowbird, A-10 training out of Davis-Monthan, was the official explanation given at the time for the Phoenix lights, and that the Maryland Air National Guard confirmed it. The Air National Guard statement is real and dated; the words Operation Snowbird appear nowhere in the opened record, and no Air Force record connecting that deployment programme to the 13 March 1997 sorties was opened, because af.mil refuses this environment.",
 "tier": 2

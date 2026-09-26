@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-acc38c39b0",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "jonathan-grey",
+"claimantLabel": "\"Jonathan Grey\" (pseudonym)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "The Debrief, 5 June 2023",
 "text": "A serving NASIC intelligence officer with Top Secret clearance corroborated Grusch on the record under the pseudonym Jonathan Grey.",
 "tier": 2

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-e9690c3480",
+"meta": {
+"artefactDate": "1966-04-05",
+"claimant": "house-armed-services",
+"claimantLabel": "House Armed Services Committee",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
 "text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress) following Gerald Ford's call for an inquiry.",
 "tier": 2

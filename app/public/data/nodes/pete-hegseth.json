@@ -70,24 +70,60 @@
 "claims": [
 {
 "id": "c-6236cb9fdb",
+"meta": {
+"artefactDate": null,
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "war.gov/UFO portal, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Hegseth's signed statement on the PURSUE portal: the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 2
 },
 {
 "id": "c-8e3e0cf993",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
 "text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
 "tier": 2
 },
 {
 "id": "c-8b352e93c0",
+"meta": {
+"artefactDate": "2026-02-27",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Department of War"
+},
 "source": "Department of War news story, 27 February 2026",
 "text": "Asked about extraterrestrial life: 'We'll see... I get to do the review and find out along with you.'",
 "tier": 2
 },
 {
 "id": "c-2f334000a3",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 25 February 2026",
 "text": "Hegseth committed the Department to work closely with ODNI to implement the release effort.",
 "tier": 2
@@ -106,9 +142,173 @@
 },
 {
 "id": "c-59c4aea86d",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "war.gov/UFO; wire coverage"
+},
 "source": "war.gov/UFO quoting the President; contemporaneous wire coverage 20 February 2026",
 "text": "President Trump stated on 19 February 2026 that he would direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-2f334000a3",
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 25 February 2026",
+"url": null
+},
+"text": "Hegseth committed the Department to work closely with ODNI to implement the release effort.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-401e1ba440",
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+"text": "Hegseth: 'I don't want to over-promise and under-deliver. So, we're going to take a little time.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-8e3e0cf993",
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
+"url": null
+},
+"text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-ff2ad25955",
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+"text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-27",
+"eventDate": null,
+"id": "c-8b352e93c0",
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Department of War news story, 27 February 2026",
+"url": null
+},
+"text": "Asked about extraterrestrial life: 'We'll see... I get to do the review and find out along with you.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "Department of War"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-6236cb9fdb",
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"route": "document",
+"source": {
+"domain": null,
+"text": "war.gov/UFO portal, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "Hegseth's signed statement on the PURSUE portal: the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2026-05-11",
+"eventDate": null,
+"id": "c-7362e0aa29",
+"node": "ev-argentina-bariloche-1995",
+"nodeLabel": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Buenos Aires Times / AFP, 11 May 2026",
+"url": null
+},
+"text": "Defense Secretary Pete Hegseth on the release: 'These files, hidden behind classifications, have long fueled justified speculation - and it's time the American people see it for themselves.'",
+"tier": 2,
+"topic": "latin-america",
+"via": "Buenos Aires Times / AFP"
+},
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-2af2487930",
+"node": "tulsi-gabbard",
+"nodeLabel": "Tulsi Gabbard",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 25 February 2026",
+"url": null
+},
+"text": "Hegseth stated the Department would work closely with ODNI to implement the release effort.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-dfa877dc23",
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 25 February 2026",
+"url": null
+},
+"text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
 }
 ],
 "cls": "person",

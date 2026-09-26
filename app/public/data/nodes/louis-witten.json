@@ -15,6 +15,15 @@
 },
 {
 "id": "c-f2d8158954",
+"meta": {
+"artefactDate": "2025-08-31",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 2:07:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
 "text": "On American Alchemy with Jesse Michels, 31 August 2025, at 2:07:12 and 2:08:06, Michels said that at the time of the Avro car project Wright Field also had 'a dedicated theoretical physics group' headed by a man the caption renders as 'Josh Goldberg', and that Agnew Bahnson, who ran the University of North Carolina's Institute of Field Physics with Bryce DeWitt, recorded in diaries found years later that he had been told to get in touch with Townsend Brown because he wanted to build a spaceship. Neither Goldberg nor Bahnson appears anywhere in the board's research files, the caption spells Bahnson 'Bonson', and no diary, archive or document is named on air.",
 "tier": 2
@@ -33,12 +42,30 @@
 },
 {
 "id": "c-7e0e84d3e1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1957",
+"route": "document",
+"speaker": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"via": null
+},
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context', in the Edition Open Sources edition of the 1957 conference report",
 "text": "A named historian on the record states that 'Louis Witten (the father of Ed Witten, and participant in the Chapel Hill conference) was the first researcher hired by RIAS, of the Glenn Martin Company.'",
 "tier": 2
 },
 {
 "id": "c-c7ff61258f",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"via": null
+},
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'; and the American Institute of Physics catalog abstract for the Louis Witten oral history",
 "text": "The conference participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research'. Witten's documented output is classical general relativity, including exact electrovacuum solutions to the Einstein field equation; nothing read shows RIAS producing gravity-control results.",
 "tier": 2

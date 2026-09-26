@@ -110,12 +110,30 @@
 "claims": [
 {
 "id": "c-c1e274eb26",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:36:49 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison described an official visit to NAS Patuxent River at which he asked for and was granted a meeting with Pais, went down the list of the patents, and was told that one of them had been built and tested but that no definitive result was obtained. Burlison said Pais's position was 'that was not built to his specifications', and that Dr. Jon Kosloski was present and was the only other person in the room following the physics (0:36:49 to 0:39:35). Burlison hedged which patent was tested, saying only 'I believe the anti-gravitic one'.",
 "tier": 2
 },
 {
 "id": "c-967febe575",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:37:47 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "text": "In the same episode Jesse Michels, not Burlison, described Pais as fearful and hard to reach, said he had interviewed him in a motel near Pax River during which a camera failed, and said Pais stopped him at a point in the science with 'Jesse, stop right there' and declined to discuss it further (0:37:47 to 0:38:43). The lead map for this corpus attributes this account to Burlison; the transcript attributes it to Michels.",
 "tier": 2
@@ -164,12 +182,30 @@
 },
 {
 "id": "c-fb7370e586",
+"meta": {
+"artefactDate": null,
+"claimant": "salvatore-pais",
+"claimantLabel": "Salvatore Cezar Pais",
+"eventDate": "2015-07",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
 "text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
 "tier": 2
 },
 {
 "id": "c-b6aa75e8c0",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2016",
+"route": "document",
+"speaker": "unnamed (Wikipedia summary of FOIA-released NAWCAD records)",
+"via": null
+},
 "source": "Secondary reporting summarised at https://en.wikipedia.org/wiki/Salvatore_Pais citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board",
 "text": "Reporting based on records released under FOIA states that NAWCAD funded testing of the claimed effect between 2016 and 2019 at a cost of roughly 500,000 USD and determined that it could not be demonstrated, with no further research conducted. The figure corresponds to the two 250,000 USD lines proposed in the PAX 205 briefing.",
 "tier": 2
@@ -350,6 +386,15 @@
 },
 {
 "id": "c-a3d6992d1f",
+"meta": {
+"artefactDate": "2021-02-01",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": "2019-09",
+"route": "press",
+"speaker": null,
+"via": "Brett Tingley, The War Zone"
+},
 "source": "Brett Tingley, 'The Navy Finally Speaks Up About Its Bizarre \"UFO Patent\" Experiments', The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
 "text": "THE NAVY'S OWN TEST RESULT, FROM A NAMED NAVY OFFICIAL, REPLACING THE BOARD'S PREVIOUS ENCYCLOPEDIA CITATION FOR THE SAME FACT. Timothy Boulay, Communications Director at NAWCAD, quoted by Brett Tingley of The War Zone: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' 'The cost was $508,000 over the course of three years. Around ninety percent of the total - $462,000 - was for salaries, while the rest was used for equipment, test preparation, testing and assessment.' And: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Tier 2 because this is a named person on the record and not a document this board has opened; the underlying FOIA release is still not in the board's hands.",
 "tier": 2
@@ -377,6 +422,25 @@
 "source": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
 "text": "THE PATENT AND THE INVENTION-DISCLOSURE BRIEFING CORROBORATE EACH OTHER, which is rare and worth recording. The specification of US 10,144,532 states that the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a vacuum plasma bubble / sheath, due to the coupled effects of EM field-induced air / water particles repulsion and vacuum energy polarization'. The board already carries that same sentence at Tier 1 from the Navy Case PAX 205 invention-disclosure briefing, which was obtained by a different route.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "2015-07",
+"id": "c-fb7370e586",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+"url": null
+},
+"text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
+"tier": 2,
+"topic": "navy-patents",
+"via": null
 }
 ],
 "cls": "person",

@@ -40,18 +40,45 @@
 "claims": [
 {
 "id": "c-60a31813b6",
+"meta": {
+"artefactDate": "2024-12-24",
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": "2023-01",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10 and 1:51:51, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281",
 "text": "On American Alchemy with Jesse Michels, 24 December 2024, at 1:49:10, Robert Hastings said that in January 2023 McConnell, whom he describes as 'a retired Senate Armed Service Committee investigator', contacted him and asked him to gather veterans with experiences at nuclear weapons sites for AARO to interview, and at 1:51:51 that 'it was 11 of roughly 20 who agreed to speak' with the office. The transcript renders the name Kurt McConnell throughout.",
 "tier": 2
 },
 {
 "id": "c-f985a32aad",
+"meta": {
+"artefactDate": "2024-12-24",
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": "2023-03",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10",
 "text": "In the same passage Hastings said McConnell emailed him in about March 2023 saying he had driven a veteran to that veteran's AARO interview, and relayed what the veteran said he had told AARO's then director about where a particular film was held. Hastings gives the account at two removes and names no document.",
 "tier": 2
 },
 {
 "id": "c-f2cc7d5853",
+"meta": {
+"artefactDate": "2025-04-02",
+"claimant": "kirk-mcconnell",
+"claimantLabel": "Kirk McConnell",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:18:40, 0:19:36 and 1:09:33",
 "text": "McConnell is a primary source in this board's Michels corpus as well as a node in it. He gave a two-hour interview on American Alchemy with Jesse Michels published 2 April 2025, in which he supplies the account of AARO's advisory-group contract being let through Oak Ridge (1:09:33), the report of Puthoff's and Davis's scepticism about Tesla and Thomas Townsend Brown (0:19:36), and his own disagreement with the account that the FBI seized all of Tesla's papers, 'I don't think all of it did' (0:18:40). Claims elsewhere on this board sourced to that episode are sourced to him.",
 "tier": 2
@@ -70,6 +97,15 @@
 },
 {
 "id": "c-5b22d52338",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "The Sol Foundation (biography of Kirk McConnell)",
+"via": null
+},
 "source": "The Sol Foundation biography of Kirk McConnell",
 "text": "McConnell spent 37 years on Capitol Hill, primarily on defence and intelligence, including service with the Senate Armed Services Committee and both the House and Senate intelligence committees, retiring in March 2024; his UAP work began after the 2017 New York Times disclosures and included participation in UAP investigations and development of related legislation.",
 "tier": 2
@@ -79,6 +115,76 @@
 "source": "Inference from his committee tenure and portfolio at the relevant date; not confirmed by any record",
 "text": "McConnell was among, or adjacent to, the Senate Armed Services Committee staff cohort that received Eric Davis's 21 October 2019 classified briefing on retrievals. Neither he nor the committee has confirmed his attendance.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-04-02",
+"eventDate": null,
+"id": "c-da3e0ff244",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33 to 1:10:25",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, Kirk McConnell said that Kirkpatrick 'created an advisory group' at AARO and that 'the contract for that, for the formation of that group to advise him at AARO, well, the contract was let through Oak Ridge', and that after retiring from government Kirkpatrick is 'working with, for Oak Ridge under contract now'. Asked whether that looked like a conflict of interest, McConnell answered at 1:10:25 that 'conflicts of interest or allegations are easy to make, but not so easy to sort out. But it is certainly worth taking note of if nothing else.' He does not allege wrongdoing and does not name the advisory group.",
+"tier": 2,
+"topic": "aaro",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-04-02",
+"eventDate": null,
+"id": "c-f2cc7d5853",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:18:40, 0:19:36 and 1:09:33",
+"url": null
+},
+"text": "McConnell is a primary source in this board's Michels corpus as well as a node in it. He gave a two-hour interview on American Alchemy with Jesse Michels published 2 April 2025, in which he supplies the account of AARO's advisory-group contract being let through Oak Ridge (1:09:33), the report of Puthoff's and Davis's scepticism about Tesla and Thomas Townsend Brown (0:19:36), and his own disagreement with the account that the FBI seized all of Tesla's papers, 'I don't think all of it did' (0:18:40). Claims elsewhere on this board sourced to that episode are sourced to him.",
+"tier": 2,
+"topic": "academic-science",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-04-02",
+"eventDate": null,
+"id": "c-676595aa3a",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:19:36",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 2 April 2025, at 0:19:36, the retired Senate Armed Services Committee staffer Kirk McConnell said of his own field: 'my science friends in the UAP field, like Dr. Harold Puthoff and Eric Davis, I'm sure if they're watching this, they're very upset with me because I don't think they believe that Tesla, nor Thomas Townsend Brown or others like them' achieved what is claimed of them. This is a report of scepticism from inside the advocate circle rather than from an interested official source, and neither Puthoff nor Davis is quoted directly.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-04-02",
+"eventDate": null,
+"id": "c-9a31b9959a",
+"node": "oak-ridge-national-laboratory",
+"nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
+"tier": 2,
+"topic": "specimens",
+"via": "American Alchemy with Jesse Michels"
 }
 ],
 "cls": "person",

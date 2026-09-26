@@ -43,18 +43,45 @@
 "claims": [
 {
 "id": "c-55bd5f8627",
+"meta": {
+"artefactDate": "1968-07-29",
+"claimant": "james-mcdonald",
+"claimantLabel": "James E. McDonald",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "US House Committee on Science and Astronautics"
+},
 "source": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
 "text": "McDonald testified before the House Committee on Science and Astronautics on 29 July 1968 as senior physicist at the University of Arizona Institute of Atmospheric Physics.",
 "tier": 1
 },
 {
 "id": "c-0429adb622",
+"meta": {
+"artefactDate": null,
+"claimant": "james-mcdonald",
+"claimantLabel": "James E. McDonald",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Same hearing transcript",
 "text": "McDonald told the committee that 'credible observers are observing relatively incredible objects' and argued the phenomenon deserved serious scientific investigation rather than dismissal through ridicule.",
 "tier": 1
 },
 {
 "id": "c-13407089f6",
+"meta": {
+"artefactDate": "1968",
+"claimant": "james-mcdonald",
+"claimantLabel": "James E. McDonald",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "McDonald's 1968 testimony and contemporaneous papers to scientific societies",
 "text": "McDonald concluded after reviewing Blue Book case files that the program was not conducting genuine scientific investigation.",
 "tier": 2
@@ -82,6 +109,59 @@
 "source": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977",
 "text": "McDonald is indexed in the Condon Report at pages 927 and 928, and separately for his part in Case 50 (657-662), Case 52 (683-684, 690, 692), his views on future research (1269), the northeast power outage (167) and the extraterrestrial hypothesis (34). He is the most heavily indexed outside critic in the study that was meant to close the question.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1968",
+"eventDate": null,
+"id": "c-13407089f6",
+"node": "james-mcdonald",
+"nodeLabel": "James E. McDonald",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "McDonald's 1968 testimony and contemporaneous papers to scientific societies",
+"url": null
+},
+"text": "McDonald concluded after reviewing Blue Book case files that the program was not conducting genuine scientific investigation.",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1968-07-29",
+"eventDate": null,
+"id": "c-55bd5f8627",
+"node": "james-mcdonald",
+"nodeLabel": "James E. McDonald",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+"url": null
+},
+"text": "McDonald testified before the House Committee on Science and Astronautics on 29 July 1968 as senior physicist at the University of Arizona Institute of Atmospheric Physics.",
+"tier": 1,
+"topic": "blue-book",
+"via": "US House Committee on Science and Astronautics"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-0429adb622",
+"node": "james-mcdonald",
+"nodeLabel": "James E. McDonald",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Same hearing transcript",
+"url": null
+},
+"text": "McDonald told the committee that 'credible observers are observing relatively incredible objects' and argued the phenomenon deserved serious scientific investigation rather than dismissal through ridicule.",
+"tier": 1,
+"topic": "blue-book",
+"via": null
 }
 ],
 "cls": "person",

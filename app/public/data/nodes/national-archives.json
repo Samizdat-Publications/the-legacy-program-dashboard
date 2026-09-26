@@ -18,9 +18,88 @@
 },
 {
 "id": "c-f762b2d463",
+"meta": {
+"artefactDate": null,
+"claimant": "national-archives",
+"claimantLabel": "National Archives and Records Administration",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "National Archives, archives.gov/uap",
 "text": "NARA states it will add UAP records to RG 615 'on an ongoing, rolling basis as they are received from federal agencies' — the transmission trigger rests with the agencies, not the Archivist.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1946-12-31",
+"id": "c-338f36edf9",
+"node": "afswp",
+"nodeLabel": "Armed Forces Special Weapons Project",
+"route": "document",
+"source": {
+"domain": "www.archives.gov",
+"text": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.2, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/374.html"
+},
+"text": "The National Archives states the same establishment independently: 'AFSWP established as an interservice agency, effective December 31, 1946, by a joint letter of the Secretaries of War and the Navy, January 29, 1947, with responsibility for discharging all military functions relating to atomic energy in coordination with the Atomic Energy Commission'.",
+"tier": 1,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-34ce9589cc",
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"route": "document",
+"source": {
+"domain": null,
+"text": "National Archives, Air Force UFO records page",
+"url": null
+},
+"text": "NARA states it has been 'unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.'",
+"tier": 1,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "2025-04-24",
+"eventDate": null,
+"id": "c-aeba84a2bd",
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"route": "press",
+"source": {
+"domain": null,
+"text": "National Archives press release nr25-07, 24 April 2025",
+"url": null
+},
+"text": "NARA states it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'.",
+"tier": 1,
+"topic": "foia-litigation",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-f762b2d463",
+"node": "national-archives",
+"nodeLabel": "National Archives and Records Administration",
+"route": "document",
+"source": {
+"domain": null,
+"text": "National Archives, archives.gov/uap",
+"url": null
+},
+"text": "NARA states it will add UAP records to RG 615 'on an ongoing, rolling basis as they are received from federal agencies' — the transmission trigger rests with the agencies, not the Archivist.",
+"tier": 1,
+"topic": "records-collection",
+"via": null
 }
 ],
 "cls": "institution",

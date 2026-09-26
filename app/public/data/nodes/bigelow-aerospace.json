@@ -24,6 +24,15 @@
 },
 {
 "id": "c-11c0246d80",
+"meta": {
+"artefactDate": null,
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "DIA contract HHM402-08-C-0072 awardee block",
 "text": "The AAWSAP contract was held by the separately registered Bigelow Aerospace Advanced Space Studies, LLC, not by Bigelow Aerospace itself.",
 "tier": 2
@@ -36,18 +45,45 @@
 },
 {
 "id": "c-96aec013a3",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "AAWSAP/AATIP was 'funded through a special appropriation and executed by its primary contractor, a private sector organization'; the contractor team conducted UAP and paranormal research at a property owned by that organisation.",
 "tier": 1
 },
 {
 "id": "c-2bc2e6d173",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "George Knapp, sworn testimony, 9 September 2025",
 "text": "BAASS was to receive 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
 "tier": 2
 },
 {
 "id": "c-ce136132e2",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Luis Elizondo, sworn testimony, 13 November 2024",
 "text": "The divestment of 1950s-collected material to Bigelow Aerospace 'was blocked'; a required Secretary of the Air Force memorandum never issued.",
 "tier": 2

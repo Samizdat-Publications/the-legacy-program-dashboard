@@ -15,9 +15,54 @@
 },
 {
 "id": "c-0a57fadf32",
+"meta": {
+"artefactDate": "2025-11-29",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Stephen Fisher",
+"via": null
+},
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "text": "A CAVEAT THAT TRAVELS WITH EVERY CITATION OF THE BOOK. Stephen Fisher, writing on 29 November 2025 and himself relying almost entirely on Bishop as sole source, states that Bishop had an undisclosed friendship with Bill Moore, a central figure in the operation the book narrates. The book is therefore a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-07-05",
+"eventDate": null,
+"id": "c-602dc68f5f",
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:34:30",
+"url": null
+},
+"text": "At 0:34:30 in the same episode Bishop said that in his own reading Bennewitz 'was his own worst enemy' and that the specific thing he knows Bill Moore did was to be told to give Bennewitz the Aquarius document, in which two of Bennewitz's own films are mentioned. The author of the standard account is on the record limiting what he says was actually done to the man.",
+"tier": 2,
+"topic": "dulce",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-05",
+"eventDate": null,
+"id": "c-6a5b76f83d",
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:36:14 and 0:37:25, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918"
+},
+"text": "On American Alchemy with Jesse Michels, 5 July 2025, at 0:36:14, Greg Bishop said that Doty told him, and he thinks Moore told him, that the Air Force flew Bennewitz by helicopter from Kirtland to Archuleta Mesa on the Jicarilla Apache reservation and showed him a site, and that jeeps, water tanks 'and all kind of stuff' had been placed there as props so his attention would move away from Kirtland. At 0:37:25 he said something did later crash there, that Bennewitz reached the site only after it had been cleaned up, and that what was found was burned ground, broken brush and a pen marked US government property. Nothing in the board's files mentions Archuleta.",
+"tier": 2,
+"topic": "dulce",
+"via": "American Alchemy with Jesse Michels"
 }
 ],
 "cls": "person",

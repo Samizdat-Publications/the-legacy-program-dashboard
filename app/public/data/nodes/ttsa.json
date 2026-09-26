@@ -24,6 +24,15 @@
 },
 {
 "id": "c-ee376c287d",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2022",
+"route": "document",
+"speaker": "Wikipedia, 'To The Stars Inc.'",
+"via": null
+},
 "source": "Wikipedia, To The Stars Inc., citing company filings and press",
 "text": "Renamed To The Stars Inc. in 2022 after the departure of Elizondo, Mellon and Justice; subsequent output is entertainment.",
 "tier": 2
@@ -36,15 +45,103 @@
 },
 {
 "id": "c-a6a60a5c33",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2019",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples,' and that AARO later acquired the sample for analysis.",
 "tier": 1
 },
 {
 "id": "c-51199b16f0",
+"meta": {
+"artefactDate": "2024-07",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
 "text": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-2e0f6f2253",
+"node": "five-observables",
+"nodeLabel": "The five observables (UAP performance taxonomy)",
+"route": "document",
+"source": {
+"domain": "tothestars.media",
+"text": "'Five Characteristics Unique to UAP's', To The Stars, https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps, read 28 August 2026",
+"url": "https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps,"
+},
+"text": "To The Stars, the company Elizondo joined after leaving the Pentagon, publishes the same five under the heading 'Five Characteristics Unique to UAP's', worded: 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability', 'Trans-medium travel' and 'Positive lift'. The page carries no author, no date and no attribution to Elizondo or to AATIP.",
+"tier": 2,
+"topic": "aatip-elizondo",
+"via": null
+},
+{
+"artefactDate": "2019-07-25",
+"eventDate": null,
+"id": "c-ab1cf2b91f",
+"node": "d-materials",
+"nodeLabel": "Materials and custody analysis",
+"route": "press",
+"source": {
+"domain": null,
+"text": "To The Stars Academy press release, 25 July 2019; The War Zone, 18 October 2019",
+"url": null
+},
+"text": "To The Stars Academy announced in July 2019 that it had acquired metamaterials it described as originating from an advanced aerospace vehicle of unknown origin, and subsequently entered a Cooperative Research and Development Agreement with the US Army.",
+"tier": 2,
+"topic": "specimens",
+"via": null
+},
+{
+"artefactDate": "2019-10-17",
+"eventDate": null,
+"id": "c-f304b66487",
+"node": "ttsa-army-crada",
+"nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"route": "document",
+"source": {
+"domain": null,
+"text": "TTSA announcement, 17 October 2019; Bloomberg Government, 21 October 2019",
+"url": null
+},
+"text": "The five-year CRADA was announced on 17 October 2019 and covers inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion.",
+"tier": 2,
+"topic": "ttsa",
+"via": "Bloomberg Government"
+},
+{
+"artefactDate": "2019-10-17",
+"eventDate": null,
+"id": "c-f6fcf6fc24",
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "TTSA announcement 17 October 2019; Travis J. Tritten, Bloomberg Government, 21 October 2019",
+"url": null
+},
+"text": "On 17 October 2019 To The Stars entered a five-year CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion, with at least $750,000 in Army support and resources and no public funding to the company.",
+"tier": 2,
+"topic": "ttsa",
+"via": "Travis J. Tritten, Bloomberg Government"
 }
 ],
 "cls": "institution",

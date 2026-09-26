@@ -18,6 +18,15 @@
 },
 {
 "id": "c-2ad4acf445",
+"meta": {
+"artefactDate": "1974-10-23",
+"claimant": "stic-usib",
+"claimantLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
 "text": "It answered to the United States Intelligence Board: 'The STIC will advise USIB on scientific and technical matters within the Committee's areas of concern. The STIC, in support of USIB, will also review, stimulate, guide, and coordinate collection activity and information processing in response to resource management objectives in these areas.'",
 "tier": 1
@@ -33,6 +42,25 @@
 "source": "Memorandum, Letter of Instruction, Scientific and Technical Intelligence Committee, 3 August 1975, CIA-RDP80M01133A000100210002-3, https://archive.org/download/cia-readingroom-document-cia-rdp80m01133a000100210002-3/cia-rdp80m01133a000100210002-3_djvu.txt",
 "text": "The committee was still operating in 1975 under a Letter of Instruction from the Deputy to the DCI for the Intelligence Community, which directed it to 'Complete the reorganization of the STIC and the transfer of subgroups to GMAIC during August 1975' and to coordinate all intelligence community activity on foreign science and technology that might lead to future threats to the US.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1974-10-23",
+"eventDate": null,
+"id": "c-2ad4acf445",
+"node": "stic-usib",
+"nodeLabel": "Scientific and Technical Intelligence Committee (USIB)",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt"
+},
+"text": "It answered to the United States Intelligence Board: 'The STIC will advise USIB on scientific and technical matters within the Committee's areas of concern. The STIC, in support of USIB, will also review, stimulate, guide, and coordinate collection activity and information processing in response to resource management objectives in these areas.'",
+"tier": 1,
+"topic": null,
+"via": null
 }
 ],
 "cls": "institution",

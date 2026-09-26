@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-6e0fb78984",
+"meta": {
+"artefactDate": "2026-09-07",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1977-11-18",
+"route": "broadcast",
+"speaker": "Mario Woods and Michael Johnson",
+"via": "Jesse Michels (YouTube)"
+},
 "source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md",
 "text": "The claim attached to this installation is that on 18 November 1977 at about 0100, security policemen Mario Woods and Michael Johnson of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth Minuteman field and encountered a large object and humanoid figures. Woods has told the account publicly since 1996; Johnson was located in June 2026.",
 "tier": 2
@@ -18,6 +27,15 @@
 },
 {
 "id": "c-4ca7069538",
+"meta": {
+"artefactDate": "2026-09-12",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The Political Saucer",
+"via": null
+},
 "source": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
 "text": "A second, independent write-up naming both men and the 44th Missile Security Squadron appeared on 12 September 2026, five days after the Michels episode. Its body is paywalled and only its header was read by this board.",
 "tier": 2

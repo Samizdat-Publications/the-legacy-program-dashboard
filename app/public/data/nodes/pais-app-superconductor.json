@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-11acfb83a8",
+"meta": {
+"artefactDate": "2019-02-21",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "https://www.freepatentsonline.com/20190058105.html",
 "text": "US Patent Application 2019/0058105, 'Piezoelectricity-induced Room Temperature Superconductor', application 15/678672, filed 16 August 2017, published 21 February 2019, assignee the United States as represented by the Secretary of the Navy.",
 "tier": 2

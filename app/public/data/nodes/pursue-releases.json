@@ -6,42 +6,105 @@
 "claims": [
 {
 "id": "c-52604437d8",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 20 February 2026",
 "text": "Trump pledged on 19-20 February 2026 to direct Hegseth and relevant agencies to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
 "tier": 2
 },
 {
 "id": "c-ff87166571",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-05-08",
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "DefenseScoop, 14 May 2026",
 "text": "PURSUE stands for Presidential Unsealing and Reporting System for UAP Encounters, is coordinated by AARO, and made its first release on 8 May 2026 of roughly 160 declassified files through a war.gov portal, at least 100 with redactions.",
 "tier": 2
 },
 {
 "id": "c-c91bbc06c1",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 14 May 2026",
 "text": "Christopher Mellon on the first drop: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
 "tier": 2
 },
 {
 "id": "c-ddf6decfd1",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 14 May 2026",
 "text": "Tim Gallaudet said the absence of metadata made it 'impossible to conclude that any objects were truly anomalous.'",
 "tier": 2
 },
 {
 "id": "c-7a3e360b69",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "US Department of War, war.gov/UFO, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "PURSUE stands for the Presidential Unsealing and Reporting System for UAP Encounters and is overseen by the Department of War with support from ODNI.",
 "tier": 2
 },
 {
 "id": "c-690699a64f",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "President Trump issued a directive on 19 February 2026 instructing the Secretary of War and other agencies to identify and release government files connected to UAP and extraterrestrial life.",
 "tier": 2
 },
 {
 "id": "c-98a00f8584",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Release dates: Release 01, 8 May 2026; Release 02, 22 May 2026; Release 03, 12 June 2026; Release 04, 10 July 2026; Release 05, 7 August 2026.",
 "tier": 2
@@ -60,6 +123,15 @@
 },
 {
 "id": "c-3836653250",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "AARO's own homepage links to 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' at war.gov/UFO.",
 "tier": 2
@@ -72,6 +144,15 @@
 },
 {
 "id": "c-5f9919f1a4",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "DefenseScoop, 14 May 2026",
 "text": "Release 01 comprised slightly over 160 files with at least 100 containing redactions.",
 "tier": 2
@@ -96,6 +177,15 @@
 },
 {
 "id": "c-4b951c1483",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "war.gov/UFO; wire coverage"
+},
 "source": "war.gov/UFO quoting the President; wire coverage 20 February 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "PURSUE stands on President Trump's 19 February 2026 statement directing the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
 "tier": 2
@@ -108,6 +198,15 @@
 },
 {
 "id": "c-3c951a82e1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Disclosure Archives (AARO/DoW release index)",
+"via": null
+},
 "source": "Disclosure Archives AARO/DoW release index, compiled from the war.gov/UFO postings",
 "text": "Release 01 comprised 160 files (117 PDFs, 29 sensor videos, 14 photographs) spanning 1944-2026; Release 02 comprised 64 files including 51 sensor videos; Release 03 comprised 72 files with 29 from the FBI.",
 "tier": 2
@@ -120,18 +219,45 @@
 },
 {
 "id": "c-f5fec6002b",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.war.gov/UFO/",
 "text": "PURSUE material is published at war.gov/UFO as five dated releases, each a paired document ZIP hosted on www.war.gov/medialink/ufo/ and a video ZIP hosted on d34w7g4gy10iej.cloudfront.net.",
 "tier": 1
 },
 {
 "id": "c-34e03e4558",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "text": "PURSUE stands for Presidential Unsealing and Reporting System for UAP Encounters, per DefenseScoop reporting of 14 May 2026.",
 "tier": 2
 },
 {
 "id": "c-554ed7306e",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "text": "Christopher Mellon, former deputy assistant secretary of defense for intelligence: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
 "tier": 2

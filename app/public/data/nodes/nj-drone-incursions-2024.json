@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-f1f518b95b",
+"meta": {
+"artefactDate": "2024-12-17",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Joint federal statement, 17 December 2024, reported by The Debrief",
 "text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
 "tier": 1
 },
 {
 "id": "c-c735d9016b",
+"meta": {
+"artefactDate": "2024-12-17",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Joint federal statement, 17 December 2024",
 "text": "The FBI received over 5,000 drone reports; officials analysed roughly 100 specific leads and attributed them to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
 "tier": 1

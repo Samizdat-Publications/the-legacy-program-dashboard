@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-e54b52158e",
+"meta": {
+"artefactDate": null,
+"claimant": "nsa",
+"claimantLabel": "National Security Agency",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "NSA UFO FOIA collection, 'Yeates Affidavit'",
 "text": "The Yeates Affidavit is published in NSA's UFO FOIA release, and NSA's litigation position in Civil Action No. 80-1562 was that responsive UFO records existed but could not be disclosed.",
 "tier": 1
 },
 {
 "id": "c-6485db2f80",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Black Vault, NSA UFO collection background",
 "text": "The affidavit's release in redacted form came only after years of public pressure and republication by private archivists.",
 "tier": 2

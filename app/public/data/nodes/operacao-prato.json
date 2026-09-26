@@ -48,18 +48,45 @@
 },
 {
 "id": "c-09b625e643",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1977-10",
+"route": "document",
+"speaker": "Wikipedia ('Operação Prato'), citing ISTOÉ, Folha de S. Paulo, Veja, O Estado de S. Paulo",
+"via": null
+},
 "source": "Wikipedia 'Operação Prato' infobox, sourced to ISTOÉ, Folha de S. Paulo, Veja and O Estado de S. Paulo",
 "text": "Operation dates: first phase 20 October - 11 November 1977; second phase 25 November - 5 December 1977; executed by the Brazilian Air Force and the National Information Service; 'Operation found no unusual phenomena'.",
 "tier": 2
 },
 {
 "id": "c-32cac62e8f",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('Operação Prato'), citing the Information System of the National Archive, Brazil",
+"via": null
+},
 "source": "Wikipedia 'Operação Prato', citing the Information System of the National Archive, Brazil",
 "text": "'The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
 "tier": 2
 },
 {
 "id": "c-7a54f09597",
+"meta": {
+"artefactDate": "1990",
+"claimant": "jacques-vallee",
+"claimantLabel": "Jacques F. Vallee",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Jacques Vallée, Confrontations: A Scientist's Search for Alien Contact (Ballantine, 1990), p.134",
 "text": "Jacques Vallée reported that individuals were said to have been killed by the lights and that injuries were consistent with radiation effects from microwaves.",
 "tier": 2

@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-fba61217b0",
+"meta": {
+"artefactDate": "2019-05-20",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Greg Daugherty and Missy Sullivan, History",
+"via": null
+},
 "source": "Greg Daugherty and Missy Sullivan, 'These 5 UFO Traits, Captured on Video by Navy Fighters, Defy Explanation', History, 20 May 2019, updated 28 May 2025, https://www.history.com/articles/ufo-sightings-speed-appearance-movement",
 "text": "The five observables are attributed to Luis Elizondo, who compiled them while running the Defense Department's Advanced Aerospace Threat Identification Program. As listed in History's account of the Navy videos, they are: 'Anti-gravity lift', 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability, or cloaking', and 'Trans-medium travel'. The article says he 'compiled a list of extraordinary, logic-defying capabilities most commonly associated with unidentified aerial phenomena sightings' and 'calls those traits the \"five observables\"'.",
 "tier": 2
 },
 {
 "id": "c-2e0f6f2253",
+"meta": {
+"artefactDate": null,
+"claimant": "ttsa",
+"claimantLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "'Five Characteristics Unique to UAP's', To The Stars, https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps, read 28 August 2026",
 "text": "To The Stars, the company Elizondo joined after leaving the Pentagon, publishes the same five under the heading 'Five Characteristics Unique to UAP's', worded: 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability', 'Trans-medium travel' and 'Positive lift'. The page carries no author, no date and no attribution to Elizondo or to AATIP.",
 "tier": 2
 },
 {
 "id": "c-363065f09a",
+"meta": {
+"artefactDate": "2019-05-20",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (comparison of History, 20 May 2019, against the To The Stars page)",
+"via": null
+},
 "source": "History, 20 May 2019, compared against the To The Stars page, both read 28 August 2026",
 "text": "The list has no fixed text, which matters before anyone quotes it as a definition. The first observable appears as 'Anti-gravity lift' in the History account and as 'Positive lift' on To The Stars, and is elsewhere given as 'positive lift without flight surfaces'. The two published sources located for this board therefore differ on the wording of one of the five and on whether cloaking is named alongside low observability. No canonical text has been located.",
 "tier": 2
@@ -42,6 +69,15 @@
 },
 {
 "id": "c-1ead60130d",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Written Testimony of Luis Elizondo, House Committee on Oversight and Accountability, 13 November 2024, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
 "text": "Elizondo does not state the five observables in his sworn written testimony. His written statement to the House Committee on Oversight and Accountability for the hearing 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024, contains none of the words 'observable', 'acceleration', 'trans-medium', 'lift', 'hypersonic', 'signature', 'cloak' or 'AATIP'. The full text was retrieved from oversight.house.gov and is transcribed at research/testimony/elizondo-house-oversight-2024-11-13.txt. This is a searchable negative on the most likely government-record source for the set, and it is why the taxonomy stays at Tier 2 attributed to him rather than moving to the congressional record.",
 "tier": 1

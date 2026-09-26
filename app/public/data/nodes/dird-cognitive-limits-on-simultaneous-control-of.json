@@ -42,12 +42,30 @@
 },
 {
 "id": "c-fd59989e00",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch.blogspot.com (DIA list analysis)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "It is one of three DIRDs by Genik, alongside 'Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces' and 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' - the largest single-author block after Eric Davis.",
 "tier": 2
 },
 {
 "id": "c-2aa76c137b",
+"meta": {
+"artefactDate": "2022-03-25",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The document was released as item 34 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022.",
 "tier": 2

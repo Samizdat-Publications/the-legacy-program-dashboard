@@ -12,12 +12,30 @@
 },
 {
 "id": "c-e3c3593fbb",
+"meta": {
+"artefactDate": "2024-02-18",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1947",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Battelle investigation description, 18 February 2024",
 "text": "Battelle studied UAP material, likely a shape-memory metallic alloy found at the 1947 Roswell crash site and now referred to as nitinol, as documented by Jacques Vallee with a supporting paper trail.",
 "tier": 2
 },
 {
 "id": "c-3770c161f2",
+"meta": {
+"artefactDate": "2024-02-18",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Battelle investigation description, 18 February 2024",
 "text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
 "tier": 2

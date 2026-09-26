@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-6726b253e3",
+"meta": {
+"artefactDate": "2026-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2025-08",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://disclosurearchives.com/aaro-releases",
 "text": "The August 2025 AARO data-standardisation workshop produced a white paper published in February 2026 recommending standardised metadata templates, AI with human oversight, and open narrative reporting.",
 "tier": 2

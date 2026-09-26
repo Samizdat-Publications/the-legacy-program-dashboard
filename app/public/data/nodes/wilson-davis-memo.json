@@ -24,18 +24,45 @@
 },
 {
 "id": "c-57e9190bad",
+"meta": {
+"artefactDate": "2002-10-16",
+"claimant": "thomas-wilson",
+"claimantLabel": "Thomas R. Wilson",
+"eventDate": "1997",
+"route": "document",
+"speaker": null,
+"via": "Eric W. Davis (notetaker)"
+},
 "source": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
 "text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
 "tier": 2
 },
 {
 "id": "c-96a8cb7a41",
+"meta": {
+"artefactDate": "2019",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Eric W. Davis, statements to journalists following the 2019 emergence of the notes",
 "text": "Eric W. Davis has confirmed to journalists that the handwritten notes are his own.",
 "tier": 2
 },
 {
 "id": "c-7cddcadc7e",
+"meta": {
+"artefactDate": "2019",
+"claimant": "thomas-wilson",
+"claimantLabel": "Thomas R. Wilson",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Thomas R. Wilson, statements to journalists, 2019 onward",
 "text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
 "tier": 2

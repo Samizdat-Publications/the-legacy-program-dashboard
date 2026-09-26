@@ -27,6 +27,15 @@
 },
 {
 "id": "c-3cecab6f4f",
+"meta": {
+"artefactDate": null,
+"claimant": "tom-cole",
+"claimantLabel": "Tom Cole",
+"eventDate": "2024-04-10",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
 "text": "Because Cole's chairmanship began on 10 April 2024, Kay Granger and not Cole held the House Appropriations 119(e)(2) seat on 26 July 2023, the date of the Grusch testimony.",
 "tier": 2
@@ -42,6 +51,25 @@
 "source": "https://appropriations.house.gov/about/chairman-tom-cole",
 "text": "The House Appropriations Committee's official site lists 'Chairman Tom Cole' in its About navigation.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "2024-04-10",
+"id": "c-3cecab6f4f",
+"node": "tom-cole",
+"nodeLabel": "Tom Cole",
+"route": "press",
+"source": {
+"domain": "cole.house.gov",
+"text": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+"url": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations"
+},
+"text": "Because Cole's chairmanship began on 10 April 2024, Kay Granger and not Cole held the House Appropriations 119(e)(2) seat on 26 July 2023, the date of the Grusch testimony.",
+"tier": 2,
+"topic": "sap-reporting",
+"via": null
 }
 ],
 "cls": "person",

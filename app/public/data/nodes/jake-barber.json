@@ -28,39 +28,231 @@
 "claims": [
 {
 "id": "c-3ddb0bb503",
+"meta": {
+"artefactDate": "2025-01-30",
+"claimant": "jake-barber",
+"claimantLabel": "Jake Barber",
+"eventDate": "2001",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:32:53",
 "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 0:32:53, Jake Barber said that after 2001 he worked as a contractor for the intelligence community and that 'we had a cover contract through the BIA, which is the Bureau of Indian Affairs at a sovereign nation close to White Sands Missile Range in New Mexico'. He gives no contract number and names no company.",
 "tier": 2
 },
 {
 "id": "c-e4b2370224",
+"meta": {
+"artefactDate": "2025-01-30",
+"claimant": "jake-barber",
+"claimantLabel": "Jake Barber",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:54:51 to 0:55:41",
 "text": "In the same episode, between 0:54:51 and 0:55:41, Barber said that everything he was describing had been given to AARO and that it 'has been shared with Congress in a SCIF, in a top secret SCI environment, where I've given testimony'. He does not name the committee in this passage.",
 "tier": 2
 },
 {
 "id": "c-660ea60885",
+"meta": {
+"artefactDate": "2025-01-30",
+"claimant": "jake-barber",
+"claimantLabel": "Jake Barber",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 2:04:48 to 2:06:33",
 "text": "In the same episode, between 2:04:48 and 2:06:33, Barber said that he and colleagues wrote a 120,000 word historical-fiction manuscript with a hired ghost writer and submitted it to the DOPSR review process in pieces, beginning with the first twenty pages, in order to 'red team the DOPSR process to expose who subject matter experts are' and to map who controls which information. He describes seeding the manuscript with four deliberately chosen categories of information as the probe.",
 "tier": 2
 },
 {
 "id": "c-968a99a47e",
+"meta": {
+"artefactDate": "2025-01-30",
+"claimant": "jake-barber",
+"claimantLabel": "Jake Barber",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "Jesse Michels, American Alchemy episode description, 30 January 2025",
 "text": "Barber, described as a former intelligence officer and whistleblower, gave an account of retrieving a craft using a helicopter.",
 "tier": 2
 },
 {
 "id": "c-c4ffabe421",
+"meta": {
+"artefactDate": "2025",
+"claimant": "jake-barber",
+"claimantLabel": "Jake Barber",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Ross Coulthart, NewsNation Reality Check"
+},
 "source": "Ross Coulthart, NewsNation Reality Check, 2025",
 "text": "Barber stated he would '100% testify' under oath to Congress.",
 "tier": 2
 },
 {
 "id": "c-8c59387185",
+"meta": {
+"artefactDate": "2025-10",
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Sol Foundation, 2025 Symposium speaker list — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Barber was a named speaker at the 2025 Sol Foundation Symposium, 24-27 October 2025.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-01-30",
+"eventDate": null,
+"id": "c-0f9d6aa3df",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:28:12",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:28:12, Jake Barber said that the Michael Herrera incident and his own additional information were presented to AARO under Sean Kirkpatrick, that Kirkpatrick 'patently denied it and wrote it off', and that 'I know for a fact that Sean Kirkpatrick has admitted outside of the office of AARO directly to members of the Senate Intelligence Committee that it did in fact happen exactly as reported by Michael Herrera'. This is a claim about what an AARO director is said to have said in private, not a claim sourced to AARO, and no record of either the denial or the private confirmation was opened.",
+"tier": 2,
+"topic": "aaro",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-01-30",
+"eventDate": null,
+"id": "c-0ae84a7acb",
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:30:12",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:30:12, Jake Barber said that 'the senior EG&G engineer described to my great uncle that it was egg shaped about the size of an SUV', that the team 'tried to penetrate the hull, tried to open it, they couldn't', and that from very small samples of the material they concluded the isotope ratio or mixture of elements was not of terrestrial manufacture. The account reaches Barber through his great uncle and the engineer is not named.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025",
+"eventDate": null,
+"id": "c-c4ffabe421",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Ross Coulthart, NewsNation Reality Check, 2025",
+"url": null
+},
+"text": "Barber stated he would '100% testify' under oath to Congress.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "Ross Coulthart, NewsNation Reality Check"
+},
+{
+"artefactDate": "2025-01-30",
+"eventDate": "2001",
+"id": "c-3ddb0bb503",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:32:53",
+"url": null
+},
+"text": "On American Alchemy with Jesse Michels, 30 January 2025, at 0:32:53, Jake Barber said that after 2001 he worked as a contractor for the intelligence community and that 'we had a cover contract through the BIA, which is the Bureau of Indian Affairs at a sovereign nation close to White Sands Missile Range in New Mexico'. He gives no contract number and names no company.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-01-30",
+"eventDate": null,
+"id": "c-660ea60885",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 2:04:48 to 2:06:33",
+"url": null
+},
+"text": "In the same episode, between 2:04:48 and 2:06:33, Barber said that he and colleagues wrote a 120,000 word historical-fiction manuscript with a hired ghost writer and submitted it to the DOPSR review process in pieces, beginning with the first twenty pages, in order to 'red team the DOPSR process to expose who subject matter experts are' and to map who controls which information. He describes seeding the manuscript with four deliberately chosen categories of information as the probe.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-01-30",
+"eventDate": null,
+"id": "c-968a99a47e",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Jesse Michels, American Alchemy episode description, 30 January 2025",
+"url": null
+},
+"text": "Barber, described as a former intelligence officer and whistleblower, gave an account of retrieving a craft using a helicopter.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-01-30",
+"eventDate": null,
+"id": "c-e4b2370224",
+"node": "jake-barber",
+"nodeLabel": "Jake Barber",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:54:51 to 0:55:41",
+"url": null
+},
+"text": "In the same episode, between 0:54:51 and 0:55:41, Barber said that everything he was describing had been given to AARO and that it 'has been shared with Congress in a SCIF, in a top secret SCI environment, where I've given testimony'. He does not name the committee in this passage.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-01-30",
+"eventDate": null,
+"id": "c-83f11537c4",
+"node": "d-recovery",
+"nodeLabel": "Retrieval & Recovery Operations",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy - Jake Barber interview, 30 January 2025",
+"url": null
+},
+"text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
+"tier": 2,
+"topic": "legacy-programme",
+"via": "American Alchemy with Jesse Michels"
 }
 ],
 "cls": "person",

@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-d5d463b6da",
+"meta": {
+"artefactDate": "2018-12-04",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": "2016-04-28",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.freepatentsonline.com/10144532.html",
 "text": "US Patent 10,144,532, 'Craft using an inertial mass reduction device', application number 15/141270, filing date 28 April 2016, publication date 4 December 2018, assignee 'The United States of America as represented by the Secretary of the Navy', international class B64G1/40.",
 "tier": 2
 },
 {
 "id": "c-0722a6873a",
+"meta": {
+"artefactDate": null,
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "https://www.freepatentsonline.com/10144532.html",
 "text": "The abstract begins 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters'.",
 "tier": 2

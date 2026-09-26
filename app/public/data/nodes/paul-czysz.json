@@ -9,18 +9,45 @@
 "claims": [
 {
 "id": "c-3d8ba5074a",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch.blogspot.com",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists DIRD item 4 as \"Space Access, Dr P Czysz, HyperTech.\"",
 "tier": 2
 },
 {
 "id": "c-2ef2b5df8c",
+"meta": {
+"artefactDate": null,
+"claimant": "paul-czysz",
+"claimantLabel": "Paul A. Czysz",
+"eventDate": "1986",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.researchgate.net/profile/Paul-Czysz",
 "text": "Czysz was Professor Emeritus of Aerospace Engineering at Saint Louis University, former chief scientist on the National Aerospace Plane project, and president of HyperTech Concepts LLC; he was named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts.",
 "tier": 2
 },
 {
 "id": "c-36c00191a9",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2013",
+"route": "document",
+"speaker": "Legacy.com (obituary)",
+"via": null
+},
 "source": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027",
 "text": "Czysz died in 2013, before the public disclosure of AATIP in December 2017 and before the bulk FOIA release of the DIRDs in March 2022. He gave no public account of the AAWSAP tasking.",
 "tier": 2
@@ -30,6 +57,25 @@
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
 "text": "The released cover page of the Space Access DIRD redacts the author name under FOIA exemption (b)(6) and reads only \"Author: [redacted].\" The attribution to Czysz rests on the DIA list, not on the document.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1986",
+"id": "c-2ef2b5df8c",
+"node": "paul-czysz",
+"nodeLabel": "Paul A. Czysz",
+"route": "document",
+"source": {
+"domain": "www.researchgate.net",
+"text": "https://www.researchgate.net/profile/Paul-Czysz",
+"url": "https://www.researchgate.net/profile/Paul-Czysz"
+},
+"text": "Czysz was Professor Emeritus of Aerospace Engineering at Saint Louis University, former chief scientist on the National Aerospace Plane project, and president of HyperTech Concepts LLC; he was named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts.",
+"tier": 2,
+"topic": "dirds",
+"via": null
 }
 ],
 "cls": "person",

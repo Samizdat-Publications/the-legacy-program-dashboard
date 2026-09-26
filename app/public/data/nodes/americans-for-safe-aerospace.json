@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-e4d9f3948e",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "ryan-graves",
+"claimantLabel": "Ryan Graves",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters.'",
 "tier": 1
 },
 {
 "id": "c-cea4df5e9d",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "ryan-graves",
+"claimantLabel": "Ryan Graves",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'We now have nearly 5,000 members and are actively working with more than 30 UAP witnesses who have approached us.'",
 "tier": 1

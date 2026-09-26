@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-e7a4ea7277",
+"meta": {
+"artefactDate": "2018",
+"claimant": "mark-skidmore",
+"claimantLabel": "Mark Skidmore",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "Skidmore and Fitts compiled publicly reported unsupported journal voucher adjustments from OIG and GAO documents for FY1998-FY2015 and arrived at roughly $21 trillion for DoD and roughly $350 billion for HUD.",
 "tier": 2
 },
 {
 "id": "c-539082e0af",
+"meta": {
+"artefactDate": "2018",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Skidmore and Fitts",
+"via": null
+},
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "The authors state: 'The Inspector General's reports that are available to the public only provide summary information; thus it is impossible for us to conduct a detailed assessment of the nature of these unsupported adjustments and errors.'",
 "tier": 2
 },
 {
 "id": "c-d725340dc3",
+"meta": {
+"artefactDate": "2018",
+"claimant": "mark-skidmore",
+"claimantLabel": "Mark Skidmore",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "The authors state they were unable to recover data for a number of years within the FY1998-FY2015 window.",
 "tier": 2

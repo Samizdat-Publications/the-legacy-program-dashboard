@@ -90,6 +90,15 @@
 },
 {
 "id": "c-188cbb0ed1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2021-12-31",
+"route": "document",
+"speaker": "10 U.S.C. 119(e)(1) (statutory text; inference is the board's own reading)",
+"via": null
+},
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "Because 119(e)(1) reaches only 'any requirement under subsection (a), (b), or (c)' and (a) and (b) terminated on 31 December 2021, the waiver authority retains live operation only as to subsection (c) - reports of a planned classification change or declassification. This is an inference from the statutory text, not a statement carried in the statute itself.",
 "tier": 2
@@ -120,6 +129,15 @@
 },
 {
 "id": "c-b7a483edb5",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2009",
+"route": "press",
+"speaker": "unnamed (army.mil article)",
+"via": null
+},
 "source": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
 "text": "John M. McHugh, who had been the senior House Armed Services Republican before McKeon, took office as Secretary of the Army in 2009, which is why the December 2009 directory shows McKeon in the ranking seat.",
 "tier": 2
@@ -156,6 +174,15 @@
 },
 {
 "id": "c-c905efd658",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2023",
+"route": "press",
+"speaker": "House Appropriations Committee (Democratic press release)",
+"via": null
+},
 "source": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
 "text": "2023 holders (118th Congress), House Appropriations: Chairwoman Kay Granger and Ranking Member Rosa DeLauro.",
 "tier": 2

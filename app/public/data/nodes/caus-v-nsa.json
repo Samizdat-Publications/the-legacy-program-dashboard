@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-a0636b3cac",
+"meta": {
+"artefactDate": null,
+"claimant": "nsa",
+"claimantLabel": "National Security Agency",
+"eventDate": null,
+"route": "filing",
+"speaker": "the court's ruling as NSA's own FOIA litigation records give it",
+"via": null
+},
 "source": "NSA UFO FOIA collection, litigation records including the Yeates Affidavit",
 "text": "In Civil Action No. 80-1562 the judge was given in camera Top Secret access to NSA's explanation of why the UFO documentation was being withheld and ruled in NSA's favour, allowing the information to remain classified.",
 "tier": 1

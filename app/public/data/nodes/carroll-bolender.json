@@ -29,6 +29,15 @@
 },
 {
 "id": "c-0ad2854646",
+"meta": {
+"artefactDate": "1969-10-20",
+"claimant": "carroll-bolender",
+"claimantLabel": "Carroll H. Bolender",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Bolender memorandum, 20 Oct 1969, as quoted in the standard literature; the archived scan is an untranscribed image",
 "text": "The memorandum states that reports of unidentified flying objects which could affect national security are made under JANAP 146 or Air Force Manual 55-11 and 'are not part of the Blue Book system.'",
 "tier": 2
@@ -44,6 +53,42 @@
 "source": "Inference from the Bolender memo read against JANAP 146 and the USAF Blue Book statistics",
 "text": "If the national-security cases were never in Blue Book, then the entire public record of 12,618 sightings and 701 unknowns is the residue of a filter, not the corpus — and the terminated program was never the program.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1969-10-20",
+"eventDate": null,
+"id": "c-0ad2854646",
+"node": "carroll-bolender",
+"nodeLabel": "Carroll H. Bolender",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Bolender memorandum, 20 Oct 1969, as quoted in the standard literature; the archived scan is an untranscribed image",
+"url": null
+},
+"text": "The memorandum states that reports of unidentified flying objects which could affect national security are made under JANAP 146 or Air Force Manual 55-11 and 'are not part of the Blue Book system.'",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1969-10-20",
+"eventDate": null,
+"id": "c-9b6f7540ed",
+"node": "bolender-memo",
+"nodeLabel": "Bolender Memorandum",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Bolender memorandum, 20 Oct 1969, as quoted throughout the literature; the archived scan is an untranscribed image",
+"url": null
+},
+"text": "The memorandum states that reports of unidentified flying objects which could affect national security are made under JANAP 146 or AFM 55-11 and 'are not part of the Blue Book system'.",
+"tier": 2,
+"topic": "records-collection",
+"via": null
 }
 ],
 "cls": "person",

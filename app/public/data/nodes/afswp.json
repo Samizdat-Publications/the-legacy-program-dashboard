@@ -36,12 +36,30 @@
 },
 {
 "id": "c-338f36edf9",
+"meta": {
+"artefactDate": null,
+"claimant": "national-archives",
+"claimantLabel": "National Archives and Records Administration",
+"eventDate": "1946-12-31",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.2, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
 "text": "The National Archives states the same establishment independently: 'AFSWP established as an interservice agency, effective December 31, 1946, by a joint letter of the Secretaries of War and the Navy, January 29, 1947, with responsibility for discharging all military functions relating to atomic energy in coordination with the Atomic Energy Commission'.",
 "tier": 1
 },
 {
 "id": "c-6a6e082f05",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1946-12-31",
+"route": "interview",
+"speaker": null,
+"via": "Debriefed"
+},
 "source": "Batch 17 file 03, 1:28;19-1:29;13, research/leads/area52-corpus-17.md; contradicted by War Department Memorandum No. 850-25-8, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb said AFSWP 'was formed in between 1947 and 1948 at Los Alamos Z division which of course is San Dia base' and was 'a founded joint venture under it was the Navy and some element of IC', 'founded under James Forestall'. The opened record contradicts the date, the founding authority and the composition: it was effective 31 December 1946, it was an Army-Navy organisation with no intelligence component in its charter, and Forrestal signed jointly with the Secretary of War.",
 "tier": 2

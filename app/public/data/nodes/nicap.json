@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-8de5bc33b6",
+"meta": {
+"artefactDate": "1964-05",
+"claimant": "nicap",
+"claimantLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., section 'NICAP and its Policies', in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
 "text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
 "tier": 1
@@ -33,6 +42,42 @@
 "source": "FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 3, https://archive.org/details/NICAP",
 "text": "The FBI kept a file on it, numbered 100-35992, and recorded the organisation's self-description as given by its secretary: 'This information was furnished to a Special Agent of our Washington Field Office in May, 1961, by Mr. Richard H. Hall, Secretary of the organization.'",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1964-05",
+"eventDate": null,
+"id": "c-8de5bc33b6",
+"node": "nicap",
+"nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., section 'NICAP and its Policies', in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+},
+"text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
+"tier": 1,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-995bfbadff",
+"node": "l-loring",
+"nodeLabel": "Loring AFB, Maine",
+"route": "document",
+"source": {
+"domain": "www.nicap.org",
+"text": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
+"url": "http://www.nicap.org/intsac.htm"
+},
+"text": "Named Loring witnesses are in the contemporaneous record rather than in any interview programme: SSgt Danny K. Lewis, Sgt Clifton W. Blakeslee, SSgt William J. Long, SSgt Michael D. Scott, TSgt David E. Mott and Capt. Richard R. Fuhs of the 42nd Security Police Squadron; SSgt James P. Sampley and Sgt Grover K. Eggleston of the 2192nd Communications Squadron; Sgt Steven Eichner and Sgt R. Jones of a B-52 crew; and Col. Richard E. Chapman, Commander of the 42nd Bomb Wing, who implemented a Security Option 3 alert.",
+"tier": 2,
+"topic": "sac-overflights-1975",
+"via": null
 }
 ],
 "cls": "institution",

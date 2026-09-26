@@ -18,6 +18,15 @@
 },
 {
 "id": "c-44acd8d731",
+"meta": {
+"artefactDate": "2019-07",
+"claimant": "steve-justice",
+"claimantLabel": "Steve Justice",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "TTSA announcement, July 2019; Wikipedia, To The Stars Inc., citing contemporaneous coverage",
 "text": "TTSA announced a metamaterials acquisition in July 2019, paying approximately $35,000 for items including six pieces of bismuth/magnesium-zinc metal and aluminium; Steve Justice said their structure and composition are not from any known existing military or commercial application.",
 "tier": 2
@@ -36,24 +45,60 @@
 },
 {
 "id": "c-940cc35161",
+"meta": {
+"artefactDate": "2019-07-26",
+"claimant": "steve-justice",
+"claimantLabel": "Steve Justice",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Vice"
+},
 "source": "Steve Justice, quoted by M.J. Banias, Vice, 26 July 2019",
 "text": "Steve Justice stated the materials 'have been collected from sources with varying levels of chain-of-custody documentation'.",
 "tier": 2
 },
 {
 "id": "c-2e887f4156",
+"meta": {
+"artefactDate": "2019-11-14",
+"claimant": "linda-moulton-howe",
+"claimantLabel": "Linda Moulton Howe",
+"eventDate": "1996",
+"route": "press",
+"speaker": null,
+"via": "M.J. Banias, Vice"
+},
 "source": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
 "text": "Linda Moulton Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions.",
 "tier": 2
 },
 {
 "id": "c-d0db5ba070",
+"meta": {
+"artefactDate": "2012",
+"claimant": "harold-puthoff",
+"claimantLabel": "Harold E. Puthoff",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Vice"
+},
 "source": "Puthoff letter as reported by Vice, 14 November 2019",
 "text": "A 2012 letter from Puthoff reported that testing had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test pending for want of equipment.",
 "tier": 2
 },
 {
 "id": "c-f6fcf6fc24",
+"meta": {
+"artefactDate": "2019-10-17",
+"claimant": "ttsa",
+"claimantLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Travis J. Tritten, Bloomberg Government"
+},
 "source": "TTSA announcement 17 October 2019; Travis J. Tritten, Bloomberg Government, 21 October 2019",
 "text": "On 17 October 2019 To The Stars entered a five-year CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion, with at least $750,000 in Army support and resources and no public funding to the company.",
 "tier": 2

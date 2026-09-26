@@ -12,6 +12,15 @@
 },
 {
 "id": "c-f0d9eb7b5e",
+"meta": {
+"artefactDate": "1950",
+"claimant": "frank-scully",
+"claimantLabel": "Frank Scully",
+"eventDate": "1948-03",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Scully, 'Behind the Flying Saucers' (1950)",
 "text": "Scully's account, published in Variety in 1949 and in 'Behind the Flying Saucers' in 1950, placed the crash in March 1948 in Hart Canyon twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies.",
 "tier": 2
@@ -30,12 +39,30 @@
 },
 {
 "id": "c-41c5cda83e",
+"meta": {
+"artefactDate": "1949",
+"claimant": "frank-scully",
+"claimantLabel": "Frank Scully",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Wikipedia, 'Aztec crashed saucer hoax'"
+},
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The story 'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.'",
 "tier": 2
 },
 {
 "id": "c-e525a37b15",
+"meta": {
+"artefactDate": null,
+"claimant": "frank-scully",
+"claimantLabel": "Frank Scully",
+"eventDate": "1948-03",
+"route": "document",
+"speaker": null,
+"via": "Wikipedia, 'Aztec crashed saucer hoax'"
+},
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and 'the military had taken the craft for secret research'.",
 "tier": 2
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-cc44026d90",
+"meta": {
+"artefactDate": "2021-07-16",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1948-03",
+"route": "document",
+"speaker": "Silas M. Newton",
+"via": null
+},
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
 "text": "Newton claimed the beings were 'probably from Venus', 'between 38 and 42 inches tall', wore cloth 'that could not be torn', and that their magnetic propulsion allowed travel 'at twice the speed of light'.",
 "tier": 1
@@ -102,12 +138,30 @@
 },
 {
 "id": "c-28668eb7e1",
+"meta": {
+"artefactDate": "1974",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1948-03",
+"route": "press",
+"speaker": "Robert Spencer Carr (1974 claim), per Wikipedia citing Toby Smith and John Michael Greer",
+"via": "Wikipedia, 'Aztec crashed saucer hoax' (citing Toby Smith and John Michael Greer)"
+},
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)",
 "text": "In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at 'Hangar 18' at Wright-Patterson AFB, 'prompting official denials from the Air Force'; in later years 'many accounts, allegedly first-hand, of the Roswell crash contained the Aztec crash story'.",
 "tier": 2
 },
 {
 "id": "c-969e454d3e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1997",
+"route": "book",
+"speaker": "Wikipedia; Scott Ramsey, Suzanne Ramsey and Frank Thayer",
+"via": null
+},
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax and https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ",
 "text": "'The incident gave birth to the Aztec UFO Symposium, which was run by the Aztec, New Mexico, library as a fundraiser from 1997 until 2011.' Revisionist defences were published by Scott Ramsey, Suzanne Ramsey and Frank Thayer as 'The Aztec Incident: Recovery at Hart Canyon' and 'The Aztec UFO Incident'.",
 "tier": 2

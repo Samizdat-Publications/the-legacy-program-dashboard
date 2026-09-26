@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-3de83b3b89",
+"meta": {
+"artefactDate": "2017-01-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2014-11",
+"route": "press",
+"speaker": "New York Post",
+"via": null
+},
 "source": "New York Post, 'Chilean navy admits it can't explain UFO', 9 January 2017",
 "text": "'A military helicopter captured the incredible footage in November 2014 during a routine coastal patrol ... The pilots tracked the craft from around 40 miles away and tried several times to communicate with it. After receiving no response, they reported it to a pair of nearby radar stations. But shockingly, neither of them were able to see it on their screens - despite being able to detect the navy choppers. Air traffic controllers also confirmed that no aircraft had been authorized to fly in the area.'",
 "tier": 2
 },
 {
 "id": "c-6dc1db8977",
+"meta": {
+"artefactDate": "2017-01-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "New York Post",
+"via": null
+},
 "source": "New York Post, 9 January 2017",
 "text": "'Chilean government agency the CEFAA, which investigates UFO sightings, has been probing the incident for two years.'",
 "tier": 2

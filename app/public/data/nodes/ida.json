@@ -24,12 +24,30 @@
 },
 {
 "id": "c-92ae54ea4d",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1960",
+"route": "document",
+"speaker": "unnamed (published JASON histories and archival correspondence)",
+"via": null
+},
 "source": "Published JASON histories and archival correspondence records covering IDA 1961-1973",
 "text": "IDA administered the JASON advisory group from 1960 until 1973.",
 "tier": 2
 },
 {
 "id": "c-3bbf7cbfad",
+"meta": {
+"artefactDate": "2026-05-15",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "NewsNation",
+"via": null
+},
 "source": "NewsNation, 15 May 2026",
 "text": "IDA is named among the FFRDCs implicated in public reporting on the congressional UAP contractor inquiry.",
 "tier": 2

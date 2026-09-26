@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-00bb6e79bf",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "text": "The corporation has now been questioned by Congress on the subject, on one member's account. On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office wrote to The Aerospace Corporation from the House Oversight Committee, that the corporation sent two members of its executive team, that the interview took place in a SCIF during the Biden administration, and that they had no knowledge of UAP or reverse engineering: 'they knew nothing' (0:19:48). No document of that meeting has been opened for this board.",
 "tier": 2
@@ -36,18 +45,45 @@
 },
 {
 "id": "c-be1147e92b",
+"meta": {
+"artefactDate": "2026-05-15",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation"
+},
 "source": "Burlison quoted by NewsNation, 15 May 2026, and Cybernews, 25 June 2026",
 "text": "Rep. Eric Burlison has stated his investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs and the prime contractors.",
 "tier": 2
 },
 {
 "id": "c-e7baae9755",
+"meta": {
+"artefactDate": null,
+"claimant": "aerospace-corporation",
+"claimantLabel": "The Aerospace Corporation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Aerospace Corporation corporate officers page, accessed 12 August 2026",
 "text": "The Aerospace Corporation's corporate officers page lists Tanya Pemberton as President and Chief Executive Officer.",
 "tier": 2
 },
 {
 "id": "c-c20eb7c8b7",
+"meta": {
+"artefactDate": "2020-07-23",
+"claimant": "ralph-blumenthal",
+"claimantLabel": "Ralph Blumenthal",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The New York Times"
+},
 "source": "Ralph Blumenthal, The New York Times, 23 July 2020",
 "text": "Eric W. Davis was working for The Aerospace Corporation at the time of the July 2020 New York Times report describing his classified briefings on retrievals.",
 "tier": 2
@@ -57,6 +93,25 @@
 "source": "Inference from the absence of any statement or release",
 "text": "No public document establishes whether The Aerospace Corporation had any institutional role in, or knowledge of, the retrievals Davis described, and the corporation has not addressed it publicly.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-e7baae9755",
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Aerospace Corporation corporate officers page, accessed 12 August 2026",
+"url": null
+},
+"text": "The Aerospace Corporation's corporate officers page lists Tanya Pemberton as President and Chief Executive Officer.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
 }
 ],
 "cls": "institution",

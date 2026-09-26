@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-f8d75709c1",
+"meta": {
+"artefactDate": "1980",
+"claimant": "william-l-moore",
+"claimantLabel": "William L. Moore",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Publisher's imprint and library catalogue records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
 "tier": 2
 },
 {
 "id": "c-c07d776444",
+"meta": {
+"artefactDate": "1980",
+"claimant": "william-l-moore",
+"claimantLabel": "William L. Moore",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Berlitz and Moore, 'The Roswell Incident' (1980), as cited in the Haut literature — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The book states that Walter Haut was 'not a witness'.",
 "tier": 2

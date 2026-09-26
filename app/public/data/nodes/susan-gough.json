@@ -86,18 +86,45 @@
 "claims": [
 {
 "id": "c-d424a46df7",
+"meta": {
+"artefactDate": "2025-06-13",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:00:49, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
 "text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:00:49, Michels said Gough was one of the primary sources of the Wall Street Journal article on Pentagon disinformation and UFO mythology, and alleged that her own LinkedIn profile 'along with independent sources' confirms a lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense, her self-professed skills including strategic communication and psychological operations. The allegation rests on the speaker's reading of a profile page. No employment record was opened in this pass and nothing in the board's files corroborates it.",
 "tier": 2
 },
 {
 "id": "c-138447a3b5",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
 "text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
 "tier": 2
 },
 {
 "id": "c-1b8513352d",
+"meta": {
+"artefactDate": "2024-11",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing",
 "text": "The Department stated it has no record of a programme called Immaculate Constellation.",
 "tier": 2
@@ -128,12 +155,30 @@
 },
 {
 "id": "c-af41014f9e",
+"meta": {
+"artefactDate": "2019-12-06",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Black Vault"
+},
 "source": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
 "text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
 "tier": 1
 },
 {
 "id": "c-a3ee21ee62",
+"meta": {
+"artefactDate": "2021-05-21",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Blue Blurry Lines"
+},
 "source": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
 "text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
 "tier": 1
@@ -152,24 +197,60 @@
 },
 {
 "id": "c-45971da324",
+"meta": {
+"artefactDate": "2023-06-07",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Susan Gough, DoD spokesperson, 7 June 2023",
 "text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
 "tier": 1
 },
 {
 "id": "c-8265d45876",
+"meta": {
+"artefactDate": "2023-07-31",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
 "text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
 "tier": 1
 },
 {
 "id": "c-d11e8a2953",
+"meta": {
+"artefactDate": "2023-06-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "filing",
+"speaker": "Liberation Times (reporting the unclassified reprisal complaint)",
+"via": "Liberation Times"
+},
 "source": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023",
 "text": "Named in the unclassified version of Grusch's reprisal complaint among officials in the chain by which his identity and complaint were handled.",
 "tier": 2
 },
 {
 "id": "c-0abcdb22ce",
+"meta": {
+"artefactDate": "2023-06-06",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
 "text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
 "tier": 1
@@ -182,9 +263,292 @@
 },
 {
 "id": "c-981516bc3f",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Wall Street Journal"
+},
 "source": "Wall Street Journal, 6 June 2025, as summarised in secondary coverage and the Yankee Blue record",
 "text": "Gough confirmed on the Department's behalf that findings on the fake Air Force alien-technology programme would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-03-16",
+"eventDate": "2025-08",
+"id": "c-0f989f4879",
+"node": "aaro-2026-posture",
+"nodeLabel": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
+"url": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/"
+},
+"text": "AARO sponsored an invite-only UAP research workshop in the Washington DC area in early August 2025, officially hosted by Associated Universities, Inc., with roughly 40 government, academic and independent researchers; Pentagon spokesperson Sue Gough said AARO recognises 'input from the scientific and academic community is critical to its work.'",
+"tier": 2,
+"topic": "aaro",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2019-06-13",
+"eventDate": null,
+"id": "c-f38a8a8dcb",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
+"url": null
+},
+"text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+"tier": 1,
+"topic": "aatip-elizondo",
+"via": "The Black Vault"
+},
+{
+"artefactDate": "2023-06-06",
+"eventDate": null,
+"id": "c-3b643d967c",
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement attributed to Susan Gough, 6 June 2023",
+"url": null
+},
+"text": "The Department's June 2023 response was that AARO 'has not discovered any verifiable information' substantiating a possession or reverse-engineering programme - a statement about AARO's discoveries, not about the Department's knowledge.",
+"tier": 1,
+"topic": "congressional-witnesses",
+"via": null
+},
+{
+"artefactDate": "2019-12-06",
+"eventDate": null,
+"id": "c-af41014f9e",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
+"url": null
+},
+"text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
+"tier": 1,
+"topic": "denial-ledger",
+"via": "The Black Vault"
+},
+{
+"artefactDate": "2021-05-21",
+"eventDate": null,
+"id": "c-a3ee21ee62",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
+"url": null
+},
+"text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
+"tier": 1,
+"topic": "denial-ledger",
+"via": "Blue Blurry Lines"
+},
+{
+"artefactDate": "2023-06-06",
+"eventDate": null,
+"id": "c-0abcdb22ce",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
+"url": null
+},
+"text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
+"tier": 1,
+"topic": "denial-ledger",
+"via": null
+},
+{
+"artefactDate": "2023-06-07",
+"eventDate": null,
+"id": "c-45971da324",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Susan Gough, DoD spokesperson, 7 June 2023",
+"url": null
+},
+"text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
+"tier": 1,
+"topic": "denial-ledger",
+"via": null
+},
+{
+"artefactDate": "2023-07-31",
+"eventDate": null,
+"id": "c-8265d45876",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
+"url": null
+},
+"text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
+"tier": 1,
+"topic": "denial-ledger",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2024-11",
+"eventDate": null,
+"id": "c-1b8513352d",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing",
+"url": null
+},
+"text": "The Department stated it has no record of a programme called Immaculate Constellation.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": null
+},
+{
+"artefactDate": "2025-06-06",
+"eventDate": null,
+"id": "c-981516bc3f",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Wall Street Journal, 6 June 2025, as summarised in secondary coverage and the Yankee Blue record",
+"url": null
+},
+"text": "Gough confirmed on the Department's behalf that findings on the fake Air Force alien-technology programme would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": "Wall Street Journal"
+},
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-138447a3b5",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
+"url": null
+},
+"text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2025-10-01",
+"eventDate": null,
+"id": "c-faa203fbc1",
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Susan Gough, Department of War, emailed statement, 1 Oct 2025",
+"url": null
+},
+"text": "On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
+"tier": 1,
+"topic": "foia-litigation",
+"via": null
+},
+{
+"artefactDate": "2026-05-16",
+"eventDate": null,
+"id": "c-077a68511b",
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"route": "press",
+"source": {
+"domain": null,
+"text": "USA Herald, 16 May 2026, reporting DoD statements",
+"url": null
+},
+"text": "Pentagon spokesperson Sue Gough stated the Department has 'no record' of such a program; former AARO director Sean Kirkpatrick also denied its existence.",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "USA Herald"
+},
+{
+"artefactDate": "2026-02-25",
+"eventDate": null,
+"id": "c-c60f8a3aec",
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+"text": "Pentagon spokesperson Sue Gough confirmed AARO has examined over 2,000 UAP cases, with approximately 1,000 reports lacking sufficient data retained in an Active Archive.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2025-06",
+"eventDate": null,
+"id": "c-5bf219624e",
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD spokeswoman Susan Gough to the Wall Street Journal, June 2025",
+"url": null
+},
+"text": "A DoD spokeswoman confirmed the findings were not complete when Volume I was released and would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
+"tier": 2,
+"topic": "perception-management",
+"via": "Wall Street Journal"
+},
+{
+"artefactDate": "2019-06-13",
+"eventDate": null,
+"id": "c-8e70eb29fa",
+"node": "ousdi",
+"nodeLabel": "Office of the Under Secretary of Defense for Intelligence",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Susan Gough, 13 June 2019",
+"url": null
+},
+"text": "DoD states 'Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA.'",
+"tier": 1,
+"topic": "sap-governance",
+"via": null
 }
 ],
 "cls": "person",

@@ -30,6 +30,15 @@
 "claims": [
 {
 "id": "c-b3e51507c5",
+"meta": {
+"artefactDate": "2011",
+"claimant": "john-b-alexander",
+"claimantLabel": "John B. Alexander",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "John B. Alexander, repeated public statements and his book 'UFOs: Myths, Conspiracies and Realities' (2011)",
 "text": "Alexander states that he convened a cleared interagency working group in the 1980s expressly to find a compartmented US UFO programme and concluded that none existed.",
 "tier": 2
@@ -39,6 +48,25 @@
 "source": "Inference from the structure of waived SAP reporting, under which access is controlled outside normal need-to-know staffing channels.",
 "text": "Alexander's negative finding is consistent with a waived unacknowledged special access programme rather than with the absence of one: a waived USAP is by design invisible to precisely the kind of interagency canvass he ran.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2011",
+"eventDate": null,
+"id": "c-b3e51507c5",
+"node": "john-b-alexander",
+"nodeLabel": "John B. Alexander",
+"route": "book",
+"source": {
+"domain": null,
+"text": "John B. Alexander, repeated public statements and his book 'UFOs: Myths, Conspiracies and Realities' (2011)",
+"url": null
+},
+"text": "Alexander states that he convened a cleared interagency working group in the 1980s expressly to find a compartmented US UFO programme and concluded that none existed.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
 }
 ],
 "cls": "person",

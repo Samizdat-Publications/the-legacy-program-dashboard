@@ -30,6 +30,15 @@
 },
 {
 "id": "c-52f57f85fb",
+"meta": {
+"artefactDate": "2002-10-31",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Thomas B. Bahder and Chris Fazi",
+"via": null
+},
 "source": "Thomas B. Bahder and Chris Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of the Army Research Laboratory report, submitted 31 October 2002, revised 12 March 2003, https://arxiv.org/abs/physics/0211001 , opened 2026-09-19; report number and NTIS order number as printed in reference 8 of NASA/CR-2004-213312",
 "text": "THE DISSENT, RECORDED SO THE BOARD DOES NOT OVERSTATE THE RECORD. The Army Research Laboratory's own study of the same effect, by Thomas B. Bahder and Chris Fazi, concluded from its calculations that 'ionic wind is at least three orders of magnitude too small to explain the magnitude of the observed force on the capacitor'. That rejects BALLISTIC ionic wind and prefers ionic drift, which is the mechanism NASA then modelled, so the two findings are not in flat contradiction and NEITHER INVOKES NEW PHYSICS. Tier 2 because the published report, ARL-TR-3005 / NTIS ADA416740, was NOT opened: apps.dtic.mil returned HTTP 403 and what was read was the authors' arXiv preprint.",
 "tier": 2

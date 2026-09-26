@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-755135349e",
+"meta": {
+"artefactDate": "2026-01-28",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "UAP Digest (citing the publisher)",
+"via": null
+},
 "source": "UAP Digest, 28 January 2026, updated 6 March 2026, citing the publisher",
 "text": "Scheduled for HarperCollins publication on 27 August 2026; publisher description promises 'previously undisclosed evidence'.",
 "tier": 2
 },
 {
 "id": "c-a9e29422a7",
+"meta": {
+"artefactDate": "2026",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "UAP Digest"
+},
 "source": "UAP Digest, 2026",
 "text": "Elizondo announced a 20-date speaking tour ahead of the release.",
 "tier": 2

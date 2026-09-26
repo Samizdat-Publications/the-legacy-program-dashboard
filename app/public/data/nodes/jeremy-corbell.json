@@ -29,12 +29,30 @@
 },
 {
 "id": "c-b6e9a34c47",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('Jeremy Corbell')",
+"via": null
+},
 "source": "Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel.",
 "tier": 2
 },
 {
 "id": "c-6164b54d64",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Jeremy Corbell'",
+"via": null
+},
 "source": "Wikipedia, 'Jeremy Corbell' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Corbell directed Hunt for the Skinwalker, based on the book by George Knapp and Colm Kelleher.",
 "tier": 2
@@ -50,6 +68,25 @@
 "source": "CHRG-118hhrg53022, Rep. Burchett https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
 "text": "Burchett on the record at that hearing: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' The unanimous consent was granted without objection.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-04-25",
+"eventDate": "1991",
+"id": "c-3e5d5491b6",
+"node": "lanl",
+"nodeLabel": "Los Alamos National Laboratory",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "New York Post, 25 April 2026; NDTV, 26 April 2026; NewsNation reporting, 24 April 2026",
+"url": null
+},
+"text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos National Laboratory cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory; these form the basis of the documentary 'Sleeping Dog'.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
 }
 ],
 "cls": "person",

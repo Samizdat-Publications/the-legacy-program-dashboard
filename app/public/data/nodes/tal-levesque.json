@@ -9,18 +9,45 @@
 "claims": [
 {
 "id": "c-93772b64c2",
+"meta": {
+"artefactDate": "2015-11",
+"claimant": "tal-levesque",
+"claimantLabel": "Tal Levesque (Jason Bishop III)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Adam Gorightly"
+},
 "source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "Levesque told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was his own invention, in the words quoted in full on the thomas-castello node, and described assembling the two original Dulce Base articles from an account by a woman he names as Ann West, also known as Cherry Hinkle, corrected and combined with his own research.",
 "tier": 2
 },
 {
 "id": "c-0f3bbcc4a7",
+"meta": {
+"artefactDate": "2015-11",
+"claimant": "tal-levesque",
+"claimantLabel": "Tal Levesque (Jason Bishop III)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Norio Hayakawa, Civilian Intelligence News Service (quoting the November 2015 email)"
+},
 "source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "He described the distribution method in the same message: a hundred large envelope packets of supporting material on underground bases, genetic research and hidden research and development, sent to authors and lecturers 'who then mixed it into their talks, articles and books'.",
 "tier": 2
 },
 {
 "id": "c-2be2d0b573",
+"meta": {
+"artefactDate": "2021-04-23",
+"claimant": "tal-levesque",
+"claimantLabel": "Tal Levesque (Jason Bishop III)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Norio Hayakawa"
+},
 "source": "Norio Hayakawa, 23 April 2021, https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/ , opened 2026-09-19",
 "text": "Levesque wrote under the name Jason Bishop III, and had maintained across a multi-year correspondence with Gorightly that Castello was a real person and the Dulce material authentic, before the November 2015 message.",
 "tier": 2
@@ -30,6 +57,127 @@
 "source": "Inference from Norio Hayakawa, 29 August 2016 and 2 April 2024, both opened 2026-09-19",
 "text": "STATED INFERENCE. The woman Levesque names as the raw material of the articles, Ann West, is also the person Hayakawa independently names as the route by which John Lear came to the Dulce story in 1988. Two of the principal entry points into the Dulce literature therefore appear to run back through one person by two different paths. Reasoning: this rests on a name matching across two of Hayakawa's own posts and is stated as an inference, not a finding.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2015-11",
+"eventDate": null,
+"id": "c-00b889b936",
+"node": "thomas-castello",
+"nodeLabel": "Thomas Edwin Castello (fabricated)",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, Civilian Intelligence News Service, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "THE CONFESSION. Tal Levesque, who wrote as Jason Bishop III, told Adam Gorightly by email in November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH. I took rantings from a heavily drugged (with prescription pills) woman Ann West (a.k.a., Cherry Hinkle), made corrections to stuff that was really wrong, added my own real research, mixed it together. That was the basis of the two original DULCE BASE articles.' Tier 2 and not Tier 1 because the email was read as reproduced on Hayakawa's site quoting Gorightly's book, and neither the email nor the book was opened by this board.",
+"tier": 2,
+"topic": "dulce",
+"via": "Norio Hayakawa, Civilian Intelligence News Service (quoting Adam Gorightly, 'Saucers, Spooks and Kooks')"
+},
+{
+"artefactDate": "2015-11",
+"eventDate": null,
+"id": "c-0f3bbcc4a7",
+"node": "tal-levesque",
+"nodeLabel": "Tal Levesque (Jason Bishop III)",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "He described the distribution method in the same message: a hundred large envelope packets of supporting material on underground bases, genetic research and hidden research and development, sent to authors and lecturers 'who then mixed it into their talks, articles and books'.",
+"tier": 2,
+"topic": "dulce",
+"via": "Norio Hayakawa, Civilian Intelligence News Service (quoting the November 2015 email)"
+},
+{
+"artefactDate": "2015-11",
+"eventDate": null,
+"id": "c-93772b64c2",
+"node": "tal-levesque",
+"nodeLabel": "Tal Levesque (Jason Bishop III)",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "Levesque told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was his own invention, in the words quoted in full on the thomas-castello node, and described assembling the two original Dulce Base articles from an account by a woman he names as Ann West, also known as Cherry Hinkle, corrected and combined with his own research.",
+"tier": 2,
+"topic": "dulce",
+"via": "Adam Gorightly"
+},
+{
+"artefactDate": "2015-11",
+"eventDate": null,
+"id": "c-96febc8a8d",
+"node": "dulce-base",
+"nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "THE CENTRAL FINDING. The claimed insider at the heart of the Dulce story was confessed as an invention by the man who says he invented him. Tal Levesque to Adam Gorightly, November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH.' He described composing the two original Dulce Base articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'.",
+"tier": 2,
+"topic": "dulce",
+"via": "Adam Gorightly"
+},
+{
+"artefactDate": "2015-11",
+"eventDate": null,
+"id": "c-b7c2a03632",
+"node": "thomas-castello",
+"nodeLabel": "Thomas Edwin Castello (fabricated)",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "THE MECHANISM, AND THE REASON THIS NODE MATTERS TO THE BOARD'S OWN RULES. In the same message Levesque describes how the appearance of independent corroboration was produced: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' This is a documented instance of many apparently separate sources sharing one method and one origin.",
+"tier": 2,
+"topic": "dulce",
+"via": "Norio Hayakawa"
+},
+{
+"artefactDate": "2021-04-23",
+"eventDate": null,
+"id": "c-2be2d0b573",
+"node": "tal-levesque",
+"nodeLabel": "Tal Levesque (Jason Bishop III)",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 23 April 2021, https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+},
+"text": "Levesque wrote under the name Jason Bishop III, and had maintained across a multi-year correspondence with Gorightly that Castello was a real person and the Dulce material authentic, before the November 2015 message.",
+"tier": 2,
+"topic": "dulce",
+"via": "Norio Hayakawa"
+},
+{
+"artefactDate": "2015-11",
+"eventDate": null,
+"id": "c-c2661b0bbf",
+"node": "d-disinformation",
+"nodeLabel": "Disinformation & Fabricated Documents",
+"route": "document",
+"source": {
+"domain": "noriohayakawa.wordpress.com",
+"text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+"text": "THE DOMAIN'S CLEANEST WORKED EXAMPLE OF MANUFACTURED CORROBORATION. Tal Levesque, author of the two original Dulce Base articles, told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was 'a creation. A MYTH', and described the distribution: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' The many later sources that agree about Dulce agree because they were seeded from one origin.",
+"tier": 2,
+"topic": "perception-management",
+"via": "Adam Gorightly"
 }
 ],
 "cls": "person",

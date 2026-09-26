@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-a3b77d59e9",
+"meta": {
+"artefactDate": "2026-09-19",
+"claimant": "larry-warren",
+"claimantLabel": "Larry Warren",
+"eventDate": "2000-09",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
 "tier": 1
 },
 {
 "id": "c-c6d95391bb",
+"meta": {
+"artefactDate": "2017-10-17",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Cosimo, Inc. (publisher's announcement)",
+"via": null
+},
 "source": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins published a repudiation on 13 June 2017 alleging fabricated and altered documents, and Cosimo, Inc. announced on 17 October 2017 that it was 'suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins' because 'some of the experiences described in this book may be inaccurate or embellished'.",
 "tier": 2
 },
 {
 "id": "c-2a308907d7",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1980-12",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "A SECOND AND SEPARATE CLAIM ON THIS EVENT COMES FROM CLIFFORD STONE, AND IT FAILS ON AN ACT OF HIS OWN. Stone told the Disclosure Project that an Army team took him to Bentwaters in late December 1980. Klass records that on 23 December 1983 Stone filed a FOIA request with the USAF for information on the same incident, 'used his home address and did not show that he was an Army sergeant'. Klass also notes the incident 'was not reported to higher officials until roughly two weeks after Stone says his team arrived'.",
 "tier": 2
@@ -42,6 +69,15 @@
 },
 {
 "id": "c-36a772fac0",
+"meta": {
+"artefactDate": "2020-12-26",
+"claimant": "david-clarke-uk",
+"claimantLabel": "Dr David Clarke",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "BBC News"
+},
 "source": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?', 26 Dec 2020; David Clarke, 40th-anniversary account with the MoD desk officer, 26 Dec 2020",
 "text": "Forty years on, the incident's American witnesses have maintained their accounts publicly while the UK Ministry of Defence's original assessment of 'no defence significance' has been shown to have been reached without interviewing them.",
 "tier": 2

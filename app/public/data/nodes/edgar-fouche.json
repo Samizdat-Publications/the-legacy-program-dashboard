@@ -39,24 +39,60 @@
 },
 {
 "id": "c-5b5794a88d",
+"meta": {
+"artefactDate": "1998-08",
+"claimant": "edgar-fouche",
+"claimantLabel": "Edgar Fouche",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "In his own 1998 presentation he claims clearances no opened record corroborates: 'I've held positions within the USAF that required me to have Top Secret and Q Clearances and Top Secret - Crypto access clearances.' No clearance record of any kind was opened.",
 "tier": 2
 },
 {
 "id": "c-1b642e0823",
+"meta": {
+"artefactDate": "1998-08",
+"claimant": "edgar-fouche",
+"claimantLabel": "Edgar Fouche",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "IUFOR"
+},
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 7 to 10, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "In the same presentation he claims descent from Napoleon's minister of police: 'He was the head of the French secret National Police Force and a direct ancestor of mine.' No genealogical record was opened, and the presentation also calls Joseph Fouche 'the Prime Minister under Napoleon', which is not an office he held.",
 "tier": 2
 },
 {
 "id": "c-e860bb278d",
+"meta": {
+"artefactDate": "1998-08",
+"claimant": "edgar-fouche",
+"claimantLabel": "Edgar Fouche",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt , opened 2026-09-18",
 "text": "He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted.",
 "tier": 2
 },
 {
 "id": "c-1eb798c34b",
+"meta": {
+"artefactDate": "2015-01-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Andrew Johnson",
+"via": null
+},
 "source": "Andrew Johnson, checktheevidence.com, 13 January 2015, https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/ , opened 2026-09-18",
 "text": "Andrew Johnson reports that a FOIA return obtained by David Hilton and posted on 25 September 2014 lists Lackland AFB (1967), Keesler AFB and Cannon AFB (1968), 'F-15 Manual Test Station Shift Chief, 57th Component Repair Squadron, Nellis Air Force Base, Nevada, from June 1976 to 16 July 1979', the Kadena assignment, and decorations including the Vietnam Service Medal and Republic of Vietnam Gallantry Cross with Palm Device. The FOIA return itself was not opened by this research.",
 "tier": 2
@@ -66,6 +102,93 @@
 "source": "Reasoning over the two Andrew Johnson posts of 12 and 13 January 2015 compared against the decoration citations in the self-published collection; research/leads/verified-tr3b-2026-09-18.md section 5.3",
 "text": "Stated inference. Taking Andrew Johnson's description of the FOIA return at face value, it corroborates the ordinary career and is silent on everything contested: no clearance record, no Groom Lake entry, nothing aerospace. A forgery allegation against the ordinary documents is therefore answered, and the aerospace claims are untouched, because the aerospace claims never rested on documents in the first place.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-11-01",
+"eventDate": null,
+"id": "c-6d8d2ec5bb",
+"node": "gerb-sandia-investigation",
+"nodeLabel": "UAP Gerb - Sandia National Laboratories investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Sandia investigation description, 1 November 2025",
+"url": null
+},
+"text": "USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "UAP Gerb (Sandia investigation description)"
+},
+{
+"artefactDate": "1998-08",
+"eventDate": null,
+"id": "c-1b642e0823",
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"route": "broadcast",
+"source": {
+"domain": "www.checktheevidence.com",
+"text": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 7 to 10, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+},
+"text": "In the same presentation he claims descent from Napoleon's minister of police: 'He was the head of the French secret National Police Force and a direct ancestor of mine.' No genealogical record was opened, and the presentation also calls Joseph Fouche 'the Prime Minister under Napoleon', which is not an office he held.",
+"tier": 2,
+"topic": "tr-3b-fouche",
+"via": "IUFOR"
+},
+{
+"artefactDate": "1998-08",
+"eventDate": null,
+"id": "c-5b5794a88d",
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"route": "broadcast",
+"source": {
+"domain": "www.checktheevidence.com",
+"text": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+},
+"text": "In his own 1998 presentation he claims clearances no opened record corroborates: 'I've held positions within the USAF that required me to have Top Secret and Q Clearances and Top Secret - Crypto access clearances.' No clearance record of any kind was opened.",
+"tier": 2,
+"topic": "tr-3b-fouche",
+"via": null
+},
+{
+"artefactDate": "1998-08",
+"eventDate": null,
+"id": "c-b9a3265c46",
+"node": "brad-steiger",
+"nodeLabel": "Brad Steiger",
+"route": "broadcast",
+"source": {
+"domain": "www.checktheevidence.com",
+"text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+},
+"text": "Fouche describes him in the 1998 presentation, in a promotional context, as 'my co-author Brad Steiger. Brad is the author of 143 published works including the Best Seller Project Bluebook.' This is a claim about Steiger made by his co-author and is not independently corroborated here.",
+"tier": 2,
+"topic": "tr-3b-fouche",
+"via": null
+},
+{
+"artefactDate": "1998-08",
+"eventDate": null,
+"id": "c-e860bb278d",
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt , opened 2026-09-18",
+"url": "https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt"
+},
+"text": "He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted.",
+"tier": 2,
+"topic": "tr-3b-fouche",
+"via": null
 }
 ],
 "cls": "person",

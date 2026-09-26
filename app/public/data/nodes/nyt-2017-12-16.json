@@ -6,36 +6,90 @@
 "claims": [
 {
 "id": "c-bf79874311",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2007",
+"route": "press",
+"speaker": "The New York Times (Cooper, Blumenthal, Kean)",
+"via": null
+},
 "source": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Bylined Helene Cooper, Ralph Blumenthal and Leslie Kean and published 16 December 2017; reported AATIP's roughly $22 million funding from late 2008 through 2011 to Bigelow Aerospace and Harry Reid's origination of the program in 2007.",
 "tier": 2
 },
 {
 "id": "c-5d35465562",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2017-10-04",
+"route": "press",
+"speaker": "New York Times",
+"via": null
+},
 "source": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Reported that Elizondo ran AATIP from the Pentagon's fifth floor, resigned on 4 October in a letter to Defense Secretary Jim Mattis, and had joined To The Stars Academy with Puthoff and Mellon.",
 "tier": 2
 },
 {
 "id": "c-5987c053b3",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": "robert-bigelow",
+"claimantLabel": "Robert T. Bigelow",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "New York Times"
+},
 "source": "New York Times, 16 December 2017",
 "text": "Quoted Robert Bigelow saying he had modified Las Vegas buildings for storing recovered metal alloys, and 'Internationally, we are the most backward country on this.'",
 "tier": 2
 },
 {
 "id": "c-947b2fc1ee",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The New York Times (Cooper, Blumenthal, Kean)",
+"via": null
+},
 "source": "The New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean, revealing AATIP, a $22 million appropriation over 2007-2012 arranged by Sen. Harry Reid, and Navy infrared videos.",
 "tier": 2
 },
 {
 "id": "c-da1fa78261",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Bryan Bender, Politico"
+},
 "source": "Bryan Bender, Politico, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Pentagon spokeswoman Dana White confirmed to Politico that Luis Elizondo directed AATIP.",
 "tier": 2
 },
 {
 "id": "c-b556629330",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": "2017",
+"route": "hearing",
+"speaker": "unnamed whistleblower source (via Shellenberger)",
+"via": null
+},
 "source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
 "text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",
 "tier": 2

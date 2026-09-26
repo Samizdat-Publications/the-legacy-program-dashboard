@@ -36,6 +36,15 @@
 },
 {
 "id": "c-0260a79e45",
+"meta": {
+"artefactDate": "2026-05-22",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1988-12",
+"route": "interview",
+"speaker": "Jorge Martin (per Chris Ramsay)",
+"via": "DEBRIEFED with Chris Ramsay"
+},
 "source": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3', 22 May 2026, 0:09:40, transcript in dist/transcripts/md/",
 "text": "On DEBRIEFED with Chris Ramsay, 22 May 2026, at 0:09:40, host Chris Ramsay, attributing the account to the Puerto Rican researcher Jorge Martin, said that the FAA confirmed the deployment of multiple F-14s 'for testing' near Cabo Rojo at the time of a December 1988 mass sighting, and that the Americans later denied it. No record opened here bears on that claim.",
 "tier": 2
@@ -57,6 +66,25 @@
 "source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
 "text": "The surviving file records the agency's own process in dated documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, and transcripts of interviews with the three JAL crew members on 2, 5 and 15 January 1987.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2001-06-27",
+"eventDate": null,
+"id": "c-9c5fa4b924",
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+"text": "The FAA told the requester the records would be destroyed. Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed.",
+"tier": 1,
+"topic": "aviation-cases",
+"via": "John Greenewald Jr. (The Black Vault)"
 }
 ],
 "cls": "institution",

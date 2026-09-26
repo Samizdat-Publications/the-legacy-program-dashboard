@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-0c018a6d22",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Release 03's document bundle is 826MB and its video bundle 4.6GB, per the war.gov/UFO portal listing.",
 "tier": 2
 },
 {
 "id": "c-bc37d20f65",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (technical observation of war.gov/UFO hosting)",
+"via": null
+},
 "source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "PURSUE video bundles are served from a CloudFront distribution (d34w7g4gy10iej.cloudfront.net), not from war.gov or aaro.mil.",
 "tier": 2

@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-86c8ca9dc8",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": "brett-mansfield",
+"claimantLabel": "Brett A. Mansfield",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Committee on Oversight and Government Reform"
+},
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The hearing 'DoW Financial Management: Examining Progress and New Audit Approaches' was held by the House Committee on Oversight and Government Reform on 13 May 2026, with Deputy Inspector General Brett A. Mansfield testifying.",
 "tier": 2
 },
 {
 "id": "c-84189a36fe",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": "brett-mansfield",
+"claimantLabel": "Brett A. Mansfield",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
 "text": "Mansfield's statement records unsupported adjustments of 'over $859 billion in the last two quarters of FY 25' and more than $4.7 trillion in assets under management.",
 "tier": 1
 },
 {
 "id": "c-6434210bbe",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": "brett-mansfield",
+"claimantLabel": "Brett A. Mansfield",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
 "text": "Mansfield announced consolidation of reporting entities from 22 to 7 in FY2027 and transfer of the group auditor role to an independent public accounting firm with OIG oversight.",
 "tier": 1

@@ -39,9 +39,37 @@
 },
 {
 "id": "c-658c25f287",
+"meta": {
+"artefactDate": "2015-03",
+"claimant": "bob-fish",
+"claimantLabel": "Bob Fish",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Podesta email leak; cited by 'UAP Gerb' on the Danny Jones Podcast"
+},
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md",
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:52:23, the guest who identifies himself only as UAP Gerb cited the Fish and Podesta emails for the claim that the Defense Support Program tracked UFOs in the 1980s at 22,000 mph. The three emails opened in full carry no speed figure and no date in the 1980s: Fish dates the episode to the run-up to Desert Shield and Desert Storm and writes in March 2015 that it is now 24 years later, which puts it in 1990 or 1991, and he says of himself that he was never fully briefed into the DSP operation directly.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2015-03",
+"eventDate": null,
+"id": "c-658c25f287",
+"node": "bob-fish",
+"nodeLabel": "Bob Fish",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:52:23, the guest who identifies himself only as UAP Gerb cited the Fish and Podesta emails for the claim that the Defense Support Program tracked UFOs in the 1980s at 22,000 mph. The three emails opened in full carry no speed figure and no date in the 1980s: Fish dates the episode to the run-up to Desert Shield and Desert Storm and writes in March 2015 that it is now 24 years later, which puts it in 1990 or 1991, and he says of himself that he was never fully briefed into the DSP operation directly.",
+"tier": 2,
+"topic": "ttsa",
+"via": "Podesta email leak; cited by 'UAP Gerb' on the Danny Jones Podcast"
 }
 ],
 "cls": "person",

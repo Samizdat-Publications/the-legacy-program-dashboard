@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-82b536eb00",
+"meta": {
+"artefactDate": "2026-01-13",
+"claimant": "christopher-sharp",
+"claimantLabel": "Christopher Sharp",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Christopher Sharp, Liberation Times, 13 January 2026, citing unnamed sources",
 "text": "An exotic vehicle of unknown origin has been stored for decades at Naval Air Station Patuxent River, with contingency plans to relocate it if publicly identified.",
 "tier": 2
 },
 {
 "id": "c-1ed8c47f65",
+"meta": {
+"artefactDate": "2026-01-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Liberation Times, 13 January 2026, citing Elizondo's written congressional testimony",
 "text": "Elizondo claimed in written testimony to Congress that Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to facilitate movement of material by air and by river.",
 "tier": 2

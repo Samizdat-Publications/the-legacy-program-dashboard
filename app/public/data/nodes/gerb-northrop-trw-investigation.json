@@ -6,24 +6,60 @@
 "claims": [
 {
 "id": "c-6e7381fd4e",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
 "text": "Northrop Grumman may have used IRAD funds at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler.",
 "tier": 2
 },
 {
 "id": "c-ebe714bfa2",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "UAP Gerb"
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, citing David Grusch",
 "text": "Stephanie O'Sullivan - former Principal Deputy DNI, former TRW engineer and current Aerospace Corporation board member - is stated by David Grusch to have managed the UFO crash retrieval issue alongside James Clapper at ODNI.",
 "tier": 2
 },
 {
 "id": "c-0494bb0b16",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
 "text": "Northrop Grumman's modern UFO security apparatus is helmed by Terry Phillips, former director of AFOSI/PJ.",
 "tier": 2
 },
 {
 "id": "c-c94ac019c6",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2011",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
 "text": "The Northrop Tejon radar cross-section facility was officially closed in 2011; Gerb questions whether clandestine underground operations continue beneath it.",
 "tier": 2

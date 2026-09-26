@@ -6,30 +6,75 @@
 "claims": [
 {
 "id": "c-33570aa664",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
 "text": "Grusch, quoted in The Debrief on 5 June 2023: 'Individuals on these UAP programs approached me in my official capacity and disclosed their concerns regarding a multitude of wrongdoings, such as illegal contracting against the Federal Acquisition Regulations and other criminality and the suppression of information across a qualified industrial base and academia.'",
 "tier": 2
 },
 {
 "id": "c-a7877a98a7",
+"meta": {
+"artefactDate": "2022-05",
+"claimant": "charles-mccullough-iii",
+"claimantLabel": "Irvin Charles McCullough III",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
 "text": "Charles McCullough III filed a Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf with the Intelligence Community Inspector General in May 2022.",
 "tier": 2
 },
 {
 "id": "c-bddf3d9130",
+"meta": {
+"artefactDate": "2022-07",
+"claimant": "icig",
+"claimantLabel": "Inspector General of the Intelligence Community",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
 "text": "The Intelligence Community Inspector General found the complaint 'credible and urgent' in July 2022.",
 "tier": 2
 },
 {
 "id": "c-78d3626945",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
 "text": "Grusch testified under oath on 26 July 2023 before the House Oversight subcommittee at the hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', with Ryan Graves and David Fravor.",
 "tier": 1
 },
 {
 "id": "c-5abd0cfa1a",
+"meta": {
+"artefactDate": "2023",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
 "text": "Grusch's written testimony states he was 'informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program' to which he was denied access, and refers to 'Non-Human Reverse Engineering Programs'.",
 "tier": 2

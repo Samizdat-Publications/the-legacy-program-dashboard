@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-8e1531fe2f",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2011",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/DHS, 'History and Origin of KONA BLUE'",
 "text": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP'; the DHS Deputy Secretary disapproved and terminated it approximately six months later, and it was 'never approved or formally established'.",
 "tier": 1
 },
 {
 "id": "c-abadabc569",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, p. 35",
 "text": "AARO records that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'.",
 "tier": 1

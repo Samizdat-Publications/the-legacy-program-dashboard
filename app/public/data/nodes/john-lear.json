@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-e9d4278181",
+"meta": {
+"artefactDate": "2016-08-29",
+"claimant": "norio-hayakawa",
+"claimantLabel": "Norio Hayakawa",
+"eventDate": "1988",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "Lear heard of Dulce from a woman named as 'Ann West' and developed his Dulce hypothesis in 1988, in the dated chronology of the cluster's originators. The same name appears in Tal Levesque's November 2015 confession as the raw material from which he composed the two original Dulce Base articles.",
 "tier": 2
@@ -21,6 +30,15 @@
 },
 {
 "id": "c-68a48b7d95",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1966-05",
+"route": "document",
+"speaker": "The Museum of Flight Archives (collection description)",
+"via": null
+},
 "source": "The Museum of Flight Archives collection description, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
 "text": "In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international aviation records. The FAI record files were not opened and the count of records and the exact crew roles are not asserted here.",
 "tier": 2
@@ -33,9 +51,37 @@
 },
 {
 "id": "c-13a9f4bc48",
+"meta": {
+"artefactDate": null,
+"claimant": "tom-mahood",
+"claimantLabel": "Tom Mahood",
+"eventDate": "1989-04-05",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
 "text": "Lear and Lazar had met by 1988. Lear was present at the first and third of the three Wednesday-night desert viewings, on 22 March 1989 and 5 April 1989, and Mahood's timeline records that at the first of those 'only Lear saw the elliptical shape through a telescope'. On 5 April 1989 the group, including Lear, was detained by the Lincoln County Sheriff after guards discovered them.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1987",
+"eventDate": null,
+"id": "c-c26feaec5b",
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"route": "document",
+"source": {
+"domain": null,
+"text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 20, 3 January 2025, 0:12:27; National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+"url": null
+},
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 20, 3 January 2025, at 0:12:27, Ramsay read aloud from John Lear's 1987 statement that 'several committed suicide, the most prominent of which was General James V. Forestall who jumped to his death from a 16th story hospital window. General Forestall's medical records are sealed to this day.' The document's rank is wrong: the statute creating the office he held requires a civilian appointee and bars any commissioned officer on active duty within the previous ten years.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": "AREA52 - DEBRIEFED with Chris Ramsay"
 }
 ],
 "cls": "person",

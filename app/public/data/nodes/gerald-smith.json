@@ -15,15 +15,52 @@
 },
 {
 "id": "c-d2c956fad1",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": "1961",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
 "text": "Ph.D. Yale 1961; assistant professor under Luis Alvarez at Berkeley 1961-66; Associate Laboratory Director for High Energy Physics at Argonne 1978; Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State from 1983; Professor Emeritus 2000; founded Positronics Research LLC in 2001.",
 "tier": 2
 },
 {
 "id": "c-955c5a41f6",
+"meta": {
+"artefactDate": null,
+"claimant": "gerald-smith",
+"claimantLabel": "Gerald A. Smith",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
 "text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-955c5a41f6",
+"node": "gerald-smith",
+"nodeLabel": "Gerald A. Smith",
+"route": "document",
+"source": {
+"domain": "www.niac.usra.edu",
+"text": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
+"url": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf"
+},
+"text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
+"tier": 2,
+"topic": "dirds",
+"via": null
 }
 ],
 "cls": "person",

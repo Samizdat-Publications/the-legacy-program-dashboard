@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-7c69f2d612",
+"meta": {
+"artefactDate": "2024-03-12",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Hill"
+},
 "source": "The Hill, 12 March 2024",
 "text": "Rep. Burlison requested a House select committee on UAP on 12 March 2024, focused first on DoD expenditures on alleged secret UAP recovery programs, with the stated support of Comer, Burchett and Moskowitz.",
 "tier": 2
 },
 {
 "id": "c-ec246d5b7f",
+"meta": {
+"artefactDate": "2024-03-12",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
 "text": "'They weren't transparent to us in a SCIF setting... they are not willing to do that with Congress. So to me, it's about time that they opened the kimono.'",
 "tier": 2
 },
 {
 "id": "c-b65a75538e",
+"meta": {
+"artefactDate": "2024-03-12",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (The Hill)",
+"via": "The Hill"
+},
 "source": "The Hill, 12 March 2024",
 "text": "Burchett led an earlier select committee effort under Speaker Kevin McCarthy that was lost when McCarthy lost the speakership.",
 "tier": 2

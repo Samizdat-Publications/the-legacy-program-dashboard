@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-3a5c080b8c",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "HHRG-118-GO12 hearing transcript, 13 November 2024",
 "text": "Cleared through the Defense Office of Prepublication and Security Review over approximately one year, per Elizondo's sworn testimony: 'what is in the book is what I was told I am allowed to talk about.'",
 "tier": 2
 },
 {
 "id": "c-f32eab81cf",
+"meta": {
+"artefactDate": "2024-08",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "book",
+"speaker": "Wikipedia, 'Luis Elizondo' (citing publisher and contemporaneous reviews)",
+"via": null
+},
 "source": "Wikipedia, Luis Elizondo, citing publisher and contemporaneous reviews",
 "text": "Published August 2024 and debuted at number one on the New York Times bestseller list; claims include recovery of non-human bodies and a decades-long secret retrieval programme.",
 "tier": 2

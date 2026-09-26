@@ -45,12 +45,30 @@
 },
 {
 "id": "c-a464909043",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "text": "The counter-explanation, from the same source: 'what had happened on Buzzing Bee was that two decoys were fired off by small rocket charges on schedule, but some of the decoy packing material also trailed along and could be seen optically and also by certain kinds of radar. A little cloud of debris around each decoy warhead clearly gave away the false status'. George also corrects a factual point: 'the Atlas was sub-orbital, as all ICBMs are, and it did not miss the target.'",
 "tier": 2
 },
 {
 "id": "c-fa51e29758",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": "1964",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "text": "George concedes a point to Jacobs, which is why the exchange is a serious one rather than a polemic: 'Bob is correct in saying that the observations in 1964 did not involve lasers, and, I would add, neither intra- nor extraterrestrial.'",
 "tier": 2
@@ -75,6 +93,15 @@
 },
 {
 "id": "c-533cda0c9c",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 186-187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "text": "George states both that Jacobs was debriefed and that he probably lacked the clearance to understand what he had seen: everyone at the telescope site or who had seen the film 'had to be questioned on what they had seen and what they thought it meant', each cautioned not to discuss it even with fellow workers, and 'I don't think Bob Jacobs ever gained the required clearance.' That sentence is simultaneously the sceptic's explanation and an independent confirmation that Jacobs was there and was debriefed.",
 "tier": 1
@@ -84,6 +111,25 @@
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE. Jacobs is the exception in this cluster and the reason the provenance test is worth applying. He published under his own name in the National Enquirer in 1982 and in the MUFON UFO Journal, No. 249, in January 1989, years before any interviewer sought him out, and was then answered by name and in print by a hostile participant who confirmed his unit, his appointment, his presence and his debriefing while disputing what he saw.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1989-01",
+"eventDate": "1964-09",
+"id": "c-53b963bb56",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "www.nicap.org",
+"text": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"url": "http://www.nicap.org/reports/bigsur2.htm"
+},
+"text": "The claimant's account, published in January 1989: an object that 'maneuvered around' the warhead package, 'emitted four distinct bright flashes of light at approximately the 4 cardinal compass points of its orbit', and a warhead that 'malfunctioned and tumbled out of suborbit hundreds of miles short of its target'. His own dating is uncertain: 'most probably either September 2nd, 3rd, or 15th, 1964'.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
 }
 ],
 "cls": "person",

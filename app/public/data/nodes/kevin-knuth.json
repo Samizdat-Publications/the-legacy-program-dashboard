@@ -59,9 +59,54 @@
 },
 {
 "id": "c-f0e846002b",
+"meta": {
+"artefactDate": null,
+"claimant": "kevin-knuth",
+"claimantLabel": "Kevin H. Knuth",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Published biography",
 "text": "Knuth is Vice President of UAPx and a research affiliate of the Galileo Project.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-e1258c486f",
+"node": "uapx",
+"nodeLabel": "UAPx",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Published biography of Kevin Knuth",
+"url": null
+},
+"text": "Knuth serves as Vice President of UAPx.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-f0e846002b",
+"node": "kevin-knuth",
+"nodeLabel": "Kevin H. Knuth",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Published biography",
+"url": null
+},
+"text": "Knuth is Vice President of UAPx and a research affiliate of the Galileo Project.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
 }
 ],
 "cls": "person",

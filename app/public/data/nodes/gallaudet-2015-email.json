@@ -6,24 +6,60 @@
 "claims": [
 {
 "id": "c-5f5aa9e538",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": "2015-01",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "text": "The email's subject line was 'URGENT SAFETY OF FLIGHT ISSUE' and it carried the GO FAST video.",
 "tier": 2
 },
 {
 "id": "c-8dc6a6819b",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "hearing",
+"speaker": "Fleet Forces Command operations officer (quoted by Gallaudet)",
+"via": null
+},
 "source": "Gallaudet written testimony quoting the Fleet Forces Command operations officer, 13 November 2024",
 "text": "'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
 "tier": 2
 },
 {
 "id": "c-5dd1879261",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": "2015-01",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Gallaudet written testimony, 13 November 2024",
 "text": "The email vanished from Gallaudet's and other recipients' accounts 'without explanation' the next day.",
 "tier": 2
 },
 {
 "id": "c-5bed5216ea",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": "2015-01",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Gallaudet written testimony, 13 November 2024",
 "text": "Gallaudet concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
 "tier": 2

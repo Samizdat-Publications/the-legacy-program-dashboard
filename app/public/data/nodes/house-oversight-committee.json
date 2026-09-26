@@ -23,6 +23,25 @@
 "tier": 3
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2026-04-21",
+"eventDate": null,
+"id": "c-97243dc63d",
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Fox News, 21 April 2026",
+"url": null
+},
+"text": "McCasland is one of eleven individuals in nuclear or rocket technology who have died or vanished under mysterious circumstances since 2022, per the House Oversight probe.",
+"tier": 2,
+"topic": "missing-scientists",
+"via": "Fox News"
+}
+],
 "cls": "institution",
 "cluster": "oversight",
 "conflicts": [],

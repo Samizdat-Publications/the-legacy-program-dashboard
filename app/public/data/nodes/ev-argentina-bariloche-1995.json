@@ -6,24 +6,60 @@
 "claims": [
 {
 "id": "c-ec2871c5e8",
+"meta": {
+"artefactDate": "2026-05-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "James Grainger, Buenos Aires Times",
+"via": null
+},
 "source": "James Grainger, Buenos Aires Times, 11 May 2026",
 "text": "'The case appears in a section of the released files examining investigations conducted outside the United States and references a report produced by COMETA, a French study group linked to defence and aeronautics specialists.'",
 "tier": 2
 },
 {
 "id": "c-b04df90b8a",
+"meta": {
+"artefactDate": "2026-05-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-05-08",
+"route": "press",
+"speaker": "unnamed (Buenos Aires Times)",
+"via": null
+},
 "source": "Buenos Aires Times, 11 May 2026 (release date Friday 8 May 2026)",
 "text": "'More than 160 files were released last Friday on the website of the US Department of Defense, which officially refers to UFOs as Unidentified Anomalous Phenomena.'",
 "tier": 2
 },
 {
 "id": "c-39c96a3937",
+"meta": {
+"artefactDate": "2026-05-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1995-07-31",
+"route": "press",
+"speaker": "Buenos Aires Times",
+"via": null
+},
 "source": "Buenos Aires Times, 11 May 2026, summarising the released Pentagon file",
 "text": "Detailed narrative of the 31 July 1995 AR 674 encounter as recorded in the released US file, including the double airport power failure and the go-around.",
 "tier": 2
 },
 {
 "id": "c-7362e0aa29",
+"meta": {
+"artefactDate": "2026-05-11",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Buenos Aires Times / AFP"
+},
 "source": "Buenos Aires Times / AFP, 11 May 2026",
 "text": "Defense Secretary Pete Hegseth on the release: 'These files, hidden behind classifications, have long fueled justified speculation - and it's time the American people see it for themselves.'",
 "tier": 2

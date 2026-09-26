@@ -32,12 +32,30 @@
 "claims": [
 {
 "id": "c-1f28b6904f",
+"meta": {
+"artefactDate": "1997",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "Vern Maltais and Alice Knight",
+"via": "The Roswell Report: Case Closed (USAF), quoting FUFOR footage"
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.4, quoting FUFOR footage",
 "text": "Vern Maltais and Alice Knight, who knew Barnett, related his account on camera for the Fund for UFO Research video 'Recollections of Roswell Part II'; Knight stated 'I don't recall the date.'",
 "tier": 2
 },
 {
 "id": "c-7efd04f46f",
+"meta": {
+"artefactDate": "1997",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The Air Force's 1997 report states that the San Agustin claim rests on three testimonies - two second-hand (Maltais, Knight) and one first-hand (Gerald Anderson) - and that Barnett, the original alleged eyewitness, is deceased.",
 "tier": 2

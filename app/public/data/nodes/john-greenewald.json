@@ -117,6 +117,15 @@
 },
 {
 "id": "c-d2105fbf3e",
+"meta": {
+"artefactDate": "2016-04-01",
+"claimant": "john-greenewald",
+"claimantLabel": "John Greenewald Jr.",
+"eventDate": "2000",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Black Vault case file, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
 "text": "Greenewald published a case file on 1 April 2016 stating 'There is no evidence that I have found, that shows that Thomas Costello even exists', and demonstrating that the photograph circulated as Castello's leaked evidence is a frame from the 2000 film The 6th Day: it 'is, in fact, a verifiable hoax'.",
 "tier": 2
@@ -153,6 +162,15 @@
 },
 {
 "id": "c-faa203fbc1",
+"meta": {
+"artefactDate": "2025-10-01",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Susan Gough, Department of War, emailed statement, 1 Oct 2025",
 "text": "On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
 "tier": 1
@@ -177,9 +195,122 @@
 },
 {
 "id": "c-345af1cac3",
+"meta": {
+"artefactDate": null,
+"claimant": "john-greenewald",
+"claimantLabel": "John Greenewald Jr.",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
 "text": "Many PDFs in the Department's release were password-protected, preventing OCR; The Black Vault removed the restrictions and processed the files into a usable, searchable format.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-27d45aefe2",
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+"text": "The Black Vault states in its own voice that 'Callahan's dramatic account is unconfirmed by other sources', while observing that he preserved copies of the data and later shared them with researchers.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-499c8b5e32",
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+"text": "It states its own reservation about the best-known witness to the case: 'Callahan's dramatic account is unconfirmed by other sources', while recording that he preserved copies of the data.",
+"tier": 1,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": "2023-12-22",
+"eventDate": "2023-12-19",
+"id": "c-34009e3b1c",
+"node": "defense-support-program",
+"nodeLabel": "Defense Support Program (DSP) missile early warning satellites",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "John Greenewald, 'Space Force Says Documents on \"Fastwalkers\" and \"Slowwalkers\" All \"Exempt from Disclosure\"', The Black Vault, 22 December 2023, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
+"url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+},
+"text": "The Black Vault reports that the US Space Force, responding on 19 December 2023 to a July 2023 request for all procedures and manuals referencing 'Fastwalkers' and 'Slowwalkers', withheld the material in full under FOIA Exemption 1 and section 1.1(a) of Executive Order 13526. The response letter itself was not opened for this record.",
+"tier": 2,
+"topic": "classification-orders",
+"via": null
+},
+{
+"artefactDate": "2016-04-01",
+"eventDate": null,
+"id": "c-a019d16f24",
+"node": "thomas-castello",
+"nodeLabel": "Thomas Edwin Castello (fabricated)",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+},
+"text": "John Greenewald, publishing a case file on 1 April 2016, states: 'There is no evidence that I have found, that shows that Thomas Costello even exists.' Note the spelling variant Costello, which is how the viral posts carry the name.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-345af1cac3",
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+},
+"text": "Many PDFs in the Department's release were password-protected, preventing OCR; The Black Vault removed the restrictions and processed the files into a usable, searchable format.",
+"tier": 2,
+"topic": "foia-litigation",
+"via": null
+},
+{
+"artefactDate": "2016-04-01",
+"eventDate": "2000",
+"id": "c-d2105fbf3e",
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+},
+"text": "Greenewald published a case file on 1 April 2016 stating 'There is no evidence that I have found, that shows that Thomas Costello even exists', and demonstrating that the photograph circulated as Castello's leaked evidence is a frame from the 2000 film The 6th Day: it 'is, in fact, a verifiable hoax'.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
 }
 ],
 "cls": "person",

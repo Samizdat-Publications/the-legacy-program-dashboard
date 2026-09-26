@@ -15,24 +15,60 @@
 },
 {
 "id": "c-29b63f4052",
+"meta": {
+"artefactDate": "1997-12",
+"claimant": "stanton-friedman",
+"claimantLabel": "Stanton T. Friedman",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
 "text": "Stanton T. Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records what the page says about its own scope: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The listing is real and it is not a laboratory staff listing. This qualification is routinely dropped when the directory is cited.",
 "tier": 2
 },
 {
 "id": "c-9e5e2bd84c",
+"meta": {
+"artefactDate": "1996-05-25",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "unnamed (Los Alamos colleague, anonymised at his own request)",
+"via": "Mark Farmer"
+},
 "source": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18",
 "text": "A Los Alamos colleague of Lazar's, interviewed on tape by Mark Farmer on 25 May 1996 and anonymised at his own request, said Lazar did work at the laboratory but 'was a contractor' under 'Kirk Mayer', and that Lazar 'claimed to be' a physicist with a degree from 'either Cal Tech or MIT or something like that, but I don't think that that was ever substantiated that he had a degree'.",
 "tier": 2
 },
 {
 "id": "c-f8c7d4e85c",
+"meta": {
+"artefactDate": "1995-03-12",
+"claimant": "gene-huff",
+"claimantLabel": "Gene Huff",
+"eventDate": "1982-05-18",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Gene Huff, synopsis posted to alt.conspiracy.area51, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
 "text": "Gene Huff records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both the laboratory and Kirk-Mayer later said they held no employment records for him.",
 "tier": 2
 },
 {
 "id": "c-5f47eefb9c",
+"meta": {
+"artefactDate": "1991",
+"claimant": "bob-lazar",
+"claimantLabel": "Robert \"Bob\" Lazar",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions read via YouTube video kc10m6HFbDE at 1:41, 1:54, 2:19, 24:24 and 28:01, opened 2026-09-18",
 "text": "In his own narration on the 1991 videotape he states the shape of the claim: that he held 'secret and Above Top Secret security clearances of which the most easily verifiable is my early 1980s job here at the Los Alamos Ma[e]son physics facility'; that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; that 'for the duration of my employment at S4 I was paid by the United States Navy'; that 'the S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; and that he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
 "tier": 2
@@ -45,6 +81,15 @@
 },
 {
 "id": "c-339b6401fd",
+"meta": {
+"artefactDate": "1995-05-15",
+"claimant": "gene-huff",
+"claimantLabel": "Gene Huff",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
 "text": "Gene Huff's response the following day, 15 May 1995, is that the probation officer misunderstood: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, not a degree, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'. The board carries this rebuttal beside the report and does not adopt it.",
 "tier": 2
@@ -87,6 +132,15 @@
 },
 {
 "id": "c-b3f97f0063",
+"meta": {
+"artefactDate": "2019-11-13",
+"claimant": "tim-mcmillan",
+"claimantLabel": "Tim McMillan",
+"eventDate": "2015-12-22",
+"route": "press",
+"speaker": null,
+"via": "Vice"
+},
 "source": "Tim McMillan, 'Bob Lazar Says the FBI Raided Him to Seize Area 51's Alien Fuel. The Truth Is Weirder', Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18",
 "text": "The underlying homicide is the death of Janel Sturzl, 31, of thallium toxicity on 22 December 2015 in Houghton, Michigan. Lazar is not recorded as a suspect. Michigan State Police reporting quoted by McMillan reads: 'efforts will be made to contact/interview Bob Lazar (United Nuclear) in person regarding any Thallium sales.'",
 "tier": 2
@@ -96,6 +150,178 @@
 "source": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', releases of 55, 130 and 130 pages, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18",
 "text": "A negative FOIA result worth carrying: The Black Vault, which pursued FBI records on United Nuclear from November 2018 and received three releases totalling 315 pages, states that 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', and comments that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1989-05",
+"eventDate": null,
+"id": "c-e710df4c54",
+"node": "l-area51",
+"nodeLabel": "Area 51 (Homey Airport / Groom Lake operating location)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "KLAS-TV Las Vegas interviews with Robert Lazar, May 1989; summarised in Wikipedia, Area 51",
+"url": null
+},
+"text": "In May 1989 Robert Lazar told KLAS-TV's George Knapp that he had worked at 'S-4' near Papoose Lake, roughly 8.5 miles south of the main Groom facility, on craft the government possessed.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "KLAS-TV, George Knapp"
+},
+{
+"artefactDate": "1991",
+"eventDate": null,
+"id": "c-21a5c3bcb5",
+"node": "l-groom-lake",
+"nodeLabel": "Groom Lake, Nevada",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
+},
+"text": "Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "Tri-Dot Productions (The Lazar Tape)"
+},
+{
+"artefactDate": "1991",
+"eventDate": "1989",
+"id": "c-2cbcaaa613",
+"node": "l-area51",
+"nodeLabel": "Area 51 (Homey Airport / Groom Lake operating location)",
+"route": "press",
+"source": {
+"domain": "archive.org",
+"text": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
+},
+"text": "The 1989 KLAS-TV Lazar broadcasts are the single event most responsible for this place entering worldwide public consciousness under this name. Lazar's own 1991 narration refers to 'the infamous Area 51 installation at Groom Lake' and places his claimed S-4 site about fifteen miles south of it. A contemporaneous newspaper of 19 June 1990 confirms the broadcasts existed and that Lazar was their focal point.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "Tri-Dot Productions (The Lazar Tape); Las Vegas Review-Journal"
+},
+{
+"artefactDate": "1991",
+"eventDate": null,
+"id": "c-727721fef0",
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54, 24:24, 27:16 and 28:01 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
+},
+"text": "THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": "1991",
+"eventDate": null,
+"id": "c-b540207b85",
+"node": "l-nellis",
+"nodeLabel": "Nellis Air Force Base and the Nevada Test and Training Range",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
+},
+"text": "Bob Lazar places his claimed S-4 facility on this range: 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. No government record naming any such facility on the range was opened by this board.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": "1991",
+"eventDate": null,
+"id": "c-5f47eefb9c",
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions read via YouTube video kc10m6HFbDE at 1:41, 1:54, 2:19, 24:24 and 28:01, opened 2026-09-18",
+"url": null
+},
+"text": "In his own narration on the 1991 videotape he states the shape of the claim: that he held 'secret and Above Top Secret security clearances of which the most easily verifiable is my early 1980s job here at the Los Alamos Ma[e]son physics facility'; that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; that 'for the duration of my employment at S4 I was paid by the United States Navy'; that 'the S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; and that he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "1991",
+"eventDate": null,
+"id": "c-86c0d490ee",
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
+},
+"text": "WHAT LAZAR CLAIMED, in his own 1991 narration. That stable superheavy elements exist 'in the 114 115 range which don't appear on a periodic chart' and that 'Beyond Element 115 the elements become unstable again and in fact element 116 decays in fractions of a second'. That 'the power source is a reactor which uses this element 115 as its fuel', with 115 'used as a Target and is bombarded with protons', a proton entering a 115 nucleus producing 'an atom of element 116 which remember decays instantly', radiating antimatter which is then annihilated for power. That 'only 223 grams of 115 which is just under half a pound can be utilized for a period of 20 to 30 years', that 'element 115's melting point is 1740 degrees Celsius', and that 'the element 115 is machined into triangles like this and is then inserted into the reactor'. Auto-generated captions at 18:42, 19:01, 23:31 and 25:34, so wording is approximate.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "1990-08-21",
+"eventDate": null,
+"id": "c-700b351e38",
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"route": "press",
+"source": {
+"domain": "otherhand.org",
+"text": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+},
+"text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990 describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range. The board carries the discrepancy on the hub rather than smoothing it into the later settled version.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": "Warren Bates, Las Vegas Review-Journal"
+},
+{
+"artefactDate": "1991",
+"eventDate": null,
+"id": "c-6bde1fef66",
+"node": "lazar-tape-1991",
+"nodeLabel": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "The Lazar Tape, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
+},
+"text": "It is the anchor for the following claims elsewhere on this board, each with a timestamp: the S-4 siting and employment dates at 1:54 to 2:22; payment 'by the United States Navy' at 2:19; the bussing from Groom at 27:16; the nine hangar doors at 28:01; the badge description at 28:13; the blue-folder briefings at 31:50; the nine discs at 24:24; the gravity A and gravity B distinction at 9:54 to 11:07; the identification of gravity A with the strong nuclear force at 10:43; the claim that the field extends past the perimeter of the atom at 14:14; the element 115 reactor and antimatter account at 18:42 to 23:22; the 223 grams and 1740 degrees Celsius figures at 23:31; the machining into triangles at 25:34; and the Edward Teller anecdote at 35:48 to 36:32.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "1991",
+"eventDate": null,
+"id": "c-712b54f3dc",
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"route": "broadcast",
+"source": {
+"domain": "archive.org",
+"text": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 10:43 and 14:14 to 14:26, https://archive.org/details/antigravity , opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
+},
+"text": "THE LOAD-BEARING PHYSICAL CLAIM, which is the one the physics objections attack: 'The most important attribute of these heavier stable elements is that the gravity a wave is so abundant that it actually extends past the perimeter of the atom', and separately 'gravity a is what is currently being labeled as the strong nuclear force in mainstream physics'.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
 }
 ],
 "cls": "person",

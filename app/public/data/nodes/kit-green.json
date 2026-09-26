@@ -123,6 +123,15 @@
 },
 {
 "id": "c-965466c524",
+"meta": {
+"artefactDate": null,
+"claimant": "kit-green",
+"claimantLabel": "Christopher C. 'Kit' Green",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Green interviews and public remarks, 2017-2023",
 "text": "Green maintains a clinical case series of patients with unexplained injuries he associates with proximity to the phenomenon, drawn substantially from military and intelligence personnel.",
 "tier": 2
@@ -135,6 +144,15 @@
 },
 {
 "id": "c-34d4b67c9f",
+"meta": {
+"artefactDate": null,
+"claimant": "kit-green",
+"claimantLabel": "Christopher C. 'Kit' Green",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Christopher Green, repeated on-record interviews and public statements",
 "text": "Green has stated that during his CIA service he was the officer to whom UFO and anomalous-phenomena reporting was routed within the Office of Scientific Intelligence.",
 "tier": 2
@@ -147,6 +165,15 @@
 },
 {
 "id": "c-b6205d1b72",
+"meta": {
+"artefactDate": "2019",
+"claimant": "kit-green",
+"claimantLabel": "Christopher C. 'Kit' Green",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Contemporaneous reporting on the memo's release, 2019; Green has acknowledged documents left his possession without vouching for their contents",
 "text": "The Wilson-Davis memorandum entered public circulation from Green's document holdings.",
 "tier": 2
@@ -183,21 +210,118 @@
 },
 {
 "id": "c-d40d074f53",
+"meta": {
+"artefactDate": "2020-02-14",
+"claimant": "kit-green",
+"claimantLabel": "Christopher C. 'Kit' Green",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Tim McMillan, Popular Mechanics"
+},
 "source": "Christopher Green to Tim McMillan, Popular Mechanics, 14 February 2020",
 "text": "Green described the paper as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
 "tier": 2
 },
 {
 "id": "c-e667d6fb37",
+"meta": {
+"artefactDate": "2009-04-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Wayne State University School of Medicine News",
+"via": null
+},
 "source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
 "text": "Wayne State University School of Medicine states: 'Prior to his current assignment, Dr. Green served as the executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology, where he is an adjunct professor and Fellow in Clinical Neuroimaging.' The title was executive director, and as of 2 April 2009 he had already left it.",
 "tier": 2
 },
 {
 "id": "c-c82c914225",
+"meta": {
+"artefactDate": "2009-04-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Wayne State University School of Medicine News",
+"via": null
+},
 "source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
 "text": "The same item gives Green's role at that date as 'assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and records his appointment as a professor of the Chinese Academy of Sciences, sponsored by its Institute of Biophysics, the location of the clinical Brain and Imaging MRI Center of Excellence in Beijing.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2019",
+"eventDate": null,
+"id": "c-b6205d1b72",
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Contemporaneous reporting on the memo's release, 2019; Green has acknowledged documents left his possession without vouching for their contents",
+"url": null
+},
+"text": "The Wilson-Davis memorandum entered public circulation from Green's document holdings.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+},
+{
+"artefactDate": "2020-02-14",
+"eventDate": null,
+"id": "c-d40d074f53",
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Christopher Green to Tim McMillan, Popular Mechanics, 14 February 2020",
+"url": null
+},
+"text": "Green described the paper as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
+"tier": 2,
+"topic": "biology-medical",
+"via": "Tim McMillan, Popular Mechanics"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-34d4b67c9f",
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Christopher Green, repeated on-record interviews and public statements",
+"url": null
+},
+"text": "Green has stated that during his CIA service he was the officer to whom UFO and anomalous-phenomena reporting was routed within the Office of Scientific Intelligence.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-965466c524",
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Green interviews and public remarks, 2017-2023",
+"url": null
+},
+"text": "Green maintains a clinical case series of patients with unexplained injuries he associates with proximity to the phenomenon, drawn substantially from military and intelligence personnel.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
 }
 ],
 "cls": "person",

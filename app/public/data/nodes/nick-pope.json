@@ -58,27 +58,184 @@
 "claims": [
 {
 "id": "c-4222dcfdf1",
+"meta": {
+"artefactDate": "2026-05-02",
+"claimant": "nick-pope",
+"claimantLabel": "Nick Pope",
+"eventDate": "1991",
+"route": "press",
+"speaker": null,
+"via": "Sky HISTORY (history.co.uk)"
+},
 "source": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
 "text": "Pope joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying at the UFO desk for three years, 'scrutinising UFO reports to identify potential defence risks to the UK'.",
 "tier": 2
 },
 {
 "id": "c-13e82ce123",
+"meta": {
+"artefactDate": "2026-05-02",
+"claimant": "nick-pope",
+"claimantLabel": "Nick Pope",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Sky HISTORY (history.co.uk)"
+},
 "source": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
 "text": "The British UFO programme 'lacked its own formal, catchy name, unlike its equivalent in the United States, Project Blue Book ... because the UK government wanted to play down the true extent of its own interest in investigating UFO sightings'.",
 "tier": 2
 },
 {
 "id": "c-5f1c2a62da",
+"meta": {
+"artefactDate": "2026-02",
+"claimant": "nick-pope",
+"claimantLabel": "Nick Pope",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Sky HISTORY"
+},
 "source": "Nick Pope, social media statement, February 2026, quoted by Sky HISTORY, 2 May 2026",
 "text": "February 2026 statement: 'A while ago, following some digestive issues, I was diagnosed with oesophageal cancer. Unfortunately, it's Stage 4 and has metastasized to my liver' - adding a reference to 'the secrets I've been privy to'.",
 "tier": 2
 },
 {
 "id": "c-cb827446c0",
+"meta": {
+"artefactDate": "2026-05-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-04-06",
+"route": "press",
+"speaker": "Elizabeth Weiss",
+"via": "Sky HISTORY (history.co.uk)"
+},
 "source": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
 "text": "Elizabeth Weiss announced on 6 April 2026: 'My heart is breaking. Nick passed away this afternoon at our home.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-04-18",
+"eventDate": null,
+"id": "c-d270c0fb5a",
+"node": "jaric",
+"nodeLabel": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 34, 18 April 2025, 1:25:17 and 1:26:06",
+"url": null
+},
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 34, 18 April 2025, at 1:25:17, Nick Pope said of the Calvine photographs: 'we had access to Jarrick, which was the joint air reconnaissance and intelligence center ... They looked at all this and they said, yeah, it's real. It's whatever it is. It's 75 feet across. It's a solid, structured craft, but we have no idea what it is.' At 1:26:06 he called it 'an official intelligence community analysis'. No JARIC assessment of these photographs has been opened, and the Ministry of Defence file covering the period is closed until 2076.",
+"tier": 2,
+"topic": "uk",
+"via": "AREA52 - DEBRIEFED with Chris Ramsay"
+},
+{
+"artefactDate": "2026-02",
+"eventDate": null,
+"id": "c-5f1c2a62da",
+"node": "nick-pope",
+"nodeLabel": "Nick Pope",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Nick Pope, social media statement, February 2026, quoted by Sky HISTORY, 2 May 2026",
+"url": null
+},
+"text": "February 2026 statement: 'A while ago, following some digestive issues, I was diagnosed with oesophageal cancer. Unfortunately, it's Stage 4 and has metastasized to my liver' - adding a reference to 'the secrets I've been privy to'.",
+"tier": 2,
+"topic": "uk",
+"via": "Sky HISTORY"
+},
+{
+"artefactDate": "2026-05-02",
+"eventDate": null,
+"id": "c-13e82ce123",
+"node": "nick-pope",
+"nodeLabel": "Nick Pope",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"url": null
+},
+"text": "The British UFO programme 'lacked its own formal, catchy name, unlike its equivalent in the United States, Project Blue Book ... because the UK government wanted to play down the true extent of its own interest in investigating UFO sightings'.",
+"tier": 2,
+"topic": "uk",
+"via": "Sky HISTORY (history.co.uk)"
+},
+{
+"artefactDate": "2026-05-02",
+"eventDate": "2009",
+"id": "c-2615fd633b",
+"node": "uk-mod-ufo-desk",
+"nodeLabel": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"url": null
+},
+"text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
+"tier": 2,
+"topic": "uk",
+"via": "Sky HISTORY (history.co.uk)"
+},
+{
+"artefactDate": "2026-05-02",
+"eventDate": "2009-12-01",
+"id": "c-2db779360c",
+"node": "ev-uk-ufo-desk-closure",
+"nodeLabel": "Closure of the MoD UFO Desk, 1 December 2009",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"url": null
+},
+"text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
+"tier": 2,
+"topic": "uk",
+"via": "Sky HISTORY (history.co.uk)"
+},
+{
+"artefactDate": "2026-05-02",
+"eventDate": "1991",
+"id": "c-4222dcfdf1",
+"node": "nick-pope",
+"nodeLabel": "Nick Pope",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sky HISTORY (history.co.uk), 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"url": null
+},
+"text": "Pope joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying at the UFO desk for three years, 'scrutinising UFO reports to identify potential defence risks to the UK'.",
+"tier": 2,
+"topic": "uk",
+"via": "Sky HISTORY (history.co.uk)"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-9588439b85",
+"node": "cosford-incident-1993",
+"nodeLabel": "Cosford incident, 30-31 March 1993",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "AREA52 - DEBRIEFED, batch 14 file 03, 0:50:36-1:00:04, per research/leads/area52-corpus-14.md",
+"url": null
+},
+"text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), archival interview footage of an investigator addressed on camera as 'Nick', identified in the lead map as Nick Pope, describes interviewing an unnamed RAF airman witness to the Cosford events. No opened record names him in connection with the case.",
+"tier": 2,
+"topic": "uk",
+"via": "AREA52 - DEBRIEFED"
 }
 ],
 "cls": "person",

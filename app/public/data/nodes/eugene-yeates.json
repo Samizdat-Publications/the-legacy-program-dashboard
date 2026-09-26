@@ -37,6 +37,15 @@
 "claims": [
 {
 "id": "c-0042691a25",
+"meta": {
+"artefactDate": null,
+"claimant": "nsa",
+"claimantLabel": "National Security Agency",
+"eventDate": "1980",
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "NSA UFO FOIA collection, litigation records and the Yeates Affidavit",
 "text": "In 1980 NSA was a defendant in Civil Action No. 80-1562, 'Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency'; the presiding judge was given in camera access to a Top Secret explanation of why the UFO records were being withheld and ruled for NSA.",
 "tier": 1

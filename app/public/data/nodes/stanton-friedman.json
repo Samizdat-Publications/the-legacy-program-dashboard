@@ -57,12 +57,30 @@
 "claims": [
 {
 "id": "c-b2e2382bc8",
+"meta": {
+"artefactDate": "1997-12",
+"claimant": "stanton-friedman",
+"claimantLabel": "Stanton T. Friedman",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
 "text": "THE CREDENTIAL CASE AGAINST LAZAR WAS MADE BY A UFO PROPONENT, NOT A DEBUNKER, AND THAT IS THE PART THE LITERATURE LOSES. Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, wrote 'The Bob Lazar Fraud' in December 1997, updated January 2011: 'No diplomas, no resumes, no transcripts, no memberships in professional organizations, no papers, no pages from MIT or Caltech yearbooks.' On the schools: 'Pierce said he had taken electronics courses in the late 1970s. The other three schools never heard of him.' On the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman that Lazar had taken at least one of his Pierce classes in the late 1970s.",
 "tier": 2
 },
 {
 "id": "c-8968698b7d",
+"meta": {
+"artefactDate": null,
+"claimant": "stanton-friedman",
+"claimantLabel": "Stanton T. Friedman",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
 "text": "On the two documents most often cited in Lazar's favour, Friedman, who had seen both, records what they actually show. On the W-2: 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' On the Los Alamos directory: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' On element 115: 'It has a very short half life so there is no way to accumulate pounds of it.'",
 "tier": 2
@@ -81,45 +99,263 @@
 },
 {
 "id": "c-c7427098aa",
+"meta": {
+"artefactDate": "1996",
+"claimant": "stanton-friedman",
+"claimantLabel": "Stanton T. Friedman",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Stanton T. Friedman, 'Top Secret/MAJIC' (Marlowe & Co., 1996) https://archive.org/details/topsecretmajic0000frie",
 "text": "Friedman's 'Top Secret/MAJIC' was published by Marlowe & Co. in 1996, ISBN 1569248303, and is available as a full scan. The board's claim about his Hillenkoetter-memo analysis cited this book by title with no locator.",
 "tier": 2
 },
 {
 "id": "c-fa4b901528",
+"meta": {
+"artefactDate": "2019-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2019-05-13",
+"route": "press",
+"speaker": "CBC News",
+"via": null
+},
 "source": "CBC News, 14 May 2019 https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588",
 "text": "CBC News reports that Friedman died suddenly at Toronto Pearson Airport on the Monday night of 13 May 2019, aged 84, while returning from a speaking engagement in Columbus, Ohio, and describes him as 'a nuclear physicist by training' who 'had devoted his life to researching and investigating UFOs since the late 1960s'. The City of Fredericton declared 27 August 2007 Stanton Friedman Day.",
 "tier": 2
 },
 {
 "id": "c-b3e224fc82",
+"meta": {
+"artefactDate": "2019-10-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Joanna Aiton-Kerr (Provincial Archives of New Brunswick), per CBC News",
+"via": "CBC News"
+},
 "source": "CBC News, 13 October 2019 https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664",
 "text": "Friedman began donating his research collection to the Provincial Archives of New Brunswick in the months before his death. Archivist Joanna Aiton-Kerr told CBC the archives had received about 300 boxes -- roughly 60 metres laid end to end -- and expected several more cargo vans. This is where the primary material behind his Roswell and MJ-12 work now sits, and it is not online.",
 "tier": 2
 },
 {
 "id": "c-7b1d823a07",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia biography (sourced to Friedman's own CV and obituaries)",
+"via": null
+},
 "source": "Wikipedia biography, sourced to Friedman's own published CV and obituaries — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW Systems and McDonnell Douglas working on classified nuclear aircraft, fission and fusion rockets and compact space nuclear power.",
 "tier": 2
 },
 {
 "id": "c-80f8ebc369",
+"meta": {
+"artefactDate": null,
+"claimant": "stanton-friedman",
+"claimantLabel": "Stanton T. Friedman",
+"eventDate": "1978-02",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Friedman's own account, repeated in his books and in the standard Roswell literature",
 "text": "Friedman was the first civilian to interview Maj. Jesse Marcel Sr. about the Roswell debris, in February 1978, and the first to document the site.",
 "tier": 2
 },
 {
 "id": "c-fa027c84d8",
+"meta": {
+"artefactDate": "1996",
+"claimant": "stanton-friedman",
+"claimantLabel": "Stanton T. Friedman",
+"eventDate": "1948-02-17",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Friedman, 'Top Secret/Majic' (1996); summarised in Wikipedia biography",
 "text": "Friedman demonstrated that a purported 17 February 1948 Hillenkoetter memo to Truman was an emulation of a Marshall-to-Roosevelt letter published in 'The American MAGIC' - i.e. he proved part of the MJ-12 corpus fraudulent while defending the rest.",
 "tier": 2
 },
 {
 "id": "c-0b511dc817",
+"meta": {
+"artefactDate": null,
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Wikipedia biography of Friedman; Klass-Friedman correspondence",
 "text": "Philip J. Klass offered Friedman $100 per legitimate example of the Pica typeface used in the Cutler-Twining memo; Friedman produced fourteen and was paid $1,000.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1996",
+"eventDate": null,
+"id": "c-c7427098aa",
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"route": "book",
+"source": {
+"domain": "archive.org",
+"text": "Stanton T. Friedman, 'Top Secret/MAJIC' (Marlowe & Co., 1996) https://archive.org/details/topsecretmajic0000frie",
+"url": "https://archive.org/details/topsecretmajic0000frie"
+},
+"text": "Friedman's 'Top Secret/MAJIC' was published by Marlowe & Co. in 1996, ISBN 1569248303, and is available as a full scan. The board's claim about his Hillenkoetter-memo analysis cited this book by title with no locator.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "1996",
+"eventDate": "1948-02-17",
+"id": "c-fa027c84d8",
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Friedman, 'Top Secret/Majic' (1996); summarised in Wikipedia biography",
+"url": null
+},
+"text": "Friedman demonstrated that a purported 17 February 1948 Hillenkoetter memo to Truman was an emulation of a Marshall-to-Roosevelt letter published in 'The American MAGIC' - i.e. he proved part of the MJ-12 corpus fraudulent while defending the rest.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "1997-12",
+"eventDate": null,
+"id": "c-b2e2382bc8",
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"route": "press",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+},
+"text": "THE CREDENTIAL CASE AGAINST LAZAR WAS MADE BY A UFO PROPONENT, NOT A DEBUNKER, AND THAT IS THE PART THE LITERATURE LOSES. Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, wrote 'The Bob Lazar Fraud' in December 1997, updated January 2011: 'No diplomas, no resumes, no transcripts, no memberships in professional organizations, no papers, no pages from MIT or Caltech yearbooks.' On the schools: 'Pierce said he had taken electronics courses in the late 1970s. The other three schools never heard of him.' On the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman that Lazar had taken at least one of his Pierce classes in the late 1970s.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1978-02",
+"id": "c-80f8ebc369",
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Friedman's own account, repeated in his books and in the standard Roswell literature",
+"url": null
+},
+"text": "Friedman was the first civilian to interview Maj. Jesse Marcel Sr. about the Roswell debris, in February 1978, and the first to document the site.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-8968698b7d",
+"node": "stanton-friedman",
+"nodeLabel": "Stanton T. Friedman",
+"route": "press",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+},
+"text": "On the two documents most often cited in Lazar's favour, Friedman, who had seen both, records what they actually show. On the W-2: 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' On the Los Alamos directory: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' On element 115: 'It has a very short half life so there is no way to accumulate pounds of it.'",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2025-01-17",
+"eventDate": "1986-04",
+"id": "c-4812325519",
+"node": "donald-h-menzel",
+"nodeLabel": "Donald H. Menzel",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58",
+"url": null
+},
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:58, Ramsay read that 'in april 1986 stanton friedman was allowed access to menzel's papers at the harvard university archives he learned that menzel had a 30 year association with the nsa the national security agency and that he also had top secret ultra clearance with the cia'. The Harvard University Archives were not reached from this environment and no record supporting or refuting the finding was opened.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": "AREA52 - DEBRIEFED with Chris Ramsay"
+},
+{
+"artefactDate": "1997-12",
+"eventDate": null,
+"id": "c-29b63f4052",
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+},
+"text": "Stanton T. Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records what the page says about its own scope: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The listing is real and it is not a laboratory staff listing. This qualification is routinely dropped when the directory is cited.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-dcf87b6931",
+"node": "kirk-mayer",
+"nodeLabel": "Kirk-Mayer, Inc.",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+},
+"text": "The directory page bearing Lazar's name states its own scope, per Stanton Friedman, who obtained it: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The company name is rendered 'Kirk Meyer' by Friedman and 'Kirk Mayer' or 'Kirk-Mayer' elsewhere; this node uses the kebab-case id kirk-mayer and records the spelling variance.",
+"tier": 2,
+"topic": "named-contractors",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-4c2999c90f",
+"node": "los-alamos-monitor-1982",
+"nodeLabel": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ ; Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , all opened 2026-09-18",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+},
+"text": "THE QUALIFICATION, WHICH TRAVELS WITH THE ARTICLE AND IS ROUTINELY DROPPED. The description is what Lazar told the reporter, not an employment record. Stanton Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records that the page 'clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer'. A Los Alamos colleague interviewed on tape by Mark Farmer on 25 May 1996 said Lazar 'was a contractor' under 'Kirk Mayer' and that he 'claimed to be' a physicist. Tom Mahood's 2018 conclusion is that Lazar worked as an electronic technician for Kirk-Mayer and that the Monitor article misrepresented his position on the basis of what he told the reporter.",
+"tier": 2,
+"topic": "sceptics",
+"via": null
 }
 ],
 "cls": "person",

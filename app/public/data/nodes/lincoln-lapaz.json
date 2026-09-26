@@ -34,12 +34,30 @@
 "claims": [
 {
 "id": "c-c82978bf6c",
+"meta": {
+"artefactDate": "2025-10-25",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1953",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:26:46, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
 "text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:26:46 and 0:27:36, Michels said in narration that a military-funded project to search for small natural satellites of the Earth began at White Sands Missile Range in 1953, that LaPaz and Clyde Tombaugh were the two scientists in charge of it, and that LaPaz came to it from Project Twinkle. Neither Tombaugh nor the White Sands satellite search appears anywhere in the board's research files.",
 "tier": 2
 },
 {
 "id": "c-d7b0e21317",
+"meta": {
+"artefactDate": "2025-10-25",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1954-08-23",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:28:29",
 "text": "In the same narration at 0:28:29 Michels said that on 23 August 1954 Aviation Week and Space Technology published a statement from LaPaz confirming two unknown objects in low Earth orbit while simultaneously describing them as fully identified natural asteroids captured by the Earth's gravity. The magazine issue was not opened in this pass, so the date and the wording are the speaker's and not the record's; the issue is named here so a later pass can pull it.",
 "tier": 2
@@ -52,12 +70,30 @@
 },
 {
 "id": "c-d2b5374f7f",
+"meta": {
+"artefactDate": "2024-11-18",
+"claimant": "lanl",
+"claimantLabel": "Los Alamos National Laboratory",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Los Alamos National Laboratory, 18 November 2024",
 "text": "LANL states that its National Security Research Center does not appear to hold materials on Project Twinkle, although not all of the millions of items in its collections are searchable.",
 "tier": 1
 },
 {
 "id": "c-7089c04f1d",
+"meta": {
+"artefactDate": null,
+"claimant": "edward-ruppelt",
+"claimantLabel": "Edward J. Ruppelt",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Edward J. Ruppelt, The Report on Unidentified Flying Objects, chapter on green fireballs and Project Twinkle",
 "text": "Kirtland intelligence officers called in LaPaz because the fireballs resembled meteors, and he concluded they did not behave as meteors would.",
 "tier": 2

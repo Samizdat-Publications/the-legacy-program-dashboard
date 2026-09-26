@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-f32463a9e4",
+"meta": {
+"artefactDate": "2025-04-22",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records / Information Papers listings",
 "text": "AARO published a satellite flaring information paper dated 22 April 2025 with a DVIDS animation, and a 2024 paper on the effect of forced perspective and parallax view on UAP observations.",
 "tier": 1
 },
 {
 "id": "c-e3f9652dfc",
+"meta": {
+"artefactDate": "2026-07-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records page, accessed 12 August 2026",
 "text": "AARO added the Naval Postgraduate School CTX special issue on UAP science and analysis to its resources on 8 July 2026, plus a call for papers for a second volume.",
 "tier": 1
 },
 {
 "id": "c-49d60b36c3",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records page",
 "text": "A 2025 UAP workshop white paper on narrative data, infrastructures and analysis is published on AARO's site.",
 "tier": 1

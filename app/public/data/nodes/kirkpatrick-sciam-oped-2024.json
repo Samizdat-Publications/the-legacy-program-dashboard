@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-a6c2e89db5",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Sean Kirkpatrick, Scientific American, 19 January 2024",
 "text": "Kirkpatrick wrote that the crash-retrieval narrative is 'a textbook example of circular reporting' sourced to the same small group of individuals and traceable to Robert Bigelow and AATIP.",
 "tier": 2
 },
 {
 "id": "c-f8e3176ba6",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Sean Kirkpatrick, Scientific American, 19 January 2024",
 "text": "Kirkpatrick wrote that whistleblowers who prefer to be 'sensationalist in the public eye' rather than bring evidence to AARO are 'suspect'.",
 "tier": 2
@@ -24,12 +42,30 @@
 },
 {
 "id": "c-ec16d68f6c",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Sean Kirkpatrick, Scientific American opinion, 19 January 2024",
 "text": "Argues the allegations derive from inadvertent disclosures of legitimate US programs or from unsupported belief, and describes the milieu as circular reporting among interconnected believers.",
 "tier": 2
 },
 {
 "id": "c-fcd7f330a5",
+"meta": {
+"artefactDate": "2024-01-23",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Peter Bergen"
+},
 "source": "Kirkpatrick interview with Peter Bergen, 23 January 2024",
 "text": "In a follow-on interview, suggested Grusch may have misinterpreted information or fallen under the influence of believers, and called the situation a self-licking ice cream cone.",
 "tier": 2

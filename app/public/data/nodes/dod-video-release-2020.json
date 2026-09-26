@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-0d9e65cbcb",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement, 27 April 2020",
 "text": "Characterises the videos' prior public appearance as the product of 'unauthorized releases in 2007 and 2017'.",
 "tier": 1
 },
 {
 "id": "c-c7312e1e9c",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement, 27 April 2020",
 "text": "States 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
 "tier": 1

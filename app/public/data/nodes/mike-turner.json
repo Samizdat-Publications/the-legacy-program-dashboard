@@ -35,21 +35,67 @@
 },
 {
 "id": "c-c3da3e4042",
+"meta": {
+"artefactDate": "2023-11-27",
+"claimant": "daniel-sheehan",
+"claimantLabel": "Daniel P. Sheehan",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief (Micah Hanks)"
+},
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "Daniel Sheehan states Turner 'first attacked those two elements' — the eminent domain provision and the Review Board's subpoena power — and demanded both be removed.",
 "tier": 2
 },
 {
 "id": "c-af96a57681",
+"meta": {
+"artefactDate": "2023-11-27",
+"claimant": "micah-hanks",
+"claimantLabel": "Micah Hanks",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "Turner and Rep. Mike Rogers are identified as leading the effort to eliminate or significantly alter the UAP Disclosure Act, with support from Sen. Mitch McConnell and Speaker Mike Johnson.",
 "tier": 2
 },
 {
 "id": "c-447a197701",
+"meta": {
+"artefactDate": "2023-07-30",
+"claimant": "mike-turner",
+"claimantLabel": "Michael R. Turner",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Turner, 30 July 2023, quoted in The Debrief",
 "text": "'The most striking aspect of all the testimony was, repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-07-30",
+"eventDate": null,
+"id": "c-447a197701",
+"node": "mike-turner",
+"nodeLabel": "Michael R. Turner",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Turner, 30 July 2023, quoted in The Debrief",
+"url": null
+},
+"text": "'The most striking aspect of all the testimony was, repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
+"tier": 2,
+"topic": "uapda",
+"via": "The Debrief"
 }
 ],
 "cls": "person",

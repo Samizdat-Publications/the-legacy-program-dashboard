@@ -22,12 +22,30 @@
 "claims": [
 {
 "id": "c-b969e75f33",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "newsnation-reality-check",
+"claimantLabel": "Reality Check with Ross Coulthart (NewsNation)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Rob Jones is credited as Research Producer on NewsNation's Reality Check.",
 "tier": 2
 },
 {
 "id": "c-db48926174",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb livestream description, 12 May 2026",
 "text": "Jones surfaced 'details on a new alleged gatekeeper' which UAP Gerb discussed on his 12 May 2026 livestream.",
 "tier": 2

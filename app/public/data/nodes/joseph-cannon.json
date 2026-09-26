@@ -44,6 +44,25 @@
 "tier": 1
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2019-10-17",
+"eventDate": null,
+"id": "c-371eab753d",
+"node": "l-detroit-arsenal",
+"nodeLabel": "Detroit Arsenal, Warren, Michigan",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Dr. Joseph Cannon, quoted in TTSA announcement, 17 October 2019",
+"url": null
+},
+"text": "'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
+"tier": 2,
+"topic": "ttsa",
+"via": "TTSA"
+}
+],
 "cls": "person",
 "cluster": "other",
 "conflicts": [],

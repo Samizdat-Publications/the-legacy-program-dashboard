@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-5c496ac860",
+"meta": {
+"artefactDate": "2023-08-22",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Burchett press release, 22 August 2023; The Hill, 12 March 2024 ('A bipartisan group of lawmakers formed the House UAP Caucus last fall')",
 "text": "Launched by Rep. Tim Burchett on 22 August 2023 together with a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs.",
 "tier": 2
 },
 {
 "id": "c-000ac70875",
+"meta": {
+"artefactDate": null,
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill, 12 January 2024; The Hill, 12 March 2024; The Hill/NewsNation, 29 June 2026",
 "text": "Rep. Andy Ogles is described as 'part of the UAP Caucus but not the Oversight Committee'; Rep. Moskowitz is described as 'a member of the UAP Caucus'; Rep. Burlison is described as 'a member of the caucus' and later as 'a member of the so-called UAP Caucus in Congress.'",
 "tier": 2
 },
 {
 "id": "c-3e08fd9441",
+"meta": {
+"artefactDate": "2024-01-13",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": "2024-01-12",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill, 12-13 January 2024",
 "text": "Members of the Congressional UAP Caucus attended the 12 January 2024 closed briefing with ICIG Thomas Monheim; Burchett said 'at one time, we had 16 congressmen in there.'",
 "tier": 2

@@ -11,24 +11,60 @@
 "claims": [
 {
 "id": "c-36d9e64d81",
+"meta": {
+"artefactDate": "2026-07-07",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2026-05-20",
+"route": "document",
+"speaker": "OSD Historical Office",
+"via": null
+},
 "source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
 "text": "The OSD Historical Office's Key Officials list of 7 July 2026 records Michael Powers as Acting Under Secretary of War (Comptroller)/Chief Financial Officer from 20 May 2026 to present, succeeding Jules W. Hurst III, who performed the duties of the office from 5 September 2025 to 20 May 2026.",
 "tier": 1
 },
 {
 "id": "c-af7a70645d",
+"meta": {
+"artefactDate": "2026-07-07",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2025-12-23",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
 "text": "The same list records Powers as Deputy Under Secretary of Defense (Comptroller) from 23 December 2025 to present, so he holds the deputy office and the acting principal office at once.",
 "tier": 1
 },
 {
 "id": "c-9770dcb809",
+"meta": {
+"artefactDate": "2026-07-07",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2026-05-20",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "comptroller.war.gov leadership page and https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/, both read 22 August 2026, against the Key Officials list of 7 July 2026",
 "text": "Two Department pages disagree on who holds the office. The Department of War comptroller site's leadership page names Jules W. Hurst III as Under Secretary of War (Comptroller)/CFO, while war.gov's own biography of Powers opens 'The Honorable Michael Powers currently serves as the Acting Under Secretary of War (Comptroller) and Chief Financial Officer (CFO).' The Historical Office list dates the handover to 20 May 2026, which makes the comptroller site's leadership page the stale one.",
 "tier": 1
 },
 {
 "id": "c-b95dd664e6",
+"meta": {
+"artefactDate": null,
+"claimant": "michael-powers-comptroller",
+"claimantLabel": "Michael Powers",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://comptroller.war.gov/",
 "text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
 "tier": 1
@@ -38,6 +74,25 @@
 "source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
 "text": "The Department of Defense identified the need for the standard that became SFFAS 56 in August 2016.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b95dd664e6",
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/",
+"url": "https://comptroller.war.gov/"
+},
+"text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
 }
 ],
 "cls": "person",

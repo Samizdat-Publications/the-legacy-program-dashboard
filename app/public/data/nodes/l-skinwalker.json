@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-67f4fe3c36",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
 "text": "'AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
 "tier": 1
 },
 {
 "id": "c-3f7a7dcc16",
+"meta": {
+"artefactDate": "2009",
+"claimant": "baass",
+"claimantLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "BAASS Ten Month Report (2009)",
 "text": "The BAASS Ten Month Report describes the Utah property as operating under 24/7 surveillance with rapid-response patrols as part of the DIA-funded effort.",
 "tier": 2
@@ -36,30 +54,75 @@
 },
 {
 "id": "c-fafed52295",
+"meta": {
+"artefactDate": "1996-06-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2004",
+"route": "press",
+"speaker": "Deseret News; The New Yorker",
+"via": null
+},
 "source": "Deseret News, 30 June 1996 and 10 Aug 1998; The New Yorker, 10 May 2021",
 "text": "Bigelow moved in a research team and surveillance equipment immediately after the purchase and retained the ranch after closing NIDS in 2004.",
 "tier": 2
 },
 {
 "id": "c-31357c5dc3",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996",
+"route": "document",
+"speaker": "Wikipedia, 'Skinwalker Ranch'",
+"via": null
+},
 "source": "Wikipedia, Skinwalker Ranch, citing property and press records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The ranch is approximately 512 acres in Uintah County, Utah; Bigelow purchased it for $200,000 in 1996 and sold it for approximately $500,000 in 2016 to Brandon Fugal, who announced ownership in March 2020 via Adamantium Real Estate LLC.",
 "tier": 2
 },
 {
 "id": "c-e0c130514e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Skinwalker Ranch' (citing Reid's and Lacatski's accounts)",
+"via": null
+},
 "source": "Wikipedia, Skinwalker Ranch, citing Reid's and Lacatski's accounts",
 "text": "DIA official James Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker' and reported an experience at the ranch; Bigelow relayed this to Sen. Harry Reid, and Reid and Sen. Ted Stevens subsequently secured approximately $22 million in Defense appropriations to study unidentified aerial phenomena.",
 "tier": 2
 },
 {
 "id": "c-d85b2e59e5",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
 "text": "BAASS recruited about 50 full-time investigators with top secret clearances, operated for 27 months, generated more than three dozen preliminary reports and over 100 detailed research papers, and built a data warehouse of over 240,000 UFO case files designed by Jacques Vallee that reportedly remains in use by US agencies; most of the research papers remain unreleased by DIA.",
 "tier": 2
 },
 {
 "id": "c-e5b822008a",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Skinwalker Ranch'",
+"via": null
+},
 "source": "Wikipedia, Skinwalker Ranch",
 "text": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents at the ranch but acknowledged difficulty obtaining evidence consistent with scientific publication.",
 "tier": 2

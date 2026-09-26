@@ -137,6 +137,15 @@
 "claims": [
 {
 "id": "c-87563e169e",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "CHRG-119hhrg61718, statement of Rep. Burchett",
 "text": "Stated on the record at the 9 September 2025 hearing that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.'",
 "tier": 2
@@ -149,6 +158,15 @@
 },
 {
 "id": "c-f8dc04ddbb",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022",
 "text": "'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
 "tier": 1
@@ -167,30 +185,75 @@
 },
 {
 "id": "c-a3e09a908a",
+"meta": {
+"artefactDate": "2023-08-22",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": "2023-08",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Burchett press release, 22 Aug 2023, reported by The Hill 12 Jan 2024 and 12 Mar 2024",
 "text": "Founded the bipartisan Congressional UAP Caucus in August 2023 and led a caucus letter to the ICIG about UAP retrieval programs.",
 "tier": 2
 },
 {
 "id": "c-699ae8fa76",
+"meta": {
+"artefactDate": "2024-01-12",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Hill"
+},
 "source": "The Hill, 12 January 2024",
 "text": "'It's very compartmentalized; it's like looking down the barrel of a .22 rifle. All they know is just right in that little circle. Now it's just whack-a-mole.' - after the 12 Jan 2024 ICIG briefing.",
 "tier": 2
 },
 {
 "id": "c-11223cc38b",
+"meta": {
+"artefactDate": "2026-05-16",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "Rep. Burchett, quoted by The Hill/NewsNation, 16 May 2026",
 "text": "'You have to imagine Oak Ridge National Laboratory, the Manhattan Project, thousands of people working on the atomic bomb and less than 12 knew what it was.' - on how DoD silos UAP information from Congress.",
 "tier": 2
 },
 {
 "id": "c-106b928733",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited under oath that Grusch has personal knowledge of people harmed or injured in efforts to conceal the technology, and that Grusch directed people with knowledge of deaths to the appropriate authorities.",
 "tier": 1
 },
 {
 "id": "c-f61c0335d0",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Stated on the record at the hearing that members were denied access to a SCIF, limiting what Grusch could say.",
 "tier": 1
@@ -203,6 +266,15 @@
 },
 {
 "id": "c-7b4d501c44",
+"meta": {
+"artefactDate": "2026-04-14",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Liberation Times"
+},
 "source": "Liberation Times, 14 April 2026",
 "text": "Burchett said he had urged President Trump to release UAP files and had been briefed on 'wild things' Americans need to know.",
 "tier": 2
@@ -221,9 +293,258 @@
 },
 {
 "id": "c-615595731a",
+"meta": {
+"artefactDate": "2026-04-01",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Newsmax (reported by Newsweek)"
+},
 "source": "Burchett to Newsmax, 1 April 2026, as reported by Newsweek 8 April 2026",
 "text": "Burchett said publicly on 1 April 2026 that he had been briefed roughly two weeks earlier on an issue that 'would've set the earth on - this country would've come unglued.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-01-13",
+"eventDate": "2024-01-12",
+"id": "c-90d8ae47ca",
+"node": "alexandria-ocasio-cortez",
+"nodeLabel": "Alexandria Ocasio-Cortez",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Rep. Burchett to NewsNation, reported by The Hill, 13 January 2024",
+"url": null
+},
+"text": "Present at the 12 January 2024 closed-door ICIG UAP briefing along with roughly sixteen members.",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": "NewsNation"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-f61c0335d0",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing transcript, 26 July 2023",
+"url": null
+},
+"text": "Stated on the record at the hearing that members were denied access to a SCIF, limiting what Grusch could say.",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-f8dc04ddbb",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022",
+"url": null
+},
+"text": "'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2023-08-22",
+"eventDate": "2023-08",
+"id": "c-a3e09a908a",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rep. Burchett press release, 22 Aug 2023, reported by The Hill 12 Jan 2024 and 12 Mar 2024",
+"url": null
+},
+"text": "Founded the bipartisan Congressional UAP Caucus in August 2023 and led a caucus letter to the ICIG about UAP retrieval programs.",
+"tier": 2,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-87563e169e",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, statement of Rep. Burchett",
+"url": null
+},
+"text": "Stated on the record at the 9 September 2025 hearing that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.'",
+"tier": 2,
+"topic": "hearing-2023",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2026-04-01",
+"eventDate": null,
+"id": "c-615595731a",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Burchett to Newsmax, 1 April 2026, as reported by Newsweek 8 April 2026",
+"url": null
+},
+"text": "Burchett said publicly on 1 April 2026 that he had been briefed roughly two weeks earlier on an issue that 'would've set the earth on - this country would've come unglued.'",
+"tier": 2,
+"topic": "hearing-2023",
+"via": "Newsmax (reported by Newsweek)"
+},
+{
+"artefactDate": "2026-04-14",
+"eventDate": null,
+"id": "c-7b4d501c44",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Liberation Times, 14 April 2026",
+"url": null
+},
+"text": "Burchett said he had urged President Trump to release UAP files and had been briefed on 'wild things' Americans need to know.",
+"tier": 2,
+"topic": "hearing-2023",
+"via": "Liberation Times"
+},
+{
+"artefactDate": "2026-05-16",
+"eventDate": null,
+"id": "c-11223cc38b",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Rep. Burchett, quoted by The Hill/NewsNation, 16 May 2026",
+"url": null
+},
+"text": "'You have to imagine Oak Ridge National Laboratory, the Manhattan Project, thousands of people working on the atomic bomb and less than 12 knew what it was.' - on how DoD silos UAP information from Congress.",
+"tier": 2,
+"topic": "hearing-2023",
+"via": "The Hill/NewsNation"
+},
+{
+"artefactDate": "2023-08-22",
+"eventDate": null,
+"id": "c-5c496ac860",
+"node": "congressional-uap-caucus",
+"nodeLabel": "Congressional UAP Caucus",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rep. Burchett press release, 22 August 2023; The Hill, 12 March 2024 ('A bipartisan group of lawmakers formed the House UAP Caucus last fall')",
+"url": null
+},
+"text": "Launched by Rep. Tim Burchett on 22 August 2023 together with a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2024-01-13",
+"eventDate": "2024-01-12",
+"id": "c-3e08fd9441",
+"node": "congressional-uap-caucus",
+"nodeLabel": "Congressional UAP Caucus",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12-13 January 2024",
+"url": null
+},
+"text": "Members of the Congressional UAP Caucus attended the 12 January 2024 closed briefing with ICIG Thomas Monheim; Burchett said 'at one time, we had 16 congressmen in there.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-c4dd62401b",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, colloquy between Rep. Burchett and George Knapp",
+"url": null
+},
+"text": "Rep. Tim Burchett stated on the record that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.' Witness George Knapp responded: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-699ae8fa76",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "'It's very compartmentalized; it's like looking down the barrel of a .22 rifle. All they know is just right in that little circle. Now it's just whack-a-mole.' - after the 12 Jan 2024 ICIG briefing.",
+"tier": 2,
+"topic": "whistleblower-channels",
+"via": "The Hill"
+},
+{
+"artefactDate": "2024-01-13",
+"eventDate": null,
+"id": "c-7fd0d83df4",
+"node": "icig-briefing-2024-01-12",
+"nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 13 January 2024",
+"url": null
+},
+"text": "Burchett: 'At one time, we had 16 congressmen in there... And these were people that normally you wouldn't see,' naming Moskowitz, Ocasio-Cortez and Luna; he rated the briefing four out of ten.",
+"tier": 2,
+"topic": "whistleblower-channels",
+"via": "The Hill"
+},
+{
+"artefactDate": "2026-04-06",
+"eventDate": null,
+"id": "c-3ec282cfc2",
+"node": "hr-8197",
+"nodeLabel": "H.R. 8197 (119th Congress) - bill to abolish AARO",
+"route": "press",
+"source": {
+"domain": null,
+"text": "H.R. 8197, 119th Congress; Newsweek 8 April 2026; Political Saucer analysis of the bill text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "H.R. 8197 was introduced by Rep. Tim Burchett on 6 April 2026 and would abolish AARO, bar any successor entity, and redistribute its functions to the military departments; it was referred to HASC and HPSCI.",
+"tier": 2,
+"topic": null,
+"via": "Newsweek"
 }
 ],
 "cls": "person",

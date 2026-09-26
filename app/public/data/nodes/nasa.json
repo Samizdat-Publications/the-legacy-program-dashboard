@@ -53,6 +53,25 @@
 "tier": 1
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2005-12",
+"eventDate": null,
+"id": "c-1c31d7a369",
+"node": "kecksburg-1965",
+"nodeLabel": "Kecksburg incident, 9 December 1965",
+"route": "press",
+"source": {
+"domain": null,
+"text": "NASA statement, December 2005",
+"url": null
+},
+"text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in the 1980s.",
+"tier": 1,
+"topic": "civilian-groups",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "research",
 "conflicts": [],

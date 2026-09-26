@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-bae151092d",
+"meta": {
+"artefactDate": "2025-12-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1961-07-01",
+"route": "document",
+"speaker": "unnamed (Department of the Air Force Organizational Histories compilation, usafunithistory.com)",
+"via": null
+},
 "source": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
 "text": "The lineage is a discontinuation and a new constitution, not a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', and 'On 1 July 1961, the organization was inactivated and the mission and resources absorbed by the Foreign Technology Division (FTD)'. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own pages return HTTP 403 from this environment.",
 "tier": 2

@@ -15,12 +15,30 @@
 },
 {
 "id": "c-c356ded2b2",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2018-07-25",
+"route": "document",
+"speaker": "unnamed (comparison of the KLAS-TV list and the DIA list)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
 "text": "The earlier George Knapp / KLAS-TV list of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman' rather than J W Enterprises. The discrepancy is unresolved; the DIA list is treated as authoritative.",
 "tier": 2
 },
 {
 "id": "c-f5c80eed7d",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (this research's own note, on the DIA list author line)",
+"via": null
+},
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
 "text": "No verified biography, institutional affiliation page or publication record has been located for this author beyond the DIA list entry; the author line on the released DIRD cover page is redacted under (b)(6).",
 "tier": 2

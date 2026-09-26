@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-b540207b85",
+"meta": {
+"artefactDate": "1991",
+"claimant": "bob-lazar",
+"claimantLabel": "Robert \"Bob\" Lazar",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
 "text": "Bob Lazar places his claimed S-4 facility on this range: 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. No government record naming any such facility on the range was opened by this board.",
 "tier": 2
 },
 {
 "id": "c-8f008330b0",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1995",
+"route": "document",
+"speaker": "Wikipedia, Area 51 article",
+"via": null
+},
 "source": "Wikipedia, Area 51, citing the presidential determination — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Until the 1995 presidential determination, the government's position was that Groom Lake was simply another part of the Nellis Air Force Base complex; that determination is described as the only formal recognition otherwise.",
 "tier": 2
 },
 {
 "id": "c-ab5a841b67",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia (Area 51); USAF NTTR descriptions",
+"via": null
+},
 "source": "Wikipedia, Area 51; USAF NTTR descriptions — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Groom Lake, Tonopah Test Range airfield and R-4808N all sit within the Nevada Test and Training Range administered from Nellis AFB.",
 "tier": 2

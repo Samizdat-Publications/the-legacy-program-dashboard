@@ -24,6 +24,15 @@
 },
 {
 "id": "c-708d561bcc",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch (blog compilation)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Author of record per the DIA letter of 9 January 2018, which lists the paper twice: item 37 \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the same title and author unclassified.",
 "tier": 2
@@ -36,12 +45,30 @@
 },
 {
 "id": "c-a22e3d0c3d",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (comparison of DIA list vs released document title)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The DIA list renders the title as \"State of the Art and Evaluation of High Energy Laser Weapons\" while the released document is titled \"State of the Art and Evolution of High-Energy Laser Weapons.\" Evaluation versus Evolution is an unresolved discrepancy between the government list and the government document.",
 "tier": 2
 },
 {
 "id": "c-8349cdd462",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2018-07",
+"route": "document",
+"speaker": "ufos-scientificresearch (blog compilation)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "This document accounts for the long-unexplained 38th entry on the AAWSAP deliverables list, which the earlier KLAS-TV list of July 2018 carried only as \"Redacted.\" It is the sole DIRD known to have had a classified version, making it the only classified deliverable in the set.",
 "tier": 2

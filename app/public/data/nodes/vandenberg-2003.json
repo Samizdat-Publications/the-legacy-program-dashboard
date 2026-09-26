@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-878b3c1af7",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": "2003-10-14",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
 "text": "On 14 October 2003 Boeing contractors reported 'a massive, glowing red square silently hovering over two missile defense sites' at Vandenberg AFB.",
 "tier": 2
 },
 {
 "id": "c-1cf790570c",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": "2005",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Nuccetelli written testimony, 9 September 2025",
 "text": "In 2005 a patrol reported 'a massive triangular craft, larger than a C-130, hovering low over the main base.'",
 "tier": 2
 },
 {
 "id": "c-04a2778f2b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Nuccetelli written testimony, 9 September 2025",
 "text": "'Official Air Force records documenting it are now held by AARO and the FBI'; one witness 'was threatened and told to kept quiet about the incident.'",
 "tier": 2

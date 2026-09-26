@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-4ce6331d37",
+"meta": {
+"artefactDate": "2024-11-19",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "AARO case slides, Senate Armed Services Committee open hearing, 19 November 2024",
 "text": "AARO assessed GO FAST as an object at approximately 13,000 feet travelling around 45 mph with 60-knot winds; it 'did not demonstrate any anomalous speeds or flight characteristics.'",
 "tier": 1
 },
 {
 "id": "c-cfa093ffbd",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": "2015-01",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "text": "The GO FAST video was attached to a January 2015 US Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' that was deleted from recipients' accounts the following day.",
 "tier": 2
 },
 {
 "id": "c-743c3a23a4",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement, 27 April 2020",
 "text": "DoD released the video on 27 April 2020 with the phenomena 'characterized as unidentified.'",
 "tier": 1

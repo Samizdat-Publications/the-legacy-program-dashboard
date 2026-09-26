@@ -48,12 +48,30 @@
 },
 {
 "id": "c-97ad553905",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1958",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, YouTube, 7 August 2026",
 "text": "The 7 August 2026 UAP Gerb investigation alleges MITRE has held a central role since 1958 in a Navy-spearheaded programme to reverse engineer and mature non-human technologies recovered in the late 1940s, and processes all-source data on a very large unidentified submerged object in the Atlantic.",
 "tier": 2
 },
 {
 "id": "c-f5e536f4d3",
+"meta": {
+"artefactDate": "2026-01-13",
+"claimant": "christopher-sharp",
+"claimantLabel": "Christopher Sharp",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Liberation Times"
+},
 "source": "Christopher Sharp, Liberation Times, 13 January 2026",
 "text": "Contractors associated with NAVAIR programs at Patuxent River have included Lockheed Martin and the MITRE Corporation, in the context of reporting that an exotic vehicle has been stored at the base for decades.",
 "tier": 2
@@ -63,6 +81,93 @@
 "source": "Board inference from FFRDC statutory and regulatory structure",
 "text": "The FFRDC form grants privileged long-term access to classified government holdings while barring manufacturing and competition, producing an entity with deep knowledge and no commercial exposure. Reasoning: this is the definitional structure of an FFRDC, not an allegation about MITRE.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-05-27",
+"eventDate": null,
+"id": "c-211ff5c2b0",
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+},
+"text": "MITRE's response: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-2015ddbadf",
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "MITRE operates six FFRDCs: the National Security Engineering Center; the Center for Advanced Aviation System Development; the Center for Enterprise Modernization; the Homeland Security Systems Engineering and Development Institute; the Health FFRDC; and the National Cybersecurity FFRDC.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1958",
+"id": "c-f69a4b8000",
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "MITRE corporate history; UAP Gerb investigation, 7 August 2026, restating the same point",
+"url": null
+},
+"text": "MITRE was founded as the Air Force's systems engineering counterpart modelled on the RAND Corporation.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-05-27",
+"eventDate": null,
+"id": "c-352f6d278b",
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 27 May 2026",
+"url": null
+},
+"text": "MITRE spokesperson: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-c1cd2658cc",
+"node": "ffrdc-mechanism",
+"nodeLabel": "The FFRDC / UARC / GOCO mechanism",
+"route": "document",
+"source": {
+"domain": null,
+"text": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health and cybersecurity, and describes itself as providing long-term strategic partnership and stability to government sponsors.",
+"tier": 2,
+"topic": null,
+"via": null
 }
 ],
 "cls": "institution",

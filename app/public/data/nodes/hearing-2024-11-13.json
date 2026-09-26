@@ -30,12 +30,30 @@
 },
 {
 "id": "c-4aa0c9a736",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "hearing",
+"speaker": "unnamed",
+"via": null
+},
 "source": "CHRG-118hhrg57440, hearing colloquy",
 "text": "On the record at the hearing: 'The report that was just shared with Congress says Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
 "tier": 2
 },
 {
 "id": "c-c2c819731b",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "CHRG-118hhrg57440, opening statement of Rep. Mace",
 "text": "Rep. Mace characterised the subject of the hearing as 'a purportedly secret UAP program whose existence and findings may have been improperly withheld from Congress' and described the entered document as 'the original document from the Pentagon about Immaculate Constellation that Michael Shellenberger delivered to Congress today ... 12 pages about this unacknowledged special access program that your government says does not exist.'",
 "tier": 2
@@ -54,6 +72,15 @@
 },
 {
 "id": "c-522b06a699",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg57440",
 "text": "Elizondo testified that he signed a US Government document in a SCIF, in the presence of a security officer, that permitted him to keep speaking on certain topics but barred him from discussing crash retrieval.",
 "tier": 1
@@ -72,12 +99,30 @@
 },
 {
 "id": "c-31a2ccc536",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "HHRG-118-GO12 hearing transcript, 13 November 2024",
 "text": "Elizondo answered 'Yes' under oath to whether the government has conducted secret UAP crash retrieval programs and to whether they were designed to identify and reverse engineer alien craft.",
 "tier": 2
 },
 {
 "id": "c-1fd0fe2f76",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Written Testimony of Luis Elizondo, House Oversight, 13 November 2024",
 "text": "Elizondo's written testimony states that 'Advanced technologies not made by our Government – or any other government – are monitoring sensitive military installations around the globe' and alleges 'a multi-decade, secretive arms race'.",
 "tier": 2
@@ -120,6 +165,15 @@
 },
 {
 "id": "c-4b9471c6e5",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg57440",
 "text": "Elizondo testified that he signed a US Government document in a SCIF, in the presence of a security officer, that barred him from discussing crash retrieval.",
 "tier": 1
@@ -138,24 +192,60 @@
 },
 {
 "id": "c-f6c82f5a45",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Mace: 'Has the government conducted secret UAP crash retrieval programs? Yes or no?' Elizondo: 'Yes.'",
 "tier": 2
 },
 {
 "id": "c-732b4390f8",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Asked whether he was read into secret UAP crash retrieval programs, Elizondo replied 'We would have to have a conversation in a closed session, ma'am.'",
 "tier": 2
 },
 {
 "id": "c-da142a826a",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Nancy Mace, CHRG-118hhrg57440, 13 November 2024",
 "text": "'There are certain individuals who did not want this hearing to happen because they feared what might be disclosed.'",
 "tier": 2
 },
 {
 "id": "c-ea9e460300",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-gold",
+"claimantLabel": "Michael Gold",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Michael Gold, written testimony, 13 November 2024",
 "text": "Michael Gold testified that Alex Dietrich 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
 "tier": 2

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-01fc0691e3",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": "2004-11-14",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "text": "Princeton tracked the objects on Aegis for roughly two weeks before 14 Nov 2004, observing descents from above 80,000 ft to 20,000 ft.",
 "tier": 1

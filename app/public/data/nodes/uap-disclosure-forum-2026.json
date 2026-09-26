@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-4e7f5b1aa6",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-06-25",
+"route": "press",
+"speaker": "The Hill/NewsNation",
+"via": null
+},
 "source": "The Hill/NewsNation, 29 June 2026",
 "text": "Held 25 June 2026, sponsored by the Disclosure Foundation, billed as a first-of-its-kind gathering of lawmakers, UAP researchers and whistleblowers.",
 "tier": 2
 },
 {
 "id": "c-319008468b",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "1952",
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "The Hill/NewsNation, 29 June 2026",
 "text": "Rep. Burlison announced at the forum that MIT Lincoln Laboratory had agreed to make available a 1952 UFO briefing recording.",
 "tier": 2

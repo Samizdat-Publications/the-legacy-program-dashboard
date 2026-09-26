@@ -12,12 +12,30 @@
 },
 {
 "id": "c-20c625ae80",
+"meta": {
+"artefactDate": "2019-09-10",
+"claimant": "joseph-gradisher",
+"claimantLabel": "Joseph Gradisher",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "U.S. Navy statement, 10 September 2019",
 "text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
 "tier": 1
 },
 {
 "id": "c-51ac5bb1d9",
+"meta": {
+"artefactDate": "2020-10-20",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Vice (reporting on 'The Phenomenon', 2020)"
+},
 "source": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
 "text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
 "tier": 2

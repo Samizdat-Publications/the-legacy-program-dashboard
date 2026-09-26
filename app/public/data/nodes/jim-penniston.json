@@ -27,15 +27,69 @@
 "claims": [
 {
 "id": "c-f136bea9e3",
+"meta": {
+"artefactDate": null,
+"claimant": "jim-penniston",
+"claimantLabel": "James W. Penniston",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "James Penniston, repeated public statements and interviews from the 1990s onward",
 "text": "Penniston states he physically touched the object and that it was warm, smooth and bore raised symbols on its surface.",
 "tier": 2
 },
 {
 "id": "c-5cb4bdfa7b",
+"meta": {
+"artefactDate": "2020-12-26",
+"claimant": "jim-penniston",
+"claimantLabel": "James W. Penniston",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "BBC (40th-anniversary coverage)"
+},
 "source": "Penniston notebook, reproduced by researchers; discussed in BBC 40th-anniversary coverage, 26 Dec 2020",
 "text": "Penniston's contemporaneous notebook records the phrase 'craft of unknown origin.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2020-12-26",
+"eventDate": null,
+"id": "c-5cb4bdfa7b",
+"node": "jim-penniston",
+"nodeLabel": "James W. Penniston",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Penniston notebook, reproduced by researchers; discussed in BBC 40th-anniversary coverage, 26 Dec 2020",
+"url": null
+},
+"text": "Penniston's contemporaneous notebook records the phrase 'craft of unknown origin.'",
+"tier": 2,
+"topic": "rendlesham-1980",
+"via": "BBC (40th-anniversary coverage)"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-f136bea9e3",
+"node": "jim-penniston",
+"nodeLabel": "James W. Penniston",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "James Penniston, repeated public statements and interviews from the 1990s onward",
+"url": null
+},
+"text": "Penniston states he physically touched the object and that it was warm, smooth and bore raised symbols on its surface.",
+"tier": 2,
+"topic": "rendlesham-1980",
+"via": null
 }
 ],
 "cls": "person",

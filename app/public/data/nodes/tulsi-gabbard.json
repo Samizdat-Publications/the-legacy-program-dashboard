@@ -24,21 +24,84 @@
 "claims": [
 {
 "id": "c-87b5645496",
+"meta": {
+"artefactDate": "2026-05-09",
+"claimant": "tulsi-gabbard",
+"claimantLabel": "Tulsi Gabbard",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Aerotime"
+},
 "source": "Aerotime, 9 May 2026",
 "text": "Gabbard characterised the first PURSUE release as an 'ongoing joint effort' coordinated between intelligence and defence agencies.",
 "tier": 2
 },
 {
 "id": "c-a44f92868b",
+"meta": {
+"artefactDate": null,
+"claimant": "odni",
+"claimantLabel": "Office of the Director of National Intelligence",
+"eventDate": "2025",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Disclosure Archives inventory of the war.gov Release 02 posting",
 "text": "PURSUE Release 02 includes ODNI-UAP-D001, a first-person account by a serving senior intelligence officer of a one-hour multi-witness UAP encounter from a military helicopter in late 2025.",
 "tier": 2
 },
 {
 "id": "c-2af2487930",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 25 February 2026",
 "text": "Hegseth stated the Department would work closely with ODNI to implement the release effort.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-05-09",
+"eventDate": null,
+"id": "c-0b2bb75f46",
+"node": "odni-uap-d001",
+"nodeLabel": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Aerotime, 9 May 2026",
+"url": null
+},
+"text": "Gabbard characterised PURSUE as an ongoing joint effort coordinated between intelligence and defence agencies.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "Aerotime"
+},
+{
+"artefactDate": "2026-05-09",
+"eventDate": null,
+"id": "c-87b5645496",
+"node": "tulsi-gabbard",
+"nodeLabel": "Tulsi Gabbard",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Aerotime, 9 May 2026",
+"url": null
+},
+"text": "Gabbard characterised the first PURSUE release as an 'ongoing joint effort' coordinated between intelligence and defence agencies.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "Aerotime"
 }
 ],
 "cls": "person",

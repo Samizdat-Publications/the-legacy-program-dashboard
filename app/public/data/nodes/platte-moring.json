@@ -23,9 +23,37 @@
 },
 {
 "id": "c-c0401a7df1",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "platte-moring",
+"claimantLabel": "Platte B. Moring III",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "text": "His office published DOWIG-2026-081 on 12 May 2026, recording an eighth consecutive disclaimer of opinion and 26 material weaknesses.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-05-12",
+"eventDate": null,
+"id": "c-c0401a7df1",
+"node": "platte-moring",
+"nodeLabel": "Platte B. Moring III",
+"route": "document",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+"text": "His office published DOWIG-2026-081 on 12 May 2026, recording an eighth consecutive disclaimer of opinion and 26 material weaknesses.",
+"tier": 1,
+"topic": "whistleblower-channels",
+"via": null
 }
 ],
 "cls": "person",

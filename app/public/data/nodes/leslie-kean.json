@@ -107,18 +107,45 @@
 },
 {
 "id": "c-8caa990ac8",
+"meta": {
+"artefactDate": "2023-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (contemporaneous reporting)",
+"via": null
+},
 "source": "Contemporaneous reporting on the article's provenance, June 2023",
 "text": "The story was offered to and declined by major national outlets before The Debrief published it.",
 "tier": 2
 },
 {
 "id": "c-794679f1f7",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": "leslie-kean",
+"claimantLabel": "Leslie Kean",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Wikipedia, 'Leslie Kean'; New York Times, 16 December 2017 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Kean co-authored the 16 December 2017 New York Times article revealing the $22.5M AATIP programme.",
 "tier": 2
 },
 {
 "id": "c-dd521ec6b3",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "leslie-kean",
+"claimantLabel": "Leslie Kean",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Wikipedia, 'Leslie Kean'; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "On 5 June 2023 Kean and Blumenthal reported David Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
 "tier": 2
@@ -152,6 +179,76 @@
 "source": "Docket entries 55, 56 and the minute orders of 17 October 2007 and 24 August 2009",
 "text": "On 17 October 2007 Judge Sullivan entered a Stipulation of Settlement in Part and ordered joint status reports every sixty days; the case was dismissed 24 August 2009 on the parties' representation that NASA had met its obligations.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2017-12-16",
+"eventDate": "2017-10-04",
+"id": "c-fafdfa9627",
+"node": "elizondo-resignation-letter-2",
+"nodeLabel": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Helene Cooper, Ralph Blumenthal, Leslie Kean, New York Times, 16 December 2017",
+"url": null
+},
+"text": "Reported by the New York Times as addressed to Defense Secretary Jim Mattis and as asking 'Why aren't we spending more time and effort on this issue?'",
+"tier": 2,
+"topic": "aatip-elizondo",
+"via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": "2026-01-15",
+"id": "c-d81a9b25b8",
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"url": null
+},
+"text": "The closed-door session took place on 15 January 2026 in Rep. Tim Burchett's office with Burchett, Anna Paulina Luna and Eric Burlison present; Jared Moskowitz and André Carson were invited but unable to attend.",
+"tier": 2,
+"topic": "brazil",
+"via": null
+},
+{
+"artefactDate": "2017-12-16",
+"eventDate": null,
+"id": "c-794679f1f7",
+"node": "leslie-kean",
+"nodeLabel": "Leslie Kean",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Wikipedia, 'Leslie Kean'; New York Times, 16 December 2017 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "Kean co-authored the 16 December 2017 New York Times article revealing the $22.5M AATIP programme.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": null
+},
+{
+"artefactDate": "2023-06-05",
+"eventDate": null,
+"id": "c-dd521ec6b3",
+"node": "leslie-kean",
+"nodeLabel": "Leslie Kean",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Wikipedia, 'Leslie Kean'; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "On 5 June 2023 Kean and Blumenthal reported David Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": null
 }
 ],
 "cls": "person",

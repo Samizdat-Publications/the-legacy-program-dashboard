@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-91cccc6a5a",
+"meta": {
+"artefactDate": null,
+"claimant": "nids",
+"claimantLabel": "National Institute for Discovery Science (NIDS)",
+"eventDate": "1995",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "National Institute for Discovery Science public record and publications, 1995-2004 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "NIDS was founded by Robert Bigelow in 1995 and operated until 2004 as a privately funded research institute investigating aerial phenomena, animal mutilations and the Utah ranch.",
 "tier": 2
 },
 {
 "id": "c-03670f4d31",
+"meta": {
+"artefactDate": "2023-05-25",
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Debrief, 25 May 2023",
 "text": "Colm Kelleher led the NIDS science team at Skinwalker Ranch from 1996 to 2004 and carried that team structure into BAASS in 2008.",
 "tier": 2
@@ -24,21 +42,84 @@
 },
 {
 "id": "c-2603a6a718",
+"meta": {
+"artefactDate": "2021-05-10",
+"claimant": "nids",
+"claimantLabel": "National Institute for Discovery Science (NIDS)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The New Yorker"
+},
 "source": "The New Yorker, 10 May 2021, quoting NIDS' own description — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena'; among the consultants Bigelow hired was Hal Puthoff.",
 "tier": 2
 },
 {
 "id": "c-f0a924457e",
+"meta": {
+"artefactDate": "1998-08-10",
+"claimant": "robert-bigelow",
+"claimantLabel": "Robert T. Bigelow",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Deseret News"
+},
 "source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
 "tier": 2
 },
 {
 "id": "c-01d5a13970",
+"meta": {
+"artefactDate": "2021-05-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The New Yorker",
+"via": null
+},
 "source": "The New Yorker, 10 May 2021",
 "text": "Bigelow shut NIDS down in 2004 but retained Skinwalker Ranch; in 2007 a senior DIA official wrote to him about the ranch, and the AAWSAP contract followed.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2021-05-10",
+"eventDate": null,
+"id": "c-2603a6a718",
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The New Yorker, 10 May 2021, quoting NIDS' own description — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena'; among the consultants Bigelow hired was Hal Puthoff.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": "The New Yorker"
+},
+{
+"artefactDate": null,
+"eventDate": "1995",
+"id": "c-91cccc6a5a",
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "National Institute for Discovery Science public record and publications, 1995-2004 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "NIDS was founded by Robert Bigelow in 1995 and operated until 2004 as a privately funded research institute investigating aerial phenomena, animal mutilations and the Utah ranch.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
 }
 ],
 "cls": "program",

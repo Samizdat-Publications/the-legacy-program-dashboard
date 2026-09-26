@@ -87,6 +87,15 @@
 },
 {
 "id": "c-7a0cf3dbb9",
+"meta": {
+"artefactDate": "1950-11-21",
+"claimant": "wilbert-smith",
+"claimantLabel": "Wilbert Brockhouse Smith",
+"eventDate": "1950",
+"route": "document",
+"speaker": null,
+"via": "Wikipedia, 'Wilbert Brockhouse Smith'"
+},
 "source": "Wikipedia, 'Wilbert Brockhouse Smith', citing the Smith-Sarbacher interview record",
 "text": "'At the 1950 NARBA conference, Smith learned from US scientist Dr. Robert Sarbacher that Americans believed flying saucers were real and their investigations of them, led by Dr. Vannevar Bush, were more highly classified than information about the hydrogen bomb. After his return to Canada, Smith wrote a memo dated November 21, 1950 which became classified Top Secret until being downgraded to Confidential in 1969.'",
 "tier": 2
@@ -99,9 +108,37 @@
 },
 {
 "id": "c-a9c5cf8cec",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('Wilbert Brockhouse Smith')",
+"via": null
+},
 "source": "Wikipedia, 'Wilbert Brockhouse Smith', citing University of Ottawa Archives and Special Collections",
 "text": "Smith's other papers were acquired by retired Canadian military pilot Arthur Bray and later donated to the University of Ottawa (Arthur Bray fonds).",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1950-11-21",
+"eventDate": "1950",
+"id": "c-7a0cf3dbb9",
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Wikipedia, 'Wilbert Brockhouse Smith', citing the Smith-Sarbacher interview record",
+"url": null
+},
+"text": "'At the 1950 NARBA conference, Smith learned from US scientist Dr. Robert Sarbacher that Americans believed flying saucers were real and their investigations of them, led by Dr. Vannevar Bush, were more highly classified than information about the hydrogen bomb. After his return to Canada, Smith wrote a memo dated November 21, 1950 which became classified Top Secret until being downgraded to Confidential in 1969.'",
+"tier": 2,
+"topic": "canada",
+"via": "Wikipedia, 'Wilbert Brockhouse Smith'"
 }
 ],
 "cls": "person",

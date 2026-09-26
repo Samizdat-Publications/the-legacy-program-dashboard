@@ -30,9 +30,88 @@
 },
 {
 "id": "c-a754cfed2c",
+"meta": {
+"artefactDate": "2019",
+"claimant": "keith-kloor",
+"claimantLabel": "Keith Kloor",
+"eventDate": "2016",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Keith Kloor, Issues in Science and Technology, Spring 2019",
 "text": "Reported Elizondo's 2016 evaluation rated him 'exemplary', with his supervisor writing it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security', and that Elizondo described his AATIP role as 'making sure the Russians, the Chinese, our foreign adversaries, weren't penetrating' the program.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2019",
+"eventDate": "2016",
+"id": "c-e8fdd26e9b",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Keith Kloor, 'UFOs Won't Go Away', Issues in Science and Technology, Spring 2019",
+"url": null
+},
+"text": "His 2016 annual performance evaluation rated him 'exemplary'; his supervisor wrote that it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security,' and credited him with identifying and neutralising six insider threats.",
+"tier": 2,
+"topic": "aatip-elizondo",
+"via": null
+},
+{
+"artefactDate": "2019-06-01",
+"eventDate": null,
+"id": "c-ac0748405a",
+"node": "unidentified-history-series",
+"nodeLabel": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Keith Kloor, The Intercept, 1 June 2019 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The series prompted the Pentagon statement of 1 June 2019 that Elizondo had no AATIP responsibilities.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
+},
+{
+"artefactDate": "2019-06-01",
+"eventDate": "2019-05-31",
+"id": "c-fac04b78ba",
+"node": "unidentified-history-series",
+"nodeLabel": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Keith Kloor, The Intercept, 1 June 2019; Wikipedia, Unidentified: Inside America's UFO Investigation",
+"url": null
+},
+"text": "Premiered 31 May 2019 on History, executive produced by Tom DeLonge, portraying Elizondo as having led AATIP for eight years.",
+"tier": 2,
+"topic": "documentaries",
+"via": null
+},
+{
+"artefactDate": "2019",
+"eventDate": "2016",
+"id": "c-a754cfed2c",
+"node": "keith-kloor",
+"nodeLabel": "Keith Kloor",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Keith Kloor, Issues in Science and Technology, Spring 2019",
+"url": null
+},
+"text": "Reported Elizondo's 2016 evaluation rated him 'exemplary', with his supervisor writing it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security', and that Elizondo described his AATIP role as 'making sure the Russians, the Chinese, our foreign adversaries, weren't penetrating' the program.",
+"tier": 2,
+"topic": "sceptics",
+"via": null
 }
 ],
 "cls": "person",

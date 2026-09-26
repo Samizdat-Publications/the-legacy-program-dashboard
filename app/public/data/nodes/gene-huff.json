@@ -15,12 +15,30 @@
 },
 {
 "id": "c-c4eb6ed1f4",
+"meta": {
+"artefactDate": "1995-03-12",
+"claimant": "gene-huff",
+"claimantLabel": "Gene Huff",
+"eventDate": "1989",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
 "text": "HIS FIRST-HAND CLAIM IS ABOUT LIGHTS, NOT ABOUT A FACILITY. He places three desert viewings on 22 March, 29 March and 5 April 1989, the last of which ended when guards discovered the group and the Lincoln County Sheriff detained them. He makes no claim to have entered or seen any installation.",
 "tier": 2
 },
 {
 "id": "c-042e7b8443",
+"meta": {
+"artefactDate": "1995-03-12",
+"claimant": "gene-huff",
+"claimantLabel": "Gene Huff",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
 "text": "The $958.11 figure that circulates as the amount on Lazar's W-2 originates with him, as a recollection rather than a document: 'The check was for $958.11', and he states that he later verified 'Bob's W-2 reflected the money actually received'. The form itself was not opened by this session.",
 "tier": 2
@@ -30,6 +48,110 @@
 "source": "The Lazar tape and excerpts from the Government Bible, Internet Archive item, creator Gene Huff and Bob Lazar, publisher Tri-Dot Productions, 1991, https://archive.org/details/antigravity , opened 2026-09-18",
 "text": "He wrote and co-produced the 1991 videotape The Lazar Tape and Excerpts from the Government Bible for Tri-Dot Productions, credited alongside Bob Lazar. This makes him the publisher of the primary artefact of the entire cluster.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1995-03-12",
+"eventDate": "1982-05-18",
+"id": "c-3fd09f3aab",
+"node": "kirk-mayer",
+"nodeLabel": "Kirk-Mayer, Inc.",
+"route": "document",
+"source": {
+"domain": "www.dreamlandresort.com",
+"text": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm"
+},
+"text": "Gene Huff, writing in Lazar's defence rather than against him, records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both Los Alamos National Laboratory and Kirk-Mayer subsequently said they held no employment records for him.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "1995-03-12",
+"eventDate": null,
+"id": "c-042e7b8443",
+"node": "gene-huff",
+"nodeLabel": "Gene Huff",
+"route": "document",
+"source": {
+"domain": "www.dreamlandresort.com",
+"text": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm"
+},
+"text": "The $958.11 figure that circulates as the amount on Lazar's W-2 originates with him, as a recollection rather than a document: 'The check was for $958.11', and he states that he later verified 'Bob's W-2 reflected the money actually received'. The form itself was not opened by this session.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "1995-03-12",
+"eventDate": "1989",
+"id": "c-c4eb6ed1f4",
+"node": "gene-huff",
+"nodeLabel": "Gene Huff",
+"route": "document",
+"source": {
+"domain": "www.dreamlandresort.com",
+"text": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm"
+},
+"text": "HIS FIRST-HAND CLAIM IS ABOUT LIGHTS, NOT ABOUT A FACILITY. He places three desert viewings on 22 March, 29 March and 5 April 1989, the last of which ended when guards discovered the group and the Lincoln County Sheriff detained them. He makes no claim to have entered or seen any installation.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "1995-03-12",
+"eventDate": "1982-05-18",
+"id": "c-f8c7d4e85c",
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"route": "document",
+"source": {
+"domain": "www.dreamlandresort.com",
+"text": "Gene Huff, synopsis posted to alt.conspiracy.area51, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
+"url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm"
+},
+"text": "Gene Huff records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both the laboratory and Kirk-Mayer later said they held no employment records for him.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "1995-05-15",
+"eventDate": null,
+"id": "c-339b6401fd",
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"route": "document",
+"source": {
+"domain": "www.dreamlandresort.com",
+"text": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+},
+"text": "Gene Huff's response the following day, 15 May 1995, is that the probation officer misunderstood: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, not a degree, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'. The board carries this rebuttal beside the report and does not adopt it.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "1995-05-15",
+"eventDate": null,
+"id": "c-a1f38682fb",
+"node": "lazar-clark-county-1990",
+"nodeLabel": "Clark County, Nevada felony pandering file, 1990 and 1996",
+"route": "document",
+"source": {
+"domain": "www.dreamlandresort.com",
+"text": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+},
+"text": "The rebuttal, carried and not adopted. Gene Huff, replying on 15 May 1995 to Tom Mahood's post quoting the report, says the Pacifica entry is the probation officer's misinterpretation: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
 }
 ],
 "cls": "person",

@@ -18,6 +18,15 @@
 },
 {
 "id": "c-6696878fb1",
+"meta": {
+"artefactDate": "2026-02",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Contemporary reporting of the February 2026 presidential directive",
 "text": "In February 2026 the President directed the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters.",
 "tier": 2
@@ -27,6 +36,25 @@
 "source": "Inference from the distinct legal bases of EO 13526 and the Atomic Energy Act",
 "text": "Presidential declassification authority under Executive Order 13526 does not reach Restricted Data created under the Atomic Energy Act, so a 2026 UAP declassification directive cannot compel release of any material held under DOE nuclear classification authority. Reasoning: the two systems have separate statutory and executive foundations.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1962-12-07",
+"eventDate": null,
+"id": "c-c2dbcb6933",
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"route": "document",
+"source": {
+"domain": "www.presidency.ucsb.edu",
+"text": "'Remarks at the High School Football Stadium, Los Alamos, New Mexico', 7 December 1962, Public Papers of the Presidents, https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico",
+"url": "https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico"
+},
+"text": "The December 1962 visit is real, whatever caused it. Kennedy spoke at Los Alamos on 7 December 1962 with the Vice President present, opening 'Dr. Bradbury, Mr. Vice President, Senator Anderson, Congressman Montoya, Congressman Morris'.",
+"tier": 1,
+"topic": "atomic-secrecy",
+"via": null
 }
 ],
 "cls": "institution",

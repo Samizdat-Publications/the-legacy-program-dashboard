@@ -24,6 +24,15 @@
 },
 {
 "id": "c-6b457b0446",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch (blog compilation)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Author of record per the DIA letter of 9 January 2018, item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This attribution corrects the common assumption that the paper was written by one of the academic gravity-modification claimants whose work it reviews.",
 "tier": 2
@@ -36,6 +45,15 @@
 },
 {
 "id": "c-ca79a374f0",
+"meta": {
+"artefactDate": null,
+"claimant": "george-hathaway",
+"claimantLabel": "George D. Hathaway",
+"eventDate": "1996",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.altpropulsion.com/gravity-control-experiments/",
 "text": "The paper reviews the rotating-superconductor gravity-modification claims associated with Evgeny Podkletnov and the work of Ning Li. Hathaway had personally run a Podkletnov replication between 1996 and 2003 and obtained null results, so DIA commissioned the review from a researcher with a documented record of failing to reproduce the effect.",
 "tier": 2

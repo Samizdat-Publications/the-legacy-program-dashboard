@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-c37b3d5597",
+"meta": {
+"artefactDate": "2024-11-18",
+"claimant": "lanl",
+"claimantLabel": "Los Alamos National Laboratory",
+"eventDate": "1949-02-16",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
 "text": "LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes.",
 "tier": 1
 },
 {
 "id": "c-5fa415560f",
+"meta": {
+"artefactDate": "2024-11-18",
+"claimant": "lanl",
+"claimantLabel": "Los Alamos National Laboratory",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Los Alamos National Laboratory, 18 November 2024",
 "text": "LANL states that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena, and that the NSRC does not appear to hold materials on Project Twinkle.",
 "tier": 1
@@ -24,12 +42,30 @@
 },
 {
 "id": "c-a464673463",
+"meta": {
+"artefactDate": "2026-07-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1949",
+"route": "press",
+"speaker": "unnamed (Newsweek; KLAS/Mystery Wire reporting)",
+"via": "Newsweek; KLAS/Mystery Wire"
+},
 "source": "Newsweek, 10 July 2026; KLAS/Mystery Wire, 13 July 2026",
 "text": "Newly declassified records detailing the 1949 Los Alamos green fireballs conference were released and reported in July 2026.",
 "tier": 2
 },
 {
 "id": "c-3e5d5491b6",
+"meta": {
+"artefactDate": "2026-04-25",
+"claimant": "jeremy-corbell",
+"claimantLabel": "Jeremy Kenyon Lockyer Corbell",
+"eventDate": "1991",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "New York Post, 25 April 2026; NDTV, 26 April 2026; NewsNation reporting, 24 April 2026",
 "text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos National Laboratory cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory; these form the basis of the documentary 'Sleeping Dog'.",
 "tier": 2
@@ -39,6 +75,76 @@
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , both opened 2026-09-18",
 "text": "Bob Lazar's connection to the laboratory must be stated as 'named in a directory', never as 'employed by'. He appears in a 1982 Los Alamos telephone directory whose own text states that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and the laboratory later said it held no records for him. The Los Alamos Monitor of 27 June 1982 described him in the newspaper's own voice as 'a physicist at the Los Alamos Meson Physics Facility', which is what he told the reporter.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-11-18",
+"eventDate": null,
+"id": "c-5fa415560f",
+"node": "lanl",
+"nodeLabel": "Los Alamos National Laboratory",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Los Alamos National Laboratory, 18 November 2024",
+"url": null
+},
+"text": "LANL states that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena, and that the NSRC does not appear to hold materials on Project Twinkle.",
+"tier": 1,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2024-11-18",
+"eventDate": "1949-02-16",
+"id": "c-c37b3d5597",
+"node": "lanl",
+"nodeLabel": "Los Alamos National Laboratory",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
+"url": null
+},
+"text": "LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes.",
+"tier": 1,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2024-11-18",
+"eventDate": null,
+"id": "c-d2b5374f7f",
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Los Alamos National Laboratory, 18 November 2024",
+"url": null
+},
+"text": "LANL states that its National Security Research Center does not appear to hold materials on Project Twinkle, although not all of the millions of items in its collections are searchable.",
+"tier": 1,
+"topic": "sign-estimate",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1949-02-16",
+"id": "c-45f14695cf",
+"node": "l-white-sands",
+"nodeLabel": "White Sands Missile Range, New Mexico",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Los Alamos National Laboratory historical account of the 16 February 1949 conference — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "A conference on the green fireballs was held at Los Alamos on 16 February 1949 with Edward Teller among the attendees; Los Alamos National Laboratory's own account records that the fireballs were ultimately dismissed as a national security threat.",
+"tier": 2,
+"topic": null,
+"via": null
 }
 ],
 "cls": "institution",

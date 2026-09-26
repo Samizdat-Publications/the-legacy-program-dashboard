@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-6ed65ba810",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": "1996-10-01",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
 "text": "Robert Salas located his former missile commander Frederick Meiwald in the summer of 1996, and Meiwald wrote to him about the March 1967 incident on 1 October 1996. Robert Hastings additionally states that he tape-recorded a telephone conversation with Meiwald in August 1996 and spoke with him again on 6 May 2011.",
 "tier": 2
@@ -21,6 +30,15 @@
 },
 {
 "id": "c-e7dbb378ad",
+"meta": {
+"artefactDate": "2013-05-19",
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
 "text": "Kevin Randle records a discrepancy of substance between the two men rather than a disagreement about whether anything happened: Salas placing all ten missiles off alert and Meiwald four or five. Randle nonetheless assesses Meiwald as having confirmed what Salas said.",
 "tier": 2
@@ -30,6 +48,59 @@
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE. Nothing Meiwald said about this event reached the public before an interested party contacted him. He was found by Robert Salas, the claimant, in 1996. His letter was published by Salas. His recorded interviews were made and are held by Robert Hastings. No pre-contact statement by him exists in anything opened by this board.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1996-10-01",
+"eventDate": null,
+"id": "c-03362a8602",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"route": "document",
+"source": {
+"domain": null,
+"text": "ufohastings.com, 'Letters' section, meiwald_letter_10-1-1996",
+"url": null
+},
+"text": "Col. Frederick Meiwald, Salas's commander, wrote to Salas on 1 October 1996 concerning the incident; the letter is published in facsimile.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "ufohastings.com"
+},
+{
+"artefactDate": "1996-10-01",
+"eventDate": null,
+"id": "c-8820c504e1",
+"node": "malmstrom-oscar-flight-1967",
+"nodeLabel": "Malmstrom Oscar Flight claim, 24 March 1967",
+"route": "document",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , all opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Col. Frederick Meiwald wrote to Salas about the incident on 1 October 1996. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD and two incompatible characterisations of it are in circulation, one supporting and one contradicting Salas. Kevin Randle separately records Salas giving all ten missiles and Meiwald four or five.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "1996-10-01",
+"eventDate": "1967-03",
+"id": "c-9de1088659",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"route": "document",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Contested between Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , and the Metabunk skeptical resources thread, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Col. Frederick Meiwald wrote to Robert Salas about the March 1967 events on 1 October 1996, after Salas located him in the summer of that year. The letter is published by Salas and Robert Hastings. IT HAS NOT BEEN OPENED BY THIS BOARD and two flatly incompatible characterisations of its contents are in public circulation: that it elaborates and supports the Oscar Flight account, and that it records Meiwald's recollection as differing from Salas's and regrets being unable to help him establish his claims.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "Robert Salas and Robert Hastings"
 }
 ],
 "cls": "person",

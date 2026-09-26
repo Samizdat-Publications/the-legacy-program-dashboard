@@ -18,15 +18,103 @@
 "claims": [
 {
 "id": "c-5fa734778e",
+"meta": {
+"artefactDate": "2026-03-18",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
 "text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
 "tier": 1
 },
 {
 "id": "c-6b2b1b989b",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "sean-parnell",
+"claimantLabel": "Sean Parnell",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Sean Parnell, quoted by DefenseScoop, 20 February 2026",
 "text": "The department 'looks forward to working with the interagency to fulfill the president's directive.'",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-6b2b1b989b",
+"node": "sean-parnell",
+"nodeLabel": "Sean Parnell",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Parnell, quoted by DefenseScoop, 20 February 2026",
+"url": null
+},
+"text": "The department 'looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-a64deafb9c",
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "Sean Parnell: 'The department looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-b8cfe517f7",
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 20 February 2026",
+"url": null
+},
+"text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-df66a203d2",
+"node": "pursue-r05-identifiers",
+"nodeLabel": "PURSUE Release 05 file identifiers (7 August 2026)",
+"route": "press",
+"source": {
+"domain": "earthsky.org",
+"text": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+"text": "Sean Parnell, Assistant to the Secretary of War for Public Affairs: the material 'continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "EarthSky"
 }
 ],
 "cls": "person",

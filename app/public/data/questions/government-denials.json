@@ -1,0 +1,991 @@
+{
+ "against": [
+  {
+   "cite": [
+    "c-e6f024d038",
+    "c-63ed6b27a3"
+   ],
+   "text": "The central denial is specific: AARO states it found no empirical evidence for claims that the government and private companies have been reverse-engineering extraterrestrial technology, and that none of its interviewees had firsthand knowledge of the programmes they described."
+  },
+  {
+   "cite": [
+    "c-684e8783c2"
+   ],
+   "text": "The companies named are on record, by AARO's account: its report states that AARO met executives and chief technology officers of the named companies, and that all denied the existence of the programmes and attested to the truthfulness of their statements on the record."
+  },
+  {
+   "cite": [
+    "c-9f4001a928",
+    "c-afeadfedf4",
+    "c-d2901ec4c5"
+   ],
+   "text": "Where the government has given a specific explanation it is on paper: the Air Force's 1994 report concluded the Roswell wreckage most likely came from a Project Mogul balloon train, and Case Closed attributed the bodies accounts to test dummies and later accidents; AARO reaffirmed the Mogul identification in 2024."
+  },
+  {
+   "cite": [
+    "c-20c625ae80",
+    "c-4f6a2b87f2"
+   ],
+   "text": "The Navy has acknowledged what it cannot explain: its spokesman stated in September 2019 that the Navy designates the objects in the three released videos as unidentified aerial phenomena."
+  },
+  {
+   "cite": [
+    "c-cf540c1b0e",
+    "c-23e5653f06",
+    "c-941159a8b2"
+   ],
+   "text": "Some claims the denials answer have themselves been undermined: a 2025 claimant said he found Immaculate Constellation in a folder labelled 2018 Schriever Wargame, and Jason Colavito concluded he had mistaken fictitious wargame documents for real ones. The board notes that this addresses the 2025 claim, not the 2024 document."
+  },
+  {
+   "cite": [
+    "c-0a6dd9aeca",
+    "c-2653cd6ac6",
+    "e-13549cbed5"
+   ],
+   "text": "The denial of Elizondo's role has held since June 2019: the Department says DIA administered AATIP, Elizondo was never assigned to DIA, and although he interacted with the office running it, he did not lead it; his own account that he ran it rests on his and TTSA's statements."
+  }
+ ],
+ "answer": [
+  {
+   "cite": [
+    "c-0abcdb22ce",
+    "c-45971da324",
+    "c-8265d45876"
+   ],
+   "text": "On 7 June 2023 Susan Gough said on the Department's behalf that AARO had not discovered any verifiable information to substantiate claims of programmes possessing or reverse-engineering extraterrestrial materials; after the July 2023 hearing she added that the Department had no information that anyone had been harmed or killed for providing information to AARO."
+  },
+  {
+   "cite": [
+    "c-24337b75a9",
+    "c-e892d42c88",
+    "c-684e8783c2",
+    "c-42e779946d"
+   ],
+   "text": "AARO's Volume I concludes there is no empirical evidence of government or corporate reverse-engineering of extraterrestrial technology, states that AATIP was never an official DoD programme, and records that executives of the named companies all denied such programmes on the record; Pat Ryder presented it as approaching the claims with the widest possible aperture."
+  },
+  {
+   "cite": [
+    "c-4522a28213",
+    "c-af41014f9e",
+    "c-a3ee21ee62",
+    "e-dbad302a21"
+   ],
+   "text": "On AATIP the statements reverse each other: in May 2019 Christopher Sherwood said AATIP did pursue research into unidentified aerial phenomena; in December 2019 Gough said neither AATIP nor AAWSAP was UAP related; in May 2021 she said the contract allowed research drawn from sources including UAP reports, but that examining them was not its purpose."
+  },
+  {
+   "cite": [
+    "e-ea347fcdd0",
+    "c-9d3c590324"
+   ],
+   "text": "Some denials are records assertions: the Department told the press it had no record of any SAP called Immaculate Constellation, former AARO director Sean Kirkpatrick has denied that it exists, and on the board's reading a no-record answer is a statement about records rather than a denial that the programme exists."
+  },
+  {
+   "cite": [
+    "c-272d242095",
+    "c-fd2bc6b6d5",
+    "c-95d1314e10"
+   ],
+   "text": "Denial has also been the required answer to true things: the National Reconnaissance Office's existence was classified for thirty-one years, and the CIA historian Gerald Haines wrote in 1997 that Air Force investigators knowingly gave false explanations to protect U-2 and OXCART flights."
+  }
+ ],
+ "cites": {
+  "c-0a6dd9aeca": {
+   "id": "c-0a6dd9aeca",
+   "kind": "claim",
+   "node": "christopher-sherwood",
+   "nodeLabel": "Christopher Sherwood",
+   "source": {
+    "domain": null,
+    "text": "Keith Kloor, The Intercept, 1 June 2019",
+    "url": null
+   },
+   "text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+   "tier": 1
+  },
+  "c-0abcdb22ce": {
+   "id": "c-0abcdb22ce",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
+    "url": null
+   },
+   "text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
+   "tier": 1
+  },
+  "c-138447a3b5": {
+   "id": "c-138447a3b5",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
+    "url": null
+   },
+   "text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
+   "tier": 2
+  },
+  "c-20c625ae80": {
+   "id": "c-20c625ae80",
+   "kind": "claim",
+   "node": "navy-flir-gimbal-gofast-videos",
+   "nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+   "source": {
+    "domain": null,
+    "text": "U.S. Navy statement, 10 September 2019",
+    "url": null
+   },
+   "text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+   "tier": 1
+  },
+  "c-23e5653f06": {
+   "id": "c-23e5653f06",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": null,
+    "text": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
+    "url": null
+   },
+   "text": "In 2025 a self-identified whistleblower said he located the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant had mistaken fictitious wargame documents for secret UFO revelations.",
+   "tier": 2
+  },
+  "c-24337b75a9": {
+   "id": "c-24337b75a9",
+   "kind": "claim",
+   "node": "d-denial",
+   "nodeLabel": "Official Denial",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, Section II",
+    "url": null
+   },
+   "text": "AARO's Volume I historical record report (February 2024) concludes there is 'no empirical evidence' for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.",
+   "tier": 1
+  },
+  "c-24d8b218db": {
+   "id": "c-24d8b218db",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, Section IV",
+    "url": null
+   },
+   "text": "Corporate denials in the report rest on voluntary on-the-record statements by executives and CTOs; no inspection of any contractor facility or holding is described anywhere in it.",
+   "tier": 1
+  },
+  "c-2653cd6ac6": {
+   "id": "c-2653cd6ac6",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough to The Black Vault, 13 June 2019",
+    "url": null
+   },
+   "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+   "tier": 1
+  },
+  "c-272d242095": {
+   "id": "c-272d242095",
+   "kind": "claim",
+   "node": "d-denial",
+   "nodeLabel": "Official Denial",
+   "source": {
+    "domain": null,
+    "text": "NRO declassification record; FAS Intelligence Resource Program",
+    "url": null
+   },
+   "text": "The existence of the National Reconnaissance Office was classified from its 1961 establishment until its declassification in September 1992, making official denial of its existence the required answer for thirty-one years.",
+   "tier": 1
+  },
+  "c-3988dbeb8d": {
+   "id": "c-3988dbeb8d",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the September 2017 emails and the 9 August 2017 DD Form 1910, both released under FOIA",
+    "url": null
+   },
+   "text": "The Department's own record contains an unresolved contradiction: September 2017 emails show Elizondo drafting a memorandum for Neill Tipton to 'assume the new responsibilities for AATIP', and the August 2017 DD-1910 for the AATIP-associated videos was submitted by Elizondo. Something bearing the AATIP name was live inside OUSD(I) in 2017.",
+   "tier": 3
+  },
+  "c-3eb5999126": {
+   "id": "c-3eb5999126",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Inference from Gough's February 2026 figures set against the FY2024 and FY2025 report conclusions",
+    "url": null
+   },
+   "text": "A holding in which roughly half the reports are unanalysed for want of data is a holding that cannot support the department's own repeated negative finding, since the negative finding is drawn only from the analysed half.",
+   "tier": 3
+  },
+  "c-416d77d07d": {
+   "id": "c-416d77d07d",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol2",
+   "nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+   "source": {
+    "domain": null,
+    "text": "Pentagon press remarks, August 2024, as recorded by Douglas Dean Johnson",
+    "url": null
+   },
+   "text": "In August 2024 Pentagon spokesman Maj. Gen. Pat Ryder said officials continued the review but had nothing to announce on timing.",
+   "tier": 2
+  },
+  "c-41b23ce7a4": {
+   "id": "c-41b23ce7a4",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Inference from the June 2019, December 2019 and May 2021 statements read in sequence",
+    "url": null
+   },
+   "text": "The three-step sequence — flat denial that AATIP touched UAP, then partial concession that it did, with the denial of Elizondo's role held constant throughout — is the signature of a position maintained for reasons other than the facts. The variable that never moved is the one that would validate a named insider.",
+   "tier": 3
+  },
+  "c-42e779946d": {
+   "id": "c-42e779946d",
+   "kind": "claim",
+   "node": "pat-ryder",
+   "nodeLabel": "Patrick S. Ryder",
+   "source": {
+    "domain": null,
+    "text": "Maj. Gen. Pat Ryder, Pentagon statement releasing AARO Historical Record Report Volume I, 8 March 2024",
+    "url": null
+   },
+   "text": "'AARO has approached this project with the widest possible aperture, thoroughly investigating these assertions and claims without any particular pre-conceived conclusion.'",
+   "tier": 1
+  },
+  "c-4494a4212c": {
+   "id": "c-4494a4212c",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol2",
+   "nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+   "source": {
+    "domain": "www.aaro.mil",
+    "text": "https://www.aaro.mil/Congressional-Press-Products/",
+    "url": "https://www.aaro.mil/Congressional-Press-Products/"
+   },
+   "text": "As of 12 August 2026 AARO's own Congressional/Press Products index lists no Historical Record Report Volume II; the most recent congressional product listed is the FY2025 Consolidated Annual Report (posted 20 July 2026).",
+   "tier": 1
+  },
+  "c-4522a28213": {
+   "id": "c-4522a28213",
+   "kind": "claim",
+   "node": "christopher-sherwood",
+   "nodeLabel": "Christopher Sherwood",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sherwood to the New York Post, 22 May 2019",
+    "url": null
+   },
+   "text": "Stated on 22 May 2019 that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
+   "tier": 1
+  },
+  "c-45971da324": {
+   "id": "c-45971da324",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD spokesperson, 7 June 2023",
+    "url": null
+   },
+   "text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
+   "tier": 1
+  },
+  "c-4f6a2b87f2": {
+   "id": "c-4f6a2b87f2",
+   "kind": "claim",
+   "node": "joseph-gradisher",
+   "nodeLabel": "Joseph Gradisher",
+   "source": {
+    "domain": null,
+    "text": "Joseph Gradisher, U.S. Navy, 10 September 2019",
+    "url": null
+   },
+   "text": "Stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+   "tier": 1
+  },
+  "c-63ed6b27a3": {
+   "id": "c-63ed6b27a3",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, March 2024",
+    "url": null
+   },
+   "text": "'None of the interviewees had firsthand knowledge' of the programs they described, per the report's findings section.",
+   "tier": 1
+  },
+  "c-684e8783c2": {
+   "id": "c-684e8783c2",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": null,
+    "text": "AARO, Historical Record Report Volume I, 8 March 2024",
+    "url": null
+   },
+   "text": "'AARO met with high-ranking officials, including executives and chief technology officers, of the named companies. All denied the existence of these programs, and attested to the truthfulness of their statements on the record.'",
+   "tier": 1
+  },
+  "c-8265d45876": {
+   "id": "c-8265d45876",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
+    "url": null
+   },
+   "text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
+   "tier": 1
+  },
+  "c-941159a8b2": {
+   "id": "c-941159a8b2",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Inference from the distinct provenance chains of the 2024 document and the 2025 claim",
+    "url": null
+   },
+   "text": "The Schriever attribution addresses a 2025 claimant's account of where he found the name; it does not by itself account for the 12-page document delivered in November 2024 or explain why no AARO product has ever addressed the name entered into the Record.",
+   "tier": 3
+  },
+  "c-95d1314e10": {
+   "id": "c-95d1314e10",
+   "kind": "claim",
+   "node": "d-denial",
+   "nodeLabel": "Official Denial",
+   "source": {
+    "domain": null,
+    "text": "Haines, Studies in Intelligence (1997)",
+    "url": null
+   },
+   "text": "Air Force officers gave explanations to the public they knew to be false in order to protect U-2 and OXCART flight security, per CIA's own in-house history.",
+   "tier": 2
+  },
+  "c-9d3c590324": {
+   "id": "c-9d3c590324",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "DoD statements as reported in secondary coverage; wave 1 board record",
+    "url": null
+   },
+   "text": "The Department of Defense states it has no record of such a programme; spokesperson Sue Gough has said the Department has 'no record', and former AARO director Sean Kirkpatrick has denied its existence.",
+   "tier": 2
+  },
+  "c-9e225ffcd3": {
+   "id": "c-9e225ffcd3",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal investigation, 6 June 2025",
+    "url": null
+   },
+   "text": "Air Force personnel in classified units were briefed into a fictitious programme called Yankee Blue involving reverse-engineering of alien spacecraft, shown flying-saucer photographs, bound by NDAs, and in some accounts threatened with severe penalties for disclosure.",
+   "tier": 2
+  },
+  "c-9f4001a928": {
+   "id": "c-9f4001a928",
+   "kind": "claim",
+   "node": "project-mogul",
+   "nodeLabel": "Project MOGUL",
+   "source": {
+    "domain": null,
+    "text": "GAO/NSIAD-95-187, p.5, quoting the USAF report; USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+    "url": null
+   },
+   "text": "The Air Force's 1994-1995 report concluded 'the most likely source of the wreckage recovered was one of the project MOGUL balloon trains.'",
+   "tier": 1
+  },
+  "c-a3ee21ee62": {
+   "id": "c-a3ee21ee62",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
+    "url": null
+   },
+   "text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
+   "tier": 1
+  },
+  "c-af41014f9e": {
+   "id": "c-af41014f9e",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
+    "url": null
+   },
+   "text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
+   "tier": 1
+  },
+  "c-afeadfedf4": {
+   "id": "c-afeadfedf4",
+   "kind": "claim",
+   "node": "roswell-report-case-closed",
+   "nodeLabel": "The Roswell Report: Case Closed (1997)",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Introduction",
+    "url": null
+   },
+   "text": "The report identifies its four conclusions as consolidation of many years of Air Force activity into July 1947; anthropomorphic test dummies as the 'aliens'; high-altitude balloon launch and recovery as the 'unusual' military activity; and a 1956 KC-97 accident plus a 1959 manned balloon mishap as the source of the hospital bodies accounts.",
+   "tier": 1
+  },
+  "c-c187ac2fa7": {
+   "id": "c-c187ac2fa7",
+   "kind": "claim",
+   "node": "aaro",
+   "nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the establishment memorandum's reporting chain, DODIG-2023-109's findings on fragmented DoD UAP processes, and the consistent 'AARO has not discovered' construction of every official denial",
+    "url": null
+   },
+   "text": "An office without subpoena power, without independent counsel, and reporting to the deputy head of the department that would own any concealed programme cannot structurally resolve allegations of concealment within that department - its negative findings are bounded by its own access, which is precisely how every AARO denial is worded.",
+   "tier": 3
+  },
+  "c-cf540c1b0e": {
+   "id": "c-cf540c1b0e",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
+    "url": null
+   },
+   "text": "In 2025 a self-identified whistleblower said he found the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant 'apparently mistook fictitious wargame documents for secret UFO revelations.'",
+   "tier": 2
+  },
+  "c-d2901ec4c5": {
+   "id": "c-d2901ec4c5",
+   "kind": "claim",
+   "node": "project-mogul",
+   "nodeLabel": "Project MOGUL",
+   "source": {
+    "domain": null,
+    "text": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
+    "url": null
+   },
+   "text": "AARO's 2024 historical report reaffirmed that materials recovered near Roswell 'were consistent with a balloon of the type used in the then-classified Project Mogul'.",
+   "tier": 1
+  },
+  "c-e27ac80551": {
+   "id": "c-e27ac80551",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol2",
+   "nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+   "source": {
+    "domain": null,
+    "text": "Kosloski media roundtable on the FY2024 report, 14 November 2024",
+    "url": null
+   },
+   "text": "Kosloski said in November 2024 that AARO would release Volume II within months.",
+   "tier": 2
+  },
+  "c-e6f024d038": {
+   "id": "c-e6f024d038",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": null,
+    "text": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
+    "url": null
+   },
+   "text": "'AARO found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.'",
+   "tier": 1
+  },
+  "c-e892d42c88": {
+   "id": "c-e892d42c88",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.aaro.mil",
+    "text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
+   "tier": 1
+  },
+  "c-fd2bc6b6d5": {
+   "id": "c-fd2bc6b6d5",
+   "kind": "claim",
+   "node": "d-coverup",
+   "nodeLabel": "The Cover-Up",
+   "source": {
+    "domain": null,
+    "text": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+    "url": null
+   },
+   "text": "CIA historian Gerald K. Haines, in Studies in Intelligence (1997), states that over half of all UFO reports in the late 1950s and 1960s were accounted for by U-2 and OXCART flights and that Air Force investigators knowingly provided false explanations to the public.",
+   "tier": 1
+  },
+  "c-fd8f432074": {
+   "id": "c-fd8f432074",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Inference from the precise phrasing 'no assigned responsibilities' set against the DIA transfer memo",
+    "url": null
+   },
+   "text": "DoD's denial is constructed around the word 'assigned' — a term of art that would be technically true of duties performed collaterally or under a different program designation, which is exactly the arrangement the 2010 transition memo contemplates.",
+   "tier": 3
+  },
+  "e-0e78639067": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    }
+   ],
+   "id": "e-0e78639067",
+   "kind": "edge",
+   "label": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I, p.30",
+     "url": "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Yankee Blue",
+     "url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+    },
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-cleared PDF)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "Volume I page 30 states AARO found no UAP-related NDAs. The Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme. The two statements cannot both stand as written.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-13549cbed5": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-13549cbed5",
+   "kind": "edge",
+   "label": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
+   "sources": [
+    {
+     "date": "2021-01-01",
+     "name": "OSD FOIA 21-F-0938 Elizondo emails",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+    },
+    {
+     "date": "2019-06-01",
+     "name": "The Intercept",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    }
+   ],
+   "text": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-30c7342144": {
+   "endpoints": [
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-30c7342144",
+   "kind": "edge",
+   "label": "Pentagon spokesperson could not confirm the existence of the memo",
+   "sources": [
+    {
+     "date": "2025-09-16",
+     "name": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
+    },
+    {
+     "date": "2025-12-15",
+     "name": "John Greenewald Jr., 'Pentagon Reopens Search for Alleged \"Yankee Blue\" Memo After Initial Denial', The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+    }
+   ],
+   "text": "Susan Gough, 1 October 2025: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-39f56dc200": {
+   "endpoints": [
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    },
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
+   "id": "e-39f56dc200",
+   "kind": "edge",
+   "label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2022-08-01",
+     "name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+     "url": "https://thedebrief.org/summer-of-the-saucers/"
+    }
+   ],
+   "text": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-731b16e397": {
+   "endpoints": [
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    },
+    {
+     "id": "house-oversight-committee",
+     "label": "U.S. House Committee on Oversight and Government Reform"
+    }
+   ],
+   "id": "e-731b16e397",
+   "kind": "edge",
+   "label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Committee release: Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+     "url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+    }
+   ],
+   "text": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-765d165a11": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-765d165a11",
+   "kind": "edge",
+   "label": "AARO has never publicly addressed the alleged programme entered into the congressional record",
+   "sources": [
+    {
+     "date": "2024-10-22",
+     "name": "ODNI FOIA DF-2025-00021 - Immaculate Constellation description from unclassified press",
+     "url": "https://archive.dni.gov/files/documents/FOIA/DF-2025-00021-Immaculate-Constellation-descrp-from-UNCLASS-Press-22-Oct-2024.pdf"
+    },
+    {
+     "date": "2024-11-19",
+     "name": "Kosloski statement for the record",
+     "url": "https://www.armed-services.senate.gov/imo/media/doc/aaro_statement.pdf"
+    },
+    {
+     "date": "2026-07-21",
+     "name": "AARO FY2025 Consolidated Annual Report on UAP (PDF)",
+     "url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+    }
+   ],
+   "text": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, nor any of the five PURSUE tranches between 8 May and 7 August 2026, addresses a programme name that sits in the Congressional Record. Reasoning: review of the published AARO product set and release indexes.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-84374889be": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-84374889be",
+   "kind": "edge",
+   "label": "'no assigned responsibilities for AATIP'",
+   "sources": [
+    {
+     "date": "2019-06-13",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+    },
+    {
+     "date": "2021-01-01",
+     "name": "OSD/WHS FOIA 21-F-0938 - Elizondo emails",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+    }
+   ],
+   "text": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-a46c5f7e6b": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "christopher-sherwood",
+     "label": "Christopher Sherwood"
+    }
+   ],
+   "id": "e-a46c5f7e6b",
+   "kind": "edge",
+   "label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
+   "sources": [
+    {
+     "date": "2019-12-06",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+    }
+   ],
+   "text": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-dbad302a21": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-dbad302a21",
+   "kind": "edge",
+   "label": "21 May 2021 partial reversal: contract 'allowed for research... including reports of UAPs'",
+   "sources": [
+    {
+     "date": "2021-05-21",
+     "name": "Blue Blurry Lines — The Pentagon's Updated Statement",
+     "url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+    }
+   ],
+   "text": "Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-ea347fcdd0": {
+   "endpoints": [
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-ea347fcdd0",
+   "kind": "edge",
+   "label": "DoD spokesperson Sue Gough: no record of any SAP by that name",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - Shellenberger written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    }
+   ],
+   "text": "'The DOD has no record, present or historical, of any type of SAP called IMMACULATE CONSTELLATION.' Recorded as a denial artefact: a categorical statement about records, issued by a press office, about a program alleged to be unacknowledged.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-f6f1333cae": {
+   "endpoints": [
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    },
+    {
+     "id": "house-oversight-committee",
+     "label": "U.S. House Committee on Oversight and Government Reform"
+    }
+   ],
+   "id": "e-f6f1333cae",
+   "kind": "edge",
+   "label": "Conditions any production on coordination with the sponsoring federal agencies",
+   "sources": [
+    {
+     "date": "2026-05-27",
+     "name": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930",
+     "url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+    }
+   ],
+   "text": "MITRE: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets' - a compliance posture with an executive-branch veto inside it.",
+   "tier": 2,
+   "type": "denial"
+  }
+ },
+ "for": [
+  {
+   "cite": [
+    "e-a46c5f7e6b",
+    "c-41b23ce7a4",
+    "e-dbad302a21"
+   ],
+   "text": "The Department's own statements disagree: Gough's December 2019 denial reversed Sherwood's May acknowledgement, and her May 2021 statement partly reversed her own. On the board's reading, the one position that never moved was the denial of Elizondo's role."
+  },
+  {
+   "cite": [
+    "c-3988dbeb8d",
+    "c-2653cd6ac6",
+    "c-fd8f432074"
+   ],
+   "text": "On the board's reading the Department's own released records cut against its denial of Elizondo's role: September 2017 emails show him drafting a memorandum for Neill Tipton to assume the new responsibilities for AATIP, and he submitted the August 2017 release form for the AATIP-associated videos. On the same reading, the June 2019 statement concedes the programme and his contact with it, and turns on the word assigned."
+  },
+  {
+   "cite": [
+    "e-0e78639067",
+    "c-9e225ffcd3",
+    "e-30c7342144"
+   ],
+   "text": "Volume I states that AARO found no non-disclosure agreements containing UAP information, and the Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme; the two statements cannot both stand as written. The Yankee Blue account itself comes from the Wall Street Journal, and a Pentagon spokesperson could not confirm the memo it described."
+  },
+  {
+   "cite": [
+    "c-24d8b218db",
+    "c-684e8783c2",
+    "c-138447a3b5",
+    "c-3eb5999126"
+   ],
+   "text": "The negative findings are bounded by access: AARO's corporate denials rest on executives' voluntary statements with no inspection of any contractor facility described, and Gough's own February 2026 figures put about 1,000 of more than 2,000 reports in AARO's archive without enough data for analysis, which on the board's reading means the finding rests on the analysed half."
+  },
+  {
+   "cite": [
+    "c-c187ac2fa7",
+    "c-45971da324"
+   ],
+   "text": "On the board's reading, an office without subpoena power reporting inside the department concerned cannot structurally resolve allegations of concealment within that department, which is how every AARO denial is worded."
+  },
+  {
+   "cite": [
+    "e-765d165a11",
+    "c-416d77d07d",
+    "c-e27ac80551",
+    "c-4494a4212c"
+   ],
+   "text": "AARO has never publicly addressed the Immaculate Constellation name entered into the Congressional Record in either annual report or any PURSUE tranche, and Volume II, which Kosloski said in November 2024 would come within months, was not listed on AARO's own products index as of 12 August 2026."
+  }
+ ],
+ "id": "government-denials",
+ "lead": {
+  "cite": [
+   "c-45971da324",
+   "c-4522a28213",
+   "c-af41014f9e",
+   "c-a3ee21ee62",
+   "e-dbad302a21",
+   "e-84374889be"
+  ],
+  "text": "The Department of Defense denies that any programme possessing or reverse-engineering extraterrestrial material has been found, in words that report what AARO has discovered rather than what exists. Read as a dated ledger, its statements on AATIP moved from acknowledgement to flat denial to partial concession, while its denial that Luis Elizondo ran the programme never moved."
+ },
+ "open": [
+  "Why has the Department never produced the AATIP charter or an organisation chart that would settle whether Elizondo led it?",
+  "What internal coordination produced the June 2023 statement, and did AARO clear its wording?",
+  "How many reports in AARO's archive will ever be analysed, and would the negative finding survive them?",
+  "Does the department-level memo on Yankee Blue exist, and when was DNI Haines briefed on it?",
+  "When will Volume II of AARO's historical record appear, and will it address the fake Air Force programme it was promised to cover?"
+ ],
+ "order": 5,
+ "status": "verified",
+ "threads": [
+  {
+   "cite": [
+    "e-39f56dc200",
+    "e-0e78639067",
+    "e-30c7342144",
+    "e-765d165a11",
+    "e-ea347fcdd0",
+    "e-731b16e397",
+    "e-f6f1333cae"
+   ],
+   "id": "denials",
+   "text": "The denials thread runs eight steps, each joined to the next by a denial rather than a connection. AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson; Volume I states that AARO found no UAP-related NDAs, which the board records as contradicted by the Yankee Blue record; a Pentagon spokesperson could not confirm the Yankee Blue memo; no AARO annual report, statement for the record or PURSUE tranche has addressed Immaculate Constellation, of which the Department says it has no record; the Department told House Oversight staff that only HASC and HAC-D members could be read in; and MITRE conditions any production to Congress on coordination with its sponsoring agencies."
+  }
+ ],
+ "title": "What does the government deny, and how?",
+ "topics": [
+  "denial-ledger",
+  "official-explanations",
+  "aaro",
+  "aaro-historical-record",
+  "immaculate-constellation",
+  "aatip-elizondo",
+  "perception-management"
+ ]
+}

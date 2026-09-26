@@ -13,12 +13,30 @@
 },
 {
 "id": "c-f553ff4141",
+"meta": {
+"artefactDate": "1988",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Klass, Skeptical Inquirer",
 "text": "Philip J. Klass published a forensic critique identifying document anomalies in Skeptical Inquirer in 1988.",
 "tier": 2
 },
 {
 "id": "c-3b5de598e8",
+"meta": {
+"artefactDate": null,
+"claimant": "ryan-wood",
+"claimantLabel": "Ryan S. Wood",
+"eventDate": null,
+"route": "document",
+"speaker": "Robert Wood and Ryan Wood",
+"via": null
+},
 "source": "The Majestic Documents (Wood & Wood)",
 "text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
 "tier": 2

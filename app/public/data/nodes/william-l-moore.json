@@ -65,6 +65,15 @@
 "claims": [
 {
 "id": "c-cc917f1c22",
+"meta": {
+"artefactDate": "1989-07",
+"claimant": "william-l-moore",
+"claimantLabel": "William L. Moore",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
 "text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
 "tier": 2
@@ -77,12 +86,30 @@
 },
 {
 "id": "c-f7d1b58909",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (this research's own comparative note)",
+"via": null
+},
 "source": "Inference recorded against the board's existing Tier 2 claims on william-l-moore, checked 2026-09-19",
 "text": "MOORE'S 1989 ADMISSION IS THE CLEAREST ADMISSION IN THE AFFAIR AND OUTRANKS ANYTHING DOTY HAS SAID, because it is from a civilian, about himself, in public, at a named event on a named date, and it is not later contradicted by its own author. The board already carries it; this session confirms nothing has emerged to weaken it and records that Doty's parallel statements have since been partly retracted by him while Moore's have not.",
 "tier": 2
 },
 {
 "id": "c-df2a372bda",
+"meta": {
+"artefactDate": "2025-11-29",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Stephen Fisher, The Trenchant Edges Newsletter",
+"via": null
+},
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "text": "A CAVEAT FOR ANY CLAIM ABOUT MOORE SOURCED TO GREG BISHOP'S PROJECT BETA. Stephen Fisher, writing 29 November 2025 and relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Moore. Project Beta is a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
 "tier": 2
@@ -95,12 +122,30 @@
 },
 {
 "id": "c-aa54289bab",
+"meta": {
+"artefactDate": "1980",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "book",
+"speaker": "unnamed (publisher's imprint and library catalogue records)",
+"via": null
+},
 "source": "Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement",
 "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
 "tier": 2
 },
 {
 "id": "c-151fa79be0",
+"meta": {
+"artefactDate": "1989",
+"claimant": "william-l-moore",
+"claimantLabel": "William L. Moore",
+"eventDate": "1980",
+"route": "broadcast",
+"speaker": null,
+"via": "MUFON symposium (1989)"
+},
 "source": "Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials",
 "text": "Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
 "tier": 2
@@ -110,6 +155,127 @@
 "source": "Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery",
 "text": "The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it.",
 "tier": 3
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1980",
+"eventDate": null,
+"id": "c-f8d75709c1",
+"node": "the-roswell-incident-1980",
+"nodeLabel": "The Roswell Incident (Berlitz and Moore, 1980)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Publisher's imprint and library catalogue records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "1989",
+"eventDate": "1980",
+"id": "c-151fa79be0",
+"node": "william-l-moore",
+"nodeLabel": "William L. Moore",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials",
+"url": null
+},
+"text": "Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": "MUFON symposium (1989)"
+},
+{
+"artefactDate": "1989-07",
+"eventDate": null,
+"id": "c-cc917f1c22",
+"node": "william-l-moore",
+"nodeLabel": "William L. Moore",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
+"url": null
+},
+"text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "1989-07-01",
+"eventDate": null,
+"id": "c-9df8a13609",
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
+"url": null
+},
+"text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
+},
+{
+"artefactDate": "1989",
+"eventDate": null,
+"id": "c-e3bce81098",
+"node": "mufon",
+"nodeLabel": "Mutual UFO Network (MUFON)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Moore's 1989 MUFON symposium statement, subsequently published in full",
+"url": null
+},
+"text": "William L. Moore made his public statement about cooperating with AFOSI and passing disinformation to Paul Bennewitz at the 1989 MUFON symposium in Las Vegas.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": null
+},
+{
+"artefactDate": "1980",
+"eventDate": null,
+"id": "c-c07d776444",
+"node": "the-roswell-incident-1980",
+"nodeLabel": "The Roswell Incident (Berlitz and Moore, 1980)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Berlitz and Moore, 'The Roswell Incident' (1980), as cited in the Haut literature — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The book states that Walter Haut was 'not a witness'.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+},
+{
+"artefactDate": "1980",
+"eventDate": null,
+"id": "c-ea5fbff86d",
+"node": "d-roswell",
+"nodeLabel": "Roswell",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Berlitz and Moore, 'The Roswell Incident' (1980)",
+"url": null
+},
+"text": "The 1980 Berlitz and Moore book 'The Roswell Incident' reopened the case publicly and is the origin of the modern witness corpus.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
 }
 ],
 "cls": "person",

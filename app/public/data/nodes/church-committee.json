@@ -36,9 +36,37 @@
 },
 {
 "id": "c-583719cb99",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "Michael Shellenberger and Mick West (separately)",
+"via": "American Alchemy with Jesse Michels (corpus transcript)"
+},
 "source": "michels-corpus-02.md file 02 at 13;52 and 14;51 (Shellenberger); michels-corpus-05.md file 04 at 18;41 (West)",
 "text": "Two Michels-corpus speakers who agree on very little else, Michael Shellenberger and Mick West, each name the Church Committee as the model for what oversight of a compartmented programme should look like. The committee's own report describes an inquiry whose every document arrived through the filter of the agency that held it.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1976",
+"eventDate": null,
+"id": "c-7004b26821",
+"node": "james-jesus-angleton",
+"nodeLabel": "James Jesus Angleton",
+"route": "document",
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "S. Rept. 94-755, Book III, Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans, Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, 1976, section on the Huston Plan, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+},
+"text": "The Committee states his office and its dates: 'James Angleton, who served as Chief of the CIA Counterintelligence Staff from 1954 to 1974 and was in charge of the CIA covert mail program from 1955 to its termination in 1973.'",
+"tier": 1,
+"topic": "oversight-before-2017",
+"via": null
 }
 ],
 "cls": "institution",

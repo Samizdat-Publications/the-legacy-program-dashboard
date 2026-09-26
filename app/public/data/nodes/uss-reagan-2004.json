@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-a1360b1e48",
+"meta": {
+"artefactDate": "2022-05-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Dave Beaty, Sean Munger and Craig Labadie (The Debrief)",
+"via": "The Debrief"
+},
 "source": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022",
 "text": "Multiple USS Ronald Reagan watchstanders observed a round, orange, self-luminous object hovering above the flight deck and pacing the ship; witnesses include Karol Olesiak, Derek Smith and Patrick Gokey.",
 "tier": 2
 },
 {
 "id": "c-35f524b161",
+"meta": {
+"artefactDate": "2022-05-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2003",
+"route": "press",
+"speaker": "unnamed (Boatswain's Mate of the Watch); Gokey (witness)",
+"via": "The Debrief"
+},
 "source": "The Debrief, 9 May 2022",
 "text": "The Boatswain's Mate of the Watch says he was ordered by a senior officer to 'rip it out' of the logbook; another witness was instructed not to write the sighting down; Gokey says he saw an officer order subordinates to remove pages from the deck logbook.",
 "tier": 2
 },
 {
 "id": "c-cd3a69b89b",
+"meta": {
+"artefactDate": "2022-05-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2004",
+"route": "press",
+"speaker": "unnamed (crew members, via The Debrief)",
+"via": "The Debrief"
+},
 "source": "The Debrief, 9 May 2022",
 "text": "Crew members estimated 50 to 300 additional personnel witnessed the event.",
 "tier": 2

@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-b0a41babe0",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
 "text": "Many PDFs in the Department of War release were password-protected, preventing OCR processing and rendering documents poorly searchable or entirely unsearchable; The Black Vault removed the restrictions and processed the files into a usable format.",
 "tier": 2
 },
 {
 "id": "c-dd847383ea",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
 "text": "The Black Vault archive includes searchable PDFs, videos, images, OCR-generated text, transcripts and video subtitles, agency categorisation and related-record linking, with a 2.0GB bulk download.",
 "tier": 2

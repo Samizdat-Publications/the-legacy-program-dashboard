@@ -12,6 +12,15 @@
 },
 {
 "id": "c-c6242914a5",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
+"eventDate": "2023-06-05",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Debrief; corroborated by Wikipedia entries for Leslie Kean and Ralph Blumenthal — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023.",
 "tier": 2
@@ -21,6 +30,42 @@
 "source": "The Debrief archive, retrieved 12 August 2026",
 "text": "The Debrief has published sustained coverage of the disclosure fight including 'Immaculate Constellation: UAP Bombshell or Disinformation?', 'The 2024 AARO Report', 'Where The Second UAP Disclosure Act Failure May Now Steer The Ark of Human History' and 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'.",
 "tier": 1
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-06-05",
+"eventDate": "2023-06-05",
+"id": "c-c6242914a5",
+"node": "the-debrief",
+"nodeLabel": "The Debrief",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief; corroborated by Wikipedia entries for Leslie Kean and Ralph Blumenthal — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2023-05-25",
+"eventDate": null,
+"id": "c-03670f4d31",
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 25 May 2023",
+"url": null
+},
+"text": "Colm Kelleher led the NIDS science team at Skinwalker Ranch from 1996 to 2004 and carried that team structure into BAASS in 2008.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
 }
 ],
 "cls": "institution",

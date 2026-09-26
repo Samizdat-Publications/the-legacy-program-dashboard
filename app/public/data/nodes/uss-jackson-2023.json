@@ -6,18 +6,45 @@
 "claims": [
 {
 "id": "c-8d21c196d3",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": "2023-02-15",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
 "text": "The encounter occurred '15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast'; a self-luminous tic-tac object emerged from the ocean and joined three similar objects.",
 "tier": 2
 },
 {
 "id": "c-cbc955d63a",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Wiggins written statement, 9 September 2025",
 "text": "CIC personnel recorded the encounter on a Star SAFIRE multi-spectral EO/IR system; footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
 "tier": 2
 },
 {
 "id": "c-c40dba1bf0",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "hearing",
+"speaker": "Alexandro Wiggins (written statement); The Debrief",
+"via": null
+},
 "source": "Wiggins written statement, 9 September 2025; The Debrief, 17 April 2025",
 "text": "The stabilized footage and screenshots were published by journalists rather than released by the Navy or AARO.",
 "tier": 2

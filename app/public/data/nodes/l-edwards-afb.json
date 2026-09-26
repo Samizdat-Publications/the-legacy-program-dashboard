@@ -6,12 +6,30 @@
 "claims": [
 {
 "id": "c-d4f4b19e72",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1949-12",
+"route": "document",
+"speaker": "Wikipedia, 'Edwards Air Force Base'",
+"via": null
+},
 "source": "Wikipedia, Edwards Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from Muroc in December 1949 for Capt. Glen Edwards; it hosts the Air Force Test Center, the USAF Test Pilot School and NASA Armstrong Flight Research Center.",
 "tier": 2
 },
 {
 "id": "c-0105fd75e0",
+"meta": {
+"artefactDate": "2013-06-25",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": "1955",
+"route": "document",
+"speaker": null,
+"via": "Wikipedia, 'Area 51'"
+},
 "source": "CIA U-2/OXCART history, released 25 June 2013; summarised in Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Groom Lake was selected in 1955 because U-2 flight test and pilot training could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility given the extreme secrecy of the project.",
 "tier": 2

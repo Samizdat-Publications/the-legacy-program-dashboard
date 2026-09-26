@@ -9,12 +9,30 @@
 "claims": [
 {
 "id": "c-d2a91a9b33",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": "1964-09",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 photograph caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Kingston A. George, the project engineer for the 1964 Big Sur telescope experiment, published a photograph of the team in the Skeptical Inquirer, Winter 1993, and captioned it: 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner.' Mansmann's rank, presence and identity at the site are therefore established by a source hostile to the UFO reading of the event.",
 "tier": 2
 },
 {
 "id": "c-c3377fce82",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1987-05",
+"route": "document",
+"speaker": "unnamed (Wikipedia, 'Big Sur UFO')",
+"via": null
+},
 "source": "Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , opened 2026-09-19",
 "text": "Florenz Mansmann, a major involved in the Big Sur project, is reported to have confirmed Robert Jacobs's account of the September 1964 filming in a May 1987 letter to a UFO researcher. Correspondence with Lee Graham in 1983 and a letter from Jacobs to Mansmann of 14 January 1985 are also reported.",
 "tier": 2

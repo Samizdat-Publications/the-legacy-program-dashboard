@@ -24,6 +24,15 @@
 },
 {
 "id": "c-d542d009fe",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Author of record per the DIA letter of 9 January 2018, item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
 "tier": 2
@@ -36,12 +45,30 @@
 },
 {
 "id": "c-088cd90238",
+"meta": {
+"artefactDate": "2018-07-25",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch.blogspot.com",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
 "text": "The earlier KLAS-TV list of the same document, published 25 July 2018, titles it \"Brain-Machine Interfaces, Dr R Genik, Wayne State Univ.\" The DIA title and the KLAS title describe the same paper.",
 "tier": 2
 },
 {
 "id": "c-f0fdc638e3",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch.blogspot.com (DIA list analysis)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "One of three DIRDs written by Genik, and one of four DIRDs whose DIA-listed affiliation is Wayne State University, the fourth being Kit Green's \"Field Effects on Biological Tissues.\" The human-effects and human-interface strand of AAWSAP concentrated at that institution.",
 "tier": 2

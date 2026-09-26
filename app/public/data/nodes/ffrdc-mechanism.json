@@ -7,18 +7,45 @@
 "claims": [
 {
 "id": "c-c1cd2658cc",
+"meta": {
+"artefactDate": null,
+"claimant": "mitre-corporation",
+"claimantLabel": "The MITRE Corporation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health and cybersecurity, and describes itself as providing long-term strategic partnership and stability to government sponsors.",
 "tier": 2
 },
 {
 "id": "c-ae2ef33171",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, MITRE investigation, 7 August 2026",
 "text": "FFRDCs allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and arbitrate what defense contractors are told about UFO programs.",
 "tier": 2
 },
 {
 "id": "c-a9f451e724",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "ross-coulthart",
+"claimantLabel": "Ross Coulthart",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation Reality Check chapter summary, 4 August 2026 (17:00)",
 "text": "Ross Coulthart devoted a dedicated segment of his 4 August 2026 Reality Check episode to 'FFRDCs, U-Arcs, and GOCOs' as the vehicle of the legacy program.",
 "tier": 2

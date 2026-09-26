@@ -12,9 +12,54 @@
 },
 {
 "id": "c-d836baac76",
+"meta": {
+"artefactDate": "2023-11-27",
+"claimant": "micah-hanks",
+"claimantLabel": "Micah Hanks",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "HASC Chairman Rogers is named with Turner as leading the effort against the UAP Disclosure Act.",
 "tier": 2
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1966-04-05",
+"eventDate": null,
+"id": "c-e9690c3480",
+"node": "hearing-1966-04-05",
+"nodeLabel": "House Armed Services Committee UFO Hearing",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
+"url": null
+},
+"text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress) following Gerald Ford's call for an inquiry.",
+"tier": 2,
+"topic": "condon-1966-69",
+"via": null
+},
+{
+"artefactDate": "1966-04-05",
+"eventDate": null,
+"id": "c-46d7c5e1e9",
+"node": "gerald-ford",
+"nodeLabel": "Gerald R. Ford",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
+"url": null
+},
+"text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress).",
+"tier": 2,
+"topic": "oversight-before-2017",
+"via": null
 }
 ],
 "cls": "institution",

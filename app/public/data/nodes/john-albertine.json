@@ -9,18 +9,45 @@
 "claims": [
 {
 "id": "c-0678c85bf3",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch.blogspot.com",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The DIA letter of 9 January 2018 lists the high-energy laser weapons paper twice: item 37, \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the unclassified version by the same author.",
 "tier": 2
 },
 {
 "id": "c-4dfd1e9f67",
+"meta": {
+"artefactDate": "2019",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "ufos-scientificresearch (blog compilation)",
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The earlier KLAS-TV list gave item 25 as \"Laser Weapons, J Albertine, M.S., Directed Technologies\" and left the 38th DIRD as \"Redacted.\" The DIA letter resolved the redacted item as the classified version of the same laser paper.",
 "tier": 2
 },
 {
 "id": "c-dac271563e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1976",
+"route": "document",
+"speaker": "SPIE Optical Engineering journal (special section guest editorial)",
+"via": null
+},
 "source": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full",
 "text": "John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's in applied physics from Johns Hopkins; he was a senior staff physicist at the Johns Hopkins Applied Physics Laboratory Space Division and from 1976 to 1997 worked in the US Navy High Energy Laser Program Office, consulting afterwards for OSD, the Air Force, ONR and the Navy HEL programme office.",
 "tier": 2
