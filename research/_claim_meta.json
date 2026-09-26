@@ -1,0 +1,636 @@
+{
+ "_what": "Who made each claim, when, and by what route (redesign phase 10, task 1). One row per Tier 2 claim and per Tier 1 claim marked 'said on the record' or 'the office's own account'. Authored: written by tools/claims/claim_meta.py's mechanical pass and by reviewed Sonnet batches, sampled and verified by Opus; read by tools/build_app_data.py.",
+ "_rules": [
+  "claimant: the node whose word the claim rests on (a person, or an institution for an office's statement or publication). null only when that speaker is not on the board, and then `speaker` names them as the record does ('unnamed' when the record names nobody).",
+  "artefactDate: when the claim was made, the date of its artefact (the hearing, the episode, the book, the filing, the article, the document). An access date is not an artefact date.",
+  "eventDate: when the thing claimed happened, or null when the claim names no time.",
+  "route: hearing (testimony, deposition, sworn statement, briefing on the record), broadcast (a programme, documentary, talk or livestream), interview (a published interview or podcast), book, filing (a complaint, affidavit, lawsuit, IG or FOIA filing), press (an article, press release, statement to the press, op-ed or post), document (a report, letter, memo or web page).",
+  "via: who brought the claim to the record, as the record names them (the show and host, the committee, the outlet), or null. It is what the notability rule asks of a claimant: by what route the claim reached us."
+ ],
+ "claims": {
+  "c-02856cf051": {
+   "claimant": "jesse-marcel",
+   "artefactDate": "1978-02",
+   "eventDate": "1978",
+   "route": "interview",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-0ae84a7acb": {
+   "claimant": "jake-barber",
+   "artefactDate": "2025-01-30",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-0bea1751ec": {
+   "claimant": "dylan-borland",
+   "artefactDate": "2025-09-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-0f19ce44d5": {
+   "claimant": "aaro",
+   "artefactDate": "2026-07-21",
+   "eventDate": null,
+   "route": "press",
+   "via": null,
+   "by": "mechanical (the office's own publication (aaro.mil))"
+  },
+  "c-0f405c5870": {
+   "claimant": "alexandria-ocasio-cortez",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-0f9d6aa3df": {
+   "claimant": "jake-barber",
+   "artefactDate": "2025-01-30",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-1475bab18f": {
+   "claimant": "sean-kirkpatrick",
+   "artefactDate": "2023-04-19",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-1ac30f5fe1": {
+   "claimant": "anna-paulina-luna",
+   "artefactDate": "2025-09-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-1ed8c47f65": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2026-01-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-1fd0fe2f76": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-20023fea57": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-202c40f72a": {
+   "claimant": "brett-mansfield",
+   "artefactDate": "2026-05-22",
+   "eventDate": "2026-05-13",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-22416ff2ca": {
+   "claimant": "dylan-borland",
+   "artefactDate": "2026-08-05",
+   "eventDate": "2025-09-10",
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-2308ae3439": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-236f55b68c": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-2404414528": {
+   "claimant": "george-knapp",
+   "artefactDate": "2025-09-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-2a32ef084c": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-31a2ccc536": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-3a8d2f75d1": {
+   "claimant": "jon-kosloski",
+   "artefactDate": "2024-11-14",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-3b6cf1432c": {
+   "claimant": "aaro",
+   "artefactDate": "2024-11-19",
+   "eventDate": "2013",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (the office's own publication (aaro.mil))"
+  },
+  "c-3da352ed70": {
+   "claimant": "robert-bigelow",
+   "artefactDate": "1998-08-10",
+   "eventDate": "1998-08",
+   "route": "interview",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-3ddb0bb503": {
+   "claimant": "jake-barber",
+   "artefactDate": "2025-01-30",
+   "eventDate": "2001",
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-3f47efebf2": {
+   "claimant": "jeffrey-nuccetelli",
+   "artefactDate": "2025-09-09",
+   "eventDate": "2003",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-3f71b5a057": {
+   "claimant": "beatriz-villarroel",
+   "artefactDate": "2025-10-25",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-43863cbfea": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-461daa8df0": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-4841f84716": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-48b1f303ef": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": "2019",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-4ce6331d37": {
+   "claimant": "aaro",
+   "artefactDate": "2024-11-19",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (the office's own publication (aaro.mil))"
+  },
+  "c-4e0e09a4b2": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-53e609b7bd": {
+   "claimant": "jon-kosloski",
+   "artefactDate": "2024-11-19",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-60a31813b6": {
+   "claimant": "robert-hastings",
+   "artefactDate": "2024-12-24",
+   "eventDate": "2023-01",
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-632f3e1ff5": {
+   "claimant": "george-knapp",
+   "artefactDate": "2025-09-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-65761a45c6": {
+   "claimant": "harry-reid",
+   "artefactDate": "2019",
+   "eventDate": null,
+   "route": "interview",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-676595aa3a": {
+   "claimant": "kirk-mcconnell",
+   "artefactDate": "2025-04-02",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-6a28f2eddb": {
+   "claimant": "alexandria-ocasio-cortez",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-6a5b76f83d": {
+   "claimant": "greg-bishop",
+   "artefactDate": "2025-07-05",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-6c05829ad9": {
+   "claimant": "robert-garcia",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-751a333e5a": {
+   "claimant": "jon-kosloski",
+   "artefactDate": "2024-11-19",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-760a39cac1": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2026-01-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-78cdcade4d": {
+   "claimant": "eric-davis",
+   "artefactDate": "2024-12-13",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-7ff5893738": {
+   "claimant": "anna-paulina-luna",
+   "artefactDate": "2025-09-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-8ed11f562f": {
+   "claimant": "aaro",
+   "artefactDate": "2026-01-30",
+   "eventDate": null,
+   "route": "press",
+   "via": null,
+   "by": "mechanical (the office's own publication (aaro.mil))"
+  },
+  "c-91b6e963c3": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-95763231c9": {
+   "claimant": "jon-kosloski",
+   "artefactDate": "2024-11-19",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-992c42da48": {
+   "claimant": "david-grusch",
+   "artefactDate": "2026-06-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-9a31b9959a": {
+   "claimant": "kirk-mcconnell",
+   "artefactDate": "2025-04-02",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-9b150c1f96": {
+   "claimant": "jeffrey-nuccetelli",
+   "artefactDate": "2025-09-09",
+   "eventDate": "2003",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-9d29dd8692": {
+   "claimant": "george-knapp",
+   "artefactDate": "2025-09-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-9da82f8115": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-a3b77d59e9": {
+   "claimant": "larry-warren",
+   "artefactDate": "2026-09-19",
+   "eventDate": "2000-09",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-abdca31a12": {
+   "claimant": "mark-mccandlish",
+   "artefactDate": "2000",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-b2e834c6bd": {
+   "claimant": "nancy-mace",
+   "artefactDate": "2025-09-09",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-b48c8cda88": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-b80f4db88e": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": "2019",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-b8454427f5": {
+   "claimant": "james-jesus-angleton",
+   "artefactDate": "2024",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-ba504fadba": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-c1e274eb26": {
+   "claimant": "eric-burlison",
+   "artefactDate": "2026-07-02",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-c2db1fd09a": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": "2022-04",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-c67ee9f5a1": {
+   "claimant": "eric-burlison",
+   "artefactDate": "2026-07-02",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-c834817791": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": "2022-04",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-cce744bbec": {
+   "claimant": "eric-burlison",
+   "artefactDate": "2026-07-02",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-cd5129f49f": {
+   "claimant": "james-jesus-angleton",
+   "artefactDate": "1975-09-17",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-d4167ab663": {
+   "claimant": "dylan-borland",
+   "artefactDate": "2025-09-09",
+   "eventDate": "2012",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-d494a510da": {
+   "claimant": "jesse-marcel",
+   "artefactDate": "1978",
+   "eventDate": "1978-02",
+   "route": "interview",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-d809c3c34a": {
+   "claimant": "anna-paulina-luna",
+   "artefactDate": "2026-05",
+   "eventDate": null,
+   "route": "interview",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-da3e0ff244": {
+   "claimant": "kirk-mcconnell",
+   "artefactDate": "2025-04-02",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-da9f772930": {
+   "claimant": "nancy-mace",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-dafe8b11ea": {
+   "claimant": "david-fravor",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-e2f13fd353": {
+   "claimant": "david-grusch",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-ea9e460300": {
+   "claimant": "michael-gold",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-eedd300b20": {
+   "claimant": "eric-davis",
+   "artefactDate": "2024-12-13",
+   "eventDate": null,
+   "route": "interview",
+   "via": "American Alchemy with Jesse Michels",
+   "by": "mechanical (on-show pattern)"
+  },
+  "c-f0385bea12": {
+   "claimant": "michael-gold",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-f1977f84c2": {
+   "claimant": "mark-milley",
+   "artefactDate": "2023-03-29",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (named speaker opens the claim)"
+  },
+  "c-f5e2265055": {
+   "claimant": "aaro",
+   "artefactDate": "2024-11-19",
+   "eventDate": "2015-01",
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (the office's own publication (aaro.mil))"
+  },
+  "c-f61c0335d0": {
+   "claimant": "tim-burchett",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-fb0d11d5a6": {
+   "claimant": "jared-moskowitz",
+   "artefactDate": "2023-07-26",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  },
+  "c-fcc543fc47": {
+   "claimant": "luis-elizondo",
+   "artefactDate": "2024-11-13",
+   "eventDate": null,
+   "route": "hearing",
+   "via": null,
+   "by": "mechanical (attribution opens a claim on the speaker's own node)"
+  }
+ }
+}
