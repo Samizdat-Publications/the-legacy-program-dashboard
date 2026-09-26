@@ -244,6 +244,14 @@ NEEDS_CONTEXT = {"dtic": re.compile(r"DTIC|archive\.org/details/DTIC", re.I),
 LOCATOR_ONLY_WITH = {"stat": ("pl", "plaw")}
 
 
+EDITIONED = {"dod"}
+# the edition's year right after the number: "(2010)", "(1 Jul 2010, Chg 2 ...)",
+# ", 12 September 2024", "of 2013"; never a later access date in the prose
+EDITION_YEAR = re.compile(
+    r"[^;]{0,60}?\((?![^)]*(?:Wayback|archiv|access|retriev|read|captur))(?:[^)]{0,20}?)\b((?:19[4-9]|20[0-3])\d)\b"
+    r"|,?\s*(?:dated\s+|of\s+)?(?:\d{1,2}\s+[A-Z][a-z]+\s+)?((?:19[4-9]|20[0-3])\d)\b")
+
+
 def find_ids(text):
     """[(kind, id, label, type, issuer, start, end)] in text order, one per id."""
     out, seen = [], set()
@@ -255,6 +263,14 @@ def find_ids(text):
             k = key(m)
             if not k:
                 continue
+            if kind in EDITIONED:
+                # a DoD issuance is reissued under the same number (DoDD 5205.07 of
+                # 2010 and of 2024): a year the citation gives, before the next
+                # citation, makes it that edition; none leaves it unversioned
+                y = EDITION_YEAR.match(text[m.end():m.end() + 60])
+                yr = y and (y.group(1) or y.group(2))
+                if yr:
+                    k = (k[0] + "-" + yr, k[1] + " (" + yr + ")")
             if k[0] in seen:
                 continue
             seen.add(k[0])

@@ -1007,20 +1007,48 @@
     "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
    ],
-   "date": "2024-09-12",
+   "date": null,
    "id": "dodd-5205-07",
    "identifiers": [
     "DoDD 5205.07"
    ],
    "interestedParty": false,
    "issuer": "Department of Defense",
-   "node": "dodd-5205-07-2024",
-   "title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+   "node": null,
+   "title": "Special Access Program (SAP) Policy (DoDD 5205.07)",
    "type": "regulation",
    "urls": [
     "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
     "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
    ]
+  },
+  {
+   "archived": [],
+   "date": "2010-07-01",
+   "id": "dodd-5205-07-2010",
+   "identifiers": [
+    "DoDD 5205.07 (2010)"
+   ],
+   "interestedParty": false,
+   "issuer": "Department of Defense",
+   "node": "dodd-5205-07-2010",
+   "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+   "type": "regulation",
+   "urls": []
+  },
+  {
+   "archived": [],
+   "date": "2024-09-12",
+   "id": "dodd-5205-07-2024",
+   "identifiers": [
+    "DoDD 5205.07 (2024)"
+   ],
+   "interestedParty": false,
+   "issuer": "Department of Defense",
+   "node": "dodd-5205-07-2024",
+   "title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+   "type": "regulation",
+   "urls": []
   },
   {
    "archived": [],
@@ -1033,6 +1061,20 @@
    "issuer": "Department of Defense",
    "node": null,
    "title": "DoDD 5210.42",
+   "type": "regulation",
+   "urls": []
+  },
+  {
+   "archived": [],
+   "date": null,
+   "id": "dodd-5210-42-1993",
+   "identifiers": [
+    "DoDD 5210.42 (1993)"
+   ],
+   "interestedParty": false,
+   "issuer": "Department of Defense",
+   "node": null,
+   "title": "DoDD 5210.42 (1993)",
    "type": "regulation",
    "urls": []
   },
@@ -1055,6 +1097,20 @@
    ]
   },
   {
+   "archived": [],
+   "date": null,
+   "id": "dodi-3204-01-2014",
+   "identifiers": [
+    "DoDI 3204.01 (2014)"
+   ],
+   "interestedParty": false,
+   "issuer": "Department of Defense",
+   "node": null,
+   "title": "DoDI 3204.01 (2014)",
+   "type": "regulation",
+   "urls": []
+  },
+  {
    "archived": [
     "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
     "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
@@ -1072,6 +1128,34 @@
    "urls": [
     "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
    ]
+  },
+  {
+   "archived": [],
+   "date": null,
+   "id": "dodi-5205-11-2013",
+   "identifiers": [
+    "DoDI 5205.11 (2013)"
+   ],
+   "interestedParty": false,
+   "issuer": "Department of Defense",
+   "node": null,
+   "title": "DoDI 5205.11 (2013)",
+   "type": "regulation",
+   "urls": []
+  },
+  {
+   "archived": [],
+   "date": null,
+   "id": "dodi-5205-11-2024",
+   "identifiers": [
+    "DoDI 5205.11 (2024)"
+   ],
+   "interestedParty": false,
+   "issuer": "Department of Defense",
+   "node": null,
+   "title": "DoDI 5205.11 (2024)",
+   "type": "regulation",
+   "urls": []
   },
   {
    "archived": [],
@@ -1101,6 +1185,20 @@
    "issuer": "Department of Defense",
    "node": "dodm-5205-07-v1",
    "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+   "type": "regulation",
+   "urls": []
+  },
+  {
+   "archived": [],
+   "date": null,
+   "id": "dodm-5205-07-v1-2015",
+   "identifiers": [
+    "DoDM 5205.07, Volume 1 (2015)"
+   ],
+   "interestedParty": false,
+   "issuer": "Department of Defense",
+   "node": null,
+   "title": "DoDM 5205.07, Volume 1 (2015)",
    "type": "regulation",
    "urls": []
   },
@@ -3547,18 +3645,6 @@
     "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos",
     "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
    ]
-  },
-  {
-   "archived": [],
-   "date": "2010-07-01",
-   "id": "n-dodd-5205-07-2010",
-   "identifiers": [],
-   "interestedParty": false,
-   "issuer": null,
-   "node": "dodd-5205-07-2010",
-   "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
-   "type": "regulation",
-   "urls": []
   },
   {
    "archived": [
@@ -26611,7 +26697,7 @@
    "broadcast": 84,
    "document": 427,
    "hearing record": 12,
-   "regulation": 32,
+   "regulation": 38,
    "report": 49,
    "statute": 94,
    "transcript": 11,
@@ -26621,7 +26707,7 @@
   "interestedParty": 46,
   "resolved": 4911,
   "resolvedShare": 0.8104,
-  "sources": 1893,
+  "sources": 1899,
   "unresolvedWhy": {
    "a proposed reading (id:chrg-118hhrg53022) was rejected in review: names two sources and no date": 1,
    "a proposed reading (id:chrg-118hhrg53022) was rejected in review: names two sources; NPR report is not the candidate": 2,

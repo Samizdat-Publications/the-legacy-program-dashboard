@@ -3,7 +3,7 @@
 "resolved": 4911,
 "total": 6060
 },
-"count": 1893,
+"count": 1899,
 "generated": "2026-09-26",
 "source": "f6926f280620",
 "sources": [
@@ -1108,10 +1108,10 @@
 },
 {
 "archived": 3,
-"claims": 76,
-"date": "2024-09-12",
+"claims": 43,
+"date": null,
 "edges": 37,
-"era": "3",
+"era": "nd",
 "id": "dodd-5205-07",
 "identifiers": [
 "DoDD 5205.07"
@@ -1119,16 +1119,52 @@
 "interestedParty": false,
 "issuer": "Department of Defense",
 "listedOn": 18,
-"node": "dodd-5205-07-2024",
-"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+"node": null,
+"title": "Special Access Program (SAP) Policy (DoDD 5205.07)",
 "type": "regulation",
 "urls": 2
 },
 {
 "archived": 0,
-"claims": 4,
+"claims": 18,
+"date": "2010-07-01",
+"edges": 11,
+"era": "2",
+"id": "dodd-5205-07-2010",
+"identifiers": [
+"DoDD 5205.07 (2010)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": 4,
+"node": "dodd-5205-07-2010",
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"type": "regulation",
+"urls": 0
+},
+{
+"archived": 0,
+"claims": 15,
+"date": "2024-09-12",
+"edges": 11,
+"era": "3",
+"id": "dodd-5205-07-2024",
+"identifiers": [
+"DoDD 5205.07 (2024)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": 3,
+"node": "dodd-5205-07-2024",
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+"type": "regulation",
+"urls": 0
+},
+{
+"archived": 0,
+"claims": 0,
 "date": null,
-"edges": 4,
+"edges": 0,
 "era": "nd",
 "id": "dodd-5210-42",
 "identifiers": [
@@ -1143,8 +1179,26 @@
 "urls": 0
 },
 {
+"archived": 0,
+"claims": 4,
+"date": null,
+"edges": 4,
+"era": "nd",
+"id": "dodd-5210-42-1993",
+"identifiers": [
+"DoDD 5210.42 (1993)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": 0,
+"node": null,
+"title": "DoDD 5210.42 (1993)",
+"type": "regulation",
+"urls": 0
+},
+{
 "archived": 1,
-"claims": 3,
+"claims": 1,
 "date": "2014",
 "edges": 6,
 "era": "2",
@@ -1159,6 +1213,24 @@
 "title": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "type": "statute",
 "urls": 1
+},
+{
+"archived": 0,
+"claims": 2,
+"date": null,
+"edges": 0,
+"era": "nd",
+"id": "dodi-3204-01-2014",
+"identifiers": [
+"DoDI 3204.01 (2014)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": 0,
+"node": null,
+"title": "DoDI 3204.01 (2014)",
+"type": "regulation",
+"urls": 0
 },
 {
 "archived": 2,
@@ -1177,6 +1249,42 @@
 "title": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "type": "regulation",
 "urls": 1
+},
+{
+"archived": 0,
+"claims": 0,
+"date": null,
+"edges": 10,
+"era": "nd",
+"id": "dodi-5205-11-2013",
+"identifiers": [
+"DoDI 5205.11 (2013)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": 1,
+"node": null,
+"title": "DoDI 5205.11 (2013)",
+"type": "regulation",
+"urls": 0
+},
+{
+"archived": 0,
+"claims": 0,
+"date": null,
+"edges": 0,
+"era": "nd",
+"id": "dodi-5205-11-2024",
+"identifiers": [
+"DoDI 5205.11 (2024)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": 7,
+"node": null,
+"title": "DoDI 5205.11 (2024)",
+"type": "regulation",
+"urls": 0
 },
 {
 "archived": 0,
@@ -1211,6 +1319,24 @@
 "listedOn": 6,
 "node": "dodm-5205-07-v1",
 "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"type": "regulation",
+"urls": 0
+},
+{
+"archived": 0,
+"claims": 0,
+"date": null,
+"edges": 9,
+"era": "nd",
+"id": "dodm-5205-07-v1-2015",
+"identifiers": [
+"DoDM 5205.07, Volume 1 (2015)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": 3,
+"node": null,
+"title": "DoDM 5205.07, Volume 1 (2015)",
 "type": "regulation",
 "urls": 0
 },
@@ -3913,22 +4039,6 @@
 "title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
 "type": "document",
 "urls": 2
-},
-{
-"archived": 0,
-"claims": 0,
-"date": "2010-07-01",
-"edges": 0,
-"era": "2",
-"id": "n-dodd-5205-07-2010",
-"identifiers": [],
-"interestedParty": false,
-"issuer": null,
-"listedOn": 0,
-"node": "dodd-5205-07-2010",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
-"type": "regulation",
-"urls": 0
 },
 {
 "archived": 2,

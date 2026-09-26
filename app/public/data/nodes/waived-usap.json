@@ -23,7 +23,7 @@
 "source": "DoD Directive 5205.07, 12 September 2024",
 "sources": [
 {
-"id": "dodd-5205-07",
+"id": "dodd-5205-07-2024",
 "locator": "12 September 2024",
 "title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
@@ -44,7 +44,7 @@
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+"title": "Special Access Program (SAP) Policy (DoDD 5205.07)"
 }
 ],
 "text": "The allegation of a concealed legacy recovery program is, in legal terms, an allegation about a single line of the United States Code: that 10 U.S.C. 119(e) has been used to reduce congressional knowledge of a materials exploitation activity to eight members, or that the activity was never entered into the SAP system at all. Reasoning: those are the only two possibilities the statutory scheme allows.",
@@ -176,12 +176,12 @@
 {
 "id": "dodd-5205-07",
 "locator": "'Special Access Program Policy', effective 12 September 2024, cleared for public release",
-"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+"title": "Special Access Program (SAP) Policy (DoDD 5205.07)"
 },
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+"title": "Special Access Program (SAP) Policy (DoDD 5205.07)"
 }
 ],
 "text": "THE PUBLIC TAXONOMY HAS BEEN NARROWING. DoD Directive 5205.07, 'Special Access Program Policy', was reissued effective 12 September 2024 and cancels the 1 July 2010 version. The full public text of the 2024 directive - purpose, applicability, policy, all thirteen responsibility assignments, the governance section, the complete glossary and the reference list - contains no occurrence of the words 'waived' or 'unacknowledged' at all. The directive that used to define the waived category no longer mentions it; the taxonomy now survives publicly only in the subordinate instruction, DoDI 5205.11. Anyone checking only the directive would conclude the category no longer exists.",
@@ -329,9 +329,9 @@
 "source": "DoDD 5205.07 (2010), para 4.f",
 "sources": [
 {
-"id": "dodd-5205-07",
+"id": "dodd-5205-07-2010",
 "locator": "2010), para 4.f",
-"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
 }
 ],
 "text": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to 'the chair, the ranking minority member, and the staff directors of the defense and intelligence committees'.",

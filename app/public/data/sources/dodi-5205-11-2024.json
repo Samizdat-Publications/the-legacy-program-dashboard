@@ -1,0 +1,55 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "dodi-5205-11-2024",
+"identifiers": [
+"DoDI 5205.11 (2024)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+{
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+{
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+{
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+{
+"cls": "institution",
+"id": "sswg",
+"label": "SAP Senior Working Group (SSWG)"
+},
+{
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+{
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+}
+],
+"node": null,
+"title": "DoDI 5205.11 (2024)",
+"topics": [],
+"type": "regulation",
+"urls": []
+}

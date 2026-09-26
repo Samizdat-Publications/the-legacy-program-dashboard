@@ -1,0 +1,189 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+"claimTier": 1,
+"id": "e-2952deb718",
+"label": "Switches off the only external inspector of a contractor SAP facility",
+"note": "DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-21d563e8c0",
+"label": "Defined verbatim in the SAP Security Manual glossary",
+"note": "'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-b00c154646",
+"label": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
+"note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"claimTier": 3,
+"id": "e-2647e0a23b",
+"label": "Contractor custody without government inspection is the carve-out configuration",
+"note": "Grusch has alleged material held at defence contractors; the carve-out is the documented mechanism by which a contractor SAP facility ceases to receive DCSA inspection, IS accreditation and CI cross-sharing.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-46abea4830",
+"label": "SAP fraud and abuse complaints must not use collateral reporting channels",
+"note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "institution",
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"claimTier": 1,
+"id": "e-0ac0889b58",
+"label": "Single point of congressional liaison for every DoD special access program",
+"note": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval. The office being overseen is notified before the overseer is briefed.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+},
+"b": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"claimTier": 1,
+"id": "e-9639bb02ab",
+"label": "Volume 1 is the general procedures volume of the four-volume manual",
+"note": "DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"b": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"claimTier": 1,
+"id": "e-fb25dff7e3",
+"label": "The manual implements the instruction's policy",
+"note": "DoDM 5205.07 Volume 1 para 1.a(1) states that it 'implements policy established in DoD Instruction (DoDI) 5205.11'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+"claimTier": 3,
+"id": "e-04241abab9",
+"label": "HVSACO and nickname practice describe the paperwork environment Elizondo has described",
+"note": "Elizondo's account of AATIP-era handling turns on material moving in special access channels; DoDM 5205.07-V1 documents HVSACO as the caveat used for unacknowledged SAP nicknames and expressly not a classification.",
+"type": "witness-chain"
+}
+],
+"era": "nd",
+"id": "dodm-5205-07-v1-2015",
+"identifiers": [
+"DoDM 5205.07, Volume 1 (2015)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+{
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP"
+},
+{
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+}
+],
+"node": null,
+"title": "DoDM 5205.07, Volume 1 (2015)",
+"topics": [],
+"type": "regulation",
+"urls": []
+}

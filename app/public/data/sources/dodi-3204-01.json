@@ -4,16 +4,6 @@
 ],
 "claims": [
 {
-"cls": "document",
-"id": "c-a2379cd6ec",
-"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
-"node": "dodi-3204-01",
-"nodeLabel": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
-"sourceText": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
-"text": "IR&D costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable'; reporting is required only of major contractors allocating over $11 million in IR&D and B&P costs, via project summaries reviewed for cost allowability.",
-"tier": 1
-},
-{
 "cls": "person",
 "id": "c-424998f180",
 "locator": null,
@@ -22,16 +12,6 @@
 "sourceText": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
 "text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
 "tier": 3
-},
-{
-"cls": "institution",
-"id": "c-99dd57fc9c",
-"locator": "20 August 2014, incorporating Change 2, 9 July 2020",
-"node": "mcdonnell-douglas",
-"nodeLabel": "McDonnell Douglas Corporation",
-"sourceText": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
-"text": "Corporate independent research and development is recoverable as an indirect expense on covered DoD contracts under DoD Instruction 3204.01, with project reporting required only of contractors allocating more than $11 million in IR&D and bid-and-proposal costs.",
-"tier": 1
 }
 ],
 "date": "2014",
@@ -175,13 +155,6 @@
 },
 "title": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "topics": [
-{
-"claims": [
-"c-a2379cd6ec"
-],
-"id": "named-contractors",
-"title": "Other contractors named in custody claims"
-},
 {
 "claims": [
 "c-424998f180"

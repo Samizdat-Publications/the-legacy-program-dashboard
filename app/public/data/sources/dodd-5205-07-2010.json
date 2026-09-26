@@ -1,0 +1,441 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-52425bf3f8",
+"locator": "2010), Glossary Part II",
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "DoDD 5205.07 (2010), Glossary Part II",
+"text": "DoDD 5205.07 (2010) Glossary: 'operations and support SAP. A SAP established primarily to protect the planning for, execution of, and support to especially sensitive military operations. An operations and support SAP may protect organizations, property, operational concepts, plans, or activities.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-9d9f50eb15",
+"locator": "2010), Glossary Part II",
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "DoDD 5205.07 (2010), Glossary Part II",
+"text": "DoDD 5205.07 (2010) Glossary: 'acquisition SAP. A SAP established to protect sensitive research, development, testing and evaluation, modification, and procurement activities.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-fc48a35ede",
+"locator": "2010) category definitions applied to the alleged activity",
+"node": "sap-taxonomy",
+"nodeLabel": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"sourceText": "DoDD 5205.07 (2010) category definitions applied to the alleged activity",
+"text": "A legacy material-recovery and exploitation effort would map onto the taxonomy as a waived unacknowledged operations and support SAP (recovery and custody of property) with a subordinate acquisition SAP compartment (exploitation and engineering), under a single umbrella. Reasoning: the DoD definitions of operations and support SAP - expressly covering 'property' - and acquisition SAP together describe recovery-plus-reverse-engineering with no strain.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-55381ea35b",
+"locator": "2010) Glossary",
+"node": "carve-out",
+"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sourceText": "DoDD 5205.07 (2010) Glossary; DoDM 5205.07-V1 Enclosure 2 para 2.c; 32 CFR 117.6(b)(3)",
+"text": "The carve-out is approvable only by the Secretary of Defense or the Deputy Secretary of Defense - no delegation to a service secretary, component head or SAPCO director is provided for in DoDD 5205.07 (2010), DoDI 5205.11 or DoDM 5205.07 Volume 1.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6ae63c53c0",
+"locator": "2010), para 4.c",
+"node": "dod-sapco",
+"nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+"sourceText": "DoDD 5205.07 (2010), para 4.c",
+"text": "DoDD 5205.07 (2010) para 4.c: DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-220bbc2a45",
+"locator": "2010) paras 4.c and 4.e",
+"node": "dod-sapco",
+"nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+"sourceText": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
+"text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-02c118197f",
+"locator": "1 July 2010, para 4.e",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, para 4.e",
+"text": "DoDD 5205.07 (2010) para 4.e: 'All personnel accessed to DoD SAPs shall notify the Director, DoD SAPCO, in a timely fashion, when briefing or providing DoD SAP material to any members of Congress or congressional staff. No DoD contractor entity, contractor employee, contractor representative, or consultant shall provide SAP material to any members of Congress or congressional staff without Director, DoD SAPCO, approval.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-29c99f48b5",
+"locator": "1 July 2010, para 4.f",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, para 4.f",
+"text": "DoDD 5205.07 (2010) para 4.f: 'Members of Congress assigned to designated defense and intelligence committees shall be authorized access to DoD SAPs within the respective committee's SAP oversight role, except for waived programs pursuant to Reference (c). Unless approved by the Secretary or Deputy Secretary of Defense, only the chair, the ranking minority member, and the staff directors of the defense and intelligence committees shall be authorized access to waived SAPs within their committee's respective SAP oversight role.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-380aece5de",
+"locator": "1 July 2010, Glossary Part II",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, Glossary Part II",
+"text": "DoDD 5205.07 (2010) Glossary: 'acknowledged SAP. A SAP whose existence is acknowledged but its specific details (technologies, materials, techniques, etc.) are classified as specified in the applicable security classification guide.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-471a73b391",
+"locator": "1 July 2010, Enclosure 2",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, Enclosure 2",
+"text": "DoDD 5205.07 (2010) Enclosure 2 para 5: 'When the Secretary of Defense determines that national security would be adversely affected if SAP data is reported to Congress using standard processes, he or she may designate select unacknowledged SAPs as waived in accordance with Reference (c).'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-643d7f7459",
+"locator": "1 July 2010, para 4.h",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, para 4.h",
+"text": "DoDD 5205.07 (2010) para 4.h: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6d11772d7c",
+"locator": "1 July 2010, Glossary Part II",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, Glossary Part II",
+"text": "DoDD 5205.07 (2010) Glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program obligation to perform industrial security oversight functions for a DoD SAP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bd66c3f498",
+"locator": "1 July 2010, Glossary Part II",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, Glossary Part II",
+"text": "DoDD 5205.07 (2010) Glossary: 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cf27ffa51c",
+"locator": "1 July 2010, Glossary Part II",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "DoDD 5205.07, 1 July 2010, Glossary Part II",
+"text": "DoDD 5205.07 (2010) Glossary: 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-88252132e4",
+"locator": "2010) para 4.e",
+"node": "dodd-5205-07-2010",
+"nodeLabel": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceText": "Structural reading of DoDD 5205.07 (2010) para 4.e",
+"text": "Paragraph 4.e is a documented gag on contractor-to-Congress disclosure: a cleared contractor employee cannot lawfully hand SAP material to a member of Congress without the approval of the Director, DoD SAPCO - the very office whose programs would be the subject of the disclosure. Reasoning: the approval authority and the subject of the disclosure are the same office.",
+"tier": 3
+},
+{
+"cls": "institution",
+"id": "c-e2701038d7",
+"locator": "2010), para 4.b",
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"sourceText": "DoDD 5205.07 (2010), para 4.b",
+"text": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f44dece71a",
+"locator": "2010), Enclosure 2, para 6",
+"node": "sap-annual-report",
+"nodeLabel": "The annual DoD special access program report to Congress",
+"sourceText": "DoDD 5205.07 (2010), Enclosure 2, para 6",
+"text": "DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c).'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-ca59cb35ff",
+"locator": "2010), para 4.f",
+"node": "waived-usap",
+"nodeLabel": "Waived unacknowledged special access program (waived USAP)",
+"sourceText": "DoDD 5205.07 (2010), para 4.f",
+"text": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to 'the chair, the ranking minority member, and the staff directors of the defense and intelligence committees'.",
+"tier": 1
+}
+],
+"date": "2010-07-01",
+"edges": [
+{
+"a": {
+"cls": "legislation",
+"id": "usc-10-119e",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-3763fd95a8",
+"label": "119(e) is the waiver that defines a waived SAP",
+"note": "DoDD 5205.07 (2010) Enclosure 2 para 5 permits the Secretary to 'designate select unacknowledged SAPs as waived in accordance with Reference (c)' - Reference (c) being 10 U.S.C. 119.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-c1da82fed6",
+"label": "The office that must approve any contractor's provision of SAP material to Congress",
+"note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 2,
+"id": "e-d7727a61b5",
+"label": "Grusch's allegation is an allegation about this specific legal category",
+"note": "Grusch's sworn testimony of 26 July 2023 concerned a multi-decade recovery and reverse-engineering effort concealed from Congress; the waived unacknowledged SAP is the only lawful configuration in which DoD reporting is removed from the committees by design.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "institution",
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"claimTier": 1,
+"id": "e-85b46125e0",
+"label": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
+"note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodd-5205-07-2010",
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-414f10a49e",
+"label": "Established DoD SAPCO under the Deputy Secretary of Defense",
+"note": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodd-5205-07-2010",
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+},
+"b": {
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+"claimTier": 1,
+"id": "e-d006b2e958",
+"label": "Established the SAPOC on 1 July 2010",
+"note": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense and the Deputy Secretary of Defense'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "eo-13526",
+"label": "Executive Order 13526 - Classified National Security Information"
+},
+"b": {
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+"claimTier": 1,
+"id": "e-7ef6286d69",
+"label": "All SAP categories descend from a single executive order provision",
+"note": "Section 4.3(a) names the six officials who may create a SAP; the DoD taxonomy of acknowledged, unacknowledged and waived operates entirely below that grant.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "grusch-icig-complaint",
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+},
+"b": {
+"cls": "institution",
+"id": "gang-of-eight",
+"label": "The Gang of Eight and the limited-notification convention"
+},
+"claimTier": 3,
+"id": "e-a5b0ba5ba9",
+"label": "An urgent concern complaint enters a system whose SAP layer is itself compartmented",
+"note": "The ICIG PPD-19 route reaches the intelligence committees, but access to waived DoD programs is restricted by DoDD 5205.07 (2010) para 4.f to chairs, ranking members and staff directors.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "gang-of-eight",
+"label": "The Gang of Eight and the limited-notification convention"
+},
+"b": {
+"cls": "document",
+"id": "dodd-5205-07-2010",
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+},
+"claimTier": 1,
+"id": "e-c7d081dc1a",
+"label": "DoD policy narrows waived-SAP access to chairs, ranking members and staff directors",
+"note": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-300f5334aa",
+"label": "The read-in gate members describe is the policy text of paragraph 4.f",
+"note": "DoDD 5205.07 (2010) para 4.f is the written rule that members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"b": {
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+"claimTier": 1,
+"id": "e-d8c61c7b7c",
+"label": "A waived program is precisely a program removed from the annual report",
+"note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
+"type": "denial"
+}
+],
+"era": "2",
+"id": "dodd-5205-07-2010",
+"identifiers": [
+"DoDD 5205.07 (2010)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+{
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+{
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+{
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+}
+],
+"node": {
+"cls": "document",
+"id": "dodd-5205-07-2010",
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+},
+"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"topics": [
+{
+"claims": [
+"c-52425bf3f8",
+"c-9d9f50eb15",
+"c-fc48a35ede",
+"c-471a73b391",
+"c-6d11772d7c",
+"c-88252132e4"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+},
+{
+"claims": [
+"c-55381ea35b",
+"c-220bbc2a45"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-220bbc2a45"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
+"type": "regulation",
+"urls": []
+}

@@ -1,0 +1,196 @@
+{
+"archived": [],
+"claims": [],
+"date": null,
+"edges": [
+{
+"a": {
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-3f4081218b",
+"label": "Waived is the terminal state of the taxonomy",
+"note": "DoDI 5205.11 defines a waived SAP as 'An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-c6630de025",
+"label": "DoD SAPCO holds the list of carved-out facilities",
+"note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"b": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"claimTier": 1,
+"id": "e-136ae96711",
+"label": "Requested on the SAP approval checklist and recorded in the program file",
+"note": "DoDI 5205.11 Appendix 2 to Enclosure 6 item 11.d requires a 'Contract strategy (carve-out justification if applicable)'; Enclosure 7 requires the signed carve-out approval and the list of carved-out facilities in the program record file.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "sap-cover-mechanisms",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+},
+"b": {
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+"claimTier": 1,
+"id": "e-7f3091a8d6",
+"label": "Congress receives nicknames, not missions",
+"note": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "institution",
+"id": "sswg",
+"label": "SAP Senior Working Group (SSWG)"
+},
+"claimTier": 1,
+"id": "e-924a3f0aaa",
+"label": "Chairs the deconfliction forum at the DoD SAPCO director level",
+"note": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+"claimTier": 1,
+"id": "e-4621acfb67",
+"label": "Makes the SRG the working-level body that reviews every waived program annually",
+"note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dodi-5205-11",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+},
+"b": {
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+"claimTier": 1,
+"id": "e-bd900046fa",
+"label": "Sets SAPOC membership and its annual validation of the congressional report",
+"note": "DoDI 5205.11 Enclosure 3 para 2 lists the eighteen SAPOC positions and assigns it 'an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+"claimTier": 3,
+"id": "e-42c168569d",
+"label": "AARO's search for a concealed program ran against a document AARO did not control",
+"note": "The annual SAP report and the waived-program list are produced by cognizant authorities through DoD SAPCO and validated by the SRG and SAPOC; no AARO authority in statute or directive gives it access to the waived list.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+"b": {
+"cls": "institution",
+"id": "sapoc",
+"label": "Special Access Program Oversight Committee (SAPOC)"
+},
+"claimTier": 1,
+"id": "e-9cf77b75e0",
+"label": "Unanimous SRG recommendations bypass the SAPOC entirely",
+"note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"b": {
+"cls": "institution",
+"id": "srg-dod",
+"label": "Senior Review Group (DoD SAP governance)"
+},
+"claimTier": 1,
+"id": "e-5a5b3fe5e3",
+"label": "Every waived program is reviewed once a year by a named standing body",
+"note": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
+"type": "institutional"
+}
+],
+"era": "nd",
+"id": "dodi-5205-11-2013",
+"identifiers": [
+"DoDI 5205.11 (2013)"
+],
+"interestedParty": false,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+}
+],
+"node": null,
+"title": "DoDI 5205.11 (2013)",
+"topics": [],
+"type": "regulation",
+"urls": []
+}
