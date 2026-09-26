@@ -299,7 +299,9 @@ function fill(c: Ctx, panel: HTMLElement): void {
   const top = first.getBoundingClientRect().top;
   const room = Math.max(240, window.innerHeight - top - 28);
   const perLane = room / c.lanes.length;
-  const chipRowBudget = Math.max(3, Math.min(14, Math.floor((perLane - 30) / ROW_PITCH)));
+  /* at least five rows a lane: with eleven lanes the page scrolls rather than
+     leaving most events behind a count */
+  const chipRowBudget = Math.max(5, Math.min(14, Math.floor((perLane - 30) / ROW_PITCH)));
 
   const era = c.eras.filter((e) => e.id === c.eraId)[0];
   const inEra = c.events.filter((e) => e.era === c.eraId);

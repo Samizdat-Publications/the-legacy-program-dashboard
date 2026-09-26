@@ -1076,12 +1076,15 @@ const POISONS = {
   },
   c15: {
     stops: ['timeline'],
-    what: 'moves one event chip into another strand lane',
+    what: 'moves one event chip into another section lane, relabelled as that lane',
     fn: async (page) => page.evaluate(() => {
-      const packs = document.querySelectorAll('.tl-pack');
-      if (packs.length < 2) return;
-      const chip = packs[0].querySelector('.tl-chip');
-      if (chip) packs[1].appendChild(chip);
+      const packs = Array.prototype.slice.call(document.querySelectorAll('.tl-pack'));
+      const from = packs.find((p) => p.querySelector('.tl-chip'));
+      const to = packs.find((p) => p !== from);
+      if (!from || !to) return;
+      const chip = from.querySelector('.tl-chip');
+      chip.setAttribute('data-section', to.getAttribute('data-section'));
+      to.appendChild(chip);
     }),
   },
   c17: {
