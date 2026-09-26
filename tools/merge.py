@@ -1314,6 +1314,63 @@ def remediate_tiers(people, entities):
     return demotions
 
 
+QUOTE_OPEN = re.compile(r"^['\"\u2018\u201c]")
+
+
+def remediate_interested_party_claims(people, entities):
+    """The interested-party cap, applied through the source registry (phase 8).
+
+    tier1_cap_reason() sees an interested party only when the claim's own string
+    carries its URL. A claim cited to "AARO Historical Record Report Volume 1,
+    p.22" names no aaro.mil URL, so until the registry existed the cap never
+    reached it: 68 such Tier 1 claims were found on the first pass. The registry
+    (research/_sources.json, research/_claim_sources.json, both written by
+    tools/build_source_registry.py from the previous build) knows which source a
+    string names and whether that source is the office's own.
+
+    So: a Tier 1 claim whose EVERY registry source is an interested party keeps
+    Tier 1 only when it is about what that party said (the attribution words
+    above, or a claim that opens by quoting it), or when research/
+    _source_decisions.json `tierAdjudications` records why it stands. Otherwise
+    it is Tier 2, flagged in place like every other demotion. verify.py restates
+    the rule over the shipped registry."""
+    base = os.path.join(RESEARCH)
+    try:
+        with open(os.path.join(base, "_sources.json"), encoding="utf-8") as f:
+            ip = {x["id"] for x in json.load(f)["sources"] if x.get("interestedParty")}
+        with open(os.path.join(base, "_claim_sources.json"), encoding="utf-8") as f:
+            cmap = json.load(f).get("claims") or {}
+    except (OSError, ValueError, KeyError):
+        return 0
+    adj = {}
+    p = os.path.join(base, "_source_decisions.json")
+    if os.path.exists(p):
+        with open(p, encoding="utf-8") as f:
+            adj = json.load(f).get("tierAdjudications") or {}
+    n_dem = 0
+    for n in list(people.values()) + list(entities.values()):
+        for c in n.get("claims", []):
+            if c.get("tier") != 1:
+                continue
+            cid = claim_id(n["id"], c["text"])
+            rows = cmap.get(cid) or []
+            if not rows or not all(r.get("source") in ip for r in rows):
+                continue
+            t = c.get("text") or ""
+            if ATTRIBUTION_PAT.search(t) or QUOTE_OPEN.match(t) or cid in adj:
+                continue
+            why = ("sourced only to an interested party (AARO/DoD) in the source registry, "
+                   "asserting an external fact; primary record of the statement, not of the fact")
+            c["tier"] = 2
+            if "needs primary" not in c["source"].lower():
+                # a spaced hyphen, not the em dash the older passes wrote: the
+                # board carries no new em dash (DEMOTION_NOTE reads either)
+                c["source"] = f"{c['source']} - DEMOTED from Tier 1 ({why}); needs primary replacement"
+            demotions.append({"id": n["id"], "why": why, "claim": c["text"][:110]})
+            n_dem += 1
+    return n_dem
+
+
 edge_demotions = []
 removed_claims = []   # claims a _corrections.json removeClaims rule took off the board
 date_conflicts = []   # entities two files date differently, where neither is coarser
@@ -1757,6 +1814,7 @@ def main():
     board_notes = route_board_notes(people, entities)
     hoisted = hoist_claim_urls(people, entities)
     remediate_tiers(people, entities)
+    remediate_interested_party_claims(people, entities)
     remediate_edge_tiers(edges)
     remediate_interested_party_edges(edges, load_edge_adjudications())
     # Last, once every claim text and edge label is final: nothing after this

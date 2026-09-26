@@ -3369,8 +3369,10 @@ def _sources_interested_party(b):
     the source it resolves to is the office's own. (1) A source carrying an
     interested-party URL (aaro.mil, defense.gov, war.gov, ...) is marked
     interestedParty. (2) A Tier 1 claim whose every source is an interested party is
-    about what that party said (merge.py's attribution words), or carries a recorded
-    adjudication in research/_source_decisions.json `tierAdjudications`."""
+    about what that party said (merge.py's attribution words, or it opens by quoting
+    the party), or carries a recorded adjudication in research/_source_decisions.json
+    `tierAdjudications`. merge.py applies the same rule through the registry
+    (remediate_interested_party_claims)."""
     from merge import INTERESTED_PARTY_PAT as IPP, ATTRIBUTION_PAT as ATT
     reg, cs, dec = _sources_docs()
     if reg is None or cs is None:
@@ -3389,7 +3391,8 @@ def _sources_interested_party(b):
         if not c or c.get("tier") != 1 or not rows:
             continue
         if all((by.get(r["source"]) or {}).get("interestedParty") for r in rows) \
-                and not ATT.search(c.get("text") or ""):
+                and not ATT.search(c.get("text") or "") \
+                and not re.match("^['\"‘“]", c.get("text") or ""):
             why = (adj.get(cid) or {}).get("why")
             if not why:
                 bad.append(f"{cid}: Tier 1 on interested-party sources only "
@@ -4111,6 +4114,7 @@ def self_test():
         adj = (docs[2].get("tierAdjudications") or {})
         c = next(c for n in rb["people"] + rb["entities"] for c in n.get("claims") or []
                  if c.get("tier") == 1 and not ATT.search(c.get("text") or "")
+                 and not re.match("^['\"‘“]", c.get("text") or "")
                  and c["id"] not in adj)
         docs[1]["unresolved"].pop(c["id"], None)
         docs[1]["claims"][c["id"]] = [{"source": ip, "locator": None, "by": "poison"}]
